@@ -75,19 +75,30 @@ async function live(){const el=$('live-body');if(!el)return;let d;try{d=await J(
  clearTimeout(liveTimer);if(state==='in'||d.window)liveTimer=setTimeout(()=>{if(location.hash.startsWith('#/live'))live();},20000);}
 
 // ---------- Pick'em + Trivia ----------
-function play(){const el=$('play-body'),p=X.pick,h=X.hist;if(!el||!p)return;const key='sd_picks_'+p.season+'_w'+p.week;const picks=JSON.parse(localStorage.getItem(key)||'{}');
- let right=0,done=0;p.games.forEach(g=>{if(g.completed&&picks[g.id]){done++;const w=g.home.winner?g.home.abbr:g.away.winner?g.away.abbr:null;if(w===picks[g.id])right++;}});
+function play(){const el=$('play-body'),p=X.pick,h=X.hist;if(!el||!p)return;const key='sd_picks_'+p.season+'_w'+p.week,skey=key+'_saved';
+ const saved=JSON.parse(localStorage.getItem(key)||'{}');if(!X.draftPicks||X.draftKey!==key){X.draftPicks=Object.assign({},saved);X.draftKey=key;}const picks=X.draftPicks;
+ const isLocked=g=>g.state!=='pre'||new Date(g.date)<=new Date();
+ const open=p.games.filter(g=>!isLocked(g)),made=open.filter(g=>picks[g.id]).length;
+ const dirty=JSON.stringify(Object.keys(picks).filter(k=>picks[k]).sort().map(k=>k+picks[k]))!==JSON.stringify(Object.keys(saved).filter(k=>saved[k]).sort().map(k=>k+saved[k]));
+ const savedAt=localStorage.getItem(skey);
+ let right=0,done=0;p.games.forEach(g=>{if(g.completed&&saved[g.id]){done++;const w=g.home.winner?g.home.abbr:g.away.winner?g.away.abbr:null;if(w===saved[g.id])right++;}});
  const tq=h&&h.trivia.length?h.trivia[Math.floor((Date.now()-new Date('2026-01-01'))/864e5)%h.trivia.length]:null;
  const tkey='sd_trivia_'+new Date().toLocaleDateString('en-CA',{timeZone:'America/New_York'});const ans=localStorage.getItem(tkey);
- el.innerHTML=`<p class="page-sub">Play now. Picks and answers are saved <b>only on this device</b> until member accounts launch, then they'll count toward the leaderboard.</p>
+ const status=X.pkMsg?X.pkMsg:(savedAt&&!dirty?`✅ <b>Picks saved</b> on this device (${new Date(savedAt).toLocaleString('en-US',{timeZone:'America/New_York',weekday:'short',hour:'numeric',minute:'2-digit'})} ET). You can change them until each game kicks off. Just tap a new team and hit Save again.`:dirty?'You have unsaved changes. Hit <b>Save my picks</b> to keep them.':'Pick as many games as you like, then hit <b>Save my picks</b>. Games that already started are locked and not required.');
+ const bar=`<div class="box pk-save" style="position:sticky;bottom:calc(8px + var(--cb,0px));z-index:5;display:flex;flex-wrap:wrap;gap:8px;align-items:center;justify-content:space-between"><span><b>${made}/${open.length}</b> open games picked</span><button type="button" class="btn pk-submit" ${made&&(dirty||!savedAt)?'':'disabled'}>${savedAt&&!dirty?'Picks saved ✓':'Save my picks'}</button><p class="fine pk-msg" role="status" style="flex-basis:100%;margin:0">${status}</p></div>`;
+ el.innerHTML=`<p class="page-sub">Play now. Picks are saved <b>only on this device</b> for now. When free member accounts launch, saved picks will count toward a leaderboard.</p>
  <div class="play-grid"><section><h2 class="section-title">Week ${p.week} pick'em</h2>
- <p class="fine">Tap the team you think wins. Picks lock at kickoff. ${done?`You're <b>${right}/${done}</b> on finished games.`:''}</p>
- <div class="picks">${p.games.map(g=>{const locked=g.state!=='pre';const pk=picks[g.id];return`<div class="box pick${locked?' locked':''}"><small>${g.state==='pre'?et(g.date,{weekday:'short',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})+' ET':E(g.detail)}</small>
-  <div class="pick-row">${['away','home'].map(s=>{const t=g[s];return`<button type="button" class="pk${pk===t.abbr?' on':''}${t.winner?' won':''}" data-g="${g.id}" data-t="${t.abbr}" ${locked?'disabled':''}><b>${E(t.abbr)}</b><small>${E(t.record||'')}</small>${g.state!=='pre'?`<span>${E(t.score)}</span>`:''}</button>`}).join('<span class="at">@</span>')}</div></div>`}).join('')}</div></section>
+ <p class="fine">Tap the team you think wins, then save. Picks lock at kickoff. ${done?`You're <b>${right}/${done}</b> on finished games.`:''}</p>
+ <div class="picks">${p.games.map(g=>{const locked=isLocked(g);const pk=locked?saved[g.id]:picks[g.id];return`<div class="box pick${locked?' locked':''}"><small>${!locked?et(g.date,{weekday:'short',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})+' ET':E(g.state==='pre'?'Locked (kicked off)':g.detail)}</small>
+  <div class="pick-row">${['away','home'].map(s=>{const t=g[s];return`<button type="button" class="pk${pk===t.abbr?' on':''}${t.winner?' won':''}" data-g="${g.id}" data-t="${t.abbr}" ${locked?'disabled':''}><b>${E(t.abbr)}</b><small>${E(t.record||'')}</small>${g.state!=='pre'?`<span>${E(t.score)}</span>`:''}</button>`}).join('<span class="at">@</span>')}</div></div>`}).join('')}</div>${bar}</section>
  <section><h2 class="section-title">Daily trivia</h2>${tq?`<div class="box trivia"><p class="tq">${E(tq.q)}</p><div class="topts">${tq.options.map(o=>`<button type="button" class="topt${ans?(o===tq.a?' right':o===ans?' wrong':''):''}" data-a="${E(o)}" ${ans?'disabled':''}>${E(o)}</button>`).join('')}</div>
   ${ans?`<p>${ans===tq.a?'✅ Correct!':'❌ The answer is <b>'+E(tq.a)+'</b>.'} ${tq.explain?E(tq.explain)+'.':''}</p><p class="fine">Source: ${tq.link?`<a href="${E(tq.link)}" ${EXT}>${E(tq.source)}</a>`:E(tq.source)}. New question tomorrow.</p>`:''}</div>`:'<p class="fine">Loading trivia…</p>'}
- <h2 class="section-title">Leaderboard</h2><div class="box"><p class="fine">The leaderboard opens when member accounts launch. No scores are shown until real players exist.</p></div></section></div>`;
- el.onclick=e=>{const b=e.target.closest('.pk');if(b&&!b.disabled){picks[b.dataset.g]=b.dataset.t;localStorage.setItem(key,JSON.stringify(picks));play();}
+ <h2 class="section-title">Leaderboard</h2><div class="box"><p class="fine">The leaderboard opens when free member accounts launch. No scores are shown until real players exist.</p></div></section></div>`;
+ X.pkMsg=null;
+ el.onclick=e=>{const b=e.target.closest('.pk');if(b&&!b.disabled){const g=p.games.find(x=>x.id===b.dataset.g);if(g&&isLocked(g)){play();return;}picks[b.dataset.g]=picks[b.dataset.g]===b.dataset.t?undefined:b.dataset.t;play();return;}
+  const sb=e.target.closest('.pk-submit');if(sb&&!sb.disabled){const keep={};p.games.forEach(g=>{if(isLocked(g)){if(saved[g.id])keep[g.id]=saved[g.id];}else if(picks[g.id])keep[g.id]=picks[g.id];});
+   try{localStorage.setItem(key,JSON.stringify(keep));localStorage.setItem(skey,new Date().toISOString());X.draftPicks=Object.assign({},keep);}catch(err){X.pkMsg='⚠️ Your browser blocked saving (private browsing may do this). Try a regular browser window.';}
+   play();return;}
   const t=e.target.closest('.topt');if(t&&!t.disabled){localStorage.setItem(tkey,t.dataset.a);play();}};}
 
 // ---------- History ----------
