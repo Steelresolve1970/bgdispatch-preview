@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T22:40:38.731137+00:00",
+ "generated": "2026-10-17T22:57:47.866189+00:00",
  "draft_year": 2027,
  "steelers_picks": [
   {
@@ -26,41 +26,14 @@
    "prospects": [
     {
      "rank": 1,
-     "name": "Arch Manning",
-     "pos": "QB",
-     "school": "Texas",
-     "cls": "Jr",
-     "grade": 95.0,
-     "tier": "1st round",
-     "line": "1,298 pass yds, 11 TD, 5 INT this season",
-     "snippet": "1,298 pass yds, 11 TD, 5 INT this season; 5-star recruit; top-15% producer at his position in our data; on our Steelers watch list.",
-     "season": "107/167, 1,298 pass yds, 11 TD, 5 INT; 48 rush, 99 yds",
-     "availability": [
-      {
-       "round": 1,
-       "overall": 22,
-       "pct": 0,
-       "label": "Very unlikely"
-      },
-      {
-       "round": 2,
-       "overall": 54,
-       "pct": 0,
-       "label": "Very unlikely"
-      }
-     ],
-     "realistic": false
-    },
-    {
-     "rank": 2,
      "name": "Dante Moore",
      "pos": "QB",
      "school": "Oregon",
      "cls": "Jr",
-     "grade": 93.1,
+     "grade": 95.0,
      "tier": "1st round",
      "line": "926 pass yds, 9 TD, 0 INT this season",
-     "snippet": "926 pass yds, 9 TD, 0 INT this season; 5-star recruit; on our Steelers watch list.",
+     "snippet": "926 pass yds, 9 TD, 0 INT this season; 5-star recruit; on our Steelers watch list. Our scouts: Big frame and arm with real upside; uneven 2026 and a concussion keep him from being a lock.",
      "season": "69/99, 926 pass yds, 9 TD, 0 INT; 10 rush, -7 yds",
      "availability": [
       {
@@ -79,21 +52,21 @@
      "realistic": false
     },
     {
-     "rank": 4,
-     "name": "Conner Weigman",
+     "rank": 6,
+     "name": "Darian Mensah",
      "pos": "QB",
-     "school": "Houston",
-     "cls": "Sr",
-     "grade": 91.4,
+     "school": "Miami",
+     "cls": "Jr",
+     "grade": 92.2,
      "tier": "1st round",
-     "line": "1,427 pass yds, 15 TD, 1 INT this season",
-     "snippet": "1,427 pass yds, 15 TD, 1 INT this season; 5-star recruit; top-15% producer at his position in our data.",
-     "season": null,
+     "line": "1,438 pass yds, 15 TD, 0 INT this season",
+     "snippet": "1,438 pass yds, 15 TD, 0 INT this season; 2-star recruit; top-15% producer at his position in our data; on our Steelers watch list. Our scouts: Elite accuracy and timing on three straight productive college stops; arm strength and frame are the questions.",
+     "season": "112/133, 1,438 pass yds, 15 TD, 0 INT; 12 rush, 79 yds, 2 TD",
      "availability": [
       {
        "round": 1,
        "overall": 22,
-       "pct": 0,
+       "pct": 2,
        "label": "Very unlikely"
       },
       {
@@ -106,81 +79,108 @@
      "realistic": false
     },
     {
-     "rank": 29,
-     "name": "Katin Houser",
+     "rank": 9,
+     "name": "Drew Mestemaker",
      "pos": "QB",
-     "school": "Illinois",
+     "school": "Oklahoma State",
+     "cls": "RS-So",
+     "grade": 90.8,
+     "tier": "1st round",
+     "line": "1,575 pass yds, 13 TD, 5 INT this season",
+     "snippet": "1,575 pass yds, 13 TD, 5 INT this season; 5-star transfer; top-15% producer at his position in our data; on our Steelers watch list. Our scouts: Late bloomer with a big arm and good pocket patience; short track record.",
+     "season": "114/169, 1,575 pass yds, 13 TD, 5 INT; 15 rush, 108 yds, 2 TD",
+     "availability": [
+      {
+       "round": 1,
+       "overall": 22,
+       "pct": 7,
+       "label": "Very unlikely"
+      },
+      {
+       "round": 2,
+       "overall": 54,
+       "pct": 0,
+       "label": "Very unlikely"
+      }
+     ],
+     "realistic": false
+    },
+    {
+     "rank": 31,
+     "name": "Trinidad Chambliss",
+     "pos": "QB",
+     "school": "Ole Miss",
      "cls": "Sr",
      "grade": 85.5,
      "tier": "1st round",
-     "line": "1,440 pass yds, 12 TD, 4 INT this season",
-     "snippet": "1,440 pass yds, 12 TD, 4 INT this season; 4-star recruit; top-15% producer at his position in our data.",
+     "line": "1,435 pass yds, 11 TD, 4 INT this season",
+     "snippet": "1,435 pass yds, 11 TD, 4 INT this season; 3-star transfer; top-15% producer at his position in our data. Our scouts: Creative playmaker with a live arm; age and smaller build will cap where he goes.",
      "season": null,
      "availability": [
       {
        "round": 1,
        "overall": 22,
-       "pct": 68,
+       "pct": 72,
        "label": "Likely there"
       },
       {
        "round": 2,
        "overall": 54,
-       "pct": 6,
+       "pct": 9,
        "label": "Very unlikely"
       }
      ],
      "realistic": true
     },
     {
-     "rank": 33,
-     "name": "Nico Iamaleava",
+     "rank": 39,
+     "name": "Gunner Stockton",
      "pos": "QB",
-     "school": "UCLA",
-     "cls": "Jr",
-     "grade": 84.9,
+     "school": "Georgia",
+     "cls": "Sr",
+     "grade": 84.0,
      "tier": "Day 2",
-     "line": "982 pass yds, 4 TD, 4 INT this season",
-     "snippet": "982 pass yds, 4 TD, 4 INT this season; 5-star recruit.",
+     "line": "1,298 pass yds, 14 TD, 2 INT this season",
+     "snippet": "1,298 pass yds, 14 TD, 2 INT this season; 4-star recruit; top-15% producer at his position in our data. Our scouts: Tough, efficient game manager; average tools for the NFL.",
      "season": null,
      "availability": [
       {
        "round": 1,
        "overall": 22,
-       "pct": 75,
+       "pct": 81,
        "label": "Likely there"
       },
       {
        "round": 2,
        "overall": 54,
-       "pct": 12,
+       "pct": 23,
        "label": "Long shot"
       }
      ],
      "realistic": true
     },
     {
-     "rank": 47,
-     "name": "Jayden Maiava",
+     "rank": 51,
+     "name": "LaNorris Sellers",
      "pos": "QB",
-     "school": "USC",
-     "cls": "Sr",
-     "grade": 83.9,
+     "school": "South Carolina",
+     "cls": "Jr",
+     "grade": 81.1,
      "tier": "Day 2",
-     "line": "2,045 pass yds, 18 TD, 3 INT this season",
-     "snippet": "2,045 pass yds, 18 TD, 3 INT this season; 3-star recruit; top-15% producer at his position in our data.",
+     "line": "1,338 pass yds, 12 TD, 4 INT this season",
+     "snippet": "1,338 pass yds, 12 TD, 4 INT this season; 4-star recruit. Our scouts: Rare runner and big arm at QB; accuracy and reads still inconsistent.",
      "season": null,
      "availability": [
       {
        "round": 1,
        "overall": 22,
-       "pct": 87,
+       "pct": 89,
        "label": "Likely there"
       },
       {
        "round": 2,
        "overall": 54,
-       "pct": 39,
+       "pct": 46,
        "label": "Toss-up"
       }
      ],
@@ -200,15 +200,15 @@
    "prospects": [
     {
      "rank": 7,
-     "name": "Ellis Robinson IV",
+     "name": "Leonard Moore",
      "pos": "CB",
-     "school": "Georgia",
+     "school": "Notre Dame",
      "cls": "Jr",
-     "grade": 90.9,
+     "grade": 92.0,
      "tier": "1st round",
-     "line": "13 tackles, 0 TFL, 0 sacks, 1 INT, 3 PD",
-     "snippet": "13 tackles, 0 TFL, 0 sacks, 1 INT, 3 PD; 5-star recruit; top-15% producer at his position in our data; on our Steelers watch list.",
-     "season": "13 tackles, 1 INT, 3 PD",
+     "line": "8 tackles, 0 TFL, 0 sacks, 4 PD",
+     "snippet": "8 tackles, 0 TFL, 0 sacks, 4 PD; 4-star recruit; top-15% producer at his position in our data; on our Steelers watch list. Our scouts: Sticky press-man corner who rarely gets targeted; recent concussion worth watching.",
+     "season": "8 tackles, 4 PD",
      "availability": [
       {
        "round": 1,
@@ -227,15 +227,15 @@
     },
     {
      "rank": 11,
-     "name": "Peyton Bowen",
+     "name": "Ellis Robinson IV",
      "pos": "CB",
-     "school": "Oklahoma",
-     "cls": "Sr",
-     "grade": 88.2,
+     "school": "Georgia",
+     "cls": "Jr",
+     "grade": 90.5,
      "tier": "1st round",
-     "line": "24 tackles, 2.5 TFL, 1 sacks, 1 INT, 4 PD",
-     "snippet": "24 tackles, 2.5 TFL, 1 sacks, 1 INT, 4 PD; 5-star recruit; top-15% producer at his position in our data.",
-     "season": null,
+     "line": "13 tackles, 0 TFL, 0 sacks, 1 INT, 3 PD",
+     "snippet": "13 tackles, 0 TFL, 0 sacks, 1 INT, 3 PD; 5-star recruit; top-15% producer at his position in our data; on our Steelers watch list. Our scouts: Fluid, ball-hawking corner; slight frame is the main knock.",
+     "season": "13 tackles, 1 INT, 3 PD",
      "availability": [
       {
        "round": 1,
@@ -253,21 +253,21 @@
      "realistic": false
     },
     {
-     "rank": 19,
+     "rank": 23,
      "name": "Kelley Jones",
      "pos": "CB",
      "school": "Mississippi State",
      "cls": "Sr",
-     "grade": 86.9,
+     "grade": 86.8,
      "tier": "1st round",
      "line": "21 tackles, 1.5 TFL, 0 sacks, 6 PD",
-     "snippet": "21 tackles, 1.5 TFL, 0 sacks, 6 PD; 4-star recruit; top-15% producer at his position in our data; on our Steelers watch list.",
+     "snippet": "21 tackles, 1.5 TFL, 0 sacks, 6 PD; 4-star recruit; top-15% producer at his position in our data; on our Steelers watch list. Our scouts: Long corner with ball production; needs to tighten up his technique.",
      "season": "21 tackles, 6 PD",
      "availability": [
       {
        "round": 1,
        "overall": 22,
-       "pct": 40,
+       "pct": 55,
        "label": "Toss-up"
       },
       {
@@ -281,15 +281,15 @@
     },
     {
      "rank": 27,
-     "name": "Jermaine Mathews Jr.",
+     "name": "Ashton Hampton",
      "pos": "CB",
-     "school": "Ohio State",
-     "cls": "Sr",
-     "grade": 85.6,
+     "school": "Clemson",
+     "cls": "Jr",
+     "grade": 86.1,
      "tier": "1st round",
-     "line": "27 tackles, 1.5 TFL, 0 sacks, 5 PD",
-     "snippet": "27 tackles, 1.5 TFL, 0 sacks, 5 PD; 4-star recruit; top-15% producer at his position in our data.",
-     "season": null,
+     "line": "19 tackles, 2 TFL, 0 sacks, 1 INT, 9 PD",
+     "snippet": "19 tackles, 2 TFL, 0 sacks, 1 INT, 9 PD; 3-star recruit; top-15% producer at his position in our data; on our Steelers watch list. Our scouts: Physical corner with good size; consistency is the next step.",
+     "season": "19 tackles, 1 INT, 9 PD",
      "availability": [
       {
        "round": 1,
@@ -307,54 +307,54 @@
      "realistic": true
     },
     {
-     "rank": 28,
-     "name": "Ashton Hampton",
+     "rank": 40,
+     "name": "Peyton Bowen",
      "pos": "CB",
-     "school": "Clemson",
-     "cls": "Jr",
-     "grade": 85.5,
-     "tier": "1st round",
-     "line": "19 tackles, 2 TFL, 0 sacks, 1 INT, 9 PD",
-     "snippet": "19 tackles, 2 TFL, 0 sacks, 1 INT, 9 PD; 3-star recruit; top-15% producer at his position in our data; on our Steelers watch list.",
-     "season": "19 tackles, 1 INT, 9 PD",
-     "availability": [
-      {
-       "round": 1,
-       "overall": 22,
-       "pct": 70,
-       "label": "Likely there"
-      },
-      {
-       "round": 2,
-       "overall": 54,
-       "pct": 2,
-       "label": "Very unlikely"
-      }
-     ],
-     "realistic": true
-    },
-    {
-     "rank": 37,
-     "name": "Zabien Brown",
-     "pos": "CB",
-     "school": "Alabama",
-     "cls": "Jr",
-     "grade": 84.6,
+     "school": "Oklahoma",
+     "cls": "Sr",
+     "grade": 84.0,
      "tier": "Day 2",
-     "line": "17 tackles, 0 TFL, 0 sacks, 4 PD",
-     "snippet": "17 tackles, 0 TFL, 0 sacks, 4 PD; 5-star recruit; top-15% producer at his position in our data.",
+     "line": "24 tackles, 2.5 TFL, 1 sacks, 1 INT, 4 PD",
+     "snippet": "24 tackles, 2.5 TFL, 1 sacks, 1 INT, 4 PD; 5-star recruit; top-15% producer at his position in our data. Our scouts: Instinctive, experienced DB with good ball production.",
      "season": null,
      "availability": [
       {
        "round": 1,
        "overall": 22,
-       "pct": 85,
+       "pct": 88,
        "label": "Likely there"
       },
       {
        "round": 2,
        "overall": 54,
-       "pct": 14,
+       "pct": 20,
+       "label": "Long shot"
+      }
+     ],
+     "realistic": true
+    },
+    {
+     "rank": 44,
+     "name": "Zabien Brown",
+     "pos": "CB",
+     "school": "Alabama",
+     "cls": "Jr",
+     "grade": 83.4,
+     "tier": "Day 2",
+     "line": "17 tackles, 0 TFL, 0 sacks, 4 PD",
+     "snippet": "17 tackles, 0 TFL, 0 sacks, 4 PD; 5-star recruit; top-15% producer at his position in our data. Our scouts: Instinctive corner with ball skills; needs more size.",
+     "season": null,
+     "availability": [
+      {
+       "round": 1,
+       "overall": 22,
+       "pct": 90,
+       "label": "Likely there"
+      },
+      {
+       "round": 2,
+       "overall": 54,
+       "pct": 29,
        "label": "Long shot"
       }
      ],
@@ -372,22 +372,22 @@
    ],
    "prospects": [
     {
-     "rank": 20,
+     "rank": 14,
      "name": "KJ Bolden",
      "pos": "S",
      "school": "Georgia",
      "cls": "Jr",
-     "grade": 86.5,
+     "grade": 89.5,
      "tier": "1st round",
      "line": "22 tackles, 2 TFL, 0.5 sacks, 1 INT, 2 PD",
-     "snippet": "22 tackles, 2 TFL, 0.5 sacks, 1 INT, 2 PD; 5-star recruit; top-15% producer at his position in our data; on our Steelers watch list.",
+     "snippet": "22 tackles, 2 TFL, 0.5 sacks, 1 INT, 2 PD; 5-star recruit; top-15% producer at his position in our data; on our Steelers watch list. Our scouts: Rangy, physical safety who can play deep or in the box.",
      "season": "22 tackles, 0.5 sacks, 1 INT, 2 PD",
      "availability": [
       {
        "round": 1,
        "overall": 22,
-       "pct": 45,
-       "label": "Toss-up"
+       "pct": 20,
+       "label": "Long shot"
       },
       {
        "round": 2,
@@ -399,28 +399,28 @@
      "realistic": false
     },
     {
-     "rank": 63,
-     "name": "Kamari Wilson",
+     "rank": 42,
+     "name": "Brauntae Johnson",
      "pos": "S",
-     "school": "West Virginia",
-     "cls": "Sr",
-     "grade": 82.6,
+     "school": "Notre Dame",
+     "cls": "RS-So",
+     "grade": 83.7,
      "tier": "Day 2",
-     "line": "34 tackles, 0.5 TFL, 0 sacks, 1 INT, 1 PD",
-     "snippet": "34 tackles, 0.5 TFL, 0 sacks, 1 INT, 1 PD; 4-star recruit; top-15% producer at his position in our data.",
+     "line": "1 tackles, 0 TFL, 0 sacks, 1 PD",
+     "snippet": "1 tackles, 0 TFL, 0 sacks, 1 PD; 4-star recruit; on our Steelers watch list. Our scouts: Versatile safety who reads plays quickly; limited 2026 data so far.",
      "season": null,
      "availability": [
       {
        "round": 1,
        "overall": 22,
-       "pct": 95,
+       "pct": 87,
        "label": "Likely there"
       },
       {
        "round": 2,
        "overall": 54,
-       "pct": 65,
-       "label": "Likely there"
+       "pct": 26,
+       "label": "Long shot"
       }
      ],
      "realistic": false
@@ -431,7 +431,7 @@
      "pos": "S",
      "school": "Texas",
      "cls": "Sr",
-     "grade": 82.3,
+     "grade": 79.2,
      "tier": "Day 2",
      "line": "42 tackles, 3 TFL, 0 sacks, 2 PD",
      "snippet": "42 tackles, 3 TFL, 0 sacks, 2 PD; 4-star recruit; top-15% producer at his position in our data.",
@@ -453,12 +453,12 @@
      "realistic": false
     },
     {
-     "rank": 87,
+     "rank": 99,
      "name": "Earl Little Jr.",
      "pos": "S",
      "school": "Ohio State",
      "cls": "Sr",
-     "grade": 81.4,
+     "grade": 77.1,
      "tier": "Day 2",
      "line": "38 tackles, 0 TFL, 0 sacks, 4 PD",
      "snippet": "38 tackles, 0 TFL, 0 sacks, 4 PD; 4-star recruit; top-15% producer at his position in our data.",
@@ -473,23 +473,23 @@
       {
        "round": 2,
        "overall": 54,
-       "pct": 84,
+       "pct": 89,
        "label": "Likely there"
       }
      ],
      "realistic": true
     },
     {
-     "rank": 92,
-     "name": "Kingston Lopa",
+     "rank": 107,
+     "name": "Koi Perich",
      "pos": "S",
-     "school": "California",
+     "school": "Oregon",
      "cls": "Jr",
-     "grade": 81.3,
-     "tier": "Day 2",
-     "line": "27 tackles, 1 TFL, 0 sacks, 5 INT, 1 PD",
-     "snippet": "27 tackles, 1 TFL, 0 sacks, 5 INT, 1 PD; 4-star recruit; top-15% producer at his position in our data; on our Steelers watch list.",
-     "season": "27 tackles, 5 INT, 1 PD",
+     "grade": 76.9,
+     "tier": "Day 3",
+     "line": "34 tackles, 0 TFL, 0 sacks, 2 INT, 1 PD",
+     "snippet": "34 tackles, 0 TFL, 0 sacks, 2 INT, 1 PD",
+     "season": null,
      "availability": [
       {
        "round": 1,
@@ -500,23 +500,23 @@
       {
        "round": 2,
        "overall": 54,
-       "pct": 87,
+       "pct": 91,
        "label": "Likely there"
       }
      ],
      "realistic": true
     },
     {
-     "rank": 110,
-     "name": "Zach Lutmer",
+     "rank": 117,
+     "name": "Bray Hubbard",
      "pos": "S",
-     "school": "Iowa",
+     "school": "Alabama",
      "cls": "Sr",
-     "grade": 80.7,
+     "grade": 76.6,
      "tier": "Day 3",
-     "line": "34 tackles, 0.5 TFL, 0 sacks, 4 PD",
-     "snippet": "34 tackles, 0.5 TFL, 0 sacks, 4 PD",
-     "season": "34 tackles, 4 PD",
+     "line": "27 tackles, 0.5 TFL, 0 sacks, 2 INT, 1 PD",
+     "snippet": "27 tackles, 0.5 TFL, 0 sacks, 2 INT, 1 PD",
+     "season": null,
      "availability": [
       {
        "round": 1,
@@ -527,7 +527,7 @@
       {
        "round": 2,
        "overall": 54,
-       "pct": 92,
+       "pct": 93,
        "label": "Likely there"
       }
      ],
@@ -545,48 +545,21 @@
    ],
    "prospects": [
     {
-     "rank": 14,
+     "rank": 25,
      "name": "Sammy Brown",
      "pos": "LB",
      "school": "Clemson",
      "cls": "Jr",
-     "grade": 87.1,
+     "grade": 86.4,
      "tier": "1st round",
      "line": "40 tackles, 1.5 TFL, 1 sacks, 1 PD",
-     "snippet": "40 tackles, 1.5 TFL, 1 sacks, 1 PD; 5-star recruit; top-15% producer at his position in our data; on our Steelers watch list.",
+     "snippet": "40 tackles, 1.5 TFL, 1 sacks, 1 PD; 5-star recruit; top-15% producer at his position in our data; on our Steelers watch list. Our scouts: Fast, physical linebacker who makes plays behind the line.",
      "season": "40 tackles, 1 sack, 1 PD",
      "availability": [
       {
        "round": 1,
        "overall": 22,
-       "pct": 20,
-       "label": "Long shot"
-      },
-      {
-       "round": 2,
-       "overall": 54,
-       "pct": 0,
-       "label": "Very unlikely"
-      }
-     ],
-     "realistic": false
-    },
-    {
-     "rank": 24,
-     "name": "Chris Cole",
-     "pos": "LB",
-     "school": "Georgia",
-     "cls": "Jr",
-     "grade": 85.6,
-     "tier": "1st round",
-     "line": "30 tackles, 7 TFL, 2.5 sacks, 3 PD",
-     "snippet": "30 tackles, 7 TFL, 2.5 sacks, 3 PD; 5-star recruit; top-15% producer at his position in our data; on our Steelers watch list.",
-     "season": "30 tackles, 2.5 sacks, 3 PD, 2 FR",
-     "availability": [
-      {
-       "round": 1,
-       "overall": 22,
-       "pct": 58,
+       "pct": 61,
        "label": "Toss-up"
       },
       {
@@ -599,96 +572,42 @@
      "realistic": false
     },
     {
-     "rank": 57,
-     "name": "Yhonzae Pierre",
+     "rank": 26,
+     "name": "Chris Cole",
      "pos": "LB",
-     "school": "Alabama",
-     "cls": "Sr",
-     "grade": 82.9,
-     "tier": "Day 2",
-     "line": "18 tackles, 3.5 TFL, 2.5 sacks, 1 INT, 3 PD",
-     "snippet": "18 tackles, 3.5 TFL, 2.5 sacks, 1 INT, 3 PD; 5-star recruit; top-15% producer at his position in our data.",
-     "season": null,
+     "school": "Georgia",
+     "cls": "Jr",
+     "grade": 86.2,
+     "tier": "1st round",
+     "line": "30 tackles, 7 TFL, 2.5 sacks, 3 PD",
+     "snippet": "30 tackles, 7 TFL, 2.5 sacks, 3 PD; 5-star recruit; top-15% producer at his position in our data; on our Steelers watch list. Our scouts: Fast, instinctive linebacker who shows up all over the stat sheet.",
+     "season": "30 tackles, 2.5 sacks, 3 PD, 2 FR",
      "availability": [
       {
        "round": 1,
        "overall": 22,
-       "pct": 94,
-       "label": "Likely there"
+       "pct": 64,
+       "label": "Toss-up"
       },
       {
        "round": 2,
        "overall": 54,
-       "pct": 56,
-       "label": "Toss-up"
+       "pct": 2,
+       "label": "Very unlikely"
       }
      ],
      "realistic": false
     },
     {
-     "rank": 62,
+     "rank": 93,
      "name": "Suntarine Perkins",
      "pos": "LB",
      "school": "Ole Miss",
      "cls": "Sr",
-     "grade": 82.6,
+     "grade": 77.5,
      "tier": "Day 2",
      "line": "19 tackles, 2.5 TFL, 1.5 sacks, 1 PD",
      "snippet": "19 tackles, 2.5 TFL, 1.5 sacks, 1 PD; 5-star recruit; top-15% producer at his position in our data.",
-     "season": null,
-     "availability": [
-      {
-       "round": 1,
-       "overall": 22,
-       "pct": 95,
-       "label": "Likely there"
-      },
-      {
-       "round": 2,
-       "overall": 54,
-       "pct": 63,
-       "label": "Toss-up"
-      }
-     ],
-     "realistic": true
-    },
-    {
-     "rank": 81,
-     "name": "Kyngstonn Viliamu-Asa",
-     "pos": "LB",
-     "school": "Notre Dame",
-     "cls": "Jr",
-     "grade": 81.8,
-     "tier": "Day 2",
-     "line": "13 tackles, 1.5 TFL, 0 sacks, 1 INT",
-     "snippet": "13 tackles, 1.5 TFL, 0 sacks, 1 INT; 4-star recruit; on our Steelers watch list.",
-     "season": "13 tackles, 1 INT, 1 FR",
-     "availability": [
-      {
-       "round": 1,
-       "overall": 22,
-       "pct": 97,
-       "label": "Likely there"
-      },
-      {
-       "round": 2,
-       "overall": 54,
-       "pct": 81,
-       "label": "Likely there"
-      }
-     ],
-     "realistic": true
-    },
-    {
-     "rank": 90,
-     "name": "Myles Graham",
-     "pos": "LB",
-     "school": "Florida",
-     "cls": "Jr",
-     "grade": 81.3,
-     "tier": "Day 2",
-     "line": "49 tackles, 4.5 TFL, 3.5 sacks",
-     "snippet": "49 tackles, 4.5 TFL, 3.5 sacks; 4-star recruit; top-15% producer at his position in our data.",
      "season": null,
      "availability": [
       {
@@ -700,7 +619,88 @@
       {
        "round": 2,
        "overall": 54,
-       "pct": 86,
+       "pct": 87,
+       "label": "Likely there"
+      }
+     ],
+     "realistic": false
+    },
+    {
+     "rank": 108,
+     "name": "Myles Graham",
+     "pos": "LB",
+     "school": "Florida",
+     "cls": "Jr",
+     "grade": 76.9,
+     "tier": "Day 3",
+     "line": "49 tackles, 4.5 TFL, 3.5 sacks",
+     "snippet": "49 tackles, 4.5 TFL, 3.5 sacks",
+     "season": null,
+     "availability": [
+      {
+       "round": 1,
+       "overall": 22,
+       "pct": 98,
+       "label": "Likely there"
+      },
+      {
+       "round": 2,
+       "overall": 54,
+       "pct": 91,
+       "label": "Likely there"
+      }
+     ],
+     "realistic": true
+    },
+    {
+     "rank": 121,
+     "name": "Raylen Wilson",
+     "pos": "LB",
+     "school": "Georgia",
+     "cls": "Sr",
+     "grade": 76.4,
+     "tier": "Day 3",
+     "line": "33 tackles, 5 TFL, 3 sacks",
+     "snippet": "33 tackles, 5 TFL, 3 sacks",
+     "season": null,
+     "availability": [
+      {
+       "round": 1,
+       "overall": 22,
+       "pct": 99,
+       "label": "Likely there"
+      },
+      {
+       "round": 2,
+       "overall": 54,
+       "pct": 94,
+       "label": "Likely there"
+      }
+     ],
+     "realistic": true
+    },
+    {
+     "rank": 122,
+     "name": "Rasheem Biles",
+     "pos": "LB",
+     "school": "Texas",
+     "cls": "Sr",
+     "grade": 76.3,
+     "tier": "Day 3",
+     "line": "49 tackles, 4.5 TFL, 1 sacks, 2 INT, 1 PD",
+     "snippet": "49 tackles, 4.5 TFL, 1 sacks, 2 INT, 1 PD",
+     "season": "49 tackles, 1 sack, 2 INT, 1 PD",
+     "availability": [
+      {
+       "round": 1,
+       "overall": 22,
+       "pct": 99,
+       "label": "Likely there"
+      },
+      {
+       "round": 2,
+       "overall": 54,
+       "pct": 94,
        "label": "Likely there"
       }
      ],
@@ -723,10 +723,10 @@
      "pos": "WR",
      "school": "Ohio State",
      "cls": "Jr",
-     "grade": 92.9,
+     "grade": 94.1,
      "tier": "1st round",
      "line": "52 catches, 984 yds, 12 TD",
-     "snippet": "52 catches, 984 yds, 12 TD; 5-star recruit; top-15% producer at his position in our data; on our Steelers watch list.",
+     "snippet": "52 catches, 984 yds, 12 TD; 5-star recruit; top-15% producer at his position in our data; on our Steelers watch list. Our scouts: Rare size-speed WR who wins every way; the class's best player in our view.",
      "season": "52 rec, 984 yds, 12 TD; 2 rush, 7 yds",
      "availability": [
       {
@@ -745,21 +745,21 @@
      "realistic": false
     },
     {
-     "rank": 6,
+     "rank": 10,
      "name": "Cam Coleman",
      "pos": "WR",
      "school": "Texas",
      "cls": "Jr",
-     "grade": 91.0,
+     "grade": 90.6,
      "tier": "1st round",
      "line": "19 catches, 322 yds, 6 TD",
-     "snippet": "19 catches, 322 yds, 6 TD; 5-star recruit; top-15% producer at his position in our data; on our Steelers watch list.",
+     "snippet": "19 catches, 322 yds, 6 TD; 5-star recruit; top-15% producer at his position in our data; on our Steelers watch list. Our scouts: Big-play size and speed; hasn't dominated games yet in a shaky passing offense.",
      "season": "19 rec, 322 yds, 6 TD",
      "availability": [
       {
        "round": 1,
        "overall": 22,
-       "pct": 0,
+       "pct": 5,
        "label": "Very unlikely"
       },
       {
@@ -772,21 +772,21 @@
      "realistic": false
     },
     {
-     "rank": 12,
-     "name": "Nick Marsh",
+     "rank": 15,
+     "name": "Charlie Becker",
      "pos": "WR",
      "school": "Indiana",
      "cls": "Jr",
-     "grade": 87.9,
+     "grade": 89.3,
      "tier": "1st round",
-     "line": "32 catches, 585 yds, 7 TD",
-     "snippet": "32 catches, 585 yds, 7 TD; 4-star recruit; top-15% producer at his position in our data; on our Steelers watch list.",
-     "season": "32 rec, 585 yds, 7 TD",
+     "line": "39 catches, 694 yds, 8 TD",
+     "snippet": "39 catches, 694 yds, 8 TD; 3-star recruit; top-15% producer at his position in our data; on our Steelers watch list. Our scouts: Productive, reliable receiver who keeps winning against Big Ten coverage.",
+     "season": "39 rec, 694 yds, 8 TD",
      "availability": [
       {
        "round": 1,
        "overall": 22,
-       "pct": 11,
+       "pct": 22,
        "label": "Long shot"
       },
       {
@@ -799,21 +799,21 @@
      "realistic": false
     },
     {
-     "rank": 23,
+     "rank": 22,
      "name": "Ryan Coleman-Williams",
      "pos": "WR",
      "school": "Alabama",
      "cls": "Jr",
-     "grade": 85.8,
+     "grade": 87.0,
      "tier": "1st round",
      "line": "23 catches, 415 yds, 4 TD",
-     "snippet": "23 catches, 415 yds, 4 TD; 5-star recruit; top-15% producer at his position in our data.",
+     "snippet": "23 catches, 415 yds, 4 TD; 5-star recruit; top-15% producer at his position in our data. Our scouts: Explosive, sudden receiver who creates separation.",
      "season": null,
      "availability": [
       {
        "round": 1,
        "overall": 22,
-       "pct": 55,
+       "pct": 52,
        "label": "Toss-up"
       },
       {
@@ -826,55 +826,55 @@
      "realistic": true
     },
     {
-     "rank": 26,
-     "name": "Mike Matthews",
+     "rank": 28,
+     "name": "Nick Marsh",
      "pos": "WR",
-     "school": "Tennessee",
+     "school": "Indiana",
      "cls": "Jr",
-     "grade": 85.6,
+     "grade": 86.0,
      "tier": "1st round",
-     "line": "22 catches, 396 yds, 3 TD",
-     "snippet": "22 catches, 396 yds, 3 TD; 5-star recruit; top-15% producer at his position in our data.",
-     "season": null,
+     "line": "32 catches, 585 yds, 7 TD",
+     "snippet": "32 catches, 585 yds, 7 TD; 4-star recruit; top-15% producer at his position in our data; on our Steelers watch list. Our scouts: Strong-handed possession receiver with big production.",
+     "season": "32 rec, 585 yds, 7 TD",
      "availability": [
       {
        "round": 1,
        "overall": 22,
-       "pct": 65,
+       "pct": 70,
        "label": "Likely there"
       },
       {
        "round": 2,
        "overall": 54,
-       "pct": 1,
+       "pct": 2,
        "label": "Very unlikely"
       }
      ],
      "realistic": true
     },
     {
-     "rank": 31,
-     "name": "Ryan Wingo",
+     "rank": 48,
+     "name": "Duce Robinson",
      "pos": "WR",
-     "school": "Texas",
-     "cls": "Jr",
-     "grade": 85.2,
-     "tier": "1st round",
-     "line": "26 catches, 345 yds, 3 TD",
-     "snippet": "26 catches, 345 yds, 3 TD; 4-star recruit; top-15% producer at his position in our data.",
+     "school": "Florida State",
+     "cls": "Sr",
+     "grade": 82.1,
+     "tier": "Day 2",
+     "line": "17 catches, 294 yds, 2 TD",
+     "snippet": "17 catches, 294 yds, 2 TD; 5-star recruit; top-15% producer at his position in our data. Our scouts: Huge receiver with a big catch radius; route running still developing.",
      "season": null,
      "availability": [
       {
        "round": 1,
        "overall": 22,
-       "pct": 76,
+       "pct": 93,
        "label": "Likely there"
       },
       {
        "round": 2,
        "overall": 54,
-       "pct": 5,
-       "label": "Very unlikely"
+       "pct": 38,
+       "label": "Toss-up"
       }
      ],
      "realistic": true

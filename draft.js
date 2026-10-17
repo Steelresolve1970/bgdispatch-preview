@@ -29,7 +29,7 @@ function cardHTML(p){if(!p)return'';const t=p.parts||{};return`<div class="dr-mo
  <p class="kind">Our board #${p.rank} · ${E(p.tier)}</p><h2>${E(p.name)}</h2><p>${meta(p)}</p><p class="dr-g">Our grade <b>${p.grade}</b>${p.stars?` · ${p.stars}★ recruit`:''}${p.anchor?' · Steelers watch list':''}</p>
  ${window.availHTML?availHTML(p.name):''}
  ${p.line?`<p><b>2026:</b> ${E(p.line)}</p>`:''}${p.note?`<p>${E(p.note)}</p>`:''}
- <table class="dr-parts"><tr><th>Production</th><th>Pedigree</th><th>Level</th><th>Class</th><th>Size</th></tr><tr><td>${t.production??'–'}/40</td><td>${t.pedigree??'–'}/25</td><td>${t.level??'–'}/10</td><td>${t.cls??'–'}/5</td><td>${t.size??'–'}/5</td></tr></table>
+ <table class="dr-parts"><tr><th>Production</th><th>Pedigree</th><th>Schedule</th><th>Team</th><th>Class</th><th>Size</th><th>Scout tier</th></tr><tr><td>${t.production??'–'}/45</td><td>${t.pedigree??'–'}/22</td><td>${t.schedule??'–'}/12</td><td>${t.team??'–'}/6</td><td>${t.cls??'–'}/5</td><td>${t.size??'–'}/5</td><td>${p.scout_tier??'–'}</td></tr></table>
  <p class="fine">Our own formula from CollegeFootballData.com stats. Fan opinion, not a scouting report.</p>
  ${S.phase==='user'?`<button class="btn dr-take" type="button" data-r="${p.rank}">Draft ${E(p.name)}</button>`:''}</div></div>`;}
 function tradeHTML(){const on=S.slots[S.cur],me=on.owner,T=S.trade;const partners=[...new Set(S.slots.slice(S.cur).map(s=>s.owner))].filter(a=>a!==me).sort();
@@ -52,7 +52,7 @@ function shareImage(){const rows=[];S.teams.forEach(a=>{rows.push({h:`${TN(a)}  
  x.fillStyle='#aaa';x.font='22px Arial';x.fillText('Our own board · unofficial fan site · not affiliated with the NFL or any team',50,H-40);
  const a=document.createElement('a');a.download='my-mock-draft.png';a.href=c.toDataURL('image/png');a.click();}
 function setupHTML(){const ts=[...S.order.order].sort((a,b)=>a.name.localeCompare(b.name));
- return`<div class="dr-setup box"><p class="fine">Board: <b>${S.board.count}</b> prospects ranked by <b>our own formula</b> — not copied from any outside big board. Order: projected from current records, 7 rounds, ${S.order.total} picks. <a href="#" class="dr-how">How it works</a></p>
+ return`<div class="dr-setup box"><p class="fine">Board: <b>${S.board.count}</b> prospects ranked by <b>our own formula plus our staff scouting tiers</b> — not copied from any outside big board. Order: projected from current records, 7 rounds, ${S.order.total} picks. <a href="#" class="dr-how">How it works</a></p>
  <p class="dr-howbox" hidden>${E(S.board.method)}<br><br>${E(S.order.note)}<br><br>${E(S.order.needs_note)}</p>
  <p><b>Your team(s)</b> — tap to pick one or more</p><div class="chips dr-teams">${ts.map(t=>`<button type="button" class="chip dr-team${S.teams.includes(t.abbr)?' on':''}" data-a="${t.abbr}">${E(t.abbr)}</button>`).join('')}</div>
  <p><b>Rounds</b></p><div class="chips">${[1,2,3,4,5,6,7].map(n=>`<button type="button" class="chip dr-rounds${S.rounds===n?' on':''}" data-n="${n}">${n}</button>`).join('')}</div>
