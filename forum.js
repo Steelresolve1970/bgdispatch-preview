@@ -6,7 +6,7 @@ const FCATS=[
  {name:'Draft',icon:'🎯',desc:'Prospects, mocks and big boards'},
  {name:'Film Talk',icon:'🎬',desc:'All-22, breakdowns and scheme talk'},
  {name:'Off-Topic',icon:'💬',desc:'Pittsburgh life, other sports'},
- {name:'Members-Only Lounge',icon:'🔒',desc:'Go Gold members: ad-free chat and AMAs',locked:true}];
+ {name:'Founding Members Lounge',icon:'⭐',desc:'First 250 accounts get a free Founding Member badge and lounge (opens with accounts; not a paid tier)',locked:true}];
 let FB=null;
 const FE=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const botBadge='<span class="bot-badge" title="Automated house account, not a person">BOT</span>';
@@ -17,7 +17,7 @@ function forumList(){const T=FB?FB.topics:[];const cnt=c=>T.filter(t=>t.cat===c)
  <p class="page-sub">Real topics only. Threads are opened automatically by the <b>Black & Gold Dispatch Bot</b> ${botBadge}, a labeled house account, not a person. Replies open when member accounts launch.</p>
  <p class="box forum-rules-note"><b>Forum rules:</b> be respectful, no made-up "facts" about real people, no impersonation, no copied articles or photos (link instead), no spam or betting promos. Members must be 13+. <a href="legal/terms.html#forum-rules">Read the full rules</a> · <a href="legal/dmca.html">Copyright / DMCA</a></p>
  <h2 class="section-title">Categories</h2>
- <div class="cats">${FCATS.map(c=>`<a class="cat${c.locked?' locked':''}" href="#/forum"><span class="cat-icon">${c.icon}</span><span class="cat-main"><b>${c.name}${c.locked?' <span class="lock">🔒 Members</span>':''}</b><small>${c.desc}</small></span><span class="cat-stats"><b>${cnt(c.name)}</b> topics</span></a>`).join('')}</div>
+ <div class="cats">${FCATS.map(c=>`<a class="cat${c.locked?' locked':''}" href="#/forum"><span class="cat-icon">${c.icon}</span><span class="cat-main"><b>${c.name}${c.locked?' <span class="lock">⭐ Founders</span>':''}</b><small>${c.desc}</small></span><span class="cat-stats"><b>${cnt(c.name)}</b> topics</span></a>`).join('')}</div>
  <h2 class="section-title">Latest topics</h2>
  <div class="threads">${T.length?[...T].sort((a,b)=>(b.pinned-a.pinned)||b.created.localeCompare(a.created)).map(t=>`<a class="thread" href="#/forum/thread/${FE(t.id)}">${fAv()}<span class="t-main"><span class="t-cat">${t.pinned?'📌 ':''}${kindIcon[t.kind]||''} ${FE(t.kind)} · ${FE(t.cat)}</span><b>${FE(t.title)}</b><small>by ${FE(t.author)} ${botBadge}</small></span><span class="t-stats"><b>${t.replies}</b> replies<br><small>${fAgo(t.created)}</small></span></a>`).join(''):'<p class="fine">No topics yet.</p>'}</div>`;}
 function forumThread(id){const t=(FB?FB.topics:[]).find(x=>x.id===id);if(!t)return '<p><a class="back" href="#/forum">← Back to forum</a></p><p>Topic not found.</p>';
