@@ -2,8 +2,8 @@
  "api_version": "1",
  "dataset": "draft",
  "description": "Steelers draft hub: top prospects per need with our estimated chance each is available at the Steelers' projected picks, published analyst grades of the last class (letter + link), and every past Steelers pick (nflverse, CC-BY 4.0).",
- "generated": "2026-10-17T22:56:16+00:00",
- "data_updated": "2026-10-17T22:56:10+00:00",
+ "generated": "2026-10-17T23:05:11+00:00",
+ "data_updated": "2026-10-17T23:05:06+00:00",
  "count": 514,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
@@ -49,20 +49,20 @@
    }
   },
   {
-   "id": "5117e22a6536168e",
+   "id": "417a324c13e5ab1d",
    "type": "draft_prospect",
    "need": "Quarterback",
    "need_rank": 1,
-   "name": "Darian Mensah",
+   "name": "Arch Manning",
    "position": "QB",
-   "school": "Miami",
-   "our_board_rank": 5,
-   "our_grade": 91.1,
+   "school": "Texas",
+   "our_board_rank": 4,
+   "our_grade": 93.6,
    "chance_available": [
     {
      "round": 1,
      "pick": 22,
-     "percent": 1
+     "percent": 0
     },
     {
      "round": 2,
@@ -78,15 +78,15 @@
    }
   },
   {
-   "id": "29370af3eb29948d",
+   "id": "5117e22a6536168e",
    "type": "draft_prospect",
    "need": "Quarterback",
    "need_rank": 1,
-   "name": "Drew Mestemaker",
+   "name": "Darian Mensah",
    "position": "QB",
-   "school": "Oklahoma State",
+   "school": "Miami",
    "our_board_rank": 7,
-   "our_grade": 90.8,
+   "our_grade": 92.2,
    "chance_available": [
     {
      "round": 1,
@@ -115,7 +115,7 @@
    "position": "QB",
    "school": "Ole Miss",
    "our_board_rank": 31,
-   "our_grade": 85.0,
+   "our_grade": 85.5,
    "chance_available": [
     {
      "round": 1,
@@ -143,18 +143,18 @@
    "name": "Gunner Stockton",
    "position": "QB",
    "school": "Georgia",
-   "our_board_rank": 32,
-   "our_grade": 84.9,
+   "our_board_rank": 39,
+   "our_grade": 84.0,
    "chance_available": [
     {
      "round": 1,
      "pick": 22,
-     "percent": 73
+     "percent": 81
     },
     {
      "round": 2,
      "pick": 54,
-     "percent": 10
+     "percent": 23
     }
    ],
    "estimate": true,
@@ -165,25 +165,25 @@
    }
   },
   {
-   "id": "ae96c95de501ab29",
+   "id": "9e31e0690308ddd0",
    "type": "draft_prospect",
    "need": "Quarterback",
    "need_rank": 1,
-   "name": "Conner Weigman",
+   "name": "LaNorris Sellers",
    "position": "QB",
-   "school": "Houston",
-   "our_board_rank": 45,
-   "our_grade": 82.4,
+   "school": "South Carolina",
+   "our_board_rank": 51,
+   "our_grade": 81.1,
    "chance_available": [
     {
      "round": 1,
      "pick": 22,
-     "percent": 86
+     "percent": 89
     },
     {
      "round": 2,
      "pick": 54,
-     "percent": 35
+     "percent": 46
     }
    ],
    "estimate": true,
@@ -201,13 +201,13 @@
    "name": "Leonard Moore",
    "position": "CB",
    "school": "Notre Dame",
-   "our_board_rank": 6,
-   "our_grade": 90.8,
+   "our_board_rank": 8,
+   "our_grade": 92.0,
    "chance_available": [
     {
      "round": 1,
      "pick": 22,
-     "percent": 0
+     "percent": 2
     },
     {
      "round": 2,
@@ -230,13 +230,13 @@
    "name": "Ellis Robinson IV",
    "position": "CB",
    "school": "Georgia",
-   "our_board_rank": 9,
-   "our_grade": 90.4,
+   "our_board_rank": 12,
+   "our_grade": 90.5,
    "chance_available": [
     {
      "round": 1,
      "pick": 22,
-     "percent": 3
+     "percent": 11
     },
     {
      "round": 2,
@@ -289,7 +289,7 @@
    "position": "CB",
    "school": "Clemson",
    "our_board_rank": 27,
-   "our_grade": 85.8,
+   "our_grade": 86.1,
    "chance_available": [
     {
      "round": 1,
@@ -317,18 +317,18 @@
    "name": "Peyton Bowen",
    "position": "CB",
    "school": "Oklahoma",
-   "our_board_rank": 33,
-   "our_grade": 84.9,
+   "our_board_rank": 40,
+   "our_grade": 84.0,
    "chance_available": [
     {
      "round": 1,
      "pick": 22,
-     "percent": 80
+     "percent": 88
     },
     {
      "round": 2,
      "pick": 54,
-     "percent": 7
+     "percent": 20
     }
    ],
    "estimate": true,
@@ -346,18 +346,18 @@
    "name": "Zabien Brown",
    "position": "CB",
    "school": "Alabama",
-   "our_board_rank": 38,
-   "our_grade": 84.1,
+   "our_board_rank": 44,
+   "our_grade": 83.4,
    "chance_available": [
     {
      "round": 1,
      "pick": 22,
-     "percent": 86
+     "percent": 90
     },
     {
      "round": 2,
      "pick": 54,
-     "percent": 16
+     "percent": 29
     }
    ],
    "estimate": true,
@@ -375,13 +375,13 @@
    "name": "KJ Bolden",
    "position": "S",
    "school": "Georgia",
-   "our_board_rank": 13,
-   "our_grade": 89.0,
+   "our_board_rank": 14,
+   "our_grade": 89.5,
    "chance_available": [
     {
      "round": 1,
      "pick": 22,
-     "percent": 16
+     "percent": 20
     },
     {
      "round": 2,
@@ -404,18 +404,18 @@
    "name": "Brauntae Johnson",
    "position": "S",
    "school": "Notre Dame",
-   "our_board_rank": 44,
-   "our_grade": 82.4,
+   "our_board_rank": 42,
+   "our_grade": 83.7,
    "chance_available": [
     {
      "round": 1,
      "pick": 22,
-     "percent": 88
+     "percent": 87
     },
     {
      "round": 2,
      "pick": 54,
-     "percent": 31
+     "percent": 26
     }
    ],
    "estimate": true,
@@ -433,8 +433,8 @@
    "name": "Jelani McDonald",
    "position": "S",
    "school": "Texas",
-   "our_board_rank": 68,
-   "our_grade": 79.1,
+   "our_board_rank": 70,
+   "our_grade": 79.2,
    "chance_available": [
     {
      "round": 1,
@@ -444,7 +444,7 @@
     {
      "round": 2,
      "pick": 54,
-     "percent": 71
+     "percent": 73
     }
    ],
    "estimate": true,
@@ -463,7 +463,7 @@
    "position": "S",
    "school": "Ohio State",
    "our_board_rank": 99,
-   "our_grade": 77.0,
+   "our_grade": 77.1,
    "chance_available": [
     {
      "round": 1,
@@ -492,7 +492,7 @@
    "position": "S",
    "school": "Oregon",
    "our_board_rank": 107,
-   "our_grade": 76.8,
+   "our_grade": 76.9,
    "chance_available": [
     {
      "round": 1,
@@ -521,7 +521,7 @@
    "position": "S",
    "school": "Alabama",
    "our_board_rank": 117,
-   "our_grade": 76.5,
+   "our_grade": 76.6,
    "chance_available": [
     {
      "round": 1,
@@ -550,7 +550,7 @@
    "position": "LB",
    "school": "Clemson",
    "our_board_rank": 25,
-   "our_grade": 86.2,
+   "our_grade": 86.4,
    "chance_available": [
     {
      "round": 1,
@@ -579,7 +579,7 @@
    "position": "LB",
    "school": "Georgia",
    "our_board_rank": 26,
-   "our_grade": 85.9,
+   "our_grade": 86.2,
    "chance_available": [
     {
      "round": 1,
@@ -608,7 +608,7 @@
    "position": "LB",
    "school": "Ole Miss",
    "our_board_rank": 93,
-   "our_grade": 77.4,
+   "our_grade": 77.5,
    "chance_available": [
     {
      "round": 1,
@@ -637,7 +637,7 @@
    "position": "LB",
    "school": "Florida",
    "our_board_rank": 108,
-   "our_grade": 76.8,
+   "our_grade": 76.9,
    "chance_available": [
     {
      "round": 1,
@@ -665,8 +665,8 @@
    "name": "Raylen Wilson",
    "position": "LB",
    "school": "Georgia",
-   "our_board_rank": 122,
-   "our_grade": 76.3,
+   "our_board_rank": 121,
+   "our_grade": 76.4,
    "chance_available": [
     {
      "round": 1,
@@ -694,7 +694,7 @@
    "name": "Rasheem Biles",
    "position": "LB",
    "school": "Texas",
-   "our_board_rank": 123,
+   "our_board_rank": 122,
    "our_grade": 76.3,
    "chance_available": [
     {
@@ -724,7 +724,7 @@
    "position": "WR",
    "school": "Ohio State",
    "our_board_rank": 3,
-   "our_grade": 93.7,
+   "our_grade": 94.1,
    "chance_available": [
     {
      "round": 1,
@@ -752,13 +752,13 @@
    "name": "Cam Coleman",
    "position": "WR",
    "school": "Texas",
-   "our_board_rank": 8,
-   "our_grade": 90.5,
+   "our_board_rank": 11,
+   "our_grade": 90.6,
    "chance_available": [
     {
      "round": 1,
      "pick": 22,
-     "percent": 2
+     "percent": 8
     },
     {
      "round": 2,
@@ -781,13 +781,13 @@
    "name": "Charlie Becker",
    "position": "WR",
    "school": "Indiana",
-   "our_board_rank": 14,
-   "our_grade": 88.6,
+   "our_board_rank": 15,
+   "our_grade": 89.3,
    "chance_available": [
     {
      "round": 1,
      "pick": 22,
-     "percent": 18
+     "percent": 22
     },
     {
      "round": 2,
@@ -811,7 +811,7 @@
    "position": "WR",
    "school": "Alabama",
    "our_board_rank": 22,
-   "our_grade": 87.1,
+   "our_grade": 87.0,
    "chance_available": [
     {
      "round": 1,
@@ -840,7 +840,7 @@
    "position": "WR",
    "school": "Indiana",
    "our_board_rank": 28,
-   "our_grade": 85.7,
+   "our_grade": 86.0,
    "chance_available": [
     {
      "round": 1,
@@ -868,18 +868,18 @@
    "name": "Duce Robinson",
    "position": "WR",
    "school": "Florida State",
-   "our_board_rank": 46,
-   "our_grade": 82.2,
+   "our_board_rank": 48,
+   "our_grade": 82.1,
    "chance_available": [
     {
      "round": 1,
      "pick": 22,
-     "percent": 92
+     "percent": 93
     },
     {
      "round": 2,
      "pick": 54,
-     "percent": 34
+     "percent": 38
     }
    ],
    "estimate": true,

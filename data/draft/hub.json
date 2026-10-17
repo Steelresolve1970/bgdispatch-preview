@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T22:57:47.866189+00:00",
+ "generated": "2026-10-17T23:05:06.010807+00:00",
  "draft_year": 2027,
  "steelers_picks": [
   {
@@ -52,7 +52,34 @@
      "realistic": false
     },
     {
-     "rank": 6,
+     "rank": 4,
+     "name": "Arch Manning",
+     "pos": "QB",
+     "school": "Texas",
+     "cls": "Jr",
+     "grade": 93.6,
+     "tier": "1st round",
+     "line": "1,298 pass yds, 11 TD, 5 INT this season",
+     "snippet": "1,298 pass yds, 11 TD, 5 INT this season; 5-star recruit; top-15% producer at his position in our data; on our Steelers watch list. Our scouts: Prototype size, arm and athleticism with a bloodline of NFL-ready habits; 2026 has had rough patches, but the tools are top-five caliber and he could still choose to stay in school.",
+     "season": "107/167, 1,298 pass yds, 11 TD, 5 INT; 48 rush, 99 yds",
+     "availability": [
+      {
+       "round": 1,
+       "overall": 22,
+       "pct": 0,
+       "label": "Very unlikely"
+      },
+      {
+       "round": 2,
+       "overall": 54,
+       "pct": 0,
+       "label": "Very unlikely"
+      }
+     ],
+     "realistic": false
+    },
+    {
+     "rank": 7,
      "name": "Darian Mensah",
      "pos": "QB",
      "school": "Miami",
@@ -66,34 +93,7 @@
       {
        "round": 1,
        "overall": 22,
-       "pct": 2,
-       "label": "Very unlikely"
-      },
-      {
-       "round": 2,
-       "overall": 54,
-       "pct": 0,
-       "label": "Very unlikely"
-      }
-     ],
-     "realistic": false
-    },
-    {
-     "rank": 9,
-     "name": "Drew Mestemaker",
-     "pos": "QB",
-     "school": "Oklahoma State",
-     "cls": "RS-So",
-     "grade": 90.8,
-     "tier": "1st round",
-     "line": "1,575 pass yds, 13 TD, 5 INT this season",
-     "snippet": "1,575 pass yds, 13 TD, 5 INT this season; 5-star transfer; top-15% producer at his position in our data; on our Steelers watch list. Our scouts: Late bloomer with a big arm and good pocket patience; short track record.",
-     "season": "114/169, 1,575 pass yds, 13 TD, 5 INT; 15 rush, 108 yds, 2 TD",
-     "availability": [
-      {
-       "round": 1,
-       "overall": 22,
-       "pct": 7,
+       "pct": 3,
        "label": "Very unlikely"
       },
       {
@@ -199,7 +199,7 @@
    ],
    "prospects": [
     {
-     "rank": 7,
+     "rank": 8,
      "name": "Leonard Moore",
      "pos": "CB",
      "school": "Notre Dame",
@@ -213,7 +213,7 @@
       {
        "round": 1,
        "overall": 22,
-       "pct": 1,
+       "pct": 2,
        "label": "Very unlikely"
       },
       {
@@ -226,7 +226,7 @@
      "realistic": false
     },
     {
-     "rank": 11,
+     "rank": 12,
      "name": "Ellis Robinson IV",
      "pos": "CB",
      "school": "Georgia",
@@ -240,8 +240,8 @@
       {
        "round": 1,
        "overall": 22,
-       "pct": 8,
-       "label": "Very unlikely"
+       "pct": 11,
+       "label": "Long shot"
       },
       {
        "round": 2,
@@ -745,7 +745,7 @@
      "realistic": false
     },
     {
-     "rank": 10,
+     "rank": 11,
      "name": "Cam Coleman",
      "pos": "WR",
      "school": "Texas",
@@ -759,7 +759,7 @@
       {
        "round": 1,
        "overall": 22,
-       "pct": 5,
+       "pct": 8,
        "label": "Very unlikely"
       },
       {

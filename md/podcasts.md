@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-17T22:56:16+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-17T22:56:08+00:00._
+_Generated 2026-10-17T23:05:11+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-17T23:05:02+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Steelers Insider featuring Mike McCarthy: Week 6 at Buccaneers | Pittsburgh Steelers](https://www.youtube.com/watch?v=V9s6l38p68A): Pittsburgh Steelers (official), 2026-10-17 22:00 UTC
