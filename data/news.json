@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T23:15:14.501633+00:00",
+ "generated": "2026-10-17T23:25:37.455254+00:00",
  "count": 150,
  "sources": [
   {
@@ -29,8 +29,8 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "ok",
-   "steelers_items": 24
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "steelers_items": 0
   },
   {
    "source": "Still Curtain",
@@ -94,6 +94,13 @@
    "link": "https://www.espn.com/nfl/story/_/id/50203338/steelers-place-receiver-wilson-ir",
    "published": "2026-10-17T23:44:45+00:00",
    "summary": "Injury story from ESPN. Full report at the original publisher."
+  },
+  {
+   "title": "Report: Former Steelers RB Cordarrelle Patterson Arrested For Domestic Assault",
+   "source": "Sports Illustrated",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVHYwV0F1SkhqaWcxQWtGeEkyeHNrLW1LUkozRGFvUmdEV2lqMXN4OG5JcEVveFdfRTZyY1E2RTJHRDNmS1BNVVp0dGRNdlB1NW9PWENNcHJEYW1VSTk0blM1QmQ0ZXd4MjNOUjhvcVMwbWdtdTBIZDBQZjd4SmtQWWhxS2JuejN5Z2hVU0VsOF9Td2VteG5NNmZnaVNfbVdXc3RERjVRdTBqTlAtTklHVw?oc=5",
+   "published": "2026-10-17T23:21:11+00:00",
+   "summary": "News story from Sports Illustrated. Full report at the original publisher."
   },
   {
    "title": "\u2018Interior Pass Rush Is Nonexistent\u2019: Fittipaldo Concerned About More Than Just Steelers\u2019 OLBs",
@@ -628,13 +635,6 @@
    "summary": "Opinion story from Steelers Depot. Full report at the original publisher."
   },
   {
-   "title": "Steelers GameDay Cheat Sheet: Week 6 at the Tampa Bay Buccaneers",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/17/steelers-gameday-cheat-sheet-week-6-at-the-tampa-bay-buccaneers/",
-   "published": "2026-10-17T11:40:08+00:00",
-   "summary": "Game story from Steel City Underground. Full report at the original publisher."
-  },
-  {
    "title": "Steelers vs. Buccaneers picks: Still Curtain panel predicts a brutal battle",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/steelers-vs-buccaneers-picks-still-curtain-panel-predicts-a-brutal-battle-01m4r3jag9f8?utm_source=RSS",
@@ -761,13 +761,6 @@
    "summary": "Game story from Behind the Steel Curtain. Full report at the original publisher."
   },
   {
-   "title": "Concern Growing for Steelers' Nick Herbig",
-   "source": "Sports Illustrated",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYk55RENDQ3Ffd2V5R09TNktUcmlldlhrVzA5NDEyX3B5SkNXV2ZKeGN0ZmdOOWR5R0xxZ2h4Y3Y2UjBHS0JxVU94RF9kM3JucnN5MGtZblBfVERIQmlMVXJ1QV8tUGpMRUtOV1o0OXlnaUZac3lJNUUzME5vRk5GT2lyNXdPajNQTlBXeQ?oc=5",
-   "published": "2026-10-16T16:01:12+00:00",
-   "summary": "Game story from Sports Illustrated. Full report at the original publisher."
-  },
-  {
    "title": "The Steelers threw Daylen Everette into the fire. The rookie cornerback has been there before.",
    "source": "Pittsburgh Post-Gazette",
    "link": "https://www.post-gazette.com/sports/steelers/2026/10/16/daylen-everette-steelers/stories/202610160032",
@@ -794,13 +787,6 @@
    "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-game-information/176163/steelers-buccaneers-preview-what-to-expect-from-tampa-bay-offense-defense-in-week-6-jalon-daniels-vita-vea",
    "published": "2026-10-16T13:00:00+00:00",
    "summary": "Game story from Behind the Steel Curtain. Full report at the original publisher."
-  },
-  {
-   "title": "Steelers Players to Watch: Five names who could make the difference against Tampa Bay",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/16/steelers-players-to-watch-five-names-who-could-make-the-difference-against-tampa-bay/",
-   "published": "2026-10-16T12:04:42+00:00",
-   "summary": "News story from Steel City Underground. Full report at the original publisher."
   },
   {
    "title": "Brian Thomas Jr. headlines 7 WR trade targets Steelers can't afford to ignore",
@@ -913,13 +899,6 @@
    "link": "https://www.post-gazette.com/sports/steelers/2026/10/15/nick-herbig-contract-steelers-role/stories/202610150038",
    "published": "2026-10-15T16:00:00+00:00",
    "summary": "Opinion story from Pittsburgh Post-Gazette. Full report at the original publisher."
-  },
-  {
-   "title": "Steelers face a different offensive challenge with depleted receiving corps against Buccaneers",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/15/steelers-face-a-different-offensive-challenge-with-depleted-receiving-corps-against-buccaneers/",
-   "published": "2026-10-15T15:59:43+00:00",
-   "summary": "News story from Steel City Underground. Full report at the original publisher."
   },
   {
    "title": "Patrick Graham's selfless adjustment is exactly what Steelers defense needed",
@@ -1104,20 +1083,6 @@
    "summary": "News story from Still Curtain. Full report at the original publisher."
   },
   {
-   "title": "Watch: Jaylen Warren breaks loose for 50-yard touchdown run",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/14/watch-jaylen-warren-breaks-loose-for-50-yard-touchdown-run/",
-   "published": "2026-10-14T11:59:19+00:00",
-   "summary": "News story from Steel City Underground. Full report at the original publisher."
-  },
-  {
-   "title": "Why the AFC North Remains One of the NFL\u2019s Toughest Divisions to Win",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/14/why-the-afc-north-remains-one-of-the-nfls-toughest-divisions-to-win/",
-   "published": "2026-10-14T11:58:17+00:00",
-   "summary": "Game story from Steel City Underground. Full report at the original publisher."
-  },
-  {
    "title": "Tim Benz: Mike McCarthy\u2019s staff discovering its feel for the Steelers roster in Year 1",
    "source": "TribLive",
    "link": "https://triblive.com/sports/tim-benz-mike-mccarthys-staff-discovering-its-feel-for-the-steelers-roster-in-year-1/",
@@ -1137,6 +1102,41 @@
    "link": "https://triblive.com/sports/first-call-president-trumps-appearance-at-steelers-game-sunday-called-off-significant-injury-for-jordan-staal/",
    "published": "2026-10-14T10:01:00+00:00",
    "summary": "Injury story from TribLive. Full report at the original publisher."
+  },
+  {
+   "title": "Steelers vs. Buccaneers Week 6 Tracker: Injury updates, predictions, storylines and more",
+   "source": "Still Curtain",
+   "link": "https://stillcurtain.com/steelers-vs-buccaneers-week-6-tracker-injury-updates-predictions-storylines-and-more-01m4vh5ey1ss?utm_source=RSS",
+   "published": "2026-10-14T10:00:02+00:00",
+   "summary": "Injury story from Still Curtain. Full report at the original publisher."
+  },
+  {
+   "title": "Steelers DT Keeanu Benton misses practice with ankle injury; 2 more WRs sit out",
+   "source": "TribLive",
+   "link": "https://triblive.com/sports/steelers-dt-keeanu-benton-misses-practice-with-ankle-injury/",
+   "published": "2026-10-14T04:01:00+00:00",
+   "summary": "Injury story from TribLive. Full report at the original publisher."
+  },
+  {
+   "title": "Rookie defensive tackle Gabriel Rubio makes most of 1st appearance for Steelers",
+   "source": "TribLive",
+   "link": "https://triblive.com/sports/rookie-defensive-tackle-gabriel-rubio-makes-most-of-1st-appearance-for-steelers/",
+   "published": "2026-10-13T21:24:01+00:00",
+   "summary": "News story from TribLive. Full report at the original publisher."
+  },
+  {
+   "title": "Steelers QB target Nico Iamaleava faces a major draft setback",
+   "source": "Still Curtain",
+   "link": "https://stillcurtain.com/pittsburgh-steelers-qb-target-nico-iamaleava-faces-major-nfl-draft-setback-01m4tmdsa5sv?utm_source=RSS",
+   "published": "2026-10-13T16:00:00+00:00",
+   "summary": "Draft story from Still Curtain. Full report at the original publisher."
+  },
+  {
+   "title": "Sauce Gardner took the high road after DK Metcalf's cringeworthy comments",
+   "source": "Still Curtain",
+   "link": "https://stillcurtain.com/sauce-gardner-took-high-road-pittsburgh-steelers-dk-metcalf-comments-01m4r0qk6171?utm_source=RSS",
+   "published": "2026-10-13T15:00:00+00:00",
+   "summary": "News story from Still Curtain. Full report at the original publisher."
   }
  ]
 }

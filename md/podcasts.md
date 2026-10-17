@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-17T23:15:27+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-17T23:15:15+00:00._
+_Generated 2026-10-17T23:25:46+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-17T23:25:38+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Video: [Live from our Road Warrior Rally in Tampa with Casey Hampton 🙌](https://www.youtube.com/shorts/6-WqoVTWAfQ): Pittsburgh Steelers (official), 2026-10-17 22:52 UTC
 - Video: [Steelers Insider featuring Mike McCarthy: Week 6 at Buccaneers | Pittsburgh Steelers](https://www.youtube.com/watch?v=V9s6l38p68A): Pittsburgh Steelers (official), 2026-10-17 22:00 UTC
 - Podcast: [The Terrible Take - Episode 2053 - October 17, 2026](https://megaphone.link/SDP9390482738): The Terrible Podcast (Steelers Depot), 2026-10-17 21:00 UTC
 - Video: [QB1 is Tampa Bound 🫡](https://www.youtube.com/shorts/FcWE5B6vQkY): Pittsburgh Steelers (official), 2026-10-17 19:13 UTC
