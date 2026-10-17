@@ -1,6 +1,6 @@
 # Steelers Player Grades (Heat Map)
 
-_Generated 2026-10-17T23:47:05+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-11T17:00:00+00:00._
+_Generated 2026-10-17T23:52:57+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-11T17:00:00+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/grades.json_
 
 Week 5: vs Indianapolis Colts (34-22). Grade = stats grade (box score, see GRADES.md) until a player has 25 fan votes, then fan grade.
@@ -42,6 +42,10 @@ Week 5: vs Indianapolis Colts (34-22). Grade = stats grade (box score, see GRADE
 | Robert Spears-Jennings | FS | 5.7 | stats | 1 tkl |
 | Mason Rudolph | QB | 5.4 | stats | 2 rush, -2 yds |
 | Roman Wilson | WR | 5.4 | stats | 0 rec, 0 yds |
+| T.J. Watt | OLB | 5.4 | stats | 51 defense snaps (72%), no box-score stats |
+| Nick Herbig | OLB | 5.3 | stats | 38 defense snaps (54%), no box-score stats |
+| Brandon Smith | WR | 5.1 | stats | 16 offense snaps (27%), no box-score stats |
+| Gabriel Rubio | DE | 5.1 | stats | 14 defense snaps (20%), no box-score stats |
 | Kaden Wetjen | KR/PR | 5.0 | stats | 5 KR, 110 yds; 1 PR, 0 yds |
 
 ---

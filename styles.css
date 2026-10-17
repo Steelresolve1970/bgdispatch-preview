@@ -294,3 +294,6 @@ nav .more a{color:#fff}nav .more a[aria-current]{color:var(--gold)}
 .dr-row .dr-pk{text-align:left}
 .dr-pg.dr-row .dr-nm{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .dr-lg small{display:block;font-size:11px}.dr-lg .dr-pk{font-weight:700}
+
+.tile .ed-mark{position:absolute;top:2px;right:4px;font-style:normal;font-size:12px;background:rgba(0,0,0,.55);color:#FFB612;border-radius:3px;padding:0 3px}
+.src-editor{background:#FFB612;color:#111;border-radius:3px;padding:0 3px}

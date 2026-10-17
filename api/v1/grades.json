@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "grades",
  "description": "Per-game player grades: transparent stats grade from the box score until 25 fan votes, then fan grade.",
- "generated": "2026-10-17T23:47:05+00:00",
+ "generated": "2026-10-17T23:52:57+00:00",
  "data_updated": "2026-10-11T17:00:00+00:00",
- "count": 36,
+ "count": 40,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -113,6 +113,26 @@
    "fan_votes": 0,
    "fan_grade": null,
    "box_score_line": "1 tkl",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
+   "id": "d0f2dcd40dc56290",
+   "type": "player_grade",
+   "week": 5,
+   "game": "vs Indianapolis Colts",
+   "player": "Brandon Smith",
+   "position": "WR",
+   "group": "WR",
+   "grade": 5.1,
+   "grade_source": "stats",
+   "stats_grade": 5.1,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "16 offense snaps (27%), no box-score stats",
    "method_url": "https://blackandgolddispatch.com/GRADES.md",
    "source": {
     "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
@@ -360,6 +380,26 @@
    }
   },
   {
+   "id": "9679eed3850eef10",
+   "type": "player_grade",
+   "week": 5,
+   "game": "vs Indianapolis Colts",
+   "player": "Gabriel Rubio",
+   "position": "DE",
+   "group": "DL",
+   "grade": 5.1,
+   "grade_source": "stats",
+   "stats_grade": 5.1,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "14 defense snaps (20%), no box-score stats",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
    "id": "5e0d971eaa50b415",
    "type": "player_grade",
    "week": 5,
@@ -500,6 +540,26 @@
    }
   },
   {
+   "id": "011a7a06d7c6fee1",
+   "type": "player_grade",
+   "week": 5,
+   "game": "vs Indianapolis Colts",
+   "player": "Nick Herbig",
+   "position": "OLB",
+   "group": "LB",
+   "grade": 5.3,
+   "grade_source": "stats",
+   "stats_grade": 5.3,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "38 defense snaps (54%), no box-score stats",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
    "id": "d5fc282bd1023f00",
    "type": "player_grade",
    "week": 5,
@@ -533,6 +593,26 @@
    "fan_votes": 0,
    "fan_grade": null,
    "box_score_line": "8 tkl, 2 TFL, 1 PD",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
+   "id": "607c3eee06f3d861",
+   "type": "player_grade",
+   "week": 5,
+   "game": "vs Indianapolis Colts",
+   "player": "T.J. Watt",
+   "position": "OLB",
+   "group": "LB",
+   "grade": 5.4,
+   "grade_source": "stats",
+   "stats_grade": 5.4,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "51 defense snaps (72%), no box-score stats",
    "method_url": "https://blackandgolddispatch.com/GRADES.md",
    "source": {
     "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
