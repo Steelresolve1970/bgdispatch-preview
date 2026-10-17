@@ -69,6 +69,7 @@ loadAll();setInterval(loadAll,5*60*1000);
 const TITLES={home:'News',podcasts:'Podcasts & YouTube',film:'Film Room',preview:'Film Preview',rumors:'Rumors & Roster',game:'Schedule',stats:'Stats',heatmap:'Player Heat Map',drafthub:'Draft',draft:'Mock Draft',college:'College Tracker',insiders:'Insiders',forum:'Forum',live:'Live Hub',injuries:'Injury Tracker',scout:'Opponent Scouting',cap:'Cap Center',rumormeter:'Rumor Meter',play:"Pick'em & Trivia",history:'Steelers History',alerts:'Alerts & Email'};
 function route(){const r=(location.hash.replace(/^#\/?/,'')||'home').split('/')[0];const alias={grades:'heatmap'};const v=alias[r]||(TITLES[r]?r:'home');
  document.querySelectorAll('.view').forEach(e=>e.hidden=e.dataset.view!==v);
+ {const ib=document.querySelector('.sidebar .insiders');if(ib)ib.style.display=v==='home'?'':'none';}
  document.querySelectorAll('nav a').forEach(a=>a.dataset.route===v?a.setAttribute('aria-current','page'):a.removeAttribute('aria-current'));document.querySelector('.more-btn')?.classList.toggle('cur',!!document.querySelector('.more a[aria-current]'));
  document.title=(v==='home'?'':TITLES[v]+' – ')+'Black & Gold Dispatch';document.body.classList.remove('nav-open');document.querySelector('.has-more')?.classList.remove('open');window.scrollTo(0,0);
  document.dispatchEvent(new CustomEvent('route',{detail:v}));
