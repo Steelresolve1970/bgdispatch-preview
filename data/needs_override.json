@@ -1,0 +1,13 @@
+{
+  "_help": "Owner override for Steelers needs. Edit the lists below, save, and the site updates on the next refresh (within 10 minutes). Positions: QB RB WR TE OT IOL EDGE DL LB CB S. 'pin' = always at the top, in this order. 'remove' = never listed. 'order' = if you fill this in, it REPLACES the automatic ranking completely. Leave lists empty [] to use the automatic ranking.",
+  "pin": [],
+  "remove": [],
+  "order": [
+    "QB",
+    "CB",
+    "S",
+    "ILB",
+    "WR"
+  ],
+  "note": "Owner order (Oct 17): QB, CB, S, Inside linebacker, WR"
+}

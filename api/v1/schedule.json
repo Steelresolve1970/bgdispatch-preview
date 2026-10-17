@@ -1,0 +1,380 @@
+{
+ "api_version": "1",
+ "dataset": "schedule",
+ "description": "Steelers season schedule and results (nflverse, CC-BY 4.0).",
+ "generated": "2026-10-17T22:28:40+00:00",
+ "data_updated": "2026-10-17T22:28:31+00:00",
+ "count": 17,
+ "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
+ "rights": {
+  "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
+  "espn_derived": false,
+  "data_license": "CC-BY-4.0 (credit: Data: nflverse (CC-BY 4.0))",
+  "licensable_by_steelers_daily": "our summaries/tiers/rankings only",
+  "third_party_fields_not_licensed": [
+   "title",
+   "url"
+  ]
+ },
+ "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
+ "html": "https://blackandgolddispatch.com/#/game",
+ "items": [
+  {
+   "id": "401872658",
+   "type": "game",
+   "week": "Week 1",
+   "kickoff": "2026-09-13T17:00:00+00:00",
+   "home": true,
+   "opponent": "Atlanta Falcons",
+   "opponent_abbr": "ATL",
+   "venue": "Acrisure Stadium",
+   "tv": null,
+   "status": "STATUS_FINAL",
+   "completed": true,
+   "result": "W",
+   "score_pit_opp": "20-13",
+   "url": "https://blackandgolddispatch.com/#/schedule",
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "401872946",
+   "type": "game",
+   "week": "Week 2",
+   "kickoff": "2026-09-20T17:00:00+00:00",
+   "home": false,
+   "opponent": "New England Patriots",
+   "opponent_abbr": "NE",
+   "venue": "Gillette Stadium",
+   "tv": null,
+   "status": "STATUS_FINAL",
+   "completed": true,
+   "result": "L",
+   "score_pit_opp": "3-20",
+   "url": "https://blackandgolddispatch.com/#/schedule",
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "401872950",
+   "type": "game",
+   "week": "Week 3",
+   "kickoff": "2026-09-27T17:00:00+00:00",
+   "home": true,
+   "opponent": "Cincinnati Bengals",
+   "opponent_abbr": "CIN",
+   "venue": "Acrisure Stadium",
+   "tv": null,
+   "status": "STATUS_FINAL",
+   "completed": true,
+   "result": "W",
+   "score_pit_opp": "30-27",
+   "url": "https://blackandgolddispatch.com/#/schedule",
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "401872964",
+   "type": "game",
+   "week": "Week 4",
+   "kickoff": "2026-10-02T00:15:00+00:00",
+   "home": false,
+   "opponent": "Cleveland Browns",
+   "opponent_abbr": "CLE",
+   "venue": "Huntington Bank Field",
+   "tv": null,
+   "status": "STATUS_FINAL",
+   "completed": true,
+   "result": "L",
+   "score_pit_opp": "24-27",
+   "url": "https://blackandgolddispatch.com/#/schedule",
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "401872985",
+   "type": "game",
+   "week": "Week 5",
+   "kickoff": "2026-10-11T17:00:00+00:00",
+   "home": true,
+   "opponent": "Indianapolis Colts",
+   "opponent_abbr": "IND",
+   "venue": "Acrisure Stadium",
+   "tv": null,
+   "status": "STATUS_FINAL",
+   "completed": true,
+   "result": "W",
+   "score_pit_opp": "34-22",
+   "url": "https://blackandgolddispatch.com/#/schedule",
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "401873002",
+   "type": "game",
+   "week": "Week 6",
+   "kickoff": "2026-10-18T17:00:00+00:00",
+   "home": false,
+   "opponent": "Tampa Bay Buccaneers",
+   "opponent_abbr": "TB",
+   "venue": "Raymond James Stadium",
+   "tv": null,
+   "status": "STATUS_SCHEDULED",
+   "completed": false,
+   "result": null,
+   "score_pit_opp": null,
+   "url": "https://blackandgolddispatch.com/#/schedule",
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "401873011",
+   "type": "game",
+   "week": "Week 7",
+   "kickoff": "2026-10-25T13:30:00+00:00",
+   "home": false,
+   "opponent": "New Orleans Saints",
+   "opponent_abbr": "NO",
+   "venue": "Stade de France",
+   "tv": null,
+   "status": "STATUS_SCHEDULED",
+   "completed": false,
+   "result": null,
+   "score_pit_opp": null,
+   "url": "https://blackandgolddispatch.com/#/schedule",
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "401873027",
+   "type": "game",
+   "week": "Week 8",
+   "kickoff": "2026-11-01T18:00:00+00:00",
+   "home": true,
+   "opponent": "Cleveland Browns",
+   "opponent_abbr": "CLE",
+   "venue": "Acrisure Stadium",
+   "tv": null,
+   "status": "STATUS_SCHEDULED",
+   "completed": false,
+   "result": null,
+   "score_pit_opp": null,
+   "url": "https://blackandgolddispatch.com/#/schedule",
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "401873064",
+   "type": "game",
+   "week": "Week 10",
+   "kickoff": "2026-11-16T01:20:00+00:00",
+   "home": false,
+   "opponent": "Cincinnati Bengals",
+   "opponent_abbr": "CIN",
+   "venue": "Paycor Stadium",
+   "tv": null,
+   "status": "STATUS_SCHEDULED",
+   "completed": false,
+   "result": null,
+   "score_pit_opp": null,
+   "url": "https://blackandgolddispatch.com/#/schedule",
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "401873076",
+   "type": "game",
+   "week": "Week 11",
+   "kickoff": "2026-11-22T21:25:00+00:00",
+   "home": false,
+   "opponent": "Philadelphia Eagles",
+   "opponent_abbr": "PHI",
+   "venue": "Lincoln Financial Field",
+   "tv": null,
+   "status": "STATUS_SCHEDULED",
+   "completed": false,
+   "result": null,
+   "score_pit_opp": null,
+   "url": "https://blackandgolddispatch.com/#/schedule",
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "401873083",
+   "type": "game",
+   "week": "Week 12",
+   "kickoff": "2026-11-27T20:00:00+00:00",
+   "home": true,
+   "opponent": "Denver Broncos",
+   "opponent_abbr": "DEN",
+   "venue": "Acrisure Stadium",
+   "tv": null,
+   "status": "STATUS_SCHEDULED",
+   "completed": false,
+   "result": null,
+   "score_pit_opp": null,
+   "url": "https://blackandgolddispatch.com/#/schedule",
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "401873107",
+   "type": "game",
+   "week": "Week 13",
+   "kickoff": "2026-12-07T01:20:00+00:00",
+   "home": true,
+   "opponent": "Houston Texans",
+   "opponent_abbr": "HOU",
+   "venue": "Acrisure Stadium",
+   "tv": null,
+   "status": "STATUS_SCHEDULED",
+   "completed": false,
+   "result": null,
+   "score_pit_opp": null,
+   "url": "https://blackandgolddispatch.com/#/schedule",
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "401873123",
+   "type": "game",
+   "week": "Week 14",
+   "kickoff": "2026-12-15T01:15:00+00:00",
+   "home": false,
+   "opponent": "Jacksonville Jaguars",
+   "opponent_abbr": "JAX",
+   "venue": "EverBank Stadium",
+   "tv": null,
+   "status": "STATUS_SCHEDULED",
+   "completed": false,
+   "result": null,
+   "score_pit_opp": null,
+   "url": "https://blackandgolddispatch.com/#/schedule",
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "401873128",
+   "type": "game",
+   "week": "Week 15",
+   "kickoff": "2026-12-20T18:00:00+00:00",
+   "home": true,
+   "opponent": "Baltimore Ravens",
+   "opponent_abbr": "BAL",
+   "venue": "Acrisure Stadium",
+   "tv": null,
+   "status": "STATUS_SCHEDULED",
+   "completed": false,
+   "result": null,
+   "score_pit_opp": null,
+   "url": "https://blackandgolddispatch.com/#/schedule",
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "401873144",
+   "type": "game",
+   "week": "Week 16",
+   "kickoff": "2026-12-27T18:00:00+00:00",
+   "home": true,
+   "opponent": "Carolina Panthers",
+   "opponent_abbr": "CAR",
+   "venue": "Acrisure Stadium",
+   "tv": null,
+   "status": "STATUS_SCHEDULED",
+   "completed": false,
+   "result": null,
+   "score_pit_opp": null,
+   "url": "https://blackandgolddispatch.com/#/schedule",
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "401873166",
+   "type": "game",
+   "week": "Week 17",
+   "kickoff": "2027-01-03T18:00:00+00:00",
+   "home": false,
+   "opponent": "Tennessee Titans",
+   "opponent_abbr": "TEN",
+   "venue": "Nissan Stadium",
+   "tv": null,
+   "status": "STATUS_SCHEDULED",
+   "completed": false,
+   "result": null,
+   "score_pit_opp": null,
+   "url": "https://blackandgolddispatch.com/#/schedule",
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "401873183",
+   "type": "game",
+   "week": "Week 18",
+   "kickoff": "2027-01-10T18:00:00+00:00",
+   "home": false,
+   "opponent": "Baltimore Ravens",
+   "opponent_abbr": "BAL",
+   "venue": "M&T Bank Stadium",
+   "tv": null,
+   "status": "STATUS_SCHEDULED",
+   "completed": false,
+   "result": null,
+   "score_pit_opp": null,
+   "url": "https://blackandgolddispatch.com/#/schedule",
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  }
+ ]
+}

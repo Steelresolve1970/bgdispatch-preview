@@ -1,0 +1,10 @@
+{
+ "_help": "Owner switches. base_url: the public address once the site is live. ai_crawlers_allowed: true welcomes AI crawlers in robots.txt, false blocks the known AI bots. premium_enabled: keep false (paid feeds are only a scaffold, see AI-ACCESS.md). site_name: the brand name shown everywhere.",
+ "base_url": "https://blackandgolddispatch.com",
+ "ai_crawlers_allowed": true,
+ "premium_enabled": false,
+ "site_name": "Black & Gold Dispatch",
+ "tagline": "Daily Steelers news. Unofficial fan site.",
+ "domain_note": "blackandgolddispatch.com is a placeholder: the owner has NOT registered it yet.",
+ "disclaimer": "Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL."
+}

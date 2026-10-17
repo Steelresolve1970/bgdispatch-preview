@@ -1,0 +1,725 @@
+{
+ "generated": "2026-10-17T22:28:35.527548+00:00",
+ "as_of": "2026-10-17T11:33:46Z",
+ "units": [
+  {
+   "unit": "Offense",
+   "formation": "3WR 1TE",
+   "rows": [
+    {
+     "slot": "QB",
+     "label": "Quarterback",
+     "players": [
+      {
+       "name": "Aaron Rodgers",
+       "jersey": "8",
+       "pos": "QB",
+       "injury": null,
+       "link": null
+      },
+      {
+       "name": "Mason Rudolph",
+       "jersey": "2",
+       "pos": "QB",
+       "injury": null,
+       "link": null
+      },
+      {
+       "name": "Will Howard",
+       "jersey": "18",
+       "pos": "QB",
+       "injury": null,
+       "link": null
+      },
+      {
+       "name": "Drew Allar",
+       "jersey": "16",
+       "pos": "QB",
+       "injury": null,
+       "link": null
+      }
+     ]
+    },
+    {
+     "slot": "RB",
+     "label": "Running Back",
+     "players": [
+      {
+       "name": "Jaylen Warren",
+       "jersey": "30",
+       "pos": "RB",
+       "injury": null,
+       "link": null
+      },
+      {
+       "name": "Rico Dowdle",
+       "jersey": "13",
+       "pos": "RB",
+       "injury": "Questionable",
+       "link": null
+      },
+      {
+       "name": "Travis Homer",
+       "jersey": "21",
+       "pos": "RB",
+       "injury": null,
+       "link": null
+      },
+      {
+       "name": "Eli Heidenreich",
+       "jersey": "29",
+       "pos": "RB",
+       "injury": null,
+       "link": null
+      }
+     ]
+    },
+    {
+     "slot": "FB",
+     "label": "Fullback",
+     "players": [
+      {
+       "name": "Riley Nowakowski",
+       "jersey": "37",
+       "pos": "RB",
+       "injury": null,
+       "link": null
+      }
+     ]
+    },
+    {
+     "slot": "WR",
+     "label": "Wide Receiver",
+     "players": [
+      {
+       "name": "DK Metcalf",
+       "jersey": "4",
+       "pos": "WR",
+       "injury": "Questionable",
+       "link": null
+      },
+      {
+       "name": "Ben Skowronek",
+       "jersey": "15",
+       "pos": "WR",
+       "injury": "Out",
+       "link": null
+      },
+      {
+       "name": "Cole Burgess",
+       "jersey": "85",
+       "pos": "WR",
+       "injury": "Injured Reserve",
+       "link": null
+      }
+     ]
+    },
+    {
+     "slot": "WR",
+     "label": "Wide Receiver",
+     "players": [
+      {
+       "name": "Roman Wilson",
+       "jersey": "14",
+       "pos": "WR",
+       "injury": "Out",
+       "link": null
+      },
+      {
+       "name": "Kaden Wetjen",
+       "jersey": "10",
+       "pos": "WR",
+       "injury": null,
+       "link": null
+      }
+     ]
+    },
+    {
+     "slot": "WR",
+     "label": "Wide Receiver",
+     "players": [
+      {
+       "name": "Germie Bernard",
+       "jersey": "17",
+       "pos": "WR",
+       "injury": null,
+       "link": null
+      },
+      {
+       "name": "Michael Pittman Jr.",
+       "jersey": "11",
+       "pos": "WR",
+       "injury": null,
+       "link": null
+      }
+     ]
+    },
+    {
+     "slot": "TE",
+     "label": "Tight End",
+     "players": [
+      {
+       "name": "Darnell Washington",
+       "jersey": "80",
+       "pos": "TE",
+       "injury": null,
+       "link": null
+      },
+      {
+       "name": "Pat Freiermuth",
+       "jersey": "88",
+       "pos": "TE",
+       "injury": null,
+       "link": null
+      },
+      {
+       "name": "Robert Tonyan",
+       "jersey": "85",
+       "pos": "TE",
+       "injury": null,
+       "link": null
+      }
+     ]
+    },
+    {
+     "slot": "LT",
+     "label": "Left Tackle",
+     "players": [
+      {
+       "name": "Troy Fautanu",
+       "jersey": "76",
+       "pos": "OL",
+       "injury": null,
+       "link": null
+      },
+      {
+       "name": "Dylan Cook",
+       "jersey": "60",
+       "pos": "OL",
+       "injury": null,
+       "link": null
+      },
+      {
+       "name": "Jack Driscoll",
+       "jersey": "68",
+       "pos": "OL",
+       "injury": "Injured Reserve",
+       "link": null
+      }
+     ]
+    },
+    {
+     "slot": "LG",
+     "label": "Left Guard",
+     "players": [
+      {
+       "name": "Mason McCormick",
+       "jersey": "66",
+       "pos": "OL",
+       "injury": null,
+       "link": null
+      },
+      {
+       "name": "Brock Hoffman",
+       "jersey": "67",
+       "pos": "OL",
+       "injury": null,
+       "link": null
+      },
+      {
+       "name": "Gennings Dunker",
+       "jersey": "73",
+       "pos": "OL",
+       "injury": "Injured Reserve",
+       "link": null
+      }
+     ]
+    },
+    {
+     "slot": "C",
+     "label": "Center",
+     "players": [
+      {
+       "name": "Zach Frazier",
+       "jersey": "54",
+       "pos": "OL",
+       "injury": null,
+       "link": null
+      },
+      {
+       "name": "Ryan McCollum",
+       "jersey": "62",
+       "pos": "OL",
+       "injury": null,
+       "link": null
+      }
+     ]
+    },
+    {
+     "slot": "RG",
+     "label": "Right Guard",
+     "players": [
+      {
+       "name": "Brock Hoffman",
+       "jersey": "67",
+       "pos": "OL",
+       "injury": null,
+       "link": null
+      },
+      {
+       "name": "Spencer Anderson",
+       "jersey": "74",
+       "pos": "OL",
+       "injury": null,
+       "link": null
+      }
+     ]
+    },
+    {
+     "slot": "RT",
+     "label": "Right Tackle",
+     "players": [
+      {
+       "name": "Max Iheanachor",
+       "jersey": "71",
+       "pos": "OL",
+       "injury": null,
+       "link": null
+      },
+      {
+       "name": "Dylan Cook",
+       "jersey": "60",
+       "pos": "OL",
+       "injury": null,
+       "link": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "unit": "Defense",
+   "formation": "Base 3-4 D",
+   "rows": [
+    {
+     "slot": "LDE",
+     "label": "Left Defensive End",
+     "players": [
+      {
+       "name": "Yahya Black",
+       "jersey": "94",
+       "pos": "DL",
+       "injury": null,
+       "link": null
+      },
+      {
+       "name": "Gabriel Rubio",
+       "jersey": null,
+       "pos": "LDE",
+       "injury": null,
+       "link": null
+      },
+      {
+       "name": "Derrick Harmon",
+       "jersey": "99",
+       "pos": "DL",
+       "injury": "Injured Reserve",
+       "link": null
+      }
+     ]
+    },
+    {
+     "slot": "NT",
+     "label": "Nose Tackle",
+     "players": [
+      {
+       "name": "Keeanu Benton",
+       "jersey": "95",
+       "pos": "DL",
+       "injury": "Questionable",
+       "link": null
+      },
+      {
+       "name": "Sebastian Joseph-Day",
+       "jersey": "69",
+       "pos": "DL",
+       "injury": null,
+       "link": null
+      }
+     ]
+    },
+    {
+     "slot": "RDE",
+     "label": "Right Defensive End",
+     "players": [
+      {
+       "name": "Cameron Heyward",
+       "jersey": "97",
+       "pos": "DL",
+       "injury": null,
+       "link": null
+      },
+      {
+       "name": "Kevin Jobity Jr.",
+       "jersey": "92",
+       "pos": "DL",
+       "injury": null,
+       "link": null
+      },
+      {
+       "name": "Logan Lee",
+       "jersey": "91",
+       "pos": "DL",
+       "injury": "Injured Reserve",
+       "link": null
+      }
+     ]
+    },
+    {
+     "slot": "WLB",
+     "label": "Weakside Linebacker",
+     "players": [
+      {
+       "name": "T.J. Watt",
+       "jersey": "90",
+       "pos": "LB",
+       "injury": null,
+       "link": null
+      },
+      {
+       "name": "Nick Herbig",
+       "jersey": "51",
+       "pos": "LB",
+       "injury": null,
+       "link": null
+      }
+     ]
+    },
+    {
+     "slot": "LILB",
+     "label": "Left Inside Linebacker",
+     "players": [
+      {
+       "name": "Payton Wilson",
+       "jersey": "41",
+       "pos": "LB",
+       "injury": null,
+       "link": null
+      },
+      {
+       "name": "Cole Holcomb",
+       "jersey": "55",
+       "pos": "LB",
+       "injury": null,
+       "link": null
+      }
+     ]
+    },
+    {
+     "slot": "RILB",
+     "label": "Right Inside Linebacker",
+     "players": [
+      {
+       "name": "Patrick Queen",
+       "jersey": "6",
+       "pos": "LB",
+       "injury": null,
+       "link": null
+      },
+      {
+       "name": "Carson Bruener",
+       "jersey": "44",
+       "pos": "LB",
+       "injury": null,
+       "link": null
+      }
+     ]
+    },
+    {
+     "slot": "SLB",
+     "label": "Strongside Linebacker",
+     "players": [
+      {
+       "name": "Alex Highsmith",
+       "jersey": "56",
+       "pos": "LB",
+       "injury": null,
+       "link": null
+      },
+      {
+       "name": "Jack Sawyer",
+       "jersey": "33",
+       "pos": "LB",
+       "injury": null,
+       "link": null
+      }
+     ]
+    },
+    {
+     "slot": "LCB",
+     "label": "Left Cornerback",
+     "players": [
+      {
+       "name": "Asante Samuel Jr.",
+       "jersey": "22",
+       "pos": "DB",
+       "injury": null,
+       "link": null
+      },
+      {
+       "name": "Sean Murphy-Bunting",
+       "jersey": "27",
+       "pos": "DB",
+       "injury": null,
+       "link": null
+      },
+      {
+       "name": "Terell Smith",
+       "jersey": "39",
+       "pos": "DB",
+       "injury": null,
+       "link": null
+      }
+     ]
+    },
+    {
+     "slot": "SS",
+     "label": "Strong Safety",
+     "players": [
+      {
+       "name": "Robert Spears-Jennings",
+       "jersey": "28",
+       "pos": "DB",
+       "injury": null,
+       "link": null
+      },
+      {
+       "name": "DeShon Elliott",
+       "jersey": "25",
+       "pos": "DB",
+       "injury": "Out",
+       "link": null
+      }
+     ]
+    },
+    {
+     "slot": "FS",
+     "label": "Free Safety",
+     "players": [
+      {
+       "name": "Jaquan Brisker",
+       "jersey": "3",
+       "pos": "DB",
+       "injury": null,
+       "link": null
+      },
+      {
+       "name": "Rayshawn Jenkins",
+       "jersey": "20",
+       "pos": "DB",
+       "injury": null,
+       "link": null
+      }
+     ]
+    },
+    {
+     "slot": "RCB",
+     "label": "Right Cornerback",
+     "players": [
+      {
+       "name": "Jamel Dean",
+       "jersey": "35",
+       "pos": "DB",
+       "injury": "Questionable",
+       "link": null
+      },
+      {
+       "name": "Daylen Everette",
+       "jersey": "23",
+       "pos": "DB",
+       "injury": null,
+       "link": null
+      },
+      {
+       "name": "Doneiko Slaughter",
+       "jersey": "40",
+       "pos": "DB",
+       "injury": null,
+       "link": null
+      },
+      {
+       "name": "Daequan Hardy",
+       "jersey": "31",
+       "pos": "DB",
+       "injury": "Injured Reserve",
+       "link": null
+      }
+     ]
+    },
+    {
+     "slot": "NB",
+     "label": "Nickel Back",
+     "players": [
+      {
+       "name": "Jalen Ramsey",
+       "jersey": "5",
+       "pos": "DB",
+       "injury": "Questionable",
+       "link": null
+      },
+      {
+       "name": "Brandin Echols",
+       "jersey": "26",
+       "pos": "DB",
+       "injury": null,
+       "link": null
+      },
+      {
+       "name": "Donte Kent",
+       "jersey": "34",
+       "pos": "DB",
+       "injury": "Physically Unable to Perform",
+       "link": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "unit": "Special teams",
+   "formation": "Special Teams",
+   "rows": [
+    {
+     "slot": "PK",
+     "label": "Place kicker",
+     "players": [
+      {
+       "name": "Chris Boswell",
+       "jersey": "9",
+       "pos": "K",
+       "injury": null,
+       "link": null
+      }
+     ]
+    },
+    {
+     "slot": "P",
+     "label": "Punter",
+     "players": [
+      {
+       "name": "Cameron Johnston",
+       "jersey": "19",
+       "pos": "P",
+       "injury": null,
+       "link": null
+      }
+     ]
+    },
+    {
+     "slot": "H",
+     "label": "Holder",
+     "players": [
+      {
+       "name": "Cameron Johnston",
+       "jersey": "19",
+       "pos": "P",
+       "injury": null,
+       "link": null
+      }
+     ]
+    },
+    {
+     "slot": "PR",
+     "label": "Punt Returner",
+     "players": [
+      {
+       "name": "Kaden Wetjen",
+       "jersey": "10",
+       "pos": "WR",
+       "injury": null,
+       "link": null
+      },
+      {
+       "name": "Roman Wilson",
+       "jersey": "14",
+       "pos": "WR",
+       "injury": "Out",
+       "link": null
+      },
+      {
+       "name": "Rico Dowdle",
+       "jersey": "13",
+       "pos": "RB",
+       "injury": "Questionable",
+       "link": null
+      },
+      {
+       "name": "Donte Kent",
+       "jersey": "34",
+       "pos": "DB",
+       "injury": "Physically Unable to Perform",
+       "link": null
+      }
+     ]
+    },
+    {
+     "slot": "KR",
+     "label": "Kick Returner",
+     "players": [
+      {
+       "name": "Kaden Wetjen",
+       "jersey": "10",
+       "pos": "WR",
+       "injury": null,
+       "link": null
+      },
+      {
+       "name": "Eli Heidenreich",
+       "jersey": "29",
+       "pos": "RB",
+       "injury": null,
+       "link": null
+      },
+      {
+       "name": "Roman Wilson",
+       "jersey": "14",
+       "pos": "WR",
+       "injury": "Out",
+       "link": null
+      },
+      {
+       "name": "Rico Dowdle",
+       "jersey": "13",
+       "pos": "RB",
+       "injury": "Questionable",
+       "link": null
+      },
+      {
+       "name": "Donte Kent",
+       "jersey": "34",
+       "pos": "DB",
+       "injury": "Physically Unable to Perform",
+       "link": null
+      }
+     ]
+    },
+    {
+     "slot": "LS",
+     "label": "Long Snapper",
+     "players": [
+      {
+       "name": "Christian Kuntz",
+       "jersey": "46",
+       "pos": "LS",
+       "injury": null,
+       "link": null
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "Data: nflverse (CC-BY 4.0)",
+ "source_url": "https://github.com/nflverse/nflverse-data",
+ "note": "Depth chart: nflverse (CC-BY 4.0), as of 2026-10-17T11:33:46Z. Injury tags from the official NFL injury report via nflverse."
+}

@@ -1,0 +1,343 @@
+{
+ "generated": "2026-10-17T22:28:35.146273+00:00",
+ "next_game": {
+  "id": "401873002",
+  "nflverse_id": "2026_06_PIT_TB",
+  "date": "2026-10-18T17:00Z",
+  "week": "Week 6",
+  "week_num": 6,
+  "home": false,
+  "opponent": "Tampa Bay Buccaneers",
+  "opp_abbr": "TB",
+  "status": "STATUS_SCHEDULED",
+  "completed": false,
+  "result": null,
+  "score": null,
+  "pit_score": "",
+  "opp_score": "",
+  "venue": "Raymond James Stadium",
+  "tv": null,
+  "season_type": "REG"
+ },
+ "players": [
+  {
+   "name": "Ben Skowronek",
+   "pos": "WR",
+   "jersey": "15",
+   "status": "Out",
+   "injury": "Calf",
+   "side": null,
+   "detail": null,
+   "return_date": null,
+   "date": null,
+   "practice": "Did Not Participate In Practice",
+   "week": 6,
+   "link": "https://www.nfl.com/injuries/"
+  },
+  {
+   "name": "DeShon Elliott",
+   "pos": "S",
+   "jersey": "25",
+   "status": "Out",
+   "injury": "Knee",
+   "side": null,
+   "detail": null,
+   "return_date": null,
+   "date": null,
+   "practice": "Limited Participation in Practice",
+   "week": 6,
+   "link": "https://www.nfl.com/injuries/"
+  },
+  {
+   "name": "Roman Wilson",
+   "pos": "WR",
+   "jersey": "14",
+   "status": "Out",
+   "injury": "Finger",
+   "side": null,
+   "detail": null,
+   "return_date": null,
+   "date": null,
+   "practice": "Did Not Participate In Practice",
+   "week": 6,
+   "link": "https://www.nfl.com/injuries/"
+  },
+  {
+   "name": "DK Metcalf",
+   "pos": "WR",
+   "jersey": "4",
+   "status": "Questionable",
+   "injury": "Illness",
+   "side": null,
+   "detail": null,
+   "return_date": null,
+   "date": null,
+   "practice": "Did Not Participate In Practice",
+   "week": 6,
+   "link": "https://www.nfl.com/injuries/"
+  },
+  {
+   "name": "Jalen Ramsey",
+   "pos": "CB",
+   "jersey": "5",
+   "status": "Questionable",
+   "injury": "Wrist",
+   "side": null,
+   "detail": null,
+   "return_date": null,
+   "date": null,
+   "practice": "Limited Participation in Practice",
+   "week": 6,
+   "link": "https://www.nfl.com/injuries/"
+  },
+  {
+   "name": "Jamel Dean",
+   "pos": "CB",
+   "jersey": "35",
+   "status": "Questionable",
+   "injury": "Ankle",
+   "side": null,
+   "detail": null,
+   "return_date": null,
+   "date": null,
+   "practice": "Limited Participation in Practice",
+   "week": 6,
+   "link": "https://www.nfl.com/injuries/"
+  },
+  {
+   "name": "Keeanu Benton",
+   "pos": "DT",
+   "jersey": "95",
+   "status": "Questionable",
+   "injury": "Ankle",
+   "side": null,
+   "detail": null,
+   "return_date": null,
+   "date": null,
+   "practice": "Full Participation in Practice",
+   "week": 6,
+   "link": "https://www.nfl.com/injuries/"
+  },
+  {
+   "name": "Rico Dowdle",
+   "pos": "RB",
+   "jersey": "13",
+   "status": "Questionable",
+   "injury": "Toe",
+   "side": null,
+   "detail": null,
+   "return_date": null,
+   "date": null,
+   "practice": "Full Participation in Practice",
+   "week": 6,
+   "link": "https://www.nfl.com/injuries/"
+  },
+  {
+   "name": "Cole Burgess",
+   "pos": "WR",
+   "jersey": "85",
+   "status": "Injured Reserve",
+   "injury": null,
+   "side": null,
+   "detail": null,
+   "return_date": null,
+   "date": null,
+   "practice": null,
+   "week": 6,
+   "link": "https://www.nfl.com/transactions/"
+  },
+  {
+   "name": "Daequan Hardy",
+   "pos": "DB",
+   "jersey": "31",
+   "status": "Injured Reserve",
+   "injury": null,
+   "side": null,
+   "detail": null,
+   "return_date": null,
+   "date": null,
+   "practice": null,
+   "week": 6,
+   "link": "https://www.nfl.com/transactions/"
+  },
+  {
+   "name": "Derrick Harmon",
+   "pos": "DL",
+   "jersey": "99",
+   "status": "Injured Reserve",
+   "injury": null,
+   "side": null,
+   "detail": null,
+   "return_date": null,
+   "date": null,
+   "practice": null,
+   "week": 6,
+   "link": "https://www.nfl.com/transactions/"
+  },
+  {
+   "name": "Gennings Dunker",
+   "pos": "OL",
+   "jersey": "73",
+   "status": "Injured Reserve",
+   "injury": null,
+   "side": null,
+   "detail": null,
+   "return_date": null,
+   "date": null,
+   "practice": null,
+   "week": 6,
+   "link": "https://www.nfl.com/transactions/"
+  },
+  {
+   "name": "Jack Driscoll",
+   "pos": "OL",
+   "jersey": "68",
+   "status": "Injured Reserve",
+   "injury": null,
+   "side": null,
+   "detail": null,
+   "return_date": null,
+   "date": null,
+   "practice": null,
+   "week": 6,
+   "link": "https://www.nfl.com/transactions/"
+  },
+  {
+   "name": "Logan Lee",
+   "pos": "DL",
+   "jersey": "91",
+   "status": "Injured Reserve",
+   "injury": null,
+   "side": null,
+   "detail": null,
+   "return_date": null,
+   "date": null,
+   "practice": null,
+   "week": 6,
+   "link": "https://www.nfl.com/transactions/"
+  },
+  {
+   "name": "Michael Pittman",
+   "pos": "WR",
+   "jersey": "11",
+   "status": "Injured Reserve",
+   "injury": null,
+   "side": null,
+   "detail": null,
+   "return_date": null,
+   "date": null,
+   "practice": null,
+   "week": 6,
+   "link": "https://www.nfl.com/transactions/"
+  },
+  {
+   "name": "Donte Kent",
+   "pos": "DB",
+   "jersey": "34",
+   "status": "Physically Unable to Perform",
+   "injury": null,
+   "side": null,
+   "detail": null,
+   "return_date": null,
+   "date": null,
+   "practice": null,
+   "week": 6,
+   "link": "https://www.nfl.com/transactions/"
+  }
+ ],
+ "practice_headlines": [
+  {
+   "title": "Steelers lose receiver Wilson to IR, Metcalf comes off injury report",
+   "source": "ESPN",
+   "link": "https://www.espn.com/nfl/story/_/id/50203338/steelers-place-receiver-wilson-ir",
+   "published": "2026-10-17T22:21:16+00:00"
+  },
+  {
+   "title": "Steelers Make Late Injury Report Changes Before Buccaneers Game",
+   "source": "SportsNet Pittsburgh",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZFNESUZpRjhmWEhlVG1wUFFZcU02bVhvTWFiVE9VZWNOZmpuMW1KV2UySnk0VkVGNjRsUjl3aU5Jb0RzM0ZBa1VNdUNIUXRkSVAzR3lHMThDdVhTQ3ZHc3kzbnZrM2VSS2ZZeVlyeWlJOUhQZkxuNmh6dnE2ZklXMXYwUmpYWkk0NG8zazZRdnVHN3Judzhyd25GUVBuYTJaQUEwWFFjMzczWFVjbVR0UGkyOWpTSlctaWJuV1BCOGtRYVJSNDBxNEdn?oc=5",
+   "published": "2026-10-17T20:33:19+00:00"
+  },
+  {
+   "title": "The Steelers place WR Roman Wilson on injured reserve; add tight end Pat Freiermuth to the injury report",
+   "source": "Pittsburgh Post-Gazette",
+   "link": "https://www.post-gazette.com/sports/steelers/2026/10/17/the-steelers-place-wr-roman-wilson-on-injured-reserve-add-tight-end-pat-freiermu/stories/202610170039",
+   "published": "2026-10-17T19:43:13+00:00"
+  },
+  {
+   "title": "Steelers put Roman Wilson on injured reserve",
+   "source": "ProFootballTalk (NBC)",
+   "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-put-roman-wilson-on-injured-reserve",
+   "published": "2026-10-17T19:19:59+00:00"
+  },
+  {
+   "title": "Steelers place WR Roman Wilson on injured reserve",
+   "source": "TribLive",
+   "link": "https://triblive.com/sports/steelers-place-wr-roman-wilson-on-injured-reserve/",
+   "published": "2026-10-17T19:15:23+00:00"
+  },
+  {
+   "title": "Steelers Add Two Practice Squad WRs for Bucs Game",
+   "source": "Sports Illustrated",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYkF4UmwzX3JiQTBMaHBYUUxUY0lVckJKQzhYWm1xdHNnTWE4THY5ejBNNjZ1al85VVBuczBxa0NjLS1laDRGNWRfazNTMnE5REh2NVRneWJHd2dyZjdyVGRoZXJPZjdvd3dsemh0UFMxVG1tRW4wYmZ2akRUbnJ1R1EwTTZQY2lIVjJjbFZvWHRyZTRkY1FuVmM0Z0ppTjFEdmJNYzdn?oc=5",
+   "published": "2026-10-17T19:03:56+00:00"
+  },
+  {
+   "title": "Steelers' DK Metcalf off injury report, Pat Freiermuth added",
+   "source": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY3pqd3lVYzBDNEk1anhyOUoxTzlFQXJ3YTZXeTVROERRc2xZTWozWHI2WmNfWDQyZjNEbVdQMjdZa0E4X1hXQlcwWEUxNGZScHZidVlOQlBPdXc3Y2xTV0E2Nmx4Y1F3bWtpTjNlZFpPNElIMnVfNWQ1bHZYRHhYSjBNaGRNQjBERXFPbTYxbWMzWU1LZUJiRS1tQndjQm1CWVc4czZ6SDFvZw?oc=5",
+   "published": "2026-10-17T18:01:43+00:00"
+  },
+  {
+   "title": "Steelers TE Pat Freiermuth questionable vs. Bucs; WR DK Metcalf removed from injury report",
+   "source": "TribLive",
+   "link": "https://triblive.com/sports/steelers-te-pat-freiermuth-questionable-vs-bucs-wr-dk-metcalf-removed-from-injury-report/",
+   "published": "2026-10-17T17:15:35+00:00"
+  },
+  {
+   "title": "Steelers TE Pat Freiermuth questionable vs. Buccaneers",
+   "source": "Behind the Steel Curtain",
+   "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176471/steelers-te-pat-freiermuth-questionable-vs-buccaneers-dk-metcalf",
+   "published": "2026-10-17T16:35:52+00:00"
+  },
+  {
+   "title": "Steelers say DK Metcalf will play, Pat Freiermuth is questionable with calf injury",
+   "source": "ProFootballTalk (NBC)",
+   "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-say-dk-metcalf-will-play-pat-freiermuth-is-questionable-with-calf-injury",
+   "published": "2026-10-17T16:32:19+00:00"
+  },
+  {
+   "title": "Steelers Clear DK Metcalf, Add Pat Freiermuth To Injury Report Saturday",
+   "source": "Steelers Depot",
+   "link": "https://steelersdepot.com/2026/10/steelers-clear-dk-metcalf-add-pat-freiermuth-to-injury-report-saturday/",
+   "published": "2026-10-17T16:30:28+00:00"
+  },
+  {
+   "title": "DK Metcalf (illness) joins 4 other Steelers starters listed as questionable to play vs. Bucs",
+   "source": "TribLive",
+   "link": "https://triblive.com/sports/dk-metcalf-illness-joins-4-other-steelers-starters-listed-as-questionable-to-play-vs-bucs/",
+   "published": "2026-10-16T21:43:35+00:00"
+  },
+  {
+   "title": "The Steelers rule out DeShon Elliott, list DK Metcalf as questionable for Sunday",
+   "source": "Pittsburgh Post-Gazette",
+   "link": "https://www.post-gazette.com/sports/steelers/2026/10/16/steelers-injury-news-week-6/stories/202610160033",
+   "published": "2026-10-16T20:00:00+00:00"
+  },
+  {
+   "title": "DK Metcalf is questionable, and the Steelers passing game can\u2019t afford the loss",
+   "source": "Still Curtain",
+   "link": "https://stillcurtain.com/pittsburgh-steelers-buccaneers-week-5-injury-report-friday?utm_source=RSS",
+   "published": "2026-10-16T19:36:27+00:00"
+  },
+  {
+   "title": "2 practice-squad wide receivers likely to play for Steelers Sunday",
+   "source": "TribLive",
+   "link": "https://triblive.com/sports/2-practice-squad-wide-receivers-likely-to-play-for-the-steelers-on-sunday/",
+   "published": "2026-10-15T21:35:22+00:00"
+  }
+ ],
+ "source": "Data: nflverse (CC-BY 4.0)",
+ "source_url": "https://github.com/nflverse/nflverse-data",
+ "note": "Designations: official NFL injury report and reserve lists via nflverse (CC-BY 4.0), updated daily (mostly overnight). Practice report: Steelers headlines mentioning practice/status, linking to the publisher."
+}

@@ -1,0 +1,23 @@
+# Steelers Film Room & Previews
+
+_Generated 2026-10-17T22:28:40+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-17T22:28:33+00:00._
+_JSON: https://blackandgolddispatch.com/api/v1/film.json_
+
+- Breakdown (vs Indianapolis Colts (Oct 11)): [Film Room: Max Iheanachor Is Already Fixing His Biggest Issue](https://steelersdepot.com/2026/10/film-room-max-iheanachor-is-already-fixing-his-biggest-issue/): Steelers Depot Film Room (Alex Kozora), 2026-10-17 11:15 UTC
+- Breakdown (vs Indianapolis Colts (Oct 11)): [Overall Grade vs Colts](https://www.youtube.com/watch?v=omOtoxTK19E): Steelers Almighty, 2026-10-16 15:10 UTC
+- Breakdown (vs Indianapolis Colts (Oct 11)): [ST Grades vs Colts](https://www.youtube.com/watch?v=lQHr4XkRi0g): Steelers Almighty, 2026-10-16 13:06 UTC
+- Breakdown (vs Indianapolis Colts (Oct 11)): [Defense Grades vs Colts](https://www.youtube.com/shorts/7d5k7Mntry4): Steelers Almighty, 2026-10-16 11:07 UTC
+- Breakdown (vs Indianapolis Colts (Oct 11)): [The Terrible Podcast — Steelers Vs. Colts All-22 Review, McCarthy Monday Recap, Week 6 WR Issues](https://www.youtube.com/watch?v=t6YSD1i_je0): Steelers Depot (YouTube), 2026-10-14 16:33 UTC
+- Breakdown (vs Indianapolis Colts (Oct 11)): [Film Room: Germie Bernard is EXACTLY What the Steelers Need!](https://www.youtube.com/watch?v=VflwgbiXV1g): Steelers_DB, 2026-10-12 22:20 UTC
+- Breakdown (vs Indianapolis Colts (Oct 11)): [Film Room: Gabriel Rubio Looks Strong In NFL Debut](https://steelersdepot.com/2026/10/film-room-gabriel-rubio-stands-strong-in-nfl-debut/): Steelers Depot Film Room (Alex Kozora), 2026-10-12 18:00 UTC
+- Breakdown (vs Indianapolis Colts (Oct 11)): [Film Room: Yahya Black Steps Up In Derrick Harmon’s Absence](https://steelersdepot.com/2026/10/film-room-yahya-black-steps-up-in-derrick-harmons-absence/): Steelers Depot Film Room (Alex Kozora), 2026-10-12 16:30 UTC
+- Preview (at Tampa Bay Buccaneers (Oct 18)): [Steelers Afternoon Drive: Buccaneers Preview & Predictions](https://steelersnow.com/steelers-afternoon-drive-buccaneers-preview-predictions/): Steelers Now, 2026-10-16 22:11 UTC
+- Preview (at Tampa Bay Buccaneers (Oct 18)): [How to pressure Tampa Bay | Playbook with Merril Hoge | Pittsburgh Steelers](https://www.youtube.com/watch?v=9sQcJpz3j8M): Merril Hoge – Steelers Playbook (official), 2026-10-16 22:00 UTC
+- Preview (at Tampa Bay Buccaneers (Oct 18)): [Steelers Look to String Together Back to Back Wins in Tampa | Scouting Report Week 6](https://www.youtube.com/watch?v=KJ2oZgYo4rQ): Steelers Almighty, 2026-10-16 18:00 UTC
+- Preview (at Tampa Bay Buccaneers (Oct 18)): [The Terrible Podcast — Steelers Vs Buccaneers Game Preview, Trade Possibility, Injuries, W6 Picks](https://www.youtube.com/watch?v=lHwxWzn_glI): Steelers Depot (YouTube), 2026-10-16 15:33 UTC
+- Preview (at Tampa Bay Buccaneers (Oct 18)): [Buccaneers Defense Scouting Report: Batten Down The Hatches To Beat The Blitz](https://steelersdepot.com/2026/10/buccaneers-defense-scouting-report-batten-down-the-hatches-down-to-beat-the-blitz/): Alex Kozora (Steelers Depot), 2026-10-16 13:30 UTC
+- Preview (at Tampa Bay Buccaneers (Oct 18)): [Steelers-Buccaneers preview: What to expect from Tampa Bay’s offense, defense in Week 6](https://www.behindthesteelcurtain.com/pittsburgh-steelers-game-information/176163/steelers-buccaneers-preview-what-to-expect-from-tampa-bay-offense-defense-in-week-6-jalon-daniels-vita-vea): Behind the Steel Curtain, 2026-10-16 13:00 UTC
+- Preview (at Tampa Bay Buccaneers (Oct 18)): [Buccaneers Offense Scouting Report: Creative Runs, Safe Passes](https://steelersdepot.com/2026/10/buccaneers-offensive-scouting-report-creative-runs-safe-passes/): Alex Kozora (Steelers Depot), 2026-10-16 12:30 UTC
+
+---
+Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

@@ -1,0 +1,362 @@
+{
+ "generated": "2026-10-17T22:28:35.146273+00:00",
+ "game": {
+  "id": "401873002",
+  "nflverse_id": "2026_06_PIT_TB",
+  "date": "2026-10-18T17:00Z",
+  "week": "Week 6",
+  "week_num": 6,
+  "home": false,
+  "opponent": "Tampa Bay Buccaneers",
+  "opp_abbr": "TB",
+  "status": "STATUS_SCHEDULED",
+  "completed": false,
+  "result": null,
+  "score": null,
+  "pit_score": "",
+  "opp_score": "",
+  "venue": "Raymond James Stadium",
+  "tv": null,
+  "season_type": "REG"
+ },
+ "team": "Tampa Bay Buccaneers",
+ "abbr": "TB",
+ "record": "1-4",
+ "stats": {
+  "opp": {
+   "Points Per Game": "20.0",
+   "Total Yards": "306.4",
+   "Yards Passing": "173.4",
+   "Yards Rushing": "133.0",
+   "Points Allowed Per Game": "22.4",
+   "Yards Allowed": "299.4",
+   "Pass Yards Allowed": "226.6",
+   "Rush Yards Allowed": "72.8"
+  },
+  "pit": {
+   "Points Per Game": "22.2",
+   "Total Yards": "324.6",
+   "Yards Passing": "223.4",
+   "Yards Rushing": "101.2",
+   "Points Allowed Per Game": "21.8",
+   "Yards Allowed": "324.2",
+   "Pass Yards Allowed": "220.8",
+   "Rush Yards Allowed": "103.4"
+  }
+ },
+ "leaders": {
+  "opp": [
+   {
+    "cat": "Passing Yards",
+    "name": "Baker Mayfield",
+    "line": "61/96, 615 YDS, 2 TD, 2 INT",
+    "pos": "QB"
+   },
+   {
+    "cat": "Rushing Yards",
+    "name": "Bucky Irving",
+    "line": "77 CAR, 406 YDS, 2 TD",
+    "pos": "RB"
+   },
+   {
+    "cat": "Receiving Yards",
+    "name": "Emeka Egbuka",
+    "line": "21 REC, 192 YDS, 1 TD",
+    "pos": "WR"
+   },
+   {
+    "cat": "Sacks",
+    "name": "David Walker",
+    "line": "2",
+    "pos": "LB"
+   },
+   {
+    "cat": "Tackles",
+    "name": "Josiah Trotter",
+    "line": "39",
+    "pos": "LB"
+   }
+  ],
+  "pit": [
+   {
+    "cat": "Passing Yards",
+    "name": "Aaron Rodgers",
+    "line": "110/184, 1,234 YDS, 10 TD, 4 INT",
+    "pos": "QB"
+   },
+   {
+    "cat": "Rushing Yards",
+    "name": "Jaylen Warren",
+    "line": "70 CAR, 410 YDS, 1 TD",
+    "pos": "RB"
+   },
+   {
+    "cat": "Receiving Yards",
+    "name": "Jaylen Warren",
+    "line": "19 REC, 230 YDS, 1 TD",
+    "pos": "RB"
+   },
+   {
+    "cat": "Sacks",
+    "name": "T.J. Watt",
+    "line": "4.5",
+    "pos": "OLB"
+   },
+   {
+    "cat": "Tackles",
+    "name": "Payton Wilson",
+    "line": "42",
+    "pos": "LB"
+   }
+  ]
+ },
+ "last5": {
+  "opp": [
+   {
+    "result": "L",
+    "score": "33-27",
+    "opp": "CIN",
+    "atVs": "@",
+    "date": "2026-09-13"
+   },
+   {
+    "result": "L",
+    "score": "23-19",
+    "opp": "CLE",
+    "atVs": "vs",
+    "date": "2026-09-20"
+   },
+   {
+    "result": "L",
+    "score": "23-16",
+    "opp": "MIN",
+    "atVs": "vs",
+    "date": "2026-09-27"
+   },
+   {
+    "result": "L",
+    "score": "17-14",
+    "opp": "GB",
+    "atVs": "vs",
+    "date": "2026-10-04"
+   },
+   {
+    "result": "W",
+    "score": "24-16",
+    "opp": "DAL",
+    "atVs": "@",
+    "date": "2026-10-08"
+   }
+  ],
+  "pit": [
+   {
+    "result": "W",
+    "score": "20-13",
+    "opp": "ATL",
+    "atVs": "vs",
+    "date": "2026-09-13"
+   },
+   {
+    "result": "L",
+    "score": "20-3",
+    "opp": "NE",
+    "atVs": "@",
+    "date": "2026-09-20"
+   },
+   {
+    "result": "W",
+    "score": "30-27",
+    "opp": "CIN",
+    "atVs": "vs",
+    "date": "2026-09-27"
+   },
+   {
+    "result": "L",
+    "score": "27-24",
+    "opp": "CLE",
+    "atVs": "@",
+    "date": "2026-10-01"
+   },
+   {
+    "result": "W",
+    "score": "34-22",
+    "opp": "IND",
+    "atVs": "vs",
+    "date": "2026-10-11"
+   }
+  ]
+ },
+ "injuries": [
+  {
+   "name": "Antoine Winfield Jr.",
+   "pos": "S",
+   "jersey": "31",
+   "status": "Out",
+   "injury": "Rib",
+   "side": null,
+   "detail": null,
+   "return_date": null,
+   "date": null,
+   "practice": "Did Not Participate In Practice",
+   "week": 6,
+   "link": "https://www.nfl.com/injuries/"
+  },
+  {
+   "name": "Baker Mayfield",
+   "pos": "QB",
+   "jersey": "6",
+   "status": "Out",
+   "injury": "Thumb",
+   "side": null,
+   "detail": null,
+   "return_date": null,
+   "date": null,
+   "practice": "Did Not Participate In Practice",
+   "week": 6,
+   "link": "https://www.nfl.com/injuries/"
+  },
+  {
+   "name": "David Sills",
+   "pos": "WR",
+   "jersey": "80",
+   "status": "Out",
+   "injury": "Hamstring",
+   "side": null,
+   "detail": null,
+   "return_date": null,
+   "date": null,
+   "practice": "Full Participation in Practice",
+   "week": 6,
+   "link": "https://www.nfl.com/injuries/"
+  },
+  {
+   "name": "Benjamin Morrison",
+   "pos": "CB",
+   "jersey": "21",
+   "status": "Doubtful",
+   "injury": "Quadricep",
+   "side": null,
+   "detail": null,
+   "return_date": null,
+   "date": null,
+   "practice": "Limited Participation in Practice",
+   "week": 6,
+   "link": "https://www.nfl.com/injuries/"
+  },
+  {
+   "name": "Ayden Garnes",
+   "pos": "CB",
+   "jersey": "24",
+   "status": "Questionable",
+   "injury": "Ankle",
+   "side": null,
+   "detail": null,
+   "return_date": null,
+   "date": null,
+   "practice": "Full Participation in Practice",
+   "week": 6,
+   "link": "https://www.nfl.com/injuries/"
+  },
+  {
+   "name": "Josiah Trotter",
+   "pos": "LB",
+   "jersey": "45",
+   "status": "Questionable",
+   "injury": "Knee",
+   "side": null,
+   "detail": null,
+   "return_date": null,
+   "date": null,
+   "practice": "Limited Participation in Practice",
+   "week": 6,
+   "link": "https://www.nfl.com/injuries/"
+  },
+  {
+   "name": "Sean Tucker",
+   "pos": "RB",
+   "jersey": "44",
+   "status": "Questionable",
+   "injury": "Quadricep",
+   "side": null,
+   "detail": null,
+   "return_date": null,
+   "date": null,
+   "practice": "Limited Participation in Practice",
+   "week": 6,
+   "link": "https://www.nfl.com/injuries/"
+  },
+  {
+   "name": "SirVocea Dennis",
+   "pos": "LB",
+   "jersey": "8",
+   "status": "Questionable",
+   "injury": "Ankle",
+   "side": null,
+   "detail": "Foot",
+   "return_date": null,
+   "date": null,
+   "practice": "Full Participation in Practice",
+   "week": 6,
+   "link": "https://www.nfl.com/injuries/"
+  },
+  {
+   "name": "Jalen McMillan",
+   "pos": "WR",
+   "jersey": "11",
+   "status": "Injured Reserve",
+   "injury": null,
+   "side": null,
+   "detail": null,
+   "return_date": null,
+   "date": null,
+   "practice": null,
+   "week": 6,
+   "link": "https://www.nfl.com/transactions/"
+  },
+  {
+   "name": "Josh Hayes",
+   "pos": "DB",
+   "jersey": "32",
+   "status": "Injured Reserve",
+   "injury": null,
+   "side": null,
+   "detail": null,
+   "return_date": null,
+   "date": null,
+   "practice": null,
+   "week": 6,
+   "link": "https://www.nfl.com/transactions/"
+  },
+  {
+   "name": "Mohamed Kamara",
+   "pos": "LB",
+   "jersey": "59",
+   "status": "Injured Reserve",
+   "injury": null,
+   "side": null,
+   "detail": null,
+   "return_date": null,
+   "date": null,
+   "practice": null,
+   "week": 6,
+   "link": "https://www.nfl.com/transactions/"
+  },
+  {
+   "name": "Xavier Williams",
+   "pos": "DB",
+   "jersey": "26",
+   "status": "Injured Reserve",
+   "injury": null,
+   "side": null,
+   "detail": null,
+   "return_date": null,
+   "date": null,
+   "practice": null,
+   "week": 1,
+   "link": "https://www.nfl.com/transactions/"
+  }
+ ],
+ "source": "Data: nflverse (CC-BY 4.0)",
+ "source_url": "https://github.com/nflverse/nflverse-data",
+ "note": "All data: nflverse (CC-BY 4.0) schedules, weekly stats, rosters and official injury reports. Per-game averages are regular season."
+}

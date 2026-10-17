@@ -1,0 +1,1031 @@
+{
+ "openapi": "3.0.3",
+ "info": {
+  "title": "Black & Gold Dispatch data API",
+  "version": "1.0.0",
+  "description": "Static JSON regenerated every ~10 minutes. Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles."
+ },
+ "servers": [
+  {
+   "url": "https://blackandgolddispatch.com"
+  }
+ ],
+ "paths": {
+  "/api/v1/index.json": {
+   "get": {
+    "operationId": "listDatasets",
+    "summary": "List all datasets",
+    "responses": {
+     "200": {
+      "description": "Dataset index",
+      "content": {
+       "application/json": {
+        "schema": {
+         "type": "object"
+        }
+       }
+      }
+     }
+    }
+   }
+  },
+  "/api/v1/news.json": {
+   "get": {
+    "operationId": "get_news",
+    "summary": "Steelers headlines from beat writers, national outlets and blogs, with our one-line summaries and links to the publisher.",
+    "responses": {
+     "200": {
+      "description": "news dataset",
+      "content": {
+       "application/json": {
+        "schema": {
+         "type": "object",
+         "required": [
+          "api_version",
+          "dataset",
+          "generated",
+          "count",
+          "terms",
+          "items"
+         ],
+         "properties": {
+          "api_version": {
+           "type": "string"
+          },
+          "dataset": {
+           "type": "string"
+          },
+          "rights": {
+           "type": "object"
+          },
+          "description": {
+           "type": "string"
+          },
+          "generated": {
+           "type": "string",
+           "format": "date-time"
+          },
+          "data_updated": {
+           "type": "string",
+           "nullable": true
+          },
+          "count": {
+           "type": "integer"
+          },
+          "terms": {
+           "type": "string"
+          },
+          "docs": {
+           "type": "string"
+          },
+          "html": {
+           "type": "string"
+          },
+          "items": {
+           "type": "array",
+           "items": {
+            "$ref": "#/components/schemas/NewsItem"
+           }
+          }
+         }
+        }
+       }
+      }
+     }
+    }
+   }
+  },
+  "/api/v1/rumors.json": {
+   "get": {
+    "operationId": "get_rumors",
+    "summary": "Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).",
+    "responses": {
+     "200": {
+      "description": "rumors dataset",
+      "content": {
+       "application/json": {
+        "schema": {
+         "type": "object",
+         "required": [
+          "api_version",
+          "dataset",
+          "generated",
+          "count",
+          "terms",
+          "items"
+         ],
+         "properties": {
+          "api_version": {
+           "type": "string"
+          },
+          "dataset": {
+           "type": "string"
+          },
+          "rights": {
+           "type": "object"
+          },
+          "description": {
+           "type": "string"
+          },
+          "generated": {
+           "type": "string",
+           "format": "date-time"
+          },
+          "data_updated": {
+           "type": "string",
+           "nullable": true
+          },
+          "count": {
+           "type": "integer"
+          },
+          "terms": {
+           "type": "string"
+          },
+          "docs": {
+           "type": "string"
+          },
+          "html": {
+           "type": "string"
+          },
+          "items": {
+           "type": "array",
+           "items": {
+            "$ref": "#/components/schemas/Rumor"
+           }
+          }
+         }
+        }
+       }
+      }
+     }
+    }
+   }
+  },
+  "/api/v1/injuries.json": {
+   "get": {
+    "operationId": "get_injuries",
+    "summary": "Current Steelers injury designations from the official NFL injury report and reserve lists (nflverse, CC-BY 4.0): status and injury.",
+    "responses": {
+     "200": {
+      "description": "injuries dataset",
+      "content": {
+       "application/json": {
+        "schema": {
+         "type": "object",
+         "required": [
+          "api_version",
+          "dataset",
+          "generated",
+          "count",
+          "terms",
+          "items"
+         ],
+         "properties": {
+          "api_version": {
+           "type": "string"
+          },
+          "dataset": {
+           "type": "string"
+          },
+          "rights": {
+           "type": "object"
+          },
+          "description": {
+           "type": "string"
+          },
+          "generated": {
+           "type": "string",
+           "format": "date-time"
+          },
+          "data_updated": {
+           "type": "string",
+           "nullable": true
+          },
+          "count": {
+           "type": "integer"
+          },
+          "terms": {
+           "type": "string"
+          },
+          "docs": {
+           "type": "string"
+          },
+          "html": {
+           "type": "string"
+          },
+          "items": {
+           "type": "array",
+           "items": {
+            "$ref": "#/components/schemas/GenericItem"
+           }
+          }
+         }
+        }
+       }
+      }
+     }
+    }
+   }
+  },
+  "/api/v1/depth-chart.json": {
+   "get": {
+    "operationId": "get_depth_chart",
+    "summary": "Steelers depth chart by unit and position, 1st/2nd/3rd string with injury tags (nflverse, CC-BY 4.0).",
+    "responses": {
+     "200": {
+      "description": "depth-chart dataset",
+      "content": {
+       "application/json": {
+        "schema": {
+         "type": "object",
+         "required": [
+          "api_version",
+          "dataset",
+          "generated",
+          "count",
+          "terms",
+          "items"
+         ],
+         "properties": {
+          "api_version": {
+           "type": "string"
+          },
+          "dataset": {
+           "type": "string"
+          },
+          "rights": {
+           "type": "object"
+          },
+          "description": {
+           "type": "string"
+          },
+          "generated": {
+           "type": "string",
+           "format": "date-time"
+          },
+          "data_updated": {
+           "type": "string",
+           "nullable": true
+          },
+          "count": {
+           "type": "integer"
+          },
+          "terms": {
+           "type": "string"
+          },
+          "docs": {
+           "type": "string"
+          },
+          "html": {
+           "type": "string"
+          },
+          "items": {
+           "type": "array",
+           "items": {
+            "$ref": "#/components/schemas/GenericItem"
+           }
+          }
+         }
+        }
+       }
+      }
+     }
+    }
+   }
+  },
+  "/api/v1/schedule.json": {
+   "get": {
+    "operationId": "get_schedule",
+    "summary": "Steelers season schedule and results (nflverse, CC-BY 4.0).",
+    "responses": {
+     "200": {
+      "description": "schedule dataset",
+      "content": {
+       "application/json": {
+        "schema": {
+         "type": "object",
+         "required": [
+          "api_version",
+          "dataset",
+          "generated",
+          "count",
+          "terms",
+          "items"
+         ],
+         "properties": {
+          "api_version": {
+           "type": "string"
+          },
+          "dataset": {
+           "type": "string"
+          },
+          "rights": {
+           "type": "object"
+          },
+          "description": {
+           "type": "string"
+          },
+          "generated": {
+           "type": "string",
+           "format": "date-time"
+          },
+          "data_updated": {
+           "type": "string",
+           "nullable": true
+          },
+          "count": {
+           "type": "integer"
+          },
+          "terms": {
+           "type": "string"
+          },
+          "docs": {
+           "type": "string"
+          },
+          "html": {
+           "type": "string"
+          },
+          "items": {
+           "type": "array",
+           "items": {
+            "$ref": "#/components/schemas/GenericItem"
+           }
+          }
+         }
+        }
+       }
+      }
+     }
+    }
+   }
+  },
+  "/api/v1/stats.json": {
+   "get": {
+    "operationId": "get_stats",
+    "summary": "Steelers team stats with league ranks, and player stats (nflverse, CC-BY 4.0).",
+    "responses": {
+     "200": {
+      "description": "stats dataset",
+      "content": {
+       "application/json": {
+        "schema": {
+         "type": "object",
+         "required": [
+          "api_version",
+          "dataset",
+          "generated",
+          "count",
+          "terms",
+          "items"
+         ],
+         "properties": {
+          "api_version": {
+           "type": "string"
+          },
+          "dataset": {
+           "type": "string"
+          },
+          "rights": {
+           "type": "object"
+          },
+          "description": {
+           "type": "string"
+          },
+          "generated": {
+           "type": "string",
+           "format": "date-time"
+          },
+          "data_updated": {
+           "type": "string",
+           "nullable": true
+          },
+          "count": {
+           "type": "integer"
+          },
+          "terms": {
+           "type": "string"
+          },
+          "docs": {
+           "type": "string"
+          },
+          "html": {
+           "type": "string"
+          },
+          "items": {
+           "type": "array",
+           "items": {
+            "$ref": "#/components/schemas/GenericItem"
+           }
+          }
+         }
+        }
+       }
+      }
+     }
+    }
+   }
+  },
+  "/api/v1/grades.json": {
+   "get": {
+    "operationId": "get_grades",
+    "summary": "Per-game player grades: transparent stats grade from the box score until 25 fan votes, then fan grade.",
+    "responses": {
+     "200": {
+      "description": "grades dataset",
+      "content": {
+       "application/json": {
+        "schema": {
+         "type": "object",
+         "required": [
+          "api_version",
+          "dataset",
+          "generated",
+          "count",
+          "terms",
+          "items"
+         ],
+         "properties": {
+          "api_version": {
+           "type": "string"
+          },
+          "dataset": {
+           "type": "string"
+          },
+          "rights": {
+           "type": "object"
+          },
+          "description": {
+           "type": "string"
+          },
+          "generated": {
+           "type": "string",
+           "format": "date-time"
+          },
+          "data_updated": {
+           "type": "string",
+           "nullable": true
+          },
+          "count": {
+           "type": "integer"
+          },
+          "terms": {
+           "type": "string"
+          },
+          "docs": {
+           "type": "string"
+          },
+          "html": {
+           "type": "string"
+          },
+          "items": {
+           "type": "array",
+           "items": {
+            "$ref": "#/components/schemas/GenericItem"
+           }
+          }
+         }
+        }
+       }
+      }
+     }
+    }
+   }
+  },
+  "/api/v1/college.json": {
+   "get": {
+    "operationId": "get_college",
+    "summary": "College prospects at the Steelers' top needs with last-game and season stats (CollegeFootballData.com) and recent headlines.",
+    "responses": {
+     "200": {
+      "description": "college dataset",
+      "content": {
+       "application/json": {
+        "schema": {
+         "type": "object",
+         "required": [
+          "api_version",
+          "dataset",
+          "generated",
+          "count",
+          "terms",
+          "items"
+         ],
+         "properties": {
+          "api_version": {
+           "type": "string"
+          },
+          "dataset": {
+           "type": "string"
+          },
+          "rights": {
+           "type": "object"
+          },
+          "description": {
+           "type": "string"
+          },
+          "generated": {
+           "type": "string",
+           "format": "date-time"
+          },
+          "data_updated": {
+           "type": "string",
+           "nullable": true
+          },
+          "count": {
+           "type": "integer"
+          },
+          "terms": {
+           "type": "string"
+          },
+          "docs": {
+           "type": "string"
+          },
+          "html": {
+           "type": "string"
+          },
+          "items": {
+           "type": "array",
+           "items": {
+            "$ref": "#/components/schemas/GenericItem"
+           }
+          }
+         }
+        }
+       }
+      }
+     }
+    }
+   }
+  },
+  "/api/v1/insiders.json": {
+   "get": {
+    "operationId": "get_insiders",
+    "summary": "Recent public posts from NFL insiders and Steelers beat writers (links only).",
+    "responses": {
+     "200": {
+      "description": "insiders dataset",
+      "content": {
+       "application/json": {
+        "schema": {
+         "type": "object",
+         "required": [
+          "api_version",
+          "dataset",
+          "generated",
+          "count",
+          "terms",
+          "items"
+         ],
+         "properties": {
+          "api_version": {
+           "type": "string"
+          },
+          "dataset": {
+           "type": "string"
+          },
+          "rights": {
+           "type": "object"
+          },
+          "description": {
+           "type": "string"
+          },
+          "generated": {
+           "type": "string",
+           "format": "date-time"
+          },
+          "data_updated": {
+           "type": "string",
+           "nullable": true
+          },
+          "count": {
+           "type": "integer"
+          },
+          "terms": {
+           "type": "string"
+          },
+          "docs": {
+           "type": "string"
+          },
+          "html": {
+           "type": "string"
+          },
+          "items": {
+           "type": "array",
+           "items": {
+            "$ref": "#/components/schemas/GenericItem"
+           }
+          }
+         }
+        }
+       }
+      }
+     }
+    }
+   }
+  },
+  "/api/v1/podcasts.json": {
+   "get": {
+    "operationId": "get_podcasts",
+    "summary": "Today's Steelers podcast episodes and YouTube videos (links).",
+    "responses": {
+     "200": {
+      "description": "podcasts dataset",
+      "content": {
+       "application/json": {
+        "schema": {
+         "type": "object",
+         "required": [
+          "api_version",
+          "dataset",
+          "generated",
+          "count",
+          "terms",
+          "items"
+         ],
+         "properties": {
+          "api_version": {
+           "type": "string"
+          },
+          "dataset": {
+           "type": "string"
+          },
+          "rights": {
+           "type": "object"
+          },
+          "description": {
+           "type": "string"
+          },
+          "generated": {
+           "type": "string",
+           "format": "date-time"
+          },
+          "data_updated": {
+           "type": "string",
+           "nullable": true
+          },
+          "count": {
+           "type": "integer"
+          },
+          "terms": {
+           "type": "string"
+          },
+          "docs": {
+           "type": "string"
+          },
+          "html": {
+           "type": "string"
+          },
+          "items": {
+           "type": "array",
+           "items": {
+            "$ref": "#/components/schemas/GenericItem"
+           }
+          }
+         }
+        }
+       }
+      }
+     }
+    }
+   }
+  },
+  "/api/v1/film.json": {
+   "get": {
+    "operationId": "get_film",
+    "summary": "Film breakdowns of the last game and previews of the next game (links).",
+    "responses": {
+     "200": {
+      "description": "film dataset",
+      "content": {
+       "application/json": {
+        "schema": {
+         "type": "object",
+         "required": [
+          "api_version",
+          "dataset",
+          "generated",
+          "count",
+          "terms",
+          "items"
+         ],
+         "properties": {
+          "api_version": {
+           "type": "string"
+          },
+          "dataset": {
+           "type": "string"
+          },
+          "rights": {
+           "type": "object"
+          },
+          "description": {
+           "type": "string"
+          },
+          "generated": {
+           "type": "string",
+           "format": "date-time"
+          },
+          "data_updated": {
+           "type": "string",
+           "nullable": true
+          },
+          "count": {
+           "type": "integer"
+          },
+          "terms": {
+           "type": "string"
+          },
+          "docs": {
+           "type": "string"
+          },
+          "html": {
+           "type": "string"
+          },
+          "items": {
+           "type": "array",
+           "items": {
+            "$ref": "#/components/schemas/GenericItem"
+           }
+          }
+         }
+        }
+       }
+      }
+     }
+    }
+   }
+  },
+  "/api/v1/draft.json": {
+   "get": {
+    "operationId": "get_draft",
+    "summary": "Steelers draft hub: top prospects per need with our estimated chance each is available at the Steelers' projected picks, published analyst grades of the last class (letter + link), and every past Steelers pick (nflverse, CC-BY 4.0).",
+    "responses": {
+     "200": {
+      "description": "draft dataset",
+      "content": {
+       "application/json": {
+        "schema": {
+         "type": "object",
+         "required": [
+          "api_version",
+          "dataset",
+          "generated",
+          "count",
+          "terms",
+          "items"
+         ],
+         "properties": {
+          "api_version": {
+           "type": "string"
+          },
+          "dataset": {
+           "type": "string"
+          },
+          "rights": {
+           "type": "object"
+          },
+          "description": {
+           "type": "string"
+          },
+          "generated": {
+           "type": "string",
+           "format": "date-time"
+          },
+          "data_updated": {
+           "type": "string",
+           "nullable": true
+          },
+          "count": {
+           "type": "integer"
+          },
+          "terms": {
+           "type": "string"
+          },
+          "docs": {
+           "type": "string"
+          },
+          "html": {
+           "type": "string"
+          },
+          "items": {
+           "type": "array",
+           "items": {
+            "$ref": "#/components/schemas/GenericItem"
+           }
+          }
+         }
+        }
+       }
+      }
+     }
+    }
+   }
+  },
+  "/api/premium/{dataset}": {
+   "get": {
+    "operationId": "getPremium",
+    "summary": "Premium feed (DISABLED scaffold). Would answer 402 Payment Required with payment instructions.",
+    "parameters": [
+     {
+      "name": "dataset",
+      "in": "path",
+      "required": true,
+      "schema": {
+       "type": "string"
+      }
+     }
+    ],
+    "responses": {
+     "402": {
+      "description": "Payment required (scaffold only; not live)"
+     },
+     "404": {
+      "description": "Premium disabled"
+     }
+    }
+   }
+  }
+ },
+ "components": {
+  "schemas": {
+   "Source": {
+    "type": "object",
+    "required": [
+     "name"
+    ],
+    "properties": {
+     "name": {
+      "type": "string"
+     },
+     "url": {
+      "type": "string",
+      "nullable": true
+     },
+     "reliability_tier": {
+      "type": "string"
+     },
+     "reliability_score": {
+      "type": "integer"
+     }
+    }
+   },
+   "NewsItem": {
+    "type": "object",
+    "required": [
+     "id",
+     "type",
+     "title",
+     "url",
+     "source",
+     "published"
+    ],
+    "properties": {
+     "id": {
+      "type": "string",
+      "description": "Stable dedupe id"
+     },
+     "type": {
+      "type": "string"
+     },
+     "url": {
+      "type": "string",
+      "description": "Original publisher / source link (always link here)"
+     },
+     "source": {
+      "$ref": "#/components/schemas/Source"
+     },
+     "title": {
+      "type": "string"
+     },
+     "summary": {
+      "type": "string"
+     },
+     "published": {
+      "type": "string",
+      "format": "date-time"
+     },
+     "retrieved": {
+      "type": "string",
+      "format": "date-time"
+     }
+    }
+   },
+   "Consensus": {
+    "type": "object",
+    "properties": {
+     "cluster_id": {
+      "type": "string"
+     },
+     "independent_sources": {
+      "type": "integer"
+     },
+     "sources": {
+      "type": "array",
+      "items": {
+       "type": "string"
+      }
+     },
+     "highest_tier": {
+      "type": "string"
+     },
+     "highest_tier_score": {
+      "type": "integer"
+     },
+     "related_ids": {
+      "type": "array",
+      "items": {
+       "type": "string"
+      }
+     }
+    }
+   },
+   "Rumor": {
+    "type": "object",
+    "required": [
+     "id",
+     "title",
+     "url",
+     "source",
+     "status",
+     "first_seen",
+     "consensus"
+    ],
+    "properties": {
+     "id": {
+      "type": "string",
+      "description": "Stable dedupe id"
+     },
+     "type": {
+      "type": "string"
+     },
+     "url": {
+      "type": "string",
+      "description": "Original publisher / source link (always link here)"
+     },
+     "source": {
+      "$ref": "#/components/schemas/Source"
+     },
+     "title": {
+      "type": "string"
+     },
+     "summary": {
+      "type": "string"
+     },
+     "status": {
+      "type": "string",
+      "enum": [
+       "Rumor",
+       "Confirmed",
+       "Denied"
+      ]
+     },
+     "first_seen": {
+      "type": "string",
+      "format": "date-time"
+     },
+     "updated": {
+      "type": "string",
+      "format": "date-time"
+     },
+     "published": {
+      "type": "string",
+      "format": "date-time"
+     },
+     "people": {
+      "type": "array",
+      "items": {
+       "type": "string"
+      }
+     },
+     "consensus": {
+      "$ref": "#/components/schemas/Consensus"
+     }
+    }
+   },
+   "GenericItem": {
+    "type": "object",
+    "required": [
+     "id",
+     "type"
+    ],
+    "properties": {
+     "id": {
+      "type": "string",
+      "description": "Stable dedupe id"
+     },
+     "type": {
+      "type": "string"
+     },
+     "url": {
+      "type": "string",
+      "description": "Original publisher / source link (always link here)"
+     },
+     "source": {
+      "$ref": "#/components/schemas/Source"
+     }
+    },
+    "additionalProperties": true
+   }
+  }
+ }
+}

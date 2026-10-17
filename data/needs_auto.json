@@ -1,0 +1,341 @@
+{
+ "generated": "2026-10-17T19:47:10.874606+00:00",
+ "weights": {
+  "age": 0.25,
+  "contracts": 0.25,
+  "depth": 0.15,
+  "grades": 0.15,
+  "news": 0.2
+ },
+ "grades_sample": false,
+ "headlines_scanned": 51,
+ "positions": [
+  {
+   "pos": "QB",
+   "label": "Quarterback",
+   "score": 46.8,
+   "components": {
+    "age": 10,
+    "contracts": 0,
+    "depth": 0,
+    "grades": 6.2,
+    "news": 6.2
+   },
+   "starters": [
+    {
+     "name": "Aaron Rodgers",
+     "age": 42,
+     "years_left": null
+    }
+   ],
+   "depth": 4,
+   "reasons": [
+    "Aaron Rodgers (42) at or past the usual age drop-off for quarterbacks",
+    "starters graded low (5.4/10 \u2013 stats/fan grades)",
+    "named in 5 recent headlines about Steelers needs"
+   ],
+   "auto_rank": 1
+  },
+  {
+   "pos": "CB",
+   "label": "Cornerback",
+   "score": 32.3,
+   "components": {
+    "age": 10,
+    "contracts": 0,
+    "depth": 0,
+    "grades": 3.2,
+    "news": 1.2
+   },
+   "starters": [
+    {
+     "name": "Asante Samuel Jr.",
+     "age": 27,
+     "years_left": null
+    },
+    {
+     "name": "Jamel Dean",
+     "age": 30,
+     "years_left": null
+    },
+    {
+     "name": "Jalen Ramsey",
+     "age": 31,
+     "years_left": null
+    }
+   ],
+   "depth": 8,
+   "reasons": [
+    "Jamel Dean (30), Jalen Ramsey (31) at or past the usual age drop-off for cornerbacks",
+    "named in 1 recent headline about Steelers needs"
+   ],
+   "auto_rank": 2
+  },
+  {
+   "pos": "RB",
+   "label": "Running back",
+   "score": 25.0,
+   "components": {
+    "age": 10,
+    "contracts": 0,
+    "depth": 0,
+    "grades": 0,
+    "news": 0.0
+   },
+   "starters": [
+    {
+     "name": "Jaylen Warren",
+     "age": 27,
+     "years_left": null
+    }
+   ],
+   "depth": 4,
+   "reasons": [
+    "Jaylen Warren (27) at or past the usual age drop-off for running backs"
+   ],
+   "auto_rank": 3
+  },
+  {
+   "pos": "EDGE",
+   "label": "Edge rusher",
+   "score": 25.0,
+   "components": {
+    "age": 10,
+    "contracts": 0,
+    "depth": 0,
+    "grades": 0,
+    "news": 0.0
+   },
+   "starters": [
+    {
+     "name": "T.J. Watt",
+     "age": 32,
+     "years_left": null
+    },
+    {
+     "name": "Alex Highsmith",
+     "age": 29,
+     "years_left": null
+    }
+   ],
+   "depth": 4,
+   "reasons": [
+    "T.J. Watt (32) at or past the usual age drop-off for edge rushers"
+   ],
+   "auto_rank": 4
+  },
+  {
+   "pos": "WR",
+   "label": "Wide receiver",
+   "score": 23.7,
+   "components": {
+    "age": 0.0,
+    "contracts": 0,
+    "depth": 0,
+    "grades": 2.5,
+    "news": 10.0
+   },
+   "starters": [
+    {
+     "name": "DK Metcalf",
+     "age": 28,
+     "years_left": null
+    },
+    {
+     "name": "Roman Wilson",
+     "age": 25,
+     "years_left": null
+    },
+    {
+     "name": "Germie Bernard",
+     "age": 22,
+     "years_left": null
+    }
+   ],
+   "depth": 5,
+   "reasons": [
+    "named in 8 recent headlines about Steelers needs"
+   ],
+   "auto_rank": 5
+  },
+  {
+   "pos": "DL",
+   "label": "Defensive line",
+   "score": 18.2,
+   "components": {
+    "age": 5.3,
+    "contracts": 0,
+    "depth": 0,
+    "grades": 3.2,
+    "news": 0.0
+   },
+   "starters": [
+    {
+     "name": "Yahya Black",
+     "age": 24,
+     "years_left": null
+    },
+    {
+     "name": "Keeanu Benton",
+     "age": 25,
+     "years_left": null
+    },
+    {
+     "name": "Cameron Heyward",
+     "age": 37,
+     "years_left": null
+    }
+   ],
+   "depth": 5,
+   "reasons": [
+    "Cameron Heyward (37) at or past the usual age drop-off for defensive linemen"
+   ],
+   "auto_rank": 6
+  },
+  {
+   "pos": "S",
+   "label": "Safety",
+   "score": 8.6,
+   "components": {
+    "age": 0.0,
+    "contracts": 0,
+    "depth": 3.3,
+    "grades": 2.4,
+    "news": 0.0
+   },
+   "starters": [
+    {
+     "name": "Robert Spears-Jennings",
+     "age": 22,
+     "years_left": null
+    },
+    {
+     "name": "Jaquan Brisker",
+     "age": 27,
+     "years_left": null
+    }
+   ],
+   "depth": 3,
+   "reasons": [
+    "thin depth: 3 players on the depth chart vs about 4 typical"
+   ],
+   "auto_rank": 7
+  },
+  {
+   "pos": "TE",
+   "label": "Tight end",
+   "score": 4.9,
+   "components": {
+    "age": 0.0,
+    "contracts": 0,
+    "depth": 0,
+    "grades": 3.3,
+    "news": 0.0
+   },
+   "starters": [
+    {
+     "name": "Darnell Washington",
+     "age": 25,
+     "years_left": null
+    }
+   ],
+   "depth": 3,
+   "reasons": [
+    "solid: young starters, contracts in place and good depth"
+   ],
+   "auto_rank": 8
+  },
+  {
+   "pos": "OT",
+   "label": "Offensive tackle",
+   "score": 4.5,
+   "components": {
+    "age": 0.0,
+    "contracts": 0,
+    "depth": 0,
+    "grades": 3,
+    "news": 0.0
+   },
+   "starters": [
+    {
+     "name": "Troy Fautanu",
+     "age": 26,
+     "years_left": null
+    },
+    {
+     "name": "Max Iheanachor",
+     "age": 22,
+     "years_left": null
+    }
+   ],
+   "depth": 3,
+   "reasons": [
+    "solid: young starters, contracts in place and good depth"
+   ],
+   "auto_rank": 9
+  },
+  {
+   "pos": "IOL",
+   "label": "Interior offensive line",
+   "score": 4.5,
+   "components": {
+    "age": 0.0,
+    "contracts": 0,
+    "depth": 0,
+    "grades": 3,
+    "news": 0.0
+   },
+   "starters": [
+    {
+     "name": "Mason McCormick",
+     "age": 26,
+     "years_left": null
+    },
+    {
+     "name": "Zach Frazier",
+     "age": 25,
+     "years_left": null
+    },
+    {
+     "name": "Brock Hoffman",
+     "age": 27,
+     "years_left": null
+    }
+   ],
+   "depth": 5,
+   "reasons": [
+    "solid: young starters, contracts in place and good depth"
+   ],
+   "auto_rank": 10
+  },
+  {
+   "pos": "LB",
+   "label": "Inside linebacker",
+   "score": 3.4,
+   "components": {
+    "age": 1.0,
+    "contracts": 0,
+    "depth": 0,
+    "grades": 0.6,
+    "news": 0.0
+   },
+   "starters": [
+    {
+     "name": "Payton Wilson",
+     "age": 26,
+     "years_left": null
+    },
+    {
+     "name": "Patrick Queen",
+     "age": 27,
+     "years_left": null
+    }
+   ],
+   "depth": 4,
+   "reasons": [
+    "solid: young starters, contracts in place and good depth"
+   ],
+   "auto_rank": 11
+  }
+ ]
+}

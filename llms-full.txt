@@ -1,0 +1,691 @@
+# Black & Gold Dispatch
+
+> Unofficial Pittsburgh Steelers fan news hub and sports-data utility. Headlines and links to original publishers, our own short summaries, and structured Steelers data (injuries, depth chart, schedule, stats, player grades, rumors with source reliability). Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Updated about every 10 minutes.
+
+Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.
+
+Usage and attribution: Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
+
+Data credits: Data: nflverse (CC-BY 4.0), https://github.com/nflverse/nflverse-data: schedule, scores, stats and ranks, depth chart, rosters, injury report. Updated by nflverse daily (mostly overnight). Reuse requires the same credit.
+
+Legal (drafts pending attorney review): https://blackandgolddispatch.com/legal/terms.html · https://blackandgolddispatch.com/legal/privacy.html · https://blackandgolddispatch.com/legal/dmca.html
+
+## Data (JSON API, versioned)
+- [API index](https://blackandgolddispatch.com/api/v1/index.json): every dataset with counts and update times
+- [OpenAPI spec](https://blackandgolddispatch.com/api/v1/openapi.json)
+- [news](https://blackandgolddispatch.com/api/v1/news.json): Steelers headlines from beat writers, national outlets and blogs, with our one-line summaries and links to the publisher.
+- [rumors](https://blackandgolddispatch.com/api/v1/rumors.json): Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).
+- [injuries](https://blackandgolddispatch.com/api/v1/injuries.json): Current Steelers injury designations from the official NFL injury report and reserve lists (nflverse, CC-BY 4.0): status and injury.
+- [depth-chart](https://blackandgolddispatch.com/api/v1/depth-chart.json): Steelers depth chart by unit and position, 1st/2nd/3rd string with injury tags (nflverse, CC-BY 4.0).
+- [schedule](https://blackandgolddispatch.com/api/v1/schedule.json): Steelers season schedule and results (nflverse, CC-BY 4.0).
+- [stats](https://blackandgolddispatch.com/api/v1/stats.json): Steelers team stats with league ranks, and player stats (nflverse, CC-BY 4.0).
+- [grades](https://blackandgolddispatch.com/api/v1/grades.json): Per-game player grades: transparent stats grade from the box score until 25 fan votes, then fan grade.
+- [college](https://blackandgolddispatch.com/api/v1/college.json): College prospects at the Steelers' top needs with last-game and season stats (CollegeFootballData.com) and recent headlines.
+- [insiders](https://blackandgolddispatch.com/api/v1/insiders.json): Recent public posts from NFL insiders and Steelers beat writers (links only).
+- [podcasts](https://blackandgolddispatch.com/api/v1/podcasts.json): Today's Steelers podcast episodes and YouTube videos (links).
+- [film](https://blackandgolddispatch.com/api/v1/film.json): Film breakdowns of the last game and previews of the next game (links).
+- [draft](https://blackandgolddispatch.com/api/v1/draft.json): Steelers draft hub: top prospects per need with our estimated chance each is available at the Steelers' projected picks, published analyst grades of the last class (letter + link), and every past Steelers pick (nflverse, CC-BY 4.0).
+
+## Markdown mirrors (one per section)
+- [News](https://blackandgolddispatch.com/md/news.md)
+- [Podcasts & YouTube](https://blackandgolddispatch.com/md/podcasts.md)
+- [Film Room & Film Preview](https://blackandgolddispatch.com/md/film.md)
+- [Rumor Meter (today only)](https://blackandgolddispatch.com/md/rumors.md)
+- [Injury Tracker](https://blackandgolddispatch.com/md/injuries.md)
+- [Depth Chart](https://blackandgolddispatch.com/md/depth-chart.md)
+- [Schedule & Results](https://blackandgolddispatch.com/md/schedule.md)
+- [Stats](https://blackandgolddispatch.com/md/stats.md)
+- [Player Grades / Heat Map](https://blackandgolddispatch.com/md/heatmap.md)
+- [Draft Central](https://blackandgolddispatch.com/md/draft.md)
+- [College Tracker](https://blackandgolddispatch.com/md/college.md)
+- [Insiders](https://blackandgolddispatch.com/md/insiders.md)
+- [Opponent Scouting](https://blackandgolddispatch.com/md/scouting.md)
+
+## Feeds
+- news: [RSS](https://blackandgolddispatch.com/feeds/news.xml) · [Atom](https://blackandgolddispatch.com/feeds/news.atom) · [JSON Feed](https://blackandgolddispatch.com/feeds/news.json)
+- rumors: [RSS](https://blackandgolddispatch.com/feeds/rumors.xml) · [Atom](https://blackandgolddispatch.com/feeds/rumors.atom) · [JSON Feed](https://blackandgolddispatch.com/feeds/rumors.json)
+- injuries: [RSS](https://blackandgolddispatch.com/feeds/injuries.xml) · [Atom](https://blackandgolddispatch.com/feeds/injuries.atom) · [JSON Feed](https://blackandgolddispatch.com/feeds/injuries.json)
+- film: [RSS](https://blackandgolddispatch.com/feeds/film.xml) · [Atom](https://blackandgolddispatch.com/feeds/film.atom) · [JSON Feed](https://blackandgolddispatch.com/feeds/film.json)
+- podcasts: [RSS](https://blackandgolddispatch.com/feeds/podcasts.xml) · [Atom](https://blackandgolddispatch.com/feeds/podcasts.atom) · [JSON Feed](https://blackandgolddispatch.com/feeds/podcasts.json)
+
+## Methods
+- [Player grades method](https://blackandgolddispatch.com/GRADES.md)
+- [Needs ranking method](https://blackandgolddispatch.com/NEEDS.md)
+- [AI access & licensing](https://blackandgolddispatch.com/AI-ACCESS.md)
+
+## Optional
+- [Full context in one file](https://blackandgolddispatch.com/llms-full.txt)
+- [Human site](https://blackandgolddispatch.com/)
+
+
+# Current snapshot
+
+# Steelers News
+
+_Generated 2026-10-17T22:28:40+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-17T22:28:31+00:00._
+_JSON: https://blackandgolddispatch.com/api/v1/news.json_
+
+- [Steelers lose receiver Wilson to IR, Metcalf comes off injury report](https://www.espn.com/nfl/story/_/id/50203338/steelers-place-receiver-wilson-ir): ESPN, 2026-10-17 22:21 UTC
+- [Payton Wilson Recalls Jaylen Warren Giving Him His Welcome-To-The-NFL Moment](https://steelersdepot.com/2026/10/payton-wilson-recalls-jaylen-warren-giving-him-his-welcome-to-the-nfl-moment/): Steelers Depot, 2026-10-17 22:15 UTC
+- [Former Michigan standout WR lands on IR with Steelers](https://news.google.com/rss/articles/CBMirAFBVV95cUxQenV0Q25qbjd4T3dZX2RGZ20yTFhUMVU4TFo2eE1TeGZ2aUp3SzdfdktKV1h0aGV6Q3N3bVkwWXhuTkdBdjJvQXZqUEtwd2xjeWM3SGQ2N0REV0FvY0RGN01FM19Yakd5aXEwUWhMeXZoN2lsbS1NYS1rd2MzRGljNURGRGU4cHRDNDN1bEM4UzVTdXYzbjlhOWpONjR1Zi1jZDFWZmE3dVY0TmZm0gHAAUFVX3lxTE9rT2VmcWR0OWUzUWhGM2lMMDdxNnFWTkM3aTJZOEhHT2pHbmgtemp1aVlkUERsblpaRDNuTkwtWmlvTDUxMVN5ZGhjZHZDc0pSdnh1Z3BMQ3lqcElLSzhLMTVXRlRJOXZ4dlV4QTZ4YUE4VmlNT0JzS2VRYUJSMUxZcE5jN0pnRWdCRTBJM2dfUG1TbGlINEdsZWp6cnVUMlN0WElvWXBrSlRKaHB0emF2YnV4MGN3VEFEa3hQcTFXSQ?oc=5): MLive.com, 2026-10-17 22:07 UTC
+- [Do Steelers have enough at WR with Michael Pittman Jr., Roman Wilson out?](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPd1RPWFI1VlNTSUJpM2FTOTBkdlZaRnkwd25mTVlOU241V004VC1oUjhtOXFYRzdmY0k5VmVnbWdMMWV6N2prR1NiVk44NmM3VEdzcWFxNkcwN0V1MkxDQ29CMGZaRnRFNnZvV3pEQi1NX1RIRFpSZ29YWTRjbF9HWFhSSmh3SmFjRTdnTUQ1WHc5ZmN6LXRNOW83azFDWW5fQnVrYTk0aENsVi1DWmxzVkszT2lIU3dMeU5pQjFrbEtQMlBVWEM0bGJZSlVQcnJUWWc0YWdR?oc=5): USA Today, 2026-10-17 22:01 UTC
+- [Steelers dodge a bullet as Joey Porter Jr. drama gets stranger with Cowboys | See link below ⬇️ 📸 Barry Reeger, IMAGN IMAGES via Reuters Connect](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNR1k1SG1fMFBIQVM3REVvcldfRExPV2NOZy03WERJblIzS3Rzc2JUUU5Ma3BJVllmQm91WnVnSkRjdVhpSEtsYm9oMFN5VHRUM2JMTU1NS0E4dzZFcjhNekxZQVJqMmdsa3l0a3lTaGc5OEVzT0JIa3Q1MXBpbUFhZEQ3U0JmVmNzN2E1UjBxcERXVlVjVW03c1I3RzdCdVdNcENYRDJ4dUdEbThPc0hNMG1adkVUMHRCNjVkV1FJb1hFRjNXdjBUMEcxRkFCdUtNb05VRnkwOEJpZw?oc=5): Facebook, 2026-10-17 21:59 UTC
+- [Pop quizzes from Aaron Rodgers?! How Steelers QB preps pass catchers for games](https://www.espn.com/nfl/story/_/id/50193213/pop-quizzes-aaron-rodgers-steelers-qb-prepares): ESPN, 2026-10-17 21:48 UTC
+- [Eagles’ Jalen Hurts Could Be Out vs. Steelers](https://steelersnow.com/eagles-jalen-hurts-could-be-out-vs-steelers/): Steelers Now, 2026-10-17 21:40 UTC
+- [Listen: The Terrible Take (Episode 2,053)](https://steelersdepot.com/2026/10/listen-the-terrible-take-episode-2053/): Steelers Depot, 2026-10-17 21:30 UTC
+- [Saturday Night Open Thread: Buc the colds](https://www.behindthesteelcurtain.com/pittsburgh-steelers-discussion/176482/saturday-night-open-thread-buc-the-colds): Behind the Steel Curtain, 2026-10-17 21:30 UTC
+- [TRAVEL PHOTOS: Monochrome moments- Week 6 at Buccaneers](https://news.google.com/rss/articles/CBMijgFBVV95cUxQN3hMQnJEZU5PVmR5T3VmWTllOW1IMDN5R0ZMQ0NPcW9IMGJjMEhqaUtlaU15RGRhejQ4Qm9JNE8zUExKMVRrVkdhQTZQbEpCUmszWmFCNjBMbU1tWjdZMFVGbHdEbzRsSmJmNWtCM0lBdUlKSU83MG9QdDctRWMwVmdSZGpMQUtTVHdsN3RR?oc=5): Steelers.com, 2026-10-17 21:25 UTC
+- [Bell: 2027 NFL Draft Quarterback Rankings 2.0](https://steelersnow.com/bell-2027-nfl-draft-quarterback-rankings-2-0/): Steelers Now, 2026-10-17 21:15 UTC
+- [Elandon Roberts’ Steelers Return Will Wait another Week](https://steelersnow.com/elandon-roberts-steelers-return-will-wait-another-week/): Steelers Now, 2026-10-17 21:08 UTC
+- [Mike Tomlin makes candid admission while revealing another side of life after Steelers](https://news.google.com/rss/articles/CBMiygFBVV95cUxNN1FKcVlPcW42WWVCdTMxZ0RzOVlUNm9MTUhVZ3BiVzhudUpnN3RyenExazgyY0ZCY29fd2lXQUszRFpwNjFvR3F6b0tHNjh4VTlmSFpxaElIa1h3TEFscmd0QXhkaFBaTmRRMV9yVklHZXdvSVh5MlpCYXc5NmlzSm5fbkU5eHBzbTVEWVRZbmh3THdEcjVhMVZPamRzSUI0M0Ntdk5haFdrTjlTbVhKd1NhRldyaVpxUDM1Z2FHazhrUEs5NURLMEdn0gHeAUFVX3lxTE5IVHZ4U2N6VVcwRVIzNmxxX2l0WFhqRFJhWHlVRXNOek5zLUdxRDROci12RWljVk80NmhkN2dsdnAtYW05dk42NXp5eXJmSy1PclJiUFZ2U3E4QUdfclJMSTlNbWczVWIyWklkaUc4cTNZYjBsbEE4dnBDN1RrVlNnOGFLWE1DNUo4NUgwamRRdWF6cU1xMW4ySHVzcHpoaExWZjI0N1lPZ25NbnhQWlZqTWpDZ1ZLbFZpVGtyT0RCVER3bTVvcmNFNllLeW80Y1NTQk0zZ2tVSWtsUjloZw?oc=5): Cleveland.com, 2026-10-17 21:02 UTC
+- [‘That’s Part Of The Job’: Germie Bernard Talks Steelers WRs’ ‘Selfless’ Attitude Towards Blocking](https://steelersdepot.com/2026/10/thats-part-of-the-job-germie-bernard-talks-steelers-wrs-selfless-attitude-towards-blocking/): Steelers Depot, 2026-10-17 20:45 UTC
+- [How Long Is Roman Wilson Out? Finger Injury Updates, Return Timeline for Steelers WR](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZ1dJUWpOczhuWjY2cmJqWW43YVpEVmFEZHUta3JqNE13bDRLMzdjdkJYX2dreDB1TlNFZWpFOTZwZGdRMlNPck51SENwbk9YU3huZDRFVjNGZUh2YmZCbVBIbUw0NWMzMVprRmwzTmtGUUxDS3daUGs0alR4T1FueG9rdlZPMkRIM05maE5rcms3Yk40dTRFS1Z0N0tyeW9PYmk4SWdIYm1oWFUwZ0I1T1BjRVJxZkptOTh3VjhMZTg2c1RVT0pCbTBySWhBLUFhVXFXcGJnZy0?oc=5): SportsNet Pittsburgh, 2026-10-17 20:38 UTC
+- [Chargers Cut Ties with Former Steelers Wide Receiver, Close Friend of Aaron Rodgers](https://steelersnow.com/chargers-cut-ties-with-former-steelers-wide-receiver-close-friend-of-aaron-rodgers/): Steelers Now, 2026-10-17 20:34 UTC
+- [Steelers Make Late Injury Report Changes Before Buccaneers Game](https://news.google.com/rss/articles/CBMiygFBVV95cUxQZFNESUZpRjhmWEhlVG1wUFFZcU02bVhvTWFiVE9VZWNOZmpuMW1KV2UySnk0VkVGNjRsUjl3aU5Jb0RzM0ZBa1VNdUNIUXRkSVAzR3lHMThDdVhTQ3ZHc3kzbnZrM2VSS2ZZeVlyeWlJOUhQZkxuNmh6dnE2ZklXMXYwUmpYWkk0NG8zazZRdnVHN3Judzhyd25GUVBuYTJaQUEwWFFjMzczWFVjbVR0UGkyOWpTSlctaWJuV1BCOGtRYVJSNDBxNEdn?oc=5): SportsNet Pittsburgh, 2026-10-17 20:33 UTC
+- [Steelers Versus Buccaneers: Week Six Projected Inactive List](https://steelersdepot.com/2026/10/steelers-versus-buccaneers-week-six-projected-inactive-list/): Steelers Depot, 2026-10-17 20:27 UTC
+- [Eagles May Be Without Jalen Hurts For Week 11 Steelers Game](https://steelersdepot.com/2026/10/eagles-at-risk-of-losing-jalen-hurts-for-week-11-steelers-game/): Steelers Depot, 2026-10-17 20:17 UTC
+- [Steelers lose Roman Wilson as receiver injuries test their remaining depth](https://stillcurtain.com/pittsburgh-steelers-lose-roman-wilson-injured-reserve-receiver-injuries-test-remaining-depth?utm_source=RSS): Still Curtain, 2026-10-17 20:12 UTC
+- [Steelers Add Veteran Wide Receiver for Game vs. Bucs](https://steelersnow.com/steelers-add-veteran-wide-receiver-for-game-vs-bucs/): Steelers Now, 2026-10-17 20:06 UTC
+- [Rodgers trusts new receiver Brandon Smith](https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVlXakVHdy1yZU9hQ0JSc2NDRWljT2FEaVo5ZGxaMk1tQXFBdy0wZ25xVkxvTDB3dWpxS1ExZlNrZ2RGTXczNVpTc0VTWFZJQjU4SVRNX1lBZWdxbW45bHo2VWtEcHpqNEJHTkxWbFZoUUR0X2o5MXVIRHJCX3lJTGFIc3k1WmlJcnE2VlU3TGZmSWhkQlM2Y1BXaDZSYWZjUjhJ?oc=5): Audacy, 2026-10-17 19:59 UTC
+- [NFL Week 6 player props, anytime TD best bets: Steelers' Jaylen Warren is on a heater](https://www.cbssports.com/nfl/news/nfl-week-6-player-props-anytime-td-best-bets/): CBS Sports, 2026-10-17 19:50 UTC
+- [Steelers Elevate Wide Receiver with Close Ties to Aaron Rodgers](https://steelersnow.com/steelers-elevate-wide-receiver-with-close-ties-to-aaron-rodgers/): Steelers Now, 2026-10-17 19:48 UTC
+- [The Steelers place WR Roman Wilson on injured reserve; add tight end Pat Freiermuth to the injury report](https://www.post-gazette.com/sports/steelers/2026/10/17/the-steelers-place-wr-roman-wilson-on-injured-reserve-add-tight-end-pat-freiermu/stories/202610170039): Pittsburgh Post-Gazette, 2026-10-17 19:43 UTC
+- [Steelers Linebacker Payton Wilson Has Not Received The Spotlight Due To One Major Issue](https://www.steelernation.com/2026/10/17/steelers-payton-wilson-spotlight-major): SteelerNation, 2026-10-17 19:41 UTC
+- [Steelers Sign RB to Active Roster](https://steelersnow.com/steelers-sign-rb-to-active-roster/): Steelers Now, 2026-10-17 19:38 UTC
+- [Steelers Get Bad News on Roman Wilson](https://steelersnow.com/steelers-get-bad-news-on-roman-wilson/): Steelers Now, 2026-10-17 19:33 UTC
+- [‘Aaron Rodgers, MVP This Year’: Former NFL DL Gives Bold Take About Steelers QB](https://steelersdepot.com/2026/10/aaron-rodgers-mvp-this-year-former-nfl-dl-gives-bold-take-about-steelers-qb/): Steelers Depot, 2026-10-17 19:30 UTC
+- [Steelers place WR Roman Wilson on IR](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176479/steelers-place-wr-roman-wilson-on-ir-dk-metcalf): Behind the Steel Curtain, 2026-10-17 19:28 UTC
+- [Roman Wilson on IR, Steelers sign RB Nichols to 53-man](https://news.google.com/rss/articles/CBMiswFBVV95cUxQVkN5MERYWmpiMnVFejJMbmVscTZEWTBhbXk1RVd3SE9lWXFna0piVm5QVW5FM2lqbHlwXzBobDZ0STliSnA3ZUQ1SlV4ZzBleFlGdzd1MndGdzdnQ0JmNlpydVloQnh2Y2Q3S2RIb0VKTnFpQThBRldzMDBfZk9qYTdwN1NwRkR5Zk05Wk1oRThaR3lXNU0tN3IySldQeEk4eUItM21XdmdVV2tWbER0Y1FuQQ?oc=5): Audacy, 2026-10-17 19:23 UTC
+- [Steelers put Roman Wilson on injured reserve](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-put-roman-wilson-on-injured-reserve): ProFootballTalk (NBC), 2026-10-17 19:19 UTC
+- [Steelers place WR Roman Wilson on injured reserve](https://triblive.com/sports/steelers-place-wr-roman-wilson-on-injured-reserve/): TribLive, 2026-10-17 19:15 UTC
+- [Steelers Place Roman Wilson On IR, Make Other Roster Moves For Buccaneers Game](https://steelersdepot.com/2026/10/steelers-place-roman-wilson-on-ir-make-other-roster-moves-for-buccaneers-game/): Steelers Depot, 2026-10-17 19:09 UTC
+- [Steelers Add Two Practice Squad WRs for Bucs Game](https://news.google.com/rss/articles/CBMipgFBVV95cUxOYkF4UmwzX3JiQTBMaHBYUUxUY0lVckJKQzhYWm1xdHNnTWE4THY5ejBNNjZ1al85VVBuczBxa0NjLS1laDRGNWRfazNTMnE5REh2NVRneWJHd2dyZjdyVGRoZXJPZjdvd3dsemh0UFMxVG1tRW4wYmZ2akRUbnJ1R1EwTTZQY2lIVjJjbFZvWHRyZTRkY1FuVmM0Z0ppTjFEdmJNYzdn?oc=5): Sports Illustrated, 2026-10-17 19:03 UTC
+- [Steelers make roster moves ahead of Buccaneers game](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMHBrVTZkWkhfZmV6azJlRE45VEVHajZqRlF5dlotNURBYlB2UjQzOEZqZ3NtYmdCdVlCUFJoNC10ZFBxSVdJRm5UeVFwVkRNc2JPUW9nVlZRTlNwd2FqQWs5LVVOY2R6azNuVllhbG5ieTEzeV9TN3JZMWJibzdMZ3JJTWIwdkNi?oc=5): Steelers.com, 2026-10-17 19:03 UTC
+- [Steelers Place Roman Wilson on IR](https://news.google.com/rss/articles/CBMilgFBVV95cUxNanlpRVg0cm45dmhLc3VKRkxTNGJ6Z2xMbTZXMzZBMTVZbzdPcEZyVy11RnZUU0FxS2hlb2xWM3BRc0hGd3ZSNEVKR1lvbk5HTElOTFNhdlB3cnAtME8wRWVITUd0MXJTQVhtSVJEcUh1X1UtZ3pUVnNFYmRIWlNTTHFuQ09OVEdjSXYtTzl4RVFOcUJrblE?oc=5): Sports Illustrated, 2026-10-17 19:01 UTC
+- [Danny Smith’s Squad a Tough Test for Struggling Steelers Special Teams](https://steelersnow.com/danny-smiths-squad-a-tough-test-for-struggling-steelers-special-teams/): Steelers Now, 2026-10-17 19:00 UTC
+- [Jarvis Landry Was ‘So Pissed’ After Mike Tomlin’s 2019 Yawn Response When Asked About Browns WRs](https://steelersdepot.com/2026/10/jarvis-landry-was-so-pissed-after-mike-tomlins-2019-yawn-response-when-asked-about-browns-wrs/): Steelers Depot, 2026-10-17 19:00 UTC
+- [Steelers send scout to Texas to watch Arch Manning](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176474/steelers-send-scout-to-texas-to-watch-arch-manning): Behind the Steel Curtain, 2026-10-17 18:58 UTC
+- [Steelers Scout Two More Top QB Prospects | Week 7 2027 NFL Draft Scout](https://steelersnow.com/steelers-scout-two-more-top-qb-prospects-week-7-2027-nfl-draft-scout/): Steelers Now, 2026-10-17 18:37 UTC
+- [How Much Will Dowdle Cut Into Warren’s Workload? Bet On This](https://steelersdepot.com/2026/10/how-much-will-dowdle-cut-into-warrens-workload-bet-on-this/): Steelers Depot, 2026-10-17 18:30 UTC
+- [Steelers latest injury update swaps one problem for another](https://stillcurtain.com/pittsburgh-steelers-latest-injury-update-swaps-one-problem-for-another?utm_source=RSS): Still Curtain, 2026-10-17 18:01 UTC
+- [Steelers' DK Metcalf off injury report, Pat Freiermuth added](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY3pqd3lVYzBDNEk1anhyOUoxTzlFQXJ3YTZXeTVROERRc2xZTWozWHI2WmNfWDQyZjNEbVdQMjdZa0E4X1hXQlcwWEUxNGZScHZidVlOQlBPdXc3Y2xTV0E2Nmx4Y1F3bWtpTjNlZFpPNElIMnVfNWQ1bHZYRHhYSjBNaGRNQjBERXFPbTYxbWMzWU1LZUJiRS1tQndjQm1CWVc4czZ6SDFvZw?oc=5): Reuters, 2026-10-17 18:01 UTC
+- [Study: Play-Action Becoming Potent For Pittsburgh’s Offense](https://steelersdepot.com/2026/10/study-play-action-becoming-potent-for-pittsburghs-offense/): Steelers Depot, 2026-10-17 17:30 UTC
+- [Steelers' Young Offensive Line Is About To Face Its Toughest Test Yet](https://www.steelernation.com/2026/10/17/steelers-offensive-line-toughest-test): SteelerNation, 2026-10-17 17:15 UTC
+- [Steelers TE Pat Freiermuth questionable vs. Bucs; WR DK Metcalf removed from injury report](https://triblive.com/sports/steelers-te-pat-freiermuth-questionable-vs-bucs-wr-dk-metcalf-removed-from-injury-report/): TribLive, 2026-10-17 17:15 UTC
+- [‘Looks Fixed’: Brian Baldinger Sees Steelers’ Offensive Line Back On Track After Rocky Start](https://steelersdepot.com/2026/10/looks-fixed-brian-baldinger-sees-steelers-offensive-line-back-on-track-after-rocky-start/): Steelers Depot, 2026-10-17 17:00 UTC
+- [How The Pittsburgh Steelers Became One Of The NFL’s Most Influential Franchises](https://www.steelernation.com/2026/10/17/pittsburgh-steelers-nfl-most-influential): SteelerNation, 2026-10-17 17:00 UTC
+- [Steelers Uncover Something Special Brewing Between 2 Rookie DBs In Pittsburgh](https://www.steelernation.com/2026/10/17/steelers-uncover-special-rookie): SteelerNation, 2026-10-17 16:59 UTC
+- [Steelers Get Good News on WR DK Metcalf](https://steelersnow.com/steelers-get-good-news-on-wr-dk-metcalf/): Steelers Now, 2026-10-17 16:47 UTC
+- [Steelers' Nick Herbig Drawing Strong Praise For Unexpected New Role](https://www.steelernation.com/2026/10/17/steelers-nick-herbig-strong-praise): SteelerNation, 2026-10-17 16:39 UTC
+- [Steelers Suffer Another Major Offensive Injury](https://steelersnow.com/steelers-suffer-another-major-offensive-injury/): Steelers Now, 2026-10-17 16:38 UTC
+- [Steelers TE Pat Freiermuth questionable vs. Buccaneers](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176471/steelers-te-pat-freiermuth-questionable-vs-buccaneers-dk-metcalf): Behind the Steel Curtain, 2026-10-17 16:35 UTC
+- [McCorkle: My Top Wide Receiver Trade Target For Steelers](https://steelersdepot.com/2026/10/mccorkle-my-top-wide-receiver-trade-target-for-steelers/): Steelers Depot, 2026-10-17 16:35 UTC
+- [Steelers say DK Metcalf will play, Pat Freiermuth is questionable with calf injury](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-say-dk-metcalf-will-play-pat-freiermuth-is-questionable-with-calf-injury): ProFootballTalk (NBC), 2026-10-17 16:32 UTC
+- [Steelers Clear DK Metcalf, Add Pat Freiermuth To Injury Report Saturday](https://steelersdepot.com/2026/10/steelers-clear-dk-metcalf-add-pat-freiermuth-to-injury-report-saturday/): Steelers Depot, 2026-10-17 16:30 UTC
+- [Joey Porter Jr.'s latest injury leaves Steelers waiting on conditional draft pick](https://stillcurtain.com/joey-porter-jr-latest-injury-leaves-pittsburgh-steelers-waiting-conditional-draft-pick?utm_source=RSS): Still Curtain, 2026-10-17 16:25 UTC
+- [Former Steeler Marquez Valdes-Scantling Hits Market Amid WR Injuries](https://steelersdepot.com/2026/10/former-steeler-marquez-valdes-scantling-hits-market-amid-wr-injuries/): Steelers Depot, 2026-10-17 16:07 UTC
+- [The 2027 Quarterback Class Might Present An Opportunity Pittsburgh Can’t Pass Up](https://steelersdepot.com/2026/10/the-2027-quarterback-class-might-be-an-opportunity-pittsburgh-cant-pass-up/): Steelers Depot, 2026-10-17 16:05 UTC
+- [Steelers Are Seeing Consistent Growth Thanks To 1 Player In Particular](https://www.steelernation.com/2026/10/17/steelers-consistent-growth): SteelerNation, 2026-10-17 16:00 UTC
+- [Steelers Spin: Goodbye Groundhog](https://steelersdepot.com/2026/10/steelers-spin-goodbye-groundhog/): Steelers Depot, 2026-10-17 16:00 UTC
+- [Steelers news: The Steelers offense must execute better on early downs](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176446/steelers-news-the-steelers-offense-must-execute-better-on-early-downs): Behind the Steel Curtain, 2026-10-17 15:58 UTC
+- [Steelers vs. Buccaneers prediction: Both teams hoping to build off of impressive Week 5 wins](https://www.cbssports.com/nfl/news/where-to-watch-steelers-vs-buccaneers-prediction/): CBS Sports, 2026-10-17 15:51 UTC
+- [Bill Cowher Has Alarming Take As Legend Believes Steelers' Defensive Line Is "Uncomfortable"](https://www.steelernation.com/2026/10/17/steelers-bill-cowher-alarming-uncomfortable): SteelerNation, 2026-10-17 15:37 UTC
+- ["Really Good": Steelers Rookie Gabriel Rubio Starting To Turn Heads](https://www.steelernation.com/2026/10/17/steelers-good-rookie-gabriel-rubio): SteelerNation, 2026-10-17 15:19 UTC
+- [Steelers Vs Buccaneers X Factor: TE Pat Freiermuth](https://steelersdepot.com/2026/10/steelers-vs-buccaneers-x-factor-te-pat-freiermuth/): Steelers Depot, 2026-10-17 15:00 UTC
+- [Steelers Should Consider Surprise Trade Candidate](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUjJlaFJZeGw4TXlGNGZld2p2MTdSUFZhOWt4MWwtd3Bnd1F6N1EyQVhvWGFKdFA3Uk9kNi1LeDctZzRlR01tVE92djBUNWpwbzBobi1iYVMyaTJvendGWU9iZm9FZ1A5VnZlNjZ6bUEwWUV1LVF2YzhtTTc5aTBQMDRURmdsSGlsb3NVbmZDWk9LbmNqZDA3dWhEUmxBU2JXa096UHpWckw3MFVyV0E?oc=5): Sports Illustrated, 2026-10-17 15:00 UTC
+- [NFL Week 6 last-minute best bets: Panthers beat up on banged-up Eagles, Bucs beat Steelers](https://www.cbssports.com/nfl/news/nfl-week-6-last-minute-best-bets-picks-predictions/): CBS Sports, 2026-10-17 14:58 UTC
+- [Steelers Reunion At Cornerback Suddenly Within Reach As Chargers' Demise Continues](https://www.steelernation.com/2026/10/17/steelers-reunion-suddenly-chargers): SteelerNation, 2026-10-17 14:35 UTC
+- [Pittsburgh Steelers get big Baker Mayfield news before Buccaneers game](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZHlaY3hkcmM5RWc0NFR0ZWJHVzd3aVZpNV9rcmFyZXhpTVpzRUhVaFF5TWJOYnE4VnllSG1nbFBraThHNlVObjJTRDhqaHpZenRua2g5bnNvY3hjWTYwVENTSEFzbzYtaWxzN3VjOG9CdlRFUzIzN3k1a0ZObHdLWUxoZm9GS25PREtlX0dCbG1TU0duamFXQ1dPU3hOWl9pQnJfbldPTE9leldCSzgxQ3ViNUwyM0dh?oc=5): PennLive.com, 2026-10-17 14:26 UTC
+- [Steelers Now Have The Door Wide Open For Splash Signing Of Tyreek Hill](https://www.steelernation.com/2026/10/17/steelers-now-splash-tyreek-hill): SteelerNation, 2026-10-17 14:21 UTC
+- [Steelers must accomplish these 3 things to secure victory vs. Buccaneers](https://stillcurtain.com/pittsburgh-steelers-must-accomplish-these-3-things-to-secure-victory-vs-buccaneers-01m4xbbe4sgx?utm_source=RSS): Still Curtain, 2026-10-17 14:00 UTC
+- [Kozora: Time For The Steelers To Take This Show On The Road](https://steelersdepot.com/2026/10/kozora-time-for-the-steelers-to-take-this-show-on-the-road/): Steelers Depot, 2026-10-17 13:30 UTC
+- [Jonathan Taylor Sought Out Jaylen Warren After His Big Game. Here’s What He Said.](https://steelersdepot.com/2026/10/jonathan-taylor-sought-out-jaylen-warren-after-his-big-game-heres-what-he-said/): Steelers Depot, 2026-10-17 13:15 UTC
+- [Steelers Vs Buccaneers Preview: 5 Keys To Victory In Week 6](https://steelersdepot.com/2026/10/steelers-vs-buccaneers-preview-5-keys-to-victory-in-week-6/): Steelers Depot, 2026-10-17 12:15 UTC
+- [Steelers GameDay Cheat Sheet: Week 6 at the Tampa Bay Buccaneers](https://www.steelcityunderground.com/2026/10/17/steelers-gameday-cheat-sheet-week-6-at-the-tampa-bay-buccaneers/): Steel City Underground, 2026-10-17 11:40 UTC
+- [Steelers vs. Buccaneers picks: Still Curtain panel predicts a brutal battle](https://stillcurtain.com/steelers-vs-buccaneers-picks-still-curtain-panel-predicts-a-brutal-battle-01m4r3jag9f8?utm_source=RSS): Still Curtain, 2026-10-17 11:00 UTC
+- [‘Different Side to Him’: Steelers Cam Heyward Admires Mike Tomlin’s New Chapter](https://steelersnow.com/different-side-to-him-steelers-cam-heyward-admires-mike-tomlins-new-chapter/): Steelers Now, 2026-10-17 11:00 UTC
+- [Steelers visit Tampa Bay as Rodgers winds down career, Bucs hope to add to win total](https://news.google.com/rss/articles/CBMivwFBVV95cUxNYkIwTEVPUnlsbExxU01MSG50YUs1cTVGd2V6YVBIZ2xIdHJwWXNrREJuMG9rRi0wbnZSWk12ODI5cFQxTndFTUkxOExPMkFKVXEwSmJSREpCUUNtZHZzNW9WOFhFMVpHQTFsanJiekVhT2FEaDFOSDJsUlZEaE41REtsZms0Z0dQOFRxUVNZdnU2NkpnWkRpTHh0VktJY00yZmUyVGl0LUdhYlZYeGVjbnk0Y1RhV1k1enMtTjdFOA?oc=5): Orlando Sentinel, 2026-10-17 10:01 UTC
+- [Cup of Joe (Starkey): At this rate, Steelers should pay Jaylen Warren top-5 RB money](https://triblive.com/sports/cup-of-joe-starkey-at-this-rate-steelers-should-pay-jaylen-warren-top-5-rb-money/): TribLive, 2026-10-17 10:00 UTC
+- [Ex-Steelers’ Joey Porter Jr. Has New Injury With Cowboys](https://news.google.com/rss/articles/CBMinwFBVV95cUxORXhkcG1rTnYyZERGdXRTT21JZ0hWT25hdTVtMEc3MFlGRWQ1QWN6a3pVdWlDWnVtcEh4MzVJT0lKN1JfZ0c0c0hablZWRTF1M2c1VWxkRWF3WUgyX2t6YjROSi1KczN0Q0VHUUhEZFFtREZoc0VQRGg5Vl9hNGVlc05wMjcxSkFqTXRQRGdEQWRlTnZnaWNiRFo2MGFnVjQ?oc=5): Heavy.com, 2026-10-17 08:08 UTC
+- [The Steelers have been slow to join the NFL’s blitz craze, but Patrick Graham says it’s coming](https://www.post-gazette.com/sports/steelers/2026/10/17/more-blitzing-nfl-steelers-blitzburgh/stories/202610160040): Pittsburgh Post-Gazette, 2026-10-17 08:00 UTC
+- [‘What a story’: Steelers’ Jaylen Warren goes from unheralded recruit to top of NFL leaderboard](https://triblive.com/sports/what-a-story-steelers-jaylen-warren-goes-from-unheralded-recruit-to-top-of-nfl-leaderboard/): TribLive, 2026-10-17 00:06 UTC
+- [How to watch Steelers vs. Buccaneers: TV channel and streaming options for October 18](https://news.google.com/rss/articles/CBMipAFBVV95cUxOeWdhSm45VktrVzgzd3pRYWprRnRldllZcUJOY3dpYzBCQjB5LTFMRC1JWlg3WHluQWRUaUgwZ0hneUZnclRRXzRzN3hFYk5BU3p1NmpyUVRlaWtzZjhNaWhvNk9WeUhyd1BVenRTanVyZTdjVnVST051NzdkZWF2ODdhZ1NCQjJrMGFBc21Sa3Q0WUZHUGxZY1FPRXRhaEt5Z0lLdg?oc=5): The New York Times, 2026-10-16 23:30 UTC
+- [Despite talk of disconnect, Steelers DB Jalen Ramsey says players, coaches ‘after the same goal’](https://triblive.com/sports/despite-earlier-talk-of-disconnect-steelers-db-jalen-ramsey-says-players-coaches-are-after-the-same-goal/): TribLive, 2026-10-16 22:52 UTC
+- [Friday Night Open Thread: Spooky Season](https://www.behindthesteelcurtain.com/pittsburgh-steelers-discussion/176448/friday-night-open-thread-spooky-season): Behind the Steel Curtain, 2026-10-16 22:30 UTC
+- [Steelers Afternoon Drive: Buccaneers Preview & Predictions](https://steelersnow.com/steelers-afternoon-drive-buccaneers-preview-predictions/): Steelers Now, 2026-10-16 22:11 UTC
+- [DK Metcalf (illness) joins 4 other Steelers starters listed as questionable to play vs. Bucs](https://triblive.com/sports/dk-metcalf-illness-joins-4-other-steelers-starters-listed-as-questionable-to-play-vs-bucs/): TribLive, 2026-10-16 21:43 UTC
+- [Keeanu Benton’s injury puts Steelers' defense at risk vs. Buccaneers](https://stillcurtain.com/keeanu-benton-s-injury-puts-pittsburgh-steelers-defense-at-risk-vs-buccaneers-01m52fp2j0cv?utm_source=RSS): Still Curtain, 2026-10-16 21:06 UTC
+- [Former Steeler Predicts Team Puts a ‘Whooping’ on Buccaneers](https://steelersnow.com/former-steeler-predicts-team-puts-a-whooping-on-buccaneers/): Steelers Now, 2026-10-16 20:40 UTC
+- [Updated: Week 6 Injury Report (Buccaneers)](https://news.google.com/rss/articles/CBMidkFVX3lxTE1jSVgwTElyY1VZNG5PamZOTWJpR0FaVk53c2tfNnJJS1dvcjN6Y05JeVJ3eTI4OE5wQkxjX0FBc1hTQVdXVW9pRnc4QUNydnA4bEpXaWZ1RlZGRFJOaVdwN0NVSUdJMXVRMjJLMU1xZm9oWloxU3c?oc=5): Steelers.com, 2026-10-16 20:05 UTC
+- [The Steelers rule out DeShon Elliott, list DK Metcalf as questionable for Sunday](https://www.post-gazette.com/sports/steelers/2026/10/16/steelers-injury-news-week-6/stories/202610160033): Pittsburgh Post-Gazette, 2026-10-16 20:00 UTC
+- [DK Metcalf is questionable, and the Steelers passing game can’t afford the loss](https://stillcurtain.com/pittsburgh-steelers-buccaneers-week-5-injury-report-friday?utm_source=RSS): Still Curtain, 2026-10-16 19:36 UTC
+- [Steelers may be without DK Metcalf vs. Buccaneers](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176454/steelers-may-be-without-dk-metcalf-vs-buccaneers-roman-wilson-jalen-ramsey): Behind the Steel Curtain, 2026-10-16 19:33 UTC
+- [Concern Growing for Steelers' Nick Herbig](https://news.google.com/rss/articles/CBMijAFBVV95cUxNYk55RENDQ3Ffd2V5R09TNktUcmlldlhrVzA5NDEyX3B5SkNXV2ZKeGN0ZmdOOWR5R0xxZ2h4Y3Y2UjBHS0JxVU94RF9kM3JucnN5MGtZblBfVERIQmlMVXJ1QV8tUGpMRUtOV1o0OXlnaUZac3lJNUUzME5vRk5GT2lyNXdPajNQTlBXeQ?oc=5): Sports Illustrated, 2026-10-16 16:01 UTC
+- [The Steelers threw Daylen Everette into the fire. The rookie cornerback has been there before.](https://www.post-gazette.com/sports/steelers/2026/10/16/daylen-everette-steelers/stories/202610160032): Pittsburgh Post-Gazette, 2026-10-16 14:02 UTC
+- [Steelers look likely to avoid Baker Mayfield in Week 6 against Buccaneers](https://stillcurtain.com/pittsburgh-steelers-look-likely-to-avoid-baker-mayfield-in-week-6-against-buccaneers-01m510k2zz9p?utm_source=RSS): Still Curtain, 2026-10-16 14:00 UTC
+- [NFL predictions: Favorite bets for Steelers vs. Buccaneers](https://www.behindthesteelcurtain.com/pittsburgh-steelers-odds/176403/nfl-predictions-favorite-bets-for-steelers-vs-buccaneers): Behind the Steel Curtain, 2026-10-16 14:00 UTC
+- [Steelers-Buccaneers preview: What to expect from Tampa Bay’s offense, defense in Week 6](https://www.behindthesteelcurtain.com/pittsburgh-steelers-game-information/176163/steelers-buccaneers-preview-what-to-expect-from-tampa-bay-offense-defense-in-week-6-jalon-daniels-vita-vea): Behind the Steel Curtain, 2026-10-16 13:00 UTC
+- [Steelers Players to Watch: Five names who could make the difference against Tampa Bay](https://www.steelcityunderground.com/2026/10/16/steelers-players-to-watch-five-names-who-could-make-the-difference-against-tampa-bay/): Steel City Underground, 2026-10-16 12:04 UTC
+- [Brian Thomas Jr. headlines 7 WR trade targets Steelers can't afford to ignore](https://stillcurtain.com/brian-thomas-jr-headlines-7-wr-trade-targets-pittsburgh-steelers-can-t-afford-to-ignore-01m4rnfq23x6?utm_source=RSS): Still Curtain, 2026-10-16 12:00 UTC
+- [Are Steelers fans coming around to believing in the 2026 team?](https://www.behindthesteelcurtain.com/pittsburgh-steelers-discussion/176263/are-steelers-fans-coming-around-to-believing-in-the-2026-team): Behind the Steel Curtain, 2026-10-16 12:00 UTC
+- [Football Footnotes: Steelers positioned for October surge into bye week. But where’s the pothole?](https://triblive.com/sports/football-footnotes-steelers-positioned-for-october-surge-into-bye-week-but-wheres-the-pothole/): TribLive, 2026-10-16 10:44 UTC
+- [Steelers 4 Downs: Pat Freiermuth making plays like a wide receiver in the passing game](https://triblive.com/sports/steelers-4-downs-pat-freiermuth-making-plays-like-a-wide-receiver-in-the-passing-game/): TribLive, 2026-10-16 10:31 UTC
+- [AFC North Whiparound: Ravens are getting healthier, Steelers are surging and pressure on Chase Brown](https://www.nytimes.com/athletic/7692663/2026/10/16/afc-north-whiparound-bengals-browns-ravens-steelers-week-6/): The Athletic, 2026-10-16 10:15 UTC
+- [Scouting the Buccaneers: Steelers opponent is starting an undrafted rookie QB in Jalon Daniels](https://triblive.com/sports/scouting-the-buccaneers-steelers-opponent-is-starting-an-undrafted-rookie-qb-in-jalon-daniels/): TribLive, 2026-10-16 10:01 UTC
+- [Steelers coach is already on the hot seat (and the writing is on the wall)](https://stillcurtain.com/pittsburgh-steelers-coach-is-already-on-the-hot-seat-and-the-writing-is-on-the-wall-01m4x9aza3tm?utm_source=RSS): Still Curtain, 2026-10-16 10:00 UTC
+- [The Pittsburgh Steelers’ ‘diva whisperer’ secretly earned a doctorate while coaching NFL stars](https://news.google.com/rss/articles/CBMioAFBVV95cUxPYk5McXJXdWRCN3ZTQlhqX1pXUGpUZnUydzBFZ1ZmbXcxcTBvcWpTOXhYWmg4ZmUxVVAzTk1rT2NRT0VPQVpKYUhGWTl2eEI0ajI0UnozNC1INjhjZEV4V0V2M3piOTNXY0pWT0FNVVBqb2M0YnR1MVhhaHZIanl0SlJuNkFzUDBySFJGeTRFR2VQUTZPV0NBLWRfZkw3ZW8y?oc=5): The New York Times, 2026-10-16 06:42 UTC
+- [Steelers CB Dean faces bittersweet homecoming vs. Buccaneers](https://triblive.com/sports/steelers-cb-dean-faces-bittersweet-homecoming-vs-buccaneers/): TribLive, 2026-10-16 01:16 UTC
+- [Rico Dowdle goes full, but Steelers aren’t taking the ball from Jaylen Warren](https://stillcurtain.com/pittsburgh-steelers-buccaneers-injury-report-week-5-thursday?utm_source=RSS): Still Curtain, 2026-10-15 21:37 UTC
+- [2 practice-squad wide receivers likely to play for Steelers Sunday](https://triblive.com/sports/2-practice-squad-wide-receivers-likely-to-play-for-the-steelers-on-sunday/): TribLive, 2026-10-15 21:35 UTC
+- [Rico Dowdle practices fully for 1st time in 4 weeks, appears in line for return to Steelers lineup](https://triblive.com/sports/rico-dowdle-practices-fully-for-1st-time-in-4-weeks-appears-in-line-for-return-to-steelers-lineup/): TribLive, 2026-10-15 21:00 UTC
+- [Aaron Rodgers is nearing a Peyton Manning-sized NFL record as Week 6 hits](https://stillcurtain.com/pittsburgh-steelers-aaron-rodgers-is-nearing-a-peyton-manning-sized-nfl-record-as-week-6-hits-01m4zsfjhd02?utm_source=RSS): Still Curtain, 2026-10-15 21:00 UTC
+- [Steelers have an ideal Chargers trade target hiding in plain sight](https://stillcurtain.com/pittsburgh-steelers-have-an-ideal-chargers-trade-target-hiding-in-plain-sight-01m4rgvtk45h?utm_source=RSS): Still Curtain, 2026-10-15 16:00 UTC
+- [The Steelers’ new coaches are still trying to figure out how to use Nick Herbig](https://www.post-gazette.com/sports/steelers/2026/10/15/nick-herbig-contract-steelers-role/stories/202610150038): Pittsburgh Post-Gazette, 2026-10-15 16:00 UTC
+- [Steelers face a different offensive challenge with depleted receiving corps against Buccaneers](https://www.steelcityunderground.com/2026/10/15/steelers-face-a-different-offensive-challenge-with-depleted-receiving-corps-against-buccaneers/): Steel City Underground, 2026-10-15 15:59 UTC
+- [Patrick Graham's selfless adjustment is exactly what Steelers defense needed](https://stillcurtain.com/patrick-graham-s-selfless-adjustment-is-exactly-what-pittsburgh-steelers-defense-needed-01m4txm4zctm?utm_source=RSS): Still Curtain, 2026-10-15 14:00 UTC
+- [2026 Game Preview: Steelers-Buccaneers, Week 6](https://news.google.com/rss/articles/CBMiggFBVV95cUxPTjVpcmF0RkYtWVNoTUxzSGcydXAtTlQyd3pKcTlQaW9NRkpXY09DV2RLaFh0NzA1eFNpR2JGQWhiUXB2cmh0WHNCd09OMmNsTlE5YWxOdUdyV3Jtc29KcmYtdVlmejZ0QVQtVTlYWV9TYmtVYVIxWkFBTkZNWjdmaG1n?oc=5): Tampa Bay Buccaneers, 2026-10-15 13:13 UTC
+- [QBs keep targeting Asante Samuel Jr. Here’s why the Steelers cornerback says he loves it.](https://www.post-gazette.com/sports/steelers/2026/10/15/asante-samuel-steelers-joey-porter/stories/202610150029): Pittsburgh Post-Gazette, 2026-10-15 13:00 UTC
+- [Ray Fittipaldo’s Steelers chat transcript: 10.15.26](https://www.post-gazette.com/sports/steelers/2026/10/15/live-chat-nfl-week-6-mike-mccarthy/stories/202610150003): Pittsburgh Post-Gazette, 2026-10-15 13:00 UTC
+- [Jaylen Warren's Steelers breakout is eerily similar to this former OPOY](https://stillcurtain.com/jaylen-warren-s-pittsburgh-steelers-breakout-is-eerily-similar-to-this-former-opoy-01m4ved3njv9?utm_source=RSS): Still Curtain, 2026-10-15 12:00 UTC
+- [With Steelers WR corps struck by injuries, how many questions can Germie Bernard answer?](https://www.nytimes.com/athletic/7691084/2026/10/15/germie-bernard-pittsburgh-steelers-wr-injuries/): The Athletic, 2026-10-15 10:40 UTC
+- [First Call: Baker Mayfield health update before Steelers visit Tampa; NFL addresses concerns about game in France](https://triblive.com/sports/first-call-baker-mayfield-health-update-before-steelers-visit-tampa-nfl-addresses-concerns-about-game-in-france/): TribLive, 2026-10-15 10:09 UTC
+- [U mad, bro?: Steelers’ defense taking heat, shots at Mike Tomlin and Joey Porter Jr. continue](https://triblive.com/sports/u-mad-bro-steelers-defense-taking-heat-shots-at-mike-tomlin-joey-porter-jr-continue/): TribLive, 2026-10-15 10:01 UTC
+- [Steelers clearly dodged a bullet by not gambling on Malik Willis](https://stillcurtain.com/pittsburgh-steelers-clearly-dodged-a-bullet-by-not-gambling-on-malik-willis-01m4r0yezfb9?utm_source=RSS): Still Curtain, 2026-10-15 10:00 UTC
+- [NFL Week 6 ATS picks: Why Chiefs RB Kenneth Walker III deserves more love](https://www.nytimes.com/athletic/7690220/2026/10/15/nfl-week-6-predictions-betting-picks/): The Athletic, 2026-10-15 09:23 UTC
+- [Noah Hiles: It looks like the Steelers found quantity and quality with their 2026 draft class](https://www.post-gazette.com/sports/steelers/2026/10/15/steelers-2026-rookie-class/stories/202610140031): Pittsburgh Post-Gazette, 2026-10-15 08:00 UTC
+- [Elandon Roberts is back with the Steelers, but his role is yet to be determined](https://www.post-gazette.com/sports/steelers/2026/10/14/steelers-sign-elandon-roberts/stories/202610140029): Pittsburgh Post-Gazette, 2026-10-14 21:30 UTC
+- [Elandon Roberts happy to be back with Steelers](https://triblive.com/sports/elandon-roberts-happy-to-be-back-with-steelers/): TribLive, 2026-10-14 21:26 UTC
+- [Steelers thin receiver room takes another hit before Buccaneers game](https://stillcurtain.com/pittsburgh-steelers-buccaneers-week-6-injury-report-wednesday?utm_source=RSS): Still Curtain, 2026-10-14 21:26 UTC
+- [Steelers Jaylen Warren is making his case as the NFL's most valuable RB](https://stillcurtain.com/pittsburgh-steelers-jaylen-warren-is-making-his-case-as-the-nfl-s-most-valuable-rb-01m4xy18hyq3?utm_source=RSS): Still Curtain, 2026-10-14 21:05 UTC
+- [Whom might the Steelers turn to Sunday with all their injuries at wide receiver?](https://www.post-gazette.com/sports/steelers/2026/10/14/steelers-wide-receiver-news/stories/202610140028): Pittsburgh Post-Gazette, 2026-10-14 20:00 UTC
+- [Steelers excelling in yards after catch because of tackle-breaking, accurate passing](https://triblive.com/sports/steelers-excelling-in-yards-after-catch-because-of-tackle-breaking-accurate-passing/): TribLive, 2026-10-14 19:55 UTC
+- [Pittsburgh Steelers vs. Tampa Bay Buccaneers preview | Week 6](https://news.google.com/rss/articles/CBMickFVX3lxTFBYRmpyLVBIMVBlblVqMWFKZ0xVZ0FBb21ZbEZXZ1BCSDY2ZDJoQnVGRWdBT0lnQTZ3SWRSQUZONjNpV0czVkhoU3R2SG9SazFiNlJFQ1FxZmZrR3c0UkZfb2lKNk0tbE05RjZ2eUw0UFNxdw?oc=5): NFL.com, 2026-10-14 19:21 UTC
+- [Cam Heyward defends Brian Flores to the hilt as Raiders criticism emerges](https://stillcurtain.com/pittsburgh-steelers-cam-heyward-defends-brian-flores-to-the-hilt-as-raiders-criticism-emerges-01m4xmq5cz5p?utm_source=RSS): Still Curtain, 2026-10-14 19:19 UTC
+- [NFL spread, straight-up picks: Rams, Chiefs, Colts top Week 6 confidence rankings](https://www.nytimes.com/athletic/7689979/2026/10/14/nfl-spread-straight-up-picks-confidence-rankings-week-6/): The Athletic, 2026-10-14 19:01 UTC
+- [Steelers RB Jaylen Warren named AFC Offensive Player of the Week](https://triblive.com/sports/steelers-rb-jaylen-warren-named-afc-offensive-player-of-the-week/): TribLive, 2026-10-14 16:41 UTC
+- [6 desperate NFL teams that should already be thinking about Mike Tomlin](https://stillcurtain.com/6-desperate-nfl-teams-that-should-already-be-thinking-about-pittsburgh-steelers-mike-tomlin-01m4v557qz8p?utm_source=RSS): Still Curtain, 2026-10-14 16:00 UTC
+- [Jaylen Warren's breakout could force Steelers to pay up quickly](https://stillcurtain.com/jaylen-warren-s-breakout-could-force-pittsburgh-steelers-to-pay-up-quickly-01m4trx5d3b1?utm_source=RSS): Still Curtain, 2026-10-14 14:00 UTC
+- [Gerry Dulac’s Steelers chat transcript: 10.14.26](https://www.post-gazette.com/sports/steelers/2026/10/14/live-chat-aaron-rodgers-nfl-week-6/stories/202610140004): Pittsburgh Post-Gazette, 2026-10-14 12:30 UTC
+- [Steelers-Buccaneers: Top Storylines & Key Matchups in Week Six](https://news.google.com/rss/articles/CBMilgFBVV95cUxOWG05T0tTUXJzeTFMOElORUJfZjJDNklKNVJpT1pMOE1Wd2R3WjBsZEVqX2pzcFRuMDRCTHFrcXF6NWtpN3JESDdaV0lfSU94MlRVcEtwNjV1VDR5b0Y2S29saU1KMVJkNk1DSVZnV0dKbzZ4UG9ZQXFMdS1wV2pyZ3JjWDJ4Q2NDbWZhR29ORVJucXFPVEE?oc=5): Tampa Bay Buccaneers, 2026-10-14 12:02 UTC
+- [Steelers film study: Mike McCarthy’s third-down fixes worked against the Colts](https://www.post-gazette.com/sports/steelers/2026/10/14/steelers-third-down-offense-mike-mccarthy/stories/202610140026): Pittsburgh Post-Gazette, 2026-10-14 12:00 UTC
+- [AFC North power rankings expose a seismic Steelers and Browns shift](https://stillcurtain.com/afc-north-power-rankings-expose-a-seismic-pittsburgh-steelers-and-browns-shift-01m4v8tncyp5?utm_source=RSS): Still Curtain, 2026-10-14 12:00 UTC
+- [Watch: Jaylen Warren breaks loose for 50-yard touchdown run](https://www.steelcityunderground.com/2026/10/14/watch-jaylen-warren-breaks-loose-for-50-yard-touchdown-run/): Steel City Underground, 2026-10-14 11:59 UTC
+- [Why the AFC North Remains One of the NFL’s Toughest Divisions to Win](https://www.steelcityunderground.com/2026/10/14/why-the-afc-north-remains-one-of-the-nfls-toughest-divisions-to-win/): Steel City Underground, 2026-10-14 11:58 UTC
+- [Tim Benz: Mike McCarthy’s staff discovering its feel for the Steelers roster in Year 1](https://triblive.com/sports/tim-benz-mike-mccarthys-staff-discovering-its-feel-for-the-steelers-roster-in-year-1/): TribLive, 2026-10-14 10:08 UTC
+- [Mark Madden: Mike McCarthy can be trusted to make right decisions for Steelers](https://triblive.com/sports/mark-madden-mike-mccarthy-can-be-trusted-to-make-right-decisions-for-steelers/): TribLive, 2026-10-14 10:01 UTC
+- [First Call: President Trump’s appearance at Steelers game Sunday called off; significant injury for Jordan Staal](https://triblive.com/sports/first-call-president-trumps-appearance-at-steelers-game-sunday-called-off-significant-injury-for-jordan-staal/): TribLive, 2026-10-14 10:01 UTC
+- [Steelers vs. Buccaneers Week 6 Tracker: Injury updates, predictions, storylines and more](https://stillcurtain.com/steelers-vs-buccaneers-week-6-tracker-injury-updates-predictions-storylines-and-more-01m4vh5ey1ss?utm_source=RSS): Still Curtain, 2026-10-14 10:00 UTC
+
+---
+Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
+
+
+# Steelers Podcasts & YouTube (today)
+
+_Generated 2026-10-17T22:28:40+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-17T22:28:32+00:00._
+_JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
+
+- Video: [Steelers Insider featuring Mike McCarthy: Week 6 at Buccaneers | Pittsburgh Steelers](https://www.youtube.com/watch?v=V9s6l38p68A): Pittsburgh Steelers (official), 2026-10-17 22:00 UTC
+- Podcast: [The Terrible Take - Episode 2053 - October 17, 2026](https://megaphone.link/SDP9390482738): The Terrible Podcast (Steelers Depot), 2026-10-17 21:00 UTC
+- Video: [QB1 is Tampa Bound 🫡](https://www.youtube.com/shorts/FcWE5B6vQkY): Pittsburgh Steelers (official), 2026-10-17 19:13 UTC
+- Video: [TJ Watt & Sean Murphy-Bunting Press Conference (October 16) | Pittsburgh Steelers](https://www.youtube.com/watch?v=J0z2eg6m38E): Pittsburgh Steelers (official), 2026-10-17 18:36 UTC
+- Video: [Da beard to da house‼️ 📺: #PITvsTB 10/18 at 1 PM ET on CBS](https://www.youtube.com/shorts/QAZA8gFhpx8): Pittsburgh Steelers (official), 2026-10-17 14:55 UTC
+- Podcast: [🔥 JAYLEN WARREN ON FIRE! CAN THE STEELERS SINK TAMPA BAY? | SF7P EPISODE 211 ⚫🟡](https://podcasters.spotify.com/pod/show/steelersfor7podcast/episodes/JAYLEN-WARREN-ON-FIRE--CAN-THE-STEELERS-SINK-TAMPA-BAY---SF7P-EPISODE-211-e3qkqod): Steelers for 7 Podcast, 2026-10-17 04:46 UTC
+
+---
+Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
+
+
+# Steelers Film Room & Previews
+
+_Generated 2026-10-17T22:28:40+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-17T22:28:33+00:00._
+_JSON: https://blackandgolddispatch.com/api/v1/film.json_
+
+- Breakdown (vs Indianapolis Colts (Oct 11)): [Film Room: Max Iheanachor Is Already Fixing His Biggest Issue](https://steelersdepot.com/2026/10/film-room-max-iheanachor-is-already-fixing-his-biggest-issue/): Steelers Depot Film Room (Alex Kozora), 2026-10-17 11:15 UTC
+- Breakdown (vs Indianapolis Colts (Oct 11)): [Overall Grade vs Colts](https://www.youtube.com/watch?v=omOtoxTK19E): Steelers Almighty, 2026-10-16 15:10 UTC
+- Breakdown (vs Indianapolis Colts (Oct 11)): [ST Grades vs Colts](https://www.youtube.com/watch?v=lQHr4XkRi0g): Steelers Almighty, 2026-10-16 13:06 UTC
+- Breakdown (vs Indianapolis Colts (Oct 11)): [Defense Grades vs Colts](https://www.youtube.com/shorts/7d5k7Mntry4): Steelers Almighty, 2026-10-16 11:07 UTC
+- Breakdown (vs Indianapolis Colts (Oct 11)): [The Terrible Podcast — Steelers Vs. Colts All-22 Review, McCarthy Monday Recap, Week 6 WR Issues](https://www.youtube.com/watch?v=t6YSD1i_je0): Steelers Depot (YouTube), 2026-10-14 16:33 UTC
+- Breakdown (vs Indianapolis Colts (Oct 11)): [Film Room: Germie Bernard is EXACTLY What the Steelers Need!](https://www.youtube.com/watch?v=VflwgbiXV1g): Steelers_DB, 2026-10-12 22:20 UTC
+- Breakdown (vs Indianapolis Colts (Oct 11)): [Film Room: Gabriel Rubio Looks Strong In NFL Debut](https://steelersdepot.com/2026/10/film-room-gabriel-rubio-stands-strong-in-nfl-debut/): Steelers Depot Film Room (Alex Kozora), 2026-10-12 18:00 UTC
+- Breakdown (vs Indianapolis Colts (Oct 11)): [Film Room: Yahya Black Steps Up In Derrick Harmon’s Absence](https://steelersdepot.com/2026/10/film-room-yahya-black-steps-up-in-derrick-harmons-absence/): Steelers Depot Film Room (Alex Kozora), 2026-10-12 16:30 UTC
+- Preview (at Tampa Bay Buccaneers (Oct 18)): [Steelers Afternoon Drive: Buccaneers Preview & Predictions](https://steelersnow.com/steelers-afternoon-drive-buccaneers-preview-predictions/): Steelers Now, 2026-10-16 22:11 UTC
+- Preview (at Tampa Bay Buccaneers (Oct 18)): [How to pressure Tampa Bay | Playbook with Merril Hoge | Pittsburgh Steelers](https://www.youtube.com/watch?v=9sQcJpz3j8M): Merril Hoge – Steelers Playbook (official), 2026-10-16 22:00 UTC
+- Preview (at Tampa Bay Buccaneers (Oct 18)): [Steelers Look to String Together Back to Back Wins in Tampa | Scouting Report Week 6](https://www.youtube.com/watch?v=KJ2oZgYo4rQ): Steelers Almighty, 2026-10-16 18:00 UTC
+- Preview (at Tampa Bay Buccaneers (Oct 18)): [The Terrible Podcast — Steelers Vs Buccaneers Game Preview, Trade Possibility, Injuries, W6 Picks](https://www.youtube.com/watch?v=lHwxWzn_glI): Steelers Depot (YouTube), 2026-10-16 15:33 UTC
+- Preview (at Tampa Bay Buccaneers (Oct 18)): [Buccaneers Defense Scouting Report: Batten Down The Hatches To Beat The Blitz](https://steelersdepot.com/2026/10/buccaneers-defense-scouting-report-batten-down-the-hatches-down-to-beat-the-blitz/): Alex Kozora (Steelers Depot), 2026-10-16 13:30 UTC
+- Preview (at Tampa Bay Buccaneers (Oct 18)): [Steelers-Buccaneers preview: What to expect from Tampa Bay’s offense, defense in Week 6](https://www.behindthesteelcurtain.com/pittsburgh-steelers-game-information/176163/steelers-buccaneers-preview-what-to-expect-from-tampa-bay-offense-defense-in-week-6-jalon-daniels-vita-vea): Behind the Steel Curtain, 2026-10-16 13:00 UTC
+- Preview (at Tampa Bay Buccaneers (Oct 18)): [Buccaneers Offense Scouting Report: Creative Runs, Safe Passes](https://steelersdepot.com/2026/10/buccaneers-offensive-scouting-report-creative-runs-safe-passes/): Alex Kozora (Steelers Depot), 2026-10-16 12:30 UTC
+
+---
+Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
+
+
+# Steelers Rumor Meter (today)
+
+_Generated 2026-10-17T22:28:40+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-17T22:28:37+00:00._
+_JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
+
+- **Rumor** · tier: Aggregator / other · consensus: 2 source(s), top tier National insider
+  [Jordan Addison-to-Steelers trade rumor takes off despite making zero sense for Vikings](https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ01QUERTX1Vtb2JjN0cwczFTY2t0NEpOejJNU004WjE0ajVIclRaVUF4enRrZG9JbmtYVDZ4ZnlEa0xCdW9VOThPQ3hKcmd0b2tMVjRfNFliRmhjVHpQRkkzbkdWekNwMkdrZkJlTEYwamduS1V3OUNFLXZPQlJtNklWTFVQY3otQngydWR5ZmJ2TjRUUHhlajMxMGdGdTZSUFVPZ3F4VWt4em1FUzV6N0tlUUJlZw?oc=5): Bring Me the Sports, first seen 2026-10-17 18:57 UTC
+- **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
+  [Jordan Addison-to-Steelers trade rumor takes off despite making zero sense for Vikings](https://news.google.com/rss/articles/CBMijAFBVV95cUxNQm9GSVEzcl9KTHN5bmVLMkZXR3ZicmFUTDlFUVpEUVF4YjFDUGlfMUsyTnNHb29JLWpqY1R4UGJjTGpTZi1TNU1zUncyTEJkdkcyNjgxNDF6clJqUmVEUUtsV0huenE4cmdFOWhjU3VZdE9qOGJ4UzJhYjM2UWw1SEFLVkg4ZXVUVUs0WA?oc=5): Yahoo Sports, first seen 2026-10-17 20:53 UTC
+- **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
+  [McCorkle: My Top Wide Receiver Trade Target For Steelers](https://steelersdepot.com/2026/10/mccorkle-my-top-wide-receiver-trade-target-for-steelers/): Steelers Depot, first seen 2026-10-17 18:57 UTC
+- **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
+  [Steelers Should Consider Surprise Trade Candidate](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUjJlaFJZeGw4TXlGNGZld2p2MTdSUFZhOWt4MWwtd3Bnd1F6N1EyQVhvWGFKdFA3Uk9kNi1LeDctZzRlR01tVE92djBUNWpwbzBobi1iYVMyaTJvendGWU9iZm9FZ1A5VnZlNjZ6bUEwWUV1LVF2YzhtTTc5aTBQMDRURmdsSGlsb3NVbmZDWk9LbmNqZDA3dWhEUmxBU2JXa096UHpWckw3MFVyV0E?oc=5): Sports Illustrated, first seen 2026-10-17 18:57 UTC
+- **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
+  [3 Trade Targets Steelers Could Pursue Before NFL Trade Deadline](https://news.google.com/rss/articles/CBMisgFBVV95cUxQSkZDUnhrc3B6ejNJYkxRMTJYUnVZY0JUcVh2bHJheVUzT1J4enZmM3ZoNnpUTzA1ZzZVRVFST2JJWElBZEVfOHhhdjk4eU92dndqei1OQ09EXzhoNXlkcXVCX0k3emZ1dnZWMDBBU01HbFFxaXBDMEQtZEJ6a2VPdjJkYWstUU5WNDdublpqbEZJelNaOVlhbVhnYXUxRGs4RlpvWmRZT2hlNkRuSnlRMy1n?oc=5): Athlon Sports, first seen 2026-10-17 18:57 UTC
+
+---
+Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
+
+
+# Steelers Injury Report
+
+_Generated 2026-10-17T22:28:40+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-17T22:28:35+00:00._
+_JSON: https://blackandgolddispatch.com/api/v1/injuries.json_
+
+| Player | Pos | Status | Injury | Est. return | Updated |
+|---|---|---|---|---|---|
+| [Ben Skowronek](https://www.nfl.com/injuries/) | WR | Out | Calf |  |  |
+| [DeShon Elliott](https://www.nfl.com/injuries/) | S | Out | Knee |  |  |
+| [Roman Wilson](https://www.nfl.com/injuries/) | WR | Out | Finger |  |  |
+| [DK Metcalf](https://www.nfl.com/injuries/) | WR | Questionable | Illness |  |  |
+| [Jalen Ramsey](https://www.nfl.com/injuries/) | CB | Questionable | Wrist |  |  |
+| [Jamel Dean](https://www.nfl.com/injuries/) | CB | Questionable | Ankle |  |  |
+| [Keeanu Benton](https://www.nfl.com/injuries/) | DT | Questionable | Ankle |  |  |
+| [Rico Dowdle](https://www.nfl.com/injuries/) | RB | Questionable | Toe |  |  |
+| [Cole Burgess](https://www.nfl.com/transactions/) | WR | Injured Reserve |  |  |  |
+| [Daequan Hardy](https://www.nfl.com/transactions/) | DB | Injured Reserve |  |  |  |
+| [Derrick Harmon](https://www.nfl.com/transactions/) | DL | Injured Reserve |  |  |  |
+| [Gennings Dunker](https://www.nfl.com/transactions/) | OL | Injured Reserve |  |  |  |
+| [Jack Driscoll](https://www.nfl.com/transactions/) | OL | Injured Reserve |  |  |  |
+| [Logan Lee](https://www.nfl.com/transactions/) | DL | Injured Reserve |  |  |  |
+| [Michael Pittman](https://www.nfl.com/transactions/) | WR | Injured Reserve |  |  |  |
+| [Donte Kent](https://www.nfl.com/transactions/) | DB | Physically Unable to Perform |  |  |  |
+
+---
+Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
+
+
+# Steelers Depth Chart
+
+_Generated 2026-10-17T22:28:40+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-17T22:28:35+00:00._
+_JSON: https://blackandgolddispatch.com/api/v1/depth-chart.json_
+
+### Offense (3WR 1TE)
+
+| Pos | Starter | 2nd | 3rd | Others |
+|---|---|---|---|---|
+| QB | Aaron Rodgers | Mason Rudolph | Will Howard | Drew Allar |
+| RB | Jaylen Warren | Rico Dowdle (Questionable) | Travis Homer | Eli Heidenreich |
+| FB | Riley Nowakowski |  |  |  |
+| WR | DK Metcalf (Questionable) | Ben Skowronek (Out) | Cole Burgess (Injured Reserve) |  |
+| WR | Roman Wilson (Out) | Kaden Wetjen |  |  |
+| WR | Germie Bernard | Michael Pittman Jr. |  |  |
+| TE | Darnell Washington | Pat Freiermuth | Robert Tonyan |  |
+| LT | Troy Fautanu | Dylan Cook | Jack Driscoll (Injured Reserve) |  |
+| LG | Mason McCormick | Brock Hoffman | Gennings Dunker (Injured Reserve) |  |
+| C | Zach Frazier | Ryan McCollum |  |  |
+| RG | Brock Hoffman | Spencer Anderson |  |  |
+| RT | Max Iheanachor | Dylan Cook |  |  |
+
+### Defense (Base 3-4 D)
+
+| Pos | Starter | 2nd | 3rd | Others |
+|---|---|---|---|---|
+| LDE | Yahya Black | Gabriel Rubio | Derrick Harmon (Injured Reserve) |  |
+| NT | Keeanu Benton (Questionable) | Sebastian Joseph-Day |  |  |
+| RDE | Cameron Heyward | Kevin Jobity Jr. | Logan Lee (Injured Reserve) |  |
+| WLB | T.J. Watt | Nick Herbig |  |  |
+| LILB | Payton Wilson | Cole Holcomb |  |  |
+| RILB | Patrick Queen | Carson Bruener |  |  |
+| SLB | Alex Highsmith | Jack Sawyer |  |  |
+| LCB | Asante Samuel Jr. | Sean Murphy-Bunting | Terell Smith |  |
+| SS | Robert Spears-Jennings | DeShon Elliott (Out) |  |  |
+| FS | Jaquan Brisker | Rayshawn Jenkins |  |  |
+| RCB | Jamel Dean (Questionable) | Daylen Everette | Doneiko Slaughter | Daequan Hardy |
+| NB | Jalen Ramsey (Questionable) | Brandin Echols | Donte Kent (Physically Unable to Perform) |  |
+
+### Special teams (Special Teams)
+
+| Pos | Starter | 2nd | 3rd | Others |
+|---|---|---|---|---|
+| PK | Chris Boswell |  |  |  |
+| P | Cameron Johnston |  |  |  |
+| H | Cameron Johnston |  |  |  |
+| PR | Kaden Wetjen | Roman Wilson (Out) | Rico Dowdle (Questionable) | Donte Kent |
+| KR | Kaden Wetjen | Eli Heidenreich | Roman Wilson (Out) | Rico Dowdle, Donte Kent |
+| LS | Christian Kuntz |  |  |  |
+
+---
+Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
+
+
+# Steelers Schedule & Results
+
+_Generated 2026-10-17T22:28:40+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-17T22:28:31+00:00._
+_JSON: https://blackandgolddispatch.com/api/v1/schedule.json_
+
+Record: **3-2**
+
+| Week | Kickoff (UTC) | Opponent | Result |
+|---|---|---|---|
+| Week 1 | 2026-09-13 17:00 UTC | vs Atlanta Falcons | W 20-13 |
+| Week 2 | 2026-09-20 17:00 UTC | at New England Patriots | L 3-20 |
+| Week 3 | 2026-09-27 17:00 UTC | vs Cincinnati Bengals | W 30-27 |
+| Week 4 | 2026-10-02 00:15 UTC | at Cleveland Browns | L 24-27 |
+| Week 5 | 2026-10-11 17:00 UTC | vs Indianapolis Colts | W 34-22 |
+| Week 6 | 2026-10-18 17:00 UTC | at Tampa Bay Buccaneers | TV:  |
+| Week 7 | 2026-10-25 13:30 UTC | at New Orleans Saints | TV:  |
+| Week 8 | 2026-11-01 18:00 UTC | vs Cleveland Browns | TV:  |
+| Week 10 | 2026-11-16 01:20 UTC | at Cincinnati Bengals | TV:  |
+| Week 11 | 2026-11-22 21:25 UTC | at Philadelphia Eagles | TV:  |
+| Week 12 | 2026-11-27 20:00 UTC | vs Denver Broncos | TV:  |
+| Week 13 | 2026-12-07 01:20 UTC | vs Houston Texans | TV:  |
+| Week 14 | 2026-12-15 01:15 UTC | at Jacksonville Jaguars | TV:  |
+| Week 15 | 2026-12-20 18:00 UTC | vs Baltimore Ravens | TV:  |
+| Week 16 | 2026-12-27 18:00 UTC | vs Carolina Panthers | TV:  |
+| Week 17 | 2027-01-03 18:00 UTC | at Tennessee Titans | TV:  |
+| Week 18 | 2027-01-10 18:00 UTC | at Baltimore Ravens | TV:  |
+
+---
+Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
+
+
+# Steelers Team Stats
+
+_Generated 2026-10-17T22:28:40+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-17T19:47:01+00:00._
+_JSON: https://blackandgolddispatch.com/api/v1/stats.json_
+
+| Section | Stat | Value | NFL rank |
+|---|---|---|---|
+| Offense | Pass yards | 1,117 | 15 |
+| Offense | Pass TD | 10 | 6 |
+| Offense | INTs thrown | 4 | 18 |
+| Offense | Rush yards | 506 | 18 |
+| Offense | Rush TD | 1 | 31 |
+| Offense | Fumbles lost | 2 | 7 |
+| Offense | Total yards | 1,623 | 18 |
+| Defense | Yards allowed | 1,621 | 14 |
+| Defense | Pass yards allowed | 1,104 | 17 |
+| Defense | Rush yards allowed | 517 | 12 |
+| Defense | Sacks | 11 | 12 |
+| Defense | Interceptions | 4 | 8 |
+| Defense | Forced fumbles | 7 | 4 |
+| Defense | Fumbles recovered | 4 | 4 |
+| Defense | Tackles for loss | 26 | 11 |
+| Defense | Passes defended | 33 | 2 |
+| Scoring | Points scored | 111 | 19 |
+| Scoring | Points per game | 22.2 | 18 |
+| Scoring | Points allowed | 109 | 9 |
+| Scoring | Touchdowns | 12 | 16 |
+
+---
+Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
+
+
+# Steelers Player Grades (Heat Map)
+
+_Generated 2026-10-17T22:28:40+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-11T17:00:00+00:00._
+_JSON: https://blackandgolddispatch.com/api/v1/grades.json_
+
+Week 5: vs Indianapolis Colts (34-22). Grade = stats grade (box score, see GRADES.md) until a player has 25 fan votes, then fan grade.
+
+| Player | Pos | Grade | Grade type | Box score |
+|---|---|---|---|---|
+| Jaylen Warren | RB | 9.6 | stats | 15 rush, 101 yds, 1 TD; 6 rec, 87 yds, 1 TD |
+| Payton Wilson | ILB | 8.0 | stats | 8 tkl, 2 TFL, 1 PD |
+| Pat Freiermuth | TE | 7.9 | stats | 1 rush, 1 yds; 5 rec, 44 yds, 2 TD |
+| Germie Bernard | WR | 7.7 | stats | 1 rush, 4 yds; 6 rec, 80 yds |
+| Aaron Rodgers | QB | 7.6 | stats | 22/31, 235 yds, 3 TD, 0 INT; 1 rush, 6 yds |
+| Asante Samuel Jr. | CB | 7.6 | stats | 4 tkl, 4 PD |
+| Cameron Heyward | DT | 7.5 | stats | 3 tkl, 1 sack, 1 TFL |
+| Jaquan Brisker | SS | 7.3 | stats | 7 tkl, 2 PD |
+| Daylen Everette | CB | 7.2 | stats | 6 tkl, 2 PD |
+| Jalen Ramsey | CB | 7.2 | stats | 9 tkl, 1 PD |
+| Keeanu Benton | DT | 6.7 | stats | 3 tkl, 1 PD |
+| Patrick Queen | ILB | 6.6 | stats | 7 tkl |
+| Chris Boswell | K | 6.6 | stats | FG 2/2, XP 4/4 |
+| Yahya Black | DT | 6.4 | stats | 3 tkl, 1 TFL |
+| Cameron Johnston | P | 6.4 | stats | 3 punts, 52 avg |
+| DK Metcalf | WR | 6.3 | stats | 1 rush, 11 yds; 3 rec, 12 yds |
+| Jack Sawyer | OLB | 6.1 | stats | 4 tkl |
+| Gabe Rubio | DE | 6.0 | stats | 3 tkl |
+| Sebastian Joseph-Day | DE | 6.0 | stats | 3 tkl |
+| Darnell Washington | TE | 5.9 | stats | 2 rec, 12 yds |
+| Alex Highsmith | OLB | 5.8 | stats | 2 tkl |
+| Brandin Echols | CB | 5.8 | stats | 2 tkl |
+| Lew Nichols III | RB | 5.7 | stats | 1 rush, 6 yds |
+| Riley Nowakowski | FB | 5.7 | stats | 1 tkl |
+| Carson Bruener | ILB | 5.7 | stats | 1 tkl |
+| Cole Holcomb | ILB | 5.7 | stats | 1 tkl |
+| Doneiko Slaughter | CB | 5.7 | stats | 1 tkl |
+| Robert Spears-Jennings | FS | 5.7 | stats | 1 tkl |
+| Mason Rudolph | QB | 5.4 | stats | 2 rush, -2 yds |
+| Roman Wilson | WR | 5.4 | stats | 0 rec, 0 yds |
+| Kaden Wetjen | KR/PR | 5.0 | stats | 5 KR, 110 yds; 1 PR, 0 yds |
+| Brock Hoffman | C | awaiting fan votes | awaiting |  |
+| Dylan Cook | T | awaiting fan votes | awaiting |  |
+| Mason McCormick | G | awaiting fan votes | awaiting |  |
+| Max Iheanachor | T | awaiting fan votes | awaiting |  |
+| Ryan McCollum | C | awaiting fan votes | awaiting |  |
+| Spencer Anderson | G | awaiting fan votes | awaiting |  |
+| Troy Fautanu | T | awaiting fan votes | awaiting |  |
+| Zach Frazier | C | awaiting fan votes | awaiting |  |
+
+---
+Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
+
+
+# Steelers Draft Central
+
+_Generated 2026-10-17T22:28:40+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-17T22:28:35+00:00._
+_JSON: https://blackandgolddispatch.com/api/v1/draft.json_
+
+Steelers projected picks: R1 #22, R2 #54
+
+## Needs and top prospects
+
+### 1. Quarterback
+- **Arch Manning** (QB, Texas, our board #1): chance available R1 #22 0%, R2 #54 0%. 107/167, 1,298 pass yds, 11 TD, 5 INT; 48 rush, 99 yds
+- **Dante Moore** (QB, Oregon, our board #2): chance available R1 #22 0%, R2 #54 0%. 69/99, 926 pass yds, 9 TD, 0 INT; 10 rush, -7 yds
+- **Conner Weigman** (QB, Houston, our board #4): chance available R1 #22 0%, R2 #54 0%. 1,427 pass yds, 15 TD, 1 INT this season
+- **Katin Houser** (QB, Illinois, our board #29): chance available R1 #22 68%, R2 #54 6%. 1,440 pass yds, 12 TD, 4 INT this season
+- **Nico Iamaleava** (QB, UCLA, our board #33): chance available R1 #22 75%, R2 #54 12%. 982 pass yds, 4 TD, 4 INT this season
+- **Jayden Maiava** (QB, USC, our board #47): chance available R1 #22 87%, R2 #54 39%. 2,045 pass yds, 18 TD, 3 INT this season
+
+### 2. Cornerback
+- **Ellis Robinson IV** (CB, Georgia, our board #7): chance available R1 #22 1%, R2 #54 0%. 13 tackles, 1 INT, 3 PD
+- **Peyton Bowen** (CB, Oklahoma, our board #11): chance available R1 #22 8%, R2 #54 0%. 24 tackles, 2.5 TFL, 1 sacks, 1 INT, 4 PD
+- **Kelley Jones** (CB, Mississippi State, our board #19): chance available R1 #22 40%, R2 #54 0%. 21 tackles, 6 PD
+- **Jermaine Mathews Jr.** (CB, Ohio State, our board #27): chance available R1 #22 68%, R2 #54 1%. 27 tackles, 1.5 TFL, 0 sacks, 5 PD
+- **Ashton Hampton** (CB, Clemson, our board #28): chance available R1 #22 70%, R2 #54 2%. 19 tackles, 1 INT, 9 PD
+- **Zabien Brown** (CB, Alabama, our board #37): chance available R1 #22 85%, R2 #54 14%. 17 tackles, 0 TFL, 0 sacks, 4 PD
+
+### 3. Safety
+- **KJ Bolden** (S, Georgia, our board #20): chance available R1 #22 45%, R2 #54 0%. 22 tackles, 0.5 sacks, 1 INT, 2 PD
+- **Kamari Wilson** (S, West Virginia, our board #63): chance available R1 #22 95%, R2 #54 65%. 34 tackles, 0.5 TFL, 0 sacks, 1 INT, 1 PD
+- **Jelani McDonald** (S, Texas, our board #70): chance available R1 #22 96%, R2 #54 73%. 42 tackles, 3 TFL, 0 sacks, 2 PD
+- **Earl Little Jr.** (S, Ohio State, our board #87): chance available R1 #22 98%, R2 #54 84%. 38 tackles, 0 TFL, 0 sacks, 4 PD
+- **Kingston Lopa** (S, California, our board #92): chance available R1 #22 98%, R2 #54 87%. 27 tackles, 5 INT, 1 PD
+- **Zach Lutmer** (S, Iowa, our board #110): chance available R1 #22 99%, R2 #54 92%. 34 tackles, 4 PD
+
+### 4. Inside linebacker
+- **Sammy Brown** (LB, Clemson, our board #14): chance available R1 #22 20%, R2 #54 0%. 40 tackles, 1 sack, 1 PD
+- **Chris Cole** (LB, Georgia, our board #24): chance available R1 #22 58%, R2 #54 1%. 30 tackles, 2.5 sacks, 3 PD, 2 FR
+- **Yhonzae Pierre** (LB, Alabama, our board #57): chance available R1 #22 94%, R2 #54 56%. 18 tackles, 3.5 TFL, 2.5 sacks, 1 INT, 3 PD
+- **Suntarine Perkins** (LB, Ole Miss, our board #62): chance available R1 #22 95%, R2 #54 63%. 19 tackles, 2.5 TFL, 1.5 sacks, 1 PD
+- **Kyngstonn Viliamu-Asa** (LB, Notre Dame, our board #81): chance available R1 #22 97%, R2 #54 81%. 13 tackles, 1 INT, 1 FR
+- **Myles Graham** (LB, Florida, our board #90): chance available R1 #22 98%, R2 #54 86%. 49 tackles, 4.5 TFL, 3.5 sacks
+
+### 5. Wide receiver
+- **Jeremiah Smith** (WR, Ohio State, our board #3): chance available R1 #22 0%, R2 #54 0%. 52 rec, 984 yds, 12 TD; 2 rush, 7 yds
+- **Cam Coleman** (WR, Texas, our board #6): chance available R1 #22 0%, R2 #54 0%. 19 rec, 322 yds, 6 TD
+- **Nick Marsh** (WR, Indiana, our board #12): chance available R1 #22 11%, R2 #54 0%. 32 rec, 585 yds, 7 TD
+- **Ryan Coleman-Williams** (WR, Alabama, our board #23): chance available R1 #22 55%, R2 #54 0%. 23 catches, 415 yds, 4 TD
+- **Mike Matthews** (WR, Tennessee, our board #26): chance available R1 #22 65%, R2 #54 1%. 22 catches, 396 yds, 3 TD
+- **Ryan Wingo** (WR, Texas, our board #31): chance available R1 #22 76%, R2 #54 5%. 26 catches, 345 yds, 3 TD
+
+_Availability method (estimate): Estimate, not a prediction: a prospect's real draft slot ~ Normal(mean = our board rank, sd = (4 + 0.30*rank) * position factor).
+Chance he is still there at pick k = P(slot > k-1) = 1 - Phi((k - 0.5 - rank) / sd). Position factor widens the spread for positions
+whose draft range is historically less predictable (QB 1.25; RB/LB/S/IOL/TE 1.10; others 1.0)._
+
+## 2026 Steelers draft class: per-pick analyst grades
+
+| Rd | Pick | Player | Pos | School | CBS Sports | USA Today | Bleacher Report | NFL.com |
+|---|---|---|---|---|---|---|---|---|
+| 1 | 21 | Max Iheanachor | OT | Arizona St. | B+ | B | C | A |
+| 2 | 47 | Germie Bernard | WR | Alabama | A+ | A- | C+ |  |
+| 3 | 76 | Drew Allar | QB | Penn St. | B | D+ |  |  |
+| 3 | 85 | Daylen Everette | CB | Georgia | A | B | B |  |
+| 3 | 96 | Gennings Dunker | OT | Iowa | B- | B |  |  |
+| 4 | 121 | Kaden Wetjen | WR | Iowa | C | C+ |  |  |
+| 5 | 169 | Riley Nowakowski | TE | Indiana | B | B- |  |  |
+| 6 | 210 | Gabriel Rubio | DL | Notre Dame | C+ | B- |  |  |
+| 7 | 224 | Robert Spears-Jennings | S | Oklahoma | B+ | A- |  |  |
+| 7 | 230 | Eli Heidenreich | FB | Navy | B+ | B |  |  |
+
+Grade sources: CBS Sports (Mike Renner (Rd 1-3) / Josh Edwards (Rd 4-7)): https://www.cbssports.com/nfl/draft/news/nfl-draft-2026-team-grades/; USA Today (Michael Middlehurst-Schwartz (Rd 1-3) / Jacob Camenker (Rd 4-7)): https://www.usatoday.com/story/sports/nfl/draft/2026/04/24/steelers-nfl-draft-grades-for-every-pick/89773370007/; Bleacher Report (Brent Sobleski): https://bleacherreport.com/articles/25422017-nfl-draft-2026-day-2-grades-every-pick; NFL.com (Chad Reuter (Rd 1 pick grade; later rounds graded by day, not by pick)): https://www.nfl.com/news/2026-nfl-draft-final-snap-grades-for-every-team. Blank = not verified, omitted.
+
+Overall class grades (secondary):
+- ESPN (Mel Kiper Jr.): **B**: https://www.espn.com/nfl/draft2026/story/_/id/48547351/2026-nfl-draft-grades-32-teams-kiper-winners-losers-steals-sleepers-favorite-picks-classes
+- NFL.com (Chad Reuter (final snap grade)): **A-**: https://www.nfl.com/news/2026-nfl-draft-final-snap-grades-for-every-team
+- PFF (PFF draft grades): **C+**: https://www.pff.com/news/draft-pittsburgh-steelers-draft-recap
+- NFL.com (NFL.com all-32 class grades): **B-**: https://www.nfl.com/news/2026-nfl-draft-grades-all-32-rookie-classes-ranked-favorite-picks-and-day-3-sleepers
+- CBS Sports (Mike Renner & Josh Edwards (team report card)): **B+**: https://www.cbssports.com/nfl/draft/news/nfl-draft-2026-team-grades/
+- CBS Sports (CBS class rankings (30th of 32)): **C+**: https://www.cbssports.com/nfl/draft/news/grading-each-teams-2026-nfl-draft-class/
+- Bleacher Report (B/R NFL Scouting Dept.): **C-**: https://bleacherreport.com/articles/25421382-2026-nfl-draft-grades-every-team-br-nfl-scouting-dept
+- USA Today (USA Today draft grades): **B-**: https://sportsdata.usatoday.com/football/nfl/draft/grades
+
+Full archive of 452 Steelers picks (1980-2026) in JSON: https://blackandgolddispatch.com/api/v1/draft.json (Data: nflverse, CC-BY 4.0)
+
+Go deeper: [NFL Draft Buzz](https://www.nfldraftbuzz.com/), [Tankathon](https://www.tankathon.com/nfl/big_board), [NFL Mock Draft Database](https://www.nflmockdraftdatabase.com/)
+
+---
+Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
+
+
+# College Prospects at Steelers Needs
+
+_Generated 2026-10-17T22:28:40+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-17T20:25:54+00:00._
+_JSON: https://blackandgolddispatch.com/api/v1/college.json_
+
+### Quarterback
+- **Darian Mensah** (QB, Miami (FL), our board #1): No stats logged last week (bye or didn't play). In his most recent game (2026-10-03), Darian threw for 227 yards and 1 TD without a pick in a win at Clemson. Through 5 games he's at 1,438 yards, 15 TD and 0 INT (84.2% completions). (stats: CollegeFootballData.com)
+- **Drew Mestemaker** (QB, Oklahoma State, our board #3): Drew threw for 304 yards and 2 TD without a pick in a win vs. UCF. Through 5 games he's at 1,575 yards, 13 TD and 5 INT (67.5% completions). (stats: CollegeFootballData.com)
+- **Dante Moore** (QB, Oregon, our board #6): No stats logged last week (bye or didn't play). In his most recent game (2026-09-26), Dante threw for 77 yards, no TD, without a pick in a win at USC. Through 4 games he's at 926 yards, 9 TD and 0 INT (69.7% completions). (stats: CollegeFootballData.com)
+- **Arch Manning** (QB, Texas, our board #12): Arch threw for 173 yards and 1 TD without a pick in a loss vs. Florida. Through 6 games he's at 1,298 yards, 11 TD and 5 INT (64.1% completions). (stats: CollegeFootballData.com)
+
+### Cornerback
+- **Ashton Hampton** (CB, Clemson, our board #2): Ashton made 4 tackles in a win vs. Charleston Southern. Season: 19 tackles, 1 INT, 9 PD in 6 games. (stats: CollegeFootballData.com)
+- **Ellis Robinson IV** (CB, Georgia, our board #9): Ellis made 4 tackles in a win at Alabama. Season: 13 tackles, 1 INT, 3 PD in 5 games. (stats: CollegeFootballData.com)
+- **Kelley Jones** (CB, Mississippi State, our board #10): Kelley made 4 tackles in a loss at LSU. Season: 21 tackles, 6 PD in 6 games. (stats: CollegeFootballData.com)
+- **Leonard Moore** (CB, Notre Dame, our board #15): No stats logged last week (bye or didn't play). In his most recent game (2026-10-03), Leonard made 1 tackle with 2 pass breakups in a win at North Carolina. Season: 8 tackles, 4 PD in 4 games. (stats: CollegeFootballData.com)
+
+### Safety
+- **Kingston Lopa** (S, California, our board #4): No stats logged last week (bye or didn't play). In his most recent game (2026-09-26), Kingston made 11 tackles in a loss vs. Clemson. Season: 27 tackles, 5 INT, 1 PD in 4 games. (stats: CollegeFootballData.com)
+- **KJ Bolden** (S, Georgia, our board #7): KJ made 7 tackles with 0.5 sacks, 1 pass breakup in a win at Alabama. Season: 22 tackles, 0.5 sacks, 1 INT, 2 PD in 6 games. (stats: CollegeFootballData.com)
+- **Zach Lutmer** (S, Iowa, our board #13): Zach made 3 tackles in a win at Washington. Season: 34 tackles, 4 PD in 6 games. (stats: CollegeFootballData.com)
+- **Brauntae Johnson** (S, Notre Dame, our board #17): Stats not found. (stats: CollegeFootballData.com)
+
+### Inside linebacker
+- **Rasheem Biles** (LB, Texas, our board #5): Rasheem made 7 tackles with 1 pass breakup in a loss vs. Florida. Season: 49 tackles, 1 sack, 2 INT, 1 PD in 6 games. (stats: CollegeFootballData.com)
+- **Chris Cole** (LB, Georgia, our board #11): Chris made 8 tackles with 1 sack, 2 pass breakups in a win at Alabama. Season: 30 tackles, 2.5 sacks, 3 PD in 6 games. (stats: CollegeFootballData.com)
+- **Sammy Brown** (LB, Clemson, our board #16): Sammy made 1 tackle in a win vs. Charleston Southern. Season: 40 tackles, 1 sack, 1 PD in 6 games. (stats: CollegeFootballData.com)
+- **Kyngstonn Viliamu-Asa** (LB, Notre Dame, our board #19): No stats logged last week (bye or didn't play). In his most recent game (2026-10-03), Kyngstonn made 3 tackles with 1 interception in a win at North Carolina. Season: 13 tackles, 1 INT in 4 games. (stats: CollegeFootballData.com)
+
+### Wide receiver
+- **Jeremiah Smith** (WR, Ohio State, our board #8): Jeremiah caught 4 passes for 68 yards and 1 TD in a win at Indiana. Season: 52 catches, 984 yards (141 per game), 12 TD. (stats: CollegeFootballData.com)
+- **Charlie Becker** (WR, Indiana, our board #14): Charlie caught 9 passes for 165 yards in a loss vs. Ohio State. Season: 39 catches, 694 yards (99 per game), 8 TD. (stats: CollegeFootballData.com)
+- **Nick Marsh** (WR, Indiana, our board #18): Nick caught 3 passes for 57 yards and 1 TD in a loss vs. Ohio State. Season: 32 catches, 585 yards (84 per game), 7 TD. (stats: CollegeFootballData.com)
+- **Cam Coleman** (WR, Texas, our board #20): Cam caught 3 passes for 18 yards and 1 TD in a loss vs. Florida. Season: 19 catches, 322 yards (54 per game), 6 TD. (stats: CollegeFootballData.com)
+
+---
+Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
+
+
+# NFL Insider Posts
+
+_Generated 2026-10-17T22:28:40+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-17T22:28:32+00:00._
+_JSON: https://blackandgolddispatch.com/api/v1/insiders.json_
+
+- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3my3yu5hjqs27), 2026-10-17 21:10 UTC: @rapsheet.bsky.social posted about injuries.
+- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3my3ysrh4g227), 2026-10-17 21:09 UTC: @rapsheet.bsky.social posted about the game.
+- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3my3y5ezmr227), 2026-10-17 20:57 UTC: @rapsheet.bsky.social posted about injuries.
+- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3my3ce6irbc2b), 2026-10-17 14:27 UTC: @rapsheet.bsky.social posted about injuries.
+- [Tom Pelissero on Bluesky](https://bsky.app/profile/tompelissero.bsky.social/post/3mxzf2x7x7s2g), 2026-10-16 20:10 UTC: @tompelissero.bsky.social posted about NFL news.
+- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mxzdz5iczk2m), 2026-10-16 19:51 UTC: @rapsheet.bsky.social posted about injuries.
+- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mxzdyaenkc2m), 2026-10-16 19:51 UTC: @rapsheet.bsky.social posted about injuries.
+- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mxzdxacxbs2m), 2026-10-16 19:50 UTC: @rapsheet.bsky.social posted about NFL news.
+- [Christopher Carter (Locked On) on Bluesky](https://bsky.app/profile/cartercritiques.bsky.social/post/3mxyjoukiwp2w), 2026-10-16 12:00 UTC: @cartercritiques.bsky.social posted about the Steelers, the game.
+- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mxwsgjg5q22i), 2026-10-15 19:31 UTC: @rapsheet.bsky.social posted about injuries.
+- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mxwlqulnmk24), 2026-10-15 17:32 UTC: @rapsheet.bsky.social posted about NFL news.
+- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mxwlmuvhsk24), 2026-10-15 17:30 UTC: @rapsheet.bsky.social posted about NFL news.
+- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mxwkyzn5x224), 2026-10-15 17:18 UTC: @rapsheet.bsky.social posted about injuries.
+- [Christopher Carter (Locked On) on Bluesky](https://bsky.app/profile/cartercritiques.bsky.social/post/3mxwdd4kdof2i), 2026-10-15 15:01 UTC: @cartercritiques.bsky.social posted about the Steelers, the game.
+- [Christopher Carter (Locked On) on Bluesky](https://bsky.app/profile/cartercritiques.bsky.social/post/3mxwazu57op2x), 2026-10-15 14:20 UTC: @cartercritiques.bsky.social posted about NFL news.
+- [Christopher Carter (Locked On) on Bluesky](https://bsky.app/profile/cartercritiques.bsky.social/post/3mxvz73msxq2c), 2026-10-15 12:00 UTC: @cartercritiques.bsky.social posted about the Steelers, the game.
+- [Christopher Carter (Locked On) on Bluesky](https://bsky.app/profile/cartercritiques.bsky.social/post/3mxtiqzscph2x), 2026-10-14 12:00 UTC: @cartercritiques.bsky.social posted about the Steelers, the game.
+- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mxrxdgvzc22v), 2026-10-13 21:16 UTC: @rapsheet.bsky.social posted about the game.
+- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mxrvdy45gs2f), 2026-10-13 20:40 UTC: @rapsheet.bsky.social posted about NFL news.
+- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mxrlbrbpck2c), 2026-10-13 17:40 UTC: @rapsheet.bsky.social posted about the game.
+- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mxrlbaufqc2c), 2026-10-13 17:40 UTC: @rapsheet.bsky.social posted about a signing.
+- [Christopher Carter (Locked On) on Bluesky](https://bsky.app/profile/cartercritiques.bsky.social/post/3mxrh42ht2g2h), 2026-10-13 16:25 UTC: @cartercritiques.bsky.social posted about the Steelers.
+- [Mike DeFabo (The Athletic) on Bluesky](https://bsky.app/profile/mikedefabo.bsky.social/post/3mxr52nfeec2h), 2026-10-13 13:25 UTC: @mikedefabo.bsky.social posted about the Steelers.
+- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mxr4k32nuc2t), 2026-10-13 13:16 UTC: @rapsheet.bsky.social posted about the game.
+- [Christopher Carter (Locked On) on Bluesky](https://bsky.app/profile/cartercritiques.bsky.social/post/3mxqybeu3vo2y), 2026-10-13 12:00 UTC: @cartercritiques.bsky.social posted about the Steelers, the game.
+- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mxq4z3wehs2t), 2026-10-13 03:52 UTC: @rapsheet.bsky.social posted about the game.
+- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mxq42b3lxk22), 2026-10-13 03:35 UTC: @rapsheet.bsky.social posted about the game.
+- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mxq3vwjnak22), 2026-10-13 03:32 UTC: @rapsheet.bsky.social posted about NFL news.
+- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mxpm3klywk2u), 2026-10-12 22:49 UTC: @rapsheet.bsky.social posted about injuries.
+- [Tom Pelissero on Bluesky](https://bsky.app/profile/tompelissero.bsky.social/post/3mxpcw6ii4s2i), 2026-10-12 20:05 UTC: @tompelissero.bsky.social posted about a trade.
+- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mxp4jmzngs24), 2026-10-12 18:11 UTC: @rapsheet.bsky.social posted about a roster move.
+- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mxp4iewyjc24), 2026-10-12 18:10 UTC: @rapsheet.bsky.social posted about the game.
+- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mxp3fcrtqk2s), 2026-10-12 17:50 UTC: @rapsheet.bsky.social posted about NFL news.
+- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mxp37x4crk2s), 2026-10-12 17:47 UTC: @rapsheet.bsky.social posted about a roster move.
+- [Christopher Carter (Locked On) on Bluesky](https://bsky.app/profile/cartercritiques.bsky.social/post/3mxoypykyrx24), 2026-10-12 17:03 UTC: @cartercritiques.bsky.social posted about the Steelers.
+- [Tom Pelissero on Bluesky](https://bsky.app/profile/tompelissero.bsky.social/post/3mxosru53kc2t), 2026-10-12 15:16 UTC: @tompelissero.bsky.social posted about injuries.
+- [Christopher Carter (Locked On) on Bluesky](https://bsky.app/profile/cartercritiques.bsky.social/post/3mxomt57h7i2x), 2026-10-12 13:30 UTC: @cartercritiques.bsky.social posted about the Steelers, the game.
+- [Christopher Carter (Locked On) on Bluesky](https://bsky.app/profile/cartercritiques.bsky.social/post/3mxohu5pqlb2h), 2026-10-12 12:01 UTC: @cartercritiques.bsky.social posted about the Steelers.
+- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mxmueqiuj22c), 2026-10-11 20:39 UTC: @rapsheet.bsky.social posted about NFL news.
+- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mxmtzz3nac27), 2026-10-11 20:33 UTC: @rapsheet.bsky.social posted about NFL news.
+- [Tom Pelissero on Bluesky](https://bsky.app/profile/tompelissero.bsky.social/post/3mxmtk4jbws2r), 2026-10-11 20:24 UTC: @tompelissero.bsky.social posted about a trade.
+- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mxmsaliqu22y), 2026-10-11 20:01 UTC: @rapsheet.bsky.social posted about NFL news.
+- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mxmriwjp5s2y), 2026-10-11 19:48 UTC: @rapsheet.bsky.social posted about NFL news.
+- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mxmp2h4xbs2y), 2026-10-11 19:04 UTC: @rapsheet.bsky.social posted about NFL news.
+- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mxmk5p6bic2y), 2026-10-11 17:36 UTC: @rapsheet.bsky.social posted about NFL news.
+- [Christopher Carter (Locked On) on Bluesky](https://bsky.app/profile/cartercritiques.bsky.social/post/3mxmgexdlrc2c), 2026-10-11 16:29 UTC: @cartercritiques.bsky.social posted about NFL news.
+- [Mike DeFabo (The Athletic) on Bluesky](https://bsky.app/profile/mikedefabo.bsky.social/post/3mxmdrprnq223), 2026-10-11 15:42 UTC: @mikedefabo.bsky.social posted about the Steelers, injuries.
+- [Christopher Carter (Locked On) on Bluesky](https://bsky.app/profile/cartercritiques.bsky.social/post/3mxm63qou7v2x), 2026-10-11 14:01 UTC: @cartercritiques.bsky.social posted about the Steelers.
+
+---
+Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
+
+
+# Opponent Scouting
+
+_Generated 2026-10-17T22:28:40+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-17T22:28:35+00:00._
+
+Next opponent: **Tampa Bay Buccaneers** (1-4).
+
+| Stat | TB | PIT |
+|---|---|---|
+| Points Per Game | 20.0 | 22.2 |
+| Total Yards | 306.4 | 324.6 |
+| Yards Passing | 173.4 | 223.4 |
+| Yards Rushing | 133.0 | 101.2 |
+| Points Allowed Per Game | 22.4 | 21.8 |
+| Yards Allowed | 299.4 | 324.2 |
+| Pass Yards Allowed | 226.6 | 220.8 |
+| Rush Yards Allowed | 72.8 | 103.4 |
+
+Key players: Passing Yards: Baker Mayfield (61/96, 615 YDS, 2 TD, 2 INT); Rushing Yards: Bucky Irving (77 CAR, 406 YDS, 2 TD); Receiving Yards: Emeka Egbuka (21 REC, 192 YDS, 1 TD); Sacks: David Walker (2); Tackles: Josiah Trotter (39)
+
+Injuries: Antoine Winfield Jr. (S) Out; Baker Mayfield (QB) Out; David Sills (WR) Out; Benjamin Morrison (CB) Doubtful; Ayden Garnes (CB) Questionable; Josiah Trotter (LB) Questionable; Sean Tucker (RB) Questionable; SirVocea Dennis (LB) Questionable; Jalen McMillan (WR) Injured Reserve; Josh Hayes (DB) Injured Reserve; Mohamed Kamara (LB) Injured Reserve; Xavier Williams (DB) Injured Reserve
+
+Source: [ESPN](None)
+
+---
+Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

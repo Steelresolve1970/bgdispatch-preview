@@ -1,0 +1,1973 @@
+{
+ "api_version": "1",
+ "dataset": "news",
+ "description": "Steelers headlines from beat writers, national outlets and blogs, with our one-line summaries and links to the publisher.",
+ "generated": "2026-10-17T22:28:40+00:00",
+ "data_updated": "2026-10-17T22:28:31+00:00",
+ "count": 150,
+ "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
+ "rights": {
+  "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
+  "espn_derived": false,
+  "data_license": null,
+  "licensable_by_steelers_daily": "our summaries/tiers/rankings only",
+  "third_party_fields_not_licensed": [
+   "title",
+   "url"
+  ]
+ },
+ "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
+ "html": "https://blackandgolddispatch.com/#/",
+ "items": [
+  {
+   "id": "e693306a1d758d54",
+   "type": "news",
+   "title": "Steelers lose receiver Wilson to IR, Metcalf comes off injury report",
+   "summary": "Injury story from ESPN. Full report at the original publisher.",
+   "url": "https://www.espn.com/nfl/story/_/id/50203338/steelers-place-receiver-wilson-ir",
+   "source": {
+    "name": "ESPN",
+    "url": null
+   },
+   "published": "2026-10-17T22:21:16+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "2ad1c21027772237",
+   "type": "news",
+   "title": "Payton Wilson Recalls Jaylen Warren Giving Him His Welcome-To-The-NFL Moment",
+   "summary": "News story from Steelers Depot. Full report at the original publisher.",
+   "url": "https://steelersdepot.com/2026/10/payton-wilson-recalls-jaylen-warren-giving-him-his-welcome-to-the-nfl-moment/",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null
+   },
+   "published": "2026-10-17T22:15:30+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "c0c4773c0c0decde",
+   "type": "news",
+   "title": "Former Michigan standout WR lands on IR with Steelers",
+   "summary": "Injury story from MLive.com. Full report at the original publisher.",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQenV0Q25qbjd4T3dZX2RGZ20yTFhUMVU4TFo2eE1TeGZ2aUp3SzdfdktKV1h0aGV6Q3N3bVkwWXhuTkdBdjJvQXZqUEtwd2xjeWM3SGQ2N0REV0FvY0RGN01FM19Yakd5aXEwUWhMeXZoN2lsbS1NYS1rd2MzRGljNURGRGU4cHRDNDN1bEM4UzVTdXYzbjlhOWpONjR1Zi1jZDFWZmE3dVY0TmZm0gHAAUFVX3lxTE9rT2VmcWR0OWUzUWhGM2lMMDdxNnFWTkM3aTJZOEhHT2pHbmgtemp1aVlkUERsblpaRDNuTkwtWmlvTDUxMVN5ZGhjZHZDc0pSdnh1Z3BMQ3lqcElLSzhLMTVXRlRJOXZ4dlV4QTZ4YUE4VmlNT0JzS2VRYUJSMUxZcE5jN0pnRWdCRTBJM2dfUG1TbGlINEdsZWp6cnVUMlN0WElvWXBrSlRKaHB0emF2YnV4MGN3VEFEa3hQcTFXSQ?oc=5",
+   "source": {
+    "name": "MLive.com",
+    "url": null
+   },
+   "published": "2026-10-17T22:07:00+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "6c9b3fa80aef1df5",
+   "type": "news",
+   "title": "Do Steelers have enough at WR with Michael Pittman Jr., Roman Wilson out?",
+   "summary": "Opinion story from USA Today. Full report at the original publisher.",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPd1RPWFI1VlNTSUJpM2FTOTBkdlZaRnkwd25mTVlOU241V004VC1oUjhtOXFYRzdmY0k5VmVnbWdMMWV6N2prR1NiVk44NmM3VEdzcWFxNkcwN0V1MkxDQ29CMGZaRnRFNnZvV3pEQi1NX1RIRFpSZ29YWTRjbF9HWFhSSmh3SmFjRTdnTUQ1WHc5ZmN6LXRNOW83azFDWW5fQnVrYTk0aENsVi1DWmxzVkszT2lIU3dMeU5pQjFrbEtQMlBVWEM0bGJZSlVQcnJUWWc0YWdR?oc=5",
+   "source": {
+    "name": "USA Today",
+    "url": null
+   },
+   "published": "2026-10-17T22:01:28+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "18a21de6b28e36c7",
+   "type": "news",
+   "title": "Steelers dodge a bullet as Joey Porter Jr. drama gets stranger with Cowboys | See link below ⬇️ 📸 Barry Reeger, IMAGN IMAGES via Reuters Connect",
+   "summary": "News story from Facebook. Full report at the original publisher.",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNR1k1SG1fMFBIQVM3REVvcldfRExPV2NOZy03WERJblIzS3Rzc2JUUU5Ma3BJVllmQm91WnVnSkRjdVhpSEtsYm9oMFN5VHRUM2JMTU1NS0E4dzZFcjhNekxZQVJqMmdsa3l0a3lTaGc5OEVzT0JIa3Q1MXBpbUFhZEQ3U0JmVmNzN2E1UjBxcERXVlVjVW03c1I3RzdCdVdNcENYRDJ4dUdEbThPc0hNMG1adkVUMHRCNjVkV1FJb1hFRjNXdjBUMEcxRkFCdUtNb05VRnkwOEJpZw?oc=5",
+   "source": {
+    "name": "Facebook",
+    "url": null
+   },
+   "published": "2026-10-17T21:59:24+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "7d266f43f557a274",
+   "type": "news",
+   "title": "Pop quizzes from Aaron Rodgers?! How Steelers QB preps pass catchers for games",
+   "summary": "Game story from ESPN. Full report at the original publisher.",
+   "url": "https://www.espn.com/nfl/story/_/id/50193213/pop-quizzes-aaron-rodgers-steelers-qb-prepares",
+   "source": {
+    "name": "ESPN",
+    "url": null
+   },
+   "published": "2026-10-17T21:48:12+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "0fc5fc51d2445b6a",
+   "type": "news",
+   "title": "Eagles’ Jalen Hurts Could Be Out vs. Steelers",
+   "summary": "Game story from Steelers Now. Full report at the original publisher.",
+   "url": "https://steelersnow.com/eagles-jalen-hurts-could-be-out-vs-steelers/",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   },
+   "published": "2026-10-17T21:40:49+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "1f653d26ef8a19aa",
+   "type": "news",
+   "title": "Listen: The Terrible Take (Episode 2,053)",
+   "summary": "News story from Steelers Depot. Full report at the original publisher.",
+   "url": "https://steelersdepot.com/2026/10/listen-the-terrible-take-episode-2053/",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null
+   },
+   "published": "2026-10-17T21:30:16+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "47c2bc706a67c1e9",
+   "type": "news",
+   "title": "Saturday Night Open Thread: Buc the colds",
+   "summary": "News story from Behind the Steel Curtain. Full report at the original publisher.",
+   "url": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-discussion/176482/saturday-night-open-thread-buc-the-colds",
+   "source": {
+    "name": "Behind the Steel Curtain",
+    "url": null
+   },
+   "published": "2026-10-17T21:30:00+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "b3506ce3acd70d9d",
+   "type": "news",
+   "title": "TRAVEL PHOTOS: Monochrome moments- Week 6 at Buccaneers",
+   "summary": "News story from Steelers.com. Full report at the original publisher.",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN3hMQnJEZU5PVmR5T3VmWTllOW1IMDN5R0ZMQ0NPcW9IMGJjMEhqaUtlaU15RGRhejQ4Qm9JNE8zUExKMVRrVkdhQTZQbEpCUmszWmFCNjBMbU1tWjdZMFVGbHdEbzRsSmJmNWtCM0lBdUlKSU83MG9QdDctRWMwVmdSZGpMQUtTVHdsN3RR?oc=5",
+   "source": {
+    "name": "Steelers.com",
+    "url": null
+   },
+   "published": "2026-10-17T21:25:06+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "320492399a21b326",
+   "type": "news",
+   "title": "Bell: 2027 NFL Draft Quarterback Rankings 2.0",
+   "summary": "Draft story from Steelers Now. Full report at the original publisher.",
+   "url": "https://steelersnow.com/bell-2027-nfl-draft-quarterback-rankings-2-0/",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   },
+   "published": "2026-10-17T21:15:25+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "36318a144a42446b",
+   "type": "news",
+   "title": "Elandon Roberts’ Steelers Return Will Wait another Week",
+   "summary": "News story from Steelers Now. Full report at the original publisher.",
+   "url": "https://steelersnow.com/elandon-roberts-steelers-return-will-wait-another-week/",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   },
+   "published": "2026-10-17T21:08:24+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "82956ec5e664d76c",
+   "type": "news",
+   "title": "Mike Tomlin makes candid admission while revealing another side of life after Steelers",
+   "summary": "News story from Cleveland.com. Full report at the original publisher.",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNN1FKcVlPcW42WWVCdTMxZ0RzOVlUNm9MTUhVZ3BiVzhudUpnN3RyenExazgyY0ZCY29fd2lXQUszRFpwNjFvR3F6b0tHNjh4VTlmSFpxaElIa1h3TEFscmd0QXhkaFBaTmRRMV9yVklHZXdvSVh5MlpCYXc5NmlzSm5fbkU5eHBzbTVEWVRZbmh3THdEcjVhMVZPamRzSUI0M0Ntdk5haFdrTjlTbVhKd1NhRldyaVpxUDM1Z2FHazhrUEs5NURLMEdn0gHeAUFVX3lxTE5IVHZ4U2N6VVcwRVIzNmxxX2l0WFhqRFJhWHlVRXNOek5zLUdxRDROci12RWljVk80NmhkN2dsdnAtYW05dk42NXp5eXJmSy1PclJiUFZ2U3E4QUdfclJMSTlNbWczVWIyWklkaUc4cTNZYjBsbEE4dnBDN1RrVlNnOGFLWE1DNUo4NUgwamRRdWF6cU1xMW4ySHVzcHpoaExWZjI0N1lPZ25NbnhQWlZqTWpDZ1ZLbFZpVGtyT0RCVER3bTVvcmNFNllLeW80Y1NTQk0zZ2tVSWtsUjloZw?oc=5",
+   "source": {
+    "name": "Cleveland.com",
+    "url": null
+   },
+   "published": "2026-10-17T21:02:00+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "b47e6e21de789f87",
+   "type": "news",
+   "title": "‘That’s Part Of The Job’: Germie Bernard Talks Steelers WRs’ ‘Selfless’ Attitude Towards Blocking",
+   "summary": "News story from Steelers Depot. Full report at the original publisher.",
+   "url": "https://steelersdepot.com/2026/10/thats-part-of-the-job-germie-bernard-talks-steelers-wrs-selfless-attitude-towards-blocking/",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null
+   },
+   "published": "2026-10-17T20:45:04+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "23f7e22979bce811",
+   "type": "news",
+   "title": "How Long Is Roman Wilson Out? Finger Injury Updates, Return Timeline for Steelers WR",
+   "summary": "Injury story from SportsNet Pittsburgh. Full report at the original publisher.",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZ1dJUWpOczhuWjY2cmJqWW43YVpEVmFEZHUta3JqNE13bDRLMzdjdkJYX2dreDB1TlNFZWpFOTZwZGdRMlNPck51SENwbk9YU3huZDRFVjNGZUh2YmZCbVBIbUw0NWMzMVprRmwzTmtGUUxDS3daUGs0alR4T1FueG9rdlZPMkRIM05maE5rcms3Yk40dTRFS1Z0N0tyeW9PYmk4SWdIYm1oWFUwZ0I1T1BjRVJxZkptOTh3VjhMZTg2c1RVT0pCbTBySWhBLUFhVXFXcGJnZy0?oc=5",
+   "source": {
+    "name": "SportsNet Pittsburgh",
+    "url": null
+   },
+   "published": "2026-10-17T20:38:13+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "8bbefcb0d8f18e6e",
+   "type": "news",
+   "title": "Chargers Cut Ties with Former Steelers Wide Receiver, Close Friend of Aaron Rodgers",
+   "summary": "Trade/roster move story from Steelers Now. Full report at the original publisher.",
+   "url": "https://steelersnow.com/chargers-cut-ties-with-former-steelers-wide-receiver-close-friend-of-aaron-rodgers/",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   },
+   "published": "2026-10-17T20:34:30+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "5d32194800baaa5f",
+   "type": "news",
+   "title": "Steelers Make Late Injury Report Changes Before Buccaneers Game",
+   "summary": "Injury story from SportsNet Pittsburgh. Full report at the original publisher.",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZFNESUZpRjhmWEhlVG1wUFFZcU02bVhvTWFiVE9VZWNOZmpuMW1KV2UySnk0VkVGNjRsUjl3aU5Jb0RzM0ZBa1VNdUNIUXRkSVAzR3lHMThDdVhTQ3ZHc3kzbnZrM2VSS2ZZeVlyeWlJOUhQZkxuNmh6dnE2ZklXMXYwUmpYWkk0NG8zazZRdnVHN3Judzhyd25GUVBuYTJaQUEwWFFjMzczWFVjbVR0UGkyOWpTSlctaWJuV1BCOGtRYVJSNDBxNEdn?oc=5",
+   "source": {
+    "name": "SportsNet Pittsburgh",
+    "url": null
+   },
+   "published": "2026-10-17T20:33:19+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "fa72019fbeeb78ef",
+   "type": "news",
+   "title": "Steelers Versus Buccaneers: Week Six Projected Inactive List",
+   "summary": "News story from Steelers Depot. Full report at the original publisher.",
+   "url": "https://steelersdepot.com/2026/10/steelers-versus-buccaneers-week-six-projected-inactive-list/",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null
+   },
+   "published": "2026-10-17T20:27:52+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "3bdf2987fcb9379b",
+   "type": "news",
+   "title": "Eagles May Be Without Jalen Hurts For Week 11 Steelers Game",
+   "summary": "Game story from Steelers Depot. Full report at the original publisher.",
+   "url": "https://steelersdepot.com/2026/10/eagles-at-risk-of-losing-jalen-hurts-for-week-11-steelers-game/",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null
+   },
+   "published": "2026-10-17T20:17:18+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "11533bafad1df851",
+   "type": "news",
+   "title": "Steelers lose Roman Wilson as receiver injuries test their remaining depth",
+   "summary": "Injury story from Still Curtain. Full report at the original publisher.",
+   "url": "https://stillcurtain.com/pittsburgh-steelers-lose-roman-wilson-injured-reserve-receiver-injuries-test-remaining-depth?utm_source=RSS",
+   "source": {
+    "name": "Still Curtain",
+    "url": null
+   },
+   "published": "2026-10-17T20:12:13+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "53637e985faa3c27",
+   "type": "news",
+   "title": "Steelers Add Veteran Wide Receiver for Game vs. Bucs",
+   "summary": "Game story from Steelers Now. Full report at the original publisher.",
+   "url": "https://steelersnow.com/steelers-add-veteran-wide-receiver-for-game-vs-bucs/",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   },
+   "published": "2026-10-17T20:06:27+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "b4e6c3330ae39617",
+   "type": "news",
+   "title": "Rodgers trusts new receiver Brandon Smith",
+   "summary": "News story from Audacy. Full report at the original publisher.",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVlXakVHdy1yZU9hQ0JSc2NDRWljT2FEaVo5ZGxaMk1tQXFBdy0wZ25xVkxvTDB3dWpxS1ExZlNrZ2RGTXczNVpTc0VTWFZJQjU4SVRNX1lBZWdxbW45bHo2VWtEcHpqNEJHTkxWbFZoUUR0X2o5MXVIRHJCX3lJTGFIc3k1WmlJcnE2VlU3TGZmSWhkQlM2Y1BXaDZSYWZjUjhJ?oc=5",
+   "source": {
+    "name": "Audacy",
+    "url": null
+   },
+   "published": "2026-10-17T19:59:00+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "2f3cd0a726b5a86c",
+   "type": "news",
+   "title": "NFL Week 6 player props, anytime TD best bets: Steelers' Jaylen Warren is on a heater",
+   "summary": "News story from CBS Sports. Full report at the original publisher.",
+   "url": "https://www.cbssports.com/nfl/news/nfl-week-6-player-props-anytime-td-best-bets/",
+   "source": {
+    "name": "CBS Sports",
+    "url": null
+   },
+   "published": "2026-10-17T19:50:38+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "2fba6bb3ebc9ff97",
+   "type": "news",
+   "title": "Steelers Elevate Wide Receiver with Close Ties to Aaron Rodgers",
+   "summary": "News story from Steelers Now. Full report at the original publisher.",
+   "url": "https://steelersnow.com/steelers-elevate-wide-receiver-with-close-ties-to-aaron-rodgers/",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   },
+   "published": "2026-10-17T19:48:25+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "d177e885baa8dee8",
+   "type": "news",
+   "title": "The Steelers place WR Roman Wilson on injured reserve; add tight end Pat Freiermuth to the injury report",
+   "summary": "Injury story from Pittsburgh Post-Gazette. Full report at the original publisher.",
+   "url": "https://www.post-gazette.com/sports/steelers/2026/10/17/the-steelers-place-wr-roman-wilson-on-injured-reserve-add-tight-end-pat-freiermu/stories/202610170039",
+   "source": {
+    "name": "Pittsburgh Post-Gazette",
+    "url": null
+   },
+   "published": "2026-10-17T19:43:13+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "8080f23d9e81fe63",
+   "type": "news",
+   "title": "Steelers Linebacker Payton Wilson Has Not Received The Spotlight Due To One Major Issue",
+   "summary": "News story from SteelerNation. Full report at the original publisher.",
+   "url": "https://www.steelernation.com/2026/10/17/steelers-payton-wilson-spotlight-major",
+   "source": {
+    "name": "SteelerNation",
+    "url": null
+   },
+   "published": "2026-10-17T19:41:03+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "41d042713f3cb592",
+   "type": "news",
+   "title": "Steelers Sign RB to Active Roster",
+   "summary": "Trade/roster move story from Steelers Now. Full report at the original publisher.",
+   "url": "https://steelersnow.com/steelers-sign-rb-to-active-roster/",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   },
+   "published": "2026-10-17T19:38:55+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "4001bbcf5bf3c5e8",
+   "type": "news",
+   "title": "Steelers Get Bad News on Roman Wilson",
+   "summary": "News story from Steelers Now. Full report at the original publisher.",
+   "url": "https://steelersnow.com/steelers-get-bad-news-on-roman-wilson/",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   },
+   "published": "2026-10-17T19:33:42+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "81971854e334dd74",
+   "type": "news",
+   "title": "‘Aaron Rodgers, MVP This Year’: Former NFL DL Gives Bold Take About Steelers QB",
+   "summary": "News story from Steelers Depot. Full report at the original publisher.",
+   "url": "https://steelersdepot.com/2026/10/aaron-rodgers-mvp-this-year-former-nfl-dl-gives-bold-take-about-steelers-qb/",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null
+   },
+   "published": "2026-10-17T19:30:32+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "93afe6f84ba518a1",
+   "type": "news",
+   "title": "Steelers place WR Roman Wilson on IR",
+   "summary": "Injury story from Behind the Steel Curtain. Full report at the original publisher.",
+   "url": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176479/steelers-place-wr-roman-wilson-on-ir-dk-metcalf",
+   "source": {
+    "name": "Behind the Steel Curtain",
+    "url": null
+   },
+   "published": "2026-10-17T19:28:29+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "f72b322f065b7bfb",
+   "type": "news",
+   "title": "Roman Wilson on IR, Steelers sign RB Nichols to 53-man",
+   "summary": "Injury story from Audacy. Full report at the original publisher.",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVkN5MERYWmpiMnVFejJMbmVscTZEWTBhbXk1RVd3SE9lWXFna0piVm5QVW5FM2lqbHlwXzBobDZ0STliSnA3ZUQ1SlV4ZzBleFlGdzd1MndGdzdnQ0JmNlpydVloQnh2Y2Q3S2RIb0VKTnFpQThBRldzMDBfZk9qYTdwN1NwRkR5Zk05Wk1oRThaR3lXNU0tN3IySldQeEk4eUItM21XdmdVV2tWbER0Y1FuQQ?oc=5",
+   "source": {
+    "name": "Audacy",
+    "url": null
+   },
+   "published": "2026-10-17T19:23:00+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "6cefa4e369afa575",
+   "type": "news",
+   "title": "Steelers put Roman Wilson on injured reserve",
+   "summary": "Injury story from ProFootballTalk (NBC). Full report at the original publisher.",
+   "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-put-roman-wilson-on-injured-reserve",
+   "source": {
+    "name": "ProFootballTalk (NBC)",
+    "url": null
+   },
+   "published": "2026-10-17T19:19:59+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "a7e0082a138ae54b",
+   "type": "news",
+   "title": "Steelers place WR Roman Wilson on injured reserve",
+   "summary": "Injury story from TribLive. Full report at the original publisher.",
+   "url": "https://triblive.com/sports/steelers-place-wr-roman-wilson-on-injured-reserve/",
+   "source": {
+    "name": "TribLive",
+    "url": null
+   },
+   "published": "2026-10-17T19:15:23+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "a60b150bba51462d",
+   "type": "news",
+   "title": "Steelers Place Roman Wilson On IR, Make Other Roster Moves For Buccaneers Game",
+   "summary": "Injury story from Steelers Depot. Full report at the original publisher.",
+   "url": "https://steelersdepot.com/2026/10/steelers-place-roman-wilson-on-ir-make-other-roster-moves-for-buccaneers-game/",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null
+   },
+   "published": "2026-10-17T19:09:23+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "d292135cb3bbe588",
+   "type": "news",
+   "title": "Steelers Add Two Practice Squad WRs for Bucs Game",
+   "summary": "Injury story from Sports Illustrated. Full report at the original publisher.",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYkF4UmwzX3JiQTBMaHBYUUxUY0lVckJKQzhYWm1xdHNnTWE4THY5ejBNNjZ1al85VVBuczBxa0NjLS1laDRGNWRfazNTMnE5REh2NVRneWJHd2dyZjdyVGRoZXJPZjdvd3dsemh0UFMxVG1tRW4wYmZ2akRUbnJ1R1EwTTZQY2lIVjJjbFZvWHRyZTRkY1FuVmM0Z0ppTjFEdmJNYzdn?oc=5",
+   "source": {
+    "name": "Sports Illustrated",
+    "url": null
+   },
+   "published": "2026-10-17T19:03:56+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "8b41b96f4c31c829",
+   "type": "news",
+   "title": "Steelers make roster moves ahead of Buccaneers game",
+   "summary": "Game story from Steelers.com. Full report at the original publisher.",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMHBrVTZkWkhfZmV6azJlRE45VEVHajZqRlF5dlotNURBYlB2UjQzOEZqZ3NtYmdCdVlCUFJoNC10ZFBxSVdJRm5UeVFwVkRNc2JPUW9nVlZRTlNwd2FqQWs5LVVOY2R6azNuVllhbG5ieTEzeV9TN3JZMWJibzdMZ3JJTWIwdkNi?oc=5",
+   "source": {
+    "name": "Steelers.com",
+    "url": null
+   },
+   "published": "2026-10-17T19:03:10+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "a11855f2ed9a657d",
+   "type": "news",
+   "title": "Steelers Place Roman Wilson on IR",
+   "summary": "Injury story from Sports Illustrated. Full report at the original publisher.",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNanlpRVg0cm45dmhLc3VKRkxTNGJ6Z2xMbTZXMzZBMTVZbzdPcEZyVy11RnZUU0FxS2hlb2xWM3BRc0hGd3ZSNEVKR1lvbk5HTElOTFNhdlB3cnAtME8wRWVITUd0MXJTQVhtSVJEcUh1X1UtZ3pUVnNFYmRIWlNTTHFuQ09OVEdjSXYtTzl4RVFOcUJrblE?oc=5",
+   "source": {
+    "name": "Sports Illustrated",
+    "url": null
+   },
+   "published": "2026-10-17T19:01:44+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "de2fa7c3a4f7dd6f",
+   "type": "news",
+   "title": "Danny Smith’s Squad a Tough Test for Struggling Steelers Special Teams",
+   "summary": "News story from Steelers Now. Full report at the original publisher.",
+   "url": "https://steelersnow.com/danny-smiths-squad-a-tough-test-for-struggling-steelers-special-teams/",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   },
+   "published": "2026-10-17T19:00:31+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "f4d2873ce6057851",
+   "type": "news",
+   "title": "Jarvis Landry Was ‘So Pissed’ After Mike Tomlin’s 2019 Yawn Response When Asked About Browns WRs",
+   "summary": "News story from Steelers Depot. Full report at the original publisher.",
+   "url": "https://steelersdepot.com/2026/10/jarvis-landry-was-so-pissed-after-mike-tomlins-2019-yawn-response-when-asked-about-browns-wrs/",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null
+   },
+   "published": "2026-10-17T19:00:16+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "28e8ba9cbe3e88e6",
+   "type": "news",
+   "title": "Steelers send scout to Texas to watch Arch Manning",
+   "summary": "News story from Behind the Steel Curtain. Full report at the original publisher.",
+   "url": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176474/steelers-send-scout-to-texas-to-watch-arch-manning",
+   "source": {
+    "name": "Behind the Steel Curtain",
+    "url": null
+   },
+   "published": "2026-10-17T18:58:16+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "5fea56a3a7accf0a",
+   "type": "news",
+   "title": "Steelers Scout Two More Top QB Prospects | Week 7 2027 NFL Draft Scout",
+   "summary": "Draft story from Steelers Now. Full report at the original publisher.",
+   "url": "https://steelersnow.com/steelers-scout-two-more-top-qb-prospects-week-7-2027-nfl-draft-scout/",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   },
+   "published": "2026-10-17T18:37:04+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "3e8b35e6c958bf23",
+   "type": "news",
+   "title": "How Much Will Dowdle Cut Into Warren’s Workload? Bet On This",
+   "summary": "Trade/roster move story from Steelers Depot. Full report at the original publisher.",
+   "url": "https://steelersdepot.com/2026/10/how-much-will-dowdle-cut-into-warrens-workload-bet-on-this/",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null
+   },
+   "published": "2026-10-17T18:30:40+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "dd0d2fa7f8f8d8b5",
+   "type": "news",
+   "title": "Steelers latest injury update swaps one problem for another",
+   "summary": "Injury story from Still Curtain. Full report at the original publisher.",
+   "url": "https://stillcurtain.com/pittsburgh-steelers-latest-injury-update-swaps-one-problem-for-another?utm_source=RSS",
+   "source": {
+    "name": "Still Curtain",
+    "url": null
+   },
+   "published": "2026-10-17T18:01:55+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "af764b76e2ce294d",
+   "type": "news",
+   "title": "Steelers' DK Metcalf off injury report, Pat Freiermuth added",
+   "summary": "Injury story from Reuters. Full report at the original publisher.",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY3pqd3lVYzBDNEk1anhyOUoxTzlFQXJ3YTZXeTVROERRc2xZTWozWHI2WmNfWDQyZjNEbVdQMjdZa0E4X1hXQlcwWEUxNGZScHZidVlOQlBPdXc3Y2xTV0E2Nmx4Y1F3bWtpTjNlZFpPNElIMnVfNWQ1bHZYRHhYSjBNaGRNQjBERXFPbTYxbWMzWU1LZUJiRS1tQndjQm1CWVc4czZ6SDFvZw?oc=5",
+   "source": {
+    "name": "Reuters",
+    "url": null
+   },
+   "published": "2026-10-17T18:01:43+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "ef38f51ce9d93182",
+   "type": "news",
+   "title": "Study: Play-Action Becoming Potent For Pittsburgh’s Offense",
+   "summary": "News story from Steelers Depot. Full report at the original publisher.",
+   "url": "https://steelersdepot.com/2026/10/study-play-action-becoming-potent-for-pittsburghs-offense/",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null
+   },
+   "published": "2026-10-17T17:30:49+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "64606980879dc5b0",
+   "type": "news",
+   "title": "Steelers' Young Offensive Line Is About To Face Its Toughest Test Yet",
+   "summary": "News story from SteelerNation. Full report at the original publisher.",
+   "url": "https://www.steelernation.com/2026/10/17/steelers-offensive-line-toughest-test",
+   "source": {
+    "name": "SteelerNation",
+    "url": null
+   },
+   "published": "2026-10-17T17:15:54+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "d1ed68dc25433bd1",
+   "type": "news",
+   "title": "Steelers TE Pat Freiermuth questionable vs. Bucs; WR DK Metcalf removed from injury report",
+   "summary": "Injury story from TribLive. Full report at the original publisher.",
+   "url": "https://triblive.com/sports/steelers-te-pat-freiermuth-questionable-vs-bucs-wr-dk-metcalf-removed-from-injury-report/",
+   "source": {
+    "name": "TribLive",
+    "url": null
+   },
+   "published": "2026-10-17T17:15:35+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "c434ecab46a46895",
+   "type": "news",
+   "title": "‘Looks Fixed’: Brian Baldinger Sees Steelers’ Offensive Line Back On Track After Rocky Start",
+   "summary": "News story from Steelers Depot. Full report at the original publisher.",
+   "url": "https://steelersdepot.com/2026/10/looks-fixed-brian-baldinger-sees-steelers-offensive-line-back-on-track-after-rocky-start/",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null
+   },
+   "published": "2026-10-17T17:00:44+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "cfd17af4066444f7",
+   "type": "news",
+   "title": "How The Pittsburgh Steelers Became One Of The NFL’s Most Influential Franchises",
+   "summary": "Opinion story from SteelerNation. Full report at the original publisher.",
+   "url": "https://www.steelernation.com/2026/10/17/pittsburgh-steelers-nfl-most-influential",
+   "source": {
+    "name": "SteelerNation",
+    "url": null
+   },
+   "published": "2026-10-17T17:00:19+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "8581d71f454b9844",
+   "type": "news",
+   "title": "Steelers Uncover Something Special Brewing Between 2 Rookie DBs In Pittsburgh",
+   "summary": "Game story from SteelerNation. Full report at the original publisher.",
+   "url": "https://www.steelernation.com/2026/10/17/steelers-uncover-special-rookie",
+   "source": {
+    "name": "SteelerNation",
+    "url": null
+   },
+   "published": "2026-10-17T16:59:12+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "7e642872a0e986e3",
+   "type": "news",
+   "title": "Steelers Get Good News on WR DK Metcalf",
+   "summary": "News story from Steelers Now. Full report at the original publisher.",
+   "url": "https://steelersnow.com/steelers-get-good-news-on-wr-dk-metcalf/",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   },
+   "published": "2026-10-17T16:47:42+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "41ae4bae01a2434e",
+   "type": "news",
+   "title": "Steelers' Nick Herbig Drawing Strong Praise For Unexpected New Role",
+   "summary": "Game story from SteelerNation. Full report at the original publisher.",
+   "url": "https://www.steelernation.com/2026/10/17/steelers-nick-herbig-strong-praise",
+   "source": {
+    "name": "SteelerNation",
+    "url": null
+   },
+   "published": "2026-10-17T16:39:31+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "f87ea6cc96fd5b98",
+   "type": "news",
+   "title": "Steelers Suffer Another Major Offensive Injury",
+   "summary": "Injury story from Steelers Now. Full report at the original publisher.",
+   "url": "https://steelersnow.com/steelers-suffer-another-major-offensive-injury/",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   },
+   "published": "2026-10-17T16:38:36+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "5725d5103d9251c3",
+   "type": "news",
+   "title": "Steelers TE Pat Freiermuth questionable vs. Buccaneers",
+   "summary": "Injury story from Behind the Steel Curtain. Full report at the original publisher.",
+   "url": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176471/steelers-te-pat-freiermuth-questionable-vs-buccaneers-dk-metcalf",
+   "source": {
+    "name": "Behind the Steel Curtain",
+    "url": null
+   },
+   "published": "2026-10-17T16:35:52+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "f0317db1080a10f0",
+   "type": "news",
+   "title": "McCorkle: My Top Wide Receiver Trade Target For Steelers",
+   "summary": "Trade/roster move story from Steelers Depot. Full report at the original publisher.",
+   "url": "https://steelersdepot.com/2026/10/mccorkle-my-top-wide-receiver-trade-target-for-steelers/",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null
+   },
+   "published": "2026-10-17T16:35:32+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "dc6b8be96b882467",
+   "type": "news",
+   "title": "Steelers say DK Metcalf will play, Pat Freiermuth is questionable with calf injury",
+   "summary": "Injury story from ProFootballTalk (NBC). Full report at the original publisher.",
+   "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-say-dk-metcalf-will-play-pat-freiermuth-is-questionable-with-calf-injury",
+   "source": {
+    "name": "ProFootballTalk (NBC)",
+    "url": null
+   },
+   "published": "2026-10-17T16:32:19+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "7e682b2452a6b25e",
+   "type": "news",
+   "title": "Steelers Clear DK Metcalf, Add Pat Freiermuth To Injury Report Saturday",
+   "summary": "Injury story from Steelers Depot. Full report at the original publisher.",
+   "url": "https://steelersdepot.com/2026/10/steelers-clear-dk-metcalf-add-pat-freiermuth-to-injury-report-saturday/",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null
+   },
+   "published": "2026-10-17T16:30:28+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "1f6066a792005248",
+   "type": "news",
+   "title": "Joey Porter Jr.'s latest injury leaves Steelers waiting on conditional draft pick",
+   "summary": "Injury story from Still Curtain. Full report at the original publisher.",
+   "url": "https://stillcurtain.com/joey-porter-jr-latest-injury-leaves-pittsburgh-steelers-waiting-conditional-draft-pick?utm_source=RSS",
+   "source": {
+    "name": "Still Curtain",
+    "url": null
+   },
+   "published": "2026-10-17T16:25:12+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "14205a970e0f21a6",
+   "type": "news",
+   "title": "Former Steeler Marquez Valdes-Scantling Hits Market Amid WR Injuries",
+   "summary": "Injury story from Steelers Depot. Full report at the original publisher.",
+   "url": "https://steelersdepot.com/2026/10/former-steeler-marquez-valdes-scantling-hits-market-amid-wr-injuries/",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null
+   },
+   "published": "2026-10-17T16:07:59+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "22d8de22b8ed2b64",
+   "type": "news",
+   "title": "The 2027 Quarterback Class Might Present An Opportunity Pittsburgh Can’t Pass Up",
+   "summary": "News story from Steelers Depot. Full report at the original publisher.",
+   "url": "https://steelersdepot.com/2026/10/the-2027-quarterback-class-might-be-an-opportunity-pittsburgh-cant-pass-up/",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null
+   },
+   "published": "2026-10-17T16:05:11+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "bd4aae3103dca522",
+   "type": "news",
+   "title": "Steelers Are Seeing Consistent Growth Thanks To 1 Player In Particular",
+   "summary": "News story from SteelerNation. Full report at the original publisher.",
+   "url": "https://www.steelernation.com/2026/10/17/steelers-consistent-growth",
+   "source": {
+    "name": "SteelerNation",
+    "url": null
+   },
+   "published": "2026-10-17T16:00:59+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "9e76959dd595bb97",
+   "type": "news",
+   "title": "Steelers Spin: Goodbye Groundhog",
+   "summary": "News story from Steelers Depot. Full report at the original publisher.",
+   "url": "https://steelersdepot.com/2026/10/steelers-spin-goodbye-groundhog/",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null
+   },
+   "published": "2026-10-17T16:00:10+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "cadbf635fd282058",
+   "type": "news",
+   "title": "Steelers news: The Steelers offense must execute better on early downs",
+   "summary": "Opinion story from Behind the Steel Curtain. Full report at the original publisher.",
+   "url": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176446/steelers-news-the-steelers-offense-must-execute-better-on-early-downs",
+   "source": {
+    "name": "Behind the Steel Curtain",
+    "url": null
+   },
+   "published": "2026-10-17T15:58:05+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "8365bfb3181f0cb4",
+   "type": "news",
+   "title": "Steelers vs. Buccaneers prediction: Both teams hoping to build off of impressive Week 5 wins",
+   "summary": "Game story from CBS Sports. Full report at the original publisher.",
+   "url": "https://www.cbssports.com/nfl/news/where-to-watch-steelers-vs-buccaneers-prediction/",
+   "source": {
+    "name": "CBS Sports",
+    "url": null
+   },
+   "published": "2026-10-17T15:51:31+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "34e9cf95648c303f",
+   "type": "news",
+   "title": "Bill Cowher Has Alarming Take As Legend Believes Steelers' Defensive Line Is \"Uncomfortable\"",
+   "summary": "News story from SteelerNation. Full report at the original publisher.",
+   "url": "https://www.steelernation.com/2026/10/17/steelers-bill-cowher-alarming-uncomfortable",
+   "source": {
+    "name": "SteelerNation",
+    "url": null
+   },
+   "published": "2026-10-17T15:37:06+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "acee49aa4e1b1eff",
+   "type": "news",
+   "title": "\"Really Good\": Steelers Rookie Gabriel Rubio Starting To Turn Heads",
+   "summary": "News story from SteelerNation. Full report at the original publisher.",
+   "url": "https://www.steelernation.com/2026/10/17/steelers-good-rookie-gabriel-rubio",
+   "source": {
+    "name": "SteelerNation",
+    "url": null
+   },
+   "published": "2026-10-17T15:19:44+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "414e7bcb1a5a0ab9",
+   "type": "news",
+   "title": "Steelers Vs Buccaneers X Factor: TE Pat Freiermuth",
+   "summary": "Game story from Steelers Depot. Full report at the original publisher.",
+   "url": "https://steelersdepot.com/2026/10/steelers-vs-buccaneers-x-factor-te-pat-freiermuth/",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null
+   },
+   "published": "2026-10-17T15:00:54+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "d6220eadaae64d70",
+   "type": "news",
+   "title": "Steelers Should Consider Surprise Trade Candidate",
+   "summary": "Trade/roster move story from Sports Illustrated. Full report at the original publisher.",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUjJlaFJZeGw4TXlGNGZld2p2MTdSUFZhOWt4MWwtd3Bnd1F6N1EyQVhvWGFKdFA3Uk9kNi1LeDctZzRlR01tVE92djBUNWpwbzBobi1iYVMyaTJvendGWU9iZm9FZ1A5VnZlNjZ6bUEwWUV1LVF2YzhtTTc5aTBQMDRURmdsSGlsb3NVbmZDWk9LbmNqZDA3dWhEUmxBU2JXa096UHpWckw3MFVyV0E?oc=5",
+   "source": {
+    "name": "Sports Illustrated",
+    "url": null
+   },
+   "published": "2026-10-17T15:00:00+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "2e3ad6dca79fa936",
+   "type": "news",
+   "title": "NFL Week 6 last-minute best bets: Panthers beat up on banged-up Eagles, Bucs beat Steelers",
+   "summary": "Game story from CBS Sports. Full report at the original publisher.",
+   "url": "https://www.cbssports.com/nfl/news/nfl-week-6-last-minute-best-bets-picks-predictions/",
+   "source": {
+    "name": "CBS Sports",
+    "url": null
+   },
+   "published": "2026-10-17T14:58:52+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "cf085bafb43aeb86",
+   "type": "news",
+   "title": "Steelers Reunion At Cornerback Suddenly Within Reach As Chargers' Demise Continues",
+   "summary": "News story from SteelerNation. Full report at the original publisher.",
+   "url": "https://www.steelernation.com/2026/10/17/steelers-reunion-suddenly-chargers",
+   "source": {
+    "name": "SteelerNation",
+    "url": null
+   },
+   "published": "2026-10-17T14:35:52+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "0ed115c11ac7d4c3",
+   "type": "news",
+   "title": "Pittsburgh Steelers get big Baker Mayfield news before Buccaneers game",
+   "summary": "Game story from PennLive.com. Full report at the original publisher.",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZHlaY3hkcmM5RWc0NFR0ZWJHVzd3aVZpNV9rcmFyZXhpTVpzRUhVaFF5TWJOYnE4VnllSG1nbFBraThHNlVObjJTRDhqaHpZenRua2g5bnNvY3hjWTYwVENTSEFzbzYtaWxzN3VjOG9CdlRFUzIzN3k1a0ZObHdLWUxoZm9GS25PREtlX0dCbG1TU0duamFXQ1dPU3hOWl9pQnJfbldPTE9leldCSzgxQ3ViNUwyM0dh?oc=5",
+   "source": {
+    "name": "PennLive.com",
+    "url": null
+   },
+   "published": "2026-10-17T14:26:00+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "1b58b5945271cdbb",
+   "type": "news",
+   "title": "Steelers Now Have The Door Wide Open For Splash Signing Of Tyreek Hill",
+   "summary": "Trade/roster move story from SteelerNation. Full report at the original publisher.",
+   "url": "https://www.steelernation.com/2026/10/17/steelers-now-splash-tyreek-hill",
+   "source": {
+    "name": "SteelerNation",
+    "url": null
+   },
+   "published": "2026-10-17T14:21:12+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "b416c2109325c5dd",
+   "type": "news",
+   "title": "Steelers must accomplish these 3 things to secure victory vs. Buccaneers",
+   "summary": "Game story from Still Curtain. Full report at the original publisher.",
+   "url": "https://stillcurtain.com/pittsburgh-steelers-must-accomplish-these-3-things-to-secure-victory-vs-buccaneers-01m4xbbe4sgx?utm_source=RSS",
+   "source": {
+    "name": "Still Curtain",
+    "url": null
+   },
+   "published": "2026-10-17T14:00:02+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "f195804337e4e5e3",
+   "type": "news",
+   "title": "Kozora: Time For The Steelers To Take This Show On The Road",
+   "summary": "Opinion story from Steelers Depot. Full report at the original publisher.",
+   "url": "https://steelersdepot.com/2026/10/kozora-time-for-the-steelers-to-take-this-show-on-the-road/",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null
+   },
+   "published": "2026-10-17T13:30:56+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "2a3cfe0c2012338c",
+   "type": "news",
+   "title": "Jonathan Taylor Sought Out Jaylen Warren After His Big Game. Here’s What He Said.",
+   "summary": "Game story from Steelers Depot. Full report at the original publisher.",
+   "url": "https://steelersdepot.com/2026/10/jonathan-taylor-sought-out-jaylen-warren-after-his-big-game-heres-what-he-said/",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null
+   },
+   "published": "2026-10-17T13:15:55+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "663d4e8fd23ba5bb",
+   "type": "news",
+   "title": "Steelers Vs Buccaneers Preview: 5 Keys To Victory In Week 6",
+   "summary": "Game story from Steelers Depot. Full report at the original publisher.",
+   "url": "https://steelersdepot.com/2026/10/steelers-vs-buccaneers-preview-5-keys-to-victory-in-week-6/",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null
+   },
+   "published": "2026-10-17T12:15:42+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "060ea133efcf36d5",
+   "type": "news",
+   "title": "Steelers GameDay Cheat Sheet: Week 6 at the Tampa Bay Buccaneers",
+   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
+   "url": "https://www.steelcityunderground.com/2026/10/17/steelers-gameday-cheat-sheet-week-6-at-the-tampa-bay-buccaneers/",
+   "source": {
+    "name": "Steel City Underground",
+    "url": null
+   },
+   "published": "2026-10-17T11:40:08+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "9d851575bb9b50a3",
+   "type": "news",
+   "title": "Steelers vs. Buccaneers picks: Still Curtain panel predicts a brutal battle",
+   "summary": "Game story from Still Curtain. Full report at the original publisher.",
+   "url": "https://stillcurtain.com/steelers-vs-buccaneers-picks-still-curtain-panel-predicts-a-brutal-battle-01m4r3jag9f8?utm_source=RSS",
+   "source": {
+    "name": "Still Curtain",
+    "url": null
+   },
+   "published": "2026-10-17T11:00:01+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "12befe95bef65296",
+   "type": "news",
+   "title": "‘Different Side to Him’: Steelers Cam Heyward Admires Mike Tomlin’s New Chapter",
+   "summary": "News story from Steelers Now. Full report at the original publisher.",
+   "url": "https://steelersnow.com/different-side-to-him-steelers-cam-heyward-admires-mike-tomlins-new-chapter/",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   },
+   "published": "2026-10-17T11:00:00+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "e89095ba3257dc46",
+   "type": "news",
+   "title": "Steelers visit Tampa Bay as Rodgers winds down career, Bucs hope to add to win total",
+   "summary": "Game story from Orlando Sentinel. Full report at the original publisher.",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYkIwTEVPUnlsbExxU01MSG50YUs1cTVGd2V6YVBIZ2xIdHJwWXNrREJuMG9rRi0wbnZSWk12ODI5cFQxTndFTUkxOExPMkFKVXEwSmJSREpCUUNtZHZzNW9WOFhFMVpHQTFsanJiekVhT2FEaDFOSDJsUlZEaE41REtsZms0Z0dQOFRxUVNZdnU2NkpnWkRpTHh0VktJY00yZmUyVGl0LUdhYlZYeGVjbnk0Y1RhV1k1enMtTjdFOA?oc=5",
+   "source": {
+    "name": "Orlando Sentinel",
+    "url": null
+   },
+   "published": "2026-10-17T10:01:49+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "bb4d9ee9cf1a0905",
+   "type": "news",
+   "title": "Cup of Joe (Starkey): At this rate, Steelers should pay Jaylen Warren top-5 RB money",
+   "summary": "Opinion story from TribLive. Full report at the original publisher.",
+   "url": "https://triblive.com/sports/cup-of-joe-starkey-at-this-rate-steelers-should-pay-jaylen-warren-top-5-rb-money/",
+   "source": {
+    "name": "TribLive",
+    "url": null
+   },
+   "published": "2026-10-17T10:00:00+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "0085335a2a177d15",
+   "type": "news",
+   "title": "Ex-Steelers’ Joey Porter Jr. Has New Injury With Cowboys",
+   "summary": "Injury story from Heavy.com. Full report at the original publisher.",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORXhkcG1rTnYyZERGdXRTT21JZ0hWT25hdTVtMEc3MFlGRWQ1QWN6a3pVdWlDWnVtcEh4MzVJT0lKN1JfZ0c0c0hablZWRTF1M2c1VWxkRWF3WUgyX2t6YjROSi1KczN0Q0VHUUhEZFFtREZoc0VQRGg5Vl9hNGVlc05wMjcxSkFqTXRQRGdEQWRlTnZnaWNiRFo2MGFnVjQ?oc=5",
+   "source": {
+    "name": "Heavy.com",
+    "url": null
+   },
+   "published": "2026-10-17T08:08:30+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "54066e48bd6cd33e",
+   "type": "news",
+   "title": "The Steelers have been slow to join the NFL’s blitz craze, but Patrick Graham says it’s coming",
+   "summary": "News story from Pittsburgh Post-Gazette. Full report at the original publisher.",
+   "url": "https://www.post-gazette.com/sports/steelers/2026/10/17/more-blitzing-nfl-steelers-blitzburgh/stories/202610160040",
+   "source": {
+    "name": "Pittsburgh Post-Gazette",
+    "url": null
+   },
+   "published": "2026-10-17T08:00:00+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "e64fdc6231eef4a3",
+   "type": "news",
+   "title": "‘What a story’: Steelers’ Jaylen Warren goes from unheralded recruit to top of NFL leaderboard",
+   "summary": "News story from TribLive. Full report at the original publisher.",
+   "url": "https://triblive.com/sports/what-a-story-steelers-jaylen-warren-goes-from-unheralded-recruit-to-top-of-nfl-leaderboard/",
+   "source": {
+    "name": "TribLive",
+    "url": null
+   },
+   "published": "2026-10-17T00:06:41+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "4e6f6f62aaee06b7",
+   "type": "news",
+   "title": "How to watch Steelers vs. Buccaneers: TV channel and streaming options for October 18",
+   "summary": "Game story from The New York Times. Full report at the original publisher.",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeWdhSm45VktrVzgzd3pRYWprRnRldllZcUJOY3dpYzBCQjB5LTFMRC1JWlg3WHluQWRUaUgwZ0hneUZnclRRXzRzN3hFYk5BU3p1NmpyUVRlaWtzZjhNaWhvNk9WeUhyd1BVenRTanVyZTdjVnVST051NzdkZWF2ODdhZ1NCQjJrMGFBc21Sa3Q0WUZHUGxZY1FPRXRhaEt5Z0lLdg?oc=5",
+   "source": {
+    "name": "The New York Times",
+    "url": null
+   },
+   "published": "2026-10-16T23:30:45+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "fde783a1f51cca43",
+   "type": "news",
+   "title": "Despite talk of disconnect, Steelers DB Jalen Ramsey says players, coaches ‘after the same goal’",
+   "summary": "News story from TribLive. Full report at the original publisher.",
+   "url": "https://triblive.com/sports/despite-earlier-talk-of-disconnect-steelers-db-jalen-ramsey-says-players-coaches-are-after-the-same-goal/",
+   "source": {
+    "name": "TribLive",
+    "url": null
+   },
+   "published": "2026-10-16T22:52:49+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "020459c9ca0883de",
+   "type": "news",
+   "title": "Friday Night Open Thread: Spooky Season",
+   "summary": "News story from Behind the Steel Curtain. Full report at the original publisher.",
+   "url": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-discussion/176448/friday-night-open-thread-spooky-season",
+   "source": {
+    "name": "Behind the Steel Curtain",
+    "url": null
+   },
+   "published": "2026-10-16T22:30:00+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "b33182a74f19e2bc",
+   "type": "news",
+   "title": "Steelers Afternoon Drive: Buccaneers Preview & Predictions",
+   "summary": "Game story from Steelers Now. Full report at the original publisher.",
+   "url": "https://steelersnow.com/steelers-afternoon-drive-buccaneers-preview-predictions/",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   },
+   "published": "2026-10-16T22:11:03+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "6edd4a278b156302",
+   "type": "news",
+   "title": "DK Metcalf (illness) joins 4 other Steelers starters listed as questionable to play vs. Bucs",
+   "summary": "Injury story from TribLive. Full report at the original publisher.",
+   "url": "https://triblive.com/sports/dk-metcalf-illness-joins-4-other-steelers-starters-listed-as-questionable-to-play-vs-bucs/",
+   "source": {
+    "name": "TribLive",
+    "url": null
+   },
+   "published": "2026-10-16T21:43:35+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "eb8e4d2949362592",
+   "type": "news",
+   "title": "Keeanu Benton’s injury puts Steelers' defense at risk vs. Buccaneers",
+   "summary": "Injury story from Still Curtain. Full report at the original publisher.",
+   "url": "https://stillcurtain.com/keeanu-benton-s-injury-puts-pittsburgh-steelers-defense-at-risk-vs-buccaneers-01m52fp2j0cv?utm_source=RSS",
+   "source": {
+    "name": "Still Curtain",
+    "url": null
+   },
+   "published": "2026-10-16T21:06:15+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "b6fe2c8014f724b0",
+   "type": "news",
+   "title": "Former Steeler Predicts Team Puts a ‘Whooping’ on Buccaneers",
+   "summary": "News story from Steelers Now. Full report at the original publisher.",
+   "url": "https://steelersnow.com/former-steeler-predicts-team-puts-a-whooping-on-buccaneers/",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   },
+   "published": "2026-10-16T20:40:58+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "2f866d93af69aa1b",
+   "type": "news",
+   "title": "Updated: Week 6 Injury Report (Buccaneers)",
+   "summary": "Injury story from Steelers.com. Full report at the original publisher.",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jSVgwTElyY1VZNG5PamZOTWJpR0FaVk53c2tfNnJJS1dvcjN6Y05JeVJ3eTI4OE5wQkxjX0FBc1hTQVdXVW9pRnc4QUNydnA4bEpXaWZ1RlZGRFJOaVdwN0NVSUdJMXVRMjJLMU1xZm9oWloxU3c?oc=5",
+   "source": {
+    "name": "Steelers.com",
+    "url": null
+   },
+   "published": "2026-10-16T20:05:31+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "bc2e347d1d67a132",
+   "type": "news",
+   "title": "The Steelers rule out DeShon Elliott, list DK Metcalf as questionable for Sunday",
+   "summary": "Injury story from Pittsburgh Post-Gazette. Full report at the original publisher.",
+   "url": "https://www.post-gazette.com/sports/steelers/2026/10/16/steelers-injury-news-week-6/stories/202610160033",
+   "source": {
+    "name": "Pittsburgh Post-Gazette",
+    "url": null
+   },
+   "published": "2026-10-16T20:00:00+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "812506bc06d6d7dd",
+   "type": "news",
+   "title": "DK Metcalf is questionable, and the Steelers passing game can’t afford the loss",
+   "summary": "Injury story from Still Curtain. Full report at the original publisher.",
+   "url": "https://stillcurtain.com/pittsburgh-steelers-buccaneers-week-5-injury-report-friday?utm_source=RSS",
+   "source": {
+    "name": "Still Curtain",
+    "url": null
+   },
+   "published": "2026-10-16T19:36:27+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "24dfb0ae8b843f5c",
+   "type": "news",
+   "title": "Steelers may be without DK Metcalf vs. Buccaneers",
+   "summary": "Game story from Behind the Steel Curtain. Full report at the original publisher.",
+   "url": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176454/steelers-may-be-without-dk-metcalf-vs-buccaneers-roman-wilson-jalen-ramsey",
+   "source": {
+    "name": "Behind the Steel Curtain",
+    "url": null
+   },
+   "published": "2026-10-16T19:33:19+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "cb708b401609eadb",
+   "type": "news",
+   "title": "Concern Growing for Steelers' Nick Herbig",
+   "summary": "Game story from Sports Illustrated. Full report at the original publisher.",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYk55RENDQ3Ffd2V5R09TNktUcmlldlhrVzA5NDEyX3B5SkNXV2ZKeGN0ZmdOOWR5R0xxZ2h4Y3Y2UjBHS0JxVU94RF9kM3JucnN5MGtZblBfVERIQmlMVXJ1QV8tUGpMRUtOV1o0OXlnaUZac3lJNUUzME5vRk5GT2lyNXdPajNQTlBXeQ?oc=5",
+   "source": {
+    "name": "Sports Illustrated",
+    "url": null
+   },
+   "published": "2026-10-16T16:01:12+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "c7cb76be7a3ca885",
+   "type": "news",
+   "title": "The Steelers threw Daylen Everette into the fire. The rookie cornerback has been there before.",
+   "summary": "News story from Pittsburgh Post-Gazette. Full report at the original publisher.",
+   "url": "https://www.post-gazette.com/sports/steelers/2026/10/16/daylen-everette-steelers/stories/202610160032",
+   "source": {
+    "name": "Pittsburgh Post-Gazette",
+    "url": null
+   },
+   "published": "2026-10-16T14:02:04+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "cf9b9da0ffd2d4f8",
+   "type": "news",
+   "title": "Steelers look likely to avoid Baker Mayfield in Week 6 against Buccaneers",
+   "summary": "News story from Still Curtain. Full report at the original publisher.",
+   "url": "https://stillcurtain.com/pittsburgh-steelers-look-likely-to-avoid-baker-mayfield-in-week-6-against-buccaneers-01m510k2zz9p?utm_source=RSS",
+   "source": {
+    "name": "Still Curtain",
+    "url": null
+   },
+   "published": "2026-10-16T14:00:02+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "1a4f4efd27841775",
+   "type": "news",
+   "title": "NFL predictions: Favorite bets for Steelers vs. Buccaneers",
+   "summary": "Game story from Behind the Steel Curtain. Full report at the original publisher.",
+   "url": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-odds/176403/nfl-predictions-favorite-bets-for-steelers-vs-buccaneers",
+   "source": {
+    "name": "Behind the Steel Curtain",
+    "url": null
+   },
+   "published": "2026-10-16T14:00:00+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "68e6acf4a638cfee",
+   "type": "news",
+   "title": "Steelers-Buccaneers preview: What to expect from Tampa Bay’s offense, defense in Week 6",
+   "summary": "Game story from Behind the Steel Curtain. Full report at the original publisher.",
+   "url": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-game-information/176163/steelers-buccaneers-preview-what-to-expect-from-tampa-bay-offense-defense-in-week-6-jalon-daniels-vita-vea",
+   "source": {
+    "name": "Behind the Steel Curtain",
+    "url": null
+   },
+   "published": "2026-10-16T13:00:00+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "872356a766ea1427",
+   "type": "news",
+   "title": "Steelers Players to Watch: Five names who could make the difference against Tampa Bay",
+   "summary": "News story from Steel City Underground. Full report at the original publisher.",
+   "url": "https://www.steelcityunderground.com/2026/10/16/steelers-players-to-watch-five-names-who-could-make-the-difference-against-tampa-bay/",
+   "source": {
+    "name": "Steel City Underground",
+    "url": null
+   },
+   "published": "2026-10-16T12:04:42+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "c46605b46d2904eb",
+   "type": "news",
+   "title": "Brian Thomas Jr. headlines 7 WR trade targets Steelers can't afford to ignore",
+   "summary": "Trade/roster move story from Still Curtain. Full report at the original publisher.",
+   "url": "https://stillcurtain.com/brian-thomas-jr-headlines-7-wr-trade-targets-pittsburgh-steelers-can-t-afford-to-ignore-01m4rnfq23x6?utm_source=RSS",
+   "source": {
+    "name": "Still Curtain",
+    "url": null
+   },
+   "published": "2026-10-16T12:00:01+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "0985b40670ee815a",
+   "type": "news",
+   "title": "Are Steelers fans coming around to believing in the 2026 team?",
+   "summary": "Opinion story from Behind the Steel Curtain. Full report at the original publisher.",
+   "url": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-discussion/176263/are-steelers-fans-coming-around-to-believing-in-the-2026-team",
+   "source": {
+    "name": "Behind the Steel Curtain",
+    "url": null
+   },
+   "published": "2026-10-16T12:00:00+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "c73415faabac4673",
+   "type": "news",
+   "title": "Football Footnotes: Steelers positioned for October surge into bye week. But where’s the pothole?",
+   "summary": "Opinion story from TribLive. Full report at the original publisher.",
+   "url": "https://triblive.com/sports/football-footnotes-steelers-positioned-for-october-surge-into-bye-week-but-wheres-the-pothole/",
+   "source": {
+    "name": "TribLive",
+    "url": null
+   },
+   "published": "2026-10-16T10:44:48+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "70a5ccd6505db459",
+   "type": "news",
+   "title": "Steelers 4 Downs: Pat Freiermuth making plays like a wide receiver in the passing game",
+   "summary": "Game story from TribLive. Full report at the original publisher.",
+   "url": "https://triblive.com/sports/steelers-4-downs-pat-freiermuth-making-plays-like-a-wide-receiver-in-the-passing-game/",
+   "source": {
+    "name": "TribLive",
+    "url": null
+   },
+   "published": "2026-10-16T10:31:00+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "273fc14c617a6cf5",
+   "type": "news",
+   "title": "AFC North Whiparound: Ravens are getting healthier, Steelers are surging and pressure on Chase Brown",
+   "summary": "News story from The Athletic. Full report at the original publisher.",
+   "url": "https://www.nytimes.com/athletic/7692663/2026/10/16/afc-north-whiparound-bengals-browns-ravens-steelers-week-6/",
+   "source": {
+    "name": "The Athletic",
+    "url": null
+   },
+   "published": "2026-10-16T10:15:04+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "5c95ba1b83fa94c4",
+   "type": "news",
+   "title": "Scouting the Buccaneers: Steelers opponent is starting an undrafted rookie QB in Jalon Daniels",
+   "summary": "Draft story from TribLive. Full report at the original publisher.",
+   "url": "https://triblive.com/sports/scouting-the-buccaneers-steelers-opponent-is-starting-an-undrafted-rookie-qb-in-jalon-daniels/",
+   "source": {
+    "name": "TribLive",
+    "url": null
+   },
+   "published": "2026-10-16T10:01:00+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "570a8bcd5357dc4d",
+   "type": "news",
+   "title": "Steelers coach is already on the hot seat (and the writing is on the wall)",
+   "summary": "News story from Still Curtain. Full report at the original publisher.",
+   "url": "https://stillcurtain.com/pittsburgh-steelers-coach-is-already-on-the-hot-seat-and-the-writing-is-on-the-wall-01m4x9aza3tm?utm_source=RSS",
+   "source": {
+    "name": "Still Curtain",
+    "url": null
+   },
+   "published": "2026-10-16T10:00:00+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "597bb10b1b34f601",
+   "type": "news",
+   "title": "The Pittsburgh Steelers’ ‘diva whisperer’ secretly earned a doctorate while coaching NFL stars",
+   "summary": "News story from The New York Times. Full report at the original publisher.",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYk5McXJXdWRCN3ZTQlhqX1pXUGpUZnUydzBFZ1ZmbXcxcTBvcWpTOXhYWmg4ZmUxVVAzTk1rT2NRT0VPQVpKYUhGWTl2eEI0ajI0UnozNC1INjhjZEV4V0V2M3piOTNXY0pWT0FNVVBqb2M0YnR1MVhhaHZIanl0SlJuNkFzUDBySFJGeTRFR2VQUTZPV0NBLWRfZkw3ZW8y?oc=5",
+   "source": {
+    "name": "The New York Times",
+    "url": null
+   },
+   "published": "2026-10-16T06:42:24+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "994527a7337aaabe",
+   "type": "news",
+   "title": "Steelers CB Dean faces bittersweet homecoming vs. Buccaneers",
+   "summary": "Game story from TribLive. Full report at the original publisher.",
+   "url": "https://triblive.com/sports/steelers-cb-dean-faces-bittersweet-homecoming-vs-buccaneers/",
+   "source": {
+    "name": "TribLive",
+    "url": null
+   },
+   "published": "2026-10-16T01:16:44+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "d4103c1a6c3d88db",
+   "type": "news",
+   "title": "Rico Dowdle goes full, but Steelers aren’t taking the ball from Jaylen Warren",
+   "summary": "News story from Still Curtain. Full report at the original publisher.",
+   "url": "https://stillcurtain.com/pittsburgh-steelers-buccaneers-injury-report-week-5-thursday?utm_source=RSS",
+   "source": {
+    "name": "Still Curtain",
+    "url": null
+   },
+   "published": "2026-10-15T21:37:48+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "0afd05ab1c8a78b9",
+   "type": "news",
+   "title": "2 practice-squad wide receivers likely to play for Steelers Sunday",
+   "summary": "Injury story from TribLive. Full report at the original publisher.",
+   "url": "https://triblive.com/sports/2-practice-squad-wide-receivers-likely-to-play-for-the-steelers-on-sunday/",
+   "source": {
+    "name": "TribLive",
+    "url": null
+   },
+   "published": "2026-10-15T21:35:22+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "1ea01f2881d5be94",
+   "type": "news",
+   "title": "Rico Dowdle practices fully for 1st time in 4 weeks, appears in line for return to Steelers lineup",
+   "summary": "Injury story from TribLive. Full report at the original publisher.",
+   "url": "https://triblive.com/sports/rico-dowdle-practices-fully-for-1st-time-in-4-weeks-appears-in-line-for-return-to-steelers-lineup/",
+   "source": {
+    "name": "TribLive",
+    "url": null
+   },
+   "published": "2026-10-15T21:00:15+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "08c2c57fb19930b1",
+   "type": "news",
+   "title": "Aaron Rodgers is nearing a Peyton Manning-sized NFL record as Week 6 hits",
+   "summary": "News story from Still Curtain. Full report at the original publisher.",
+   "url": "https://stillcurtain.com/pittsburgh-steelers-aaron-rodgers-is-nearing-a-peyton-manning-sized-nfl-record-as-week-6-hits-01m4zsfjhd02?utm_source=RSS",
+   "source": {
+    "name": "Still Curtain",
+    "url": null
+   },
+   "published": "2026-10-15T21:00:00+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "2e483e86cb94a9c4",
+   "type": "news",
+   "title": "Steelers have an ideal Chargers trade target hiding in plain sight",
+   "summary": "Trade/roster move story from Still Curtain. Full report at the original publisher.",
+   "url": "https://stillcurtain.com/pittsburgh-steelers-have-an-ideal-chargers-trade-target-hiding-in-plain-sight-01m4rgvtk45h?utm_source=RSS",
+   "source": {
+    "name": "Still Curtain",
+    "url": null
+   },
+   "published": "2026-10-15T16:00:03+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "4ec0f6ebe9af1915",
+   "type": "news",
+   "title": "The Steelers’ new coaches are still trying to figure out how to use Nick Herbig",
+   "summary": "Opinion story from Pittsburgh Post-Gazette. Full report at the original publisher.",
+   "url": "https://www.post-gazette.com/sports/steelers/2026/10/15/nick-herbig-contract-steelers-role/stories/202610150038",
+   "source": {
+    "name": "Pittsburgh Post-Gazette",
+    "url": null
+   },
+   "published": "2026-10-15T16:00:00+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "dacd1f1d3fad26fb",
+   "type": "news",
+   "title": "Steelers face a different offensive challenge with depleted receiving corps against Buccaneers",
+   "summary": "News story from Steel City Underground. Full report at the original publisher.",
+   "url": "https://www.steelcityunderground.com/2026/10/15/steelers-face-a-different-offensive-challenge-with-depleted-receiving-corps-against-buccaneers/",
+   "source": {
+    "name": "Steel City Underground",
+    "url": null
+   },
+   "published": "2026-10-15T15:59:43+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "6256b5bebe47cd57",
+   "type": "news",
+   "title": "Patrick Graham's selfless adjustment is exactly what Steelers defense needed",
+   "summary": "News story from Still Curtain. Full report at the original publisher.",
+   "url": "https://stillcurtain.com/patrick-graham-s-selfless-adjustment-is-exactly-what-pittsburgh-steelers-defense-needed-01m4txm4zctm?utm_source=RSS",
+   "source": {
+    "name": "Still Curtain",
+    "url": null
+   },
+   "published": "2026-10-15T14:00:03+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "aac7b19144d0b968",
+   "type": "news",
+   "title": "2026 Game Preview: Steelers-Buccaneers, Week 6",
+   "summary": "Game story from Tampa Bay Buccaneers. Full report at the original publisher.",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTjVpcmF0RkYtWVNoTUxzSGcydXAtTlQyd3pKcTlQaW9NRkpXY09DV2RLaFh0NzA1eFNpR2JGQWhiUXB2cmh0WHNCd09OMmNsTlE5YWxOdUdyV3Jtc29KcmYtdVlmejZ0QVQtVTlYWV9TYmtVYVIxWkFBTkZNWjdmaG1n?oc=5",
+   "source": {
+    "name": "Tampa Bay Buccaneers",
+    "url": null
+   },
+   "published": "2026-10-15T13:13:26+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "f3496227d0440746",
+   "type": "news",
+   "title": "QBs keep targeting Asante Samuel Jr. Here’s why the Steelers cornerback says he loves it.",
+   "summary": "Opinion story from Pittsburgh Post-Gazette. Full report at the original publisher.",
+   "url": "https://www.post-gazette.com/sports/steelers/2026/10/15/asante-samuel-steelers-joey-porter/stories/202610150029",
+   "source": {
+    "name": "Pittsburgh Post-Gazette",
+    "url": null
+   },
+   "published": "2026-10-15T13:00:37+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "f611cacfa3e01c1a",
+   "type": "news",
+   "title": "Ray Fittipaldo’s Steelers chat transcript: 10.15.26",
+   "summary": "News story from Pittsburgh Post-Gazette. Full report at the original publisher.",
+   "url": "https://www.post-gazette.com/sports/steelers/2026/10/15/live-chat-nfl-week-6-mike-mccarthy/stories/202610150003",
+   "source": {
+    "name": "Pittsburgh Post-Gazette",
+    "url": null
+   },
+   "published": "2026-10-15T13:00:00+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "27df75ce2bd2a8ca",
+   "type": "news",
+   "title": "Jaylen Warren's Steelers breakout is eerily similar to this former OPOY",
+   "summary": "News story from Still Curtain. Full report at the original publisher.",
+   "url": "https://stillcurtain.com/jaylen-warren-s-pittsburgh-steelers-breakout-is-eerily-similar-to-this-former-opoy-01m4ved3njv9?utm_source=RSS",
+   "source": {
+    "name": "Still Curtain",
+    "url": null
+   },
+   "published": "2026-10-15T12:00:01+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "fa9173b76fe76a11",
+   "type": "news",
+   "title": "With Steelers WR corps struck by injuries, how many questions can Germie Bernard answer?",
+   "summary": "Injury story from The Athletic. Full report at the original publisher.",
+   "url": "https://www.nytimes.com/athletic/7691084/2026/10/15/germie-bernard-pittsburgh-steelers-wr-injuries/",
+   "source": {
+    "name": "The Athletic",
+    "url": null
+   },
+   "published": "2026-10-15T10:40:14+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "7d72ecc873ec0e62",
+   "type": "news",
+   "title": "First Call: Baker Mayfield health update before Steelers visit Tampa; NFL addresses concerns about game in France",
+   "summary": "Game story from TribLive. Full report at the original publisher.",
+   "url": "https://triblive.com/sports/first-call-baker-mayfield-health-update-before-steelers-visit-tampa-nfl-addresses-concerns-about-game-in-france/",
+   "source": {
+    "name": "TribLive",
+    "url": null
+   },
+   "published": "2026-10-15T10:09:01+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "b775f6f192ed2b00",
+   "type": "news",
+   "title": "U mad, bro?: Steelers’ defense taking heat, shots at Mike Tomlin and Joey Porter Jr. continue",
+   "summary": "Opinion story from TribLive. Full report at the original publisher.",
+   "url": "https://triblive.com/sports/u-mad-bro-steelers-defense-taking-heat-shots-at-mike-tomlin-joey-porter-jr-continue/",
+   "source": {
+    "name": "TribLive",
+    "url": null
+   },
+   "published": "2026-10-15T10:01:00+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "c979944e1dc01ed0",
+   "type": "news",
+   "title": "Steelers clearly dodged a bullet by not gambling on Malik Willis",
+   "summary": "News story from Still Curtain. Full report at the original publisher.",
+   "url": "https://stillcurtain.com/pittsburgh-steelers-clearly-dodged-a-bullet-by-not-gambling-on-malik-willis-01m4r0yezfb9?utm_source=RSS",
+   "source": {
+    "name": "Still Curtain",
+    "url": null
+   },
+   "published": "2026-10-15T10:00:04+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "5b15efe420859ef2",
+   "type": "news",
+   "title": "NFL Week 6 ATS picks: Why Chiefs RB Kenneth Walker III deserves more love",
+   "summary": "Opinion story from The Athletic. Full report at the original publisher.",
+   "url": "https://www.nytimes.com/athletic/7690220/2026/10/15/nfl-week-6-predictions-betting-picks/",
+   "source": {
+    "name": "The Athletic",
+    "url": null
+   },
+   "published": "2026-10-15T09:23:18+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "2ccc76d2c28aaac2",
+   "type": "news",
+   "title": "Noah Hiles: It looks like the Steelers found quantity and quality with their 2026 draft class",
+   "summary": "Draft story from Pittsburgh Post-Gazette. Full report at the original publisher.",
+   "url": "https://www.post-gazette.com/sports/steelers/2026/10/15/steelers-2026-rookie-class/stories/202610140031",
+   "source": {
+    "name": "Pittsburgh Post-Gazette",
+    "url": null
+   },
+   "published": "2026-10-15T08:00:00+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "96a69c92d3920f5e",
+   "type": "news",
+   "title": "Elandon Roberts is back with the Steelers, but his role is yet to be determined",
+   "summary": "News story from Pittsburgh Post-Gazette. Full report at the original publisher.",
+   "url": "https://www.post-gazette.com/sports/steelers/2026/10/14/steelers-sign-elandon-roberts/stories/202610140029",
+   "source": {
+    "name": "Pittsburgh Post-Gazette",
+    "url": null
+   },
+   "published": "2026-10-14T21:30:00+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "e518390263d2539e",
+   "type": "news",
+   "title": "Elandon Roberts happy to be back with Steelers",
+   "summary": "News story from TribLive. Full report at the original publisher.",
+   "url": "https://triblive.com/sports/elandon-roberts-happy-to-be-back-with-steelers/",
+   "source": {
+    "name": "TribLive",
+    "url": null
+   },
+   "published": "2026-10-14T21:26:54+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "512eb1d2d8e1b065",
+   "type": "news",
+   "title": "Steelers thin receiver room takes another hit before Buccaneers game",
+   "summary": "Game story from Still Curtain. Full report at the original publisher.",
+   "url": "https://stillcurtain.com/pittsburgh-steelers-buccaneers-week-6-injury-report-wednesday?utm_source=RSS",
+   "source": {
+    "name": "Still Curtain",
+    "url": null
+   },
+   "published": "2026-10-14T21:26:28+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "5d967674a1fcb1d0",
+   "type": "news",
+   "title": "Steelers Jaylen Warren is making his case as the NFL's most valuable RB",
+   "summary": "News story from Still Curtain. Full report at the original publisher.",
+   "url": "https://stillcurtain.com/pittsburgh-steelers-jaylen-warren-is-making-his-case-as-the-nfl-s-most-valuable-rb-01m4xy18hyq3?utm_source=RSS",
+   "source": {
+    "name": "Still Curtain",
+    "url": null
+   },
+   "published": "2026-10-14T21:05:24+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "08c35b71fb57d2ff",
+   "type": "news",
+   "title": "Whom might the Steelers turn to Sunday with all their injuries at wide receiver?",
+   "summary": "Injury story from Pittsburgh Post-Gazette. Full report at the original publisher.",
+   "url": "https://www.post-gazette.com/sports/steelers/2026/10/14/steelers-wide-receiver-news/stories/202610140028",
+   "source": {
+    "name": "Pittsburgh Post-Gazette",
+    "url": null
+   },
+   "published": "2026-10-14T20:00:05+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "4fbfefc362a64c30",
+   "type": "news",
+   "title": "Steelers excelling in yards after catch because of tackle-breaking, accurate passing",
+   "summary": "News story from TribLive. Full report at the original publisher.",
+   "url": "https://triblive.com/sports/steelers-excelling-in-yards-after-catch-because-of-tackle-breaking-accurate-passing/",
+   "source": {
+    "name": "TribLive",
+    "url": null
+   },
+   "published": "2026-10-14T19:55:01+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "e5c32a9abe35ee3a",
+   "type": "news",
+   "title": "Pittsburgh Steelers vs. Tampa Bay Buccaneers preview | Week 6",
+   "summary": "Game story from NFL.com. Full report at the original publisher.",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYRmpyLVBIMVBlblVqMWFKZ0xVZ0FBb21ZbEZXZ1BCSDY2ZDJoQnVGRWdBT0lnQTZ3SWRSQUZONjNpV0czVkhoU3R2SG9SazFiNlJFQ1FxZmZrR3c0UkZfb2lKNk0tbE05RjZ2eUw0UFNxdw?oc=5",
+   "source": {
+    "name": "NFL.com",
+    "url": null
+   },
+   "published": "2026-10-14T19:21:40+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "56f8ae85c75673ea",
+   "type": "news",
+   "title": "Cam Heyward defends Brian Flores to the hilt as Raiders criticism emerges",
+   "summary": "News story from Still Curtain. Full report at the original publisher.",
+   "url": "https://stillcurtain.com/pittsburgh-steelers-cam-heyward-defends-brian-flores-to-the-hilt-as-raiders-criticism-emerges-01m4xmq5cz5p?utm_source=RSS",
+   "source": {
+    "name": "Still Curtain",
+    "url": null
+   },
+   "published": "2026-10-14T19:19:55+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "02a09c6eb72c7e59",
+   "type": "news",
+   "title": "NFL spread, straight-up picks: Rams, Chiefs, Colts top Week 6 confidence rankings",
+   "summary": "News story from The Athletic. Full report at the original publisher.",
+   "url": "https://www.nytimes.com/athletic/7689979/2026/10/14/nfl-spread-straight-up-picks-confidence-rankings-week-6/",
+   "source": {
+    "name": "The Athletic",
+    "url": null
+   },
+   "published": "2026-10-14T19:01:06+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "05da6318dad664d0",
+   "type": "news",
+   "title": "Steelers RB Jaylen Warren named AFC Offensive Player of the Week",
+   "summary": "News story from TribLive. Full report at the original publisher.",
+   "url": "https://triblive.com/sports/steelers-rb-jaylen-warren-named-afc-offensive-player-of-the-week/",
+   "source": {
+    "name": "TribLive",
+    "url": null
+   },
+   "published": "2026-10-14T16:41:03+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "8ee685152f1323fc",
+   "type": "news",
+   "title": "6 desperate NFL teams that should already be thinking about Mike Tomlin",
+   "summary": "Opinion story from Still Curtain. Full report at the original publisher.",
+   "url": "https://stillcurtain.com/6-desperate-nfl-teams-that-should-already-be-thinking-about-pittsburgh-steelers-mike-tomlin-01m4v557qz8p?utm_source=RSS",
+   "source": {
+    "name": "Still Curtain",
+    "url": null
+   },
+   "published": "2026-10-14T16:00:03+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "881e82cbb8e951c8",
+   "type": "news",
+   "title": "Jaylen Warren's breakout could force Steelers to pay up quickly",
+   "summary": "News story from Still Curtain. Full report at the original publisher.",
+   "url": "https://stillcurtain.com/jaylen-warren-s-breakout-could-force-pittsburgh-steelers-to-pay-up-quickly-01m4trx5d3b1?utm_source=RSS",
+   "source": {
+    "name": "Still Curtain",
+    "url": null
+   },
+   "published": "2026-10-14T14:00:00+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "7510639159ad28e1",
+   "type": "news",
+   "title": "Gerry Dulac’s Steelers chat transcript: 10.14.26",
+   "summary": "News story from Pittsburgh Post-Gazette. Full report at the original publisher.",
+   "url": "https://www.post-gazette.com/sports/steelers/2026/10/14/live-chat-aaron-rodgers-nfl-week-6/stories/202610140004",
+   "source": {
+    "name": "Pittsburgh Post-Gazette",
+    "url": null
+   },
+   "published": "2026-10-14T12:30:00+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "5fb8bc43da583eb5",
+   "type": "news",
+   "title": "Steelers-Buccaneers: Top Storylines & Key Matchups in Week Six",
+   "summary": "News story from Tampa Bay Buccaneers. Full report at the original publisher.",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWG05T0tTUXJzeTFMOElORUJfZjJDNklKNVJpT1pMOE1Wd2R3WjBsZEVqX2pzcFRuMDRCTHFrcXF6NWtpN3JESDdaV0lfSU94MlRVcEtwNjV1VDR5b0Y2S29saU1KMVJkNk1DSVZnV0dKbzZ4UG9ZQXFMdS1wV2pyZ3JjWDJ4Q2NDbWZhR29ORVJucXFPVEE?oc=5",
+   "source": {
+    "name": "Tampa Bay Buccaneers",
+    "url": null
+   },
+   "published": "2026-10-14T12:02:24+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "4a0510cdbd4fd978",
+   "type": "news",
+   "title": "Steelers film study: Mike McCarthy’s third-down fixes worked against the Colts",
+   "summary": "News story from Pittsburgh Post-Gazette. Full report at the original publisher.",
+   "url": "https://www.post-gazette.com/sports/steelers/2026/10/14/steelers-third-down-offense-mike-mccarthy/stories/202610140026",
+   "source": {
+    "name": "Pittsburgh Post-Gazette",
+    "url": null
+   },
+   "published": "2026-10-14T12:00:10+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "031ea70da8851abc",
+   "type": "news",
+   "title": "AFC North power rankings expose a seismic Steelers and Browns shift",
+   "summary": "News story from Still Curtain. Full report at the original publisher.",
+   "url": "https://stillcurtain.com/afc-north-power-rankings-expose-a-seismic-pittsburgh-steelers-and-browns-shift-01m4v8tncyp5?utm_source=RSS",
+   "source": {
+    "name": "Still Curtain",
+    "url": null
+   },
+   "published": "2026-10-14T12:00:03+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "facfd54db9df9315",
+   "type": "news",
+   "title": "Watch: Jaylen Warren breaks loose for 50-yard touchdown run",
+   "summary": "News story from Steel City Underground. Full report at the original publisher.",
+   "url": "https://www.steelcityunderground.com/2026/10/14/watch-jaylen-warren-breaks-loose-for-50-yard-touchdown-run/",
+   "source": {
+    "name": "Steel City Underground",
+    "url": null
+   },
+   "published": "2026-10-14T11:59:19+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "12432af012f282e0",
+   "type": "news",
+   "title": "Why the AFC North Remains One of the NFL’s Toughest Divisions to Win",
+   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
+   "url": "https://www.steelcityunderground.com/2026/10/14/why-the-afc-north-remains-one-of-the-nfls-toughest-divisions-to-win/",
+   "source": {
+    "name": "Steel City Underground",
+    "url": null
+   },
+   "published": "2026-10-14T11:58:17+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "31b0ee4a19390e59",
+   "type": "news",
+   "title": "Tim Benz: Mike McCarthy’s staff discovering its feel for the Steelers roster in Year 1",
+   "summary": "News story from TribLive. Full report at the original publisher.",
+   "url": "https://triblive.com/sports/tim-benz-mike-mccarthys-staff-discovering-its-feel-for-the-steelers-roster-in-year-1/",
+   "source": {
+    "name": "TribLive",
+    "url": null
+   },
+   "published": "2026-10-14T10:08:48+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "023443f6bf0bb010",
+   "type": "news",
+   "title": "Mark Madden: Mike McCarthy can be trusted to make right decisions for Steelers",
+   "summary": "News story from TribLive. Full report at the original publisher.",
+   "url": "https://triblive.com/sports/mark-madden-mike-mccarthy-can-be-trusted-to-make-right-decisions-for-steelers/",
+   "source": {
+    "name": "TribLive",
+    "url": null
+   },
+   "published": "2026-10-14T10:01:00+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "46975b994590a17f",
+   "type": "news",
+   "title": "First Call: President Trump’s appearance at Steelers game Sunday called off; significant injury for Jordan Staal",
+   "summary": "Injury story from TribLive. Full report at the original publisher.",
+   "url": "https://triblive.com/sports/first-call-president-trumps-appearance-at-steelers-game-sunday-called-off-significant-injury-for-jordan-staal/",
+   "source": {
+    "name": "TribLive",
+    "url": null
+   },
+   "published": "2026-10-14T10:01:00+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  },
+  {
+   "id": "20702e43d9a1ee1a",
+   "type": "news",
+   "title": "Steelers vs. Buccaneers Week 6 Tracker: Injury updates, predictions, storylines and more",
+   "summary": "Injury story from Still Curtain. Full report at the original publisher.",
+   "url": "https://stillcurtain.com/steelers-vs-buccaneers-week-6-tracker-injury-updates-predictions-storylines-and-more-01m4vh5ey1ss?utm_source=RSS",
+   "source": {
+    "name": "Still Curtain",
+    "url": null
+   },
+   "published": "2026-10-14T10:00:02+00:00",
+   "retrieved": "2026-10-17T22:28:31+00:00"
+  }
+ ]
+}

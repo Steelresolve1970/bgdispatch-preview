@@ -1,0 +1,58 @@
+# Black & Gold Dispatch
+
+> Unofficial Pittsburgh Steelers fan news hub and sports-data utility. Headlines and links to original publishers, our own short summaries, and structured Steelers data (injuries, depth chart, schedule, stats, player grades, rumors with source reliability). Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Updated about every 10 minutes.
+
+Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.
+
+Usage and attribution: Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
+
+Data credits: Data: nflverse (CC-BY 4.0), https://github.com/nflverse/nflverse-data: schedule, scores, stats and ranks, depth chart, rosters, injury report. Updated by nflverse daily (mostly overnight). Reuse requires the same credit.
+
+Legal (drafts pending attorney review): https://blackandgolddispatch.com/legal/terms.html · https://blackandgolddispatch.com/legal/privacy.html · https://blackandgolddispatch.com/legal/dmca.html
+
+## Data (JSON API, versioned)
+- [API index](https://blackandgolddispatch.com/api/v1/index.json): every dataset with counts and update times
+- [OpenAPI spec](https://blackandgolddispatch.com/api/v1/openapi.json)
+- [news](https://blackandgolddispatch.com/api/v1/news.json): Steelers headlines from beat writers, national outlets and blogs, with our one-line summaries and links to the publisher.
+- [rumors](https://blackandgolddispatch.com/api/v1/rumors.json): Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).
+- [injuries](https://blackandgolddispatch.com/api/v1/injuries.json): Current Steelers injury designations from the official NFL injury report and reserve lists (nflverse, CC-BY 4.0): status and injury.
+- [depth-chart](https://blackandgolddispatch.com/api/v1/depth-chart.json): Steelers depth chart by unit and position, 1st/2nd/3rd string with injury tags (nflverse, CC-BY 4.0).
+- [schedule](https://blackandgolddispatch.com/api/v1/schedule.json): Steelers season schedule and results (nflverse, CC-BY 4.0).
+- [stats](https://blackandgolddispatch.com/api/v1/stats.json): Steelers team stats with league ranks, and player stats (nflverse, CC-BY 4.0).
+- [grades](https://blackandgolddispatch.com/api/v1/grades.json): Per-game player grades: transparent stats grade from the box score until 25 fan votes, then fan grade.
+- [college](https://blackandgolddispatch.com/api/v1/college.json): College prospects at the Steelers' top needs with last-game and season stats (CollegeFootballData.com) and recent headlines.
+- [insiders](https://blackandgolddispatch.com/api/v1/insiders.json): Recent public posts from NFL insiders and Steelers beat writers (links only).
+- [podcasts](https://blackandgolddispatch.com/api/v1/podcasts.json): Today's Steelers podcast episodes and YouTube videos (links).
+- [film](https://blackandgolddispatch.com/api/v1/film.json): Film breakdowns of the last game and previews of the next game (links).
+- [draft](https://blackandgolddispatch.com/api/v1/draft.json): Steelers draft hub: top prospects per need with our estimated chance each is available at the Steelers' projected picks, published analyst grades of the last class (letter + link), and every past Steelers pick (nflverse, CC-BY 4.0).
+
+## Markdown mirrors (one per section)
+- [News](https://blackandgolddispatch.com/md/news.md)
+- [Podcasts & YouTube](https://blackandgolddispatch.com/md/podcasts.md)
+- [Film Room & Film Preview](https://blackandgolddispatch.com/md/film.md)
+- [Rumor Meter (today only)](https://blackandgolddispatch.com/md/rumors.md)
+- [Injury Tracker](https://blackandgolddispatch.com/md/injuries.md)
+- [Depth Chart](https://blackandgolddispatch.com/md/depth-chart.md)
+- [Schedule & Results](https://blackandgolddispatch.com/md/schedule.md)
+- [Stats](https://blackandgolddispatch.com/md/stats.md)
+- [Player Grades / Heat Map](https://blackandgolddispatch.com/md/heatmap.md)
+- [Draft Central](https://blackandgolddispatch.com/md/draft.md)
+- [College Tracker](https://blackandgolddispatch.com/md/college.md)
+- [Insiders](https://blackandgolddispatch.com/md/insiders.md)
+- [Opponent Scouting](https://blackandgolddispatch.com/md/scouting.md)
+
+## Feeds
+- news: [RSS](https://blackandgolddispatch.com/feeds/news.xml) · [Atom](https://blackandgolddispatch.com/feeds/news.atom) · [JSON Feed](https://blackandgolddispatch.com/feeds/news.json)
+- rumors: [RSS](https://blackandgolddispatch.com/feeds/rumors.xml) · [Atom](https://blackandgolddispatch.com/feeds/rumors.atom) · [JSON Feed](https://blackandgolddispatch.com/feeds/rumors.json)
+- injuries: [RSS](https://blackandgolddispatch.com/feeds/injuries.xml) · [Atom](https://blackandgolddispatch.com/feeds/injuries.atom) · [JSON Feed](https://blackandgolddispatch.com/feeds/injuries.json)
+- film: [RSS](https://blackandgolddispatch.com/feeds/film.xml) · [Atom](https://blackandgolddispatch.com/feeds/film.atom) · [JSON Feed](https://blackandgolddispatch.com/feeds/film.json)
+- podcasts: [RSS](https://blackandgolddispatch.com/feeds/podcasts.xml) · [Atom](https://blackandgolddispatch.com/feeds/podcasts.atom) · [JSON Feed](https://blackandgolddispatch.com/feeds/podcasts.json)
+
+## Methods
+- [Player grades method](https://blackandgolddispatch.com/GRADES.md)
+- [Needs ranking method](https://blackandgolddispatch.com/NEEDS.md)
+- [AI access & licensing](https://blackandgolddispatch.com/AI-ACCESS.md)
+
+## Optional
+- [Full context in one file](https://blackandgolddispatch.com/llms-full.txt)
+- [Human site](https://blackandgolddispatch.com/)

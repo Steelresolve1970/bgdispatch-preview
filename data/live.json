@@ -1,0 +1,47 @@
+{
+ "generated": "2026-10-17T22:28:40.159971+00:00",
+ "event_id": "401872985",
+ "window": false,
+ "state": "post",
+ "detail": "Final",
+ "completed": true,
+ "teams": [
+  {
+   "abbr": "IND",
+   "name": "Colts",
+   "score": "22",
+   "homeAway": "away"
+  },
+  {
+   "abbr": "PIT",
+   "name": "Steelers",
+   "score": "34",
+   "homeAway": "home"
+  }
+ ],
+ "situation": null,
+ "plays": [],
+ "scoring": [],
+ "next": {
+  "id": "401873002",
+  "nflverse_id": "2026_06_PIT_TB",
+  "date": "2026-10-18T17:00Z",
+  "week": "Week 6",
+  "week_num": 6,
+  "home": false,
+  "opponent": "Tampa Bay Buccaneers",
+  "opp_abbr": "TB",
+  "status": "STATUS_SCHEDULED",
+  "completed": false,
+  "result": null,
+  "score": null,
+  "pit_score": "",
+  "opp_score": "",
+  "venue": "Raymond James Stadium",
+  "tv": null,
+  "season_type": "REG"
+ },
+ "live_feed": false,
+ "source": "Data: nflverse (CC-BY 4.0)",
+ "note": "Scores: nflverse schedules (CC-BY 4.0), posted after games. Live play-by-play arrives when we add a paid live-score plan."
+}

@@ -1,0 +1,803 @@
+{
+ "api_version": "1",
+ "dataset": "grades",
+ "description": "Per-game player grades: transparent stats grade from the box score until 25 fan votes, then fan grade.",
+ "generated": "2026-10-17T22:28:40+00:00",
+ "data_updated": "2026-10-11T17:00:00+00:00",
+ "count": 39,
+ "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
+ "rights": {
+  "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
+  "espn_derived": false,
+  "data_license": "CC-BY-4.0 (credit: Data: nflverse (CC-BY 4.0))",
+  "licensable_by_steelers_daily": "our summaries/tiers/rankings only",
+  "third_party_fields_not_licensed": [
+   "title",
+   "url"
+  ]
+ },
+ "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
+ "html": "https://blackandgolddispatch.com/#/heatmap",
+ "items": [
+  {
+   "id": "076bfcb07e6d6721",
+   "type": "player_grade",
+   "week": 5,
+   "game": "vs Indianapolis Colts",
+   "player": "Aaron Rodgers",
+   "position": "QB",
+   "group": "QB",
+   "grade": 7.6,
+   "grade_source": "stats",
+   "stats_grade": 7.6,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "22/31, 235 yds, 3 TD, 0 INT; 1 rush, 6 yds",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
+   "id": "a987f5cf712fe72a",
+   "type": "player_grade",
+   "week": 5,
+   "game": "vs Indianapolis Colts",
+   "player": "Mason Rudolph",
+   "position": "QB",
+   "group": "QB",
+   "grade": 5.4,
+   "grade_source": "stats",
+   "stats_grade": 5.4,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "2 rush, -2 yds",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
+   "id": "7b0d86989ae7756b",
+   "type": "player_grade",
+   "week": 5,
+   "game": "vs Indianapolis Colts",
+   "player": "Jaylen Warren",
+   "position": "RB",
+   "group": "RB",
+   "grade": 9.6,
+   "grade_source": "stats",
+   "stats_grade": 9.6,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "15 rush, 101 yds, 1 TD; 6 rec, 87 yds, 1 TD",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
+   "id": "334397855f62535e",
+   "type": "player_grade",
+   "week": 5,
+   "game": "vs Indianapolis Colts",
+   "player": "Lew Nichols III",
+   "position": "RB",
+   "group": "RB",
+   "grade": 5.7,
+   "grade_source": "stats",
+   "stats_grade": 5.7,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "1 rush, 6 yds",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
+   "id": "957737cdaf4cd30a",
+   "type": "player_grade",
+   "week": 5,
+   "game": "vs Indianapolis Colts",
+   "player": "Riley Nowakowski",
+   "position": "FB",
+   "group": "RB",
+   "grade": 5.7,
+   "grade_source": "stats",
+   "stats_grade": 5.7,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "1 tkl",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
+   "id": "33c2be81724047fe",
+   "type": "player_grade",
+   "week": 5,
+   "game": "vs Indianapolis Colts",
+   "player": "DK Metcalf",
+   "position": "WR",
+   "group": "WR",
+   "grade": 6.3,
+   "grade_source": "stats",
+   "stats_grade": 6.3,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "1 rush, 11 yds; 3 rec, 12 yds",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
+   "id": "b2c2048a08f2b9af",
+   "type": "player_grade",
+   "week": 5,
+   "game": "vs Indianapolis Colts",
+   "player": "Germie Bernard",
+   "position": "WR",
+   "group": "WR",
+   "grade": 7.7,
+   "grade_source": "stats",
+   "stats_grade": 7.7,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "1 rush, 4 yds; 6 rec, 80 yds",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
+   "id": "c93f762836190b7c",
+   "type": "player_grade",
+   "week": 5,
+   "game": "vs Indianapolis Colts",
+   "player": "Roman Wilson",
+   "position": "WR",
+   "group": "WR",
+   "grade": 5.4,
+   "grade_source": "stats",
+   "stats_grade": 5.4,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "0 rec, 0 yds",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
+   "id": "c641dd7a9f5c80d0",
+   "type": "player_grade",
+   "week": 5,
+   "game": "vs Indianapolis Colts",
+   "player": "Darnell Washington",
+   "position": "TE",
+   "group": "TE",
+   "grade": 5.9,
+   "grade_source": "stats",
+   "stats_grade": 5.9,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "2 rec, 12 yds",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
+   "id": "8d6b66184d8974d5",
+   "type": "player_grade",
+   "week": 5,
+   "game": "vs Indianapolis Colts",
+   "player": "Pat Freiermuth",
+   "position": "TE",
+   "group": "TE",
+   "grade": 7.9,
+   "grade_source": "stats",
+   "stats_grade": 7.9,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "1 rush, 1 yds; 5 rec, 44 yds, 2 TD",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
+   "id": "d0ce6bbfe76b6d6e",
+   "type": "player_grade",
+   "week": 5,
+   "game": "vs Indianapolis Colts",
+   "player": "Brock Hoffman",
+   "position": "C",
+   "group": "OL",
+   "grade": null,
+   "grade_source": "awaiting",
+   "stats_grade": null,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
+   "id": "d262b77c46853f15",
+   "type": "player_grade",
+   "week": 5,
+   "game": "vs Indianapolis Colts",
+   "player": "Dylan Cook",
+   "position": "T",
+   "group": "OL",
+   "grade": null,
+   "grade_source": "awaiting",
+   "stats_grade": null,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
+   "id": "c3e142c8d563c26e",
+   "type": "player_grade",
+   "week": 5,
+   "game": "vs Indianapolis Colts",
+   "player": "Mason McCormick",
+   "position": "G",
+   "group": "OL",
+   "grade": null,
+   "grade_source": "awaiting",
+   "stats_grade": null,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
+   "id": "6fa623f82ab1e7ea",
+   "type": "player_grade",
+   "week": 5,
+   "game": "vs Indianapolis Colts",
+   "player": "Max Iheanachor",
+   "position": "T",
+   "group": "OL",
+   "grade": null,
+   "grade_source": "awaiting",
+   "stats_grade": null,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
+   "id": "74a2990554f446b2",
+   "type": "player_grade",
+   "week": 5,
+   "game": "vs Indianapolis Colts",
+   "player": "Ryan McCollum",
+   "position": "C",
+   "group": "OL",
+   "grade": null,
+   "grade_source": "awaiting",
+   "stats_grade": null,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
+   "id": "a77a261283e78620",
+   "type": "player_grade",
+   "week": 5,
+   "game": "vs Indianapolis Colts",
+   "player": "Spencer Anderson",
+   "position": "G",
+   "group": "OL",
+   "grade": null,
+   "grade_source": "awaiting",
+   "stats_grade": null,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
+   "id": "d332b6faaf1db9c4",
+   "type": "player_grade",
+   "week": 5,
+   "game": "vs Indianapolis Colts",
+   "player": "Troy Fautanu",
+   "position": "T",
+   "group": "OL",
+   "grade": null,
+   "grade_source": "awaiting",
+   "stats_grade": null,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
+   "id": "91b238c2853a325f",
+   "type": "player_grade",
+   "week": 5,
+   "game": "vs Indianapolis Colts",
+   "player": "Zach Frazier",
+   "position": "C",
+   "group": "OL",
+   "grade": null,
+   "grade_source": "awaiting",
+   "stats_grade": null,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
+   "id": "bca9296548fc9282",
+   "type": "player_grade",
+   "week": 5,
+   "game": "vs Indianapolis Colts",
+   "player": "Cameron Heyward",
+   "position": "DT",
+   "group": "DL",
+   "grade": 7.5,
+   "grade_source": "stats",
+   "stats_grade": 7.5,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "3 tkl, 1 sack, 1 TFL",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
+   "id": "dee0c20cda7753dc",
+   "type": "player_grade",
+   "week": 5,
+   "game": "vs Indianapolis Colts",
+   "player": "Gabe Rubio",
+   "position": "DE",
+   "group": "DL",
+   "grade": 6.0,
+   "grade_source": "stats",
+   "stats_grade": 6.0,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "3 tkl",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
+   "id": "5e0d971eaa50b415",
+   "type": "player_grade",
+   "week": 5,
+   "game": "vs Indianapolis Colts",
+   "player": "Keeanu Benton",
+   "position": "DT",
+   "group": "DL",
+   "grade": 6.7,
+   "grade_source": "stats",
+   "stats_grade": 6.7,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "3 tkl, 1 PD",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
+   "id": "d73cb0fe5fd7f3c6",
+   "type": "player_grade",
+   "week": 5,
+   "game": "vs Indianapolis Colts",
+   "player": "Sebastian Joseph-Day",
+   "position": "DE",
+   "group": "DL",
+   "grade": 6.0,
+   "grade_source": "stats",
+   "stats_grade": 6.0,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "3 tkl",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
+   "id": "108bfefe0dacbacc",
+   "type": "player_grade",
+   "week": 5,
+   "game": "vs Indianapolis Colts",
+   "player": "Yahya Black",
+   "position": "DT",
+   "group": "DL",
+   "grade": 6.4,
+   "grade_source": "stats",
+   "stats_grade": 6.4,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "3 tkl, 1 TFL",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
+   "id": "fbf11e4654b826a3",
+   "type": "player_grade",
+   "week": 5,
+   "game": "vs Indianapolis Colts",
+   "player": "Alex Highsmith",
+   "position": "OLB",
+   "group": "LB",
+   "grade": 5.8,
+   "grade_source": "stats",
+   "stats_grade": 5.8,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "2 tkl",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
+   "id": "b9b648f26ef50216",
+   "type": "player_grade",
+   "week": 5,
+   "game": "vs Indianapolis Colts",
+   "player": "Carson Bruener",
+   "position": "ILB",
+   "group": "LB",
+   "grade": 5.7,
+   "grade_source": "stats",
+   "stats_grade": 5.7,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "1 tkl",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
+   "id": "b7c3b594d4487f5b",
+   "type": "player_grade",
+   "week": 5,
+   "game": "vs Indianapolis Colts",
+   "player": "Cole Holcomb",
+   "position": "ILB",
+   "group": "LB",
+   "grade": 5.7,
+   "grade_source": "stats",
+   "stats_grade": 5.7,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "1 tkl",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
+   "id": "8f81792410b74809",
+   "type": "player_grade",
+   "week": 5,
+   "game": "vs Indianapolis Colts",
+   "player": "Jack Sawyer",
+   "position": "OLB",
+   "group": "LB",
+   "grade": 6.1,
+   "grade_source": "stats",
+   "stats_grade": 6.1,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "4 tkl",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
+   "id": "d5fc282bd1023f00",
+   "type": "player_grade",
+   "week": 5,
+   "game": "vs Indianapolis Colts",
+   "player": "Patrick Queen",
+   "position": "ILB",
+   "group": "LB",
+   "grade": 6.6,
+   "grade_source": "stats",
+   "stats_grade": 6.6,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "7 tkl",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
+   "id": "a2bee3c56f065ea5",
+   "type": "player_grade",
+   "week": 5,
+   "game": "vs Indianapolis Colts",
+   "player": "Payton Wilson",
+   "position": "ILB",
+   "group": "LB",
+   "grade": 8.0,
+   "grade_source": "stats",
+   "stats_grade": 8.0,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "8 tkl, 2 TFL, 1 PD",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
+   "id": "c92c7d12aa0213c7",
+   "type": "player_grade",
+   "week": 5,
+   "game": "vs Indianapolis Colts",
+   "player": "Asante Samuel Jr.",
+   "position": "CB",
+   "group": "DB",
+   "grade": 7.6,
+   "grade_source": "stats",
+   "stats_grade": 7.6,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "4 tkl, 4 PD",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
+   "id": "541644352af84fe4",
+   "type": "player_grade",
+   "week": 5,
+   "game": "vs Indianapolis Colts",
+   "player": "Brandin Echols",
+   "position": "CB",
+   "group": "DB",
+   "grade": 5.8,
+   "grade_source": "stats",
+   "stats_grade": 5.8,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "2 tkl",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
+   "id": "f73579e02c4a135d",
+   "type": "player_grade",
+   "week": 5,
+   "game": "vs Indianapolis Colts",
+   "player": "Daylen Everette",
+   "position": "CB",
+   "group": "DB",
+   "grade": 7.2,
+   "grade_source": "stats",
+   "stats_grade": 7.2,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "6 tkl, 2 PD",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
+   "id": "9eb31bfe9c4a798c",
+   "type": "player_grade",
+   "week": 5,
+   "game": "vs Indianapolis Colts",
+   "player": "Doneiko Slaughter",
+   "position": "CB",
+   "group": "DB",
+   "grade": 5.7,
+   "grade_source": "stats",
+   "stats_grade": 5.7,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "1 tkl",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
+   "id": "1b551011138c334a",
+   "type": "player_grade",
+   "week": 5,
+   "game": "vs Indianapolis Colts",
+   "player": "Jalen Ramsey",
+   "position": "CB",
+   "group": "DB",
+   "grade": 7.2,
+   "grade_source": "stats",
+   "stats_grade": 7.2,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "9 tkl, 1 PD",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
+   "id": "0ab4284cfcde9378",
+   "type": "player_grade",
+   "week": 5,
+   "game": "vs Indianapolis Colts",
+   "player": "Jaquan Brisker",
+   "position": "SS",
+   "group": "DB",
+   "grade": 7.3,
+   "grade_source": "stats",
+   "stats_grade": 7.3,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "7 tkl, 2 PD",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
+   "id": "f17a7d492c5eed10",
+   "type": "player_grade",
+   "week": 5,
+   "game": "vs Indianapolis Colts",
+   "player": "Robert Spears-Jennings",
+   "position": "FS",
+   "group": "DB",
+   "grade": 5.7,
+   "grade_source": "stats",
+   "stats_grade": 5.7,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "1 tkl",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
+   "id": "79a736c7dcd3ee1c",
+   "type": "player_grade",
+   "week": 5,
+   "game": "vs Indianapolis Colts",
+   "player": "Cameron Johnston",
+   "position": "P",
+   "group": "ST",
+   "grade": 6.4,
+   "grade_source": "stats",
+   "stats_grade": 6.4,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "3 punts, 52 avg",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
+   "id": "113050d618391ed4",
+   "type": "player_grade",
+   "week": 5,
+   "game": "vs Indianapolis Colts",
+   "player": "Chris Boswell",
+   "position": "K",
+   "group": "ST",
+   "grade": 6.6,
+   "grade_source": "stats",
+   "stats_grade": 6.6,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "FG 2/2, XP 4/4",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
+   "id": "48b0beb6116df50a",
+   "type": "player_grade",
+   "week": 5,
+   "game": "vs Indianapolis Colts",
+   "player": "Kaden Wetjen",
+   "position": "KR/PR",
+   "group": "ST",
+   "grade": 5.0,
+   "grade_source": "stats",
+   "stats_grade": 5.0,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "5 KR, 110 yds; 1 PR, 0 yds",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  }
+ ]
+}

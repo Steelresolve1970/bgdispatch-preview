@@ -1,0 +1,1383 @@
+{
+ "api_version": "1",
+ "dataset": "stats",
+ "description": "Steelers team stats with league ranks, and player stats (nflverse, CC-BY 4.0).",
+ "generated": "2026-10-17T22:28:40+00:00",
+ "data_updated": "2026-10-17T19:47:01+00:00",
+ "count": 60,
+ "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
+ "rights": {
+  "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
+  "espn_derived": false,
+  "data_license": "CC-BY-4.0 (credit: Data: nflverse (CC-BY 4.0))",
+  "licensable_by_steelers_daily": "our summaries/tiers/rankings only",
+  "third_party_fields_not_licensed": [
+   "title",
+   "url"
+  ]
+ },
+ "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
+ "html": "https://blackandgolddispatch.com/#/stats",
+ "items": [
+  {
+   "id": "9905ee3d67b47857",
+   "type": "team_stat",
+   "section": "Offense",
+   "stat": "Pass yards",
+   "value": "1,117",
+   "league_rank": 15,
+   "lower_is_better": false,
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "e328692687863d3c",
+   "type": "team_stat",
+   "section": "Offense",
+   "stat": "Pass TD",
+   "value": "10",
+   "league_rank": 6,
+   "lower_is_better": false,
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "fbb43f143f0f8398",
+   "type": "team_stat",
+   "section": "Offense",
+   "stat": "INTs thrown",
+   "value": "4",
+   "league_rank": 18,
+   "lower_is_better": true,
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "b41be4381200a912",
+   "type": "team_stat",
+   "section": "Offense",
+   "stat": "Rush yards",
+   "value": "506",
+   "league_rank": 18,
+   "lower_is_better": false,
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "a28e10d9feca367b",
+   "type": "team_stat",
+   "section": "Offense",
+   "stat": "Rush TD",
+   "value": "1",
+   "league_rank": 31,
+   "lower_is_better": false,
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "bf889b212ca2cb03",
+   "type": "team_stat",
+   "section": "Offense",
+   "stat": "Fumbles lost",
+   "value": "2",
+   "league_rank": 7,
+   "lower_is_better": true,
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "32a7472bec301ae8",
+   "type": "team_stat",
+   "section": "Offense",
+   "stat": "Total yards",
+   "value": "1,623",
+   "league_rank": 18,
+   "lower_is_better": false,
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "c67edd745325ecfc",
+   "type": "team_stat",
+   "section": "Defense",
+   "stat": "Yards allowed",
+   "value": "1,621",
+   "league_rank": 14,
+   "lower_is_better": true,
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "c32e1a56cd6630b9",
+   "type": "team_stat",
+   "section": "Defense",
+   "stat": "Pass yards allowed",
+   "value": "1,104",
+   "league_rank": 17,
+   "lower_is_better": true,
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "368629487ba1c066",
+   "type": "team_stat",
+   "section": "Defense",
+   "stat": "Rush yards allowed",
+   "value": "517",
+   "league_rank": 12,
+   "lower_is_better": true,
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "3ddb2d32ca4973c1",
+   "type": "team_stat",
+   "section": "Defense",
+   "stat": "Sacks",
+   "value": "11",
+   "league_rank": 12,
+   "lower_is_better": false,
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "4161c0d1beaa8188",
+   "type": "team_stat",
+   "section": "Defense",
+   "stat": "Interceptions",
+   "value": "4",
+   "league_rank": 8,
+   "lower_is_better": false,
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "f5d4a11b6027276c",
+   "type": "team_stat",
+   "section": "Defense",
+   "stat": "Forced fumbles",
+   "value": "7",
+   "league_rank": 4,
+   "lower_is_better": false,
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "8af8bf766a3609f4",
+   "type": "team_stat",
+   "section": "Defense",
+   "stat": "Fumbles recovered",
+   "value": "4",
+   "league_rank": 4,
+   "lower_is_better": false,
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "125729e7cfb40972",
+   "type": "team_stat",
+   "section": "Defense",
+   "stat": "Tackles for loss",
+   "value": "26",
+   "league_rank": 11,
+   "lower_is_better": false,
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "3e753f9f67e49e58",
+   "type": "team_stat",
+   "section": "Defense",
+   "stat": "Passes defended",
+   "value": "33",
+   "league_rank": 2,
+   "lower_is_better": false,
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "b3f61d66f014a0a5",
+   "type": "team_stat",
+   "section": "Scoring",
+   "stat": "Points scored",
+   "value": "111",
+   "league_rank": 19,
+   "lower_is_better": false,
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "5031bf10c6b16f43",
+   "type": "team_stat",
+   "section": "Scoring",
+   "stat": "Points per game",
+   "value": "22.2",
+   "league_rank": 18,
+   "lower_is_better": false,
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "5cf4da3c333e2f1f",
+   "type": "team_stat",
+   "section": "Scoring",
+   "stat": "Points allowed",
+   "value": "109",
+   "league_rank": 9,
+   "lower_is_better": true,
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "22337934c154bf30",
+   "type": "team_stat",
+   "section": "Scoring",
+   "stat": "Touchdowns",
+   "value": "12",
+   "league_rank": 16,
+   "lower_is_better": false,
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "4faa351edcd3248d",
+   "type": "player_stat",
+   "name": "Aaron Rodgers",
+   "pos": "QB",
+   "stats": {
+    "Pass Yds": {
+     "value": "1,234",
+     "rank": 11
+    },
+    "YPA": {
+     "value": "6.7",
+     "rank": 20
+    },
+    "Pass TD": {
+     "value": "10",
+     "rank": 5
+    },
+    "INT thrown": {
+     "value": "4",
+     "rank": 48
+    },
+    "Passer Rtg": {
+     "value": "88.9",
+     "rank": 20
+    },
+    "Rush Yds": {
+     "value": "18",
+     "rank": 127
+    },
+    "Tackles": {
+     "value": "1",
+     "rank": 855
+    }
+   },
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "6219ba2449693a44",
+   "type": "player_stat",
+   "name": "T.J. Watt",
+   "pos": "OLB",
+   "stats": {
+    "Tackles": {
+     "value": "13",
+     "rank": 296
+    },
+    "Sacks": {
+     "value": "4.5",
+     "rank": 6
+    },
+    "TFL": {
+     "value": "6",
+     "rank": 3
+    },
+    "PD": {
+     "value": "2",
+     "rank": 98
+    },
+    "INT": {
+     "value": "1",
+     "rank": 15
+    },
+    "FF": {
+     "value": "1",
+     "rank": 18
+    },
+    "FR": {
+     "value": "1",
+     "rank": 5
+    }
+   },
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "679a0d0a4ad6d618",
+   "type": "player_stat",
+   "name": "Jaylen Warren",
+   "pos": "RB",
+   "stats": {
+    "Rush Yds": {
+     "value": "410",
+     "rank": 6
+    },
+    "Rush TD": {
+     "value": "1",
+     "rank": 35
+    },
+    "Rec": {
+     "value": "19",
+     "rank": 48
+    },
+    "Rec Yds": {
+     "value": "230",
+     "rank": 47
+    },
+    "Rec TD": {
+     "value": "1",
+     "rank": 55
+    },
+    "YAC": {
+     "value": "282",
+     "rank": 1
+    }
+   },
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "886f6df03a8f356b",
+   "type": "player_stat",
+   "name": "Cameron Heyward",
+   "pos": "DE",
+   "stats": {
+    "Tackles": {
+     "value": "17",
+     "rank": 204
+    },
+    "Sacks": {
+     "value": "1",
+     "rank": 92
+    },
+    "TFL": {
+     "value": "1",
+     "rank": 189
+    },
+    "PD": {
+     "value": "4",
+     "rank": 23
+    },
+    "FF": {
+     "value": "1",
+     "rank": 18
+    }
+   },
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "77aed03e9a0cd010",
+   "type": "player_stat",
+   "name": "DK Metcalf",
+   "pos": "WR",
+   "stats": {
+    "Rush Yds": {
+     "value": "11",
+     "rank": 147
+    },
+    "Rec": {
+     "value": "19",
+     "rank": 48
+    },
+    "Rec Yds": {
+     "value": "225",
+     "rank": 51
+    },
+    "Rec TD": {
+     "value": "1",
+     "rank": 55
+    },
+    "YAC": {
+     "value": "57",
+     "rank": 113
+    }
+   },
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "3bb83990bd6f37ca",
+   "type": "player_stat",
+   "name": "Pat Freiermuth",
+   "pos": "TE",
+   "stats": {
+    "Rush Yds": {
+     "value": "4",
+     "rank": 172
+    },
+    "Rec": {
+     "value": "19",
+     "rank": 48
+    },
+    "Rec Yds": {
+     "value": "169",
+     "rank": 83
+    },
+    "Rec TD": {
+     "value": "4",
+     "rank": 4
+    },
+    "YAC": {
+     "value": "80",
+     "rank": 73
+    }
+   },
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "df482925aae6a22e",
+   "type": "player_stat",
+   "name": "Roman Wilson",
+   "pos": "WR",
+   "stats": {
+    "Rec": {
+     "value": "14",
+     "rank": 90
+    },
+    "Rec Yds": {
+     "value": "188",
+     "rank": 70
+    },
+    "Rec TD": {
+     "value": "2",
+     "rank": 28
+    },
+    "YAC": {
+     "value": "84",
+     "rank": 71
+    },
+    "Tackles": {
+     "value": "1",
+     "rank": 855
+    }
+   },
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "b3c8c5b9b177a48a",
+   "type": "player_stat",
+   "name": "Payton Wilson",
+   "pos": "LB",
+   "stats": {
+    "Tackles": {
+     "value": "42",
+     "rank": 12
+    },
+    "Sacks": {
+     "value": "1",
+     "rank": 92
+    },
+    "TFL": {
+     "value": "6",
+     "rank": 3
+    },
+    "PD": {
+     "value": "2",
+     "rank": 98
+    },
+    "FR": {
+     "value": "1",
+     "rank": 5
+    }
+   },
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "efc74b32a1f6b3d8",
+   "type": "player_stat",
+   "name": "Ben Skowronek",
+   "pos": "WR",
+   "stats": {
+    "Rec": {
+     "value": "3",
+     "rank": 247
+    },
+    "Rec Yds": {
+     "value": "32",
+     "rank": 238
+    },
+    "Rec TD": {
+     "value": "1",
+     "rank": 55
+    },
+    "YAC": {
+     "value": "2",
+     "rank": 339
+    },
+    "FR": {
+     "value": "1",
+     "rank": 5
+    }
+   },
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "2b5510a335af9672",
+   "type": "player_stat",
+   "name": "Jalen Ramsey",
+   "pos": "CB",
+   "stats": {
+    "Tackles": {
+     "value": "26",
+     "rank": 92
+    },
+    "TFL": {
+     "value": "1",
+     "rank": 189
+    },
+    "PD": {
+     "value": "2",
+     "rank": 98
+    },
+    "FF": {
+     "value": "1",
+     "rank": 18
+    }
+   },
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "486aae7f6a3d43e4",
+   "type": "player_stat",
+   "name": "Rico Dowdle",
+   "pos": "RB",
+   "stats": {
+    "Rush Yds": {
+     "value": "37",
+     "rank": 99
+    },
+    "Rec": {
+     "value": "4",
+     "rank": 225
+    },
+    "Rec Yds": {
+     "value": "28",
+     "rank": 258
+    },
+    "YAC": {
+     "value": "32",
+     "rank": 184
+    }
+   },
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "197bb2185aae9223",
+   "type": "player_stat",
+   "name": "Michael Pittman",
+   "pos": "WR",
+   "stats": {
+    "Rec": {
+     "value": "7",
+     "rank": 162
+    },
+    "Rec Yds": {
+     "value": "89",
+     "rank": 143
+    },
+    "YAC": {
+     "value": "37",
+     "rank": 163
+    },
+    "Tackles": {
+     "value": "1",
+     "rank": 855
+    }
+   },
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "adb557d438f18327",
+   "type": "player_stat",
+   "name": "Patrick Queen",
+   "pos": "LB",
+   "stats": {
+    "Tackles": {
+     "value": "34",
+     "rank": 43
+    },
+    "TFL": {
+     "value": "1",
+     "rank": 189
+    },
+    "PD": {
+     "value": "2",
+     "rank": 98
+    },
+    "INT": {
+     "value": "1",
+     "rank": 15
+    }
+   },
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "5c02169791beb53b",
+   "type": "player_stat",
+   "name": "Alex Highsmith",
+   "pos": "LB",
+   "stats": {
+    "Tackles": {
+     "value": "8",
+     "rank": 457
+    },
+    "Sacks": {
+     "value": "3",
+     "rank": 18
+    },
+    "TFL": {
+     "value": "5",
+     "rank": 12
+    },
+    "PD": {
+     "value": "1",
+     "rank": 184
+    }
+   },
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "9193e86af1007957",
+   "type": "player_stat",
+   "name": "Darnell Washington",
+   "pos": "TE",
+   "stats": {
+    "Rec": {
+     "value": "11",
+     "rank": 118
+    },
+    "Rec Yds": {
+     "value": "131",
+     "rank": 110
+    },
+    "Rec TD": {
+     "value": "1",
+     "rank": 55
+    },
+    "YAC": {
+     "value": "91",
+     "rank": 62
+    }
+   },
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "c4e8902a61441fe0",
+   "type": "player_stat",
+   "name": "Derrick Harmon",
+   "pos": "DT",
+   "stats": {
+    "Tackles": {
+     "value": "12",
+     "rank": 318
+    },
+    "Sacks": {
+     "value": "1.5",
+     "rank": 76
+    },
+    "TFL": {
+     "value": "1",
+     "rank": 189
+    },
+    "FF": {
+     "value": "1",
+     "rank": 18
+    }
+   },
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "d2c514259c28973f",
+   "type": "player_stat",
+   "name": "Germie Bernard",
+   "pos": "WR",
+   "stats": {
+    "Rush Yds": {
+     "value": "4",
+     "rank": 172
+    },
+    "Rec": {
+     "value": "13",
+     "rank": 97
+    },
+    "Rec Yds": {
+     "value": "140",
+     "rank": 102
+    },
+    "YAC": {
+     "value": "47",
+     "rank": 130
+    }
+   },
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "cf1af655adeba1cb",
+   "type": "player_stat",
+   "name": "Sebastian Joseph-Day",
+   "pos": "DT",
+   "stats": {
+    "Tackles": {
+     "value": "8",
+     "rank": 457
+    },
+    "TFL": {
+     "value": "1",
+     "rank": 189
+    },
+    "FR": {
+     "value": "1",
+     "rank": 5
+    }
+   },
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "e83480f3d7700347",
+   "type": "player_stat",
+   "name": "Jamel Dean",
+   "pos": "CB",
+   "stats": {
+    "Tackles": {
+     "value": "14",
+     "rank": 269
+    },
+    "PD": {
+     "value": "2",
+     "rank": 98
+    },
+    "FF": {
+     "value": "2",
+     "rank": 6
+    }
+   },
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "5f980392ef4139c8",
+   "type": "player_stat",
+   "name": "Jaquan Brisker",
+   "pos": "SAF",
+   "stats": {
+    "Tackles": {
+     "value": "34",
+     "rank": 43
+    },
+    "PD": {
+     "value": "3",
+     "rank": 55
+    },
+    "INT": {
+     "value": "1",
+     "rank": 15
+    }
+   },
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "f110282c56399f91",
+   "type": "player_stat",
+   "name": "Nick Herbig",
+   "pos": "LB",
+   "stats": {
+    "Tackles": {
+     "value": "10",
+     "rank": 391
+    },
+    "TFL": {
+     "value": "3",
+     "rank": 51
+    },
+    "FF": {
+     "value": "1",
+     "rank": 18
+    }
+   },
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "28d91282c6a1afa3",
+   "type": "player_stat",
+   "name": "Robert Spears-Jennings",
+   "pos": "SAF",
+   "stats": {
+    "Tackles": {
+     "value": "16",
+     "rank": 219
+    },
+    "PD": {
+     "value": "2",
+     "rank": 98
+    },
+    "INT": {
+     "value": "1",
+     "rank": 15
+    }
+   },
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "9c29eb361a5dc5a6",
+   "type": "player_stat",
+   "name": "Robert Tonyan",
+   "pos": "TE",
+   "stats": {
+    "Rec": {
+     "value": "1",
+     "rank": 316
+    },
+    "Rec Yds": {
+     "value": "2",
+     "rank": 358
+    },
+    "YAC": {
+     "value": "2",
+     "rank": 339
+    }
+   },
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "3c44a2cfbea7716a",
+   "type": "player_stat",
+   "name": "Asante Samuel Jr.",
+   "pos": "CB",
+   "stats": {
+    "Tackles": {
+     "value": "15",
+     "rank": 245
+    },
+    "PD": {
+     "value": "7",
+     "rank": 2
+    }
+   },
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "6b2e09dbb304ea3f",
+   "type": "player_stat",
+   "name": "Keeanu Benton",
+   "pos": "DT",
+   "stats": {
+    "Tackles": {
+     "value": "12",
+     "rank": 318
+    },
+    "PD": {
+     "value": "1",
+     "rank": 184
+    }
+   },
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "25d26a2fc296055c",
+   "type": "player_stat",
+   "name": "Jack Sawyer",
+   "pos": "LB",
+   "stats": {
+    "Tackles": {
+     "value": "12",
+     "rank": 318
+    },
+    "PD": {
+     "value": "1",
+     "rank": 184
+    }
+   },
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "7ef0529101973fc7",
+   "type": "player_stat",
+   "name": "Yahya Black",
+   "pos": "DE",
+   "stats": {
+    "Tackles": {
+     "value": "12",
+     "rank": 318
+    },
+    "TFL": {
+     "value": "1",
+     "rank": 189
+    }
+   },
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "911b1c0e137d2084",
+   "type": "player_stat",
+   "name": "Daylen Everette",
+   "pos": "CB",
+   "stats": {
+    "Tackles": {
+     "value": "11",
+     "rank": 355
+    },
+    "PD": {
+     "value": "4",
+     "rank": 23
+    }
+   },
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "1d0837e2c0def569",
+   "type": "player_stat",
+   "name": "Mason Rudolph",
+   "pos": "QB",
+   "stats": {
+    "Passer Rtg": {
+     "value": "39.6",
+     "rank": null
+    },
+    "Rush Yds": {
+     "value": "1",
+     "rank": 196
+    }
+   },
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "bdb2ce249e4f6cd8",
+   "type": "player_stat",
+   "name": "Travis Homer",
+   "pos": "RB",
+   "stats": {
+    "Rush Yds": {
+     "value": "15",
+     "rank": 136
+    },
+    "Tackles": {
+     "value": "1",
+     "rank": 855
+    }
+   },
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "0e37723d90cc5211",
+   "type": "player_stat",
+   "name": "Lew Nichols III",
+   "pos": "RB",
+   "stats": {
+    "Rush Yds": {
+     "value": "6",
+     "rank": 163
+    },
+    "Tackles": {
+     "value": "2",
+     "rank": 769
+    }
+   },
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "e080da00c97018c4",
+   "type": "player_stat",
+   "name": "Cameron Johnston",
+   "pos": "P",
+   "stats": {
+    "Passer Rtg": {
+     "value": "39.6",
+     "rank": null
+    }
+   },
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "77d9cf054dc9130d",
+   "type": "player_stat",
+   "name": "Rayshawn Jenkins",
+   "pos": "DB",
+   "stats": {
+    "Tackles": {
+     "value": "16",
+     "rank": 219
+    }
+   },
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "be9ee1b19617c872",
+   "type": "player_stat",
+   "name": "Cole Holcomb",
+   "pos": "LB",
+   "stats": {
+    "Tackles": {
+     "value": "7",
+     "rank": 490
+    }
+   },
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "6b71506b5891b066",
+   "type": "player_stat",
+   "name": "Carson Bruener",
+   "pos": "LB",
+   "stats": {
+    "Tackles": {
+     "value": "5",
+     "rank": 592
+    }
+   },
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "3690d8b85c0b497d",
+   "type": "player_stat",
+   "name": "Riley Nowakowski",
+   "pos": "FB",
+   "stats": {
+    "Tackles": {
+     "value": "3",
+     "rank": 697
+    }
+   },
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "c26d512db00b60eb",
+   "type": "player_stat",
+   "name": "Brandin Echols",
+   "pos": "CB",
+   "stats": {
+    "Tackles": {
+     "value": "4",
+     "rank": 639
+    }
+   },
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "7c3e85dc9ad9a264",
+   "type": "player_stat",
+   "name": "Brock Hoffman",
+   "pos": "G",
+   "stats": {
+    "Tackles": {
+     "value": "1",
+     "rank": 855
+    }
+   },
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "e0baa6bbe38c0333",
+   "type": "player_stat",
+   "name": "Doneiko Slaughter",
+   "pos": "DB",
+   "stats": {
+    "Tackles": {
+     "value": "3",
+     "rank": 697
+    }
+   },
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "b08c6864a5d28fe5",
+   "type": "player_stat",
+   "name": "Gabe Rubio",
+   "pos": "DE",
+   "stats": {
+    "Tackles": {
+     "value": "3",
+     "rank": 697
+    }
+   },
+   "season": 2026,
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  }
+ ]
+}

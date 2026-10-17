@@ -1,0 +1,1354 @@
+{
+ "sample": false,
+ "through_week": 5,
+ "method": "mean of each week's shown grade (fan grade if 25+ votes, else stats grade)",
+ "min_votes": 25,
+ "players": [
+  {
+   "name": "Aaron Rodgers",
+   "pos": "QB",
+   "group": "QB",
+   "weekly": [
+    {
+     "week": 1,
+     "avg": 5.2,
+     "source": "stats"
+    },
+    {
+     "week": 2,
+     "avg": 2.7,
+     "source": "stats"
+    },
+    {
+     "week": 3,
+     "avg": 7.0,
+     "source": "stats"
+    },
+    {
+     "week": 4,
+     "avg": 4.7,
+     "source": "stats"
+    },
+    {
+     "week": 5,
+     "avg": 7.6,
+     "source": "stats"
+    }
+   ],
+   "votes": 0,
+   "involvement": 207.0,
+   "avg": 5.44,
+   "games": 5,
+   "source": "stats",
+   "trend": 2.9
+  },
+  {
+   "name": "Mason Rudolph",
+   "pos": "QB",
+   "group": "QB",
+   "weekly": [
+    {
+     "week": 2,
+     "avg": 5.4,
+     "source": "stats"
+    },
+    {
+     "week": 5,
+     "avg": 5.4,
+     "source": "stats"
+    }
+   ],
+   "votes": 0,
+   "involvement": 4.0,
+   "avg": 5.4,
+   "games": 2,
+   "source": "stats",
+   "trend": null
+  },
+  {
+   "name": "Eli Heidenreich",
+   "pos": "RB",
+   "group": "RB",
+   "weekly": [
+    {
+     "week": 1,
+     "avg": 5.6,
+     "source": "stats"
+    },
+    {
+     "week": 2,
+     "avg": 5.7,
+     "source": "stats"
+    }
+   ],
+   "votes": 0,
+   "involvement": 3.0,
+   "avg": 5.65,
+   "games": 2,
+   "source": "stats",
+   "trend": null
+  },
+  {
+   "name": "Jaylen Warren",
+   "pos": "RB",
+   "group": "RB",
+   "weekly": [
+    {
+     "week": 1,
+     "avg": 6.7,
+     "source": "stats"
+    },
+    {
+     "week": 2,
+     "avg": 7.3,
+     "source": "stats"
+    },
+    {
+     "week": 3,
+     "avg": 9.0,
+     "source": "stats"
+    },
+    {
+     "week": 4,
+     "avg": 8.3,
+     "source": "stats"
+    },
+    {
+     "week": 5,
+     "avg": 9.6,
+     "source": "stats"
+    }
+   ],
+   "votes": 0,
+   "involvement": 96.0,
+   "avg": 8.18,
+   "games": 5,
+   "source": "stats",
+   "trend": 1.3
+  },
+  {
+   "name": "Lew Nichols III",
+   "pos": "RB",
+   "group": "RB",
+   "weekly": [
+    {
+     "week": 3,
+     "avg": 5.5,
+     "source": "stats"
+    },
+    {
+     "week": 4,
+     "avg": 5.8,
+     "source": "stats"
+    },
+    {
+     "week": 5,
+     "avg": 5.7,
+     "source": "stats"
+    }
+   ],
+   "votes": 0,
+   "involvement": 4.0,
+   "avg": 5.67,
+   "games": 3,
+   "source": "stats",
+   "trend": -0.1
+  },
+  {
+   "name": "Rico Dowdle",
+   "pos": "RB",
+   "group": "RB",
+   "weekly": [
+    {
+     "week": 1,
+     "avg": 5.9,
+     "source": "stats"
+    },
+    {
+     "week": 2,
+     "avg": 6.8,
+     "source": "stats"
+    }
+   ],
+   "votes": 0,
+   "involvement": 22.0,
+   "avg": 6.35,
+   "games": 2,
+   "source": "stats",
+   "trend": null
+  },
+  {
+   "name": "Riley Nowakowski",
+   "pos": "FB",
+   "group": "RB",
+   "weekly": [
+    {
+     "week": 1,
+     "avg": 5.8,
+     "source": "stats"
+    },
+    {
+     "week": 5,
+     "avg": 5.7,
+     "source": "stats"
+    }
+   ],
+   "votes": 0,
+   "involvement": 3.0,
+   "avg": 5.75,
+   "games": 2,
+   "source": "stats",
+   "trend": null
+  },
+  {
+   "name": "Travis Homer",
+   "pos": "RB",
+   "group": "RB",
+   "weekly": [
+    {
+     "week": 2,
+     "avg": 5.9,
+     "source": "stats"
+    },
+    {
+     "week": 3,
+     "avg": 5.7,
+     "source": "stats"
+    },
+    {
+     "week": 4,
+     "avg": 5.5,
+     "source": "stats"
+    }
+   ],
+   "votes": 0,
+   "involvement": 6.0,
+   "avg": 5.7,
+   "games": 3,
+   "source": "stats",
+   "trend": null
+  },
+  {
+   "name": "Ben Skowronek",
+   "pos": "WR",
+   "group": "WR",
+   "weekly": [
+    {
+     "week": 2,
+     "avg": 5.7,
+     "source": "stats"
+    },
+    {
+     "week": 3,
+     "avg": 6.8,
+     "source": "stats"
+    },
+    {
+     "week": 4,
+     "avg": 5.7,
+     "source": "stats"
+    }
+   ],
+   "votes": 0,
+   "involvement": 4.0,
+   "avg": 6.07,
+   "games": 3,
+   "source": "stats",
+   "trend": null
+  },
+  {
+   "name": "DK Metcalf",
+   "pos": "WR",
+   "group": "WR",
+   "weekly": [
+    {
+     "week": 1,
+     "avg": 6.3,
+     "source": "stats"
+    },
+    {
+     "week": 2,
+     "avg": 6.1,
+     "source": "stats"
+    },
+    {
+     "week": 3,
+     "avg": 7.0,
+     "source": "stats"
+    },
+    {
+     "week": 4,
+     "avg": 8.2,
+     "source": "stats"
+    },
+    {
+     "week": 5,
+     "avg": 6.3,
+     "source": "stats"
+    }
+   ],
+   "votes": 0,
+   "involvement": 38.0,
+   "avg": 6.78,
+   "games": 5,
+   "source": "stats",
+   "trend": -1.9
+  },
+  {
+   "name": "Germie Bernard",
+   "pos": "WR",
+   "group": "WR",
+   "weekly": [
+    {
+     "week": 2,
+     "avg": 6.4,
+     "source": "stats"
+    },
+    {
+     "week": 3,
+     "avg": 6.0,
+     "source": "stats"
+    },
+    {
+     "week": 4,
+     "avg": 6.0,
+     "source": "stats"
+    },
+    {
+     "week": 5,
+     "avg": 7.7,
+     "source": "stats"
+    }
+   ],
+   "votes": 0,
+   "involvement": 21.0,
+   "avg": 6.53,
+   "games": 4,
+   "source": "stats",
+   "trend": 1.7
+  },
+  {
+   "name": "Michael Pittman",
+   "pos": "WR",
+   "group": "WR",
+   "weekly": [
+    {
+     "week": 1,
+     "avg": 7.2,
+     "source": "stats"
+    },
+    {
+     "week": 3,
+     "avg": 5.8,
+     "source": "stats"
+    },
+    {
+     "week": 4,
+     "avg": 6.0,
+     "source": "stats"
+    }
+   ],
+   "votes": 0,
+   "involvement": 13.0,
+   "avg": 6.33,
+   "games": 3,
+   "source": "stats",
+   "trend": null
+  },
+  {
+   "name": "Roman Wilson",
+   "pos": "WR",
+   "group": "WR",
+   "weekly": [
+    {
+     "week": 1,
+     "avg": 6.2,
+     "source": "stats"
+    },
+    {
+     "week": 2,
+     "avg": 6.6,
+     "source": "stats"
+    },
+    {
+     "week": 3,
+     "avg": 7.5,
+     "source": "stats"
+    },
+    {
+     "week": 4,
+     "avg": 7.9,
+     "source": "stats"
+    },
+    {
+     "week": 5,
+     "avg": 5.4,
+     "source": "stats"
+    }
+   ],
+   "votes": 0,
+   "involvement": 26.0,
+   "avg": 6.72,
+   "games": 5,
+   "source": "stats",
+   "trend": -2.5
+  },
+  {
+   "name": "Darnell Washington",
+   "pos": "TE",
+   "group": "TE",
+   "weekly": [
+    {
+     "week": 1,
+     "avg": 6.2,
+     "source": "stats"
+    },
+    {
+     "week": 2,
+     "avg": 5.7,
+     "source": "stats"
+    },
+    {
+     "week": 3,
+     "avg": 7.3,
+     "source": "stats"
+    },
+    {
+     "week": 4,
+     "avg": 6.9,
+     "source": "stats"
+    },
+    {
+     "week": 5,
+     "avg": 5.9,
+     "source": "stats"
+    }
+   ],
+   "votes": 0,
+   "involvement": 16.0,
+   "avg": 6.4,
+   "games": 5,
+   "source": "stats",
+   "trend": -1.0
+  },
+  {
+   "name": "Pat Freiermuth",
+   "pos": "TE",
+   "group": "TE",
+   "weekly": [
+    {
+     "week": 1,
+     "avg": 7.6,
+     "source": "stats"
+    },
+    {
+     "week": 2,
+     "avg": 6.7,
+     "source": "stats"
+    },
+    {
+     "week": 3,
+     "avg": 6.3,
+     "source": "stats"
+    },
+    {
+     "week": 4,
+     "avg": 6.6,
+     "source": "stats"
+    },
+    {
+     "week": 5,
+     "avg": 7.9,
+     "source": "stats"
+    }
+   ],
+   "votes": 0,
+   "involvement": 29.0,
+   "avg": 7.02,
+   "games": 5,
+   "source": "stats",
+   "trend": 1.3
+  },
+  {
+   "name": "Robert Tonyan",
+   "pos": "TE",
+   "group": "TE",
+   "weekly": [
+    {
+     "week": 3,
+     "avg": 5.7,
+     "source": "stats"
+    }
+   ],
+   "votes": 0,
+   "involvement": 1.0,
+   "avg": 5.7,
+   "games": 1,
+   "source": "stats",
+   "trend": null
+  },
+  {
+   "name": "Cameron Heyward",
+   "pos": "DT",
+   "group": "DL",
+   "weekly": [
+    {
+     "week": 1,
+     "avg": 7.1,
+     "source": "stats"
+    },
+    {
+     "week": 2,
+     "avg": 6.7,
+     "source": "stats"
+    },
+    {
+     "week": 3,
+     "avg": 6.3,
+     "source": "stats"
+    },
+    {
+     "week": 4,
+     "avg": 6.8,
+     "source": "stats"
+    },
+    {
+     "week": 5,
+     "avg": 7.5,
+     "source": "stats"
+    }
+   ],
+   "votes": 0,
+   "involvement": 26.0,
+   "avg": 6.88,
+   "games": 5,
+   "source": "stats",
+   "trend": 0.7
+  },
+  {
+   "name": "Derrick Harmon",
+   "pos": "DT",
+   "group": "DL",
+   "weekly": [
+    {
+     "week": 1,
+     "avg": 6.0,
+     "source": "stats"
+    },
+    {
+     "week": 2,
+     "avg": 7.4,
+     "source": "stats"
+    },
+    {
+     "week": 3,
+     "avg": 7.3,
+     "source": "stats"
+    }
+   ],
+   "votes": 0,
+   "involvement": 14.0,
+   "avg": 6.9,
+   "games": 3,
+   "source": "stats",
+   "trend": null
+  },
+  {
+   "name": "Gabe Rubio",
+   "pos": "DE",
+   "group": "DL",
+   "weekly": [
+    {
+     "week": 5,
+     "avg": 6.0,
+     "source": "stats"
+    }
+   ],
+   "votes": 0,
+   "involvement": 3.0,
+   "avg": 6.0,
+   "games": 1,
+   "source": "stats",
+   "trend": null
+  },
+  {
+   "name": "Keeanu Benton",
+   "pos": "DT",
+   "group": "DL",
+   "weekly": [
+    {
+     "week": 1,
+     "avg": 6.0,
+     "source": "stats"
+    },
+    {
+     "week": 2,
+     "avg": 6.0,
+     "source": "stats"
+    },
+    {
+     "week": 3,
+     "avg": 5.8,
+     "source": "stats"
+    },
+    {
+     "week": 4,
+     "avg": 6.0,
+     "source": "stats"
+    },
+    {
+     "week": 5,
+     "avg": 6.7,
+     "source": "stats"
+    }
+   ],
+   "votes": 0,
+   "involvement": 15.0,
+   "avg": 6.1,
+   "games": 5,
+   "source": "stats",
+   "trend": 0.7
+  },
+  {
+   "name": "Sebastian Joseph-Day",
+   "pos": "DE",
+   "group": "DL",
+   "weekly": [
+    {
+     "week": 1,
+     "avg": 5.8,
+     "source": "stats"
+    },
+    {
+     "week": 2,
+     "avg": 6.1,
+     "source": "stats"
+    },
+    {
+     "week": 3,
+     "avg": 5.8,
+     "source": "stats"
+    },
+    {
+     "week": 4,
+     "avg": 5.8,
+     "source": "stats"
+    },
+    {
+     "week": 5,
+     "avg": 6.0,
+     "source": "stats"
+    }
+   ],
+   "votes": 0,
+   "involvement": 9.0,
+   "avg": 5.9,
+   "games": 5,
+   "source": "stats",
+   "trend": 0.2
+  },
+  {
+   "name": "Yahya Black",
+   "pos": "DT",
+   "group": "DL",
+   "weekly": [
+    {
+     "week": 3,
+     "avg": 6.1,
+     "source": "stats"
+    },
+    {
+     "week": 4,
+     "avg": 6.3,
+     "source": "stats"
+    },
+    {
+     "week": 5,
+     "avg": 6.4,
+     "source": "stats"
+    }
+   ],
+   "votes": 0,
+   "involvement": 12.0,
+   "avg": 6.27,
+   "games": 3,
+   "source": "stats",
+   "trend": 0.1
+  },
+  {
+   "name": "Alex Highsmith",
+   "pos": "OLB",
+   "group": "LB",
+   "weekly": [
+    {
+     "week": 1,
+     "avg": 8.7,
+     "source": "stats"
+    },
+    {
+     "week": 2,
+     "avg": 8.5,
+     "source": "stats"
+    },
+    {
+     "week": 5,
+     "avg": 5.8,
+     "source": "stats"
+    }
+   ],
+   "votes": 0,
+   "involvement": 14.0,
+   "avg": 7.67,
+   "games": 3,
+   "source": "stats",
+   "trend": null
+  },
+  {
+   "name": "Carson Bruener",
+   "pos": "ILB",
+   "group": "LB",
+   "weekly": [
+    {
+     "week": 1,
+     "avg": 5.8,
+     "source": "stats"
+    },
+    {
+     "week": 3,
+     "avg": 5.8,
+     "source": "stats"
+    },
+    {
+     "week": 5,
+     "avg": 5.7,
+     "source": "stats"
+    }
+   ],
+   "votes": 0,
+   "involvement": 5.0,
+   "avg": 5.77,
+   "games": 3,
+   "source": "stats",
+   "trend": null
+  },
+  {
+   "name": "Cole Holcomb",
+   "pos": "ILB",
+   "group": "LB",
+   "weekly": [
+    {
+     "week": 1,
+     "avg": 5.7,
+     "source": "stats"
+    },
+    {
+     "week": 2,
+     "avg": 5.7,
+     "source": "stats"
+    },
+    {
+     "week": 3,
+     "avg": 5.7,
+     "source": "stats"
+    },
+    {
+     "week": 4,
+     "avg": 6.0,
+     "source": "stats"
+    },
+    {
+     "week": 5,
+     "avg": 5.7,
+     "source": "stats"
+    }
+   ],
+   "votes": 0,
+   "involvement": 7.0,
+   "avg": 5.76,
+   "games": 5,
+   "source": "stats",
+   "trend": -0.3
+  },
+  {
+   "name": "Jack Sawyer",
+   "pos": "OLB",
+   "group": "LB",
+   "weekly": [
+    {
+     "week": 1,
+     "avg": 6.1,
+     "source": "stats"
+    },
+    {
+     "week": 3,
+     "avg": 5.8,
+     "source": "stats"
+    },
+    {
+     "week": 4,
+     "avg": 6.5,
+     "source": "stats"
+    },
+    {
+     "week": 5,
+     "avg": 6.1,
+     "source": "stats"
+    }
+   ],
+   "votes": 0,
+   "involvement": 14.0,
+   "avg": 6.12,
+   "games": 4,
+   "source": "stats",
+   "trend": -0.4
+  },
+  {
+   "name": "Nick Herbig",
+   "pos": "OLB",
+   "group": "LB",
+   "weekly": [
+    {
+     "week": 1,
+     "avg": 6.1,
+     "source": "stats"
+    },
+    {
+     "week": 2,
+     "avg": 7.4,
+     "source": "stats"
+    },
+    {
+     "week": 3,
+     "avg": 5.7,
+     "source": "stats"
+    },
+    {
+     "week": 4,
+     "avg": 5.8,
+     "source": "stats"
+    }
+   ],
+   "votes": 0,
+   "involvement": 11.0,
+   "avg": 6.25,
+   "games": 4,
+   "source": "stats",
+   "trend": null
+  },
+  {
+   "name": "Patrick Queen",
+   "pos": "ILB",
+   "group": "LB",
+   "weekly": [
+    {
+     "week": 1,
+     "avg": 6.6,
+     "source": "stats"
+    },
+    {
+     "week": 2,
+     "avg": 7.6,
+     "source": "stats"
+    },
+    {
+     "week": 3,
+     "avg": 8.0,
+     "source": "stats"
+    },
+    {
+     "week": 4,
+     "avg": 6.3,
+     "source": "stats"
+    },
+    {
+     "week": 5,
+     "avg": 6.6,
+     "source": "stats"
+    }
+   ],
+   "votes": 0,
+   "involvement": 37.0,
+   "avg": 7.02,
+   "games": 5,
+   "source": "stats",
+   "trend": 0.3
+  },
+  {
+   "name": "Payton Wilson",
+   "pos": "ILB",
+   "group": "LB",
+   "weekly": [
+    {
+     "week": 1,
+     "avg": 8.0,
+     "source": "stats"
+    },
+    {
+     "week": 2,
+     "avg": 6.8,
+     "source": "stats"
+    },
+    {
+     "week": 3,
+     "avg": 6.8,
+     "source": "stats"
+    },
+    {
+     "week": 4,
+     "avg": 8.2,
+     "source": "stats"
+    },
+    {
+     "week": 5,
+     "avg": 8.0,
+     "source": "stats"
+    }
+   ],
+   "votes": 0,
+   "involvement": 46.0,
+   "avg": 7.56,
+   "games": 5,
+   "source": "stats",
+   "trend": -0.2
+  },
+  {
+   "name": "T.J. Watt",
+   "pos": "OLB",
+   "group": "LB",
+   "weekly": [
+    {
+     "week": 1,
+     "avg": 9.7,
+     "source": "stats"
+    },
+    {
+     "week": 2,
+     "avg": 8.2,
+     "source": "stats"
+    },
+    {
+     "week": 3,
+     "avg": 6.0,
+     "source": "stats"
+    },
+    {
+     "week": 4,
+     "avg": 8.4,
+     "source": "stats"
+    }
+   ],
+   "votes": 0,
+   "involvement": 23.0,
+   "avg": 8.07,
+   "games": 4,
+   "source": "stats",
+   "trend": null
+  },
+  {
+   "name": "Asante Samuel Jr.",
+   "pos": "CB",
+   "group": "DB",
+   "weekly": [
+    {
+     "week": 1,
+     "avg": 5.7,
+     "source": "stats"
+    },
+    {
+     "week": 2,
+     "avg": 6.7,
+     "source": "stats"
+    },
+    {
+     "week": 3,
+     "avg": 6.2,
+     "source": "stats"
+    },
+    {
+     "week": 4,
+     "avg": 6.4,
+     "source": "stats"
+    },
+    {
+     "week": 5,
+     "avg": 7.6,
+     "source": "stats"
+    }
+   ],
+   "votes": 0,
+   "involvement": 22.0,
+   "avg": 6.52,
+   "games": 5,
+   "source": "stats",
+   "trend": 1.2
+  },
+  {
+   "name": "Brandin Echols",
+   "pos": "CB",
+   "group": "DB",
+   "weekly": [
+    {
+     "week": 3,
+     "avg": 5.8,
+     "source": "stats"
+    },
+    {
+     "week": 5,
+     "avg": 5.8,
+     "source": "stats"
+    }
+   ],
+   "votes": 0,
+   "involvement": 4.0,
+   "avg": 5.8,
+   "games": 2,
+   "source": "stats",
+   "trend": null
+  },
+  {
+   "name": "Daylen Everette",
+   "pos": "CB",
+   "group": "DB",
+   "weekly": [
+    {
+     "week": 1,
+     "avg": 5.7,
+     "source": "stats"
+    },
+    {
+     "week": 3,
+     "avg": 6.1,
+     "source": "stats"
+    },
+    {
+     "week": 4,
+     "avg": 6.4,
+     "source": "stats"
+    },
+    {
+     "week": 5,
+     "avg": 7.2,
+     "source": "stats"
+    }
+   ],
+   "votes": 0,
+   "involvement": 15.0,
+   "avg": 6.35,
+   "games": 4,
+   "source": "stats",
+   "trend": 0.8
+  },
+  {
+   "name": "Doneiko Slaughter",
+   "pos": "CB",
+   "group": "DB",
+   "weekly": [
+    {
+     "week": 3,
+     "avg": 5.8,
+     "source": "stats"
+    },
+    {
+     "week": 5,
+     "avg": 5.7,
+     "source": "stats"
+    }
+   ],
+   "votes": 0,
+   "involvement": 3.0,
+   "avg": 5.75,
+   "games": 2,
+   "source": "stats",
+   "trend": null
+  },
+  {
+   "name": "Jalen Ramsey",
+   "pos": "CB",
+   "group": "DB",
+   "weekly": [
+    {
+     "week": 1,
+     "avg": 6.5,
+     "source": "stats"
+    },
+    {
+     "week": 2,
+     "avg": 6.3,
+     "source": "stats"
+    },
+    {
+     "week": 3,
+     "avg": 6.9,
+     "source": "stats"
+    },
+    {
+     "week": 4,
+     "avg": 5.7,
+     "source": "stats"
+    },
+    {
+     "week": 5,
+     "avg": 7.2,
+     "source": "stats"
+    }
+   ],
+   "votes": 0,
+   "involvement": 28.0,
+   "avg": 6.52,
+   "games": 5,
+   "source": "stats",
+   "trend": 1.5
+  },
+  {
+   "name": "Jamel Dean",
+   "pos": "CB",
+   "group": "DB",
+   "weekly": [
+    {
+     "week": 1,
+     "avg": 6.3,
+     "source": "stats"
+    },
+    {
+     "week": 2,
+     "avg": 6.0,
+     "source": "stats"
+    },
+    {
+     "week": 3,
+     "avg": 6.7,
+     "source": "stats"
+    },
+    {
+     "week": 4,
+     "avg": 6.1,
+     "source": "stats"
+    }
+   ],
+   "votes": 0,
+   "involvement": 16.0,
+   "avg": 6.28,
+   "games": 4,
+   "source": "stats",
+   "trend": null
+  },
+  {
+   "name": "Jaquan Brisker",
+   "pos": "SS",
+   "group": "DB",
+   "weekly": [
+    {
+     "week": 1,
+     "avg": 8.0,
+     "source": "stats"
+    },
+    {
+     "week": 2,
+     "avg": 6.4,
+     "source": "stats"
+    },
+    {
+     "week": 3,
+     "avg": 6.7,
+     "source": "stats"
+    },
+    {
+     "week": 4,
+     "avg": 6.6,
+     "source": "stats"
+    },
+    {
+     "week": 5,
+     "avg": 7.3,
+     "source": "stats"
+    }
+   ],
+   "votes": 0,
+   "involvement": 38.0,
+   "avg": 7.0,
+   "games": 5,
+   "source": "stats",
+   "trend": 0.7
+  },
+  {
+   "name": "Rayshawn Jenkins",
+   "pos": "SS",
+   "group": "DB",
+   "weekly": [
+    {
+     "week": 1,
+     "avg": 5.8,
+     "source": "stats"
+    },
+    {
+     "week": 2,
+     "avg": 6.3,
+     "source": "stats"
+    },
+    {
+     "week": 3,
+     "avg": 6.8,
+     "source": "stats"
+    }
+   ],
+   "votes": 0,
+   "involvement": 16.0,
+   "avg": 6.3,
+   "games": 3,
+   "source": "stats",
+   "trend": null
+  },
+  {
+   "name": "Robert Spears-Jennings",
+   "pos": "FS",
+   "group": "DB",
+   "weekly": [
+    {
+     "week": 1,
+     "avg": 6.0,
+     "source": "stats"
+    },
+    {
+     "week": 2,
+     "avg": 6.1,
+     "source": "stats"
+    },
+    {
+     "week": 3,
+     "avg": 5.7,
+     "source": "stats"
+    },
+    {
+     "week": 4,
+     "avg": 8.4,
+     "source": "stats"
+    },
+    {
+     "week": 5,
+     "avg": 5.7,
+     "source": "stats"
+    }
+   ],
+   "votes": 0,
+   "involvement": 19.0,
+   "avg": 6.38,
+   "games": 5,
+   "source": "stats",
+   "trend": -2.7
+  },
+  {
+   "name": "Cameron Johnston",
+   "pos": "P",
+   "group": "ST",
+   "weekly": [
+    {
+     "week": 1,
+     "avg": 6.1,
+     "source": "stats"
+    },
+    {
+     "week": 2,
+     "avg": 6.4,
+     "source": "stats"
+    },
+    {
+     "week": 3,
+     "avg": 6.3,
+     "source": "stats"
+    },
+    {
+     "week": 4,
+     "avg": 6.8,
+     "source": "stats"
+    },
+    {
+     "week": 5,
+     "avg": 6.4,
+     "source": "stats"
+    }
+   ],
+   "votes": 0,
+   "involvement": 22.0,
+   "avg": 6.4,
+   "games": 5,
+   "source": "stats",
+   "trend": -0.4
+  },
+  {
+   "name": "Chris Boswell",
+   "pos": "K",
+   "group": "ST",
+   "weekly": [
+    {
+     "week": 1,
+     "avg": 5.3,
+     "source": "stats"
+    },
+    {
+     "week": 2,
+     "avg": 5.2,
+     "source": "stats"
+    },
+    {
+     "week": 3,
+     "avg": 6.7,
+     "source": "stats"
+    },
+    {
+     "week": 4,
+     "avg": 4.9,
+     "source": "stats"
+    },
+    {
+     "week": 5,
+     "avg": 6.6,
+     "source": "stats"
+    }
+   ],
+   "votes": 0,
+   "involvement": 22.0,
+   "avg": 5.74,
+   "games": 5,
+   "source": "stats",
+   "trend": 1.7
+  },
+  {
+   "name": "Kaden Wetjen",
+   "pos": "KR/PR",
+   "group": "ST",
+   "weekly": [
+    {
+     "week": 1,
+     "avg": 5.5,
+     "source": "stats"
+    },
+    {
+     "week": 2,
+     "avg": 6.0,
+     "source": "stats"
+    },
+    {
+     "week": 3,
+     "avg": 5.0,
+     "source": "stats"
+    },
+    {
+     "week": 4,
+     "avg": 6.7,
+     "source": "stats"
+    },
+    {
+     "week": 5,
+     "avg": 5.0,
+     "source": "stats"
+    }
+   ],
+   "votes": 0,
+   "involvement": 27.0,
+   "avg": 5.64,
+   "games": 5,
+   "source": "stats",
+   "trend": -1.7
+  }
+ ]
+}

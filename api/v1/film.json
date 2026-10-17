@@ -1,0 +1,233 @@
+{
+ "api_version": "1",
+ "dataset": "film",
+ "description": "Film breakdowns of the last game and previews of the next game (links).",
+ "generated": "2026-10-17T22:28:40+00:00",
+ "data_updated": "2026-10-17T22:28:33+00:00",
+ "count": 15,
+ "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
+ "rights": {
+  "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
+  "espn_derived": false,
+  "data_license": null,
+  "licensable_by_steelers_daily": "our summaries/tiers/rankings only",
+  "third_party_fields_not_licensed": [
+   "title",
+   "url"
+  ]
+ },
+ "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
+ "html": "https://blackandgolddispatch.com/#/film",
+ "items": [
+  {
+   "id": "03628d973dbc9681",
+   "type": "film_breakdown",
+   "game": "vs Indianapolis Colts (Oct 11)",
+   "title": "Film Room: Max Iheanachor Is Already Fixing His Biggest Issue",
+   "creator": "Steelers Depot Film Room (Alex Kozora)",
+   "url": "https://steelersdepot.com/2026/10/film-room-max-iheanachor-is-already-fixing-his-biggest-issue/",
+   "published": "2026-10-17T11:15:43+00:00",
+   "summary": "Film breakdown by Steelers Depot Film Room (Alex Kozora) of vs Indianapolis Colts (Oct 11).",
+   "source": {
+    "name": "Steelers Depot Film Room (Alex Kozora)",
+    "url": null
+   }
+  },
+  {
+   "id": "217e427fafa9847c",
+   "type": "film_breakdown",
+   "game": "vs Indianapolis Colts (Oct 11)",
+   "title": "Overall Grade vs Colts",
+   "creator": "Steelers Almighty",
+   "url": "https://www.youtube.com/watch?v=omOtoxTK19E",
+   "published": "2026-10-16T15:10:18+00:00",
+   "summary": "Film breakdown by Steelers Almighty of vs Indianapolis Colts (Oct 11).",
+   "source": {
+    "name": "Steelers Almighty",
+    "url": null
+   }
+  },
+  {
+   "id": "1c34151451b1cf62",
+   "type": "film_breakdown",
+   "game": "vs Indianapolis Colts (Oct 11)",
+   "title": "ST Grades vs Colts",
+   "creator": "Steelers Almighty",
+   "url": "https://www.youtube.com/watch?v=lQHr4XkRi0g",
+   "published": "2026-10-16T13:06:45+00:00",
+   "summary": "Film breakdown by Steelers Almighty of vs Indianapolis Colts (Oct 11).",
+   "source": {
+    "name": "Steelers Almighty",
+    "url": null
+   }
+  },
+  {
+   "id": "a3097c2bbdfeaa3d",
+   "type": "film_breakdown",
+   "game": "vs Indianapolis Colts (Oct 11)",
+   "title": "Defense Grades vs Colts",
+   "creator": "Steelers Almighty",
+   "url": "https://www.youtube.com/shorts/7d5k7Mntry4",
+   "published": "2026-10-16T11:07:30+00:00",
+   "summary": "Film breakdown by Steelers Almighty of vs Indianapolis Colts (Oct 11).",
+   "source": {
+    "name": "Steelers Almighty",
+    "url": null
+   }
+  },
+  {
+   "id": "c16c45277cfbbacf",
+   "type": "film_breakdown",
+   "game": "vs Indianapolis Colts (Oct 11)",
+   "title": "The Terrible Podcast — Steelers Vs. Colts All-22 Review, McCarthy Monday Recap, Week 6 WR Issues",
+   "creator": "Steelers Depot (YouTube)",
+   "url": "https://www.youtube.com/watch?v=t6YSD1i_je0",
+   "published": "2026-10-14T16:33:58+00:00",
+   "summary": "Film breakdown by Steelers Depot (YouTube) of vs Indianapolis Colts (Oct 11).",
+   "source": {
+    "name": "Steelers Depot (YouTube)",
+    "url": null
+   }
+  },
+  {
+   "id": "75a29bf8c07aa79d",
+   "type": "film_breakdown",
+   "game": "vs Indianapolis Colts (Oct 11)",
+   "title": "Film Room: Germie Bernard is EXACTLY What the Steelers Need!",
+   "creator": "Steelers_DB",
+   "url": "https://www.youtube.com/watch?v=VflwgbiXV1g",
+   "published": "2026-10-12T22:20:28+00:00",
+   "summary": "Film breakdown by Steelers_DB of vs Indianapolis Colts (Oct 11).",
+   "source": {
+    "name": "Steelers_DB",
+    "url": null
+   }
+  },
+  {
+   "id": "92dc5c742fdd400e",
+   "type": "film_breakdown",
+   "game": "vs Indianapolis Colts (Oct 11)",
+   "title": "Film Room: Gabriel Rubio Looks Strong In NFL Debut",
+   "creator": "Steelers Depot Film Room (Alex Kozora)",
+   "url": "https://steelersdepot.com/2026/10/film-room-gabriel-rubio-stands-strong-in-nfl-debut/",
+   "published": "2026-10-12T18:00:50+00:00",
+   "summary": "Film breakdown by Steelers Depot Film Room (Alex Kozora) of vs Indianapolis Colts (Oct 11).",
+   "source": {
+    "name": "Steelers Depot Film Room (Alex Kozora)",
+    "url": null
+   }
+  },
+  {
+   "id": "e205f3f15c13a576",
+   "type": "film_breakdown",
+   "game": "vs Indianapolis Colts (Oct 11)",
+   "title": "Film Room: Yahya Black Steps Up In Derrick Harmon’s Absence",
+   "creator": "Steelers Depot Film Room (Alex Kozora)",
+   "url": "https://steelersdepot.com/2026/10/film-room-yahya-black-steps-up-in-derrick-harmons-absence/",
+   "published": "2026-10-12T16:30:13+00:00",
+   "summary": "Film breakdown by Steelers Depot Film Room (Alex Kozora) of vs Indianapolis Colts (Oct 11).",
+   "source": {
+    "name": "Steelers Depot Film Room (Alex Kozora)",
+    "url": null
+   }
+  },
+  {
+   "id": "b33182a74f19e2bc",
+   "type": "film_preview",
+   "game": "at Tampa Bay Buccaneers (Oct 18)",
+   "title": "Steelers Afternoon Drive: Buccaneers Preview & Predictions",
+   "creator": "Steelers Now",
+   "url": "https://steelersnow.com/steelers-afternoon-drive-buccaneers-preview-predictions/",
+   "published": "2026-10-16T22:11:03+00:00",
+   "summary": "Preview by Steelers Now for at Tampa Bay Buccaneers (Oct 18).",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   }
+  },
+  {
+   "id": "866b9529b8393caa",
+   "type": "film_preview",
+   "game": "at Tampa Bay Buccaneers (Oct 18)",
+   "title": "How to pressure Tampa Bay | Playbook with Merril Hoge | Pittsburgh Steelers",
+   "creator": "Merril Hoge – Steelers Playbook (official)",
+   "url": "https://www.youtube.com/watch?v=9sQcJpz3j8M",
+   "published": "2026-10-16T22:00:07+00:00",
+   "summary": "Preview by Merril Hoge – Steelers Playbook (official) for at Tampa Bay Buccaneers (Oct 18).",
+   "source": {
+    "name": "Merril Hoge – Steelers Playbook (official)",
+    "url": null
+   }
+  },
+  {
+   "id": "4c0ee8c5b1abc53d",
+   "type": "film_preview",
+   "game": "at Tampa Bay Buccaneers (Oct 18)",
+   "title": "Steelers Look to String Together Back to Back Wins in Tampa | Scouting Report Week 6",
+   "creator": "Steelers Almighty",
+   "url": "https://www.youtube.com/watch?v=KJ2oZgYo4rQ",
+   "published": "2026-10-16T18:00:16+00:00",
+   "summary": "Preview by Steelers Almighty for at Tampa Bay Buccaneers (Oct 18).",
+   "source": {
+    "name": "Steelers Almighty",
+    "url": null
+   }
+  },
+  {
+   "id": "e450b81f54e669d9",
+   "type": "film_preview",
+   "game": "at Tampa Bay Buccaneers (Oct 18)",
+   "title": "The Terrible Podcast — Steelers Vs Buccaneers Game Preview, Trade Possibility, Injuries, W6 Picks",
+   "creator": "Steelers Depot (YouTube)",
+   "url": "https://www.youtube.com/watch?v=lHwxWzn_glI",
+   "published": "2026-10-16T15:33:32+00:00",
+   "summary": "Preview by Steelers Depot (YouTube) for at Tampa Bay Buccaneers (Oct 18).",
+   "source": {
+    "name": "Steelers Depot (YouTube)",
+    "url": null
+   }
+  },
+  {
+   "id": "876751250d6ab12b",
+   "type": "film_preview",
+   "game": "at Tampa Bay Buccaneers (Oct 18)",
+   "title": "Buccaneers Defense Scouting Report: Batten Down The Hatches To Beat The Blitz",
+   "creator": "Alex Kozora (Steelers Depot)",
+   "url": "https://steelersdepot.com/2026/10/buccaneers-defense-scouting-report-batten-down-the-hatches-down-to-beat-the-blitz/",
+   "published": "2026-10-16T13:30:10+00:00",
+   "summary": "Preview by Alex Kozora (Steelers Depot) for at Tampa Bay Buccaneers (Oct 18).",
+   "source": {
+    "name": "Alex Kozora (Steelers Depot)",
+    "url": null
+   }
+  },
+  {
+   "id": "68e6acf4a638cfee",
+   "type": "film_preview",
+   "game": "at Tampa Bay Buccaneers (Oct 18)",
+   "title": "Steelers-Buccaneers preview: What to expect from Tampa Bay’s offense, defense in Week 6",
+   "creator": "Behind the Steel Curtain",
+   "url": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-game-information/176163/steelers-buccaneers-preview-what-to-expect-from-tampa-bay-offense-defense-in-week-6-jalon-daniels-vita-vea",
+   "published": "2026-10-16T13:00:00+00:00",
+   "summary": "Preview by Behind the Steel Curtain for at Tampa Bay Buccaneers (Oct 18).",
+   "source": {
+    "name": "Behind the Steel Curtain",
+    "url": null
+   }
+  },
+  {
+   "id": "459435c52e5d27c0",
+   "type": "film_preview",
+   "game": "at Tampa Bay Buccaneers (Oct 18)",
+   "title": "Buccaneers Offense Scouting Report: Creative Runs, Safe Passes",
+   "creator": "Alex Kozora (Steelers Depot)",
+   "url": "https://steelersdepot.com/2026/10/buccaneers-offensive-scouting-report-creative-runs-safe-passes/",
+   "published": "2026-10-16T12:30:43+00:00",
+   "summary": "Preview by Alex Kozora (Steelers Depot) for at Tampa Bay Buccaneers (Oct 18).",
+   "source": {
+    "name": "Alex Kozora (Steelers Depot)",
+    "url": null
+   }
+  }
+ ]
+}

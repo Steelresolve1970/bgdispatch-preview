@@ -1,0 +1,101 @@
+{
+ "api_version": "1",
+ "dataset": "podcasts",
+ "description": "Today's Steelers podcast episodes and YouTube videos (links).",
+ "generated": "2026-10-17T22:28:40+00:00",
+ "data_updated": "2026-10-17T22:28:32+00:00",
+ "count": 6,
+ "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
+ "rights": {
+  "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
+  "espn_derived": false,
+  "data_license": null,
+  "licensable_by_steelers_daily": "our summaries/tiers/rankings only",
+  "third_party_fields_not_licensed": [
+   "title",
+   "url"
+  ]
+ },
+ "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
+ "html": "https://blackandgolddispatch.com/#/podcasts",
+ "items": [
+  {
+   "id": "e8601698da02948d",
+   "type": "video",
+   "title": "Steelers Insider featuring Mike McCarthy: Week 6 at Buccaneers | Pittsburgh Steelers",
+   "show": "Pittsburgh Steelers (official)",
+   "url": "https://www.youtube.com/watch?v=V9s6l38p68A",
+   "published": "2026-10-17T22:00:08+00:00",
+   "summary": "Video from Pittsburgh Steelers (official).",
+   "source": {
+    "name": "Pittsburgh Steelers (official)",
+    "url": null
+   }
+  },
+  {
+   "id": "963400aafcd863bc",
+   "type": "podcast_episode",
+   "title": "The Terrible Take - Episode 2053 - October 17, 2026",
+   "show": "The Terrible Podcast (Steelers Depot)",
+   "url": "https://megaphone.link/SDP9390482738",
+   "published": "2026-10-17T21:00:00+00:00",
+   "summary": "Podcast episode from The Terrible Podcast (Steelers Depot).",
+   "source": {
+    "name": "The Terrible Podcast (Steelers Depot)",
+    "url": null
+   }
+  },
+  {
+   "id": "2f8f99be2800c016",
+   "type": "video",
+   "title": "QB1 is Tampa Bound 🫡",
+   "show": "Pittsburgh Steelers (official)",
+   "url": "https://www.youtube.com/shorts/FcWE5B6vQkY",
+   "published": "2026-10-17T19:13:04+00:00",
+   "summary": "Video from Pittsburgh Steelers (official).",
+   "source": {
+    "name": "Pittsburgh Steelers (official)",
+    "url": null
+   }
+  },
+  {
+   "id": "f30006630f140648",
+   "type": "video",
+   "title": "TJ Watt & Sean Murphy-Bunting Press Conference (October 16) | Pittsburgh Steelers",
+   "show": "Pittsburgh Steelers (official)",
+   "url": "https://www.youtube.com/watch?v=J0z2eg6m38E",
+   "published": "2026-10-17T18:36:52+00:00",
+   "summary": "Video from Pittsburgh Steelers (official).",
+   "source": {
+    "name": "Pittsburgh Steelers (official)",
+    "url": null
+   }
+  },
+  {
+   "id": "6f9af3a9238dc009",
+   "type": "video",
+   "title": "Da beard to da house‼️ 📺: #PITvsTB 10/18 at 1 PM ET on CBS",
+   "show": "Pittsburgh Steelers (official)",
+   "url": "https://www.youtube.com/shorts/QAZA8gFhpx8",
+   "published": "2026-10-17T14:55:44+00:00",
+   "summary": "Video from Pittsburgh Steelers (official).",
+   "source": {
+    "name": "Pittsburgh Steelers (official)",
+    "url": null
+   }
+  },
+  {
+   "id": "936efff9306c53cb",
+   "type": "podcast_episode",
+   "title": "🔥 JAYLEN WARREN ON FIRE! CAN THE STEELERS SINK TAMPA BAY? | SF7P EPISODE 211 ⚫🟡",
+   "show": "Steelers for 7 Podcast",
+   "url": "https://podcasters.spotify.com/pod/show/steelersfor7podcast/episodes/JAYLEN-WARREN-ON-FIRE--CAN-THE-STEELERS-SINK-TAMPA-BAY---SF7P-EPISODE-211-e3qkqod",
+   "published": "2026-10-17T04:46:27+00:00",
+   "summary": "Podcast episode from Steelers for 7 Podcast.",
+   "source": {
+    "name": "Steelers for 7 Podcast",
+    "url": null
+   }
+  }
+ ]
+}

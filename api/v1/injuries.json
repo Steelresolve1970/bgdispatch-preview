@@ -1,0 +1,327 @@
+{
+ "api_version": "1",
+ "dataset": "injuries",
+ "description": "Current Steelers injury designations from the official NFL injury report and reserve lists (nflverse, CC-BY 4.0): status and injury.",
+ "generated": "2026-10-17T22:28:40+00:00",
+ "data_updated": "2026-10-17T22:28:35+00:00",
+ "count": 16,
+ "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
+ "rights": {
+  "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
+  "espn_derived": false,
+  "data_license": "CC-BY-4.0 (credit: Data: nflverse (CC-BY 4.0))",
+  "licensable_by_steelers_daily": "our summaries/tiers/rankings only",
+  "third_party_fields_not_licensed": [
+   "title",
+   "url"
+  ]
+ },
+ "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
+ "html": "https://blackandgolddispatch.com/#/injuries",
+ "items": [
+  {
+   "id": "3ff44d0fb9ab9a9b",
+   "type": "injury",
+   "player": "Ben Skowronek",
+   "position": "WR",
+   "jersey": "15",
+   "status": "Out",
+   "injury": "Calf",
+   "side": null,
+   "detail": null,
+   "estimated_return": null,
+   "updated": null,
+   "url": "https://www.nfl.com/injuries/",
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "f4eea866ba545eac",
+   "type": "injury",
+   "player": "DeShon Elliott",
+   "position": "S",
+   "jersey": "25",
+   "status": "Out",
+   "injury": "Knee",
+   "side": null,
+   "detail": null,
+   "estimated_return": null,
+   "updated": null,
+   "url": "https://www.nfl.com/injuries/",
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "c6457877d3db7a36",
+   "type": "injury",
+   "player": "Roman Wilson",
+   "position": "WR",
+   "jersey": "14",
+   "status": "Out",
+   "injury": "Finger",
+   "side": null,
+   "detail": null,
+   "estimated_return": null,
+   "updated": null,
+   "url": "https://www.nfl.com/injuries/",
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "f1d3fbb19a9347bf",
+   "type": "injury",
+   "player": "DK Metcalf",
+   "position": "WR",
+   "jersey": "4",
+   "status": "Questionable",
+   "injury": "Illness",
+   "side": null,
+   "detail": null,
+   "estimated_return": null,
+   "updated": null,
+   "url": "https://www.nfl.com/injuries/",
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "e24bef71e86af818",
+   "type": "injury",
+   "player": "Jalen Ramsey",
+   "position": "CB",
+   "jersey": "5",
+   "status": "Questionable",
+   "injury": "Wrist",
+   "side": null,
+   "detail": null,
+   "estimated_return": null,
+   "updated": null,
+   "url": "https://www.nfl.com/injuries/",
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "e5b207768c90197a",
+   "type": "injury",
+   "player": "Jamel Dean",
+   "position": "CB",
+   "jersey": "35",
+   "status": "Questionable",
+   "injury": "Ankle",
+   "side": null,
+   "detail": null,
+   "estimated_return": null,
+   "updated": null,
+   "url": "https://www.nfl.com/injuries/",
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "556daef3216e38e6",
+   "type": "injury",
+   "player": "Keeanu Benton",
+   "position": "DT",
+   "jersey": "95",
+   "status": "Questionable",
+   "injury": "Ankle",
+   "side": null,
+   "detail": null,
+   "estimated_return": null,
+   "updated": null,
+   "url": "https://www.nfl.com/injuries/",
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "1dc16aee2c38cf6b",
+   "type": "injury",
+   "player": "Rico Dowdle",
+   "position": "RB",
+   "jersey": "13",
+   "status": "Questionable",
+   "injury": "Toe",
+   "side": null,
+   "detail": null,
+   "estimated_return": null,
+   "updated": null,
+   "url": "https://www.nfl.com/injuries/",
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "100c70bcf1551cb4",
+   "type": "injury",
+   "player": "Cole Burgess",
+   "position": "WR",
+   "jersey": "85",
+   "status": "Injured Reserve",
+   "injury": null,
+   "side": null,
+   "detail": null,
+   "estimated_return": null,
+   "updated": null,
+   "url": "https://www.nfl.com/transactions/",
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "0124a4e3179bf419",
+   "type": "injury",
+   "player": "Daequan Hardy",
+   "position": "DB",
+   "jersey": "31",
+   "status": "Injured Reserve",
+   "injury": null,
+   "side": null,
+   "detail": null,
+   "estimated_return": null,
+   "updated": null,
+   "url": "https://www.nfl.com/transactions/",
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "a519f00a3bb40e3e",
+   "type": "injury",
+   "player": "Derrick Harmon",
+   "position": "DL",
+   "jersey": "99",
+   "status": "Injured Reserve",
+   "injury": null,
+   "side": null,
+   "detail": null,
+   "estimated_return": null,
+   "updated": null,
+   "url": "https://www.nfl.com/transactions/",
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "6767c13d38f37d4b",
+   "type": "injury",
+   "player": "Gennings Dunker",
+   "position": "OL",
+   "jersey": "73",
+   "status": "Injured Reserve",
+   "injury": null,
+   "side": null,
+   "detail": null,
+   "estimated_return": null,
+   "updated": null,
+   "url": "https://www.nfl.com/transactions/",
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "fffa4eb52be2c52f",
+   "type": "injury",
+   "player": "Jack Driscoll",
+   "position": "OL",
+   "jersey": "68",
+   "status": "Injured Reserve",
+   "injury": null,
+   "side": null,
+   "detail": null,
+   "estimated_return": null,
+   "updated": null,
+   "url": "https://www.nfl.com/transactions/",
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "6869b1e59e2e3c6b",
+   "type": "injury",
+   "player": "Logan Lee",
+   "position": "DL",
+   "jersey": "91",
+   "status": "Injured Reserve",
+   "injury": null,
+   "side": null,
+   "detail": null,
+   "estimated_return": null,
+   "updated": null,
+   "url": "https://www.nfl.com/transactions/",
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "34b18361e3e818b9",
+   "type": "injury",
+   "player": "Michael Pittman",
+   "position": "WR",
+   "jersey": "11",
+   "status": "Injured Reserve",
+   "injury": null,
+   "side": null,
+   "detail": null,
+   "estimated_return": null,
+   "updated": null,
+   "url": "https://www.nfl.com/transactions/",
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "03ee8b748700acaa",
+   "type": "injury",
+   "player": "Donte Kent",
+   "position": "DB",
+   "jersey": "34",
+   "status": "Physically Unable to Perform",
+   "injury": null,
+   "side": null,
+   "detail": null,
+   "estimated_return": null,
+   "updated": null,
+   "url": "https://www.nfl.com/transactions/",
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  }
+ ]
+}

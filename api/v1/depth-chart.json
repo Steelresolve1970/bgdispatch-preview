@@ -1,0 +1,933 @@
+{
+ "api_version": "1",
+ "dataset": "depth-chart",
+ "description": "Steelers depth chart by unit and position, 1st/2nd/3rd string with injury tags (nflverse, CC-BY 4.0).",
+ "generated": "2026-10-17T22:28:40+00:00",
+ "data_updated": "2026-10-17T22:28:35+00:00",
+ "count": 28,
+ "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
+ "rights": {
+  "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
+  "espn_derived": false,
+  "data_license": "CC-BY-4.0 (credit: Data: nflverse (CC-BY 4.0))",
+  "licensable_by_steelers_daily": "our summaries/tiers/rankings only",
+  "third_party_fields_not_licensed": [
+   "title",
+   "url"
+  ]
+ },
+ "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
+ "html": "https://blackandgolddispatch.com/#/rumors",
+ "items": [
+  {
+   "id": "61016b449c967913",
+   "type": "depth_position",
+   "unit": "Offense",
+   "formation": "3WR 1TE",
+   "slot": "QB",
+   "position": "Quarterback",
+   "players": [
+    {
+     "depth": 1,
+     "name": "Aaron Rodgers",
+     "jersey": "8",
+     "injury_status": null,
+     "url": null
+    },
+    {
+     "depth": 2,
+     "name": "Mason Rudolph",
+     "jersey": "2",
+     "injury_status": null,
+     "url": null
+    },
+    {
+     "depth": 3,
+     "name": "Will Howard",
+     "jersey": "18",
+     "injury_status": null,
+     "url": null
+    },
+    {
+     "depth": 4,
+     "name": "Drew Allar",
+     "jersey": "16",
+     "injury_status": null,
+     "url": null
+    }
+   ],
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "ac1697c7ff583d49",
+   "type": "depth_position",
+   "unit": "Offense",
+   "formation": "3WR 1TE",
+   "slot": "RB",
+   "position": "Running Back",
+   "players": [
+    {
+     "depth": 1,
+     "name": "Jaylen Warren",
+     "jersey": "30",
+     "injury_status": null,
+     "url": null
+    },
+    {
+     "depth": 2,
+     "name": "Rico Dowdle",
+     "jersey": "13",
+     "injury_status": "Questionable",
+     "url": null
+    },
+    {
+     "depth": 3,
+     "name": "Travis Homer",
+     "jersey": "21",
+     "injury_status": null,
+     "url": null
+    },
+    {
+     "depth": 4,
+     "name": "Eli Heidenreich",
+     "jersey": "29",
+     "injury_status": null,
+     "url": null
+    }
+   ],
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "219864bd8cb43455",
+   "type": "depth_position",
+   "unit": "Offense",
+   "formation": "3WR 1TE",
+   "slot": "FB",
+   "position": "Fullback",
+   "players": [
+    {
+     "depth": 1,
+     "name": "Riley Nowakowski",
+     "jersey": "37",
+     "injury_status": null,
+     "url": null
+    }
+   ],
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "19d63eabcca8bd2f",
+   "type": "depth_position",
+   "unit": "Offense",
+   "formation": "3WR 1TE",
+   "slot": "WR",
+   "position": "Wide Receiver",
+   "players": [
+    {
+     "depth": 1,
+     "name": "DK Metcalf",
+     "jersey": "4",
+     "injury_status": "Questionable",
+     "url": null
+    },
+    {
+     "depth": 2,
+     "name": "Ben Skowronek",
+     "jersey": "15",
+     "injury_status": "Out",
+     "url": null
+    },
+    {
+     "depth": 3,
+     "name": "Cole Burgess",
+     "jersey": "85",
+     "injury_status": "Injured Reserve",
+     "url": null
+    }
+   ],
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "a9d492b875005bdf",
+   "type": "depth_position",
+   "unit": "Offense",
+   "formation": "3WR 1TE",
+   "slot": "TE",
+   "position": "Tight End",
+   "players": [
+    {
+     "depth": 1,
+     "name": "Darnell Washington",
+     "jersey": "80",
+     "injury_status": null,
+     "url": null
+    },
+    {
+     "depth": 2,
+     "name": "Pat Freiermuth",
+     "jersey": "88",
+     "injury_status": null,
+     "url": null
+    },
+    {
+     "depth": 3,
+     "name": "Robert Tonyan",
+     "jersey": "85",
+     "injury_status": null,
+     "url": null
+    }
+   ],
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "a370fe1ce9000445",
+   "type": "depth_position",
+   "unit": "Offense",
+   "formation": "3WR 1TE",
+   "slot": "LT",
+   "position": "Left Tackle",
+   "players": [
+    {
+     "depth": 1,
+     "name": "Troy Fautanu",
+     "jersey": "76",
+     "injury_status": null,
+     "url": null
+    },
+    {
+     "depth": 2,
+     "name": "Dylan Cook",
+     "jersey": "60",
+     "injury_status": null,
+     "url": null
+    },
+    {
+     "depth": 3,
+     "name": "Jack Driscoll",
+     "jersey": "68",
+     "injury_status": "Injured Reserve",
+     "url": null
+    }
+   ],
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "6631c35eda4df551",
+   "type": "depth_position",
+   "unit": "Offense",
+   "formation": "3WR 1TE",
+   "slot": "LG",
+   "position": "Left Guard",
+   "players": [
+    {
+     "depth": 1,
+     "name": "Mason McCormick",
+     "jersey": "66",
+     "injury_status": null,
+     "url": null
+    },
+    {
+     "depth": 2,
+     "name": "Brock Hoffman",
+     "jersey": "67",
+     "injury_status": null,
+     "url": null
+    },
+    {
+     "depth": 3,
+     "name": "Gennings Dunker",
+     "jersey": "73",
+     "injury_status": "Injured Reserve",
+     "url": null
+    }
+   ],
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "bbb116746547364c",
+   "type": "depth_position",
+   "unit": "Offense",
+   "formation": "3WR 1TE",
+   "slot": "C",
+   "position": "Center",
+   "players": [
+    {
+     "depth": 1,
+     "name": "Zach Frazier",
+     "jersey": "54",
+     "injury_status": null,
+     "url": null
+    },
+    {
+     "depth": 2,
+     "name": "Ryan McCollum",
+     "jersey": "62",
+     "injury_status": null,
+     "url": null
+    }
+   ],
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "079a078eee61a60f",
+   "type": "depth_position",
+   "unit": "Offense",
+   "formation": "3WR 1TE",
+   "slot": "RG",
+   "position": "Right Guard",
+   "players": [
+    {
+     "depth": 1,
+     "name": "Brock Hoffman",
+     "jersey": "67",
+     "injury_status": null,
+     "url": null
+    },
+    {
+     "depth": 2,
+     "name": "Spencer Anderson",
+     "jersey": "74",
+     "injury_status": null,
+     "url": null
+    }
+   ],
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "aa5cb1f34f6472c9",
+   "type": "depth_position",
+   "unit": "Offense",
+   "formation": "3WR 1TE",
+   "slot": "RT",
+   "position": "Right Tackle",
+   "players": [
+    {
+     "depth": 1,
+     "name": "Max Iheanachor",
+     "jersey": "71",
+     "injury_status": null,
+     "url": null
+    },
+    {
+     "depth": 2,
+     "name": "Dylan Cook",
+     "jersey": "60",
+     "injury_status": null,
+     "url": null
+    }
+   ],
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "aa8d398c6fabc079",
+   "type": "depth_position",
+   "unit": "Defense",
+   "formation": "Base 3-4 D",
+   "slot": "LDE",
+   "position": "Left Defensive End",
+   "players": [
+    {
+     "depth": 1,
+     "name": "Yahya Black",
+     "jersey": "94",
+     "injury_status": null,
+     "url": null
+    },
+    {
+     "depth": 2,
+     "name": "Gabriel Rubio",
+     "jersey": null,
+     "injury_status": null,
+     "url": null
+    },
+    {
+     "depth": 3,
+     "name": "Derrick Harmon",
+     "jersey": "99",
+     "injury_status": "Injured Reserve",
+     "url": null
+    }
+   ],
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "7289b4e4011809b5",
+   "type": "depth_position",
+   "unit": "Defense",
+   "formation": "Base 3-4 D",
+   "slot": "NT",
+   "position": "Nose Tackle",
+   "players": [
+    {
+     "depth": 1,
+     "name": "Keeanu Benton",
+     "jersey": "95",
+     "injury_status": "Questionable",
+     "url": null
+    },
+    {
+     "depth": 2,
+     "name": "Sebastian Joseph-Day",
+     "jersey": "69",
+     "injury_status": null,
+     "url": null
+    }
+   ],
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "8616ff9f811f9aa6",
+   "type": "depth_position",
+   "unit": "Defense",
+   "formation": "Base 3-4 D",
+   "slot": "RDE",
+   "position": "Right Defensive End",
+   "players": [
+    {
+     "depth": 1,
+     "name": "Cameron Heyward",
+     "jersey": "97",
+     "injury_status": null,
+     "url": null
+    },
+    {
+     "depth": 2,
+     "name": "Kevin Jobity Jr.",
+     "jersey": "92",
+     "injury_status": null,
+     "url": null
+    },
+    {
+     "depth": 3,
+     "name": "Logan Lee",
+     "jersey": "91",
+     "injury_status": "Injured Reserve",
+     "url": null
+    }
+   ],
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "6d03866b679a810a",
+   "type": "depth_position",
+   "unit": "Defense",
+   "formation": "Base 3-4 D",
+   "slot": "WLB",
+   "position": "Weakside Linebacker",
+   "players": [
+    {
+     "depth": 1,
+     "name": "T.J. Watt",
+     "jersey": "90",
+     "injury_status": null,
+     "url": null
+    },
+    {
+     "depth": 2,
+     "name": "Nick Herbig",
+     "jersey": "51",
+     "injury_status": null,
+     "url": null
+    }
+   ],
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "1bc42d7c32809adc",
+   "type": "depth_position",
+   "unit": "Defense",
+   "formation": "Base 3-4 D",
+   "slot": "LILB",
+   "position": "Left Inside Linebacker",
+   "players": [
+    {
+     "depth": 1,
+     "name": "Payton Wilson",
+     "jersey": "41",
+     "injury_status": null,
+     "url": null
+    },
+    {
+     "depth": 2,
+     "name": "Cole Holcomb",
+     "jersey": "55",
+     "injury_status": null,
+     "url": null
+    }
+   ],
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "bd6d0c09028eaa53",
+   "type": "depth_position",
+   "unit": "Defense",
+   "formation": "Base 3-4 D",
+   "slot": "RILB",
+   "position": "Right Inside Linebacker",
+   "players": [
+    {
+     "depth": 1,
+     "name": "Patrick Queen",
+     "jersey": "6",
+     "injury_status": null,
+     "url": null
+    },
+    {
+     "depth": 2,
+     "name": "Carson Bruener",
+     "jersey": "44",
+     "injury_status": null,
+     "url": null
+    }
+   ],
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "1eb4ec5b74fcb0fe",
+   "type": "depth_position",
+   "unit": "Defense",
+   "formation": "Base 3-4 D",
+   "slot": "SLB",
+   "position": "Strongside Linebacker",
+   "players": [
+    {
+     "depth": 1,
+     "name": "Alex Highsmith",
+     "jersey": "56",
+     "injury_status": null,
+     "url": null
+    },
+    {
+     "depth": 2,
+     "name": "Jack Sawyer",
+     "jersey": "33",
+     "injury_status": null,
+     "url": null
+    }
+   ],
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "4eab606c7cdbcd5a",
+   "type": "depth_position",
+   "unit": "Defense",
+   "formation": "Base 3-4 D",
+   "slot": "LCB",
+   "position": "Left Cornerback",
+   "players": [
+    {
+     "depth": 1,
+     "name": "Asante Samuel Jr.",
+     "jersey": "22",
+     "injury_status": null,
+     "url": null
+    },
+    {
+     "depth": 2,
+     "name": "Sean Murphy-Bunting",
+     "jersey": "27",
+     "injury_status": null,
+     "url": null
+    },
+    {
+     "depth": 3,
+     "name": "Terell Smith",
+     "jersey": "39",
+     "injury_status": null,
+     "url": null
+    }
+   ],
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "f659fc38d31b344a",
+   "type": "depth_position",
+   "unit": "Defense",
+   "formation": "Base 3-4 D",
+   "slot": "SS",
+   "position": "Strong Safety",
+   "players": [
+    {
+     "depth": 1,
+     "name": "Robert Spears-Jennings",
+     "jersey": "28",
+     "injury_status": null,
+     "url": null
+    },
+    {
+     "depth": 2,
+     "name": "DeShon Elliott",
+     "jersey": "25",
+     "injury_status": "Out",
+     "url": null
+    }
+   ],
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "5044d5aaf8870343",
+   "type": "depth_position",
+   "unit": "Defense",
+   "formation": "Base 3-4 D",
+   "slot": "FS",
+   "position": "Free Safety",
+   "players": [
+    {
+     "depth": 1,
+     "name": "Jaquan Brisker",
+     "jersey": "3",
+     "injury_status": null,
+     "url": null
+    },
+    {
+     "depth": 2,
+     "name": "Rayshawn Jenkins",
+     "jersey": "20",
+     "injury_status": null,
+     "url": null
+    }
+   ],
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "c28a426e2c7e6c0c",
+   "type": "depth_position",
+   "unit": "Defense",
+   "formation": "Base 3-4 D",
+   "slot": "RCB",
+   "position": "Right Cornerback",
+   "players": [
+    {
+     "depth": 1,
+     "name": "Jamel Dean",
+     "jersey": "35",
+     "injury_status": "Questionable",
+     "url": null
+    },
+    {
+     "depth": 2,
+     "name": "Daylen Everette",
+     "jersey": "23",
+     "injury_status": null,
+     "url": null
+    },
+    {
+     "depth": 3,
+     "name": "Doneiko Slaughter",
+     "jersey": "40",
+     "injury_status": null,
+     "url": null
+    },
+    {
+     "depth": 4,
+     "name": "Daequan Hardy",
+     "jersey": "31",
+     "injury_status": "Injured Reserve",
+     "url": null
+    }
+   ],
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "376e6a827f7f032b",
+   "type": "depth_position",
+   "unit": "Defense",
+   "formation": "Base 3-4 D",
+   "slot": "NB",
+   "position": "Nickel Back",
+   "players": [
+    {
+     "depth": 1,
+     "name": "Jalen Ramsey",
+     "jersey": "5",
+     "injury_status": "Questionable",
+     "url": null
+    },
+    {
+     "depth": 2,
+     "name": "Brandin Echols",
+     "jersey": "26",
+     "injury_status": null,
+     "url": null
+    },
+    {
+     "depth": 3,
+     "name": "Donte Kent",
+     "jersey": "34",
+     "injury_status": "Physically Unable to Perform",
+     "url": null
+    }
+   ],
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "588c0ba7f139cbc4",
+   "type": "depth_position",
+   "unit": "Special teams",
+   "formation": "Special Teams",
+   "slot": "PK",
+   "position": "Place kicker",
+   "players": [
+    {
+     "depth": 1,
+     "name": "Chris Boswell",
+     "jersey": "9",
+     "injury_status": null,
+     "url": null
+    }
+   ],
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "6fa39f8935ba60a2",
+   "type": "depth_position",
+   "unit": "Special teams",
+   "formation": "Special Teams",
+   "slot": "P",
+   "position": "Punter",
+   "players": [
+    {
+     "depth": 1,
+     "name": "Cameron Johnston",
+     "jersey": "19",
+     "injury_status": null,
+     "url": null
+    }
+   ],
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "f8d34f9337db8453",
+   "type": "depth_position",
+   "unit": "Special teams",
+   "formation": "Special Teams",
+   "slot": "H",
+   "position": "Holder",
+   "players": [
+    {
+     "depth": 1,
+     "name": "Cameron Johnston",
+     "jersey": "19",
+     "injury_status": null,
+     "url": null
+    }
+   ],
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "aefd4524090e1764",
+   "type": "depth_position",
+   "unit": "Special teams",
+   "formation": "Special Teams",
+   "slot": "PR",
+   "position": "Punt Returner",
+   "players": [
+    {
+     "depth": 1,
+     "name": "Kaden Wetjen",
+     "jersey": "10",
+     "injury_status": null,
+     "url": null
+    },
+    {
+     "depth": 2,
+     "name": "Roman Wilson",
+     "jersey": "14",
+     "injury_status": "Out",
+     "url": null
+    },
+    {
+     "depth": 3,
+     "name": "Rico Dowdle",
+     "jersey": "13",
+     "injury_status": "Questionable",
+     "url": null
+    },
+    {
+     "depth": 4,
+     "name": "Donte Kent",
+     "jersey": "34",
+     "injury_status": "Physically Unable to Perform",
+     "url": null
+    }
+   ],
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "694d6c0be5cfdf93",
+   "type": "depth_position",
+   "unit": "Special teams",
+   "formation": "Special Teams",
+   "slot": "KR",
+   "position": "Kick Returner",
+   "players": [
+    {
+     "depth": 1,
+     "name": "Kaden Wetjen",
+     "jersey": "10",
+     "injury_status": null,
+     "url": null
+    },
+    {
+     "depth": 2,
+     "name": "Eli Heidenreich",
+     "jersey": "29",
+     "injury_status": null,
+     "url": null
+    },
+    {
+     "depth": 3,
+     "name": "Roman Wilson",
+     "jersey": "14",
+     "injury_status": "Out",
+     "url": null
+    },
+    {
+     "depth": 4,
+     "name": "Rico Dowdle",
+     "jersey": "13",
+     "injury_status": "Questionable",
+     "url": null
+    },
+    {
+     "depth": 5,
+     "name": "Donte Kent",
+     "jersey": "34",
+     "injury_status": "Physically Unable to Perform",
+     "url": null
+    }
+   ],
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "af548ef3e85adf3d",
+   "type": "depth_position",
+   "unit": "Special teams",
+   "formation": "Special Teams",
+   "slot": "LS",
+   "position": "Long Snapper",
+   "players": [
+    {
+     "depth": 1,
+     "name": "Christian Kuntz",
+     "jersey": "46",
+     "injury_status": null,
+     "url": null
+    }
+   ],
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  }
+ ]
+}
