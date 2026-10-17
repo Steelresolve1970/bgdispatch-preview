@@ -66,10 +66,10 @@ async function loadAll(){await Promise.all(Object.entries(SRC).map(async([k,[u,f
 loadAll();setInterval(loadAll,5*60*1000);
 
 // hash router
-const TITLES={home:'News',podcasts:'Podcasts & YouTube',film:'Film Room',preview:'Film Preview',rumors:'Rumors & Roster',game:'Schedule',stats:'Stats',heatmap:'Player Heat Map',drafthub:'Draft',draft:'Mock Draft',college:'College Tracker',insiders:'Insiders',forum:'Forum',live:'Live Hub',injuries:'Injury Tracker',scout:'Opponent Scouting',cap:'Cap Center',rumormeter:'Rumor Meter',play:"Pick'em & Trivia",history:'Steelers History',alerts:'Alerts & Email'};
+const TITLES={home:'News',podcasts:'Podcasts & YouTube',film:'Film Room',preview:'Film Preview',rumors:'Rumors & Roster',game:'Schedule',stats:'Stats',heatmap:'Player Heat Map',drafthub:'Draft',draft:'Mock Draft',college:'College Prospect Tracker',insiders:'Insiders',forum:'Forum',live:'Live Hub',injuries:'Injury Tracker',scout:'Opponent Scouting',cap:'Cap Center',rumormeter:'Rumor Meter',play:"Pick'em & Trivia",history:'Steelers History',alerts:'Alerts & Email'};
 function route(){const r=(location.hash.replace(/^#\/?/,'')||'home').split('/')[0];const alias={grades:'heatmap'};const v=alias[r]||(TITLES[r]?r:'home');
  document.querySelectorAll('.view').forEach(e=>e.hidden=e.dataset.view!==v);
- {const ib=document.querySelector('.sidebar .insiders');if(ib)ib.style.display=v==='home'?'':'none';}
+ {const ib=document.querySelector('.sidebar .insiders');if(ib)ib.style.display=v==='home'?'':'none';} {const hs=document.querySelector('[aria-labelledby="huddleSide"]');if(hs)hs.style.display=v==='alerts'?'none':'';}
  document.querySelectorAll('nav a').forEach(a=>a.dataset.route===v?a.setAttribute('aria-current','page'):a.removeAttribute('aria-current'));document.querySelector('.more-btn')?.classList.toggle('cur',!!document.querySelector('.more a[aria-current]'));
  document.title=(v==='home'?'':TITLES[v]+' – ')+'Black & Gold Dispatch';document.body.classList.remove('nav-open');document.querySelector('.has-more')?.classList.remove('open');window.scrollTo(0,0);
  document.dispatchEvent(new CustomEvent('route',{detail:v}));
@@ -82,8 +82,9 @@ window.addEventListener('DOMContentLoaded',route);
 document.addEventListener('click',e=>{const m=document.querySelector('.has-more');if(!m)return;const bt=e.target.closest('.more-btn');if(bt){const o=m.classList.toggle('open');bt.setAttribute('aria-expanded',o);}else if(!e.target.closest('.more'))m.classList.remove('open');});
 
 // Per-section Schema.org JSON-LD for crawlers/agents (no visual change): loads jsonld/<route>.json into <head>.
+const JL=new Set(['college','drafthub','film','game','heatmap','home','injuries','live','podcasts','preview','rumormeter','rumors','scout','stats']);
 document.addEventListener('route',e=>{const v=e.detail==='home'?null:e.detail;let s=document.getElementById('ld-route');
- if(!v){s&&s.remove();return;}fetch('jsonld/'+v+'.json',{cache:'no-store'}).then(r=>r.ok?r.text():null).then(t=>{if(!t)return;if(!s){s=document.createElement('script');s.type='application/ld+json';s.id='ld-route';document.head.appendChild(s);}s.textContent=t;}).catch(()=>{});});
+ if(!v||!JL.has(v)){s&&s.remove();return;}fetch('jsonld/'+v+'.json',{cache:'no-store'}).then(r=>r.ok?r.text():null).then(t=>{if(!t)return;if(!s){s=document.createElement('script');s.type='application/ld+json';s.id='ld-route';document.head.appendChild(s);}s.textContent=t;}).catch(()=>{});});
 // Shared "chance available at Steelers pick" badge (estimate; data/draft/availability.json, method on the Draft tab).
 window.BGD_AV=null;fetch('data/draft/availability.json',{cache:'no-store'}).then(r=>r.json()).then(a=>{window.BGD_AV=a;document.dispatchEvent(new Event('bgd-avail'));}).catch(()=>{});
 window.availHTML=function(name,list){const a=list||(window.BGD_AV&&window.BGD_AV.players[name]&&window.BGD_AV.players[name].picks);if(!a)return'';
