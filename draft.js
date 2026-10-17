@@ -1,5 +1,6 @@
 // Mock Draft Simulator v2 — our own 2027 big board (data/draft/board.json), projected 7-round order + CPU team needs (data/draft/order.json).
 (function(){
+const COMPS_=new Proxy({},{get:(o,k)=>(window.COMPS||{})[k]});
 const E=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const POS=['QB','RB','WR','TE','OT','IOL','EDGE','DL','LB','CB','S'];
 const SPEEDS=[['Instant',0],['Fast',60],['Normal',300],['Slow',900]];
@@ -20,18 +21,44 @@ function snap(){return{cur:S.cur,avail:[...S.avail],slots:S.slots.map(s=>({...s}
 function step(){clearTimeout(S.timer);if(S.paused){render();return;}
  while(S.cur<S.slots.length&&!isUser(S.slots[S.cur])){take(S.slots[S.cur],cpuPick(S.slots[S.cur]));if(S.speed>0){S.phase='cpu';render();S.timer=setTimeout(step,S.speed);return;}}
  S.phase=S.cur>=S.slots.length?'done':'user';if(S.phase==='user')S.tab='board';render();}
-function pickGrade(s){const d=s.overall-s.player.rank;return d>=20?'A+':d>=8?'A':d>=-6?'B':d>=-20?'C':'D';}
-function teamGrade(a){const ps=mine(a);if(!ps.length)return null;let v=0;ps.forEach(s=>{v+=Math.max(-40,Math.min(40,s.overall-s.player.rank))/(1+s.round*0.35);const i=needs(a).indexOf(s.player.pos);if(i>=0)v+=(5-i)*0.8;});
- const x=v/ps.length;return x>=9?'A':x>=5?'A-':x>=2.5?'B+':x>=0?'B':x>=-3?'B-':x>=-7?'C+':x>=-12?'C':'D';}
+const LET=x=>x>=1.2?'A+':x>=0.7?'A':x>=0.4?'A-':x>=0.2?'B+':x>=0?'B':x>=-0.25?'B-':x>=-0.5?'C+':x>=-0.8?'C':x>=-1.2?'C-':x>=-1.7?'D':'F';
+// Value vs our board (scaled so a 10-spot reach in round 1 counts more than in round 6) + need fit.
+function pickScore(s){const p=s.player,d=s.overall-p.rank,sc=d/(4+0.22*s.overall);const i=needs(s.owner).indexOf(p.pos);return Math.max(-2.5,Math.min(2,sc))+(i>=0?(5-i)*0.06:-0.05);}
+function pickGrade(s){return LET(pickScore(s));}
+function teamGrade(a){const ps=mine(a);if(!ps.length)return null;let v=0,w=0;ps.forEach(s=>{const k=1/(1+s.round*0.3);v+=pickScore(s)*k;w+=k;});return LET(v/w);}
+const COL={ARI:'#97233F',ATL:'#A71930',BAL:'#241773',BUF:'#00338D',CAR:'#0085CA',CHI:'#0B162A',CIN:'#FB4F14',CLE:'#311D00',DAL:'#041E42',DEN:'#FB4F14',DET:'#0076B6',GB:'#203731',HOU:'#03202F',IND:'#002C5F',JAX:'#006778',KC:'#E31837',LV:'#000000',LAC:'#0080C6',LA:'#003594',LAR:'#003594',MIA:'#008E97',MIN:'#4F2683',NE:'#002244',NO:'#9F8958',NYG:'#0B2265',NYJ:'#125740',PHI:'#004C54',PIT:'#FFB612',SF:'#AA0000',SEA:'#002244',TB:'#D50A0A',TEN:'#4B92DB',WAS:'#5A1414'};
+const tm=a=>`<span class="dr-tm" style="--tc:${COL[a]||'#555'}">${E(a)}</span>`;
+const scoutReason=p=>{const m=(p.note||'').split('Our scouts: ');return m.length>1?m[1]:'';};
+function scout(p){const t=p.parts||{},g=[],c=[];
+ if(p.prod_pct!=null&&p.prod_pct>=80)g.push('Top-20% producer at his position in our data');
+ if(p.eff_pct!=null&&p.eff_pct>=80)g.push('Very efficient on a per-play basis');
+ if(p.stars>=4)g.push(`Highly recruited (${p.stars}-star) out of high school`);
+ if((t.schedule??0)>=8)g.push('Has produced against a tough schedule');
+ if((t.size??0)>=4)g.push('Size fits what NFL teams want at his position');
+ if(p.scout_tier&&p.scout_tier<=2)g.push('Our scouts see first-round talent');
+ if(p.prod_pct!=null&&p.prod_pct<40)c.push('Limited production so far');
+ if(p.eff_pct!=null&&p.eff_pct<40)c.push('Per-play efficiency is average or worse');
+ if(t.schedule!=null&&t.schedule<5)c.push('Level of competition is a question');
+ if(t.size!=null&&t.size<=2)c.push('Below the usual size range for his position');
+ if(/So/.test(p.cls||''))c.push('Young for the class; could return to school');
+ if(p.pos==='OT'||p.pos==='IOL')c.push('No box-score stats for linemen, so our view leans on scouting');
+ if(p.scout_tier>=5)c.push('Our scouts project him as a Day 3 pick');
+ return{g:g.slice(0,4),c:c.slice(0,3)};}
 const meta=p=>[p.pos,p.school,p.cls,p.height,p.weight?p.weight+' lb':''].filter(Boolean).map(E).join(' · ');
 function filtered(){const q=S.q.toLowerCase();return S.avail.filter(p=>(S.filter==='All'||p.pos===S.filter)&&(!S.school||p.school===S.school)&&(!q||(p.name+' '+p.school).toLowerCase().includes(q)));}
-function cardHTML(p){if(!p)return'';const t=p.parts||{};return`<div class="dr-modal" role="dialog" aria-label="${E(p.name)}"><div class="dr-card"><button class="dr-x" type="button" aria-label="Close">✕</button>
- <p class="kind">Our board #${p.rank} · ${E(p.tier)}</p><h2>${E(p.name)}</h2><p>${meta(p)}</p><p class="dr-g">Our grade <b>${p.grade}</b>${p.stars?` · ${p.stars}★ recruit`:''}${p.anchor?' · Steelers watch list':''}</p>
+function cardHTML(p){if(!p)return'';const t=p.parts||{},sc=scout(p),why=scoutReason(p),pk=S.slots.find(x=>x.player===p),can=S.phase==='user'&&S.avail.includes(p);
+ return`<div class="dr-modal" role="dialog" aria-label="${E(p.name)}"><div class="dr-card"><button class="dr-x" type="button" aria-label="Close">✕</button>
+ <p class="kind">Our board #${p.rank} · ${E(p.tier)}${p.scout_tier?` · staff tier ${p.scout_tier}`:''}</p><h2>${E(p.name)}</h2><p>${meta(p)}${p.conf?' · '+E(p.conf):''}</p>
+ ${pk?`<p class="dr-picked">Picked #${pk.overall} (R${pk.round}) by ${tm(pk.owner)} ${E(TN(pk.owner))} · <span class="dr-grade sm">${pickGrade(pk)}</span></p>`:''}
+ <p class="dr-g">Our grade <b>${p.grade}</b>${p.stars?` · ${p.stars}★ recruit`:''}${p.transfer?` · transfer`:''}${p.anchor?' · Steelers watch list':''}</p>
+ ${p.line&&p.line!=='None'?`<p><b>2026 season:</b> ${E(p.line)}</p>`:''}
+ ${why?`<p><b>Our scouts:</b> ${E(why)}</p>`:''}
+ <div class="dr-sc"><div><b>Strengths</b><ul>${sc.g.map(x=>`<li>${E(x)}</li>`).join('')||'<li>Well-rounded profile in our data</li>'}</ul></div><div><b>Concerns</b><ul>${sc.c.map(x=>`<li>${E(x)}</li>`).join('')||'<li>No major red flags in our data</li>'}</ul></div></div>
+ ${window.compHTML?compHTML(p.name):''}
  ${window.availHTML?availHTML(p.name):''}
- ${p.line?`<p><b>2026:</b> ${E(p.line)}</p>`:''}${p.note?`<p>${E(p.note)}</p>`:''}
- <table class="dr-parts"><tr><th>Production</th><th>Pedigree</th><th>Schedule</th><th>Team</th><th>Class</th><th>Size</th><th>Scout tier</th></tr><tr><td>${t.production??'–'}/45</td><td>${t.pedigree??'–'}/22</td><td>${t.schedule??'–'}/12</td><td>${t.team??'–'}/6</td><td>${t.cls??'–'}/5</td><td>${t.size??'–'}/5</td><td>${p.scout_tier??'–'}</td></tr></table>
- <p class="fine">Our own formula from CollegeFootballData.com stats. Fan opinion, not a scouting report.</p>
- ${S.phase==='user'?`<button class="btn dr-take" type="button" data-r="${p.rank}">Draft ${E(p.name)}</button>`:''}</div></div>`;}
+ <table class="dr-parts"><tr><th>Prod.</th><th>Pedigree</th><th>Sched.</th><th>Team</th><th>Class</th><th>Size</th></tr><tr><td>${t.production??'–'}/45</td><td>${t.pedigree??'–'}/22</td><td>${t.schedule??'–'}/12</td><td>${t.team??'–'}/6</td><td>${t.cls??'–'}/5</td><td>${t.size??'–'}/5</td></tr></table>
+ <p class="fine">Our own formula from CollegeFootballData.com stats plus our staff tier; strengths, concerns and comparison are our own read. Fan opinion, not a scouting report.</p>
+ ${can?`<button class="btn dr-take" type="button" data-r="${p.rank}">Draft this player</button>`:''}</div></div>`;}
 function tradeHTML(){const on=S.slots[S.cur],me=on.owner,T=S.trade;const partners=[...new Set(S.slots.slice(S.cur).map(s=>s.owner))].filter(a=>a!==me).sort();
  const open=a=>S.slots.slice(S.cur).filter(s=>s.owner===a&&!s.player);
  const give=open(me).filter(s=>T.give.includes(s.overall)),get=T.with?open(T.with).filter(s=>T.get.includes(s.overall)):[];
@@ -67,26 +94,29 @@ function boardHTML(){const list=filtered().slice(0,80),on=S.slots[S.cur];const n
  <div class="chips">${['All',...POS].map(p=>`<button type="button" class="chip dr-filter${S.filter===p?' on':''}" data-p="${p}">${p}</button>`).join('')}</div>
  <div class="dr-list">${list.map(p=>`<div class="dr-prospect${nd.includes(p.pos)?' need':''}"><span class="dr-rank">#${p.rank}</span><button type="button" class="dr-info" data-r="${p.rank}"><b>${E(p.name)}</b><br><small>${meta(p)}</small>${p.line?`<br><small class="dr-line">${E(p.line)}</small>`:''}</button><span class="dr-gr">${p.grade}</span>${S.phase==='user'?`<button type="button" class="dr-draft" data-r="${p.rank}">Draft</button>`:''}</div>`).join('')||'<p class="empty">No prospects match</p>'}</div>
  ${filtered().length>80?`<p class="fine">Showing top 80 of ${filtered().length}. Use search or filters to see more.</p>`:''}`;}
+function tickerHTML(){const lo=Math.max(0,S.cur-40),hi=Math.min(S.slots.length,S.cur+16);let h='';for(let i=lo;i<hi;i++){const s=S.slots[i];h+=`<button type="button" class="dr-tk${isUser(s)?' mine':''}${i===S.cur?' now':''}" data-o="${s.overall}" style="--tc:${COL[s.owner]||'#555'}"><small>R${s.round} #${s.overall}</small><b>${E(s.owner)}</b><span>${s.player?E(s.player.name.split(' ').slice(-1)[0])+' · '+s.player.pos:i===S.cur?'On clock':'—'}</span></button>`;}
+ return`<div class="dr-ticker" aria-label="Pick ticker — scroll back to see earlier picks">${h}</div>`;}
 function logHTML(){let h='',r=0;S.slots.forEach((s,i)=>{if(!s.player&&i>=S.cur+40)return;if(s.round!==r){r=s.round;h+=`<li class="dr-rd">Round ${r}</li>`;}
- h+=`<li class="${isUser(s)?'mine':''}${i===S.cur?' now':''}"><b>${s.overall}.</b> ${E(s.owner)}${s.owner!==s.team?` <small>(via ${E(s.team)})</small>`:''} ${s.player?`— ${E(s.player.name)} <small>${s.player.pos}, ${E(s.player.school)}</small>`:i===S.cur?'— on the clock':''}</li>`;});return`<ol class="dr-log full">${h}</ol>`;}
+ h+=`<li class="${isUser(s)?'mine':''}${i===S.cur?' now':''}"><b>${s.overall}.</b> ${tm(s.owner)}${s.owner!==s.team?` <small>(via ${E(s.team)})</small>`:''} ${s.player?`— <button type="button" class="dr-pk" data-o="${s.overall}">${E(s.player.name)}</button> <small>${s.player.pos}, ${E(s.player.school)}</small>${S.phase==='done'?` <span class="dr-grade sm">${pickGrade(s)}</span>`:''}`:i===S.cur?'— on the clock':''}</li>`;});return`<ol class="dr-log full">${h}</ol>`;}
 function summaryHTML(){const all=[...new Set(S.slots.map(s=>s.owner))].sort((a,b)=>S.teams.includes(b)-S.teams.includes(a)||a.localeCompare(b));
  return`<div class="ballot-head"><p class="kind">Draft complete</p><h2>Your 2027 draft</h2><p>${S.rounds} round${S.rounds>1?'s':''} · grades compare where you picked to our board, plus need fit</p></div>
- ${S.teams.map(a=>`<div class="box"><h2>${E(TN(a))} <span class="dr-grade">${teamGrade(a)||'–'}</span></h2>${mine(a).map(s=>`<div class="dr-mine"><span class="dr-grade sm">${pickGrade(s)}</span><div><b>R${s.round}, #${s.overall}: ${E(s.player.name)}</b><br><small>${meta(s.player)} · our board #${s.player.rank}</small></div></div>`).join('')||'<p class="fine">No picks.</p>'}</div>`).join('')}
+ ${S.teams.map(a=>`<div class="box"><h2>${E(TN(a))} <span class="dr-grade">${teamGrade(a)||'–'}</span></h2>${mine(a).map(s=>`<div class="dr-mine"><span class="dr-grade sm">${pickGrade(s)}</span><div><b>R${s.round}, #${s.overall}: <button type="button" class="dr-pk" data-o="${s.overall}">${E(s.player.name)}</button></b><br><small>${meta(s.player)} · our board #${s.player.rank}</small>${COMPS_[s.player.name]?`<br><small>Plays like ${E(COMPS_[s.player.name].name)} (our comparison)</small>`:''}</div></div>`).join('')||'<p class="fine">No picks.</p>'}</div>`).join('')}
  <div class="box"><h2>Share</h2><textarea class="dr-share" readonly rows="6">${E(shareText())}</textarea><p><button class="btn dr-copy" type="button">Copy text</button> <button class="btn dr-img" type="button">Download image</button> <button class="btn ghost dr-reset" type="button">Draft again</button></p></div>
- <div class="box"><h2>Every team's grade</h2><div class="dr-allg">${all.map(a=>`<details><summary><b>${E(a)}</b> <span class="dr-grade sm">${teamGrade(a)||'–'}</span></summary>${mine(a).map(s=>`<p class="fine">R${s.round} #${s.overall} ${E(s.player.name)} (${s.player.pos})</p>`).join('')}</details>`).join('')}</div></div>`;}
+ <div class="box"><h2>Every team's grade</h2><p class="fine">Every pick graded A+ to F: where he went vs. our board rank (reaches cost more early), plus fit with that team's needs. Tap a team to see each pick.</p><div class="dr-allg">${all.map(a=>`<details${S.teams.includes(a)?' open':''} class="${S.teams.includes(a)?'mine':''}"><summary>${tm(a)} <b>${E(TN(a))}</b> <span class="dr-grade sm">${teamGrade(a)||'–'}</span></summary>${mine(a).map(s=>`<p class="dr-pg"><span class="dr-grade sm">${pickGrade(s)}</span> R${s.round} #${s.overall} <button type="button" class="dr-pk" data-o="${s.overall}">${E(s.player.name)}</button> <small>${s.player.pos} · board #${s.player.rank}</small></p>`).join('')}</details>`).join('')}</div></div>`;}
 function render(){const e=el();if(!e||!S.board)return;const ae=document.activeElement,qf=ae&&ae.classList.contains('dr-q'),cp=qf?ae.selectionStart:0;
  if(S.phase==='setup'){e.innerHTML=setupHTML();return;}
- if(S.phase==='done'){e.innerHTML=`<div class="dr-grid"><div>${summaryHTML()}</div><aside><div class="box"><h2>Full draft</h2>${logHTML()}</div></aside></div>`;return;}
+ if(S.phase==='done'){e.innerHTML=`<div class="dr-grid"><div>${summaryHTML()}</div><aside><div class="box"><h2>Every pick, graded</h2>${logHTML()}</div></aside></div>${S.card?cardHTML(S.card):''}`;return;}
  const on=S.slots[S.cur],my=S.teams.flatMap(a=>mine(a)).sort((a,b)=>a.overall-b.overall);
  e.innerHTML=`<div class="dr-grid"><div>
   <div class="ballot-head dr-clock"><p class="kind">${S.phase==='user'?'You are on the clock':S.paused?'Paused':'CPU picking…'}</p><h2>R${on.round} · #${on.overall}: ${E(TN(on.owner))}</h2><p>Needs: ${needs(on.owner).map(E).join(', ')||'–'}</p>
    <p class="dr-ctl">${S.phase==='user'?`<button class="btn dr-topen" type="button">Trade</button> `:`<button class="btn dr-pause" type="button">${S.paused?'Resume':'Pause'}</button> `}<button class="btn ghost dr-undo" type="button"${S.hist.length?'':' disabled'}>Undo my last pick</button> <span class="chips inline">${SPEEDS.map(([l,v])=>`<button type="button" class="chip dr-speed${S.speed===v?' on':''}" data-v="${v}">${l}</button>`).join('')}</span></p></div>
-  ${S.trade?tradeHTML():''}
-  <div class="chips dr-tabs"><button type="button" class="chip dr-tab${S.tab==='board'?' on':''}" data-t="board">Big board</button><button type="button" class="chip dr-tab${S.tab==='log'?' on':''}" data-t="log">Draft log</button></div>
+  ${tickerHTML()}${S.trade?tradeHTML():''}
+  <div class="chips dr-tabs"><button type="button" class="chip dr-tab${S.tab==='board'?' on':''}" data-t="board">Big board</button><button type="button" class="chip dr-tab${S.tab==='log'?' on':''}" data-t="log">Full board by round</button></div>
   ${S.tab==='board'?boardHTML():logHTML()}
  </div><aside><div class="box"><h2>Your picks</h2>${my.length?`<ol class="dr-log">${my.map(s=>`<li class="mine"><b>${s.overall}.</b> ${E(s.owner)} — ${E(s.player.name)} <small>${s.player.pos}</small></li>`).join('')}</ol>`:'<p class="fine">None yet.</p>'}
   <p class="fine">Upcoming: ${S.slots.slice(S.cur).filter(s=>isUser(s)&&!s.player).slice(0,6).map(s=>'#'+s.overall).join(', ')||'none'}</p></div>
   <div class="box"><h2>Recent picks</h2><ol class="dr-log">${S.slots.slice(Math.max(0,S.cur-8),S.cur).reverse().map(s=>`<li class="${isUser(s)?'mine':''}"><b>${s.overall}.</b> ${E(s.owner)} — ${E(s.player.name)} <small>${s.player.pos}</small></li>`).join('')||'<li class="fine">Waiting…</li>'}</ol></div></aside></div>${S.card?cardHTML(S.card):''}`;
+ const tk=e.querySelector('.dr-ticker'),nw=tk&&tk.querySelector('.now');if(tk&&nw){tk.scrollLeft=(S.tkCur===S.cur&&S.tkPos!=null)?S.tkPos:nw.offsetLeft-tk.clientWidth/2;S.tkCur=S.cur;S.tkPos=tk.scrollLeft;tk.addEventListener('scroll',()=>{S.tkPos=tk.scrollLeft;},{passive:true});}
  if(qf){const q=e.querySelector('.dr-q');q.focus();q.setSelectionRange(cp,cp);}}
 function start(){S.seed=(Date.now()%100000)+7;S.avail=[...S.board.prospects];S.slots=S.order.picks.filter(p=>p.round<=S.rounds).map(p=>({...p,owner:p.team,player:null}));
  S.cur=0;S.hist=[];S.trade=null;S.card=null;S.paused=false;S.q='';S.filter='All';S.school='';step();}
@@ -102,6 +132,7 @@ document.addEventListener('click',ev=>{const e=el();if(!e||!e.contains(ev.target
  else if(c.contains('dr-filter')){S.filter=t.dataset.p;render();}
  else if(c.contains('dr-tab')){S.tab=t.dataset.t;render();}
  else if(c.contains('dr-info')){S.card=S.avail.find(x=>x.rank==t.dataset.r)||S.board.prospects.find(x=>x.rank==t.dataset.r);render();}
+ else if(c.contains('dr-tk')||c.contains('dr-pk')){const s=S.slots.find(x=>x.overall==t.dataset.o);if(s&&s.player){S.card=s.player;render();}}
  else if(c.contains('dr-draft')||c.contains('dr-take'))userTake(t.dataset.r);
  else if(c.contains('dr-pause')){S.paused=!S.paused;S.paused?render():step();}
  else if(c.contains('dr-undo')&&S.hist.length){clearTimeout(S.timer);const h=S.hist.pop();S.cur=h.cur;S.avail=h.avail;S.slots=h.slots;S.phase='user';S.paused=false;S.trade=null;render();}
@@ -118,5 +149,5 @@ document.addEventListener('input',ev=>{const e=el();if(!e||!e.contains(ev.target
 document.addEventListener('change',ev=>{const e=el();if(!e||!e.contains(ev.target))return;const c=ev.target.classList;
  if(c.contains('dr-sch')){S.school=ev.target.value;render();}else if(c.contains('dr-tw')){S.trade.with=ev.target.value;S.trade.get=[];render();}});
 document.addEventListener('keydown',ev=>{if(ev.key==='Escape'&&S.card){S.card=null;render();}});
-Promise.all(['data/draft/board.json','data/draft/order.json'].map(u=>fetch(u,{cache:'no-store'}).then(r=>r.json()))).then(([b,o])=>{S.board=b;S.order=o;if(o.needs&&o.needs.PIT)S.needsPIT=o.needs.PIT;render();}).catch(()=>{const e=el();if(e)e.innerHTML='<p class="empty">Mock draft data unavailable right now.</p>';});
+Promise.all([...['data/draft/board.json','data/draft/order.json'].map(u=>fetch(u,{cache:'no-store'}).then(r=>r.json())),window.compsReady]).then(([b,o])=>{S.board=b;S.order=o;if(o.needs&&o.needs.PIT)S.needsPIT=o.needs.PIT;render();}).catch(()=>{const e=el();if(e)e.innerHTML='<p class="empty">Mock draft data unavailable right now.</p>';});
 })();

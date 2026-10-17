@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-17T23:05:11+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-17T23:05:01+00:00._
+_Generated 2026-10-17T23:06:20+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-17T23:06:11+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Steelers lose receiver Wilson to IR, Metcalf comes off injury report](https://www.espn.com/nfl/story/_/id/50203338/steelers-place-receiver-wilson-ir): ESPN, 2026-10-17 23:44 UTC
@@ -77,7 +77,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers Reunion At Cornerback Suddenly Within Reach As Chargers' Demise Continues](https://www.steelernation.com/2026/10/17/steelers-reunion-suddenly-chargers): SteelerNation, 2026-10-17 14:35 UTC
 - [Pittsburgh Steelers get big Baker Mayfield news before Buccaneers game](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZHlaY3hkcmM5RWc0NFR0ZWJHVzd3aVZpNV9rcmFyZXhpTVpzRUhVaFF5TWJOYnE4VnllSG1nbFBraThHNlVObjJTRDhqaHpZenRua2g5bnNvY3hjWTYwVENTSEFzbzYtaWxzN3VjOG9CdlRFUzIzN3k1a0ZObHdLWUxoZm9GS25PREtlX0dCbG1TU0duamFXQ1dPU3hOWl9pQnJfbldPTE9leldCSzgxQ3ViNUwyM0dh?oc=5): PennLive.com, 2026-10-17 14:26 UTC
 - [Steelers Now Have The Door Wide Open For Splash Signing Of Tyreek Hill](https://www.steelernation.com/2026/10/17/steelers-now-splash-tyreek-hill): SteelerNation, 2026-10-17 14:21 UTC
-- [2026 Game Preview: Steelers-Buccaneers, Week 6](https://news.google.com/rss/articles/CBMiggFBVV95cUxPTjVpcmF0RkYtWVNoTUxzSGcydXAtTlQyd3pKcTlQaW9NRkpXY09DV2RLaFh0NzA1eFNpR2JGQWhiUXB2cmh0WHNCd09OMmNsTlE5YWxOdUdyV3Jtc29KcmYtdVlmejZ0QVQtVTlYWV9TYmtVYVIxWkFBTkZNWjdmaG1n?oc=5): Tampa Bay Buccaneers, 2026-10-17 14:04 UTC
 - [Steelers must accomplish these 3 things to secure victory vs. Buccaneers](https://stillcurtain.com/pittsburgh-steelers-must-accomplish-these-3-things-to-secure-victory-vs-buccaneers-01m4xbbe4sgx?utm_source=RSS): Still Curtain, 2026-10-17 14:00 UTC
 - [Kozora: Time For The Steelers To Take This Show On The Road](https://steelersdepot.com/2026/10/kozora-time-for-the-steelers-to-take-this-show-on-the-road/): Steelers Depot, 2026-10-17 13:30 UTC
 - [Steelers GameDay Cheat Sheet: Week 6 at the Tampa Bay Buccaneers](https://www.steelcityunderground.com/2026/10/17/steelers-gameday-cheat-sheet-week-6-at-the-tampa-bay-buccaneers/): Steel City Underground, 2026-10-17 11:40 UTC
@@ -123,6 +122,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [The Steelers’ new coaches are still trying to figure out how to use Nick Herbig](https://www.post-gazette.com/sports/steelers/2026/10/15/nick-herbig-contract-steelers-role/stories/202610150038): Pittsburgh Post-Gazette, 2026-10-15 16:00 UTC
 - [Steelers face a different offensive challenge with depleted receiving corps against Buccaneers](https://www.steelcityunderground.com/2026/10/15/steelers-face-a-different-offensive-challenge-with-depleted-receiving-corps-against-buccaneers/): Steel City Underground, 2026-10-15 15:59 UTC
 - [Patrick Graham's selfless adjustment is exactly what Steelers defense needed](https://stillcurtain.com/patrick-graham-s-selfless-adjustment-is-exactly-what-pittsburgh-steelers-defense-needed-01m4txm4zctm?utm_source=RSS): Still Curtain, 2026-10-15 14:00 UTC
+- [2026 Game Preview: Steelers-Buccaneers, Week 6](https://news.google.com/rss/articles/CBMiggFBVV95cUxPTjVpcmF0RkYtWVNoTUxzSGcydXAtTlQyd3pKcTlQaW9NRkpXY09DV2RLaFh0NzA1eFNpR2JGQWhiUXB2cmh0WHNCd09OMmNsTlE5YWxOdUdyV3Jtc29KcmYtdVlmejZ0QVQtVTlYWV9TYmtVYVIxWkFBTkZNWjdmaG1n?oc=5): Tampa Bay Buccaneers, 2026-10-15 13:13 UTC
 - [QBs keep targeting Asante Samuel Jr. Here’s why the Steelers cornerback says he loves it.](https://www.post-gazette.com/sports/steelers/2026/10/15/asante-samuel-steelers-joey-porter/stories/202610150029): Pittsburgh Post-Gazette, 2026-10-15 13:00 UTC
 - [Ray Fittipaldo’s Steelers chat transcript: 10.15.26](https://www.post-gazette.com/sports/steelers/2026/10/15/live-chat-nfl-week-6-mike-mccarthy/stories/202610150003): Pittsburgh Post-Gazette, 2026-10-15 13:00 UTC
 - [Jaylen Warren's Steelers breakout is eerily similar to this former OPOY](https://stillcurtain.com/jaylen-warren-s-pittsburgh-steelers-breakout-is-eerily-similar-to-this-former-opoy-01m4ved3njv9?utm_source=RSS): Still Curtain, 2026-10-15 12:00 UTC
