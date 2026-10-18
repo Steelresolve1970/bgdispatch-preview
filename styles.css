@@ -381,3 +381,23 @@ nav .more a{color:#fff}nav .more a[aria-current]{color:var(--gold)}
 
 .filmnav{display:flex;flex-wrap:wrap;gap:.4rem;margin:.5rem 0 1rem}.filmnav a{color:#111;background:#fff;font-weight:600;text-transform:none;padding:.3rem .65rem;border:1px solid #c9a227;border-radius:999px;text-decoration:none;font-size:.9rem}
 .filmgame{margin:0 0 1rem;border-top:2px solid #c9a227}.filmgame>summary{cursor:pointer;padding:.6rem 0;list-style:revert}.filmgame>summary h2{display:inline;font-size:1.15rem;margin:0}
+/* Rumors & Roster tabs, practice squad, roster table, player card */
+.rr-tabs{display:flex;gap:6px;overflow-x:auto;margin:6px 0 16px;border-bottom:3px solid var(--black);-webkit-overflow-scrolling:touch}
+.rr-tab{flex:0 0 auto;border:0;background:#eee;color:#111;font:inherit;font-weight:800;padding:10px 14px;border-radius:8px 8px 0 0;cursor:pointer;touch-action:manipulation;min-height:44px}
+.rr-tab.on{background:var(--black);color:var(--gold)}
+.dc-u{touch-action:manipulation;min-height:40px}
+.rr-count{margin:4px 0 10px}
+.rr-ps{padding:0}.rr-row{display:grid;grid-template-columns:52px 1fr 52px auto;gap:8px;align-items:center;width:100%;border:0;border-bottom:1px solid #eee;background:#fff;padding:10px 12px;text-align:left;font:inherit;cursor:pointer}
+.rr-row:hover,.rr-row:focus-visible,.rr-t tbody tr:hover,.rr-t tbody tr:focus-visible{background:#fff3cf}
+.rr-n{font-weight:900;color:#7a5600}.rr-nm small{display:block;color:#5e5e5e;font-size:.78rem}.rr-pos{font-weight:800}.rr-st{font-size:.72rem;color:#5e5e5e}
+.rr-tools{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:8px}.rr-tools input,.rr-tools select{flex:1;min-width:150px;padding:10px;border:1px solid #ccc;border-radius:8px;font:inherit}
+.rr-gh{margin:16px 0 6px}.rr-gh small{color:#5e5e5e;font-weight:600}
+.rr-wrap{overflow-x:auto;padding:0}.rr-t{width:100%;border-collapse:collapse;font-size:.9rem}
+.rr-t th{background:#111;text-align:left;padding:0}.rr-sort{all:unset;display:block;cursor:pointer;color:var(--gold);font-size:.72rem;font-weight:800;text-transform:uppercase;padding:8px}
+.rr-t td{padding:8px;border-bottom:1px solid #eee}.rr-t tbody tr{cursor:pointer}.rr-t .c-num{font-weight:900;color:#7a5600;width:44px}.rr-t .c-name small{display:block;color:#5e5e5e;font-size:.72rem}
+@media(max-width:600px){.rr-t .c-height,.rr-t .c-weight,.rr-t .c-age,.rr-t .c-college{display:none}.rr-t{font-size:.86rem}}
+.rr-card{max-width:760px}.rr-card h3{margin:16px 0 6px;font-size:1rem}
+.rr-bio{display:grid;grid-template-columns:repeat(auto-fill,minmax(110px,1fr));gap:8px;margin:10px 0}.rr-bio div{background:#f6f6f6;border-radius:8px;padding:6px 8px}.rr-bio dt{font-size:.68rem;text-transform:uppercase;color:#5e5e5e;font-weight:800}.rr-bio dd{margin:0;font-weight:700}
+.rr-take{background:#fff3cf;border-left:4px solid var(--gold);border-radius:6px;padding:8px 12px;margin:12px 0}.rr-take p{margin:4px 0 0}
+.rr-career{margin:0;padding-left:18px}.rr-st-t{border-collapse:collapse;font-size:.82rem;width:100%;white-space:nowrap}.rr-st-t th{background:#111;color:var(--gold);padding:5px 6px;text-align:right}.rr-st-t td{padding:5px 6px;border-bottom:1px solid #eee;text-align:right}
+.rr-st-t th:nth-child(-n+2),.rr-st-t td:nth-child(-n+2){text-align:left}.rr-none{color:#5e5e5e;font-style:italic}

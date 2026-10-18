@@ -13,7 +13,7 @@ const empty=t=>`<p class="empty">${t}</p>`;
 
 // Rumors & Roster keyword filter
 const RUMOR=/\b(trade[sd]?|trading|sign(s|ed|ing)?|re-sign\w*|release[sd]?|cuts?|waive[sd]?|waivers?|injur(y|ies|ed)|IR|injured reserve|practice squad|rumou?rs?|contract|extension|deal|activate[sd]?|questionable|doubtful|ruled out|out for|elevat\w+|claim(ed)?|free agen\w+|roster|depth chart|suspen\w+)\b/i;
-const TAGS=[['Trades',/trad(e|ing)/i],['Signings',/sign|contract|extension|deal|claim/i],['Injuries',/injur|\bIR\b|questionable|doubtful|ruled out|out for|activate/i],['Releases',/release|\bcuts?\b|waive/i],['Practice squad',/practice squad|elevat/i]];
+const TAGS=[['Trades',/trad(e|ing)/i],['Signings',/sign|contract|extension|deal|claim/i],['Injuries',/injur|\bIR\b|questionable|doubtful|ruled out|out for|activate/i],['Releases',/release|\bcuts?\b|waive/i],['PS moves',/practice squad|elevat/i]];
 let rumorTag=null;
 
 function renderNews(){const n=D.news;if(!n||!n.items.length)return;const items=n.items,f=items[0];
@@ -92,7 +92,7 @@ function route(){const r=(location.hash.replace(/^#\/?/,'')||'home').split('?')[
  document.dispatchEvent(new CustomEvent('route',{detail:v}));
  if(r==='grades')setTimeout(()=>document.getElementById('grade-section')?.scrollIntoView({behavior:'smooth'}),150);}
 addEventListener('hashchange',route);
-document.addEventListener('click',e=>{const c=e.target.closest('.chip');if(c){rumorTag=c.dataset.tag==='All'?null:c.dataset.tag;renderNews();}});
+document.addEventListener('click',e=>{const c=e.target.closest('#rumor-chips .chip');if(c){rumorTag=c.dataset.tag==='All'?null:c.dataset.tag;renderNews();}});
 const b=$('menuBtn');b.onclick=()=>{const o=document.body.classList.toggle('nav-open');b.setAttribute('aria-expanded',o)};
 window.addEventListener('DOMContentLoaded',route);
 
