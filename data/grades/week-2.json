@@ -83,12 +83,12 @@
     "34 rec yds +0.8"
    ],
    "involvement": 15.0,
-   "avg": 7.0,
+   "avg": 7.9,
    "source": "editor",
    "gsis_id": "00-0037228",
    "computed_grade": 7.3,
    "editor": true,
-   "editor_note": "Editor grade",
+   "editor_note": "Owner season-average adjustment",
    "shown": true
   },
   {
@@ -325,12 +325,12 @@
     "x 4% of snaps"
    ],
    "involvement": 0.8,
-   "avg": 3.8,
+   "avg": 5.2,
    "source": "editor",
    "gsis_id": "00-0041482",
    "computed_grade": 5.5,
    "editor": true,
-   "editor_note": "Editor grade",
+   "editor_note": "Owner season-average adjustment",
    "shown": true
   },
   {
@@ -634,12 +634,12 @@
     "2 QB hits +0.6"
    ],
    "involvement": 6.0,
-   "avg": 7.5,
+   "avg": 7.4,
    "source": "editor",
    "gsis_id": "00-0033886",
    "computed_grade": 8.2,
    "editor": true,
-   "editor_note": "Editor grade",
+   "editor_note": "Owner season-average adjustment",
    "shown": true
   },
   {
@@ -658,6 +658,24 @@
    "avg": 6.7,
    "source": "stats",
    "gsis_id": "00-0036617",
+   "shown": true
+  },
+  {
+   "name": "Brandin Echols",
+   "pos": "CB",
+   "group": "DB",
+   "note": "snaps only",
+   "votes": 0,
+   "fan_avg": null,
+   "stats_grade": 5.0,
+   "stats_line": "5 defense snaps (9%), no box-score stats",
+   "stats_terms": [
+    "baseline 5.0 + 9% snap share x 0.5 = 5.0"
+   ],
+   "involvement": 0.6,
+   "avg": 5.0,
+   "source": "stats",
+   "gsis_id": "00-0036504",
    "shown": true
   },
   {

@@ -104,33 +104,33 @@
    "weekly": [
     {
      "week": 1,
-     "avg": 5.8,
+     "avg": 6.7,
      "source": "editor"
     },
     {
      "week": 2,
-     "avg": 7.0,
+     "avg": 7.9,
      "source": "editor"
     },
     {
      "week": 3,
-     "avg": 9.0,
+     "avg": 9.8,
      "source": "editor"
     },
     {
      "week": 4,
-     "avg": 6.5,
+     "avg": 7.4,
      "source": "editor"
     },
     {
      "week": 5,
-     "avg": 7.8,
+     "avg": 8.7,
      "source": "editor"
     }
    ],
    "votes": 0,
    "involvement": 96.0,
-   "avg": 7.22,
+   "avg": 8.1,
    "games": 5,
    "source": "stats",
    "editor_weeks": [
@@ -267,15 +267,20 @@
      "week": 4,
      "avg": 5.7,
      "source": "stats"
+    },
+    {
+     "week": 5,
+     "avg": 5.0,
+     "source": "stats"
     }
    ],
    "votes": 0,
-   "involvement": 4.0,
-   "avg": 6.07,
-   "games": 3,
+   "involvement": 4.6,
+   "avg": 5.8,
+   "games": 4,
    "source": "stats",
    "editor_weeks": [],
-   "trend": null
+   "trend": -0.7
   },
   {
    "name": "Brandon Smith",
@@ -538,12 +543,17 @@
      "week": 3,
      "avg": 5.7,
      "source": "stats"
+    },
+    {
+     "week": 5,
+     "avg": 5.0,
+     "source": "stats"
     }
    ],
    "votes": 0,
-   "involvement": 1.0,
-   "avg": 5.7,
-   "games": 1,
+   "involvement": 1.6,
+   "avg": 5.35,
+   "games": 2,
    "source": "stats",
    "editor_weeks": [],
    "trend": null
@@ -661,41 +671,43 @@
    "weekly": [
     {
      "week": 1,
-     "avg": 6.3,
+     "avg": 7.7,
      "source": "editor"
     },
     {
      "week": 2,
-     "avg": 3.8,
+     "avg": 5.2,
      "source": "editor"
     },
     {
      "week": 3,
-     "avg": 6.7,
+     "avg": 8.1,
      "source": "editor"
     },
     {
      "week": 4,
-     "avg": 4.4,
-     "source": "stats"
+     "avg": 5.8,
+     "source": "editor"
     },
     {
      "week": 5,
-     "avg": 8.4,
-     "source": "stats"
+     "avg": 9.7,
+     "source": "editor"
     }
    ],
    "votes": 0,
    "involvement": 49.5,
-   "avg": 5.92,
+   "avg": 7.3,
    "games": 5,
    "source": "stats",
    "editor_weeks": [
     1,
     2,
-    3
+    3,
+    4,
+    5
    ],
-   "trend": 4.0
+   "trend": 3.9
   },
   {
    "name": "Spencer Anderson",
@@ -873,12 +885,17 @@
      "week": 3,
      "avg": 7.3,
      "source": "stats"
+    },
+    {
+     "week": 4,
+     "avg": 5.0,
+     "source": "stats"
     }
    ],
    "votes": 0,
-   "involvement": 14.0,
-   "avg": 6.9,
-   "games": 3,
+   "involvement": 14.6,
+   "avg": 6.42,
+   "games": 4,
    "source": "stats",
    "editor_weeks": [],
    "trend": null
@@ -1329,33 +1346,33 @@
    "weekly": [
     {
      "week": 1,
-     "avg": 9.5,
+     "avg": 9.4,
      "source": "editor"
     },
     {
      "week": 2,
-     "avg": 7.5,
+     "avg": 7.4,
      "source": "editor"
     },
     {
      "week": 3,
-     "avg": 5.0,
+     "avg": 4.9,
      "source": "editor"
     },
     {
      "week": 4,
-     "avg": 8.5,
+     "avg": 8.4,
      "source": "editor"
     },
     {
      "week": 5,
-     "avg": 6.0,
+     "avg": 5.9,
      "source": "editor"
     }
    ],
    "votes": 0,
    "involvement": 29.4,
-   "avg": 7.3,
+   "avg": 7.2,
    "games": 5,
    "source": "stats",
    "editor_weeks": [
@@ -1412,6 +1429,11 @@
    "group": "DB",
    "weekly": [
     {
+     "week": 2,
+     "avg": 5.0,
+     "source": "stats"
+    },
+    {
      "week": 3,
      "avg": 5.8,
      "source": "stats"
@@ -1423,9 +1445,9 @@
     }
    ],
    "votes": 0,
-   "involvement": 4.0,
-   "avg": 5.8,
-   "games": 2,
+   "involvement": 4.6,
+   "avg": 5.53,
+   "games": 3,
    "source": "stats",
    "editor_weeks": [],
    "trend": null

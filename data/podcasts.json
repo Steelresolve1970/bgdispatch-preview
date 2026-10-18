@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-18T00:27:34.873742+00:00",
+ "generated": "2026-10-18T00:42:16.518270+00:00",
  "date_et": "2026-10-17",
- "count": 7,
+ "count": 2,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -16,10 +16,10 @@
    "show": "Locked On Steelers",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7JorgD8nGLtvvMy1ogFetg",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 500: Internal Server Error",
+   "episodes": 0,
    "today": 0,
-   "latest": "2026-10-16T05:00:10+00:00"
+   "latest": null
   },
   {
    "show": "The Terrible Podcast (Steelers Depot)",
@@ -79,10 +79,10 @@
    "show": "Still Curtain Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxjSNPLcRAVzDKOjhRwo-hQ",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "today": 0,
-   "latest": "2026-10-15T06:43:03+00:00"
+   "latest": null
   },
   {
    "show": "Steel City Underground",
@@ -97,10 +97,10 @@
    "show": "Steel City Underground",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDcNNAMkYr-DzH6_XL-0p8Q",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "today": 0,
-   "latest": "2026-10-15T19:05:24+00:00"
+   "latest": null
   },
   {
    "show": "Steelers Afternoon Drive",
@@ -160,29 +160,13 @@
    "show": "Pittsburgh Steelers (official)",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChaRXjMDs4ppKfnTPE6Z89w",
-   "status": "ok",
-   "episodes": 15,
-   "today": 5,
-   "latest": "2026-10-17T22:52:52+00:00"
+   "status": "error: HTTP Error 500: Internal Server Error",
+   "episodes": 0,
+   "today": 0,
+   "latest": null
   }
  ],
  "items": [
-  {
-   "title": "Live from our Road Warrior Rally in Tampa with Casey Hampton \ud83d\ude4c",
-   "show": "Pittsburgh Steelers (official)",
-   "kind": "video",
-   "link": "https://www.youtube.com/shorts/6-WqoVTWAfQ",
-   "published": "2026-10-17T22:52:52+00:00",
-   "summary": "Video from Pittsburgh Steelers (official)."
-  },
-  {
-   "title": "Steelers Insider featuring Mike McCarthy: Week 6 at Buccaneers | Pittsburgh Steelers",
-   "show": "Pittsburgh Steelers (official)",
-   "kind": "video",
-   "link": "https://www.youtube.com/watch?v=V9s6l38p68A",
-   "published": "2026-10-17T22:00:08+00:00",
-   "summary": "Video from Pittsburgh Steelers (official)."
-  },
   {
    "title": "The Terrible Take - Episode 2053 - October 17, 2026",
    "show": "The Terrible Podcast (Steelers Depot)",
@@ -190,30 +174,6 @@
    "link": "https://megaphone.link/SDP9390482738",
    "published": "2026-10-17T21:00:00+00:00",
    "summary": "Podcast episode from The Terrible Podcast (Steelers Depot)."
-  },
-  {
-   "title": "QB1 is Tampa Bound \ud83e\udee1",
-   "show": "Pittsburgh Steelers (official)",
-   "kind": "video",
-   "link": "https://www.youtube.com/shorts/FcWE5B6vQkY",
-   "published": "2026-10-17T19:13:04+00:00",
-   "summary": "Video from Pittsburgh Steelers (official)."
-  },
-  {
-   "title": "TJ Watt & Sean Murphy-Bunting Press Conference (October 16) | Pittsburgh Steelers",
-   "show": "Pittsburgh Steelers (official)",
-   "kind": "video",
-   "link": "https://www.youtube.com/watch?v=J0z2eg6m38E",
-   "published": "2026-10-17T18:36:52+00:00",
-   "summary": "Video from Pittsburgh Steelers (official)."
-  },
-  {
-   "title": "Da beard to da house\u203c\ufe0f \ud83d\udcfa: #PITvsTB 10/18 at 1 PM ET on CBS",
-   "show": "Pittsburgh Steelers (official)",
-   "kind": "video",
-   "link": "https://www.youtube.com/shorts/QAZA8gFhpx8",
-   "published": "2026-10-17T14:55:44+00:00",
-   "summary": "Video from Pittsburgh Steelers (official)."
   },
   {
    "title": "\ud83d\udd25 JAYLEN WARREN ON FIRE! CAN THE STEELERS SINK TAMPA BAY? | SF7P EPISODE 211 \u26ab\ud83d\udfe1",
