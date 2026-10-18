@@ -1,4 +1,4 @@
-// Extra sections: Live Hub, Injuries, Scouting, Cap Center, Rumor Meter, Pick'em & Trivia, History, Alerts.
+// Extra sections: Live Hub, Injuries, Scouting, Cap Center, Rumors & Updates / Rumor Meter, Pick'em & Trivia, History, Alerts.
 // All data comes from files the fetchers write (nflverse CC-BY 4.0 data, our news feed, verified history).
 (function(){
 const X={};const E=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -59,6 +59,7 @@ function rumors(){const d=X.rum,el=$('rumormeter-body');if(!d||!el)return;const 
  <div class="rm-list">${list.map(r=>`<article class="box rm"><div class="rm-top"><span class="st st-${r.status.toLowerCase()}">${r.status}</span><i class="meter m${sc[r.tier]}" title="${E(r.tier)}">${'▮'.repeat(sc[r.tier])}${'▯'.repeat(4-sc[r.tier])}</i><small>${E(r.tier)} · ${E(r.source)} · ${ago(r.published)}</small></div>
   <a class="hl" href="${E(r.link)}" ${EXT}>${E(r.title)}</a>${r.status_note?`<p class="fine">${r.status==='Confirmed'?'✅ Confirmed by':'❌ Denied by'}: <a href="${E(r.status_link)}" ${EXT}>${E(r.status_note)}</a></p>`:''}</article>`).join('')||'<p class="empty">No new rumors today</p>'}</div>
  <p class="fine">${E(d.method)}</p>`;}
+window.BGD_renderRumors=rumors;
 
 // ---------- Live hub ----------
 let liveTimer=null;

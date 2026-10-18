@@ -13,7 +13,7 @@
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Black &amp; Gold Dispatch">
 <meta name="theme-color" content="#101010">
-<link rel="stylesheet" href="styles.css?v=1792297124">
+<link rel="stylesheet" href="styles.css?v=1792297358">
 <link rel="alternate" type="application/rss+xml" title="Black &amp; Gold Dispatch RSS" href="feed.xml">
 <link rel="alternate" type="application/feed+json" title="Black &amp; Gold Dispatch JSON Feed" href="feed.json">
 <!--LD:START-->
@@ -54,7 +54,7 @@
       <li class="has-more"><button type="button" class="more-btn" aria-expanded="false" aria-controls="moreMenu">More ▾</button>
         <ul class="more" id="moreMenu">
           <li><a href="#/roster" data-route="roster">Depth Chart &amp; Roster</a></li>
-          <li><a href="#/rumormeter" data-route="rumormeter">Rumor Meter</a></li>
+          <li><a href="#/rumors" data-route="rumors">Rumors &amp; Updates</a></li>
           <li><a href="#/injuries" data-route="injuries">Injury Tracker</a></li>
           <li><a href="#/scout" data-route="scout">Opponent Scouting</a></li>
           <li><a href="#/game" data-route="game">Schedule</a></li>
@@ -183,7 +183,21 @@
      <div class="view" data-view="injuries" hidden><h1 class="page-title">Injury Tracker</h1><div id="injuries-body"><p class="empty">Loading injuries…</p></div></div>
      <div class="view" data-view="scout" hidden><h1 class="page-title">Opponent Scouting</h1><div id="scout-body"><p class="empty">Loading opponent…</p></div></div>
      <div class="view" data-view="cap" hidden><h1 class="page-title">Cap Center</h1><div id="cap-body"><p class="empty">Loading contracts…</p></div></div>
-     <div class="view" data-view="rumormeter" hidden><h1 class="page-title">Rumor Meter</h1><div id="rumormeter-body"><p class="empty">Loading rumors…</p></div></div>
+     <div class="view" data-view="rumors" hidden>
+      <h1 class="page-title">Rumors &amp; Updates</h1>
+      <p class="page-sub">Today's trades, signings, injuries and roster chatter — plus the Rumor Meter that rates who's saying what.</p>
+      <div class="rr-tabs ru-tabs" role="tablist" aria-label="Rumors and updates sections">
+       <button type="button" class="rr-tab on" role="tab" data-ru="news" aria-selected="true">News &amp; Rumors</button>
+       <button type="button" class="rr-tab" role="tab" data-ru="meter" aria-selected="false">Rumor Meter</button>
+      </div>
+      <section class="ru-pane" data-rup="news">
+       <div class="chips" id="rumor-chips"></div>
+       <div class="cards" id="rumor-cards"></div>
+      </section>
+      <section class="ru-pane" data-rup="meter" hidden>
+       <div id="rumormeter-body"><p class="empty">Loading rumor meter…</p></div>
+      </section>
+     </div>
      <div class="view" data-view="play" hidden><h1 class="page-title">Pick'em &amp; Daily Trivia</h1><div id="play-body"><p class="empty">Loading…</p></div></div>
      <div class="view" data-view="history" hidden><h1 class="page-title">Steelers History</h1><p class="page-sub">From the 1933 Pirates to today: records, titles, legends and rivalries, in our own words.</p><div id="history-extra"><p class="empty">Loading history…</p></div><div id="history-body"><p class="empty">Loading history…</p></div></div>
      <div class="view" data-view="alerts" hidden><h1 class="page-title">Alerts &amp; Daily Email</h1><div id="alerts-body"></div></div>
@@ -222,18 +236,18 @@
   <p class="legal-links"><a href="legal/privacy.html">Privacy</a> · <a href="legal/terms.html">Terms</a> · <a href="legal/cookies.html">Cookies</a> · <a href="legal/dmca.html">DMCA / Copyright</a> · <a href="legal/affiliate-disclosure.html">Affiliate disclosure</a> · <a href="legal/privacy.html#do-not-sell">Do Not Sell or Share My Personal Information</a> <small>(policies are drafts pending attorney review)</small></p>
   <p class="fine">Headlines link to their original publishers, who own those articles; summaries are our own one-line descriptions. Some history facts are adapted from Wikipedia (CC BY-SA 4.0). Data: <a href="https://github.com/nflverse/nflverse-data" target="_blank" rel="noopener">nflverse</a> (<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC-BY 4.0</a>): schedule, scores, stats, rankings, depth chart and injury report. College prospect stats: <a href="https://collegefootballdata.com" target="_blank" rel="noopener">CollegeFootballData.com</a>. <a href="feed.xml">RSS</a> · <a href="feed.json">JSON Feed</a> · <a class="foot-editor" href="#/heatmap?editor=1" rel="nofollow">Editor</a></p>
 </div></footer>
-<script src="app.js?v=1792297124"></script>
-<script src="boxscore.js?v=1792297124"></script>
-<script src="forum.js?v=1792297124"></script>
-<script src="extras.js?v=1792297124"></script>
-<script src="grades.js?v=1792297124"></script>
-<script src="stats.js?v=1792297124"></script>
-<script src="comps.js?v=1792297124"></script>
-<script src="prospectcard.js?v=1792297124"></script>
-<script src="roster.js?v=1792297124"></script>
-<script src="drafthub.js?v=1792297124"></script>
-<script src="draft.js?v=1792297124"></script>
-<script src="legal.js?v=1792297124"></script>
-<script src="college.js?v=1792297124"></script>
-<script src="history.js?v=1792297124"></script>
+<script src="app.js?v=1792297358"></script>
+<script src="boxscore.js?v=1792297358"></script>
+<script src="forum.js?v=1792297358"></script>
+<script src="extras.js?v=1792297358"></script>
+<script src="grades.js?v=1792297358"></script>
+<script src="stats.js?v=1792297358"></script>
+<script src="comps.js?v=1792297358"></script>
+<script src="prospectcard.js?v=1792297358"></script>
+<script src="roster.js?v=1792297358"></script>
+<script src="drafthub.js?v=1792297358"></script>
+<script src="draft.js?v=1792297358"></script>
+<script src="legal.js?v=1792297358"></script>
+<script src="college.js?v=1792297358"></script>
+<script src="history.js?v=1792297358"></script>
 </body></html>
