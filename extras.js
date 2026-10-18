@@ -57,7 +57,7 @@ function rumors(){const d=X.rum,el=$('rumormeter-body');if(!d||!el)return;const 
  <div class="box tiers-legend">${Object.entries(sc).map(([t,n])=>`<span><i class="meter m${n}">${'▮'.repeat(n)}${'▯'.repeat(4-n)}</i> ${t}</span>`).join('')}</div>
  <div class="chips">${['All','Rumor','Confirmed','Denied','National insider','Beat writer / team','Fan blog','Aggregator / other'].map(f=>`<button class="chip rm-f${rmF===f?' on':''}" data-f="${f}">${f}</button>`).join('')}</div>
  <div class="rm-list">${list.map(r=>`<article class="box rm"><div class="rm-top"><span class="st st-${r.status.toLowerCase()}">${r.status}</span><i class="meter m${sc[r.tier]}" title="${E(r.tier)}">${'▮'.repeat(sc[r.tier])}${'▯'.repeat(4-sc[r.tier])}</i><small>${E(r.tier)} · ${E(r.source)} · ${ago(r.published)}</small></div>
-  <a class="hl" href="${E(r.link)}" ${EXT}>${E(r.title)}</a>${r.summary?`<p>${E(r.summary)}</p>`:''}${r.status_note?`<p class="fine">${r.status==='Confirmed'?'✅ Confirmed by':'❌ Denied by'}: <a href="${E(r.status_link)}" ${EXT}>${E(r.status_note)}</a></p>`:''}</article>`).join('')||'<p class="empty">No rumors in the last 5 days</p>'}</div>
+  <a class="hl ext-native" href="${E(r.link)}" target="_blank" rel="noopener" data-native="1">${E(r.title)}</a>${r.summary?`<p>${E(r.summary)}</p>`:''}${r.status_note?`<p class="fine">${r.status==='Confirmed'?'✅ Confirmed by':'❌ Denied by'}: <a href="${E(r.status_link)}" target="_blank" rel="noopener" data-native="1" class="ext-native">${E(r.status_note)}</a></p>`:''}</article>`).join('')||'<p class="empty">No rumors in the last 5 days</p>'}</div>
  <p class="fine">${E(d.method)}</p>`;}
 window.BGD_renderRumors=rumors;
 

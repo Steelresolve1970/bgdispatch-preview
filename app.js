@@ -92,7 +92,7 @@ function renderFV(){const f=D.fv,el=$('featuredVideo');if(!el||!f||!f.video)retu
  el.innerHTML=`<h2 id="fvH" class="section-title">Featured Video · ${lab}</h2><div class="fv-grid">${src?`<div class="fv-frame"><iframe src="${esc(src)}" title="${esc(v.title)}" loading="lazy" allow="encrypted-media; picture-in-picture; fullscreen" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe></div>`:`<a class="fv-frame fv-out" data-no-embed="1" href="${esc(v.link)}" ${ext}><span class="fv-play">▶</span><span class="fv-out-t">Watch on YouTube</span><span class="fv-out-s">${esc(v.channel)} only allows this video to play on YouTube</span></a>`}<div class="fv-body"><h3><a href="${esc(v.link)}" ${ext}>${esc(v.title)}</a></h3><p>${esc(v.caption||'')}</p>${f.fallback?`<p class="fv-note">${esc(f.fallback)}</p>`:''}<p class="meta">Official ${esc(v.channel)} YouTube channel · <a href="${esc(v.link)}" ${ext}>Watch on YouTube →</a></p></div></div>`;
  el.hidden=false;}
 
-const SRC={news:['data/news.json',renderNews],ticker:['data/ticker.json',renderTicker],ins:['data/insiders.json',renderIns],
+const SRC={news:['data/news.json',()=>{renderNews();if(window.BGD_storyId)renderStory();}],ticker:['data/ticker.json',renderTicker],ins:['data/insiders.json',renderIns],
  prev:['data/preview.json',renderFilm],film:['data/film.json',renderFilm],pods:['data/podcasts.json',renderPods],sched:['data/schedule.json',renderGame],fv:['data/featured_video.json',renderFV]};
 async function loadAll(){await Promise.all(Object.entries(SRC).map(async([k,[u,fn]])=>{try{D[k]=await getJSON(u);fn();}catch(e){}}));}
 loadAll();setInterval(loadAll,5*60*1000);
