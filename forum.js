@@ -32,7 +32,7 @@ function forumThread(id){const t=(FB?FB.topics:[]).find(x=>x.id===id);if(!t)retu
  <p class="fine">No replies yet. Be the first when member accounts launch.</p>
  <div class="reply-box"><label class="sr" for="reply-ta">Reply</label><textarea id="reply-ta" placeholder="Sign in to reply (accounts launching soon; 13+ only)" disabled></textarea><button class="btn" type="button" disabled>Post reply</button></div>`;}
 function renderForum(){const el=document.getElementById('forum-body');if(!el)return;const m=location.hash.match(/forum\/thread\/([\w-]+)/);el.innerHTML=m?forumThread(m[1]):forumList();}
-fetch('data/forum_bot.json',{cache:'no-store'}).then(r=>r.json()).then(d=>{FB=d;if(/forum/.test(location.hash))renderForum();}).catch(()=>{});
+fetch(BGD_url('data/forum_bot.json'),{cache:'no-store'}).then(r=>r.json()).then(d=>{FB=d;if(/forum/.test(location.hash))renderForum();}).catch(()=>{});
 document.addEventListener('route',e=>{if(e.detail==='forum')renderForum();});
 // Report button (scaffold): moderation queue goes live with accounts. Nothing is sent anywhere yet.
 document.addEventListener('click',e=>{const b=e.target.closest('.report-btn');if(!b)return;const m=b.parentElement.querySelector('.report-msg');

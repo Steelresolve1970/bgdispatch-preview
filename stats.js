@@ -21,6 +21,6 @@ function render(d){const el=document.getElementById('stats-body');if(!el||!d)ret
  </tbody></table></div>
  <p class="fine">Player ranks are among all ${n.toLocaleString()} NFL players with ${g.toLowerCase()} stats this season (ties share a rank). ${E(d.qbr_note)}</p>
  `;}
-let D=null;fetch('data/stats.json',{cache:'no-store'}).then(r=>r.json()).then(d=>{D=d;render(D);}).catch(()=>{});
+let D=null;fetch(BGD_url('data/stats.json'),{cache:'no-store'}).then(r=>r.json()).then(d=>{D=d;render(D);}).catch(()=>{});
 document.addEventListener('click',e=>{const t=e.target.closest('.st-tab');if(t){tab=t.dataset.st;render(D);}});
 })();

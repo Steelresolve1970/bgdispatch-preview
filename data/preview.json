@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T04:12:19.965480+00:00",
+ "generated": "2026-10-18T04:23:38.623155+00:00",
  "game": {
   "label": "at Tampa Bay Buccaneers (Oct 18)",
   "opponent": "Tampa Bay Buccaneers",
@@ -87,7 +87,7 @@
    "creator": "Cover 1",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UClL6eJS1s8xmRoYRQbYgxQQ",
-   "status": "error: HTTP Error 500: Internal Server Error",
+   "status": "error: HTTP Error 404: Not Found",
    "feed_items": 0,
    "in_window": 0
   },
@@ -111,9 +111,9 @@
    "creator": "Steelers Now (Derrick Bell)",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp1iAMIfmmgWewzJ07_Y7oA",
-   "status": "error: HTTP Error 404: Not Found",
-   "feed_items": 0,
-   "in_window": 0
+   "status": "ok",
+   "feed_items": 15,
+   "in_window": 1
   },
   {
    "creator": "Steel City Underground",
@@ -127,7 +127,7 @@
    "creator": "Still Curtain",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxjSNPLcRAVzDKOjhRwo-hQ",
-   "status": "error: HTTP Error 404: Not Found",
+   "status": "error: HTTP Error 500: Internal Server Error",
    "feed_items": 0,
    "in_window": 0
   },
@@ -135,8 +135,8 @@
    "creator": "Locked On Steelers",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7JorgD8nGLtvvMy1ogFetg",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
@@ -167,9 +167,9 @@
    "creator": "Steelers Depot (YouTube)",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFqbkq2BzNY3iQ_FPveqVhw",
-   "status": "ok",
-   "feed_items": 15,
-   "in_window": 1
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
+   "in_window": 0
   },
   {
    "creator": "Pittsburgh Steelers (official)",
@@ -199,34 +199,34 @@
    "creator": "The QB School (JT O'Sullivan)",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGfxHp2yuimtLsFaq1r7aIQ",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
    "creator": "All_22_Films",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7Dbn36zT6XjfBh9YDLmGIg",
-   "status": "error: HTTP Error 404: Not Found",
-   "feed_items": 0,
+   "status": "ok",
+   "feed_items": 15,
    "in_window": 0
   }
  ],
  "items": [
+  {
+   "title": "Buccaneers Preview & Predictions | Steelers Afternoon Drive",
+   "creator": "Steelers Now (Derrick Bell)",
+   "link": "https://www.youtube.com/watch?v=usANVtFc8bk",
+   "published": "2026-10-16T22:10:44+00:00",
+   "summary": "Preview by Steelers Now (Derrick Bell) for at Tampa Bay Buccaneers (Oct 18).",
+   "game": "at Tampa Bay Buccaneers (Oct 18)"
+  },
   {
    "title": "How to pressure Tampa Bay | Playbook with Merril Hoge | Pittsburgh Steelers",
    "creator": "Merril Hoge \u2013 Steelers Playbook (official)",
    "link": "https://www.youtube.com/watch?v=9sQcJpz3j8M",
    "published": "2026-10-16T22:00:07+00:00",
    "summary": "Preview by Merril Hoge \u2013 Steelers Playbook (official) for at Tampa Bay Buccaneers (Oct 18).",
-   "game": "at Tampa Bay Buccaneers (Oct 18)"
-  },
-  {
-   "title": "The Terrible Podcast \u2014 Steelers Vs Buccaneers Game Preview, Trade Possibility, Injuries, W6 Picks",
-   "creator": "Steelers Depot (YouTube)",
-   "link": "https://www.youtube.com/watch?v=lHwxWzn_glI",
-   "published": "2026-10-16T15:33:32+00:00",
-   "summary": "Preview by Steelers Depot (YouTube) for at Tampa Bay Buccaneers (Oct 18).",
    "game": "at Tampa Bay Buccaneers (Oct 18)"
   },
   {

@@ -131,5 +131,5 @@ document.addEventListener('input',ev=>{const e=el();if(!e||!e.contains(ev.target
 document.addEventListener('change',ev=>{const e=el();if(!e||!e.contains(ev.target))return;const c=ev.target.classList;
  if(c.contains('dr-sch')){S.school=ev.target.value;render();}else if(c.contains('dr-tw')){S.trade.with=ev.target.value;S.trade.get=[];render();}});
 document.addEventListener('keydown',ev=>{if(ev.key==='Escape'&&S.card){S.card=null;render();}});
-Promise.all([...['data/draft/board.json','data/draft/order.json'].map(u=>fetch(u,{cache:'no-store'}).then(r=>r.json())),window.compsReady]).then(([b,o])=>{S.board=b;S.order=o;if(o.needs&&o.needs.PIT)S.needsPIT=o.needs.PIT;render();}).catch(()=>{const e=el();if(e)e.innerHTML='<p class="empty">Mock draft data unavailable right now.</p>';});
+Promise.all([...['data/draft/board.json','data/draft/order.json'].map(u=>fetch((window.BGD_url?BGD_url(u):u),{cache:'no-store'}).then(r=>r.json())),window.compsReady]).then(([b,o])=>{S.board=b;S.order=o;if(o.needs&&o.needs.PIT)S.needsPIT=o.needs.PIT;render();}).catch(()=>{const e=el();if(e)e.innerHTML='<p class="empty">Mock draft data unavailable right now.</p>';});
 })();

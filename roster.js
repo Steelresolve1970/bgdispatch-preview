@@ -13,8 +13,8 @@ function tab(k,push){document.querySelectorAll('.rr-tab').forEach(b=>{const on=b
 document.addEventListener('click',e=>{const b=e.target.closest('.view[data-view="roster"] .rr-tab');if(b&&b.dataset.rr){tab(b.dataset.rr,true);}});
 document.addEventListener('route',e=>{if(e.detail!=='roster')return;const m=location.hash.match(/tab=(\w+)/);tab(m&&['depth','ps','roster'].includes(m[1])?m[1]:'depth',true);});
 // ---- data ----
-function load(){if(R)return Promise.resolve(R);return fetch('data/roster/roster.json',{cache:'no-store'}).then(r=>r.json()).then(j=>{R=j;renderPS();renderRoster();return R;}).catch(()=>{const t='<p class="empty">Roster data is not available right now.</p>';$('ps-body').innerHTML=t;$('roster-body').innerHTML=t;});}
-function loadP(){return pReady||(pReady=fetch('data/roster/players.json',{cache:'no-store'}).then(r=>r.json()).then(j=>P=j.players));}
+function load(){if(R)return Promise.resolve(R);return fetch(BGD_url('data/roster/roster.json'),{cache:'no-store'}).then(r=>r.json()).then(j=>{R=j;renderPS();renderRoster();return R;}).catch(()=>{const t='<p class="empty">Roster data is not available right now.</p>';$('ps-body').innerHTML=t;$('roster-body').innerHTML=t;});}
+function loadP(){return pReady||(pReady=fetch(BGD_url('data/roster/players.json'),{cache:'no-store'}).then(r=>r.json()).then(j=>P=j.players));}
 const asof=()=>`<p class="fine">nflverse roster data through Week ${R.nflverse_week} of ${R.season} (file updated ${new Date(R.nflverse_file_updated).toLocaleString('en-US',{timeZone:'America/New_York',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})} ET). Same-day signings and IR moves can take a day or two to show up. Tap a player for his card.</p>`;
 const nb=x=>x.num?'#'+E(x.num):'—';
 function renderPS(){if(!R)return;const ps=R.players.filter(p=>p.group==='Practice squad').sort((a,b)=>(+a.num||999)-(+b.num||999));

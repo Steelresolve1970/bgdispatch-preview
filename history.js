@@ -81,7 +81,7 @@ function render(){const el=document.getElementById('history-extra');if(!el)retur
 document.addEventListener('click',e=>{const ch=e.target.closest('.hv-change');if(ch){voteMsg[ch.dataset.b]='edit';const b=H.ballots.ballots.find(x=>x.id===ch.dataset.b);document.getElementById('bal-'+b.id).outerHTML=ballotHtml(b);return;}
  const d=e.target.closest('.h-dec');if(d){decade=d.dataset.d;seasonsTable();return;}
  const j=e.target.closest('.h-jump button');if(j){const t=document.getElementById(j.dataset.j);if(t){t.open=true;t.scrollIntoView({behavior:'smooth',block:'start'});}}});
-function load(){if(loaded){render();return;}Promise.all(FILES.map(f=>fetch('data/history/'+f+'.json',{cache:'no-store'}).then(r=>r.json()))).then(a=>{FILES.forEach((f,i)=>H[f]=a[i]);loaded=true;render();}).catch(()=>{const el=document.getElementById('history-extra');if(el)el.innerHTML='<p class="empty">History data could not load. Try reloading.</p>';});}
+function load(){if(loaded){render();return;}Promise.all(FILES.map(f=>fetch(BGD_url('data/history/')+f+'.json',{cache:'no-store'}).then(r=>r.json()))).then(a=>{FILES.forEach((f,i)=>H[f]=a[i]);loaded=true;render();}).catch(()=>{const el=document.getElementById('history-extra');if(el)el.innerHTML='<p class="empty">History data could not load. Try reloading.</p>';});}
 document.addEventListener('route',e=>{if(e.detail==='history')load();});
 if(/^#\/history/.test(location.hash))load();
 })();

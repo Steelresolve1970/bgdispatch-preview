@@ -2,7 +2,7 @@
 const G={ballot:null,week:null,season:null,mode:'week',picks:{},sel:null};
 const GE=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const GROUPS={QB:'Quarterbacks',RB:'Running Backs',WR:'Wide Receivers',TE:'Tight Ends',OL:'Offensive Line',DL:'Defensive Line',LB:'Linebackers',DB:'Defensive Backs',ST:'Specialists'};
-const gj=u=>fetch(u,{cache:'no-store'}).then(r=>{if(!r.ok)throw r.status;return r.json()});
+const gj=u=>fetch((window.BGD_url?BGD_url(u):u),{cache:'no-store'}).then(r=>{if(!r.ok)throw r.status;return r.json()});
 const fmtD=(iso,o)=>new Date(iso).toLocaleString('en-US',{timeZone:'America/New_York',...o});
 
 // Color scale: BLUE = cold/worst -> light gray (neutral) -> orange -> RED = hot/best, smooth interpolation on grade 3..9

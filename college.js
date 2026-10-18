@@ -20,8 +20,8 @@ function render(d){const el=document.getElementById('college-body');if(!el||!d)r
   ${statBlock(p.stats)}
   ${p.news.length?`<ul class="cl-news">${p.news.map(n=>`<li><span class="kind dark">${E(n.kind)}</span> <small>${ago(n.published)}</small><p>${E(n.snippet)}</p><a href="${E(n.link)}" ${ext}>${E(n.headline)} (${E(n.publisher)}) →</a></li>`).join('')}</ul>`:'<p class="fine">No new headlines this week.</p>'}</article>`).join('')}</div>
  <p class="fine">${E(d.note)} Updated ${new Date(d.generated).toLocaleString('en-US',{timeZone:'America/New_York',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})} ET.</p>`;}
-let N=null;fetch('data/needs.json',{cache:'no-store'}).then(r=>r.json()).then(n=>{N=n;render(D);}).catch(()=>{});
-let D=null;fetch('data/college.json',{cache:'no-store'}).then(r=>r.json()).then(d=>{D=d;render(D);}).catch(()=>{});
+let N=null;fetch(BGD_url('data/needs.json'),{cache:'no-store'}).then(r=>r.json()).then(n=>{N=n;render(D);}).catch(()=>{});
+let D=null;fetch(BGD_url('data/college.json'),{cache:'no-store'}).then(r=>r.json()).then(d=>{D=d;render(D);}).catch(()=>{});
 document.addEventListener('bgd-avail',()=>render(D));
 if(window.PCard)PCard.ready.then(()=>{if(D)render(D);});
 if(window.compsReady)compsReady.then(()=>{if(D)render(D);});

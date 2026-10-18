@@ -2,7 +2,7 @@
 // All data comes from files the fetchers write (nflverse CC-BY 4.0 data, our news feed, verified history).
 (function(){
 const X={};const E=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const EXT='target="_blank" rel="noopener noreferrer"';const J=u=>fetch(u,{cache:'no-store'}).then(r=>{if(!r.ok)throw r.status;return r.json()});
+const EXT='target="_blank" rel="noopener noreferrer"';const J=u=>fetch((window.BGD_url?BGD_url(u):u),{cache:'no-store'}).then(r=>{if(!r.ok)throw r.status;return r.json()});
 const et=(iso,o)=>new Date(iso).toLocaleString('en-US',{timeZone:'America/New_York',...o});
 const ago=iso=>{const m=Math.round((Date.now()-new Date(iso))/6e4);return m<60?m+'m ago':m<1440?Math.round(m/60)+'h ago':Math.round(m/1440)+'d ago';};
 const $=id=>document.getElementById(id);const money=v=>v==null?'—':'$'+(v>=1e6?(v/1e6).toFixed(v>=1e7?1:2)+'M':Math.round(v/1e3)+'K');
@@ -32,7 +32,7 @@ function scout(){const d=X.opp,el=$('scout-body');if(!d||!el)return;const g=d.ga
  <div class="leaders">${d.leaders.opp.map(l=>`<div class="box ldr"><small>${E(l.cat)}</small><b>${E(l.name)}</b><span>${E(l.line)}</span></div>`).join('')}</div>
  <h2 class="section-title">${E(d.abbr)} injuries</h2>
  <div class="inj-list">${d.injuries.filter(p=>p.status!=='Cleared').map(p=>`<a class="box inj" href="${E(p.link)}" ${EXT}><span class="pill ${stCls[p.status]||''}">${p.status==='Injured Reserve'?'IR':E(p.status)}</span><b>${E(p.name)}</b><small>${E(p.pos)}</small><span>${E(p.injury||'Undisclosed')}</span></a>`).join('')||'<p class="fine">No injuries listed.</p>'}</div>
- <p class="fine">${E(d.note)} <a href="#/preview">Film previews →</a></p>`;}
+ <p class="fine">${E(d.note)} <a href="#/opponent">Opponent previews →</a></p>`;}
 
 // ---------- Cap center ----------
 let capSort='salary';
@@ -144,6 +144,6 @@ if('serviceWorker' in navigator&&location.protocol!=='file:')navigator.serviceWo
   <div class="box depth"><div class="dr dh"><span>Position</span><span>Starter</span><span>2nd</span><span>3rd</span><span>Others</span></div>
   ${u.rows.map(r=>`<div class="dr"><span class="dpos"><b>${E(r.slot)}</b><small>${E(r.label)}</small></span>${[0,1,2].map(i=>`<span class="ds" data-s="${['Starter','2nd','3rd'][i]}">${pc(r.players[i])}</span>`).join('')}<span class="ds more" data-s="Others">${r.players.slice(3).map(pc).join(' ')||'<span class="dp none">—</span>'}</span></div>`).join('')}</div>
   <p class="fine">${E(D.note)} Tags: OUT, D = doubtful, Q = questionable, IR = injured reserve.</p>`;}
- fetch('data/depth.json',{cache:'no-store'}).then(r=>r.json()).then(d=>{D=d;render();}).catch(()=>{});
- setInterval(()=>fetch('data/depth.json',{cache:'no-store'}).then(r=>r.json()).then(d=>{D=d;render();}).catch(()=>{}),5*60*1000);
+ fetch(BGD_url('data/depth.json'),{cache:'no-store'}).then(r=>r.json()).then(d=>{D=d;render();}).catch(()=>{});
+ setInterval(()=>fetch(BGD_url('data/depth.json'),{cache:'no-store'}).then(r=>r.json()).then(d=>{D=d;render();}).catch(()=>{}),5*60*1000);
  document.addEventListener('click',e=>{const b=e.target.closest('.dc-u');if(b){uSel=b.dataset.u;render();}});})();

@@ -4,7 +4,15 @@ const ext='target="_blank" rel="noopener noreferrer"';
 const ET={timeZone:'America/New_York'};
 function ago(iso){if(!iso)return'';const m=Math.max(0,Math.round((Date.now()-new Date(iso))/60000));
  if(m<60)return m+'m ago';const h=Math.round(m/60);if(h<24)return h+'h ago';return Math.round(h/24)+'d ago';}
-const getJSON=u=>fetch(u,{cache:'no-store'}).then(r=>{if(!r.ok)throw r.status;return r.json()});
+window.BGD_V=document.querySelector('meta[name="bgd-build"]')?.content||'';
+window.BGD_url=u=>{const v=window.BGD_V;if(!v||v==='dev')return u;return u+(u.includes('?')?'&':'?')+'v='+encodeURIComponent(v);};
+const getJSON=u=>fetch(BGD_url(u),{cache:'no-store'}).then(r=>{if(!r.ok)throw r.status;return r.json()});
+// Reload once if a newer build is on the server (defeats stale HTML/JS caches).
+(function(){const cur=window.BGD_V;if(!cur||cur==='dev')return;
+ fetch(BGD_url('version.json'),{cache:'no-store'}).then(r=>r.ok?r.json():null).then(j=>{if(!j||!j.v)return;
+  if(j.v===cur){try{localStorage.setItem('bgd_build',j.v);}catch(e){}return;}
+  try{if(sessionStorage.getItem('bgd_reloaded')===j.v)return;sessionStorage.setItem('bgd_reloaded',j.v);}catch(e){}
+  location.reload();}).catch(()=>{});})();
 const D={};
 const card=n=>`<article class="card"><p class="meta"><b>${esc(n.source)}</b> · <time datetime="${esc(n.published)}">${ago(n.published)}</time></p>
  <h3><a class="hl" href="${esc(n.link)}" ${ext}>${esc(n.title)}</a></h3>${n.summary?`<p>${esc(n.summary)}</p>`:''}<a href="${esc(n.link)}" ${ext}>Read at source →</a></article>`;
@@ -40,7 +48,7 @@ function renderFilm(){
    $('film-full').innerHTML=`<nav class="filmnav" aria-label="Pick a game">${G.map(g=>`<a href="#film-${esc(g.gid)}" onclick="event.preventDefault();const d=document.getElementById('film-${esc(g.gid)}');d.open=true;d.scrollIntoView({behavior:'smooth'})">${esc(g.label)} (${g.count})</a>`).join('')}</nav>`+
    G.map((g,i)=>`<details class="filmgame" id="film-${esc(g.gid)}" ${i?'':'open'}><summary><h2>${esc(g.label)}</h2> <span class="meta">${g.count} breakdown${g.count==1?'':'s'}</span></summary><div class="pods">${g.items.map(e=>tile(e,'🎬 Film',e.creator,'View')).join('')||empty('No breakdowns found for this game')}</div></details>`).join('');}
   else $('film-full').innerHTML=x.join('')||empty('No film breakdowns yet for the last game');}
- if(D.prev){const p=D.prev,h=p.game?'Film Preview: '+p.game.label:'Film Preview';$('prevH').textContent=h;$('prevH2').textContent=h;
+ if(D.prev){const p=D.prev,h=p.game?'Opponent Preview: '+p.game.label:'Opponent Preview';$('prevH').textContent=h;$('prevH2').textContent=h;
   const x=p.items.map(e=>tile(e,'🔎 Preview',e.creator,'View'));$('preview-list').innerHTML=x.slice(0,6).join('')||empty('No previews yet for the next game');$('preview-full').innerHTML=ctmBox(p.ctm)+(x.join('')||empty('No previews yet for the next game'));}}
 function ctmBox(c){if(!c)return'';return `<article class="pod ctm"><p class="kind">🎙 Check the Mic · ${esc(c.network)}</p><h3>${esc(c.title)}</h3><p class="meta"><b>${esc(c.hosts)}</b> · ${fmt(c.published,{month:'short',day:'numeric'})}</p><p>${esc(c.summary)}</p>${c.note?`<p class="fine">${esc(c.note)}</p>`:''}${c.embed?`<div class="yt-embed"><iframe loading="lazy" src="${esc(c.embed)}" title="${esc(c.title)}" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe></div>`:''}<a href="${esc(c.link)}" ${ext}>Listen${c.segment?' (Steelers segment at '+esc(c.segment)+')':''} →</a>${c.youtube?` · <a href="${esc(c.youtube)}" ${ext}>Watch on YouTube →</a>`:''}</article>`;}
 function renderPods(){const p=D.pods;if(!p)return;const cut=Date.now()-7*864e5;
@@ -61,7 +69,7 @@ function renderGame(){const s=D.sched;if(!s)return;const n=s.next,l=s.last;
   ${n?`<section class="gc-next"><p class="kind">Next game · ${esc(n.week||'')}</p><h2>${vs(n)}</h2>
    <p>${fmt(n.date,{weekday:'long',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})} ET${n.tv?' · '+esc(n.tv):''}</p><p class="fine light">${esc(n.venue||'')}</p>
    <div class="countdown" id="countdown" data-t="${esc(n.date)}"></div>
-   <p><a href="#/preview">Film preview →</a></p></section>`:'<section class="gc-next"><h2>Season complete</h2></section>'}
+   <p><a href="#/opponent">Opponent preview →</a></p></section>`:'<section class="gc-next"><h2>Season complete</h2></section>'}
   <section class="box gc-side"><p class="kind dark">Record</p><p class="big">${esc(s.record)}</p>
    ${l?`<p class="kind dark">Last game</p><p class="res ${l.result}">${l.result} ${esc(l.score)}</p><p>${vs(l)} · ${fmt(l.date,{month:'short',day:'numeric'})}</p><p><a href="#/film">Film breakdown →</a><br><a href="#/grades">Grade the players (Heat Map) →</a><br><a href="#/heatmap">Fan heat map →</a></p>`:''}</section>
  </div>
@@ -86,9 +94,10 @@ async function loadAll(){await Promise.all(Object.entries(SRC).map(async([k,[u,f
 loadAll();setInterval(loadAll,5*60*1000);
 
 // hash router
-const TITLES={home:'News',podcasts:'Podcasts & YouTube',film:'Film Room',preview:'Film Preview',roster:'Depth Chart & Roster',game:'Schedule',stats:'Stats',heatmap:'Player Heat Map',drafthub:'Draft',draft:'Mock Draft',college:'College Prospect Tracker',insiders:'Insiders',forum:'Forum',live:'Live Hub',injuries:'Injury Tracker',scout:'Opponent Scouting',cap:'Cap Center',rumors:'Rumors & Updates',play:"Pick'em & Trivia",history:'Steelers History',alerts:'Alerts & Email',boxscore:'Box Score'};
-function route(){const parts=(location.hash.replace(/^#\/?/,'')||'home').split('?')[0].split('/');const r=parts[0];const alias={grades:'heatmap',rumormeter:'rumors'};const v=alias[r]||(TITLES[r]?r:'home');window.BGD_boxId=r==='boxscore'?decodeURIComponent(parts[1]||''):'';
+const TITLES={home:'News',podcasts:'Podcasts & YouTube',film:'Film Room',opponent:'Opponent Preview',roster:'Depth Chart & Roster',game:'Schedule',stats:'Stats',heatmap:'Player Heat Map',drafthub:'Draft',draft:'Mock Draft',college:'College Prospect Tracker',insiders:'Insiders',forum:'Forum',live:'Live Hub',injuries:'Injury Tracker',scout:'Opponent Scouting',cap:'Cap Center',rumors:'Rumors & Updates',play:"Pick'em & Trivia",history:'Steelers History',alerts:'Alerts & Email',boxscore:'Box Score'};
+function route(){const parts=(location.hash.replace(/^#\/?/,'')||'home').split('?')[0].split('/');const r=parts[0];const alias={grades:'heatmap',rumormeter:'rumors',preview:'opponent'};const v=alias[r]||(TITLES[r]?r:'home');window.BGD_boxId=r==='boxscore'?decodeURIComponent(parts[1]||''):'';
  if(r==='rumormeter'){const qs=(location.hash.split('?')[1]||'');const nh='#/rumors'+(qs?('?'+qs):'?tab=meter');if(location.hash!==nh)history.replaceState(null,'',nh);}
+ if(r==='preview'){if(location.hash!=='#/opponent')history.replaceState(null,'','#/opponent');}
  document.querySelectorAll('.view').forEach(e=>e.hidden=e.dataset.view!==v);
  {const ib=document.querySelector('.sidebar .insiders');if(ib)ib.style.display=v==='home'?'':'none';} {const hs=document.querySelector('[aria-labelledby="huddleSide"]');if(hs)hs.style.display=v==='alerts'?'none':'';}
  document.querySelectorAll('nav a').forEach(a=>a.dataset.route===v?a.setAttribute('aria-current','page'):a.removeAttribute('aria-current'));document.querySelector('.more-btn')?.classList.toggle('cur',!!document.querySelector('.more a[aria-current]'));
@@ -105,11 +114,11 @@ document.addEventListener('keydown',e=>{if(e.key!=='Enter'&&e.key!==' ')return;c
 document.addEventListener('click',e=>{const m=document.querySelector('.has-more');if(!m)return;const bt=e.target.closest('.more-btn');if(bt){const o=m.classList.toggle('open');bt.setAttribute('aria-expanded',o);}else if(!e.target.closest('.more'))m.classList.remove('open');});
 
 // Per-section Schema.org JSON-LD for crawlers/agents (no visual change): loads jsonld/<route>.json into <head>.
-const JL=new Set(['college','drafthub','film','game','heatmap','home','injuries','live','podcasts','preview','rumors','roster','scout','stats']);
+const JL=new Set(['college','drafthub','film','game','heatmap','home','injuries','live','podcasts','opponent','rumors','roster','scout','stats']);
 document.addEventListener('route',e=>{const v=e.detail==='home'?null:e.detail;let s=document.getElementById('ld-route');
- if(!v||!JL.has(v)){s&&s.remove();return;}fetch('jsonld/'+v+'.json',{cache:'no-store'}).then(r=>r.ok?r.text():null).then(t=>{if(!t)return;if(!s){s=document.createElement('script');s.type='application/ld+json';s.id='ld-route';document.head.appendChild(s);}s.textContent=t;}).catch(()=>{});});
+ if(!v||!JL.has(v)){s&&s.remove();return;}fetch(BGD_url('jsonld/'+v+'.json'),{cache:'no-store'}).then(r=>r.ok?r.text():null).then(t=>{if(!t)return;if(!s){s=document.createElement('script');s.type='application/ld+json';s.id='ld-route';document.head.appendChild(s);}s.textContent=t;}).catch(()=>{});});
 // Shared "chance available at Steelers pick" badge (estimate; data/draft/availability.json, method on the Draft tab).
-window.BGD_AV=null;fetch('data/draft/availability.json',{cache:'no-store'}).then(r=>r.json()).then(a=>{window.BGD_AV=a;document.dispatchEvent(new Event('bgd-avail'));}).catch(()=>{});
+window.BGD_AV=null;fetch(BGD_url('data/draft/availability.json'),{cache:'no-store'}).then(r=>r.json()).then(a=>{window.BGD_AV=a;document.dispatchEvent(new Event('bgd-avail'));}).catch(()=>{});
 window.availHTML=function(name,list){const a=list||(window.BGD_AV&&window.BGD_AV.players[name]&&window.BGD_AV.players[name].picks);if(!a)return'';
  const cls=p=>p>=65?'hi':p>=35?'mid':p>=10?'lo':'none';
  return`<div class="avail" title="Estimate from our board rank vs the Steelers' projected pick. See the Draft tab for how it works."><span class="avail-lab">Chance available at Steelers pick <small>(estimate)</small></span>${a.map(x=>`<span class="avail-pill ${cls(x.pct)}">R${x.round} #${x.overall}: <b>${x.pct<1?'<1':x.pct>99?'>99':x.pct}%</b></span>`).join('')}</div>`;};

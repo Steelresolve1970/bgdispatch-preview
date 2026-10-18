@@ -32,7 +32,7 @@ function html(p,o){o=o||{};const t=p.parts||{},sc=scout(p),why=scoutReason(p);
  <table class="dr-parts"><tr><th>Prod.</th><th>Pedigree</th><th>Sched.</th><th>Team</th><th>Class</th><th>Size</th></tr><tr><td>${t.production??'–'}/45</td><td>${t.pedigree??'–'}/22</td><td>${t.schedule??'–'}/12</td><td>${t.team??'–'}/6</td><td>${t.cls??'–'}/5</td><td>${t.size??'–'}/5</td></tr></table>
  <p class="fine">Our own formula from CollegeFootballData.com stats plus our staff tier; strengths, concerns and comparison are our own read. Fan opinion, not a scouting report.</p>
  ${o.bottom||''}</div></div>`;}
-let B=null;const ready=fetch('data/draft/board.json',{cache:'no-store'}).then(r=>r.json()).then(j=>{B={};(j.prospects||[]).forEach(p=>{B[p.name]=p;});return B;}).catch(()=>{B={};});
+let B=null;const ready=fetch(BGD_url('data/draft/board.json'),{cache:'no-store'}).then(r=>r.json()).then(j=>{B={};(j.prospects||[]).forEach(p=>{B[p.name]=p;});return B;}).catch(()=>{B={};});
 const get=n=>B&&B[n];
 const size=n=>{const p=get(n);return p?[p.height,p.weight?p.weight+' lb':''].filter(Boolean).join(', '):'';};
 let host=null,last=null;
