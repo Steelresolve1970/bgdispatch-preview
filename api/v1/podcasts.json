@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-18T16:46:22+00:00",
- "data_updated": "2026-10-18T16:46:16+00:00",
- "count": 157,
+ "generated": "2026-10-18T17:24:22+00:00",
+ "data_updated": "2026-10-18T17:23:53+00:00",
+ "count": 156,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -19,6 +19,19 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/podcasts",
  "items": [
+  {
+   "id": "2d6ea4bca09515f9",
+   "type": "video",
+   "title": "Heatin 🆙 📺: CBS",
+   "show": "Pittsburgh Steelers (official)",
+   "url": "https://www.youtube.com/shorts/fys6Phve0QE",
+   "published": "2026-10-18T16:44:31+00:00",
+   "summary": "Video from Pittsburgh Steelers (official).",
+   "source": {
+    "name": "Pittsburgh Steelers (official)",
+    "url": null
+   }
+  },
   {
    "id": "96621dc0fcdfd1a8",
    "type": "podcast_episode",
@@ -774,19 +787,6 @@
    }
   },
   {
-   "id": "dedcd2f50c9395ab",
-   "type": "video",
-   "title": "Cameron Heyward, Jaylen Warren & DK Metcalf Press Conference (October 15) | Pittsburgh Steelers",
-   "show": "Pittsburgh Steelers (official)",
-   "url": "https://www.youtube.com/watch?v=Z1vUl2ooeQ8",
-   "published": "2026-10-15T21:14:22+00:00",
-   "summary": "Video from Pittsburgh Steelers (official).",
-   "source": {
-    "name": "Pittsburgh Steelers (official)",
-    "url": null
-   }
-  },
-  {
    "id": "f41f0bacffa19098",
    "type": "podcast_episode",
    "title": "Steelers Injuries: Good News, Bad News, IR Coming?",
@@ -900,19 +900,6 @@
    "summary": "Podcast episode from Steelers Blitz.",
    "source": {
     "name": "Steelers Blitz",
-    "url": null
-   }
-  },
-  {
-   "id": "252c4d701784a481",
-   "type": "podcast_episode",
-   "title": "NFL Week 6 Preview & Picks: EVERY GAME!",
-   "show": "Check the Mic with Steve Palazzolo & Sam Monson",
-   "url": "https://podcasts.apple.com/us/podcast/nfl-week-6-preview-picks-every-game/id1761398472?i=1000796516134",
-   "published": "2026-10-15T16:00:00+00:00",
-   "summary": "Steve Palazzolo and Sam Monson's weekly every-game preview show; it includes the Steelers vs. Buccaneers matchup. Steelers segment starts at 1:10:44.",
-   "source": {
-    "name": "Check the Mic with Steve Palazzolo & Sam Monson",
     "url": null
    }
   },

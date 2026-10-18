@@ -1,58 +1,58 @@
 {
- "last_run": "2026-10-18T16:46:23.064593+00:00",
+ "last_run": "2026-10-18T17:24:22.694295+00:00",
  "results": [
   {
    "fetcher": "apply_grade_edits.py",
    "ok": true,
-   "seconds": 0.5,
+   "seconds": 0.4,
    "last_line": "no grade edits"
   },
   {
    "fetcher": "fetch_news.py",
    "ok": true,
-   "seconds": 2.0,
+   "seconds": 3.1,
    "last_line": "news: 150 ticker: 30"
   },
   {
    "fetcher": "fetch_schedule.py",
    "ok": true,
-   "seconds": 0.1,
+   "seconds": 0.3,
    "last_line": "record 3-2 next Tampa Bay Buccaneers games 17"
   },
   {
    "fetcher": "build_boxscores.py",
    "ok": true,
-   "seconds": 1.5,
+   "seconds": 1.9,
    "last_line": "boxscores 5"
   },
   {
    "fetcher": "fetch_insiders.py",
    "ok": true,
-   "seconds": 1.1,
-   "last_line": "sidebar: 6 full feed: 24"
+   "seconds": 1.2,
+   "last_line": "sidebar: 6 full feed: 23"
   },
   {
    "fetcher": "fetch_film.py",
    "ok": true,
-   "seconds": 3.0,
+   "seconds": 3.2,
    "last_line": "  Week 1 vs Falcons (W 20-13): 4   {'Steelers Depot Film Room (Alex Kozora)': 1, \"Derrick Bell \u2013 DB's Film Room (Steelers Now)\": 1, 'Steelers Almighty': 1, 'Steelers Depot (YouTube)': 1}"
   },
   {
    "fetcher": "fetch_podcasts.py",
    "ok": true,
-   "seconds": 1.5,
-   "last_line": "episodes past 7 days: 186 | embed-fallback channels: 0"
+   "seconds": 1.8,
+   "last_line": "episodes past 7 days: 185 | embed-fallback channels: 0"
   },
   {
    "fetcher": "fetch_featured.py",
    "ok": true,
-   "seconds": 0.7,
-   "last_line": "preview Tampa Bay Buccaneers Pittsburgh Steelers vs Tampa Bay Buccaneers | 2026 Week 6 Game Preview"
+   "seconds": 2.1,
+   "last_line": "preview New Orleans Saints None"
   },
   {
    "fetcher": "fetch_grades.py",
    "ok": true,
-   "seconds": 0.4,
+   "seconds": 0.5,
    "last_line": "weeks 5 ballot players 42 season players 51"
   },
   {
@@ -76,7 +76,7 @@
   {
    "fetcher": "fetch_needs.py",
    "ok": true,
-   "seconds": 0.0,
+   "seconds": 0.1,
    "last_line": " 23.7 WR   ['named in 8 recent headlines about Steelers needs']"
   },
   {
@@ -100,13 +100,13 @@
   {
    "fetcher": "fetch_hub.py",
    "ok": true,
-   "seconds": 0.0,
-   "last_line": "hub fresh (<30 min); skipped"
+   "seconds": 0.4,
+   "last_line": "injuries 16 practice 12 opp TB"
   },
   {
    "fetcher": "fetch_depth.py",
    "ok": true,
-   "seconds": 2.2,
+   "seconds": 2.7,
    "last_line": "depth units [('Offense', '3WR 1TE', 12), ('Defense', 'Base 3-4 D', 12), ('Special teams', 'Special Teams', 6)]"
   },
   {
@@ -118,19 +118,19 @@
   {
    "fetcher": "fetch_rumors.py",
    "ok": false,
-   "seconds": 2.6,
+   "seconds": 22.3,
    "last_line": "AttributeError: module 'urllib' has no attribute 'urlparse'"
   },
   {
    "fetcher": "fetch_pickem.py",
    "ok": true,
-   "seconds": 0.1,
+   "seconds": 0.2,
    "last_line": "pickem week 6 games 14"
   },
   {
    "fetcher": "fetch_history.py",
    "ok": true,
-   "seconds": 0.0,
+   "seconds": 0.1,
    "last_line": "history fresh; skipped"
   },
   {
@@ -143,13 +143,13 @@
    "fetcher": "fetch_live.py",
    "ok": true,
    "seconds": 0.0,
-   "last_line": "live pre Kickoff 2026-10-18T17:00Z"
+   "last_line": "live in In progress. Live scores aren't in our f"
   },
   {
    "fetcher": "build_machine.py",
    "ok": true,
    "seconds": 0.1,
-   "last_line": "machine layer: {'news': 150, 'rumors': 33, 'injuries': 16, 'depth-chart': 28, 'schedule': 17, 'stats': 60, 'grades': 42, 'college': 20, 'insiders': 24, 'podcasts': 157, 'film': 24, 'draft': 521} md 13 feeds 5 jsonld 14"
+   "last_line": "machine layer: {'news': 150, 'rumors': 33, 'injuries': 16, 'depth-chart': 28, 'schedule': 17, 'stats': 60, 'grades': 42, 'college': 20, 'insiders': 23, 'podcasts': 156, 'film': 22, 'draft': 521} md 13 feeds 5 jsonld 14"
   }
  ]
 }

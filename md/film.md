@@ -1,6 +1,6 @@
 # Steelers Film Room & Previews
 
-_Generated 2026-10-18T16:46:22+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T16:46:11+00:00._
+_Generated 2026-10-18T17:24:22+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T17:23:48+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/film.json_
 
 - Breakdown (vs Indianapolis Colts (Oct 11)): [Film Room: Max Iheanachor Is Already Fixing His Biggest Issue](https://steelersdepot.com/2026/10/film-room-max-iheanachor-is-already-fixing-his-biggest-issue/): Steelers Depot Film Room (Alex Kozora), 2026-10-17 11:15 UTC
@@ -15,18 +15,16 @@ _JSON: https://blackandgolddispatch.com/api/v1/film.json_
 - Breakdown (vs Indianapolis Colts (Oct 11)): [6 TAKEAWAYS vs. Colts 😤 More than any team in a game all season #PITvsLAC: 11/9 at 8:20 PM ET on NBC](https://www.youtube.com/watch?v=adCsTTvxJfw): Pittsburgh Steelers (official), 2026-10-12 17:00 UTC
 - Breakdown (vs Indianapolis Colts (Oct 11)): [Steelers Payton Wilson Was EVERYWHERE Vs The Colts (Master Moats Film Session)](https://www.youtube.com/watch?v=3dyxDXOE9yY): Arthur Moats Experience, 2026-10-12 17:00 UTC
 - Breakdown (vs Indianapolis Colts (Oct 11)): [Film Room: Yahya Black Steps Up In Derrick Harmon’s Absence](https://steelersdepot.com/2026/10/film-room-yahya-black-steps-up-in-derrick-harmons-absence/): Steelers Depot Film Room (Alex Kozora), 2026-10-12 16:30 UTC
-- Preview (at Tampa Bay Buccaneers (Oct 18)): [Betting Preview for Steelers vs. Buccaneers, Week 6 | Let's Ride](https://www.youtube.com/watch?v=op0oWkQ1dHc): Steel Curtain Network (BTSC), 2026-10-17 11:30 UTC
-- Preview (at Tampa Bay Buccaneers (Oct 18)): [What To Watch For In Steelers vs Buccaneers Week 6](https://www.youtube.com/watch?v=cm4aIoLQAKE): Arthur Moats Experience, 2026-10-17 09:52 UTC
-- Preview (at Tampa Bay Buccaneers (Oct 18)): [Buccaneers Preview & Predictions | Steelers Afternoon Drive](https://www.youtube.com/watch?v=usANVtFc8bk): Steelers Now (Derrick Bell), 2026-10-16 22:10 UTC
-- Preview (at Tampa Bay Buccaneers (Oct 18)): [How to pressure Tampa Bay | Playbook with Merril Hoge | Pittsburgh Steelers](https://www.youtube.com/watch?v=9sQcJpz3j8M): Merril Hoge – Steelers Playbook (official), 2026-10-16 22:00 UTC
-- Preview (at Tampa Bay Buccaneers (Oct 18)): [Steelers Look to String Together Back to Back Wins in Tampa | Scouting Report Week 6](https://www.youtube.com/watch?v=KJ2oZgYo4rQ): Steelers Almighty, 2026-10-16 18:00 UTC
-- Preview (at Tampa Bay Buccaneers (Oct 18)): [The Terrible Podcast — Steelers Vs Buccaneers Game Preview, Trade Possibility, Injuries, W6 Picks](https://www.youtube.com/watch?v=lHwxWzn_glI): Steelers Depot (YouTube), 2026-10-16 15:33 UTC
-- Preview (at Tampa Bay Buccaneers (Oct 18)): [Buccaneers Defense Scouting Report: Batten Down The Hatches To Beat The Blitz](https://steelersdepot.com/2026/10/buccaneers-defense-scouting-report-batten-down-the-hatches-down-to-beat-the-blitz/): Alex Kozora (Steelers Depot), 2026-10-16 13:30 UTC
-- Preview (at Tampa Bay Buccaneers (Oct 18)): [Buccaneers Offense Scouting Report: Creative Runs, Safe Passes](https://steelersdepot.com/2026/10/buccaneers-offensive-scouting-report-creative-runs-safe-passes/): Alex Kozora (Steelers Depot), 2026-10-16 12:30 UTC
-- Preview (at Tampa Bay Buccaneers (Oct 18)): [Steelers Keys to Victory vs. the Buccaneers, Week 6 | Let's Ride](https://www.youtube.com/watch?v=rpSIv4eOag4): Steel Curtain Network (BTSC), 2026-10-16 12:00 UTC
-- Preview (at Tampa Bay Buccaneers (Oct 18)): [Steelers Preview: Previewing Steelers vs. Buccaneers, Week 6](https://www.youtube.com/watch?v=n6IbccuINes): Steel Curtain Network (BTSC), 2026-10-16 10:14 UTC
-- Preview (at Tampa Bay Buccaneers (Oct 18)): [Tyler Talks Steelers Vs Buccaneers Week 6 Game Preview](https://www.youtube.com/shorts/7HujG-Yq31E): Arthur Moats Experience, 2026-10-16 09:52 UTC
-- Preview (at Tampa Bay Buccaneers (Oct 18)): [Steelers offense MUST adapt after WR injuries | Steelers vs. Buccaneers Week 6 Preview](https://www.youtube.com/watch?v=n-84rQrUKEc): Still Curtain, 2026-10-15 06:43 UTC
+- Preview (at New Orleans Saints (Oct 25)): [Betting Preview for Steelers vs. Buccaneers, Week 6 | Let's Ride](https://www.youtube.com/watch?v=op0oWkQ1dHc): Steel Curtain Network (BTSC), 2026-10-17 11:30 UTC
+- Preview (at New Orleans Saints (Oct 25)): [Buccaneers Preview & Predictions | Steelers Afternoon Drive](https://www.youtube.com/watch?v=usANVtFc8bk): Steelers Now (Derrick Bell), 2026-10-16 22:10 UTC
+- Preview (at New Orleans Saints (Oct 25)): [How to pressure Tampa Bay | Playbook with Merril Hoge | Pittsburgh Steelers](https://www.youtube.com/watch?v=9sQcJpz3j8M): Merril Hoge – Steelers Playbook (official), 2026-10-16 22:00 UTC
+- Preview (at New Orleans Saints (Oct 25)): [Steelers Look to String Together Back to Back Wins in Tampa | Scouting Report Week 6](https://www.youtube.com/watch?v=KJ2oZgYo4rQ): Steelers Almighty, 2026-10-16 18:00 UTC
+- Preview (at New Orleans Saints (Oct 25)): [The Terrible Podcast — Steelers Vs Buccaneers Game Preview, Trade Possibility, Injuries, W6 Picks](https://www.youtube.com/watch?v=lHwxWzn_glI): Steelers Depot (YouTube), 2026-10-16 15:33 UTC
+- Preview (at New Orleans Saints (Oct 25)): [Buccaneers Defense Scouting Report: Batten Down The Hatches To Beat The Blitz](https://steelersdepot.com/2026/10/buccaneers-defense-scouting-report-batten-down-the-hatches-down-to-beat-the-blitz/): Alex Kozora (Steelers Depot), 2026-10-16 13:30 UTC
+- Preview (at New Orleans Saints (Oct 25)): [Buccaneers Offense Scouting Report: Creative Runs, Safe Passes](https://steelersdepot.com/2026/10/buccaneers-offensive-scouting-report-creative-runs-safe-passes/): Alex Kozora (Steelers Depot), 2026-10-16 12:30 UTC
+- Preview (at New Orleans Saints (Oct 25)): [Steelers Preview: Previewing Steelers vs. Buccaneers, Week 6](https://www.youtube.com/watch?v=n6IbccuINes): Steel Curtain Network (BTSC), 2026-10-16 10:14 UTC
+- Preview (at New Orleans Saints (Oct 25)): [Tyler Talks Steelers Vs Buccaneers Week 6 Game Preview](https://www.youtube.com/shorts/7HujG-Yq31E): Arthur Moats Experience, 2026-10-16 09:52 UTC
+- Preview (at New Orleans Saints (Oct 25)): [Steelers offense MUST adapt after WR injuries | Steelers vs. Buccaneers Week 6 Preview](https://www.youtube.com/watch?v=n-84rQrUKEc): Still Curtain, 2026-10-15 06:43 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T16:46:22.733082+00:00",
+ "generated": "2026-10-18T17:24:22.329290+00:00",
  "season": 2026,
  "week": 6,
  "games": [
@@ -27,29 +27,29 @@
   {
    "id": "401872996",
    "date": "2026-10-18T13:30Z",
-   "state": "in",
-   "detail": "In progress",
-   "completed": false,
+   "state": "post",
+   "detail": "Final",
+   "completed": true,
    "away": {
     "abbr": "HOU",
     "name": "Houston Texans",
-    "score": null,
-    "winner": null,
-    "record": "1-4"
+    "score": "34",
+    "winner": true,
+    "record": "2-4"
    },
    "home": {
     "abbr": "JAX",
     "name": "Jacksonville Jaguars",
-    "score": null,
-    "winner": null,
-    "record": "4-1"
+    "score": "31",
+    "winner": false,
+    "record": "4-2"
    }
   },
   {
    "id": "401872999",
    "date": "2026-10-18T17:00Z",
-   "state": "pre",
-   "detail": "Sun 10/18 1:00 PM ET",
+   "state": "in",
+   "detail": "In progress",
    "completed": false,
    "away": {
     "abbr": "CHI",
@@ -69,8 +69,8 @@
   {
    "id": "401872997",
    "date": "2026-10-18T17:00Z",
-   "state": "pre",
-   "detail": "Sun 10/18 1:00 PM ET",
+   "state": "in",
+   "detail": "In progress",
    "completed": false,
    "away": {
     "abbr": "BAL",
@@ -90,8 +90,8 @@
   {
    "id": "401873003",
    "date": "2026-10-18T17:00Z",
-   "state": "pre",
-   "detail": "Sun 10/18 1:00 PM ET",
+   "state": "in",
+   "detail": "In progress",
    "completed": false,
    "away": {
     "abbr": "TEN",
@@ -111,8 +111,8 @@
   {
    "id": "401873001",
    "date": "2026-10-18T17:00Z",
-   "state": "pre",
-   "detail": "Sun 10/18 1:00 PM ET",
+   "state": "in",
+   "detail": "In progress",
    "completed": false,
    "away": {
     "abbr": "NYJ",
@@ -132,8 +132,8 @@
   {
    "id": "401873000",
    "date": "2026-10-18T17:00Z",
-   "state": "pre",
-   "detail": "Sun 10/18 1:00 PM ET",
+   "state": "in",
+   "detail": "In progress",
    "completed": false,
    "away": {
     "abbr": "NO",
@@ -153,8 +153,8 @@
   {
    "id": "401872998",
    "date": "2026-10-18T17:00Z",
-   "state": "pre",
-   "detail": "Sun 10/18 1:00 PM ET",
+   "state": "in",
+   "detail": "In progress",
    "completed": false,
    "away": {
     "abbr": "CAR",
@@ -174,8 +174,8 @@
   {
    "id": "401873002",
    "date": "2026-10-18T17:00Z",
-   "state": "pre",
-   "detail": "Sun 10/18 1:00 PM ET",
+   "state": "in",
+   "detail": "In progress",
    "completed": false,
    "away": {
     "abbr": "PIT",

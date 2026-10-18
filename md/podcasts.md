@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-18T16:46:22+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T16:46:16+00:00._
+_Generated 2026-10-18T17:24:22+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T17:23:53+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Video: [Heatin 🆙 📺: CBS](https://www.youtube.com/shorts/fys6Phve0QE): Pittsburgh Steelers (official), 2026-10-18 16:44 UTC
 - Podcast: [The Terrible Take - Episode 2054 - October 18, 2026](https://megaphone.link/SDP9521387232): The Terrible Podcast (Steelers Depot), 2026-10-18 14:34 UTC
 - Video: [Stepping into Sunday 🔥](https://www.youtube.com/shorts/vm2wFQePVZg): Pittsburgh Steelers (official), 2026-10-18 14:28 UTC
 - Podcast: [Steelers vs. Bucs Bold Predictions](https://bleav.com/shows/all-steelers-talk/episodes/steelers-vs-bucs-bold-predictions/): All Steelers Talk, 2026-10-18 12:35 UTC
@@ -61,7 +62,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [DK’s Double Shot of Steelers: Take Tampa seriously?](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-double-shot-of-steelers-take-tampa-seriously/): DK Pittsburgh Sports, 2026-10-15 22:06 UTC
 - Video: [Worried About Rookie Roles? | Steelers Afternoon Drive](https://www.youtube.com/watch?v=w-ONagX63lc): Steelers Now, 2026-10-15 21:56 UTC
 - Video: [Steelers' Mike McCarthy Must Solve WR Separation Issue w/DK Metcalf, Germie Bernard vs Buccaneers](https://www.youtube.com/shorts/FJtbyDhy-5k): Locked On Steelers, 2026-10-15 21:53 UTC
-- Video: [Cameron Heyward, Jaylen Warren & DK Metcalf Press Conference (October 15) | Pittsburgh Steelers](https://www.youtube.com/watch?v=Z1vUl2ooeQ8): Pittsburgh Steelers (official), 2026-10-15 21:14 UTC
 - Podcast: [Steelers Injuries: Good News, Bad News, IR Coming?](https://bleav.com/shows/all-steelers-talk/episodes/steelers-injuries-good-news-bad-news-ir-coming/): All Steelers Talk, 2026-10-15 21:11 UTC
 - Podcast: [The Terrible Take - Episode 2051 - October 15, 2026](https://megaphone.link/SDP5253318668): The Terrible Podcast (Steelers Depot), 2026-10-15 21:00 UTC
 - Podcast: [Can the Steelers keep rolling with a depleted offense?](https://www.steelcityunderground.com/podcast/2026/10/can-the-steelers-keep-rolling-with-a-depleted-offense/): Steel City Underground, 2026-10-15 19:52 UTC
@@ -71,7 +71,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [The Steelers vs Bucs Matchup Comes Down to Who Controls the Run Game 😤 #steelers #Bucs #nfl](https://www.youtube.com/shorts/BW13C2GCr5g): Locked On Steelers, 2026-10-15 16:49 UTC
 - Video: [Not many number 1 receivers would be willing to block like DK Metcalf is 🔥👏#dkmetcalf #steelers](https://www.youtube.com/shorts/Q-zad-ffG3c): Not Just Football with Cam Heyward, 2026-10-15 16:00 UTC
 - Podcast: [Hour 1: Deep Dive into Buccaneers](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-101526-mp3): Steelers Blitz, 2026-10-15 16:00 UTC
-- Podcast: [NFL Week 6 Preview & Picks: EVERY GAME!](https://podcasts.apple.com/us/podcast/nfl-week-6-preview-picks-every-game/id1761398472?i=1000796516134): Check the Mic with Steve Palazzolo & Sam Monson, 2026-10-15 16:00 UTC
 - Video: [Steelers Night Shift: Week 6 at Tampa Bay Buccaneers](https://www.youtube.com/watch?v=STVZGpYXHk0): Steelers Now, 2026-10-15 15:23 UTC
 - Video: [Steelers Active at Trade Deadline? | Steelers Morning Rush](https://www.youtube.com/watch?v=JuBqj_3iyn8): Steelers Now, 2026-10-15 15:09 UTC
 - Podcast: [Hour 2: How to Lose a Game in Five Ways](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr2-101526-mp3): Steelers Blitz, 2026-10-15 15:00 UTC
