@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-18T17:35:20+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T17:35:11+00:00._
+_Generated 2026-10-18T17:45:41+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T17:45:33+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [TURN US UP FIVE 🗣️ 📺:CBS](https://www.youtube.com/shorts/Sm_S5DAD-sY): Pittsburgh Steelers (official), 2026-10-18 17:17 UTC
