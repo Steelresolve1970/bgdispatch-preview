@@ -560,7 +560,7 @@
   "/api/v1/insiders.json": {
    "get": {
     "operationId": "get_insiders",
-    "summary": "Recent public posts from NFL insiders and Steelers beat writers (links only).",
+    "summary": "Last 3 days of public posts from NFL insiders and Steelers beat writers (links only).",
     "responses": {
      "200": {
       "description": "insiders dataset",

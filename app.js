@@ -26,10 +26,11 @@ function renderNews(){const n=D.news;if(!n||!n.items.length)return;const items=n
  $('rumor-cards').innerHTML=shown.length?shown.map(card).join(''):empty('No new rumors today');}
 function renderTicker(){const t=D.ticker;if(!t)return;const h=t.items.map(i=>`<a href="${esc(i.link)}" ${ext}><b>${i.tag}</b> · ${esc(i.title)}</a>`).join('');$('tickerMove').innerHTML=h+h;}
 function renderIns(){const d=D.ins;if(!d)return;
+ const cut=Date.now()-72*3600*1000;const fresh=a=>(a||[]).filter(p=>p.published&&new Date(p.published).getTime()>=cut);
+ const items=fresh(d.items),all=fresh(d.all||d.items);
  const li=p=>`<li><strong>${esc(p.name)}</strong><time datetime="${esc(p.published)}">${ago(p.published).replace(' ago','')}</time><span>${esc(p.about||('Post by '+p.name))}</span><a class="via" href="${esc(p.link)}" ${ext}>View on ${esc(p.platform)} →</a></li>`;
- $('insiders').innerHTML=d.items.length?d.items.slice(0,6).map(li).join(''):'<li><span>No insider posts right now.</span></li>';
- const all=d.all||d.items;
- $('insider-full').innerHTML=all.length?all.map(p=>`<article class="card"><p class="meta"><b>${esc(p.name)}</b> · ${esc(p.handle)} · ${ago(p.published)}</p><p>${esc(p.about||('Post by '+p.name))}</p><a href="${esc(p.link)}" ${ext}>View on ${esc(p.platform)} →</a></article>`).join(''):empty('No insider posts right now');}
+ $('insiders').innerHTML=items.length?items.slice(0,6).map(li).join(''):'<li><span>No insider posts in the last 3 days.</span></li>';
+ $('insider-full').innerHTML=all.length?all.map(p=>`<article class="card"><p class="meta"><b>${esc(p.name)}</b> · ${esc(p.handle)} · ${ago(p.published)}</p><p>${esc(p.about||('Post by '+p.name))}</p><a href="${esc(p.link)}" ${ext}>View on ${esc(p.platform)} →</a></article>`).join(''):empty('No insider posts in the last 3 days');}
 function renderFilm(){
  if(D.film){const p=D.film,h=p.game?'Film Breakdown: '+p.game.label:'Film Breakdown';$('filmH').textContent=h;$('filmH2').textContent=h;
   const x=p.items.map(e=>tile(e,'🎬 Film',e.creator,'View'));$('film-list').innerHTML=x.slice(0,6).join('')||empty('No film breakdowns yet for the last game');$('film-full').innerHTML=x.join('')||empty('No film breakdowns yet for the last game');}
