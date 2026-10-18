@@ -1,21 +1,21 @@
 {
- "generated": "2026-10-18T15:54:30.140476+00:00",
- "event_id": "401872985",
- "window": false,
- "state": "post",
- "detail": "Final",
- "completed": true,
+ "generated": "2026-10-18T16:04:52.645835+00:00",
+ "event_id": "401873002",
+ "window": true,
+ "state": "pre",
+ "detail": "Kickoff 2026-10-18T17:00Z",
+ "completed": false,
  "teams": [
-  {
-   "abbr": "IND",
-   "name": "Colts",
-   "score": "22",
-   "homeAway": "away"
-  },
   {
    "abbr": "PIT",
    "name": "Steelers",
-   "score": "34",
+   "score": null,
+   "homeAway": "away"
+  },
+  {
+   "abbr": "TB",
+   "name": "Buccaneers",
+   "score": null,
    "homeAway": "home"
   }
  ],
