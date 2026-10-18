@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T02:18:46.298155+00:00",
+ "generated": "2026-10-18T02:20:59.148114+00:00",
  "game": {
   "label": "at Tampa Bay Buccaneers (Oct 18)",
   "opponent": "Tampa Bay Buccaneers",
@@ -47,9 +47,9 @@
    "creator": "Steelers Depot (YouTube)",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFqbkq2BzNY3iQ_FPveqVhw",
-   "status": "ok",
-   "feed_items": 15,
-   "in_window": 1
+   "status": "error: HTTP Error 500: Internal Server Error",
+   "feed_items": 0,
+   "in_window": 0
   },
   {
    "creator": "Still Curtain (Tommy Jaggi All-22)",
@@ -79,9 +79,9 @@
    "creator": "Merril Hoge \u2013 Steelers Playbook (official)",
    "mode": "official",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChaRXjMDs4ppKfnTPE6Z89w",
-   "status": "error: HTTP Error 500: Internal Server Error",
-   "feed_items": 0,
-   "in_window": 0
+   "status": "ok",
+   "feed_items": 15,
+   "in_window": 1
   },
   {
    "creator": "Merril Hoge \u2013 Steelers Playbook (steelers.com)",
@@ -95,8 +95,8 @@
    "creator": "Merril Hoge (personal)",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCL1UFebpPn1rsxK0yEwwbgA",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 500: Internal Server Error",
+   "feed_items": 0,
    "in_window": 0
   },
   {
@@ -143,18 +143,18 @@
    "creator": "Alex & the NFL",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsGr04a3SDjhPhsAe4xj4YQ",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   }
  ],
  "items": [
   {
-   "title": "The Terrible Podcast \u2014 Steelers Vs Buccaneers Game Preview, Trade Possibility, Injuries, W6 Picks",
-   "creator": "Steelers Depot (YouTube)",
-   "link": "https://www.youtube.com/watch?v=lHwxWzn_glI",
-   "published": "2026-10-16T15:33:32+00:00",
-   "summary": "Preview by Steelers Depot (YouTube) for at Tampa Bay Buccaneers (Oct 18).",
+   "title": "How to pressure Tampa Bay | Playbook with Merril Hoge | Pittsburgh Steelers",
+   "creator": "Merril Hoge \u2013 Steelers Playbook (official)",
+   "link": "https://www.youtube.com/watch?v=9sQcJpz3j8M",
+   "published": "2026-10-16T22:00:07+00:00",
+   "summary": "Preview by Merril Hoge \u2013 Steelers Playbook (official) for at Tampa Bay Buccaneers (Oct 18).",
    "game": "at Tampa Bay Buccaneers (Oct 18)"
   },
   {
@@ -182,5 +182,20 @@
    "game": "at Tampa Bay Buccaneers (Oct 18)"
   }
  ],
+ "ctm": {
+  "show": "Check the Mic with Steve Palazzolo & Sam Monson",
+  "hosts": "Steve Palazzolo & Sam Monson",
+  "network": "The 33rd Team",
+  "title": "NFL Week 6 Preview & Picks: EVERY GAME!",
+  "published": "2026-10-15T16:00:00+00:00",
+  "link": "https://podcasts.apple.com/us/podcast/nfl-week-6-preview-picks-every-game/id1761398472?i=1000796516134",
+  "segment": "1:10:44",
+  "segment_seconds": 4244,
+  "steelers_only": false,
+  "summary": "Steve Palazzolo and Sam Monson's weekly every-game preview show; it includes the Steelers vs. Buccaneers matchup. Steelers segment starts at 1:10:44.",
+  "note": "Check the Mic doesn't do a Steelers-only episode each week, so this is their most recent episode that covers the Steelers game.",
+  "youtube": null,
+  "embed": null
+ },
  "count": 4
 }

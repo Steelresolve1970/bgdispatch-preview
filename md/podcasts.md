@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-18T02:18:52+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T02:18:45+00:00._
+_Generated 2026-10-18T02:21:23+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T02:21:17+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [DK's Live Shot of Steelers: Pregame vs. Buccaneers](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-live-shot-of-steelers-pregame-vs-buccaneers/): DK Pittsburgh Sports, 2026-10-18 01:37 UTC
@@ -68,6 +68,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [The Steelers vs Bucs Matchup Comes Down to Who Controls the Run Game 😤 #steelers #Bucs #nfl](https://www.youtube.com/shorts/BW13C2GCr5g): Locked On Steelers, 2026-10-15 16:49 UTC
 - Video: [Not many number 1 receivers would be willing to block like DK Metcalf is 🔥👏#dkmetcalf #steelers](https://www.youtube.com/shorts/Q-zad-ffG3c): Not Just Football with Cam Heyward, 2026-10-15 16:00 UTC
 - Podcast: [Hour 1: Deep Dive into Buccaneers](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-101526-mp3): Steelers Blitz, 2026-10-15 16:00 UTC
+- Podcast: [NFL Week 6 Preview & Picks: EVERY GAME!](https://podcasts.apple.com/us/podcast/nfl-week-6-preview-picks-every-game/id1761398472?i=1000796516134): Check the Mic with Steve Palazzolo & Sam Monson, 2026-10-15 16:00 UTC
 - Video: [YOUR WEEK 5 NVP](https://www.youtube.com/shorts/_YjjLMxQlLE): Pittsburgh Steelers (official), 2026-10-15 15:42 UTC
 - Video: [Steelers Night Shift: Week 6 at Tampa Bay Buccaneers](https://www.youtube.com/watch?v=STVZGpYXHk0): Steelers Now, 2026-10-15 15:23 UTC
 - Video: [Steelers Active at Trade Deadline? | Steelers Morning Rush](https://www.youtube.com/watch?v=JuBqj_3iyn8): Steelers Now, 2026-10-15 15:09 UTC

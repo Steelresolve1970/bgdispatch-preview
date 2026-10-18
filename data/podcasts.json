@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-18T02:18:45.187715+00:00",
+ "generated": "2026-10-18T02:21:17.467820+00:00",
  "date_et": "2026-10-17",
  "days": 7,
- "count": 186,
+ "count": 187,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -98,10 +98,10 @@
    "show": "Steel City Underground",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDcNNAMkYr-DzH6_XL-0p8Q",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 2,
-   "latest": "2026-10-15T19:05:24+00:00"
+   "latest": null
   },
   {
    "show": "Steelers Afternoon Drive",
@@ -152,10 +152,10 @@
    "show": "Steelers Now",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp1iAMIfmmgWewzJ07_Y7oA",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 15,
-   "latest": "2026-10-17T15:48:10+00:00"
+   "latest": null
   },
   {
    "show": "The Steel City Insider (Jim Wexell, 247Sports)",
@@ -188,7 +188,7 @@
    "show": "Nick Farabaugh on PennLive",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5yvng1eSgffmybUM-51fTw",
-   "status": "ok",
+   "status": "error: HTTP Error 404: Not Found",
    "episodes": 0,
    "week": 0,
    "latest": null
@@ -242,10 +242,10 @@
    "show": "The Christian Kuntz Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKKBJcOGsYmwAATQv-xQYeA",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 0,
-   "latest": "2009-05-26T14:01:33+00:00"
+   "latest": null
   }
  ],
  "items": [
@@ -808,6 +808,14 @@
    "link": "https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-101526-mp3",
    "published": "2026-10-15T16:00:00+00:00",
    "summary": "Podcast episode from Steelers Blitz."
+  },
+  {
+   "title": "NFL Week 6 Preview & Picks: EVERY GAME!",
+   "show": "Check the Mic with Steve Palazzolo & Sam Monson",
+   "kind": "podcast",
+   "link": "https://podcasts.apple.com/us/podcast/nfl-week-6-preview-picks-every-game/id1761398472?i=1000796516134",
+   "published": "2026-10-15T16:00:00+00:00",
+   "summary": "Steve Palazzolo and Sam Monson's weekly every-game preview show; it includes the Steelers vs. Buccaneers matchup. Steelers segment starts at 1:10:44."
   },
   {
    "title": "YOUR WEEK 5 NVP",
@@ -1738,5 +1746,12 @@
    "summary": "Podcast episode from Steel Curtain Network (BTSC)."
   }
  ],
- "yt_channels": []
+ "yt_channels": [
+  {
+   "show": "The Christian Kuntz Podcast",
+   "channel_id": "UCKKBJcOGsYmwAATQv-xQYeA",
+   "link": "https://www.youtube.com/channel/UCKKBJcOGsYmwAATQv-xQYeA",
+   "embed": "https://www.youtube-nocookie.com/embed/videoseries?list=UUKKBJcOGsYmwAATQv-xQYeA"
+  }
+ ]
 }
