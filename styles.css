@@ -297,3 +297,19 @@ nav .more a{color:#fff}nav .more a[aria-current]{color:var(--gold)}
 
 .tile .ed-mark{position:absolute;top:2px;right:4px;font-style:normal;font-size:12px;background:rgba(0,0,0,.55);color:#FFB612;border-radius:3px;padding:0 3px}
 .src-editor{background:#FFB612;color:#111;border-radius:3px;padding:0 3px}
+
+/* Owner editor mode */
+.tile .ed-btn{margin-top:3px;align-self:center;font:700 11px/1 system-ui;background:#111;color:#FFB612;border:1px solid #FFB612;border-radius:4px;padding:3px 6px;cursor:pointer}
+.tile.micro .ed-btn{font-size:9px;padding:1px 3px;margin-top:1px}
+.ed-banner{background:#FFB612;color:#111;padding:10px 12px;border-radius:6px;margin:8px 0;font-size:14px}.ed-banner a{color:#111;text-decoration:underline}
+.ed-modal{position:fixed;inset:0;background:rgba(0,0,0,.6);display:flex;align-items:center;justify-content:center;z-index:1000;padding:12px}
+.ed-form{background:#fff;color:#111;border-radius:10px;padding:16px;max-width:420px;width:100%;display:flex;flex-direction:column;gap:10px}
+.ed-form h3{margin:0}.ed-form label{font-weight:700;display:flex;flex-direction:column;gap:4px}.ed-row{display:flex;gap:8px;align-items:center}.ed-row input[type=range]{flex:1}.ed-row input[type=number]{width:72px;font-size:18px}
+.ed-form input[type=text]{font-size:16px;padding:6px}.ed-help{background:#fff6dc;padding:8px;border-radius:6px;margin:0;font-size:14px}.ed-actions{display:flex;gap:8px;flex-wrap:wrap}
+.ed-form .btn.ghost{background:#eee;color:#111}
+.foot-editor{opacity:.6;font-size:12px}
+.tile.tiny .ed-btn,.tile.micro .ed-btn{position:absolute;bottom:2px;right:2px;margin:0;font-size:0;padding:2px 4px;line-height:1}
+.tile.tiny .ed-btn::before{content:"✎";font-size:12px}
+.tile .ed-btn{position:absolute;bottom:2px;right:2px;margin:0;font-size:10px;padding:2px 4px;line-height:1}
+@media (max-width:600px){.tile .ed-btn{font-size:0;padding:3px 5px}.tile .ed-btn::before{content:"✎";font-size:13px}}
+.tile{justify-content:safe center}
