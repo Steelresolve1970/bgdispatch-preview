@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-18T00:17:30+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T00:17:22+00:00._
+_Generated 2026-10-18T00:27:42+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T00:27:34+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Live from our Road Warrior Rally in Tampa with Casey Hampton 🙌](https://www.youtube.com/shorts/6-WqoVTWAfQ): Pittsburgh Steelers (official), 2026-10-17 22:52 UTC
