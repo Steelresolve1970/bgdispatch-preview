@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-18T14:31:00+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T14:30:53+00:00._
+_Generated 2026-10-18T14:41:20+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T14:41:13+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Podcast: [The Terrible Take - Episode 2054 - October 18, 2026](https://megaphone.link/SDP9521387232): The Terrible Podcast (Steelers Depot), 2026-10-18 14:34 UTC
 - Podcast: [Steelers vs. Bucs Bold Predictions](https://bleav.com/shows/all-steelers-talk/episodes/steelers-vs-bucs-bold-predictions/): All Steelers Talk, 2026-10-18 12:35 UTC
 - Podcast: [Last Minute Thoughts: Black and Bold, Week 6 vs. Tampa Bay](http://steelcurtainnetwork.com): Steel Curtain Network (BTSC), 2026-10-18 08:00 UTC
 - Podcast: [DK's Live Shot of Steelers: Pregame vs. Buccaneers](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-live-shot-of-steelers-pregame-vs-buccaneers/): DK Pittsburgh Sports, 2026-10-18 01:37 UTC

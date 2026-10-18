@@ -445,3 +445,14 @@ body.yt-modal-open{overflow:hidden}
 
 .yt-modal-note{margin:10px 0 0;color:#f6d860;font-size:.92rem;text-align:center}
 .ext-viewer-card .ext-viewer-frame{background:#0a0a0a}
+
+/* In-app / iPad tip */
+.bgd-browser-banner{background:#1a1a1a;color:#f5f5f5;border-bottom:3px solid var(--gold);padding:10px 14px;font-size:.92rem;z-index:90;position:sticky;top:0}
+.bgd-browser-banner p{margin:0 0 8px}
+.bgd-browser-banner .bb-actions{margin:0;display:flex;gap:8px;flex-wrap:wrap}
+.story-page{max-width:720px}
+.story-title{font-size:1.55rem;line-height:1.25;margin:.2em 0 .5em}
+.story-summary{font-size:1.05rem;line-height:1.5}
+.story-actions{display:flex;flex-wrap:wrap;gap:10px;margin-top:1.2rem}
+.story-credit{margin-top:1rem}
+.back-link{font-weight:600}

@@ -13,9 +13,12 @@ const getJSON=u=>fetch(BGD_url(u),{cache:'no-store'}).then(r=>{if(!r.ok)throw r.
   if(j.v===cur){try{localStorage.setItem('bgd_build',j.v);}catch(e){}return;}
   try{if(sessionStorage.getItem('bgd_reloaded')===j.v)return;sessionStorage.setItem('bgd_reloaded',j.v);}catch(e){}
   location.reload();}).catch(()=>{});})();
+const storyHref=n=>`#/story/${encodeURIComponent(n.id||'')}`;
+const storyIdFromLink=link=>{try{let h=0;const s=String(link||'');for(let i=0;i<s.length;i++)h=((h<<5)-h)+s.charCodeAt(i)|0;return (h>>>0).toString(16).slice(0,10);}catch(e){return'';}};
 const D={};
-const card=n=>`<article class="card"><p class="meta"><b>${esc(n.source)}</b> · <time datetime="${esc(n.published)}">${ago(n.published)}</time></p>
- <h3><a class="hl" href="${esc(n.link)}" ${ext}>${esc(n.title)}</a></h3>${n.summary?`<p>${esc(n.summary)}</p>`:''}<a href="${esc(n.link)}" ${ext}>Read at source →</a></article>`;
+const card=n=>{const id=n.id||storyIdFromLink(n.link);const href=id?`#/story/${encodeURIComponent(id)}`:'#/';
+ return `<article class="card" data-story="${esc(id)}"><p class="meta"><b>${esc(n.source)}</b> · <time datetime="${esc(n.published)}">${ago(n.published)}</time></p>
+ <h3><a class="hl" href="${href}">${esc(n.title)}</a></h3>${n.summary?`<p>${esc(n.summary)}</p>`:''}<a href="${href}">Our take →</a></article>`;};
 const tile=(e,kind,who,cta)=>`<article class="pod"><p class="kind">${kind}</p><p class="meta"><b>${esc(who)}</b> · ${ago(e.published)}</p><h3><a class="hl" href="${esc(e.link)}" ${ext}>${esc(e.title)}</a></h3>${e.summary?`<p>${esc(e.summary)}</p>`:''}<a href="${esc(e.link)}" ${ext}>${cta} at source →</a></article>`;
 const empty=t=>`<p class="empty">${t}</p>`;
 
@@ -26,7 +29,8 @@ const TAGS=[['Trades',/trad(e|ing)/i],['Signings',/sign|contract|extension|deal|
 let rumorTag=null;
 
 function renderNews(){const n=D.news;if(!n||!n.items.length)return;const items=n.items,f=items[0];
- $('featured').querySelector('.featured-body').innerHTML=`<span class="tag">Top Story</span><h1><a class="hl" href="${esc(f.link)}" ${ext}>${esc(f.title)}</a></h1>${f.summary?`<p>${esc(f.summary)}</p>`:''}<p class="meta">${esc(f.source)} · ${ago(f.published)} · <a href="${esc(f.link)}" ${ext}>Read at source →</a></p>`;
+ {const fid=f.id||storyIdFromLink(f.link);const fhref=fid?`#/story/${encodeURIComponent(fid)}`:'#/';
+ $('featured').querySelector('.featured-body').innerHTML=`<span class="tag">Top Story</span><h1><a class="hl" href="${fhref}">${esc(f.title)}</a></h1>${f.summary?`<p>${esc(f.summary)}</p>`:''}<p class="meta">${esc(f.source)} · ${ago(f.published)} · <a href="${fhref}">Our take →</a></p>`;}
  $('cards').innerHTML=items.slice(1,17).map(card).join('');
  $('updated').textContent=`${n.count} headlines from ${n.sources.filter(s=>s.status==='ok').length} sources · updated ${ago(n.generated)}`;
  const chips=$('rumor-chips'), cards=$('rumor-cards');
@@ -93,9 +97,32 @@ const SRC={news:['data/news.json',renderNews],ticker:['data/ticker.json',renderT
 async function loadAll(){await Promise.all(Object.entries(SRC).map(async([k,[u,fn]])=>{try{D[k]=await getJSON(u);fn();}catch(e){}}));}
 loadAll();setInterval(loadAll,5*60*1000);
 
+
+function findStory(id){const items=(D.news&&D.news.items)||[];return items.find(n=>(n.id||storyIdFromLink(n.link))===id);}
+function renderStory(){
+  const el=$('story-body');if(!el)return;
+  const id=window.BGD_storyId||'';
+  const n=findStory(id);
+  if(!n){el.innerHTML=`<p class="empty">Story not found. <a href="#/">Back to News</a></p>`;return;}
+  const src=esc(n.source);const url=esc(n.link);
+  el.innerHTML=`<p class="meta"><b>${src}</b> · <time datetime="${esc(n.published)}">${ago(n.published)}</time>${n.via?` · via ${esc(n.via)}`:''}</p>
+   <h1 class="story-title">${esc(n.title)}</h1>
+   ${n.summary?`<p class="story-summary">${esc(n.summary)}</p>`:''}
+   <p class="story-credit fine">Summary by Black &amp; Gold Dispatch. Full article © ${src}.</p>
+   <p class="story-actions">
+     <a class="btn primary ext-native" href="${url}" target="_blank" rel="noopener" data-native="1">Read full story at ${src} ↗</a>
+     <button type="button" class="btn ghost" data-copy="${url}">Copy link</button>
+   </p>`;
+}
+document.addEventListener('route',e=>{if(e.detail==='story')renderStory();});
+document.addEventListener('click',e=>{const b=e.target.closest('[data-copy]');if(!b)return;const u=b.getAttribute('data-copy');
+  if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(u).then(()=>{b.textContent='Copied!';setTimeout(()=>b.textContent='Copy link',1500);}).catch(()=>{});}
+  else{try{const ta=document.createElement('textarea');ta.value=u;document.body.appendChild(ta);ta.select();document.execCommand('copy');ta.remove();b.textContent='Copied!';setTimeout(()=>b.textContent='Copy link',1500);}catch(err){}}
+});
+
 // hash router
-const TITLES={home:'News',podcasts:'Podcasts & YouTube',film:'Film Room',opponent:'Opponent Preview',roster:'Depth Chart & Roster',game:'Schedule',stats:'Stats',heatmap:'Player Heat Map',drafthub:'Draft',draft:'Mock Draft',college:'College Prospect Tracker',insiders:'Insiders',forum:'Forum',live:'Live Hub',injuries:'Injury Tracker',scout:'Opponent Scouting',cap:'Cap Center',rumors:'Rumors & Updates',play:"Pick'em & Trivia",history:'Steelers History',alerts:'Alerts & Email',boxscore:'Box Score'};
-function route(){const parts=(location.hash.replace(/^#\/?/,'')||'home').split('?')[0].split('/');const r=parts[0];const alias={grades:'heatmap',rumormeter:'rumors',preview:'opponent'};const v=alias[r]||(TITLES[r]?r:'home');window.BGD_boxId=r==='boxscore'?decodeURIComponent(parts[1]||''):'';
+const TITLES={home:'News',story:'Story',podcasts:'Podcasts & YouTube',film:'Film Room',opponent:'Opponent Preview',roster:'Depth Chart & Roster',game:'Schedule',stats:'Stats',heatmap:'Player Heat Map',drafthub:'Draft',draft:'Mock Draft',college:'College Prospect Tracker',insiders:'Insiders',forum:'Forum',live:'Live Hub',injuries:'Injury Tracker',scout:'Opponent Scouting',cap:'Cap Center',rumors:'Rumors & Updates',play:"Pick'em & Trivia",history:'Steelers History',alerts:'Alerts & Email',boxscore:'Box Score'};
+function route(){const parts=(location.hash.replace(/^#\/?/,'')||'home').split('?')[0].split('/');const r=parts[0];const alias={grades:'heatmap',rumormeter:'rumors',preview:'opponent'};const v=alias[r]||(TITLES[r]?r:'home');window.BGD_boxId=r==='boxscore'?decodeURIComponent(parts[1]||''):'';window.BGD_storyId=r==='story'?decodeURIComponent(parts[1]||''):'';
  if(r==='rumormeter'){const qs=(location.hash.split('?')[1]||'');const nh='#/rumors'+(qs?('?'+qs):'?tab=meter');if(location.hash!==nh)history.replaceState(null,'',nh);}
  if(r==='preview'){if(location.hash!=='#/opponent')history.replaceState(null,'','#/opponent');}
  document.querySelectorAll('.view').forEach(e=>e.hidden=e.dataset.view!==v);
@@ -123,10 +150,12 @@ window.availHTML=function(name,list){const a=list||(window.BGD_AV&&window.BGD_AV
  const cls=p=>p>=65?'hi':p>=35?'mid':p>=10?'lo':'none';
  return`<div class="avail" title="Estimate from our board rank vs the Steelers' projected pick. See the Draft tab for how it works."><span class="avail-lab">Chance available at Steelers pick <small>(estimate)</small></span>${a.map(x=>`<span class="avail-pill ${cls(x.pct)}">R${x.round} #${x.overall}: <b>${x.pct<1?'<1':x.pct>99?'>99':x.pct}%</b></span>`).join('')}</div>`;};
 
-// External links + place restore (mobile / in-app browsers often ignore target=_blank).
-// Cause of news-link "Dispatch gone": harden-only set target=_blank; click never preventDefault /
-// window.open, so iOS in-app WebViews navigated the same tab away. Fix: capture-click intercept
-// for EVERY external <a>, save place, try in-site viewer when frameable, else window.open(_blank).
+// External links + place restore.
+// iPadOS Safari reports a Mac desktop UA; detect via maxTouchPoints. It often ignores
+// window.open after async work and may open target=_blank in-place — so for iPad / in-app
+// WebViews we do NOT preventDefault: a real <a target=_blank rel=noopener> handles the tap.
+// News cards go to #/story/<id> first. "Read full story" on that page is data-native.
+// Desktop: sync window.open; if blocked, show an in-site sheet (Open article + Copy link).
 (function(){
  const PLACE='bgd_place';
  function savePlace(){try{const p={hash:location.hash||'#/',scroll:window.scrollY||0,t:Date.now()};sessionStorage.setItem(PLACE,JSON.stringify(p));localStorage.setItem(PLACE,JSON.stringify(p));}catch(e){}}
@@ -136,6 +165,23 @@ window.availHTML=function(name,list){const a=list||(window.BGD_AV&&window.BGD_AV
  addEventListener('hashchange',()=>setTimeout(savePlace,0));
  addEventListener('pagehide',savePlace);addEventListener('beforeunload',savePlace);
  restorePlace();
+
+ function isIPad(){
+  const ua=navigator.userAgent||'';
+  if(/iPad/i.test(ua))return true;
+  // iPadOS 13+ desktop site: Macintosh + touch
+  return /Macintosh/i.test(ua) && (navigator.maxTouchPoints||0)>1;
+ }
+ function isInApp(){
+  const ua=navigator.userAgent||'';
+  if(/FBAN|FBAV|Instagram|Line\/|Twitter|LinkedInApp|GSA\/|Snapchat|Discord|MicroMessenger|WKWebView/i.test(ua))return true;
+  if(/\bwv\b/i.test(ua) && /Android/i.test(ua))return true;
+  // iOS WebView: has AppleWebKit but not Safari (and not CriOS/FxiOS)
+  if(/(iPhone|iPod|iPad)/i.test(ua) && /AppleWebKit/i.test(ua) && !/Safari/i.test(ua))return true;
+  if(isIPad() && /AppleWebKit/i.test(ua) && !/Safari\//i.test(ua) && !/CriOS|FxiOS|EdgiOS/i.test(ua))return true;
+  return false;
+ }
+ function preferNative(){return isIPad() || isInApp();}
 
  function isExt(a){
   if(!a||a.tagName!=='A')return false;
@@ -149,7 +195,7 @@ window.availHTML=function(name,list){const a=list||(window.BGD_AV&&window.BGD_AV
   const rel=new Set((a.getAttribute('rel')||'').toLowerCase().split(/\s+/).filter(Boolean));
   rel.add('noopener');rel.delete('noreferrer');
   a.setAttribute('rel',[...rel].join(' '));
-  if(!a.classList.contains('ext-skip')&&!a.classList.contains('hl')&&!a.classList.contains('btn')&&!a.classList.contains('fv-out')&&!a.classList.contains('inj')&&!a.classList.contains('dp')&&!a.closest('#tickerMove,.fv-frame,.merch-grid,nav'))
+  if(!a.classList.contains('ext-skip')&&!a.classList.contains('hl')&&!a.classList.contains('btn')&&!a.classList.contains('fv-out')&&!a.classList.contains('inj')&&!a.classList.contains('dp')&&!a.classList.contains('ext-native')&&!a.closest('#tickerMove,.fv-frame,.merch-grid,nav,#ext-viewer,#ext-sheet'))
    a.classList.add('ext-link');
   return true;
  }
@@ -163,7 +209,6 @@ window.availHTML=function(name,list){const a=list||(window.BGD_AV&&window.BGD_AV
     const m=u.pathname.match(/\/(?:embed|shorts|live)\/([^/?#]+)/);return m?m[1]:null;}
   }catch(e){}return null;
  }
- // NFL (and similar) block embedding — open those in a new tab instead of a broken modal.
  function noEmbed(a,url){
   if(a&&(a.classList.contains('fv-out')||a.dataset.noEmbed==='1'))return true;
   const t=((a&&(a.textContent||'')+' '+(a.getAttribute('aria-label')||'')||'')+' '+(url||'')).toLowerCase();
@@ -171,7 +216,6 @@ window.availHTML=function(name,list){const a=list||(window.BGD_AV&&window.BGD_AV
   try{const u=new URL(url,location.href);if(/youtube\.com\/@nfl\b/i.test(u.href)||/\.nfl\.com$/i.test(u.hostname.replace(/^www\./,'')))return true;}catch(e){}
   return false;
  }
- // Hosts we know usually allow framing (or our nocookie embed). Others: try briefly, then fall back.
  function likelyFrameable(url){
   try{const h=new URL(url,location.href).hostname.replace(/^www\./,'').toLowerCase();
    return /(^|\.)youtube\.com$|(^|\.)youtube-nocookie\.com$|(^|\.)youtu\.be$|(^|\.)player\.vimeo\.com$|(^|\.)open\.spotify\.com$|(^|\.)embed\.podcasts\.apple\.com$/.test(h);
@@ -182,93 +226,102 @@ window.availHTML=function(name,list){const a=list||(window.BGD_AV&&window.BGD_AV
   let host=document.getElementById('ext-viewer');
   if(host)return host;
   host=document.createElement('div');host.id='ext-viewer';host.className='yt-modal';host.setAttribute('role','dialog');host.setAttribute('aria-modal','true');
-  host.innerHTML=`<div class="yt-modal-card ext-viewer-card"><button type="button" class="yt-modal-x" aria-label="Close">✕</button><h2 class="yt-modal-title"></h2><div class="yt-modal-frame ext-viewer-frame"><iframe referrerpolicy="no-referrer-when-downgrade" title="External content"></iframe></div><p class="yt-modal-note" hidden>This site won’t display inside Dispatch. Opening it in a new tab…</p><p class="yt-modal-actions"><a class="btn ghost yt-modal-ext" href="#" target="_blank" rel="noopener">Open in new tab ↗</a> <button type="button" class="btn ghost yt-modal-close">Close</button></p></div>`;
+  host.innerHTML=`<div class="yt-modal-card ext-viewer-card"><button type="button" class="yt-modal-x" aria-label="Close">✕</button><h2 class="yt-modal-title"></h2><div class="yt-modal-frame ext-viewer-frame"><iframe referrerpolicy="no-referrer-when-downgrade" title="External content"></iframe></div><p class="yt-modal-note" hidden></p><p class="yt-modal-actions"><a class="btn ghost yt-modal-ext ext-native" href="#" target="_blank" rel="noopener" data-native="1">Open in new tab ↗</a> <button type="button" class="btn ghost yt-modal-close">Close</button></p></div>`;
   document.body.appendChild(host);
-  const close=()=>closeViewer();
-  host.addEventListener('click',e=>{if(e.target===host||e.target.closest('.yt-modal-x')||e.target.closest('.yt-modal-close'))close();});
-  document.addEventListener('keydown',e=>{if(e.key==='Escape')close();});
-  // Open-in-new-tab inside the viewer must not re-enter our capture handler as a loop.
-  host.querySelector('.yt-modal-ext').addEventListener('click',e=>{e.preventDefault();e.stopPropagation();const u=host.querySelector('.yt-modal-ext').href;closeViewer();openNewTab(u);},{capture:true});
+  host.addEventListener('click',e=>{if(e.target===host||e.target.closest('.yt-modal-x')||e.target.closest('.yt-modal-close'))closeViewer();});
+  document.addEventListener('keydown',e=>{if(e.key==='Escape')closeViewer();});
   return host;
  }
  let viewerTimer=null;let viewerFallback=null;
  function closeViewer(){const host=document.getElementById('ext-viewer');if(!host)return;clearTimeout(viewerTimer);viewerTimer=null;viewerFallback=null;host.classList.remove('open');document.body.classList.remove('yt-modal-open');const iframe=host.querySelector('iframe');if(iframe)iframe.src='about:blank';const note=host.querySelector('.yt-modal-note');if(note)note.hidden=true;}
+ function openYtModal(id,title){
+  const host=ensureViewer();clearTimeout(viewerTimer);viewerFallback=null;
+  host.querySelector('.yt-modal-title').textContent=title||'Video';
+  host.querySelector('.yt-modal-note').hidden=true;
+  const iframe=host.querySelector('iframe');iframe.removeAttribute('sandbox');
+  iframe.src='https://www.youtube-nocookie.com/embed/'+encodeURIComponent(id)+'?rel=0&modestbranding=1&playsinline=1';
+  host.querySelector('.yt-modal-ext').href='https://www.youtube.com/watch?v='+encodeURIComponent(id);
+  host.classList.add('open');document.body.classList.add('yt-modal-open');
+  host.querySelector('.yt-modal-x').focus();
+ }
+ function showSheet(url,title){
+  let host=document.getElementById('ext-sheet');
+  if(!host){
+   host=document.createElement('div');host.id='ext-sheet';host.className='yt-modal';host.setAttribute('role','dialog');host.setAttribute('aria-modal','true');
+   host.innerHTML=`<div class="yt-modal-card"><button type="button" class="yt-modal-x" aria-label="Close">✕</button><h2 class="yt-modal-title">Open article</h2><p class="story-summary ext-sheet-sum"></p><p class="yt-modal-actions"><a class="btn primary ext-native ext-sheet-open" href="#" target="_blank" rel="noopener" data-native="1">Open article ↗</a> <button type="button" class="btn ghost ext-sheet-copy">Copy link</button> <button type="button" class="btn ghost yt-modal-close">Stay here</button></p></div>`;
+   document.body.appendChild(host);
+   host.addEventListener('click',e=>{if(e.target===host||e.target.closest('.yt-modal-x')||e.target.closest('.yt-modal-close')){host.classList.remove('open');document.body.classList.remove('yt-modal-open');}});
+   host.querySelector('.ext-sheet-copy').addEventListener('click',()=>{const u=host.querySelector('.ext-sheet-open').href;const b=host.querySelector('.ext-sheet-copy');
+    const done=()=>{b.textContent='Copied!';setTimeout(()=>b.textContent='Copy link',1500);};
+    if(navigator.clipboard&&navigator.clipboard.writeText)navigator.clipboard.writeText(u).then(done).catch(()=>{});
+    else{try{const ta=document.createElement('textarea');ta.value=u;document.body.appendChild(ta);ta.select();document.execCommand('copy');ta.remove();done();}catch(e){}}
+   });
+  }
+  host.querySelector('.yt-modal-title').textContent=title||'Open article';
+  host.querySelector('.ext-sheet-sum').textContent='This browser blocked opening a new tab. Use the button below to open the article (or copy the link into Safari/Chrome).';
+  const a=host.querySelector('.ext-sheet-open');a.href=url;
+  host.classList.add('open');document.body.classList.add('yt-modal-open');
+ }
  function openNewTab(url){
   savePlace();
   let w=null;
-  try{w=window.open(url,'_blank','noopener');}catch(e){w=null;}
+  try{w=window.open(url,'_blank');}catch(e){w=null;}
   if(w){try{w.opener=null;}catch(e){}}
-  if(!w){try{w=window.open(url,'_blank');if(w)try{w.opener=null;}catch(e){}}catch(e){w=null;}}
-  // Last resort: <a target=_blank> click — still avoids same-tab navigation of Dispatch.
-  if(!w){const a=document.createElement('a');a.href=url;a.target='_blank';a.rel='noopener';a.style.display='none';document.body.appendChild(a);a.click();a.remove();}
   return !!w;
  }
- function openYtModal(id,title){
-  const host=ensureViewer();
-  clearTimeout(viewerTimer);viewerFallback=null;
-  host.querySelector('.yt-modal-title').textContent=title||'Video';
-  host.querySelector('.yt-modal-note').hidden=true;
-  const iframe=host.querySelector('iframe');
-  iframe.removeAttribute('sandbox');
-  iframe.src='https://www.youtube-nocookie.com/embed/'+encodeURIComponent(id)+'?rel=0&modestbranding=1&playsinline=1';
-  const ext=host.querySelector('.yt-modal-ext');ext.href='https://www.youtube.com/watch?v='+encodeURIComponent(id);
-  host.classList.add('open');document.body.classList.add('yt-modal-open');
-  host.querySelector('.yt-modal-x').focus();
- }
- function openViewer(url,title){
-  const host=ensureViewer();
-  clearTimeout(viewerTimer);
-  host.querySelector('.yt-modal-title').textContent=title||'Article';
-  const note=host.querySelector('.yt-modal-note');note.hidden=true;
-  const iframe=host.querySelector('iframe');
-  // sandbox keeps a hostile page from breaking out; allow-scripts+same-origin needed for many players.
-  iframe.setAttribute('sandbox','allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-presentation');
-  iframe.src=url;
-  const ext=host.querySelector('.yt-modal-ext');ext.href=url;
-  host.classList.add('open');document.body.classList.add('yt-modal-open');
-  // Most news sites send X-Frame-Options / CSP frame-ancestors and show a blank frame.
-  // After a short wait, fall back to a real new tab so the reader still gets the article
-  // without losing Dispatch.
-  viewerFallback=url;
-  viewerTimer=setTimeout(()=>{
-   if(viewerFallback!==url)return;
-   note.hidden=false;note.textContent='This site won’t display inside Dispatch. Opening it in a new tab…';
-   setTimeout(()=>{if(viewerFallback===url){closeViewer();openNewTab(url);}},600);
-  }, likelyFrameable(url)?8000:2200);
-  host.querySelector('.yt-modal-x').focus();
- }
-
  function openExternal(url,a){
   savePlace();
   const id=ytId(url);
-  if(id&&!noEmbed(a,url)){openYtModal(id,(a&&(a.getAttribute('aria-label')||a.textContent)||'Video').replace(/\s+/g,' ').trim());return;}
+  if(id&&!noEmbed(a,url)&&!preferNative()){openYtModal(id,(a&&(a.getAttribute('aria-label')||a.textContent)||'Video').replace(/\s+/g,' ').trim());return true;}
+  if(preferNative())return false; // let <a target=_blank> proceed
   if(noEmbed(a,url)||!likelyFrameable(url)){
-   // News / rumors / insiders / podcasts / NFL: new tab immediately (framing almost always blocked).
-   // Still try a brief viewer only for known-frameable hosts above.
-   openNewTab(url);return;
+   if(!openNewTab(url))showSheet(url,(a&&a.textContent||'Article').replace(/\s+/g,' ').trim());
+   return true;
   }
-  openViewer(url,(a&&(a.getAttribute('aria-label')||a.textContent)||'Link').replace(/\s+/g,' ').trim());
+  // known-frameable non-YT on desktop: still new tab (viewer optional)
+  if(!openNewTab(url))showSheet(url,(a&&a.textContent||'Link').replace(/\s+/g,' ').trim());
+  return true;
  }
 
  function onExtActivate(e){
   const a=e.target.closest?.('a[href]');if(!a||!isExt(a))return;
-  // Viewer’s own “Open in new tab” is handled separately.
-  if(a.closest?.('#ext-viewer'))return;
+  if(a.closest?.('#ext-viewer')||a.closest?.('#ext-sheet'))return;
+  if(a.classList.contains('ext-native')||a.dataset.native==='1'){harden(a);savePlace();return;} // real target=_blank
   harden(a);
-  e.preventDefault();e.stopPropagation();
-  if(typeof e.stopImmediatePropagation==='function')e.stopImmediatePropagation();
-  openExternal(a.href,a);
+  // iPad / in-app: do not preventDefault — Safari must see a direct user-activated <a target=_blank>.
+  if(preferNative()){savePlace();return;}
+  const handled=openExternal(a.href,a);
+  if(handled){e.preventDefault();e.stopPropagation();if(typeof e.stopImmediatePropagation==='function')e.stopImmediatePropagation();}
  }
- // Capture on click + auxclick (middle) so in-app WebViews cannot navigate this tab away.
  document.addEventListener('click',onExtActivate,true);
  document.addEventListener('auxclick',e=>{if(e.button===1)onExtActivate(e);},true);
+
+ // One-time banner for in-app / awkward WebViews (incl. iPad desktop-UA).
+ function showBrowseBanner(){
+  if(!preferNative())return;
+  try{if(localStorage.getItem('bgd_browser_banner')==='1')return;}catch(e){}
+  if(document.getElementById('bgd-browser-banner'))return;
+  const bar=document.createElement('div');bar.id='bgd-browser-banner';bar.className='bgd-browser-banner';
+  bar.innerHTML=`<p>For the best experience, open Black &amp; Gold Dispatch in <b>Safari</b> or <b>Chrome</b>.</p>
+   <p class="bb-actions"><button type="button" class="btn ghost" data-bb-copy>Copy link</button> <button type="button" class="btn ghost" data-bb-dismiss>Dismiss</button></p>`;
+  document.body.prepend(bar);
+  bar.querySelector('[data-bb-dismiss]').onclick=()=>{try{localStorage.setItem('bgd_browser_banner','1');}catch(e){}bar.remove();};
+  bar.querySelector('[data-bb-copy]').onclick=()=>{const u=location.href.split('#')[0]+(location.hash||'#/');
+   const b=bar.querySelector('[data-bb-copy]');const done=()=>{b.textContent='Copied!';setTimeout(()=>b.textContent='Copy link',1500);};
+   if(navigator.clipboard&&navigator.clipboard.writeText)navigator.clipboard.writeText(u).then(done).catch(()=>{});
+   else{try{const ta=document.createElement('textarea');ta.value=u;document.body.appendChild(ta);ta.select();document.execCommand('copy');ta.remove();done();}catch(e){}}
+  };
+ }
+ if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',showBrowseBanner);else showBrowseBanner();
 
  const mo=new MutationObserver(ms=>{for(const m of ms){m.addedNodes.forEach(n=>{if(n.nodeType===1)scan(n);});}});
  const start=()=>{scan(document);try{mo.observe(document.documentElement,{childList:true,subtree:true});}catch(e){}};
  if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',start);else start();
  document.addEventListener('route',()=>setTimeout(()=>{scan(document);savePlace();},0));
  window.BGD_hardenExt=harden;window.BGD_scanExt=scan;window.BGD_openExternal=openExternal;window.BGD_ytModal=openYtModal;window.BGD_closeViewer=closeViewer;
+ window.BGD_preferNative=preferNative;window.BGD_showSheet=showSheet;
 })();
+
 
 
 
