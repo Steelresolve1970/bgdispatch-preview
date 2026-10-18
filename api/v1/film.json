@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "film",
  "description": "Film breakdowns of the last game and previews of the next game (links).",
- "generated": "2026-10-18T17:56:02+00:00",
- "data_updated": "2026-10-18T17:55:48+00:00",
- "count": 22,
+ "generated": "2026-10-18T18:06:25+00:00",
+ "data_updated": "2026-10-18T18:06:09+00:00",
+ "count": 23,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -170,6 +170,20 @@
    "summary": "Film breakdown by Arthur Moats Experience of Week 5 vs Colts (W 34-22).",
    "source": {
     "name": "Arthur Moats Experience",
+    "url": null
+   }
+  },
+  {
+   "id": "4f531d9efbae4028",
+   "type": "film_breakdown",
+   "game": "vs Indianapolis Colts (Oct 11)",
+   "title": "Steelers' Defense WAKES UP Against The Indianapolis Colts | REPORT CARD - Week 9",
+   "creator": "Steelers Almighty",
+   "url": "https://www.youtube.com/watch?v=89QAgfKcWJ8",
+   "published": "2026-10-12T17:00:00+00:00",
+   "summary": "Film breakdown by Steelers Almighty of Week 5 vs Colts (W 34-22).",
+   "source": {
+    "name": "Steelers Almighty",
     "url": null
    }
   },

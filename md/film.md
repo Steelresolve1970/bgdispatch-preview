@@ -1,6 +1,6 @@
 # Steelers Film Room & Previews
 
-_Generated 2026-10-18T17:56:02+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T17:55:48+00:00._
+_Generated 2026-10-18T18:06:25+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T18:06:09+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/film.json_
 
 - Breakdown (vs Indianapolis Colts (Oct 11)): [Film Room: Max Iheanachor Is Already Fixing His Biggest Issue](https://steelersdepot.com/2026/10/film-room-max-iheanachor-is-already-fixing-his-biggest-issue/): Steelers Depot Film Room (Alex Kozora), 2026-10-17 11:15 UTC
@@ -14,6 +14,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/film.json_
 - Breakdown (vs Indianapolis Colts (Oct 11)): [The Terrible Podcast — Talking Steelers At Trade Deadline, Tomlin Tuesday, Colts All-22 Final Notes](https://www.youtube.com/watch?v=2kz53hLthU4): Steelers Depot (YouTube), 2026-10-12 17:00 UTC
 - Breakdown (vs Indianapolis Colts (Oct 11)): [6 TAKEAWAYS vs. Colts 😤 More than any team in a game all season #PITvsLAC: 11/9 at 8:20 PM ET on NBC](https://www.youtube.com/watch?v=adCsTTvxJfw): Pittsburgh Steelers (official), 2026-10-12 17:00 UTC
 - Breakdown (vs Indianapolis Colts (Oct 11)): [Steelers Payton Wilson Was EVERYWHERE Vs The Colts (Master Moats Film Session)](https://www.youtube.com/watch?v=3dyxDXOE9yY): Arthur Moats Experience, 2026-10-12 17:00 UTC
+- Breakdown (vs Indianapolis Colts (Oct 11)): [Steelers' Defense WAKES UP Against The Indianapolis Colts | REPORT CARD - Week 9](https://www.youtube.com/watch?v=89QAgfKcWJ8): Steelers Almighty, 2026-10-12 17:00 UTC
 - Breakdown (vs Indianapolis Colts (Oct 11)): [Film Room: Yahya Black Steps Up In Derrick Harmon’s Absence](https://steelersdepot.com/2026/10/film-room-yahya-black-steps-up-in-derrick-harmons-absence/): Steelers Depot Film Room (Alex Kozora), 2026-10-12 16:30 UTC
 - Preview (at New Orleans Saints (Oct 25)): [Betting Preview for Steelers vs. Buccaneers, Week 6 | Let's Ride](https://www.youtube.com/watch?v=op0oWkQ1dHc): Steel Curtain Network (BTSC), 2026-10-17 11:30 UTC
 - Preview (at New Orleans Saints (Oct 25)): [Buccaneers Preview & Predictions | Steelers Afternoon Drive](https://www.youtube.com/watch?v=usANVtFc8bk): Steelers Now (Derrick Bell), 2026-10-16 22:10 UTC
