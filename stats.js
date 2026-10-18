@@ -20,7 +20,7 @@ function render(d){const el=document.getElementById('stats-body');if(!el||!d)ret
  ${pool.map(p=>`<tr><td><b>${E(p.name)}</b> <small>${E(p.pos||'')}</small></td>${cols.map(c=>{const s=p.stats[c];return`<td class="num">${s?`${E(s.value)} ${rk(s.rank,n)}`:'<span class="na">–</span>'}</td>`}).join('')}</tr>`).join('')}
  </tbody></table></div>
  <p class="fine">Player ranks are among all ${n.toLocaleString()} NFL players with ${g.toLowerCase()} stats this season (ties share a rank). ${E(d.qbr_note)}</p>
- <div class="box"><b>Coming soon:</b> ${d.coming_soon.map(E).join(', ')}. These need a paid data provider (e.g. PFF / Sports Info Solutions).</div>`;}
+ `;}
 let D=null;fetch('data/stats.json',{cache:'no-store'}).then(r=>r.json()).then(d=>{D=d;render(D);}).catch(()=>{});
 document.addEventListener('click',e=>{const t=e.target.closest('.st-tab');if(t){tab=t.dataset.st;render(D);}});
 })();

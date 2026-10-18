@@ -1,17 +1,17 @@
 # Steelers Player Grades (Heat Map)
 
-_Generated 2026-10-18T00:48:05+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-11T17:00:00+00:00._
+_Generated 2026-10-18T00:58:17+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-11T17:00:00+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/grades.json_
 
 Week 5: vs Indianapolis Colts (34-22). Grade = stats grade (box score, see GRADES.md) until a player has 25 fan votes, then fan grade.
 
 | Player | Pos | Grade | Grade type | Box score |
 |---|---|---|---|---|
-| Max Iheanachor | T | 9.7 | editor | 60 offensive snaps (100%); line: 1 sacks allowed, 5.8 yds/carry, 6 team penalties |
 | Jaylen Warren | RB | 8.7 | editor | 15 rush, 101 yds, 1 TD; 6 rec, 87 yds, 1 TD |
 | Zach Frazier | C | 8.6 | editor | 60 offensive snaps (100%); line: 1 sacks allowed, 5.8 yds/carry, 6 team penalties |
 | Mason McCormick | G | 8.0 | editor | 60 offensive snaps (100%); line: 1 sacks allowed, 5.8 yds/carry, 6 team penalties |
 | Jalen Ramsey | CB | 8.0 | editor | 9 tkl, 1 PD |
+| Max Iheanachor | T | 7.9 | editor | 60 offensive snaps (100%); line: 1 sacks allowed, 5.8 yds/carry, 6 team penalties |
 | Germie Bernard | WR | 7.7 | stats | 1 rush, 4 yds; 6 rec, 80 yds |
 | Asante Samuel Jr. | CB | 7.6 | stats | 4 tkl, 4 PD |
 | Brock Hoffman | C | 7.5 | editor | 60 offensive snaps (100%); line: 1 sacks allowed, 5.8 yds/carry, 6 team penalties |
