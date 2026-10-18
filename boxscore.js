@@ -74,7 +74,7 @@ function render(b){
    ${teamStats(b)}
    ${playerBlock(b.away.abbr,b.players[b.away.abbr])}
    ${playerBlock(b.home.abbr,b.players[b.home.abbr])}
-   <p class="fine">${E(b.source||'Data: nflverse (CC-BY 4.0)')}. <a href="${E(b.source_url||'https://github.com/nflverse/nflverse-data')}" target="_blank" rel="noopener noreferrer">nflverse</a>. Unofficial fan site.</p>
+   <p class="fine">${E(b.source||'Data: nflverse (CC-BY 4.0)')}. <a href="${E(b.source_url||'https://github.com/nflverse/nflverse-data')}" target="_blank" rel="noopener">nflverse</a>. Unofficial fan site.</p>
    <p><a class="back" href="#/game">← Back to Schedule</a></p>`;
   document.title=`Box Score: ${b.away.abbr} ${b.away.score}–${b.home.abbr} ${b.home.score} – Black & Gold Dispatch`;
 }

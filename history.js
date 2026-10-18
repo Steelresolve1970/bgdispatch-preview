@@ -2,7 +2,7 @@
 (function(){
 const H={},FILES=['seasons','superbowls','halloffame','coaches','leaders','moments','hallofhonor','hof','ballots'];let loaded=false,decade='all';
 const esc=s=>String(s==null?'':s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const X='target="_blank" rel="noopener noreferrer"';const src=(u,t)=>u?`<a href="${esc(u)}" ${X}>${esc(t||'Source')}</a>`:'';
+const X='target="_blank" rel="noopener"';const src=(u,t)=>u?`<a href="${esc(u)}" ${X}>${esc(t||'Source')}</a>`:'';
 const SEC=[['h-seasons','Year by year'],['h-sb','Super Bowls'],['h-hof','Hall of Famers'],['h-coaches','Coaches & owners'],['h-leaders','Records & leaders'],['h-moments','Moments & rivals']];
 function seasonsRows(){const s=H.seasons.seasons.filter(r=>decade==='all'||String(Math.floor(r.year/10)*10)===decade);
  return s.map(r=>{const sb=/Won Super Bowl/.test(r.playoffs),po=!!r.playoffs;const rec=`${r.w}–${r.l}${r.t?'–'+r.t:''}`;

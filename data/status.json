@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-18T04:36:01.486052+00:00",
+ "last_run": "2026-10-18T05:44:36.518173+00:00",
  "results": [
   {
    "fetcher": "apply_grade_edits.py",
@@ -10,7 +10,7 @@
   {
    "fetcher": "fetch_news.py",
    "ok": true,
-   "seconds": 1.4,
+   "seconds": 0.9,
    "last_line": "news: 150 ticker: 30"
   },
   {
@@ -34,19 +34,19 @@
   {
    "fetcher": "fetch_film.py",
    "ok": true,
-   "seconds": 45.0,
+   "seconds": 61.2,
    "last_line": "  Week 1 vs Falcons (W 20-13): 4   {'Steelers Depot Film Room (Alex Kozora)': 1, \"Derrick Bell \u2013 DB's Film Room (Steelers Now)\": 1, 'Steelers Almighty': 1, 'Steelers Depot (YouTube)': 1}"
   },
   {
    "fetcher": "fetch_podcasts.py",
    "ok": true,
-   "seconds": 17.3,
+   "seconds": 17.5,
    "last_line": "episodes past 7 days: 186 | embed-fallback channels: 1"
   },
   {
    "fetcher": "fetch_featured.py",
    "ok": true,
-   "seconds": 0.7,
+   "seconds": 0.5,
    "last_line": "preview Tampa Bay Buccaneers Pittsburgh Steelers vs Tampa Bay Buccaneers | 2026 Week 6 Game Preview"
   },
   {
@@ -106,7 +106,7 @@
   {
    "fetcher": "fetch_depth.py",
    "ok": true,
-   "seconds": 2.2,
+   "seconds": 1.9,
    "last_line": "depth units [('Offense', '3WR 1TE', 12), ('Defense', 'Base 3-4 D', 12), ('Special teams', 'Special Teams', 6)]"
   },
   {
@@ -118,7 +118,7 @@
   {
    "fetcher": "fetch_rumors.py",
    "ok": true,
-   "seconds": 1.9,
+   "seconds": 2.1,
    "last_line": "rumors 29 {'Rumor': 29, 'Confirmed': 0, 'Denied': 0}"
   },
   {
@@ -130,7 +130,7 @@
   {
    "fetcher": "fetch_history.py",
    "ok": true,
-   "seconds": 0.1,
+   "seconds": 0.0,
    "last_line": "history fresh; skipped"
   },
   {
@@ -149,7 +149,7 @@
    "fetcher": "build_machine.py",
    "ok": true,
    "seconds": 0.1,
-   "last_line": "machine layer: {'news': 150, 'rumors': 29, 'injuries': 16, 'depth-chart': 28, 'schedule': 17, 'stats': 60, 'grades': 42, 'college': 20, 'insiders': 16, 'podcasts': 157, 'film': 15, 'draft': 521} md 13 feeds 5 jsonld 14"
+   "last_line": "machine layer: {'news': 150, 'rumors': 29, 'injuries': 16, 'depth-chart': 28, 'schedule': 17, 'stats': 60, 'grades': 42, 'college': 20, 'insiders': 16, 'podcasts': 157, 'film': 13, 'draft': 521} md 13 feeds 5 jsonld 14"
   }
  ]
 }

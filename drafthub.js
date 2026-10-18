@@ -2,7 +2,7 @@
 // searchable archive of every Steelers pick (nflverse draft_picks, CC-BY 4.0), and links to outside draft resources.
 (function(){
 const E=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const ext='target="_blank" rel="noopener noreferrer"';
+const ext='target="_blank" rel="noopener"';
 let H=null,HI=null,need=null;const F={q:'',year:'',round:'',pos:''};let shown=50;
 const gcls=g=>'g-'+(g||'').charAt(0).toLowerCase();
 function needsHTML(){return`<section class="box needs-panel"><h2>Steelers Needs</h2>

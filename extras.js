@@ -2,7 +2,7 @@
 // All data comes from files the fetchers write (nflverse CC-BY 4.0 data, our news feed, verified history).
 (function(){
 const X={};const E=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const EXT='target="_blank" rel="noopener noreferrer"';const J=u=>fetch((window.BGD_url?BGD_url(u):u),{cache:'no-store'}).then(r=>{if(!r.ok)throw r.status;return r.json()});
+const EXT='target="_blank" rel="noopener"';const J=u=>fetch((window.BGD_url?BGD_url(u):u),{cache:'no-store'}).then(r=>{if(!r.ok)throw r.status;return r.json()});
 const et=(iso,o)=>new Date(iso).toLocaleString('en-US',{timeZone:'America/New_York',...o});
 const ago=iso=>{const m=Math.round((Date.now()-new Date(iso))/6e4);return m<60?m+'m ago':m<1440?Math.round(m/60)+'h ago':Math.round(m/1440)+'d ago';};
 const $=id=>document.getElementById(id);const money=v=>v==null?'—':'$'+(v>=1e6?(v/1e6).toFixed(v>=1e7?1:2)+'M':Math.round(v/1e3)+'K');
@@ -136,7 +136,7 @@ if('serviceWorker' in navigator&&location.protocol!=='file:')navigator.serviceWo
 (function(){const E=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
  const tag={Out:'s-out',Doubtful:'s-doubt',Questionable:'s-q','Injured Reserve':'s-ir','Physically Unable to Perform':'s-ir'};
  const ab={Out:'OUT',Doubtful:'D',Questionable:'Q','Injured Reserve':'IR','Physically Unable to Perform':'PUP'};
- const pc=p=>p?`<${p.link?'a':'span'} class="dp"${p.link?` href="${E(p.link)}" target="_blank" rel="noopener noreferrer"`:''}>${p.jersey?'<small>#'+E(p.jersey)+'</small> ':''}${E(p.name)}${p.injury?` <span class="pill ${tag[p.injury]||''}">${ab[p.injury]||E(p.injury)}</span>`:''}</${p.link?'a':'span'}>`:'<span class="dp none">—</span>';
+ const pc=p=>p?`<${p.link?'a':'span'} class="dp"${p.link?` href="${E(p.link)}" target="_blank" rel="noopener"`:''}>${p.jersey?'<small>#'+E(p.jersey)+'</small> ':''}${E(p.name)}${p.injury?` <span class="pill ${tag[p.injury]||''}">${ab[p.injury]||E(p.injury)}</span>`:''}</${p.link?'a':'span'}>`:'<span class="dp none">—</span>';
  let D=null;let uSel='Offense';
  function render(){const el=document.getElementById('depth-body');if(!el||!D)return;const u=D.units.find(x=>x.unit===uSel)||D.units[0];
   el.innerHTML=`<p class="fine">Last updated ${new Date(D.generated).toLocaleString('en-US',{timeZone:'America/New_York',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})} ET · refreshed every update cycle · formation: ${E(u.formation)}</p>

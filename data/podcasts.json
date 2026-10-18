@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T04:35:55.189133+00:00",
+ "generated": "2026-10-18T05:44:30.439695+00:00",
  "date_et": "2026-10-18",
  "days": 7,
  "count": 186,
@@ -215,10 +215,10 @@
    "show": "Not Just Football with Cam Heyward",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8hodyaoiw297aspKf9QVDA",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 7,
-   "latest": "2026-10-17T23:00:17+00:00"
+   "latest": null
   },
   {
    "show": "Footbahlin with Ben Roethlisberger",
@@ -242,7 +242,7 @@
    "show": "The Christian Kuntz Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKKBJcOGsYmwAATQv-xQYeA",
-   "status": "error: HTTP Error 500: Internal Server Error",
+   "status": "error: HTTP Error 404: Not Found",
    "episodes": 0,
    "week": 0,
    "latest": null

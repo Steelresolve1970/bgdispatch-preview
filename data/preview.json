@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T04:34:53.026087+00:00",
+ "generated": "2026-10-18T05:43:11.819771+00:00",
  "game": {
   "label": "at Tampa Bay Buccaneers (Oct 18)",
   "opponent": "Tampa Bay Buccaneers",
@@ -55,9 +55,9 @@
    "creator": "Merril Hoge \u2013 Steelers Playbook (official)",
    "mode": "official",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChaRXjMDs4ppKfnTPE6Z89w",
-   "status": "ok",
-   "feed_items": 15,
-   "in_window": 1
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
+   "in_window": 0
   },
   {
    "creator": "Merril Hoge \u2013 Steelers Playbook (steelers.com)",
@@ -71,8 +71,8 @@
    "creator": "Merril Hoge (personal)",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCL1UFebpPn1rsxK0yEwwbgA",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
@@ -167,16 +167,16 @@
    "creator": "Steelers Depot (YouTube)",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFqbkq2BzNY3iQ_FPveqVhw",
-   "status": "ok",
-   "feed_items": 15,
-   "in_window": 1
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
+   "in_window": 0
   },
   {
    "creator": "Pittsburgh Steelers (official)",
    "mode": "official-yt",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChaRXjMDs4ppKfnTPE6Z89w",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
@@ -191,7 +191,7 @@
    "creator": "Brett Kollmann",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYzfVBuCfGz-oF3aOCGgO5g",
-   "status": "error: HTTP Error 500: Internal Server Error",
+   "status": "error: HTTP Error 404: Not Found",
    "feed_items": 0,
    "in_window": 0
   },
@@ -213,22 +213,6 @@
   }
  ],
  "items": [
-  {
-   "title": "How to pressure Tampa Bay | Playbook with Merril Hoge | Pittsburgh Steelers",
-   "creator": "Merril Hoge \u2013 Steelers Playbook (official)",
-   "link": "https://www.youtube.com/watch?v=9sQcJpz3j8M",
-   "published": "2026-10-16T22:00:07+00:00",
-   "summary": "Preview by Merril Hoge \u2013 Steelers Playbook (official) for at Tampa Bay Buccaneers (Oct 18).",
-   "game": "at Tampa Bay Buccaneers (Oct 18)"
-  },
-  {
-   "title": "The Terrible Podcast \u2014 Steelers Vs Buccaneers Game Preview, Trade Possibility, Injuries, W6 Picks",
-   "creator": "Steelers Depot (YouTube)",
-   "link": "https://www.youtube.com/watch?v=lHwxWzn_glI",
-   "published": "2026-10-16T15:33:32+00:00",
-   "summary": "Preview by Steelers Depot (YouTube) for at Tampa Bay Buccaneers (Oct 18).",
-   "game": "at Tampa Bay Buccaneers (Oct 18)"
-  },
   {
    "title": "Buccaneers Defense Scouting Report: Batten Down The Hatches To Beat The Blitz",
    "creator": "Alex Kozora (Steelers Depot)",
@@ -269,5 +253,5 @@
   "youtube": null,
   "embed": null
  },
- "count": 5
+ "count": 3
 }

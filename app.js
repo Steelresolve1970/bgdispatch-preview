@@ -1,6 +1,6 @@
 const $=id=>document.getElementById(id);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const ext='target="_blank" rel="noopener noreferrer"';
+const ext='target="_blank" rel="noopener"';
 const ET={timeZone:'America/New_York'};
 function ago(iso){if(!iso)return'';const m=Math.max(0,Math.round((Date.now()-new Date(iso))/60000));
  if(m<60)return m+'m ago';const h=Math.round(m/60);if(h<24)return h+'h ago';return Math.round(h/24)+'d ago';}
@@ -85,7 +85,7 @@ setInterval(tick,1000);
 function renderFV(){const f=D.fv,el=$('featuredVideo');if(!el||!f||!f.video)return;const v=f.video;
  const lab={highlights:'Game Highlights',preview:'Game Preview',ctm:'Preview Podcast Segment'}[v.kind]||'Featured Video';
  const src=v.embed?(v.embed.includes('?')?v.embed+'&rel=0':v.embed+'?rel=0'):null;
- el.innerHTML=`<h2 id="fvH" class="section-title">Featured Video · ${lab}</h2><div class="fv-grid">${src?`<div class="fv-frame"><iframe src="${esc(src)}" title="${esc(v.title)}" loading="lazy" allow="encrypted-media; picture-in-picture; fullscreen" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe></div>`:`<a class="fv-frame fv-out" href="${esc(v.link)}" ${ext}><span class="fv-play">▶</span><span class="fv-out-t">Watch on YouTube</span><span class="fv-out-s">${esc(v.channel)} only allows this video to play on YouTube</span></a>`}<div class="fv-body"><h3><a href="${esc(v.link)}" ${ext}>${esc(v.title)}</a></h3><p>${esc(v.caption||'')}</p>${f.fallback?`<p class="fv-note">${esc(f.fallback)}</p>`:''}<p class="meta">Official ${esc(v.channel)} YouTube channel · <a href="${esc(v.link)}" ${ext}>Watch on YouTube →</a></p></div></div>`;
+ el.innerHTML=`<h2 id="fvH" class="section-title">Featured Video · ${lab}</h2><div class="fv-grid">${src?`<div class="fv-frame"><iframe src="${esc(src)}" title="${esc(v.title)}" loading="lazy" allow="encrypted-media; picture-in-picture; fullscreen" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe></div>`:`<a class="fv-frame fv-out" data-no-embed="1" href="${esc(v.link)}" ${ext}><span class="fv-play">▶</span><span class="fv-out-t">Watch on YouTube</span><span class="fv-out-s">${esc(v.channel)} only allows this video to play on YouTube</span></a>`}<div class="fv-body"><h3><a href="${esc(v.link)}" ${ext}>${esc(v.title)}</a></h3><p>${esc(v.caption||'')}</p>${f.fallback?`<p class="fv-note">${esc(f.fallback)}</p>`:''}<p class="meta">Official ${esc(v.channel)} YouTube channel · <a href="${esc(v.link)}" ${ext}>Watch on YouTube →</a></p></div></div>`;
  el.hidden=false;}
 
 const SRC={news:['data/news.json',renderNews],ticker:['data/ticker.json',renderTicker],ins:['data/insiders.json',renderIns],
@@ -123,9 +123,20 @@ window.availHTML=function(name,list){const a=list||(window.BGD_AV&&window.BGD_AV
  const cls=p=>p>=65?'hi':p>=35?'mid':p>=10?'lo':'none';
  return`<div class="avail" title="Estimate from our board rank vs the Steelers' projected pick. See the Draft tab for how it works."><span class="avail-lab">Chance available at Steelers pick <small>(estimate)</small></span>${a.map(x=>`<span class="avail-pill ${cls(x.pct)}">R${x.round} #${x.overall}: <b>${x.pct<1?'<1':x.pct>99?'>99':x.pct}%</b></span>`).join('')}</div>`;};
 
-// External links: always open in a new tab so our site stays open for the reader.
-// Hardens on render (MutationObserver) and again at click time for anything missed.
+// External links + place restore (mobile / in-app browsers often ignore target=_blank).
+// Cause of news-link "Dispatch gone": harden-only set target=_blank; click never preventDefault /
+// window.open, so iOS in-app WebViews navigated the same tab away. Fix: capture-click intercept
+// for EVERY external <a>, save place, try in-site viewer when frameable, else window.open(_blank).
 (function(){
+ const PLACE='bgd_place';
+ function savePlace(){try{const p={hash:location.hash||'#/',scroll:window.scrollY||0,t:Date.now()};sessionStorage.setItem(PLACE,JSON.stringify(p));localStorage.setItem(PLACE,JSON.stringify(p));}catch(e){}}
+ function restorePlace(){try{const raw=sessionStorage.getItem(PLACE)||localStorage.getItem(PLACE);if(!raw)return;const p=JSON.parse(raw);if(!p||!p.hash)return;const go=()=>{if((location.hash||'#/')!==p.hash)location.hash=p.hash;const sc=()=>window.scrollTo(0,p.scroll||0);sc();setTimeout(sc,120);setTimeout(sc,450);};if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',()=>setTimeout(go,0));else setTimeout(go,0);}catch(e){}}
+ window.BGD_savePlace=savePlace;window.BGD_restorePlace=restorePlace;
+ let scrollT=null;addEventListener('scroll',()=>{clearTimeout(scrollT);scrollT=setTimeout(savePlace,200);},{passive:true});
+ addEventListener('hashchange',()=>setTimeout(savePlace,0));
+ addEventListener('pagehide',savePlace);addEventListener('beforeunload',savePlace);
+ restorePlace();
+
  function isExt(a){
   if(!a||a.tagName!=='A')return false;
   const raw=(a.getAttribute('href')||'').trim();
@@ -136,21 +147,130 @@ window.availHTML=function(name,list){const a=list||(window.BGD_AV&&window.BGD_AV
   if(!isExt(a))return false;
   a.setAttribute('target','_blank');
   const rel=new Set((a.getAttribute('rel')||'').toLowerCase().split(/\s+/).filter(Boolean));
-  rel.add('noopener');rel.add('noreferrer');
+  rel.add('noopener');rel.delete('noreferrer');
   a.setAttribute('rel',[...rel].join(' '));
-  // Mark for the subtle ↗ CSS; skip dense UI (cards titles, buttons, frames, ticker).
   if(!a.classList.contains('ext-skip')&&!a.classList.contains('hl')&&!a.classList.contains('btn')&&!a.classList.contains('fv-out')&&!a.classList.contains('inj')&&!a.classList.contains('dp')&&!a.closest('#tickerMove,.fv-frame,.merch-grid,nav'))
    a.classList.add('ext-link');
   return true;
  }
  function scan(root){(root||document).querySelectorAll?.('a[href]')?.forEach(harden);if(root?.matches?.('a[href]'))harden(root);}
- document.addEventListener('click',e=>{const a=e.target.closest?.('a[href]');if(a)harden(a);},true);
+
+ function ytId(url){
+  try{const u=new URL(url,location.href);const h=u.hostname.replace(/^www\./,'');
+   if(h==='youtu.be')return u.pathname.replace(/^\//,'').split('/')[0]||null;
+   if(h==='youtube.com'||h==='m.youtube.com'||h==='music.youtube.com'||h==='youtube-nocookie.com'){
+    if(u.searchParams.get('v'))return u.searchParams.get('v');
+    const m=u.pathname.match(/\/(?:embed|shorts|live)\/([^/?#]+)/);return m?m[1]:null;}
+  }catch(e){}return null;
+ }
+ // NFL (and similar) block embedding — open those in a new tab instead of a broken modal.
+ function noEmbed(a,url){
+  if(a&&(a.classList.contains('fv-out')||a.dataset.noEmbed==='1'))return true;
+  const t=((a&&(a.textContent||'')+' '+(a.getAttribute('aria-label')||'')||'')+' '+(url||'')).toLowerCase();
+  if(/\bnfl\b/.test(t)&&/only allows this video to play on youtube|watch on youtube/.test(t))return true;
+  try{const u=new URL(url,location.href);if(/youtube\.com\/@nfl\b/i.test(u.href)||/\.nfl\.com$/i.test(u.hostname.replace(/^www\./,'')))return true;}catch(e){}
+  return false;
+ }
+ // Hosts we know usually allow framing (or our nocookie embed). Others: try briefly, then fall back.
+ function likelyFrameable(url){
+  try{const h=new URL(url,location.href).hostname.replace(/^www\./,'').toLowerCase();
+   return /(^|\.)youtube\.com$|(^|\.)youtube-nocookie\.com$|(^|\.)youtu\.be$|(^|\.)player\.vimeo\.com$|(^|\.)open\.spotify\.com$|(^|\.)embed\.podcasts\.apple\.com$/.test(h);
+  }catch(e){return false;}
+ }
+
+ function ensureViewer(){
+  let host=document.getElementById('ext-viewer');
+  if(host)return host;
+  host=document.createElement('div');host.id='ext-viewer';host.className='yt-modal';host.setAttribute('role','dialog');host.setAttribute('aria-modal','true');
+  host.innerHTML=`<div class="yt-modal-card ext-viewer-card"><button type="button" class="yt-modal-x" aria-label="Close">✕</button><h2 class="yt-modal-title"></h2><div class="yt-modal-frame ext-viewer-frame"><iframe referrerpolicy="no-referrer-when-downgrade" title="External content"></iframe></div><p class="yt-modal-note" hidden>This site won’t display inside Dispatch. Opening it in a new tab…</p><p class="yt-modal-actions"><a class="btn ghost yt-modal-ext" href="#" target="_blank" rel="noopener">Open in new tab ↗</a> <button type="button" class="btn ghost yt-modal-close">Close</button></p></div>`;
+  document.body.appendChild(host);
+  const close=()=>closeViewer();
+  host.addEventListener('click',e=>{if(e.target===host||e.target.closest('.yt-modal-x')||e.target.closest('.yt-modal-close'))close();});
+  document.addEventListener('keydown',e=>{if(e.key==='Escape')close();});
+  // Open-in-new-tab inside the viewer must not re-enter our capture handler as a loop.
+  host.querySelector('.yt-modal-ext').addEventListener('click',e=>{e.preventDefault();e.stopPropagation();const u=host.querySelector('.yt-modal-ext').href;closeViewer();openNewTab(u);},{capture:true});
+  return host;
+ }
+ let viewerTimer=null;let viewerFallback=null;
+ function closeViewer(){const host=document.getElementById('ext-viewer');if(!host)return;clearTimeout(viewerTimer);viewerTimer=null;viewerFallback=null;host.classList.remove('open');document.body.classList.remove('yt-modal-open');const iframe=host.querySelector('iframe');if(iframe)iframe.src='about:blank';const note=host.querySelector('.yt-modal-note');if(note)note.hidden=true;}
+ function openNewTab(url){
+  savePlace();
+  let w=null;
+  try{w=window.open(url,'_blank','noopener');}catch(e){w=null;}
+  if(w){try{w.opener=null;}catch(e){}}
+  if(!w){try{w=window.open(url,'_blank');if(w)try{w.opener=null;}catch(e){}}catch(e){w=null;}}
+  // Last resort: <a target=_blank> click — still avoids same-tab navigation of Dispatch.
+  if(!w){const a=document.createElement('a');a.href=url;a.target='_blank';a.rel='noopener';a.style.display='none';document.body.appendChild(a);a.click();a.remove();}
+  return !!w;
+ }
+ function openYtModal(id,title){
+  const host=ensureViewer();
+  clearTimeout(viewerTimer);viewerFallback=null;
+  host.querySelector('.yt-modal-title').textContent=title||'Video';
+  host.querySelector('.yt-modal-note').hidden=true;
+  const iframe=host.querySelector('iframe');
+  iframe.removeAttribute('sandbox');
+  iframe.src='https://www.youtube-nocookie.com/embed/'+encodeURIComponent(id)+'?rel=0&modestbranding=1&playsinline=1';
+  const ext=host.querySelector('.yt-modal-ext');ext.href='https://www.youtube.com/watch?v='+encodeURIComponent(id);
+  host.classList.add('open');document.body.classList.add('yt-modal-open');
+  host.querySelector('.yt-modal-x').focus();
+ }
+ function openViewer(url,title){
+  const host=ensureViewer();
+  clearTimeout(viewerTimer);
+  host.querySelector('.yt-modal-title').textContent=title||'Article';
+  const note=host.querySelector('.yt-modal-note');note.hidden=true;
+  const iframe=host.querySelector('iframe');
+  // sandbox keeps a hostile page from breaking out; allow-scripts+same-origin needed for many players.
+  iframe.setAttribute('sandbox','allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-presentation');
+  iframe.src=url;
+  const ext=host.querySelector('.yt-modal-ext');ext.href=url;
+  host.classList.add('open');document.body.classList.add('yt-modal-open');
+  // Most news sites send X-Frame-Options / CSP frame-ancestors and show a blank frame.
+  // After a short wait, fall back to a real new tab so the reader still gets the article
+  // without losing Dispatch.
+  viewerFallback=url;
+  viewerTimer=setTimeout(()=>{
+   if(viewerFallback!==url)return;
+   note.hidden=false;note.textContent='This site won’t display inside Dispatch. Opening it in a new tab…';
+   setTimeout(()=>{if(viewerFallback===url){closeViewer();openNewTab(url);}},600);
+  }, likelyFrameable(url)?8000:2200);
+  host.querySelector('.yt-modal-x').focus();
+ }
+
+ function openExternal(url,a){
+  savePlace();
+  const id=ytId(url);
+  if(id&&!noEmbed(a,url)){openYtModal(id,(a&&(a.getAttribute('aria-label')||a.textContent)||'Video').replace(/\s+/g,' ').trim());return;}
+  if(noEmbed(a,url)||!likelyFrameable(url)){
+   // News / rumors / insiders / podcasts / NFL: new tab immediately (framing almost always blocked).
+   // Still try a brief viewer only for known-frameable hosts above.
+   openNewTab(url);return;
+  }
+  openViewer(url,(a&&(a.getAttribute('aria-label')||a.textContent)||'Link').replace(/\s+/g,' ').trim());
+ }
+
+ function onExtActivate(e){
+  const a=e.target.closest?.('a[href]');if(!a||!isExt(a))return;
+  // Viewer’s own “Open in new tab” is handled separately.
+  if(a.closest?.('#ext-viewer'))return;
+  harden(a);
+  e.preventDefault();e.stopPropagation();
+  if(typeof e.stopImmediatePropagation==='function')e.stopImmediatePropagation();
+  openExternal(a.href,a);
+ }
+ // Capture on click + auxclick (middle) so in-app WebViews cannot navigate this tab away.
+ document.addEventListener('click',onExtActivate,true);
+ document.addEventListener('auxclick',e=>{if(e.button===1)onExtActivate(e);},true);
+
  const mo=new MutationObserver(ms=>{for(const m of ms){m.addedNodes.forEach(n=>{if(n.nodeType===1)scan(n);});}});
  const start=()=>{scan(document);try{mo.observe(document.documentElement,{childList:true,subtree:true});}catch(e){}};
  if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',start);else start();
- document.addEventListener('route',()=>setTimeout(()=>scan(document),0));
- window.BGD_hardenExt=harden;window.BGD_scanExt=scan;
+ document.addEventListener('route',()=>setTimeout(()=>{scan(document);savePlace();},0));
+ window.BGD_hardenExt=harden;window.BGD_scanExt=scan;window.BGD_openExternal=openExternal;window.BGD_ytModal=openYtModal;window.BGD_closeViewer=closeViewer;
 })();
+
+
 
 // Rumors & Updates sub-tabs (News & Rumors | Rumor Meter)
 function ruTab(k,push){document.querySelectorAll('.ru-tabs .rr-tab').forEach(b=>{const on=b.dataset.ru===k;b.classList.toggle('on',on);b.setAttribute('aria-selected',on);});

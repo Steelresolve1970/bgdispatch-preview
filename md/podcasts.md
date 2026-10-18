@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-18T04:36:01+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T04:35:55+00:00._
+_Generated 2026-10-18T05:44:36+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T05:44:30+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [The Steelers Q&A: Getting off the coaster in Week 6](http://steelcurtainnetwork.com): Steel Curtain Network (BTSC), 2026-10-18 02:30 UTC
