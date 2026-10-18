@@ -131,7 +131,7 @@ document.addEventListener('route',e=>{const v=e.detail;if(v==='live')live();else
 if('serviceWorker' in navigator&&location.protocol!=='file:')navigator.serviceWorker.register('sw.js').catch(()=>{}); // scaffold: registers only, never subscribes
 })();
 
-// ---------- Depth chart (Rumors & Roster page) ----------
+// ---------- Depth chart (Depth Chart & Roster page) ----------
 (function(){const E=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
  const tag={Out:'s-out',Doubtful:'s-doubt',Questionable:'s-q','Injured Reserve':'s-ir','Physically Unable to Perform':'s-ir'};
  const ab={Out:'OUT',Doubtful:'D',Questionable:'Q','Injured Reserve':'IR','Physically Unable to Perform':'PUP'};

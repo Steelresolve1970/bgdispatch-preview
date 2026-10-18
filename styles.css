@@ -381,7 +381,7 @@ nav .more a{color:#fff}nav .more a[aria-current]{color:var(--gold)}
 
 .filmnav{display:flex;flex-wrap:wrap;gap:.4rem;margin:.5rem 0 1rem}.filmnav a{color:#111;background:#fff;font-weight:600;text-transform:none;padding:.3rem .65rem;border:1px solid #c9a227;border-radius:999px;text-decoration:none;font-size:.9rem}
 .filmgame{margin:0 0 1rem;border-top:2px solid #c9a227}.filmgame>summary{cursor:pointer;padding:.6rem 0;list-style:revert}.filmgame>summary h2{display:inline;font-size:1.15rem;margin:0}
-/* Rumors & Roster tabs, practice squad, roster table, player card */
+/* Depth Chart & Roster tabs, practice squad, roster table, player card */
 .rr-tabs{display:flex;gap:6px;overflow-x:auto;margin:6px 0 16px;border-bottom:3px solid var(--black);-webkit-overflow-scrolling:touch}
 .rr-tab{flex:0 0 auto;border:0;background:#eee;color:#111;font:inherit;font-weight:800;padding:10px 14px;border-radius:8px 8px 0 0;cursor:pointer;touch-action:manipulation;min-height:44px}
 .rr-tab.on{background:var(--black);color:var(--gold)}

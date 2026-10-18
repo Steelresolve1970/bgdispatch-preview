@@ -11,19 +11,11 @@ const card=n=>`<article class="card"><p class="meta"><b>${esc(n.source)}</b> · 
 const tile=(e,kind,who,cta)=>`<article class="pod"><p class="kind">${kind}</p><p class="meta"><b>${esc(who)}</b> · ${ago(e.published)}</p><h3><a class="hl" href="${esc(e.link)}" ${ext}>${esc(e.title)}</a></h3>${e.summary?`<p>${esc(e.summary)}</p>`:''}<a href="${esc(e.link)}" ${ext}>${cta} at source →</a></article>`;
 const empty=t=>`<p class="empty">${t}</p>`;
 
-// Rumors & Roster keyword filter
-const RUMOR=/\b(trade[sd]?|trading|sign(s|ed|ing)?|re-sign\w*|release[sd]?|cuts?|waive[sd]?|waivers?|injur(y|ies|ed)|IR|injured reserve|practice squad|rumou?rs?|contract|extension|deal|activate[sd]?|questionable|doubtful|ruled out|out for|elevat\w+|claim(ed)?|free agen\w+|roster|depth chart|suspen\w+)\b/i;
-const TAGS=[['Trades',/trad(e|ing)/i],['Signings',/sign|contract|extension|deal|claim/i],['Injuries',/injur|\bIR\b|questionable|doubtful|ruled out|out for|activate/i],['Releases',/release|\bcuts?\b|waive/i],['PS moves',/practice squad|elevat/i]];
-let rumorTag=null;
-
 function renderNews(){const n=D.news;if(!n||!n.items.length)return;const items=n.items,f=items[0];
  $('featured').querySelector('.featured-body').innerHTML=`<span class="tag">Top Story</span><h1><a class="hl" href="${esc(f.link)}" ${ext}>${esc(f.title)}</a></h1>${f.summary?`<p>${esc(f.summary)}</p>`:''}<p class="meta">${esc(f.source)} · ${ago(f.published)} · <a href="${esc(f.link)}" ${ext}>Read at source →</a></p>`;
  $('cards').innerHTML=items.slice(1,17).map(card).join('');
  $('updated').textContent=`${n.count} headlines from ${n.sources.filter(s=>s.status==='ok').length} sources · updated ${ago(n.generated)}`;
- const tdy=new Date().toLocaleDateString('en-CA',ET);const r=items.filter(i=>RUMOR.test(i.title+' '+i.summary)&&new Date(i.published).toLocaleDateString('en-CA',ET)===tdy);
- $('rumor-chips').innerHTML=[['All',null],...TAGS].map(([l,re])=>`<button class="chip${(rumorTag===l||(!rumorTag&&!re))?' on':''}" data-tag="${l}">${l}</button>`).join('');
- const sel=TAGS.find(t=>t[0]===rumorTag);const shown=sel?r.filter(i=>sel[1].test(i.title+' '+i.summary)):r;
- $('rumor-cards').innerHTML=shown.length?shown.map(card).join(''):empty('No new rumors today');}
+}
 function renderTicker(){const t=D.ticker;if(!t)return;const h=t.items.map(i=>`<a href="${esc(i.link)}" ${ext}><b>${i.tag}</b> · ${esc(i.title)}</a>`).join('');$('tickerMove').innerHTML=h+h;}
 function renderIns(){const d=D.ins;if(!d)return;
  const cut=Date.now()-72*3600*1000;const fresh=a=>(a||[]).filter(p=>p.published&&new Date(p.published).getTime()>=cut);
@@ -83,8 +75,9 @@ async function loadAll(){await Promise.all(Object.entries(SRC).map(async([k,[u,f
 loadAll();setInterval(loadAll,5*60*1000);
 
 // hash router
-const TITLES={home:'News',podcasts:'Podcasts & YouTube',film:'Film Room',preview:'Film Preview',rumors:'Rumors & Roster',game:'Schedule',stats:'Stats',heatmap:'Player Heat Map',drafthub:'Draft',draft:'Mock Draft',college:'College Prospect Tracker',insiders:'Insiders',forum:'Forum',live:'Live Hub',injuries:'Injury Tracker',scout:'Opponent Scouting',cap:'Cap Center',rumormeter:'Rumor Meter',play:"Pick'em & Trivia",history:'Steelers History',alerts:'Alerts & Email'};
-function route(){const r=(location.hash.replace(/^#\/?/,'')||'home').split('?')[0].split('/')[0];const alias={grades:'heatmap'};const v=alias[r]||(TITLES[r]?r:'home');
+const TITLES={home:'News',podcasts:'Podcasts & YouTube',film:'Film Room',preview:'Film Preview',roster:'Depth Chart & Roster',game:'Schedule',stats:'Stats',heatmap:'Player Heat Map',drafthub:'Draft',draft:'Mock Draft',college:'College Prospect Tracker',insiders:'Insiders',forum:'Forum',live:'Live Hub',injuries:'Injury Tracker',scout:'Opponent Scouting',cap:'Cap Center',rumormeter:'Rumor Meter',play:"Pick'em & Trivia",history:'Steelers History',alerts:'Alerts & Email'};
+function route(){const r=(location.hash.replace(/^#\/?/,'')||'home').split('?')[0].split('/')[0];const alias={grades:'heatmap',rumors:'roster'};const v=alias[r]||(TITLES[r]?r:'home');
+ if(r==='rumors'){const qs=(location.hash.split('?')[1]||'');const nh='#/roster'+(qs?'?'+qs:'');if(location.hash!==nh)history.replaceState(null,'',nh);}
  document.querySelectorAll('.view').forEach(e=>e.hidden=e.dataset.view!==v);
  {const ib=document.querySelector('.sidebar .insiders');if(ib)ib.style.display=v==='home'?'':'none';} {const hs=document.querySelector('[aria-labelledby="huddleSide"]');if(hs)hs.style.display=v==='alerts'?'none':'';}
  document.querySelectorAll('nav a').forEach(a=>a.dataset.route===v?a.setAttribute('aria-current','page'):a.removeAttribute('aria-current'));document.querySelector('.more-btn')?.classList.toggle('cur',!!document.querySelector('.more a[aria-current]'));
@@ -92,14 +85,13 @@ function route(){const r=(location.hash.replace(/^#\/?/,'')||'home').split('?')[
  document.dispatchEvent(new CustomEvent('route',{detail:v}));
  if(r==='grades')setTimeout(()=>document.getElementById('grade-section')?.scrollIntoView({behavior:'smooth'}),150);}
 addEventListener('hashchange',route);
-document.addEventListener('click',e=>{const c=e.target.closest('#rumor-chips .chip');if(c){rumorTag=c.dataset.tag==='All'?null:c.dataset.tag;renderNews();}});
 const b=$('menuBtn');b.onclick=()=>{const o=document.body.classList.toggle('nav-open');b.setAttribute('aria-expanded',o)};
 window.addEventListener('DOMContentLoaded',route);
 
 document.addEventListener('click',e=>{const m=document.querySelector('.has-more');if(!m)return;const bt=e.target.closest('.more-btn');if(bt){const o=m.classList.toggle('open');bt.setAttribute('aria-expanded',o);}else if(!e.target.closest('.more'))m.classList.remove('open');});
 
 // Per-section Schema.org JSON-LD for crawlers/agents (no visual change): loads jsonld/<route>.json into <head>.
-const JL=new Set(['college','drafthub','film','game','heatmap','home','injuries','live','podcasts','preview','rumormeter','rumors','scout','stats']);
+const JL=new Set(['college','drafthub','film','game','heatmap','home','injuries','live','podcasts','preview','rumormeter','roster','scout','stats']);
 document.addEventListener('route',e=>{const v=e.detail==='home'?null:e.detail;let s=document.getElementById('ld-route');
  if(!v||!JL.has(v)){s&&s.remove();return;}fetch('jsonld/'+v+'.json',{cache:'no-store'}).then(r=>r.ok?r.text():null).then(t=>{if(!t)return;if(!s){s=document.createElement('script');s.type='application/ld+json';s.id='ld-route';document.head.appendChild(s);}s.textContent=t;}).catch(()=>{});});
 // Shared "chance available at Steelers pick" badge (estimate; data/draft/availability.json, method on the Draft tab).

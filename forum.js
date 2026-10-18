@@ -2,7 +2,7 @@
 // No fake members, replies, votes or view counts. Posting opens when accounts launch.
 const FCATS=[
  {name:'Game Day',icon:'🏈',desc:'Pregame and postgame game threads'},
- {name:'Rumors & Roster',icon:'📋',desc:'Daily discussion, trades, signings, injuries'},
+ {name:'Depth Chart & Roster',icon:'📋',desc:'Depth chart, practice squad, roster moves and injuries'},
  {name:'Draft',icon:'🎯',desc:'Prospects, mocks and big boards'},
  {name:'Film Talk',icon:'🎬',desc:'All-22, breakdowns and scheme talk'},
  {name:'Off-Topic',icon:'💬',desc:'Pittsburgh life, other sports'},

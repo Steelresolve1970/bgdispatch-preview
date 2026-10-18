@@ -1,4 +1,4 @@
-// Rumors & Roster page: section tabs, Practice Squad list, full Roster table and player cards (data/roster/*.json, nflverse CC-BY 4.0).
+// Depth Chart & Roster page: section tabs, Practice Squad list, full Roster table and player cards (data/roster/*.json, nflverse CC-BY 4.0).
 (function(){
 const E=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const $=id=>document.getElementById(id);
@@ -8,10 +8,10 @@ const tn=t=>TEAM[t]||t;
 // ---- tabs ----
 function tab(k,push){document.querySelectorAll('.rr-tab').forEach(b=>{const on=b.dataset.rr===k;b.classList.toggle('on',on);b.setAttribute('aria-selected',on);});
  document.querySelectorAll('.rr-pane').forEach(p=>p.hidden=p.dataset.rrp!==k);
- if(push){const h='#/rumors'+(k==='news'?'':'?tab='+k);if(location.hash!==h)history.replaceState(null,'',h);}
+ if(push){const h='#/roster'+(k==='depth'?'':'?tab='+k);if(location.hash!==h)history.replaceState(null,'',h);}
  if(k==='ps'||k==='roster')load();}
 document.addEventListener('click',e=>{const b=e.target.closest('.rr-tab');if(b){tab(b.dataset.rr,true);}});
-document.addEventListener('route',e=>{if(e.detail!=='rumors')return;const m=location.hash.match(/tab=(\w+)/);tab(m&&['depth','ps','roster'].includes(m[1])?m[1]:'news');});
+document.addEventListener('route',e=>{if(e.detail!=='roster')return;const m=location.hash.match(/tab=(\w+)/);tab(m&&['depth','ps','roster'].includes(m[1])?m[1]:'depth',true);});
 // ---- data ----
 function load(){if(R)return Promise.resolve(R);return fetch('data/roster/roster.json',{cache:'no-store'}).then(r=>r.json()).then(j=>{R=j;renderPS();renderRoster();return R;}).catch(()=>{const t='<p class="empty">Roster data is not available right now.</p>';$('ps-body').innerHTML=t;$('roster-body').innerHTML=t;});}
 function loadP(){return pReady||(pReady=fetch('data/roster/players.json',{cache:'no-store'}).then(r=>r.json()).then(j=>P=j.players));}

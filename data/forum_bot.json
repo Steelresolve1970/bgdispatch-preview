@@ -1,11 +1,35 @@
 {
- "generated": "2026-10-18T03:35:42.340317+00:00",
+ "generated": "2026-10-18T04:13:28.192624+00:00",
  "bot": {
   "name": "Black & Gold Dispatch Bot",
   "bot": true,
   "about": "Automated house account. Opens game threads, daily topics and polls. Not a person."
  },
  "topics": [
+  {
+   "id": "daily-2026-10-18",
+   "kind": "Daily discussion",
+   "cat": "Rumors & Roster",
+   "pinned": false,
+   "created": "2026-10-18T08:00:00-04:00",
+   "title": "Daily Discussion (Oct 18): Steelers Vs Buccaneers Prediction",
+   "body": "Today's top headline comes from Steelers Depot. Read it at the link, then tell us: does it change how you see this team?",
+   "links": [
+    {
+     "label": "Read at Steelers Depot \u2192",
+     "href": "https://steelersdepot.com/2026/10/steelers-vs-buccaneers-prediction-2/",
+     "external": true
+    },
+    {
+     "label": "All news",
+     "href": "#/"
+    }
+   ],
+   "author": "Black & Gold Dispatch Bot",
+   "bot": true,
+   "replies": 0,
+   "views": null
+  },
   {
    "id": "daily-2026-10-17",
    "kind": "Daily discussion",
