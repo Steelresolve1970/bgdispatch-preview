@@ -1,6 +1,6 @@
 # Steelers Film Room & Previews
 
-_Generated 2026-10-18T00:42:24+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T00:42:17+00:00._
+_Generated 2026-10-18T00:48:05+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T00:47:58+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/film.json_
 
 - Breakdown (vs Indianapolis Colts (Oct 11)): [Film Room: Max Iheanachor Is Already Fixing His Biggest Issue](https://steelersdepot.com/2026/10/film-room-max-iheanachor-is-already-fixing-his-biggest-issue/): Steelers Depot Film Room (Alex Kozora), 2026-10-17 11:15 UTC

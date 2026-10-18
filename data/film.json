@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T00:42:17.691578+00:00",
+ "generated": "2026-10-18T00:47:58.916851+00:00",
  "game": {
   "label": "vs Indianapolis Colts (Oct 11)",
   "opponent": "Indianapolis Colts",
@@ -15,7 +15,7 @@
    "creator": "Steelers Almighty",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgIrOw8M4dNVs-WcMSaZUxA",
-   "status": "error: HTTP Error 404: Not Found",
+   "status": "error: HTTP Error 500: Internal Server Error",
    "feed_items": 0,
    "in_window": 0
   },
@@ -127,7 +127,7 @@
    "creator": "The QB School (JT O'Sullivan)",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGfxHp2yuimtLsFaq1r7aIQ",
-   "status": "error: HTTP Error 404: Not Found",
+   "status": "error: HTTP Error 500: Internal Server Error",
    "feed_items": 0,
    "in_window": 0
   },

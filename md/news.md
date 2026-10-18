@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-18T00:42:24+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T00:42:15+00:00._
+_Generated 2026-10-18T00:48:05+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T00:47:56+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Pregame Week 6: Five Steelers Thoughts Ahead Of The Buccaneers Game](https://steelersdepot.com/2026/10/pregame-week-6-five-steelers-thoughts-ahead-of-the-buccaneers-game/): Steelers Depot, 2026-10-18 00:00 UTC
@@ -24,8 +24,8 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [TRAVEL PHOTOS: Monochrome moments- Week 6 at Buccaneers](https://news.google.com/rss/articles/CBMijgFBVV95cUxQN3hMQnJEZU5PVmR5T3VmWTllOW1IMDN5R0ZMQ0NPcW9IMGJjMEhqaUtlaU15RGRhejQ4Qm9JNE8zUExKMVRrVkdhQTZQbEpCUmszWmFCNjBMbU1tWjdZMFVGbHdEbzRsSmJmNWtCM0lBdUlKSU83MG9QdDctRWMwVmdSZGpMQUtTVHdsN3RR?oc=5): Steelers.com, 2026-10-17 21:25 UTC
 - [Bell: 2027 NFL Draft Quarterback Rankings 2.0](https://steelersnow.com/bell-2027-nfl-draft-quarterback-rankings-2-0/): Steelers Now, 2026-10-17 21:15 UTC
 - [Elandon Roberts’ Steelers Return Will Wait another Week](https://steelersnow.com/elandon-roberts-steelers-return-will-wait-another-week/): Steelers Now, 2026-10-17 21:08 UTC
+- [49ers DT turned down offer to join Steelers roster as rookie](https://news.google.com/rss/articles/CBMisAFBVV95cUxPWWwxZnRKdE5TZHpidnpJRXlHb0p0T3JjeGRDV2YwZTJXZzNla2NDRHpKY0JEZnNEY0swQ2JKdHFYc0JfYVRlWUtueTAyanoyZ0xyTHJUOG9QVDRWNGlBaFVQS3RhWndEdFBnWHhUcDlPZ0w3RlYzV0lDRDd4c01hc3JUVjFXR3JCZnNmME9fVzBSRW54eHNMNnhHbGI4SXcxWDk2T1N1azEyN0Nhc0hwZA?oc=5): Niners Wire, 2026-10-17 20:49 UTC
 - [‘That’s Part Of The Job’: Germie Bernard Talks Steelers WRs’ ‘Selfless’ Attitude Towards Blocking](https://steelersdepot.com/2026/10/thats-part-of-the-job-germie-bernard-talks-steelers-wrs-selfless-attitude-towards-blocking/): Steelers Depot, 2026-10-17 20:45 UTC
-- [How Long Is Roman Wilson Out? Finger Injury Updates, Return Timeline for Steelers WR](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZ1dJUWpOczhuWjY2cmJqWW43YVpEVmFEZHUta3JqNE13bDRLMzdjdkJYX2dreDB1TlNFZWpFOTZwZGdRMlNPck51SENwbk9YU3huZDRFVjNGZUh2YmZCbVBIbUw0NWMzMVprRmwzTmtGUUxDS3daUGs0alR4T1FueG9rdlZPMkRIM05maE5rcms3Yk40dTRFS1Z0N0tyeW9PYmk4SWdIYm1oWFUwZ0I1T1BjRVJxZkptOTh3VjhMZTg2c1RVT0pCbTBySWhBLUFhVXFXcGJnZy0?oc=5): SportsNet Pittsburgh, 2026-10-17 20:38 UTC
 - [Chargers Cut Ties with Former Steelers Wide Receiver, Close Friend of Aaron Rodgers](https://steelersnow.com/chargers-cut-ties-with-former-steelers-wide-receiver-close-friend-of-aaron-rodgers/): Steelers Now, 2026-10-17 20:34 UTC
 - [Steelers Make Late Injury Report Changes Before Buccaneers Game](https://news.google.com/rss/articles/CBMiygFBVV95cUxQZFNESUZpRjhmWEhlVG1wUFFZcU02bVhvTWFiVE9VZWNOZmpuMW1KV2UySnk0VkVGNjRsUjl3aU5Jb0RzM0ZBa1VNdUNIUXRkSVAzR3lHMThDdVhTQ3ZHc3kzbnZrM2VSS2ZZeVlyeWlJOUhQZkxuNmh6dnE2ZklXMXYwUmpYWkk0NG8zazZRdnVHN3Judzhyd25GUVBuYTJaQUEwWFFjMzczWFVjbVR0UGkyOWpTSlctaWJuV1BCOGtRYVJSNDBxNEdn?oc=5): SportsNet Pittsburgh, 2026-10-17 20:33 UTC
 - [Steelers Versus Buccaneers: Week Six Projected Inactive List](https://steelersdepot.com/2026/10/steelers-versus-buccaneers-week-six-projected-inactive-list/): Steelers Depot, 2026-10-17 20:27 UTC

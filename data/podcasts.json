@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T00:42:16.518270+00:00",
+ "generated": "2026-10-18T00:47:57.803221+00:00",
  "date_et": "2026-10-17",
  "count": 2,
  "shows": [
@@ -16,7 +16,7 @@
    "show": "Locked On Steelers",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7JorgD8nGLtvvMy1ogFetg",
-   "status": "error: HTTP Error 500: Internal Server Error",
+   "status": "error: HTTP Error 404: Not Found",
    "episodes": 0,
    "today": 0,
    "latest": null
@@ -79,7 +79,7 @@
    "show": "Still Curtain Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxjSNPLcRAVzDKOjhRwo-hQ",
-   "status": "error: HTTP Error 404: Not Found",
+   "status": "error: HTTP Error 500: Internal Server Error",
    "episodes": 0,
    "today": 0,
    "latest": null
@@ -160,7 +160,7 @@
    "show": "Pittsburgh Steelers (official)",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChaRXjMDs4ppKfnTPE6Z89w",
-   "status": "error: HTTP Error 500: Internal Server Error",
+   "status": "error: HTTP Error 404: Not Found",
    "episodes": 0,
    "today": 0,
    "latest": null
