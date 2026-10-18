@@ -2,8 +2,8 @@
  "api_version": "1",
  "dataset": "news",
  "description": "Steelers headlines from beat writers, national outlets and blogs, with our one-line summaries and links to the publisher.",
- "generated": "2026-10-18T18:16:47+00:00",
- "data_updated": "2026-10-18T18:16:30+00:00",
+ "generated": "2026-10-18T18:53:38+00:00",
+ "data_updated": "2026-10-18T18:53:20+00:00",
  "count": 150,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
@@ -20,6 +20,58 @@
  "html": "https://blackandgolddispatch.com/#/",
  "items": [
   {
+   "id": "fa3a42f4f5c980ae",
+   "type": "news",
+   "title": "Chris Boswell Reaches Major Steelers Milestone",
+   "summary": "News story from Steelers Now. Full report at the original publisher.",
+   "url": "https://steelersnow.com/chris-boswell-reaches-major-steelers-milestone/",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   },
+   "published": "2026-10-18T18:50:42+00:00",
+   "retrieved": "2026-10-18T18:53:20+00:00"
+  },
+  {
+   "id": "c5335056c8d87f6a",
+   "type": "news",
+   "title": "Bucs lead Steelers 13-3 at halftime",
+   "summary": "News story from Yahoo Sports. Full report at the original publisher.",
+   "url": "https://sports.yahoo.com/articles/bucs-lead-steelers-13-3-183943924.html",
+   "source": {
+    "name": "Yahoo Sports",
+    "url": null
+   },
+   "published": "2026-10-18T18:39:43+00:00",
+   "retrieved": "2026-10-18T18:53:20+00:00"
+  },
+  {
+   "id": "71d3255a35ae28e8",
+   "type": "news",
+   "title": "2026 Week 6 Steelers Vs Buccaneers Live Update And Discussion Thread – Second Half",
+   "summary": "Game story from Steelers Depot. Full report at the original publisher.",
+   "url": "https://steelersdepot.com/2026/10/2026-week-6-steelers-vs-buccaneers-live-update-and-discussion-thread-second-half/",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null
+   },
+   "published": "2026-10-18T18:36:59+00:00",
+   "retrieved": "2026-10-18T18:53:20+00:00"
+  },
+  {
+   "id": "e9c25790d89142ec",
+   "type": "news",
+   "title": "Brandin Echols Injured Against Buccaneers (Update)",
+   "summary": "Injury story from Steelers Depot. Full report at the original publisher.",
+   "url": "https://steelersdepot.com/2026/10/brandin-echols-injured-against-buccaneers/",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null
+   },
+   "published": "2026-10-18T18:31:48+00:00",
+   "retrieved": "2026-10-18T18:53:20+00:00"
+  },
+  {
    "id": "84732fd0df728047",
    "type": "news",
    "title": "NFL says Steelers-Saints in Paris still on despite civil unrest in France",
@@ -30,7 +82,7 @@
     "url": null
    },
    "published": "2026-10-18T18:19:24+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "b0ee0e40c738568e",
@@ -43,7 +95,7 @@
     "url": null
    },
    "published": "2026-10-18T17:54:17+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "a2754918884c7705",
@@ -56,20 +108,7 @@
     "url": null
    },
    "published": "2026-10-18T17:40:50+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
-  },
-  {
-   "id": "2cd0a5f677e45096",
-   "type": "news",
-   "title": "Tampa Bay Buccaneers vs Pittsburgh Steelers Live Free On Tv Channel 18 October 2026: NFL Game Live Stream: Follow the latest NFL action with live scores, touchdowns, team news and exciting game highlights. Stay updated with Tampa Bay Buccaneers v",
-   "summary": "Game story from Universidad de Córdoba (UCO). Full report at the original publisher.",
-   "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2xlb2dvYXRzLmdpdGh1Yi5pby9tb2RvbmxhbC9uZXcvYXgueG1sIi8+PC9rcnBhbm8+&id=video-tampa-bay-buccaneers-vs-pittsburgh-steelers-tv469233664",
-   "source": {
-    "name": "Universidad de Córdoba (UCO)",
-    "url": null
-   },
-   "published": "2026-10-18T17:33:56+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "e88c5f28ed162765",
@@ -82,7 +121,20 @@
     "url": null
    },
    "published": "2026-10-18T17:23:49+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
+  },
+  {
+   "id": "c930396d7debd5f8",
+   "type": "news",
+   "title": "Tampa Bay Buccaneers vs Pittsburgh Steelers NFL Game Live Free On Tv Channel 18 October 2026: NFL Game Live Stream: Follow the latest NFL action with live scores, touchdowns, team news and exciting game highlights. Stay updated with Tampa Bay B",
+   "summary": "Game story from Universidad de Córdoba (UCO). Full report at the original publisher.",
+   "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5aHVicy5ubC92b3MvbmV3L2EueG1sIi8+PC9rcnBhbm8+&id=video-tampa-bay-buccaneers-vs-pittsburgh-steelers-nfl-game-tv983392262",
+   "source": {
+    "name": "Universidad de Córdoba (UCO)",
+    "url": null
+   },
+   "published": "2026-10-18T17:23:34+00:00",
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "8492819e70f6b614",
@@ -95,7 +147,7 @@
     "url": null
    },
    "published": "2026-10-18T17:21:02+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "420b410d1652b2a9",
@@ -108,7 +160,7 @@
     "url": null
    },
    "published": "2026-10-18T17:20:49+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "4709360bfc51a16f",
@@ -121,7 +173,20 @@
     "url": null
    },
    "published": "2026-10-18T17:20:22+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
+  },
+  {
+   "id": "f1997aa4d5396792",
+   "type": "news",
+   "title": "[Official/LiveTM!] Tampa Bay Buccaneers vs. Pittsburgh Steelers Live Free NFL Match Today",
+   "summary": "Game story from Universidad de Córdoba (UCO). Full report at the original publisher.",
+   "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubyBvbnN0YXJ0PSJqcyh3aW5kb3cubG9jYXRpb24ucmVwbGFjZSgnaHR0cHM6Ly9seGNseGRzLmdpdGh1Yi5pby9iYW5rYWkvdmlkZW8vdmlkZW8tb2ZmaWNpYWwtbGl2ZXRtLXRhbXBhLWJheS1idWNjLWxvbmRvbi5odG1sJykpOyI+PC9rcnBhbm8+",
+   "source": {
+    "name": "Universidad de Córdoba (UCO)",
+    "url": null
+   },
+   "published": "2026-10-18T17:17:11+00:00",
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "678e35019ced29a4",
@@ -134,7 +199,7 @@
     "url": null
    },
    "published": "2026-10-18T17:14:47+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "73f8a8199f568835",
@@ -147,7 +212,7 @@
     "url": null
    },
    "published": "2026-10-18T17:14:18+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "529fe091ee8fc5bd",
@@ -160,7 +225,7 @@
     "url": null
    },
    "published": "2026-10-18T17:11:17+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "7c0e57a7afe834c3",
@@ -173,7 +238,20 @@
     "url": null
    },
    "published": "2026-10-18T17:10:45+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
+  },
+  {
+   "id": "4ee9523867921a7d",
+   "type": "news",
+   "title": "Watch ☑︎!+! [ＬＩＶＥ ＯＮ ＣＨＡＮＮＥＬ] ☑ Tampa Bay Buccaneers vs Pittsburgh Steelers NFL Game LIvE FrEe StReAm 18 October 2026: Watch ☑︎!+! [ＬＩＶＥ ＯＮ ＣＨＡＮＮＥＬ] ☑ Tampa Bay Buccaneers vs Pittsburgh Steelers NFL Game LIvE FrEe StReAm 18 Octo",
+   "summary": "Game story from Universidad de Córdoba (UCO). Full report at the original publisher.",
+   "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii8vc2Fnb3JtaWEwMDQ3LmdpdGh1Yi5pby9hbnQvYmJjLnhtbCIvPjwva3JwYW5vPg==&id=video-tampa-bay-buccaneers-vs-pittsburgh-steelers-nfl-game-live-today-matchtv01-whxc6wr",
+   "source": {
+    "name": "Universidad de Córdoba (UCO)",
+    "url": null
+   },
+   "published": "2026-10-18T17:08:27+00:00",
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "e6188480924bef9e",
@@ -186,7 +264,7 @@
     "url": null
    },
    "published": "2026-10-18T17:04:12+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "3e799ef96d65b37c",
@@ -199,7 +277,7 @@
     "url": null
    },
    "published": "2026-10-18T16:58:43+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "5169bd214e040523",
@@ -212,20 +290,7 @@
     "url": null
    },
    "published": "2026-10-18T16:58:34+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
-  },
-  {
-   "id": "9577a5a54103b1bd",
-   "type": "news",
-   "title": "!HERE'S WAY TO WATCH Tampa Bay Buccaneers vs Pittsburgh Steelers Ｌｉｖｅ Ｓｔｒｅａｍｓ Ｆｒｅｅ Ｃｏｖｅｒａｇｅ ＯＮ 18 october 2026",
-   "summary": "Game story from Universidad de Córdoba (UCO). Full report at the original publisher.",
-   "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3NjcmlwdDA5OS5naXRodWIuaW8vYnZjemFhL2EueG1sIi8+PC9rcnBhbm8+&id=video-heres-way-to-watch-tampa-bay-vqkdrcyo",
-   "source": {
-    "name": "Universidad de Córdoba (UCO)",
-    "url": null
-   },
-   "published": "2026-10-18T16:50:11+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "a40957c6bdad0d17",
@@ -238,7 +303,20 @@
     "url": null
    },
    "published": "2026-10-18T16:50:00+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
+  },
+  {
+   "id": "70458e29e59010ed",
+   "type": "news",
+   "title": "Tampa Bay Buccaneers vs Pittsburgh Steelers NFL Week 6 live: Tampa Bay Buccaneers vs Pittsburgh Steelers NFL Week 6 look to seize control of thrilling Tampa Bay Buccaneers vs Pittsburgh Steelers NFL Week 6. Every team in the Tampa Bay Buccaneers",
+   "summary": "Game story from Universidad de Córdoba (UCO). Full report at the original publisher.",
+   "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5aHVicy5ubC92b3MvbmV3L2EueG1sIi8+PC9rcnBhbm8+&id=video-tampa-bay-buccaneers-vs-pittsburgh-steelers-nfl-week-6-lie-us5b1174",
+   "source": {
+    "name": "Universidad de Córdoba (UCO)",
+    "url": null
+   },
+   "published": "2026-10-18T16:47:56+00:00",
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "a8f78f94ea2b21a6",
@@ -251,7 +329,7 @@
     "url": null
    },
    "published": "2026-10-18T16:42:46+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "91850b28bc4109a7",
@@ -264,7 +342,7 @@
     "url": null
    },
    "published": "2026-10-18T16:34:26+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "c5cb10611ed8924b",
@@ -277,7 +355,7 @@
     "url": null
    },
    "published": "2026-10-18T16:30:09+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "00318874de0fb730",
@@ -290,7 +368,7 @@
     "url": null
    },
    "published": "2026-10-18T16:30:00+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "e911b2cdeec6e82f",
@@ -303,7 +381,7 @@
     "url": null
    },
    "published": "2026-10-18T16:28:48+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "711af7d7030920a8",
@@ -316,20 +394,7 @@
     "url": null
    },
    "published": "2026-10-18T16:26:30+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
-  },
-  {
-   "id": "ad4be00f90e5a9fd",
-   "type": "news",
-   "title": "! [STream]HERE'S ! Tampa Bay Buccaneers vs. Pittsburgh Steelers Match Live TV Coverage 18 October",
-   "summary": "Game story from Universidad de Córdoba (UCO). Full report at the original publisher.",
-   "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2x4Y2x4ZHMuZ2l0aHViLmlvL2JhbmthaS9sYXcueG1sIi8+PC9rcnBhbm8+&id=video-stream-here-s-tampa-bay-buccan-london",
-   "source": {
-    "name": "Universidad de Córdoba (UCO)",
-    "url": null
-   },
-   "published": "2026-10-18T16:26:20+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "969dd6842ea83369",
@@ -342,7 +407,7 @@
     "url": null
    },
    "published": "2026-10-18T16:23:25+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "f6c6992ce683ffcf",
@@ -355,7 +420,7 @@
     "url": null
    },
    "published": "2026-10-18T16:20:00+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "c921a2f562152a9e",
@@ -368,7 +433,7 @@
     "url": null
    },
    "published": "2026-10-18T16:17:17+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "baaa50c3fd43705e",
@@ -381,7 +446,7 @@
     "url": null
    },
    "published": "2026-10-18T16:16:00+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "01a5acd0c56ed551",
@@ -394,7 +459,7 @@
     "url": null
    },
    "published": "2026-10-18T16:13:37+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "74d43fd6d9af16af",
@@ -407,7 +472,7 @@
     "url": null
    },
    "published": "2026-10-18T16:12:25+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "4faefa67c5196062",
@@ -420,12 +485,12 @@
     "url": null
    },
    "published": "2026-10-18T16:12:02+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "bf5947a6ae941648",
    "type": "news",
-   "title": "Live updates: Buccaneers lead scoreless Steelers by two scores in first half",
+   "title": "Live updates: Steelers trail Buccaneers by two scores after first half",
    "summary": "News story from PennLive (Nick Farabaugh). Full report at the original publisher.",
    "url": "https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-at-tampa-bay-buccaneers-nfl-week-6-live-updates.html",
    "source": {
@@ -433,7 +498,7 @@
     "url": null
    },
    "published": "2026-10-18T16:08:17+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "8da3d6309ebbdfe4",
@@ -446,7 +511,7 @@
     "url": null
    },
    "published": "2026-10-18T16:05:28+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "9d3b45caa9cd4417",
@@ -459,20 +524,7 @@
     "url": null
    },
    "published": "2026-10-18T16:01:32+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
-  },
-  {
-   "id": "7b42cb199fc566e5",
-   "type": "news",
-   "title": "Tampa Bay Buccaneers vs Pittsburgh Steelers Live match Free National Football League: Tampa Bay Buccaneers vs Pittsburgh Steelers look to seize control of thrilling Tampa Bay Buccaneers vs Pittsburgh Steelers. Every team in the Tampa Bay Buccaneers",
-   "summary": "Game story from Universidad de Córdoba (UCO). Full report at the original publisher.",
-   "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5aHVicy5ubC92b3MvbmV3L2EueG1sIi8+PC9rcnBhbm8+&id=video-tampa-bay-buccaneers-vs-pittsburgh-steelers-tv666462298",
-   "source": {
-    "name": "Universidad de Córdoba (UCO)",
-    "url": null
-   },
-   "published": "2026-10-18T15:58:19+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "3fd8ffccf1f899fa",
@@ -485,7 +537,7 @@
     "url": null
    },
    "published": "2026-10-18T15:49:18+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "4c05828bc34e6a1b",
@@ -498,7 +550,7 @@
     "url": null
    },
    "published": "2026-10-18T15:41:37+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "10db6c0907a239c5",
@@ -511,7 +563,7 @@
     "url": null
    },
    "published": "2026-10-18T15:38:46+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "6981de8ef94064dd",
@@ -524,7 +576,7 @@
     "url": null
    },
    "published": "2026-10-18T15:31:28+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "642593a05ac41467",
@@ -537,7 +589,7 @@
     "url": null
    },
    "published": "2026-10-18T15:30:00+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "62080b131d78372d",
@@ -550,7 +602,7 @@
     "url": null
    },
    "published": "2026-10-18T15:21:01+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "0b4de13fa422ca3d",
@@ -563,7 +615,7 @@
     "url": null
    },
    "published": "2026-10-18T15:00:00+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "7d0ea28761f3562c",
@@ -576,7 +628,7 @@
     "url": null
    },
    "published": "2026-10-18T14:50:46+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "c906278a19e07d35",
@@ -589,7 +641,7 @@
     "url": null
    },
    "published": "2026-10-18T14:50:08+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "99618e331b773f9f",
@@ -602,7 +654,7 @@
     "url": null
    },
    "published": "2026-10-18T14:41:29+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "d7a5ebb99313e243",
@@ -615,7 +667,7 @@
     "url": null
    },
    "published": "2026-10-18T14:35:21+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "884ee34350c315d6",
@@ -628,20 +680,7 @@
     "url": null
    },
    "published": "2026-10-18T14:00:06+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
-  },
-  {
-   "id": "6c0130a0032356a5",
-   "type": "news",
-   "title": "NFL: Preparations continue for Steelers-Saints in Paris",
-   "summary": "News story from ProFootballTalk (NBC). Full report at the original publisher.",
-   "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-preparations-continue-for-steelers-saints-in-paris",
-   "source": {
-    "name": "ProFootballTalk (NBC)",
-    "url": null
-   },
-   "published": "2026-10-18T13:58:42+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "8fb641d085d86b3e",
@@ -654,7 +693,7 @@
     "url": null
    },
    "published": "2026-10-18T13:46:03+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "6be322f7a26c947e",
@@ -667,7 +706,7 @@
     "url": null
    },
    "published": "2026-10-18T13:41:16+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "4717af7fae007940",
@@ -680,7 +719,7 @@
     "url": null
    },
    "published": "2026-10-18T13:15:00+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "fd9dc70bc247bc6f",
@@ -693,7 +732,7 @@
     "url": null
    },
    "published": "2026-10-18T13:00:00+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "343add8a9b06270b",
@@ -706,7 +745,7 @@
     "url": null
    },
    "published": "2026-10-18T12:54:18+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "617646de75637f22",
@@ -719,7 +758,7 @@
     "url": null
    },
    "published": "2026-10-18T12:49:27+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "b5a43edcccb47552",
@@ -732,7 +771,7 @@
     "url": null
    },
    "published": "2026-10-18T12:34:52+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "e1f229f33e2ed03d",
@@ -745,7 +784,7 @@
     "url": null
    },
    "published": "2026-10-18T12:01:54+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "f3055d0fa87bfe42",
@@ -758,7 +797,7 @@
     "url": null
    },
    "published": "2026-10-18T12:00:11+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "6435d96ae37bb1df",
@@ -771,7 +810,7 @@
     "url": null
    },
    "published": "2026-10-18T12:00:00+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "a0e7e947dbea2113",
@@ -784,7 +823,7 @@
     "url": null
    },
    "published": "2026-10-18T12:00:00+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "b64504e227b0b9e4",
@@ -797,7 +836,7 @@
     "url": null
    },
    "published": "2026-10-18T11:43:03+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "b2b642b677a6d8f6",
@@ -810,7 +849,7 @@
     "url": null
    },
    "published": "2026-10-18T11:28:56+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "e1fb31e68f11e02c",
@@ -823,7 +862,7 @@
     "url": null
    },
    "published": "2026-10-18T11:25:27+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "4a9819753e4e86a7",
@@ -836,7 +875,7 @@
     "url": null
    },
    "published": "2026-10-18T11:20:42+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "3168b8bdcc6b3870",
@@ -849,7 +888,7 @@
     "url": null
    },
    "published": "2026-10-18T11:10:45+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "29588fae0aaf98a1",
@@ -862,7 +901,7 @@
     "url": null
    },
    "published": "2026-10-18T11:00:35+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "f1afbe1ef4e9338e",
@@ -875,7 +914,7 @@
     "url": null
    },
    "published": "2026-10-18T11:00:00+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "d93a38d5a18fd798",
@@ -888,7 +927,7 @@
     "url": null
    },
    "published": "2026-10-18T11:00:00+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "301c050e801391fd",
@@ -901,7 +940,7 @@
     "url": null
    },
    "published": "2026-10-18T11:00:00+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "3f1717767889b42f",
@@ -914,7 +953,7 @@
     "url": null
    },
    "published": "2026-10-18T10:45:44+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "39358d92af5d1b07",
@@ -927,7 +966,7 @@
     "url": null
    },
    "published": "2026-10-18T10:05:00+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "1fb50a3c06d280fb",
@@ -940,7 +979,7 @@
     "url": null
    },
    "published": "2026-10-18T10:00:12+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "ab037c8d3c824f1b",
@@ -953,7 +992,7 @@
     "url": null
    },
    "published": "2026-10-18T10:00:00+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "ebd2e02f52eceea8",
@@ -966,7 +1005,7 @@
     "url": null
    },
    "published": "2026-10-18T09:25:51+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "60adfda0468d9f76",
@@ -979,7 +1018,7 @@
     "url": null
    },
    "published": "2026-10-18T09:00:16+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "1c38ff48aa5d21e1",
@@ -992,7 +1031,7 @@
     "url": null
    },
    "published": "2026-10-18T08:00:00+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "38a9534b48d549ec",
@@ -1005,7 +1044,7 @@
     "url": null
    },
    "published": "2026-10-18T03:33:14+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "4abe846430c22910",
@@ -1018,7 +1057,7 @@
     "url": null
    },
    "published": "2026-10-18T02:24:41+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "a2a4aa965cde7803",
@@ -1031,7 +1070,7 @@
     "url": null
    },
    "published": "2026-10-18T02:23:18+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "cb97cc66890c25b1",
@@ -1044,7 +1083,7 @@
     "url": null
    },
    "published": "2026-10-18T02:00:40+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "5d2817907834fdf2",
@@ -1057,7 +1096,7 @@
     "url": null
    },
    "published": "2026-10-18T01:39:03+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "535145f81b3ef200",
@@ -1070,7 +1109,7 @@
     "url": null
    },
    "published": "2026-10-18T01:14:38+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "0b38fc1620d66bef",
@@ -1083,7 +1122,7 @@
     "url": null
    },
    "published": "2026-10-18T01:05:46+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "77537b3d190268a7",
@@ -1096,7 +1135,7 @@
     "url": null
    },
    "published": "2026-10-18T01:05:33+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "c8f46ecb674d3a10",
@@ -1109,7 +1148,7 @@
     "url": null
    },
    "published": "2026-10-18T01:04:53+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "d6bc86fb4cd4ccd5",
@@ -1122,7 +1161,7 @@
     "url": null
    },
    "published": "2026-10-18T01:00:45+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "7e778483cefc29e7",
@@ -1135,7 +1174,7 @@
     "url": null
    },
    "published": "2026-10-18T01:00:21+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "cb6b8fbf5d8b30e3",
@@ -1148,7 +1187,7 @@
     "url": null
    },
    "published": "2026-10-18T00:00:36+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "8eaabfe6340da4fc",
@@ -1161,7 +1200,7 @@
     "url": null
    },
    "published": "2026-10-17T23:50:33+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "8a947456ddd4073b",
@@ -1174,7 +1213,7 @@
     "url": null
    },
    "published": "2026-10-17T23:27:46+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "ab9cf12734958e7c",
@@ -1187,7 +1226,7 @@
     "url": null
    },
    "published": "2026-10-17T23:26:06+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "d24796213f49f56c",
@@ -1200,33 +1239,7 @@
     "url": null
    },
    "published": "2026-10-17T23:00:35+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
-  },
-  {
-   "id": "655264a6998c8275",
-   "type": "news",
-   "title": "‘Most Selfish Behavior I’ve Ever Seen’: Todd Haley Recalls LeGarrette Blount’s Fallout With Steelers",
-   "summary": "News story from Steelers Depot. Full report at the original publisher.",
-   "url": "https://steelersdepot.com/2026/10/most-selfish-behavior-ive-ever-seen-todd-haley-recalls-legarrette-blounts-fallout-with-steelers/",
-   "source": {
-    "name": "Steelers Depot",
-    "url": null
-   },
-   "published": "2026-10-17T22:30:22+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
-  },
-  {
-   "id": "2ad1c21027772237",
-   "type": "news",
-   "title": "Payton Wilson Recalls Jaylen Warren Giving Him His Welcome-To-The-NFL Moment",
-   "summary": "News story from Steelers Depot. Full report at the original publisher.",
-   "url": "https://steelersdepot.com/2026/10/payton-wilson-recalls-jaylen-warren-giving-him-his-welcome-to-the-nfl-moment/",
-   "source": {
-    "name": "Steelers Depot",
-    "url": null
-   },
-   "published": "2026-10-17T22:15:30+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "7d266f43f557a274",
@@ -1239,20 +1252,7 @@
     "url": null
    },
    "published": "2026-10-17T21:48:12+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
-  },
-  {
-   "id": "0fc5fc51d2445b6a",
-   "type": "news",
-   "title": "Eagles’ Jalen Hurts Could Be Out vs. Steelers",
-   "summary": "Game story from Steelers Now. Full report at the original publisher.",
-   "url": "https://steelersnow.com/eagles-jalen-hurts-could-be-out-vs-steelers/",
-   "source": {
-    "name": "Steelers Now",
-    "url": null
-   },
-   "published": "2026-10-17T21:40:49+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "47c2bc706a67c1e9",
@@ -1265,7 +1265,7 @@
     "url": null
    },
    "published": "2026-10-17T21:30:00+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "11533bafad1df851",
@@ -1278,7 +1278,7 @@
     "url": null
    },
    "published": "2026-10-17T20:12:13+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "d177e885baa8dee8",
@@ -1291,7 +1291,7 @@
     "url": null
    },
    "published": "2026-10-17T19:43:13+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "8080f23d9e81fe63",
@@ -1304,7 +1304,7 @@
     "url": null
    },
    "published": "2026-10-17T19:41:03+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "93afe6f84ba518a1",
@@ -1317,7 +1317,7 @@
     "url": null
    },
    "published": "2026-10-17T19:28:29+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "a7e0082a138ae54b",
@@ -1330,7 +1330,7 @@
     "url": null
    },
    "published": "2026-10-17T19:15:23+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "aaecd724e5ecee39",
@@ -1343,7 +1343,7 @@
     "url": null
    },
    "published": "2026-10-17T19:02:08+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "28e8ba9cbe3e88e6",
@@ -1356,7 +1356,7 @@
     "url": null
    },
    "published": "2026-10-17T18:58:16+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "dd0d2fa7f8f8d8b5",
@@ -1369,7 +1369,7 @@
     "url": null
    },
    "published": "2026-10-17T18:01:55+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "b134dcffe5cf89b2",
@@ -1382,7 +1382,7 @@
     "url": null
    },
    "published": "2026-10-17T18:00:00+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "64606980879dc5b0",
@@ -1395,7 +1395,7 @@
     "url": null
    },
    "published": "2026-10-17T17:15:54+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "d1ed68dc25433bd1",
@@ -1408,7 +1408,7 @@
     "url": null
    },
    "published": "2026-10-17T17:15:35+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "cfd17af4066444f7",
@@ -1421,7 +1421,7 @@
     "url": null
    },
    "published": "2026-10-17T17:00:19+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "1f6066a792005248",
@@ -1434,7 +1434,7 @@
     "url": null
    },
    "published": "2026-10-17T16:25:12+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "1616d4eec8bf9fae",
@@ -1447,7 +1447,7 @@
     "url": null
    },
    "published": "2026-10-17T15:30:00+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "9dc8e52730f28fb8",
@@ -1460,7 +1460,7 @@
     "url": null
    },
    "published": "2026-10-17T14:26:00+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "b416c2109325c5dd",
@@ -1473,7 +1473,7 @@
     "url": null
    },
    "published": "2026-10-17T14:00:02+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "060ea133efcf36d5",
@@ -1486,7 +1486,7 @@
     "url": null
    },
    "published": "2026-10-17T11:40:08+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "64144a7f3d185698",
@@ -1499,7 +1499,7 @@
     "url": null
    },
    "published": "2026-10-17T11:03:04+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "9d851575bb9b50a3",
@@ -1512,7 +1512,7 @@
     "url": null
    },
    "published": "2026-10-17T11:00:01+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "bb4d9ee9cf1a0905",
@@ -1525,7 +1525,7 @@
     "url": null
    },
    "published": "2026-10-17T10:00:00+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "8f029d4d226e9180",
@@ -1538,7 +1538,7 @@
     "url": null
    },
    "published": "2026-10-17T09:31:00+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "54066e48bd6cd33e",
@@ -1551,7 +1551,7 @@
     "url": null
    },
    "published": "2026-10-17T08:00:00+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "e64fdc6231eef4a3",
@@ -1564,7 +1564,7 @@
     "url": null
    },
    "published": "2026-10-17T00:06:41+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "d59e187e8a490ce4",
@@ -1577,7 +1577,7 @@
     "url": null
    },
    "published": "2026-10-16T23:43:06+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "fde783a1f51cca43",
@@ -1590,7 +1590,7 @@
     "url": null
    },
    "published": "2026-10-16T22:52:49+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "6edd4a278b156302",
@@ -1603,7 +1603,7 @@
     "url": null
    },
    "published": "2026-10-16T21:43:35+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "eb8e4d2949362592",
@@ -1616,7 +1616,7 @@
     "url": null
    },
    "published": "2026-10-16T21:06:15+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "bc2e347d1d67a132",
@@ -1629,7 +1629,7 @@
     "url": null
    },
    "published": "2026-10-16T20:00:00+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "e41ffd968e690c15",
@@ -1642,7 +1642,7 @@
     "url": null
    },
    "published": "2026-10-16T20:00:00+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "812506bc06d6d7dd",
@@ -1655,7 +1655,7 @@
     "url": null
    },
    "published": "2026-10-16T19:36:27+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "1e070225113ccbd9",
@@ -1668,7 +1668,7 @@
     "url": null
    },
    "published": "2026-10-16T19:11:23+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "df0a1a3e64792b92",
@@ -1681,7 +1681,7 @@
     "url": null
    },
    "published": "2026-10-16T18:30:02+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "7e424af3bde8bb51",
@@ -1694,7 +1694,7 @@
     "url": null
    },
    "published": "2026-10-16T18:00:00+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "22c64d1ae375b6aa",
@@ -1707,7 +1707,7 @@
     "url": null
    },
    "published": "2026-10-16T17:59:22+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "0ab2604273aca1e1",
@@ -1720,7 +1720,7 @@
     "url": null
    },
    "published": "2026-10-16T16:44:00+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "a059a265028e2029",
@@ -1733,7 +1733,7 @@
     "url": null
    },
    "published": "2026-10-16T16:01:12+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "c7cb76be7a3ca885",
@@ -1746,7 +1746,7 @@
     "url": null
    },
    "published": "2026-10-16T14:02:04+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "cf9b9da0ffd2d4f8",
@@ -1759,7 +1759,7 @@
     "url": null
    },
    "published": "2026-10-16T14:00:02+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "872356a766ea1427",
@@ -1772,7 +1772,7 @@
     "url": null
    },
    "published": "2026-10-16T12:04:42+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "c46605b46d2904eb",
@@ -1785,7 +1785,7 @@
     "url": null
    },
    "published": "2026-10-16T12:00:01+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "c73415faabac4673",
@@ -1798,7 +1798,7 @@
     "url": null
    },
    "published": "2026-10-16T10:44:48+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "70a5ccd6505db459",
@@ -1811,7 +1811,7 @@
     "url": null
    },
    "published": "2026-10-16T10:31:00+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "273fc14c617a6cf5",
@@ -1824,7 +1824,7 @@
     "url": null
    },
    "published": "2026-10-16T10:15:04+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "5c95ba1b83fa94c4",
@@ -1837,7 +1837,7 @@
     "url": null
    },
    "published": "2026-10-16T10:01:00+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "570a8bcd5357dc4d",
@@ -1850,7 +1850,7 @@
     "url": null
    },
    "published": "2026-10-16T10:00:00+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "41c2451e1abc3370",
@@ -1863,7 +1863,7 @@
     "url": null
    },
    "published": "2026-10-16T06:42:24+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "994527a7337aaabe",
@@ -1876,7 +1876,7 @@
     "url": null
    },
    "published": "2026-10-16T01:16:44+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "d4103c1a6c3d88db",
@@ -1889,7 +1889,7 @@
     "url": null
    },
    "published": "2026-10-15T21:37:48+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "0afd05ab1c8a78b9",
@@ -1902,7 +1902,7 @@
     "url": null
    },
    "published": "2026-10-15T21:35:22+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "1ea01f2881d5be94",
@@ -1915,7 +1915,7 @@
     "url": null
    },
    "published": "2026-10-15T21:00:15+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "08c2c57fb19930b1",
@@ -1928,7 +1928,7 @@
     "url": null
    },
    "published": "2026-10-15T21:00:00+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "e9a48d63d69fa891",
@@ -1941,7 +1941,7 @@
     "url": null
    },
    "published": "2026-10-15T20:27:43+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "9001d0ac2129d581",
@@ -1954,7 +1954,7 @@
     "url": null
    },
    "published": "2026-10-15T20:22:01+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   },
   {
    "id": "f6c2eae71e43e28b",
@@ -1967,7 +1967,7 @@
     "url": null
    },
    "published": "2026-10-15T17:45:39+00:00",
-   "retrieved": "2026-10-18T18:16:30+00:00"
+   "retrieved": "2026-10-18T18:53:20+00:00"
   }
  ]
 }
