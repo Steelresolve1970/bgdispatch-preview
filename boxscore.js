@@ -84,7 +84,7 @@ function load(id){
   if(!id){el.innerHTML='<p class="empty">No game selected. <a href="#/game">Back to Schedule</a></p>';return;}
   if(cache[id]){render(cache[id]);return;}
   el.innerHTML='<p class="empty">Loading box score…</p>';
-  fetch(BGD_url('data/boxscores/')+encodeURIComponent(id)+'.json',{cache:'no-store'})
+  fetch((window.BGD_url?BGD_url('data/boxscores/'+encodeURIComponent(id)+'.json'):('data/boxscores/'+encodeURIComponent(id)+'.json')),{cache:'no-store'})
     .then(r=>{if(!r.ok)throw r.status;return r.json();})
     .then(b=>{cache[id]=b;render(b);})
     .catch(()=>{el.innerHTML=`<p class="empty">Box score not available for this game yet. <a href="#/game">Back to Schedule</a></p>`;});

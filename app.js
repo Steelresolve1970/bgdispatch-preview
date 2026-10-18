@@ -30,10 +30,10 @@ function renderNews(){const n=D.news;if(!n||!n.items.length)return;const items=n
  $('cards').innerHTML=items.slice(1,17).map(card).join('');
  $('updated').textContent=`${n.count} headlines from ${n.sources.filter(s=>s.status==='ok').length} sources · updated ${ago(n.generated)}`;
  const chips=$('rumor-chips'), cards=$('rumor-cards');
- if(chips&&cards){const tdy=new Date().toLocaleDateString('en-CA',ET);const r=items.filter(i=>RUMOR.test(i.title+' '+i.summary)&&new Date(i.published).toLocaleDateString('en-CA',ET)===tdy);
+ if(chips&&cards){const cut=Date.now()-5*864e5;const r=items.filter(i=>RUMOR.test(i.title+' '+(i.summary||''))&&i.published&&new Date(i.published).getTime()>=cut);
   chips.innerHTML=[['All',null],...TAGS].map(([l,re])=>`<button class="chip${(rumorTag===l||(!rumorTag&&!re))?' on':''}" data-tag="${l}">${l}</button>`).join('');
   const sel=TAGS.find(t=>t[0]===rumorTag);const shown=sel?r.filter(i=>sel[1].test(i.title+' '+i.summary)):r;
-  cards.innerHTML=shown.length?shown.map(card).join(''):empty('No new rumors today');}
+  cards.innerHTML=shown.length?shown.map(card).join(''):empty('No roster-move headlines in the last 5 days');}
 }
 function renderTicker(){const t=D.ticker;if(!t)return;const h=t.items.map(i=>`<a href="${esc(i.link)}" ${ext}><b>${i.tag}</b> · ${esc(i.title)}</a>`).join('');$('tickerMove').innerHTML=h+h;}
 function renderIns(){const d=D.ins;if(!d)return;

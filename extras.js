@@ -52,12 +52,12 @@ function cap(){const d=X.cap,el=$('cap-body');if(!d||!el)return;if(d.coming_soon
 // ---------- Rumor meter ----------
 let rmF='All';
 function rumors(){const d=X.rum,el=$('rumormeter-body');if(!d||!el)return;const sc={'National insider':4,'Beat writer / team':3,'Fan blog':2,'Aggregator / other':1};
- const today=new Date().toLocaleDateString('en-CA',{timeZone:'America/New_York'});const list=d.rumors.filter(r=>new Date(r.published).toLocaleDateString('en-CA',{timeZone:'America/New_York'})===today).filter(r=>rmF==='All'||r.status===rmF||r.tier===rmF);
- el.innerHTML=`<p class="page-sub">Today's Steelers rumors (US Eastern day), rated by who's reporting them. Status changes automatically when a later headline confirms or denies the rumor.</p>
+ const cut=Date.now()-5*864e5;const list=d.rumors.filter(r=>r.published&&new Date(r.published).getTime()>=cut).filter(r=>rmF==='All'||r.status===rmF||r.tier===rmF);
+ el.innerHTML=`<p class="page-sub">Steelers rumors from the last 5 days, rated by who's reporting them. Status changes automatically when a later headline confirms or denies the rumor.</p>
  <div class="box tiers-legend">${Object.entries(sc).map(([t,n])=>`<span><i class="meter m${n}">${'▮'.repeat(n)}${'▯'.repeat(4-n)}</i> ${t}</span>`).join('')}</div>
  <div class="chips">${['All','Rumor','Confirmed','Denied','National insider','Beat writer / team','Fan blog','Aggregator / other'].map(f=>`<button class="chip rm-f${rmF===f?' on':''}" data-f="${f}">${f}</button>`).join('')}</div>
  <div class="rm-list">${list.map(r=>`<article class="box rm"><div class="rm-top"><span class="st st-${r.status.toLowerCase()}">${r.status}</span><i class="meter m${sc[r.tier]}" title="${E(r.tier)}">${'▮'.repeat(sc[r.tier])}${'▯'.repeat(4-sc[r.tier])}</i><small>${E(r.tier)} · ${E(r.source)} · ${ago(r.published)}</small></div>
-  <a class="hl" href="${E(r.link)}" ${EXT}>${E(r.title)}</a>${r.status_note?`<p class="fine">${r.status==='Confirmed'?'✅ Confirmed by':'❌ Denied by'}: <a href="${E(r.status_link)}" ${EXT}>${E(r.status_note)}</a></p>`:''}</article>`).join('')||'<p class="empty">No new rumors today</p>'}</div>
+  <a class="hl" href="${E(r.link)}" ${EXT}>${E(r.title)}</a>${r.summary?`<p>${E(r.summary)}</p>`:''}${r.status_note?`<p class="fine">${r.status==='Confirmed'?'✅ Confirmed by':'❌ Denied by'}: <a href="${E(r.status_link)}" ${EXT}>${E(r.status_note)}</a></p>`:''}</article>`).join('')||'<p class="empty">No rumors in the last 5 days</p>'}</div>
  <p class="fine">${E(d.method)}</p>`;}
 window.BGD_renderRumors=rumors;
 

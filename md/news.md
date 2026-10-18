@@ -1,9 +1,10 @@
 # Steelers News
 
-_Generated 2026-10-18T04:24:48+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T04:23:36+00:00._
+_Generated 2026-10-18T04:36:01+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T04:34:50+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Steelers Vs Buccaneers Prediction](https://steelersdepot.com/2026/10/steelers-vs-buccaneers-prediction-2/): Steelers Depot, 2026-10-18 04:00 UTC
+- [Five Keys to a Buccaneers' Victory Over the Pittsburgh Steelers](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbE5fc282aG5lcVlXckZXTlpKOGxRS1QtalJLQ01HeGVvR2RTOU40bkQ0dzNwaXVWV2owVzhFM0QtNFNtMzV0TGE0MjFmV25hczhnZTdWSE9sY3ZWV09scVFUU1Y1S3NjaHBLYTdrSThyU0VLTlM1TDdDSmtYMVJmVnoyWTNZNXNqUWRRMjgwaHR1OEY3LS1tTEE5WjBEMDd2d3FIZmI0Ukw?oc=5): roundtable.io, 2026-10-18 03:55 UTC
 - [Steelers' Super Bowl Aspirations Are Clear For Aaron Rodgers: "He's Focused"](https://www.steelernation.com/2026/10/17/steelers-super-bowl-aspirations-clear): SteelerNation, 2026-10-18 03:33 UTC
 - [Steelers lose receiver Wilson to IR, Metcalf comes off injury report](https://www.espn.com/nfl/story/_/id/50203338/steelers-place-receiver-wilson-ir): ESPN, 2026-10-18 03:23 UTC
 - [‘I feel it coming for sure’: Steelers’ Kaden Wetjen predicts special teams surge](https://triblive.com/sports/i-feel-it-coming-for-sure-steelers-kaden-wetjen-predicts-special-teams-surge/): TribLive, 2026-10-18 02:24 UTC
@@ -94,7 +95,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers GameDay Cheat Sheet: Week 6 at the Tampa Bay Buccaneers](https://www.steelcityunderground.com/2026/10/17/steelers-gameday-cheat-sheet-week-6-at-the-tampa-bay-buccaneers/): Steel City Underground, 2026-10-17 11:40 UTC
 - [What we learned about the Buccaneers from Steelers players | Farabaugh’s Five](https://www.pennlive.com/steelers/2026/10/what-we-learned-about-the-buccaneers-from-steelers-players-farabaughs-five.html): PennLive (Nick Farabaugh), 2026-10-17 11:03 UTC
 - [Steelers vs. Buccaneers picks: Still Curtain panel predicts a brutal battle](https://stillcurtain.com/steelers-vs-buccaneers-picks-still-curtain-panel-predicts-a-brutal-battle-01m4r3jag9f8?utm_source=RSS): Still Curtain, 2026-10-17 11:00 UTC
-- [Steelers visit Tampa Bay as Rodgers winds down career, Bucs hope to add to win total](https://news.google.com/rss/articles/CBMivwFBVV95cUxNYkIwTEVPUnlsbExxU01MSG50YUs1cTVGd2V6YVBIZ2xIdHJwWXNrREJuMG9rRi0wbnZSWk12ODI5cFQxTndFTUkxOExPMkFKVXEwSmJSREpCUUNtZHZzNW9WOFhFMVpHQTFsanJiekVhT2FEaDFOSDJsUlZEaE41REtsZms0Z0dQOFRxUVNZdnU2NkpnWkRpTHh0VktJY00yZmUyVGl0LUdhYlZYeGVjbnk0Y1RhV1k1enMtTjdFOA?oc=5): Orlando Sentinel, 2026-10-17 10:01 UTC
 - [Cup of Joe (Starkey): At this rate, Steelers should pay Jaylen Warren top-5 RB money](https://triblive.com/sports/cup-of-joe-starkey-at-this-rate-steelers-should-pay-jaylen-warren-top-5-rb-money/): TribLive, 2026-10-17 10:00 UTC
 - [The Steelers have been slow to join the NFL’s blitz craze, but Patrick Graham says it’s coming](https://www.post-gazette.com/sports/steelers/2026/10/17/more-blitzing-nfl-steelers-blitzburgh/stories/202610160040): Pittsburgh Post-Gazette, 2026-10-17 08:00 UTC
 - [Former Steelers Fan Favorite WR Set to Visit Pittsburgh: Report](https://news.google.com/rss/articles/CBMimwFBVV95cUxNM3JyWkY1azl3dktTTWVmdmJpLVVRdVlETmZtdFpWVHlFLXBNUTRyNUY2dmx3MmVmNFdVcGpfQzRmRTg2b2c3SHo0MVlnYWxsTWtmQ3RoeW5Nd0VkaTVFc0JQdmVHY1JzSHQ5TFBrZ05remJuUnhjNExLNTRxV3JhcWcwZjRPYUNKem8weGt2U2xLZGJBazIycms4NA?oc=5): Heavy.com, 2026-10-17 03:59 UTC
