@@ -1,8 +1,10 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-18T14:20:41+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T14:20:38+00:00._
+_Generated 2026-10-18T14:31:00+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T14:30:58+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
+- **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
+  [Steelers Trade Rumors: A Frontrunner Has Emerged For A Joey Porter Jr. Trade + Asking Price REVEALED Tdsb Central Administration Staff Layoffs (sj3OLVcIhj)](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkTU4tODhtLUU1aXltclpGLV9NNmhqdnBrSTgyakd1TmRTRkJMcWJwOG5idnc2VkY3WXp6Ul9wd2wwT1pWSjBxRzFNWlFHQjg0UjlnZVZydzlTVGJ1X0NFTF9ZaEFNdw?oc=5): Unisba Media, first seen 2026-10-18 14:30 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [McCorkle: My Top Wide Receiver Trade Target For Steelers](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkxXd08yWVFFVHJXcFRNRElNcGIxb0huOWYzeHRHbGc5alpFSHQ1V2EyT0JvcmVkTFJjRWZ6OVpDZHd2OWFsYnl0UGtCUkd1bGpHdkFQcTlYMWF5UmZpUmlKYVRjXzNfbGVYM2pvYmM1dF9JMnZQU21BZklnWTRqNmx2OWFxeC1tWmNxYWQyYklJNnBQ?oc=5): Steelers Depot, first seen 2026-10-18 12:06 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
