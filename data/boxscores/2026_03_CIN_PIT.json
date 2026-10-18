@@ -1,0 +1,1025 @@
+{
+ "id": "2026_03_CIN_PIT",
+ "season": 2026,
+ "week": "Week 3",
+ "week_num": 3,
+ "date": "2026-09-27T17:00Z",
+ "venue": "Acrisure Stadium",
+ "home": {
+  "abbr": "PIT",
+  "name": "Pittsburgh Steelers",
+  "score": 30
+ },
+ "away": {
+  "abbr": "CIN",
+  "name": "Cincinnati Bengals",
+  "score": 27
+ },
+ "pit_home": true,
+ "result": "W",
+ "score": "30-27",
+ "quarters_end": {
+  "1": {
+   "home": 14,
+   "away": 7
+  },
+  "2": {
+   "home": 17,
+   "away": 17
+  },
+  "3": {
+   "home": 24,
+   "away": 20
+  },
+  "4": {
+   "home": 30,
+   "away": 27
+  }
+ },
+ "quarters": {
+  "1": {
+   "home": 14,
+   "away": 7
+  },
+  "2": {
+   "home": 3,
+   "away": 10
+  },
+  "3": {
+   "home": 7,
+   "away": 3
+  },
+  "4": {
+   "home": 6,
+   "away": 7
+  }
+ },
+ "scoring": [
+  {
+   "qtr": 1,
+   "team": "PIT",
+   "desc": "(Shotgun) 8-A.Rodgers pass deep left to 14-R.Wilson for 38 yards, TOUCHDOWN.",
+   "home": 6,
+   "away": 0
+  },
+  {
+   "qtr": 1,
+   "team": "PIT",
+   "desc": "9-C.Boswell extra point is GOOD, Center-46-C.Kuntz, Holder-19-C.Johnston.",
+   "home": 7,
+   "away": 0
+  },
+  {
+   "qtr": 1,
+   "team": "CIN",
+   "desc": "69-J.Bayer reported in as eligible. 9-J.Burrow pass short right to 1-J.Chase for 3 yards, TOUCHDOWN.",
+   "home": 7,
+   "away": 6
+  },
+  {
+   "qtr": 1,
+   "team": "CIN",
+   "desc": "2-E.McPherson extra point is GOOD, Center-46-W.Wagner, Holder-8-R.Rehkow.",
+   "home": 7,
+   "away": 7
+  },
+  {
+   "qtr": 1,
+   "team": "PIT",
+   "desc": "8-A.Rodgers pass deep right to 15-B.Skowronek for 23 yards, TOUCHDOWN.",
+   "home": 13,
+   "away": 7
+  },
+  {
+   "qtr": 1,
+   "team": "PIT",
+   "desc": "9-C.Boswell extra point is GOOD, Center-46-C.Kuntz, Holder-19-C.Johnston.",
+   "home": 14,
+   "away": 7
+  },
+  {
+   "qtr": 2,
+   "team": "CIN",
+   "desc": "2-E.McPherson 50 yard field goal is GOOD, Center-46-W.Wagner, Holder-8-R.Rehkow.",
+   "home": 14,
+   "away": 10
+  },
+  {
+   "qtr": 2,
+   "team": "PIT",
+   "desc": "9-C.Boswell 44 yard field goal is GOOD, Center-46-C.Kuntz, Holder-19-C.Johnston.",
+   "home": 17,
+   "away": 10
+  },
+  {
+   "qtr": 2,
+   "team": "CIN",
+   "desc": "(Shotgun) 9-J.Burrow pass deep right to 5-T.Higgins for 28 yards, TOUCHDOWN [69-S.Joseph].",
+   "home": 17,
+   "away": 16
+  },
+  {
+   "qtr": 2,
+   "team": "CIN",
+   "desc": "2-E.McPherson extra point is GOOD, Center-46-W.Wagner, Holder-8-R.Rehkow.",
+   "home": 17,
+   "away": 17
+  },
+  {
+   "qtr": 3,
+   "team": "CIN",
+   "desc": "2-E.McPherson 38 yard field goal is GOOD, Center-46-W.Wagner, Holder-8-R.Rehkow.",
+   "home": 17,
+   "away": 20
+  },
+  {
+   "qtr": 3,
+   "team": "PIT",
+   "desc": "8-A.Rodgers pass short middle to 4-D.Metcalf for 6 yards, TOUCHDOWN.",
+   "home": 23,
+   "away": 20
+  },
+  {
+   "qtr": 3,
+   "team": "PIT",
+   "desc": "9-C.Boswell extra point is GOOD, Center-46-C.Kuntz, Holder-19-C.Johnston.",
+   "home": 24,
+   "away": 20
+  },
+  {
+   "qtr": 4,
+   "team": "CIN",
+   "desc": "(Shotgun) 9-J.Burrow pass deep middle to 88-M.Gesicki for 25 yards, TOUCHDOWN.",
+   "home": 24,
+   "away": 26
+  },
+  {
+   "qtr": 4,
+   "team": "CIN",
+   "desc": "2-E.McPherson extra point is GOOD, Center-46-W.Wagner, Holder-8-R.Rehkow.",
+   "home": 24,
+   "away": 27
+  },
+  {
+   "qtr": 4,
+   "team": "PIT",
+   "desc": "9-C.Boswell 36 yard field goal is GOOD, Center-46-C.Kuntz, Holder-19-C.Johnston.",
+   "home": 27,
+   "away": 27
+  },
+  {
+   "qtr": 4,
+   "team": "PIT",
+   "desc": "9-C.Boswell 33 yard field goal is GOOD, Center-46-C.Kuntz, Holder-19-C.Johnston.",
+   "home": 30,
+   "away": 27
+  }
+ ],
+ "team_stats": {
+  "PIT": {
+   "first_downs": 13,
+   "total_yards": 279,
+   "passing_yards": 221,
+   "rushing_yards": 58,
+   "turnovers": 1,
+   "penalties": 7,
+   "penalty_yards": 52,
+   "penalties_line": "7-52",
+   "sacks_taken": 2,
+   "sack_yards_lost": 15,
+   "completions": 24,
+   "attempts": 41,
+   "third_down_conv": 7,
+   "third_down_att": 12,
+   "third_down": "7/12",
+   "possession_sec": 1794,
+   "possession": "29:54"
+  },
+  "CIN": {
+   "first_downs": 24,
+   "total_yards": 360,
+   "passing_yards": 254,
+   "rushing_yards": 106,
+   "turnovers": 1,
+   "penalties": 7,
+   "penalty_yards": 47,
+   "penalties_line": "7-47",
+   "sacks_taken": 1,
+   "sack_yards_lost": 9,
+   "completions": 25,
+   "attempts": 35,
+   "third_down_conv": 6,
+   "third_down_att": 12,
+   "third_down": "6/12",
+   "possession_sec": 1806,
+   "possession": "30:06"
+  }
+ },
+ "players": {
+  "PIT": {
+   "passing": [
+    {
+     "name": "Aaron Rodgers",
+     "cmp": 19,
+     "att": 34,
+     "yds": 292,
+     "td": 3,
+     "int": 1,
+     "sk": 2,
+     "skyd": -19,
+     "rate": 101.6
+    }
+   ],
+   "rushing": [
+    {
+     "name": "Jaylen Warren",
+     "att": 17,
+     "yds": 127,
+     "td": 0,
+     "avg": 7.5
+    },
+    {
+     "name": "Aaron Rodgers",
+     "att": 3,
+     "yds": 10,
+     "td": 0,
+     "avg": 3.3
+    },
+    {
+     "name": "Pat Freiermuth",
+     "att": 1,
+     "yds": 1,
+     "td": 0,
+     "avg": 1.0
+    },
+    {
+     "name": "Travis Homer",
+     "att": 1,
+     "yds": 0,
+     "td": 0,
+     "avg": 0.0
+    },
+    {
+     "name": "Lew Nichols III",
+     "att": 1,
+     "yds": 0,
+     "td": 0,
+     "avg": 0.0
+    }
+   ],
+   "receiving": [
+    {
+     "name": "Darnell Washington",
+     "rec": 3,
+     "tgt": 4,
+     "yds": 67,
+     "td": 0,
+     "avg": 22.3
+    },
+    {
+     "name": "Roman Wilson",
+     "rec": 3,
+     "tgt": 6,
+     "yds": 60,
+     "td": 1,
+     "avg": 20.0
+    },
+    {
+     "name": "Jaylen Warren",
+     "rec": 3,
+     "tgt": 4,
+     "yds": 49,
+     "td": 0,
+     "avg": 16.3
+    },
+    {
+     "name": "DK Metcalf",
+     "rec": 3,
+     "tgt": 5,
+     "yds": 31,
+     "td": 1,
+     "avg": 10.3
+    },
+    {
+     "name": "Pat Freiermuth",
+     "rec": 2,
+     "tgt": 4,
+     "yds": 30,
+     "td": 0,
+     "avg": 15.0
+    },
+    {
+     "name": "Ben Skowronek",
+     "rec": 1,
+     "tgt": 1,
+     "yds": 23,
+     "td": 1,
+     "avg": 23.0
+    },
+    {
+     "name": "Michael Pittman",
+     "rec": 2,
+     "tgt": 5,
+     "yds": 16,
+     "td": 0,
+     "avg": 8.0
+    },
+    {
+     "name": "Germie Bernard",
+     "rec": 1,
+     "tgt": 1,
+     "yds": 14,
+     "td": 0,
+     "avg": 14.0
+    },
+    {
+     "name": "Robert Tonyan",
+     "rec": 1,
+     "tgt": 1,
+     "yds": 2,
+     "td": 0,
+     "avg": 2.0
+    }
+   ],
+   "defense": [
+    {
+     "name": "Patrick Queen",
+     "tkl": 13.0,
+     "solo": 4,
+     "ast": 9,
+     "sk": 0.0,
+     "tfl": 1,
+     "pd": 1,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Rayshawn Jenkins",
+     "tkl": 9.0,
+     "solo": 5,
+     "ast": 4,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Jaquan Brisker",
+     "tkl": 8.0,
+     "solo": 3,
+     "ast": 5,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Jalen Ramsey",
+     "tkl": 7.0,
+     "solo": 3,
+     "ast": 4,
+     "sk": 0.0,
+     "tfl": 1,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Payton Wilson",
+     "tkl": 6.0,
+     "solo": 0,
+     "ast": 6,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 1,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Jamel Dean",
+     "tkl": 5.0,
+     "solo": 3,
+     "ast": 2,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 1,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Yahya Black",
+     "tkl": 4.0,
+     "solo": 1,
+     "ast": 3,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Brandin Echols",
+     "tkl": 2.0,
+     "solo": 2,
+     "ast": 0,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Asante Samuel Jr.",
+     "tkl": 2.0,
+     "solo": 1,
+     "ast": 1,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 1,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Jack Sawyer",
+     "tkl": 2.0,
+     "solo": 2,
+     "ast": 0,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Carson Bruener",
+     "tkl": 2.0,
+     "solo": 1,
+     "ast": 1,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Doneiko Slaughter",
+     "tkl": 2.0,
+     "solo": 1,
+     "ast": 1,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Derrick Harmon",
+     "tkl": 1.0,
+     "solo": 1,
+     "ast": 0,
+     "sk": 1.0,
+     "tfl": 1,
+     "pd": 0,
+     "qbh": 1,
+     "int": 0,
+     "ff": 1
+    },
+    {
+     "name": "Cameron Heyward",
+     "tkl": 1.0,
+     "solo": 1,
+     "ast": 0,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 2,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "T.J. Watt",
+     "tkl": 1.0,
+     "solo": 0,
+     "ast": 1,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 1,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Cole Holcomb",
+     "tkl": 1.0,
+     "solo": 1,
+     "ast": 0,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Travis Homer",
+     "tkl": 1.0,
+     "solo": 0,
+     "ast": 1,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Brock Hoffman",
+     "tkl": 1.0,
+     "solo": 1,
+     "ast": 0,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Nick Herbig",
+     "tkl": 1.0,
+     "solo": 1,
+     "ast": 0,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Daylen Everette",
+     "tkl": 1.0,
+     "solo": 1,
+     "ast": 0,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 1,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Robert Spears-Jennings",
+     "tkl": 1.0,
+     "solo": 0,
+     "ast": 1,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Sebastian Joseph-Day",
+     "tkl": 0.0,
+     "solo": 0,
+     "ast": 0,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 1,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Keeanu Benton",
+     "tkl": 0.0,
+     "solo": 0,
+     "ast": 0,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 1,
+     "int": 0,
+     "ff": 0
+    }
+   ],
+   "kicking": [
+    {
+     "name": "Chris Boswell",
+     "fgm": 3,
+     "fga": 3,
+     "long": 44,
+     "xpm": 3,
+     "xpa": 3
+    }
+   ]
+  },
+  "CIN": {
+   "passing": [
+    {
+     "name": "Joe Burrow",
+     "cmp": 28,
+     "att": 37,
+     "yds": 282,
+     "td": 3,
+     "int": 0,
+     "sk": 1,
+     "skyd": -13,
+     "rate": 123.9
+    }
+   ],
+   "rushing": [
+    {
+     "name": "Chase Brown",
+     "att": 13,
+     "yds": 61,
+     "td": 0,
+     "avg": 4.7
+    },
+    {
+     "name": "Joe Burrow",
+     "att": 2,
+     "yds": 13,
+     "td": 0,
+     "avg": 6.5
+    },
+    {
+     "name": "Samaje Perine",
+     "att": 3,
+     "yds": 9,
+     "td": 0,
+     "avg": 3.0
+    }
+   ],
+   "receiving": [
+    {
+     "name": "Ja'Marr Chase",
+     "rec": 9,
+     "tgt": 12,
+     "yds": 98,
+     "td": 1,
+     "avg": 10.9
+    },
+    {
+     "name": "Tee Higgins",
+     "rec": 6,
+     "tgt": 7,
+     "yds": 90,
+     "td": 1,
+     "avg": 15.0
+    },
+    {
+     "name": "Mike Gesicki",
+     "rec": 3,
+     "tgt": 3,
+     "yds": 37,
+     "td": 1,
+     "avg": 12.3
+    },
+    {
+     "name": "Dohnte Meyers",
+     "rec": 3,
+     "tgt": 5,
+     "yds": 29,
+     "td": 0,
+     "avg": 9.7
+    },
+    {
+     "name": "Tanner Hudson",
+     "rec": 2,
+     "tgt": 2,
+     "yds": 13,
+     "td": 0,
+     "avg": 6.5
+    },
+    {
+     "name": "Chase Brown",
+     "rec": 2,
+     "tgt": 2,
+     "yds": 8,
+     "td": 0,
+     "avg": 4.0
+    },
+    {
+     "name": "Samaje Perine",
+     "rec": 1,
+     "tgt": 3,
+     "yds": 5,
+     "td": 0,
+     "avg": 5.0
+    },
+    {
+     "name": "Colbie Young",
+     "rec": 1,
+     "tgt": 1,
+     "yds": 2,
+     "td": 0,
+     "avg": 2.0
+    },
+    {
+     "name": "Drew Sample",
+     "rec": 1,
+     "tgt": 2,
+     "yds": 0,
+     "td": 0,
+     "avg": 0.0
+    }
+   ],
+   "defense": [
+    {
+     "name": "Demetrius Knight Jr.",
+     "tkl": 9.0,
+     "solo": 2,
+     "ast": 7,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Kyle Dugger",
+     "tkl": 8.0,
+     "solo": 4,
+     "ast": 4,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 1,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Barrett Carter",
+     "tkl": 6.0,
+     "solo": 2,
+     "ast": 4,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 1,
+     "qbh": 1,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Tacario Davis",
+     "tkl": 5.0,
+     "solo": 5,
+     "ast": 0,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 1,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Dexter Lawrence",
+     "tkl": 4.0,
+     "solo": 3,
+     "ast": 1,
+     "sk": 2.0,
+     "tfl": 3,
+     "pd": 0,
+     "qbh": 2,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Daxton Hill",
+     "tkl": 4.0,
+     "solo": 2,
+     "ast": 2,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 1,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Jordan Battle",
+     "tkl": 4.0,
+     "solo": 3,
+     "ast": 1,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 1,
+     "qbh": 0,
+     "int": 1,
+     "ff": 0
+    },
+    {
+     "name": "Jonathan Allen",
+     "tkl": 2.0,
+     "solo": 0,
+     "ast": 2,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 2,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Jalen Davis",
+     "tkl": 2.0,
+     "solo": 1,
+     "ast": 1,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Oren Burks",
+     "tkl": 2.0,
+     "solo": 2,
+     "ast": 0,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Tedarrell Slaton",
+     "tkl": 2.0,
+     "solo": 0,
+     "ast": 2,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Bryan Cook",
+     "tkl": 2.0,
+     "solo": 2,
+     "ast": 0,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Cedric Johnson",
+     "tkl": 2.0,
+     "solo": 1,
+     "ast": 1,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Cashius Howell",
+     "tkl": 2.0,
+     "solo": 1,
+     "ast": 1,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 2,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Joe Giles-Harris",
+     "tkl": 1.0,
+     "solo": 0,
+     "ast": 1,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Boye Mafe",
+     "tkl": 1.0,
+     "solo": 0,
+     "ast": 1,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "D.J. Ivey",
+     "tkl": 1.0,
+     "solo": 1,
+     "ast": 0,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Swayze Bozeman",
+     "tkl": 1.0,
+     "solo": 0,
+     "ast": 1,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "PJ Jules",
+     "tkl": 1.0,
+     "solo": 1,
+     "ast": 0,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Kris Jenkins",
+     "tkl": 1.0,
+     "solo": 0,
+     "ast": 1,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Myles Murphy",
+     "tkl": 0.0,
+     "solo": 0,
+     "ast": 0,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 1,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "DJ Turner II",
+     "tkl": 0.0,
+     "solo": 0,
+     "ast": 0,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 1,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    }
+   ],
+   "kicking": [
+    {
+     "name": "Evan McPherson",
+     "fgm": 2,
+     "fga": 2,
+     "long": 50,
+     "xpm": 3,
+     "xpa": 3
+    }
+   ]
+  }
+ },
+ "generated": "2026-10-18T04:17:06.141724+00:00",
+ "source": "Data: nflverse (CC-BY 4.0)",
+ "source_url": "https://github.com/nflverse/nflverse-data"
+}

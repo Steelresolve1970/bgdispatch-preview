@@ -1,0 +1,930 @@
+{
+ "id": "2026_04_PIT_CLE",
+ "season": 2026,
+ "week": "Week 4",
+ "week_num": 4,
+ "date": "2026-10-02T00:15Z",
+ "venue": "Huntington Bank Field",
+ "home": {
+  "abbr": "CLE",
+  "name": "Cleveland Browns",
+  "score": 27
+ },
+ "away": {
+  "abbr": "PIT",
+  "name": "Pittsburgh Steelers",
+  "score": 24
+ },
+ "pit_home": false,
+ "result": "L",
+ "score": "24-27",
+ "quarters_end": {
+  "1": {
+   "home": 0,
+   "away": 7
+  },
+  "2": {
+   "home": 21,
+   "away": 10
+  },
+  "3": {
+   "home": 21,
+   "away": 10
+  },
+  "4": {
+   "home": 27,
+   "away": 24
+  }
+ },
+ "quarters": {
+  "1": {
+   "home": 0,
+   "away": 7
+  },
+  "2": {
+   "home": 21,
+   "away": 3
+  },
+  "3": {
+   "home": 0,
+   "away": 0
+  },
+  "4": {
+   "home": 6,
+   "away": 14
+  }
+ },
+ "scoring": [
+  {
+   "qtr": 1,
+   "team": "PIT",
+   "desc": "(Shotgun) 8-A.Rodgers pass short middle to 14-R.Wilson for 12 yards, TOUCHDOWN.",
+   "home": 0,
+   "away": 6
+  },
+  {
+   "qtr": 1,
+   "team": "PIT",
+   "desc": "9-C.Boswell extra point is GOOD, Center-46-C.Kuntz, Holder-19-C.Johnston.",
+   "home": 0,
+   "away": 7
+  },
+  {
+   "qtr": 2,
+   "team": "CLE",
+   "desc": "(Shotgun) 38-J.McLaughlin right end for 28 yards, TOUCHDOWN.",
+   "home": 6,
+   "away": 7
+  },
+  {
+   "qtr": 2,
+   "team": "CLE",
+   "desc": "25-A.Szmyt extra point is GOOD, Center-50-R.Sunahara, Holder-13-C.Bojorquez.",
+   "home": 7,
+   "away": 7
+  },
+  {
+   "qtr": 2,
+   "team": "CLE",
+   "desc": "70-Z.Zinter reported in as eligible. 10-Q.Judkins right guard for 2 yards, TOUCHDOWN.",
+   "home": 13,
+   "away": 7
+  },
+  {
+   "qtr": 2,
+   "team": "CLE",
+   "desc": "25-A.Szmyt extra point is GOOD, Center-50-R.Sunahara, Holder-13-C.Bojorquez.",
+   "home": 14,
+   "away": 7
+  },
+  {
+   "qtr": 2,
+   "team": "CLE",
+   "desc": "(Shotgun) 4-D.Watson pass short right to 44-H.Fannin for 2 yards, TOUCHDOWN. Penalty on PIT-90-T.Watt, Defensive Offside, declined.",
+   "home": 20,
+   "away": 7
+  },
+  {
+   "qtr": 2,
+   "team": "CLE",
+   "desc": "25-A.Szmyt extra point is GOOD, Center-50-R.Sunahara, Holder-13-C.Bojorquez.",
+   "home": 21,
+   "away": 7
+  },
+  {
+   "qtr": 2,
+   "team": "PIT",
+   "desc": "9-C.Boswell 31 yard field goal is GOOD, Center-46-C.Kuntz, Holder-19-C.Johnston.",
+   "home": 21,
+   "away": 10
+  },
+  {
+   "qtr": 4,
+   "team": "PIT",
+   "desc": "(Shotgun) 8-A.Rodgers pass deep middle to 80-D.Washington for 21 yards, TOUCHDOWN.",
+   "home": 21,
+   "away": 16
+  },
+  {
+   "qtr": 4,
+   "team": "CLE",
+   "desc": "25-A.Szmyt 44 yard field goal is GOOD, Center-50-R.Sunahara, Holder-13-C.Bojorquez.",
+   "home": 24,
+   "away": 16
+  },
+  {
+   "qtr": 4,
+   "team": "PIT",
+   "desc": "8-A.Rodgers pass short right to 88-P.Freiermuth for 3 yards, TOUCHDOWN.",
+   "home": 24,
+   "away": 22
+  },
+  {
+   "qtr": 4,
+   "team": "PIT",
+   "desc": "TWO-POINT CONVERSION ATTEMPT. 8-A.Rodgers rushes up the middle. ATTEMPT SUCCEEDS.",
+   "home": 24,
+   "away": 24
+  },
+  {
+   "qtr": 4,
+   "team": "CLE",
+   "desc": "25-A.Szmyt 56 yard field goal is GOOD, Center-50-R.Sunahara, Holder-13-C.Bojorquez.",
+   "home": 27,
+   "away": 24
+  }
+ ],
+ "team_stats": {
+  "CLE": {
+   "first_downs": 14,
+   "total_yards": 292,
+   "passing_yards": 205,
+   "rushing_yards": 87,
+   "turnovers": 2,
+   "penalties": 11,
+   "penalty_yards": 75,
+   "penalties_line": "11-75",
+   "sacks_taken": 5,
+   "sack_yards_lost": 20,
+   "completions": 16,
+   "attempts": 22,
+   "third_down_conv": 4,
+   "third_down_att": 10,
+   "third_down": "4/10",
+   "possession_sec": 1729,
+   "possession": "28:49"
+  },
+  "PIT": {
+   "first_downs": 13,
+   "total_yards": 279,
+   "passing_yards": 221,
+   "rushing_yards": 58,
+   "turnovers": 1,
+   "penalties": 7,
+   "penalty_yards": 52,
+   "penalties_line": "7-52",
+   "sacks_taken": 2,
+   "sack_yards_lost": 15,
+   "completions": 24,
+   "attempts": 41,
+   "third_down_conv": 4,
+   "third_down_att": 13,
+   "third_down": "4/13",
+   "possession_sec": 1871,
+   "possession": "31:11"
+  }
+ },
+ "players": {
+  "CLE": {
+   "passing": [
+    {
+     "name": "Deshaun Watson",
+     "cmp": 24,
+     "att": 33,
+     "yds": 268,
+     "td": 1,
+     "int": 1,
+     "sk": 2,
+     "skyd": -8,
+     "rate": 94.0
+    }
+   ],
+   "rushing": [
+    {
+     "name": "Quinshon Judkins",
+     "att": 17,
+     "yds": 53,
+     "td": 1,
+     "avg": 3.1
+    },
+    {
+     "name": "Jaleel McLaughlin",
+     "att": 1,
+     "yds": 28,
+     "td": 1,
+     "avg": 28.0
+    },
+    {
+     "name": "Deshaun Watson",
+     "att": 7,
+     "yds": 22,
+     "td": 0,
+     "avg": 3.1
+    },
+    {
+     "name": "Raheim Sanders",
+     "att": 2,
+     "yds": 9,
+     "td": 0,
+     "avg": 4.5
+    }
+   ],
+   "receiving": [
+    {
+     "name": "Denzel Boston",
+     "rec": 4,
+     "tgt": 7,
+     "yds": 89,
+     "td": 0,
+     "avg": 22.2
+    },
+    {
+     "name": "KC Concepcion",
+     "rec": 5,
+     "tgt": 8,
+     "yds": 64,
+     "td": 0,
+     "avg": 12.8
+    },
+    {
+     "name": "Quinshon Judkins",
+     "rec": 6,
+     "tgt": 7,
+     "yds": 43,
+     "td": 0,
+     "avg": 7.2
+    },
+    {
+     "name": "Jerry Jeudy",
+     "rec": 3,
+     "tgt": 3,
+     "yds": 36,
+     "td": 0,
+     "avg": 12.0
+    },
+    {
+     "name": "Harold Fannin Jr.",
+     "rec": 3,
+     "tgt": 5,
+     "yds": 27,
+     "td": 1,
+     "avg": 9.0
+    },
+    {
+     "name": "Raheim Sanders",
+     "rec": 2,
+     "tgt": 2,
+     "yds": 7,
+     "td": 0,
+     "avg": 3.5
+    },
+    {
+     "name": "Isaiah Bond",
+     "rec": 1,
+     "tgt": 1,
+     "yds": 2,
+     "td": 0,
+     "avg": 2.0
+    }
+   ],
+   "defense": [
+    {
+     "name": "Carson Schwesinger",
+     "tkl": 8.0,
+     "solo": 2,
+     "ast": 6,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Tyson Campbell",
+     "tkl": 7.0,
+     "solo": 6,
+     "ast": 1,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 1,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Grant Delpit",
+     "tkl": 6.0,
+     "solo": 4,
+     "ast": 2,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 1,
+     "qbh": 0,
+     "int": 1,
+     "ff": 0
+    },
+    {
+     "name": "Ronnie Hickman Jr.",
+     "tkl": 5.0,
+     "solo": 1,
+     "ast": 4,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 1,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Adin Huntington",
+     "tkl": 4.0,
+     "solo": 1,
+     "ast": 3,
+     "sk": 1.0,
+     "tfl": 1,
+     "pd": 0,
+     "qbh": 3,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Denzel Ward",
+     "tkl": 4.0,
+     "solo": 3,
+     "ast": 1,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 1,
+     "qbh": 1,
+     "int": 1,
+     "ff": 0
+    },
+    {
+     "name": "Quincy Williams",
+     "tkl": 4.0,
+     "solo": 0,
+     "ast": 4,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 1,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Emmanuel McNeil-Warren",
+     "tkl": 4.0,
+     "solo": 1,
+     "ast": 3,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 2,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Maliek Collins",
+     "tkl": 3.0,
+     "solo": 1,
+     "ast": 2,
+     "sk": 1.0,
+     "tfl": 2,
+     "pd": 0,
+     "qbh": 1,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Isaiah McGuire",
+     "tkl": 3.0,
+     "solo": 2,
+     "ast": 1,
+     "sk": 1.0,
+     "tfl": 1,
+     "pd": 0,
+     "qbh": 1,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Myles Harden",
+     "tkl": 3.0,
+     "solo": 2,
+     "ast": 1,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Sam Williams",
+     "tkl": 2.0,
+     "solo": 1,
+     "ast": 1,
+     "sk": 1.0,
+     "tfl": 1,
+     "pd": 1,
+     "qbh": 2,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Daniel Thomas",
+     "tkl": 2.0,
+     "solo": 1,
+     "ast": 1,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Jared Verse",
+     "tkl": 2.0,
+     "solo": 1,
+     "ast": 1,
+     "sk": 0.0,
+     "tfl": 1,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Donovan McMillon",
+     "tkl": 2.0,
+     "solo": 1,
+     "ast": 1,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Mike Hall Jr.",
+     "tkl": 1.0,
+     "solo": 1,
+     "ast": 0,
+     "sk": 1.0,
+     "tfl": 1,
+     "pd": 0,
+     "qbh": 1,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Mekhi Blackmon",
+     "tkl": 1.0,
+     "solo": 1,
+     "ast": 0,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Blake Whiteheart",
+     "tkl": 1.0,
+     "solo": 1,
+     "ast": 0,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Malachi Corley",
+     "tkl": 1.0,
+     "solo": 1,
+     "ast": 0,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Easton Mascarenas-Arnold",
+     "tkl": 1.0,
+     "solo": 1,
+     "ast": 0,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Denzel Boston",
+     "tkl": 1.0,
+     "solo": 1,
+     "ast": 0,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Derek Barnett",
+     "tkl": 0.0,
+     "solo": 0,
+     "ast": 0,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 1,
+     "int": 0,
+     "ff": 0
+    }
+   ],
+   "kicking": [
+    {
+     "name": "Andre Szmyt",
+     "fgm": 2,
+     "fga": 2,
+     "long": 56,
+     "xpm": 3,
+     "xpa": 3
+    }
+   ]
+  },
+  "PIT": {
+   "passing": [
+    {
+     "name": "Aaron Rodgers",
+     "cmp": 22,
+     "att": 40,
+     "yds": 299,
+     "td": 3,
+     "int": 2,
+     "sk": 5,
+     "skyd": -30,
+     "rate": 83.2
+    }
+   ],
+   "rushing": [
+    {
+     "name": "Jaylen Warren",
+     "att": 17,
+     "yds": 93,
+     "td": 0,
+     "avg": 5.5
+    },
+    {
+     "name": "Travis Homer",
+     "att": 2,
+     "yds": -1,
+     "td": 0,
+     "avg": -0.5
+    }
+   ],
+   "receiving": [
+    {
+     "name": "DK Metcalf",
+     "rec": 5,
+     "tgt": 9,
+     "yds": 115,
+     "td": 0,
+     "avg": 23.0
+    },
+    {
+     "name": "Roman Wilson",
+     "rec": 3,
+     "tgt": 6,
+     "yds": 74,
+     "td": 1,
+     "avg": 24.7
+    },
+    {
+     "name": "Jaylen Warren",
+     "rec": 3,
+     "tgt": 6,
+     "yds": 33,
+     "td": 0,
+     "avg": 11.0
+    },
+    {
+     "name": "Darnell Washington",
+     "rec": 3,
+     "tgt": 5,
+     "yds": 27,
+     "td": 1,
+     "avg": 9.0
+    },
+    {
+     "name": "Pat Freiermuth",
+     "rec": 3,
+     "tgt": 5,
+     "yds": 17,
+     "td": 1,
+     "avg": 5.7
+    },
+    {
+     "name": "Michael Pittman",
+     "rec": 2,
+     "tgt": 4,
+     "yds": 15,
+     "td": 0,
+     "avg": 7.5
+    },
+    {
+     "name": "Germie Bernard",
+     "rec": 2,
+     "tgt": 2,
+     "yds": 11,
+     "td": 0,
+     "avg": 5.5
+    },
+    {
+     "name": "Ben Skowronek",
+     "rec": 1,
+     "tgt": 2,
+     "yds": 7,
+     "td": 0,
+     "avg": 7.0
+    }
+   ],
+   "defense": [
+    {
+     "name": "Payton Wilson",
+     "tkl": 9.0,
+     "solo": 7,
+     "ast": 2,
+     "sk": 1.0,
+     "tfl": 1,
+     "pd": 0,
+     "qbh": 1,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Cameron Heyward",
+     "tkl": 7.0,
+     "solo": 3,
+     "ast": 4,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 1,
+     "int": 0,
+     "ff": 1
+    },
+    {
+     "name": "Jaquan Brisker",
+     "tkl": 7.0,
+     "solo": 4,
+     "ast": 3,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Robert Spears-Jennings",
+     "tkl": 7.0,
+     "solo": 6,
+     "ast": 1,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 2,
+     "qbh": 0,
+     "int": 1,
+     "ff": 0
+    },
+    {
+     "name": "Patrick Queen",
+     "tkl": 5.0,
+     "solo": 3,
+     "ast": 2,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Yahya Black",
+     "tkl": 5.0,
+     "solo": 2,
+     "ast": 3,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "T.J. Watt",
+     "tkl": 4.0,
+     "solo": 4,
+     "ast": 0,
+     "sk": 1.0,
+     "tfl": 2,
+     "pd": 1,
+     "qbh": 2,
+     "int": 0,
+     "ff": 1
+    },
+    {
+     "name": "Cole Holcomb",
+     "tkl": 3.0,
+     "solo": 1,
+     "ast": 2,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Asante Samuel Jr.",
+     "tkl": 3.0,
+     "solo": 2,
+     "ast": 1,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 1,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Keeanu Benton",
+     "tkl": 3.0,
+     "solo": 2,
+     "ast": 1,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Daylen Everette",
+     "tkl": 3.0,
+     "solo": 3,
+     "ast": 0,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 1,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Sebastian Joseph-Day",
+     "tkl": 2.0,
+     "solo": 0,
+     "ast": 2,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Lew Nichols III",
+     "tkl": 2.0,
+     "solo": 2,
+     "ast": 0,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Nick Herbig",
+     "tkl": 2.0,
+     "solo": 1,
+     "ast": 1,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Jack Sawyer",
+     "tkl": 2.0,
+     "solo": 0,
+     "ast": 2,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 1,
+     "qbh": 1,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Jalen Ramsey",
+     "tkl": 1.0,
+     "solo": 1,
+     "ast": 0,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Jamel Dean",
+     "tkl": 1.0,
+     "solo": 0,
+     "ast": 1,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 1,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Michael Pittman",
+     "tkl": 1.0,
+     "solo": 1,
+     "ast": 0,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Roman Wilson",
+     "tkl": 1.0,
+     "solo": 1,
+     "ast": 0,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Alex Highsmith",
+     "tkl": 0.0,
+     "solo": 0,
+     "ast": 0,
+     "sk": 0.0,
+     "tfl": 1,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    }
+   ],
+   "kicking": [
+    {
+     "name": "Chris Boswell",
+     "fgm": 1,
+     "fga": 2,
+     "long": 31,
+     "xpm": 1,
+     "xpa": 1
+    }
+   ]
+  }
+ },
+ "generated": "2026-10-18T04:17:06.229564+00:00",
+ "source": "Data: nflverse (CC-BY 4.0)",
+ "source_url": "https://github.com/nflverse/nflverse-data"
+}

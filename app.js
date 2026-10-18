@@ -56,9 +56,9 @@ function renderGame(){const s=D.sched;if(!s)return;const n=s.next,l=s.last;
  </div>
  <h2 class="section-title">${s.season} Schedule</h2>
  <div class="box sched"><table><thead><tr><th>Wk</th><th>Date</th><th>Opponent</th><th>Result / TV</th></tr></thead><tbody>
- ${s.games.map(g=>`<tr class="${n&&g.date===n.date?'nextrow':''}"><td>${esc((g.week||'').replace('Week ',''))}</td><td>${fmt(g.date,{month:'short',day:'numeric'})}</td><td>${vs(g)}</td><td>${g.completed?`<b class="res ${g.result}">${g.result}</b> ${esc(g.score)}`:(/T05:00/.test(g.date)?'TBD':fmt(g.date,{hour:'numeric',minute:'2-digit'}))+(g.tv?' · '+esc(g.tv):'')}</td></tr>`).join('')}
+ ${s.games.map(g=>{const id=g.nflverse_id||g.id;const done=!!g.completed;const opp=done?`<a class="sched-opp" href="#/boxscore/${esc(id)}">${vs(g)}</a>`:vs(g);const res=done?`<a class="sched-res" href="#/boxscore/${esc(id)}"><b class="res ${g.result}">${g.result}</b> ${esc(g.score)}</a>`:(/T05:00/.test(g.date)?'TBD':fmt(g.date,{hour:'numeric',minute:'2-digit'}))+(g.tv?' · '+esc(g.tv):'');return`<tr class="${n&&g.date===n.date?'nextrow':''}${done?' sched-done':''}"${done?` data-box="${esc(id)}" tabindex="0" role="link" aria-label="Box score: ${vs(g).replace(/<[^>]+>/g,'')} ${g.result} ${esc(g.score)}"`:''}><td>${esc((g.week||'').replace('Week ',''))}</td><td>${fmt(g.date,{month:'short',day:'numeric'})}</td><td>${opp}</td><td>${res}</td></tr>`;}).join('')}
  </tbody></table></div>
- <p class="fine">Schedule data: nflverse (CC-BY 4.0). Times US Eastern.</p>`;tick();}
+ <p class="fine">Schedule data: nflverse (CC-BY 4.0). Tap a final to open the box score. Times US Eastern.</p>`;tick();}
 function tick(){const c=$('countdown');if(!c)return;let ms=new Date(c.dataset.t)-Date.now();
  if(ms<=0){c.innerHTML='<b>Game time!</b>';return;}const d=Math.floor(ms/864e5),h=Math.floor(ms/36e5)%24,m=Math.floor(ms/6e4)%60,s=Math.floor(ms/1e3)%60;
  c.innerHTML=[[d,'days'],[h,'hrs'],[m,'min'],[s,'sec']].map(([v,l])=>`<span><b>${v}</b>${l}</span>`).join('');}
@@ -75,8 +75,8 @@ async function loadAll(){await Promise.all(Object.entries(SRC).map(async([k,[u,f
 loadAll();setInterval(loadAll,5*60*1000);
 
 // hash router
-const TITLES={home:'News',podcasts:'Podcasts & YouTube',film:'Film Room',preview:'Film Preview',roster:'Depth Chart & Roster',game:'Schedule',stats:'Stats',heatmap:'Player Heat Map',drafthub:'Draft',draft:'Mock Draft',college:'College Prospect Tracker',insiders:'Insiders',forum:'Forum',live:'Live Hub',injuries:'Injury Tracker',scout:'Opponent Scouting',cap:'Cap Center',rumormeter:'Rumor Meter',play:"Pick'em & Trivia",history:'Steelers History',alerts:'Alerts & Email'};
-function route(){const r=(location.hash.replace(/^#\/?/,'')||'home').split('?')[0].split('/')[0];const alias={grades:'heatmap',rumors:'roster'};const v=alias[r]||(TITLES[r]?r:'home');
+const TITLES={home:'News',podcasts:'Podcasts & YouTube',film:'Film Room',preview:'Film Preview',roster:'Depth Chart & Roster',game:'Schedule',stats:'Stats',heatmap:'Player Heat Map',drafthub:'Draft',draft:'Mock Draft',college:'College Prospect Tracker',insiders:'Insiders',forum:'Forum',live:'Live Hub',injuries:'Injury Tracker',scout:'Opponent Scouting',cap:'Cap Center',rumormeter:'Rumor Meter',play:"Pick'em & Trivia",history:'Steelers History',alerts:'Alerts & Email',boxscore:'Box Score'};
+function route(){const parts=(location.hash.replace(/^#\/?/,'')||'home').split('?')[0].split('/');const r=parts[0];const alias={grades:'heatmap',rumors:'roster'};const v=alias[r]||(TITLES[r]?r:'home');window.BGD_boxId=r==='boxscore'?decodeURIComponent(parts[1]||''):'';
  if(r==='rumors'){const qs=(location.hash.split('?')[1]||'');const nh='#/roster'+(qs?'?'+qs:'');if(location.hash!==nh)history.replaceState(null,'',nh);}
  document.querySelectorAll('.view').forEach(e=>e.hidden=e.dataset.view!==v);
  {const ib=document.querySelector('.sidebar .insiders');if(ib)ib.style.display=v==='home'?'':'none';} {const hs=document.querySelector('[aria-labelledby="huddleSide"]');if(hs)hs.style.display=v==='alerts'?'none':'';}
@@ -88,6 +88,8 @@ addEventListener('hashchange',route);
 const b=$('menuBtn');b.onclick=()=>{const o=document.body.classList.toggle('nav-open');b.setAttribute('aria-expanded',o)};
 window.addEventListener('DOMContentLoaded',route);
 
+document.addEventListener('click',e=>{const br=e.target.closest('tr.sched-done');if(br&&!e.target.closest('a')){location.hash='#/boxscore/'+br.dataset.box;return;}});
+document.addEventListener('keydown',e=>{if(e.key!=='Enter'&&e.key!==' ')return;const br=e.target.closest&&e.target.closest('tr.sched-done');if(br){e.preventDefault();location.hash='#/boxscore/'+br.dataset.box;}});
 document.addEventListener('click',e=>{const m=document.querySelector('.has-more');if(!m)return;const bt=e.target.closest('.more-btn');if(bt){const o=m.classList.toggle('open');bt.setAttribute('aria-expanded',o);}else if(!e.target.closest('.more'))m.classList.remove('open');});
 
 // Per-section Schema.org JSON-LD for crawlers/agents (no visual change): loads jsonld/<route>.json into <head>.

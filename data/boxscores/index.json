@@ -1,0 +1,58 @@
+{
+ "generated": "2026-10-18T04:17:05.114464+00:00",
+ "season": 2026,
+ "games": [
+  {
+   "id": "2026_01_ATL_PIT",
+   "week": "Week 1",
+   "date": "2026-09-13T17:00Z",
+   "opponent": "Atlanta Falcons",
+   "home": true,
+   "result": "W",
+   "score": "20-13",
+   "label": "vs Atlanta Falcons"
+  },
+  {
+   "id": "2026_02_PIT_NE",
+   "week": "Week 2",
+   "date": "2026-09-20T17:00Z",
+   "opponent": "New England Patriots",
+   "home": false,
+   "result": "L",
+   "score": "3-20",
+   "label": "at New England Patriots"
+  },
+  {
+   "id": "2026_03_CIN_PIT",
+   "week": "Week 3",
+   "date": "2026-09-27T17:00Z",
+   "opponent": "Cincinnati Bengals",
+   "home": true,
+   "result": "W",
+   "score": "30-27",
+   "label": "vs Cincinnati Bengals"
+  },
+  {
+   "id": "2026_04_PIT_CLE",
+   "week": "Week 4",
+   "date": "2026-10-02T00:15Z",
+   "opponent": "Cleveland Browns",
+   "home": false,
+   "result": "L",
+   "score": "24-27",
+   "label": "at Cleveland Browns"
+  },
+  {
+   "id": "2026_05_IND_PIT",
+   "week": "Week 5",
+   "date": "2026-10-11T17:00Z",
+   "opponent": "Indianapolis Colts",
+   "home": true,
+   "result": "W",
+   "score": "34-22",
+   "label": "vs Indianapolis Colts"
+  }
+ ],
+ "source": "Data: nflverse (CC-BY 4.0)",
+ "source_url": "https://github.com/nflverse/nflverse-data"
+}
