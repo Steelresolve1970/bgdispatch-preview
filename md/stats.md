@@ -1,6 +1,6 @@
 # Steelers Team Stats
 
-_Generated 2026-10-18T18:06:25+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T15:12:41+00:00._
+_Generated 2026-10-18T18:16:47+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T18:16:40+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/stats.json_
 
 | Section | Stat | Value | NFL rank |
@@ -21,8 +21,8 @@ _JSON: https://blackandgolddispatch.com/api/v1/stats.json_
 | Defense | Fumbles recovered | 4 | 4 |
 | Defense | Tackles for loss | 26 | 11 |
 | Defense | Passes defended | 33 | 2 |
-| Scoring | Points scored | 111 | 19 |
-| Scoring | Points per game | 22.2 | 18 |
+| Scoring | Points scored | 111 | 20 |
+| Scoring | Points per game | 22.2 | 19 |
 | Scoring | Points allowed | 109 | 9 |
 | Scoring | Touchdowns | 12 | 16 |
 

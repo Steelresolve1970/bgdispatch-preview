@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-18T18:06:25+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T18:06:06+00:00._
+_Generated 2026-10-18T18:16:47+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T18:16:30+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [NFL says Steelers-Saints in Paris still on despite civil unrest in France](https://www.espn.com/nfl/story/_/id/50211207/nfl-says-steelers-saints-game-paris-amid-unrest): ESPN, 2026-10-18 18:19 UTC
