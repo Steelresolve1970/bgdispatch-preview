@@ -1,13 +1,11 @@
 # Steelers Film Room & Previews
 
-_Generated 2026-10-18T01:40:52+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T01:40:46+00:00._
+_Generated 2026-10-18T02:00:56+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T02:00:48+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/film.json_
 
 - Breakdown (vs Indianapolis Colts (Oct 11)): [Film Room: Max Iheanachor Is Already Fixing His Biggest Issue](https://steelersdepot.com/2026/10/film-room-max-iheanachor-is-already-fixing-his-biggest-issue/): Steelers Depot Film Room (Alex Kozora), 2026-10-17 11:15 UTC
-- Breakdown (vs Indianapolis Colts (Oct 11)): [The Terrible Podcast — Steelers Vs. Colts All-22 Review, McCarthy Monday Recap, Week 6 WR Issues](https://www.youtube.com/watch?v=t6YSD1i_je0): Steelers Depot (YouTube), 2026-10-14 16:33 UTC
 - Breakdown (vs Indianapolis Colts (Oct 11)): [Film Room: Gabriel Rubio Looks Strong In NFL Debut](https://steelersdepot.com/2026/10/film-room-gabriel-rubio-stands-strong-in-nfl-debut/): Steelers Depot Film Room (Alex Kozora), 2026-10-12 18:00 UTC
 - Breakdown (vs Indianapolis Colts (Oct 11)): [Film Room: Yahya Black Steps Up In Derrick Harmon’s Absence](https://steelersdepot.com/2026/10/film-room-yahya-black-steps-up-in-derrick-harmons-absence/): Steelers Depot Film Room (Alex Kozora), 2026-10-12 16:30 UTC
-- Preview (at Tampa Bay Buccaneers (Oct 18)): [The Terrible Podcast — Steelers Vs Buccaneers Game Preview, Trade Possibility, Injuries, W6 Picks](https://www.youtube.com/watch?v=lHwxWzn_glI): Steelers Depot (YouTube), 2026-10-16 15:33 UTC
 - Preview (at Tampa Bay Buccaneers (Oct 18)): [Buccaneers Defense Scouting Report: Batten Down The Hatches To Beat The Blitz](https://steelersdepot.com/2026/10/buccaneers-defense-scouting-report-batten-down-the-hatches-down-to-beat-the-blitz/): Alex Kozora (Steelers Depot), 2026-10-16 13:30 UTC
 - Preview (at Tampa Bay Buccaneers (Oct 18)): [Steelers-Buccaneers preview: What to expect from Tampa Bay’s offense, defense in Week 6](https://www.behindthesteelcurtain.com/pittsburgh-steelers-game-information/176163/steelers-buccaneers-preview-what-to-expect-from-tampa-bay-offense-defense-in-week-6-jalon-daniels-vita-vea): Behind the Steel Curtain, 2026-10-16 13:00 UTC
 - Preview (at Tampa Bay Buccaneers (Oct 18)): [Buccaneers Offense Scouting Report: Creative Runs, Safe Passes](https://steelersdepot.com/2026/10/buccaneers-offensive-scouting-report-creative-runs-safe-passes/): Alex Kozora (Steelers Depot), 2026-10-16 12:30 UTC

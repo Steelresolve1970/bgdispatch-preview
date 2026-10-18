@@ -1,6 +1,6 @@
 # Steelers Draft Central
 
-_Generated 2026-10-18T01:40:52+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T01:40:47+00:00._
+_Generated 2026-10-18T02:00:56+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T02:00:50+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/draft.json_
 
 Steelers projected picks: R1 #22, R2 #54
@@ -30,7 +30,10 @@ Steelers projected picks: R1 #22, R2 #54
 - **Jelani McDonald** (S, Texas, our board #70): chance available R1 #22 96%, R2 #54 73%. 42 tackles, 2 PD
 - **Earl Little Jr.** (S, Ohio State, our board #99): chance available R1 #22 98%, R2 #54 89%. 38 tackles, 4 PD, 1 FR
 - **Koi Perich** (S, Oregon, our board #107): chance available R1 #22 98%, R2 #54 91%. 34 tackles, 0 TFL, 0 sacks, 2 INT, 1 PD
-- **Bray Hubbard** (S, Alabama, our board #117): chance available R1 #22 99%, R2 #54 93%. 27 tackles, 0.5 TFL, 0 sacks, 2 INT, 1 PD
+- **Kingston Lopa** (S, California, our board #117): chance available R1 #22 99%, R2 #54 93%. 27 tackles, 1 TFL, 0 sacks, 5 INT, 1 PD
+- **Kamari Wilson** (S, West Virginia, our board #124): chance available R1 #22 99%, R2 #54 94%. 34 tackles, 0.5 TFL, 0 sacks, 1 INT, 1 PD
+- **Keon Sabb** (S, Alabama, our board #174): chance available R1 #22 99%, R2 #54 97%. 16 tackles, 1 TFL, 0 sacks, 2 PD
+- **Jordan Castell** (S, Kentucky, our board #181): chance available R1 #22 99%, R2 #54 98%. 48 tackles, 2 TFL, 0 sacks, 2 INT, 2 PD
 
 ### 4. Inside linebacker
 - **Sammy Brown** (LB, Clemson, our board #25): chance available R1 #22 61%, R2 #54 1%. 40 tackles, 1 sack, 1 PD
@@ -46,7 +49,10 @@ Steelers projected picks: R1 #22, R2 #54
 - **Charlie Becker** (WR, Indiana, our board #15): chance available R1 #22 22%, R2 #54 0%. 39 rec, 694 yds, 8 TD
 - **Ryan Coleman-Williams** (WR, Alabama, our board #22): chance available R1 #22 52%, R2 #54 0%. 23 catches, 415 yds, 4 TD
 - **Nick Marsh** (WR, Indiana, our board #28): chance available R1 #22 70%, R2 #54 2%. 32 catches, 585 yds, 7 TD
-- **Duce Robinson** (WR, Florida State, our board #48): chance available R1 #22 93%, R2 #54 38%. 17 catches, 294 yds, 2 TD
+- **KJ Duff** (WR, Rutgers, our board #48): chance available R1 #22 93%, R2 #54 38%. 42 catches, 741 yds, 9 TD
+- **Duce Robinson** (WR, Florida State, our board #49): chance available R1 #22 93%, R2 #54 40%. 17 catches, 294 yds, 2 TD
+- **Ryan Wingo** (WR, Texas, our board #71): chance available R1 #22 97%, R2 #54 76%. 26 catches, 345 yds, 3 TD
+- **Shazz Preston** (WR, Indiana, our board #73): chance available R1 #22 98%, R2 #54 77%. 10 catches, 129 yds, 1 TD
 
 _Availability method (estimate): Estimate, not a prediction: a prospect's real draft slot ~ Normal(mean = our board rank, sd = (4 + 0.30*rank) * position factor).
 Chance he is still there at pick k = P(slot > k-1) = 1 - Phi((k - 0.5 - rank) / sd). Position factor widens the spread for positions

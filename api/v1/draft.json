@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "draft",
  "description": "Steelers draft hub: top prospects per need with our estimated chance each is available at the Steelers' projected picks, published analyst grades of the last class (letter + link), and every past Steelers pick (nflverse, CC-BY 4.0).",
- "generated": "2026-10-18T01:40:52+00:00",
- "data_updated": "2026-10-18T01:40:47+00:00",
- "count": 515,
+ "generated": "2026-10-18T02:00:56+00:00",
+ "data_updated": "2026-10-18T02:00:50+00:00",
+ "count": 521,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -542,13 +542,13 @@
    }
   },
   {
-   "id": "9646753ec1a8ccd8",
+   "id": "b94c5c27c808188f",
    "type": "draft_prospect",
    "need": "Safety",
    "need_rank": 3,
-   "name": "Bray Hubbard",
+   "name": "Kingston Lopa",
    "position": "S",
-   "school": "Alabama",
+   "school": "California",
    "our_board_rank": 117,
    "our_grade": 76.6,
    "chance_available": [
@@ -561,6 +561,93 @@
      "round": 2,
      "pick": 54,
      "percent": 93
+    }
+   ],
+   "estimate": true,
+   "method_url": "https://blackandgolddispatch.com/#/drafthub",
+   "source": {
+    "name": "Black & Gold Dispatch board (CollegeFootballData.com stats)",
+    "url": "https://blackandgolddispatch.com/#/drafthub"
+   }
+  },
+  {
+   "id": "7cd487056b5a041d",
+   "type": "draft_prospect",
+   "need": "Safety",
+   "need_rank": 3,
+   "name": "Kamari Wilson",
+   "position": "S",
+   "school": "West Virginia",
+   "our_board_rank": 124,
+   "our_grade": 76.3,
+   "chance_available": [
+    {
+     "round": 1,
+     "pick": 22,
+     "percent": 99
+    },
+    {
+     "round": 2,
+     "pick": 54,
+     "percent": 94
+    }
+   ],
+   "estimate": true,
+   "method_url": "https://blackandgolddispatch.com/#/drafthub",
+   "source": {
+    "name": "Black & Gold Dispatch board (CollegeFootballData.com stats)",
+    "url": "https://blackandgolddispatch.com/#/drafthub"
+   }
+  },
+  {
+   "id": "01ef4e11afa34be1",
+   "type": "draft_prospect",
+   "need": "Safety",
+   "need_rank": 3,
+   "name": "Keon Sabb",
+   "position": "S",
+   "school": "Alabama",
+   "our_board_rank": 174,
+   "our_grade": 74.9,
+   "chance_available": [
+    {
+     "round": 1,
+     "pick": 22,
+     "percent": 99
+    },
+    {
+     "round": 2,
+     "pick": 54,
+     "percent": 97
+    }
+   ],
+   "estimate": true,
+   "method_url": "https://blackandgolddispatch.com/#/drafthub",
+   "source": {
+    "name": "Black & Gold Dispatch board (CollegeFootballData.com stats)",
+    "url": "https://blackandgolddispatch.com/#/drafthub"
+   }
+  },
+  {
+   "id": "7018da8f87a2c834",
+   "type": "draft_prospect",
+   "need": "Safety",
+   "need_rank": 3,
+   "name": "Jordan Castell",
+   "position": "S",
+   "school": "Kentucky",
+   "our_board_rank": 181,
+   "our_grade": 74.8,
+   "chance_available": [
+    {
+     "round": 1,
+     "pick": 22,
+     "percent": 99
+    },
+    {
+     "round": 2,
+     "pick": 54,
+     "percent": 98
     }
    ],
    "estimate": true,
@@ -890,13 +977,13 @@
    }
   },
   {
-   "id": "83c33dd0f044e9bd",
+   "id": "de21e89e500d56cf",
    "type": "draft_prospect",
    "need": "Wide receiver",
    "need_rank": 5,
-   "name": "Duce Robinson",
+   "name": "KJ Duff",
    "position": "WR",
-   "school": "Florida State",
+   "school": "Rutgers",
    "our_board_rank": 48,
    "our_grade": 82.1,
    "chance_available": [
@@ -909,6 +996,93 @@
      "round": 2,
      "pick": 54,
      "percent": 38
+    }
+   ],
+   "estimate": true,
+   "method_url": "https://blackandgolddispatch.com/#/drafthub",
+   "source": {
+    "name": "Black & Gold Dispatch board (CollegeFootballData.com stats)",
+    "url": "https://blackandgolddispatch.com/#/drafthub"
+   }
+  },
+  {
+   "id": "83c33dd0f044e9bd",
+   "type": "draft_prospect",
+   "need": "Wide receiver",
+   "need_rank": 5,
+   "name": "Duce Robinson",
+   "position": "WR",
+   "school": "Florida State",
+   "our_board_rank": 49,
+   "our_grade": 82.1,
+   "chance_available": [
+    {
+     "round": 1,
+     "pick": 22,
+     "percent": 93
+    },
+    {
+     "round": 2,
+     "pick": 54,
+     "percent": 40
+    }
+   ],
+   "estimate": true,
+   "method_url": "https://blackandgolddispatch.com/#/drafthub",
+   "source": {
+    "name": "Black & Gold Dispatch board (CollegeFootballData.com stats)",
+    "url": "https://blackandgolddispatch.com/#/drafthub"
+   }
+  },
+  {
+   "id": "5553697617e667a3",
+   "type": "draft_prospect",
+   "need": "Wide receiver",
+   "need_rank": 5,
+   "name": "Ryan Wingo",
+   "position": "WR",
+   "school": "Texas",
+   "our_board_rank": 71,
+   "our_grade": 79.1,
+   "chance_available": [
+    {
+     "round": 1,
+     "pick": 22,
+     "percent": 97
+    },
+    {
+     "round": 2,
+     "pick": 54,
+     "percent": 76
+    }
+   ],
+   "estimate": true,
+   "method_url": "https://blackandgolddispatch.com/#/drafthub",
+   "source": {
+    "name": "Black & Gold Dispatch board (CollegeFootballData.com stats)",
+    "url": "https://blackandgolddispatch.com/#/drafthub"
+   }
+  },
+  {
+   "id": "c8bf415f1d30180c",
+   "type": "draft_prospect",
+   "need": "Wide receiver",
+   "need_rank": 5,
+   "name": "Shazz Preston",
+   "position": "WR",
+   "school": "Indiana",
+   "our_board_rank": 73,
+   "our_grade": 78.8,
+   "chance_available": [
+    {
+     "round": 1,
+     "pick": 22,
+     "percent": 98
+    },
+    {
+     "round": 2,
+     "pick": 54,
+     "percent": 77
     }
    ],
    "estimate": true,
