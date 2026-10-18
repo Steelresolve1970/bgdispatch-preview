@@ -2,8 +2,8 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-18T14:41:20+00:00",
- "data_updated": "2026-10-18T14:41:13+00:00",
+ "generated": "2026-10-18T14:52:01+00:00",
+ "data_updated": "2026-10-18T14:51:53+00:00",
  "count": 157,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
@@ -29,6 +29,19 @@
    "summary": "Podcast episode from The Terrible Podcast (Steelers Depot).",
    "source": {
     "name": "The Terrible Podcast (Steelers Depot)",
+    "url": null
+   }
+  },
+  {
+   "id": "b0c507e8479ce08c",
+   "type": "video",
+   "title": "Stepping into Sunday 🔥",
+   "show": "Pittsburgh Steelers (official)",
+   "url": "https://www.youtube.com/shorts/vm2wFQePVZg",
+   "published": "2026-10-18T14:28:25+00:00",
+   "summary": "Video from Pittsburgh Steelers (official).",
+   "source": {
+    "name": "Pittsburgh Steelers (official)",
     "url": null
    }
   },
@@ -900,19 +913,6 @@
    "summary": "Steve Palazzolo and Sam Monson's weekly every-game preview show; it includes the Steelers vs. Buccaneers matchup. Steelers segment starts at 1:10:44.",
    "source": {
     "name": "Check the Mic with Steve Palazzolo & Sam Monson",
-    "url": null
-   }
-  },
-  {
-   "id": "c40e30102b52768f",
-   "type": "video",
-   "title": "YOUR WEEK 5 NVP",
-   "show": "Pittsburgh Steelers (official)",
-   "url": "https://www.youtube.com/shorts/_YjjLMxQlLE",
-   "published": "2026-10-15T15:42:47+00:00",
-   "summary": "Video from Pittsburgh Steelers (official).",
-   "source": {
-    "name": "Pittsburgh Steelers (official)",
     "url": null
    }
   },

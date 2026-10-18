@@ -1,9 +1,10 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-18T14:41:20+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T14:41:13+00:00._
+_Generated 2026-10-18T14:52:01+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T14:51:53+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [The Terrible Take - Episode 2054 - October 18, 2026](https://megaphone.link/SDP9521387232): The Terrible Podcast (Steelers Depot), 2026-10-18 14:34 UTC
+- Video: [Stepping into Sunday 🔥](https://www.youtube.com/shorts/vm2wFQePVZg): Pittsburgh Steelers (official), 2026-10-18 14:28 UTC
 - Podcast: [Steelers vs. Bucs Bold Predictions](https://bleav.com/shows/all-steelers-talk/episodes/steelers-vs-bucs-bold-predictions/): All Steelers Talk, 2026-10-18 12:35 UTC
 - Podcast: [Last Minute Thoughts: Black and Bold, Week 6 vs. Tampa Bay](http://steelcurtainnetwork.com): Steel Curtain Network (BTSC), 2026-10-18 08:00 UTC
 - Podcast: [DK's Live Shot of Steelers: Pregame vs. Buccaneers](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-live-shot-of-steelers-pregame-vs-buccaneers/): DK Pittsburgh Sports, 2026-10-18 01:37 UTC
@@ -71,7 +72,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Not many number 1 receivers would be willing to block like DK Metcalf is 🔥👏#dkmetcalf #steelers](https://www.youtube.com/shorts/Q-zad-ffG3c): Not Just Football with Cam Heyward, 2026-10-15 16:00 UTC
 - Podcast: [Hour 1: Deep Dive into Buccaneers](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-101526-mp3): Steelers Blitz, 2026-10-15 16:00 UTC
 - Podcast: [NFL Week 6 Preview & Picks: EVERY GAME!](https://podcasts.apple.com/us/podcast/nfl-week-6-preview-picks-every-game/id1761398472?i=1000796516134): Check the Mic with Steve Palazzolo & Sam Monson, 2026-10-15 16:00 UTC
-- Video: [YOUR WEEK 5 NVP](https://www.youtube.com/shorts/_YjjLMxQlLE): Pittsburgh Steelers (official), 2026-10-15 15:42 UTC
 - Video: [Steelers Night Shift: Week 6 at Tampa Bay Buccaneers](https://www.youtube.com/watch?v=STVZGpYXHk0): Steelers Now, 2026-10-15 15:23 UTC
 - Video: [Steelers Active at Trade Deadline? | Steelers Morning Rush](https://www.youtube.com/watch?v=JuBqj_3iyn8): Steelers Now, 2026-10-15 15:09 UTC
 - Podcast: [Hour 2: How to Lose a Game in Five Ways](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr2-101526-mp3): Steelers Blitz, 2026-10-15 15:00 UTC
