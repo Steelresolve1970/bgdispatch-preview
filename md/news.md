@@ -1,18 +1,19 @@
 # Steelers News
 
-_Generated 2026-10-18T14:52:01+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T14:51:25+00:00._
+_Generated 2026-10-18T15:02:26+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T15:02:07+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Steelers-Buccaneers: Week 6 live chat, updates and analysis with Christopher Carter](https://www.post-gazette.com/sports/steelers/2026/10/18/steelers-buccaneers-live-chat/stories/202610180071): Pittsburgh Post-Gazette, 2026-10-18 15:00 UTC
 - [Steelers Are Learning Patrick Graham's Familiar-Looking Defense Comes With A Hidden Catch](https://www.steelernation.com/2026/10/13/steelers-patrick-graham-hidden-catch): SteelerNation, 2026-10-18 14:50 UTC
 - [Steelers' New Defensive Strategy May Be Neutralizing Their Biggest Weapon](https://www.steelernation.com/2026/10/18/steelers-new-defensive-strategy): SteelerNation, 2026-10-18 14:50 UTC
 - [Despite Injury Scare, Steelers TE Pat Freiermuth Will Play vs. Tampa Bay](https://steelersnow.com/despite-injury-scare-steelers-te-pat-freiermuth-will-play-vs-tampa-bay/): Steelers Now, 2026-10-18 14:41 UTC
 - [[NFL GAME] Pittsburgh Steelers vs. Tampa Bay Buccaneers Free Live October 18, 2026](https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2x4Y2x4ZHMuZ2l0aHViLmlvL2JhbmthaS9sYXcueG1sIi8+PC9rcnBhbm8+&id=video-nfl-game-pittsburgh-steeler-uk): Universidad de Córdoba (UCO), 2026-10-18 14:39 UTC
-- [[LIVE NFL] Pittsburgh Steelers vs. Tampa Bay Buccaneers Game Live Free October 18, 2026](https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2x4Y2x4ZHMuZ2l0aHViLmlvL2JhbmthaS9sYXcueG1sIi8+PC9rcnBhbm8+&id=video-live-nfl-pittsburgh-steeler-uk): Universidad de Córdoba (UCO), 2026-10-18 14:39 UTC
+- [[NFL Broadcast] Pittsburgh Steelers vs. Tampa Bay Buccaneers Game Live](https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2x4Y2x4ZHMuZ2l0aHViLmlvL2JhbmthaS9sYXcueG1sIi8+PC9rcnBhbm8+&id=video-nfl-broadcast-pittsburgh-st-uk): Universidad de Córdoba (UCO), 2026-10-18 14:39 UTC
 - [Steelers vs. Buccaneers odds, predictions: Use Polymarket promo code CBSSPORTS for $25 bonus in NFL Week 6](https://www.cbssports.com/prediction/news/steelers-vs-buccaneers-odds-predictions-use-polymarket-promo-code-cbssports-for-25-bonus-in-nfl-week-6/): CBS Sports, 2026-10-18 14:39 UTC
 - [& NFL(STREAMING!!) Pittsburgh Steelers vs. Tampa Bay Buccaneers LIVE GAME](https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2x4Y2x4ZHMuZ2l0aHViLmlvL2JhbmthaS9sYXcueG1sIi8+PC9rcnBhbm8+&id=video-nfl-streaming-pittsburgh-st-uk): Universidad de Córdoba (UCO), 2026-10-18 14:37 UTC
 - [Listen: The Terrible Take (Episode 2,054)](https://steelersdepot.com/2026/10/listen-the-terrible-take-episode-2054/): Steelers Depot, 2026-10-18 14:35 UTC
+- [Steelers could lose draft pick as Joey Porter Jr. drama with Cowboys gets worse | See link below ⬇️ 📸 Barry Reeger, IMAGN IMAGES via Reuters Connect](https://www.facebook.com/SteelersWire/posts/steelers-could-lose-draft-pick-as-joey-porter-jr-drama-with-cowboys-gets-worse-s/1634449881680395/): Facebook, 2026-10-18 14:30 UTC
 - [(Live!) Tampa Bay Buccaneers vs. Pittsburgh Steelers Game Live](https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2VzdHJlYW1ub3cuY29tL3d6dS92eC54bWwiLz48L2tycGFubz4=&id=video-tampa-bay-buccaneers-vs-pittsburgh-steelers-jca5lzb7): Universidad de Córdoba (UCO), 2026-10-18 14:23 UTC
-- [Steelers could lose draft pick as Joey Porter Jr. drama with Cowboys gets worse](https://steelerswire.usatoday.com/story/sports/nfl/steelers/2026/10/18/steelers-joey-porter-jr-cowboys-nfl-news-update/92316878007/): Steelers Wire, 2026-10-18 14:05 UTC
 - [NFL spread, straight-up picks: Rams, Chiefs, Colts top Week 6 confidence rankings](https://www.nytimes.com/athletic/7689979/2026/10/18/nfl-spread-straight-up-picks-confidence-rankings-week-6/): The Athletic, 2026-10-18 14:00 UTC
 - [NFL: Preparations continue for Steelers-Saints in Paris](https://sports.yahoo.com/articles/nfl-preparations-continue-steelers-saints-135842424.html): Yahoo Sports, 2026-10-18 13:58 UTC
 - [Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets for Steelers-Buccaneers, Chiefs-Chargers, NFL Week 6](https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-steelers-buccaneers-chiefs-chargers-nfl-week-6/): CBS Sports, 2026-10-18 13:53 UTC
@@ -21,7 +22,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [2026 NFL Week 6 Picks & Predictions: Dave Bryan & Alex Kozora](https://steelersdepot.com/2026/10/2026-nfl-week-6-picks-predictions-dave-bryan-alex-kozora/): Steelers Depot, 2026-10-18 13:15 UTC
 - [BTSC Sunday games thread: NFL Week 6](https://www.behindthesteelcurtain.com/pittsburgh-steelers-discussion/176375/btsc-sunday-games-thread-nfl-week-6): Behind the Steel Curtain, 2026-10-18 13:00 UTC
 - [Steelers vs. Buccaneers odd, picks, predictions: Aaron Rodgers stays hot in Weeek 6](https://nypost.com/2026/10/18/betting/steelers-vs-buccaneers-odd-picks-predictions-nfl-week-6-best-bets/): New York Post, 2026-10-18 13:00 UTC
-- [3 Bold Prediction For Steelers in Week 6 at Buccaneers](https://athlonsports.com/nfl/pittsburgh-steelers/3-bold-prediction-for-steelers-in-week-6-at-buccaneers): Athlon Sports, 2026-10-18 13:00 UTC
 - [Steelers Vs Buccaneers Prediction](https://steelersdepot.com/2026/10/steelers-vs-buccaneers-prediction-2/): Steelers Depot, 2026-10-18 12:54 UTC
 - [Which Steelers to Start or Sit in Week 6 at Buccaneers](https://athlonsports.com/nfl/pittsburgh-steelers/which-steelers-to-start-or-sit-in-week-6-at-buccaneers): Athlon Sports, 2026-10-18 12:30 UTC
 - [Steelers Get Good News on Pat Freiermuth for Bucs Game](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-good-news-pat-freiermuth-bucs-game): All Steelers (Sports Illustrated), 2026-10-18 12:01 UTC

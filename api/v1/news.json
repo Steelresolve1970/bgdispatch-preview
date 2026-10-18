@@ -2,8 +2,8 @@
  "api_version": "1",
  "dataset": "news",
  "description": "Steelers headlines from beat writers, national outlets and blogs, with our one-line summaries and links to the publisher.",
- "generated": "2026-10-18T14:52:01+00:00",
- "data_updated": "2026-10-18T14:51:25+00:00",
+ "generated": "2026-10-18T15:02:26+00:00",
+ "data_updated": "2026-10-18T15:02:07+00:00",
  "count": 150,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
@@ -20,6 +20,19 @@
  "html": "https://blackandgolddispatch.com/#/",
  "items": [
   {
+   "id": "0b4de13fa422ca3d",
+   "type": "news",
+   "title": "Steelers-Buccaneers: Week 6 live chat, updates and analysis with Christopher Carter",
+   "summary": "News story from Pittsburgh Post-Gazette. Full report at the original publisher.",
+   "url": "https://www.post-gazette.com/sports/steelers/2026/10/18/steelers-buccaneers-live-chat/stories/202610180071",
+   "source": {
+    "name": "Pittsburgh Post-Gazette",
+    "url": null
+   },
+   "published": "2026-10-18T15:00:00+00:00",
+   "retrieved": "2026-10-18T15:02:07+00:00"
+  },
+  {
    "id": "7d0ea28761f3562c",
    "type": "news",
    "title": "Steelers Are Learning Patrick Graham's Familiar-Looking Defense Comes With A Hidden Catch",
@@ -30,7 +43,7 @@
     "url": null
    },
    "published": "2026-10-18T14:50:46+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "c906278a19e07d35",
@@ -43,7 +56,7 @@
     "url": null
    },
    "published": "2026-10-18T14:50:08+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "99618e331b773f9f",
@@ -56,7 +69,7 @@
     "url": null
    },
    "published": "2026-10-18T14:41:29+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "75507b13599e8695",
@@ -69,20 +82,20 @@
     "url": null
    },
    "published": "2026-10-18T14:39:28+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
-   "id": "7cefa7101f131128",
+   "id": "ec0bdad6a8645369",
    "type": "news",
-   "title": "[LIVE NFL] Pittsburgh Steelers vs. Tampa Bay Buccaneers Game Live Free October 18, 2026",
+   "title": "[NFL Broadcast] Pittsburgh Steelers vs. Tampa Bay Buccaneers Game Live",
    "summary": "Game story from Universidad de Córdoba (UCO). Full report at the original publisher.",
-   "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2x4Y2x4ZHMuZ2l0aHViLmlvL2JhbmthaS9sYXcueG1sIi8+PC9rcnBhbm8+&id=video-live-nfl-pittsburgh-steeler-uk",
+   "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2x4Y2x4ZHMuZ2l0aHViLmlvL2JhbmthaS9sYXcueG1sIi8+PC9rcnBhbm8+&id=video-nfl-broadcast-pittsburgh-st-uk",
    "source": {
     "name": "Universidad de Córdoba (UCO)",
     "url": null
    },
-   "published": "2026-10-18T14:39:25+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "published": "2026-10-18T14:39:27+00:00",
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "4eb3ff1f7ee1f40e",
@@ -95,7 +108,7 @@
     "url": null
    },
    "published": "2026-10-18T14:39:08+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "77e3e2d9ace380be",
@@ -108,7 +121,7 @@
     "url": null
    },
    "published": "2026-10-18T14:37:37+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "d7a5ebb99313e243",
@@ -121,7 +134,20 @@
     "url": null
    },
    "published": "2026-10-18T14:35:21+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
+  },
+  {
+   "id": "5d904d0b51bf8b21",
+   "type": "news",
+   "title": "Steelers could lose draft pick as Joey Porter Jr. drama with Cowboys gets worse | See link below ⬇️ 📸 Barry Reeger, IMAGN IMAGES via Reuters Connect",
+   "summary": "Draft story from Facebook. Full report at the original publisher.",
+   "url": "https://www.facebook.com/SteelersWire/posts/steelers-could-lose-draft-pick-as-joey-porter-jr-drama-with-cowboys-gets-worse-s/1634449881680395/",
+   "source": {
+    "name": "Facebook",
+    "url": null
+   },
+   "published": "2026-10-18T14:30:11+00:00",
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "e85ad374be834e12",
@@ -134,20 +160,7 @@
     "url": null
    },
    "published": "2026-10-18T14:23:44+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
-  },
-  {
-   "id": "3a026a186d34c3c7",
-   "type": "news",
-   "title": "Steelers could lose draft pick as Joey Porter Jr. drama with Cowboys gets worse",
-   "summary": "Draft story from Steelers Wire. Full report at the original publisher.",
-   "url": "https://steelerswire.usatoday.com/story/sports/nfl/steelers/2026/10/18/steelers-joey-porter-jr-cowboys-nfl-news-update/92316878007/",
-   "source": {
-    "name": "Steelers Wire",
-    "url": null
-   },
-   "published": "2026-10-18T14:05:00+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "884ee34350c315d6",
@@ -160,7 +173,7 @@
     "url": null
    },
    "published": "2026-10-18T14:00:06+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "cb25ef7d529d1954",
@@ -173,7 +186,7 @@
     "url": null
    },
    "published": "2026-10-18T13:58:42+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "075e0dff1a329f13",
@@ -186,7 +199,7 @@
     "url": null
    },
    "published": "2026-10-18T13:53:42+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "8fb641d085d86b3e",
@@ -199,7 +212,7 @@
     "url": null
    },
    "published": "2026-10-18T13:46:03+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "6be322f7a26c947e",
@@ -212,7 +225,7 @@
     "url": null
    },
    "published": "2026-10-18T13:41:16+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "4717af7fae007940",
@@ -225,7 +238,7 @@
     "url": null
    },
    "published": "2026-10-18T13:15:00+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "fd9dc70bc247bc6f",
@@ -238,7 +251,7 @@
     "url": null
    },
    "published": "2026-10-18T13:00:00+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "d20d7a67174d0179",
@@ -251,20 +264,7 @@
     "url": null
    },
    "published": "2026-10-18T13:00:00+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
-  },
-  {
-   "id": "0014b08b57ff8ecc",
-   "type": "news",
-   "title": "3 Bold Prediction For Steelers in Week 6 at Buccaneers",
-   "summary": "News story from Athlon Sports. Full report at the original publisher.",
-   "url": "https://athlonsports.com/nfl/pittsburgh-steelers/3-bold-prediction-for-steelers-in-week-6-at-buccaneers",
-   "source": {
-    "name": "Athlon Sports",
-    "url": null
-   },
-   "published": "2026-10-18T13:00:00+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "343add8a9b06270b",
@@ -277,7 +277,7 @@
     "url": null
    },
    "published": "2026-10-18T12:54:18+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "6fcf4bbb2ca144f4",
@@ -290,7 +290,7 @@
     "url": null
    },
    "published": "2026-10-18T12:30:00+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "e1f229f33e2ed03d",
@@ -303,7 +303,7 @@
     "url": null
    },
    "published": "2026-10-18T12:01:54+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "c69be6ab9b47538c",
@@ -316,7 +316,7 @@
     "url": null
    },
    "published": "2026-10-18T12:00:13+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "f3055d0fa87bfe42",
@@ -329,7 +329,7 @@
     "url": null
    },
    "published": "2026-10-18T12:00:11+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "6435d96ae37bb1df",
@@ -342,7 +342,7 @@
     "url": null
    },
    "published": "2026-10-18T12:00:00+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "a0e7e947dbea2113",
@@ -355,7 +355,7 @@
     "url": null
    },
    "published": "2026-10-18T12:00:00+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "23a600f99043b2bc",
@@ -368,7 +368,7 @@
     "url": null
    },
    "published": "2026-10-18T12:00:00+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "b64504e227b0b9e4",
@@ -381,7 +381,7 @@
     "url": null
    },
    "published": "2026-10-18T11:43:03+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "b2b642b677a6d8f6",
@@ -394,7 +394,7 @@
     "url": null
    },
    "published": "2026-10-18T11:28:56+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "4a9819753e4e86a7",
@@ -407,7 +407,7 @@
     "url": null
    },
    "published": "2026-10-18T11:20:42+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "3168b8bdcc6b3870",
@@ -420,7 +420,7 @@
     "url": null
    },
    "published": "2026-10-18T11:10:45+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "5d585b58afe0187b",
@@ -433,7 +433,7 @@
     "url": null
    },
    "published": "2026-10-18T11:00:56+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "29588fae0aaf98a1",
@@ -446,7 +446,7 @@
     "url": null
    },
    "published": "2026-10-18T11:00:35+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "d2984ac1cffdc0a0",
@@ -459,7 +459,7 @@
     "url": null
    },
    "published": "2026-10-18T11:00:12+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "f1afbe1ef4e9338e",
@@ -472,7 +472,7 @@
     "url": null
    },
    "published": "2026-10-18T11:00:00+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "d93a38d5a18fd798",
@@ -485,7 +485,7 @@
     "url": null
    },
    "published": "2026-10-18T11:00:00+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "301c050e801391fd",
@@ -498,7 +498,7 @@
     "url": null
    },
    "published": "2026-10-18T11:00:00+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "3f1717767889b42f",
@@ -511,7 +511,7 @@
     "url": null
    },
    "published": "2026-10-18T10:45:44+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "b2b94377665ffda1",
@@ -524,7 +524,7 @@
     "url": null
    },
    "published": "2026-10-18T10:15:46+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "39358d92af5d1b07",
@@ -537,7 +537,7 @@
     "url": null
    },
    "published": "2026-10-18T10:05:00+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "7a70d8baa3e750ca",
@@ -550,7 +550,7 @@
     "url": null
    },
    "published": "2026-10-18T10:01:25+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "1fb50a3c06d280fb",
@@ -563,7 +563,7 @@
     "url": null
    },
    "published": "2026-10-18T10:00:12+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "e0860916c72f6e13",
@@ -576,7 +576,7 @@
     "url": null
    },
    "published": "2026-10-18T10:00:11+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "3d1d77e2f4de2435",
@@ -589,7 +589,7 @@
     "url": null
    },
    "published": "2026-10-18T10:00:01+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "ab037c8d3c824f1b",
@@ -602,7 +602,7 @@
     "url": null
    },
    "published": "2026-10-18T10:00:00+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "58721cfa8952e55e",
@@ -615,7 +615,7 @@
     "url": null
    },
    "published": "2026-10-18T09:30:00+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "60adfda0468d9f76",
@@ -628,7 +628,7 @@
     "url": null
    },
    "published": "2026-10-18T09:00:16+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "1c38ff48aa5d21e1",
@@ -641,7 +641,7 @@
     "url": null
    },
    "published": "2026-10-18T08:00:00+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "d28b7238fdaf6f9b",
@@ -654,7 +654,7 @@
     "url": null
    },
    "published": "2026-10-18T06:04:01+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "c3ee6d26d212b171",
@@ -667,7 +667,7 @@
     "url": null
    },
    "published": "2026-10-18T06:00:02+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "10d63b3f4eefb970",
@@ -680,7 +680,7 @@
     "url": null
    },
    "published": "2026-10-18T03:55:08+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "38a9534b48d549ec",
@@ -693,7 +693,7 @@
     "url": null
    },
    "published": "2026-10-18T03:33:14+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "4abe846430c22910",
@@ -706,7 +706,7 @@
     "url": null
    },
    "published": "2026-10-18T02:24:41+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "a2a4aa965cde7803",
@@ -719,7 +719,7 @@
     "url": null
    },
    "published": "2026-10-18T02:23:18+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "cb97cc66890c25b1",
@@ -732,7 +732,7 @@
     "url": null
    },
    "published": "2026-10-18T02:00:40+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "d70f6422ea4b3494",
@@ -745,7 +745,7 @@
     "url": null
    },
    "published": "2026-10-18T01:42:47+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "5d2817907834fdf2",
@@ -758,7 +758,7 @@
     "url": null
    },
    "published": "2026-10-18T01:39:03+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "535145f81b3ef200",
@@ -771,7 +771,7 @@
     "url": null
    },
    "published": "2026-10-18T01:14:38+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "0b38fc1620d66bef",
@@ -784,7 +784,7 @@
     "url": null
    },
    "published": "2026-10-18T01:05:46+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "77537b3d190268a7",
@@ -797,7 +797,7 @@
     "url": null
    },
    "published": "2026-10-18T01:05:33+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "c8f46ecb674d3a10",
@@ -810,7 +810,7 @@
     "url": null
    },
    "published": "2026-10-18T01:04:53+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "d6bc86fb4cd4ccd5",
@@ -823,7 +823,7 @@
     "url": null
    },
    "published": "2026-10-18T01:00:45+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "7e778483cefc29e7",
@@ -836,7 +836,7 @@
     "url": null
    },
    "published": "2026-10-18T01:00:21+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "cb6b8fbf5d8b30e3",
@@ -849,7 +849,7 @@
     "url": null
    },
    "published": "2026-10-18T00:00:36+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "8eaabfe6340da4fc",
@@ -862,7 +862,7 @@
     "url": null
    },
    "published": "2026-10-17T23:50:33+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "8a947456ddd4073b",
@@ -875,7 +875,7 @@
     "url": null
    },
    "published": "2026-10-17T23:27:46+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "ab9cf12734958e7c",
@@ -888,7 +888,7 @@
     "url": null
    },
    "published": "2026-10-17T23:26:06+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "0930a05cc05e93b9",
@@ -901,7 +901,7 @@
     "url": null
    },
    "published": "2026-10-17T23:24:33+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "d24796213f49f56c",
@@ -914,7 +914,7 @@
     "url": null
    },
    "published": "2026-10-17T23:00:35+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "655264a6998c8275",
@@ -927,7 +927,7 @@
     "url": null
    },
    "published": "2026-10-17T22:30:22+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "2ad1c21027772237",
@@ -940,7 +940,7 @@
     "url": null
    },
    "published": "2026-10-17T22:15:30+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "7d266f43f557a274",
@@ -953,7 +953,7 @@
     "url": null
    },
    "published": "2026-10-17T21:48:12+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "0fc5fc51d2445b6a",
@@ -966,7 +966,7 @@
     "url": null
    },
    "published": "2026-10-17T21:40:49+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "1f653d26ef8a19aa",
@@ -979,7 +979,7 @@
     "url": null
    },
    "published": "2026-10-17T21:30:16+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "47c2bc706a67c1e9",
@@ -992,7 +992,7 @@
     "url": null
    },
    "published": "2026-10-17T21:30:00+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "320492399a21b326",
@@ -1005,7 +1005,7 @@
     "url": null
    },
    "published": "2026-10-17T21:15:25+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "36318a144a42446b",
@@ -1018,7 +1018,7 @@
     "url": null
    },
    "published": "2026-10-17T21:08:24+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "b47e6e21de789f87",
@@ -1031,7 +1031,7 @@
     "url": null
    },
    "published": "2026-10-17T20:45:04+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "8bbefcb0d8f18e6e",
@@ -1044,7 +1044,7 @@
     "url": null
    },
    "published": "2026-10-17T20:34:30+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "fa72019fbeeb78ef",
@@ -1057,7 +1057,7 @@
     "url": null
    },
    "published": "2026-10-17T20:27:52+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "11533bafad1df851",
@@ -1070,7 +1070,7 @@
     "url": null
    },
    "published": "2026-10-17T20:12:13+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "53637e985faa3c27",
@@ -1083,7 +1083,7 @@
     "url": null
    },
    "published": "2026-10-17T20:06:27+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "2f3cd0a726b5a86c",
@@ -1096,7 +1096,7 @@
     "url": null
    },
    "published": "2026-10-17T19:50:38+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "2fba6bb3ebc9ff97",
@@ -1109,7 +1109,7 @@
     "url": null
    },
    "published": "2026-10-17T19:48:25+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "d177e885baa8dee8",
@@ -1122,7 +1122,7 @@
     "url": null
    },
    "published": "2026-10-17T19:43:13+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "8080f23d9e81fe63",
@@ -1135,7 +1135,7 @@
     "url": null
    },
    "published": "2026-10-17T19:41:03+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "93afe6f84ba518a1",
@@ -1148,7 +1148,7 @@
     "url": null
    },
    "published": "2026-10-17T19:28:29+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "bc066e734ab466bc",
@@ -1161,7 +1161,7 @@
     "url": null
    },
    "published": "2026-10-17T19:23:00+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "a7e0082a138ae54b",
@@ -1174,7 +1174,7 @@
     "url": null
    },
    "published": "2026-10-17T19:15:23+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "aaecd724e5ecee39",
@@ -1187,7 +1187,7 @@
     "url": null
    },
    "published": "2026-10-17T19:02:08+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "28e8ba9cbe3e88e6",
@@ -1200,7 +1200,7 @@
     "url": null
    },
    "published": "2026-10-17T18:58:16+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "dd0d2fa7f8f8d8b5",
@@ -1213,7 +1213,7 @@
     "url": null
    },
    "published": "2026-10-17T18:01:55+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "b134dcffe5cf89b2",
@@ -1226,7 +1226,7 @@
     "url": null
    },
    "published": "2026-10-17T18:00:00+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "64606980879dc5b0",
@@ -1239,7 +1239,7 @@
     "url": null
    },
    "published": "2026-10-17T17:15:54+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "d1ed68dc25433bd1",
@@ -1252,7 +1252,7 @@
     "url": null
    },
    "published": "2026-10-17T17:15:35+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "cfd17af4066444f7",
@@ -1265,7 +1265,7 @@
     "url": null
    },
    "published": "2026-10-17T17:00:19+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "5725d5103d9251c3",
@@ -1278,7 +1278,7 @@
     "url": null
    },
    "published": "2026-10-17T16:35:52+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "1f6066a792005248",
@@ -1291,7 +1291,7 @@
     "url": null
    },
    "published": "2026-10-17T16:25:12+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "cadbf635fd282058",
@@ -1304,7 +1304,7 @@
     "url": null
    },
    "published": "2026-10-17T15:58:05+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "1616d4eec8bf9fae",
@@ -1317,7 +1317,7 @@
     "url": null
    },
    "published": "2026-10-17T15:30:00+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "9dc8e52730f28fb8",
@@ -1330,7 +1330,7 @@
     "url": null
    },
    "published": "2026-10-17T14:26:00+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "b416c2109325c5dd",
@@ -1343,7 +1343,7 @@
     "url": null
    },
    "published": "2026-10-17T14:00:02+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "060ea133efcf36d5",
@@ -1356,7 +1356,7 @@
     "url": null
    },
    "published": "2026-10-17T11:40:08+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "64144a7f3d185698",
@@ -1369,7 +1369,7 @@
     "url": null
    },
    "published": "2026-10-17T11:03:04+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "9d851575bb9b50a3",
@@ -1382,7 +1382,7 @@
     "url": null
    },
    "published": "2026-10-17T11:00:01+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "bb4d9ee9cf1a0905",
@@ -1395,7 +1395,7 @@
     "url": null
    },
    "published": "2026-10-17T10:00:00+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "54066e48bd6cd33e",
@@ -1408,7 +1408,7 @@
     "url": null
    },
    "published": "2026-10-17T08:00:00+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "e64fdc6231eef4a3",
@@ -1421,7 +1421,7 @@
     "url": null
    },
    "published": "2026-10-17T00:06:41+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "d59e187e8a490ce4",
@@ -1434,7 +1434,7 @@
     "url": null
    },
    "published": "2026-10-16T23:43:06+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "fde783a1f51cca43",
@@ -1447,7 +1447,7 @@
     "url": null
    },
    "published": "2026-10-16T22:52:49+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "020459c9ca0883de",
@@ -1460,7 +1460,7 @@
     "url": null
    },
    "published": "2026-10-16T22:30:00+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "6edd4a278b156302",
@@ -1473,7 +1473,7 @@
     "url": null
    },
    "published": "2026-10-16T21:43:35+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "eb8e4d2949362592",
@@ -1486,7 +1486,7 @@
     "url": null
    },
    "published": "2026-10-16T21:06:15+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "bc2e347d1d67a132",
@@ -1499,7 +1499,7 @@
     "url": null
    },
    "published": "2026-10-16T20:00:00+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "e41ffd968e690c15",
@@ -1512,7 +1512,7 @@
     "url": null
    },
    "published": "2026-10-16T20:00:00+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "812506bc06d6d7dd",
@@ -1525,7 +1525,7 @@
     "url": null
    },
    "published": "2026-10-16T19:36:27+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "24dfb0ae8b843f5c",
@@ -1538,7 +1538,7 @@
     "url": null
    },
    "published": "2026-10-16T19:33:19+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "1e070225113ccbd9",
@@ -1551,7 +1551,7 @@
     "url": null
    },
    "published": "2026-10-16T19:11:23+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "df0a1a3e64792b92",
@@ -1564,7 +1564,7 @@
     "url": null
    },
    "published": "2026-10-16T18:30:02+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "7e424af3bde8bb51",
@@ -1577,7 +1577,7 @@
     "url": null
    },
    "published": "2026-10-16T18:00:00+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "22c64d1ae375b6aa",
@@ -1590,7 +1590,7 @@
     "url": null
    },
    "published": "2026-10-16T17:59:22+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "0ab2604273aca1e1",
@@ -1603,7 +1603,7 @@
     "url": null
    },
    "published": "2026-10-16T16:44:00+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "a059a265028e2029",
@@ -1616,7 +1616,7 @@
     "url": null
    },
    "published": "2026-10-16T16:01:12+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "c7cb76be7a3ca885",
@@ -1629,7 +1629,7 @@
     "url": null
    },
    "published": "2026-10-16T14:02:04+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "cf9b9da0ffd2d4f8",
@@ -1642,7 +1642,7 @@
     "url": null
    },
    "published": "2026-10-16T14:00:02+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "872356a766ea1427",
@@ -1655,7 +1655,7 @@
     "url": null
    },
    "published": "2026-10-16T12:04:42+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "c46605b46d2904eb",
@@ -1668,7 +1668,7 @@
     "url": null
    },
    "published": "2026-10-16T12:00:01+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "c73415faabac4673",
@@ -1681,7 +1681,7 @@
     "url": null
    },
    "published": "2026-10-16T10:44:48+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "70a5ccd6505db459",
@@ -1694,7 +1694,7 @@
     "url": null
    },
    "published": "2026-10-16T10:31:00+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "273fc14c617a6cf5",
@@ -1707,7 +1707,7 @@
     "url": null
    },
    "published": "2026-10-16T10:15:04+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "5c95ba1b83fa94c4",
@@ -1720,7 +1720,7 @@
     "url": null
    },
    "published": "2026-10-16T10:01:00+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "570a8bcd5357dc4d",
@@ -1733,7 +1733,7 @@
     "url": null
    },
    "published": "2026-10-16T10:00:00+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "41c2451e1abc3370",
@@ -1746,7 +1746,7 @@
     "url": null
    },
    "published": "2026-10-16T06:42:24+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "c6c03c6b01457d3f",
@@ -1759,7 +1759,7 @@
     "url": null
    },
    "published": "2026-10-16T04:00:00+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "994527a7337aaabe",
@@ -1772,7 +1772,7 @@
     "url": null
    },
    "published": "2026-10-16T01:16:44+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "d4103c1a6c3d88db",
@@ -1785,7 +1785,7 @@
     "url": null
    },
    "published": "2026-10-15T21:37:48+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "0afd05ab1c8a78b9",
@@ -1798,7 +1798,7 @@
     "url": null
    },
    "published": "2026-10-15T21:35:22+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "1ea01f2881d5be94",
@@ -1811,7 +1811,7 @@
     "url": null
    },
    "published": "2026-10-15T21:00:15+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "08c2c57fb19930b1",
@@ -1824,7 +1824,7 @@
     "url": null
    },
    "published": "2026-10-15T21:00:00+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "e9a48d63d69fa891",
@@ -1837,7 +1837,7 @@
     "url": null
    },
    "published": "2026-10-15T20:27:43+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "9001d0ac2129d581",
@@ -1850,7 +1850,7 @@
     "url": null
    },
    "published": "2026-10-15T20:22:01+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "f6c2eae71e43e28b",
@@ -1863,7 +1863,7 @@
     "url": null
    },
    "published": "2026-10-15T17:45:39+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "7856e9bc83d4ff03",
@@ -1876,7 +1876,7 @@
     "url": null
    },
    "published": "2026-10-15T17:00:26+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "e6bee6916d898896",
@@ -1889,7 +1889,7 @@
     "url": null
    },
    "published": "2026-10-15T16:14:05+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "2e483e86cb94a9c4",
@@ -1902,7 +1902,7 @@
     "url": null
    },
    "published": "2026-10-15T16:00:03+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "4ec0f6ebe9af1915",
@@ -1915,7 +1915,7 @@
     "url": null
    },
    "published": "2026-10-15T16:00:00+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "dacd1f1d3fad26fb",
@@ -1928,7 +1928,7 @@
     "url": null
    },
    "published": "2026-10-15T15:59:43+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "7bac26a04f8530dc",
@@ -1941,7 +1941,7 @@
     "url": null
    },
    "published": "2026-10-15T14:00:24+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "6256b5bebe47cd57",
@@ -1954,7 +1954,7 @@
     "url": null
    },
    "published": "2026-10-15T14:00:03+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   },
   {
    "id": "c5f874f1d161550d",
@@ -1967,7 +1967,7 @@
     "url": null
    },
    "published": "2026-10-15T14:00:02+00:00",
-   "retrieved": "2026-10-18T14:51:25+00:00"
+   "retrieved": "2026-10-18T15:02:07+00:00"
   }
  ]
 }
