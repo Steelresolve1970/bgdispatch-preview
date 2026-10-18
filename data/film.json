@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T02:35:32.650331+00:00",
+ "generated": "2026-10-18T02:46:04.382115+00:00",
  "game": {
   "label": "vs Indianapolis Colts (Oct 11)",
   "opponent": "Indianapolis Colts",
@@ -95,17 +95,17 @@
    "creator": "Alex & the NFL",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsGr04a3SDjhPhsAe4xj4YQ",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
    "creator": "Steelers Almighty",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgIrOw8M4dNVs-WcMSaZUxA",
-   "status": "ok",
-   "feed_items": 15,
-   "in_window": 3
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
+   "in_window": 0
   },
   {
    "creator": "Steelers Now (Derrick Bell)",
@@ -127,8 +127,8 @@
    "creator": "Still Curtain",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxjSNPLcRAVzDKOjhRwo-hQ",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
@@ -151,8 +151,8 @@
    "creator": "Arthur Moats Experience",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFPpVnzIt33ZPQglYd7MOqQ",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
@@ -167,9 +167,9 @@
    "creator": "Steelers Depot (YouTube)",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFqbkq2BzNY3iQ_FPveqVhw",
-   "status": "ok",
-   "feed_items": 15,
-   "in_window": 1
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
+   "in_window": 0
   },
   {
    "creator": "Pittsburgh Steelers (official)",
@@ -191,24 +191,24 @@
    "creator": "Brett Kollmann",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYzfVBuCfGz-oF3aOCGgO5g",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
    "creator": "The QB School (JT O'Sullivan)",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGfxHp2yuimtLsFaq1r7aIQ",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
    "creator": "All_22_Films",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7Dbn36zT6XjfBh9YDLmGIg",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   }
  ],
@@ -222,36 +222,22 @@
    "game": "vs Indianapolis Colts (Oct 11)"
   },
   {
-   "title": "Overall Grade vs Colts",
-   "creator": "Steelers Almighty",
-   "link": "https://www.youtube.com/watch?v=omOtoxTK19E",
-   "published": "2026-10-16T15:10:18+00:00",
-   "summary": "Film breakdown by Steelers Almighty of vs Indianapolis Colts (Oct 11).",
-   "game": "vs Indianapolis Colts (Oct 11)"
-  },
-  {
-   "title": "ST Grades vs Colts",
-   "creator": "Steelers Almighty",
-   "link": "https://www.youtube.com/watch?v=lQHr4XkRi0g",
-   "published": "2026-10-16T13:06:45+00:00",
-   "summary": "Film breakdown by Steelers Almighty of vs Indianapolis Colts (Oct 11).",
-   "game": "vs Indianapolis Colts (Oct 11)"
-  },
-  {
    "title": "Defense Grades vs Colts",
    "creator": "Steelers Almighty",
    "link": "https://www.youtube.com/shorts/7d5k7Mntry4",
    "published": "2026-10-16T11:07:30+00:00",
-   "summary": "Film breakdown by Steelers Almighty of vs Indianapolis Colts (Oct 11).",
-   "game": "vs Indianapolis Colts (Oct 11)"
+   "gid": "2026_05_IND_PIT",
+   "source": "rss",
+   "summary": "Film breakdown by Steelers Almighty of Week 5 vs Colts (W 34-22)."
   },
   {
    "title": "The Terrible Podcast \u2014 Steelers Vs. Colts All-22 Review, McCarthy Monday Recap, Week 6 WR Issues",
    "creator": "Steelers Depot (YouTube)",
    "link": "https://www.youtube.com/watch?v=t6YSD1i_je0",
    "published": "2026-10-14T16:33:58+00:00",
-   "summary": "Film breakdown by Steelers Depot (YouTube) of vs Indianapolis Colts (Oct 11).",
-   "game": "vs Indianapolis Colts (Oct 11)"
+   "gid": "2026_05_IND_PIT",
+   "source": "rss",
+   "summary": "Film breakdown by Steelers Depot (YouTube) of Week 5 vs Colts (W 34-22)."
   },
   {
    "title": "Film Room: Germie Bernard is EXACTLY What the Steelers Need!",
@@ -626,5 +612,5 @@
    ]
   }
  ],
- "count": 12
+ "count": 10
 }
