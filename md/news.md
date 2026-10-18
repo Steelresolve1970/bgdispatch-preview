@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-17T23:52:57+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-17T23:52:48+00:00._
+_Generated 2026-10-17T23:57:37+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-17T23:57:28+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Report: Former Steeler Cordarrelle Patterson Arrested Saturday](https://steelersdepot.com/2026/10/report-former-steeler-cordarrelle-patterson-arrested-saturday/): Steelers Depot, 2026-10-17 23:50 UTC

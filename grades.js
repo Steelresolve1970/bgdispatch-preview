@@ -5,10 +5,10 @@ const GROUPS={QB:'Quarterbacks',RB:'Running Backs',WR:'Wide Receivers',TE:'Tight
 const gj=u=>fetch(u,{cache:'no-store'}).then(r=>{if(!r.ok)throw r.status;return r.json()});
 const fmtD=(iso,o)=>new Date(iso).toLocaleString('en-US',{timeZone:'America/New_York',...o});
 
-// Color scale: RED = cold/worst -> orange -> yellow-green -> GREEN = hot/best, smooth interpolation on grade 3..9
-const STOPS=[[3,[183,28,28]],[4.5,[226,92,38]],[6,[232,178,52]],[7.5,[124,179,66]],[9,[27,135,62]]];
+// Color scale: BLUE = cold/worst -> light gray (neutral) -> orange -> RED = hot/best, smooth interpolation on grade 3..9
+const STOPS=[[3,[21,67,156]],[4.5,[90,150,210]],[6,[236,236,232]],[7.5,[230,110,60]],[9,[178,24,43]]];
 function heat(v){v=Math.max(3,Math.min(9,v));for(let i=1;i<STOPS.length;i++){const[a,ca]=STOPS[i-1],[b,cb]=STOPS[i];
- if(v<=b){const t=(v-a)/(b-a);return`rgb(${ca.map((c,j)=>Math.round(c+(cb[j]-c)*t)).join(',')})`;}}return'rgb(27,135,62)';}
+ if(v<=b){const t=(v-a)/(b-a);return`rgb(${ca.map((c,j)=>Math.round(c+(cb[j]-c)*t)).join(',')})`;}}return'rgb(178,24,43)';}
 // WCAG: pick black or white text, whichever has the higher contrast on the tile color
 function lum(rgb){const c=rgb.match(/\d+/g).map(x=>{x/=255;return x<=0.03928?x/12.92:Math.pow((x+0.055)/1.055,2.4)});return 0.2126*c[0]+0.7152*c[1]+0.0722*c[2];}
 const cold=v=>{if(v==null)return false;const L=lum(heat(v));return (1.05/(L+0.05))>((L+0.05)/0.05);};
@@ -17,7 +17,7 @@ const tval=p=>p.source==='fan'?Math.sqrt(p.votes):p.source==='awaiting'?1.6:Math
 // Tile label: full name if it fits, else last name (skip Jr./III), else initial + short last name
 const SUF=/^(jr\.?|sr\.?|ii|iii|iv|v)$/i;
 function lbl(n,w){const ch=Math.max(3,Math.floor((w-8)/6.6));if(n.length<=ch)return n;const p=n.split(' ').filter(x=>!SUF.test(x));let l=p[p.length-1]||n;if(l.length<=ch)return l;return l.slice(0,Math.max(3,ch-1))+'.';}
-const GSRC={editor:'Editor grade',fan:'Fan grade',stats:'Stats grade',mixed:'Stats + fan',awaiting:'Awaiting fan votes'}; // white text on the darkest reds and greens
+const GSRC={editor:'Editor grade',fan:'Fan grade',stats:'Stats grade',mixed:'Stats + fan',awaiting:'Awaiting fan votes'}; // white text on the darkest blues and reds
 
 // ---------- Ballot ----------
 function renderBallot(){const el=document.getElementById('grades-body');const b=G.ballot;if(!el||!b)return;
@@ -29,7 +29,7 @@ function renderBallot(){const el=document.getElementById('grades-body');const b=
   <p class="fine light">Players from nflverse weekly stats (CC-BY 4.0); offensive line from the active roster (linemen don't appear in box-score stats).</p></div>
   ${b.groups.filter(g=>by[g]).map(g=>`<section class="pos-group"><h3>${GROUPS[g]}</h3>${by[g].map(p=>{const v=G.picks[p.name];
    return`<div class="gplayer"><div class="gp-top"><span><b>${GE(p.name)}</b> <small>${GE(p.pos)}</small></span><span class="gp-val ${v?'':'unset'}">${v?v+'/10':'Not rated'}</span></div>
-   <div class="scale" role="radiogroup" aria-label="Grade ${GE(p.name)}">${[1,2,3,4,5,6,7,8,9,10].map(i=>`<button type="button" role="radio" aria-checked="${v===i}" class="${v===i?'on':''}" data-p="${GE(p.name)}" data-v="${i}" style="${v===i?`background:${heat(2.4+i*0.66)}`:''}">${i}</button>`).join('')}</div></div>`}).join('')}</section>`).join('')}
+   <div class="scale" role="radiogroup" aria-label="Grade ${GE(p.name)}">${[1,2,3,4,5,6,7,8,9,10].map(i=>`<button type="button" role="radio" aria-checked="${v===i}" class="${v===i?'on':''}" data-p="${GE(p.name)}" data-v="${i}" style="${v===i?`background:${heat(2.4+i*0.66)};color:${cold(2.4+i*0.66)?'#fff':'#111'}`:''}">${i}</button>`).join('')}</div></div>`}).join('')}</section>`).join('')}
   <div class="submit-bar"><span><b>${n}/${b.players.length}</b> rated<br><small>Sign in to vote · mockup, ballots aren't saved yet</small></span><button class="btn" type="button" disabled title="Voting not live yet">Submit ballot</button></div>`;}
 document.addEventListener('click',e=>{const t=e.target.closest('.scale button');if(t){G.picks[t.dataset.p]=+t.dataset.v;const y=scrollY;renderBallot();scrollTo(0,y);}
  const tl=e.target.closest('.tile');if(tl){G.sel=tl.dataset.name;renderHeat();document.getElementById('hm-detail')?.scrollIntoView({block:'nearest'});}
@@ -74,7 +74,7 @@ function renderHeat(){const el=document.getElementById('heat-body');if(!el||!G.w
   <div class="hm-bar"><div class="toggle"><button data-mode="week" class="${G.mode==='week'?'on':''}">This week</button><button data-mode="season" class="${G.mode==='season'?'on':''}">Season (YTD)</button></div>
    <span class="legend">Cold <i style="background:linear-gradient(90deg,${heat(3)},${heat(5)},${heat(7)},${heat(9)})"></i> Hot</span></div>
   <div class="toggle hm-view" role="group" aria-label="View"><button data-hv="map" class="${G.view!=='table'?'on':''}" aria-pressed="${G.view!=='table'}">Heat map</button><button data-hv="table" class="${G.view==='table'?'on':''}" aria-pressed="${G.view==='table'}">Text table</button></div>
-  ${G.view==='table'?`<div class="hm-table-wrap"><table class="hm-table"><caption>${G.mode==='season'?'Season-to-date grades':'Week '+wk.week+' grades'}: same data as the heat map, without color. Higher grade = hotter (green); lower = colder (red).</caption>
+  ${G.view==='table'?`<div class="hm-table-wrap"><table class="hm-table"><caption>${G.mode==='season'?'Season-to-date grades':'Week '+wk.week+' grades'}: same data as the heat map, without color. Higher grade = hotter (red); lower = colder (blue).</caption>
    <thead><tr><th scope="col">Player</th><th scope="col">Pos</th><th scope="col">Unit</th><th scope="col">Grade</th><th scope="col">Rating</th><th scope="col">Source</th>${G.mode==='season'?'<th scope="col">Trend</th>':'<th scope="col">Fan votes</th>'}</tr></thead>
    <tbody>${[...rows].sort((a,b)=>(b.avg??-1)-(a.avg??-1)).map(p=>`<tr><th scope="row">${GE(p.name)}</th><td>${GE(p.pos)}</td><td>${GE(p.group||'')}</td><td>${p.avg==null?'—':p.avg.toFixed(1)}</td><td>${word(p.avg)}</td><td>${GE(GSRC[p.source]||p.source||'')}</td>${G.mode==='season'?`<td>${p.trend==null?'—':(p.trend>0?'Up ':p.trend<0?'Down ':'Flat ')+Math.abs(p.trend).toFixed(1)}</td>`:`<td>${p.votes??0}</td>`}</tr>`).join('')}</tbody></table></div>`
    :`<div class="treemap" style="height:${H}px" role="img" aria-label="Heat map of player grades. Use the Text table button for the same data as a table.">${html}</div>${det}`}

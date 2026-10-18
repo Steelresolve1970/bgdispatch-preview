@@ -102,7 +102,7 @@ a.hl{text-decoration:none;color:inherit}a.hl:hover{text-decoration:underline}
 .tile{position:absolute;border:1px solid rgba(0,0,0,.55);padding:4px 6px;overflow:hidden;color:#111;cursor:pointer;display:flex;flex-direction:column;justify-content:center;text-align:center;line-height:1.1}
 .tile:hover,.tile:focus{outline:2px solid #fff;z-index:2}.tile b{font-size:12px}.tile .g{font-size:18px;font-weight:900}.tile small{font-size:10px;opacity:.8}
 .tile.cold{color:#fff}.tile{padding:2px 3px}.tile b{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:100%}.tile.tiny small{display:none}.tile.tiny b{font-size:11px}.tile.tiny .g{font-size:13px}.tile.micro b{font-size:9.5px}.tile.micro .g{font-size:11px}.tile.micro .g span{display:none}
-.arrow-up{color:#0b6b2e}.arrow-dn{color:#7a0f0f}.tile.cold .arrow-up{color:#b6ffcc}.tile.cold .arrow-dn{color:#ffd0d0}
+.arrow-up{color:#0b6b2e}.arrow-dn{color:#7a0f0f}.tile.cold .arrow-up{color:#e8f0ff}.tile.cold .arrow-dn{color:#ffe8e0}
 .hm-detail{background:#fff;border-radius:8px;padding:14px;margin-top:12px;box-shadow:0 1px 3px #0001;border-left:5px solid var(--gold)}
 .hm-detail h3{margin:0 0 6px}.spark{display:flex;gap:4px;align-items:flex-end;height:60px;margin-top:8px}.spark span{flex:1;border-radius:3px 3px 0 0;position:relative}.spark em{position:absolute;bottom:-16px;left:0;right:0;font-size:10px;text-align:center;font-style:normal;color:#666}
 .hidden-list{font-size:12px;color:#595959;margin-top:8px}
@@ -140,7 +140,7 @@ nav a{white-space:nowrap}
 .cl-news{list-style:none;padding:0;margin:10px 0 0}.cl-news li{padding:8px 0;border-top:1px solid #eee}.cl-news p{margin:4px 0}.cl-news small{color:#5e5e5e}
 .cl-news a{color:#7a5600;font-weight:700;text-decoration:none;font-size:14px}
 @media(min-width:900px){.cl-list{grid-template-columns:1fr 1fr}}
-.tile.cold .arrow-up{color:#d6ffd9}.tile.cold .arrow-dn{color:#ffe0e0}
+.tile.cold .arrow-up{color:#e8f0ff}.tile.cold .arrow-dn{color:#ffe8e0}
 /* needs panel */
 .needs-panel{border-top:4px solid var(--gold)}.needs-list{list-style:none;padding:0;margin:8px 0}.needs-list>li{padding:10px 0;border-bottom:1px solid #eee}
 .nl-top{display:flex;align-items:center;gap:8px;flex-wrap:wrap}.nl-rank{background:var(--black);color:var(--gold);font-weight:900;border-radius:50%;width:26px;height:26px;display:grid;place-items:center;font-size:13px;flex:none}
