@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-18T17:24:22+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T17:23:53+00:00._
+_Generated 2026-10-18T17:35:20+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T17:35:11+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Video: [TURN US UP FIVE 🗣️ 📺:CBS](https://www.youtube.com/shorts/Sm_S5DAD-sY): Pittsburgh Steelers (official), 2026-10-18 17:17 UTC
 - Video: [Heatin 🆙 📺: CBS](https://www.youtube.com/shorts/fys6Phve0QE): Pittsburgh Steelers (official), 2026-10-18 16:44 UTC
 - Podcast: [The Terrible Take - Episode 2054 - October 18, 2026](https://megaphone.link/SDP9521387232): The Terrible Podcast (Steelers Depot), 2026-10-18 14:34 UTC
 - Video: [Stepping into Sunday 🔥](https://www.youtube.com/shorts/vm2wFQePVZg): Pittsburgh Steelers (official), 2026-10-18 14:28 UTC
@@ -58,7 +59,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [High praise for Germ 🙌](https://www.youtube.com/shorts/_8SxiwCquxM): Pittsburgh Steelers (official), 2026-10-15 23:07 UTC
 - Podcast: [DK's Double Shot of Penguins: Power-play change?](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-double-shot-of-penguins-power-play-change/): DK Pittsburgh Sports, 2026-10-15 22:49 UTC
 - Video: [Coach Mike McCarthy Press Conference (October 15) | Pittsburgh Steelers](https://www.youtube.com/watch?v=JC3WUrpsNxk): Pittsburgh Steelers (official), 2026-10-15 22:45 UTC
-- Video: [Deep Diving Into Matt's Week 6 Stats Packet | SNR Drive (Oct.15) | Pittsburgh Steelers](https://www.youtube.com/watch?v=bRHJbhjYG7M): Pittsburgh Steelers (official), 2026-10-15 22:15 UTC
 - Podcast: [DK’s Double Shot of Steelers: Take Tampa seriously?](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-double-shot-of-steelers-take-tampa-seriously/): DK Pittsburgh Sports, 2026-10-15 22:06 UTC
 - Video: [Worried About Rookie Roles? | Steelers Afternoon Drive](https://www.youtube.com/watch?v=w-ONagX63lc): Steelers Now, 2026-10-15 21:56 UTC
 - Video: [Steelers' Mike McCarthy Must Solve WR Separation Issue w/DK Metcalf, Germie Bernard vs Buccaneers](https://www.youtube.com/shorts/FJtbyDhy-5k): Locked On Steelers, 2026-10-15 21:53 UTC
