@@ -1,6 +1,6 @@
 # Steelers Depth Chart
 
-_Generated 2026-10-18T05:44:36+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T05:44:32+00:00._
+_Generated 2026-10-18T12:06:11+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T12:05:59+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/depth-chart.json_
 
 ### Offense (3WR 1TE)
@@ -8,12 +8,12 @@ _JSON: https://blackandgolddispatch.com/api/v1/depth-chart.json_
 | Pos | Starter | 2nd | 3rd | Others |
 |---|---|---|---|---|
 | QB | Aaron Rodgers | Mason Rudolph | Will Howard | Drew Allar |
-| RB | Jaylen Warren | Rico Dowdle (Questionable) | Travis Homer | Eli Heidenreich |
+| RB | Jaylen Warren | Rico Dowdle (Questionable) | Travis Homer | Eli Heidenreich, Lew Nichols |
 | FB | Riley Nowakowski |  |  |  |
-| WR | DK Metcalf (Questionable) | Ben Skowronek (Out) | Cole Burgess (Injured Reserve) |  |
-| WR | Roman Wilson (Out) | Kaden Wetjen |  |  |
-| WR | Germie Bernard | Michael Pittman Jr. |  |  |
-| TE | Darnell Washington | Pat Freiermuth | Robert Tonyan |  |
+| WR | DK Metcalf | Kaden Wetjen | Michael Pittman Jr. |  |
+| WR | Germie Bernard | Brandon Smith | Roman Wilson (Out) |  |
+| WR | Ben Skowronek (Out) | Brandon Johnson | Cole Burgess (Injured Reserve) |  |
+| TE | Darnell Washington | Pat Freiermuth (Questionable) | Robert Tonyan |  |
 | LT | Troy Fautanu | Dylan Cook | Jack Driscoll (Injured Reserve) |  |
 | LG | Mason McCormick | Brock Hoffman | Gennings Dunker (Injured Reserve) |  |
 | C | Zach Frazier | Ryan McCollum |  |  |
@@ -44,8 +44,8 @@ _JSON: https://blackandgolddispatch.com/api/v1/depth-chart.json_
 | PK | Chris Boswell |  |  |  |
 | P | Cameron Johnston |  |  |  |
 | H | Cameron Johnston |  |  |  |
-| PR | Kaden Wetjen | Roman Wilson (Out) | Rico Dowdle (Questionable) | Donte Kent |
-| KR | Kaden Wetjen | Eli Heidenreich | Roman Wilson (Out) | Rico Dowdle, Donte Kent |
+| PR | Kaden Wetjen | Roman Wilson (Out) | Donte Kent (Physically Unable to Perform) |  |
+| KR | Kaden Wetjen | Eli Heidenreich | Donte Kent (Physically Unable to Perform) |  |
 | LS | Christian Kuntz |  |  |  |
 
 ---

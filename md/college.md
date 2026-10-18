@@ -1,17 +1,17 @@
 # College Prospects at Steelers Needs
 
-_Generated 2026-10-18T05:44:36+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T01:39:54+00:00._
+_Generated 2026-10-18T12:06:11+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T12:05:58+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/college.json_
 
 ### Quarterback
-- **Darian Mensah** (QB, Miami, our board #1): No stats logged last week (bye or didn't play). In his most recent game (2026-10-03), Darian threw for 227 yards and 1 TD without a pick in a win at Clemson. Through 5 games he's at 1,438 yards, 15 TD and 0 INT (84.2% completions). (stats: CollegeFootballData.com)
-- **Drew Mestemaker** (QB, Oklahoma State, our board #4): Drew threw for 304 yards and 2 TD without a pick in a win vs. UCF. Through 5 games he's at 1,575 yards, 13 TD and 5 INT (67.5% completions). (stats: CollegeFootballData.com)
+- **Darian Mensah** (QB, Miami, our board #1): Darian threw for 326 yards and 3 TD with 1 pick in a win vs. Florida State. Through 6 games he's at 1,764 yards, 18 TD and 1 INT (80.8% completions). (stats: CollegeFootballData.com)
+- **Drew Mestemaker** (QB, Oklahoma State, our board #4): Drew threw for 365 yards and 3 TD with 1 pick in a loss at Houston. Through 6 games he's at 1,940 yards, 16 TD and 6 INT (67.0% completions). (stats: CollegeFootballData.com)
 - **Arch Manning** (QB, Texas, our board #7): Arch threw for 173 yards and 1 TD without a pick in a loss vs. Florida. Through 6 games he's at 1,298 yards, 11 TD and 5 INT (64.1% completions). (stats: CollegeFootballData.com)
 - **Dante Moore** (QB, Oregon, our board #10): No stats logged last week (bye or didn't play). In his most recent game (2026-09-26), Dante threw for 77 yards, no TD, without a pick in a win at USC. Through 4 games he's at 926 yards, 9 TD and 0 INT (69.7% completions). (stats: CollegeFootballData.com)
 
 ### Cornerback
-- **Leonard Moore** (CB, Notre Dame, our board #8): No stats logged last week (bye or didn't play). In his most recent game (2026-10-03), Leonard made 1 tackle with 2 pass breakups in a win at North Carolina. Season: 8 tackles, 4 PD in 4 games. (stats: CollegeFootballData.com)
-- **Ellis Robinson IV** (CB, Georgia, our board #12): Ellis made 4 tackles in a win at Alabama. Season: 13 tackles, 1 INT, 3 PD in 5 games. (stats: CollegeFootballData.com)
+- **Leonard Moore** (CB, Notre Dame, our board #8): Leonard made 5 tackles with 1 pass breakup in a loss at BYU. Season: 13 tackles, 5 PD in 5 games. (stats: CollegeFootballData.com)
+- **Ellis Robinson IV** (CB, Georgia, our board #12): Ellis made 0 tackles with 1 pass breakup in a loss vs. Auburn. Season: 13 tackles, 1 INT, 4 PD in 6 games. (stats: CollegeFootballData.com)
 - **Kelley Jones** (CB, Mississippi State, our board #23): Kelley made 4 tackles in a loss at LSU. Season: 21 tackles, 6 PD in 6 games. (stats: CollegeFootballData.com)
 - **Ashton Hampton** (CB, Clemson, our board #27): Ashton made 4 tackles in a win vs. Charleston Southern. Season: 19 tackles, 1 INT, 9 PD in 6 games. (stats: CollegeFootballData.com)
 
@@ -23,7 +23,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/college.json_
 
 ### Inside linebacker
 - **Sammy Brown** (LB, Clemson, our board #25): Sammy made 1 tackle in a win vs. Charleston Southern. Season: 40 tackles, 1 sack, 1 PD in 6 games. (stats: CollegeFootballData.com)
-- **Chris Cole** (LB, Georgia, our board #26): Chris made 8 tackles with 1 sack, 2 pass breakups in a win at Alabama. Season: 30 tackles, 2.5 sacks, 3 PD in 6 games. (stats: CollegeFootballData.com)
+- **Chris Cole** (LB, Georgia, our board #26): Chris made 10 tackles in a loss vs. Auburn. Season: 40 tackles, 2.5 sacks, 3 PD in 7 games. (stats: CollegeFootballData.com)
 - **Suntarine Perkins** (LB, Ole Miss, our board #93): Suntarine made 1 tackle in a win vs. Missouri. Season: 20 tackles, 1.5 sacks, 1 PD in 6 games. (stats: CollegeFootballData.com)
 - **Myles Graham** (LB, Florida, our board #108): Myles made 7 tackles with 1 sack in a win at Texas. Season: 49 tackles, 3.5 sacks in 7 games. (stats: CollegeFootballData.com)
 

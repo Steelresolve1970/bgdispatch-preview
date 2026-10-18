@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "insiders",
  "description": "Last 3 days of public posts from NFL insiders and Steelers beat writers (links only).",
- "generated": "2026-10-18T05:44:36+00:00",
- "data_updated": "2026-10-18T05:43:10+00:00",
- "count": 16,
+ "generated": "2026-10-18T12:06:11+00:00",
+ "data_updated": "2026-10-18T10:37:35+00:00",
+ "count": 4,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -20,138 +20,6 @@
  "html": "https://blackandgolddispatch.com/#/insiders",
  "items": [
   {
-   "id": "0cb12a097e1b2472",
-   "type": "insider_post",
-   "author": "Ian Rapoport",
-   "handle": "@rapsheet.bsky.social",
-   "platform": "Bluesky",
-   "url": "https://bsky.app/profile/rapsheet.bsky.social/post/3my3yu5hjqs27",
-   "published": "2026-10-17T21:10:00+00:00",
-   "topics": [
-    "injuries"
-   ],
-   "summary": "@rapsheet.bsky.social posted about injuries.",
-   "source": {
-    "name": "Bluesky",
-    "url": null
-   }
-  },
-  {
-   "id": "510f97de6e3a0ba2",
-   "type": "insider_post",
-   "author": "Ian Rapoport",
-   "handle": "@rapsheet.bsky.social",
-   "platform": "Bluesky",
-   "url": "https://bsky.app/profile/rapsheet.bsky.social/post/3my3ysrh4g227",
-   "published": "2026-10-17T21:09:00+00:00",
-   "topics": [
-    "the game"
-   ],
-   "summary": "@rapsheet.bsky.social posted about the game.",
-   "source": {
-    "name": "Bluesky",
-    "url": null
-   }
-  },
-  {
-   "id": "90737b0c0d3f9e6e",
-   "type": "insider_post",
-   "author": "Ian Rapoport",
-   "handle": "@rapsheet.bsky.social",
-   "platform": "Bluesky",
-   "url": "https://bsky.app/profile/rapsheet.bsky.social/post/3my3y5ezmr227",
-   "published": "2026-10-17T20:57:00+00:00",
-   "topics": [
-    "injuries"
-   ],
-   "summary": "@rapsheet.bsky.social posted about injuries.",
-   "source": {
-    "name": "Bluesky",
-    "url": null
-   }
-  },
-  {
-   "id": "18bb93139d31e743",
-   "type": "insider_post",
-   "author": "Ian Rapoport",
-   "handle": "@rapsheet.bsky.social",
-   "platform": "Bluesky",
-   "url": "https://bsky.app/profile/rapsheet.bsky.social/post/3my3ce6irbc2b",
-   "published": "2026-10-17T14:27:00+00:00",
-   "topics": [
-    "injuries"
-   ],
-   "summary": "@rapsheet.bsky.social posted about injuries.",
-   "source": {
-    "name": "Bluesky",
-    "url": null
-   }
-  },
-  {
-   "id": "d34a1cd0f72aef64",
-   "type": "insider_post",
-   "author": "Tom Pelissero",
-   "handle": "@tompelissero.bsky.social",
-   "platform": "Bluesky",
-   "url": "https://bsky.app/profile/tompelissero.bsky.social/post/3mxzf2x7x7s2g",
-   "published": "2026-10-16T20:10:00+00:00",
-   "topics": [],
-   "summary": "@tompelissero.bsky.social posted about NFL news.",
-   "source": {
-    "name": "Bluesky",
-    "url": null
-   }
-  },
-  {
-   "id": "c9c10154b25747d2",
-   "type": "insider_post",
-   "author": "Ian Rapoport",
-   "handle": "@rapsheet.bsky.social",
-   "platform": "Bluesky",
-   "url": "https://bsky.app/profile/rapsheet.bsky.social/post/3mxzdz5iczk2m",
-   "published": "2026-10-16T19:51:00+00:00",
-   "topics": [
-    "injuries"
-   ],
-   "summary": "@rapsheet.bsky.social posted about injuries.",
-   "source": {
-    "name": "Bluesky",
-    "url": null
-   }
-  },
-  {
-   "id": "cf06185dbae8faa2",
-   "type": "insider_post",
-   "author": "Ian Rapoport",
-   "handle": "@rapsheet.bsky.social",
-   "platform": "Bluesky",
-   "url": "https://bsky.app/profile/rapsheet.bsky.social/post/3mxzdyaenkc2m",
-   "published": "2026-10-16T19:51:00+00:00",
-   "topics": [
-    "injuries"
-   ],
-   "summary": "@rapsheet.bsky.social posted about injuries.",
-   "source": {
-    "name": "Bluesky",
-    "url": null
-   }
-  },
-  {
-   "id": "8470207b333e745f",
-   "type": "insider_post",
-   "author": "Ian Rapoport",
-   "handle": "@rapsheet.bsky.social",
-   "platform": "Bluesky",
-   "url": "https://bsky.app/profile/rapsheet.bsky.social/post/3mxzdxacxbs2m",
-   "published": "2026-10-16T19:50:00+00:00",
-   "topics": [],
-   "summary": "@rapsheet.bsky.social posted about NFL news.",
-   "source": {
-    "name": "Bluesky",
-    "url": null
-   }
-  },
-  {
    "id": "c7564241610f231f",
    "type": "insider_post",
    "author": "Christopher Carter (Locked On)",
@@ -164,70 +32,6 @@
     "the game"
    ],
    "summary": "@cartercritiques.bsky.social posted about the Steelers, the game.",
-   "source": {
-    "name": "Bluesky",
-    "url": null
-   }
-  },
-  {
-   "id": "78a3e976515eff00",
-   "type": "insider_post",
-   "author": "Ian Rapoport",
-   "handle": "@rapsheet.bsky.social",
-   "platform": "Bluesky",
-   "url": "https://bsky.app/profile/rapsheet.bsky.social/post/3mxwsgjg5q22i",
-   "published": "2026-10-15T19:31:00+00:00",
-   "topics": [
-    "injuries"
-   ],
-   "summary": "@rapsheet.bsky.social posted about injuries.",
-   "source": {
-    "name": "Bluesky",
-    "url": null
-   }
-  },
-  {
-   "id": "3a0a1e4f72138df1",
-   "type": "insider_post",
-   "author": "Ian Rapoport",
-   "handle": "@rapsheet.bsky.social",
-   "platform": "Bluesky",
-   "url": "https://bsky.app/profile/rapsheet.bsky.social/post/3mxwlqulnmk24",
-   "published": "2026-10-15T17:32:00+00:00",
-   "topics": [],
-   "summary": "@rapsheet.bsky.social posted about NFL news.",
-   "source": {
-    "name": "Bluesky",
-    "url": null
-   }
-  },
-  {
-   "id": "fd960b6096f1fe24",
-   "type": "insider_post",
-   "author": "Ian Rapoport",
-   "handle": "@rapsheet.bsky.social",
-   "platform": "Bluesky",
-   "url": "https://bsky.app/profile/rapsheet.bsky.social/post/3mxwlmuvhsk24",
-   "published": "2026-10-15T17:30:00+00:00",
-   "topics": [],
-   "summary": "@rapsheet.bsky.social posted about NFL news.",
-   "source": {
-    "name": "Bluesky",
-    "url": null
-   }
-  },
-  {
-   "id": "29c0d896ff4cbb7b",
-   "type": "insider_post",
-   "author": "Ian Rapoport",
-   "handle": "@rapsheet.bsky.social",
-   "platform": "Bluesky",
-   "url": "https://bsky.app/profile/rapsheet.bsky.social/post/3mxwkyzn5x224",
-   "published": "2026-10-15T17:18:00+00:00",
-   "topics": [
-    "injuries"
-   ],
-   "summary": "@rapsheet.bsky.social posted about injuries.",
    "source": {
     "name": "Bluesky",
     "url": null

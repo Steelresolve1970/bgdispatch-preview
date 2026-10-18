@@ -1,29 +1,37 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-18T05:44:36+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T05:44:34+00:00._
+_Generated 2026-10-18T12:06:11+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T12:06:09+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
+- **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
+  [McCorkle: My Top Wide Receiver Trade Target For Steelers](https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkxXd08yWVFFVHJXcFRNRElNcGIxb0huOWYzeHRHbGc5alpFSHQ1V2EyT0JvcmVkTFJjRWZ6OVpDZHd2OWFsYnl0UGtCUkd1bGpHdkFQcTlYMWF5UmZpUmlKYVRjXzNfbGVYM2pvYmM1dF9JMnZQU21BZklnWTRqNmx2OWFxeC1tWmNxYWQyYklJNnBQ?oc=5): Steelers Depot, first seen 2026-10-18 12:06 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [Jordan Addison-to-Steelers trade rumor takes off despite making zero sense for Vikings](https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ01QUERTX1Vtb2JjN0cwczFTY2t0NEpOejJNU004WjE0ajVIclRaVUF4enRrZG9JbmtYVDZ4ZnlEa0xCdW9VOThPQ3hKcmd0b2tMVjRfNFliRmhjVHpQRkkzbkdWekNwMkdrZkJlTEYwamduS1V3OUNFLXZPQlJtNklWTFVQY3otQngydWR5ZmJ2TjRUUHhlajMxMGdGdTZSUFVPZ3F4VWt4em1FUzV6N0tlUUJlZw?oc=5): Bring Me the Sports, first seen 2026-10-18 04:34 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [McCorkle: My Top Wide Receiver Trade Target For Steelers](https://steelersdepot.com/2026/10/mccorkle-my-top-wide-receiver-trade-target-for-steelers/): Steelers Depot, first seen 2026-10-18 04:34 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 2 source(s), top tier Fan blog
   [Steelers Should Consider Surprise Trade Candidate](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUjJlaFJZeGw4TXlGNGZld2p2MTdSUFZhOWt4MWwtd3Bnd1F6N1EyQVhvWGFKdFA3Uk9kNi1LeDctZzRlR01tVE92djBUNWpwbzBobi1iYVMyaTJvendGWU9iZm9FZ1A5VnZlNjZ6bUEwWUV1LVF2YzhtTTc5aTBQMDRURmdsSGlsb3NVbmZDWk9LbmNqZDA3dWhEUmxBU2JXa096UHpWckw3MFVyV0E?oc=5): All Steelers (Sports Illustrated), first seen 2026-10-18 04:34 UTC
-- **Rumor** · tier: Aggregator / other · consensus: 4 source(s), top tier National insider
+- **Rumor** · tier: Aggregator / other · consensus: 5 source(s), top tier National insider
   [3 Trade Targets Steelers Could Pursue Before NFL Trade Deadline](https://news.google.com/rss/articles/CBMisgFBVV95cUxQSkZDUnhrc3B6ejNJYkxRMTJYUnVZY0JUcVh2bHJheVUzT1J4enZmM3ZoNnpUTzA1ZzZVRVFST2JJWElBZEVfOHhhdjk4eU92dndqei1OQ09EXzhoNXlkcXVCX0k3emZ1dnZWMDBBU01HbFFxaXBDMEQtZEJ6a2VPdjJkYWstUU5WNDdublpqbEZJelNaOVlhbVhnYXUxRGs4RlpvWmRZT2hlNkRuSnlRMy1n?oc=5): Athlon Sports, first seen 2026-10-18 04:34 UTC
+- **Rumor** · tier: National insider · consensus: 5 source(s), top tier National insider
+  [3 Trade Targets Steelers Could Pursue Before NFL Trade Deadline](https://news.google.com/rss/articles/CBMihgFBVV95cUxPLXZnenFCNzBBWVZYUGlrSENYM0NLS1h3SkcxdGJCbFdhVWluR3NDMFFKTENObGtJZGJ5M04xQy0tZURfSEpGWWJIUjljbjBsanVYWEgtc1ZLMFpRaXU2OG9UWE8zYUxYczVqeEhSMGhEMEhqd1hhQ1NFajBkd29GSF90LVcyQQ?oc=5): Yahoo Sports, first seen 2026-10-18 12:06 UTC
 - **Rumor** · tier: Fan blog · consensus: 3 source(s), top tier National insider
   [Beat Writer Explains How Steelers Will Be ‘Active’ At Trade Deadline](https://news.google.com/rss/articles/CBMiowFBVV95cUxQSTg5T3dlbFBMOFBCYlJGcnlWYWhHT00wdVZlRDNLVDFJczBvR0wzQ1hocTl2bGJycUc3bGFGWnNCd25UdmpzMG43MU5qVVRySXplQVlic2ZyeWZYOEF6clpWdG1LcmNYbVBUVDVaOEhVQW1DZXN1WW93TjFSa1l5V2xXaXdtRjFoc29yVnFVVHEwVDZXaVNkWVFfWS1sYWI0bXFv?oc=5): Steelers Depot, first seen 2026-10-18 04:34 UTC
-- **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
+- **Rumor** · tier: Aggregator / other · consensus: 2 source(s), top tier National insider
   [1 player Steelers must trade before 2026 NFL trade deadline](https://news.google.com/rss/articles/CBMirAFBVV95cUxNNjdkT09VSU1iWDdtZkFBT3dOX09qU2FoSmV3YU11VV9SRVNGTTNYcXZJUE9FNGp5T3p6VEl0OVB6WW9uNW9YakdyMkRkT2pfeGp2QzlDUGtURHRRdENPb2hDWWkyV2dpTXVKcnlhV3hkODJkSVRTWUZqTHdvb1VzazFhWnFaX2pjNFZ1Y2dUVm5ZTGJqRkxxaVVvbmd6YXlscV9QdDJaZXpfX2hX?oc=5): ClutchPoints, first seen 2026-10-18 04:34 UTC
 - **Rumor** · tier: Fan blog · consensus: 3 source(s), top tier National insider
   [Will Steelers Be Active Shoppers Before Trade Deadline?](https://news.google.com/rss/articles/CBMikwFBVV95cUxNUENsQzUzQjFnUmYxYWZmN2FudHVVcDd6XzREVHBNZWZmT2VxRGxvSkN1RXAxREVnMnFxWVBOSlpTdzlQUTYxc1lLb0k1QXR1V0t1aU12cmNDTzM4WTlyYmc2UGI1QUZlRVBNSDZ4T0JvX1ZCQUxQbllpYXZ3Nk9UNVRNWHVPejBXel9TbUUwNmJDSVE?oc=5): Steelers Depot, first seen 2026-10-18 04:34 UTC
-- **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
+- **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
+  [1 player Steelers must trade before 2026 NFL trade deadline](https://news.google.com/rss/articles/CBMigwFBVV95cUxNN0d5dU0weTJoMUNObFZfQ205NEEtREFMbHNWb2NPQ0Z2WGVremJrdmcxMUtjM0JwRVVKT0tMTGdUbjFFQ0dhRTZCekpSS0R5RlVtSlNGM3o2TW0xeVJ6cG9OQW4ySHoxTlRxOGdDdWU4R0VyUDkxZjJHckN4cGJHeF9GUQ?oc=5): Yahoo Sports, first seen 2026-10-18 08:06 UTC
+- **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
   [Steelers have perfect trade candidate as NFL quarterback injuries pile up](https://news.google.com/rss/articles/CBMijgFBVV95cUxPZE9vajBmTnBVeWN3QlhqUzdkVDdfTnQtcjM2THNJaF8wZFBhLUZDcjZrN2pIN1ZxRlJpMWlfZnlOXzVxUmt0NjVGM0V0aVZLV0JVUWV0VFdjUEJzVlBwVHpYSVF6VmZ3OWM0NmZTZnJXWElDX0ZiLVQyT1B5cUhwRFZKTWdOekg3ek5iMzBR?oc=5): Yahoo Sports, first seen 2026-10-18 04:34 UTC
+- **Rumor** · tier: Fan blog · consensus: 2 source(s), top tier National insider
+  [Steelers have perfect trade candidate as NFL quarterback injuries pile up](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNUhuanJnb1dDd05KTWxMckNqRW5FeE40aklVQ3g1blNhMDJUQng2dzFmdmJkVEZENVlsQTZDYTRfSXFZVVFvSi0zTDRFREdwbXRoTWduRHY2V29mQzRuck9Cb0R5V3Z1SHlKSUpKMUgzWExqMzg0X0xYVURTN2RmbjE0Ukp6dFFXbFh3cVZwNUhpbVFuLVcxelVPc2hxMzlhMEFVbEV1cGpGU1hkQ1Q3VE1rWW82bXBvdlJhR2FGZ2lQUzU5aG5lU0hWcXV3MU9ka0RNX2JfVDdXQzE0RzBBS09MdFNxOHc?oc=5): Steelers Wire, first seen 2026-10-18 12:06 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Steelers Learn Important Detail About Omar Khan's Trade Deadline Strategy](https://news.google.com/rss/articles/CBMihAFBVV95cUxNOER2YlFtenR4SUN5WlByTktpck5LbEZINHdLUmtad0diRlZOdVpPd21rb1lPV1hlRkpjdzhUV1BYZUNTYm1zX3hCYlRhblF3NkdCRGVfdDBhcE5tNHE2WU5qaGx5VU1kNzR3VDVFbVIyNTJnZ2RiTmZ3Z2xHZTIzYVhCcE8?oc=5): Steeler Nation, first seen 2026-10-18 04:34 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [3 cornerback trades the Steelers could make at NFL deadline](https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUlE0RGxWOTV3S242UXBpMTFhSnl1b0IwYWVhejFWLXd6aDRzcUJZbFJxTUlVaWs2NGZXWDJrOHIyTXJUOHl4SWJVdDBfNUpJQWVMMmE5TVQyVlc2VG92ZFRhUnkzTDJ5VGw0N3ZqVU9EczhyM3RBNTVFZ09pWUVJUjBvaGp2YXJCOGV6UFp5STlZLWdwcWhnem1hdGEtMWRMcnNfa2JoNWRKeDFWQnlzWF9xS09yQW96QlBjcWExNW1xbVowdTFyOXpLNEdZQlg5ZTh2TmhWbElrbzBlU1Z0N1ZtcTFodTE4UF9Cal9R?oc=5): Steelers Wire, first seen 2026-10-18 04:34 UTC
-- **Rumor** · tier: Fan blog · consensus: 4 source(s), top tier National insider
+- **Rumor** · tier: Fan blog · consensus: 5 source(s), top tier National insider
   [Brian Thomas Jr. headlines 7 WR trade targets Steelers can't afford to ignore](https://stillcurtain.com/brian-thomas-jr-headlines-7-wr-trade-targets-pittsburgh-steelers-can-t-afford-to-ignore-01m4rnfq23x6?utm_source=RSS): Still Curtain, first seen 2026-10-18 04:34 UTC
 - **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
   [No One Knows What Steelers Trade Deadline Plans Are](https://news.google.com/rss/articles/CBMimwFBVV95cUxPcUVaQ0VtVGxUR3IwTWc3NGpQWlVYcGRfOHdQNkhyRTlzRzNZbzR5Q2RoOVBPM3RRZ3A4SU5ZWklNUDRVdG80TDNUVlRBR0hhbFJidDl2TGFUWTVoUWJRQWtSTWtVOENxSi0xMHdCbzBma25yY0cxUGJ6V0E2NzkwZlA1WTZFLVEwVTVjUTBwVEQ3THlua3VxSlhLZw?oc=5): Sports Illustrated, first seen 2026-10-18 04:34 UTC
@@ -47,7 +55,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Kaboly: ‘Strong Indications’ Steelers Will Be ‘Active’ At Trade Deadline](https://news.google.com/rss/articles/CBMipAFBVV95cUxNZk1qTXh6RGVEYmlPMmEwOTlYN2F4a2N6X2F2amxoMmstdC1LTjVGbnpKZkhISUlYMm05bV9SRHRLSGtvSXVzOEpUYXdURGNkOHBRbV85elotZkdnb0tRb19DZjVIZk5DYTdPMEtNMmJzTWcwdFRCQmpDZ1cyV2p1X2pIRkJsWFpmZFgxNjJNZFpRSE81emVKODVERTZHYW40QWJNag?oc=5): Steelers Depot, first seen 2026-10-18 04:34 UTC
 - **Rumor** · tier: Fan blog · consensus: 3 source(s), top tier National insider
   [Insider: Steelers Share Strong Indications Of Major Trade Deadline Activity Ahead](https://news.google.com/rss/articles/CBMihwFBVV95cUxPSy1mcXE2ZGRUbGpZUUZQX1NxOW9xeHdJUzdmUHdYYmpWdjRPWmh0VzNEZ0VvR181SkFaQ0hvOEtXcWpFanBoeHZVS3Y5U09aMG9aeHUtcTkyc2RmT2pjd18zVzJHbUxqRkFSWTJadGNxRGpLNTNWcDJocmE0SUswRmNqV1EzWms?oc=5): Steeler Nation, first seen 2026-10-18 04:34 UTC
-- **Rumor** · tier: Fan blog · consensus: 4 source(s), top tier National insider
+- **Rumor** · tier: Fan blog · consensus: 5 source(s), top tier National insider
   [Realistic Justin Herbert trade packages the Vikings, Steelers and Jets could force LA to consider](https://news.google.com/rss/articles/CBMivgFBVV95cUxORm45SG1aLXNEdjh6ZjByZV8zZE82Qm9rR01TNGJLWTZfQ2JQeExPZXpYaG9HdTRHZG0yc3BlNGdYMC0tV2Z4Q014UnNaRFg0bnh5V3Rfd0NXYno2X3hTTUtXWmJVOUs4OW5JRk90WEE5TnRWU0tkcHpDLXZOUVRmNnZaejA2Wk1nc2FCTU1zQjRJcUdVMWpVWEg1Sk5LTnlmckNJWXgwRi1DYVZJVHl4Z0tuNXhRZkFIYTZMMTFR?oc=5): FanSided, first seen 2026-10-18 04:34 UTC
 - **Rumor** · tier: Fan blog · consensus: 2 source(s), top tier Fan blog
   ["Net A Day 2 Pick": Steelers Problem At Safety Could Be Fixed With A Trade For Cardinals Star](https://news.google.com/rss/articles/CBMihgFBVV95cUxNbkc0ZThoMm5vTjhzTEppSGtIS2dxVDRUOXRoMnNrMjRxbXhzZ3c5VGFjems5TUNsNDB6WXY1Zmtub29JVG9IY2tJdmhJeVh6T3pRaTVtMzR1Q3hxR09GYm1DNjZSbGlBckF4UlR0QmpoQ3l0dGxIcWhxSTNpdUI3OG9qZ1Q3Zw?oc=5): Steeler Nation, first seen 2026-10-18 04:34 UTC
@@ -59,7 +67,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Steelers' DeShon Elliott Return Could Soon Spark A Massive Jaquan Brisker Turnaround](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVzFpM005c1BSY3ZuYlNnLXhQbjYzTUZfYlVuVHB0Z0pWdF90T2xFZjJPdDlqVDRfRGh4R3IybExPVW1hTzVRT2FwaVAtbThaVlVxa3BCdzY3djNFZDdXQTRqd2NiRTNZMGJZWVE2a0tyRGZFTVdJTk52V2dVOVNtOElTOENGUnVvaDNB?oc=5): Steeler Nation, first seen 2026-10-18 04:34 UTC
 - **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
   [3 NFL teams that could trade for Steelers RB Rico Dowdle](https://news.google.com/rss/articles/CBMifEFVX3lxTE1jZ08tWl9lNUlwQ1RERHZHRjVRaXV3cWo0eUlXWkVHY1VROHpJNHJCdmE1cTRIaHFPNVJNVmZIV0QyMldCLUFXdnBLSS1LcG9YYW9sOHJJeFRuT2dwd1lNd1o1ZjJEclk2bkJGWjBRVGt1TGo0Z2dQbE54dW8?oc=5): Yahoo Sports, first seen 2026-10-18 04:34 UTC
-- **Rumor** · tier: National insider · consensus: 4 source(s), top tier National insider
+- **Rumor** · tier: National insider · consensus: 5 source(s), top tier National insider
   [3 Realistic WR Trade Targets For Steelers](https://news.google.com/rss/articles/CBMinAFBVV95cUxOenRtTlNEUzRlck9FWHhoaGxyWGFma1dpbUhlZTFCdE1EeVVvbzNUOE93eHdoZ0ZTWWJJd1FMTi1tMHNzMzRTalBJTnB2YnhVUV9IN3hwczdvYlVnMnF0Z0VjZktOSVRKNDA1ZlE2eXdrQS02MEVKdlh6dGtQTzY0V1lySzJlLWV0S1lzX0VxVVRhRUpyUzBkbFg1YUM?oc=5): Sports Illustrated, first seen 2026-10-18 04:34 UTC
 
 ---

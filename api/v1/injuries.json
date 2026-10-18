@@ -2,8 +2,8 @@
  "api_version": "1",
  "dataset": "injuries",
  "description": "Current Steelers injury designations from the official NFL injury report and reserve lists (nflverse, CC-BY 4.0): status and injury.",
- "generated": "2026-10-18T05:44:36+00:00",
- "data_updated": "2026-10-18T05:21:33+00:00",
+ "generated": "2026-10-18T12:06:11+00:00",
+ "data_updated": "2026-10-18T12:05:58+00:00",
  "count": 16,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
@@ -77,25 +77,6 @@
    }
   },
   {
-   "id": "f1d3fbb19a9347bf",
-   "type": "injury",
-   "player": "DK Metcalf",
-   "position": "WR",
-   "jersey": "4",
-   "status": "Questionable",
-   "injury": "Illness",
-   "side": null,
-   "detail": null,
-   "estimated_return": null,
-   "updated": null,
-   "url": "https://www.nfl.com/injuries/",
-   "source": {
-    "name": "nflverse (CC-BY 4.0)",
-    "url": "https://github.com/nflverse/nflverse-data",
-    "license": "CC-BY-4.0"
-   }
-  },
-  {
    "id": "e24bef71e86af818",
    "type": "injury",
    "player": "Jalen Ramsey",
@@ -141,6 +122,25 @@
    "jersey": "95",
    "status": "Questionable",
    "injury": "Ankle",
+   "side": null,
+   "detail": null,
+   "estimated_return": null,
+   "updated": null,
+   "url": "https://www.nfl.com/injuries/",
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "5ae11d310a16d24a",
+   "type": "injury",
+   "player": "Pat Freiermuth",
+   "position": "TE",
+   "jersey": "88",
+   "status": "Questionable",
+   "injury": "Calf",
    "side": null,
    "detail": null,
    "estimated_return": null,

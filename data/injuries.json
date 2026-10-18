@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T05:21:33.897318+00:00",
+ "generated": "2026-10-18T12:05:58.919151+00:00",
  "next_game": {
   "id": "401873002",
   "nflverse_id": "2026_06_PIT_TB",
@@ -63,20 +63,6 @@
    "link": "https://www.nfl.com/injuries/"
   },
   {
-   "name": "DK Metcalf",
-   "pos": "WR",
-   "jersey": "4",
-   "status": "Questionable",
-   "injury": "Illness",
-   "side": null,
-   "detail": null,
-   "return_date": null,
-   "date": null,
-   "practice": "Did Not Participate In Practice",
-   "week": 6,
-   "link": "https://www.nfl.com/injuries/"
-  },
-  {
    "name": "Jalen Ramsey",
    "pos": "CB",
    "jersey": "5",
@@ -115,6 +101,20 @@
    "return_date": null,
    "date": null,
    "practice": "Full Participation in Practice",
+   "week": 6,
+   "link": "https://www.nfl.com/injuries/"
+  },
+  {
+   "name": "Pat Freiermuth",
+   "pos": "TE",
+   "jersey": "88",
+   "status": "Questionable",
+   "injury": "Calf",
+   "side": null,
+   "detail": null,
+   "return_date": null,
+   "date": null,
+   "practice": null,
    "week": 6,
    "link": "https://www.nfl.com/injuries/"
   },
@@ -313,12 +313,6 @@
    "published": "2026-10-17T16:32:19+00:00"
   },
   {
-   "title": "Steelers Clear DK Metcalf, Add Pat Freiermuth To Injury Report Saturday",
-   "source": "Steelers Depot",
-   "link": "https://steelersdepot.com/2026/10/steelers-clear-dk-metcalf-add-pat-freiermuth-to-injury-report-saturday/",
-   "published": "2026-10-17T16:30:28+00:00"
-  },
-  {
    "title": "Pittsburgh Steelers star wide receiver added to injury report as room thins out",
    "source": "PennLive (Nick Farabaugh)",
    "link": "https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-star-wide-receiver-added-to-injury-report-as-room-thins-out.html",
@@ -335,6 +329,12 @@
    "source": "Pittsburgh Post-Gazette",
    "link": "https://www.post-gazette.com/sports/steelers/2026/10/16/steelers-injury-news-week-6/stories/202610160033",
    "published": "2026-10-16T20:00:00+00:00"
+  },
+  {
+   "title": "DK Metcalf is questionable, and the Steelers passing game can\u2019t afford the loss",
+   "source": "Still Curtain",
+   "link": "https://stillcurtain.com/pittsburgh-steelers-buccaneers-week-5-injury-report-friday?utm_source=RSS",
+   "published": "2026-10-16T19:36:27+00:00"
   }
  ],
  "source": "Data: nflverse (CC-BY 4.0)",

@@ -1,9 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-18T05:44:36+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T05:44:30+00:00._
+_Generated 2026-10-18T12:06:11+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T12:05:33+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
-- Podcast: [The Steelers Q&A: Getting off the coaster in Week 6](http://steelcurtainnetwork.com): Steel Curtain Network (BTSC), 2026-10-18 02:30 UTC
+- Podcast: [Last Minute Thoughts: Black and Bold, Week 6 vs. Tampa Bay](http://steelcurtainnetwork.com): Steel Curtain Network (BTSC), 2026-10-18 08:00 UTC
 - Podcast: [DK's Live Shot of Steelers: Pregame vs. Buccaneers](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-live-shot-of-steelers-pregame-vs-buccaneers/): DK Pittsburgh Sports, 2026-10-18 01:37 UTC
 - Video: [E Robb didn’t want to let his teammates down 👏💥#nfl #patriots #falcons](https://www.youtube.com/shorts/bheCQdatp50): Not Just Football with Cam Heyward, 2026-10-17 23:00 UTC
 - Video: [Live from our Road Warrior Rally in Tampa with Casey Hampton 🙌](https://www.youtube.com/shorts/6-WqoVTWAfQ): Pittsburgh Steelers (official), 2026-10-17 22:52 UTC

@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T05:44:34.079067+00:00",
+ "generated": "2026-10-18T12:06:09.039356+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -44,6 +44,34 @@
   ]
  },
  "rumors": [
+  {
+   "id": "67e645182b72",
+   "title": "McCorkle: My Top Wide Receiver Trade Target For Steelers",
+   "source": "Steelers Depot",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkxXd08yWVFFVHJXcFRNRElNcGIxb0huOWYzeHRHbGc5alpFSHQ1V2EyT0JvcmVkTFJjRWZ6OVpDZHd2OWFsYnl0UGtCUkd1bGpHdkFQcTlYMWF5UmZpUmlKYVRjXzNfbGVYM2pvYmM1dF9JMnZQU21BZklnWTRqNmx2OWFxeC1tWmNxYWQyYklJNnBQ?oc=5",
+   "published": "2026-10-17T22:19:45+00:00",
+   "summary": "Rumor-style report from Steelers Depot on a Steelers roster move. Full details at the source.",
+   "tier": "Fan blog",
+   "tier_score": 2,
+   "subjects": [],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-18T12:06:09.039356+00:00",
+   "consensus": {
+    "cluster_id": "f0317db1080a",
+    "independent_sources": 1,
+    "sources": [
+     "Steelers Depot"
+    ],
+    "highest_tier": "Fan blog",
+    "highest_tier_score": 2,
+    "related_ids": [
+     "f0317db1080a"
+    ]
+   },
+   "updated": "2026-10-18T12:06:09.039356+00:00"
+  },
   {
    "id": "3ee554784d73",
    "title": "Jordan Addison-to-Steelers trade rumor takes off despite making zero sense for Vikings",
@@ -94,7 +122,9 @@
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "67e645182b72"
+    ]
    },
    "updated": "2026-10-18T04:34:04.958633+00:00"
   },
@@ -143,22 +173,59 @@
    "first_seen": "2026-10-18T04:34:04.958633+00:00",
    "consensus": {
     "cluster_id": "21770073d09a",
-    "independent_sources": 4,
+    "independent_sources": 5,
     "sources": [
      "Athlon Sports",
      "FanSided",
      "Sports Illustrated",
-     "Still Curtain"
+     "Still Curtain",
+     "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "e518dab1fe84",
      "c46605b46d29",
      "69e165d09f87",
      "21770073d09a"
     ]
    },
    "updated": "2026-10-18T04:34:04.958633+00:00"
+  },
+  {
+   "id": "e518dab1fe84",
+   "title": "3 Trade Targets Steelers Could Pursue Before NFL Trade Deadline",
+   "source": "Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLXZnenFCNzBBWVZYUGlrSENYM0NLS1h3SkcxdGJCbFdhVWluR3NDMFFKTENObGtJZGJ5M04xQy0tZURfSEpGWWJIUjljbjBsanVYWEgtc1ZLMFpRaXU2OG9UWE8zYUxYczVqeEhSMGhEMEhqd1hhQ1NFajBkd29GSF90LVcyQQ?oc=5",
+   "published": "2026-10-17T15:00:00+00:00",
+   "summary": "Rumor-style report from Yahoo Sports on a Steelers roster move. Full details at the source.",
+   "tier": "National insider",
+   "tier_score": 4,
+   "subjects": [],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-18T12:06:09.039356+00:00",
+   "consensus": {
+    "cluster_id": "21770073d09a",
+    "independent_sources": 5,
+    "sources": [
+     "Athlon Sports",
+     "FanSided",
+     "Sports Illustrated",
+     "Still Curtain",
+     "Yahoo Sports"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "8f4df61a2c0d",
+     "c46605b46d29",
+     "69e165d09f87",
+     "21770073d09a"
+    ]
+   },
+   "updated": "2026-10-18T12:06:09.039356+00:00"
   },
   {
    "id": "43d4a76b13c9",
@@ -208,14 +275,17 @@
    "status_link": null,
    "first_seen": "2026-10-18T04:34:04.958633+00:00",
    "consensus": {
-    "cluster_id": "1d875174f96b",
-    "independent_sources": 1,
+    "cluster_id": "d7826af8a2b8",
+    "independent_sources": 2,
     "sources": [
-     "ClutchPoints"
+     "ClutchPoints",
+     "Yahoo Sports"
     ],
-    "highest_tier": "Aggregator / other",
-    "highest_tier_score": 1,
-    "related_ids": []
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "d7826af8a2b8"
+    ]
    },
    "updated": "2026-10-18T04:34:04.958633+00:00"
   },
@@ -253,6 +323,35 @@
    "updated": "2026-10-18T04:34:04.958633+00:00"
   },
   {
+   "id": "d7826af8a2b8",
+   "title": "1 player Steelers must trade before 2026 NFL trade deadline",
+   "source": "Yahoo Sports",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN0d5dU0weTJoMUNObFZfQ205NEEtREFMbHNWb2NPQ0Z2WGVremJrdmcxMUtjM0JwRVVKT0tMTGdUbjFFQ0dhRTZCekpSS0R5RlVtSlNGM3o2TW0xeVJ6cG9OQW4ySHoxTlRxOGdDdWU4R0VyUDkxZjJHckN4cGJHeF9GUQ?oc=5",
+   "published": "2026-10-16T17:22:41+00:00",
+   "summary": "Rumor-style report from Yahoo Sports on a Steelers roster move. Full details at the source.",
+   "tier": "National insider",
+   "tier_score": 4,
+   "subjects": [],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-18T08:06:56.237738+00:00",
+   "consensus": {
+    "cluster_id": "d7826af8a2b8",
+    "independent_sources": 2,
+    "sources": [
+     "ClutchPoints",
+     "Yahoo Sports"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "1d875174f96b"
+    ]
+   },
+   "updated": "2026-10-18T08:06:56.237738+00:00"
+  },
+  {
    "id": "5166a3f90bb0",
    "title": "Steelers have perfect trade candidate as NFL quarterback injuries pile up",
    "source": "Yahoo Sports",
@@ -267,16 +366,48 @@
    "status_link": null,
    "first_seen": "2026-10-18T04:34:04.958633+00:00",
    "consensus": {
-    "cluster_id": "5166a3f90bb0",
-    "independent_sources": 1,
+    "cluster_id": "c3235f652540",
+    "independent_sources": 2,
     "sources": [
+     "Steelers Wire",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
-    "related_ids": []
+    "related_ids": [
+     "c3235f652540"
+    ]
    },
    "updated": "2026-10-18T04:34:04.958633+00:00"
+  },
+  {
+   "id": "c3235f652540",
+   "title": "Steelers have perfect trade candidate as NFL quarterback injuries pile up",
+   "source": "Steelers Wire",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNUhuanJnb1dDd05KTWxMckNqRW5FeE40aklVQ3g1blNhMDJUQng2dzFmdmJkVEZENVlsQTZDYTRfSXFZVVFvSi0zTDRFREdwbXRoTWduRHY2V29mQzRuck9Cb0R5V3Z1SHlKSUpKMUgzWExqMzg0X0xYVURTN2RmbjE0Ukp6dFFXbFh3cVZwNUhpbVFuLVcxelVPc2hxMzlhMEFVbEV1cGpGU1hkQ1Q3VE1rWW82bXBvdlJhR2FGZ2lQUzU5aG5lU0hWcXV3MU9ka0RNX2JfVDdXQzE0RzBBS09MdFNxOHc?oc=5",
+   "published": "2026-10-16T17:16:00+00:00",
+   "summary": "Rumor-style report from Steelers Wire on a Steelers roster move. Full details at the source.",
+   "tier": "Fan blog",
+   "tier_score": 2,
+   "subjects": [],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-18T12:06:09.039356+00:00",
+   "consensus": {
+    "cluster_id": "c3235f652540",
+    "independent_sources": 2,
+    "sources": [
+     "Steelers Wire",
+     "Yahoo Sports"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "5166a3f90bb0"
+    ]
+   },
+   "updated": "2026-10-18T12:06:09.039356+00:00"
   },
   {
    "id": "f8467377df93",
@@ -348,17 +479,19 @@
    "first_seen": "2026-10-18T04:34:04.958633+00:00",
    "consensus": {
     "cluster_id": "21770073d09a",
-    "independent_sources": 4,
+    "independent_sources": 5,
     "sources": [
      "Athlon Sports",
      "FanSided",
      "Sports Illustrated",
-     "Still Curtain"
+     "Still Curtain",
+     "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
      "8f4df61a2c0d",
+     "e518dab1fe84",
      "69e165d09f87",
      "21770073d09a"
     ]
@@ -693,17 +826,19 @@
    "first_seen": "2026-10-18T04:34:04.958633+00:00",
    "consensus": {
     "cluster_id": "21770073d09a",
-    "independent_sources": 4,
+    "independent_sources": 5,
     "sources": [
      "Athlon Sports",
      "FanSided",
      "Sports Illustrated",
-     "Still Curtain"
+     "Still Curtain",
+     "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
      "8f4df61a2c0d",
+     "e518dab1fe84",
      "c46605b46d29",
      "21770073d09a"
     ]
@@ -864,17 +999,19 @@
    "first_seen": "2026-10-18T04:34:04.958633+00:00",
    "consensus": {
     "cluster_id": "21770073d09a",
-    "independent_sources": 4,
+    "independent_sources": 5,
     "sources": [
      "Athlon Sports",
      "FanSided",
      "Sports Illustrated",
-     "Still Curtain"
+     "Still Curtain",
+     "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
      "8f4df61a2c0d",
+     "e518dab1fe84",
      "c46605b46d29",
      "69e165d09f87"
     ]

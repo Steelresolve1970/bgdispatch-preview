@@ -2,8 +2,8 @@
  "api_version": "1",
  "dataset": "depth-chart",
  "description": "Steelers depth chart by unit and position, 1st/2nd/3rd string with injury tags (nflverse, CC-BY 4.0).",
- "generated": "2026-10-18T05:44:36+00:00",
- "data_updated": "2026-10-18T05:44:32+00:00",
+ "generated": "2026-10-18T12:06:11+00:00",
+ "data_updated": "2026-10-18T12:05:59+00:00",
  "count": 28,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
@@ -97,6 +97,13 @@
      "jersey": "29",
      "injury_status": null,
      "url": null
+    },
+    {
+     "depth": 5,
+     "name": "Lew Nichols",
+     "jersey": "31",
+     "injury_status": null,
+     "url": null
     }
    ],
    "source": {
@@ -139,21 +146,21 @@
      "depth": 1,
      "name": "DK Metcalf",
      "jersey": "4",
-     "injury_status": "Questionable",
+     "injury_status": null,
      "url": null
     },
     {
      "depth": 2,
-     "name": "Ben Skowronek",
-     "jersey": "15",
-     "injury_status": "Out",
+     "name": "Kaden Wetjen",
+     "jersey": "10",
+     "injury_status": null,
      "url": null
     },
     {
      "depth": 3,
-     "name": "Cole Burgess",
-     "jersey": "85",
-     "injury_status": "Injured Reserve",
+     "name": "Michael Pittman Jr.",
+     "jersey": "11",
+     "injury_status": null,
      "url": null
     }
    ],
@@ -182,7 +189,7 @@
      "depth": 2,
      "name": "Pat Freiermuth",
      "jersey": "88",
-     "injury_status": null,
+     "injury_status": "Questionable",
      "url": null
     },
     {
@@ -838,13 +845,6 @@
     },
     {
      "depth": 3,
-     "name": "Rico Dowdle",
-     "jersey": "13",
-     "injury_status": "Questionable",
-     "url": null
-    },
-    {
-     "depth": 4,
      "name": "Donte Kent",
      "jersey": "34",
      "injury_status": "Physically Unable to Perform",
@@ -881,20 +881,6 @@
     },
     {
      "depth": 3,
-     "name": "Roman Wilson",
-     "jersey": "14",
-     "injury_status": "Out",
-     "url": null
-    },
-    {
-     "depth": 4,
-     "name": "Rico Dowdle",
-     "jersey": "13",
-     "injury_status": "Questionable",
-     "url": null
-    },
-    {
-     "depth": 5,
      "name": "Donte Kent",
      "jersey": "34",
      "injury_status": "Physically Unable to Perform",

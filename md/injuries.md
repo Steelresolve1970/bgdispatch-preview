@@ -1,6 +1,6 @@
 # Steelers Injury Report
 
-_Generated 2026-10-18T05:44:36+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T05:21:33+00:00._
+_Generated 2026-10-18T12:06:11+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T12:05:58+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/injuries.json_
 
 | Player | Pos | Status | Injury | Est. return | Updated |
@@ -8,10 +8,10 @@ _JSON: https://blackandgolddispatch.com/api/v1/injuries.json_
 | [Ben Skowronek](https://www.nfl.com/injuries/) | WR | Out | Calf |  |  |
 | [DeShon Elliott](https://www.nfl.com/injuries/) | S | Out | Knee |  |  |
 | [Roman Wilson](https://www.nfl.com/injuries/) | WR | Out | Finger |  |  |
-| [DK Metcalf](https://www.nfl.com/injuries/) | WR | Questionable | Illness |  |  |
 | [Jalen Ramsey](https://www.nfl.com/injuries/) | CB | Questionable | Wrist |  |  |
 | [Jamel Dean](https://www.nfl.com/injuries/) | CB | Questionable | Ankle |  |  |
 | [Keeanu Benton](https://www.nfl.com/injuries/) | DT | Questionable | Ankle |  |  |
+| [Pat Freiermuth](https://www.nfl.com/injuries/) | TE | Questionable | Calf |  |  |
 | [Rico Dowdle](https://www.nfl.com/injuries/) | RB | Questionable | Toe |  |  |
 | [Cole Burgess](https://www.nfl.com/transactions/) | WR | Injured Reserve |  |  |  |
 | [Daequan Hardy](https://www.nfl.com/transactions/) | DB | Injured Reserve |  |  |  |

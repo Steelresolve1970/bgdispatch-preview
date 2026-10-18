@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "rumors",
  "description": "Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).",
- "generated": "2026-10-18T05:44:36+00:00",
- "data_updated": "2026-10-18T05:44:34+00:00",
- "count": 29,
+ "generated": "2026-10-18T12:06:11+00:00",
+ "data_updated": "2026-10-18T12:06:09+00:00",
+ "count": 33,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -19,6 +19,37 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/rumors",
  "items": [
+  {
+   "id": "67e645182b72",
+   "type": "rumor",
+   "title": "McCorkle: My Top Wide Receiver Trade Target For Steelers",
+   "summary": "Trade/roster move story from Steelers Depot. Full report at the original publisher.",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkxXd08yWVFFVHJXcFRNRElNcGIxb0huOWYzeHRHbGc5alpFSHQ1V2EyT0JvcmVkTFJjRWZ6OVpDZHd2OWFsYnl0UGtCUkd1bGpHdkFQcTlYMWF5UmZpUmlKYVRjXzNfbGVYM2pvYmM1dF9JMnZQU21BZklnWTRqNmx2OWFxeC1tWmNxYWQyYklJNnBQ?oc=5",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null,
+    "reliability_tier": "Fan blog",
+    "reliability_score": 2
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-18T12:06:09+00:00",
+   "updated": "2026-10-18T12:06:09+00:00",
+   "published": "2026-10-17T22:19:45+00:00",
+   "people": [],
+   "consensus": {
+    "cluster_id": "f0317db1080a",
+    "independent_sources": 1,
+    "sources": [
+     "Steelers Depot"
+    ],
+    "highest_tier": "Fan blog",
+    "highest_tier_score": 2,
+    "related_ids": [
+     "f0317db1080a"
+    ]
+   }
+  },
   {
    "id": "3ee554784d73",
    "type": "rumor",
@@ -76,7 +107,9 @@
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "67e645182b72"
+    ]
    }
   },
   {
@@ -131,16 +164,56 @@
    "people": [],
    "consensus": {
     "cluster_id": "21770073d09a",
-    "independent_sources": 4,
+    "independent_sources": 5,
     "sources": [
      "Athlon Sports",
      "FanSided",
      "Sports Illustrated",
-     "Still Curtain"
+     "Still Curtain",
+     "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "e518dab1fe84",
+     "c46605b46d29",
+     "69e165d09f87",
+     "21770073d09a"
+    ]
+   }
+  },
+  {
+   "id": "e518dab1fe84",
+   "type": "rumor",
+   "title": "3 Trade Targets Steelers Could Pursue Before NFL Trade Deadline",
+   "summary": "Trade/roster move story from Yahoo Sports. Full report at the original publisher.",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLXZnenFCNzBBWVZYUGlrSENYM0NLS1h3SkcxdGJCbFdhVWluR3NDMFFKTENObGtJZGJ5M04xQy0tZURfSEpGWWJIUjljbjBsanVYWEgtc1ZLMFpRaXU2OG9UWE8zYUxYczVqeEhSMGhEMEhqd1hhQ1NFajBkd29GSF90LVcyQQ?oc=5",
+   "source": {
+    "name": "Yahoo Sports",
+    "url": null,
+    "reliability_tier": "National insider",
+    "reliability_score": 4
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-18T12:06:09+00:00",
+   "updated": "2026-10-18T12:06:09+00:00",
+   "published": "2026-10-17T15:00:00+00:00",
+   "people": [],
+   "consensus": {
+    "cluster_id": "21770073d09a",
+    "independent_sources": 5,
+    "sources": [
+     "Athlon Sports",
+     "FanSided",
+     "Sports Illustrated",
+     "Still Curtain",
+     "Yahoo Sports"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "8f4df61a2c0d",
      "c46605b46d29",
      "69e165d09f87",
      "21770073d09a"
@@ -202,14 +275,17 @@
    "published": "2026-10-16T21:55:13+00:00",
    "people": [],
    "consensus": {
-    "cluster_id": "1d875174f96b",
-    "independent_sources": 1,
+    "cluster_id": "d7826af8a2b8",
+    "independent_sources": 2,
     "sources": [
-     "ClutchPoints"
+     "ClutchPoints",
+     "Yahoo Sports"
     ],
-    "highest_tier": "Aggregator / other",
-    "highest_tier_score": 1,
-    "related_ids": []
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "d7826af8a2b8"
+    ]
    }
   },
   {
@@ -249,6 +325,38 @@
    }
   },
   {
+   "id": "d7826af8a2b8",
+   "type": "rumor",
+   "title": "1 player Steelers must trade before 2026 NFL trade deadline",
+   "summary": "Trade/roster move story from Yahoo Sports. Full report at the original publisher.",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN0d5dU0weTJoMUNObFZfQ205NEEtREFMbHNWb2NPQ0Z2WGVremJrdmcxMUtjM0JwRVVKT0tMTGdUbjFFQ0dhRTZCekpSS0R5RlVtSlNGM3o2TW0xeVJ6cG9OQW4ySHoxTlRxOGdDdWU4R0VyUDkxZjJHckN4cGJHeF9GUQ?oc=5",
+   "source": {
+    "name": "Yahoo Sports",
+    "url": null,
+    "reliability_tier": "National insider",
+    "reliability_score": 4
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-18T08:06:56+00:00",
+   "updated": "2026-10-18T08:06:56+00:00",
+   "published": "2026-10-16T17:22:41+00:00",
+   "people": [],
+   "consensus": {
+    "cluster_id": "d7826af8a2b8",
+    "independent_sources": 2,
+    "sources": [
+     "ClutchPoints",
+     "Yahoo Sports"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "1d875174f96b"
+    ]
+   }
+  },
+  {
    "id": "5166a3f90bb0",
    "type": "rumor",
    "title": "Steelers have perfect trade candidate as NFL quarterback injuries pile up",
@@ -267,14 +375,49 @@
    "published": "2026-10-16T17:16:02+00:00",
    "people": [],
    "consensus": {
-    "cluster_id": "5166a3f90bb0",
-    "independent_sources": 1,
+    "cluster_id": "c3235f652540",
+    "independent_sources": 2,
     "sources": [
+     "Steelers Wire",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
-    "related_ids": []
+    "related_ids": [
+     "c3235f652540"
+    ]
+   }
+  },
+  {
+   "id": "c3235f652540",
+   "type": "rumor",
+   "title": "Steelers have perfect trade candidate as NFL quarterback injuries pile up",
+   "summary": "Injury story from Steelers Wire. Full report at the original publisher.",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNUhuanJnb1dDd05KTWxMckNqRW5FeE40aklVQ3g1blNhMDJUQng2dzFmdmJkVEZENVlsQTZDYTRfSXFZVVFvSi0zTDRFREdwbXRoTWduRHY2V29mQzRuck9Cb0R5V3Z1SHlKSUpKMUgzWExqMzg0X0xYVURTN2RmbjE0Ukp6dFFXbFh3cVZwNUhpbVFuLVcxelVPc2hxMzlhMEFVbEV1cGpGU1hkQ1Q3VE1rWW82bXBvdlJhR2FGZ2lQUzU5aG5lU0hWcXV3MU9ka0RNX2JfVDdXQzE0RzBBS09MdFNxOHc?oc=5",
+   "source": {
+    "name": "Steelers Wire",
+    "url": null,
+    "reliability_tier": "Fan blog",
+    "reliability_score": 2
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-18T12:06:09+00:00",
+   "updated": "2026-10-18T12:06:09+00:00",
+   "published": "2026-10-16T17:16:00+00:00",
+   "people": [],
+   "consensus": {
+    "cluster_id": "c3235f652540",
+    "independent_sources": 2,
+    "sources": [
+     "Steelers Wire",
+     "Yahoo Sports"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "5166a3f90bb0"
+    ]
    }
   },
   {
@@ -357,17 +500,19 @@
    ],
    "consensus": {
     "cluster_id": "21770073d09a",
-    "independent_sources": 4,
+    "independent_sources": 5,
     "sources": [
      "Athlon Sports",
      "FanSided",
      "Sports Illustrated",
-     "Still Curtain"
+     "Still Curtain",
+     "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
      "8f4df61a2c0d",
+     "e518dab1fe84",
      "69e165d09f87",
      "21770073d09a"
     ]
@@ -738,17 +883,19 @@
    ],
    "consensus": {
     "cluster_id": "21770073d09a",
-    "independent_sources": 4,
+    "independent_sources": 5,
     "sources": [
      "Athlon Sports",
      "FanSided",
      "Sports Illustrated",
-     "Still Curtain"
+     "Still Curtain",
+     "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
      "8f4df61a2c0d",
+     "e518dab1fe84",
      "c46605b46d29",
      "21770073d09a"
     ]
@@ -927,17 +1074,19 @@
    "people": [],
    "consensus": {
     "cluster_id": "21770073d09a",
-    "independent_sources": 4,
+    "independent_sources": 5,
     "sources": [
      "Athlon Sports",
      "FanSided",
      "Sports Illustrated",
-     "Still Curtain"
+     "Still Curtain",
+     "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
      "8f4df61a2c0d",
+     "e518dab1fe84",
      "c46605b46d29",
      "69e165d09f87"
     ]

@@ -1,6 +1,6 @@
 # Steelers Draft Central
 
-_Generated 2026-10-18T05:44:36+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T05:44:31+00:00._
+_Generated 2026-10-18T12:06:11+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T12:05:58+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/draft.json_
 
 Steelers projected picks: R1 #22, R2 #54
@@ -8,8 +8,8 @@ Steelers projected picks: R1 #22, R2 #54
 ## Needs and top prospects
 
 ### 1. Quarterback
-- **Darian Mensah** (QB, Miami, our board #1): chance available R1 #22 0%, R2 #54 0%. 112/133, 1,438 pass yds, 15 TD, 0 INT; 12 rush, 79 yds, 2 TD
-- **Drew Mestemaker** (QB, Oklahoma State, our board #4): chance available R1 #22 0%, R2 #54 0%. 114/169, 1,575 pass yds, 13 TD, 5 INT; 15 rush, 108 yds, 2 TD
+- **Darian Mensah** (QB, Miami, our board #1): chance available R1 #22 0%, R2 #54 0%. 135/167, 1,764 pass yds, 18 TD, 1 INT; 15 rush, 85 yds, 2 TD
+- **Drew Mestemaker** (QB, Oklahoma State, our board #4): chance available R1 #22 0%, R2 #54 0%. 136/203, 1,940 pass yds, 16 TD, 6 INT; 21 rush, 142 yds, 2 TD
 - **Arch Manning** (QB, Texas, our board #7): chance available R1 #22 3%, R2 #54 0%. 107/167, 1,298 pass yds, 11 TD, 5 INT; 48 rush, 99 yds
 - **Dante Moore** (QB, Oregon, our board #10): chance available R1 #22 9%, R2 #54 0%. 69/99, 926 pass yds, 9 TD, 0 INT; 10 rush, -7 yds
 - **Trinidad Chambliss** (QB, Ole Miss, our board #31): chance available R1 #22 72%, R2 #54 9%. 1,435 pass yds, 11 TD, 4 INT this season
@@ -17,8 +17,8 @@ Steelers projected picks: R1 #22, R2 #54
 - **LaNorris Sellers** (QB, South Carolina, our board #51): chance available R1 #22 89%, R2 #54 46%. 1,338 pass yds, 12 TD, 4 INT this season
 
 ### 2. Cornerback
-- **Leonard Moore** (CB, Notre Dame, our board #8): chance available R1 #22 2%, R2 #54 0%. 8 tackles, 4 PD
-- **Ellis Robinson IV** (CB, Georgia, our board #12): chance available R1 #22 11%, R2 #54 0%. 13 tackles, 1 INT, 3 PD
+- **Leonard Moore** (CB, Notre Dame, our board #8): chance available R1 #22 2%, R2 #54 0%. 13 tackles, 5 PD
+- **Ellis Robinson IV** (CB, Georgia, our board #12): chance available R1 #22 11%, R2 #54 0%. 13 tackles, 1 INT, 4 PD
 - **Kelley Jones** (CB, Mississippi State, our board #23): chance available R1 #22 55%, R2 #54 0%. 21 tackles, 6 PD
 - **Ashton Hampton** (CB, Clemson, our board #27): chance available R1 #22 68%, R2 #54 1%. 19 tackles, 1 INT, 9 PD
 - **Peyton Bowen** (CB, Oklahoma, our board #40): chance available R1 #22 88%, R2 #54 20%. 24 tackles, 2.5 TFL, 1 sacks, 1 INT, 4 PD
@@ -37,7 +37,7 @@ Steelers projected picks: R1 #22, R2 #54
 
 ### 4. Inside linebacker
 - **Sammy Brown** (LB, Clemson, our board #25): chance available R1 #22 61%, R2 #54 1%. 40 tackles, 1 sack, 1 PD
-- **Chris Cole** (LB, Georgia, our board #26): chance available R1 #22 64%, R2 #54 2%. 30 tackles, 2.5 sacks, 3 PD, 2 FR
+- **Chris Cole** (LB, Georgia, our board #26): chance available R1 #22 64%, R2 #54 2%. 40 tackles, 2.5 sacks, 3 PD, 2 FR
 - **Suntarine Perkins** (LB, Ole Miss, our board #93): chance available R1 #22 98%, R2 #54 87%. 20 tackles, 1.5 sacks, 1 PD, 1 FR
 - **Myles Graham** (LB, Florida, our board #108): chance available R1 #22 98%, R2 #54 91%. 49 tackles, 3.5 sacks, 1 FR
 - **Raylen Wilson** (LB, Georgia, our board #121): chance available R1 #22 99%, R2 #54 94%. 33 tackles, 5 TFL, 3 sacks

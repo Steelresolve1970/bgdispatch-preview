@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-18T05:44:32.083204+00:00",
- "as_of": "2026-10-17T11:33:46Z",
+ "generated": "2026-10-18T12:05:59.436094+00:00",
+ "as_of": "2026-10-18T12:02:37Z",
  "units": [
   {
    "unit": "Offense",
@@ -71,6 +71,13 @@
        "pos": "RB",
        "injury": null,
        "link": null
+      },
+      {
+       "name": "Lew Nichols",
+       "jersey": "31",
+       "pos": "RB",
+       "injury": null,
+       "link": null
       }
      ]
     },
@@ -95,39 +102,19 @@
        "name": "DK Metcalf",
        "jersey": "4",
        "pos": "WR",
-       "injury": "Questionable",
-       "link": null
-      },
-      {
-       "name": "Ben Skowronek",
-       "jersey": "15",
-       "pos": "WR",
-       "injury": "Out",
-       "link": null
-      },
-      {
-       "name": "Cole Burgess",
-       "jersey": "85",
-       "pos": "WR",
-       "injury": "Injured Reserve",
-       "link": null
-      }
-     ]
-    },
-    {
-     "slot": "WR",
-     "label": "Wide Receiver",
-     "players": [
-      {
-       "name": "Roman Wilson",
-       "jersey": "14",
-       "pos": "WR",
-       "injury": "Out",
+       "injury": null,
        "link": null
       },
       {
        "name": "Kaden Wetjen",
        "jersey": "10",
+       "pos": "WR",
+       "injury": null,
+       "link": null
+      },
+      {
+       "name": "Michael Pittman Jr.",
+       "jersey": "11",
        "pos": "WR",
        "injury": null,
        "link": null
@@ -146,10 +133,44 @@
        "link": null
       },
       {
-       "name": "Michael Pittman Jr.",
-       "jersey": "11",
+       "name": "Brandon Smith",
+       "jersey": "87",
        "pos": "WR",
        "injury": null,
+       "link": null
+      },
+      {
+       "name": "Roman Wilson",
+       "jersey": "14",
+       "pos": "WR",
+       "injury": "Out",
+       "link": null
+      }
+     ]
+    },
+    {
+     "slot": "WR",
+     "label": "Wide Receiver",
+     "players": [
+      {
+       "name": "Ben Skowronek",
+       "jersey": "15",
+       "pos": "WR",
+       "injury": "Out",
+       "link": null
+      },
+      {
+       "name": "Brandon Johnson",
+       "jersey": "82",
+       "pos": "WR",
+       "injury": null,
+       "link": null
+      },
+      {
+       "name": "Cole Burgess",
+       "jersey": "85",
+       "pos": "WR",
+       "injury": "Injured Reserve",
        "link": null
       }
      ]
@@ -169,7 +190,7 @@
        "name": "Pat Freiermuth",
        "jersey": "88",
        "pos": "TE",
-       "injury": null,
+       "injury": "Questionable",
        "link": null
       },
       {
@@ -647,13 +668,6 @@
        "link": null
       },
       {
-       "name": "Rico Dowdle",
-       "jersey": "13",
-       "pos": "RB",
-       "injury": "Questionable",
-       "link": null
-      },
-      {
        "name": "Donte Kent",
        "jersey": "34",
        "pos": "DB",
@@ -678,20 +692,6 @@
        "jersey": "29",
        "pos": "RB",
        "injury": null,
-       "link": null
-      },
-      {
-       "name": "Roman Wilson",
-       "jersey": "14",
-       "pos": "WR",
-       "injury": "Out",
-       "link": null
-      },
-      {
-       "name": "Rico Dowdle",
-       "jersey": "13",
-       "pos": "RB",
-       "injury": "Questionable",
        "link": null
       },
       {
@@ -721,5 +721,5 @@
  ],
  "source": "Data: nflverse (CC-BY 4.0)",
  "source_url": "https://github.com/nflverse/nflverse-data",
- "note": "Depth chart: nflverse (CC-BY 4.0), as of 2026-10-17T11:33:46Z. Injury tags from the official NFL injury report via nflverse."
+ "note": "Depth chart: nflverse (CC-BY 4.0), as of 2026-10-18T12:02:37Z. Injury tags from the official NFL injury report via nflverse."
 }
