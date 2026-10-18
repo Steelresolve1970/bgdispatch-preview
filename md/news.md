@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-18T02:02:07+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T02:01:59+00:00._
+_Generated 2026-10-18T02:06:23+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T02:05:59+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Steelers Vs. Buccaneers 2026 Week Six: Game Time, Line, Weather, Injuries, TV, & Radio Schedule](https://steelersdepot.com/2026/10/steelers-vs-buccaneers-2026-week-six-game-time-line-weather-injuries-tv-radio-schedule/): Steelers Depot, 2026-10-18 02:00 UTC

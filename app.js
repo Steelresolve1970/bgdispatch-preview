@@ -36,9 +36,16 @@ function renderFilm(){
   const x=p.items.map(e=>tile(e,'🎬 Film',e.creator,'View'));$('film-list').innerHTML=x.slice(0,6).join('')||empty('No film breakdowns yet for the last game');$('film-full').innerHTML=x.join('')||empty('No film breakdowns yet for the last game');}
  if(D.prev){const p=D.prev,h=p.game?'Film Preview: '+p.game.label:'Film Preview';$('prevH').textContent=h;$('prevH2').textContent=h;
   const x=p.items.map(e=>tile(e,'🔎 Preview',e.creator,'View'));$('preview-list').innerHTML=x.slice(0,6).join('')||empty('No previews yet for the next game');$('preview-full').innerHTML=x.join('')||empty('No previews yet for the next game');}}
-function renderPods(){const p=D.pods;if(!p)return;const today=new Date().toLocaleDateString('en-CA',ET);
- const x=(p.date_et===today?p.items:[]).map(e=>tile(e,e.kind==='video'?'▶ YouTube':'🎙 Podcast',e.show,e.kind==='video'?'Watch':'Listen')).join('')||empty('No new episodes yet today');
- $('pods').innerHTML=x;$('pods-full').innerHTML=x;}
+function renderPods(){const p=D.pods;if(!p)return;const cut=Date.now()-7*864e5;
+ const it=(p.items||[]).filter(e=>new Date(e.published)>=cut).sort((a,b)=>b.published.localeCompare(a.published));
+ const t=e=>tile(e,e.kind==='video'?'▶ YouTube':'🎙 Podcast',e.show,e.kind==='video'?'Watch':'Listen');
+ $('pods').innerHTML=it.slice(0,6).map(t).join('')||empty('No new episodes this week');
+ const g={};it.forEach(e=>{const k=new Date(e.published).toLocaleDateString('en-CA',ET);(g[k]=g[k]||[]).push(e)});
+ const day=k=>new Date(k+'T12:00:00').toLocaleDateString('en-US',{weekday:'long',month:'short',day:'numeric'});
+ let h=Object.keys(g).sort().reverse().map(k=>`<h2 class="section-title pod-day">${day(k)} <small>${g[k].length}</small></h2><div class="pods">${g[k].map(t).join('')}</div>`).join('')||empty('No new episodes in the past 7 days');
+ const ch=p.yt_channels||[];
+ if(ch.length)h+=`<h2 class="section-title pod-day">Latest on YouTube</h2><p class="fine">Official YouTube players for channels whose feed didn’t load this update.</p><div class="pods">${ch.map(c=>`<article class="pod"><p class="kind">▶ YouTube</p><p class="meta"><b>${esc(c.show)}</b></p><div class="yt-embed"><iframe loading="lazy" src="${esc(c.embed)}" title="${esc(c.show)} latest videos" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe></div><a href="${esc(c.link)}" ${ext}>Watch on YouTube →</a></article>`).join('')}</div>`;
+ $('pods-full').innerHTML=h;}
 const fmt=(iso,o)=>new Date(iso).toLocaleString('en-US',{...ET,...o});
 function renderGame(){const s=D.sched;if(!s)return;const n=s.next,l=s.last;
  const vs=g=>`${g.home?'vs':'at'} ${esc(g.opponent)}`;

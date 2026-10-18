@@ -369,3 +369,6 @@ nav .more a{color:#fff}nav .more a[aria-current]{color:var(--gold)}
 
 .pc-link{all:unset;cursor:pointer;color:inherit;text-decoration:underline;text-decoration-color:var(--gold);text-underline-offset:3px}.pc-link:hover,.pc-link:focus-visible{color:#000;outline:2px solid var(--gold);outline-offset:2px}
 .pc-host .dr-modal{z-index:1000}.pc-close{margin-top:10px;width:100%}body.pc-open{overflow:hidden}
+
+.pod-day{margin-top:1.4rem}.pod-day small{font-size:.75em;opacity:.6}
+.yt-embed{position:relative;padding-top:56.25%;margin:.5rem 0}.yt-embed iframe{position:absolute;inset:0;width:100%;height:100%;border:0;border-radius:8px}

@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-18T02:02:07+00:00",
- "data_updated": "2026-10-18T02:02:00+00:00",
- "count": 3,
+ "generated": "2026-10-18T02:06:23+00:00",
+ "data_updated": "2026-10-18T02:06:16+00:00",
+ "count": 126,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -33,6 +33,19 @@
    }
   },
   {
+   "id": "07594ef52f7a8c3e",
+   "type": "video",
+   "title": "E Robb didn’t want to let his teammates down 👏💥#nfl #patriots #falcons",
+   "show": "Not Just Football with Cam Heyward",
+   "url": "https://www.youtube.com/shorts/bheCQdatp50",
+   "published": "2026-10-17T23:00:17+00:00",
+   "summary": "Video from Not Just Football with Cam Heyward.",
+   "source": {
+    "name": "Not Just Football with Cam Heyward",
+    "url": null
+   }
+  },
+  {
    "id": "963400aafcd863bc",
    "type": "podcast_episode",
    "title": "The Terrible Take - Episode 2053 - October 17, 2026",
@@ -46,6 +59,19 @@
    }
   },
   {
+   "id": "5e80448f1c0c2df2",
+   "type": "podcast_episode",
+   "title": "State of the Steelers: Can The Steelers Fix Its Road Woes in Tampa Bay?",
+   "show": "Steel Curtain Network (BTSC)",
+   "url": "http://steelcurtainnetwork.com",
+   "published": "2026-10-17T15:09:00+00:00",
+   "summary": "Podcast episode from Steel Curtain Network (BTSC).",
+   "source": {
+    "name": "Steel Curtain Network (BTSC)",
+    "url": null
+   }
+  },
+  {
    "id": "936efff9306c53cb",
    "type": "podcast_episode",
    "title": "🔥 JAYLEN WARREN ON FIRE! CAN THE STEELERS SINK TAMPA BAY? | SF7P EPISODE 211 ⚫🟡",
@@ -55,6 +81,1579 @@
    "summary": "Podcast episode from Steelers for 7 Podcast.",
    "source": {
     "name": "Steelers for 7 Podcast",
+    "url": null
+   }
+  },
+  {
+   "id": "43b3c700153a0cae",
+   "type": "podcast_episode",
+   "title": "DK's Double Shot of Penguins: Updates from Denver!",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-double-shot-of-penguins-updates-from-denver/",
+   "published": "2026-10-16T22:03:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
+    "url": null
+   }
+  },
+  {
+   "id": "1d72a024fabf0d83",
+   "type": "podcast_episode",
+   "title": "DK’s Double Shot of Steelers: Those linebackers",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-double-shot-of-steelers-those-linebackers/",
+   "published": "2026-10-16T22:01:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
+    "url": null
+   }
+  },
+  {
+   "id": "1d6e6189cf38fafb",
+   "type": "podcast_episode",
+   "title": "The South Side Beat - Ep. 301: Can Steelers win on the road?",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/the-south-side-beat-ep-301-can-steelers-win-on-the-road/",
+   "published": "2026-10-16T22:00:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
+    "url": null
+   }
+  },
+  {
+   "id": "731c93f0932036ca",
+   "type": "podcast_episode",
+   "title": "Steelers Hit With Even Worse WR News!",
+   "show": "All Steelers Talk",
+   "url": "https://bleav.com/shows/all-steelers-talk/episodes/steelers-hit-with-even-worse-wr-news/",
+   "published": "2026-10-16T21:13:00+00:00",
+   "summary": "Podcast episode from All Steelers Talk.",
+   "source": {
+    "name": "All Steelers Talk",
+    "url": null
+   }
+  },
+  {
+   "id": "bcf186051a39b435",
+   "type": "podcast_episode",
+   "title": "The Terrible Take - Episode 2052 - October 16, 2026",
+   "show": "The Terrible Podcast (Steelers Depot)",
+   "url": "https://megaphone.link/SDP8426283247",
+   "published": "2026-10-16T21:00:00+00:00",
+   "summary": "Podcast episode from The Terrible Podcast (Steelers Depot).",
+   "source": {
+    "name": "The Terrible Podcast (Steelers Depot)",
+    "url": null
+   }
+  },
+  {
+   "id": "47feb07447e41450",
+   "type": "video",
+   "title": "So much went into this play for Elandon Roberts 💥🏈 #steelers #nfl #pittsburgh",
+   "show": "Not Just Football with Cam Heyward",
+   "url": "https://www.youtube.com/shorts/5FYyVJkVFIw",
+   "published": "2026-10-16T16:10:09+00:00",
+   "summary": "Video from Not Just Football with Cam Heyward.",
+   "source": {
+    "name": "Not Just Football with Cam Heyward",
+    "url": null
+   }
+  },
+  {
+   "id": "6c4826990cfcd5e9",
+   "type": "podcast_episode",
+   "title": "Hour 1: Final Breakdown of the Bucs",
+   "show": "Steelers Blitz",
+   "url": "https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-101626-mp3",
+   "published": "2026-10-16T16:00:00+00:00",
+   "summary": "Podcast episode from Steelers Blitz.",
+   "source": {
+    "name": "Steelers Blitz",
+    "url": null
+   }
+  },
+  {
+   "id": "23e71ad86838e42f",
+   "type": "podcast_episode",
+   "title": "Drive10.16.26Hr1: 5 Star Friday",
+   "show": "SNR Drive",
+   "url": "https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-16-26hr1-mp3",
+   "published": "2026-10-16T16:00:00+00:00",
+   "summary": "Podcast episode from SNR Drive.",
+   "source": {
+    "name": "SNR Drive",
+    "url": null
+   }
+  },
+  {
+   "id": "be20fd5524982c30",
+   "type": "podcast_episode",
+   "title": "The Terrible Podcast — Steelers Vs Buccaneers Game Preview, Trade Possibility, Injury Report, Week 6 Picks, And More",
+   "show": "The Terrible Podcast (Steelers Depot)",
+   "url": "https://megaphone.link/SDP2804469821",
+   "published": "2026-10-16T15:14:00+00:00",
+   "summary": "Podcast episode from The Terrible Podcast (Steelers Depot).",
+   "source": {
+    "name": "The Terrible Podcast (Steelers Depot)",
+    "url": null
+   }
+  },
+  {
+   "id": "0f508ef7b8d5eb4a",
+   "type": "podcast_episode",
+   "title": "Hour 2: Ed Troupe / Around the Shield",
+   "show": "Steelers Blitz",
+   "url": "https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr2-101626-mp3",
+   "published": "2026-10-16T15:00:00+00:00",
+   "summary": "Podcast episode from Steelers Blitz.",
+   "source": {
+    "name": "Steelers Blitz",
+    "url": null
+   }
+  },
+  {
+   "id": "af0ab971677c289e",
+   "type": "podcast_episode",
+   "title": "Drive10.16.26Hr2: Week 6 Preview",
+   "show": "SNR Drive",
+   "url": "https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-16-26hr2-mp3",
+   "published": "2026-10-16T15:00:00+00:00",
+   "summary": "Podcast episode from SNR Drive.",
+   "source": {
+    "name": "SNR Drive",
+    "url": null
+   }
+  },
+  {
+   "id": "cc7b4c0accf8ef62",
+   "type": "podcast_episode",
+   "title": "Drive10.16.26Missi: Missi Matthews on Bucs Clash",
+   "show": "SNR Drive",
+   "url": "https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-16missi-mp3",
+   "published": "2026-10-16T14:01:00+00:00",
+   "summary": "Podcast episode from SNR Drive.",
+   "source": {
+    "name": "SNR Drive",
+    "url": null
+   }
+  },
+  {
+   "id": "c4f8c88511b0a90b",
+   "type": "podcast_episode",
+   "title": "Steelers WR Outlook: Who Replaces Roman Wilson?",
+   "show": "All Steelers Talk",
+   "url": "https://bleav.com/shows/all-steelers-talk/episodes/steelers-wr-outlook-who-replaces-roman-wilson/",
+   "published": "2026-10-16T10:27:00+00:00",
+   "summary": "Podcast episode from All Steelers Talk.",
+   "source": {
+    "name": "All Steelers Talk",
+    "url": null
+   }
+  },
+  {
+   "id": "0e43bfa198ef7821",
+   "type": "video",
+   "title": "Elandon Roberts on Returning to the Steelers, Super Bowl Memories & More! | Not Just Football",
+   "show": "Not Just Football with Cam Heyward",
+   "url": "https://www.youtube.com/watch?v=AE8wB5uMrH4",
+   "published": "2026-10-16T10:00:01+00:00",
+   "summary": "Video from Not Just Football with Cam Heyward.",
+   "source": {
+    "name": "Not Just Football with Cam Heyward",
+    "url": null
+   }
+  },
+  {
+   "id": "2ed6132323e2d6f6",
+   "type": "podcast_episode",
+   "title": "Elandon Roberts on Returning to the Steelers, Super Bowl Memories & More! | Not Just Football",
+   "show": "Not Just Football with Cam Heyward",
+   "url": "https://www.youtube.com/@NotJustFootballwithCamHeyward",
+   "published": "2026-10-16T10:00:00+00:00",
+   "summary": "Podcast episode from Not Just Football with Cam Heyward.",
+   "source": {
+    "name": "Not Just Football with Cam Heyward",
+    "url": null
+   }
+  },
+  {
+   "id": "c2cfaf313d0bce9a",
+   "type": "podcast_episode",
+   "title": "NFL Week 6 Predictions/Pittsburgh Steelers",
+   "show": "The Arthur Moats Experience",
+   "url": "https://arthurmoats55.libsyn.com/the_arthur_moats_experience__ep_778__live___steelers_gabriel_rubio_nfl_week_6_predictions_mp3",
+   "published": "2026-10-16T09:52:00+00:00",
+   "summary": "Podcast episode from The Arthur Moats Experience.",
+   "source": {
+    "name": "The Arthur Moats Experience",
+    "url": null
+   }
+  },
+  {
+   "id": "b80d96c4aa25ca1c",
+   "type": "podcast_episode",
+   "title": "DK's Daily Shot of Steelers: Ten things I'd like to see",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-steelers-ten-things-id-like-to-see/",
+   "published": "2026-10-16T05:08:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
+    "url": null
+   }
+  },
+  {
+   "id": "c51ff549855ecc28",
+   "type": "podcast_episode",
+   "title": "DK's Daily Shot of Penguins: Youngsters without fault?",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-penguins-youngsters-without-fault/",
+   "published": "2026-10-16T05:07:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
+    "url": null
+   }
+  },
+  {
+   "id": "b99bfe70e7b62268",
+   "type": "podcast_episode",
+   "title": "Scout’s Eye with Matt Williamson: Tougher than they look",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/scouts-eye-with-matt-williamson-tougher-than-they-look/",
+   "published": "2026-10-16T05:06:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
+    "url": null
+   }
+  },
+  {
+   "id": "833b285ecdc95056",
+   "type": "video",
+   "title": "Steelers Need Mike McCarthy to Overcome Lack of Separation of WRs DK Metcalf, Germie Bernard",
+   "show": "Locked On Steelers",
+   "url": "https://www.youtube.com/watch?v=N1WprZaEpWI",
+   "published": "2026-10-16T05:00:10+00:00",
+   "summary": "Video from Locked On Steelers.",
+   "source": {
+    "name": "Locked On Steelers",
+    "url": null
+   }
+  },
+  {
+   "id": "50327394adeb9940",
+   "type": "podcast_episode",
+   "title": "Steelers Need Mike McCarthy to Overcome Lack of Separation of WRs DK Metcalf, Germie Bernard",
+   "show": "Locked On Steelers",
+   "url": "https://lockedonpodcasts.com/podcasts/locked-on-steelers/",
+   "published": "2026-10-16T04:30:00+00:00",
+   "summary": "Podcast episode from Locked On Steelers.",
+   "source": {
+    "name": "Locked On Steelers",
+    "url": null
+   }
+  },
+  {
+   "id": "77d37acd4f8210ec",
+   "type": "podcast_episode",
+   "title": "SCB Steelers Podcast 494 - Galloping Away",
+   "show": "Steel City Blitz",
+   "url": "https://scblitz.podbean.com/e/scb-steelers-podcast-494-galloping-away/",
+   "published": "2026-10-16T03:32:42+00:00",
+   "summary": "Podcast episode from Steel City Blitz.",
+   "source": {
+    "name": "Steel City Blitz",
+    "url": null
+   }
+  },
+  {
+   "id": "44389d9e6d91d026",
+   "type": "podcast_episode",
+   "title": "DK's Double Shot of Penguins: Power-play change?",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-double-shot-of-penguins-power-play-change/",
+   "published": "2026-10-15T22:49:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
+    "url": null
+   }
+  },
+  {
+   "id": "b6a027898277077d",
+   "type": "podcast_episode",
+   "title": "DK’s Double Shot of Steelers: Take Tampa seriously?",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-double-shot-of-steelers-take-tampa-seriously/",
+   "published": "2026-10-15T22:06:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
+    "url": null
+   }
+  },
+  {
+   "id": "e2c913db2604d8f8",
+   "type": "video",
+   "title": "Steelers' Mike McCarthy Must Solve WR Separation Issue w/DK Metcalf, Germie Bernard vs Buccaneers",
+   "show": "Locked On Steelers",
+   "url": "https://www.youtube.com/shorts/FJtbyDhy-5k",
+   "published": "2026-10-15T21:53:58+00:00",
+   "summary": "Video from Locked On Steelers.",
+   "source": {
+    "name": "Locked On Steelers",
+    "url": null
+   }
+  },
+  {
+   "id": "f41f0bacffa19098",
+   "type": "podcast_episode",
+   "title": "Steelers Injuries: Good News, Bad News, IR Coming?",
+   "show": "All Steelers Talk",
+   "url": "https://bleav.com/shows/all-steelers-talk/episodes/steelers-injuries-good-news-bad-news-ir-coming/",
+   "published": "2026-10-15T21:11:00+00:00",
+   "summary": "Podcast episode from All Steelers Talk.",
+   "source": {
+    "name": "All Steelers Talk",
+    "url": null
+   }
+  },
+  {
+   "id": "f534b86d6ae75476",
+   "type": "podcast_episode",
+   "title": "The Terrible Take - Episode 2051 - October 15, 2026",
+   "show": "The Terrible Podcast (Steelers Depot)",
+   "url": "https://megaphone.link/SDP5253318668",
+   "published": "2026-10-15T21:00:00+00:00",
+   "summary": "Podcast episode from The Terrible Podcast (Steelers Depot).",
+   "source": {
+    "name": "The Terrible Podcast (Steelers Depot)",
+    "url": null
+   }
+  },
+  {
+   "id": "5442f91e13fd9a93",
+   "type": "podcast_episode",
+   "title": "Can the Steelers keep rolling with a depleted offense?",
+   "show": "Steel City Underground",
+   "url": "https://www.steelcityunderground.com/podcast/2026/10/can-the-steelers-keep-rolling-with-a-depleted-offense/",
+   "published": "2026-10-15T19:52:58+00:00",
+   "summary": "Podcast episode from Steel City Underground.",
+   "source": {
+    "name": "Steel City Underground",
+    "url": null
+   }
+  },
+  {
+   "id": "ebeac0c4db23ab3c",
+   "type": "podcast_episode",
+   "title": "The Depot Dive - Episode 118 - October 15, 2026",
+   "show": "The Terrible Podcast (Steelers Depot)",
+   "url": "https://megaphone.link/SDP5088842678",
+   "published": "2026-10-15T19:15:00+00:00",
+   "summary": "Podcast episode from The Terrible Podcast (Steelers Depot).",
+   "source": {
+    "name": "The Terrible Podcast (Steelers Depot)",
+    "url": null
+   }
+  },
+  {
+   "id": "a6c7f42b63d3bbaf",
+   "type": "video",
+   "title": "Can the Steelers keep rolling with a depleted offense?",
+   "show": "Steel City Underground",
+   "url": "https://www.youtube.com/watch?v=5chTykeJwJk",
+   "published": "2026-10-15T19:05:24+00:00",
+   "summary": "Video from Steel City Underground.",
+   "source": {
+    "name": "Steel City Underground",
+    "url": null
+   }
+  },
+  {
+   "id": "6673017ef88bbce8",
+   "type": "video",
+   "title": "The Steelers vs Bucs Matchup Comes Down to Who Controls the Run Game 😤 #steelers #Bucs #nfl",
+   "show": "Locked On Steelers",
+   "url": "https://www.youtube.com/shorts/BW13C2GCr5g",
+   "published": "2026-10-15T16:49:06+00:00",
+   "summary": "Video from Locked On Steelers.",
+   "source": {
+    "name": "Locked On Steelers",
+    "url": null
+   }
+  },
+  {
+   "id": "02ca1db1b2ce2181",
+   "type": "video",
+   "title": "Not many number 1 receivers would be willing to block like DK Metcalf is 🔥👏#dkmetcalf #steelers",
+   "show": "Not Just Football with Cam Heyward",
+   "url": "https://www.youtube.com/shorts/Q-zad-ffG3c",
+   "published": "2026-10-15T16:00:14+00:00",
+   "summary": "Video from Not Just Football with Cam Heyward.",
+   "source": {
+    "name": "Not Just Football with Cam Heyward",
+    "url": null
+   }
+  },
+  {
+   "id": "5cbb1343e3bf21fe",
+   "type": "podcast_episode",
+   "title": "Hour 1: Deep Dive into Buccaneers",
+   "show": "Steelers Blitz",
+   "url": "https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-101526-mp3",
+   "published": "2026-10-15T16:00:00+00:00",
+   "summary": "Podcast episode from Steelers Blitz.",
+   "source": {
+    "name": "Steelers Blitz",
+    "url": null
+   }
+  },
+  {
+   "id": "e4dfef84727a8474",
+   "type": "podcast_episode",
+   "title": "Hour 2: How to Lose a Game in Five Ways",
+   "show": "Steelers Blitz",
+   "url": "https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr2-101526-mp3",
+   "published": "2026-10-15T15:00:00+00:00",
+   "summary": "Podcast episode from Steelers Blitz.",
+   "source": {
+    "name": "Steelers Blitz",
+    "url": null
+   }
+  },
+  {
+   "id": "4a3ad79bf1e3d838",
+   "type": "podcast_episode",
+   "title": "Steelers Ready for Splash Trade at Deadline",
+   "show": "All Steelers Talk",
+   "url": "https://bleav.com/shows/all-steelers-talk/?post_type=gp_podcast_episode&p=1850",
+   "published": "2026-10-15T15:00:00+00:00",
+   "summary": "Podcast episode from All Steelers Talk.",
+   "source": {
+    "name": "All Steelers Talk",
+    "url": null
+   }
+  },
+  {
+   "id": "f3e22eebf79836ec",
+   "type": "video",
+   "title": "STEELERS SQUAD SHOW: SURPRISE! Kordell Stewart CRASHES Show, Talks 'Slash & Burn' HBO Doc",
+   "show": "Locked On Steelers",
+   "url": "https://www.youtube.com/watch?v=CWlu-Dz7IJU",
+   "published": "2026-10-15T13:15:31+00:00",
+   "summary": "Video from Locked On Steelers.",
+   "source": {
+    "name": "Locked On Steelers",
+    "url": null
+   }
+  },
+  {
+   "id": "952f58d72436e4a1",
+   "type": "podcast_episode",
+   "title": "Aaron Rodgers Leaks Steelers WR Plan",
+   "show": "All Steelers Talk",
+   "url": "https://bleav.com/shows/all-steelers-talk/episodes/aaron-rodgers-leaks-steelers-wr-plan/",
+   "published": "2026-10-15T12:25:00+00:00",
+   "summary": "Podcast episode from All Steelers Talk.",
+   "source": {
+    "name": "All Steelers Talk",
+    "url": null
+   }
+  },
+  {
+   "id": "d728838a63407b35",
+   "type": "podcast_episode",
+   "title": "Why Jaylen Warren Is Surging - And What's Going On With The Steelers Linebackers",
+   "show": "The Arthur Moats Experience",
+   "url": "https://arthurmoats55.libsyn.com/warrenilb_ytmp3",
+   "published": "2026-10-15T09:52:00+00:00",
+   "summary": "Podcast episode from The Arthur Moats Experience.",
+   "source": {
+    "name": "The Arthur Moats Experience",
+    "url": null
+   }
+  },
+  {
+   "id": "c2ebb7703078c6d7",
+   "type": "podcast_episode",
+   "title": "Germie Bernard on Making It to the NFL & Life Beyond the Game | The Christian Kuntz Podcast",
+   "show": "The Christian Kuntz Podcast",
+   "url": "https://podcasters.spotify.com/pod/show/christian-kuntz/episodes/Germie-Bernard-on-Making-It-to-the-NFL--Life-Beyond-the-Game--The-Christian-Kuntz-Podcast-e3qgbnm",
+   "published": "2026-10-15T09:00:00+00:00",
+   "summary": "Podcast episode from The Christian Kuntz Podcast.",
+   "source": {
+    "name": "The Christian Kuntz Podcast",
+    "url": null
+   }
+  },
+  {
+   "id": "515888b9c494f948",
+   "type": "video",
+   "title": "Steelers offense MUST adapt after WR injuries | Steelers vs. Buccaneers Week 6 Preview",
+   "show": "Still Curtain Podcast",
+   "url": "https://www.youtube.com/watch?v=n-84rQrUKEc",
+   "published": "2026-10-15T06:43:03+00:00",
+   "summary": "Video from Still Curtain Podcast.",
+   "source": {
+    "name": "Still Curtain Podcast",
+    "url": null
+   }
+  },
+  {
+   "id": "4d25fdcd4ac80446",
+   "type": "video",
+   "title": "Steelers' Offensive Balance Unlocks Aaron Rodgers' Football IQ | Jaylen Warren vs Top Run Defense",
+   "show": "Locked On Steelers",
+   "url": "https://www.youtube.com/watch?v=u_XrcucgHrI",
+   "published": "2026-10-15T06:30:06+00:00",
+   "summary": "Video from Locked On Steelers.",
+   "source": {
+    "name": "Locked On Steelers",
+    "url": null
+   }
+  },
+  {
+   "id": "304b44b63d31911d",
+   "type": "podcast_episode",
+   "title": "DK's Daily Shot of Steelers: Too tough on this defense?",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-steelers-too-tough-on-this-defense/",
+   "published": "2026-10-15T05:31:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
+    "url": null
+   }
+  },
+  {
+   "id": "ff700a0852c5621e",
+   "type": "podcast_episode",
+   "title": "DK's Daily Shot of Penguins: Do right by Ben Kindel",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-penguins-do-right-by-ben-kindel/",
+   "published": "2026-10-15T05:30:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
+    "url": null
+   }
+  },
+  {
+   "id": "2ac0754712dffdbb",
+   "type": "podcast_episode",
+   "title": "DK's Daily Shot of Pirates: What'll change now?",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-pirates-whatll-change-now/",
+   "published": "2026-10-15T05:29:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
+    "url": null
+   }
+  },
+  {
+   "id": "3327f6afcb9807d4",
+   "type": "podcast_episode",
+   "title": "Scout’s Eye with Matt Williamson: The Offensive Player of the Week",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/scouts-eye-with-matt-williamson-the-offensive-player-of-the-week/",
+   "published": "2026-10-15T05:28:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
+    "url": null
+   }
+  },
+  {
+   "id": "5d226f9832d9e131",
+   "type": "podcast_episode",
+   "title": "SteelersFor7Podcast Ep. 210: Black & Gold Showdown | Steelers Trivia, Games & Heated Debates",
+   "show": "Steelers for 7 Podcast",
+   "url": "https://podcasters.spotify.com/pod/show/steelersfor7podcast/episodes/SteelersFor7Podcast-Ep--210-Black--Gold-Showdown--Steelers-Trivia--Games--Heated-Debates-e3qhino",
+   "published": "2026-10-15T04:55:12+00:00",
+   "summary": "Podcast episode from Steelers for 7 Podcast.",
+   "source": {
+    "name": "Steelers for 7 Podcast",
+    "url": null
+   }
+  },
+  {
+   "id": "28bc10f4e7b5c335",
+   "type": "podcast_episode",
+   "title": "Steelers Crazy #299 - Bucs vs Steelers Preview",
+   "show": "The Sick Podcast - Steelers Crazy",
+   "url": "https://anchor.fm/the-sick-podcast---steelers-crazy",
+   "published": "2026-10-15T01:32:00+00:00",
+   "summary": "Podcast episode from The Sick Podcast - Steelers Crazy.",
+   "source": {
+    "name": "The Sick Podcast - Steelers Crazy",
+    "url": null
+   }
+  },
+  {
+   "id": "a5ed51d5e3c4d07e",
+   "type": "podcast_episode",
+   "title": "DK's Double Shot of Steelers: Practice updates!",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-double-shot-of-steelers-practice-updates/",
+   "published": "2026-10-14T22:23:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
+    "url": null
+   }
+  },
+  {
+   "id": "457fa80ca13d24f9",
+   "type": "podcast_episode",
+   "title": "DK's Double Shot of Penguins: ‘Disappointing’ sounds right",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-double-shot-of-penguins-disappointing-sounds-right/",
+   "published": "2026-10-14T22:20:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
+    "url": null
+   }
+  },
+  {
+   "id": "8de76be198179766",
+   "type": "podcast_episode",
+   "title": "Insider Gives Steelers 5 WR Trades",
+   "show": "All Steelers Talk",
+   "url": "https://bleav.com/shows/all-steelers-talk/episodes/insider-gives-steelers-5-wr-trades/",
+   "published": "2026-10-14T21:13:00+00:00",
+   "summary": "Podcast episode from All Steelers Talk.",
+   "source": {
+    "name": "All Steelers Talk",
+    "url": null
+   }
+  },
+  {
+   "id": "dcbaaa553fb66c96",
+   "type": "podcast_episode",
+   "title": "The Terrible Take - Episode 2050 - October 14, 2026",
+   "show": "The Terrible Podcast (Steelers Depot)",
+   "url": "https://megaphone.link/SDP8795893783",
+   "published": "2026-10-14T21:00:00+00:00",
+   "summary": "Podcast episode from The Terrible Podcast (Steelers Depot).",
+   "source": {
+    "name": "The Terrible Podcast (Steelers Depot)",
+    "url": null
+   }
+  },
+  {
+   "id": "1aed1fc7125403b5",
+   "type": "podcast_episode",
+   "title": "Steelers offense MUST adapt after WR injuries | Steelers vs. Buccaneers Week 6 Preview",
+   "show": "Still Curtain Podcast",
+   "url": "https://redcircle.com/shows/62750d24-c3c9-4be8-919a-ff22b312fb19/episodes/ee2d37b8-0a10-4abe-828b-7af2efd47103",
+   "published": "2026-10-14T20:33:05+00:00",
+   "summary": "Podcast episode from Still Curtain Podcast.",
+   "source": {
+    "name": "Still Curtain Podcast",
+    "url": null
+   }
+  },
+  {
+   "id": "022237759e2bec99",
+   "type": "video",
+   "title": "Steelers' Elandon Roberts Excited to Be Back w/Patrick Queen/Payton Wilson | Says 'No Hard Feelings'",
+   "show": "Locked On Steelers",
+   "url": "https://www.youtube.com/shorts/-S83od0Ep08",
+   "published": "2026-10-14T20:11:59+00:00",
+   "summary": "Video from Locked On Steelers.",
+   "source": {
+    "name": "Locked On Steelers",
+    "url": null
+   }
+  },
+  {
+   "id": "a1d32bb4f4b223cc",
+   "type": "podcast_episode",
+   "title": "Drive10.14.26Hr1: Scouting the Bucs",
+   "show": "SNR Drive",
+   "url": "https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-14-26hr1-mp3",
+   "published": "2026-10-14T20:00:00+00:00",
+   "summary": "Podcast episode from SNR Drive.",
+   "source": {
+    "name": "SNR Drive",
+    "url": null
+   }
+  },
+  {
+   "id": "d788d2da848585b1",
+   "type": "podcast_episode",
+   "title": "Drive10.14.26Hr2: Around Campus",
+   "show": "SNR Drive",
+   "url": "https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-14-26hr2-mp3",
+   "published": "2026-10-14T19:00:00+00:00",
+   "summary": "Podcast episode from SNR Drive.",
+   "source": {
+    "name": "SNR Drive",
+    "url": null
+   }
+  },
+  {
+   "id": "192b7d4240c0afb9",
+   "type": "podcast_episode",
+   "title": "Drive10.14.26DeFabo: Mike DeFabo on Tampa Trip",
+   "show": "SNR Drive",
+   "url": "https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-14-26defabo-mp3",
+   "published": "2026-10-14T18:01:00+00:00",
+   "summary": "Podcast episode from SNR Drive.",
+   "source": {
+    "name": "SNR Drive",
+    "url": null
+   }
+  },
+  {
+   "id": "a7fdb4010f018091",
+   "type": "podcast_episode",
+   "title": "The Terrible Podcast — Steelers Vs. Colts All-22 Review, McCarthy Monday Recap, Week 6 WR Issues & More",
+   "show": "The Terrible Podcast (Steelers Depot)",
+   "url": "https://megaphone.link/SDP8459223480",
+   "published": "2026-10-14T16:28:00+00:00",
+   "summary": "Podcast episode from The Terrible Podcast (Steelers Depot).",
+   "source": {
+    "name": "The Terrible Podcast (Steelers Depot)",
+    "url": null
+   }
+  },
+  {
+   "id": "a3b999d02b4f7945",
+   "type": "podcast_episode",
+   "title": "Steelers Have Two Problems - Big Ones",
+   "show": "All Steelers Talk",
+   "url": "https://bleav.com/shows/all-steelers-talk/episodes/steelers-have-two-problems-big-ones/",
+   "published": "2026-10-14T16:06:00+00:00",
+   "summary": "Podcast episode from All Steelers Talk.",
+   "source": {
+    "name": "All Steelers Talk",
+    "url": null
+   }
+  },
+  {
+   "id": "35667402d231b3a0",
+   "type": "podcast_episode",
+   "title": "Hour 1: How Good are They Actually?",
+   "show": "Steelers Blitz",
+   "url": "https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-101426-mp3",
+   "published": "2026-10-14T16:00:00+00:00",
+   "summary": "Podcast episode from Steelers Blitz.",
+   "source": {
+    "name": "Steelers Blitz",
+    "url": null
+   }
+  },
+  {
+   "id": "fa8af54bf4b23689",
+   "type": "video",
+   "title": "Reacting to the football in “All American” 😭😂🏈 #football #nfl #allamerican",
+   "show": "Not Just Football with Cam Heyward",
+   "url": "https://www.youtube.com/shorts/WFwzDMia5wI",
+   "published": "2026-10-14T15:12:29+00:00",
+   "summary": "Video from Not Just Football with Cam Heyward.",
+   "source": {
+    "name": "Not Just Football with Cam Heyward",
+    "url": null
+   }
+  },
+  {
+   "id": "50a938d813492f4f",
+   "type": "podcast_episode",
+   "title": "Hour 2: Power Rankings",
+   "show": "Steelers Blitz",
+   "url": "https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr2-101426-mp3",
+   "published": "2026-10-14T15:00:00+00:00",
+   "summary": "Podcast episode from Steelers Blitz.",
+   "source": {
+    "name": "Steelers Blitz",
+    "url": null
+   }
+  },
+  {
+   "id": "639da92b996b52c2",
+   "type": "podcast_episode",
+   "title": "Steelers Star Might Fix Entire Defense",
+   "show": "All Steelers Talk",
+   "url": "https://bleav.com/shows/all-steelers-talk/episodes/steelers-star-might-fix-entire-defense/",
+   "published": "2026-10-14T12:24:00+00:00",
+   "summary": "Podcast episode from All Steelers Talk.",
+   "source": {
+    "name": "All Steelers Talk",
+    "url": null
+   }
+  },
+  {
+   "id": "7e3e2df8169d3828",
+   "type": "video",
+   "title": "Steelers Beat Colts, Bucs Preview, Commanders Game Debate & GOAT Denzel Movie | Not Just Football",
+   "show": "Not Just Football with Cam Heyward",
+   "url": "https://www.youtube.com/watch?v=CpS4d9Kp7lY",
+   "published": "2026-10-14T10:00:21+00:00",
+   "summary": "Video from Not Just Football with Cam Heyward.",
+   "source": {
+    "name": "Not Just Football with Cam Heyward",
+    "url": null
+   }
+  },
+  {
+   "id": "bceeb4bf11cf16ef",
+   "type": "podcast_episode",
+   "title": "DK's Daily Shot of Steelers: Wide receiver alarm?",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-steelers-wide-receiver-alarm/",
+   "published": "2026-10-14T05:29:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
+    "url": null
+   }
+  },
+  {
+   "id": "a0e59e94ec5796f0",
+   "type": "podcast_episode",
+   "title": "DK's Daily Shot of Penguins: Not just a bad goal",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-penguins-not-just-a-bad-goal/",
+   "published": "2026-10-14T05:28:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
+    "url": null
+   }
+  },
+  {
+   "id": "046139e72b13b94a",
+   "type": "podcast_episode",
+   "title": "DK's Daily Shot of Pirates: More player freedom",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-pirates-more-player-freedom/",
+   "published": "2026-10-14T05:27:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
+    "url": null
+   }
+  },
+  {
+   "id": "6d0029dcc8dbebbf",
+   "type": "podcast_episode",
+   "title": "Scout’s Eye with Matt Williamson: A Pro Bowl-caliber right tackle",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/scouts-eye-with-matt-williamson-a-pro-bowl-caliber-right-tackle/",
+   "published": "2026-10-14T05:26:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
+    "url": null
+   }
+  },
+  {
+   "id": "10d8988db56710f7",
+   "type": "video",
+   "title": "Steelers' Top Strength Not its Pass Rush Anymore? | Mike McCarthy's Balance Frees Up Jaylen Warren",
+   "show": "Locked On Steelers",
+   "url": "https://www.youtube.com/watch?v=f8omseVHBOw",
+   "published": "2026-10-14T04:00:08+00:00",
+   "summary": "Video from Locked On Steelers.",
+   "source": {
+    "name": "Locked On Steelers",
+    "url": null
+   }
+  },
+  {
+   "id": "8583a21dcd2cf379",
+   "type": "podcast_episode",
+   "title": "Jaylen Warren is the Steelers’ engine. Can Pittsburgh’s offense travel?",
+   "show": "Steelers Breakdown (PennLive, Nick Farabaugh)",
+   "url": "http://www.pennlive.com/steelers/",
+   "published": "2026-10-14T01:22:00+00:00",
+   "summary": "Podcast episode from Steelers Breakdown (PennLive, Nick Farabaugh).",
+   "source": {
+    "name": "Steelers Breakdown (PennLive, Nick Farabaugh)",
+    "url": null
+   }
+  },
+  {
+   "id": "c2330742acef0707",
+   "type": "video",
+   "title": "The Steelers Can’t FULLY Rely on Jaylen Warren 🚨 #steelers #Jaylenwarren #nfl",
+   "show": "Locked On Steelers",
+   "url": "https://www.youtube.com/shorts/pkyqtPUj2fM",
+   "published": "2026-10-14T00:32:59+00:00",
+   "summary": "Video from Locked On Steelers.",
+   "source": {
+    "name": "Locked On Steelers",
+    "url": null
+   }
+  },
+  {
+   "id": "102b95d13464e814",
+   "type": "podcast_episode",
+   "title": "DK’s Double Shot of Steelers: Is the offense real?",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-double-shot-of-steelers-is-the-offense-real/",
+   "published": "2026-10-13T22:27:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
+    "url": null
+   }
+  },
+  {
+   "id": "eb03b13ea0a71828",
+   "type": "podcast_episode",
+   "title": "DK's Double Shot of Penguins: On to Chicago!",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-double-shot-of-penguins-on-to-chicago/",
+   "published": "2026-10-13T22:19:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
+    "url": null
+   }
+  },
+  {
+   "id": "11a59ca4a17822e2",
+   "type": "podcast_episode",
+   "title": "We Learned More From The Red Zone Than The Scoreboard Ep 143",
+   "show": "Footbahlin with Ben Roethlisberger",
+   "url": "https://footbahlinwithben.buzzsprout.com",
+   "published": "2026-10-13T22:00:00+00:00",
+   "summary": "Podcast episode from Footbahlin with Ben Roethlisberger.",
+   "source": {
+    "name": "Footbahlin with Ben Roethlisberger",
+    "url": null
+   }
+  },
+  {
+   "id": "153c0a6ec0345ab0",
+   "type": "podcast_episode",
+   "title": "Steelers Prepping for LB Trade?",
+   "show": "All Steelers Talk",
+   "url": "https://bleav.com/shows/all-steelers-talk/episodes/steelers-prepping-for-lb-trade/",
+   "published": "2026-10-13T21:16:00+00:00",
+   "summary": "Podcast episode from All Steelers Talk.",
+   "source": {
+    "name": "All Steelers Talk",
+    "url": null
+   }
+  },
+  {
+   "id": "ac935d00416fae03",
+   "type": "podcast_episode",
+   "title": "The Terrible Take - Episode 2049 - October 13, 2026",
+   "show": "The Terrible Podcast (Steelers Depot)",
+   "url": "https://megaphone.link/SDP6944403915",
+   "published": "2026-10-13T21:00:00+00:00",
+   "summary": "Podcast episode from The Terrible Podcast (Steelers Depot).",
+   "source": {
+    "name": "The Terrible Podcast (Steelers Depot)",
+    "url": null
+   }
+  },
+  {
+   "id": "ae54b389e64ca858",
+   "type": "podcast_episode",
+   "title": "Drive10.13.26Hr1: Rookie Class Rising",
+   "show": "SNR Drive",
+   "url": "https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-13-26hr1-mp3",
+   "published": "2026-10-13T20:01:00+00:00",
+   "summary": "Podcast episode from SNR Drive.",
+   "source": {
+    "name": "SNR Drive",
+    "url": null
+   }
+  },
+  {
+   "id": "3013a9cb21f77fd4",
+   "type": "podcast_episode",
+   "title": "Drive10.13.26Hr2: Fantasy Football Focus, Power Rankings",
+   "show": "SNR Drive",
+   "url": "https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-13-26hr2-mp3",
+   "published": "2026-10-13T20:00:00+00:00",
+   "summary": "Podcast episode from SNR Drive.",
+   "source": {
+    "name": "SNR Drive",
+    "url": null
+   }
+  },
+  {
+   "id": "36982f129805386d",
+   "type": "podcast_episode",
+   "title": "Drive10.13.26PowerRankings: Week 6 Power Rankings",
+   "show": "SNR Drive",
+   "url": "https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-13-26powerrankings-mp3-1",
+   "published": "2026-10-13T19:01:00+00:00",
+   "summary": "Podcast episode from SNR Drive.",
+   "source": {
+    "name": "SNR Drive",
+    "url": null
+   }
+  },
+  {
+   "id": "e445236c28d723ca",
+   "type": "podcast_episode",
+   "title": "Pittsburgh Steelers Feeling Good Heading Into Week 6 - Around The NFL",
+   "show": "The Arthur Moats Experience",
+   "url": "https://arthurmoats55.libsyn.com/steelers_feeling_good_heading_into_week_6_-_around_the_nflmp3",
+   "published": "2026-10-13T17:47:00+00:00",
+   "summary": "Podcast episode from The Arthur Moats Experience.",
+   "source": {
+    "name": "The Arthur Moats Experience",
+    "url": null
+   }
+  },
+  {
+   "id": "edf940f42c08562e",
+   "type": "podcast_episode",
+   "title": "Hour 1: Player Developments + Mike McCarthy Tuesdays",
+   "show": "Steelers Blitz",
+   "url": "https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-101326-mp3",
+   "published": "2026-10-13T16:00:00+00:00",
+   "summary": "Podcast episode from Steelers Blitz.",
+   "source": {
+    "name": "Steelers Blitz",
+    "url": null
+   }
+  },
+  {
+   "id": "fe1cdb3a0814e7ed",
+   "type": "podcast_episode",
+   "title": "SteelersFor7Podcast Ep. 209 | HISTORY MADE! Steelers Beat Colts 34-22 | Victory Recap & Analysis",
+   "show": "Steelers for 7 Podcast",
+   "url": "https://podcasters.spotify.com/pod/show/steelersfor7podcast/episodes/SteelersFor7Podcast-Ep--209--HISTORY-MADE--Steelers-Beat-Colts-34-22--Victory-Recap--Analysis-e3qek96",
+   "published": "2026-10-13T15:19:57+00:00",
+   "summary": "Podcast episode from Steelers for 7 Podcast.",
+   "source": {
+    "name": "Steelers for 7 Podcast",
+    "url": null
+   }
+  },
+  {
+   "id": "523fe5fc7195be01",
+   "type": "podcast_episode",
+   "title": "Hour 2: NFL Playoff Picture + Monday Night Football Breakdown",
+   "show": "Steelers Blitz",
+   "url": "https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/hour-2-nfl-playoff-picture-monday-night-football-breakdown",
+   "published": "2026-10-13T15:00:00+00:00",
+   "summary": "Podcast episode from Steelers Blitz.",
+   "source": {
+    "name": "Steelers Blitz",
+    "url": null
+   }
+  },
+  {
+   "id": "8c14e71edb8795a5",
+   "type": "podcast_episode",
+   "title": "Two WRs Steelers Can Poach From Other Teams",
+   "show": "All Steelers Talk",
+   "url": "https://bleav.com/shows/all-steelers-talk/episodes/two-wrs-steelers-can-poach-from-other-teams/",
+   "published": "2026-10-13T13:49:00+00:00",
+   "summary": "Podcast episode from All Steelers Talk.",
+   "source": {
+    "name": "All Steelers Talk",
+    "url": null
+   }
+  },
+  {
+   "id": "17fd2c7552912311",
+   "type": "podcast_episode",
+   "title": "Steelers Need to Hurry For JuJu Smith-Schuster",
+   "show": "All Steelers Talk",
+   "url": "https://bleav.com/shows/all-steelers-talk/episodes/steelers-need-to-hurry-for-juju-smith-schuster/",
+   "published": "2026-10-13T12:23:00+00:00",
+   "summary": "Podcast episode from All Steelers Talk.",
+   "source": {
+    "name": "All Steelers Talk",
+    "url": null
+   }
+  },
+  {
+   "id": "9ef5573ce996ecd2",
+   "type": "video",
+   "title": "Steelers Offense Shines, But Can They Keep It Up? | Illegal Hands to the Face",
+   "show": "Still Curtain Podcast",
+   "url": "https://www.youtube.com/watch?v=DLx9iWbGw3A",
+   "published": "2026-10-13T06:50:44+00:00",
+   "summary": "Video from Still Curtain Podcast.",
+   "source": {
+    "name": "Still Curtain Podcast",
+    "url": null
+   }
+  },
+  {
+   "id": "c18b4ebc64e16b6a",
+   "type": "video",
+   "title": "Steelers Debate: Jaylen Warren a Top 5 RB | Asante Samuel Jr. Steps Up | Young DL Stout Run Stuffers",
+   "show": "Locked On Steelers",
+   "url": "https://www.youtube.com/watch?v=r0yBFrhkfv4",
+   "published": "2026-10-13T06:30:23+00:00",
+   "summary": "Video from Locked On Steelers.",
+   "source": {
+    "name": "Locked On Steelers",
+    "url": null
+   }
+  },
+  {
+   "id": "39e0d20ccb4ddfb4",
+   "type": "podcast_episode",
+   "title": "DK's Daily Shot of Steelers: 'Featured player' at last!",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-steelers-featured-player-at-last/",
+   "published": "2026-10-13T06:10:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
+    "url": null
+   }
+  },
+  {
+   "id": "fdbccdf3e1732bfa",
+   "type": "podcast_episode",
+   "title": "DK's Daily Shot of Penguins: The goaltending rotation",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-penguins-the-goaltending-rotation/",
+   "published": "2026-10-13T06:09:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
+    "url": null
+   }
+  },
+  {
+   "id": "006bbe28495a29db",
+   "type": "podcast_episode",
+   "title": "DK's Daily Shot of Pirates: Pay more to more players",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-pirates-pay-more-to-more-players/",
+   "published": "2026-10-13T06:08:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
+    "url": null
+   }
+  },
+  {
+   "id": "74bbb3ed16280187",
+   "type": "podcast_episode",
+   "title": "Scout’s Eye with Matt Williamson: Exceptional red zone defense",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/scouts-eye-with-matt-williamson-exceptional-red-zone-defense/",
+   "published": "2026-10-13T06:07:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
+    "url": null
+   }
+  },
+  {
+   "id": "bfc180f73c9f4be0",
+   "type": "podcast_episode",
+   "title": "Steelers Offense Shines, But Can They Keep It Up? | Illegal Hands to the Face",
+   "show": "Still Curtain Podcast",
+   "url": "https://redcircle.com/shows/62750d24-c3c9-4be8-919a-ff22b312fb19/episodes/d66fe140-8bb4-471a-8502-fe09f5d0ff25",
+   "published": "2026-10-13T01:00:16+00:00",
+   "summary": "Podcast episode from Still Curtain Podcast.",
+   "source": {
+    "name": "Still Curtain Podcast",
+    "url": null
+   }
+  },
+  {
+   "id": "50783899eed99125",
+   "type": "video",
+   "title": "Steelers DC Patrick Graham Brings Energy by Switch to Sideline, Hypes Up Defense for Better Results",
+   "show": "Locked On Steelers",
+   "url": "https://www.youtube.com/shorts/tgQmzSNbkNs",
+   "published": "2026-10-12T22:41:57+00:00",
+   "summary": "Video from Locked On Steelers.",
+   "source": {
+    "name": "Locked On Steelers",
+    "url": null
+   }
+  },
+  {
+   "id": "e21def254988b9ea",
+   "type": "podcast_episode",
+   "title": "DK's Double Shot of Steelers: Elandon Roberts returns!",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-double-shot-of-steelers-elandon-roberts-returns/",
+   "published": "2026-10-12T22:13:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
+    "url": null
+   }
+  },
+  {
+   "id": "ce3fba0e2550e01a",
+   "type": "podcast_episode",
+   "title": "DK's Double Shot of Penguins: Andrei Kuzmenko’s role?",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-double-shot-of-penguins-andrei-kuzmenkos-role/",
+   "published": "2026-10-12T22:11:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
+    "url": null
+   }
+  },
+  {
+   "id": "a138f2ffe17e510f",
+   "type": "podcast_episode",
+   "title": "Drive10.12.26Hr1: Colts Recap",
+   "show": "SNR Drive",
+   "url": "https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-12-26hr1-mp3",
+   "published": "2026-10-12T22:00:00+00:00",
+   "summary": "Podcast episode from SNR Drive.",
+   "source": {
+    "name": "SNR Drive",
+    "url": null
+   }
+  },
+  {
+   "id": "c75c5d1807ba59da",
+   "type": "podcast_episode",
+   "title": "Pittsburgh Steelers vs Indianapolis Colts Recap/Phone Lines",
+   "show": "The Arthur Moats Experience",
+   "url": "https://arthurmoats55.libsyn.com/the_arthur_moats_experience__ep_777__live___steelers_vs_colts_recap_phone_lines_mp3",
+   "published": "2026-10-12T21:55:00+00:00",
+   "summary": "Podcast episode from The Arthur Moats Experience.",
+   "source": {
+    "name": "The Arthur Moats Experience",
+    "url": null
+   }
+  },
+  {
+   "id": "0ad0bf9f7a1778f8",
+   "type": "podcast_episode",
+   "title": "Steelers Next WR Signing...",
+   "show": "All Steelers Talk",
+   "url": "https://bleav.com/shows/all-steelers-talk/episodes/steelers-next-wr-signing/",
+   "published": "2026-10-12T21:27:00+00:00",
+   "summary": "Podcast episode from All Steelers Talk.",
+   "source": {
+    "name": "All Steelers Talk",
+    "url": null
+   }
+  },
+  {
+   "id": "0c70805ba062ffa7",
+   "type": "podcast_episode",
+   "title": "The Terrible Take - Episode 2048 - October 12, 2026",
+   "show": "The Terrible Podcast (Steelers Depot)",
+   "url": "https://megaphone.link/SDP2183324709",
+   "published": "2026-10-12T21:00:00+00:00",
+   "summary": "Podcast episode from The Terrible Podcast (Steelers Depot).",
+   "source": {
+    "name": "The Terrible Podcast (Steelers Depot)",
+    "url": null
+   }
+  },
+  {
+   "id": "6cd194ecdc40bfaa",
+   "type": "podcast_episode",
+   "title": "Drive10.12.26Hr2: Around the NFL Week 5",
+   "show": "SNR Drive",
+   "url": "https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-12-26hr2-mp3",
+   "published": "2026-10-12T21:00:00+00:00",
+   "summary": "Podcast episode from SNR Drive.",
+   "source": {
+    "name": "SNR Drive",
+    "url": null
+   }
+  },
+  {
+   "id": "03c714138345f7c7",
+   "type": "podcast_episode",
+   "title": "Drive10.12.26King: Rob King on Colts Win",
+   "show": "SNR Drive",
+   "url": "https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-12-26king-mp3",
+   "published": "2026-10-12T20:00:00+00:00",
+   "summary": "Podcast episode from SNR Drive.",
+   "source": {
+    "name": "SNR Drive",
+    "url": null
+   }
+  },
+  {
+   "id": "3868d590944b4995",
+   "type": "video",
+   "title": "Steelers somewhat \"cleaned their house\" in 34-22 win over Colts",
+   "show": "Steel City Underground",
+   "url": "https://www.youtube.com/watch?v=zVx3ZLnPY-0",
+   "published": "2026-10-12T19:12:23+00:00",
+   "summary": "Video from Steel City Underground.",
+   "source": {
+    "name": "Steel City Underground",
+    "url": null
+   }
+  },
+  {
+   "id": "68a37398df9ee3e3",
+   "type": "podcast_episode",
+   "title": "Steelers somewhat “cleaned their house” in 34-22 win over Colts",
+   "show": "Steel City Underground",
+   "url": "https://www.steelcityunderground.com/podcast/2026/10/steelers-somewhat-cleaned-their-house-in-34-22-win-over-colts/",
+   "published": "2026-10-12T19:01:46+00:00",
+   "summary": "Podcast episode from Steel City Underground.",
+   "source": {
+    "name": "Steel City Underground",
+    "url": null
+   }
+  },
+  {
+   "id": "f6e68282d44c9488",
+   "type": "video",
+   "title": "Pat Freiermuth Has Become an ELITE Red Zone Threat for the Steelers 🔥 #patfreiermuth #steelers #nfl",
+   "show": "Locked On Steelers",
+   "url": "https://www.youtube.com/shorts/FVsj6C70cvU",
+   "published": "2026-10-12T17:20:49+00:00",
+   "summary": "Video from Locked On Steelers.",
+   "source": {
+    "name": "Locked On Steelers",
+    "url": null
+   }
+  },
+  {
+   "id": "1d7f03ad9984d3cf",
+   "type": "podcast_episode",
+   "title": "Hour 1: Warren Peace",
+   "show": "Steelers Blitz",
+   "url": "https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-101226-mp3",
+   "published": "2026-10-12T17:00:00+00:00",
+   "summary": "Podcast episode from Steelers Blitz.",
+   "source": {
+    "name": "Steelers Blitz",
+    "url": null
+   }
+  },
+  {
+   "id": "bb3f762a53c62379",
+   "type": "podcast_episode",
+   "title": "The Terrible Podcast — Steelers-Colts Game Recap, Historic Warren, WR Injuries, Roberts Rumblings & More",
+   "show": "The Terrible Podcast (Steelers Depot)",
+   "url": "https://megaphone.link/SDP6441215922",
+   "published": "2026-10-12T16:29:00+00:00",
+   "summary": "Podcast episode from The Terrible Podcast (Steelers Depot).",
+   "source": {
+    "name": "The Terrible Podcast (Steelers Depot)",
+    "url": null
+   }
+  },
+  {
+   "id": "f6bf62b0b6244391",
+   "type": "podcast_episode",
+   "title": "Hour 2: Deeper Dive into Game/ Look Around the NFL",
+   "show": "Steelers Blitz",
+   "url": "https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr2-101226-mp3",
+   "published": "2026-10-12T16:00:00+00:00",
+   "summary": "Podcast episode from Steelers Blitz.",
+   "source": {
+    "name": "Steelers Blitz",
+    "url": null
+   }
+  },
+  {
+   "id": "6eb50ca35ee00eb6",
+   "type": "podcast_episode",
+   "title": "Steelers Get Brutal WR News",
+   "show": "All Steelers Talk",
+   "url": "https://bleav.com/shows/all-steelers-talk/episodes/steelers-get-brutal-wr-news/",
+   "published": "2026-10-12T12:04:00+00:00",
+   "summary": "Podcast episode from All Steelers Talk.",
+   "source": {
+    "name": "All Steelers Talk",
+    "url": null
+   }
+  },
+  {
+   "id": "fc6e51f4c4f44366",
+   "type": "podcast_episode",
+   "title": "Pittsburgh Steelers Win Week 5 vs Colts - [What Went Right/Wrong In Week 5]",
+   "show": "The Arthur Moats Experience",
+   "url": "https://arthurmoats55.libsyn.com/panel_1011_ytmp3",
+   "published": "2026-10-12T09:52:00+00:00",
+   "summary": "Podcast episode from The Arthur Moats Experience.",
+   "source": {
+    "name": "The Arthur Moats Experience",
+    "url": null
+   }
+  },
+  {
+   "id": "a574de0e51c8b47d",
+   "type": "video",
+   "title": "Steelers Get Back to Bully Ball in 34-22 Win vs Colts | Jaylen Warren/Pat Freiermuth Balance Offense",
+   "show": "Locked On Steelers",
+   "url": "https://www.youtube.com/watch?v=BXnvFn1yxbI",
+   "published": "2026-10-12T06:30:05+00:00",
+   "summary": "Video from Locked On Steelers.",
+   "source": {
+    "name": "Locked On Steelers",
+    "url": null
+   }
+  },
+  {
+   "id": "1c260bf711a765e5",
+   "type": "podcast_episode",
+   "title": "DK's Daily Shot of Steelers: Youth's served!",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-steelers-youths-served/",
+   "published": "2026-10-12T05:31:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
+    "url": null
+   }
+  },
+  {
+   "id": "7e97438d813a6fd6",
+   "type": "podcast_episode",
+   "title": "DK's Daily Shot of Penguins: Normalcy on the horizon?",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-penguins-normalcy-on-the-horizon/",
+   "published": "2026-10-12T05:30:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
+    "url": null
+   }
+  },
+  {
+   "id": "55a5e75fc1427ae8",
+   "type": "podcast_episode",
+   "title": "DK's Daily Shot of Pirates: Four things I'd change",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-pirates-four-things-id-change/",
+   "published": "2026-10-12T05:29:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
+    "url": null
+   }
+  },
+  {
+   "id": "3ce32096a4e8c336",
+   "type": "podcast_episode",
+   "title": "Scout’s Eye with Matt Williamson: Dominating the run game",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/scouts-eye-with-matt-williamson-dominating-the-run-game/",
+   "published": "2026-10-12T05:28:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
+    "url": null
+   }
+  },
+  {
+   "id": "6f99a50b0d43581e",
+   "type": "podcast_episode",
+   "title": "DK’s Live Shot of Steelers: Postgame vs. Colts",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-live-shot-of-steelers-postgame-vs-colts/",
+   "published": "2026-10-12T01:26:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
+    "url": null
+   }
+  },
+  {
+   "id": "b00f3ac8536ffac9",
+   "type": "video",
+   "title": "Steelers Get Jaylen Warren, Pat Freiermuth to Run Loose as they Overpower Colts 34-22",
+   "show": "Locked On Steelers",
+   "url": "https://www.youtube.com/shorts/AJ9vUUrDIMI",
+   "published": "2026-10-11T22:40:31+00:00",
+   "summary": "Video from Locked On Steelers.",
+   "source": {
+    "name": "Locked On Steelers",
+    "url": null
+   }
+  },
+  {
+   "id": "27e630e12d8946d3",
+   "type": "podcast_episode",
+   "title": "Instant Reaction: Steelers Offense Arrives Against Colts",
+   "show": "All Steelers Talk",
+   "url": "https://bleav.com/shows/all-steelers-talk/episodes/instant-reaction-steelers-offense-arrives-against-colts/",
+   "published": "2026-10-11T21:53:00+00:00",
+   "summary": "Podcast episode from All Steelers Talk.",
+   "source": {
+    "name": "All Steelers Talk",
+    "url": null
+   }
+  },
+  {
+   "id": "d5734f4dd151f605",
+   "type": "video",
+   "title": "Steelers vs Colts Post Game Show LIVE | Not Just Football",
+   "show": "Not Just Football with Cam Heyward",
+   "url": "https://www.youtube.com/watch?v=ztoPoxF9Dt0",
+   "published": "2026-10-11T21:37:33+00:00",
+   "summary": "Video from Not Just Football with Cam Heyward.",
+   "source": {
+    "name": "Not Just Football with Cam Heyward",
+    "url": null
+   }
+  },
+  {
+   "id": "20c5d657d17ee80d",
+   "type": "video",
+   "title": "STEELERS SQUAD SHOW: Colts/Steelers LIVE Reaction! Warren's BIG Game! Progress or SAME OLD Problems?",
+   "show": "Locked On Steelers",
+   "url": "https://www.youtube.com/watch?v=FcsRtBtp0mg",
+   "published": "2026-10-11T21:21:28+00:00",
+   "summary": "Video from Locked On Steelers.",
+   "source": {
+    "name": "Locked On Steelers",
+    "url": null
+   }
+  },
+  {
+   "id": "32868fb93bc45c54",
+   "type": "podcast_episode",
+   "title": "The Terrible Take - Episode 2047 - October 11, 2026",
+   "show": "The Terrible Podcast (Steelers Depot)",
+   "url": "https://megaphone.link/SDP2748400084",
+   "published": "2026-10-11T14:27:00+00:00",
+   "summary": "Podcast episode from The Terrible Podcast (Steelers Depot).",
+   "source": {
+    "name": "The Terrible Podcast (Steelers Depot)",
+    "url": null
+   }
+  },
+  {
+   "id": "f6ce296e9fdda154",
+   "type": "podcast_episode",
+   "title": "Steelers vs. Colts Bold Predictions",
+   "show": "All Steelers Talk",
+   "url": "https://bleav.com/shows/all-steelers-talk/episodes/steelers-vs-colts-bold-predictions/",
+   "published": "2026-10-11T12:29:00+00:00",
+   "summary": "Podcast episode from All Steelers Talk.",
+   "source": {
+    "name": "All Steelers Talk",
+    "url": null
+   }
+  },
+  {
+   "id": "c58c9b121221b490",
+   "type": "podcast_episode",
+   "title": "DK's Live Shot of Steelers: Pregame vs. Colts",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-live-shot-of-steelers-pregame-vs-colts/",
+   "published": "2026-10-11T03:15:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
     "url": null
    }
   }
