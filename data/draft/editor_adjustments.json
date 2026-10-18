@@ -414,5 +414,14 @@
    "reason": "Solid, smart lineman on a deep Oregon front."
   }
  ],
- "note_pos": "Optional 'pos' fixes a roster position label (e.g. a stand-up rusher listed as LB)."
+ "note_pos": "Optional 'pos' fixes a roster position label (e.g. a stand-up rusher listed as LB).",
+ "position_order": {
+  "QB": [
+   "Darian Mensah",
+   "Drew Mestemaker",
+   "Arch Manning",
+   "Dante Moore"
+  ]
+ },
+ "note_position_order": "Owner-locked order within a position. After scoring, these players keep the board slots they occupy but are re-seated in this order (score follows the slot), so every refresh keeps it."
 }

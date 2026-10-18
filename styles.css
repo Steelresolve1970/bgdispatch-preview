@@ -366,3 +366,6 @@ nav .more a{color:#fff}nav .more a[aria-current]{color:var(--gold)}
 .hv-err{color:#b00020;font-weight:700;margin:8px 0 0;min-height:1em}
 .hv-ok{font-size:16px}.sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
 @media(max-width:480px){.hh-grid{grid-template-columns:1fr}.h-tabs{gap:3px}.h-tab{padding:9px 8px;font-size:12.5px}}
+
+.pc-link{all:unset;cursor:pointer;color:inherit;text-decoration:underline;text-decoration-color:var(--gold);text-underline-offset:3px}.pc-link:hover,.pc-link:focus-visible{color:#000;outline:2px solid var(--gold);outline-offset:2px}
+.pc-host .dr-modal{z-index:1000}.pc-close{margin-top:10px;width:100%}body.pc-open{overflow:hidden}

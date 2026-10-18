@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "draft",
  "description": "Steelers draft hub: top prospects per need with our estimated chance each is available at the Steelers' projected picks, published analyst grades of the last class (letter + link), and every past Steelers pick (nflverse, CC-BY 4.0).",
- "generated": "2026-10-18T01:36:17+00:00",
- "data_updated": "2026-10-18T01:36:12+00:00",
- "count": 514,
+ "generated": "2026-10-18T01:40:52+00:00",
+ "data_updated": "2026-10-18T01:40:47+00:00",
+ "count": 515,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -20,15 +20,44 @@
  "html": "https://blackandgolddispatch.com/#/draft",
  "items": [
   {
-   "id": "2c8a34591dfc2fab",
+   "id": "5117e22a6536168e",
    "type": "draft_prospect",
    "need": "Quarterback",
    "need_rank": 1,
-   "name": "Dante Moore",
+   "name": "Darian Mensah",
    "position": "QB",
-   "school": "Oregon",
+   "school": "Miami",
    "our_board_rank": 1,
    "our_grade": 95.0,
+   "chance_available": [
+    {
+     "round": 1,
+     "pick": 22,
+     "percent": 0
+    },
+    {
+     "round": 2,
+     "pick": 54,
+     "percent": 0
+    }
+   ],
+   "estimate": true,
+   "method_url": "https://blackandgolddispatch.com/#/drafthub",
+   "source": {
+    "name": "Black & Gold Dispatch board (CollegeFootballData.com stats)",
+    "url": "https://blackandgolddispatch.com/#/drafthub"
+   }
+  },
+  {
+   "id": "29370af3eb29948d",
+   "type": "draft_prospect",
+   "need": "Quarterback",
+   "need_rank": 1,
+   "name": "Drew Mestemaker",
+   "position": "QB",
+   "school": "Oklahoma State",
+   "our_board_rank": 4,
+   "our_grade": 93.6,
    "chance_available": [
     {
      "round": 1,
@@ -56,13 +85,13 @@
    "name": "Arch Manning",
    "position": "QB",
    "school": "Texas",
-   "our_board_rank": 4,
-   "our_grade": 93.6,
+   "our_board_rank": 7,
+   "our_grade": 92.2,
    "chance_available": [
     {
      "round": 1,
      "pick": 22,
-     "percent": 0
+     "percent": 3
     },
     {
      "round": 2,
@@ -78,20 +107,20 @@
    }
   },
   {
-   "id": "5117e22a6536168e",
+   "id": "2c8a34591dfc2fab",
    "type": "draft_prospect",
    "need": "Quarterback",
    "need_rank": 1,
-   "name": "Darian Mensah",
+   "name": "Dante Moore",
    "position": "QB",
-   "school": "Miami",
-   "our_board_rank": 7,
-   "our_grade": 92.2,
+   "school": "Oregon",
+   "our_board_rank": 10,
+   "our_grade": 90.8,
    "chance_available": [
     {
      "round": 1,
      "pick": 22,
-     "percent": 3
+     "percent": 9
     },
     {
      "round": 2,

@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-18T01:36:17.357214+00:00",
+ "last_run": "2026-10-18T01:40:52.951533+00:00",
  "results": [
   {
    "fetcher": "apply_grade_edits.py",
@@ -10,7 +10,7 @@
   {
    "fetcher": "fetch_news.py",
    "ok": true,
-   "seconds": 0.8,
+   "seconds": 0.9,
    "last_line": "news: 150 ticker: 30"
   },
   {
@@ -23,19 +23,19 @@
    "fetcher": "fetch_podcasts.py",
    "ok": true,
    "seconds": 1.2,
-   "last_line": "today's episodes: 7"
+   "last_line": "today's episodes: 3"
   },
   {
    "fetcher": "fetch_insiders.py",
    "ok": true,
-   "seconds": 1.0,
+   "seconds": 1.1,
    "last_line": "sidebar: 5 full feed: 16"
   },
   {
    "fetcher": "fetch_film.py",
    "ok": true,
-   "seconds": 0.6,
-   "last_line": "breakdown items: 7 preview items: 5"
+   "seconds": 0.8,
+   "last_line": "breakdown items: 4 preview items: 4"
   },
   {
    "fetcher": "fetch_grades.py",
@@ -58,7 +58,7 @@
   {
    "fetcher": "build_comps.py",
    "ok": true,
-   "seconds": 0.4,
+   "seconds": 0.3,
    "last_line": "comps 388 staff 61 pool 229"
   },
   {
@@ -100,13 +100,13 @@
   {
    "fetcher": "fetch_rumors.py",
    "ok": true,
-   "seconds": 2.4,
+   "seconds": 2.5,
    "last_line": "rumors 5 {'Rumor': 5, 'Confirmed': 0, 'Denied': 0}"
   },
   {
    "fetcher": "fetch_pickem.py",
    "ok": true,
-   "seconds": 0.1,
+   "seconds": 0.2,
    "last_line": "pickem week 6 games 14"
   },
   {
@@ -131,7 +131,7 @@
    "fetcher": "build_machine.py",
    "ok": true,
    "seconds": 0.1,
-   "last_line": "machine layer: {'news': 150, 'rumors': 5, 'injuries': 16, 'depth-chart': 28, 'schedule': 17, 'stats': 60, 'grades': 42, 'college': 20, 'insiders': 16, 'podcasts': 7, 'film': 12, 'draft': 514} md 13 feeds 5 jsonld 14"
+   "last_line": "machine layer: {'news': 150, 'rumors': 5, 'injuries': 16, 'depth-chart': 28, 'schedule': 17, 'stats': 60, 'grades': 42, 'college': 20, 'insiders': 16, 'podcasts': 3, 'film': 8, 'draft': 515} md 13 feeds 5 jsonld 14"
   }
  ]
 }

@@ -34,37 +34,11 @@ function pickGrade(s){return LET(pickScore(s));}
 function teamGrade(a){const ps=mine(a);if(!ps.length)return null;let v=0,w=0;ps.forEach(s=>{const k=1/(1+s.round*0.3);v+=pickScore(s)*k;w+=k;});return LET(v/w);}
 const COL={ARI:'#97233F',ATL:'#A71930',BAL:'#241773',BUF:'#00338D',CAR:'#0085CA',CHI:'#0B162A',CIN:'#FB4F14',CLE:'#311D00',DAL:'#041E42',DEN:'#FB4F14',DET:'#0076B6',GB:'#203731',HOU:'#03202F',IND:'#002C5F',JAX:'#006778',KC:'#E31837',LV:'#000000',LAC:'#0080C6',LA:'#003594',LAR:'#003594',MIA:'#008E97',MIN:'#4F2683',NE:'#002244',NO:'#9F8958',NYG:'#0B2265',NYJ:'#125740',PHI:'#004C54',PIT:'#FFB612',SF:'#AA0000',SEA:'#002244',TB:'#D50A0A',TEN:'#4B92DB',WAS:'#5A1414'};
 const tm=a=>`<span class="dr-tm" style="--tc:${COL[a]||'#555'}">${E(a)}</span>`;
-const scoutReason=p=>{const m=(p.note||'').split('Our scouts: ');return m.length>1?m[1]:'';};
-function scout(p){const t=p.parts||{},g=[],c=[];
- if(p.prod_pct!=null&&p.prod_pct>=80)g.push('Top-20% producer at his position in our data');
- if(p.eff_pct!=null&&p.eff_pct>=80)g.push('Very efficient on a per-play basis');
- if(p.stars>=4)g.push(`Highly recruited (${p.stars}-star) out of high school`);
- if((t.schedule??0)>=8)g.push('Has produced against a tough schedule');
- if((t.size??0)>=4)g.push('Size fits what NFL teams want at his position');
- if(p.scout_tier&&p.scout_tier<=2)g.push('Our scouts see first-round talent');
- if(p.prod_pct!=null&&p.prod_pct<40)c.push('Limited production so far');
- if(p.eff_pct!=null&&p.eff_pct<40)c.push('Per-play efficiency is average or worse');
- if(t.schedule!=null&&t.schedule<5)c.push('Level of competition is a question');
- if(t.size!=null&&t.size<=2)c.push('Below the usual size range for his position');
- if(/So/.test(p.cls||''))c.push('Young for the class; could return to school');
- if(p.pos==='OT'||p.pos==='IOL')c.push('No box-score stats for linemen, so our view leans on scouting');
- if(p.scout_tier>=5)c.push('Our scouts project him as a Day 3 pick');
- return{g:g.slice(0,4),c:c.slice(0,3)};}
-const meta=p=>[p.pos,p.school,p.cls,p.height,p.weight?p.weight+' lb':''].filter(Boolean).map(E).join(' · ');
+const meta=p=>PCard.meta(p);
 function filtered(){const q=S.q.toLowerCase();return S.avail.filter(p=>(S.filter==='All'||p.pos===S.filter)&&(!S.school||p.school===S.school)&&(!q||(p.name+' '+p.school).toLowerCase().includes(q)));}
-function cardHTML(p){if(!p)return'';const t=p.parts||{},sc=scout(p),why=scoutReason(p),pk=S.slots.find(x=>x.player===p),can=S.phase==='user'&&S.avail.includes(p);
- return`<div class="dr-modal" role="dialog" aria-label="${E(p.name)}"><div class="dr-card"><button class="dr-x" type="button" aria-label="Close">✕</button>
- <p class="kind">Our board #${p.rank} · ${E(p.tier)}${p.scout_tier?` · staff tier ${p.scout_tier}`:''}</p><h2>${E(p.name)}</h2><p>${meta(p)}${p.conf?' · '+E(p.conf):''}</p>
- ${pk?`<p class="dr-picked">Picked #${pk.overall} (R${pk.round}) by ${tm(pk.owner)} ${E(TN(pk.owner))} · <span class="dr-grade sm">${pickGrade(pk)}</span></p>`:''}
- <p class="dr-g">Our grade <b>${p.grade}</b>${p.stars?` · ${p.stars}★ recruit`:''}${p.transfer?` · transfer`:''}${p.anchor?' · Steelers watch list':''}</p>
- ${p.line&&p.line!=='None'?`<p><b>2026 season:</b> ${E(p.line)}</p>`:''}
- ${why?`<p><b>Our scouts:</b> ${E(why)}</p>`:''}
- <div class="dr-sc"><div><b>Strengths</b><ul>${sc.g.map(x=>`<li>${E(x)}</li>`).join('')||'<li>Well-rounded profile in our data</li>'}</ul></div><div><b>Concerns</b><ul>${sc.c.map(x=>`<li>${E(x)}</li>`).join('')||'<li>No major red flags in our data</li>'}</ul></div></div>
- ${window.compHTML?compHTML(p.name):''}
- ${window.availHTML?availHTML(p.name):''}
- <table class="dr-parts"><tr><th>Prod.</th><th>Pedigree</th><th>Sched.</th><th>Team</th><th>Class</th><th>Size</th></tr><tr><td>${t.production??'–'}/45</td><td>${t.pedigree??'–'}/22</td><td>${t.schedule??'–'}/12</td><td>${t.team??'–'}/6</td><td>${t.cls??'–'}/5</td><td>${t.size??'–'}/5</td></tr></table>
- <p class="fine">Our own formula from CollegeFootballData.com stats plus our staff tier; strengths, concerns and comparison are our own read. Fan opinion, not a scouting report.</p>
- ${can?`<button class="btn dr-take" type="button" data-r="${p.rank}">Draft this player</button>`:''}</div></div>`;}
+function cardHTML(p){if(!p)return'';const pk=S.slots.find(x=>x.player===p),can=S.phase==='user'&&S.avail.includes(p);
+ return PCard.html(p,{top:pk?`<p class="dr-picked">Picked #${pk.overall} (R${pk.round}) by ${tm(pk.owner)} ${E(TN(pk.owner))} · <span class="dr-grade sm">${pickGrade(pk)}</span></p>`:'',
+  bottom:can?`<button class="btn dr-take" type="button" data-r="${p.rank}">Draft this player</button>`:''});}
 function tradeHTML(){const on=S.slots[S.cur],me=on.owner,T=S.trade;const partners=[...new Set(S.slots.slice(S.cur).map(s=>s.owner))].filter(a=>a!==me).sort();
  const open=a=>S.slots.slice(S.cur).filter(s=>s.owner===a&&!s.player);
  const give=open(me).filter(s=>T.give.includes(s.overall)),get=T.with?open(T.with).filter(s=>T.get.includes(s.overall)):[];

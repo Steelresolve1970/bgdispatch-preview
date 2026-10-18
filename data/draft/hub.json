@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T01:36:12.309987+00:00",
+ "generated": "2026-10-18T01:40:47.826388+00:00",
  "draft_year": 2027,
  "steelers_picks": [
   {
@@ -26,15 +26,15 @@
    "prospects": [
     {
      "rank": 1,
-     "name": "Dante Moore",
+     "name": "Darian Mensah",
      "pos": "QB",
-     "school": "Oregon",
+     "school": "Miami",
      "cls": "Jr",
      "grade": 95.0,
      "tier": "1st round",
-     "line": "926 pass yds, 9 TD, 0 INT this season",
-     "snippet": "926 pass yds, 9 TD, 0 INT this season; 5-star recruit; on our Steelers watch list. Our scouts: Big frame and arm with real upside; uneven 2026 and a concussion keep him from being a lock.",
-     "season": "69/99, 926 pass yds, 9 TD, 0 INT; 10 rush, -7 yds",
+     "line": "1,438 pass yds, 15 TD, 0 INT this season",
+     "snippet": "1,438 pass yds, 15 TD, 0 INT this season; 2-star recruit; top-15% producer at his position in our data; on our Steelers watch list. Our scouts: Elite accuracy and timing on three straight productive college stops; arm strength and frame are the questions.",
+     "season": "112/133, 1,438 pass yds, 15 TD, 0 INT; 12 rush, 79 yds, 2 TD",
      "availability": [
       {
        "round": 1,
@@ -53,15 +53,15 @@
     },
     {
      "rank": 4,
-     "name": "Arch Manning",
+     "name": "Drew Mestemaker",
      "pos": "QB",
-     "school": "Texas",
-     "cls": "Jr",
+     "school": "Oklahoma State",
+     "cls": "RS-So",
      "grade": 93.6,
      "tier": "1st round",
-     "line": "1,298 pass yds, 11 TD, 5 INT this season",
-     "snippet": "1,298 pass yds, 11 TD, 5 INT this season; 5-star recruit; top-15% producer at his position in our data; on our Steelers watch list. Our scouts: Prototype size, arm and athleticism with a bloodline of NFL-ready habits; 2026 has had rough patches, but the tools are top-five caliber and he could still choose to stay in school.",
-     "season": "107/167, 1,298 pass yds, 11 TD, 5 INT; 48 rush, 99 yds",
+     "line": "1,575 pass yds, 13 TD, 5 INT this season",
+     "snippet": "1,575 pass yds, 13 TD, 5 INT this season; 5-star transfer; top-15% producer at his position in our data; on our Steelers watch list. Our scouts: Late bloomer with a big arm and good pocket patience; short track record.",
+     "season": "114/169, 1,575 pass yds, 13 TD, 5 INT; 15 rush, 108 yds, 2 TD",
      "availability": [
       {
        "round": 1,
@@ -80,20 +80,47 @@
     },
     {
      "rank": 7,
-     "name": "Darian Mensah",
+     "name": "Arch Manning",
      "pos": "QB",
-     "school": "Miami",
+     "school": "Texas",
      "cls": "Jr",
      "grade": 92.2,
      "tier": "1st round",
-     "line": "1,438 pass yds, 15 TD, 0 INT this season",
-     "snippet": "1,438 pass yds, 15 TD, 0 INT this season; 2-star recruit; top-15% producer at his position in our data; on our Steelers watch list. Our scouts: Elite accuracy and timing on three straight productive college stops; arm strength and frame are the questions.",
-     "season": "112/133, 1,438 pass yds, 15 TD, 0 INT; 12 rush, 79 yds, 2 TD",
+     "line": "1,298 pass yds, 11 TD, 5 INT this season",
+     "snippet": "1,298 pass yds, 11 TD, 5 INT this season; 5-star recruit; top-15% producer at his position in our data; on our Steelers watch list. Our scouts: Prototype size, arm and athleticism with a bloodline of NFL-ready habits; 2026 has had rough patches, but the tools are top-five caliber and he could still choose to stay in school.",
+     "season": "107/167, 1,298 pass yds, 11 TD, 5 INT; 48 rush, 99 yds",
      "availability": [
       {
        "round": 1,
        "overall": 22,
        "pct": 3,
+       "label": "Very unlikely"
+      },
+      {
+       "round": 2,
+       "overall": 54,
+       "pct": 0,
+       "label": "Very unlikely"
+      }
+     ],
+     "realistic": false
+    },
+    {
+     "rank": 10,
+     "name": "Dante Moore",
+     "pos": "QB",
+     "school": "Oregon",
+     "cls": "Jr",
+     "grade": 90.8,
+     "tier": "1st round",
+     "line": "926 pass yds, 9 TD, 0 INT this season",
+     "snippet": "926 pass yds, 9 TD, 0 INT this season; 5-star recruit; on our Steelers watch list. Our scouts: Big frame and arm with real upside; uneven 2026 and a concussion keep him from being a lock.",
+     "season": "69/99, 926 pass yds, 9 TD, 0 INT; 10 rush, -7 yds",
+     "availability": [
+      {
+       "round": 1,
+       "overall": 22,
+       "pct": 9,
        "label": "Very unlikely"
       },
       {
@@ -435,7 +462,7 @@
      "tier": "Day 2",
      "line": "42 tackles, 3 TFL, 0 sacks, 2 PD",
      "snippet": "42 tackles, 3 TFL, 0 sacks, 2 PD; 4-star recruit; top-15% producer at his position in our data.",
-     "season": null,
+     "season": "42 tackles, 2 PD",
      "availability": [
       {
        "round": 1,
@@ -462,7 +489,7 @@
      "tier": "Day 2",
      "line": "38 tackles, 0 TFL, 0 sacks, 4 PD",
      "snippet": "38 tackles, 0 TFL, 0 sacks, 4 PD; 4-star recruit; top-15% producer at his position in our data.",
-     "season": null,
+     "season": "38 tackles, 4 PD, 1 FR",
      "availability": [
       {
        "round": 1,
@@ -608,7 +635,7 @@
      "tier": "Day 2",
      "line": "19 tackles, 2.5 TFL, 1.5 sacks, 1 PD",
      "snippet": "19 tackles, 2.5 TFL, 1.5 sacks, 1 PD; 5-star recruit; top-15% producer at his position in our data.",
-     "season": null,
+     "season": "20 tackles, 1.5 sacks, 1 PD, 1 FR",
      "availability": [
       {
        "round": 1,
@@ -635,7 +662,7 @@
      "tier": "Day 3",
      "line": "49 tackles, 4.5 TFL, 3.5 sacks",
      "snippet": "49 tackles, 4.5 TFL, 3.5 sacks",
-     "season": null,
+     "season": "49 tackles, 3.5 sacks, 1 FR",
      "availability": [
       {
        "round": 1,
@@ -689,7 +716,7 @@
      "tier": "Day 3",
      "line": "49 tackles, 4.5 TFL, 1 sacks, 2 INT, 1 PD",
      "snippet": "49 tackles, 4.5 TFL, 1 sacks, 2 INT, 1 PD",
-     "season": "49 tackles, 1 sack, 2 INT, 1 PD",
+     "season": null,
      "availability": [
       {
        "round": 1,
@@ -835,7 +862,7 @@
      "tier": "1st round",
      "line": "32 catches, 585 yds, 7 TD",
      "snippet": "32 catches, 585 yds, 7 TD; 4-star recruit; top-15% producer at his position in our data; on our Steelers watch list. Our scouts: Strong-handed possession receiver with big production.",
-     "season": "32 rec, 585 yds, 7 TD",
+     "season": null,
      "availability": [
       {
        "round": 1,

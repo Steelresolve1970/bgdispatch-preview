@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-18T01:36:17+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T01:36:08+00:00._
+_Generated 2026-10-18T01:40:52+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T01:40:43+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Steelers Injury Central: 3 Out, 5 Questionable vs. Buccaneers](https://steelersnow.com/pittsburgh-steelers-injury-updates/): Steelers Now, 2026-10-18 01:14 UTC
@@ -39,7 +39,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Eagles May Be Without Jalen Hurts For Week 11 Steelers Game](https://steelersdepot.com/2026/10/eagles-at-risk-of-losing-jalen-hurts-for-week-11-steelers-game/): Steelers Depot, 2026-10-17 20:17 UTC
 - [Steelers lose Roman Wilson as receiver injuries test their remaining depth](https://stillcurtain.com/pittsburgh-steelers-lose-roman-wilson-injured-reserve-receiver-injuries-test-remaining-depth?utm_source=RSS): Still Curtain, 2026-10-17 20:12 UTC
 - [Steelers Add Veteran Wide Receiver for Game vs. Bucs](https://steelersnow.com/steelers-add-veteran-wide-receiver-for-game-vs-bucs/): Steelers Now, 2026-10-17 20:06 UTC
-- [Rodgers trusts new receiver Brandon Smith](https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVlXakVHdy1yZU9hQ0JSc2NDRWljT2FEaVo5ZGxaMk1tQXFBdy0wZ25xVkxvTDB3dWpxS1ExZlNrZ2RGTXczNVpTc0VTWFZJQjU4SVRNX1lBZWdxbW45bHo2VWtEcHpqNEJHTkxWbFZoUUR0X2o5MXVIRHJCX3lJTGFIc3k1WmlJcnE2VlU3TGZmSWhkQlM2Y1BXaDZSYWZjUjhJ?oc=5): Audacy, 2026-10-17 19:59 UTC
 - [NFL Week 6 player props, anytime TD best bets: Steelers' Jaylen Warren is on a heater](https://www.cbssports.com/nfl/news/nfl-week-6-player-props-anytime-td-best-bets/): CBS Sports, 2026-10-17 19:50 UTC
 - [Steelers Elevate Wide Receiver with Close Ties to Aaron Rodgers](https://steelersnow.com/steelers-elevate-wide-receiver-with-close-ties-to-aaron-rodgers/): Steelers Now, 2026-10-17 19:48 UTC
 - [The Steelers place WR Roman Wilson on injured reserve; add tight end Pat Freiermuth to the injury report](https://www.post-gazette.com/sports/steelers/2026/10/17/the-steelers-place-wr-roman-wilson-on-injured-reserve-add-tight-end-pat-freiermu/stories/202610170039): Pittsburgh Post-Gazette, 2026-10-17 19:43 UTC
@@ -113,6 +112,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [AFC North Whiparound: Ravens are getting healthier, Steelers are surging and pressure on Chase Brown](https://www.nytimes.com/athletic/7692663/2026/10/16/afc-north-whiparound-bengals-browns-ravens-steelers-week-6/): The Athletic, 2026-10-16 10:15 UTC
 - [Scouting the Buccaneers: Steelers opponent is starting an undrafted rookie QB in Jalon Daniels](https://triblive.com/sports/scouting-the-buccaneers-steelers-opponent-is-starting-an-undrafted-rookie-qb-in-jalon-daniels/): TribLive, 2026-10-16 10:01 UTC
 - [Steelers coach is already on the hot seat (and the writing is on the wall)](https://stillcurtain.com/pittsburgh-steelers-coach-is-already-on-the-hot-seat-and-the-writing-is-on-the-wall-01m4x9aza3tm?utm_source=RSS): Still Curtain, 2026-10-16 10:00 UTC
+- [Update: Former Steelers WR JuJu Smith-Schuster in Pittsburgh, but not for workout](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPR2VSd1B2eXZUTWV5YUp6LWRlQkhiSUpOU1o2M0daWS0wUXlHdWdvRWdLeUljay1YZ3NuRU80UDNxYndRMTRyUzlKbjBKdG1qUnNieHNfNXlBNnpkdWNIcV8zR1R2VERzdmxVLVczWmFTTzhWWGlSMVRBSTdmRVNxa2JRQW9CRVp0U0h1aVJISkZybE9NZFpUSF81cmtMT0dUVklWcUxWUTlFQUpuRzNrTXJGNnlCeUk4RHB2OHhVdnFuN0ZlYW8wOGI2dWpvNnM5cktxNG1abUk4MmdlME1OWUNWbEd4VFhqb1JiQ1pHaw?oc=5): Steelers Wire, 2026-10-16 06:05 UTC
 - [Steelers CB Dean faces bittersweet homecoming vs. Buccaneers](https://triblive.com/sports/steelers-cb-dean-faces-bittersweet-homecoming-vs-buccaneers/): TribLive, 2026-10-16 01:16 UTC
 - [Rico Dowdle goes full, but Steelers aren’t taking the ball from Jaylen Warren](https://stillcurtain.com/pittsburgh-steelers-buccaneers-injury-report-week-5-thursday?utm_source=RSS): Still Curtain, 2026-10-15 21:37 UTC
 - [2 practice-squad wide receivers likely to play for Steelers Sunday](https://triblive.com/sports/2-practice-squad-wide-receivers-likely-to-play-for-the-steelers-on-sunday/): TribLive, 2026-10-15 21:35 UTC

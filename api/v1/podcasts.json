@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-18T01:36:17+00:00",
- "data_updated": "2026-10-18T01:36:09+00:00",
- "count": 7,
+ "generated": "2026-10-18T01:40:52+00:00",
+ "data_updated": "2026-10-18T01:40:45+00:00",
+ "count": 3,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -20,28 +20,15 @@
  "html": "https://blackandgolddispatch.com/#/podcasts",
  "items": [
   {
-   "id": "1c6e0e3dec643d58",
-   "type": "video",
-   "title": "Live from our Road Warrior Rally in Tampa with Casey Hampton 🙌",
-   "show": "Pittsburgh Steelers (official)",
-   "url": "https://www.youtube.com/shorts/6-WqoVTWAfQ",
-   "published": "2026-10-17T22:52:52+00:00",
-   "summary": "Video from Pittsburgh Steelers (official).",
+   "id": "64c1368bfd4a749f",
+   "type": "podcast_episode",
+   "title": "DK's Live Shot of Steelers: Pregame vs. Buccaneers",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-live-shot-of-steelers-pregame-vs-buccaneers/",
+   "published": "2026-10-18T01:37:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
    "source": {
-    "name": "Pittsburgh Steelers (official)",
-    "url": null
-   }
-  },
-  {
-   "id": "e8601698da02948d",
-   "type": "video",
-   "title": "Steelers Insider featuring Mike McCarthy: Week 6 at Buccaneers | Pittsburgh Steelers",
-   "show": "Pittsburgh Steelers (official)",
-   "url": "https://www.youtube.com/watch?v=V9s6l38p68A",
-   "published": "2026-10-17T22:00:08+00:00",
-   "summary": "Video from Pittsburgh Steelers (official).",
-   "source": {
-    "name": "Pittsburgh Steelers (official)",
+    "name": "DK Pittsburgh Sports",
     "url": null
    }
   },
@@ -55,45 +42,6 @@
    "summary": "Podcast episode from The Terrible Podcast (Steelers Depot).",
    "source": {
     "name": "The Terrible Podcast (Steelers Depot)",
-    "url": null
-   }
-  },
-  {
-   "id": "2f8f99be2800c016",
-   "type": "video",
-   "title": "QB1 is Tampa Bound 🫡",
-   "show": "Pittsburgh Steelers (official)",
-   "url": "https://www.youtube.com/shorts/FcWE5B6vQkY",
-   "published": "2026-10-17T19:13:04+00:00",
-   "summary": "Video from Pittsburgh Steelers (official).",
-   "source": {
-    "name": "Pittsburgh Steelers (official)",
-    "url": null
-   }
-  },
-  {
-   "id": "f30006630f140648",
-   "type": "video",
-   "title": "TJ Watt & Sean Murphy-Bunting Press Conference (October 16) | Pittsburgh Steelers",
-   "show": "Pittsburgh Steelers (official)",
-   "url": "https://www.youtube.com/watch?v=J0z2eg6m38E",
-   "published": "2026-10-17T18:36:52+00:00",
-   "summary": "Video from Pittsburgh Steelers (official).",
-   "source": {
-    "name": "Pittsburgh Steelers (official)",
-    "url": null
-   }
-  },
-  {
-   "id": "6f9af3a9238dc009",
-   "type": "video",
-   "title": "Da beard to da house‼️ 📺: #PITvsTB 10/18 at 1 PM ET on CBS",
-   "show": "Pittsburgh Steelers (official)",
-   "url": "https://www.youtube.com/shorts/QAZA8gFhpx8",
-   "published": "2026-10-17T14:55:44+00:00",
-   "summary": "Video from Pittsburgh Steelers (official).",
-   "source": {
-    "name": "Pittsburgh Steelers (official)",
     "url": null
    }
   },
