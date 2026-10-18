@@ -105,12 +105,10 @@ function play(){const el=$('play-body'),p=X.pick,h=X.hist;if(!el||!p)return;cons
 function history(){const d=X.hist,el=$('history-body');if(!d||!el)return;const t=new Date().toLocaleDateString('en-CA',{timeZone:'America/New_York'}).slice(5);
  const md=t,games=d.games.filter(g=>g.md===md),facts=d.facts.filter(f=>f.md===md);
  const label=new Date().toLocaleDateString('en-US',{timeZone:'America/New_York',month:'long',day:'numeric'});
- const sbs=d.facts.filter(f=>/Super Bowl/.test(f.text));
- el.innerHTML=`<h2 class="section-title">This day in Steelers history: ${label}</h2>
+  el.innerHTML=`<h2 class="section-title">This day in Steelers history: ${label}</h2>
  <div class="box">${facts.map(f=>`<p>🏆 <b>${f.year}:</b> ${E(f.text)} <small>Source: <a href="${E(f.link)}" ${EXT}>${E(f.source)}</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/" ${EXT}>CC BY-SA 4.0</a></small></p>`).join('')}
  ${games.length?games.map(g=>`<p><b>${g.date.slice(0,4)}:</b> Steelers ${g.result==='W'?'beat':g.result==='L'?'lost to':'tied'} the ${E(g.opp)} ${g.pit}-${g.opp_pts} ${g.home?'at home':'on the road'}${g.playoff?' (playoffs)':''}. <small><a href="${E(g.link)}" ${EXT}>Box score</a></small></p>`).join(''):''}
  ${!facts.length&&!games.length?'<p class="fine">No Steelers games or milestones on this date in our verified records.</p>':''}</div>
- <h2 class="section-title">Super Bowls</h2><div class="box">${sbs.map(f=>`<p>${/beat/.test(f.text)?'🏆':'🥈'} <b>${f.year}:</b> ${E(f.text)} <small>Source: <a href="${E(f.link)}" ${EXT}>Wikipedia</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/" ${EXT}>CC BY-SA 4.0</a></small></p>`).join('')}</div>
  <h2 class="section-title">Record book since 2001</h2>
  <div class="box tbl-wrap"><table class="cap"><thead><tr><th>Record</th><th>Mark</th><th>Game</th></tr></thead><tbody>${d.records.map(r=>`<tr><td>${E(r.record)}</td><td><b>${E(r.value)}</b></td><td>${r.game?`<a href="${E(r.game.link)}" ${EXT}>${E(r.game.date)} ${r.game.home?'vs':'at'} ${E(r.game.opp)} ${r.game.pit}-${r.game.opp_pts}</a>`:'—'}</td></tr>`).join('')}</tbody></table></div>
  <p class="fine">Game results: nflverse schedules, CC-BY 4.0 (${E(d.game_range)}); earlier seasons are left out instead of guessed. Milestones and Super Bowls are checked against Wikipedia's text every week; any fact that can't be matched is dropped automatically. Wikipedia-derived facts: Source: Wikipedia, licensed <a href="https://creativecommons.org/licenses/by-sa/4.0/" ${EXT}>CC BY-SA 4.0</a>; wording adapted by Black & Gold Dispatch. Licensed only as described in our free API terms (<a href="llms.txt">llms.txt</a>).</p>`;}

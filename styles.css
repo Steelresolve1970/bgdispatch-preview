@@ -318,3 +318,28 @@ nav .more a{color:#fff}nav .more a[aria-current]{color:var(--gold)}
 .hm-weeks button{border:2px solid var(--black);background:#fff;border-radius:10px;padding:6px 10px;font-weight:800;cursor:pointer;display:flex;flex-direction:column;align-items:center;line-height:1.15;min-height:44px}
 .hm-weeks button small{font-weight:600;font-size:.75em;opacity:.75}.hm-weeks button.on{background:var(--black);color:var(--gold)}
 @media(max-width:600px){.hm-weeks{flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch;padding-bottom:4px}.hm-weeks button{flex:0 0 auto}.hm-weeks-lbl{flex:0 0 100%;display:none}}
+/* Steelers History (expanded) */
+.h-jump{display:flex;gap:6px;overflow-x:auto;position:sticky;top:64px;z-index:3;background:var(--light,#f4f4f2);padding:8px 0;margin-bottom:8px;-webkit-overflow-scrolling:touch}
+.h-jump button,.h-dec{flex:0 0 auto;border:1px solid #c9c9c9;background:#fff;border-radius:16px;padding:6px 12px;font-weight:700;font-size:13px;cursor:pointer;color:var(--ink)}
+.h-jump button:hover,.h-dec[aria-pressed=true]{background:var(--black);color:var(--gold);border-color:var(--black)}
+.h-sec{background:#fff;border:1px solid #e2e2e2;border-left:5px solid var(--gold);border-radius:8px;margin:0 0 14px;scroll-margin-top:120px}
+.h-sec>summary{cursor:pointer;list-style:none;padding:12px 16px;display:flex;align-items:center;justify-content:space-between}
+.h-sec>summary::-webkit-details-marker{display:none}.h-sec>summary::after{content:'＋';font-weight:900;color:#8a6400}.h-sec[open]>summary::after{content:'−'}
+.h-sec>summary h2{margin:0;font-size:20px}.h-body{padding:0 16px 14px}
+.h-sub{color:#666;font-size:12px}.h-h3{margin:18px 0 8px;font-size:17px}
+.h-stats{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin:4px 0 12px}.h-stats div{background:var(--black);color:#fff;border-radius:8px;padding:10px;text-align:center}
+.h-stats b{display:block;color:var(--gold);font-size:22px}.h-stats span{font-size:11px;color:#ccc}
+.h-decs{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:10px}
+.h-tbl{overflow-x:auto;max-height:560px;overflow-y:auto;border:1px solid #eee;border-radius:6px}
+.h-tbl table{width:100%;border-collapse:collapse;font-size:13px}.h-tbl th{position:sticky;top:0;background:var(--black);color:var(--gold);text-align:left;padding:7px 8px;white-space:nowrap}
+.h-tbl td{padding:6px 8px;border-top:1px solid #eee;vertical-align:top}.h-tbl tr:nth-child(even) td{background:#fafafa}
+.h-tbl tr.h-champ td{background:#fff3cf}.h-rec{font-weight:800;white-space:nowrap}.h-win{color:#1a7f37}.h-loss{color:#b42318}.h-po{min-width:220px}.h-coach{min-width:120px}
+.h-cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px}
+.h-card{border:1px solid #e5e5e5;border-radius:8px;padding:12px;background:#fff}.h-card h3{margin:2px 0 4px;font-size:17px}.h-card p{margin:6px 0}.h-card ul{padding-left:18px;margin:6px 0}.h-card li{margin:3px 0}
+.h-card-top{display:flex;gap:10px;align-items:center}.h-trophy{font-size:26px}.h-score{font-weight:900;font-size:18px}.h-lost{border-style:dashed}.h-src{font-size:12px}
+.h-list{list-style:none;padding:0;margin:0}.h-list li{padding:8px 0;border-top:1px solid #eee}.h-list li:first-child{border-top:0}
+.h-pos{display:inline-block;background:var(--black);color:var(--gold);font-size:10px;font-weight:800;border-radius:4px;padding:1px 5px;vertical-align:middle}
+.h-compact li{display:flex;justify-content:space-between;gap:10px}
+.h-leaders{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:10px}.h-lead{border:1px solid #e5e5e5;border-radius:8px;padding:10px}
+.h-lead h3{margin:0 0 6px;font-size:14px;text-transform:uppercase;letter-spacing:.03em;color:#8a6400}.h-lead ol{margin:0;padding-left:18px}.h-lead li{display:list-item}.h-lead li span{display:inline-block;min-width:60%}.h-lead li b{float:right}
+@media(max-width:600px){.h-decs{flex-wrap:nowrap;overflow-x:auto;padding-bottom:4px}.h-tbl td,.h-tbl th{padding:6px 5px}.h-po{min-width:170px}.h-stats{grid-template-columns:repeat(2,1fr)}.h-cards{grid-template-columns:1fr}.h-sec>summary h2{font-size:17px}.h-body{padding:0 10px 12px}.h-tbl{max-height:480px}.h-jump{top:56px}#h-seasons .h-coach,#h-seasons th:nth-child(5){display:none}}

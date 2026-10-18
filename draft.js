@@ -18,9 +18,15 @@ function cpuPick(s){const nd=needs(s.owner),have=mine(s.owner).map(x=>x.player.p
   const dup=have.filter(x=>x===p.pos).length;sc+=dup*(p.pos==='QB'?60:12);if(p.pos==='QB'&&i<0&&s.round<=2)sc+=12;if(sc<bs){bs=sc;best=p;}});return best;}
 function take(s,p){S.avail=S.avail.filter(x=>x!==p);s.player=p;S.cur++;}
 function snap(){return{cur:S.cur,avail:[...S.avail],slots:S.slots.map(s=>({...s}))};}
-function step(){clearTimeout(S.timer);if(S.paused){render();return;}
- while(S.cur<S.slots.length&&!isUser(S.slots[S.cur])){take(S.slots[S.cur],cpuPick(S.slots[S.cur]));if(S.speed>0){S.phase='cpu';render();S.timer=setTimeout(step,S.speed);return;}}
- S.phase=S.cur>=S.slots.length?'done':'user';if(S.phase==='user')S.tab='board';render();}
+function step(){clearTimeout(S.timer);clearTimeout(S.watch);if(S.paused){render();return;}
+ try{while(S.cur<S.slots.length&&!isUser(S.slots[S.cur])){const s=S.slots[S.cur],p=cpuPick(s)||S.avail[0];if(!p){S.slots=S.slots.slice(0,S.cur);break;}take(s,p);
+  if(S.speed>0&&S.cur<S.slots.length){S.phase='cpu';render();S.timer=setTimeout(step,S.speed);S.watch=setTimeout(stallCheck,Math.max(4000,S.speed*10));return;}}
+ S.phase=S.cur>=S.slots.length?'done':'user';if(S.phase==='user')S.tab='board';render();}catch(err){console.warn('mock draft step',err);S.stalled=true;try{render();}catch(e2){showFinish();}}}
+// Safety net: if the CPU stops picking for any reason, offer a Finish draft button.
+let lastCur=-1;function stallCheck(){if(S.phase==='cpu'&&!S.paused&&S.cur===lastCur){S.stalled=true;render();}lastCur=S.cur;if(S.phase==='cpu')S.watch=setTimeout(stallCheck,Math.max(4000,S.speed*10));}
+function finishDraft(){clearTimeout(S.timer);clearTimeout(S.watch);S.paused=false;S.stalled=false;S.card=null;S.trade=null;
+ while(S.cur<S.slots.length){const s=S.slots[S.cur];const p=cpuPick(s)||S.avail[0];if(!p){S.slots=S.slots.slice(0,S.cur);break;}take(s,p);}S.phase='done';render();}
+function showFinish(){const e=el();if(e&&!e.querySelector('.dr-finish'))e.insertAdjacentHTML('afterbegin','<p class="box"><b>The draft got stuck.</b> <button class="btn dr-finish" type="button">Finish draft</button></p>');}
 const LET=x=>x>=1.2?'A+':x>=0.7?'A':x>=0.4?'A-':x>=0.2?'B+':x>=0?'B':x>=-0.25?'B-':x>=-0.5?'C+':x>=-0.8?'C':x>=-1.2?'C-':x>=-1.7?'D':'F';
 // Value vs our board (scaled so a 10-spot reach in round 1 counts more than in round 6) + need fit.
 function pickScore(s){const p=s.player,d=s.overall-p.rank,sc=d/(4+0.22*s.overall);const i=needs(s.owner).indexOf(p.pos);return Math.max(-2.5,Math.min(2,sc))+(i>=0?(5-i)*0.06:-0.05);}
@@ -106,10 +112,11 @@ function summaryHTML(){const all=[...new Set(S.slots.map(s=>s.owner))].sort((a,b
 function render(){const e=el();if(!e||!S.board)return;const ae=document.activeElement,qf=ae&&ae.classList.contains('dr-q'),cp=qf?ae.selectionStart:0;
  if(S.phase==='setup'){e.innerHTML=setupHTML();return;}
  if(S.phase==='done'){e.innerHTML=`<div class="dr-grid"><div>${summaryHTML()}</div><aside><div class="box"><h2>Every pick, graded <small>· Dispatch Draft Desk</small></h2>${logHTML()}</div></aside></div>${S.card?cardHTML(S.card):''}`;return;}
+ if(S.cur>=S.slots.length){S.phase='done';return render();}
  const on=S.slots[S.cur],my=S.teams.flatMap(a=>mine(a)).sort((a,b)=>a.overall-b.overall);
  e.innerHTML=`<div class="dr-grid"><div>
   <div class="ballot-head dr-clock"><p class="kind">${S.phase==='user'?'You are on the clock':S.paused?'Paused':'CPU picking…'}</p><h2>R${on.round} · #${on.overall}: ${E(TN(on.owner))}</h2><p>Needs: ${needs(on.owner).map(E).join(', ')||'–'}</p>
-   <p class="dr-ctl">${S.phase==='user'?`<button class="btn dr-topen" type="button">Trade</button> `:`<button class="btn dr-pause" type="button">${S.paused?'Resume':'Pause'}</button> `}<button class="btn ghost dr-undo" type="button"${S.hist.length?'':' disabled'}>Undo my last pick</button> <span class="chips inline">${SPEEDS.map(([l,v])=>`<button type="button" class="chip dr-speed${S.speed===v?' on':''}" data-v="${v}">${l}</button>`).join('')}</span></p></div>
+   <p class="dr-ctl">${S.phase==='user'?`<button class="btn dr-topen" type="button">Trade</button> `:`<button class="btn dr-pause" type="button">${S.paused?'Resume':'Pause'}</button> `}${S.phase==='cpu'||S.stalled?`<button class="btn${S.stalled?'':' ghost'} dr-finish" type="button">Finish draft</button> `:''}<button class="btn ghost dr-undo" type="button"${S.hist.length?'':' disabled'}>Undo my last pick</button> <span class="chips inline">${SPEEDS.map(([l,v])=>`<button type="button" class="chip dr-speed${S.speed===v?' on':''}" data-v="${v}">${l}</button>`).join('')}</span></p></div>
   ${tickerHTML()}${S.trade?tradeHTML():''}
   <div class="chips dr-tabs"><button type="button" class="chip dr-tab${S.tab==='board'?' on':''}" data-t="board">Big board</button><button type="button" class="chip dr-tab${S.tab==='log'?' on':''}" data-t="log">Full board by round</button></div>
   ${S.tab==='board'?boardHTML():logHTML()}
@@ -119,7 +126,7 @@ function render(){const e=el();if(!e||!S.board)return;const ae=document.activeEl
  const tk=e.querySelector('.dr-ticker'),nw=tk&&tk.querySelector('.now');if(tk&&nw){tk.scrollLeft=(S.tkCur===S.cur&&S.tkPos!=null)?S.tkPos:nw.offsetLeft-tk.clientWidth/2;S.tkCur=S.cur;S.tkPos=tk.scrollLeft;tk.addEventListener('scroll',()=>{S.tkPos=tk.scrollLeft;},{passive:true});}
  if(qf){const q=e.querySelector('.dr-q');q.focus();q.setSelectionRange(cp,cp);}}
 function start(){S.seed=(Date.now()%100000)+7;S.avail=[...S.board.prospects];S.slots=S.order.picks.filter(p=>p.round<=S.rounds).map(p=>({...p,owner:p.team,player:null}));
- S.cur=0;S.hist=[];S.trade=null;S.card=null;S.paused=false;S.q='';S.filter='All';S.school='';step();}
+ S.cur=0;S.stalled=false;S.hist=[];S.trade=null;S.card=null;S.paused=false;S.q='';S.filter='All';S.school='';step();}
 function userTake(rank){const p=S.avail.find(x=>x.rank==rank);if(!p||S.phase!=='user')return;S.hist.push(snap());take(S.slots[S.cur],p);S.card=null;S.trade=null;step();}
 document.addEventListener('click',ev=>{const e=el();if(!e||!e.contains(ev.target))return;const t=ev.target.closest('button,a.dr-how,.dr-modal');if(!t)return;const c=t.classList;
  if(c.contains('dr-how')){ev.preventDefault();const b=e.querySelector('.dr-howbox');b.hidden=!b.hidden;}
@@ -135,15 +142,16 @@ document.addEventListener('click',ev=>{const e=el();if(!e||!e.contains(ev.target
  else if(c.contains('dr-tk')||c.contains('dr-pk')){const s=S.slots.find(x=>x.overall==t.dataset.o);if(s&&s.player){S.card=s.player;render();}}
  else if(c.contains('dr-draft')||c.contains('dr-take'))userTake(t.dataset.r);
  else if(c.contains('dr-pause')){S.paused=!S.paused;S.paused?render():step();}
- else if(c.contains('dr-undo')&&S.hist.length){clearTimeout(S.timer);const h=S.hist.pop();S.cur=h.cur;S.avail=h.avail;S.slots=h.slots;S.phase='user';S.paused=false;S.trade=null;render();}
+ else if(c.contains('dr-undo')&&S.hist.length){clearTimeout(S.timer);clearTimeout(S.watch);const h=S.hist.pop();S.cur=h.cur;S.avail=h.avail;S.slots=h.slots;S.phase='user';S.paused=false;S.trade=null;render();}
  else if(c.contains('dr-topen')){S.trade={with:'',give:[],get:[]};render();}
  else if(c.contains('dr-tx')){S.trade=null;render();}
  else if(c.contains('dr-tg')||c.contains('dr-tr')){const k=c.contains('dr-tg')?'give':'get',o=+t.dataset.o;S.trade[k]=S.trade[k].includes(o)?S.trade[k].filter(x=>x!==o):[...S.trade[k],o];S.trade.msg='';render();}
  else if(c.contains('dr-tdo')){const T=S.trade,me=S.slots[S.cur].owner;S.hist.push(snap());S.slots.forEach(s=>{if(T.give.includes(s.overall))s.owner=T.with;else if(T.get.includes(s.overall))s.owner=me;});
   S.trade={with:'',give:[],get:[],msg:`Trade done with ${TN(T.with)}.`};if(!isUser(S.slots[S.cur])){S.trade=null;step();}else render();}
  else if(c.contains('dr-copy')){const ta=e.querySelector('.dr-share');(navigator.clipboard?navigator.clipboard.writeText(ta.value):Promise.reject()).then(()=>{t.textContent='Copied!';}).catch(()=>{ta.select();document.execCommand('copy');t.textContent='Copied!';});}
+ else if(c.contains('dr-finish'))finishDraft();
  else if(c.contains('dr-img'))shareImage();
- else if(c.contains('dr-reset')){clearTimeout(S.timer);S.phase='setup';render();}});
+ else if(c.contains('dr-reset')){clearTimeout(S.timer);clearTimeout(S.watch);S.phase='setup';render();}});
 document.addEventListener('input',ev=>{const e=el();if(!e||!e.contains(ev.target))return;const c=ev.target.classList;
  if(c.contains('dr-q')){S.q=ev.target.value;render();}else if(c.contains('dr-rand')){S.rand=+ev.target.value;document.getElementById('drRandV').textContent=S.rand;}});
 document.addEventListener('change',ev=>{const e=el();if(!e||!e.contains(ev.target))return;const c=ev.target.classList;
