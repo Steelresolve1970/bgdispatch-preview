@@ -18,3 +18,26 @@ function wire(){if(!get().choice)banner();
  const t=document.getElementById('dns-toggle');if(t){t.checked=!!get().optOut;if(gpc)t.disabled=true;t.addEventListener('change',()=>set({optOut:t.checked,via:'toggle'}));}}
 document.readyState==='loading'?document.addEventListener('DOMContentLoaded',wire):wire();
 })();
+
+// External links open in a new tab (same policy as the main site).
+(function(){
+ function isExt(a){
+  if(!a||a.tagName!=='A')return false;
+  const raw=(a.getAttribute('href')||'').trim();
+  if(!raw||raw.startsWith('#')||raw.startsWith('mailto:')||raw.startsWith('tel:')||raw.startsWith('javascript:'))return false;
+  try{return new URL(a.href,location.href).origin!==location.origin;}catch(e){return /^https?:\/\//i.test(raw);}
+ }
+ function harden(a){
+  if(!isExt(a))return;
+  a.setAttribute('target','_blank');
+  const rel=new Set((a.getAttribute('rel')||'').toLowerCase().split(/\s+/).filter(Boolean));
+  rel.add('noopener');rel.add('noreferrer');
+  a.setAttribute('rel',[...rel].join(' '));
+  if(!a.classList.contains('btn')&&!a.classList.contains('back')&&!a.classList.contains('wordmark'))
+   a.classList.add('ext-link');
+ }
+ function scan(){document.querySelectorAll('a[href]').forEach(harden);}
+ document.addEventListener('click',e=>{const a=e.target.closest?.('a[href]');if(a)harden(a);},true);
+ const go=()=>{scan();try{new MutationObserver(ms=>{for(const m of ms)m.addedNodes.forEach(n=>{if(n.nodeType===1){if(n.matches?.('a[href]'))harden(n);n.querySelectorAll?.('a[href]')?.forEach(harden);}});}).observe(document.documentElement,{childList:true,subtree:true});}catch(e){}};
+ document.readyState==='loading'?document.addEventListener('DOMContentLoaded',go):go();
+})();

@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-18T02:47:07.034453+00:00",
+ "generated": "2026-10-18T03:35:40.594401+00:00",
  "date_et": "2026-10-17",
  "days": 7,
- "count": 187,
+ "count": 186,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -46,7 +46,7 @@
    "url": "https://feeds.simplecast.com/OkvCKc09",
    "status": "ok",
    "episodes": 2000,
-   "week": 33,
+   "week": 32,
    "latest": "2026-10-18T01:37:00+00:00"
   },
   {
@@ -98,10 +98,10 @@
    "show": "Steel City Underground",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDcNNAMkYr-DzH6_XL-0p8Q",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 2,
-   "latest": "2026-10-15T19:05:24+00:00"
+   "latest": null
   },
   {
    "show": "Steelers Afternoon Drive",
@@ -197,7 +197,7 @@
    "show": "Pittsburgh Steelers (official)",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChaRXjMDs4ppKfnTPE6Z89w",
-   "status": "error: HTTP Error 404: Not Found",
+   "status": "error: HTTP Error 500: Internal Server Error",
    "episodes": 0,
    "week": 15,
    "latest": null
@@ -242,7 +242,7 @@
    "show": "The Christian Kuntz Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKKBJcOGsYmwAATQv-xQYeA",
-   "status": "error: HTTP Error 404: Not Found",
+   "status": "error: HTTP Error 500: Internal Server Error",
    "episodes": 0,
    "week": 0,
    "latest": null
@@ -1736,14 +1736,6 @@
    "link": "http://steelcurtainnetwork.com",
    "published": "2026-10-11T08:00:00+00:00",
    "summary": "Podcast episode from Steel Curtain Network (BTSC)."
-  },
-  {
-   "title": "DK's Live Shot of Steelers: Pregame vs. Colts",
-   "show": "DK Pittsburgh Sports",
-   "kind": "podcast",
-   "link": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-live-shot-of-steelers-pregame-vs-colts/",
-   "published": "2026-10-11T03:15:00+00:00",
-   "summary": "Podcast episode from DK Pittsburgh Sports."
   }
  ],
  "yt_channels": [

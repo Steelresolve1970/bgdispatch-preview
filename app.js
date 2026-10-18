@@ -1,6 +1,6 @@
 const $=id=>document.getElementById(id);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const ext='target="_blank" rel="noopener nofollow"';
+const ext='target="_blank" rel="noopener noreferrer"';
 const ET={timeZone:'America/New_York'};
 function ago(iso){if(!iso)return'';const m=Math.max(0,Math.round((Date.now()-new Date(iso))/60000));
  if(m<60)return m+'m ago';const h=Math.round(m/60);if(h<24)return h+'h ago';return Math.round(h/24)+'d ago';}
@@ -107,3 +107,32 @@ window.BGD_AV=null;fetch('data/draft/availability.json',{cache:'no-store'}).then
 window.availHTML=function(name,list){const a=list||(window.BGD_AV&&window.BGD_AV.players[name]&&window.BGD_AV.players[name].picks);if(!a)return'';
  const cls=p=>p>=65?'hi':p>=35?'mid':p>=10?'lo':'none';
  return`<div class="avail" title="Estimate from our board rank vs the Steelers' projected pick. See the Draft tab for how it works."><span class="avail-lab">Chance available at Steelers pick <small>(estimate)</small></span>${a.map(x=>`<span class="avail-pill ${cls(x.pct)}">R${x.round} #${x.overall}: <b>${x.pct<1?'<1':x.pct>99?'>99':x.pct}%</b></span>`).join('')}</div>`;};
+
+// External links: always open in a new tab so our site stays open for the reader.
+// Hardens on render (MutationObserver) and again at click time for anything missed.
+(function(){
+ function isExt(a){
+  if(!a||a.tagName!=='A')return false;
+  const raw=(a.getAttribute('href')||'').trim();
+  if(!raw||raw.startsWith('#')||raw.startsWith('mailto:')||raw.startsWith('tel:')||raw.startsWith('javascript:'))return false;
+  try{return new URL(a.href,location.href).origin!==location.origin;}catch(e){return /^https?:\/\//i.test(raw);}
+ }
+ function harden(a){
+  if(!isExt(a))return false;
+  a.setAttribute('target','_blank');
+  const rel=new Set((a.getAttribute('rel')||'').toLowerCase().split(/\s+/).filter(Boolean));
+  rel.add('noopener');rel.add('noreferrer');
+  a.setAttribute('rel',[...rel].join(' '));
+  // Mark for the subtle ↗ CSS; skip dense UI (cards titles, buttons, frames, ticker).
+  if(!a.classList.contains('ext-skip')&&!a.classList.contains('hl')&&!a.classList.contains('btn')&&!a.classList.contains('fv-out')&&!a.classList.contains('inj')&&!a.classList.contains('dp')&&!a.closest('#tickerMove,.fv-frame,.merch-grid,nav'))
+   a.classList.add('ext-link');
+  return true;
+ }
+ function scan(root){(root||document).querySelectorAll?.('a[href]')?.forEach(harden);if(root?.matches?.('a[href]'))harden(root);}
+ document.addEventListener('click',e=>{const a=e.target.closest?.('a[href]');if(a)harden(a);},true);
+ const mo=new MutationObserver(ms=>{for(const m of ms){m.addedNodes.forEach(n=>{if(n.nodeType===1)scan(n);});}});
+ const start=()=>{scan(document);try{mo.observe(document.documentElement,{childList:true,subtree:true});}catch(e){}};
+ if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',start);else start();
+ document.addEventListener('route',()=>setTimeout(()=>scan(document),0));
+ window.BGD_hardenExt=harden;window.BGD_scanExt=scan;
+})();

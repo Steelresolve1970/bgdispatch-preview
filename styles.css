@@ -401,3 +401,7 @@ nav .more a{color:#fff}nav .more a[aria-current]{color:var(--gold)}
 .rr-take{background:#fff3cf;border-left:4px solid var(--gold);border-radius:6px;padding:8px 12px;margin:12px 0}.rr-take p{margin:4px 0 0}
 .rr-career{margin:0;padding-left:18px}.rr-st-t{border-collapse:collapse;font-size:.82rem;width:100%;white-space:nowrap}.rr-st-t th{background:#111;color:var(--gold);padding:5px 6px;text-align:right}.rr-st-t td{padding:5px 6px;border-bottom:1px solid #eee;text-align:right}
 .rr-st-t th:nth-child(-n+2),.rr-st-t td:nth-child(-n+2){text-align:left}.rr-none{color:#5e5e5e;font-style:italic}
+
+/* External-link cue: opens in a new tab so readers keep our site. Skip dense UI. */
+a.ext-link::after{content:"\00a0↗";font-size:.78em;opacity:.55;font-weight:600;speak:never}
+a.ext-link:hover::after{opacity:.85}

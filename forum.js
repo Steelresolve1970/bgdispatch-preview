@@ -21,7 +21,7 @@ function forumList(){const T=FB?FB.topics:[];const cnt=c=>T.filter(t=>t.cat===c)
  <h2 class="section-title">Latest topics</h2>
  <div class="threads">${T.length?[...T].sort((a,b)=>(b.pinned-a.pinned)||b.created.localeCompare(a.created)).map(t=>`<a class="thread" href="#/forum/thread/${FE(t.id)}">${fAv()}<span class="t-main"><span class="t-cat">${t.pinned?'📌 ':''}${kindIcon[t.kind]||''} ${FE(t.kind)} · ${FE(t.cat)}</span><b>${FE(t.title)}</b><small>by ${FE(t.author)} ${botBadge}</small></span><span class="t-stats"><b>${t.replies}</b> replies<br><small>${fAgo(t.created)}</small></span></a>`).join(''):'<p class="fine">No topics yet.</p>'}</div>`;}
 function forumThread(id){const t=(FB?FB.topics:[]).find(x=>x.id===id);if(!t)return '<p><a class="back" href="#/forum">← Back to forum</a></p><p>Topic not found.</p>';
- const ext='target="_blank" rel="noopener nofollow"';return `
+ const ext='target="_blank" rel="noopener noreferrer"';return `
  <p><a class="back" href="#/forum">← Back to forum</a></p>
  <div class="thread-head"><span class="t-cat">${kindIcon[t.kind]||''} ${FE(t.kind)} · ${FE(t.cat)}</span><h2>${FE(t.title)}</h2><small>${t.replies} replies · opened ${fAgo(t.created)}</small></div>
  <div class="posts"><article class="post">${fAv()}<div class="p-body"><p class="p-meta"><b>${FE(t.author)}</b> ${botBadge} <span class="role">Automated house account</span> · ${fAgo(t.created)}</p>
