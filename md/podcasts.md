@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-18T12:06:11+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T12:05:33+00:00._
+_Generated 2026-10-18T14:20:41+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T14:20:33+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Podcast: [Steelers vs. Bucs Bold Predictions](https://bleav.com/shows/all-steelers-talk/episodes/steelers-vs-bucs-bold-predictions/): All Steelers Talk, 2026-10-18 12:35 UTC
 - Podcast: [Last Minute Thoughts: Black and Bold, Week 6 vs. Tampa Bay](http://steelcurtainnetwork.com): Steel Curtain Network (BTSC), 2026-10-18 08:00 UTC
 - Podcast: [DK's Live Shot of Steelers: Pregame vs. Buccaneers](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-live-shot-of-steelers-pregame-vs-buccaneers/): DK Pittsburgh Sports, 2026-10-18 01:37 UTC
 - Video: [E Robb didn’t want to let his teammates down 👏💥#nfl #patriots #falcons](https://www.youtube.com/shorts/bheCQdatp50): Not Just Football with Cam Heyward, 2026-10-17 23:00 UTC
@@ -159,7 +160,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Steelers vs Colts Post Game Show LIVE | Not Just Football](https://www.youtube.com/watch?v=ztoPoxF9Dt0): Not Just Football with Cam Heyward, 2026-10-11 21:37 UTC
 - Video: [STEELERS SQUAD SHOW: Colts/Steelers LIVE Reaction! Warren's BIG Game! Progress or SAME OLD Problems?](https://www.youtube.com/watch?v=FcsRtBtp0mg): Locked On Steelers, 2026-10-11 21:21 UTC
 - Podcast: [The Terrible Take - Episode 2047 - October 11, 2026](https://megaphone.link/SDP2748400084): The Terrible Podcast (Steelers Depot), 2026-10-11 14:27 UTC
-- Podcast: [Steelers vs. Colts Bold Predictions](https://bleav.com/shows/all-steelers-talk/episodes/steelers-vs-colts-bold-predictions/): All Steelers Talk, 2026-10-11 12:29 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
