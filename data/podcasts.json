@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-18T02:27:09.914742+00:00",
+ "generated": "2026-10-18T02:33:09.369032+00:00",
  "date_et": "2026-10-17",
  "days": 7,
- "count": 187,
+ "count": 188,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -37,8 +37,8 @@
    "url": "https://feeds.megaphone.fm/btsc-steelers",
    "status": "ok",
    "episodes": 5000,
-   "week": 22,
-   "latest": "2026-10-17T15:09:00+00:00"
+   "week": 23,
+   "latest": "2026-10-18T02:30:00+00:00"
   },
   {
    "show": "DK Pittsburgh Sports",
@@ -188,7 +188,7 @@
    "show": "Nick Farabaugh on PennLive",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5yvng1eSgffmybUM-51fTw",
-   "status": "ok",
+   "status": "error: HTTP Error 500: Internal Server Error",
    "episodes": 0,
    "week": 0,
    "latest": null
@@ -249,6 +249,14 @@
   }
  ],
  "items": [
+  {
+   "title": "The Steelers Q&A: Getting off the coaster in Week 6",
+   "show": "Steel Curtain Network (BTSC)",
+   "kind": "podcast",
+   "link": "http://steelcurtainnetwork.com",
+   "published": "2026-10-18T02:30:00+00:00",
+   "summary": "Podcast episode from Steel Curtain Network (BTSC)."
+  },
   {
    "title": "DK's Live Shot of Steelers: Pregame vs. Buccaneers",
    "show": "DK Pittsburgh Sports",

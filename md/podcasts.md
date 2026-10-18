@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-18T02:27:18+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T02:27:09+00:00._
+_Generated 2026-10-18T02:33:16+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T02:33:09+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Podcast: [The Steelers Q&A: Getting off the coaster in Week 6](http://steelcurtainnetwork.com): Steel Curtain Network (BTSC), 2026-10-18 02:30 UTC
 - Podcast: [DK's Live Shot of Steelers: Pregame vs. Buccaneers](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-live-shot-of-steelers-pregame-vs-buccaneers/): DK Pittsburgh Sports, 2026-10-18 01:37 UTC
 - Video: [E Robb didn’t want to let his teammates down 👏💥#nfl #patriots #falcons](https://www.youtube.com/shorts/bheCQdatp50): Not Just Football with Cam Heyward, 2026-10-17 23:00 UTC
 - Video: [Live from our Road Warrior Rally in Tampa with Casey Hampton 🙌](https://www.youtube.com/shorts/6-WqoVTWAfQ): Pittsburgh Steelers (official), 2026-10-17 22:52 UTC
@@ -11,7 +12,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [QB1 is Tampa Bound 🫡](https://www.youtube.com/shorts/FcWE5B6vQkY): Pittsburgh Steelers (official), 2026-10-17 19:13 UTC
 - Video: [TJ Watt & Sean Murphy-Bunting Press Conference (October 16) | Pittsburgh Steelers](https://www.youtube.com/watch?v=J0z2eg6m38E): Pittsburgh Steelers (official), 2026-10-17 18:36 UTC
 - Video: [Which Steelers Are Fantasy Must-Plays in Week 6? | THE PITTSBURGH FOOTBALL SHOW](https://www.youtube.com/watch?v=QLTI3E_BS94): Steelers Now, 2026-10-17 15:48 UTC
-- Podcast: [State of the Steelers: Can The Steelers Fix Its Road Woes in Tampa Bay?](http://steelcurtainnetwork.com): Steel Curtain Network (BTSC), 2026-10-17 15:09 UTC
 - Video: [Da beard to da house‼️ 📺: #PITvsTB 10/18 at 1 PM ET on CBS](https://www.youtube.com/shorts/QAZA8gFhpx8): Pittsburgh Steelers (official), 2026-10-17 14:55 UTC
 - Video: [Burgh Bets with Bob Konarski: NFL and CFB Picks and Props for Week 6 | THE PITTSBURGH FOOTBALL SHOW](https://www.youtube.com/watch?v=Z7xvi-201f4): Steelers Now, 2026-10-17 13:45 UTC
 - Podcast: [🔥 JAYLEN WARREN ON FIRE! CAN THE STEELERS SINK TAMPA BAY? | SF7P EPISODE 211 ⚫🟡](https://podcasters.spotify.com/pod/show/steelersfor7podcast/episodes/JAYLEN-WARREN-ON-FIRE--CAN-THE-STEELERS-SINK-TAMPA-BAY---SF7P-EPISODE-211-e3qkqod): Steelers for 7 Podcast, 2026-10-17 04:46 UTC

@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-18T02:27:18+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T02:26:58+00:00._
+_Generated 2026-10-18T02:33:16+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T02:32:15+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Steelers lose receiver Wilson to IR, Metcalf comes off injury report](https://www.espn.com/nfl/story/_/id/50203338/steelers-place-receiver-wilson-ir): ESPN, 2026-10-18 03:23 UTC

@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T02:26:59.851478+00:00",
+ "generated": "2026-10-18T02:32:31.529729+00:00",
  "game": {
   "label": "vs Indianapolis Colts (Oct 11)",
   "opponent": "Indianapolis Colts",
@@ -11,22 +11,6 @@
   "note": "last game end (kickoff + 3.5h est.) until next kickoff"
  },
  "creators": [
-  {
-   "creator": "Steelers Almighty",
-   "mode": "steelers",
-   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgIrOw8M4dNVs-WcMSaZUxA",
-   "status": "error: HTTP Error 404: Not Found",
-   "feed_items": 0,
-   "in_window": 0
-  },
-  {
-   "creator": "Steelers_DB",
-   "mode": "steelers",
-   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNsZFFKPF0bp85qzvJ8knbQ",
-   "status": "error: HTTP Error 404: Not Found",
-   "feed_items": 0,
-   "in_window": 0
-  },
   {
    "creator": "Steelers Depot Film Room (Alex Kozora)",
    "mode": "steelers",
@@ -42,14 +26,6 @@
    "status": "ok",
    "feed_items": 20,
    "in_window": 0
-  },
-  {
-   "creator": "Steelers Depot (YouTube)",
-   "mode": "steelers",
-   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFqbkq2BzNY3iQ_FPveqVhw",
-   "status": "ok",
-   "feed_items": 15,
-   "in_window": 1
   },
   {
    "creator": "Still Curtain (Tommy Jaggi All-22)",
@@ -95,16 +71,8 @@
    "creator": "Merril Hoge (personal)",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCL1UFebpPn1rsxK0yEwwbgA",
-   "status": "error: HTTP Error 500: Internal Server Error",
-   "feed_items": 0,
-   "in_window": 0
-  },
-  {
-   "creator": "All_22_Films",
-   "mode": "national",
-   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7Dbn36zT6XjfBh9YDLmGIg",
-   "status": "error: HTTP Error 500: Internal Server Error",
-   "feed_items": 0,
+   "status": "ok",
+   "feed_items": 15,
    "in_window": 0
   },
   {
@@ -116,35 +84,131 @@
    "in_window": 0
   },
   {
-   "creator": "Brett Kollmann",
-   "mode": "national",
-   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYzfVBuCfGz-oF3aOCGgO5g",
-   "status": "ok",
-   "feed_items": 15,
-   "in_window": 0
-  },
-  {
-   "creator": "The QB School (JT O'Sullivan)",
-   "mode": "national",
-   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGfxHp2yuimtLsFaq1r7aIQ",
-   "status": "error: HTTP Error 500: Internal Server Error",
-   "feed_items": 0,
-   "in_window": 0
-  },
-  {
    "creator": "Cover 1",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UClL6eJS1s8xmRoYRQbYgxQQ",
-   "status": "error: HTTP Error 500: Internal Server Error",
-   "feed_items": 0,
+   "status": "ok",
+   "feed_items": 15,
    "in_window": 0
   },
   {
    "creator": "Alex & the NFL",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsGr04a3SDjhPhsAe4xj4YQ",
+   "status": "ok",
+   "feed_items": 15,
+   "in_window": 0
+  },
+  {
+   "creator": "Steelers Almighty",
+   "mode": "steelers",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgIrOw8M4dNVs-WcMSaZUxA",
+   "status": "ok",
+   "feed_items": 15,
+   "in_window": 3
+  },
+  {
+   "creator": "Steelers Now (Derrick Bell)",
+   "mode": "steelers",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp1iAMIfmmgWewzJ07_Y7oA",
+   "status": "ok",
+   "feed_items": 15,
+   "in_window": 0
+  },
+  {
+   "creator": "Steel City Underground",
+   "mode": "steelers",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDcNNAMkYr-DzH6_XL-0p8Q",
+   "status": "ok",
+   "feed_items": 15,
+   "in_window": 0
+  },
+  {
+   "creator": "Still Curtain",
+   "mode": "steelers",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxjSNPLcRAVzDKOjhRwo-hQ",
+   "status": "ok",
+   "feed_items": 15,
+   "in_window": 0
+  },
+  {
+   "creator": "Locked On Steelers",
+   "mode": "steelers",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7JorgD8nGLtvvMy1ogFetg",
+   "status": "ok",
+   "feed_items": 15,
+   "in_window": 0
+  },
+  {
+   "creator": "Steel Curtain Network (BTSC)",
+   "mode": "steelers",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqZ9EXmGxrTBTOhg7qldDvA",
+   "status": "ok",
+   "feed_items": 15,
+   "in_window": 0
+  },
+  {
+   "creator": "Arthur Moats Experience",
+   "mode": "steelers",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFPpVnzIt33ZPQglYd7MOqQ",
+   "status": "ok",
+   "feed_items": 15,
+   "in_window": 0
+  },
+  {
+   "creator": "Derrick Bell \u2013 DB's Film Room (Steelers Now)",
+   "mode": "steelers",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNsZFFKPF0bp85qzvJ8knbQ",
+   "status": "ok",
+   "feed_items": 15,
+   "in_window": 1
+  },
+  {
+   "creator": "Steelers Depot (YouTube)",
+   "mode": "steelers",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFqbkq2BzNY3iQ_FPveqVhw",
+   "status": "ok",
+   "feed_items": 15,
+   "in_window": 1
+  },
+  {
+   "creator": "Pittsburgh Steelers (official)",
+   "mode": "official-yt",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChaRXjMDs4ppKfnTPE6Z89w",
+   "status": "ok",
+   "feed_items": 15,
+   "in_window": 0
+  },
+  {
+   "creator": "Baldy's Breakdowns",
+   "mode": "national",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHdXqjAWwGqEGfC1a9319Mw",
+   "status": "ok",
+   "feed_items": 15,
+   "in_window": 0
+  },
+  {
+   "creator": "Brett Kollmann",
+   "mode": "national",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYzfVBuCfGz-oF3aOCGgO5g",
    "status": "error: HTTP Error 404: Not Found",
    "feed_items": 0,
+   "in_window": 0
+  },
+  {
+   "creator": "The QB School (JT O'Sullivan)",
+   "mode": "national",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGfxHp2yuimtLsFaq1r7aIQ",
+   "status": "ok",
+   "feed_items": 15,
+   "in_window": 0
+  },
+  {
+   "creator": "All_22_Films",
+   "mode": "national",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7Dbn36zT6XjfBh9YDLmGIg",
+   "status": "ok",
+   "feed_items": 15,
    "in_window": 0
   }
  ],
@@ -158,11 +222,43 @@
    "game": "vs Indianapolis Colts (Oct 11)"
   },
   {
+   "title": "Overall Grade vs Colts",
+   "creator": "Steelers Almighty",
+   "link": "https://www.youtube.com/watch?v=omOtoxTK19E",
+   "published": "2026-10-16T15:10:18+00:00",
+   "summary": "Film breakdown by Steelers Almighty of vs Indianapolis Colts (Oct 11).",
+   "game": "vs Indianapolis Colts (Oct 11)"
+  },
+  {
+   "title": "ST Grades vs Colts",
+   "creator": "Steelers Almighty",
+   "link": "https://www.youtube.com/watch?v=lQHr4XkRi0g",
+   "published": "2026-10-16T13:06:45+00:00",
+   "summary": "Film breakdown by Steelers Almighty of vs Indianapolis Colts (Oct 11).",
+   "game": "vs Indianapolis Colts (Oct 11)"
+  },
+  {
+   "title": "Defense Grades vs Colts",
+   "creator": "Steelers Almighty",
+   "link": "https://www.youtube.com/shorts/7d5k7Mntry4",
+   "published": "2026-10-16T11:07:30+00:00",
+   "summary": "Film breakdown by Steelers Almighty of vs Indianapolis Colts (Oct 11).",
+   "game": "vs Indianapolis Colts (Oct 11)"
+  },
+  {
    "title": "The Terrible Podcast \u2014 Steelers Vs. Colts All-22 Review, McCarthy Monday Recap, Week 6 WR Issues",
    "creator": "Steelers Depot (YouTube)",
    "link": "https://www.youtube.com/watch?v=t6YSD1i_je0",
    "published": "2026-10-14T16:33:58+00:00",
    "summary": "Film breakdown by Steelers Depot (YouTube) of vs Indianapolis Colts (Oct 11).",
+   "game": "vs Indianapolis Colts (Oct 11)"
+  },
+  {
+   "title": "Film Room: Germie Bernard is EXACTLY What the Steelers Need!",
+   "creator": "Derrick Bell \u2013 DB's Film Room (Steelers Now)",
+   "link": "https://www.youtube.com/watch?v=VflwgbiXV1g",
+   "published": "2026-10-12T22:20:28+00:00",
+   "summary": "Film breakdown by Derrick Bell \u2013 DB's Film Room (Steelers Now) of vs Indianapolis Colts (Oct 11).",
    "game": "vs Indianapolis Colts (Oct 11)"
   },
   {
@@ -174,6 +270,46 @@
    "game": "vs Indianapolis Colts (Oct 11)"
   },
   {
+   "title": "Steelers' Offense Line PEAKS vs the Colts | All-22 Film",
+   "creator": "Steelers Almighty",
+   "link": "https://www.youtube.com/watch?v=BXwzOG_uPg0",
+   "published": "2026-10-12T17:00:00+00:00",
+   "date_approx": true,
+   "gid": "2026_05_IND_PIT",
+   "source": "search",
+   "summary": "Film breakdown by Steelers Almighty of Week 5 vs Colts (W 34-22)."
+  },
+  {
+   "title": "Steelers Get Their HIGHEST Grades of the 2026 Season vs the Colts | REPORT CARD | Week 5",
+   "creator": "Steelers Almighty",
+   "link": "https://www.youtube.com/watch?v=Ob0ugssq_lI",
+   "published": "2026-10-12T17:00:00+00:00",
+   "date_approx": true,
+   "gid": "2026_05_IND_PIT",
+   "source": "search",
+   "summary": "Film breakdown by Steelers Almighty of Week 5 vs Colts (W 34-22)."
+  },
+  {
+   "title": "The Terrible Podcast \u2014 Talking Steelers At Trade Deadline, Tomlin Tuesday, Colts All-22 Final Notes",
+   "creator": "Steelers Depot (YouTube)",
+   "link": "https://www.youtube.com/watch?v=2kz53hLthU4",
+   "published": "2026-10-12T17:00:00+00:00",
+   "date_approx": true,
+   "gid": "2026_05_IND_PIT",
+   "source": "search",
+   "summary": "Film breakdown by Steelers Depot (YouTube) of Week 5 vs Colts (W 34-22)."
+  },
+  {
+   "title": "6 TAKEAWAYS vs. Colts \ud83d\ude24 More than any team in a game all season #PITvsLAC: 11/9 at 8:20 PM ET on NBC",
+   "creator": "Pittsburgh Steelers (official)",
+   "link": "https://www.youtube.com/watch?v=adCsTTvxJfw",
+   "published": "2026-10-12T17:00:00+00:00",
+   "date_approx": true,
+   "gid": "2026_05_IND_PIT",
+   "source": "search",
+   "summary": "Film breakdown by Pittsburgh Steelers (official) of Week 5 vs Colts (W 34-22)."
+  },
+  {
    "title": "Film Room: Yahya Black Steps Up In Derrick Harmon\u2019s Absence",
    "creator": "Steelers Depot Film Room (Alex Kozora)",
    "link": "https://steelersdepot.com/2026/10/film-room-yahya-black-steps-up-in-derrick-harmons-absence/",
@@ -182,5 +318,313 @@
    "game": "vs Indianapolis Colts (Oct 11)"
   }
  ],
- "count": 4
+ "games": [
+  {
+   "gid": "2026_05_IND_PIT",
+   "label": "Week 5 vs Colts (W 34-22)",
+   "week": "Week 5",
+   "opponent": "Indianapolis Colts",
+   "kickoff": "2026-10-11T17:00:00+00:00",
+   "count": 10,
+   "items": [
+    {
+     "title": "Film Room: Max Iheanachor Is Already Fixing His Biggest Issue",
+     "creator": "Steelers Depot Film Room (Alex Kozora)",
+     "link": "https://steelersdepot.com/2026/10/film-room-max-iheanachor-is-already-fixing-his-biggest-issue/",
+     "published": "2026-10-17T11:15:43+00:00",
+     "gid": "2026_05_IND_PIT",
+     "source": "rss",
+     "summary": "Film breakdown by Steelers Depot Film Room (Alex Kozora) of Week 5 vs Colts (W 34-22)."
+    },
+    {
+     "title": "Defense Grades vs Colts",
+     "creator": "Steelers Almighty",
+     "link": "https://www.youtube.com/shorts/7d5k7Mntry4",
+     "published": "2026-10-16T11:07:30+00:00",
+     "gid": "2026_05_IND_PIT",
+     "source": "rss",
+     "summary": "Film breakdown by Steelers Almighty of Week 5 vs Colts (W 34-22)."
+    },
+    {
+     "title": "The Terrible Podcast \u2014 Steelers Vs. Colts All-22 Review, McCarthy Monday Recap, Week 6 WR Issues",
+     "creator": "Steelers Depot (YouTube)",
+     "link": "https://www.youtube.com/watch?v=t6YSD1i_je0",
+     "published": "2026-10-14T16:33:58+00:00",
+     "gid": "2026_05_IND_PIT",
+     "source": "rss",
+     "summary": "Film breakdown by Steelers Depot (YouTube) of Week 5 vs Colts (W 34-22)."
+    },
+    {
+     "title": "Film Room: Germie Bernard is EXACTLY What the Steelers Need!",
+     "creator": "Derrick Bell \u2013 DB's Film Room (Steelers Now)",
+     "link": "https://www.youtube.com/watch?v=VflwgbiXV1g",
+     "published": "2026-10-12T22:20:28+00:00",
+     "gid": "2026_05_IND_PIT",
+     "source": "rss",
+     "summary": "Film breakdown by Derrick Bell \u2013 DB's Film Room (Steelers Now) of Week 5 vs Colts (W 34-22)."
+    },
+    {
+     "title": "Film Room: Gabriel Rubio Looks Strong In NFL Debut",
+     "creator": "Steelers Depot Film Room (Alex Kozora)",
+     "link": "https://steelersdepot.com/2026/10/film-room-gabriel-rubio-stands-strong-in-nfl-debut/",
+     "published": "2026-10-12T18:00:50+00:00",
+     "gid": "2026_05_IND_PIT",
+     "source": "rss",
+     "summary": "Film breakdown by Steelers Depot Film Room (Alex Kozora) of Week 5 vs Colts (W 34-22)."
+    },
+    {
+     "title": "Steelers' Offense Line PEAKS vs the Colts | All-22 Film",
+     "creator": "Steelers Almighty",
+     "link": "https://www.youtube.com/watch?v=BXwzOG_uPg0",
+     "published": "2026-10-12T17:00:00+00:00",
+     "date_approx": true,
+     "gid": "2026_05_IND_PIT",
+     "source": "search",
+     "summary": "Film breakdown by Steelers Almighty of Week 5 vs Colts (W 34-22)."
+    },
+    {
+     "title": "Steelers Get Their HIGHEST Grades of the 2026 Season vs the Colts | REPORT CARD | Week 5",
+     "creator": "Steelers Almighty",
+     "link": "https://www.youtube.com/watch?v=Ob0ugssq_lI",
+     "published": "2026-10-12T17:00:00+00:00",
+     "date_approx": true,
+     "gid": "2026_05_IND_PIT",
+     "source": "search",
+     "summary": "Film breakdown by Steelers Almighty of Week 5 vs Colts (W 34-22)."
+    },
+    {
+     "title": "The Terrible Podcast \u2014 Talking Steelers At Trade Deadline, Tomlin Tuesday, Colts All-22 Final Notes",
+     "creator": "Steelers Depot (YouTube)",
+     "link": "https://www.youtube.com/watch?v=2kz53hLthU4",
+     "published": "2026-10-12T17:00:00+00:00",
+     "date_approx": true,
+     "gid": "2026_05_IND_PIT",
+     "source": "search",
+     "summary": "Film breakdown by Steelers Depot (YouTube) of Week 5 vs Colts (W 34-22)."
+    },
+    {
+     "title": "6 TAKEAWAYS vs. Colts \ud83d\ude24 More than any team in a game all season #PITvsLAC: 11/9 at 8:20 PM ET on NBC",
+     "creator": "Pittsburgh Steelers (official)",
+     "link": "https://www.youtube.com/watch?v=adCsTTvxJfw",
+     "published": "2026-10-12T17:00:00+00:00",
+     "date_approx": true,
+     "gid": "2026_05_IND_PIT",
+     "source": "search",
+     "summary": "Film breakdown by Pittsburgh Steelers (official) of Week 5 vs Colts (W 34-22)."
+    },
+    {
+     "title": "Film Room: Yahya Black Steps Up In Derrick Harmon\u2019s Absence",
+     "creator": "Steelers Depot Film Room (Alex Kozora)",
+     "link": "https://steelersdepot.com/2026/10/film-room-yahya-black-steps-up-in-derrick-harmons-absence/",
+     "published": "2026-10-12T16:30:13+00:00",
+     "gid": "2026_05_IND_PIT",
+     "source": "rss",
+     "summary": "Film breakdown by Steelers Depot Film Room (Alex Kozora) of Week 5 vs Colts (W 34-22)."
+    }
+   ]
+  },
+  {
+   "gid": "2026_04_PIT_CLE",
+   "label": "Week 4 at Browns (L 24-27)",
+   "week": "Week 4",
+   "opponent": "Cleveland Browns",
+   "kickoff": "2026-10-02T00:15:00+00:00",
+   "count": 5,
+   "items": [
+    {
+     "title": "Film Room: Max Iheanachor\u2019s Biggest Issue Right Now",
+     "creator": "Steelers Depot Film Room (Alex Kozora)",
+     "link": "https://steelersdepot.com/2026/10/film-room-max-iheanachors-biggest-issue-right-now/",
+     "published": "2026-10-05T18:15:33+00:00",
+     "gid": "2026_04_PIT_CLE",
+     "source": "rss",
+     "summary": "Film breakdown by Steelers Depot Film Room (Alex Kozora) of Week 4 at Browns (L 24-27)."
+    },
+    {
+     "title": "Steelers' OFF Report Card vs Cleveland Browns #steelersalmighty #pittsburghsteelers #buffalobills",
+     "creator": "Steelers Almighty",
+     "link": "https://www.youtube.com/watch?v=3--rE25gfe4",
+     "published": "2026-10-03T00:15:00+00:00",
+     "date_approx": true,
+     "gid": "2026_04_PIT_CLE",
+     "source": "search",
+     "summary": "Film breakdown by Steelers Almighty of Week 4 at Browns (L 24-27)."
+    },
+    {
+     "title": "The Terrible Podcast \u2014 Talking Tomlin Tuesday, Injuries, Hines Ward HOF, Steelers-Browns All-22",
+     "creator": "Steelers Depot (YouTube)",
+     "link": "https://www.youtube.com/watch?v=iYTzqL2T5Xo",
+     "published": "2026-10-03T00:15:00+00:00",
+     "date_approx": true,
+     "gid": "2026_04_PIT_CLE",
+     "source": "search",
+     "summary": "Film breakdown by Steelers Depot (YouTube) of Week 4 at Browns (L 24-27)."
+    },
+    {
+     "title": "The Terrible Podcast \u2014 Injury Updates, New Practice Squad Player, Steelers-Browns All-22, Pittman Jr",
+     "creator": "Steelers Depot (YouTube)",
+     "link": "https://www.youtube.com/watch?v=TGFvKoKbCok",
+     "published": "2026-10-03T00:15:00+00:00",
+     "date_approx": true,
+     "gid": "2026_04_PIT_CLE",
+     "source": "search",
+     "summary": "Film breakdown by Steelers Depot (YouTube) of Week 4 at Browns (L 24-27)."
+    },
+    {
+     "title": "Aaron Rodgers vs the Browns Week 4, 2026 Analysis",
+     "creator": "The QB School (JT O'Sullivan)",
+     "link": "https://www.youtube.com/watch?v=x8MY9kK2AUc",
+     "published": "2026-10-02T19:13:10+00:00",
+     "gid": "2026_04_PIT_CLE",
+     "source": "rss",
+     "summary": "Film breakdown by The QB School (JT O'Sullivan) of Week 4 at Browns (L 24-27)."
+    }
+   ]
+  },
+  {
+   "gid": "2026_03_CIN_PIT",
+   "label": "Week 3 vs Bengals (W 30-27)",
+   "week": "Week 3",
+   "opponent": "Cincinnati Bengals",
+   "kickoff": "2026-09-27T17:00:00+00:00",
+   "count": 5,
+   "items": [
+    {
+     "title": "Film Room: Brock Hoffman Deserves More Credit For Steelers\u2019 Offensive Line Turnaround",
+     "creator": "Steelers Depot Film Room (Alex Kozora)",
+     "link": "https://steelersdepot.com/2026/09/film-room-brock-hoffman-deserves-more-credit-for-steelers-offensive-line-turnaround/",
+     "published": "2026-09-29T17:30:33+00:00",
+     "gid": "2026_03_CIN_PIT",
+     "source": "rss",
+     "summary": "Film breakdown by Steelers Depot Film Room (Alex Kozora) of Week 3 vs Bengals (W 30-27)."
+    },
+    {
+     "title": "Film Room: The Good (And Bad) Of CB Daylen Everette\u2019s First Significant Action",
+     "creator": "Steelers Depot Film Room (Alex Kozora)",
+     "link": "https://steelersdepot.com/2026/09/film-room-the-good-and-bad-of-cb-daylen-everettes-first-significant-action/",
+     "published": "2026-09-28T23:00:54+00:00",
+     "gid": "2026_03_CIN_PIT",
+     "source": "rss",
+     "summary": "Film breakdown by Steelers Depot Film Room (Alex Kozora) of Week 3 vs Bengals (W 30-27)."
+    },
+    {
+     "title": "Aaron Rodgers vs the Bengals Week 3, 2026 Analysis",
+     "creator": "The QB School (JT O'Sullivan)",
+     "link": "https://www.youtube.com/watch?v=WY5eUaBkPTw",
+     "published": "2026-09-28T18:02:22+00:00",
+     "gid": "2026_03_CIN_PIT",
+     "source": "rss",
+     "summary": "Film breakdown by The QB School (JT O'Sullivan) of Week 3 vs Bengals (W 30-27)."
+    },
+    {
+     "title": "Steelers' Coaching Report Card vs Cincinnati Bengals #steelersalmighty #pittsburghste...",
+     "creator": "Steelers Almighty",
+     "link": "https://www.youtube.com/watch?v=8I81sl65adM",
+     "published": "2026-09-28T17:00:00+00:00",
+     "date_approx": true,
+     "gid": "2026_03_CIN_PIT",
+     "source": "search",
+     "summary": "Film breakdown by Steelers Almighty of Week 3 vs Bengals (W 30-27)."
+    },
+    {
+     "title": "Terence Garvin's Takeaways From Steelers Week 3 Victory over Bengals",
+     "creator": "Arthur Moats Experience",
+     "link": "https://www.youtube.com/watch?v=ckqhDUfDZ9E",
+     "published": "2026-09-28T17:00:00+00:00",
+     "date_approx": true,
+     "gid": "2026_03_CIN_PIT",
+     "source": "search",
+     "summary": "Film breakdown by Arthur Moats Experience of Week 3 vs Bengals (W 30-27)."
+    }
+   ]
+  },
+  {
+   "gid": "2026_02_PIT_NE",
+   "label": "Week 2 at Patriots (L 3-20)",
+   "week": "Week 2",
+   "opponent": "New England Patriots",
+   "kickoff": "2026-09-20T17:00:00+00:00",
+   "count": 3,
+   "items": [
+    {
+     "title": "Film Room: What's Wrong With the Steelers Offense?",
+     "creator": "Derrick Bell \u2013 DB's Film Room (Steelers Now)",
+     "link": "https://www.youtube.com/watch?v=jNmyCeYj1sw",
+     "published": "2026-09-24T23:34:03+00:00",
+     "gid": "2026_02_PIT_NE",
+     "source": "rss",
+     "summary": "Film breakdown by Derrick Bell \u2013 DB's Film Room (Steelers Now) of Week 2 at Patriots (L 3-20)."
+    },
+    {
+     "title": "Steelers FLUNK the Test in New England | REPORT CARD | Week 2",
+     "creator": "Steelers Almighty",
+     "link": "https://www.youtube.com/watch?v=o0Rcc4_nqXw",
+     "published": "2026-09-21T17:00:00+00:00",
+     "date_approx": true,
+     "gid": "2026_02_PIT_NE",
+     "source": "search",
+     "summary": "Film breakdown by Steelers Almighty of Week 2 at Patriots (L 3-20)."
+    },
+    {
+     "title": "The Terrible Podcast \u2013 Steelers-Patriots All-22 Recap, Batch On Porter Jr., McCarthy O-Line Comments",
+     "creator": "Steelers Depot (YouTube)",
+     "link": "https://www.youtube.com/watch?v=l_b7kgA8hc8",
+     "published": "2026-09-21T17:00:00+00:00",
+     "date_approx": true,
+     "gid": "2026_02_PIT_NE",
+     "source": "search",
+     "summary": "Film breakdown by Steelers Depot (YouTube) of Week 2 at Patriots (L 3-20)."
+    }
+   ]
+  },
+  {
+   "gid": "2026_01_ATL_PIT",
+   "label": "Week 1 vs Falcons (W 20-13)",
+   "week": "Week 1",
+   "opponent": "Atlanta Falcons",
+   "kickoff": "2026-09-13T17:00:00+00:00",
+   "count": 4,
+   "items": [
+    {
+     "title": "Film Room: Robert Spears-Jennings Is Already A Special Teams Menace (And Maybe More)",
+     "creator": "Steelers Depot Film Room (Alex Kozora)",
+     "link": "https://steelersdepot.com/2026/09/film-room-robert-spears-jennings-is-already-a-special-teams-menace-and-maybe-more/",
+     "published": "2026-09-19T14:45:20+00:00",
+     "gid": "2026_01_ATL_PIT",
+     "source": "rss",
+     "summary": "Film breakdown by Steelers Depot Film Room (Alex Kozora) of Week 1 vs Falcons (W 20-13)."
+    },
+    {
+     "title": "Film Room: Payton Wilson STARS in Steelers Opener",
+     "creator": "Derrick Bell \u2013 DB's Film Room (Steelers Now)",
+     "link": "https://www.youtube.com/watch?v=gQT_jn41Ej8",
+     "published": "2026-09-15T22:50:14+00:00",
+     "gid": "2026_01_ATL_PIT",
+     "source": "rss",
+     "summary": "Film breakdown by Derrick Bell \u2013 DB's Film Room (Steelers Now) of Week 1 vs Falcons (W 20-13)."
+    },
+    {
+     "title": "\ud83d\udfe1 STEELERS...Survive Against the QB3 Falcons | REPORT CARD | Week 1",
+     "creator": "Steelers Almighty",
+     "link": "https://www.youtube.com/watch?v=R89oy9hS0ko",
+     "published": "2026-09-14T17:00:00+00:00",
+     "date_approx": true,
+     "gid": "2026_01_ATL_PIT",
+     "source": "search",
+     "summary": "Film breakdown by Steelers Almighty of Week 1 vs Falcons (W 20-13)."
+    },
+    {
+     "title": "The Terrible Podcast \u2013 Steelers-Falcons All22 Recap, 3 OLB Usage, Visiting Tackles, Offense Rankings",
+     "creator": "Steelers Depot (YouTube)",
+     "link": "https://www.youtube.com/watch?v=jayUdoVN5Jg",
+     "published": "2026-09-14T17:00:00+00:00",
+     "date_approx": true,
+     "gid": "2026_01_ATL_PIT",
+     "source": "search",
+     "summary": "Film breakdown by Steelers Depot (YouTube) of Week 1 vs Falcons (W 20-13)."
+    }
+   ]
+  }
+ ],
+ "count": 12
 }
