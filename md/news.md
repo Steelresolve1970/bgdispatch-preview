@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-18T01:24:28+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T01:24:18+00:00._
+_Generated 2026-10-18T01:36:17+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T01:36:08+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Steelers Injury Central: 3 Out, 5 Questionable vs. Buccaneers](https://steelersnow.com/pittsburgh-steelers-injury-updates/): Steelers Now, 2026-10-18 01:14 UTC

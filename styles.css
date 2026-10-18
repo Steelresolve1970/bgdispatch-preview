@@ -343,3 +343,26 @@ nav .more a{color:#fff}nav .more a[aria-current]{color:var(--gold)}
 .h-leaders{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:10px}.h-lead{border:1px solid #e5e5e5;border-radius:8px;padding:10px}
 .h-lead h3{margin:0 0 6px;font-size:14px;text-transform:uppercase;letter-spacing:.03em;color:#8a6400}.h-lead ol{margin:0;padding-left:18px}.h-lead li{display:list-item}.h-lead li span{display:inline-block;min-width:60%}.h-lead li b{float:right}
 @media(max-width:600px){.h-decs{flex-wrap:nowrap;overflow-x:auto;padding-bottom:4px}.h-tbl td,.h-tbl th{padding:6px 5px}.h-po{min-width:170px}.h-stats{grid-template-columns:repeat(2,1fr)}.h-cards{grid-template-columns:1fr}.h-sec>summary h2{font-size:17px}.h-body{padding:0 10px 12px}.h-tbl{max-height:480px}.h-jump{top:56px}#h-seasons .h-coach,#h-seasons th:nth-child(5){display:none}}
+/* History sub-tabs, Hall of Honor / HOF / Fan Vote */
+.h-tabs{display:flex;gap:4px;overflow-x:auto;border-bottom:3px solid var(--gold);margin:0 0 14px;-webkit-overflow-scrolling:touch}
+.h-tab{flex:0 0 auto;padding:10px 14px;font-weight:800;font-size:14px;color:var(--ink);text-decoration:none;border-radius:8px 8px 0 0;background:#ececea}
+.h-tab.on{background:var(--black);color:var(--gold)}
+.hh-h{font-size:20px;margin:6px 0 8px}.hh-h .h-sub{font-size:13px;font-weight:600}
+.hh-filters{display:flex;flex-wrap:wrap;gap:8px;margin:10px 0}
+.hh-filters input,.hh-filters select{font:inherit;font-size:15px;padding:8px 10px;border:1px solid #c9c9c9;border-radius:8px;background:#fff;min-width:0}
+.hh-filters input{flex:1 1 220px}.hh-filters select{flex:1 1 140px}
+.hh-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;margin:8px 0 14px}
+.hh-card{background:#fff;border:1px solid #e2e2e2;border-top:4px solid var(--gold);border-radius:8px;padding:12px 14px}
+.hh-card h3{margin:0;font-size:17px}.hh-card p{margin:8px 0 0;font-size:14px;line-height:1.45}
+.hh-top{display:flex;justify-content:space-between;align-items:baseline;gap:8px}
+.hh-cls{flex:0 0 auto;font-size:12px;font-weight:800;background:var(--black);color:var(--gold);border-radius:10px;padding:2px 8px}
+.hh-meta{margin-top:4px;font-size:13px}.hh-hof{font-size:11px;font-weight:800;color:#7a5c00;background:#fff4cc;border-radius:8px;padding:1px 6px}
+.hv{background:#fff;border:1px solid #e2e2e2;border-left:5px solid var(--gold);border-radius:8px;padding:12px 14px;margin:0 0 16px}
+.hv fieldset{border:0;margin:0;padding:0}
+.hv-opt{display:flex;gap:10px;align-items:flex-start;padding:10px 4px;border-bottom:1px solid #eee;cursor:pointer;font-size:15px}
+.hv-opt input[type=radio]{margin-top:4px;width:18px;height:18px;flex:0 0 auto;accent-color:#000}
+.hv-txt{font-size:13px;color:#555}.hv-wi{margin-top:6px;width:100%;max-width:320px;font:inherit;padding:8px;border:1px solid #c9c9c9;border-radius:8px}
+.hv-btn{margin-top:10px;background:var(--black);color:var(--gold);border:0;border-radius:8px;padding:12px 18px;font-weight:800;font-size:15px;cursor:pointer}
+.hv-err{color:#b00020;font-weight:700;margin:8px 0 0;min-height:1em}
+.hv-ok{font-size:16px}.sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+@media(max-width:480px){.hh-grid{grid-template-columns:1fr}.h-tabs{gap:3px}.h-tab{padding:9px 8px;font-size:12.5px}}

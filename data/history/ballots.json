@@ -1,0 +1,236 @@
+{
+ "schema": 1,
+ "storage": "localStorage key bgd_vote_v1_<ballotId> = {ballot, choice, writeIn, votedAt, synced:false}",
+ "ballots": [
+  {
+   "id": "hof-next",
+   "title": "Who should be next in the Pro Football Hall of Fame?",
+   "note": "Former Steelers who are eligible and not yet in Canton (checked against the Class of 2026).",
+   "candidates": [
+    {
+     "id": "ward",
+     "name": "Hines Ward",
+     "info": "WR, 1998–2011",
+     "text": "Team leader in catches, receiving yards and TD catches; Super Bowl XL MVP. He has been a Hall of Fame semifinalist 10 times, most recently for the Class of 2026."
+    },
+    {
+     "id": "harrison",
+     "name": "James Harrison",
+     "info": "OLB, 2002–17",
+     "text": "2008 Defensive Player of the Year and the team’s career sack leader. He has been a semifinalist before but did not advance for 2026."
+    },
+    {
+     "id": "roethlisberger",
+     "name": "Ben Roethlisberger",
+     "info": "QB, 2004–21",
+     "text": "Won two Super Bowls and holds the team’s passing records. He played his last season in 2021, so he is first eligible for the Class of 2027 (voting this winter)."
+    },
+    {
+     "id": "greenwood",
+     "name": "L.C. Greenwood",
+     "info": "DE, 1969–81",
+     "text": "Six Pro Bowls on the Steel Curtain and a Super Bowl force. He was a modern-era finalist six times and is now a Seniors candidate."
+    },
+    {
+     "id": "pouncey",
+     "name": "Maurkice Pouncey",
+     "info": "C, 2010–20",
+     "text": "Nine Pro Bowls. He became eligible in 2026 and advanced in voting, but did not make the semifinals."
+    },
+    {
+     "id": "anderson",
+     "name": "Gary Anderson",
+     "info": "K, 1982–94",
+     "text": "Kicked 13 seasons in Pittsburgh and retired as the NFL’s all-time leading scorer. He was nominated for the Class of 2025."
+    },
+    {
+     "id": "russell",
+     "name": "Andy Russell",
+     "info": "LB, 1963–76",
+     "text": "Seven Pro Bowls and a starter on the first two Super Bowl winners. Seniors candidate."
+    },
+    {
+     "id": "lloyd",
+     "name": "Greg Lloyd",
+     "info": "LB, 1988–97",
+     "text": "Five Pro Bowls and the enforcer of the Blitzburgh defenses."
+    },
+    {
+     "id": "lake",
+     "name": "Carnell Lake",
+     "info": "S/CB, 1989–98",
+     "text": "Five Pro Bowls at two positions."
+    },
+    {
+     "id": "porter",
+     "name": "Joey Porter Sr.",
+     "info": "OLB, 1999–2006",
+     "text": "Three Pro Bowls with Pittsburgh and a Super Bowl XL starter."
+    },
+    {
+     "id": "hampton",
+     "name": "Casey Hampton",
+     "info": "NT, 2001–12",
+     "text": "Five Pro Bowls as the anchor of two championship defenses."
+    },
+    {
+     "id": "miller",
+     "name": "Heath Miller",
+     "info": "TE, 2005–15",
+     "text": "Two Pro Bowls and the team’s career leader in catches by a tight end."
+    },
+    {
+     "id": "colbert",
+     "name": "Kevin Colbert",
+     "info": "GM / contributor, 2000–22",
+     "text": "Built two Super Bowl champions. He would be considered in the contributor category."
+    },
+    {
+     "id": "rooneyjr",
+     "name": "Art Rooney Jr.",
+     "info": "Personnel / contributor, 1965–86",
+     "text": "Ran the scouting department behind the 1970s drafts, including the 1974 class. Contributor category."
+    }
+   ]
+  },
+  {
+   "id": "hoh-next",
+   "title": "Who should be next in the Steelers Hall of Honor?",
+   "note": "Former Steelers not yet inducted, checked against the official roster through the Class of 2026. Players must be retired three seasons and have played three seasons here.",
+   "candidates": [
+    {
+     "id": "ike",
+     "name": "Ike Taylor",
+     "info": "CB, 2003–14",
+     "text": "Shadowed top receivers for 12 seasons and started on two title teams."
+    },
+    {
+     "id": "keisel",
+     "name": "Brett Keisel",
+     "info": "DE, 2002–14",
+     "text": "A seventh-round pick and two-time champion, beloved for his beard and charity “Shear Da Beard” event."
+    },
+    {
+     "id": "clark",
+     "name": "Ryan Clark",
+     "info": "S, 2006–13",
+     "text": "Hard-hitting free safety on the Super Bowl XLIII defense. Made the Pro Bowl in 2011."
+    },
+    {
+     "id": "kordell",
+     "name": "Kordell Stewart",
+     "info": "QB/WR, 1995–2002",
+     "text": "“Slash” lined up everywhere, then led the 1997 and 2001 teams to the AFC title game."
+    },
+    {
+     "id": "ganderson",
+     "name": "Gary Anderson",
+     "info": "K, 1982–94",
+     "text": "Retired as the NFL’s career scoring leader; scored more points than anyone in team history for decades."
+    },
+    {
+     "id": "hartings",
+     "name": "Jeff Hartings",
+     "info": "C, 2001–06",
+     "text": "Two Pro Bowls and the starting center for the Super Bowl XL champions."
+    },
+    {
+     "id": "townsend",
+     "name": "Deshea Townsend",
+     "info": "CB, 1998–2008",
+     "text": "Versatile defensive back who spent 11 seasons in Pittsburgh and won two rings."
+    },
+    {
+     "id": "foote",
+     "name": "Larry Foote",
+     "info": "LB, 2002–08, 2010–13",
+     "text": "Hometown-style grinder who started at inside linebacker on two title teams."
+    },
+    {
+     "id": "kirkland",
+     "name": "Levon Kirkland",
+     "info": "LB, 1992–2000",
+     "text": "Big, mobile inside linebacker who made two Pro Bowls and played in Super Bowl XXX."
+    },
+    {
+     "id": "little",
+     "name": "David Little",
+     "info": "LB, 1981–92",
+     "text": "Steady inside linebacker who started for over a decade and made the 1990 Pro Bowl."
+    },
+    {
+     "id": "merriweather",
+     "name": "Mike Merriweather",
+     "info": "LB, 1982–87",
+     "text": "Three Pro Bowls in the mid-’80s and one of the top linebackers of his era."
+    },
+    {
+     "id": "hinkle",
+     "name": "Bryan Hinkle",
+     "info": "LB, 1982–93",
+     "text": "Started at outside linebacker for 12 seasons through the 1980s and early ’90s."
+    },
+    {
+     "id": "holmes",
+     "name": "Ernie Holmes",
+     "info": "DT, 1972–77",
+     "text": "“Fats” was the fourth starter on the Steel Curtain line and won two rings."
+    },
+    {
+     "id": "edwards",
+     "name": "Glen Edwards",
+     "info": "S, 1971–77",
+     "text": "Hard-hitting free safety and two-time Pro Bowler on the first two Super Bowl champions."
+    },
+    {
+     "id": "cunningham",
+     "name": "Bennie Cunningham",
+     "info": "TE, 1976–85",
+     "text": "First-round tight end who played 10 seasons and won two rings."
+    },
+    {
+     "id": "pollard",
+     "name": "Frank Pollard",
+     "info": "RB, 1980–88",
+     "text": "Tough, reliable back who carried a big share of the load through the 1980s."
+    },
+    {
+     "id": "foster",
+     "name": "Barry Foster",
+     "info": "RB, 1990–94",
+     "text": "Set the team’s single-season rushing record with 1,690 yards in 1992."
+    },
+    {
+     "id": "thigpen",
+     "name": "Yancey Thigpen",
+     "info": "WR, 1992–97",
+     "text": "Two Pro Bowls and a 1,398-yard season in 1997."
+    },
+    {
+     "id": "ramon",
+     "name": "Ramon Foster",
+     "info": "G, 2009–19",
+     "text": "Undrafted guard who started for most of a decade on a top line."
+    },
+    {
+     "id": "reed",
+     "name": "Jeff Reed",
+     "info": "K, 2002–10",
+     "text": "Kicked in two Super Bowl wins, including a field goal in Super Bowl XLIII."
+    },
+    {
+     "id": "randleel",
+     "name": "Antwaan Randle El",
+     "info": "WR/PR, 2002–05, 2010",
+     "text": "Threw the TD pass to Hines Ward on a trick play in Super Bowl XL."
+    },
+    {
+     "id": "strzelczyk",
+     "name": "Justin Strzelczyk",
+     "info": "OL, 1990–98",
+     "text": "Versatile lineman who started at tackle and guard, including in Super Bowl XXX."
+    }
+   ]
+  }
+ ]
+}

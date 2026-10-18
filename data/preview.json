@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T01:24:21.204481+00:00",
+ "generated": "2026-10-18T01:36:10.758948+00:00",
  "game": {
   "label": "at Tampa Bay Buccaneers (Oct 18)",
   "opponent": "Tampa Bay Buccaneers",
@@ -47,9 +47,9 @@
    "creator": "Steelers Depot (YouTube)",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFqbkq2BzNY3iQ_FPveqVhw",
-   "status": "ok",
-   "feed_items": 15,
-   "in_window": 1
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
+   "in_window": 0
   },
   {
    "creator": "Still Curtain (Tommy Jaggi All-22)",
@@ -103,8 +103,8 @@
    "creator": "All_22_Films",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7Dbn36zT6XjfBh9YDLmGIg",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 500: Internal Server Error",
+   "feed_items": 0,
    "in_window": 0
   },
   {
@@ -119,8 +119,8 @@
    "creator": "Brett Kollmann",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYzfVBuCfGz-oF3aOCGgO5g",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
@@ -135,16 +135,16 @@
    "creator": "Cover 1",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UClL6eJS1s8xmRoYRQbYgxQQ",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 500: Internal Server Error",
+   "feed_items": 0,
    "in_window": 0
   },
   {
    "creator": "Alex & the NFL",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsGr04a3SDjhPhsAe4xj4YQ",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 500: Internal Server Error",
+   "feed_items": 0,
    "in_window": 0
   }
  ],
@@ -163,14 +163,6 @@
    "link": "https://www.youtube.com/watch?v=KJ2oZgYo4rQ",
    "published": "2026-10-16T18:00:16+00:00",
    "summary": "Preview by Steelers Almighty for at Tampa Bay Buccaneers (Oct 18).",
-   "game": "at Tampa Bay Buccaneers (Oct 18)"
-  },
-  {
-   "title": "The Terrible Podcast \u2014 Steelers Vs Buccaneers Game Preview, Trade Possibility, Injuries, W6 Picks",
-   "creator": "Steelers Depot (YouTube)",
-   "link": "https://www.youtube.com/watch?v=lHwxWzn_glI",
-   "published": "2026-10-16T15:33:32+00:00",
-   "summary": "Preview by Steelers Depot (YouTube) for at Tampa Bay Buccaneers (Oct 18).",
    "game": "at Tampa Bay Buccaneers (Oct 18)"
   },
   {
@@ -198,5 +190,5 @@
    "game": "at Tampa Bay Buccaneers (Oct 18)"
   }
  ],
- "count": 6
+ "count": 5
 }
