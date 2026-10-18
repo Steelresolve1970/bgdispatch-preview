@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-18T16:25:33.329068+00:00",
+ "last_run": "2026-10-18T16:36:04.351337+00:00",
  "results": [
   {
    "fetcher": "apply_grade_edits.py",
@@ -10,7 +10,7 @@
   {
    "fetcher": "fetch_news.py",
    "ok": true,
-   "seconds": 2.1,
+   "seconds": 2.4,
    "last_line": "news: 150 ticker: 30"
   },
   {
@@ -28,25 +28,25 @@
   {
    "fetcher": "fetch_insiders.py",
    "ok": true,
-   "seconds": 1.1,
+   "seconds": 1.2,
    "last_line": "sidebar: 6 full feed: 24"
   },
   {
    "fetcher": "fetch_film.py",
    "ok": true,
-   "seconds": 4.1,
+   "seconds": 4.0,
    "last_line": "  Week 1 vs Falcons (W 20-13): 4   {'Steelers Depot Film Room (Alex Kozora)': 1, \"Derrick Bell \u2013 DB's Film Room (Steelers Now)\": 1, 'Steelers Almighty': 1, 'Steelers Depot (YouTube)': 1}"
   },
   {
    "fetcher": "fetch_podcasts.py",
    "ok": true,
-   "seconds": 1.6,
+   "seconds": 11.9,
    "last_line": "episodes past 7 days: 186 | embed-fallback channels: 0"
   },
   {
    "fetcher": "fetch_featured.py",
    "ok": true,
-   "seconds": 0.6,
+   "seconds": 0.7,
    "last_line": "preview Tampa Bay Buccaneers Pittsburgh Steelers vs Tampa Bay Buccaneers | 2026 Week 6 Game Preview"
   },
   {
@@ -58,7 +58,7 @@
   {
    "fetcher": "fetch_stats.py",
    "ok": true,
-   "seconds": 0.1,
+   "seconds": 0.0,
    "last_line": "stats fresh; skipped"
   },
   {
@@ -76,7 +76,7 @@
   {
    "fetcher": "fetch_needs.py",
    "ok": true,
-   "seconds": 0.0,
+   "seconds": 0.1,
    "last_line": " 23.7 WR   ['named in 8 recent headlines about Steelers needs']"
   },
   {
@@ -100,13 +100,13 @@
   {
    "fetcher": "fetch_hub.py",
    "ok": true,
-   "seconds": 0.4,
-   "last_line": "injuries 16 practice 13 opp TB"
+   "seconds": 0.0,
+   "last_line": "hub fresh (<30 min); skipped"
   },
   {
    "fetcher": "fetch_depth.py",
    "ok": true,
-   "seconds": 2.3,
+   "seconds": 2.0,
    "last_line": "depth units [('Offense', '3WR 1TE', 12), ('Defense', 'Base 3-4 D', 12), ('Special teams', 'Special Teams', 6)]"
   },
   {
@@ -130,7 +130,7 @@
   {
    "fetcher": "fetch_history.py",
    "ok": true,
-   "seconds": 0.1,
+   "seconds": 0.0,
    "last_line": "history fresh; skipped"
   },
   {
