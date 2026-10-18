@@ -1,10 +1,10 @@
 # Steelers News
 
-_Generated 2026-10-18T15:12:49+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T15:12:31+00:00._
+_Generated 2026-10-18T15:23:09+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T15:22:54+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [[!LIVESTREAMs!]Tv] Pittsburgh Steelers v Buccaneers live free! 18 October 2026 Stream](https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5bmVwcHkuZ2l0aHViLmlvL2JhYnUvUml2YWxyeWh1Yi54bWwiLz48L2tycGFubz4=&id=video-pittsburgh-steelers-v-buccaneers-liv-662): Universidad de Córdoba (UCO), 2026-10-18 15:17 UTC
 - [Home Sweet Home for the Steelers, but can they win on the road?](https://www.steelcurtainnetwork.com/home-sweet-home-for-the-steelers-but-can-they-win-on-the-road/): Steel Curtain Network, 2026-10-18 15:01 UTC
-- [+[LIVESTREAM] Pittsburgh Steelers NFL Live](https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2VzdHJlYW1ub3cuY29tL3d6dS92eC54bWwiLz48L2tycGFubz4=&id=video-pittsburgh-steelers-nfl-soccer-sport-rivalry-xezi04zl): Universidad de Córdoba (UCO), 2026-10-18 15:01 UTC
 - [Steelers-Buccaneers: Week 6 live chat, updates and analysis with Christopher Carter](https://www.post-gazette.com/sports/steelers/2026/10/18/steelers-buccaneers-live-chat/stories/202610180071): Pittsburgh Post-Gazette, 2026-10-18 15:00 UTC
 - [Steelers Are Learning Patrick Graham's Familiar-Looking Defense Comes With A Hidden Catch](https://www.steelernation.com/2026/10/13/steelers-patrick-graham-hidden-catch): SteelerNation, 2026-10-18 14:50 UTC
 - [Steelers' New Defensive Strategy May Be Neutralizing Their Biggest Weapon](https://www.steelernation.com/2026/10/18/steelers-new-defensive-strategy): SteelerNation, 2026-10-18 14:50 UTC
@@ -20,13 +20,14 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets for Steelers-Buccaneers, Chiefs-Chargers, NFL Week 6](https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-steelers-buccaneers-chiefs-chargers-nfl-week-6/): CBS Sports, 2026-10-18 13:53 UTC
 - [Steelers at Tampa Bay Buccaneers Gameday: Injury Updates, Depth Charts, TV Info, Betting Lines, More](https://steelersnow.com/steelers-at-tampa-bay-buccaneers-gameday-injury-updates-depth-charts-tv-info-betting-lines-more/): Steelers Now, 2026-10-18 13:46 UTC
 - [Ahead Of Steelers Matchup, Saints Starting Quarterback Playing Through Painful Injury](https://steelersdepot.com/2026/10/ahead-of-steelers-matchup-saints-starting-quarterback-playing-through-painful-injury/): Steelers Depot, 2026-10-18 13:41 UTC
+- [Pittsburgh Steelers 2026 NFL Playoff Simulator](https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/pittsburgh-steelers-season-projections/): The New York Times, 2026-10-18 13:33 UTC
 - [2026 NFL Week 6 Picks & Predictions: Dave Bryan & Alex Kozora](https://steelersdepot.com/2026/10/2026-nfl-week-6-picks-predictions-dave-bryan-alex-kozora/): Steelers Depot, 2026-10-18 13:15 UTC
 - [BTSC Sunday games thread: NFL Week 6](https://www.behindthesteelcurtain.com/pittsburgh-steelers-discussion/176375/btsc-sunday-games-thread-nfl-week-6): Behind the Steel Curtain, 2026-10-18 13:00 UTC
 - [Steelers vs. Buccaneers odds, picks, predictions: Aaron Rodgers stays hot in Weeek 6](https://nypost.com/2026/10/18/betting/steelers-vs-buccaneers-odd-picks-predictions-nfl-week-6-best-bets/): New York Post, 2026-10-18 13:00 UTC
 - [Steelers Vs Buccaneers Prediction](https://steelersdepot.com/2026/10/steelers-vs-buccaneers-prediction-2/): Steelers Depot, 2026-10-18 12:54 UTC
+- [Pittsburgh Steelers @ Tampa Bay Buccaneers Odds](https://sportsbook.fanduel.com/football/nfl/pittsburgh-steelers-@-tampa-bay-buccaneers-36160512): FanDuel Sportsbook, 2026-10-18 12:45 UTC
 - [What channel is Steelers vs Buccaneers on? How to watch Week 6 game](https://www.azcentral.com/story/sports/nfl/2026/10/18/pittsburgh-steelers-tampa-bay-buccaneers-tv-channel-how-to-watch-today/91229727007/): azcentral.com and The Arizona Republic, 2026-10-18 12:40 UTC
 - [How to Watch Steelers vs. Buccaneers: TV Channel, Live Stream, Time](https://www.foxsports.com/stories/nfl/how-to-watch-steelers-vs-buccaneers-tv-channel-live-stream-time-oct-18-2026): FOX Sports, 2026-10-18 12:34 UTC
-- [Which Steelers to Start or Sit in Week 6 at Buccaneers](https://athlonsports.com/nfl/pittsburgh-steelers/which-steelers-to-start-or-sit-in-week-6-at-buccaneers): Athlon Sports, 2026-10-18 12:30 UTC
 - [Steelers Get Good News on Pat Freiermuth for Bucs Game](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-good-news-pat-freiermuth-bucs-game): All Steelers (Sports Illustrated), 2026-10-18 12:01 UTC
 - [Steelers lose promising Year 3 breakout WR to injured reserve | See link below ⬇️ 📸 Ken Blaze, IMAGN IMAGES via Reuters Connect](https://www.facebook.com/SteelersWire/posts/steelers-lose-promising-year-3-breakout-wr-to-injured-reserve-see-link-below-%EF%B8%8F-k/1634331835025533/): Facebook, 2026-10-18 12:00 UTC
 - [Steelers Know Strategy With Nick Herbig Isn’t Working. They’ll Keep Trying.](https://steelersdepot.com/2026/10/steelers-know-strategy-with-nick-herbig-isnt-working-theyll-keep-trying/): Steelers Depot, 2026-10-18 12:00 UTC
@@ -49,9 +50,9 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [‘Really Good Game’: Cam Heyward Gives Gabriel Rubio His Flowers After ‘Disruptive’ Debut](https://steelersdepot.com/2026/10/really-good-game-cam-heyward-gives-gabriel-rubio-his-flowers-after-disruptive-debut/): Steelers Depot, 2026-10-18 10:00 UTC
 - [Former Steelers RB arrested on domestic assault charge | See link below ⬇️ 📸 Barry Reeger, USA TODAY Sports via Reuters Con](https://www.facebook.com/SteelersWire/posts/former-steelers-rb-arrested-on-domestic-assault-charge-see-link-below-%EF%B8%8F-barry-re/1634250855033631/): Facebook, 2026-10-18 10:00 UTC
 - [Steelers-Buccaneers scouting report: The offensive line has its hands full in the run game](https://www.post-gazette.com/sports/steelers/2026/10/18/steelers-bucs-scouting-report/stories/202610180046): Pittsburgh Post-Gazette, 2026-10-18 10:00 UTC
+- [Ex-Steelers WR Gets Cut as Pittsburgh’s Need at Wideout Grows](https://heavy.com/sports/nfl/pittsburgh-steelers/marquez-valdes-scantling-chargers-release-nfl-news/): Heavy.com, 2026-10-18 09:25 UTC
 - [Will Steelers Commit More To Run Game On Offense?](https://steelersdepot.com/2026/10/will-steelers-commit-more-to-run-game-on-offense/): Steelers Depot, 2026-10-18 09:00 UTC
 - [Gerry Dulac’s 2026 NFL predictions: Week 6](https://www.post-gazette.com/sports/steelers/2026/10/18/nfl-picks-week-6/stories/202610150037): Pittsburgh Post-Gazette, 2026-10-18 08:00 UTC
-- [Pittsburgh Steelers @ Tampa Bay Buccaneers Odds](https://sportsbook.fanduel.com/football/nfl/pittsburgh-steelers-@-tampa-bay-buccaneers-36160512): FanDuel Sportsbook, 2026-10-18 06:04 UTC
 - [How to Watch Steelers vs. Buccaneers Today: Channel, Live Stream & Start Time for Week 6 Game](https://sportsnetpittsburgh.com/pittsburgh-steelers/news/watch-steelers-vs-buccaneers-channel-stream-start-time-week-6/1aa27921bed23d07e9f8ef4f): SportsNet Pittsburgh, 2026-10-18 06:00 UTC
 - [Five Keys to a Buccaneers' Victory Over the Pittsburgh Steelers](https://roundtable.io/sports/nfl/bucs/news/five-keys-to-a-buccaneers-victory-over-the-pittsburgh-steelers): roundtable.io, 2026-10-18 03:55 UTC
 - [Steelers' Super Bowl Aspirations Are Clear For Aaron Rodgers: "He's Focused"](https://www.steelernation.com/2026/10/17/steelers-super-bowl-aspirations-clear): SteelerNation, 2026-10-18 03:33 UTC
@@ -70,7 +71,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Report: Former Steeler Cordarrelle Patterson Arrested Saturday](https://steelersdepot.com/2026/10/report-former-steeler-cordarrelle-patterson-arrested-saturday/): Steelers Depot, 2026-10-17 23:50 UTC
 - [Former Steelers Running Back Arrested on Domestic Assault Charge](https://steelersnow.com/former-steelers-running-back-arrested-on-domestic-assault-charge/): Steelers Now, 2026-10-17 23:27 UTC
 - [Eye-Opening Steelers Offensive Line Revelation Puts Brock Hoffman In The Spotlight](https://www.steelernation.com/2026/10/17/steelers-eye-opening-offensive-brock-hoffman): SteelerNation, 2026-10-17 23:26 UTC
-- ['MVP This Year': Former NFL Star Makes Rodgers Prediction](https://sportsnetpittsburgh.com/pittsburgh-steelers/news/aaron-rodgers-steelers-mvp-prediction-osi-umenyiora/6ba98c7314f6b5330e71bcda): SportsNet Pittsburgh, 2026-10-17 23:24 UTC
 - [‘Interior Pass Rush Is Nonexistent’: Fittipaldo Concerned About More Than Just Steelers’ OLBs](https://steelersdepot.com/2026/10/interior-pass-rush-is-nonexistent-fittipaldo-concerned-about-more-than-just-steelers-olbs/): Steelers Depot, 2026-10-17 23:00 UTC
 - [‘Most Selfish Behavior I’ve Ever Seen’: Todd Haley Recalls LeGarrette Blount’s Fallout With Steelers](https://steelersdepot.com/2026/10/most-selfish-behavior-ive-ever-seen-todd-haley-recalls-legarrette-blounts-fallout-with-steelers/): Steelers Depot, 2026-10-17 22:30 UTC
 - [Payton Wilson Recalls Jaylen Warren Giving Him His Welcome-To-The-NFL Moment](https://steelersdepot.com/2026/10/payton-wilson-recalls-jaylen-warren-giving-him-his-welcome-to-the-nfl-moment/): Steelers Depot, 2026-10-17 22:15 UTC
