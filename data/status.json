@@ -1,6 +1,12 @@
 {
- "last_run": "2026-10-17T23:57:37.873104+00:00",
+ "last_run": "2026-10-18T00:17:30.333394+00:00",
  "results": [
+  {
+   "fetcher": "apply_grade_edits.py",
+   "ok": true,
+   "seconds": 3.9,
+   "last_line": "#5 Applied \u2713 Brock Hoffman is now 7.5 for week 5 (vs Indianapolis Colts). It will show on the site within about 10 minutes."
+  },
   {
    "fetcher": "fetch_news.py",
    "ok": true,
@@ -22,13 +28,13 @@
   {
    "fetcher": "fetch_insiders.py",
    "ok": true,
-   "seconds": 1.0,
+   "seconds": 1.1,
    "last_line": "sidebar: 6 full feed: 48"
   },
   {
    "fetcher": "fetch_film.py",
    "ok": true,
-   "seconds": 0.7,
+   "seconds": 0.8,
    "last_line": "breakdown items: 8 preview items: 7"
   },
   {
@@ -52,13 +58,13 @@
   {
    "fetcher": "build_comps.py",
    "ok": true,
-   "seconds": 0.4,
+   "seconds": 0.3,
    "last_line": "comps 388 staff 61 pool 229"
   },
   {
    "fetcher": "fetch_needs.py",
    "ok": true,
-   "seconds": 0.0,
+   "seconds": 0.1,
    "last_line": " 23.7 WR   ['named in 8 recent headlines about Steelers needs']"
   },
   {
@@ -94,7 +100,7 @@
   {
    "fetcher": "fetch_rumors.py",
    "ok": true,
-   "seconds": 2.6,
+   "seconds": 2.4,
    "last_line": "rumors 5 {'Rumor': 5, 'Confirmed': 0, 'Denied': 0}"
   },
   {

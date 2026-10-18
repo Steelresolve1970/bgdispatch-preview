@@ -1,8 +1,9 @@
 # Steelers News
 
-_Generated 2026-10-17T23:57:37+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-17T23:57:28+00:00._
+_Generated 2026-10-18T00:17:30+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T00:17:21+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Pregame Week 6: Five Steelers Thoughts Ahead Of The Buccaneers Game](https://steelersdepot.com/2026/10/pregame-week-6-five-steelers-thoughts-ahead-of-the-buccaneers-game/): Steelers Depot, 2026-10-18 00:00 UTC
 - [Report: Former Steeler Cordarrelle Patterson Arrested Saturday](https://steelersdepot.com/2026/10/report-former-steeler-cordarrelle-patterson-arrested-saturday/): Steelers Depot, 2026-10-17 23:50 UTC
 - [Steelers lose receiver Wilson to IR, Metcalf comes off injury report](https://www.espn.com/nfl/story/_/id/50203338/steelers-place-receiver-wilson-ir): ESPN, 2026-10-17 23:44 UTC
 - [Former Steelers Running Back Arrested on Domestic Assault Charge](https://steelersnow.com/former-steelers-running-back-arrested-on-domestic-assault-charge/): Steelers Now, 2026-10-17 23:27 UTC
@@ -76,7 +77,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers vs. Buccaneers prediction: Both teams hoping to build off of impressive Week 5 wins](https://www.cbssports.com/nfl/news/where-to-watch-steelers-vs-buccaneers-prediction/): CBS Sports, 2026-10-17 15:51 UTC
 - [Bill Cowher Has Alarming Take As Legend Believes Steelers' Defensive Line Is "Uncomfortable"](https://www.steelernation.com/2026/10/17/steelers-bill-cowher-alarming-uncomfortable): SteelerNation, 2026-10-17 15:37 UTC
 - ["Really Good": Steelers Rookie Gabriel Rubio Starting To Turn Heads](https://www.steelernation.com/2026/10/17/steelers-good-rookie-gabriel-rubio): SteelerNation, 2026-10-17 15:19 UTC
-- [Steelers Vs Buccaneers X Factor: TE Pat Freiermuth](https://steelersdepot.com/2026/10/steelers-vs-buccaneers-x-factor-te-pat-freiermuth/): Steelers Depot, 2026-10-17 15:00 UTC
 - [Steelers Should Consider Surprise Trade Candidate](https://news.google.com/rss/articles/CBMirgFBVV95cUxQUjJlaFJZeGw4TXlGNGZld2p2MTdSUFZhOWt4MWwtd3Bnd1F6N1EyQVhvWGFKdFA3Uk9kNi1LeDctZzRlR01tVE92djBUNWpwbzBobi1iYVMyaTJvendGWU9iZm9FZ1A5VnZlNjZ6bUEwWUV1LVF2YzhtTTc5aTBQMDRURmdsSGlsb3NVbmZDWk9LbmNqZDA3dWhEUmxBU2JXa096UHpWckw3MFVyV0E?oc=5): Sports Illustrated, 2026-10-17 15:00 UTC
 - [NFL Week 6 last-minute best bets: Panthers beat up on banged-up Eagles, Bucs beat Steelers](https://www.cbssports.com/nfl/news/nfl-week-6-last-minute-best-bets-picks-predictions/): CBS Sports, 2026-10-17 14:58 UTC
 - [Steelers Reunion At Cornerback Suddenly Within Reach As Chargers' Demise Continues](https://www.steelernation.com/2026/10/17/steelers-reunion-suddenly-chargers): SteelerNation, 2026-10-17 14:35 UTC
@@ -138,10 +138,10 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers Jaylen Warren is making his case as the NFL's most valuable RB](https://stillcurtain.com/pittsburgh-steelers-jaylen-warren-is-making-his-case-as-the-nfl-s-most-valuable-rb-01m4xy18hyq3?utm_source=RSS): Still Curtain, 2026-10-14 21:05 UTC
 - [Whom might the Steelers turn to Sunday with all their injuries at wide receiver?](https://www.post-gazette.com/sports/steelers/2026/10/14/steelers-wide-receiver-news/stories/202610140028): Pittsburgh Post-Gazette, 2026-10-14 20:00 UTC
 - [Steelers excelling in yards after catch because of tackle-breaking, accurate passing](https://triblive.com/sports/steelers-excelling-in-yards-after-catch-because-of-tackle-breaking-accurate-passing/): TribLive, 2026-10-14 19:55 UTC
+- [Pittsburgh Steelers vs. Tampa Bay Buccaneers preview | Week 6](https://news.google.com/rss/articles/CBMickFVX3lxTFBYRmpyLVBIMVBlblVqMWFKZ0xVZ0FBb21ZbEZXZ1BCSDY2ZDJoQnVGRWdBT0lnQTZ3SWRSQUZONjNpV0czVkhoU3R2SG9SazFiNlJFQ1FxZmZrR3c0UkZfb2lKNk0tbE05RjZ2eUw0UFNxdw?oc=5): NFL.com, 2026-10-14 19:21 UTC
 - [Cam Heyward defends Brian Flores to the hilt as Raiders criticism emerges](https://stillcurtain.com/pittsburgh-steelers-cam-heyward-defends-brian-flores-to-the-hilt-as-raiders-criticism-emerges-01m4xmq5cz5p?utm_source=RSS): Still Curtain, 2026-10-14 19:19 UTC
 - [NFL spread, straight-up picks: Rams, Chiefs, Colts top Week 6 confidence rankings](https://www.nytimes.com/athletic/7689979/2026/10/14/nfl-spread-straight-up-picks-confidence-rankings-week-6/): The Athletic, 2026-10-14 19:01 UTC
 - [Steelers RB Jaylen Warren named AFC Offensive Player of the Week](https://triblive.com/sports/steelers-rb-jaylen-warren-named-afc-offensive-player-of-the-week/): TribLive, 2026-10-14 16:41 UTC
-- [Mike Tomlin drops bombshell about his time with the Pittsburgh Steelers](https://news.google.com/rss/articles/CBMiugFBVV95cUxQS3FUMWJYd1ZfVGxfcWZsNl9HZlR0cnltQTRyVHZrRUh6VmF6XzRrTmVXRGx1WXZjZEd5amlQQmRpelBQY2plWWd4elFzTjhTVm5ST1ZNc0IxVElkM1Q2S3p6Sm8tTkRWM1hGZGItOTBuQ25iWWJOWUxPZDN1bmk1ajBQaEdNMG5XaWhKNlNxdkVuc0s4ZkxzcVVuSVBGYmgxSVZTcllaSUNWMWZPYmZ2NlA3S2VBWXp2cWc?oc=5): PennLive.com, 2026-10-14 16:39 UTC
 - [6 desperate NFL teams that should already be thinking about Mike Tomlin](https://stillcurtain.com/6-desperate-nfl-teams-that-should-already-be-thinking-about-pittsburgh-steelers-mike-tomlin-01m4v557qz8p?utm_source=RSS): Still Curtain, 2026-10-14 16:00 UTC
 - [Jaylen Warren's breakout could force Steelers to pay up quickly](https://stillcurtain.com/jaylen-warren-s-breakout-could-force-pittsburgh-steelers-to-pay-up-quickly-01m4trx5d3b1?utm_source=RSS): Still Curtain, 2026-10-14 14:00 UTC
 - [Gerry Dulac’s Steelers chat transcript: 10.14.26](https://www.post-gazette.com/sports/steelers/2026/10/14/live-chat-aaron-rodgers-nfl-week-6/stories/202610140004): Pittsburgh Post-Gazette, 2026-10-14 12:30 UTC

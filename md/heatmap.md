@@ -1,6 +1,6 @@
 # Steelers Player Grades (Heat Map)
 
-_Generated 2026-10-17T23:57:37+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-11T17:00:00+00:00._
+_Generated 2026-10-18T00:17:30+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-11T17:00:00+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/grades.json_
 
 Week 5: vs Indianapolis Colts (34-22). Grade = stats grade (box score, see GRADES.md) until a player has 25 fan votes, then fan grade.
@@ -8,7 +8,6 @@ Week 5: vs Indianapolis Colts (34-22). Grade = stats grade (box score, see GRADE
 | Player | Pos | Grade | Grade type | Box score |
 |---|---|---|---|---|
 | Jaylen Warren | RB | 9.6 | stats | 15 rush, 101 yds, 1 TD; 6 rec, 87 yds, 1 TD |
-| Brock Hoffman | C | 8.4 | stats | 60 offensive snaps (100%); line: 1 sacks allowed, 5.8 yds/carry, 6 team penalties |
 | Mason McCormick | G | 8.4 | stats | 60 offensive snaps (100%); line: 1 sacks allowed, 5.8 yds/carry, 6 team penalties |
 | Max Iheanachor | T | 8.4 | stats | 60 offensive snaps (100%); line: 1 sacks allowed, 5.8 yds/carry, 6 team penalties |
 | Troy Fautanu | T | 8.4 | stats | 60 offensive snaps (100%); line: 1 sacks allowed, 5.8 yds/carry, 6 team penalties |
@@ -18,6 +17,7 @@ Week 5: vs Indianapolis Colts (34-22). Grade = stats grade (box score, see GRADE
 | Germie Bernard | WR | 7.7 | stats | 1 rush, 4 yds; 6 rec, 80 yds |
 | Aaron Rodgers | QB | 7.6 | stats | 22/31, 235 yds, 3 TD, 0 INT; 1 rush, 6 yds |
 | Asante Samuel Jr. | CB | 7.6 | stats | 4 tkl, 4 PD |
+| Brock Hoffman | C | 7.5 | editor | 60 offensive snaps (100%); line: 1 sacks allowed, 5.8 yds/carry, 6 team penalties |
 | Cameron Heyward | DT | 7.5 | stats | 3 tkl, 1 sack, 1 TFL |
 | Jaquan Brisker | SS | 7.3 | stats | 7 tkl, 2 PD |
 | Daylen Everette | CB | 7.2 | stats | 6 tkl, 2 PD |

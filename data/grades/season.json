@@ -544,17 +544,19 @@
     },
     {
      "week": 5,
-     "avg": 8.4,
-     "source": "stats"
+     "avg": 7.5,
+     "source": "editor"
     }
    ],
    "votes": 0,
    "involvement": 49.3,
-   "avg": 6.58,
+   "avg": 6.35,
    "games": 4,
    "source": "stats",
-   "editor_weeks": [],
-   "trend": 4.0
+   "editor_weeks": [
+    5
+   ],
+   "trend": 3.1
   },
   {
    "name": "Dylan Cook",
