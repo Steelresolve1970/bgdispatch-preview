@@ -308,8 +308,8 @@
     },
     {
      "week": 2,
-     "avg": 6.1,
-     "source": "stats"
+     "avg": 4.0,
+     "source": "editor"
     },
     {
      "week": 3,
@@ -329,10 +329,12 @@
    ],
    "votes": 0,
    "involvement": 38.0,
-   "avg": 6.78,
+   "avg": 6.36,
    "games": 5,
    "source": "stats",
-   "editor_weeks": [],
+   "editor_weeks": [
+    2
+   ],
    "trend": -1.9
   },
   {
