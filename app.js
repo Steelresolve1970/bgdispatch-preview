@@ -68,9 +68,14 @@ function tick(){const c=$('countdown');if(!c)return;let ms=new Date(c.dataset.t)
  if(ms<=0){c.innerHTML='<b>Game time!</b>';return;}const d=Math.floor(ms/864e5),h=Math.floor(ms/36e5)%24,m=Math.floor(ms/6e4)%60,s=Math.floor(ms/1e3)%60;
  c.innerHTML=[[d,'days'],[h,'hrs'],[m,'min'],[s,'sec']].map(([v,l])=>`<span><b>${v}</b>${l}</span>`).join('');}
 setInterval(tick,1000);
+function renderFV(){const f=D.fv,el=$('featuredVideo');if(!el||!f||!f.video)return;const v=f.video;
+ const lab={highlights:'Game Highlights',preview:'Game Preview',ctm:'Preview Podcast Segment'}[v.kind]||'Featured Video';
+ const src=v.embed?(v.embed.includes('?')?v.embed+'&rel=0':v.embed+'?rel=0'):null;
+ el.innerHTML=`<h2 id="fvH" class="section-title">Featured Video · ${lab}</h2><div class="fv-grid">${src?`<div class="fv-frame"><iframe src="${esc(src)}" title="${esc(v.title)}" loading="lazy" allow="encrypted-media; picture-in-picture; fullscreen" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe></div>`:''}<div class="fv-body"><h3><a href="${esc(v.link)}" ${ext}>${esc(v.title)}</a></h3><p>${esc(v.caption||'')}</p>${f.fallback?`<p class="fv-note">${esc(f.fallback)}</p>`:''}<p class="meta">Official ${esc(v.channel)} YouTube channel · <a href="${esc(v.link)}" ${ext}>Watch on YouTube →</a></p></div></div>`;
+ el.hidden=false;}
 
 const SRC={news:['data/news.json',renderNews],ticker:['data/ticker.json',renderTicker],ins:['data/insiders.json',renderIns],
- prev:['data/preview.json',renderFilm],film:['data/film.json',renderFilm],pods:['data/podcasts.json',renderPods],sched:['data/schedule.json',renderGame]};
+ prev:['data/preview.json',renderFilm],film:['data/film.json',renderFilm],pods:['data/podcasts.json',renderPods],sched:['data/schedule.json',renderGame],fv:['data/featured_video.json',renderFV]};
 async function loadAll(){await Promise.all(Object.entries(SRC).map(async([k,[u,fn]])=>{try{D[k]=await getJSON(u);fn();}catch(e){}}));}
 loadAll();setInterval(loadAll,5*60*1000);
 

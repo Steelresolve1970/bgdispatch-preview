@@ -372,3 +372,8 @@ nav .more a{color:#fff}nav .more a[aria-current]{color:var(--gold)}
 
 .pod-day{margin-top:1.4rem}.pod-day small{font-size:.75em;opacity:.6}
 .yt-embed{position:relative;padding-top:56.25%;margin:.5rem 0}.yt-embed iframe{position:absolute;inset:0;width:100%;height:100%;border:0;border-radius:8px}
+
+.fv{margin:0 0 1.25rem}.fv-grid{display:grid;grid-template-columns:minmax(0,1.6fr) minmax(0,1fr);gap:1rem;align-items:start}
+.fv-frame{position:relative;aspect-ratio:16/9;background:#000;border-radius:10px;overflow:hidden}.fv-frame iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.fv-body h3{margin:.2rem 0 .5rem;font-size:1.15rem;line-height:1.3}.fv-body h3 a{color:inherit;text-decoration:none}.fv-note{font-size:.85rem;opacity:.8;font-style:italic}
+@media(max-width:760px){.fv-grid{grid-template-columns:1fr}}

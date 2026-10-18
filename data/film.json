@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T02:20:59.148114+00:00",
+ "generated": "2026-10-18T02:26:59.851478+00:00",
  "game": {
   "label": "vs Indianapolis Colts (Oct 11)",
   "opponent": "Indianapolis Colts",
@@ -15,7 +15,7 @@
    "creator": "Steelers Almighty",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgIrOw8M4dNVs-WcMSaZUxA",
-   "status": "error: HTTP Error 500: Internal Server Error",
+   "status": "error: HTTP Error 404: Not Found",
    "feed_items": 0,
    "in_window": 0
   },
@@ -47,9 +47,9 @@
    "creator": "Steelers Depot (YouTube)",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFqbkq2BzNY3iQ_FPveqVhw",
-   "status": "error: HTTP Error 500: Internal Server Error",
-   "feed_items": 0,
-   "in_window": 0
+   "status": "ok",
+   "feed_items": 15,
+   "in_window": 1
   },
   {
    "creator": "Still Curtain (Tommy Jaggi All-22)",
@@ -103,7 +103,7 @@
    "creator": "All_22_Films",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7Dbn36zT6XjfBh9YDLmGIg",
-   "status": "error: HTTP Error 404: Not Found",
+   "status": "error: HTTP Error 500: Internal Server Error",
    "feed_items": 0,
    "in_window": 0
   },
@@ -119,8 +119,8 @@
    "creator": "Brett Kollmann",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYzfVBuCfGz-oF3aOCGgO5g",
-   "status": "error: HTTP Error 404: Not Found",
-   "feed_items": 0,
+   "status": "ok",
+   "feed_items": 15,
    "in_window": 0
   },
   {
@@ -135,8 +135,8 @@
    "creator": "Cover 1",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UClL6eJS1s8xmRoYRQbYgxQQ",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 500: Internal Server Error",
+   "feed_items": 0,
    "in_window": 0
   },
   {
@@ -158,6 +158,14 @@
    "game": "vs Indianapolis Colts (Oct 11)"
   },
   {
+   "title": "The Terrible Podcast \u2014 Steelers Vs. Colts All-22 Review, McCarthy Monday Recap, Week 6 WR Issues",
+   "creator": "Steelers Depot (YouTube)",
+   "link": "https://www.youtube.com/watch?v=t6YSD1i_je0",
+   "published": "2026-10-14T16:33:58+00:00",
+   "summary": "Film breakdown by Steelers Depot (YouTube) of vs Indianapolis Colts (Oct 11).",
+   "game": "vs Indianapolis Colts (Oct 11)"
+  },
+  {
    "title": "Film Room: Gabriel Rubio Looks Strong In NFL Debut",
    "creator": "Steelers Depot Film Room (Alex Kozora)",
    "link": "https://steelersdepot.com/2026/10/film-room-gabriel-rubio-stands-strong-in-nfl-debut/",
@@ -174,5 +182,5 @@
    "game": "vs Indianapolis Colts (Oct 11)"
   }
  ],
- "count": 3
+ "count": 4
 }
