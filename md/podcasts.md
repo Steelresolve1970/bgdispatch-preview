@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-19T18:11:16+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T18:11:08+00:00._
+_Generated 2026-10-19T18:15:06+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T18:11:08+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [Steel City Insider: Recapping the Steelers OT win over the Buccaneers](http://steelcurtainnetwork.com): Steel Curtain Network (BTSC), 2026-10-19 17:40 UTC

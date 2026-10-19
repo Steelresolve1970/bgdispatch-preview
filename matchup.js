@@ -48,11 +48,11 @@ function extra(d,o){if(!o)return'';const ld=(o.leaders&&o.leaders.opp)||[];const
  <div class="leaders">${ld.map(l=>`<div class="box ldr"><small>${E(l.cat)}</small><b>${E(l.name)}${l.pos?' <small>'+E(l.pos)+'</small>':''}</b><span>${E(l.line)}</span></div>`).join('')||'<p class="fine">No stat leaders yet.</p>'}</div>
  <h2 class="section-title">${E(d.opp_nick||d.opp)} injury report</h2>
  <div class="inj-list">${inj.map(p=>`<a class="box inj" href="${E(p.link)}" ${EXT}><span class="pill ${ST[p.status]||''}">${p.status==='Injured Reserve'?'IR':E(p.status)}</span><b>${E(p.name)}</b><small>${E(p.pos)}</small><span>${E(p.injury||'Undisclosed')}</span></a>`).join('')||'<p class="fine">No injuries listed.</p>'}</div>`;}
-function block(d,o){const g=d.game;if(!g)return'<p class="empty">No upcoming game.</p>';
+function block(d,o){const g=d.game;if(!g)return{head:'<p class="empty">No upcoming game.</p>',body:''};
  const when=new Date(g.date).toLocaleString('en-US',{timeZone:'America/New_York',weekday:'short',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'});
- return `<section class="mu" aria-label="Matchup report">
- <div class="box mu-head"><h2>Steelers ${g.home?'vs':'at'} ${E(d.opp_name)}${o&&o.record?` <small>(${E(d.opp)} ${E(o.record)})</small>`:''}</h2><span class="fine">${E(g.week)} · ${E(when)} ET${(g.tv||(o&&o.game&&o.game.tv))?' · '+E(g.tv||o.game.tv):''}${g.venue?' · '+E(g.venue):''}</span>
- ${o&&o.last5?`<div class="mu-form"><span><b>Last 5 · ${E(d.opp)}</b>${l5(o.last5.opp)}</span><span><b>PIT</b>${l5(o.last5.pit)}</span></div>`:''}</div>
+ const head=`<div class="box mu-head"><h2>Steelers ${g.home?'vs':'at'} ${E(d.opp_name)}${o&&o.record?` <small>(${E(d.opp)} ${E(o.record)})</small>`:''}</h2><span class="fine">${E(g.week)} · ${E(when)} ET${(g.tv||(o&&o.game&&o.game.tv))?' · '+E(g.tv||o.game.tv):''}${g.venue?' · '+E(g.venue):''}</span>
+ ${o&&o.last5?`<div class="mu-form"><span><b>Last 5 · ${E(d.opp)}</b>${l5(o.last5.opp)}</span><span><b>PIT</b>${l5(o.last5.pit)}</span></div>`:''}</div>`;
+ return {head,body:`<section class="mu" aria-label="Matchup report">
  <h2 class="section-title">3 keys to a Steelers win</h2>
  <ol class="mu-list">${d.keys.map((k,i)=>`<li><b><span class="mu-n">${i+1}</span>${E(k.title)}</b><p>${E(k.why)}</p></li>`).join('')}</ol>
  <h2 class="section-title">3 key matchups to watch</h2>
@@ -60,12 +60,15 @@ function block(d,o){const g=d.game;if(!g)return'<p class="empty">No upcoming gam
  <h2 class="section-title">Pundit picks</h2>${picks(d)}
  <h2 class="section-title">Team stats with NFL ranks</h2>${table(d)}
  ${extra(d,o)}
- <p class="fine">Stats, ranks, keys and matchups update automatically every week from nflverse data (<a href="${E(d.source_url)}" ${EXT}>CC-BY 4.0</a>). Keys and matchups are our own takes, generated from the numbers. Records, last-5 results, key players and injuries come from nflverse schedules, stats and official injury reports.</p></section>`;}
+ <p class="fine">Stats, ranks, keys and matchups update automatically every week from nflverse data (<a href="${E(d.source_url)}" ${EXT}>CC-BY 4.0</a>). Keys and matchups are our own takes, generated from the numbers. Records, last-5 results, key players and injuries come from nflverse schedules, stats and official injury reports.</p></section>`};}
+// Page order: game header card, then "Previews & film" (#preview-full), then keys, matchups, picks, stats, key players, injuries.
 function render(){if(!D||D.opp===undefined&&!D.game)return;
- const pv=document.getElementById('preview-full');
- if(pv){let s=document.getElementById('mu-opp');if(!s){s=document.createElement('div');s.id='mu-opp';pv.parentNode.insertBefore(s,pv);
-   const h=document.createElement('h2');h.className='section-title';h.id='mu-prev-h';h.textContent='Previews & film';pv.parentNode.insertBefore(h,pv);}
-  s.innerHTML=block(D,(O&&D.opp&&O.abbr===D.opp)?O:null);}}
+ const pv=document.getElementById('preview-full');if(!pv)return;
+ let hd=document.getElementById('mu-opp-head'),bd=document.getElementById('mu-opp');
+ if(!hd){hd=document.createElement('div');hd.id='mu-opp-head';hd.className='mu';pv.parentNode.insertBefore(hd,pv);
+  const h=document.createElement('h2');h.className='section-title';h.id='mu-prev-h';h.textContent='Previews & film';pv.parentNode.insertBefore(h,pv);}
+ if(!bd){bd=document.createElement('div');bd.id='mu-opp';pv.after(bd);}
+ const r=block(D,(O&&D.opp&&O.abbr===D.opp)?O:null);hd.innerHTML=r.head;bd.innerHTML=r.body;}
 const go=()=>{if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',render);else render();};
 const get=u=>fetch(url(u),{cache:'no-store'}).then(r=>{if(!r.ok)throw r.status;return r.json();});
 get('data/matchup.json').then(d=>{D=d;window.BGD_matchup=d;go();}).catch(()=>{});
