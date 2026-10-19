@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-19T19:26:10+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T19:25:33+00:00._
+_Generated 2026-10-19T19:36:49+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T19:36:25+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Coach McCarthy Press Conference (Week 7 at New Orleans Saints) | Pittsburgh Steelers](https://www.youtube.com/watch?v=M2zs_f3U6tQ): Pittsburgh Steelers (official), 2026-10-19 18:46 UTC

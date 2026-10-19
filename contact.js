@@ -3,7 +3,7 @@
 (function(){
 const $=id=>document.getElementById(id);
 const E=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const TOPICS=['Suggestion/Improvement','Report a problem','Correction','Advertising','Copyright/takedown','Other'];
+const TOPICS=['Suggestion/Improvement','Report a problem','Correction','Advertising','Copyright/takedown','Intimate image removal','Account help','Privacy or data request','Other'];
 let CFG=null,shown=0;
 const css=`.ct-form{max-width:640px;background:#fff;border-radius:14px;padding:18px;box-shadow:0 1px 3px #0002}
 .ct-form label{display:block;font-weight:800;margin:12px 0 4px}.ct-form label small{font-weight:400;color:#666}

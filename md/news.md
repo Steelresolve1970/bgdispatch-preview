@@ -1,8 +1,10 @@
 # Steelers News
 
-_Generated 2026-10-19T19:26:10+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T19:25:25+00:00._
+_Generated 2026-10-19T19:36:49+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T19:36:16+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [McCarthy Says Rooney, Players Held Meeting With NFL Ahead Of Paris Game Amid Unrest](https://steelersdepot.com/2026/10/mccarthy-says-rooney-players-held-meeting-with-nfl-ahead-of-paris-game-amid-unrest/): Steelers Depot, 2026-10-19 19:34 UTC
+- [Quarterback Aaron Rodgers on Pittsburgh Steelers offense in the second half](https://www.nfl.com/videos/aaron-rodgers-on-steelers-offense-in-the-second-half): NFL.com, 2026-10-19 19:32 UTC
 - [‘Aggressive:’ Steelers Linebacker Praises Patrick Graham For Opening Up Playbook](https://steelersdepot.com/2026/10/aggressive-steelers-linebacker-praises-patrick-graham-for-opening-up-playbook/): Steelers Depot, 2026-10-19 19:15 UTC
 - [Aaron Rodgers bashes Buccaneers’ poor playing surface: ‘That’s not very safe’](https://www.pennlive.com/steelers/2026/10/aaron-rodgers-doesnt-hold-back-about-the-buccaneers-playing-surface-thats-not-very-safe.html): PennLive (Nick Farabaugh), 2026-10-19 19:07 UTC
 - [‘It Looks Crazy Out There:’ Steelers’ Jaquan Brisker Reacts To Paris Protests](https://steelersdepot.com/2026/10/it-looks-crazy-out-there-steelers-jaquan-brisker-reacts-to-paris-protests/): Steelers Depot, 2026-10-19 19:00 UTC
@@ -19,7 +21,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Saints Could Get Back Key Playmaker vs. Steelers](https://steelersnow.com/saints-could-get-back-key-playmaker-vs-steelers/): Steelers Now, 2026-10-19 17:23 UTC
 - [Steelers ‘Aren’t Interested’ In JuJu Smith-Schuster, Says Beat Writer](https://steelersdepot.com/2026/10/steelers-arent-interested-in-juju-smith-schuster-says-beat-writer/): Steelers Depot, 2026-10-19 17:15 UTC
 - [The Terrible Podcast — Steelers-Buccaneers Game Recap, Injury Situation, Clock Management, WR Rumblings & More](https://steelersdepot.com/2026/10/the-terrible-podcast-steelers-buccaneers-game-recap-injury-situation-clock-management-wr-rumblings-more/): Steelers Depot, 2026-10-19 17:02 UTC
-- [Todd Bowles on Baker Mayfield’s Timeline to Return | Press Conference](https://www.buccaneers.com/video/todd-bowles-on-baker-mayfield-timeline-to-return-press-conference): Tampa Bay Buccaneers, 2026-10-19 17:00 UTC
 - [Steelers Safety Jaquan Brisker Speaks On Playing In Paris Amid Civil Unrest](https://www.steelernation.com/2026/10/19/steelers-safety-jaquan-brisker-paris): SteelerNation, 2026-10-19 16:47 UTC
 - [‘Going To Stay On That Boz Train’: Big Ben Remains Confident In Steelers Kicker Despite Recent Misses](https://steelersdepot.com/2026/10/going-to-stay-on-that-boz-train-bi-ben-remains-confident-in-chris-boswell-despite-recent-misses/): Steelers Depot, 2026-10-19 16:45 UTC
 - [Chris Boswell Makes Steelers History in Week 6 Win Against Buccaneers](https://sportsnetpittsburgh.com/pittsburgh-steelers/news/chris-boswell-steelers-history-week-6-win-buccaneers/18effaa85f4e239f2212df12): SportsNet Pittsburgh, 2026-10-19 16:41 UTC
@@ -57,7 +58,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Cup of Joe (Starkey): Only the delusional believe Steelers QB Aaron Rodgers is done](https://triblive.com/sports/cup-of-joe-starkey-only-the-delusional-believe-steelers-qb-aaron-rodgers-is-done/): TribLive, 2026-10-19 13:45 UTC
 - [Stats Of The Weird: Steelers Vs Buccaneers](https://steelersdepot.com/2026/10/stats-of-the-weird-steelers-vs-buccaneers-3/): Steelers Depot, 2026-10-19 13:30 UTC
 - [NFL Week 6 grades for every team that played so far: Browns, Steelers earn high marks, Colts get 'F'](https://www.cbssports.com/nfl/news/nfl-grades-week-6-browns-ravens-afc-colts-2026/): CBS Sports, 2026-10-19 13:22 UTC
-- [Steelers’ Experience Showed Up In ‘Critical Situations’ In Win Over Buccaneers, Analyst Says](https://steelersdepot.com/2026/10/steelers-experience-showed-up-in-critical-situations-in-win-over-buccaneers-analyst-says/): Steelers Depot, 2026-10-19 13:15 UTC
 - [Steelers Takeaways: Second-half comeback saves Pittsburgh in overtime win over Buccaneers](https://www.steelcityunderground.com/2026/10/19/steelers-takeaways-second-half-comeback-saves-pittsburgh-in-overtime-win-over-buccaneers/): Steel City Underground, 2026-10-19 13:14 UTC
 - [Germie Bernard's growing connection with Aaron Rodgers has Steelers buzzing](https://stillcurtain.com/germie-bernard-growing-connection-aaron-rodgers-pittsburgh-steelers-buzzing-01m59441d0x6?utm_source=RSS): Still Curtain, 2026-10-19 13:00 UTC
 - [Just My Opinion ...](https://247sports.com/nfl/pittsburgh-steelers/article/steelers-bucs-wexell-291508241/): 247Sports, 2026-10-19 12:41 UTC
