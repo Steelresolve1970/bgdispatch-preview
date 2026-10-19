@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-19T23:04:08+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T23:03:52+00:00._
+_Generated 2026-10-19T23:15:19+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T23:15:03+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Why Steelers MUST RUN THE BALL to Fix their 3rd Down Failures | Mike McCarthy's Necessary Changes](https://www.youtube.com/shorts/mXiVHOzgvR4): Locked On Steelers, 2026-10-19 22:54 UTC
