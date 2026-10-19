@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-19T02:21:46+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T02:20:35+00:00._
+_Generated 2026-10-19T02:33:14+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T02:31:51+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [NFL says Steelers-Saints in Paris still on despite civil unrest in France](https://www.espn.com/nfl/story/_/id/50211207/nfl-says-steelers-saints-game-paris-amid-unrest): ESPN, 2026-10-19 02:41 UTC
@@ -39,6 +39,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Germie Bernard sets Steelers record in win over Buccaneers](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176519/germie-bernard-sets-steelers-record-in-win-over-buccaneers-dk-metcalf): Behind the Steel Curtain, 2026-10-18 22:27 UTC
 - [Ramsey is Steelers Player of the Week](https://www.steelers.com/news/ramsey-is-steelers-player-of-the-week): Steelers.com (official), 2026-10-18 22:27 UTC
 - [Mike McCarthy Reveals How He Injured His Ankle](https://steelersnow.com/mike-mccarthy-reveals-how-he-injured-his-ankle/): Steelers Now, 2026-10-18 22:22 UTC
+- [NFL Week 6 Recap: Pittsburgh Steelers 26, Tampa Bay Buccaneers 19](https://www.pff.com/news/nfl-week-6-recap-pittsburgh-steelers-26-tampa-bay-buccaneers-19): PFF, 2026-10-18 22:22 UTC
 - [Steelers Rally Late to Nip Bucs in Overtime](https://www.buccaneers.com/news/steelers-bucs-week-6-recap-postgame-report-2026): Tampa Bay Buccaneers, 2026-10-18 22:17 UTC
 - [Nick Herbig Calls Jalen Ramsey Future ‘Hall Of Famer’ Following Marquee Defensive Effort](https://steelersdepot.com/2026/10/nick-herbig-calls-jalen-ramsey-future-hall-of-famer-following-marquee-defensive-effort/): Steelers Depot, 2026-10-18 22:15 UTC
 - [‘I Kept Waiting:’ Jamel Dean Baited Buccaneers Rookie QB Into Fourth Quarter Interception](https://steelersdepot.com/2026/10/i-kept-waiting-jamel-dean-baited-buccaneers-rookie-qb-into-fourth-quarter-interception/): Steelers Depot, 2026-10-18 22:10 UTC
@@ -101,7 +102,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Pittsburgh Steelers get huge boost with good injury news on five starters, including Pat Freiermuth](https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-get-huge-boost-with-good-injury-news-on-five-starters-including-pat-freiermuth.html): PennLive (Nick Farabaugh), 2026-10-18 16:28 UTC
 - [Steelers-Saints game in Paris still on despite unrest in France, NFL says](https://www.nytimes.com/athletic/7701635/2026/10/18/paris-nfl-steelers-saints-protests/): The Athletic, 2026-10-18 16:26 UTC
 - [!+[Here's Way To Watch]" NFL Week 6 Tampa Bay Buccaneers vs Pittsburgh Steelers Live Score 18 October 2026](https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5aHVicy5ubC92b3MvbmV3L2EueG1sIi8+PC9rcnBhbm8+&id=video-nfl-week-6-tampa-bay-buccaneers-vs-pittsburgh-steelers-liv-en-usv5b1136): Universidad de Córdoba (UCO), 2026-10-18 16:12 UTC
-- [~$!【LIVE@STREAMs】 Tampa Bay Buccaneers vs Pittsburgh Steelers NFL Game LIVE Kick off time TV 18 October 2026](https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5aHVicy5ubC92b3MvbmV3L2EueG1sIi8+PC9rcnBhbm8+&id=video-tampa-bay-buccaneers-vs-pittsburgh-steelers-nfl-game-liv-en-usv5b1222): Universidad de Córdoba (UCO), 2026-10-18 16:12 UTC
 - [Huge comeback nets Steelers overtime win over Buccaneers | live updates recap](https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-at-tampa-bay-buccaneers-nfl-week-6-live-updates.html): PennLive (Nick Farabaugh), 2026-10-18 16:08 UTC
 - [Tampa Bay Buccaneers vs Pittsburgh Steelers Live match Free National Football League: Tampa Bay Buccaneers vs Pittsburgh Steelers look to seize control of thrilling Tampa Bay Buccaneers vs Pittsburgh Steelers. Every team in the Tampa Bay Buccaneers](https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5aHVicy5ubC92b3MvbmV3L2EueG1sIi8+PC9rcnBhbm8+&id=video-tampa-bay-buccaneers-vs-pittsburgh-steelers-tv666462298): Universidad de Córdoba (UCO), 2026-10-18 15:58 UTC
 - [Steelers’ Jamel Dean, Rico Dowdle, Pat Freiermuth active for game vs. Buccaneers](https://triblive.com/sports/steelers-jamel-dean-rico-dowdle-pat-freiermuth-active-for-game-vs-buccaneers/): TribLive, 2026-10-18 15:57 UTC
