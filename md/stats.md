@@ -1,6 +1,6 @@
 # Steelers Team Stats
 
-_Generated 2026-10-19T20:18:17+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T17:48:49+00:00._
+_Generated 2026-10-19T21:10:18+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T21:10:00+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/stats.json_
 
 | Section | Stat | Value | NFL rank |

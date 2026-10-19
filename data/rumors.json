@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T20:18:14.203146+00:00",
+ "generated": "2026-10-19T21:10:05.781517+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -71,6 +71,35 @@
    "updated": "2026-10-19T19:47:08.454946+00:00"
   },
   {
+   "id": "76a89e5c6bed",
+   "title": "Veteran Steelers QB Named Eagles Trade Target After Jalen Hurts News",
+   "source": "Yahoo Sports",
+   "link": "https://sports.yahoo.com/articles/veteran-steelers-qb-named-eagles-183142596.html",
+   "published": "2026-10-19T18:31:42+00:00",
+   "summary": "Rumor-style report from Yahoo Sports on a Steelers roster move. Full details at the source.",
+   "tier": "National insider",
+   "tier_score": 4,
+   "subjects": [],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-19T21:10:05.781517+00:00",
+   "consensus": {
+    "cluster_id": "7484671f5438",
+    "independent_sources": 2,
+    "sources": [
+     "Heavy.com",
+     "Yahoo Sports"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "7484671f5438"
+    ]
+   },
+   "updated": "2026-10-19T21:10:05.781517+00:00"
+  },
+  {
    "id": "7484671f5438",
    "title": "Veteran Steelers QB Named Eagles Trade Target After Jalen Hurts News",
    "source": "Heavy.com",
@@ -86,13 +115,16 @@
    "first_seen": "2026-10-19T17:56:36.682233+00:00",
    "consensus": {
     "cluster_id": "7484671f5438",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
-     "Heavy.com"
+     "Heavy.com",
+     "Yahoo Sports"
     ],
-    "highest_tier": "Aggregator / other",
-    "highest_tier_score": 1,
-    "related_ids": []
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "76a89e5c6bed"
+    ]
    },
    "updated": "2026-10-19T17:56:36.682233+00:00"
   },
