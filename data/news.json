@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T17:29:13.604206+00:00",
+ "generated": "2026-10-19T17:39:36.484371+00:00",
  "count": 150,
  "sources": [
   {
@@ -29,8 +29,8 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
-   "steelers_items": 0
+   "status": "ok",
+   "steelers_items": 24
   },
   {
    "source": "Still Curtain",
@@ -60,7 +60,7 @@
    "source": "ESPN",
    "url": "https://www.espn.com/espn/rss/nfl/news",
    "status": "ok",
-   "steelers_items": 1
+   "steelers_items": 0
   },
   {
    "source": "CBS Sports",
@@ -107,12 +107,12 @@
  ],
  "items": [
   {
-   "title": "Rodgers throws two TDs to tie Peyton on all-time list, lifts Steelers to OT win",
-   "source": "ESPN",
-   "link": "https://www.espn.com/nfl/story/_/id/50213488/aaron-rodgers-ties-peyton-manning-all-td-pass-list",
-   "published": "2026-10-19T18:11:28+00:00",
-   "summary": "Game story from ESPN. Full report at the original publisher.",
-   "id": "2739c81cd3"
+   "title": "\"Fire Sale\": Steelers Trading For Colts WR Josh Downs Suddenly On The Horizon",
+   "source": "SteelerNation",
+   "link": "https://www.steelernation.com/2026/10/19/steelers-colts-josh-downs-suddenly",
+   "published": "2026-10-19T17:34:15+00:00",
+   "summary": "News story from SteelerNation. Full report at the original publisher.",
+   "id": "8460ffdbeb"
   },
   {
    "title": "Saints Could Get Back Key Playmaker vs. Steelers",
@@ -137,15 +137,6 @@
    "published": "2026-10-19T17:02:32+00:00",
    "summary": "Injury story from Steelers Depot. Full report at the original publisher.",
    "id": "b695de4beb"
-  },
-  {
-   "title": "Todd Bowles on Baker Mayfield\u2019s Timeline to Return | Press Conference",
-   "source": "Tampa Bay Buccaneers",
-   "link": "https://www.buccaneers.com/video/todd-bowles-on-baker-mayfield-timeline-to-return-press-conference",
-   "published": "2026-10-19T17:00:14+00:00",
-   "via": "Google News",
-   "summary": "News story from Tampa Bay Buccaneers. Full report at the original publisher.",
-   "id": "b2f6b6a166"
   },
   {
    "title": "Steelers Safety Jaquan Brisker Speaks On Playing In Paris Amid Civil Unrest",
@@ -478,6 +469,14 @@
    "id": "6d1195e650"
   },
   {
+   "title": "Steelers Takeaways: Second-half comeback saves Pittsburgh in overtime win over Buccaneers",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/19/steelers-takeaways-second-half-comeback-saves-pittsburgh-in-overtime-win-over-buccaneers/",
+   "published": "2026-10-19T13:14:03+00:00",
+   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
+   "id": "dfe2de4202"
+  },
+  {
    "title": "\u2018Gonna Be The Future\u2019: Jamel Dean \u2018Excited\u2019 For Daylen Everette After Rookie\u2019s First Interception",
    "source": "Steelers Depot",
    "link": "https://steelersdepot.com/2026/10/gonna-be-the-future-jamel-dean-excited-for-daylen-everette-after-rookies-first-interception/",
@@ -541,6 +540,14 @@
    "via": "Google News",
    "summary": "Trade/roster move story from A to Z Sports. Full report at the original publisher.",
    "id": "16ae1373d4"
+  },
+  {
+   "title": "Plays of the Game: Jamel Dean\u2019s interception sets up Steelers\u2019 late lead",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/19/plays-of-the-game-jamel-deans-interception-sets-up-steelers-late-lead/",
+   "published": "2026-10-19T11:40:57+00:00",
+   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
+   "id": "c1a0198967"
   },
   {
    "title": "Steelers Stock Watch 2026 \u2013 RB Rico Dowdle",
@@ -803,6 +810,15 @@
    "id": "c9ed8693cf"
   },
   {
+   "title": "Steelers get OT win but leave Tampa Bay with more offensive questions than answers",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/athletic/7702085/2026/10/18/steelers-buccaneers-nfl-week-6-result-takeaways/",
+   "published": "2026-10-18T22:44:38+00:00",
+   "via": "Google News",
+   "summary": "Game story from The New York Times. Full report at the original publisher.",
+   "id": "adf553885f"
+  },
+  {
    "title": "Steelers Now Postgame: Steelers 26, Buccaneers 19",
    "source": "Steelers Now",
    "link": "https://steelersnow.com/steelers-now-postgame-steelers-26-buccaneers-19/",
@@ -919,14 +935,6 @@
    "id": "755dae39d0"
   },
   {
-   "title": "Steelers' Mike McCarthy Throws Shade At Official After Controversial Decision",
-   "source": "SteelerNation",
-   "link": "https://www.steelernation.com/2026/10/18/steelers-mike-mccarthy-controversial-official",
-   "published": "2026-10-18T21:32:28+00:00",
-   "summary": "News story from SteelerNation. Full report at the original publisher.",
-   "id": "8ef46146f8"
-  },
-  {
    "title": "7 winners (and 4 losers) from Steelers' dramatic Week 6 comeback over Tampa Bay",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/7-winners-4-losers-pittsburgh-steelers-dramatic-week-6-comeback-tampa-bay-buccaneers-01m58beprnfv?utm_source=RSS",
@@ -990,14 +998,6 @@
    "published": "2026-10-18T20:57:48+00:00",
    "summary": "News story from Behind the Steel Curtain. Full report at the original publisher.",
    "id": "7a9bcc9723"
-  },
-  {
-   "title": "Steelers get OT win but leave Tampa Bay with more offensive questions than answers",
-   "source": "The Athletic",
-   "link": "https://www.nytimes.com/athletic/7702085/2026/10/18/steelers-buccaneers-nfl-week-6-result-takeaways/",
-   "published": "2026-10-18T20:56:42+00:00",
-   "summary": "Game story from The Athletic. Full report at the original publisher.",
-   "id": "adf553885f"
   },
   {
    "title": "Steelers pull out 26-19 win over Bucs in overtime",
@@ -1224,6 +1224,14 @@
    "id": "e1fb31e68f"
   },
   {
+   "title": "SCU Week in Review \u2013 October 18th",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/18/scu-week-in-review-october-18th-2/",
+   "published": "2026-10-18T11:10:45+00:00",
+   "summary": "News story from Steel City Underground. Full report at the original publisher.",
+   "id": "3168b8bdcc"
+  },
+  {
    "title": "Steelers' tight end duo could counter costly WR injuries vs. Buccaneers",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/pittsburgh-steelers-tight-end-duo-could-counter-costly-wr-injuries-vs-buccaneers-01m534w1agdq?utm_source=RSS",
@@ -1326,14 +1334,6 @@
    "published": "2026-10-17T18:00:00+00:00",
    "summary": "Injury story from Steelers.com (official). Full report at the original publisher.",
    "id": "b134dcffe5"
-  },
-  {
-   "title": "Steelers TE Pat Freiermuth questionable vs. Bucs; WR DK Metcalf removed from injury report",
-   "source": "TribLive",
-   "link": "https://triblive.com/sports/steelers-te-pat-freiermuth-questionable-vs-bucs-wr-dk-metcalf-removed-from-injury-report/",
-   "published": "2026-10-17T17:15:35+00:00",
-   "summary": "Injury story from TribLive. Full report at the original publisher.",
-   "id": "d1ed68dc25"
   }
  ],
  "dropped_bad_links": 0

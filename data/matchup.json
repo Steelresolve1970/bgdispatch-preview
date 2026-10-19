@@ -1,0 +1,272 @@
+{
+ "generated": "2026-10-19T17:39:47.586769+00:00",
+ "game_id": "2026_07_PIT_NO",
+ "game": {
+  "id": "401873011",
+  "nflverse_id": "2026_07_PIT_NO",
+  "date": "2026-10-25T13:30Z",
+  "week": "Week 7",
+  "week_num": 7,
+  "home": false,
+  "opponent": "New Orleans Saints",
+  "opp_abbr": "NO",
+  "status": "STATUS_SCHEDULED",
+  "completed": false,
+  "result": null,
+  "score": null,
+  "pit_score": "",
+  "opp_score": "",
+  "venue": "Stade de France",
+  "tv": null,
+  "season_type": "REG"
+ },
+ "opp": "NO",
+ "opp_name": "New Orleans Saints",
+ "opp_nick": "Saints",
+ "games_played": {
+  "PIT": 6,
+  "opp": 6
+ },
+ "teams_ranked": 32,
+ "stats": [
+  {
+   "label": "Points Per Game",
+   "key": "ppg",
+   "higher_better": true,
+   "group": "Offense",
+   "pit": 22.8,
+   "pit_rank": 18,
+   "opp": 25.3,
+   "opp_rank": 10
+  },
+  {
+   "label": "Total Yards",
+   "key": "ypg",
+   "higher_better": true,
+   "group": "Offense",
+   "pit": 320.5,
+   "pit_rank": 21,
+   "opp": 321.5,
+   "opp_rank": 20
+  },
+  {
+   "label": "Yards Passing",
+   "key": "pass",
+   "higher_better": true,
+   "group": "Offense",
+   "pit": 221.3,
+   "pit_rank": 18,
+   "opp": 224.2,
+   "opp_rank": 17
+  },
+  {
+   "label": "Yards Rushing",
+   "key": "rush",
+   "higher_better": true,
+   "group": "Offense",
+   "pit": 99.2,
+   "pit_rank": 20,
+   "opp": 97.3,
+   "opp_rank": 21
+  },
+  {
+   "label": "Points Allowed Per Game",
+   "key": "papg",
+   "higher_better": false,
+   "group": "Defense",
+   "pit": 21.3,
+   "pit_rank": 12,
+   "opp": 29.7,
+   "opp_rank": 30
+  },
+  {
+   "label": "Yards Allowed",
+   "key": "yapg",
+   "higher_better": false,
+   "group": "Defense",
+   "pit": 307.5,
+   "pit_rank": 9,
+   "opp": 377.7,
+   "opp_rank": 29
+  },
+  {
+   "label": "Pass Yards Allowed",
+   "key": "pass_a",
+   "higher_better": false,
+   "group": "Defense",
+   "pit": 204.3,
+   "pit_rank": 8,
+   "opp": 239.7,
+   "opp_rank": 25
+  },
+  {
+   "label": "Rush Yards Allowed",
+   "key": "rush_a",
+   "higher_better": false,
+   "group": "Defense",
+   "pit": 103.2,
+   "pit_rank": 14,
+   "opp": 138.0,
+   "opp_rank": 30
+  },
+  {
+   "label": "Yards Per Play",
+   "key": "ypp",
+   "higher_better": true,
+   "group": "Offense",
+   "pit": 5.01,
+   "pit_rank": 21,
+   "opp": 4.8,
+   "opp_rank": 23
+  },
+  {
+   "label": "Yards Per Carry",
+   "key": "ypc",
+   "higher_better": true,
+   "group": "Offense",
+   "pit": 4.58,
+   "pit_rank": 9,
+   "opp": 3.79,
+   "opp_rank": 21
+  },
+  {
+   "label": "Sacks Allowed Per Game",
+   "key": "sk_a",
+   "higher_better": false,
+   "group": "Offense",
+   "pit": 3.17,
+   "pit_rank": 28,
+   "opp": 2.17,
+   "opp_rank": 14
+  },
+  {
+   "label": "Turnovers Per Game",
+   "key": "to",
+   "higher_better": false,
+   "group": "Offense",
+   "pit": 1.17,
+   "pit_rank": 14,
+   "opp": 2.0,
+   "opp_rank": 28
+  },
+  {
+   "label": "Yards Per Play Allowed",
+   "key": "ypp_a",
+   "higher_better": false,
+   "group": "Defense",
+   "pit": 4.99,
+   "pit_rank": 8,
+   "opp": 5.84,
+   "opp_rank": 27
+  },
+  {
+   "label": "Yards Per Carry Allowed",
+   "key": "ypc_a",
+   "higher_better": false,
+   "group": "Defense",
+   "pit": 4.05,
+   "pit_rank": 18,
+   "opp": 4.79,
+   "opp_rank": 28
+  },
+  {
+   "label": "Sacks Per Game",
+   "key": "sk",
+   "higher_better": true,
+   "group": "Defense",
+   "pit": 2.67,
+   "pit_rank": 9,
+   "opp": 2.5,
+   "opp_rank": 12
+  },
+  {
+   "label": "Takeaways Per Game",
+   "key": "tk",
+   "higher_better": true,
+   "group": "Defense",
+   "pit": 1.67,
+   "pit_rank": 5,
+   "opp": 1.5,
+   "opp_rank": 10
+  },
+  {
+   "label": "Turnover Margin",
+   "key": "tomargin",
+   "higher_better": true,
+   "group": "Other",
+   "pit": 3.0,
+   "pit_rank": 9,
+   "opp": -3.0,
+   "opp_rank": 22
+  },
+  {
+   "label": "Penalty Yards Per Game",
+   "key": "pen",
+   "higher_better": false,
+   "group": "Other",
+   "pit": 51.7,
+   "pit_rank": 9,
+   "opp": 44.3,
+   "opp_rank": 2
+  }
+ ],
+ "keys": [
+  {
+   "id": "ball",
+   "title": "Win the turnover battle",
+   "why": "Pittsburgh takes the ball away 1.67 times a game (5th); the Saints give it away 2.00 times (28th). Extra possessions could decide it.",
+   "score": 56
+  },
+  {
+   "id": "protect",
+   "title": "Keep the quarterback clean",
+   "why": "The Saints average 2.50 sacks a game (12th); Pittsburgh allows 3.17 (28th). Quick throws and solid protection matter.",
+   "score": 45
+  },
+  {
+   "id": "run",
+   "title": "Lean on the run game",
+   "why": "Pittsburgh runs for 99.2 yards a game (20th), and the Saints give up 138.0 on the ground (30th). Staying with the run keeps the offense on schedule.",
+   "score": 43
+  }
+ ],
+ "matchups": [
+  {
+   "score": 30.333333333333336,
+   "title": "Jaylen Warren vs. the Saints' run defense",
+   "why": "Jaylen Warren carries the Steelers' ground game into a run defense that has had its problems.",
+   "stats": [
+    "Jaylen Warren: 84 carries, 460 yds (5.5 per carry)",
+    "NO allows 138.0 rush yds/game (30th), 4.79 per carry"
+   ]
+  },
+  {
+   "score": 25.866666666666667,
+   "title": "Chris Olave vs. the Steelers' secondary",
+   "why": "Chris Olave is the Saints' go-to target; slowing him down is job one for the back end.",
+   "stats": [
+    "Chris Olave: 43 catches, 580 yds, 2 TD (2nd in rec yds among WR/TE)",
+    "PIT allows 204.3 pass yds/game (8th)"
+   ]
+  },
+  {
+   "score": 23.5,
+   "title": "Chase Young vs. the Steelers' offensive line",
+   "why": "Chase Young is the Saints' top pass rusher; Pittsburgh's line has to keep him away from the quarterback.",
+   "stats": [
+    "Chase Young: 5.5 sacks (3rd in NFL), 9 QB hits",
+    "PIT allows 3.17 sacks/game (28th)"
+   ]
+  }
+ ],
+ "picks": {
+  "checked": "2026-10-19T17:36:04.492385+00:00",
+  "items": [],
+  "items_all": [],
+  "cbs_consensus": null,
+  "searched": 70
+ },
+ "source": "Data: nflverse (CC-BY 4.0)",
+ "source_url": "https://github.com/nflverse/nflverse-data",
+ "note": "Stats and ranks: nflverse (CC-BY 4.0), regular season per game, ranked 1-32 (1 = best; ties share a rank). Keys and matchups are generated from these numbers each build. Pundit picks show only each expert's pick, with a link to the original source."
+}
