@@ -1,18 +1,20 @@
 # Steelers News
 
-_Generated 2026-10-19T02:44:22+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T02:43:18+00:00._
+_Generated 2026-10-19T02:55:08+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T02:54:26+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Rodgers throws two TDs to tie Peyton on all-time list, lifts Steelers to OT win](https://www.espn.com/nfl/story/_/id/50213488/aaron-rodgers-ties-peyton-manning-all-td-pass-list): ESPN, 2026-10-19 03:45 UTC
 - [NFL says Steelers-Saints in Paris still on despite civil unrest in France](https://www.espn.com/nfl/story/_/id/50211207/nfl-says-steelers-saints-game-paris-amid-unrest): ESPN, 2026-10-19 02:41 UTC
-- [Rodgers throws two TDs to tie Peyton on all-time list, lifts Steelers to OT win](https://www.espn.com/nfl/story/_/id/50213488/aaron-rodgers-ties-peyton-manning-all-td-pass-list): ESPN, 2026-10-19 02:40 UTC
 - [Is this what the Steelers offense will look like against every quality defense?](https://www.nytimes.com/athletic/7703226/2026/10/18/pittsburgh-steelers-offensive-struggles-bucs-win/): The Athletic, 2026-10-19 01:30 UTC
 - [The NFL says the Steelers’ game in Paris is still on despite civil unrest](https://www.post-gazette.com/sports/steelers/2026/10/18/nfl-steelers-saints-game-paris-civil-unrest-france/stories/202610180091): Pittsburgh Post-Gazette, 2026-10-19 01:14 UTC
 - [From the Press Room: Steelers at Buccaneers](https://www.steelers.com/news/from-the-press-room-steelers-at-buccaneers): Steelers.com (official), 2026-10-19 00:40 UTC
 - [Steelers rookie Germie Bernard makes up for an early mistake by catching the OT winner](https://www.post-gazette.com/sports/steelers/2026/10/18/germie-bernard-overtime-touchdown-steelers/stories/202610180076): Pittsburgh Post-Gazette, 2026-10-19 00:18 UTC
 - [Mike McCarthy Gave A Direct Message To Steelers' Aaron Rodgers And The Offense](https://www.steelernation.com/2026/10/18/steelers-mike-mccarthy-direct-aaron-rodgers): SteelerNation, 2026-10-19 00:18 UTC
+- [Steelers kicker Chris Boswell breaks franchise record for career field goals](https://triblive.com/sports/steelers-kicker-chris-boswell-breaks-franchise-record-for-career-field-goals/): TribLive, 2026-10-19 00:13 UTC
 - [NFL Week 6 grades for every team that played so far: Browns, Steelers earn high marks, Colts get 'F'](https://www.cbssports.com/nfl/news/nfl-grades-week-6-browns-ravens-afc-colts-2026/): CBS Sports, 2026-10-19 00:04 UTC
 - [Germie Bernard Breaks Steelers Record in Win over Bucs](https://steelersnow.com/germie-bernard-breaks-steelers-record-in-win-over-bucs/): Steelers Now, 2026-10-19 00:03 UTC
 - [AFC North Week 6 Standings: Browns Retake Division Lead As Race Heats Up](https://steelersdepot.com/2026/10/afc-north-week-6-standings-browns-retake-division-lead-as-race-heats-up/): Steelers Depot, 2026-10-19 00:00 UTC
+- [‘He’s from Pittsburgh, so he toughed it out’: Steelers coach Mike McCarthy misses halftime with foot injury](https://triblive.com/sports/hes-from-pittsburgh-so-he-toughed-it-out-steelers-coach-mike-mccarthy-misses-halftime-with-foot-injury/): TribLive, 2026-10-18 23:53 UTC
 - [Steelers' Aaron Rodgers Makes Definitive Statement After Buccaneers Win](https://www.steelernation.com/2026/10/18/steelers-aaron-rodgers-definitive-statement): SteelerNation, 2026-10-18 23:51 UTC
 - [Mike McCarthy Sends Strong Message To Steelers Fan Base Following Week 6 WIn](https://www.steelernation.com/2026/10/18/steelers-mike-mccarthy-strong-fan): SteelerNation, 2026-10-18 23:50 UTC
 - [‘I Look At It As A Positive’: Germie Bernard Learning From Fourth-Down Mistake](https://steelersdepot.com/2026/10/i-look-at-it-as-a-positive-germie-bernard-learning-from-fourth-down-mistake/): Steelers Depot, 2026-10-18 23:45 UTC
@@ -46,6 +48,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Aaron Rodgers Rips Into Steelers Rookie Germie Bernard Despite Another Great Game](https://www.steelernation.com/2026/10/18/steelers-aaron-rodgers-germie-bernard-great): SteelerNation, 2026-10-18 22:04 UTC
 - [Steelers Open As Slight Favorites In Paris Game](https://steelersdepot.com/2026/10/steelers-open-as-slight-favorites-for-paris-game/): Steelers Depot, 2026-10-18 22:00 UTC
 - [Germie Bernard's breakout gives the struggling Steelers offense new hope](https://stillcurtain.com/germie-bernard-breakout-gives-pittsburgh-steelers-struggling-offense-new-hope-01m58dc7ekqg?utm_source=RSS): Still Curtain, 2026-10-18 22:00 UTC
+- [Feats of Strength: Fourth quarter awakening, Chris Boswell’s return to form save Steelers in Tampa Bay](https://triblive.com/sports/feats-of-strength-fourth-quarter-awakening-chris-boswells-return-to-form-save-steelers-in-tampa-bay/): TribLive, 2026-10-18 21:57 UTC
 - [Mike McCarthy Defends Controversial Clock Management Decisions](https://steelersdepot.com/2026/10/mike-mccarthy-defends-controversial-clock-management-decisions/): Steelers Depot, 2026-10-18 21:56 UTC
 - [‘One Of The Worst Surfaces In The League’: Aaron Rodgers Blasts Tampa Bay’s Field](https://steelersdepot.com/2026/10/one-of-the-worst-surfaces-in-the-league-aaron-rodgers-blasts-tampa-bays-field/): Steelers Depot, 2026-10-18 21:55 UTC
 - [Mike McCarthy Opens Up on Clock Management Issues](https://steelersnow.com/mike-mccarthy-opens-up-on-major-mistake-vs-bucs/): Steelers Now, 2026-10-18 21:52 UTC
@@ -70,6 +73,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Rapid Reaction: Steelers 26, Buccaneers 19](https://www.buccaneers.com/news/bucs-lose-pittsburgh-steelers-overtime-week-6-2026-score-26-19): Tampa Bay Buccaneers, 2026-10-18 20:50 UTC
 - [Steelers Complete Wild Comeback, Beat Bucs in OT, 26-19](https://steelersnow.com/steelers-complete-wild-comeback-beat-bucs-in-ot-26-19/): Steelers Now, 2026-10-18 20:47 UTC
 - [Steelers rally past Buccaneers, 26-19, in overtime](https://www.steelers.com/news/steelers-rally-past-buccaneers-26-19-in-overtime): Steelers.com (official), 2026-10-18 20:44 UTC
+- [Aaron Rodgers rallies Steelers back from 13-point deficit to beat Bucs in overtime](https://triblive.com/sports/aaron-rodgers-rallies-steelers-back-from-16-point-deficit-to-beat-bucs-in-overtime/): TribLive, 2026-10-18 20:44 UTC
 - [The Steelers got punched in the mouth by the Buccaneers -- then their real football character showed](https://www.pennlive.com/steelers/2026/10/the-steelers-got-punched-in-the-mouth-by-the-buccaneers-then-their-real-football-character-showed.html): PennLive (Nick Farabaugh), 2026-10-18 20:44 UTC
 - [Steelers Rookie Germie Bernard Makes History vs. Buccaneers](https://steelersnow.com/steelers-rookie-germie-bernard-makes-history-vs-buccaneers/): Steelers Now, 2026-10-18 19:58 UTC
 - [Chris Boswell Breaks Steelers Record](https://steelersnow.com/chris-boswell-breaks-steelers-record/): Steelers Now, 2026-10-18 19:45 UTC
@@ -149,10 +153,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [DK Metcalf (illness) joins 4 other Steelers starters listed as questionable to play vs. Bucs](https://triblive.com/sports/dk-metcalf-illness-joins-4-other-steelers-starters-listed-as-questionable-to-play-vs-bucs/): TribLive, 2026-10-16 21:43 UTC
 - [Keeanu Benton’s injury puts Steelers' defense at risk vs. Buccaneers](https://stillcurtain.com/keeanu-benton-s-injury-puts-pittsburgh-steelers-defense-at-risk-vs-buccaneers-01m52fp2j0cv?utm_source=RSS): Still Curtain, 2026-10-16 21:06 UTC
 - [The Steelers rule out DeShon Elliott, list DK Metcalf as questionable for Sunday](https://www.post-gazette.com/sports/steelers/2026/10/16/steelers-injury-news-week-6/stories/202610160033): Pittsburgh Post-Gazette, 2026-10-16 20:00 UTC
-- [Week 6 Blog: Time to stack them](https://www.steelers.com/news/week-6-blog-time-to-start-stacking): Steelers.com (official), 2026-10-16 20:00 UTC
-- [DK Metcalf is questionable, and the Steelers passing game can’t afford the loss](https://stillcurtain.com/pittsburgh-steelers-buccaneers-week-5-injury-report-friday?utm_source=RSS): Still Curtain, 2026-10-16 19:36 UTC
-- [Steelers WR Depth Gets Even Worse With DK Metcalf News](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-wide-receiver-depth-worse-dk-metcalf-news): All Steelers (Sports Illustrated), 2026-10-16 19:11 UTC
-- [Adapting on the fly](https://www.steelers.com/news/adapting-on-the-fly): Steelers.com (official), 2026-10-16 18:30 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

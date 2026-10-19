@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-19T02:44:22.178909+00:00",
+ "last_run": "2026-10-19T02:55:08.431578+00:00",
  "results": [
   {
    "fetcher": "apply_grade_edits.py",
@@ -10,7 +10,7 @@
   {
    "fetcher": "fetch_news.py",
    "ok": true,
-   "seconds": 2.1,
+   "seconds": 2.2,
    "last_line": "news: 150 ticker: 30"
   },
   {
@@ -34,14 +34,14 @@
   {
    "fetcher": "fetch_film.py",
    "ok": true,
-   "seconds": 35.2,
+   "seconds": 19.0,
    "last_line": "  Week 1 vs Falcons (W 20-13): 4   {'Steelers Depot Film Room (Alex Kozora)': 1, \"Derrick Bell \u2013 DB's Film Room (Steelers Now)\": 1, 'Steelers Almighty': 1, 'Steelers Depot (YouTube)': 1}"
   },
   {
    "fetcher": "fetch_podcasts.py",
    "ok": true,
-   "seconds": 18.0,
-   "last_line": "episodes past 7 days: 185 | embed-fallback channels: 1"
+   "seconds": 12.2,
+   "last_line": "episodes past 7 days: 185 | embed-fallback channels: 0"
   },
   {
    "fetcher": "fetch_featured.py",
@@ -76,7 +76,7 @@
   {
    "fetcher": "fetch_needs.py",
    "ok": true,
-   "seconds": 0.0,
+   "seconds": 0.1,
    "last_line": " 23.7 WR   ['named in 8 recent headlines about Steelers needs']"
   },
   {
@@ -88,7 +88,7 @@
   {
    "fetcher": "fetch_draft_hub.py",
    "ok": true,
-   "seconds": 0.3,
+   "seconds": 0.1,
    "last_line": "hub needs 5 history 452 class 2026 10 PIT picks [{'round': 1, 'overall': 23}, {'round': 2, 'overall': 55}]"
   },
   {
@@ -100,13 +100,13 @@
   {
    "fetcher": "fetch_hub.py",
    "ok": true,
-   "seconds": 0.0,
-   "last_line": "hub fresh (<30 min); skipped"
+   "seconds": 0.4,
+   "last_line": "injuries 16 practice 6 opp NO"
   },
   {
    "fetcher": "fetch_depth.py",
    "ok": true,
-   "seconds": 2.0,
+   "seconds": 2.1,
    "last_line": "depth units [('Offense', '3WR 1TE', 12), ('Defense', 'Base 3-4 D', 12), ('Special teams', 'Special Teams', 6)]"
   },
   {
@@ -118,7 +118,7 @@
   {
    "fetcher": "fetch_rumors.py",
    "ok": false,
-   "seconds": 2.9,
+   "seconds": 2.6,
    "last_line": "AttributeError: module 'urllib' has no attribute 'urlparse'"
   },
   {
@@ -130,7 +130,7 @@
   {
    "fetcher": "fetch_history.py",
    "ok": true,
-   "seconds": 0.1,
+   "seconds": 0.0,
    "last_line": "history fresh; skipped"
   },
   {
