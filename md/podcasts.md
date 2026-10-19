@@ -1,8 +1,12 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-19T22:06:17+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T22:06:01+00:00._
+_Generated 2026-10-19T22:42:29+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T22:42:13+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Video: [Will Bernard Breakout Blow Up WR Plans? | Steelers Afternoon Drive](https://www.youtube.com/watch?v=7KJmrLW9OyQ): Steelers Now, 2026-10-19 22:34 UTC
+- Video: [Jaquan Brisker, Jack Sawyer & Payton Wilson Press Conference (October 19) | Pittsburgh Steelers](https://www.youtube.com/watch?v=eZZ5tuTJolA): Pittsburgh Steelers (official), 2026-10-19 22:20 UTC
+- Podcast: [DK's Double Shot of Steelers: Credit to this defense](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-double-shot-of-steelers-credit-to-this-defense/): DK Pittsburgh Sports, 2026-10-19 22:15 UTC
+- Podcast: [DK's Double Shot of Penguins: A little heat?](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-double-shot-of-penguins-a-little-heat/): DK Pittsburgh Sports, 2026-10-19 22:03 UTC
 - Podcast: [Pittsburgh Steelers vs Tampa Bay Buccaneers Week 6 Game Recap/Phone Lines](https://arthurmoats55.libsyn.com/the_arthur_moats_experience__ep_779__live___steelers_vs_bucs_recap_phone_lines_mp3): The Arthur Moats Experience, 2026-10-19 21:56 UTC
 - Video: [DK Metcalf Came Up HUGE in the Steelers OT Win Over the Bucs 🔥 #dkmetcalf #steelers #nfl](https://www.youtube.com/shorts/LPBp6gROjcU): Locked On Steelers, 2026-10-19 21:54 UTC
 - Podcast: [Steelers Battling Over Trade | What's Different About This Team?](https://bleav.com/shows/all-steelers-talk/episodes/steelers-battling-over-trade-whats-different-about-this-team/): All Steelers Talk, 2026-10-19 21:35 UTC
@@ -47,7 +51,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [RAMSEY CALLED GAME 😤 📺: CBS](https://www.youtube.com/shorts/2y1WtqDK8GE): Pittsburgh Steelers (official), 2026-10-18 20:56 UTC
 - Video: [GERM TD‼️‼️‼️ 📺: CBS](https://www.youtube.com/shorts/AcVf8dLmT3w): Pittsburgh Steelers (official), 2026-10-18 20:40 UTC
 - Video: [DON'T MAKE A SCENE ‼️📺: CBS](https://www.youtube.com/shorts/YB07IX8LGZw): Pittsburgh Steelers (official), 2026-10-18 20:38 UTC
-- Video: [MOST FIELD GOALS MADE IN STEELERS HISTORY ‼️ 📺: CBS](https://www.youtube.com/shorts/sPZ5fXU7IrA): Pittsburgh Steelers (official), 2026-10-18 19:48 UTC
 - Podcast: [The Terrible Take - Episode 2054 - October 18, 2026](https://megaphone.link/SDP9521387232): The Terrible Podcast (Steelers Depot), 2026-10-18 14:34 UTC
 - Podcast: [Steelers vs. Bucs Bold Predictions](https://bleav.com/shows/all-steelers-talk/episodes/steelers-vs-bucs-bold-predictions/): All Steelers Talk, 2026-10-18 12:35 UTC
 - Podcast: [DK's Live Shot of Steelers: Pregame vs. Buccaneers](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-live-shot-of-steelers-pregame-vs-buccaneers/): DK Pittsburgh Sports, 2026-10-18 01:37 UTC
@@ -87,7 +90,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [SCB Steelers Podcast 494 - Galloping Away](https://scblitz.podbean.com/e/scb-steelers-podcast-494-galloping-away/): Steel City Blitz, 2026-10-16 03:32 UTC
 - Podcast: [DK's Double Shot of Penguins: Power-play change?](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-double-shot-of-penguins-power-play-change/): DK Pittsburgh Sports, 2026-10-15 22:49 UTC
 - Podcast: [DK’s Double Shot of Steelers: Take Tampa seriously?](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-double-shot-of-steelers-take-tampa-seriously/): DK Pittsburgh Sports, 2026-10-15 22:06 UTC
-- Video: [Worried About Rookie Roles? | Steelers Afternoon Drive](https://www.youtube.com/watch?v=w-ONagX63lc): Steelers Now, 2026-10-15 21:56 UTC
 - Video: [Steelers' Mike McCarthy Must Solve WR Separation Issue w/DK Metcalf, Germie Bernard vs Buccaneers](https://www.youtube.com/shorts/FJtbyDhy-5k): Locked On Steelers, 2026-10-15 21:53 UTC
 - Podcast: [Steelers Injuries: Good News, Bad News, IR Coming?](https://bleav.com/shows/all-steelers-talk/episodes/steelers-injuries-good-news-bad-news-ir-coming/): All Steelers Talk, 2026-10-15 21:11 UTC
 - Podcast: [The Terrible Take - Episode 2051 - October 15, 2026](https://megaphone.link/SDP5253318668): The Terrible Podcast (Steelers Depot), 2026-10-15 21:00 UTC
@@ -155,9 +157,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [DK's Daily Shot of Pirates: Pay more to more players](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-pirates-pay-more-to-more-players/): DK Pittsburgh Sports, 2026-10-13 06:08 UTC
 - Podcast: [Scout’s Eye with Matt Williamson: Exceptional red zone defense](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/scouts-eye-with-matt-williamson-exceptional-red-zone-defense/): DK Pittsburgh Sports, 2026-10-13 06:07 UTC
 - Podcast: [Steelers Offense Shines, But Can They Keep It Up? | Illegal Hands to the Face](https://redcircle.com/shows/62750d24-c3c9-4be8-919a-ff22b312fb19/episodes/d66fe140-8bb4-471a-8502-fe09f5d0ff25): Still Curtain Podcast, 2026-10-13 01:00 UTC
-- Video: [Steelers DC Patrick Graham Brings Energy by Switch to Sideline, Hypes Up Defense for Better Results](https://www.youtube.com/shorts/tgQmzSNbkNs): Locked On Steelers, 2026-10-12 22:41 UTC
-- Podcast: [DK's Double Shot of Steelers: Elandon Roberts returns!](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-double-shot-of-steelers-elandon-roberts-returns/): DK Pittsburgh Sports, 2026-10-12 22:13 UTC
-- Podcast: [DK's Double Shot of Penguins: Andrei Kuzmenko’s role?](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-double-shot-of-penguins-andrei-kuzmenkos-role/): DK Pittsburgh Sports, 2026-10-12 22:11 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

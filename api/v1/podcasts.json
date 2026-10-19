@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-19T22:06:17+00:00",
- "data_updated": "2026-10-19T22:06:01+00:00",
- "count": 155,
+ "generated": "2026-10-19T22:42:29+00:00",
+ "data_updated": "2026-10-19T22:42:13+00:00",
+ "count": 154,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -19,6 +19,58 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/podcasts",
  "items": [
+  {
+   "id": "10c5412234c910c2",
+   "type": "video",
+   "title": "Will Bernard Breakout Blow Up WR Plans? | Steelers Afternoon Drive",
+   "show": "Steelers Now",
+   "url": "https://www.youtube.com/watch?v=7KJmrLW9OyQ",
+   "published": "2026-10-19T22:34:51+00:00",
+   "summary": "Video from Steelers Now.",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   }
+  },
+  {
+   "id": "25dccf6a628a3aac",
+   "type": "video",
+   "title": "Jaquan Brisker, Jack Sawyer & Payton Wilson Press Conference (October 19) | Pittsburgh Steelers",
+   "show": "Pittsburgh Steelers (official)",
+   "url": "https://www.youtube.com/watch?v=eZZ5tuTJolA",
+   "published": "2026-10-19T22:20:50+00:00",
+   "summary": "Video from Pittsburgh Steelers (official).",
+   "source": {
+    "name": "Pittsburgh Steelers (official)",
+    "url": null
+   }
+  },
+  {
+   "id": "cbe634f4da63b01a",
+   "type": "podcast_episode",
+   "title": "DK's Double Shot of Steelers: Credit to this defense",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-double-shot-of-steelers-credit-to-this-defense/",
+   "published": "2026-10-19T22:15:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
+    "url": null
+   }
+  },
+  {
+   "id": "9af77d4cf06d8b3c",
+   "type": "podcast_episode",
+   "title": "DK's Double Shot of Penguins: A little heat?",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-double-shot-of-penguins-a-little-heat/",
+   "published": "2026-10-19T22:03:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
+    "url": null
+   }
+  },
   {
    "id": "dc425481a81ae6a2",
    "type": "podcast_episode",
@@ -592,19 +644,6 @@
    }
   },
   {
-   "id": "d235c48465c341e7",
-   "type": "video",
-   "title": "MOST FIELD GOALS MADE IN STEELERS HISTORY ‼️ 📺: CBS",
-   "show": "Pittsburgh Steelers (official)",
-   "url": "https://www.youtube.com/shorts/sPZ5fXU7IrA",
-   "published": "2026-10-18T19:48:45+00:00",
-   "summary": "Video from Pittsburgh Steelers (official).",
-   "source": {
-    "name": "Pittsburgh Steelers (official)",
-    "url": null
-   }
-  },
-  {
    "id": "96621dc0fcdfd1a8",
    "type": "podcast_episode",
    "title": "The Terrible Take - Episode 2054 - October 18, 2026",
@@ -1108,19 +1147,6 @@
    "summary": "Podcast episode from DK Pittsburgh Sports.",
    "source": {
     "name": "DK Pittsburgh Sports",
-    "url": null
-   }
-  },
-  {
-   "id": "992e954c58ab0654",
-   "type": "video",
-   "title": "Worried About Rookie Roles? | Steelers Afternoon Drive",
-   "show": "Steelers Now",
-   "url": "https://www.youtube.com/watch?v=w-ONagX63lc",
-   "published": "2026-10-15T21:56:57+00:00",
-   "summary": "Video from Steelers Now.",
-   "source": {
-    "name": "Steelers Now",
     "url": null
    }
   },
@@ -1992,45 +2018,6 @@
    "summary": "Podcast episode from Still Curtain Podcast.",
    "source": {
     "name": "Still Curtain Podcast",
-    "url": null
-   }
-  },
-  {
-   "id": "50783899eed99125",
-   "type": "video",
-   "title": "Steelers DC Patrick Graham Brings Energy by Switch to Sideline, Hypes Up Defense for Better Results",
-   "show": "Locked On Steelers",
-   "url": "https://www.youtube.com/shorts/tgQmzSNbkNs",
-   "published": "2026-10-12T22:41:57+00:00",
-   "summary": "Video from Locked On Steelers.",
-   "source": {
-    "name": "Locked On Steelers",
-    "url": null
-   }
-  },
-  {
-   "id": "e21def254988b9ea",
-   "type": "podcast_episode",
-   "title": "DK's Double Shot of Steelers: Elandon Roberts returns!",
-   "show": "DK Pittsburgh Sports",
-   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-double-shot-of-steelers-elandon-roberts-returns/",
-   "published": "2026-10-12T22:13:00+00:00",
-   "summary": "Podcast episode from DK Pittsburgh Sports.",
-   "source": {
-    "name": "DK Pittsburgh Sports",
-    "url": null
-   }
-  },
-  {
-   "id": "ce3fba0e2550e01a",
-   "type": "podcast_episode",
-   "title": "DK's Double Shot of Penguins: Andrei Kuzmenko’s role?",
-   "show": "DK Pittsburgh Sports",
-   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-double-shot-of-penguins-andrei-kuzmenkos-role/",
-   "published": "2026-10-12T22:11:00+00:00",
-   "summary": "Podcast episode from DK Pittsburgh Sports.",
-   "source": {
-    "name": "DK Pittsburgh Sports",
     "url": null
    }
   }
