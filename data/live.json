@@ -1,21 +1,21 @@
 {
- "generated": "2026-10-18T18:53:38.764793+00:00",
- "event_id": "401873002",
- "window": true,
- "state": "in",
- "detail": "In progress. Live scores aren't in our free data yet; the final score posts after the game.",
- "completed": false,
+ "generated": "2026-10-19T01:48:22.386276+00:00",
+ "event_id": "401872985",
+ "window": false,
+ "state": "post",
+ "detail": "Final",
+ "completed": true,
  "teams": [
   {
-   "abbr": "PIT",
-   "name": "Steelers",
-   "score": null,
+   "abbr": "IND",
+   "name": "Colts",
+   "score": "22",
    "homeAway": "away"
   },
   {
-   "abbr": "TB",
-   "name": "Buccaneers",
-   "score": null,
+   "abbr": "PIT",
+   "name": "Steelers",
+   "score": "34",
    "homeAway": "home"
   }
  ],

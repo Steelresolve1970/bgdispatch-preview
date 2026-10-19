@@ -1,9 +1,9 @@
 {
- "week": 5,
- "game": "vs Indianapolis Colts",
- "date": "2026-10-11T17:00Z",
- "score": "34-22",
- "voting_closes": "2026-10-18T17:00Z",
+ "week": 6,
+ "game": "at Tampa Bay Buccaneers",
+ "date": "2026-10-18T17:00Z",
+ "score": "26-19",
+ "voting_closes": "2026-10-25T13:30Z",
  "groups": [
   "QB",
   "RB",
@@ -22,11 +22,6 @@
    "group": "QB"
   },
   {
-   "name": "Mason Rudolph",
-   "pos": "QB",
-   "group": "QB"
-  },
-  {
    "name": "Jaylen Warren",
    "pos": "RB",
    "group": "RB"
@@ -37,14 +32,19 @@
    "group": "RB"
   },
   {
+   "name": "Rico Dowdle",
+   "pos": "RB",
+   "group": "RB"
+  },
+  {
    "name": "Riley Nowakowski",
    "pos": "FB",
    "group": "RB"
   },
   {
-   "name": "Ben Skowronek",
-   "pos": "WR",
-   "group": "WR"
+   "name": "Travis Homer",
+   "pos": "RB",
+   "group": "RB"
   },
   {
    "name": "Brandon Smith",
@@ -62,11 +62,6 @@
    "group": "WR"
   },
   {
-   "name": "Roman Wilson",
-   "pos": "WR",
-   "group": "WR"
-  },
-  {
    "name": "Darnell Washington",
    "pos": "TE",
    "group": "TE"
@@ -77,13 +72,13 @@
    "group": "TE"
   },
   {
-   "name": "Robert Tonyan",
-   "pos": "TE",
-   "group": "TE"
-  },
-  {
    "name": "Brock Hoffman",
    "pos": "C",
+   "group": "OL"
+  },
+  {
+   "name": "Dylan Cook",
+   "pos": "T",
    "group": "OL"
   },
   {
@@ -94,6 +89,16 @@
   {
    "name": "Max Iheanachor",
    "pos": "T",
+   "group": "OL"
+  },
+  {
+   "name": "Ryan McCollum",
+   "pos": "C",
+   "group": "OL"
+  },
+  {
+   "name": "Spencer Anderson",
+   "pos": "G",
    "group": "OL"
   },
   {
@@ -113,11 +118,6 @@
   },
   {
    "name": "Gabe Rubio",
-   "pos": "DE",
-   "group": "DL"
-  },
-  {
-   "name": "Gabriel Rubio",
    "pos": "DE",
    "group": "DL"
   },
@@ -143,11 +143,6 @@
   },
   {
    "name": "Carson Bruener",
-   "pos": "ILB",
-   "group": "LB"
-  },
-  {
-   "name": "Cole Holcomb",
    "pos": "ILB",
    "group": "LB"
   },
@@ -182,11 +177,6 @@
    "group": "DB"
   },
   {
-   "name": "Brandin Echols",
-   "pos": "CB",
-   "group": "DB"
-  },
-  {
    "name": "Daylen Everette",
    "pos": "CB",
    "group": "DB"
@@ -198,6 +188,11 @@
   },
   {
    "name": "Jalen Ramsey",
+   "pos": "CB",
+   "group": "DB"
+  },
+  {
+   "name": "Jamel Dean",
    "pos": "CB",
    "group": "DB"
   },

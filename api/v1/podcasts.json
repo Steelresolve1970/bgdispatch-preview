@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-18T18:53:38+00:00",
- "data_updated": "2026-10-18T18:53:29+00:00",
- "count": 156,
+ "generated": "2026-10-19T01:48:22+00:00",
+ "data_updated": "2026-10-19T01:48:04+00:00",
+ "count": 155,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -19,6 +19,84 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/podcasts",
  "items": [
+  {
+   "id": "472092569f2cc741",
+   "type": "podcast_episode",
+   "title": "Scout’s Eye with Matt Williamson: Late domination",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/scouts-eye-with-matt-williamson-late-domination/",
+   "published": "2026-10-19T00:14:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
+    "url": null
+   }
+  },
+  {
+   "id": "50327394adeb9940",
+   "type": "podcast_episode",
+   "title": "STEELERS SQUAD SHOW: McCarthy ROLLS Ankle, Steelers Big COMEBACK Leads To 1st Road Win In OT",
+   "show": "Locked On Steelers",
+   "url": "https://lockedonpodcasts.com/podcasts/locked-on-steelers/",
+   "published": "2026-10-18T22:38:37+00:00",
+   "summary": "Podcast episode from Locked On Steelers.",
+   "source": {
+    "name": "Locked On Steelers",
+    "url": null
+   }
+  },
+  {
+   "id": "7f6f7ad3e2f7c5b1",
+   "type": "podcast_episode",
+   "title": "Steelers Beat Bucs in OT! WILD GAME",
+   "show": "All Steelers Talk",
+   "url": "https://bleav.com/shows/all-steelers-talk/episodes/steelers-beat-bucs-in-ot-wild-game/",
+   "published": "2026-10-18T22:23:00+00:00",
+   "summary": "Podcast episode from All Steelers Talk.",
+   "source": {
+    "name": "All Steelers Talk",
+    "url": null
+   }
+  },
+  {
+   "id": "5e80448f1c0c2df2",
+   "type": "podcast_episode",
+   "title": "SCN Post-Game Show: The Jekyll and Hyde Steelers beat Tampa Bay in OT",
+   "show": "Steel Curtain Network (BTSC)",
+   "url": "http://steelcurtainnetwork.com",
+   "published": "2026-10-18T22:17:00+00:00",
+   "summary": "Podcast episode from Steel Curtain Network (BTSC).",
+   "source": {
+    "name": "Steel Curtain Network (BTSC)",
+    "url": null
+   }
+  },
+  {
+   "id": "386bb39c65b12503",
+   "type": "podcast_episode",
+   "title": "DK’s Live Shot of Steelers: Postgame vs. Buccaneers",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-live-shot-of-steelers-postgame-vs-buccaneers/",
+   "published": "2026-10-18T22:08:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
+    "url": null
+   }
+  },
+  {
+   "id": "6df18b1011a12b70",
+   "type": "video",
+   "title": "Steelers vs Bucs Post Game Show LIVE | Not Just Football",
+   "show": "Not Just Football with Cam Heyward",
+   "url": "https://www.youtube.com/watch?v=GGODe0hKQXk",
+   "published": "2026-10-18T22:03:57+00:00",
+   "summary": "Video from Not Just Football with Cam Heyward.",
+   "source": {
+    "name": "Not Just Football with Cam Heyward",
+    "url": null
+   }
+  },
   {
    "id": "f1f0e27bcaec6853",
    "type": "video",
@@ -81,19 +159,6 @@
    "summary": "Podcast episode from All Steelers Talk.",
    "source": {
     "name": "All Steelers Talk",
-    "url": null
-   }
-  },
-  {
-   "id": "5e80448f1c0c2df2",
-   "type": "podcast_episode",
-   "title": "Last Minute Thoughts: Black and Bold, Week 6 vs. Tampa Bay",
-   "show": "Steel Curtain Network (BTSC)",
-   "url": "http://steelcurtainnetwork.com",
-   "published": "2026-10-18T08:00:00+00:00",
-   "summary": "Podcast episode from Steel Curtain Network (BTSC).",
-   "source": {
-    "name": "Steel Curtain Network (BTSC)",
     "url": null
    }
   },
@@ -664,19 +729,6 @@
    "url": "https://www.youtube.com/watch?v=N1WprZaEpWI",
    "published": "2026-10-16T05:00:10+00:00",
    "summary": "Video from Locked On Steelers.",
-   "source": {
-    "name": "Locked On Steelers",
-    "url": null
-   }
-  },
-  {
-   "id": "50327394adeb9940",
-   "type": "podcast_episode",
-   "title": "Steelers Need Mike McCarthy to Overcome Lack of Separation of WRs DK Metcalf, Germie Bernard",
-   "show": "Locked On Steelers",
-   "url": "https://lockedonpodcasts.com/podcasts/locked-on-steelers/",
-   "published": "2026-10-16T04:30:00+00:00",
-   "summary": "Podcast episode from Locked On Steelers.",
    "source": {
     "name": "Locked On Steelers",
     "url": null
@@ -1979,71 +2031,6 @@
    "summary": "Podcast episode from DK Pittsburgh Sports.",
    "source": {
     "name": "DK Pittsburgh Sports",
-    "url": null
-   }
-  },
-  {
-   "id": "6f99a50b0d43581e",
-   "type": "podcast_episode",
-   "title": "DK’s Live Shot of Steelers: Postgame vs. Colts",
-   "show": "DK Pittsburgh Sports",
-   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-live-shot-of-steelers-postgame-vs-colts/",
-   "published": "2026-10-12T01:26:00+00:00",
-   "summary": "Podcast episode from DK Pittsburgh Sports.",
-   "source": {
-    "name": "DK Pittsburgh Sports",
-    "url": null
-   }
-  },
-  {
-   "id": "b00f3ac8536ffac9",
-   "type": "video",
-   "title": "Steelers Get Jaylen Warren, Pat Freiermuth to Run Loose as they Overpower Colts 34-22",
-   "show": "Locked On Steelers",
-   "url": "https://www.youtube.com/shorts/AJ9vUUrDIMI",
-   "published": "2026-10-11T22:40:31+00:00",
-   "summary": "Video from Locked On Steelers.",
-   "source": {
-    "name": "Locked On Steelers",
-    "url": null
-   }
-  },
-  {
-   "id": "27e630e12d8946d3",
-   "type": "podcast_episode",
-   "title": "Instant Reaction: Steelers Offense Arrives Against Colts",
-   "show": "All Steelers Talk",
-   "url": "https://bleav.com/shows/all-steelers-talk/episodes/instant-reaction-steelers-offense-arrives-against-colts/",
-   "published": "2026-10-11T21:53:00+00:00",
-   "summary": "Podcast episode from All Steelers Talk.",
-   "source": {
-    "name": "All Steelers Talk",
-    "url": null
-   }
-  },
-  {
-   "id": "d5734f4dd151f605",
-   "type": "video",
-   "title": "Steelers vs Colts Post Game Show LIVE | Not Just Football",
-   "show": "Not Just Football with Cam Heyward",
-   "url": "https://www.youtube.com/watch?v=ztoPoxF9Dt0",
-   "published": "2026-10-11T21:37:33+00:00",
-   "summary": "Video from Not Just Football with Cam Heyward.",
-   "source": {
-    "name": "Not Just Football with Cam Heyward",
-    "url": null
-   }
-  },
-  {
-   "id": "20c5d657d17ee80d",
-   "type": "video",
-   "title": "STEELERS SQUAD SHOW: Colts/Steelers LIVE Reaction! Warren's BIG Game! Progress or SAME OLD Problems?",
-   "show": "Locked On Steelers",
-   "url": "https://www.youtube.com/watch?v=FcsRtBtp0mg",
-   "published": "2026-10-11T21:21:28+00:00",
-   "summary": "Video from Locked On Steelers.",
-   "source": {
-    "name": "Locked On Steelers",
     "url": null
    }
   }

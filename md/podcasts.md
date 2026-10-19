@@ -1,14 +1,19 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-18T18:53:38+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T18:53:29+00:00._
+_Generated 2026-10-19T01:48:22+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T01:48:04+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Podcast: [Scout’s Eye with Matt Williamson: Late domination](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/scouts-eye-with-matt-williamson-late-domination/): DK Pittsburgh Sports, 2026-10-19 00:14 UTC
+- Podcast: [STEELERS SQUAD SHOW: McCarthy ROLLS Ankle, Steelers Big COMEBACK Leads To 1st Road Win In OT](https://lockedonpodcasts.com/podcasts/locked-on-steelers/): Locked On Steelers, 2026-10-18 22:38 UTC
+- Podcast: [Steelers Beat Bucs in OT! WILD GAME](https://bleav.com/shows/all-steelers-talk/episodes/steelers-beat-bucs-in-ot-wild-game/): All Steelers Talk, 2026-10-18 22:23 UTC
+- Podcast: [SCN Post-Game Show: The Jekyll and Hyde Steelers beat Tampa Bay in OT](http://steelcurtainnetwork.com): Steel Curtain Network (BTSC), 2026-10-18 22:17 UTC
+- Podcast: [DK’s Live Shot of Steelers: Postgame vs. Buccaneers](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-live-shot-of-steelers-postgame-vs-buccaneers/): DK Pittsburgh Sports, 2026-10-18 22:08 UTC
+- Video: [Steelers vs Bucs Post Game Show LIVE | Not Just Football](https://www.youtube.com/watch?v=GGODe0hKQXk): Not Just Football with Cam Heyward, 2026-10-18 22:03 UTC
 - Video: [TURN US UP FIVE 🗣️ 📺:CBS](https://www.youtube.com/shorts/Sm_S5DAD-sY): Pittsburgh Steelers (official), 2026-10-18 17:17 UTC
 - Video: [Heatin 🆙 📺: CBS](https://www.youtube.com/shorts/fys6Phve0QE): Pittsburgh Steelers (official), 2026-10-18 16:44 UTC
 - Podcast: [The Terrible Take - Episode 2054 - October 18, 2026](https://megaphone.link/SDP9521387232): The Terrible Podcast (Steelers Depot), 2026-10-18 14:34 UTC
 - Video: [Stepping into Sunday 🔥](https://www.youtube.com/shorts/vm2wFQePVZg): Pittsburgh Steelers (official), 2026-10-18 14:28 UTC
 - Podcast: [Steelers vs. Bucs Bold Predictions](https://bleav.com/shows/all-steelers-talk/episodes/steelers-vs-bucs-bold-predictions/): All Steelers Talk, 2026-10-18 12:35 UTC
-- Podcast: [Last Minute Thoughts: Black and Bold, Week 6 vs. Tampa Bay](http://steelcurtainnetwork.com): Steel Curtain Network (BTSC), 2026-10-18 08:00 UTC
 - Podcast: [DK's Live Shot of Steelers: Pregame vs. Buccaneers](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-live-shot-of-steelers-pregame-vs-buccaneers/): DK Pittsburgh Sports, 2026-10-18 01:37 UTC
 - Video: [E Robb didn’t want to let his teammates down 👏💥#nfl #patriots #falcons](https://www.youtube.com/shorts/bheCQdatp50): Not Just Football with Cam Heyward, 2026-10-17 23:00 UTC
 - Video: [Live from our Road Warrior Rally in Tampa with Casey Hampton 🙌](https://www.youtube.com/shorts/6-WqoVTWAfQ): Pittsburgh Steelers (official), 2026-10-17 22:52 UTC
@@ -53,7 +58,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [DK's Daily Shot of Penguins: Youngsters without fault?](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-penguins-youngsters-without-fault/): DK Pittsburgh Sports, 2026-10-16 05:07 UTC
 - Podcast: [Scout’s Eye with Matt Williamson: Tougher than they look](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/scouts-eye-with-matt-williamson-tougher-than-they-look/): DK Pittsburgh Sports, 2026-10-16 05:06 UTC
 - Video: [Steelers Need Mike McCarthy to Overcome Lack of Separation of WRs DK Metcalf, Germie Bernard](https://www.youtube.com/watch?v=N1WprZaEpWI): Locked On Steelers, 2026-10-16 05:00 UTC
-- Podcast: [Steelers Need Mike McCarthy to Overcome Lack of Separation of WRs DK Metcalf, Germie Bernard](https://lockedonpodcasts.com/podcasts/locked-on-steelers/): Locked On Steelers, 2026-10-16 04:30 UTC
 - Podcast: [SCB Steelers Podcast 494 - Galloping Away](https://scblitz.podbean.com/e/scb-steelers-podcast-494-galloping-away/): Steel City Blitz, 2026-10-16 03:32 UTC
 - Video: [Play Pittsburgh Steeler football...](https://www.youtube.com/shorts/F55KXqcDssY): Pittsburgh Steelers (official), 2026-10-15 23:15 UTC
 - Video: [High praise for Germ 🙌](https://www.youtube.com/shorts/_8SxiwCquxM): Pittsburgh Steelers (official), 2026-10-15 23:07 UTC
@@ -154,11 +158,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [DK's Daily Shot of Penguins: Normalcy on the horizon?](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-penguins-normalcy-on-the-horizon/): DK Pittsburgh Sports, 2026-10-12 05:30 UTC
 - Podcast: [DK's Daily Shot of Pirates: Four things I'd change](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-pirates-four-things-id-change/): DK Pittsburgh Sports, 2026-10-12 05:29 UTC
 - Podcast: [Scout’s Eye with Matt Williamson: Dominating the run game](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/scouts-eye-with-matt-williamson-dominating-the-run-game/): DK Pittsburgh Sports, 2026-10-12 05:28 UTC
-- Podcast: [DK’s Live Shot of Steelers: Postgame vs. Colts](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-live-shot-of-steelers-postgame-vs-colts/): DK Pittsburgh Sports, 2026-10-12 01:26 UTC
-- Video: [Steelers Get Jaylen Warren, Pat Freiermuth to Run Loose as they Overpower Colts 34-22](https://www.youtube.com/shorts/AJ9vUUrDIMI): Locked On Steelers, 2026-10-11 22:40 UTC
-- Podcast: [Instant Reaction: Steelers Offense Arrives Against Colts](https://bleav.com/shows/all-steelers-talk/episodes/instant-reaction-steelers-offense-arrives-against-colts/): All Steelers Talk, 2026-10-11 21:53 UTC
-- Video: [Steelers vs Colts Post Game Show LIVE | Not Just Football](https://www.youtube.com/watch?v=ztoPoxF9Dt0): Not Just Football with Cam Heyward, 2026-10-11 21:37 UTC
-- Video: [STEELERS SQUAD SHOW: Colts/Steelers LIVE Reaction! Warren's BIG Game! Progress or SAME OLD Problems?](https://www.youtube.com/watch?v=FcsRtBtp0mg): Locked On Steelers, 2026-10-11 21:21 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-18T18:53:23.792243+00:00",
+ "generated": "2026-10-19T01:47:10.848663+00:00",
  "game": {
   "label": "at New Orleans Saints (Oct 25)",
   "opponent": "New Orleans Saints",
   "kickoff": "2026-10-25T13:30:00+00:00"
  },
  "window": {
-  "start": "2026-10-11T20:30:00+00:00",
+  "start": "2026-10-18T20:30:00+00:00",
   "end": "2026-10-25T13:30:00+00:00",
   "note": "last game end (kickoff + 3.5h est.) until next kickoff"
  },
@@ -25,7 +25,7 @@
    "url": "https://steelersdepot.com/author/alex-kozora/feed/",
    "status": "ok",
    "feed_items": 20,
-   "in_window": 2
+   "in_window": 0
   },
   {
    "creator": "Still Curtain (Tommy Jaggi All-22)",
@@ -57,7 +57,7 @@
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChaRXjMDs4ppKfnTPE6Z89w",
    "status": "ok",
    "feed_items": 15,
-   "in_window": 1
+   "in_window": 0
   },
   {
    "creator": "Merril Hoge \u2013 Steelers Playbook (steelers.com)",
@@ -87,8 +87,8 @@
    "creator": "Cover 1",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UClL6eJS1s8xmRoYRQbYgxQQ",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
@@ -105,7 +105,7 @@
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgIrOw8M4dNVs-WcMSaZUxA",
    "status": "ok",
    "feed_items": 15,
-   "in_window": 1
+   "in_window": 0
   },
   {
    "creator": "Steelers Now (Derrick Bell)",
@@ -113,14 +113,14 @@
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp1iAMIfmmgWewzJ07_Y7oA",
    "status": "ok",
    "feed_items": 15,
-   "in_window": 1
+   "in_window": 0
   },
   {
    "creator": "Steel City Underground",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDcNNAMkYr-DzH6_XL-0p8Q",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
@@ -129,23 +129,23 @@
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxjSNPLcRAVzDKOjhRwo-hQ",
    "status": "ok",
    "feed_items": 15,
-   "in_window": 1
+   "in_window": 0
   },
   {
    "creator": "Locked On Steelers",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7JorgD8nGLtvvMy1ogFetg",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
    "creator": "Steel Curtain Network (BTSC)",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqZ9EXmGxrTBTOhg7qldDvA",
-   "status": "ok",
-   "feed_items": 15,
-   "in_window": 2
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
+   "in_window": 0
   },
   {
    "creator": "Arthur Moats Experience",
@@ -153,14 +153,14 @@
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFPpVnzIt33ZPQglYd7MOqQ",
    "status": "ok",
    "feed_items": 15,
-   "in_window": 1
+   "in_window": 0
   },
   {
    "creator": "Derrick Bell \u2013 DB's Film Room (Steelers Now)",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNsZFFKPF0bp85qzvJ8knbQ",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
@@ -169,7 +169,7 @@
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFqbkq2BzNY3iQ_FPveqVhw",
    "status": "ok",
    "feed_items": 15,
-   "in_window": 1
+   "in_window": 0
   },
   {
    "creator": "Pittsburgh Steelers (official)",
@@ -183,117 +183,36 @@
    "creator": "Baldy's Breakdowns",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHdXqjAWwGqEGfC1a9319Mw",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
    "creator": "Brett Kollmann",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYzfVBuCfGz-oF3aOCGgO5g",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
    "creator": "The QB School (JT O'Sullivan)",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGfxHp2yuimtLsFaq1r7aIQ",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
    "creator": "All_22_Films",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7Dbn36zT6XjfBh9YDLmGIg",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 500: Internal Server Error",
+   "feed_items": 0,
    "in_window": 0
   }
  ],
- "items": [
-  {
-   "title": "Betting Preview for Steelers vs. Buccaneers, Week 6 | Let's Ride",
-   "creator": "Steel Curtain Network (BTSC)",
-   "link": "https://www.youtube.com/watch?v=op0oWkQ1dHc",
-   "published": "2026-10-17T11:30:39+00:00",
-   "summary": "Preview by Steel Curtain Network (BTSC) for at New Orleans Saints (Oct 25).",
-   "game": "at New Orleans Saints (Oct 25)"
-  },
-  {
-   "title": "Buccaneers Preview & Predictions | Steelers Afternoon Drive",
-   "creator": "Steelers Now (Derrick Bell)",
-   "link": "https://www.youtube.com/watch?v=usANVtFc8bk",
-   "published": "2026-10-16T22:10:44+00:00",
-   "summary": "Preview by Steelers Now (Derrick Bell) for at New Orleans Saints (Oct 25).",
-   "game": "at New Orleans Saints (Oct 25)"
-  },
-  {
-   "title": "How to pressure Tampa Bay | Playbook with Merril Hoge | Pittsburgh Steelers",
-   "creator": "Merril Hoge \u2013 Steelers Playbook (official)",
-   "link": "https://www.youtube.com/watch?v=9sQcJpz3j8M",
-   "published": "2026-10-16T22:00:07+00:00",
-   "summary": "Preview by Merril Hoge \u2013 Steelers Playbook (official) for at New Orleans Saints (Oct 25).",
-   "game": "at New Orleans Saints (Oct 25)"
-  },
-  {
-   "title": "Steelers Look to String Together Back to Back Wins in Tampa | Scouting Report Week 6",
-   "creator": "Steelers Almighty",
-   "link": "https://www.youtube.com/watch?v=KJ2oZgYo4rQ",
-   "published": "2026-10-16T18:00:16+00:00",
-   "summary": "Preview by Steelers Almighty for at New Orleans Saints (Oct 25).",
-   "game": "at New Orleans Saints (Oct 25)"
-  },
-  {
-   "title": "The Terrible Podcast \u2014 Steelers Vs Buccaneers Game Preview, Trade Possibility, Injuries, W6 Picks",
-   "creator": "Steelers Depot (YouTube)",
-   "link": "https://www.youtube.com/watch?v=lHwxWzn_glI",
-   "published": "2026-10-16T15:33:32+00:00",
-   "summary": "Preview by Steelers Depot (YouTube) for at New Orleans Saints (Oct 25).",
-   "game": "at New Orleans Saints (Oct 25)"
-  },
-  {
-   "title": "Buccaneers Defense Scouting Report: Batten Down The Hatches To Beat The Blitz",
-   "creator": "Alex Kozora (Steelers Depot)",
-   "link": "https://steelersdepot.com/2026/10/buccaneers-defense-scouting-report-batten-down-the-hatches-down-to-beat-the-blitz/",
-   "published": "2026-10-16T13:30:10+00:00",
-   "summary": "Preview by Alex Kozora (Steelers Depot) for at New Orleans Saints (Oct 25).",
-   "game": "at New Orleans Saints (Oct 25)"
-  },
-  {
-   "title": "Buccaneers Offense Scouting Report: Creative Runs, Safe Passes",
-   "creator": "Alex Kozora (Steelers Depot)",
-   "link": "https://steelersdepot.com/2026/10/buccaneers-offensive-scouting-report-creative-runs-safe-passes/",
-   "published": "2026-10-16T12:30:43+00:00",
-   "summary": "Preview by Alex Kozora (Steelers Depot) for at New Orleans Saints (Oct 25).",
-   "game": "at New Orleans Saints (Oct 25)"
-  },
-  {
-   "title": "Steelers Preview: Previewing Steelers vs. Buccaneers, Week 6",
-   "creator": "Steel Curtain Network (BTSC)",
-   "link": "https://www.youtube.com/watch?v=n6IbccuINes",
-   "published": "2026-10-16T10:14:57+00:00",
-   "summary": "Preview by Steel Curtain Network (BTSC) for at New Orleans Saints (Oct 25).",
-   "game": "at New Orleans Saints (Oct 25)"
-  },
-  {
-   "title": "Tyler Talks Steelers Vs Buccaneers Week 6 Game Preview",
-   "creator": "Arthur Moats Experience",
-   "link": "https://www.youtube.com/shorts/7HujG-Yq31E",
-   "published": "2026-10-16T09:52:05+00:00",
-   "summary": "Preview by Arthur Moats Experience for at New Orleans Saints (Oct 25).",
-   "game": "at New Orleans Saints (Oct 25)"
-  },
-  {
-   "title": "Steelers offense MUST adapt after WR injuries | Steelers vs. Buccaneers Week 6 Preview",
-   "creator": "Still Curtain",
-   "link": "https://www.youtube.com/watch?v=n-84rQrUKEc",
-   "published": "2026-10-15T06:43:03+00:00",
-   "summary": "Preview by Still Curtain for at New Orleans Saints (Oct 25).",
-   "game": "at New Orleans Saints (Oct 25)"
-  }
- ],
+ "items": [],
  "ctm": null,
- "count": 10
+ "count": 0
 }

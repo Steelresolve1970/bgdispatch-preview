@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T18:16:40.818496+00:00",
+ "generated": "2026-10-19T01:48:06.320345+00:00",
  "season": 2026,
  "source": "Data: nflverse (CC-BY 4.0)",
  "source_url": "https://github.com/nflverse/nflverse-data",
@@ -7,36 +7,36 @@
   {
    "section": "Offense",
    "label": "Pass yards",
-   "value": "1,117",
+   "value": "1,328",
    "rank": 15,
    "lower_is_better": false
   },
   {
    "section": "Offense",
    "label": "Pass TD",
-   "value": "10",
-   "rank": 6,
+   "value": "12",
+   "rank": 4,
    "lower_is_better": false
   },
   {
    "section": "Offense",
    "label": "INTs thrown",
-   "value": "4",
-   "rank": 18,
+   "value": "5",
+   "rank": 20,
    "lower_is_better": true
   },
   {
    "section": "Offense",
    "label": "Rush yards",
-   "value": "506",
-   "rank": 18,
+   "value": "595",
+   "rank": 17,
    "lower_is_better": false
   },
   {
    "section": "Offense",
    "label": "Rush TD",
    "value": "1",
-   "rank": 31,
+   "rank": 32,
    "lower_is_better": false
   },
   {
@@ -49,99 +49,99 @@
   {
    "section": "Offense",
    "label": "Total yards",
-   "value": "1,623",
-   "rank": 18,
+   "value": "1,923",
+   "rank": 16,
    "lower_is_better": false
   },
   {
    "section": "Defense",
    "label": "Yards allowed",
-   "value": "1,621",
+   "value": "1,845",
    "rank": 14,
    "lower_is_better": true
   },
   {
    "section": "Defense",
    "label": "Pass yards allowed",
-   "value": "1,104",
-   "rank": 17,
+   "value": "1,226",
+   "rank": 13,
    "lower_is_better": true
   },
   {
    "section": "Defense",
    "label": "Rush yards allowed",
-   "value": "517",
-   "rank": 12,
+   "value": "619",
+   "rank": 17,
    "lower_is_better": true
   },
   {
    "section": "Defense",
    "label": "Sacks",
-   "value": "11",
-   "rank": 12,
+   "value": "16",
+   "rank": 9,
    "lower_is_better": false
   },
   {
    "section": "Defense",
    "label": "Interceptions",
-   "value": "4",
-   "rank": 8,
+   "value": "6",
+   "rank": 5,
    "lower_is_better": false
   },
   {
    "section": "Defense",
    "label": "Forced fumbles",
    "value": "7",
-   "rank": 4,
+   "rank": 7,
    "lower_is_better": false
   },
   {
    "section": "Defense",
    "label": "Fumbles recovered",
    "value": "4",
-   "rank": 4,
+   "rank": 8,
    "lower_is_better": false
   },
   {
    "section": "Defense",
    "label": "Tackles for loss",
-   "value": "26",
-   "rank": 11,
+   "value": "37",
+   "rank": 2,
    "lower_is_better": false
   },
   {
    "section": "Defense",
    "label": "Passes defended",
-   "value": "33",
-   "rank": 2,
+   "value": "41",
+   "rank": 1,
    "lower_is_better": false
   },
   {
    "section": "Scoring",
    "label": "Points scored",
-   "value": "111",
-   "rank": 20,
+   "value": "137",
+   "rank": 16,
    "lower_is_better": false
   },
   {
    "section": "Scoring",
    "label": "Points per game",
-   "value": "22.2",
-   "rank": 19,
+   "value": "22.8",
+   "rank": 18,
    "lower_is_better": false
   },
   {
    "section": "Scoring",
    "label": "Points allowed",
-   "value": "109",
-   "rank": 9,
+   "value": "128",
+   "rank": 14,
    "lower_is_better": true
   },
   {
    "section": "Scoring",
    "label": "Touchdowns",
-   "value": "12",
-   "rank": 16,
+   "value": "14",
+   "rank": 17,
    "lower_is_better": false
   }
  ],
@@ -178,32 +178,32 @@
    "pos": "QB",
    "stats": {
     "Pass Yds": {
-     "value": "1,234",
-     "rank": 11
+     "value": "1,487",
+     "rank": 6
     },
     "YPA": {
-     "value": "6.7",
-     "rank": 20
+     "value": "6.4",
+     "rank": 23
     },
     "Pass TD": {
-     "value": "10",
-     "rank": 5
+     "value": "12",
+     "rank": 4
     },
     "INT thrown": {
-     "value": "4",
-     "rank": 48
+     "value": "5",
+     "rank": 51
     },
     "Passer Rtg": {
-     "value": "88.9",
-     "rank": 20
+     "value": "88",
+     "rank": 23
     },
     "Rush Yds": {
-     "value": "18",
-     "rank": 127
+     "value": "17",
+     "rank": 137
     },
     "Tackles": {
      "value": "1",
-     "rank": 855
+     "rank": 886
     }
    }
   },
@@ -212,32 +212,32 @@
    "pos": "OLB",
    "stats": {
     "Tackles": {
-     "value": "13",
-     "rank": 296
+     "value": "15",
+     "rank": 283
     },
     "Sacks": {
      "value": "4.5",
-     "rank": 6
+     "rank": 8
     },
     "TFL": {
      "value": "6",
-     "rank": 3
+     "rank": 4
     },
     "PD": {
      "value": "2",
-     "rank": 98
+     "rank": 118
     },
     "INT": {
      "value": "1",
-     "rank": 15
+     "rank": 22
     },
     "FF": {
      "value": "1",
-     "rank": 18
+     "rank": 24
     },
     "FR": {
      "value": "1",
-     "rank": 5
+     "rank": 6
     }
    }
   },
@@ -246,27 +246,27 @@
    "pos": "RB",
    "stats": {
     "Rush Yds": {
-     "value": "410",
-     "rank": 6
+     "value": "460",
+     "rank": 7
     },
     "Rush TD": {
      "value": "1",
-     "rank": 35
+     "rank": 36
     },
     "Rec": {
-     "value": "19",
-     "rank": 48
+     "value": "21",
+     "rank": 58
     },
     "Rec Yds": {
-     "value": "230",
-     "rank": 47
+     "value": "258",
+     "rank": 49
     },
     "Rec TD": {
      "value": "1",
-     "rank": 55
+     "rank": 67
     },
     "YAC": {
-     "value": "282",
+     "value": "302",
      "rank": 1
     }
    }
@@ -276,24 +276,50 @@
    "pos": "DE",
    "stats": {
     "Tackles": {
-     "value": "17",
-     "rank": 204
+     "value": "20",
+     "rank": 202
     },
     "Sacks": {
      "value": "1",
-     "rank": 92
+     "rank": 104
     },
     "TFL": {
      "value": "1",
-     "rank": 189
+     "rank": 215
     },
     "PD": {
      "value": "4",
-     "rank": 23
+     "rank": 39
     },
     "FF": {
      "value": "1",
-     "rank": 18
+     "rank": 24
+    }
+   }
+  },
+  {
+   "name": "Jalen Ramsey",
+   "pos": "CB",
+   "stats": {
+    "Tackles": {
+     "value": "35",
+     "rank": 59
+    },
+    "Sacks": {
+     "value": "2",
+     "rank": 53
+    },
+    "TFL": {
+     "value": "5",
+     "rank": 15
+    },
+    "PD": {
+     "value": "2",
+     "rank": 118
+    },
+    "FF": {
+     "value": "1",
+     "rank": 24
     }
    }
   },
@@ -303,23 +329,23 @@
    "stats": {
     "Rush Yds": {
      "value": "11",
-     "rank": 147
+     "rank": 154
     },
     "Rec": {
-     "value": "19",
-     "rank": 48
+     "value": "30",
+     "rank": 15
     },
     "Rec Yds": {
-     "value": "225",
-     "rank": 51
+     "value": "318",
+     "rank": 29
     },
     "Rec TD": {
      "value": "1",
-     "rank": 55
+     "rank": 67
     },
     "YAC": {
-     "value": "57",
-     "rank": 113
+     "value": "98",
+     "rank": 72
     }
    }
   },
@@ -329,23 +355,23 @@
    "stats": {
     "Rush Yds": {
      "value": "4",
-     "rank": 172
+     "rank": 179
     },
     "Rec": {
-     "value": "19",
-     "rank": 48
+     "value": "21",
+     "rank": 58
     },
     "Rec Yds": {
-     "value": "169",
-     "rank": 83
+     "value": "180",
+     "rank": 86
     },
     "Rec TD": {
      "value": "4",
-     "rank": 4
+     "rank": 5
     },
     "YAC": {
-     "value": "80",
-     "rank": 73
+     "value": "83",
+     "rank": 90
     }
    }
   },
@@ -355,23 +381,23 @@
    "stats": {
     "Rec": {
      "value": "14",
-     "rank": 90
+     "rank": 104
     },
     "Rec Yds": {
      "value": "188",
-     "rank": 70
+     "rank": 81
     },
     "Rec TD": {
      "value": "2",
-     "rank": 28
+     "rank": 34
     },
     "YAC": {
      "value": "84",
-     "rank": 71
+     "rank": 89
     },
     "Tackles": {
      "value": "1",
-     "rank": 855
+     "rank": 886
     }
    }
   },
@@ -380,24 +406,24 @@
    "pos": "LB",
    "stats": {
     "Tackles": {
-     "value": "42",
-     "rank": 12
+     "value": "53",
+     "rank": 7
     },
     "Sacks": {
      "value": "1",
-     "rank": 92
+     "rank": 104
     },
     "TFL": {
      "value": "6",
-     "rank": 3
+     "rank": 4
     },
     "PD": {
      "value": "2",
-     "rank": 98
+     "rank": 118
     },
     "FR": {
      "value": "1",
-     "rank": 5
+     "rank": 6
     }
    }
   },
@@ -407,177 +433,23 @@
    "stats": {
     "Rec": {
      "value": "3",
-     "rank": 247
+     "rank": 264
     },
     "Rec Yds": {
      "value": "32",
-     "rank": 238
+     "rank": 259
     },
     "Rec TD": {
      "value": "1",
-     "rank": 55
+     "rank": 67
     },
     "YAC": {
      "value": "2",
-     "rank": 339
+     "rank": 351
     },
     "FR": {
      "value": "1",
-     "rank": 5
-    }
-   }
-  },
-  {
-   "name": "Jalen Ramsey",
-   "pos": "CB",
-   "stats": {
-    "Tackles": {
-     "value": "26",
-     "rank": 92
-    },
-    "TFL": {
-     "value": "1",
-     "rank": 189
-    },
-    "PD": {
-     "value": "2",
-     "rank": 98
-    },
-    "FF": {
-     "value": "1",
-     "rank": 18
-    }
-   }
-  },
-  {
-   "name": "Rico Dowdle",
-   "pos": "RB",
-   "stats": {
-    "Rush Yds": {
-     "value": "37",
-     "rank": 99
-    },
-    "Rec": {
-     "value": "4",
-     "rank": 225
-    },
-    "Rec Yds": {
-     "value": "28",
-     "rank": 258
-    },
-    "YAC": {
-     "value": "32",
-     "rank": 184
-    }
-   }
-  },
-  {
-   "name": "Michael Pittman",
-   "pos": "WR",
-   "stats": {
-    "Rec": {
-     "value": "7",
-     "rank": 162
-    },
-    "Rec Yds": {
-     "value": "89",
-     "rank": 143
-    },
-    "YAC": {
-     "value": "37",
-     "rank": 163
-    },
-    "Tackles": {
-     "value": "1",
-     "rank": 855
-    }
-   }
-  },
-  {
-   "name": "Patrick Queen",
-   "pos": "LB",
-   "stats": {
-    "Tackles": {
-     "value": "34",
-     "rank": 43
-    },
-    "TFL": {
-     "value": "1",
-     "rank": 189
-    },
-    "PD": {
-     "value": "2",
-     "rank": 98
-    },
-    "INT": {
-     "value": "1",
-     "rank": 15
-    }
-   }
-  },
-  {
-   "name": "Alex Highsmith",
-   "pos": "LB",
-   "stats": {
-    "Tackles": {
-     "value": "8",
-     "rank": 457
-    },
-    "Sacks": {
-     "value": "3",
-     "rank": 18
-    },
-    "TFL": {
-     "value": "5",
-     "rank": 12
-    },
-    "PD": {
-     "value": "1",
-     "rank": 184
-    }
-   }
-  },
-  {
-   "name": "Darnell Washington",
-   "pos": "TE",
-   "stats": {
-    "Rec": {
-     "value": "11",
-     "rank": 118
-    },
-    "Rec Yds": {
-     "value": "131",
-     "rank": 110
-    },
-    "Rec TD": {
-     "value": "1",
-     "rank": 55
-    },
-    "YAC": {
-     "value": "91",
-     "rank": 62
-    }
-   }
-  },
-  {
-   "name": "Derrick Harmon",
-   "pos": "DT",
-   "stats": {
-    "Tackles": {
-     "value": "12",
-     "rank": 318
-    },
-    "Sacks": {
-     "value": "1.5",
-     "rank": 76
-    },
-    "TFL": {
-     "value": "1",
-     "rank": 189
-    },
-    "FF": {
-     "value": "1",
-     "rank": 18
+     "rank": 6
     }
    }
   },
@@ -587,37 +459,23 @@
    "stats": {
     "Rush Yds": {
      "value": "4",
-     "rank": 172
+     "rank": 179
     },
     "Rec": {
-     "value": "13",
-     "rank": 97
+     "value": "24",
+     "rank": 39
     },
     "Rec Yds": {
-     "value": "140",
-     "rank": 102
+     "value": "227",
+     "rank": 62
+    },
+    "Rec TD": {
+     "value": "1",
+     "rank": 67
     },
     "YAC": {
-     "value": "47",
-     "rank": 130
-    }
-   }
-  },
-  {
-   "name": "Sebastian Joseph-Day",
-   "pos": "DT",
-   "stats": {
-    "Tackles": {
-     "value": "8",
-     "rank": 457
-    },
-    "TFL": {
-     "value": "1",
-     "rank": 189
-    },
-    "FR": {
-     "value": "1",
-     "rank": 5
+     "value": "116",
+     "rank": 47
     }
    }
   },
@@ -626,15 +484,191 @@
    "pos": "CB",
    "stats": {
     "Tackles": {
-     "value": "14",
-     "rank": 269
+     "value": "18",
+     "rank": 225
     },
     "PD": {
-     "value": "2",
-     "rank": 98
+     "value": "8",
+     "rank": 2
+    },
+    "INT": {
+     "value": "1",
+     "rank": 22
     },
     "FF": {
      "value": "2",
+     "rank": 7
+    }
+   }
+  },
+  {
+   "name": "Rico Dowdle",
+   "pos": "RB",
+   "stats": {
+    "Rush Yds": {
+     "value": "77",
+     "rank": 75
+    },
+    "Rec": {
+     "value": "7",
+     "rank": 178
+    },
+    "Rec Yds": {
+     "value": "37",
+     "rank": 245
+    },
+    "YAC": {
+     "value": "45",
+     "rank": 155
+    }
+   }
+  },
+  {
+   "name": "Michael Pittman",
+   "pos": "WR",
+   "stats": {
+    "Rec": {
+     "value": "7",
+     "rank": 178
+    },
+    "Rec Yds": {
+     "value": "89",
+     "rank": 154
+    },
+    "YAC": {
+     "value": "37",
+     "rank": 179
+    },
+    "Tackles": {
+     "value": "1",
+     "rank": 886
+    }
+   }
+  },
+  {
+   "name": "Patrick Queen",
+   "pos": "LB",
+   "stats": {
+    "Tackles": {
+     "value": "37",
+     "rank": 51
+    },
+    "TFL": {
+     "value": "1",
+     "rank": 215
+    },
+    "PD": {
+     "value": "2",
+     "rank": 118
+    },
+    "INT": {
+     "value": "1",
+     "rank": 22
+    }
+   }
+  },
+  {
+   "name": "Alex Highsmith",
+   "pos": "LB",
+   "stats": {
+    "Tackles": {
+     "value": "10",
+     "rank": 432
+    },
+    "Sacks": {
+     "value": "3",
+     "rank": 26
+    },
+    "TFL": {
+     "value": "5",
+     "rank": 15
+    },
+    "PD": {
+     "value": "1",
+     "rank": 207
+    }
+   }
+  },
+  {
+   "name": "Darnell Washington",
+   "pos": "TE",
+   "stats": {
+    "Rec": {
+     "value": "15",
+     "rank": 91
+    },
+    "Rec Yds": {
+     "value": "156",
+     "rank": 105
+    },
+    "Rec TD": {
+     "value": "2",
+     "rank": 34
+    },
+    "YAC": {
+     "value": "97",
+     "rank": 75
+    }
+   }
+  },
+  {
+   "name": "Nick Herbig",
+   "pos": "LB",
+   "stats": {
+    "Tackles": {
+     "value": "15",
+     "rank": 283
+    },
+    "Sacks": {
+     "value": "2",
+     "rank": 53
+    },
+    "TFL": {
+     "value": "6",
+     "rank": 4
+    },
+    "FF": {
+     "value": "1",
+     "rank": 24
+    }
+   }
+  },
+  {
+   "name": "Derrick Harmon",
+   "pos": "DT",
+   "stats": {
+    "Tackles": {
+     "value": "12",
+     "rank": 371
+    },
+    "Sacks": {
+     "value": "1.5",
+     "rank": 87
+    },
+    "TFL": {
+     "value": "1",
+     "rank": 215
+    },
+    "FF": {
+     "value": "1",
+     "rank": 24
+    }
+   }
+  },
+  {
+   "name": "Sebastian Joseph-Day",
+   "pos": "DT",
+   "stats": {
+    "Tackles": {
+     "value": "10",
+     "rank": 432
+    },
+    "TFL": {
+     "value": "1",
+     "rank": 215
+    },
+    "FR": {
+     "value": "1",
      "rank": 6
     }
    }
@@ -644,34 +678,88 @@
    "pos": "SAF",
    "stats": {
     "Tackles": {
-     "value": "34",
-     "rank": 43
+     "value": "41",
+     "rank": 36
     },
     "PD": {
      "value": "3",
-     "rank": 55
+     "rank": 74
     },
     "INT": {
      "value": "1",
-     "rank": 15
+     "rank": 22
     }
    }
   },
   {
-   "name": "Nick Herbig",
+   "name": "Keeanu Benton",
+   "pos": "DT",
+   "stats": {
+    "Tackles": {
+     "value": "15",
+     "rank": 283
+    },
+    "TFL": {
+     "value": "2",
+     "rank": 121
+    },
+    "PD": {
+     "value": "2",
+     "rank": 118
+    }
+   }
+  },
+  {
+   "name": "Jack Sawyer",
    "pos": "LB",
    "stats": {
     "Tackles": {
-     "value": "10",
-     "rank": 391
+     "value": "14",
+     "rank": 315
     },
     "TFL": {
-     "value": "3",
-     "rank": 51
-    },
-    "FF": {
      "value": "1",
-     "rank": 18
+     "rank": 215
+    },
+    "PD": {
+     "value": "1",
+     "rank": 207
+    }
+   }
+  },
+  {
+   "name": "Yahya Black",
+   "pos": "DE",
+   "stats": {
+    "Tackles": {
+     "value": "14",
+     "rank": 315
+    },
+    "Sacks": {
+     "value": "1",
+     "rank": 104
+    },
+    "TFL": {
+     "value": "2",
+     "rank": 121
+    }
+   }
+  },
+  {
+   "name": "Daylen Everette",
+   "pos": "CB",
+   "stats": {
+    "Tackles": {
+     "value": "14",
+     "rank": 315
+    },
+    "PD": {
+     "value": "5",
+     "rank": 21
+    },
+    "INT": {
+     "value": "1",
+     "rank": 22
     }
    }
   },
@@ -680,16 +768,16 @@
    "pos": "SAF",
    "stats": {
     "Tackles": {
-     "value": "16",
-     "rank": 219
+     "value": "18",
+     "rank": 225
     },
     "PD": {
      "value": "2",
-     "rank": 98
+     "rank": 118
     },
     "INT": {
      "value": "1",
-     "rank": 15
+     "rank": 22
     }
    }
   },
@@ -699,15 +787,15 @@
    "stats": {
     "Rec": {
      "value": "1",
-     "rank": 316
+     "rank": 329
     },
     "Rec Yds": {
      "value": "2",
-     "rank": 358
+     "rank": 374
     },
     "YAC": {
      "value": "2",
-     "rank": 339
+     "rank": 351
     }
    }
   },
@@ -716,68 +804,12 @@
    "pos": "CB",
    "stats": {
     "Tackles": {
-     "value": "15",
-     "rank": 245
+     "value": "20",
+     "rank": 202
     },
     "PD": {
      "value": "7",
-     "rank": 2
-    }
-   }
-  },
-  {
-   "name": "Keeanu Benton",
-   "pos": "DT",
-   "stats": {
-    "Tackles": {
-     "value": "12",
-     "rank": 318
-    },
-    "PD": {
-     "value": "1",
-     "rank": 184
-    }
-   }
-  },
-  {
-   "name": "Jack Sawyer",
-   "pos": "LB",
-   "stats": {
-    "Tackles": {
-     "value": "12",
-     "rank": 318
-    },
-    "PD": {
-     "value": "1",
-     "rank": 184
-    }
-   }
-  },
-  {
-   "name": "Yahya Black",
-   "pos": "DE",
-   "stats": {
-    "Tackles": {
-     "value": "12",
-     "rank": 318
-    },
-    "TFL": {
-     "value": "1",
-     "rank": 189
-    }
-   }
-  },
-  {
-   "name": "Daylen Everette",
-   "pos": "CB",
-   "stats": {
-    "Tackles": {
-     "value": "11",
-     "rank": 355
-    },
-    "PD": {
-     "value": "4",
-     "rank": 23
+     "rank": 6
     }
    }
   },
@@ -791,7 +823,7 @@
     },
     "Rush Yds": {
      "value": "1",
-     "rank": 196
+     "rank": 202
     }
    }
   },
@@ -801,11 +833,11 @@
    "stats": {
     "Rush Yds": {
      "value": "15",
-     "rank": 136
+     "rank": 143
     },
     "Tackles": {
-     "value": "1",
-     "rank": 855
+     "value": "2",
+     "rank": 802
     }
    }
   },
@@ -815,11 +847,21 @@
    "stats": {
     "Rush Yds": {
      "value": "6",
-     "rank": 163
+     "rank": 167
     },
     "Tackles": {
-     "value": "2",
-     "rank": 769
+     "value": "3",
+     "rank": 742
+    }
+   }
+  },
+  {
+   "name": "Chris Boswell",
+   "pos": "K",
+   "stats": {
+    "Tackles": {
+     "value": "1",
+     "rank": 886
     }
    }
   },
@@ -839,7 +881,7 @@
    "stats": {
     "Tackles": {
      "value": "16",
-     "rank": 219
+     "rank": 260
     }
    }
   },
@@ -849,7 +891,7 @@
    "stats": {
     "Tackles": {
      "value": "7",
-     "rank": 490
+     "rank": 530
     }
    }
   },
@@ -858,8 +900,8 @@
    "pos": "LB",
    "stats": {
     "Tackles": {
-     "value": "5",
-     "rank": 592
+     "value": "6",
+     "rank": 581
     }
    }
   },
@@ -868,8 +910,8 @@
    "pos": "FB",
    "stats": {
     "Tackles": {
-     "value": "3",
-     "rank": 697
+     "value": "4",
+     "rank": 688
     }
    }
   },
@@ -879,7 +921,7 @@
    "stats": {
     "Tackles": {
      "value": "4",
-     "rank": 639
+     "rank": 688
     }
    }
   },
@@ -888,8 +930,8 @@
    "pos": "G",
    "stats": {
     "Tackles": {
-     "value": "1",
-     "rank": 855
+     "value": "2",
+     "rank": 802
     }
    }
   },
@@ -898,8 +940,8 @@
    "pos": "DB",
    "stats": {
     "Tackles": {
-     "value": "3",
-     "rank": 697
+     "value": "4",
+     "rank": 688
     }
    }
   },
@@ -908,16 +950,26 @@
    "pos": "DE",
    "stats": {
     "Tackles": {
-     "value": "3",
-     "rank": 697
+     "value": "4",
+     "rank": 688
+    }
+   }
+  },
+  {
+   "name": "Brandon Smith",
+   "pos": "WR",
+   "stats": {
+    "Tackles": {
+     "value": "1",
+     "rank": 886
     }
    }
   }
  ],
  "player_pool_sizes": {
-  "offense:passing": 59,
-  "offense:rushing": 215,
-  "offense:receiving": 368,
-  "defense": 1071
+  "offense:passing": 61,
+  "offense:rushing": 226,
+  "offense:receiving": 384,
+  "defense": 1108
  }
 }

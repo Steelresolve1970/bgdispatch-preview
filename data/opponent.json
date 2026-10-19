@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T18:53:32.623545+00:00",
+ "generated": "2026-10-19T01:48:09.239738+00:00",
  "game": {
   "id": "401873002",
   "nflverse_id": "2026_06_PIT_TB",
@@ -21,27 +21,27 @@
  },
  "team": "Tampa Bay Buccaneers",
  "abbr": "TB",
- "record": "1-4",
+ "record": "1-5",
  "stats": {
   "opp": {
-   "Points Per Game": "20.0",
-   "Total Yards": "306.4",
-   "Yards Passing": "173.4",
-   "Yards Rushing": "133.0",
-   "Points Allowed Per Game": "22.4",
-   "Yards Allowed": "299.4",
-   "Pass Yards Allowed": "226.6",
-   "Rush Yards Allowed": "72.8"
+   "Points Per Game": "19.8",
+   "Total Yards": "292.7",
+   "Yards Passing": "164.8",
+   "Yards Rushing": "127.8",
+   "Points Allowed Per Game": "23.0",
+   "Yards Allowed": "299.5",
+   "Pass Yards Allowed": "224.0",
+   "Rush Yards Allowed": "75.5"
   },
   "pit": {
-   "Points Per Game": "22.2",
-   "Total Yards": "324.6",
-   "Yards Passing": "223.4",
-   "Yards Rushing": "101.2",
-   "Points Allowed Per Game": "21.8",
-   "Yards Allowed": "324.2",
-   "Pass Yards Allowed": "220.8",
-   "Rush Yards Allowed": "103.4"
+   "Points Per Game": "22.8",
+   "Total Yards": "320.5",
+   "Yards Passing": "221.3",
+   "Yards Rushing": "99.2",
+   "Points Allowed Per Game": "21.3",
+   "Yards Allowed": "307.5",
+   "Pass Yards Allowed": "204.3",
+   "Rush Yards Allowed": "103.2"
   }
  },
  "leaders": {
@@ -55,25 +55,25 @@
    {
     "cat": "Rushing Yards",
     "name": "Bucky Irving",
-    "line": "77 CAR, 406 YDS, 2 TD",
+    "line": "96 CAR, 452 YDS, 2 TD",
     "pos": "RB"
    },
    {
     "cat": "Receiving Yards",
     "name": "Emeka Egbuka",
-    "line": "21 REC, 192 YDS, 1 TD",
+    "line": "28 REC, 240 YDS, 2 TD",
     "pos": "WR"
    },
    {
     "cat": "Sacks",
     "name": "David Walker",
-    "line": "2",
+    "line": "4",
     "pos": "LB"
    },
    {
     "cat": "Tackles",
     "name": "Josiah Trotter",
-    "line": "39",
+    "line": "51",
     "pos": "LB"
    }
   ],
@@ -81,20 +81,20 @@
    {
     "cat": "Passing Yards",
     "name": "Aaron Rodgers",
-    "line": "110/184, 1,234 YDS, 10 TD, 4 INT",
+    "line": "143/233, 1,487 YDS, 12 TD, 5 INT",
     "pos": "QB"
    },
    {
     "cat": "Rushing Yards",
     "name": "Jaylen Warren",
-    "line": "70 CAR, 410 YDS, 1 TD",
+    "line": "84 CAR, 460 YDS, 1 TD",
     "pos": "RB"
    },
    {
     "cat": "Receiving Yards",
-    "name": "Jaylen Warren",
-    "line": "19 REC, 230 YDS, 1 TD",
-    "pos": "RB"
+    "name": "DK Metcalf",
+    "line": "30 REC, 318 YDS, 1 TD",
+    "pos": "WR"
    },
    {
     "cat": "Sacks",
@@ -105,20 +105,13 @@
    {
     "cat": "Tackles",
     "name": "Payton Wilson",
-    "line": "42",
+    "line": "53",
     "pos": "LB"
    }
   ]
  },
  "last5": {
   "opp": [
-   {
-    "result": "L",
-    "score": "33-27",
-    "opp": "CIN",
-    "atVs": "@",
-    "date": "2026-09-13"
-   },
    {
     "result": "L",
     "score": "23-19",
@@ -146,16 +139,16 @@
     "opp": "DAL",
     "atVs": "@",
     "date": "2026-10-08"
+   },
+   {
+    "result": "L",
+    "score": "26-19",
+    "opp": "PIT",
+    "atVs": "vs",
+    "date": "2026-10-18"
    }
   ],
   "pit": [
-   {
-    "result": "W",
-    "score": "20-13",
-    "opp": "ATL",
-    "atVs": "vs",
-    "date": "2026-09-13"
-   },
    {
     "result": "L",
     "score": "20-3",
@@ -183,6 +176,13 @@
     "opp": "IND",
     "atVs": "vs",
     "date": "2026-10-11"
+   },
+   {
+    "result": "W",
+    "score": "26-19",
+    "opp": "TB",
+    "atVs": "@",
+    "date": "2026-10-18"
    }
   ]
  },

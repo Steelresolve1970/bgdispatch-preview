@@ -1,21 +1,21 @@
 # Opponent Scouting
 
-_Generated 2026-10-18T18:53:38+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T18:53:32+00:00._
+_Generated 2026-10-19T01:48:22+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T01:48:09+00:00._
 
-Next opponent: **Tampa Bay Buccaneers** (1-4).
+Next opponent: **Tampa Bay Buccaneers** (1-5).
 
 | Stat | TB | PIT |
 |---|---|---|
-| Points Per Game | 20.0 | 22.2 |
-| Total Yards | 306.4 | 324.6 |
-| Yards Passing | 173.4 | 223.4 |
-| Yards Rushing | 133.0 | 101.2 |
-| Points Allowed Per Game | 22.4 | 21.8 |
-| Yards Allowed | 299.4 | 324.2 |
-| Pass Yards Allowed | 226.6 | 220.8 |
-| Rush Yards Allowed | 72.8 | 103.4 |
+| Points Per Game | 19.8 | 22.8 |
+| Total Yards | 292.7 | 320.5 |
+| Yards Passing | 164.8 | 221.3 |
+| Yards Rushing | 127.8 | 99.2 |
+| Points Allowed Per Game | 23.0 | 21.3 |
+| Yards Allowed | 299.5 | 307.5 |
+| Pass Yards Allowed | 224.0 | 204.3 |
+| Rush Yards Allowed | 75.5 | 103.2 |
 
-Key players: Passing Yards: Baker Mayfield (61/96, 615 YDS, 2 TD, 2 INT); Rushing Yards: Bucky Irving (77 CAR, 406 YDS, 2 TD); Receiving Yards: Emeka Egbuka (21 REC, 192 YDS, 1 TD); Sacks: David Walker (2); Tackles: Josiah Trotter (39)
+Key players: Passing Yards: Baker Mayfield (61/96, 615 YDS, 2 TD, 2 INT); Rushing Yards: Bucky Irving (96 CAR, 452 YDS, 2 TD); Receiving Yards: Emeka Egbuka (28 REC, 240 YDS, 2 TD); Sacks: David Walker (4); Tackles: Josiah Trotter (51)
 
 Injuries: Antoine Winfield Jr. (S) Out; Baker Mayfield (QB) Out; David Sills (WR) Out; Benjamin Morrison (CB) Doubtful; Ayden Garnes (CB) Questionable; Josiah Trotter (LB) Questionable; Sean Tucker (RB) Questionable; SirVocea Dennis (LB) Questionable; Jalen McMillan (WR) Injured Reserve; Josh Hayes (DB) Injured Reserve; Mohamed Kamara (LB) Injured Reserve; Xavier Williams (DB) Injured Reserve
 
