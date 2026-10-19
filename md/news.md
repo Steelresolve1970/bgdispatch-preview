@@ -1,9 +1,9 @@
 # Steelers News
 
-_Generated 2026-10-19T21:55:38+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T21:55:02+00:00._
+_Generated 2026-10-19T22:06:17+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T22:05:51+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
-- [Steelers' belief in their massive rookie class is paying early dividends](https://www.nhregister.com/sports/article/steelers-belief-in-their-massive-rookie-class-is-22484589.php): New Haven Register, 2026-10-19 21:49 UTC
+- [Steelers' belief in their massive rookie class is paying early dividends](https://www.ctpost.com/sports/article/steelers-belief-in-their-massive-rookie-class-is-22484589.php): CTPost, 2026-10-19 21:53 UTC
 - [Listen: The Terrible Take (Episode 2,055)](https://steelersdepot.com/2026/10/listen-the-terrible-take-episode-2055/): Steelers Depot, 2026-10-19 21:30 UTC
 - [Steelers’ Mike McCarthy defends play-calling after Jamel Dean interception](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176579/steelers-mike-mccarthy-defends-play-calling-after-jamel-dean-interception): Behind the Steel Curtain, 2026-10-19 21:30 UTC
 - [The protests in France are a ‘continuing conversation’ for the Steelers before their game in Paris](https://www.post-gazette.com/sports/steelers/2026/10/19/steelers-paris-game-france-protests/stories/202610190026): Pittsburgh Post-Gazette, 2026-10-19 21:21 UTC
@@ -56,6 +56,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers' WR Problem Got A Lot Worse With Latest Michael Pittman Jr Report](https://www.steelernation.com/2026/10/19/steelers-problem-worse-michael-pittman-jr): SteelerNation, 2026-10-19 16:07 UTC
 - [Film Room: Jamel Dean Turns In Dominant Performance In Tampa Bay Return](https://steelersdepot.com/2026/10/film-room-jamel-dean-turns-in-dominant-performance-in-tampa-bay-return/): Steelers Depot, 2026-10-19 16:00 UTC
 - [Steelers’ winning ways are hiding a troubling Chris Boswell problem](https://stillcurtain.com/pittsburgh-steelers-winning-ways-hiding-troubling-chris-boswell-problem-01m5a2ekha59?utm_source=RSS): Still Curtain, 2026-10-19 16:00 UTC
+- [Pittsburgh Steelers could face a challenge in Paris that has nothing to do with the game against the New Orleans Saints](https://atozsports.com/nfl/pittsburgh-steelers-news/steelers-facing-travel-dangers-vs-saints-paris-france-protest-unrest/): A to Z Sports, 2026-10-19 16:00 UTC
 - [Where Steelers Stand in AFC North After Huge Comeback Win](https://www.si.com/nfl/steelers/onsi/where-pittsburgh-steelers-stand-afc-north-huge-comeback-win): All Steelers (Sports Illustrated), 2026-10-19 16:00 UTC
 - [Beat Writer Names Pittsburgh’s ‘Best Bet’ For Internal Wide Receiver Help](https://steelersdepot.com/2026/10/beat-writer-names-pittsburghs-best-bet-for-internal-wide-receiver-help/): Steelers Depot, 2026-10-19 15:50 UTC
 - [Fans turned out for Steelers international watch parties](https://www.steelers.com/news/fans-turned-out-for-steelers-international-watch-parties): Steelers.com (official), 2026-10-19 15:50 UTC
@@ -82,7 +83,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Former Steelers Joey Porter Jr. and George Pickens aren't changing things in Dallas](https://stillcurtain.com/former-steelers-joey-porter-jr-and-george-pickens-aren-t-changing-things-in-dallas-01m596xmkand?utm_source=RSS): Still Curtain, 2026-10-19 12:00 UTC
 - [Steelers' win over the Buccaneers can't distract them from making a trade that suddenly looks very likely after Sunday](https://atozsports.com/nfl/pittsburgh-steelers-news/steelers-wr-rumors-brian-thomas-jr-jaguars-nfl-trade-deadline/): A to Z Sports, 2026-10-19 12:00 UTC
 - [Plays of the Game: Jamel Dean’s interception sets up Steelers’ late lead](https://www.steelcityunderground.com/2026/10/19/plays-of-the-game-jamel-deans-interception-sets-up-steelers-late-lead/): Steel City Underground, 2026-10-19 11:40 UTC
-- [Steelers get last laugh in Joey Porter Jr. drama with Cowboys](https://steelerswire.usatoday.com/story/sports/nfl/steelers/2026/10/19/steelers-joey-porter-jr-trade-cowboys-nfl-news-update/92325305007/): Steelers Wire, 2026-10-19 10:16 UTC
 - [‘He’s accepted the challenge’: Germie Bernard rewards Steelers’ faith in rookie wide receiver](https://triblive.com/sports/hes-accepted-the-challenge-germie-bernard-rewards-steelers-faith-in-rookie-wide-receiver/): TribLive, 2026-10-19 10:01 UTC
 - [Steelers fans have fresh Aaron Rodgers concerns despite comeback win](https://stillcurtain.com/pittsburgh-steelers-fans-have-fresh-aaron-rodgers-concerns-despite-comeback-win-01m58h04pa3e?utm_source=RSS): Still Curtain, 2026-10-19 10:00 UTC
 - [5 takeaways from the Steelers’ OT win over the Tampa Bay Buccaneers](https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176502/5-takeaways-from-the-steelers-26-19-ot-win-over-the-tampa-bay-buccaneers-mike-mccarthy-dk-metcalf-germie-bernard-jamel-dean): Behind the Steel Curtain, 2026-10-19 10:00 UTC
@@ -115,13 +115,11 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Feats of Strength: 4th quarter awakening, Chris Boswell’s return to form save Steelers in Tampa Bay](https://triblive.com/sports/feats-of-strength-fourth-quarter-awakening-chris-boswells-return-to-form-save-steelers-in-tampa-bay/): TribLive, 2026-10-18 21:57 UTC
 - [7 winners (and 4 losers) from Steelers' dramatic Week 6 comeback over Tampa Bay](https://stillcurtain.com/7-winners-4-losers-pittsburgh-steelers-dramatic-week-6-comeback-tampa-bay-buccaneers-01m58beprnfv?utm_source=RSS): Still Curtain, 2026-10-18 21:30 UTC
 - [Steelers stock report after Week 6 win over Buccaneers](https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176510/steelers-stock-report-after-week-6-win-over-buccaneers): Behind the Steel Curtain, 2026-10-18 21:25 UTC
-- [Can't-Miss Play: Ramsey calls game! Jalen's blitzing sack of Jalon Daniels sends Steelers to an OT win](https://www.nfl.com/videos/can-t-miss-play-ramsey-calls-game-jalen-s-blitzing-sack-of-jalon-daniels-sends-steelers-to-an-ot-win): NFL.com, 2026-10-18 21:14 UTC
 - [6 instant reactions to the Steelers' overtime victory over the Buccaneers](https://stillcurtain.com/6-instant-reactions-to-the-pittsburgh-steelers-overtime-victory-over-the-buccaneers-01m5868wawaf?utm_source=RSS): Still Curtain, 2026-10-18 21:10 UTC
 - [Steelers CB Jamel Dean gets the last laugh against his former team](https://stillcurtain.com/pittsburgh-steelers-cb-jamel-dean-gets-last-laugh-against-tampa-bay-buccaneers-01m58a2nnh8a?utm_source=RSS): Still Curtain, 2026-10-18 20:59 UTC
 - [The Steelers rally back from 13 down to beat the Buccaneers in overtime](https://www.post-gazette.com/sports/steelers/2026/10/18/steelers-buccaneers-aaron-rodgers-germie-bernard/stories/202610180075): Pittsburgh Post-Gazette, 2026-10-18 20:58 UTC
 - [Steelers overcome 16-3 deficit, defeat Buccaneers in OT](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176501/steelers-overcome-16-3-deficit-defeat-buccaneers-in-ot-aaron-rodgers-germie-bernard-jalen-ramsey): Behind the Steel Curtain, 2026-10-18 20:57 UTC
 - [Steelers get OT win but leave Tampa Bay with more offensive questions than answers](https://www.nytimes.com/athletic/7702085/2026/10/18/steelers-buccaneers-nfl-week-6-result-takeaways/): The Athletic, 2026-10-18 20:56 UTC
-- [Germie Bernard's first NFL touchdown gives Steelers the lead vs. Bucs in overtime](https://www.nfl.com/videos/germie-bernard-s-first-nfl-touchdown-gives-steelers-the-lead-vs-bucs-in-overtime): NFL.com, 2026-10-18 20:52 UTC
 - [Rapid Reaction: Steelers 26, Buccaneers 19](https://www.buccaneers.com/news/bucs-lose-pittsburgh-steelers-overtime-week-6-2026-score-26-19): Tampa Bay Buccaneers, 2026-10-18 20:50 UTC
 - [Steelers rally past Buccaneers, 26-19, in overtime](https://www.steelers.com/news/steelers-rally-past-buccaneers-26-19-in-overtime): Steelers.com (official), 2026-10-18 20:44 UTC
 - [Aaron Rodgers rallies Steelers back from 13-point deficit to beat Bucs in overtime](https://triblive.com/sports/aaron-rodgers-rallies-steelers-back-from-16-point-deficit-to-beat-bucs-in-overtime/): TribLive, 2026-10-18 20:44 UTC
