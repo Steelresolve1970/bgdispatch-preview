@@ -1,3 +1,6 @@
+// Owner claim link: accept /?claim=<token>, /claim?t=<token> and #/claim/<token>; normalize to #/forum/claim/<token> before anything else runs.
+(function(){try{const q=new URLSearchParams(location.search);const h=location.hash.match(/^#\/(?:forum\/)?claim\/([0-9a-f]{48,128})/);const t=q.get('claim')||(/\/claim\/?$/.test(location.pathname)?q.get('t'):null)||(h&&h[1]);
+ if(t&&/^[0-9a-f]{48,128}$/.test(t)){window.BGD_CLAIM=t;const want='/#/forum/claim/'+t;if(location.pathname+location.search+location.hash!==want)history.replaceState(null,'',want);}}catch(e){}})();
 const $=id=>document.getElementById(id);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const ext='target="_blank" rel="noopener"';
@@ -11,6 +14,7 @@ const getJSON=u=>fetch(BGD_url(u),{cache:'no-store'}).then(r=>{if(!r.ok)throw r.
 (function(){const cur=window.BGD_V;if(!cur||cur==='dev')return;
  fetch(BGD_url('version.json'),{cache:'no-store'}).then(r=>r.ok?r.json():null).then(j=>{if(!j||!j.v)return;
   if(j.v===cur){try{localStorage.setItem('bgd_build',j.v);}catch(e){}return;}
+  if(window.BGD_CLAIM)return;   // never reload away from a claim link
   try{if(sessionStorage.getItem('bgd_reloaded')===j.v)return;sessionStorage.setItem('bgd_reloaded',j.v);}catch(e){}
   location.reload();}).catch(()=>{});})();
 const storyHref=n=>`#/story/${encodeURIComponent(n.id||'')}`;
@@ -158,8 +162,11 @@ window.availHTML=function(name,list){const a=list||(window.BGD_AV&&window.BGD_AV
 // Desktop: sync window.open; if blocked, show an in-site sheet (Open article + Copy link).
 (function(){
  const PLACE='bgd_place';
- function savePlace(){try{const p={hash:location.hash||'#/',scroll:window.scrollY||0,t:Date.now()};sessionStorage.setItem(PLACE,JSON.stringify(p));localStorage.setItem(PLACE,JSON.stringify(p));}catch(e){}}
- function restorePlace(){try{const raw=sessionStorage.getItem(PLACE)||localStorage.getItem(PLACE);if(!raw)return;const p=JSON.parse(raw);if(!p||!p.hash)return;const go=()=>{if((location.hash||'#/')!==p.hash)location.hash=p.hash;const sc=()=>window.scrollTo(0,p.scroll||0);sc();setTimeout(sc,120);setTimeout(sc,450);};if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',()=>setTimeout(go,0));else setTimeout(go,0);}catch(e){}}
+ function savePlace(){try{if(/claim/.test(location.hash)||window.BGD_CLAIM)return;const p={hash:location.hash||'#/',scroll:window.scrollY||0,t:Date.now()};sessionStorage.setItem(PLACE,JSON.stringify(p));localStorage.setItem(PLACE,JSON.stringify(p));}catch(e){}}
+ function restorePlace(){try{const raw=sessionStorage.getItem(PLACE)||localStorage.getItem(PLACE);if(!raw)return;const p=JSON.parse(raw);if(!p||!p.hash)return;if(window.BGD_CLAIM||/claim/.test(location.hash+location.search))return;
+  // a link that names a page (deep link, claim link) always wins over the saved place; only a bare visit restores the last page
+  const cur=location.hash||'';if(cur&&cur!=='#'&&cur!=='#/'&&cur!==p.hash)return;
+  const go=()=>{if(window.BGD_CLAIM||/claim/.test(location.hash))return;if((location.hash||'#/')!==p.hash)location.hash=p.hash;const sc=()=>window.scrollTo(0,p.scroll||0);sc();setTimeout(sc,120);setTimeout(sc,450);};if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',()=>setTimeout(go,0));else setTimeout(go,0);}catch(e){}}
  window.BGD_savePlace=savePlace;window.BGD_restorePlace=restorePlace;
  let scrollT=null;addEventListener('scroll',()=>{clearTimeout(scrollT);scrollT=setTimeout(savePlace,200);},{passive:true});
  addEventListener('hashchange',()=>setTimeout(savePlace,0));
