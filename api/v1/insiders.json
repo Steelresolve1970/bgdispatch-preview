@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "insiders",
  "description": "Last 3 days of public posts from NFL insiders and Steelers beat writers (links only).",
- "generated": "2026-10-19T02:10:18+00:00",
- "data_updated": "2026-10-19T02:08:57+00:00",
- "count": 23,
+ "generated": "2026-10-19T02:21:46+00:00",
+ "data_updated": "2026-10-19T02:20:37+00:00",
+ "count": 24,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -324,6 +324,21 @@
     "injuries"
    ],
    "summary": "@rapsheet.bsky.social posted about injuries.",
+   "source": {
+    "name": "Bluesky",
+    "url": null
+   }
+  },
+  {
+   "id": "d34a1cd0f72aef64",
+   "type": "insider_post",
+   "author": "Tom Pelissero",
+   "handle": "@tompelissero.bsky.social",
+   "platform": "Bluesky",
+   "url": "https://bsky.app/profile/tompelissero.bsky.social/post/3mxzf2x7x7s2g",
+   "published": "2026-10-16T20:10:00+00:00",
+   "topics": [],
+   "summary": "@tompelissero.bsky.social posted about NFL news.",
    "source": {
     "name": "Bluesky",
     "url": null

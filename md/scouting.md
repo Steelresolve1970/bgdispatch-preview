@@ -1,23 +1,23 @@
 # Opponent Scouting
 
-_Generated 2026-10-19T02:10:18+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T01:48:09+00:00._
+_Generated 2026-10-19T02:21:46+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T02:21:40+00:00._
 
-Next opponent: **Tampa Bay Buccaneers** (1-5).
+Next opponent: **New Orleans Saints** (2-4).
 
-| Stat | TB | PIT |
+| Stat | NO | PIT |
 |---|---|---|
-| Points Per Game | 19.8 | 22.8 |
-| Total Yards | 292.7 | 320.5 |
-| Yards Passing | 164.8 | 221.3 |
-| Yards Rushing | 127.8 | 99.2 |
-| Points Allowed Per Game | 23.0 | 21.3 |
-| Yards Allowed | 299.5 | 307.5 |
-| Pass Yards Allowed | 224.0 | 204.3 |
-| Rush Yards Allowed | 75.5 | 103.2 |
+| Points Per Game | 25.3 | 22.8 |
+| Total Yards | 321.5 | 320.5 |
+| Yards Passing | 224.2 | 221.3 |
+| Yards Rushing | 97.3 | 99.2 |
+| Points Allowed Per Game | 29.7 | 21.3 |
+| Yards Allowed | 377.7 | 307.5 |
+| Pass Yards Allowed | 239.7 | 204.3 |
+| Rush Yards Allowed | 138.0 | 103.2 |
 
-Key players: Passing Yards: Baker Mayfield (61/96, 615 YDS, 2 TD, 2 INT); Rushing Yards: Bucky Irving (96 CAR, 452 YDS, 2 TD); Receiving Yards: Emeka Egbuka (28 REC, 240 YDS, 2 TD); Sacks: David Walker (4); Tackles: Josiah Trotter (51)
+Key players: Passing Yards: Tyler Shough (153/235, 1,443 YDS, 12 TD, 5 INT); Rushing Yards: Kendre Miller (49 CAR, 153 YDS, 2 TD); Receiving Yards: Chris Olave (43 REC, 580 YDS, 2 TD); Sacks: Chase Young (5.5); Tackles: Pete Werner (45)
 
-Injuries: Antoine Winfield Jr. (S) Out; Baker Mayfield (QB) Out; David Sills (WR) Out; Benjamin Morrison (CB) Doubtful; Ayden Garnes (CB) Questionable; Josiah Trotter (LB) Questionable; Sean Tucker (RB) Questionable; SirVocea Dennis (LB) Questionable; Jalen McMillan (WR) Injured Reserve; Josh Hayes (DB) Injured Reserve; Mohamed Kamara (LB) Injured Reserve; Xavier Williams (DB) Injured Reserve
+Injuries: Anfernee Jennings (LB) Out; Kaden Elliss (LB) Out; Alvin Kamara (RB) Questionable; Chris Olave (WR) Questionable; Lorenzo Styles Jr. (CB) Questionable; Nathan Shepherd (DT) Questionable; Zach Wood (LS) Questionable; Bryan Bresee (DL) Injured Reserve; David Long (DB) Injured Reserve; Dillon Radunz (OL) Injured Reserve; Jordyn Tyson (WR) Injured Reserve; Kelvin Banks Jr. (OL) Injured Reserve; Moliki Matavao (TE) Injured Reserve; Rejzohn Wright (DB) Injured Reserve; Travis Etienne (RB) Injured Reserve; Ty Chandler (RB) Injured Reserve; Mason Tipton (WR) Physically Unable to Perform; Nick Saldiveri (OL) Physically Unable to Perform
 
 Source: [ESPN](None)
 

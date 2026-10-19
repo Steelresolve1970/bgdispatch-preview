@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-19T02:10:18+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T02:08:55+00:00._
+_Generated 2026-10-19T02:21:46+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T02:20:35+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [NFL says Steelers-Saints in Paris still on despite civil unrest in France](https://www.espn.com/nfl/story/_/id/50211207/nfl-says-steelers-saints-game-paris-amid-unrest): ESPN, 2026-10-19 02:41 UTC
@@ -69,7 +69,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Rapid Reaction: Steelers 26, Buccaneers 19](https://www.buccaneers.com/news/bucs-lose-pittsburgh-steelers-overtime-week-6-2026-score-26-19): Tampa Bay Buccaneers, 2026-10-18 20:50 UTC
 - [Steelers Complete Wild Comeback, Beat Bucs in OT, 26-19](https://steelersnow.com/steelers-complete-wild-comeback-beat-bucs-in-ot-26-19/): Steelers Now, 2026-10-18 20:47 UTC
 - [Steelers rally past Buccaneers, 26-19, in overtime](https://www.steelers.com/news/steelers-rally-past-buccaneers-26-19-in-overtime): Steelers.com (official), 2026-10-18 20:44 UTC
-- [Aaron Rodgers rallies Steelers back from 16-point deficit to beat Bucs in overtime](https://triblive.com/sports/aaron-rodgers-rallies-steelers-back-from-16-point-deficit-to-beat-bucs-in-overtime/): TribLive, 2026-10-18 20:44 UTC
 - [The Steelers got punched in the mouth by the Buccaneers -- then their real football character showed](https://www.pennlive.com/steelers/2026/10/the-steelers-got-punched-in-the-mouth-by-the-buccaneers-then-their-real-football-character-showed.html): PennLive (Nick Farabaugh), 2026-10-18 20:44 UTC
 - [Steelers Rookie Germie Bernard Makes History vs. Buccaneers](https://steelersnow.com/steelers-rookie-germie-bernard-makes-history-vs-buccaneers/): Steelers Now, 2026-10-18 19:58 UTC
 - [Chris Boswell Breaks Steelers Record](https://steelersnow.com/chris-boswell-breaks-steelers-record/): Steelers Now, 2026-10-18 19:45 UTC
@@ -101,7 +100,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers vs. Buccaneers: Week 6 game chat](https://www.behindthesteelcurtain.com/pittsburgh-steelers-discussion/176379/steelers-vs-buccaneers-week-6-game-chat): Behind the Steel Curtain, 2026-10-18 16:30 UTC
 - [Pittsburgh Steelers get huge boost with good injury news on five starters, including Pat Freiermuth](https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-get-huge-boost-with-good-injury-news-on-five-starters-including-pat-freiermuth.html): PennLive (Nick Farabaugh), 2026-10-18 16:28 UTC
 - [Steelers-Saints game in Paris still on despite unrest in France, NFL says](https://www.nytimes.com/athletic/7701635/2026/10/18/paris-nfl-steelers-saints-protests/): The Athletic, 2026-10-18 16:26 UTC
-- [【LIVESTREAMS】#FREE!! Tampa Bay Buccaneers vs Pittsburgh Steelers NFL Match watch Live](https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2dldnRzdi5naXRodWIuaW8vdmFsby9nai54bWwiLz48L2tycGFubz4=&id=video-livestreamsfree-tampa-bay-bu-q54wb8o1): Universidad de Córdoba (UCO), 2026-10-18 16:17 UTC
+- [!+[Here's Way To Watch]" NFL Week 6 Tampa Bay Buccaneers vs Pittsburgh Steelers Live Score 18 October 2026](https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5aHVicy5ubC92b3MvbmV3L2EueG1sIi8+PC9rcnBhbm8+&id=video-nfl-week-6-tampa-bay-buccaneers-vs-pittsburgh-steelers-liv-en-usv5b1136): Universidad de Córdoba (UCO), 2026-10-18 16:12 UTC
 - [~$!【LIVE@STREAMs】 Tampa Bay Buccaneers vs Pittsburgh Steelers NFL Game LIVE Kick off time TV 18 October 2026](https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5aHVicy5ubC92b3MvbmV3L2EueG1sIi8+PC9rcnBhbm8+&id=video-tampa-bay-buccaneers-vs-pittsburgh-steelers-nfl-game-liv-en-usv5b1222): Universidad de Córdoba (UCO), 2026-10-18 16:12 UTC
 - [Huge comeback nets Steelers overtime win over Buccaneers | live updates recap](https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-at-tampa-bay-buccaneers-nfl-week-6-live-updates.html): PennLive (Nick Farabaugh), 2026-10-18 16:08 UTC
 - [Tampa Bay Buccaneers vs Pittsburgh Steelers Live match Free National Football League: Tampa Bay Buccaneers vs Pittsburgh Steelers look to seize control of thrilling Tampa Bay Buccaneers vs Pittsburgh Steelers. Every team in the Tampa Bay Buccaneers](https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5aHVicy5ubC92b3MvbmV3L2EueG1sIi8+PC9rcnBhbm8+&id=video-tampa-bay-buccaneers-vs-pittsburgh-steelers-tv666462298): Universidad de Córdoba (UCO), 2026-10-18 15:58 UTC
@@ -153,6 +152,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Week 6 Blog: Time to stack them](https://www.steelers.com/news/week-6-blog-time-to-start-stacking): Steelers.com (official), 2026-10-16 20:00 UTC
 - [DK Metcalf is questionable, and the Steelers passing game can’t afford the loss](https://stillcurtain.com/pittsburgh-steelers-buccaneers-week-5-injury-report-friday?utm_source=RSS): Still Curtain, 2026-10-16 19:36 UTC
 - [Steelers WR Depth Gets Even Worse With DK Metcalf News](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-wide-receiver-depth-worse-dk-metcalf-news): All Steelers (Sports Illustrated), 2026-10-16 19:11 UTC
+- [Adapting on the fly](https://www.steelers.com/news/adapting-on-the-fly): Steelers.com (official), 2026-10-16 18:30 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
