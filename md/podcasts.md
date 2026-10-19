@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-19T16:33:13+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T16:33:05+00:00._
+_Generated 2026-10-19T17:04:49+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T17:04:38+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Podcast: [The Terrible Podcast — Steelers-Buccaneers Game Recap, Injury Recap, Clock Management, WR Rumblings & More](https://megaphone.link/SDP8391514828): The Terrible Podcast (Steelers Depot), 2026-10-19 16:55 UTC
 - Video: [Not many linebackers can do what he did with a Tom Brady pass 🤯🔥#patriots #tombrady #nfl](https://www.youtube.com/shorts/YKPK-rOYb1Q): Not Just Football with Cam Heyward, 2026-10-19 16:00 UTC
 - Podcast: [Hour 1: A Takeover in Tampa](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-101926-mp3): Steelers Blitz, 2026-10-19 16:00 UTC
 - Video: [Steelers ILB Payton Wilson Reveals Major Change in Defense’s Approach](https://www.youtube.com/watch?v=2u8S2Cd3QIU): Steelers Now, 2026-10-19 15:37 UTC
@@ -158,7 +159,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Steelers somewhat "cleaned their house" in 34-22 win over Colts](https://www.youtube.com/watch?v=zVx3ZLnPY-0): Steel City Underground, 2026-10-12 19:12 UTC
 - Podcast: [Steelers somewhat “cleaned their house” in 34-22 win over Colts](https://www.steelcityunderground.com/podcast/2026/10/steelers-somewhat-cleaned-their-house-in-34-22-win-over-colts/): Steel City Underground, 2026-10-12 19:01 UTC
 - Video: [Pat Freiermuth Has Become an ELITE Red Zone Threat for the Steelers 🔥 #patfreiermuth #steelers #nfl](https://www.youtube.com/shorts/FVsj6C70cvU): Locked On Steelers, 2026-10-12 17:20 UTC
-- Podcast: [Hour 1: Warren Peace](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-101226-mp3): Steelers Blitz, 2026-10-12 17:00 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
