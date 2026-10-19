@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-19T03:54:27.543656+00:00",
- "date_et": "2026-10-18",
+ "generated": "2026-10-19T04:05:36.707576+00:00",
+ "date_et": "2026-10-19",
  "days": 7,
- "count": 185,
+ "count": 186,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -10,14 +10,14 @@
    "url": "https://rss.pdrl.fm/cd1f3b/feeds.simplecast.com/y_l5uReM",
    "status": "ok",
    "episodes": 500,
-   "week": 7,
-   "latest": "2026-10-18T22:38:37+00:00"
+   "week": 8,
+   "latest": "2026-10-19T04:00:00+00:00"
   },
   {
    "show": "Locked On Steelers",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7JorgD8nGLtvvMy1ogFetg",
-   "status": "error: HTTP Error 500: Internal Server Error",
+   "status": "error: HTTP Error 404: Not Found",
    "episodes": 0,
    "week": 13,
    "latest": null
@@ -98,10 +98,10 @@
    "show": "Steel City Underground",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDcNNAMkYr-DzH6_XL-0p8Q",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 2,
-   "latest": "2026-10-15T19:05:24+00:00"
+   "latest": null
   },
   {
    "show": "Steelers Afternoon Drive",
@@ -242,13 +242,21 @@
    "show": "The Christian Kuntz Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKKBJcOGsYmwAATQv-xQYeA",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 0,
-   "latest": null
+   "latest": "2009-05-26T14:01:33+00:00"
   }
  ],
  "items": [
+  {
+   "title": "Steelers WRs Germie Bernard, DK Metcalf Find Chemistry w/Aaron Rodgers in Time to Beat Buccaneers",
+   "show": "Locked On Steelers",
+   "kind": "podcast",
+   "link": "https://lockedonpodcasts.com/podcasts/locked-on-steelers/",
+   "published": "2026-10-19T04:00:00+00:00",
+   "summary": "Podcast episode from Locked On Steelers."
+  },
   {
    "title": "Germie Bernard, Jamel Dean & DK Metcalf on win at Buccaneers | Press Pass | Pittsburgh Steelers",
    "show": "Pittsburgh Steelers (official)",
@@ -1730,12 +1738,5 @@
    "summary": "Podcast episode from DK Pittsburgh Sports."
   }
  ],
- "yt_channels": [
-  {
-   "show": "The Christian Kuntz Podcast",
-   "channel_id": "UCKKBJcOGsYmwAATQv-xQYeA",
-   "link": "https://www.youtube.com/channel/UCKKBJcOGsYmwAATQv-xQYeA",
-   "embed": "https://www.youtube-nocookie.com/embed/videoseries?list=UUKKBJcOGsYmwAATQv-xQYeA"
-  }
- ]
+ "yt_channels": []
 }

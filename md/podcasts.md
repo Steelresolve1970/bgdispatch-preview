@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-19T03:54:35+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T03:54:27+00:00._
+_Generated 2026-10-19T04:05:44+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T04:05:36+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Podcast: [Steelers WRs Germie Bernard, DK Metcalf Find Chemistry w/Aaron Rodgers in Time to Beat Buccaneers](https://lockedonpodcasts.com/podcasts/locked-on-steelers/): Locked On Steelers, 2026-10-19 04:00 UTC
 - Video: [Germie Bernard, Jamel Dean & DK Metcalf on win at Buccaneers | Press Pass | Pittsburgh Steelers](https://www.youtube.com/watch?v=vxAoEcjl98k): Pittsburgh Steelers (official), 2026-10-19 01:22 UTC
 - Video: [Best fans in the world 🖤💛](https://www.youtube.com/shorts/mSgT-K71CjI): Pittsburgh Steelers (official), 2026-10-19 01:02 UTC
 - Podcast: [Scout’s Eye with Matt Williamson: Late domination](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/scouts-eye-with-matt-williamson-late-domination/): DK Pittsburgh Sports, 2026-10-19 00:14 UTC
@@ -10,7 +11,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [O H I O 🙌](https://www.youtube.com/shorts/hAyLCs34L9o): Pittsburgh Steelers (official), 2026-10-18 23:39 UTC
 - Video: [Reunited 🤝](https://www.youtube.com/shorts/_d_0PZ6tpi4): Pittsburgh Steelers (official), 2026-10-18 23:02 UTC
 - Video: [GGs](https://www.youtube.com/shorts/XkeRK_8xFk8): Pittsburgh Steelers (official), 2026-10-18 22:58 UTC
-- Podcast: [STEELERS SQUAD SHOW: McCarthy ROLLS Ankle, Steelers Big COMEBACK Leads To 1st Road Win In OT](https://lockedonpodcasts.com/podcasts/locked-on-steelers/): Locked On Steelers, 2026-10-18 22:38 UTC
 - Podcast: [Steelers Beat Bucs in OT! WILD GAME](https://bleav.com/shows/all-steelers-talk/episodes/steelers-beat-bucs-in-ot-wild-game/): All Steelers Talk, 2026-10-18 22:23 UTC
 - Podcast: [SCN Post-Game Show: The Jekyll and Hyde Steelers beat Tampa Bay in OT](http://steelcurtainnetwork.com): Steel Curtain Network (BTSC), 2026-10-18 22:17 UTC
 - Video: [Shoutout Steelers Nation 🗣️](https://www.youtube.com/shorts/01RMOt4ohRM): Pittsburgh Steelers (official), 2026-10-18 22:12 UTC

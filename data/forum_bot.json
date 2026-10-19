@@ -1,11 +1,58 @@
 {
- "generated": "2026-10-19T03:54:29.469820+00:00",
+ "generated": "2026-10-19T04:05:38.513720+00:00",
  "bot": {
   "name": "Black & Gold Dispatch Bot",
   "bot": true,
   "about": "Automated house account. Opens game threads, daily topics and polls. Not a person."
  },
  "topics": [
+  {
+   "id": "poll-2026-10-19",
+   "kind": "Weekly poll",
+   "cat": "Off-Topic",
+   "pinned": false,
+   "created": "2026-10-19T09:00:00-04:00",
+   "title": "Weekly Poll: Best Steelers home-game tradition?",
+   "body": "Vote below and explain your pick in the replies. Results show once voting opens to signed-in members.",
+   "poll": {
+    "question": "Best Steelers home-game tradition?",
+    "options": [
+     "Terrible Towels",
+     "Renegade",
+     "Tailgating on the North Shore",
+     "Pierogi race"
+    ],
+    "votes": null
+   },
+   "author": "Black & Gold Dispatch Bot",
+   "bot": true,
+   "replies": 0,
+   "views": null
+  },
+  {
+   "id": "daily-2026-10-19",
+   "kind": "Daily discussion",
+   "cat": "Depth Chart & Roster",
+   "pinned": false,
+   "created": "2026-10-19T08:00:00-04:00",
+   "title": "Daily Discussion (Oct 19): Positional Grades: Steelers At Buccaneers",
+   "body": "Today's top headline comes from Steelers Depot. Read it at the link, then tell us: does it change how you see this team?",
+   "links": [
+    {
+     "label": "Read at Steelers Depot \u2192",
+     "href": "https://steelersdepot.com/2026/10/positional-grades-steelers-at-buccaneers/",
+     "external": true
+    },
+    {
+     "label": "All news",
+     "href": "#/"
+    }
+   ],
+   "author": "Black & Gold Dispatch Bot",
+   "bot": true,
+   "replies": 0,
+   "views": null
+  },
   {
    "id": "postgame-401873002",
    "kind": "Postgame",
