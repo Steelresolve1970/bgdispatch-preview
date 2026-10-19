@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-19T13:35:27+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T13:34:03+00:00._
+_Generated 2026-10-19T13:45:48+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T13:45:40+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [WAKING UP ON VICTORY MONDAY LIKE:](https://www.youtube.com/shorts/YWUC_KWv2ug): Pittsburgh Steelers (official), 2026-10-19 12:56 UTC

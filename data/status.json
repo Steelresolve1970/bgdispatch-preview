@@ -1,10 +1,10 @@
 {
- "last_run": "2026-10-19T13:35:27.398301+00:00",
+ "last_run": "2026-10-19T13:45:49.046153+00:00",
  "results": [
   {
    "fetcher": "apply_grade_edits.py",
    "ok": true,
-   "seconds": 1.0,
+   "seconds": 0.7,
    "last_line": "no grade edits"
   },
   {
@@ -16,7 +16,7 @@
   {
    "fetcher": "fetch_schedule.py",
    "ok": true,
-   "seconds": 0.3,
+   "seconds": 0.1,
    "last_line": "record 4-2 next New Orleans Saints games 17"
   },
   {
@@ -28,7 +28,7 @@
   {
    "fetcher": "build_boxscores.py",
    "ok": true,
-   "seconds": 2.4,
+   "seconds": 2.0,
    "last_line": "boxscores 6"
   },
   {
@@ -40,37 +40,37 @@
   {
    "fetcher": "fetch_film.py",
    "ok": true,
-   "seconds": 3.4,
+   "seconds": 3.0,
    "last_line": "  Week 1 vs Falcons (W 20-13): 4   {'Steelers Depot Film Room (Alex Kozora)': 1, \"Derrick Bell \u2013 DB's Film Room (Steelers Now)\": 1, 'Steelers Almighty': 1, 'Steelers Depot (YouTube)': 1}"
   },
   {
    "fetcher": "fetch_podcasts.py",
    "ok": true,
-   "seconds": 1.7,
-   "last_line": "episodes past 7 days: 184 | embed-fallback channels: 0"
+   "seconds": 1.6,
+   "last_line": "episodes past 7 days: 183 | embed-fallback channels: 0"
   },
   {
    "fetcher": "fetch_featured.py",
    "ok": true,
-   "seconds": 0.8,
+   "seconds": 0.7,
    "last_line": "highlights Tampa Bay Buccaneers Pittsburgh Steelers vs. Tampa Bay Buccaneers Game Highlights | 2026 NFL Season Week 6"
   },
   {
    "fetcher": "fetch_grades.py",
    "ok": true,
-   "seconds": 1.4,
+   "seconds": 0.6,
    "last_line": "weeks 6 ballot players 40 season players 51"
   },
   {
    "fetcher": "fetch_stats.py",
    "ok": true,
-   "seconds": 0.3,
-   "last_line": "team stats 20 players 42 pools {'offense:passing': 61, 'offense:rushing': 227, 'offense:receiving': 385, 'defense': 1113}"
+   "seconds": 0.0,
+   "last_line": "stats fresh; skipped"
   },
   {
    "fetcher": "fetch_draft.py",
    "ok": true,
-   "seconds": 63.6,
+   "seconds": 0.0,
    "last_line": "cfbd calls by month (draft only): {'2026-10': 14}"
   },
   {
@@ -88,8 +88,8 @@
   {
    "fetcher": "fetch_college.py",
    "ok": true,
-   "seconds": 3.5,
-   "last_line": "needs 5 players 20 with news 17"
+   "seconds": 0.1,
+   "last_line": "college tracker fresh; skipped"
   },
   {
    "fetcher": "fetch_draft_hub.py",
@@ -106,25 +106,25 @@
   {
    "fetcher": "fetch_hub.py",
    "ok": true,
-   "seconds": 0.6,
-   "last_line": "injuries 16 practice 4 opp NO"
+   "seconds": 0.0,
+   "last_line": "hub fresh (<30 min); skipped"
   },
   {
    "fetcher": "fetch_depth.py",
    "ok": true,
-   "seconds": 3.0,
+   "seconds": 2.4,
    "last_line": "depth units [('Offense', '3WR 1TE', 12), ('Defense', 'Base 3-4 D', 12), ('Special teams', 'Special Teams', 6)]"
   },
   {
    "fetcher": "build_roster.py",
    "ok": true,
-   "seconds": 6.6,
-   "last_line": "roster {'Active roster': 48, 'Practice squad': 15, 'Reserve / IR': 10} {'no_draft_row': 0, 'no_stats': 15, 'no_snaps': 12}"
+   "seconds": 0.1,
+   "last_line": "roster unchanged today; skip"
   },
   {
    "fetcher": "fetch_rumors.py",
    "ok": false,
-   "seconds": 3.0,
+   "seconds": 3.1,
    "last_line": "AttributeError: module 'urllib' has no attribute 'urlparse'"
   },
   {
