@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-19T15:18:28+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T15:18:19+00:00._
+_Generated 2026-10-19T15:40:15+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T15:40:06+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [Steelers INSIDER Jim Wexell Reveals Why Aaron Rodgers’ Comeback Win Changes EVERYTHING #Steelers](https://247sports.com/nfl/pittsburgh-steelers/): The Steel City Insider (Jim Wexell, 247Sports), 2026-10-19 14:01 UTC
