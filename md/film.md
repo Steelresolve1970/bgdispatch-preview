@@ -1,8 +1,9 @@
 # Steelers Film Room & Previews
 
-_Generated 2026-10-19T23:44:19+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T23:43:52+00:00._
+_Generated 2026-10-19T23:54:58+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T23:54:38+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/film.json_
 
+- Breakdown (at Tampa Bay Buccaneers (Oct 18)): [Steelers' WR Grades vs Bucs](https://www.youtube.com/shorts/BPN3OhibZF4): Steelers Almighty, 2026-10-19 23:43 UTC
 - Breakdown (at Tampa Bay Buccaneers (Oct 18)): [Steelers' RB Grades vs Bucs](https://www.youtube.com/shorts/q_JsDrEUaBM): Steelers Almighty, 2026-10-19 21:37 UTC
 - Breakdown (at Tampa Bay Buccaneers (Oct 18)): [Steelers' QB Grades vs Bucs](https://www.youtube.com/shorts/fJ6q0C9RHys): Steelers Almighty, 2026-10-19 19:18 UTC
 - Breakdown (at Tampa Bay Buccaneers (Oct 18)): [Ugly Win in Tampa: Grading Every Steelers Unit After the OT Thriller | REPORT CARD | Week 6](https://www.youtube.com/watch?v=7rJt8I0UKLI): Steelers Almighty, 2026-10-19 18:00 UTC

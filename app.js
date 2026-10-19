@@ -133,6 +133,7 @@ function route(){const parts=(location.hash.replace(/^#\/?/,'')||'home').split('
  {const ib=document.querySelector('.sidebar .insiders');if(ib)ib.style.display=v==='home'?'':'none';} {const hs=document.querySelector('[aria-labelledby="huddleSide"]');if(hs)hs.style.display=v==='alerts'?'none':'';}
  document.querySelectorAll('nav a').forEach(a=>a.dataset.route===v?a.setAttribute('aria-current','page'):a.removeAttribute('aria-current'));document.querySelector('.more-btn')?.classList.toggle('cur',!!document.querySelector('.more a[aria-current]'));
  document.title=(v==='home'?'':TITLES[v]+' – ')+'Black & Gold Dispatch';document.body.classList.remove('nav-open');document.querySelector('.has-more')?.classList.remove('open');window.scrollTo(0,0);
+ {let m=document.getElementById('bgd-robots');const priv=r==='claim'||v==='notfound'||(r==='forum'&&/^(mod|me|new|join|signin|claim)$/.test(parts[1]||''));if(priv){if(!m){m=document.createElement('meta');m.name='robots';m.id='bgd-robots';document.head.appendChild(m);}m.content='noindex,nofollow';}else if(m)m.remove();}
  document.dispatchEvent(new CustomEvent('route',{detail:v}));
  if(r==='grades')setTimeout(()=>document.getElementById('grade-section')?.scrollIntoView({behavior:'smooth'}),150);}
 addEventListener('hashchange',route);
