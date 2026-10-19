@@ -2,7 +2,7 @@
 (function(){
 const E=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const ext='target="_blank" rel="noopener"';let pos=null;
-const ago=iso=>{const h=Math.round((Date.now()-new Date(iso))/36e5);return h<24?h+'h ago':Math.round(h/24)+'d ago';};
+const ago=iso=>{if(iso==null||iso==='')return'';const t=new Date(iso).getTime();if(!Number.isFinite(t))return'';const h=Math.round((Date.now()-t)/36e5);if(h<0||h>3650*24)return'';return h<24?h+'h ago':Math.round(h/24)+'d ago';};
 const md=s=>new Date(s+'T12:00:00Z').toLocaleDateString('en-US',{month:'short',day:'numeric'});
 function statBlock(s){if(!s)return '';if(!s.found)return `<p class="cl-nostats">Stats not found: ${E(s.why)}${s.source?` · <a href="${E(s.source)}" ${ext}>CollegeFootballData.com</a>`:''}</p>`;
  const L=s.last,res=`${L.result} ${E(L.score)} ${L.atVs==='@'?'at':'vs'} ${E(L.opponent)}`;

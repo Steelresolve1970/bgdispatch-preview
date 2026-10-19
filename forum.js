@@ -10,7 +10,7 @@ const FCATS=[
 let FB=null;
 const FE=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const botBadge='<span class="bot-badge" title="Automated house account, not a person">BOT</span>';
-const fAgo=iso=>{const m=Math.round((Date.now()-new Date(iso))/6e4);return m<0?'scheduled':m<60?m+'m ago':m<1440?Math.round(m/60)+'h ago':Math.round(m/1440)+'d ago';};
+const fAgo=iso=>{if(iso==null||iso==='')return'';const t=new Date(iso).getTime();if(!Number.isFinite(t))return'';const m=Math.round((Date.now()-t)/6e4);if(m>3650*1440)return'';return m<0?'scheduled':m<60?m+'m ago':m<1440?Math.round(m/60)+'h ago':Math.round(m/1440)+'d ago';};
 const fAv=()=>'<span class="avatar bot" aria-hidden="true">🤖</span>';
 const kindIcon={'Game thread':'🏈','Postgame':'📊','Daily discussion':'🗞️','Weekly poll':'🗳️'};
 function forumList(){const T=FB?FB.topics:[];const cnt=c=>T.filter(t=>t.cat===c).length;return `

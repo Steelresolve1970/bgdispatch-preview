@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-19T17:18:59+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T17:18:50+00:00._
+_Generated 2026-10-19T17:29:30+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T17:29:22+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Only the Steelers Can Make Winning Look So Ugly | Illegal Hands to the Face](https://www.youtube.com/watch?v=idEz7_-TZ68): Still Curtain Podcast, 2026-10-19 17:07 UTC
@@ -159,7 +159,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Drive10.12.26King: Rob King on Colts Win](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-12-26king-mp3): SNR Drive, 2026-10-12 20:00 UTC
 - Video: [Steelers somewhat "cleaned their house" in 34-22 win over Colts](https://www.youtube.com/watch?v=zVx3ZLnPY-0): Steel City Underground, 2026-10-12 19:12 UTC
 - Podcast: [Steelers somewhat “cleaned their house” in 34-22 win over Colts](https://www.steelcityunderground.com/podcast/2026/10/steelers-somewhat-cleaned-their-house-in-34-22-win-over-colts/): Steel City Underground, 2026-10-12 19:01 UTC
-- Video: [Pat Freiermuth Has Become an ELITE Red Zone Threat for the Steelers 🔥 #patfreiermuth #steelers #nfl](https://www.youtube.com/shorts/FVsj6C70cvU): Locked On Steelers, 2026-10-12 17:20 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

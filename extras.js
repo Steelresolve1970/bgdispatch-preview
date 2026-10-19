@@ -4,7 +4,7 @@
 const X={};const E=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const EXT='target="_blank" rel="noopener"';const J=u=>fetch((window.BGD_url?BGD_url(u):u),{cache:'no-store'}).then(r=>{if(!r.ok)throw r.status;return r.json()});
 const et=(iso,o)=>new Date(iso).toLocaleString('en-US',{timeZone:'America/New_York',...o});
-const ago=iso=>{const m=Math.round((Date.now()-new Date(iso))/6e4);return m<60?m+'m ago':m<1440?Math.round(m/60)+'h ago':Math.round(m/1440)+'d ago';};
+const ago=iso=>{if(iso==null||iso==='')return'';const t=new Date(iso).getTime();if(!Number.isFinite(t))return'';const m=Math.round((Date.now()-t)/6e4);if(m<0)return'';if(m>3650*1440)return'';return m<60?m+'m ago':m<1440?Math.round(m/60)+'h ago':Math.round(m/1440)+'d ago';};
 const $=id=>document.getElementById(id);const money=v=>v==null?'—':'$'+(v>=1e6?(v/1e6).toFixed(v>=1e7?1:2)+'M':Math.round(v/1e3)+'K');
 const stCls={Out:'s-out',Doubtful:'s-doubt',Questionable:'s-q','Injured Reserve':'s-ir','Physically Unable to Perform':'s-ir',Cleared:'s-ok'};
 
@@ -13,7 +13,7 @@ function injuries(){const d=X.inj,el=$('injuries-body');if(!d||!el)return;const 
  const order=['Out','Doubtful','Questionable','Injured Reserve','Physically Unable to Perform','Cleared'];
  el.innerHTML=`<p class="page-sub">${d.next_game?`Status for ${d.next_game.week}: ${d.next_game.home?'vs':'at'} ${E(d.next_game.opponent)} (${et(d.next_game.date,{weekday:'short',month:'short',day:'numeric'})}).`:''} Updated ${ago(d.generated)}.</p>
  <div class="inj-sum">${order.filter(s=>g[s]).map(s=>`<span class="pill ${stCls[s]}">${s}: <b>${g[s].length}</b></span>`).join('')}</div>
- ${order.filter(s=>g[s]).map(s=>`<h2 class="section-title">${s}</h2><div class="inj-list">${g[s].map(p=>`<a class="box inj" href="${E(p.link)}" ${EXT}><span class="pill ${stCls[s]}">${s==='Injured Reserve'?'IR':s}</span><b>${E(p.name)}</b><small>${E(p.pos)}${p.jersey?' #'+E(p.jersey):''}</small><span>${E([p.injury,p.side,p.detail].filter(Boolean).join(' · ')||'Undisclosed')}</span><small>${p.return_date&&s!=='Cleared'?'Est. return: '+et(p.return_date+'T12:00:00Z',{month:'short',day:'numeric',year:p.return_date.slice(0,4)!==String(new Date().getFullYear())?'numeric':undefined}):''} · updated ${ago(p.date)}</small></a>`).join('')}</div>`).join('')}
+ ${order.filter(s=>g[s]).map(s=>`<h2 class="section-title">${s}</h2><div class="inj-list">${g[s].map(p=>{const ret=p.return_date&&s!=='Cleared'?'Est. return: '+et(p.return_date+'T12:00:00Z',{month:'short',day:'numeric',year:p.return_date.slice(0,4)!==String(new Date().getFullYear())?'numeric':undefined}):'';return `<a class="box inj" href="${E(p.link)}" ${EXT}><span class="pill ${stCls[s]}">${s==='Injured Reserve'?'IR':s}</span><b>${E(p.name)}</b><small>${E(p.pos)}${p.jersey?' #'+E(p.jersey):''}</small><span>${E([p.injury,p.side,p.detail].filter(Boolean).join(' · ')||'Undisclosed')}</span>${ret?`<small>${ret}</small>`:''}</a>`;}).join('')}</div>`).join('')}
  <h2 class="section-title">Practice report (from headlines)</h2>
  <div class="box"><ul class="plain">${d.practice_headlines.length?d.practice_headlines.map(h=>`<li><a href="${E(h.link)}" ${EXT}>${E(h.title)}</a> <small>${E(h.source)} · ${ago(h.published)}</small></li>`).join(''):'<li>No practice-report headlines this week yet.</li>'}</ul></div>
  <p class="fine">${E(d.note)} Game statuses come from the official NFL injury report (via nflverse), which updates daily, mostly overnight; same-day moves show up first in the practice-report headlines below.</p>`;}

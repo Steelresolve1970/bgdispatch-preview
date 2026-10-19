@@ -2,8 +2,8 @@ const $=id=>document.getElementById(id);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const ext='target="_blank" rel="noopener"';
 const ET={timeZone:'America/New_York'};
-function ago(iso){if(!iso)return'';const m=Math.max(0,Math.round((Date.now()-new Date(iso))/60000));
- if(m<60)return m+'m ago';const h=Math.round(m/60);if(h<24)return h+'h ago';return Math.round(h/24)+'d ago';}
+function ago(iso){if(iso==null||iso==='')return'';const t=new Date(iso).getTime();if(!Number.isFinite(t))return'';const m=Math.max(0,Math.round((Date.now()-t)/60000));
+ if(m>3650*1440)return'';if(m<60)return m+'m ago';const h=Math.round(m/60);if(h<24)return h+'h ago';return Math.round(h/24)+'d ago';}
 window.BGD_V=document.querySelector('meta[name="bgd-build"]')?.content||'';
 window.BGD_url=u=>{const v=window.BGD_V;if(!v||v==='dev')return u;return u+(u.includes('?')?'&':'?')+'v='+encodeURIComponent(v);};
 const getJSON=u=>fetch(BGD_url(u),{cache:'no-store'}).then(r=>{if(!r.ok)throw r.status;return r.json()});
