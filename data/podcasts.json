@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T22:42:13.491524+00:00",
+ "generated": "2026-10-19T22:53:07.415017+00:00",
  "date_et": "2026-10-19",
  "days": 7,
  "count": 183,
@@ -89,10 +89,10 @@
    "show": "Steel City Underground",
    "kind": "podcast",
    "url": "https://feeds.feedburner.com/steelcityunderground",
-   "status": "ok",
-   "episodes": 45,
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "episodes": 0,
    "week": 2,
-   "latest": "2026-10-19T19:40:55+00:00"
+   "latest": null
   },
   {
    "show": "Steel City Underground",

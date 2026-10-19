@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T22:42:03.596206+00:00",
+ "generated": "2026-10-19T22:52:50.289403+00:00",
  "count": 150,
  "sources": [
   {
@@ -29,8 +29,8 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "ok",
-   "steelers_items": 24
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "steelers_items": 0
   },
   {
    "source": "Still Curtain",
@@ -72,7 +72,7 @@
    "source": "Yahoo Sports",
    "url": "https://sports.yahoo.com/nfl/rss/",
    "status": "ok",
-   "steelers_items": 2
+   "steelers_items": 1
   },
   {
    "source": "Google News",
@@ -107,6 +107,14 @@
  ],
  "items": [
   {
+   "title": "Aaron Rodgers, Jalen Ramsey reach personal milestones in Steelers win over Buccaneers",
+   "source": "Behind the Steel Curtain",
+   "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176581/aaron-rodgers-jalen-ramsey-reach-personal-milestones-in-steelers-win-over-buccaneers",
+   "published": "2026-10-19T22:50:34+00:00",
+   "summary": "Game story from Behind the Steel Curtain. Full report at the original publisher.",
+   "id": "05ce0d8afb"
+  },
+  {
    "title": "Steelers Afternoon Drive: Will Bernard Breakout Blow Up WR Plans?",
    "source": "Steelers Now",
    "link": "https://steelersnow.com/steelers-afternoon-drive-will-bernard-breakout-blow-up-wr-plans/",
@@ -132,12 +140,12 @@
   },
   {
    "title": "Steelers' belief in their massive rookie class is paying early dividends",
-   "source": "CTPost",
-   "link": "https://www.ctpost.com/sports/article/steelers-belief-in-their-massive-rookie-class-is-22484589.php",
-   "published": "2026-10-19T21:53:59+00:00",
+   "source": "New Haven Register",
+   "link": "https://www.nhregister.com/sports/article/steelers-belief-in-their-massive-rookie-class-is-22484589.php",
+   "published": "2026-10-19T21:49:39+00:00",
    "via": "Google News",
-   "summary": "News story from CTPost. Full report at the original publisher.",
-   "id": "5de352de26"
+   "summary": "News story from New Haven Register. Full report at the original publisher.",
+   "id": "50972f9f97"
   },
   {
    "title": "Listen: The Terrible Take (Episode 2,055)",
@@ -202,23 +210,6 @@
    "published": "2026-10-19T20:45:24+00:00",
    "summary": "News story from SteelerNation. Full report at the original publisher.",
    "id": "1764c213ad"
-  },
-  {
-   "title": "Steelers 'excited' for NFL Paris game vs Saints despite spate of disruptive protests",
-   "source": "Yahoo Sports",
-   "link": "https://sports.yahoo.com/articles/steelers-excited-nfl-paris-game-204318458.html",
-   "published": "2026-10-19T20:43:18+00:00",
-   "summary": "Game story from Yahoo Sports. Full report at the original publisher.",
-   "id": "d2c0222cd3"
-  },
-  {
-   "title": "NFL: Steelers-Saints game in Paris still on despite civil unrest",
-   "source": "WJAC",
-   "link": "https://wjactv.com/sports/steelers/nfl-steelers-saints-game-in-paris-still-on-despite-civil-unrest-france-pittsburgh-new-orleans-football-sports",
-   "published": "2026-10-19T20:41:30+00:00",
-   "via": "Google News",
-   "summary": "Game story from WJAC. Full report at the original publisher.",
-   "id": "160502b8f6"
   },
   {
    "title": "McCarthy Reveals Steelers\u2019 Travel Plan for Paris",
@@ -507,6 +498,15 @@
    "id": "af2878d322"
   },
   {
+   "title": "Chris Boswell Makes Steelers History in Week 6 Win Against Buccaneers",
+   "source": "SportsNet Pittsburgh",
+   "link": "https://sportsnetpittsburgh.com/pittsburgh-steelers/news/chris-boswell-steelers-history-week-6-win-buccaneers/18effaa85f4e239f2212df12",
+   "published": "2026-10-19T16:41:51+00:00",
+   "via": "Google News",
+   "summary": "Game story from SportsNet Pittsburgh. Full report at the original publisher.",
+   "id": "17b75b7576"
+  },
+  {
    "title": "Pittsburgh Steelers players address upcoming trip to Paris amid France unrest, violence",
    "source": "CBS News",
    "link": "https://www.cbsnews.com/pittsburgh/news/pittsburgh-steelers-paris-france-violence-unrest-protests/",
@@ -713,14 +713,6 @@
    "id": "da4c5f3a6a"
   },
   {
-   "title": "Steelers Takeaways: Second-half comeback saves Pittsburgh in overtime win over Buccaneers",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/19/steelers-takeaways-second-half-comeback-saves-pittsburgh-in-overtime-win-over-buccaneers/",
-   "published": "2026-10-19T13:14:03+00:00",
-   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
-   "id": "dfe2de4202"
-  },
-  {
    "title": "Germie Bernard's growing connection with Aaron Rodgers has Steelers buzzing",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/germie-bernard-growing-connection-aaron-rodgers-pittsburgh-steelers-buzzing-01m59441d0x6?utm_source=RSS",
@@ -769,14 +761,6 @@
    "via": "Google News",
    "summary": "Trade/roster move story from A to Z Sports. Full report at the original publisher.",
    "id": "16ae1373d4"
-  },
-  {
-   "title": "Plays of the Game: Jamel Dean\u2019s interception sets up Steelers\u2019 late lead",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/19/plays-of-the-game-jamel-deans-interception-sets-up-steelers-late-lead/",
-   "published": "2026-10-19T11:40:57+00:00",
-   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
-   "id": "c1a0198967"
   },
   {
    "title": "Steelers get last laugh in Joey Porter Jr. drama with Cowboys",
@@ -1129,15 +1113,6 @@
    "id": "b13ee28e63"
   },
   {
-   "title": "The Pittsburgh Steelers\u2019 \u2018diva whisperer\u2019 secretly earned a doctorate while coaching NFL stars",
-   "source": "The New York Times",
-   "link": "https://www.nytimes.com/athletic/7691693/2026/10/16/adam-henry-pittsburgh-steelers-receivers-coach/",
-   "published": "2026-10-18T20:07:00+00:00",
-   "via": "Google News",
-   "summary": "News story from The New York Times. Full report at the original publisher.",
-   "id": "41c2451e1a"
-  },
-  {
    "title": "Steelers safety, former Penn State star goes down with injury against Buccaneers",
    "source": "PennLive (Nick Farabaugh)",
    "link": "https://www.pennlive.com/steelers/2026/10/steelers-safety-former-penn-state-star-goes-down-with-injury-against-buccaneers.html",
@@ -1194,14 +1169,6 @@
    "published": "2026-10-18T16:50:00+00:00",
    "summary": "Game story from Behind the Steel Curtain. Full report at the original publisher.",
    "id": "a40957c6bd"
-  },
-  {
-   "title": "Steelers making calls for wide receiver trade",
-   "source": "Behind the Steel Curtain",
-   "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176496/steelers-making-calls-for-wide-receiver-trade-dk-metcalf-michael-pittman",
-   "published": "2026-10-18T16:42:46+00:00",
-   "summary": "Trade/roster move story from Behind the Steel Curtain. Full report at the original publisher.",
-   "id": "a8f78f94ea"
   },
   {
    "title": "Pittsburgh Steelers get huge boost with good injury news on five starters, including Pat Freiermuth",
@@ -1287,14 +1254,6 @@
    "id": "e1fb31e68f"
   },
   {
-   "title": "SCU Week in Review \u2013 October 18th",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/18/scu-week-in-review-october-18th-2/",
-   "published": "2026-10-18T11:10:45+00:00",
-   "summary": "News story from Steel City Underground. Full report at the original publisher.",
-   "id": "3168b8bdcc"
-  },
-  {
    "title": "Steelers' tight end duo could counter costly WR injuries vs. Buccaneers",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/pittsburgh-steelers-tight-end-duo-could-counter-costly-wr-injuries-vs-buccaneers-01m534w1agdq?utm_source=RSS",
@@ -1334,6 +1293,48 @@
    "published": "2026-10-18T08:00:00+00:00",
    "summary": "News story from Pittsburgh Post-Gazette. Full report at the original publisher.",
    "id": "1c38ff48aa"
+  },
+  {
+   "title": "Former Super Bowl champ, Pittsburgh Steelers player arrested on domestic assault charge",
+   "source": "KATU",
+   "link": "https://katu.com/news/nation-world/former-nfl-super-bowl-champ-pittsburgh-steelers-cordarrelle-patterson-arrested-domestic-assault-charge-tennessee",
+   "published": "2026-10-18T07:00:00+00:00",
+   "via": "Google News",
+   "summary": "News story from KATU. Full report at the original publisher.",
+   "id": "ac7422fe9f"
+  },
+  {
+   "title": "The Pittsburgh Steelers\u2019 \u2018diva whisperer\u2019 secretly earned a doctorate while coaching NFL stars",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/athletic/7691693/2026/10/16/adam-henry-pittsburgh-steelers-receivers-coach/",
+   "published": "2026-10-18T07:00:00+00:00",
+   "via": "Google News",
+   "summary": "News story from The New York Times. Full report at the original publisher.",
+   "id": "41c2451e1a"
+  },
+  {
+   "title": "\u2018I feel it coming for sure\u2019: Steelers\u2019 Kaden Wetjen predicts special teams surge",
+   "source": "TribLive",
+   "link": "https://triblive.com/sports/i-feel-it-coming-for-sure-steelers-kaden-wetjen-predicts-special-teams-surge/",
+   "published": "2026-10-18T02:24:41+00:00",
+   "summary": "News story from TribLive. Full report at the original publisher.",
+   "id": "4abe846430"
+  },
+  {
+   "title": "Pittsburgh Steelers lose speedy wide receiver, add two more unheralded names",
+   "source": "PennLive (Nick Farabaugh)",
+   "link": "https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-lose-speedy-wide-receiver-add-two-more-unheralded-names.html",
+   "published": "2026-10-18T01:39:03+00:00",
+   "summary": "News story from PennLive (Nick Farabaugh). Full report at the original publisher.",
+   "id": "5d28179078"
+  },
+  {
+   "title": "Pittsburgh Steelers\u2019 star tight end goes down with calf injury",
+   "source": "PennLive (Nick Farabaugh)",
+   "link": "https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-star-tight-end-goes-down-with-calf-injury.html",
+   "published": "2026-10-18T01:05:46+00:00",
+   "summary": "Injury story from PennLive (Nick Farabaugh). Full report at the original publisher.",
+   "id": "0b38fc1620"
   }
  ],
  "dropped_bad_links": 0

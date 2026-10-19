@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-19T22:42:29+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T22:42:13+00:00._
+_Generated 2026-10-19T22:53:23+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T22:53:07+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Will Bernard Breakout Blow Up WR Plans? | Steelers Afternoon Drive](https://www.youtube.com/watch?v=7KJmrLW9OyQ): Steelers Now, 2026-10-19 22:34 UTC
