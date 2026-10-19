@@ -1,15 +1,17 @@
 # Steelers News
 
-_Generated 2026-10-19T22:53:23+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T22:52:50+00:00._
+_Generated 2026-10-19T23:04:08+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T23:03:43+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Patrick Graham Explains What Makes Nick Herbig ‘Special’](https://steelersdepot.com/2026/10/patrick-graham-explains-what-makes-nick-herbig-special/): Steelers Depot, 2026-10-19 23:00 UTC
+- [Steelers' belief in their massive rookie class is paying early dividends](https://www.lmtonline.com/sports/article/steelers-belief-in-their-massive-rookie-class-is-22484589.php): Laredo Morning Times, 2026-10-19 22:52 UTC
 - [Aaron Rodgers, Jalen Ramsey reach personal milestones in Steelers win over Buccaneers](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176581/aaron-rodgers-jalen-ramsey-reach-personal-milestones-in-steelers-win-over-buccaneers): Behind the Steel Curtain, 2026-10-19 22:50 UTC
 - [Steelers Afternoon Drive: Will Bernard Breakout Blow Up WR Plans?](https://steelersnow.com/steelers-afternoon-drive-will-bernard-breakout-blow-up-wr-plans/): Steelers Now, 2026-10-19 22:34 UTC
 - [Steelers' Jamel Dean Admits Rocky Sideline Energy Before Critical Comeback Against Buccaneers](https://www.steelernation.com/2026/10/19/steelers-jamel-dean-critical-comeback): SteelerNation, 2026-10-19 22:34 UTC
 - [‘Brian Thomas Jr. Needs To Be A Steeler’: Trai Essex Wants Pittsburgh To Trade For Jaguars WR](https://steelersdepot.com/2026/10/brian-thomas-jr-needs-to-be-a-steeler-trai-essex-wants-pittsburgh-to-trade-for-jaguars-wr/): Steelers Depot, 2026-10-19 22:30 UTC
-- [Steelers' belief in their massive rookie class is paying early dividends](https://www.nhregister.com/sports/article/steelers-belief-in-their-massive-rookie-class-is-22484589.php): New Haven Register, 2026-10-19 21:49 UTC
 - [Listen: The Terrible Take (Episode 2,055)](https://steelersdepot.com/2026/10/listen-the-terrible-take-episode-2055/): Steelers Depot, 2026-10-19 21:30 UTC
 - [Steelers’ Mike McCarthy defends play-calling after Jamel Dean interception](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176579/steelers-mike-mccarthy-defends-play-calling-after-jamel-dean-interception): Behind the Steel Curtain, 2026-10-19 21:30 UTC
+- [Steelers Insider Offers Blunt Update on Potential JuJu Smith-Schuster Reunion](https://heavy.com/sports/nfl/pittsburgh-steelers/juju-smith-schuster-nfl-news-reunion-kaboly/): Heavy.com, 2026-10-19 21:22 UTC
 - [The protests in France are a ‘continuing conversation’ for the Steelers before their game in Paris](https://www.post-gazette.com/sports/steelers/2026/10/19/steelers-paris-game-france-protests/stories/202610190026): Pittsburgh Post-Gazette, 2026-10-19 21:21 UTC
 - [‘There’s Nobody That Can Stop Him’: Chad Johnson Urges Steelers To Get Darnell Washington ‘Involved More’](https://steelersdepot.com/2026/10/theres-nobody-that-can-stop-him-chad-johnson-urges-steelers-to-get-darnell-washington-involved-more/): Steelers Depot, 2026-10-19 21:15 UTC
 - ['It goes a long way'](https://www.steelers.com/news/it-goes-a-long-way): Steelers.com (official), 2026-10-19 21:00 UTC
@@ -33,6 +35,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [McCarthy Says Rooney, Players Held Meeting With NFL Ahead Of Paris Game Amid Unrest](https://steelersdepot.com/2026/10/mccarthy-says-rooney-players-held-meeting-with-nfl-ahead-of-paris-game-amid-unrest/): Steelers Depot, 2026-10-19 19:34 UTC
 - [Quarterback Aaron Rodgers on Pittsburgh Steelers offense in the second half](https://www.nfl.com/videos/aaron-rodgers-on-steelers-offense-in-the-second-half): NFL.com, 2026-10-19 19:32 UTC
 - [‘Aggressive:’ Steelers Linebacker Praises Patrick Graham For Opening Up Playbook](https://steelersdepot.com/2026/10/aggressive-steelers-linebacker-praises-patrick-graham-for-opening-up-playbook/): Steelers Depot, 2026-10-19 19:15 UTC
+- [Steelers vs Saints picks, predictions, odds for NFL Week 7 game Sunday](https://www.azcentral.com/story/sports/nfl/2026/10/19/pittsburgh-steelers-new-orleans-saints-picks-predictions-odds-nfl-week-7/90426283007/): azcentral.com and The Arizona Republic, 2026-10-19 19:08 UTC
 - [Aaron Rodgers bashes Buccaneers’ poor playing surface: ‘That’s not very safe’](https://www.pennlive.com/steelers/2026/10/aaron-rodgers-doesnt-hold-back-about-the-buccaneers-playing-surface-thats-not-very-safe.html): PennLive (Nick Farabaugh), 2026-10-19 19:07 UTC
 - [‘It Looks Crazy Out There:’ Steelers’ Jaquan Brisker Reacts To Paris Protests](https://steelersdepot.com/2026/10/it-looks-crazy-out-there-steelers-jaquan-brisker-reacts-to-paris-protests/): Steelers Depot, 2026-10-19 19:00 UTC
 - [Steelers' Most Important Defenders Emerge in Week 6 Victory](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-most-important-defenders-emerge-week-6-victory): All Steelers (Sports Illustrated), 2026-10-19 19:00 UTC
@@ -58,9 +61,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [The Steelers finally unleashed their blitzes — and Jalen Ramsey — at Tampa Bay](https://www.post-gazette.com/sports/steelers/2026/10/19/steelers-blitz-jalen-ramsey/stories/202610190025): Pittsburgh Post-Gazette, 2026-10-19 16:30 UTC
 - [Pittsburgh Steelers lose key cornerback to hamstring injury](https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-lose-key-cornerback-to-injury.html): PennLive (Nick Farabaugh), 2026-10-19 16:16 UTC
 - [Steelers' WR Problem Got A Lot Worse With Latest Michael Pittman Jr Report](https://www.steelernation.com/2026/10/19/steelers-problem-worse-michael-pittman-jr): SteelerNation, 2026-10-19 16:07 UTC
-- [Film Room: Jamel Dean Turns In Dominant Performance In Tampa Bay Return](https://steelersdepot.com/2026/10/film-room-jamel-dean-turns-in-dominant-performance-in-tampa-bay-return/): Steelers Depot, 2026-10-19 16:00 UTC
 - [Steelers’ winning ways are hiding a troubling Chris Boswell problem](https://stillcurtain.com/pittsburgh-steelers-winning-ways-hiding-troubling-chris-boswell-problem-01m5a2ekha59?utm_source=RSS): Still Curtain, 2026-10-19 16:00 UTC
-- [Pittsburgh Steelers could face a challenge in Paris that has nothing to do with the game against the New Orleans Saints](https://atozsports.com/nfl/pittsburgh-steelers-news/steelers-facing-travel-dangers-vs-saints-paris-france-protest-unrest/): A to Z Sports, 2026-10-19 16:00 UTC
 - [Where Steelers Stand in AFC North After Huge Comeback Win](https://www.si.com/nfl/steelers/onsi/where-pittsburgh-steelers-stand-afc-north-huge-comeback-win): All Steelers (Sports Illustrated), 2026-10-19 16:00 UTC
 - [Fans turned out for Steelers international watch parties](https://www.steelers.com/news/fans-turned-out-for-steelers-international-watch-parties): Steelers.com (official), 2026-10-19 15:50 UTC
 - [The Steelers are heading to Paris in 3 days as protests continue, and one player says what he’s seen online “looks crazy out there”](https://www.pennlive.com/steelers/2026/10/the-steelers-are-heading-to-paris-in-3-days-as-protests-continue-and-one-player-says-what-hes-seen-online-looks-crazy-out-there.html): PennLive (Nick Farabaugh), 2026-10-19 15:49 UTC
@@ -69,7 +70,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [4 Colts trade candidates the Steelers could poach after Ballard firing](https://stillcurtain.com/4-indianapolis-colts-trade-candidates-pittsburgh-steelers-could-poach-chris-ballard-firing-01m5a7n7aspa?utm_source=RSS): Still Curtain, 2026-10-19 15:00 UTC
 - [Jalen Ramsey is the glue to the Steelers’ defense](https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176552/jalen-ramsey-is-the-glue-to-the-steelers-defense): Behind the Steel Curtain, 2026-10-19 15:00 UTC
 - [Eagles Will Be Without Jalen Hurts vs. Steelers](https://steelersnow.com/eagles-will-be-without-jalen-hurts-vs-steelers/): Steelers Now, 2026-10-19 14:38 UTC
-- [Steelers vs Saints picks, predictions, odds for NFL Week 7 game Sunday](https://www.azcentral.com/story/sports/nfl/2026/10/19/pittsburgh-steelers-new-orleans-saints-picks-predictions-odds-nfl-week-7/90426283007/): azcentral.com and The Arizona Republic, 2026-10-19 14:30 UTC
 - [Steelers news: What to make of the Steelers’ win over the Bucs](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176554/steelers-news-what-to-make-of-the-steelers-win-over-the-bucs): Behind the Steel Curtain, 2026-10-19 14:18 UTC
 - [Still Celebrating Sloppy Steelers Win? | Steelers Morning Rush](https://steelersnow.com/still-celebrating-sloppy-steelers-win-steelers-morning-rush/): Steelers Now, 2026-10-19 14:00 UTC
 - [QBs Worst Nightmare? Steelers CB Jalen Ramsey Provides Even More Value](https://steelersnow.com/qbs-worst-nightmare-steelers-cb-jalen-ramsey-provides-even-more-value/): Steelers Now, 2026-10-19 14:00 UTC

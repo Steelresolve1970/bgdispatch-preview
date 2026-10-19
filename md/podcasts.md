@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-19T22:53:23+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T22:53:07+00:00._
+_Generated 2026-10-19T23:04:08+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T23:03:52+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Video: [Why Steelers MUST RUN THE BALL to Fix their 3rd Down Failures | Mike McCarthy's Necessary Changes](https://www.youtube.com/shorts/mXiVHOzgvR4): Locked On Steelers, 2026-10-19 22:54 UTC
 - Video: [Will Bernard Breakout Blow Up WR Plans? | Steelers Afternoon Drive](https://www.youtube.com/watch?v=7KJmrLW9OyQ): Steelers Now, 2026-10-19 22:34 UTC
 - Video: [Jaquan Brisker, Jack Sawyer & Payton Wilson Press Conference (October 19) | Pittsburgh Steelers](https://www.youtube.com/watch?v=eZZ5tuTJolA): Pittsburgh Steelers (official), 2026-10-19 22:20 UTC
 - Podcast: [DK's Double Shot of Steelers: Credit to this defense](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-double-shot-of-steelers-credit-to-this-defense/): DK Pittsburgh Sports, 2026-10-19 22:15 UTC
