@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-19T21:32:46+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T21:32:16+00:00._
+_Generated 2026-10-19T21:43:53+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T21:43:20+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Podcast: [Steelers Battling Over Trade | What's Different About This Team?](https://bleav.com/shows/all-steelers-talk/episodes/steelers-battling-over-trade-whats-different-about-this-team/): All Steelers Talk, 2026-10-19 21:35 UTC
 - Podcast: [The Terrible Take - Episode 2055 - October 19, 2026](https://megaphone.link/SDP4685563774): The Terrible Podcast (Steelers Depot), 2026-10-19 21:00 UTC
 - Video: [Coach McCarthy Press Conference (Week 7 at New Orleans Saints) | Pittsburgh Steelers](https://www.youtube.com/watch?v=M2zs_f3U6tQ): Pittsburgh Steelers (official), 2026-10-19 20:45 UTC
 - Video: [Steelers Save Their Best for Last in Overtime Win in Tampa](https://www.youtube.com/watch?v=WwJom70LMfs): Steel City Underground, 2026-10-19 20:01 UTC

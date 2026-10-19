@@ -1,6 +1,6 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-19T21:32:46+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T21:32:28+00:00._
+_Generated 2026-10-19T21:43:53+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T21:43:48+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
 - **Rumor** · tier: Beat writer / team · consensus: 1 source(s), top tier Beat writer / team
@@ -10,11 +10,15 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 - **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
   [Veteran Steelers QB Named Eagles Trade Target After Jalen Hurts News](https://sports.yahoo.com/articles/veteran-steelers-qb-named-eagles-183142596.html): Yahoo Sports, first seen 2026-10-19 21:10 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 2 source(s), top tier National insider
+  [3 players Steelers must target at 2026 NFL trade deadline](https://clutchpoints.com/nfl/pittsburgh-steelers/3-players-steelers-must-target-at-2026-nfl-trade-deadline): ClutchPoints, first seen 2026-10-19 21:43 UTC
+- **Rumor** · tier: Aggregator / other · consensus: 2 source(s), top tier National insider
   [Veteran Steelers QB Named Eagles Trade Target After Jalen Hurts News](https://heavy.com/sports/nfl/pittsburgh-steelers/steelers-mason-rudolph-trade-target-eagles-jalen-hurts/): Heavy.com, first seen 2026-10-19 17:56 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [4 Colts trade candidates the Steelers could poach after Ballard firing](https://stillcurtain.com/4-indianapolis-colts-trade-candidates-pittsburgh-steelers-could-poach-chris-ballard-firing-01m5a7n7aspa?utm_source=RSS): Still Curtain, first seen 2026-10-19 17:56 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [Steelers' win over the Buccaneers can't distract them from making a trade that suddenly looks very likely after Sunday](https://atozsports.com/nfl/pittsburgh-steelers-news/steelers-wr-rumors-brian-thomas-jr-jaguars-nfl-trade-deadline/): A to Z Sports, first seen 2026-10-19 17:56 UTC
+- **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
+  [Steelers' win over the Buccaneers can't distract them from making a trade that suddenly looks very likely after Sunday](https://atozsports.com/nfl/pittsburgh-steelers-news/steelers-wr-rumors-brian-thomas-jr-jaguars-nfl-trade-deadline/): A to Z Sports, first seen 2026-10-19 21:43 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [Steelers ‘Calling Around’ WR Market Weeks Before NFL Trade Deadline: Report](https://heavy.com/sports/nfl/pittsburgh-steelers/nfl-trade-deadline-rumors-news-wide-receivers-pelissero/): Heavy.com, first seen 2026-10-19 17:56 UTC
 - **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider

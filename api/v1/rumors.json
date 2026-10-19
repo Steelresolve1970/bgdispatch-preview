@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "rumors",
  "description": "Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).",
- "generated": "2026-10-19T21:32:46+00:00",
- "data_updated": "2026-10-19T21:32:28+00:00",
- "count": 40,
+ "generated": "2026-10-19T21:43:53+00:00",
+ "data_updated": "2026-10-19T21:43:48+00:00",
+ "count": 42,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -110,6 +110,39 @@
    }
   },
   {
+   "id": "e44e8dd7936e",
+   "type": "rumor",
+   "title": "3 players Steelers must target at 2026 NFL trade deadline",
+   "summary": "Trade/roster move story from ClutchPoints. Full report at the original publisher.",
+   "url": "https://clutchpoints.com/nfl/pittsburgh-steelers/3-players-steelers-must-target-at-2026-nfl-trade-deadline",
+   "source": {
+    "name": "ClutchPoints",
+    "url": null,
+    "reliability_tier": "Aggregator / other",
+    "reliability_score": 1
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-19T21:43:48+00:00",
+   "updated": "2026-10-19T21:43:48+00:00",
+   "published": "2026-10-19T18:22:31+00:00",
+   "people": [],
+   "consensus": {
+    "cluster_id": "d7826af8a2b8",
+    "independent_sources": 2,
+    "sources": [
+     "ClutchPoints",
+     "Yahoo Sports"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "1d875174f96b",
+     "d7826af8a2b8"
+    ]
+   }
+  },
+  {
    "id": "7484671f5438",
    "type": "rumor",
    "title": "Veteran Steelers QB Named Eagles Trade Target After Jalen Hurts News",
@@ -189,14 +222,47 @@
    "published": "2026-10-19T12:00:00+00:00",
    "people": [],
    "consensus": {
-    "cluster_id": "16ae1373d425",
+    "cluster_id": "56de2dc448e1",
     "independent_sources": 1,
     "sources": [
      "A to Z Sports"
     ],
     "highest_tier": "Aggregator / other",
     "highest_tier_score": 1,
-    "related_ids": []
+    "related_ids": [
+     "56de2dc448e1"
+    ]
+   }
+  },
+  {
+   "id": "56de2dc448e1",
+   "type": "rumor",
+   "title": "Steelers' win over the Buccaneers can't distract them from making a trade that suddenly looks very likely after Sunday",
+   "summary": "Trade/roster move story from A to Z Sports. Full report at the original publisher.",
+   "url": "https://atozsports.com/nfl/pittsburgh-steelers-news/steelers-wr-rumors-brian-thomas-jr-jaguars-nfl-trade-deadline/",
+   "source": {
+    "name": "A to Z Sports",
+    "url": null,
+    "reliability_tier": "Aggregator / other",
+    "reliability_score": 1
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-19T21:43:48+00:00",
+   "updated": "2026-10-19T21:43:48+00:00",
+   "published": "2026-10-19T12:00:00+00:00",
+   "people": [],
+   "consensus": {
+    "cluster_id": "56de2dc448e1",
+    "independent_sources": 1,
+    "sources": [
+     "A to Z Sports"
+    ],
+    "highest_tier": "Aggregator / other",
+    "highest_tier_score": 1,
+    "related_ids": [
+     "16ae1373d425"
+    ]
    }
   },
   {
@@ -569,6 +635,7 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "e44e8dd7936e",
      "d7826af8a2b8"
     ]
    }
@@ -635,6 +702,7 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "e44e8dd7936e",
      "1d875174f96b"
     ]
    }

@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T21:32:28.098361+00:00",
+ "generated": "2026-10-19T21:43:48.997226+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -126,6 +126,36 @@
    "updated": "2026-10-19T21:10:05.781517+00:00"
   },
   {
+   "id": "e44e8dd7936e",
+   "title": "3 players Steelers must target at 2026 NFL trade deadline",
+   "source": "ClutchPoints",
+   "link": "https://clutchpoints.com/nfl/pittsburgh-steelers/3-players-steelers-must-target-at-2026-nfl-trade-deadline",
+   "published": "2026-10-19T18:22:31+00:00",
+   "summary": "Rumor-style report from ClutchPoints on a Steelers roster move. Full details at the source.",
+   "tier": "Aggregator / other",
+   "tier_score": 1,
+   "subjects": [],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-19T21:43:48.997226+00:00",
+   "consensus": {
+    "cluster_id": "d7826af8a2b8",
+    "independent_sources": 2,
+    "sources": [
+     "ClutchPoints",
+     "Yahoo Sports"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "1d875174f96b",
+     "d7826af8a2b8"
+    ]
+   },
+   "updated": "2026-10-19T21:43:48.997226+00:00"
+  },
+  {
    "id": "7484671f5438",
    "title": "Veteran Steelers QB Named Eagles Trade Target After Jalen Hurts News",
    "source": "Heavy.com",
@@ -195,16 +225,46 @@
    "status_link": null,
    "first_seen": "2026-10-19T17:56:36.682233+00:00",
    "consensus": {
-    "cluster_id": "16ae1373d425",
+    "cluster_id": "56de2dc448e1",
     "independent_sources": 1,
     "sources": [
      "A to Z Sports"
     ],
     "highest_tier": "Aggregator / other",
     "highest_tier_score": 1,
-    "related_ids": []
+    "related_ids": [
+     "56de2dc448e1"
+    ]
    },
    "updated": "2026-10-19T17:56:36.682233+00:00"
+  },
+  {
+   "id": "56de2dc448e1",
+   "title": "Steelers' win over the Buccaneers can't distract them from making a trade that suddenly looks very likely after Sunday",
+   "source": "A to Z Sports",
+   "link": "https://atozsports.com/nfl/pittsburgh-steelers-news/steelers-wr-rumors-brian-thomas-jr-jaguars-nfl-trade-deadline/",
+   "published": "2026-10-19T12:00:00+00:00",
+   "summary": "Rumor-style report from A to Z Sports on a Steelers roster move. Full details at the source.",
+   "tier": "Aggregator / other",
+   "tier_score": 1,
+   "subjects": [],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-19T21:43:48.997226+00:00",
+   "consensus": {
+    "cluster_id": "56de2dc448e1",
+    "independent_sources": 1,
+    "sources": [
+     "A to Z Sports"
+    ],
+    "highest_tier": "Aggregator / other",
+    "highest_tier_score": 1,
+    "related_ids": [
+     "16ae1373d425"
+    ]
+   },
+   "updated": "2026-10-19T21:43:48.997226+00:00"
   },
   {
    "id": "bc2d13b779c2",
@@ -539,6 +599,7 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "e44e8dd7936e",
      "d7826af8a2b8"
     ]
    },
@@ -599,6 +660,7 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "e44e8dd7936e",
      "1d875174f96b"
     ]
    },
