@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-19T17:39:53+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T17:39:45+00:00._
+_Generated 2026-10-19T18:00:54+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T18:00:47+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Podcast: [Steel City Insider: Recapping the Steelers OT win over the Buccaneers](http://steelcurtainnetwork.com): Steel Curtain Network (BTSC), 2026-10-19 17:40 UTC
 - Video: [Only the Steelers Can Make Winning Look So Ugly | Illegal Hands to the Face](https://www.youtube.com/watch?v=idEz7_-TZ68): Still Curtain Podcast, 2026-10-19 17:07 UTC
 - Podcast: [The Terrible Podcast — Steelers-Buccaneers Game Recap, Injury Recap, Clock Management, WR Rumblings & More](https://megaphone.link/SDP8391514828): The Terrible Podcast (Steelers Depot), 2026-10-19 16:55 UTC
 - Video: [Not many linebackers can do what he did with a Tom Brady pass 🤯🔥#patriots #tombrady #nfl](https://www.youtube.com/shorts/YKPK-rOYb1Q): Not Just Football with Cam Heyward, 2026-10-19 16:00 UTC
@@ -15,7 +16,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Steelers Calling for WR Trade - But There Are Rules](https://bleav.com/shows/all-steelers-talk/episodes/steelers-calling-for-wr-trade-but-there-are-rules/): All Steelers Talk, 2026-10-19 12:26 UTC
 - Video: [Steelers Now Postgame: Steelers 26, Buccaneers 19](https://www.youtube.com/watch?v=KonkrbBsYjY): Steelers Now, 2026-10-19 12:03 UTC
 - Podcast: [Pittsburgh Steelers Win Week 6 vs Buccaneers - [What Went Right/Wrong In Week 6]](https://arthurmoats55.libsyn.com/panel_1018_ytmp3): The Arthur Moats Experience, 2026-10-19 09:52 UTC
-- Podcast: [Let's Ride: Winners and Losers after the Steelers 26-19 win over the Buccaneers](http://steelcurtainnetwork.com): Steel Curtain Network (BTSC), 2026-10-19 08:00 UTC
 - Podcast: [DK's Daily Shot of Steelers: The 1-2 catch!](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-steelers-the-1-2-catch/): DK Pittsburgh Sports, 2026-10-19 07:49 UTC
 - Podcast: [DK's Daily Shot of Penguins: Is this Kyle Dubas’ wish?](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-penguins-is-this-kyle-dubas-wish/): DK Pittsburgh Sports, 2026-10-19 07:48 UTC
 - Podcast: [DK's Daily Shot of Pirates: Social media war!](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-pirates-social-media-war/): DK Pittsburgh Sports, 2026-10-19 07:47 UTC

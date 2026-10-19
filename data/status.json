@@ -1,16 +1,16 @@
 {
- "last_run": "2026-10-19T17:50:22.185367+00:00",
+ "last_run": "2026-10-19T18:00:55.019875+00:00",
  "results": [
   {
    "fetcher": "apply_grade_edits.py",
    "ok": true,
-   "seconds": 0.8,
+   "seconds": 0.6,
    "last_line": "no grade edits"
   },
   {
    "fetcher": "fetch_news.py",
    "ok": true,
-   "seconds": 2.4,
+   "seconds": 2.3,
    "last_line": "news: 150 ticker: 30"
   },
   {
@@ -28,43 +28,43 @@
   {
    "fetcher": "build_boxscores.py",
    "ok": true,
-   "seconds": 1.9,
+   "seconds": 1.8,
    "last_line": "boxscores 6"
   },
   {
    "fetcher": "fetch_insiders.py",
    "ok": true,
-   "seconds": 1.1,
+   "seconds": 1.2,
    "last_line": "sidebar: 6 full feed: 32"
   },
   {
    "fetcher": "fetch_film.py",
    "ok": true,
-   "seconds": 3.3,
+   "seconds": 3.1,
    "last_line": "  Week 1 vs Falcons (W 20-13): 4   {'Steelers Depot Film Room (Alex Kozora)': 1, \"Derrick Bell \u2013 DB's Film Room (Steelers Now)\": 1, 'Steelers Almighty': 1, 'Steelers Depot (YouTube)': 1}"
   },
   {
    "fetcher": "fetch_podcasts.py",
    "ok": true,
-   "seconds": 1.6,
+   "seconds": 1.8,
    "last_line": "episodes past 7 days: 185 | embed-fallback channels: 0"
   },
   {
    "fetcher": "fetch_featured.py",
    "ok": true,
-   "seconds": 0.7,
+   "seconds": 1.2,
    "last_line": "highlights Tampa Bay Buccaneers Pittsburgh Steelers vs. Tampa Bay Buccaneers Game Highlights | 2026 NFL Season Week 6"
   },
   {
    "fetcher": "fetch_grades.py",
    "ok": true,
-   "seconds": 0.6,
+   "seconds": 0.7,
    "last_line": "weeks 6 ballot players 40 season players 51"
   },
   {
    "fetcher": "fetch_stats.py",
    "ok": true,
-   "seconds": 0.0,
+   "seconds": 0.1,
    "last_line": "stats fresh; skipped"
   },
   {
@@ -112,7 +112,7 @@
   {
    "fetcher": "fetch_hub.py",
    "ok": true,
-   "seconds": 0.1,
+   "seconds": 0.0,
    "last_line": "hub fresh (<30 min); skipped"
   },
   {
@@ -124,7 +124,7 @@
   {
    "fetcher": "fetch_depth.py",
    "ok": true,
-   "seconds": 2.4,
+   "seconds": 2.1,
    "last_line": "depth units [('Offense', '3WR 1TE', 12), ('Defense', 'Base 3-4 D', 12), ('Special teams', 'Special Teams', 6)]"
   },
   {
@@ -135,9 +135,9 @@
   },
   {
    "fetcher": "fetch_rumors.py",
-   "ok": false,
-   "seconds": 3.2,
-   "last_line": "AttributeError: module 'urllib' has no attribute 'urlparse'"
+   "ok": true,
+   "seconds": 1.9,
+   "last_line": "rumors 37 {'Rumor': 37, 'Confirmed': 0, 'Denied': 0}"
   },
   {
    "fetcher": "fetch_pickem.py",
@@ -165,9 +165,9 @@
   },
   {
    "fetcher": "build_machine.py",
-   "ok": false,
+   "ok": true,
    "seconds": 0.1,
-   "last_line": "TypeError: dict() got multiple values for keyword argument 'id'"
+   "last_line": "machine layer: {'news': 150, 'rumors': 37, 'injuries': 16, 'depth-chart': 28, 'schedule': 17, 'stats': 62, 'grades': 40, 'college': 20, 'insiders': 32, 'podcasts': 156, 'film': 5, 'draft': 521} md 13 feeds 5 jsonld 14"
   }
  ]
 }
