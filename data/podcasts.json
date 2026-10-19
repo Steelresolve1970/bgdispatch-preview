@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-19T01:48:04.210292+00:00",
+ "generated": "2026-10-19T01:58:42.566927+00:00",
  "date_et": "2026-10-18",
  "days": 7,
- "count": 184,
+ "count": 185,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -17,10 +17,10 @@
    "show": "Locked On Steelers",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7JorgD8nGLtvvMy1ogFetg",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
-   "week": 12,
-   "latest": null
+   "status": "ok",
+   "episodes": 15,
+   "week": 13,
+   "latest": "2026-10-18T21:57:28+00:00"
   },
   {
    "show": "The Terrible Podcast (Steelers Depot)",
@@ -80,10 +80,10 @@
    "show": "Still Curtain Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxjSNPLcRAVzDKOjhRwo-hQ",
-   "status": "error: HTTP Error 500: Internal Server Error",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 2,
-   "latest": null
+   "latest": "2026-10-15T06:43:03+00:00"
   },
   {
    "show": "Steel City Underground",
@@ -98,10 +98,10 @@
    "show": "Steel City Underground",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDcNNAMkYr-DzH6_XL-0p8Q",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 2,
-   "latest": null
+   "latest": "2026-10-15T19:05:24+00:00"
   },
   {
    "show": "Steelers Afternoon Drive",
@@ -152,10 +152,10 @@
    "show": "Steelers Now",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp1iAMIfmmgWewzJ07_Y7oA",
-   "status": "error: HTTP Error 500: Internal Server Error",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 15,
-   "latest": null
+   "latest": "2026-10-18T21:55:33+00:00"
   },
   {
    "show": "The Steel City Insider (Jim Wexell, 247Sports)",
@@ -188,7 +188,7 @@
    "show": "Nick Farabaugh on PennLive",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5yvng1eSgffmybUM-51fTw",
-   "status": "error: HTTP Error 404: Not Found",
+   "status": "ok",
    "episodes": 0,
    "week": 0,
    "latest": null
@@ -197,10 +197,10 @@
    "show": "Pittsburgh Steelers (official)",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChaRXjMDs4ppKfnTPE6Z89w",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 15,
-   "latest": null
+   "latest": "2026-10-19T01:22:57+00:00"
   },
   {
    "show": "Not Just Football with Cam Heyward",
@@ -242,13 +242,29 @@
    "show": "The Christian Kuntz Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKKBJcOGsYmwAATQv-xQYeA",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 0,
-   "latest": null
+   "latest": "2009-05-26T14:01:33+00:00"
   }
  ],
  "items": [
+  {
+   "title": "Germie Bernard, Jamel Dean & DK Metcalf on win at Buccaneers | Press Pass | Pittsburgh Steelers",
+   "show": "Pittsburgh Steelers (official)",
+   "kind": "video",
+   "link": "https://www.youtube.com/watch?v=vxAoEcjl98k",
+   "published": "2026-10-19T01:22:57+00:00",
+   "summary": "Video from Pittsburgh Steelers (official)."
+  },
+  {
+   "title": "Best fans in the world \ud83d\udda4\ud83d\udc9b",
+   "show": "Pittsburgh Steelers (official)",
+   "kind": "video",
+   "link": "https://www.youtube.com/shorts/mSgT-K71CjI",
+   "published": "2026-10-19T01:02:43+00:00",
+   "summary": "Video from Pittsburgh Steelers (official)."
+  },
   {
    "title": "Scout\u2019s Eye with Matt Williamson: Late domination",
    "show": "DK Pittsburgh Sports",
@@ -256,6 +272,38 @@
    "link": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/scouts-eye-with-matt-williamson-late-domination/",
    "published": "2026-10-19T00:14:00+00:00",
    "summary": "Podcast episode from DK Pittsburgh Sports."
+  },
+  {
+   "title": "Walk off \ud83d\ude4c",
+   "show": "Pittsburgh Steelers (official)",
+   "kind": "video",
+   "link": "https://www.youtube.com/shorts/2QLYY5in1-0",
+   "published": "2026-10-19T00:05:17+00:00",
+   "summary": "Video from Pittsburgh Steelers (official)."
+  },
+  {
+   "title": "O H I O \ud83d\ude4c",
+   "show": "Pittsburgh Steelers (official)",
+   "kind": "video",
+   "link": "https://www.youtube.com/shorts/hAyLCs34L9o",
+   "published": "2026-10-18T23:39:15+00:00",
+   "summary": "Video from Pittsburgh Steelers (official)."
+  },
+  {
+   "title": "Reunited \ud83e\udd1d",
+   "show": "Pittsburgh Steelers (official)",
+   "kind": "video",
+   "link": "https://www.youtube.com/shorts/_d_0PZ6tpi4",
+   "published": "2026-10-18T23:02:19+00:00",
+   "summary": "Video from Pittsburgh Steelers (official)."
+  },
+  {
+   "title": "GGs",
+   "show": "Pittsburgh Steelers (official)",
+   "kind": "video",
+   "link": "https://www.youtube.com/shorts/XkeRK_8xFk8",
+   "published": "2026-10-18T22:58:38+00:00",
+   "summary": "Video from Pittsburgh Steelers (official)."
   },
   {
    "title": "STEELERS SQUAD SHOW: McCarthy ROLLS Ankle, Steelers Big COMEBACK Leads To 1st Road Win In OT",
@@ -282,6 +330,14 @@
    "summary": "Podcast episode from Steel Curtain Network (BTSC)."
   },
   {
+   "title": "Shoutout Steelers Nation \ud83d\udde3\ufe0f",
+   "show": "Pittsburgh Steelers (official)",
+   "kind": "video",
+   "link": "https://www.youtube.com/shorts/01RMOt4ohRM",
+   "published": "2026-10-18T22:12:23+00:00",
+   "summary": "Video from Pittsburgh Steelers (official)."
+  },
+  {
    "title": "DK\u2019s Live Shot of Steelers: Postgame vs. Buccaneers",
    "show": "DK Pittsburgh Sports",
    "kind": "podcast",
@@ -306,19 +362,91 @@
    "summary": "Podcast episode from Steel Curtain Network (BTSC)."
   },
   {
-   "title": "TURN US UP FIVE \ud83d\udde3\ufe0f \ud83d\udcfa:CBS",
+   "title": "STEELERS SQUAD SHOW: McCarthy ROLLS Ankle, Steelers Big COMEBACK Leads To 1st Road Win In OT",
+   "show": "Locked On Steelers",
+   "kind": "video",
+   "link": "https://www.youtube.com/watch?v=oTfu6jvAWPA",
+   "published": "2026-10-18T21:57:28+00:00",
+   "summary": "Video from Locked On Steelers."
+  },
+  {
+   "title": "Steelers Now Postgame: Steelers 26, Buccaneers 19",
+   "show": "Steelers Now",
+   "kind": "video",
+   "link": "https://www.youtube.com/watch?v=KonkrbBsYjY",
+   "published": "2026-10-18T21:55:33+00:00",
+   "summary": "Video from Steelers Now."
+  },
+  {
+   "title": "Mike McCarthy Explains Clock Management Decisions in Steelers Win over Bucs",
+   "show": "Steelers Now",
+   "kind": "video",
+   "link": "https://www.youtube.com/watch?v=ZR7423xKpA8",
+   "published": "2026-10-18T21:51:16+00:00",
+   "summary": "Video from Steelers Now."
+  },
+  {
+   "title": "Coach McCarthy, Aaron Rodgers & Nick Herbig Postgame Press Conference (Week 6 at Buccaneers)",
    "show": "Pittsburgh Steelers (official)",
    "kind": "video",
-   "link": "https://www.youtube.com/shorts/Sm_S5DAD-sY",
-   "published": "2026-10-18T17:17:32+00:00",
+   "link": "https://www.youtube.com/watch?v=V1-MVjyVhs8",
+   "published": "2026-10-18T21:41:28+00:00",
    "summary": "Video from Pittsburgh Steelers (official)."
   },
   {
-   "title": "Heatin \ud83c\udd99 \ud83d\udcfa: CBS",
+   "title": "Later gator \u270c\ufe0f",
    "show": "Pittsburgh Steelers (official)",
    "kind": "video",
-   "link": "https://www.youtube.com/shorts/fys6Phve0QE",
-   "published": "2026-10-18T16:44:31+00:00",
+   "link": "https://www.youtube.com/shorts/st-Ev-iQ0y0",
+   "published": "2026-10-18T21:04:39+00:00",
+   "summary": "Video from Pittsburgh Steelers (official)."
+  },
+  {
+   "title": "RAMSEY CALLED GAME \ud83d\ude24 \ud83d\udcfa: CBS",
+   "show": "Pittsburgh Steelers (official)",
+   "kind": "video",
+   "link": "https://www.youtube.com/shorts/2y1WtqDK8GE",
+   "published": "2026-10-18T20:56:15+00:00",
+   "summary": "Video from Pittsburgh Steelers (official)."
+  },
+  {
+   "title": "GERM TD\u203c\ufe0f\u203c\ufe0f\u203c\ufe0f \ud83d\udcfa: CBS",
+   "show": "Pittsburgh Steelers (official)",
+   "kind": "video",
+   "link": "https://www.youtube.com/shorts/AcVf8dLmT3w",
+   "published": "2026-10-18T20:40:47+00:00",
+   "summary": "Video from Pittsburgh Steelers (official)."
+  },
+  {
+   "title": "DON'T MAKE A SCENE \u203c\ufe0f\ud83d\udcfa: CBS",
+   "show": "Pittsburgh Steelers (official)",
+   "kind": "video",
+   "link": "https://www.youtube.com/shorts/YB07IX8LGZw",
+   "published": "2026-10-18T20:38:56+00:00",
+   "summary": "Video from Pittsburgh Steelers (official)."
+  },
+  {
+   "title": "MOST FIELD GOALS MADE IN STEELERS HISTORY \u203c\ufe0f \ud83d\udcfa: CBS",
+   "show": "Pittsburgh Steelers (official)",
+   "kind": "video",
+   "link": "https://www.youtube.com/shorts/sPZ5fXU7IrA",
+   "published": "2026-10-18T19:48:45+00:00",
+   "summary": "Video from Pittsburgh Steelers (official)."
+  },
+  {
+   "title": "OH MY DAYS \ud83d\udcfa: CBS",
+   "show": "Pittsburgh Steelers (official)",
+   "kind": "video",
+   "link": "https://www.youtube.com/shorts/7rBIMTrClGs",
+   "published": "2026-10-18T19:42:40+00:00",
+   "summary": "Video from Pittsburgh Steelers (official)."
+  },
+  {
+   "title": "8 \u27a1\ufe0f 80 \ud83d\udcfa: CBS",
+   "show": "Pittsburgh Steelers (official)",
+   "kind": "video",
+   "link": "https://www.youtube.com/shorts/hDToC95527o",
+   "published": "2026-10-18T19:34:43+00:00",
    "summary": "Video from Pittsburgh Steelers (official)."
   },
   {
@@ -328,14 +456,6 @@
    "link": "https://megaphone.link/SDP9521387232",
    "published": "2026-10-18T14:34:00+00:00",
    "summary": "Podcast episode from The Terrible Podcast (Steelers Depot)."
-  },
-  {
-   "title": "Stepping into Sunday \ud83d\udd25",
-   "show": "Pittsburgh Steelers (official)",
-   "kind": "video",
-   "link": "https://www.youtube.com/shorts/vm2wFQePVZg",
-   "published": "2026-10-18T14:28:25+00:00",
-   "summary": "Video from Pittsburgh Steelers (official)."
   },
   {
    "title": "Steelers vs. Bucs Bold Predictions",
@@ -378,44 +498,12 @@
    "summary": "Video from Not Just Football with Cam Heyward."
   },
   {
-   "title": "Live from our Road Warrior Rally in Tampa with Casey Hampton \ud83d\ude4c",
-   "show": "Pittsburgh Steelers (official)",
-   "kind": "video",
-   "link": "https://www.youtube.com/shorts/6-WqoVTWAfQ",
-   "published": "2026-10-17T22:52:52+00:00",
-   "summary": "Video from Pittsburgh Steelers (official)."
-  },
-  {
-   "title": "Steelers Insider featuring Mike McCarthy: Week 6 at Buccaneers | Pittsburgh Steelers",
-   "show": "Pittsburgh Steelers (official)",
-   "kind": "video",
-   "link": "https://www.youtube.com/watch?v=V9s6l38p68A",
-   "published": "2026-10-17T22:00:08+00:00",
-   "summary": "Video from Pittsburgh Steelers (official)."
-  },
-  {
    "title": "The Terrible Take - Episode 2053 - October 17, 2026",
    "show": "The Terrible Podcast (Steelers Depot)",
    "kind": "podcast",
    "link": "https://megaphone.link/SDP9390482738",
    "published": "2026-10-17T21:00:00+00:00",
    "summary": "Podcast episode from The Terrible Podcast (Steelers Depot)."
-  },
-  {
-   "title": "QB1 is Tampa Bound \ud83e\udee1",
-   "show": "Pittsburgh Steelers (official)",
-   "kind": "video",
-   "link": "https://www.youtube.com/shorts/FcWE5B6vQkY",
-   "published": "2026-10-17T19:13:04+00:00",
-   "summary": "Video from Pittsburgh Steelers (official)."
-  },
-  {
-   "title": "TJ Watt & Sean Murphy-Bunting Press Conference (October 16) | Pittsburgh Steelers",
-   "show": "Pittsburgh Steelers (official)",
-   "kind": "video",
-   "link": "https://www.youtube.com/watch?v=J0z2eg6m38E",
-   "published": "2026-10-17T18:36:52+00:00",
-   "summary": "Video from Pittsburgh Steelers (official)."
   },
   {
    "title": "Which Steelers Are Fantasy Must-Plays in Week 6? | THE PITTSBURGH FOOTBALL SHOW",
@@ -432,14 +520,6 @@
    "link": "http://steelcurtainnetwork.com",
    "published": "2026-10-17T15:09:00+00:00",
    "summary": "Podcast episode from Steel Curtain Network (BTSC)."
-  },
-  {
-   "title": "Da beard to da house\u203c\ufe0f \ud83d\udcfa: #PITvsTB 10/18 at 1 PM ET on CBS",
-   "show": "Pittsburgh Steelers (official)",
-   "kind": "video",
-   "link": "https://www.youtube.com/shorts/QAZA8gFhpx8",
-   "published": "2026-10-17T14:55:44+00:00",
-   "summary": "Video from Pittsburgh Steelers (official)."
   },
   {
    "title": "Burgh Bets with Bob Konarski: NFL and CFB Picks and Props for Week 6 | THE PITTSBURGH FOOTBALL SHOW",
@@ -498,22 +578,6 @@
    "summary": "Podcast episode from DK Pittsburgh Sports."
   },
   {
-   "title": "Steelers Vs. Buccaneers Predictions | SNR Drive (Oct.16) | Pittsburgh Steelers",
-   "show": "Pittsburgh Steelers (official)",
-   "kind": "video",
-   "link": "https://www.youtube.com/watch?v=296sgc_UrHQ",
-   "published": "2026-10-16T22:00:23+00:00",
-   "summary": "Video from Pittsburgh Steelers (official)."
-  },
-  {
-   "title": "How to pressure Tampa Bay | Playbook with Merril Hoge | Pittsburgh Steelers",
-   "show": "Pittsburgh Steelers (official)",
-   "kind": "video",
-   "link": "https://www.youtube.com/watch?v=9sQcJpz3j8M",
-   "published": "2026-10-16T22:00:07+00:00",
-   "summary": "Video from Pittsburgh Steelers (official)."
-  },
-  {
    "title": "The South Side Beat - Ep. 301: Can Steelers win on the road?",
    "show": "DK Pittsburgh Sports",
    "kind": "podcast",
@@ -568,14 +632,6 @@
    "link": "https://www.youtube.com/watch?v=6s5qtvsRYeY",
    "published": "2026-10-16T17:40:06+00:00",
    "summary": "Video from Steelers Now."
-  },
-  {
-   "title": "Rookie \ud83e\udd1d Vet",
-   "show": "Pittsburgh Steelers (official)",
-   "kind": "video",
-   "link": "https://www.youtube.com/shorts/SHloU_D-kuw",
-   "published": "2026-10-16T16:53:35+00:00",
-   "summary": "Video from Pittsburgh Steelers (official)."
   },
   {
    "title": "What to Make of Mike McCarthy So Far? | Steelers Morning Rush",
@@ -656,14 +712,6 @@
    "link": "https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-16-26hr2-mp3",
    "published": "2026-10-16T15:00:00+00:00",
    "summary": "Podcast episode from SNR Drive."
-  },
-  {
-   "title": "The Vanimal is loose \ud83d\udcaa \ud83d\udcfa: #PITvsTB 10/18 at 1 PM ET on CBS",
-   "show": "Pittsburgh Steelers (official)",
-   "kind": "video",
-   "link": "https://www.youtube.com/shorts/BuUpbJ-23SI",
-   "published": "2026-10-16T14:58:19+00:00",
-   "summary": "Video from Pittsburgh Steelers (official)."
   },
   {
    "title": "Steelers Film Expert Issues a WARNING About T.J. Watt \u2014 And Reveals the Key to Beating Tampa Bay",
@@ -778,36 +826,12 @@
    "summary": "Podcast episode from Steel Curtain Network (BTSC)."
   },
   {
-   "title": "Play Pittsburgh Steeler football...",
-   "show": "Pittsburgh Steelers (official)",
-   "kind": "video",
-   "link": "https://www.youtube.com/shorts/F55KXqcDssY",
-   "published": "2026-10-15T23:15:04+00:00",
-   "summary": "Video from Pittsburgh Steelers (official)."
-  },
-  {
-   "title": "High praise for Germ \ud83d\ude4c",
-   "show": "Pittsburgh Steelers (official)",
-   "kind": "video",
-   "link": "https://www.youtube.com/shorts/_8SxiwCquxM",
-   "published": "2026-10-15T23:07:37+00:00",
-   "summary": "Video from Pittsburgh Steelers (official)."
-  },
-  {
    "title": "DK's Double Shot of Penguins: Power-play change?",
    "show": "DK Pittsburgh Sports",
    "kind": "podcast",
    "link": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-double-shot-of-penguins-power-play-change/",
    "published": "2026-10-15T22:49:00+00:00",
    "summary": "Podcast episode from DK Pittsburgh Sports."
-  },
-  {
-   "title": "Coach Mike McCarthy Press Conference (October 15) | Pittsburgh Steelers",
-   "show": "Pittsburgh Steelers (official)",
-   "kind": "video",
-   "link": "https://www.youtube.com/watch?v=JC3WUrpsNxk",
-   "published": "2026-10-15T22:45:15+00:00",
-   "summary": "Video from Pittsburgh Steelers (official)."
   },
   {
    "title": "DK\u2019s Double Shot of Steelers: Take Tampa seriously?",
@@ -919,14 +943,6 @@
    "kind": "video",
    "link": "https://www.youtube.com/watch?v=STVZGpYXHk0",
    "published": "2026-10-15T15:23:33+00:00",
-   "summary": "Video from Steelers Now."
-  },
-  {
-   "title": "Steelers Active at Trade Deadline? | Steelers Morning Rush",
-   "show": "Steelers Now",
-   "kind": "video",
-   "link": "https://www.youtube.com/watch?v=JuBqj_3iyn8",
-   "published": "2026-10-15T15:09:38+00:00",
    "summary": "Video from Steelers Now."
   },
   {
@@ -1088,14 +1104,6 @@
    "link": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-double-shot-of-penguins-disappointing-sounds-right/",
    "published": "2026-10-14T22:20:00+00:00",
    "summary": "Podcast episode from DK Pittsburgh Sports."
-  },
-  {
-   "title": "Rookie Powering Improved Run D? | Steelers Afternoon Drive",
-   "show": "Steelers Now",
-   "kind": "video",
-   "link": "https://www.youtube.com/watch?v=hvqtZnccAW4",
-   "published": "2026-10-14T22:19:28+00:00",
-   "summary": "Video from Steelers Now."
   },
   {
    "title": "Insider Gives Steelers 5 WR Trades",
@@ -1722,12 +1730,5 @@
    "summary": "Podcast episode from DK Pittsburgh Sports."
   }
  ],
- "yt_channels": [
-  {
-   "show": "The Christian Kuntz Podcast",
-   "channel_id": "UCKKBJcOGsYmwAATQv-xQYeA",
-   "link": "https://www.youtube.com/channel/UCKKBJcOGsYmwAATQv-xQYeA",
-   "embed": "https://www.youtube-nocookie.com/embed/videoseries?list=UUKKBJcOGsYmwAATQv-xQYeA"
-  }
- ]
+ "yt_channels": []
 }

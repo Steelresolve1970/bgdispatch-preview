@@ -1,42 +1,34 @@
 {
- "generated": "2026-10-18T19:05:09.963405+00:00",
- "count": 2,
+ "generated": "2026-10-19T01:58:30.174423+00:00",
+ "count": 6,
  "insiders": [
   {
    "name": "Ian Rapoport",
    "handle": "rapsheet.bsky.social",
-   "posts": 0,
-   "last_3_days": 0,
-   "errors": [
-    "bluesky_posts: <urlopen error _ssl.c:1012: The handshake operation timed out>"
-   ]
+   "posts": 30,
+   "last_3_days": 21,
+   "errors": []
   },
   {
    "name": "Tom Pelissero",
    "handle": "tompelissero.bsky.social",
-   "posts": 0,
-   "last_3_days": 0,
-   "errors": [
-    "bluesky_posts: The read operation timed out"
-   ]
+   "posts": 30,
+   "last_3_days": 1,
+   "errors": []
   },
   {
    "name": "Field Yates",
    "handle": "fieldyates.bsky.social",
-   "posts": 0,
+   "posts": 27,
    "last_3_days": 0,
-   "errors": [
-    "bluesky_posts: The read operation timed out"
-   ]
+   "errors": []
   },
   {
    "name": "Jordan Schultz",
    "handle": "schultzreport.bsky.social",
-   "posts": 0,
+   "posts": 30,
    "last_3_days": 0,
-   "errors": [
-    "bluesky_posts: <urlopen error _ssl.c:1012: The handshake operation timed out>"
-   ]
+   "errors": []
   },
   {
    "name": "Dov Kleiman",
@@ -55,29 +47,23 @@
   {
    "name": "Brooke Pryor (ESPN)",
    "handle": "bepryor.bsky.social",
-   "posts": 0,
+   "posts": 21,
    "last_3_days": 0,
-   "errors": [
-    "bluesky_posts: The read operation timed out"
-   ]
+   "errors": []
   },
   {
    "name": "Mike DeFabo (The Athletic)",
    "handle": "mikedefabo.bsky.social",
-   "posts": 0,
+   "posts": 30,
    "last_3_days": 0,
-   "errors": [
-    "bluesky_posts: The read operation timed out"
-   ]
+   "errors": []
   },
   {
    "name": "Chris Halicke (DK Pittsburgh Sports)",
    "handle": "chrishalicke.bsky.social",
-   "posts": 0,
+   "posts": 10,
    "last_3_days": 0,
-   "errors": [
-    "bluesky_posts: The read operation timed out"
-   ]
+   "errors": []
   },
   {
    "name": "Alan Saunders (Steelers Now)",
@@ -110,6 +96,26 @@
  ],
  "items": [
   {
+   "name": "Ian Rapoport",
+   "handle": "@rapsheet.bsky.social",
+   "platform": "Bluesky",
+   "topics": [],
+   "steelers": false,
+   "about": "@rapsheet.bsky.social posted about NFL news.",
+   "link": "https://bsky.app/profile/rapsheet.bsky.social/post/3my6rl4l63k2a",
+   "published": "2026-10-18T23:37:00+00:00"
+  },
+  {
+   "name": "Ian Rapoport",
+   "handle": "@rapsheet.bsky.social",
+   "platform": "Bluesky",
+   "topics": [],
+   "steelers": false,
+   "about": "@rapsheet.bsky.social posted about NFL news.",
+   "link": "https://bsky.app/profile/rapsheet.bsky.social/post/3my6lwavmws2o",
+   "published": "2026-10-18T21:56:00+00:00"
+  },
+  {
    "name": "Christopher Carter (Locked On)",
    "handle": "@cartercritiques.bsky.social",
    "platform": "Bluesky",
@@ -120,6 +126,29 @@
    "about": "@cartercritiques.bsky.social posted about the Steelers.",
    "link": "https://bsky.app/profile/cartercritiques.bsky.social/post/3my5vmspxar2h",
    "published": "2026-10-18T15:17:00+00:00"
+  },
+  {
+   "name": "Ian Rapoport",
+   "handle": "@rapsheet.bsky.social",
+   "platform": "Bluesky",
+   "topics": [
+    "the Steelers",
+    "injuries"
+   ],
+   "steelers": true,
+   "about": "@rapsheet.bsky.social posted about the Steelers, injuries.",
+   "link": "https://bsky.app/profile/rapsheet.bsky.social/post/3my5rerwbts2a",
+   "published": "2026-10-18T14:01:00+00:00"
+  },
+  {
+   "name": "Tom Pelissero",
+   "handle": "@tompelissero.bsky.social",
+   "platform": "Bluesky",
+   "topics": [],
+   "steelers": false,
+   "about": "@tompelissero.bsky.social posted about NFL news.",
+   "link": "https://bsky.app/profile/tompelissero.bsky.social/post/3mxzf2x7x7s2g",
+   "published": "2026-10-16T20:10:00+00:00"
   },
   {
    "name": "Christopher Carter (Locked On)",
@@ -137,6 +166,68 @@
  ],
  "all": [
   {
+   "name": "Ian Rapoport",
+   "handle": "@rapsheet.bsky.social",
+   "platform": "Bluesky",
+   "topics": [],
+   "steelers": false,
+   "about": "@rapsheet.bsky.social posted about NFL news.",
+   "link": "https://bsky.app/profile/rapsheet.bsky.social/post/3my6rl4l63k2a",
+   "published": "2026-10-18T23:37:00+00:00"
+  },
+  {
+   "name": "Ian Rapoport",
+   "handle": "@rapsheet.bsky.social",
+   "platform": "Bluesky",
+   "topics": [],
+   "steelers": false,
+   "about": "@rapsheet.bsky.social posted about NFL news.",
+   "link": "https://bsky.app/profile/rapsheet.bsky.social/post/3my6lwavmws2o",
+   "published": "2026-10-18T21:56:00+00:00"
+  },
+  {
+   "name": "Ian Rapoport",
+   "handle": "@rapsheet.bsky.social",
+   "platform": "Bluesky",
+   "topics": [
+    "injuries"
+   ],
+   "steelers": false,
+   "about": "@rapsheet.bsky.social posted about injuries.",
+   "link": "https://bsky.app/profile/rapsheet.bsky.social/post/3my6h2sc5w22d",
+   "published": "2026-10-18T20:29:00+00:00"
+  },
+  {
+   "name": "Ian Rapoport",
+   "handle": "@rapsheet.bsky.social",
+   "platform": "Bluesky",
+   "topics": [],
+   "steelers": false,
+   "about": "@rapsheet.bsky.social posted about NFL news.",
+   "link": "https://bsky.app/profile/rapsheet.bsky.social/post/3my6chnwqik2a",
+   "published": "2026-10-18T19:07:00+00:00"
+  },
+  {
+   "name": "Ian Rapoport",
+   "handle": "@rapsheet.bsky.social",
+   "platform": "Bluesky",
+   "topics": [],
+   "steelers": false,
+   "about": "@rapsheet.bsky.social posted about NFL news.",
+   "link": "https://bsky.app/profile/rapsheet.bsky.social/post/3my5zaqzkzs2w",
+   "published": "2026-10-18T16:22:00+00:00"
+  },
+  {
+   "name": "Ian Rapoport",
+   "handle": "@rapsheet.bsky.social",
+   "platform": "Bluesky",
+   "topics": [],
+   "steelers": false,
+   "about": "@rapsheet.bsky.social posted about NFL news.",
+   "link": "https://bsky.app/profile/rapsheet.bsky.social/post/3my5yylppwk2w",
+   "published": "2026-10-18T16:17:00+00:00"
+  },
+  {
    "name": "Christopher Carter (Locked On)",
    "handle": "@cartercritiques.bsky.social",
    "platform": "Bluesky",
@@ -147,6 +238,191 @@
    "about": "@cartercritiques.bsky.social posted about the Steelers.",
    "link": "https://bsky.app/profile/cartercritiques.bsky.social/post/3my5vmspxar2h",
    "published": "2026-10-18T15:17:00+00:00"
+  },
+  {
+   "name": "Ian Rapoport",
+   "handle": "@rapsheet.bsky.social",
+   "platform": "Bluesky",
+   "topics": [],
+   "steelers": false,
+   "about": "@rapsheet.bsky.social posted about NFL news.",
+   "link": "https://bsky.app/profile/rapsheet.bsky.social/post/3my5vc6kqa22h",
+   "published": "2026-10-18T15:11:00+00:00"
+  },
+  {
+   "name": "Ian Rapoport",
+   "handle": "@rapsheet.bsky.social",
+   "platform": "Bluesky",
+   "topics": [
+    "injuries"
+   ],
+   "steelers": false,
+   "about": "@rapsheet.bsky.social posted about injuries.",
+   "link": "https://bsky.app/profile/rapsheet.bsky.social/post/3my5snhxgys23",
+   "published": "2026-10-18T14:24:00+00:00"
+  },
+  {
+   "name": "Ian Rapoport",
+   "handle": "@rapsheet.bsky.social",
+   "platform": "Bluesky",
+   "topics": [
+    "injuries"
+   ],
+   "steelers": false,
+   "about": "@rapsheet.bsky.social posted about injuries.",
+   "link": "https://bsky.app/profile/rapsheet.bsky.social/post/3my5smhvc3k23",
+   "published": "2026-10-18T14:23:00+00:00"
+  },
+  {
+   "name": "Ian Rapoport",
+   "handle": "@rapsheet.bsky.social",
+   "platform": "Bluesky",
+   "topics": [
+    "injuries"
+   ],
+   "steelers": false,
+   "about": "@rapsheet.bsky.social posted about injuries.",
+   "link": "https://bsky.app/profile/rapsheet.bsky.social/post/3my5rohakxk2a",
+   "published": "2026-10-18T14:06:00+00:00"
+  },
+  {
+   "name": "Ian Rapoport",
+   "handle": "@rapsheet.bsky.social",
+   "platform": "Bluesky",
+   "topics": [],
+   "steelers": false,
+   "about": "@rapsheet.bsky.social posted about NFL news.",
+   "link": "https://bsky.app/profile/rapsheet.bsky.social/post/3my5rnayd6k2a",
+   "published": "2026-10-18T14:06:00+00:00"
+  },
+  {
+   "name": "Ian Rapoport",
+   "handle": "@rapsheet.bsky.social",
+   "platform": "Bluesky",
+   "topics": [
+    "injuries"
+   ],
+   "steelers": false,
+   "about": "@rapsheet.bsky.social posted about injuries.",
+   "link": "https://bsky.app/profile/rapsheet.bsky.social/post/3my5rmbgzdc2a",
+   "published": "2026-10-18T14:05:00+00:00"
+  },
+  {
+   "name": "Ian Rapoport",
+   "handle": "@rapsheet.bsky.social",
+   "platform": "Bluesky",
+   "topics": [
+    "the Steelers",
+    "injuries"
+   ],
+   "steelers": true,
+   "about": "@rapsheet.bsky.social posted about the Steelers, injuries.",
+   "link": "https://bsky.app/profile/rapsheet.bsky.social/post/3my5rerwbts2a",
+   "published": "2026-10-18T14:01:00+00:00"
+  },
+  {
+   "name": "Ian Rapoport",
+   "handle": "@rapsheet.bsky.social",
+   "platform": "Bluesky",
+   "topics": [
+    "injuries"
+   ],
+   "steelers": false,
+   "about": "@rapsheet.bsky.social posted about injuries.",
+   "link": "https://bsky.app/profile/rapsheet.bsky.social/post/3my5rdhawgs2a",
+   "published": "2026-10-18T14:00:00+00:00"
+  },
+  {
+   "name": "Ian Rapoport",
+   "handle": "@rapsheet.bsky.social",
+   "platform": "Bluesky",
+   "topics": [
+    "injuries"
+   ],
+   "steelers": false,
+   "about": "@rapsheet.bsky.social posted about injuries.",
+   "link": "https://bsky.app/profile/rapsheet.bsky.social/post/3my3yu5hjqs27",
+   "published": "2026-10-17T21:10:00+00:00"
+  },
+  {
+   "name": "Ian Rapoport",
+   "handle": "@rapsheet.bsky.social",
+   "platform": "Bluesky",
+   "topics": [
+    "the game"
+   ],
+   "steelers": false,
+   "about": "@rapsheet.bsky.social posted about the game.",
+   "link": "https://bsky.app/profile/rapsheet.bsky.social/post/3my3ysrh4g227",
+   "published": "2026-10-17T21:09:00+00:00"
+  },
+  {
+   "name": "Ian Rapoport",
+   "handle": "@rapsheet.bsky.social",
+   "platform": "Bluesky",
+   "topics": [
+    "injuries"
+   ],
+   "steelers": false,
+   "about": "@rapsheet.bsky.social posted about injuries.",
+   "link": "https://bsky.app/profile/rapsheet.bsky.social/post/3my3y5ezmr227",
+   "published": "2026-10-17T20:57:00+00:00"
+  },
+  {
+   "name": "Ian Rapoport",
+   "handle": "@rapsheet.bsky.social",
+   "platform": "Bluesky",
+   "topics": [
+    "injuries"
+   ],
+   "steelers": false,
+   "about": "@rapsheet.bsky.social posted about injuries.",
+   "link": "https://bsky.app/profile/rapsheet.bsky.social/post/3my3ce6irbc2b",
+   "published": "2026-10-17T14:27:00+00:00"
+  },
+  {
+   "name": "Tom Pelissero",
+   "handle": "@tompelissero.bsky.social",
+   "platform": "Bluesky",
+   "topics": [],
+   "steelers": false,
+   "about": "@tompelissero.bsky.social posted about NFL news.",
+   "link": "https://bsky.app/profile/tompelissero.bsky.social/post/3mxzf2x7x7s2g",
+   "published": "2026-10-16T20:10:00+00:00"
+  },
+  {
+   "name": "Ian Rapoport",
+   "handle": "@rapsheet.bsky.social",
+   "platform": "Bluesky",
+   "topics": [
+    "injuries"
+   ],
+   "steelers": false,
+   "about": "@rapsheet.bsky.social posted about injuries.",
+   "link": "https://bsky.app/profile/rapsheet.bsky.social/post/3mxzdz5iczk2m",
+   "published": "2026-10-16T19:51:00+00:00"
+  },
+  {
+   "name": "Ian Rapoport",
+   "handle": "@rapsheet.bsky.social",
+   "platform": "Bluesky",
+   "topics": [
+    "injuries"
+   ],
+   "steelers": false,
+   "about": "@rapsheet.bsky.social posted about injuries.",
+   "link": "https://bsky.app/profile/rapsheet.bsky.social/post/3mxzdyaenkc2m",
+   "published": "2026-10-16T19:51:00+00:00"
+  },
+  {
+   "name": "Ian Rapoport",
+   "handle": "@rapsheet.bsky.social",
+   "platform": "Bluesky",
+   "topics": [],
+   "steelers": false,
+   "about": "@rapsheet.bsky.social posted about NFL news.",
+   "link": "https://bsky.app/profile/rapsheet.bsky.social/post/3mxzdxacxbs2m",
+   "published": "2026-10-16T19:50:00+00:00"
   },
   {
    "name": "Christopher Carter (Locked On)",
