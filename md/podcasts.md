@@ -1,8 +1,10 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-19T13:45:48+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T13:45:40+00:00._
+_Generated 2026-10-19T14:10:50+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T14:10:40+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Podcast: [Steelers INSIDER Jim Wexell Reveals Why Aaron Rodgers’ Comeback Win Changes EVERYTHING #Steelers](https://247sports.com/nfl/pittsburgh-steelers/): The Steel City Insider (Jim Wexell, 247Sports), 2026-10-19 14:01 UTC
+- Video: [Still Celebrating Sloppy Steelers Win? | Steelers Morning Rush](https://www.youtube.com/watch?v=R9OMTs6bo3I): Steelers Now, 2026-10-19 13:59 UTC
 - Video: [WAKING UP ON VICTORY MONDAY LIKE:](https://www.youtube.com/shorts/YWUC_KWv2ug): Pittsburgh Steelers (official), 2026-10-19 12:56 UTC
 - Podcast: [Steelers Calling for WR Trade - But There Are Rules](https://bleav.com/shows/all-steelers-talk/episodes/steelers-calling-for-wr-trade-but-there-are-rules/): All Steelers Talk, 2026-10-19 12:26 UTC
 - Video: [Steelers Now Postgame: Steelers 26, Buccaneers 19](https://www.youtube.com/watch?v=KonkrbBsYjY): Steelers Now, 2026-10-19 12:03 UTC
@@ -60,7 +62,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [The Terrible Podcast — Steelers Vs Buccaneers Game Preview, Trade Possibility, Injury Report, Week 6 Picks, And More](https://megaphone.link/SDP2804469821): The Terrible Podcast (Steelers Depot), 2026-10-16 15:14 UTC
 - Podcast: [Hour 2: Ed Troupe / Around the Shield](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr2-101626-mp3): Steelers Blitz, 2026-10-16 15:00 UTC
 - Podcast: [Drive10.16.26Hr2: Week 6 Preview](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-16-26hr2-mp3): SNR Drive, 2026-10-16 15:00 UTC
-- Podcast: [Steelers Film Expert Issues a WARNING About T.J. Watt — And Reveals the Key to Beating Tampa Bay](https://247sports.com/nfl/pittsburgh-steelers/): The Steel City Insider (Jim Wexell, 247Sports), 2026-10-16 14:23 UTC
 - Podcast: [Drive10.16.26Missi: Missi Matthews on Bucs Clash](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-16missi-mp3): SNR Drive, 2026-10-16 14:01 UTC
 - Podcast: [Steelers WR Outlook: Who Replaces Roman Wilson?](https://bleav.com/shows/all-steelers-talk/episodes/steelers-wr-outlook-who-replaces-roman-wilson/): All Steelers Talk, 2026-10-16 10:27 UTC
 - Video: [Elandon Roberts on Returning to the Steelers, Super Bowl Memories & More! | Not Just Football](https://www.youtube.com/watch?v=AE8wB5uMrH4): Not Just Football with Cam Heyward, 2026-10-16 10:00 UTC
@@ -84,7 +85,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [The Steelers vs Bucs Matchup Comes Down to Who Controls the Run Game 😤 #steelers #Bucs #nfl](https://www.youtube.com/shorts/BW13C2GCr5g): Locked On Steelers, 2026-10-15 16:49 UTC
 - Video: [Not many number 1 receivers would be willing to block like DK Metcalf is 🔥👏#dkmetcalf #steelers](https://www.youtube.com/shorts/Q-zad-ffG3c): Not Just Football with Cam Heyward, 2026-10-15 16:00 UTC
 - Podcast: [Hour 1: Deep Dive into Buccaneers](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-101526-mp3): Steelers Blitz, 2026-10-15 16:00 UTC
-- Video: [Steelers Night Shift: Week 6 at Tampa Bay Buccaneers](https://www.youtube.com/watch?v=STVZGpYXHk0): Steelers Now, 2026-10-15 15:23 UTC
 - Podcast: [Hour 2: How to Lose a Game in Five Ways](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr2-101526-mp3): Steelers Blitz, 2026-10-15 15:00 UTC
 - Podcast: [Steelers Ready for Splash Trade at Deadline](https://bleav.com/shows/all-steelers-talk/?post_type=gp_podcast_episode&p=1850): All Steelers Talk, 2026-10-15 15:00 UTC
 - Video: [STEELERS SQUAD SHOW: SURPRISE! Kordell Stewart CRASHES Show, Talks 'Slash & Burn' HBO Doc](https://www.youtube.com/watch?v=CWlu-Dz7IJU): Locked On Steelers, 2026-10-15 13:15 UTC
