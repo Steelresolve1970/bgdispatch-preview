@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T04:05:36.707576+00:00",
+ "generated": "2026-10-19T04:16:49.640440+00:00",
  "date_et": "2026-10-19",
  "days": 7,
  "count": 186,
@@ -98,7 +98,7 @@
    "show": "Steel City Underground",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDcNNAMkYr-DzH6_XL-0p8Q",
-   "status": "error: HTTP Error 404: Not Found",
+   "status": "error: HTTP Error 500: Internal Server Error",
    "episodes": 0,
    "week": 2,
    "latest": null
@@ -188,7 +188,7 @@
    "show": "Nick Farabaugh on PennLive",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5yvng1eSgffmybUM-51fTw",
-   "status": "error: HTTP Error 404: Not Found",
+   "status": "ok",
    "episodes": 0,
    "week": 0,
    "latest": null

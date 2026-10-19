@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T04:04:44.340177+00:00",
+ "generated": "2026-10-19T04:15:54.940704+00:00",
  "game": {
   "label": "at Tampa Bay Buccaneers (Oct 18)",
   "opponent": "Tampa Bay Buccaneers",
@@ -55,7 +55,7 @@
    "creator": "Merril Hoge \u2013 Steelers Playbook (official)",
    "mode": "official",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChaRXjMDs4ppKfnTPE6Z89w",
-   "status": "error: HTTP Error 404: Not Found",
+   "status": "error: HTTP Error 500: Internal Server Error",
    "feed_items": 0,
    "in_window": 0
   },
@@ -95,8 +95,8 @@
    "creator": "Alex & the NFL",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsGr04a3SDjhPhsAe4xj4YQ",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
@@ -119,15 +119,15 @@
    "creator": "Steel City Underground",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDcNNAMkYr-DzH6_XL-0p8Q",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
    "creator": "Still Curtain",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxjSNPLcRAVzDKOjhRwo-hQ",
-   "status": "error: HTTP Error 404: Not Found",
+   "status": "error: HTTP Error 500: Internal Server Error",
    "feed_items": 0,
    "in_window": 0
   },
@@ -135,7 +135,7 @@
    "creator": "Locked On Steelers",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7JorgD8nGLtvvMy1ogFetg",
-   "status": "error: HTTP Error 404: Not Found",
+   "status": "error: HTTP Error 500: Internal Server Error",
    "feed_items": 0,
    "in_window": 0
   },
@@ -151,7 +151,7 @@
    "creator": "Arthur Moats Experience",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFPpVnzIt33ZPQglYd7MOqQ",
-   "status": "error: HTTP Error 500: Internal Server Error",
+   "status": "error: HTTP Error 404: Not Found",
    "feed_items": 0,
    "in_window": 0
   },
@@ -159,8 +159,8 @@
    "creator": "Derrick Bell \u2013 DB's Film Room (Steelers Now)",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNsZFFKPF0bp85qzvJ8knbQ",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 500: Internal Server Error",
+   "feed_items": 0,
    "in_window": 0
   },
   {
@@ -175,7 +175,7 @@
    "creator": "Pittsburgh Steelers (official)",
    "mode": "official-yt",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChaRXjMDs4ppKfnTPE6Z89w",
-   "status": "error: HTTP Error 404: Not Found",
+   "status": "error: HTTP Error 500: Internal Server Error",
    "feed_items": 0,
    "in_window": 0
   },
@@ -183,8 +183,8 @@
    "creator": "Baldy's Breakdowns",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHdXqjAWwGqEGfC1a9319Mw",
-   "status": "error: HTTP Error 404: Not Found",
-   "feed_items": 0,
+   "status": "ok",
+   "feed_items": 15,
    "in_window": 0
   },
   {
@@ -207,8 +207,8 @@
    "creator": "All_22_Films",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7Dbn36zT6XjfBh9YDLmGIg",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   }
  ],

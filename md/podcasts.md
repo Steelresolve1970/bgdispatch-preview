@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-19T04:05:44+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T04:05:36+00:00._
+_Generated 2026-10-19T04:16:57+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T04:16:49+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [Steelers WRs Germie Bernard, DK Metcalf Find Chemistry w/Aaron Rodgers in Time to Beat Buccaneers](https://lockedonpodcasts.com/podcasts/locked-on-steelers/): Locked On Steelers, 2026-10-19 04:00 UTC
