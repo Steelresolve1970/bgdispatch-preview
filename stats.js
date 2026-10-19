@@ -16,10 +16,10 @@ function render(d){const el=document.getElementById('stats-body');if(!el||!d)ret
  <h2 class="section-title">Team</h2><div class="st-grid">${teamHTML}</div>
  <h2 class="section-title">Players</h2>
  <div class="chips">${GROUPS.map(([x])=>`<button class="chip st-tab${x===tab?' on':''}" data-st="${x}">${x}</button>`).join('')}</div>
- <div class="box sched"><table class="st-players"><thead><tr><th>Player</th>${cols.map(c=>`<th class="num">${c}</th>`).join('')}</tr></thead><tbody>
+ <div class="box sched"><table class="st-players"><thead><tr><th>Player</th>${cols.map(c=>c==='YAC'?`<th class="num" title="Yards after catch. YAC can exceed receiving yards when catches are made behind the line of scrimmage (negative air yards), common on RB screens and checkdowns.">YAC<sup>*</sup></th>`:`<th class="num">${c}</th>`).join('')}</tr></thead><tbody>
  ${pool.map(p=>`<tr><td><b>${E(p.name)}</b> <small>${E(p.pos||'')}</small></td>${cols.map(c=>{const s=p.stats[c];return`<td class="num">${s?`${E(s.value)} ${rk(s.rank,n)}`:'<span class="na">–</span>'}</td>`}).join('')}</tr>`).join('')}
  </tbody></table></div>
- <p class="fine">Player ranks are among all ${n.toLocaleString()} NFL players with ${g.toLowerCase()} stats this season (ties share a rank). ${E(d.qbr_note)}</p>
+ <p class="fine">Player ranks are among all ${n.toLocaleString()} NFL players with ${g.toLowerCase()} stats this season (ties share a rank). ${g==='Receiving'?'<sup>*</sup>YAC = yards after catch. It can be higher than receiving yards when catches are made behind the line of scrimmage (negative air yards), common on running-back screens and checkdowns. ':''}${E(d.qbr_note)}</p>
  `;}
 let D=null;fetch(BGD_url('data/stats.json'),{cache:'no-store'}).then(r=>r.json()).then(d=>{D=d;render(D);}).catch(()=>{});
 document.addEventListener('click',e=>{const t=e.target.closest('.st-tab');if(t){tab=t.dataset.st;render(D);}});

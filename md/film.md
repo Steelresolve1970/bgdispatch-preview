@@ -1,6 +1,6 @@
 # Steelers Film Room & Previews
 
-_Generated 2026-10-19T03:32:16+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T03:31:12+00:00._
+_Generated 2026-10-19T03:43:25+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T03:42:24+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/film.json_
 
 - Breakdown (at Tampa Bay Buccaneers (Oct 18)): [NFL Week 6 Recap: Pittsburgh Steelers 26, Tampa Bay Buccaneers 19](https://www.pff.com/news/nfl-week-6-recap-pittsburgh-steelers-26-tampa-bay-buccaneers-19/): PFF, 2026-10-18 22:22 UTC

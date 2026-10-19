@@ -456,3 +456,12 @@ body.yt-modal-open{overflow:hidden}
 .story-actions{display:flex;flex-wrap:wrap;gap:10px;margin-top:1.2rem}
 .story-credit{margin-top:1rem}
 .back-link{font-weight:600}
+
+/* standings */
+.stn-conf{margin:14px 0 6px;font-size:18px;letter-spacing:1px}.stn-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.stn-div h3{margin:0 0 6px}.stn{width:100%;border-collapse:collapse;font-size:13px}.stn th,.stn td{padding:4px 5px;border-bottom:1px solid #ddd}.stn td small{color:#777}
+.stn tr.pit td,.afcn tr.pit td{background:rgba(255,182,18,.22);font-weight:700}
+@media(max-width:1100px){.stn-grid{grid-template-columns:1fr}}@media(max-width:600px){.stn td small{display:none}}
+.afcn-box{background:var(--black);color:#fff;border:3px solid var(--gold)!important}.afcn-box h2{color:var(--gold);text-transform:uppercase;letter-spacing:1px;font-weight:900}
+.afcn{width:100%;border-collapse:collapse;font-size:14px}.afcn th{color:var(--gold);text-align:left;font-size:11px;text-transform:uppercase}.afcn td{padding:5px 3px;border-bottom:1px solid #333;font-weight:600}
+.afcn tr.pit td{color:var(--gold)}.afcn-box .fine,.afcn-box a{color:#ccc}.afcn .num,.afcn th.num{text-align:right}
