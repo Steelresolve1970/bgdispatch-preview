@@ -1,6 +1,6 @@
 # NFL Insider Posts (last 3 days)
 
-_Generated 2026-10-19T19:47:11+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T19:46:58+00:00._
+_Generated 2026-10-19T19:57:33+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T19:57:19+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/insiders.json_
 
 - [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3myad5355bs2y), 2026-10-19 14:24 UTC: @rapsheet.bsky.social posted about NFL news.
@@ -32,9 +32,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/insiders.json_
 - [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3my3y5ezmr227), 2026-10-17 20:57 UTC: @rapsheet.bsky.social posted about injuries.
 - [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3my3ce6irbc2b), 2026-10-17 14:27 UTC: @rapsheet.bsky.social posted about injuries.
 - [Tom Pelissero on Bluesky](https://bsky.app/profile/tompelissero.bsky.social/post/3mxzf2x7x7s2g), 2026-10-16 20:10 UTC: @tompelissero.bsky.social posted about NFL news.
-- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mxzdz5iczk2m), 2026-10-16 19:51 UTC: @rapsheet.bsky.social posted about injuries.
-- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mxzdyaenkc2m), 2026-10-16 19:51 UTC: @rapsheet.bsky.social posted about injuries.
-- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mxzdxacxbs2m), 2026-10-16 19:50 UTC: @rapsheet.bsky.social posted about NFL news.
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
