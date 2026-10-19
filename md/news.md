@@ -1,8 +1,11 @@
 # Steelers News
 
-_Generated 2026-10-19T16:22:41+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T16:22:04+00:00._
+_Generated 2026-10-19T16:33:13+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T16:32:57+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Rodgers throws two TDs to tie Peyton on all-time list, lifts Steelers to OT win](https://www.espn.com/nfl/story/_/id/50213488/aaron-rodgers-ties-peyton-manning-all-td-pass-list): ESPN, 2026-10-19 17:30 UTC
+- [Steelers ‘Do Not Miss Joey Porter Jr. Right Now,’ Kaboly Says](https://steelersdepot.com/2026/10/steelers-do-not-miss-joey-porter-jr-right-now-kaboly-says/): Steelers Depot, 2026-10-19 16:30 UTC
+- [The Steelers finally unleashed their blitzes — and Jalen Ramsey — in Tampa Bay](https://www.post-gazette.com/sports/steelers/2026/10/19/steelers-blitz-jalen-ramsey/stories/202610190025): Pittsburgh Post-Gazette, 2026-10-19 16:30 UTC
 - [Pittsburgh Steelers lose key cornerback to hamstring injury](https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-lose-key-cornerback-to-injury.html): PennLive (Nick Farabaugh), 2026-10-19 16:16 UTC
 - [Steelers Linemen Lead Way With Top PFF Grades in Week 6 Win vs. Buccaneers](https://sportsnetpittsburgh.com/pittsburgh-steelers/news/steelers-linemen-pff-grades-week-6-buccaneers/52002b279070e5efeae8b865): SportsNet Pittsburgh, 2026-10-19 16:11 UTC
 - [Steelers' WR Problem Got A Lot Worse With Latest Michael Pittman Jr Report](https://www.steelernation.com/2026/10/19/steelers-problem-worse-michael-pittman-jr): SteelerNation, 2026-10-19 16:07 UTC
@@ -15,7 +18,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Violence and unrest intensify in Paris, other parts of France ahead of upcoming Steelers-Saints game](https://www.cbsnews.com/pittsburgh/news/violence-unrest-intensified-paris-pittsburgh-steelers-new-orleans-saints-game/): CBS News, 2026-10-19 15:34 UTC
 - [Perspective Of An Average Steelers Fan: Pittsburgh Stacks Wins](https://steelersdepot.com/2026/10/perspective-of-an-average-steelers-fan-pittsburgh-stacks-wins/): Steelers Depot, 2026-10-19 15:30 UTC
 - [Christopher Carter's Steelers and Pitt chat: 10.19.26](https://www.post-gazette.com/sports/steelers/2026/10/19/steelers-live-chat-aaron-rodgers/stories/202610190029): Pittsburgh Post-Gazette, 2026-10-19 15:30 UTC
-- [Rodgers throws two TDs to tie Peyton on all-time list, lifts Steelers to OT win](https://www.espn.com/nfl/story/_/id/50213488/aaron-rodgers-ties-peyton-manning-all-td-pass-list): ESPN, 2026-10-19 15:26 UTC
 - [Steelers PFF grades: Germie Bernard shines; Troy Fautanu stagnates](https://sports.yahoo.com/articles/steelers-pff-grades-germie-bernard-151352078.html): Yahoo Sports, 2026-10-19 15:13 UTC
 - [‘That’s A Good Sign’: Pete Prisco Credits Jalen Ramsey For ‘Fantastic’ Performance Against Buccaneers](https://steelersdepot.com/2026/10/thats-a-good-sign-pete-prico-credits-jalen-ramsey-for-fantastic-performance-against-buccaneers/): Steelers Depot, 2026-10-19 15:00 UTC
 - [4 Colts trade candidates the Steelers could poach after Ballard firing](https://stillcurtain.com/4-indianapolis-colts-trade-candidates-pittsburgh-steelers-could-poach-chris-ballard-firing-01m5a7n7aspa?utm_source=RSS): Still Curtain, 2026-10-19 15:00 UTC
@@ -74,7 +76,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Mike McCarthy Gave A Direct Message To Steelers' Aaron Rodgers And The Offense](https://www.steelernation.com/2026/10/18/steelers-mike-mccarthy-direct-aaron-rodgers): SteelerNation, 2026-10-19 00:18 UTC
 - [Steelers kicker Chris Boswell breaks franchise record for career field goals](https://triblive.com/sports/steelers-kicker-chris-boswell-breaks-franchise-record-for-career-field-goals/): TribLive, 2026-10-19 00:13 UTC
 - [Germie Bernard Breaks Steelers Record in Win over Bucs](https://steelersnow.com/germie-bernard-breaks-steelers-record-in-win-over-bucs/): Steelers Now, 2026-10-19 00:03 UTC
-- [AFC North Week 6 Standings: Browns Retake Division Lead As Race Heats Up](https://steelersdepot.com/2026/10/afc-north-week-6-standings-browns-retake-division-lead-as-race-heats-up/): Steelers Depot, 2026-10-19 00:00 UTC
 - [‘He’s from Pittsburgh, so he toughed it out’: Steelers coach Mike McCarthy misses halftime with foot injury](https://triblive.com/sports/hes-from-pittsburgh-so-he-toughed-it-out-steelers-coach-mike-mccarthy-misses-halftime-with-foot-injury/): TribLive, 2026-10-18 23:53 UTC
 - [Steelers' Aaron Rodgers Makes Definitive Statement After Buccaneers Win](https://www.steelernation.com/2026/10/18/steelers-aaron-rodgers-definitive-statement): SteelerNation, 2026-10-18 23:51 UTC
 - [Mike McCarthy Sends Strong Message To Steelers Fan Base Following Week 6 WIn](https://www.steelernation.com/2026/10/18/steelers-mike-mccarthy-strong-fan): SteelerNation, 2026-10-18 23:50 UTC
@@ -152,7 +153,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers lose Roman Wilson as receiver injuries test their remaining depth](https://stillcurtain.com/pittsburgh-steelers-lose-roman-wilson-injured-reserve-receiver-injuries-test-remaining-depth?utm_source=RSS): Still Curtain, 2026-10-17 20:12 UTC
 - [The Steelers place WR Roman Wilson on injured reserve; add tight end Pat Freiermuth to the injury report](https://www.post-gazette.com/sports/steelers/2026/10/17/the-steelers-place-wr-roman-wilson-on-injured-reserve-add-tight-end-pat-freiermu/stories/202610170039): Pittsburgh Post-Gazette, 2026-10-17 19:43 UTC
 - [Steelers place WR Roman Wilson on injured reserve](https://triblive.com/sports/steelers-place-wr-roman-wilson-on-injured-reserve/): TribLive, 2026-10-17 19:15 UTC
-- [Steelers make roster moves ahead of Buccaneers game](https://www.steelers.com/news/steelers-make-roster-moves-ahead-of-buccaneers-game): Steelers.com (official), 2026-10-17 19:02 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

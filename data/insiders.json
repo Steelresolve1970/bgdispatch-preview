@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T16:22:07.418617+00:00",
+ "generated": "2026-10-19T16:32:59.776428+00:00",
  "count": 6,
  "insiders": [
   {
@@ -54,11 +54,9 @@
   {
    "name": "Mike DeFabo (The Athletic)",
    "handle": "mikedefabo.bsky.social",
-   "posts": 0,
-   "last_3_days": 0,
-   "errors": [
-    "bluesky_posts: <urlopen error timed out>"
-   ]
+   "posts": 30,
+   "last_3_days": 1,
+   "errors": []
   },
   {
    "name": "Chris Halicke (DK Pittsburgh Sports)",
@@ -118,14 +116,16 @@
    "published": "2026-10-19T14:24:00+00:00"
   },
   {
-   "name": "Tom Pelissero",
-   "handle": "@tompelissero.bsky.social",
+   "name": "Mike DeFabo (The Athletic)",
+   "handle": "@mikedefabo.bsky.social",
    "platform": "Bluesky",
-   "topics": [],
-   "steelers": false,
-   "about": "@tompelissero.bsky.social posted about NFL news.",
-   "link": "https://bsky.app/profile/tompelissero.bsky.social/post/3myabwl2hxk2u",
-   "published": "2026-10-19T14:03:00+00:00"
+   "topics": [
+    "the Steelers"
+   ],
+   "steelers": true,
+   "about": "@mikedefabo.bsky.social posted about the Steelers.",
+   "link": "https://bsky.app/profile/mikedefabo.bsky.social/post/3myabmxxzoc23",
+   "published": "2026-10-19T13:57:00+00:00"
   },
   {
    "name": "Christopher Carter (Locked On)",
@@ -238,6 +238,18 @@
    "about": "@tompelissero.bsky.social posted about NFL news.",
    "link": "https://bsky.app/profile/tompelissero.bsky.social/post/3myabule7e22u",
    "published": "2026-10-19T14:01:00+00:00"
+  },
+  {
+   "name": "Mike DeFabo (The Athletic)",
+   "handle": "@mikedefabo.bsky.social",
+   "platform": "Bluesky",
+   "topics": [
+    "the Steelers"
+   ],
+   "steelers": true,
+   "about": "@mikedefabo.bsky.social posted about the Steelers.",
+   "link": "https://bsky.app/profile/mikedefabo.bsky.social/post/3myabmxxzoc23",
+   "published": "2026-10-19T13:57:00+00:00"
   },
   {
    "name": "Christopher Carter (Locked On)",
