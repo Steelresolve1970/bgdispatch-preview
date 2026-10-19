@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-19T18:54:07+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T18:53:59+00:00._
+_Generated 2026-10-19T19:04:36+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T19:04:28+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Video: [Coach McCarthy Press Conference (Week 7 at New Orleans Saints) | Pittsburgh Steelers](https://www.youtube.com/watch?v=M2zs_f3U6tQ): Pittsburgh Steelers (official), 2026-10-19 18:46 UTC
 - Podcast: [Steel City Insider: Recapping the Steelers OT win over the Buccaneers](http://steelcurtainnetwork.com): Steel Curtain Network (BTSC), 2026-10-19 17:40 UTC
 - Video: [Only the Steelers Can Make Winning Look So Ugly | Illegal Hands to the Face](https://www.youtube.com/watch?v=idEz7_-TZ68): Still Curtain Podcast, 2026-10-19 17:07 UTC
 - Podcast: [The Terrible Podcast — Steelers-Buccaneers Game Recap, Injury Recap, Clock Management, WR Rumblings & More](https://megaphone.link/SDP8391514828): The Terrible Podcast (Steelers Depot), 2026-10-19 16:55 UTC
@@ -40,7 +41,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [GERM TD‼️‼️‼️ 📺: CBS](https://www.youtube.com/shorts/AcVf8dLmT3w): Pittsburgh Steelers (official), 2026-10-18 20:40 UTC
 - Video: [DON'T MAKE A SCENE ‼️📺: CBS](https://www.youtube.com/shorts/YB07IX8LGZw): Pittsburgh Steelers (official), 2026-10-18 20:38 UTC
 - Video: [MOST FIELD GOALS MADE IN STEELERS HISTORY ‼️ 📺: CBS](https://www.youtube.com/shorts/sPZ5fXU7IrA): Pittsburgh Steelers (official), 2026-10-18 19:48 UTC
-- Video: [OH MY DAYS 📺: CBS](https://www.youtube.com/shorts/7rBIMTrClGs): Pittsburgh Steelers (official), 2026-10-18 19:42 UTC
 - Podcast: [The Terrible Take - Episode 2054 - October 18, 2026](https://megaphone.link/SDP9521387232): The Terrible Podcast (Steelers Depot), 2026-10-18 14:34 UTC
 - Podcast: [Steelers vs. Bucs Bold Predictions](https://bleav.com/shows/all-steelers-talk/episodes/steelers-vs-bucs-bold-predictions/): All Steelers Talk, 2026-10-18 12:35 UTC
 - Podcast: [DK's Live Shot of Steelers: Pregame vs. Buccaneers](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-live-shot-of-steelers-pregame-vs-buccaneers/): DK Pittsburgh Sports, 2026-10-18 01:37 UTC
@@ -158,7 +158,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Drive10.12.26Hr2: Around the NFL Week 5](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-12-26hr2-mp3): SNR Drive, 2026-10-12 21:00 UTC
 - Podcast: [Drive10.12.26King: Rob King on Colts Win](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-12-26king-mp3): SNR Drive, 2026-10-12 20:00 UTC
 - Video: [Steelers somewhat "cleaned their house" in 34-22 win over Colts](https://www.youtube.com/watch?v=zVx3ZLnPY-0): Steel City Underground, 2026-10-12 19:12 UTC
-- Podcast: [Steelers somewhat “cleaned their house” in 34-22 win over Colts](https://www.steelcityunderground.com/podcast/2026/10/steelers-somewhat-cleaned-their-house-in-34-22-win-over-colts/): Steel City Underground, 2026-10-12 19:01 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

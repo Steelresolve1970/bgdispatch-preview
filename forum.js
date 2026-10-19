@@ -41,7 +41,13 @@ const css=`
 .fx-score small{display:block;text-align:center;color:#ccc;margin-top:4px}.fx-score a{color:#FFB612}
 .fx-posts{display:flex;flex-direction:column;gap:10px;margin-bottom:120px}
 .fx-post{background:#fff;border-radius:10px;padding:12px 14px;box-shadow:0 1px 3px #0001}.fx-post.hid{opacity:.55;border:2px dashed #b3261e}
-.fx-post .who{display:flex;flex-wrap:wrap;gap:6px;align-items:baseline}.fx-post .who b{font-size:1rem}.fx-post .who small{color:#666}
+.fx-post .who{display:flex;flex-wrap:wrap;gap:6px;align-items:baseline}.fx-post .who2{display:flex;gap:10px;align-items:flex-start;margin-bottom:6px}.fx-post .who2 .who{flex:1}.fx-post .stat{flex-basis:100%;font-size:.78rem;color:#666}.fx-post .stat .rk{font-weight:800;color:#101010}
+.fx-av{width:44px;height:44px;border-radius:50%;flex:none;overflow:hidden;display:inline-block;background:#101010}.fx-av img,.fx-av svg{width:100%;height:100%;display:block;object-fit:cover}.fx-av.lg{width:96px;height:96px}
+.fx-avp{display:grid;grid-template-columns:repeat(auto-fill,minmax(56px,1fr));gap:8px;margin:6px 0}.fx-avp button{border:3px solid transparent;border-radius:50%;padding:0;background:none;width:56px;height:56px;cursor:pointer}.fx-avp button.on{border-color:#FFB612}.fx-avp .fx-av{width:50px;height:50px}
+.fx-upl{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin:6px 0}.fx-upl .fx-btn{position:relative;overflow:hidden}.fx-upl input[type=file]{position:absolute;inset:0;opacity:0;cursor:pointer}
+.fx-post blockquote{border-left:4px solid #FFB612;margin:4px 0 8px;padding:4px 10px;background:#faf7ee;color:#444;font-size:.92rem}.fx-rx button .l{font-size:.8rem;font-weight:700;margin-left:3px}
+.fx-pend{background:#fff3cf;border:1px solid #FFB612;border-radius:8px;padding:6px 10px;font-size:.85rem}.fx-avq{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px}.fx-avq .c{background:#fff;border-radius:12px;padding:12px;text-align:center;box-shadow:0 1px 3px #0002}.fx-avq img{width:160px;height:160px;border-radius:50%;object-fit:cover;background:#eee}.fx-avq .b{display:flex;gap:8px;margin-top:10px}.fx-avq .b button{flex:1;min-height:52px;font-size:1rem}
+.fx-post .who b{font-size:1rem}.fx-post .who small{color:#666}
 .fx-flair{background:#FFB612;color:#101010;border-radius:6px;padding:1px 6px;font-size:.78rem;font-weight:800}.fx-role{background:#101010;color:#FFB612;border-radius:6px;padding:1px 6px;font-size:.72rem;font-weight:800}
 .fx-post .tx{margin:6px 0 8px;white-space:pre-wrap;overflow-wrap:anywhere;font-size:1.02rem}
 .fx-rx{display:flex;gap:6px;flex-wrap:wrap;align-items:center}.fx-rx button{min-height:40px;min-width:48px;border-radius:20px;border:1px solid #ddd;background:#f6f6f4;font-size:1.05rem;padding:0 10px}
@@ -65,7 +71,45 @@ const css=`
 const st=document.createElement('style');st.textContent=css;document.head.appendChild(st);
 
 // ---------- body text: escape, keep line breaks, link URLs ----------
-const fmtBody=s=>E(s).replace(/https?:\/\/[^\s<]+[^\s<.,;:!?)"']/g,u=>`<a href="${u}" target="_blank" rel="noopener nofollow ugc">${u.replace(/^https?:\/\//,'').slice(0,60)}</a>`);
+// Avatars: our own simple black-and-gold art (no logos, no marks, no real people). '' = initials.
+const AVP=[['#101010','#FFB612','circle'],['#FFB612','#101010','circle'],['#101010','#FFB612','stripes'],['#FFB612','#101010','diamond'],['#101010','#FFB612','star'],['#FFB612','#101010','ball'],['#101010','#FFB612','posts'],['#FFB612','#101010','tri'],['#101010','#FFB612','chev'],['#FFB612','#101010','field'],['#101010','#FFB612','ring'],['#FFB612','#101010','bolt']];
+function avArt(k){const [bg,fg,sh]=AVP[k-1]||AVP[0];const g={circle:`<circle cx="32" cy="32" r="16" fill="${fg}"/>`,stripes:`<path d="M-8 40 40-8M8 56 56 8M24 72 72 24" stroke="${fg}" stroke-width="8"/>`,diamond:`<path d="M32 12 52 32 32 52 12 32Z" fill="${fg}"/>`,
+ star:`<path d="M32 12l5.9 12 13.1 1.9-9.5 9.3 2.2 13.1L32 42.1l-11.7 6.2 2.2-13.1-9.5-9.3 13.1-1.9z" fill="${fg}"/>`,ball:`<ellipse cx="32" cy="32" rx="20" ry="12" fill="${fg}" transform="rotate(-30 32 32)"/><path d="M26 30l12 4M28 26l-2 8M32 28l-2 7M36 30l-2 7" stroke="${bg}" stroke-width="2"/>`,
+ posts:`<path d="M20 14v20h24V14M32 34v18" stroke="${fg}" stroke-width="5" fill="none"/>`,tri:`<path d="M32 14 52 48H12Z" fill="${fg}"/>`,chev:`<path d="M14 26 32 38 50 26M14 38 32 50 50 38" stroke="${fg}" stroke-width="6" fill="none"/>`,
+ field:`<rect x="12" y="18" width="40" height="28" fill="none" stroke="${fg}" stroke-width="3"/><path d="M22 18v28M32 18v28M42 18v28" stroke="${fg}" stroke-width="2"/>`,ring:`<circle cx="32" cy="32" r="16" fill="none" stroke="${fg}" stroke-width="7"/>`,bolt:`<path d="M36 10 18 36h12l-4 18 20-28H34z" fill="${fg}"/>`}[sh];
+ return `<svg viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" fill="${bg}"/>${g}</svg>`;}
+function initials(n){const w=String(n||'?').replace(/[^A-Za-z0-9 ]/g,' ').trim().split(/\s+/);return((w[0]||'?')[0]+(w.length>1?w[w.length-1][0]:(w[0]||'')[1]||'')).toUpperCase();}
+function avInit(n){let h=0;for(const c of String(n))h=(h*31+c.charCodeAt(0))>>>0;const gold=h%2;return `<svg viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" fill="${gold?'#FFB612':'#101010'}"/><text x="32" y="41" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="800" font-size="24" fill="${gold?'#101010':'#FFB612'}">${E(initials(n))}</text></svg>`;}
+// av(key, name, uid, v, pending?) -> html. key: '' | 'pN' | 'u' (approved upload)
+function av(k,n,uid,v,cls='',pending=false){const inner=pending&&uid?`<img src="/api/avatar/${uid}?pending=1&t=${Date.now()}" alt="">`:k==='u'&&uid?`<img src="/api/avatar/${uid}?v=${v||0}" alt="" loading="lazy">`:/^p\d+$/.test(k||'')?avArt(+k.slice(1)):avInit(n);return `<span class="fx-av ${cls}">${inner}</span>`;}
+const rank=n=>n>=500?'Legend':n>=200?'All-Star':n>=50?'Veteran':n>=10?'Starter':'Rookie';   // generic words only
+const joined=t=>t?new Date(t).toLocaleDateString('en-US',{month:'short',year:'numeric'}):'';
+const RX={like:['👍','Like'],dislike:['👎','Dislike'],agree:['✅','Agree'],disagree:['❌','Disagree'],funny:['😂','Hilarious'],insightful:['💡','Insightful']};
+const UPLOAD_RULES='Only upload images you own or have permission to use. No logos, no copyrighted photos, no explicit or hateful images. Uploaded pictures are checked automatically and then approved by a moderator before others can see them.';
+// Avatar picker (sign-up + profile)
+function avPicker(cur,name){return `<div class="fx-avbox"><input type="hidden" name="avatar" value="${E(cur)}"><p class="fine" style="margin:4px 0">Pick a preset or upload your own (optional).</p>
+ <div class="fx-avp" role="radiogroup" aria-label="Avatar">${['',...AVP.map((_,i)=>'p'+(i+1))].map(k=>`<button type="button" role="radio" class="${k===cur?'on':''}" data-av="${k}" aria-checked="${k===cur}" aria-label="${k?'Preset '+k.slice(1):'Initials'}">${av(k,name)}</button>`).join('')}</div>
+ <div class="fx-upl"><span class="fx-btn ghost sm">📷 Upload a picture<input type="file" accept="image/jpeg,image/png,image/webp" aria-label="Upload a picture"></span><span class="fx-avprev"></span><small class="fx-avmsg fine" role="status"></small></div>
+ <p class="fine" style="margin:2px 0 8px">${UPLOAD_RULES}</p></div>`;}
+let NSFW=null;
+function loadScript(src){return new Promise((ok,no)=>{const s=document.createElement('script');s.src=src;s.onload=ok;s.onerror=no;document.head.appendChild(s);});}
+async function nsfwModel(){if(NSFW)return NSFW;NSFW=(async()=>{if(!window.tf)await loadScript('vendor/nsfwjs/tf.min.js');if(!window.nsfwjs)await loadScript('vendor/nsfwjs/nsfwjs.min.js');return nsfwjs.load(new URL('vendor/nsfwjs/mobilenet_v2/model.json',location.href).href);})();NSFW.catch(()=>{NSFW=null;});return NSFW;}
+// Resize to 256px square (center crop), WebP (JPEG fallback), max ~100 KB; then on-device nudity check (NSFWJS, MIT) before upload.
+async function prepAvatar(file){if(!/^image\/(jpeg|png|webp)$/.test(file.type))throw new Error('Please choose a JPEG, PNG or WebP image.');if(file.size>15e6)throw new Error('That file is too big. Try one under 15 MB.');
+ const img=await new Promise((ok,no)=>{const i=new Image();i.onload=()=>ok(i);i.onerror=()=>no(new Error('We couldn\'t read that image.'));i.src=URL.createObjectURL(file);});
+ const c=document.createElement('canvas');c.width=c.height=256;const x=c.getContext('2d');const m=Math.min(img.naturalWidth,img.naturalHeight);x.drawImage(img,(img.naturalWidth-m)/2,(img.naturalHeight-m)/2,m,m,0,0,256,256);URL.revokeObjectURL(img.src);
+ let model;try{model=await nsfwModel();}catch(e){throw new Error('Our picture safety check didn\'t load. Check your connection and try again, or pick a preset.');}
+ const pr=Object.fromEntries((await model.classify(c)).map(q=>[q.className,q.probability]));
+ if((pr.Porn||0)+(pr.Hentai||0)>0.35||(pr.Sexy||0)>0.6)throw new Error('That picture can\'t be used here. Please pick a different one (no explicit images).');
+ for(const [t,qs_] of [['image/webp',[.85,.7,.55,.4]],['image/jpeg',[.85,.7,.55,.4]]])for(const q of qs_){const u=c.toDataURL(t,q);if(u.startsWith('data:'+t)&&u.length<=136000)return u;}
+ throw new Error('We couldn\'t shrink that picture enough. Try another one.');}
+function wirePicker(root,name){const box=root.querySelector('.fx-avbox');if(!box)return;const h=box.querySelector('input[name=avatar]'),msg=box.querySelector('.fx-avmsg'),prev=box.querySelector('.fx-avprev');
+ box.querySelectorAll('[data-av]').forEach(b=>b.onclick=()=>{h.value=b.dataset.av;prev.innerHTML='';msg.textContent='';box.querySelectorAll('[data-av]').forEach(x=>{x.classList.toggle('on',x===b);x.setAttribute('aria-checked',x===b);});});
+ const fi=box.querySelector('input[type=file]');fi.onchange=async()=>{const f=fi.files[0];fi.value='';if(!f)return;msg.textContent='Checking your picture…';
+  try{const u=await prepAvatar(f);h.value=u;prev.innerHTML=`<span class="fx-av"><img src="${u}" alt="Your upload"></span>`;box.querySelectorAll('[data-av]').forEach(x=>{x.classList.remove('on');x.setAttribute('aria-checked','false');});msg.textContent='Looks good. A moderator will approve it shortly; until then others see your initials.';}
+  catch(e){msg.textContent=e.message;}};}
+const fmtQuote=s=>s.split('\n').map(l=>/^&gt; ?/.test(l)?`<blockquote>${l.replace(/^&gt; ?/,'')}</blockquote>`:l).join('\n').replace(/<\/blockquote>\n<blockquote>/g,'<br>');
+const fmtBody=s=>fmtQuote(E(s)).replace(/https?:\/\/[^\s<]+[^\s<.,;:!?)"']/g,u=>`<a href="${u}" target="_blank" rel="noopener nofollow ugc">${u.replace(/^https?:\/\//,'').slice(0,60)}</a>`);
 const roleTag=r=>r==='owner'?'<span class="fx-role">OWNER</span>':r==='mod'?'<span class="fx-role">MOD</span>':r==='bot'?'<span class="fx-role" title="Automated house account">BOT</span>':'';
 
 // ---------- header buttons ----------
@@ -119,12 +163,13 @@ async function authForm(el,mode){const nxt=qs('next')||sessionStorage.getItem('b
   <label for="f-p">Password <small>8+ characters</small></label><div class="fx-pw"><input id="f-p" name="password" type="password" autocomplete="new-password" required minlength="8"><button type="button" class="pw-t">Show</button></div>
   <label for="f-d">Display name <small>optional</small></label><input id="f-d" name="display_name" type="text" maxlength="30" placeholder="Shown on your posts">
   <label for="f-f">Favorite player <small>optional flair</small></label><input id="f-f" name="flair" type="text" list="f-fl" maxlength="40" placeholder="e.g. T.J. Watt"><datalist id="f-fl">${fl.map(n=>`<option value="${E(n)}">`).join('')}</datalist>
+  <label>Avatar <small>optional</small></label>${avPicker('','?')}
   <label class="chk"><input type="checkbox" name="age13" id="f-a"> I'm 13 or older and agree to the <a href="legal/community.html" target="_blank">community guidelines</a> and <a href="legal/terms.html" target="_blank">terms</a>.</label>`
  :`<h2>Sign in</h2><label for="f-l">Username or email</label><input id="f-l" name="login" type="text" autocomplete="username" autocapitalize="off" required>
   <label for="f-p">Password</label><div class="fx-pw"><input id="f-p" name="password" type="password" autocomplete="current-password" required><button type="button" class="pw-t">Show</button></div>`}
   <p class="fx-err" role="alert"></p><button class="fx-btn" type="submit" style="width:100%">${mode==='join'?'Create account':'Sign in'}</button>
   <p class="fine" style="text-align:center;margin-top:12px">${mode==='join'?'Already have an account? <a href="#/forum/signin">Sign in</a>':'New here? <a href="#/forum/join">Join free</a><br>Forgot your password? Email reset is coming soon; for now, ask a moderator in the forum.'}</p></form>`;
- const f=$('fx-auth');f.querySelector('.pw-t').onclick=e=>{const i=$('f-p');i.type=i.type==='password'?'text':'password';e.target.textContent=i.type==='password'?'Show':'Hide';};
+ const f=$('fx-auth');wirePicker(f,'?');f.querySelector('.pw-t').onclick=e=>{const i=$('f-p');i.type=i.type==='password'?'text':'password';e.target.textContent=i.type==='password'?'Show':'Hide';};
  f.onsubmit=async e=>{e.preventDefault();const b=f.querySelector('button[type=submit]');const er=f.querySelector('.fx-err');er.textContent='';b.disabled=true;
   const fd=Object.fromEntries(new FormData(f));if(mode==='join')fd.age13=$('f-a').checked;
   const d=await api(mode==='join'?'auth/signup':'auth/login',{body:fd});b.disabled=false;
@@ -135,13 +180,16 @@ function goNext(){const n=sessionStorage.getItem('bgd_next')||'';sessionStorage.
 function needSignIn(next){sessionStorage.setItem('bgd_next',next);location.hash='#/forum/join';}
 
 async function profile(el){if(!S.me){location.hash='#/forum/signin';return;}const fl=await flairs();
- el.innerHTML=`<p><a class="back" href="#/forum">← Forum</a></p><form class="fx-form" id="fx-prof"><h2>Your profile</h2><p class="fine">Signed in as <b>${E(S.me.username)}</b>${S.me.role!=='user'?' · '+roleTag(S.me.role):''}</p>
+ el.innerHTML=`<p><a class="back" href="#/forum">← Forum</a></p><form class="fx-form" id="fx-prof"><h2>Your profile</h2><div style="display:flex;gap:14px;align-items:center">${av(S.me.avatar,S.me.display_name,S.me.id,S.me.av_v,'lg',S.me.av_pending)}<p class="fine" style="margin:0">Signed in as <b>${E(S.me.username)}</b>${S.me.role!=='user'?' · '+roleTag(S.me.role):''}<br><b>${rank(S.me.posts||0)}</b> · ${S.me.posts||0} posts · Joined ${joined(S.me.joined)}${S.me.av_pending?'<br><span class="fx-pend">Your new picture is waiting for a moderator. Only you can see it for now.</span>':''}</p></div>
  <label for="p-d">Display name</label><input id="p-d" name="display_name" type="text" maxlength="30" value="${E(S.me.display_name)}">
  <label for="p-f">Favorite player flair</label><input id="p-f" name="flair" type="text" list="p-fl" maxlength="40" value="${E(S.me.flair)}"><datalist id="p-fl">${fl.map(n=>`<option value="${E(n)}">`).join('')}</datalist>
+ <label for="p-b">Bio <small>optional, 200 characters</small></label><textarea id="p-b" name="bio" rows="2" maxlength="200">${E(S.me.bio||'')}</textarea>
+ <label>Avatar</label>${avPicker(S.me.avatar==='u'||S.me.av_pending?'__keep':S.me.avatar,S.me.display_name)}
  <p class="fx-err" role="status"></p><button class="fx-btn" type="submit">Save</button> <button class="fx-btn ghost" type="button" id="p-out">Sign out</button>
  <p class="fine" style="margin-top:12px">Email verification and password reset by email are coming soon.</p></form>`;
- $('fx-prof').onsubmit=async e=>{e.preventDefault();const d=await api('me',{body:Object.fromEntries(new FormData(e.target))});const m=e.target.querySelector('.fx-err');
-  if(d.ok){S.me=d.user;head();m.className='fx-ok';m.textContent='Saved.';}else{m.className='fx-err';m.textContent=d.error;}};
+ wirePicker($('fx-prof'),S.me.display_name);
+ $('fx-prof').onsubmit=async e=>{e.preventDefault();const fd=Object.fromEntries(new FormData(e.target));if(fd.avatar==='__keep')delete fd.avatar;const d=await api('me',{body:fd});const m=e.target.querySelector('.fx-err');
+  if(d.ok){S.me=d.user;head();if('avatar' in fd&&String(fd.avatar).startsWith('data:'))toast('Saved. Your new picture will show to everyone once a moderator approves it.');profile($('forum-body'));}else{m.className='fx-err';m.textContent=d.error;}};
  $('p-out').onclick=async()=>{await api('auth/logout',{body:{}});S.me=null;head();location.hash='#/forum';};}
 
 // ---------- new thread (also used for Fan Mock Drafts) ----------
@@ -166,9 +214,9 @@ async function newThread(el){if(!S.me){needSignIn(qs('mock')?'mock':'new');retur
 // ---------- thread view with live polling ----------
 function postHTML(p,T){const mine=new Set((T.mine||[]).filter(x=>x.post_id===p.id).map(x=>x.emoji));const c={};(T.reactions||[]).filter(x=>x.post_id===p.id).forEach(x=>c[x.emoji]=x.n);
  const mod=S.me&&(S.me.role==='mod'||S.me.role==='owner');
- return `<article class="fx-post${p.hidden?' hid':''}" id="p${p.id}" data-id="${p.id}"><div class="who"><b>${E(p.name)}</b>${roleTag(p.role)}${p.flair?`<span class="fx-flair">${E(p.flair)}</span>`:''}<small>${ago(p.created)}${p.hidden?' · hidden':''}</small></div>
- <div class="tx">${fmtBody(p.body)}</div><div class="fx-rx">${S.emoji.map(em=>`<button type="button" class="rx${mine.has(em)?' on':''}" data-e="${em}" aria-label="React ${em}" aria-pressed="${mine.has(em)}">${em}<small>${c[em]?' '+c[em]:''}</small></button>`).join('')}
- <span class="sp"></span>${p.role!=='bot'?`<button type="button" class="lnk rep">⚑ Report</button>`:''}${mod?` <button type="button" class="lnk mod" data-a="${p.hidden?'unhide':'hide'}">${p.hidden?'Unhide':'Hide'}</button> <button type="button" class="lnk mod" data-a="delete">Delete</button>${p.role==='user'?` <button type="button" class="lnk ban" data-u="${E(p.username)}">Ban</button>`:''}`:''}</div></article>`;}
+ return `<article class="fx-post${p.hidden?' hid':''}" id="p${p.id}" data-id="${p.id}"><div class="who2">${av(p.av,p.name,p.user_id,p.av_v,'',!!(S.me&&S.me.id===p.user_id&&S.me.av_pending))}<div class="who"><b>${E(p.name)}</b>${roleTag(p.role)}${p.flair?`<span class="fx-flair">${E(p.flair)}</span>`:''}<small>${ago(p.created)}${p.hidden?' · hidden':''}</small>${p.role==='bot'?'':`<span class="stat"><span class="rk">${rank(p.posts_n||0)}</span> · ${p.posts_n||0} posts · Joined ${joined(p.joined)}</span>`}</div></div>
+ <div class="tx">${fmtBody(p.body)}</div><div class="fx-rx">${S.emoji.map(em=>{const [ic,lb]=RX[em]||[em,em];return `<button type="button" class="rx${mine.has(em)?' on':''}" data-e="${em}" aria-label="${lb}" aria-pressed="${mine.has(em)}" title="${lb}">${ic}<span class="l">${lb}</span><small>${c[em]?' '+c[em]:''}</small></button>`;}).join('')}
+ <span class="sp"></span><button type="button" class="lnk qt">↩ Reply</button> ${p.role!=='bot'?`<button type="button" class="lnk rep">⚑ Report</button>`:''}${mod&&p.av==='u'?` <button type="button" class="lnk rmav" data-u="${p.user_id}">Remove picture</button>`:''}${mod?` <button type="button" class="lnk mod" data-a="${p.hidden?'unhide':'hide'}">${p.hidden?'Unhide':'Hide'}</button> <button type="button" class="lnk mod" data-a="delete">Delete</button>${p.role==='user'?` <button type="button" class="lnk ban" data-u="${E(p.username)}">Ban</button>`:''}`:''}</div></article>`;}
 async function threadView(el,id){el.innerHTML='<p class="empty">Loading thread…</p>';const d=await api('forum/thread/'+id);
  if(!d.ok){el.innerHTML=`<p><a class="back" href="#/forum">← Forum</a></p><p class="fx-err">${E(d.error)}</p>`;return;}
  S.me=d.me;head();if(d.emoji)S.emoji=d.emoji;const T=S.thread={id,th:d.thread,posts:d.posts,reactions:d.reactions,mine:d.mine};S.last=d.posts.length?d.posts[d.posts.length-1].id:0;
@@ -218,11 +266,14 @@ async function liveScore(g,kind){const el=$('fx-score');if(!el)return;let live=n
 
 // reactions / report / moderation clicks
 document.addEventListener('click',async e=>{const b=e.target.closest('.fx-post button, .tmod');if(!b)return;const post=b.closest('.fx-post');const pid=post&&+post.dataset.id;
- if(b.classList.contains('rx')){if(!S.me){sessionStorage.setItem('bgd_next','thread:'+S.thread.id);location.hash='#/forum/join';return;}
+ if(b.classList.contains('qt')){if(!S.me){sessionStorage.setItem('bgd_next','thread:'+S.thread.id);location.hash='#/forum/signin';return;}const ta=$('fx-ta');if(!ta)return;const name=post.querySelector('.who b').textContent;
+  const txt=[...post.querySelector('.tx').childNodes].filter(n=>!(n.nodeName==='BLOCKQUOTE')).map(n=>n.textContent).join('').trim().slice(0,280);ta.value=`> ${name} wrote: ${txt.replace(/\n+/g,' ')}\n\n`+ta.value;ta.focus();ta.setSelectionRange(ta.value.length,ta.value.length);return;}
+ if(b.classList.contains('rmav')){if(!confirm('Remove this fan\'s picture? They\'ll show initials instead and get a strike.'))return;const d=await api('mod/avatar',{body:{user_id:+b.dataset.u,action:'remove',strike:true}});toast(d.ok?'Picture removed.':d.error);if(d.ok)render();return;}
+ if(b.classList.contains('rx')){if(!S.me){sessionStorage.setItem('bgd_next','thread:'+S.thread.id);toast('Sign in or join free to react. You\'ll come right back here.');location.hash='#/forum/signin';return;}
   const d=await api('forum/react',{body:{post_id:pid,emoji:b.dataset.e}});if(!d.ok){toast(d.error);return;}b.classList.toggle('on',d.on);b.querySelector('small').textContent=d.count?' '+d.count:'';
   const T=S.thread;if(T){T.mine=T.mine.filter(x=>!(x.post_id===pid&&x.emoji===b.dataset.e));if(d.on)T.mine.push({post_id:pid,emoji:b.dataset.e});T.reactions=T.reactions.filter(x=>!(x.post_id===pid&&x.emoji===b.dataset.e));if(d.count)T.reactions.push({post_id:pid,emoji:b.dataset.e,n:d.count});}return;}
  if(b.classList.contains('rep')){if(!S.me){sessionStorage.setItem('bgd_next','thread:'+S.thread.id);location.hash='#/forum/signin';return;}
-  const m=document.createElement('div');m.className='fx-modal';m.innerHTML=`<div class="in" role="dialog" aria-label="Report post"><h3>Report this post</h3><div class="opts">${['Spam or ads','Harassment or hate','Off-topic or trolling','Copied article or photo','Something else'].map(r=>`<button class="fx-btn ghost" type="button" data-r="${r}">${r}</button>`).join('')}</div><button class="fx-btn dark" type="button" data-x style="width:100%">Cancel</button></div>`;
+  const m=document.createElement('div');m.className='fx-modal';m.innerHTML=`<div class="in" role="dialog" aria-label="Report post"><h3>Report this post</h3><div class="opts">${['Spam or ads','Harassment or hate','Inappropriate picture or name','Off-topic or trolling','Copied article or photo','Something else'].map(r=>`<button class="fx-btn ghost" type="button" data-r="${r}">${r}</button>`).join('')}</div><button class="fx-btn dark" type="button" data-x style="width:100%">Cancel</button></div>`;
   document.body.appendChild(m);m.onclick=async ev=>{const o=ev.target.closest('[data-r]');if(ev.target===m||ev.target.closest('[data-x]')){m.remove();return;}if(!o)return;const d=await api('forum/report',{body:{post_id:pid,reason:o.dataset.r}});m.remove();toast(d.ok?'Thanks. A moderator will take a look.':d.error);};return;}
  if(b.classList.contains('mod')){if(b.dataset.a==='delete'&&!confirm('Delete this post for good?'))return;const d=await api('mod/post',{body:{post_id:pid,action:b.dataset.a}});if(!d.ok){toast(d.error);return;}
   if(b.dataset.a==='delete')post.remove();else{post.classList.toggle('hid',b.dataset.a==='hide');b.dataset.a=b.dataset.a==='hide'?'unhide':'hide';b.textContent=b.dataset.a==='hide'?'Hide':'Unhide';}return;}
@@ -260,9 +311,13 @@ async function gamedayTab(el){el.innerHTML=tabs('gameday')+'<p class="empty">Loa
 
 // ---------- Moderator queue ----------
 async function modView(el){el.innerHTML=tabs('mod')+'<p class="empty">Loading reports…</p>';const d=await api('mod/reports');if(!d.ok){el.innerHTML=tabs('mod')+`<p class="fx-err">${E(d.error)}</p>`;return;}
- el.innerHTML=tabs('mod')+`<h2 class="section-title">Reported posts</h2>${d.reports.length?d.reports.map(r=>`<div class="fx-post${r.hidden?' hid':''}" data-id="${r.post_id}"><div class="who"><b>${E(r.author)}</b><small>in <a href="#/forum/thread/${r.thread_id}">${E(r.title)}</a> · ${r.reports} report${r.reports>1?'s':''}: ${E(r.reasons||'')}</small></div><div class="tx">${fmtBody(r.body)}</div>
- <div class="fx-rx"><button type="button" class="fx-btn sm qm" data-a="${r.hidden?'unhide':'hide'}">${r.hidden?'Unhide':'Hide'}</button><button type="button" class="fx-btn ghost sm qm" data-a="delete">Delete</button><button type="button" class="fx-btn ghost sm qm" data-a="dismiss">Dismiss</button><button type="button" class="fx-btn dark sm qb" data-u="${E(r.author)}">Ban user</button></div></div>`).join(''):'<p class="box">No open reports. 👍</p>'}
+ const pq=await api('mod/avatars');
+ el.innerHTML=tabs('mod')+`<h2 class="section-title">Pictures waiting for approval</h2>${pq.ok&&pq.pending.length?`<div class="fx-avq">${pq.pending.map(u=>`<div class="c" data-u="${u.id}"><img src="/api/avatar/${u.id}?pending=1&t=${Date.now()}" alt="Pending picture from ${E(u.display_name)}"><p><b>${E(u.display_name)}</b> <small>@${E(u.username)}${u.strikes?' · '+u.strikes+' strike'+(u.strikes>1?'s':''):''}</small></p><div class="b"><button type="button" class="fx-btn avq" data-a="approve">✓ Approve</button><button type="button" class="fx-btn dark avq" data-a="reject">✕ Reject</button></div></div>`).join('')}</div>`:'<p class="box">No pictures waiting. 👍</p>'}
+ <h2 class="section-title">Reported posts</h2>${d.reports.length?d.reports.map(r=>`<div class="fx-post${r.hidden?' hid':''}" data-id="${r.post_id}"><div class="who"><b>${E(r.author)}</b><small>in <a href="#/forum/thread/${r.thread_id}">${E(r.title)}</a> · ${r.reports} report${r.reports>1?'s':''}: ${E(r.reasons||'')}</small></div><div class="tx">${fmtBody(r.body)}</div>
+ <div class="fx-rx"><button type="button" class="fx-btn sm qm" data-a="${r.hidden?'unhide':'hide'}">${r.hidden?'Unhide':'Hide'}</button><button type="button" class="fx-btn ghost sm qm" data-a="delete">Delete</button><button type="button" class="fx-btn ghost sm qm" data-a="dismiss">Dismiss</button><button type="button" class="fx-btn dark sm qb" data-u="${E(r.author)}">Ban user</button>${r.author_av==='u'?`<button type="button" class="fx-btn ghost sm qav" data-u="${r.author_id}">Remove picture</button>`:''}</div></div>`).join(''):'<p class="box">No open reports. 👍</p>'}
  ${S.me.role==='owner'?`<form class="fx-form" id="fx-role" style="margin-top:16px"><h3>Moderators</h3><label for="r-u">Username</label><input id="r-u" name="username" type="text"><p><button class="fx-btn sm" name="role" value="mod">Make moderator</button> <button class="fx-btn ghost sm" name="role" value="user">Remove moderator</button></p><p class="fx-err"></p></form>`:''}`;
+ el.querySelectorAll('.avq').forEach(b=>b.onclick=async()=>{const c=b.closest('.c');b.disabled=true;const d=await api('mod/avatar',{body:{user_id:+c.dataset.u,action:b.dataset.a}});if(!d.ok){toast(d.error);b.disabled=false;return;}c.remove();});
+ el.querySelectorAll('.qav').forEach(b=>b.onclick=async()=>{const d=await api('mod/avatar',{body:{user_id:+b.dataset.u,action:'remove',strike:true}});toast(d.ok?'Picture removed.':d.error);});
  el.querySelectorAll('.qm').forEach(b=>b.onclick=async()=>{const d=await api('mod/post',{body:{post_id:+b.closest('.fx-post').dataset.id,action:b.dataset.a}});if(!d.ok)toast(d.error);modView(el);});
  el.querySelectorAll('.qb').forEach(b=>b.onclick=async()=>{const days=prompt(`Ban ${b.dataset.u} for how many days?`,'7');if(days===null)return;const d=await api('mod/ban',{body:{username:b.dataset.u,days:+days,reason:'Reported posts'}});toast(d.ok?'Done.':d.error);});
  const rf=$('fx-role');if(rf)rf.onsubmit=async e=>{e.preventDefault();const role=e.submitter&&e.submitter.value;const d=await api('mod/role',{body:{username:$('r-u').value,role}});rf.querySelector('.fx-err').textContent=d.ok?'Saved.':d.error;};}
@@ -308,7 +363,7 @@ let hmWeek=null,hmBusy=false;
 async function heatAvg(){const hb=$('heat-body');if(!hb||!S.api)return;const G_=typeof G!=='undefined'?G:null;const wk=G_&&G_.week;if(!wk||G_.mode==='season'){const o=$('fx-hm');o&&o.remove();hmWeek=null;return;}
  if(hmBusy||(hmWeek===wk.week&&$('fx-hm')))return;hmBusy=true;hmWeek=wk.week;const av=await fanAvg('week='+wk.week);hmBusy=false;
  let o=$('fx-hm');if(!o){o=document.createElement('div');o.id='fx-hm';hb.after(o);}o.innerHTML=cmpTable(wk,av,`Fans vs. our grades: Week ${wk.week}`);}
-async function boxAvg(){const bb=$('boxscore-body');const id=window.BGD_boxId;if(!bb||!id||!S.api)return;let o=$('fx-bx');if(o&&o.dataset.id===id)return;
+async function boxAvg(){const bb=$('boxscore-body');if(!bb||!S.api)return;let id=window.BGD_boxId;if(!id){try{const ix=await getJ('data/boxscores/index.json');const g=ix.games[ix.games.length-1];id=g&&g.id;}catch(e){}}if(!id)return;let o=$('fx-bx');if(o&&o.dataset.id===id)return;
  let box=null,wk=null;try{box=await getJ(`data/boxscores/${id}.json`);wk=await getJ(`data/grades/week-${box.week_num}.json`);}catch(e){return;}
  const av=await fanAvg('game='+encodeURIComponent(id));if(!o){o=document.createElement('div');o.id='fx-bx';bb.after(o);}o.dataset.id=id;o.innerHTML=cmpTable(wk,av,'Player grades: ours vs. the fans');}
 // homepage: game-day / grade-the-team link
