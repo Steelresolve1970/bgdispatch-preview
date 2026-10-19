@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-19T02:33:14+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T02:31:51+00:00._
+_Generated 2026-10-19T02:44:22+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T02:43:18+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [NFL says Steelers-Saints in Paris still on despite civil unrest in France](https://www.espn.com/nfl/story/_/id/50211207/nfl-says-steelers-saints-game-paris-amid-unrest): ESPN, 2026-10-19 02:41 UTC
@@ -16,11 +16,11 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers' Aaron Rodgers Makes Definitive Statement After Buccaneers Win](https://www.steelernation.com/2026/10/18/steelers-aaron-rodgers-definitive-statement): SteelerNation, 2026-10-18 23:51 UTC
 - [Mike McCarthy Sends Strong Message To Steelers Fan Base Following Week 6 WIn](https://www.steelernation.com/2026/10/18/steelers-mike-mccarthy-strong-fan): SteelerNation, 2026-10-18 23:50 UTC
 - [‘I Look At It As A Positive’: Germie Bernard Learning From Fourth-Down Mistake](https://steelersdepot.com/2026/10/i-look-at-it-as-a-positive-germie-bernard-learning-from-fourth-down-mistake/): Steelers Depot, 2026-10-18 23:45 UTC
+- [How Cowboys’ Joey Porter Jr. Week 6 Decision Helps Steelers](https://heavy.com/sports/nfl/pittsburgh-steelers/joey-porter-jr-trade-nfl-news-conditional-sixth-round-pick-cowboys/): Heavy.com, 2026-10-18 23:43 UTC
 - [Batko's Quick 6: Steelers at Buccaneers](https://www.steelers.com/news/batko-s-quick-6-steelers-at-buccaneers): Steelers.com (official), 2026-10-18 23:40 UTC
 - [Steelers QB Aaron Rodgers Rips Buccaneers' Raymond James Stadium: 'One Of The Worst Surfaces in The League'](https://sportsnetpittsburgh.com/pittsburgh-steelers/news/steelers-aaron-rodgers-rips-raymond-james-stadium-worst-surface/6a3f34b82b3d512c56485c65): SportsNet Pittsburgh, 2026-10-18 23:38 UTC
 - [‘Turned That Into Our Stadium’: Steelers Nation Takes Over Tampa in Comeback Win](https://steelersnow.com/turned-that-into-our-stadium-steelers-nation-takes-over-tampa-in-comeback-win/): Steelers Now, 2026-10-18 23:37 UTC
 - [Watch: Steelers Vs Buccaneers Reaction](https://steelersdepot.com/2026/10/watch-steelers-vs-buccaneers-reaction/): Steelers Depot, 2026-10-18 23:30 UTC
-- [How Cowboys’ Joey Porter Jr. Week 6 Decision Helps Steelers](https://heavy.com/sports/nfl/pittsburgh-steelers/joey-porter-jr-trade-nfl-news-conditional-sixth-round-pick-cowboys/): Heavy.com, 2026-10-18 23:19 UTC
 - [Steelers report card: Germie Bernard and DK Metcalf step up in the win over the Buccaneers](https://www.post-gazette.com/sports/steelers/2026/10/18/steelers-report-card-buccaneers-week6/stories/202610180077): Pittsburgh Post-Gazette, 2026-10-18 23:17 UTC
 - [‘Turned That Into Our Stadium’: Steelers Players, Coaches Laud Fans For ‘Phenomenal’ Atmosphere In Tampa](https://steelersdepot.com/2026/10/turned-that-into-our-stadium-steelers-players-coaches-laud-fans-for-phenomenal-atmosphere-in-tampa/): Steelers Depot, 2026-10-18 23:15 UTC
 - [Howe It Happened: Jamel Dean’s Tampa Bay Takeover](https://steelersnow.com/howe-it-happened-jamel-deans-tampa-bay-takeover/): Steelers Now, 2026-10-18 23:10 UTC
