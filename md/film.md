@@ -1,6 +1,6 @@
 # Steelers Film Room & Previews
 
-_Generated 2026-10-19T14:58:12+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T14:57:39+00:00._
+_Generated 2026-10-19T15:18:28+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T15:10:18+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/film.json_
 
 - Breakdown (at Tampa Bay Buccaneers (Oct 18)): [Film Room: Jalen Ramsey Calls Game To Beat Buccaneers](https://steelersdepot.com/2026/10/film-room-jalen-ramsey-calls-game-to-beat-buccaneers/): Alex Kozora (Steelers Depot), 2026-10-19 12:30 UTC
