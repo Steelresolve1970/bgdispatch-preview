@@ -1,6 +1,6 @@
 # Steelers Film Room & Previews
 
-_Generated 2026-10-19T21:10:18+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T20:30:21+00:00._
+_Generated 2026-10-19T21:21:42+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T21:21:20+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/film.json_
 
 - Breakdown (at Tampa Bay Buccaneers (Oct 18)): [Steelers' QB Grades vs Bucs](https://www.youtube.com/shorts/fJ6q0C9RHys): Steelers Almighty, 2026-10-19 19:18 UTC

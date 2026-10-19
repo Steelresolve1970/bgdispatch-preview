@@ -1,8 +1,10 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-19T21:10:18+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T21:10:05+00:00._
+_Generated 2026-10-19T21:21:42+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T21:21:37+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
+- **Rumor** · tier: Beat writer / team · consensus: 1 source(s), top tier Beat writer / team
+  [Could Steelers Consider Kick Returner Change? Rising RB Earning Opportunity](https://steelersnow.com/could-steelers-consider-kick-returner-change-rising-rb-earning-opportunity/): Steelers Now, first seen 2026-10-19 21:21 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Former All-Pro Likely On Steelers' Radar With Trade Deadline Quickly Approaching](https://www.steelernation.com/2026/10/19/steelers-likely-quickly-approaching): SteelerNation, first seen 2026-10-19 19:47 UTC
 - **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider

@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-19T21:09:58.534044+00:00",
+ "generated": "2026-10-19T21:21:26.323533+00:00",
  "date_et": "2026-10-19",
  "days": 7,
- "count": 185,
+ "count": 184,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -27,9 +27,9 @@
    "kind": "podcast",
    "url": "https://feeds.megaphone.fm/SDP4491208357",
    "status": "ok",
-   "episodes": 2306,
+   "episodes": 2307,
    "week": 11,
-   "latest": "2026-10-19T16:55:00+00:00"
+   "latest": "2026-10-19T21:00:00+00:00"
   },
   {
    "show": "Steel Curtain Network (BTSC)",
@@ -64,7 +64,7 @@
    "url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/402ff7c3-7326-4fc5-aee9-aea000011b5f/fb99635a-fca2-410d-995d-aea000011b8e/podcast.rss",
    "status": "ok",
    "episodes": 2793,
-   "week": 11,
+   "week": 10,
    "latest": "2026-10-16T16:00:00+00:00"
   },
   {
@@ -134,10 +134,10 @@
    "show": "The Arthur Moats Experience",
    "kind": "podcast",
    "url": "https://rss.pdrl.fm/20d9c9/feeds.libsyn.com/183851/rss/?redirect=false",
-   "status": "error: The read operation timed out",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 100,
    "week": 5,
-   "latest": null
+   "latest": "2026-10-19T09:52:00+00:00"
   },
   {
    "show": "All Steelers Talk",
@@ -206,10 +206,10 @@
    "show": "Not Just Football with Cam Heyward",
    "kind": "podcast",
    "url": "https://feeds.megaphone.fm/VMP7932485726",
-   "status": "error: The read operation timed out",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 210,
    "week": 2,
-   "latest": null
+   "latest": "2026-10-16T10:00:00+00:00"
   },
   {
    "show": "Not Just Football with Cam Heyward",
@@ -224,10 +224,10 @@
    "show": "Footbahlin with Ben Roethlisberger",
    "kind": "podcast",
    "url": "https://rss.buzzsprout.com/2062616.rss",
-   "status": "error: The read operation timed out",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 144,
    "week": 1,
-   "latest": null
+   "latest": "2026-10-13T22:00:00+00:00"
   },
   {
    "show": "The Christian Kuntz Podcast",
@@ -249,6 +249,14 @@
   }
  ],
  "items": [
+  {
+   "title": "The Terrible Take - Episode 2055 - October 19, 2026",
+   "show": "The Terrible Podcast (Steelers Depot)",
+   "kind": "podcast",
+   "link": "https://megaphone.link/SDP4685563774",
+   "published": "2026-10-19T21:00:00+00:00",
+   "summary": "Podcast episode from The Terrible Podcast (Steelers Depot)."
+  },
   {
    "title": "Coach McCarthy Press Conference (Week 7 at New Orleans Saints) | Pittsburgh Steelers",
    "show": "Pittsburgh Steelers (official)",
@@ -1712,22 +1720,6 @@
    "link": "https://bleav.com/shows/all-steelers-talk/episodes/steelers-next-wr-signing/",
    "published": "2026-10-12T21:27:00+00:00",
    "summary": "Podcast episode from All Steelers Talk."
-  },
-  {
-   "title": "The Terrible Take - Episode 2048 - October 12, 2026",
-   "show": "The Terrible Podcast (Steelers Depot)",
-   "kind": "podcast",
-   "link": "https://megaphone.link/SDP2183324709",
-   "published": "2026-10-12T21:00:00+00:00",
-   "summary": "Podcast episode from The Terrible Podcast (Steelers Depot)."
-  },
-  {
-   "title": "Drive10.12.26Hr2: Around the NFL Week 5",
-   "show": "SNR Drive",
-   "kind": "podcast",
-   "link": "https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-12-26hr2-mp3",
-   "published": "2026-10-12T21:00:00+00:00",
-   "summary": "Podcast episode from SNR Drive."
   }
  ],
  "yt_channels": []

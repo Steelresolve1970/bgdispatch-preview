@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-19T21:10:18+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T21:09:58+00:00._
+_Generated 2026-10-19T21:21:42+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T21:21:26+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Podcast: [The Terrible Take - Episode 2055 - October 19, 2026](https://megaphone.link/SDP4685563774): The Terrible Podcast (Steelers Depot), 2026-10-19 21:00 UTC
 - Video: [Coach McCarthy Press Conference (Week 7 at New Orleans Saints) | Pittsburgh Steelers](https://www.youtube.com/watch?v=M2zs_f3U6tQ): Pittsburgh Steelers (official), 2026-10-19 20:45 UTC
 - Video: [Steelers Save Their Best for Last in Overtime Win in Tampa](https://www.youtube.com/watch?v=WwJom70LMfs): Steel City Underground, 2026-10-19 20:01 UTC
 - Podcast: [The Mike McCarthy Weekly Press Conference Recap: Week 6 vs. Buccaneers](http://steelcurtainnetwork.com): Steel Curtain Network (BTSC), 2026-10-19 19:50 UTC
@@ -157,8 +158,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Drive10.12.26Hr1: Colts Recap](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-12-26hr1-mp3): SNR Drive, 2026-10-12 22:00 UTC
 - Podcast: [Pittsburgh Steelers vs Indianapolis Colts Recap/Phone Lines](https://arthurmoats55.libsyn.com/the_arthur_moats_experience__ep_777__live___steelers_vs_colts_recap_phone_lines_mp3): The Arthur Moats Experience, 2026-10-12 21:55 UTC
 - Podcast: [Steelers Next WR Signing...](https://bleav.com/shows/all-steelers-talk/episodes/steelers-next-wr-signing/): All Steelers Talk, 2026-10-12 21:27 UTC
-- Podcast: [The Terrible Take - Episode 2048 - October 12, 2026](https://megaphone.link/SDP2183324709): The Terrible Podcast (Steelers Depot), 2026-10-12 21:00 UTC
-- Podcast: [Drive10.12.26Hr2: Around the NFL Week 5](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-12-26hr2-mp3): SNR Drive, 2026-10-12 21:00 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

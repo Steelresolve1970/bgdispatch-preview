@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-19T21:10:18+00:00",
- "data_updated": "2026-10-19T21:09:58+00:00",
- "count": 156,
+ "generated": "2026-10-19T21:21:42+00:00",
+ "data_updated": "2026-10-19T21:21:26+00:00",
+ "count": 155,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -19,6 +19,19 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/podcasts",
  "items": [
+  {
+   "id": "29e2983cd3936efb",
+   "type": "podcast_episode",
+   "title": "The Terrible Take - Episode 2055 - October 19, 2026",
+   "show": "The Terrible Podcast (Steelers Depot)",
+   "url": "https://megaphone.link/SDP4685563774",
+   "published": "2026-10-19T21:00:00+00:00",
+   "summary": "Podcast episode from The Terrible Podcast (Steelers Depot).",
+   "source": {
+    "name": "The Terrible Podcast (Steelers Depot)",
+    "url": null
+   }
+  },
   {
    "id": "f39da012b85fde11",
    "type": "video",
@@ -2018,32 +2031,6 @@
    "summary": "Podcast episode from All Steelers Talk.",
    "source": {
     "name": "All Steelers Talk",
-    "url": null
-   }
-  },
-  {
-   "id": "0c70805ba062ffa7",
-   "type": "podcast_episode",
-   "title": "The Terrible Take - Episode 2048 - October 12, 2026",
-   "show": "The Terrible Podcast (Steelers Depot)",
-   "url": "https://megaphone.link/SDP2183324709",
-   "published": "2026-10-12T21:00:00+00:00",
-   "summary": "Podcast episode from The Terrible Podcast (Steelers Depot).",
-   "source": {
-    "name": "The Terrible Podcast (Steelers Depot)",
-    "url": null
-   }
-  },
-  {
-   "id": "6cd194ecdc40bfaa",
-   "type": "podcast_episode",
-   "title": "Drive10.12.26Hr2: Around the NFL Week 5",
-   "show": "SNR Drive",
-   "url": "https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-12-26hr2-mp3",
-   "published": "2026-10-12T21:00:00+00:00",
-   "summary": "Podcast episode from SNR Drive.",
-   "source": {
-    "name": "SNR Drive",
     "url": null
    }
   }
