@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T04:16:57.334223+00:00",
+ "generated": "2026-10-19T13:35:27.040566+00:00",
  "season": 2026,
  "week": 6,
  "games": [
@@ -258,22 +258,22 @@
   {
    "id": "401873007",
    "date": "2026-10-19T00:20Z",
-   "state": "in",
-   "detail": "In progress",
-   "completed": false,
+   "state": "post",
+   "detail": "Final",
+   "completed": true,
    "away": {
     "abbr": "DAL",
     "name": "Dallas Cowboys",
-    "score": null,
-    "winner": null,
-    "record": "2-3"
+    "score": "13",
+    "winner": false,
+    "record": "2-4"
    },
    "home": {
     "abbr": "GB",
     "name": "Green Bay Packers",
-    "score": null,
-    "winner": null,
-    "record": "3-2"
+    "score": "23",
+    "winner": true,
+    "record": "4-2"
    }
   },
   {

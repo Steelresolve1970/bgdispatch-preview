@@ -2,8 +2,8 @@
  "api_version": "1",
  "dataset": "college",
  "description": "College prospects at the Steelers' top needs with last-game and season stats (CollegeFootballData.com) and recent headlines.",
- "generated": "2026-10-19T04:16:57+00:00",
- "data_updated": "2026-10-19T01:48:09+00:00",
+ "generated": "2026-10-19T13:35:27+00:00",
+ "data_updated": "2026-10-19T13:35:13+00:00",
  "count": 20,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
@@ -44,6 +44,12 @@
    "stats_url": "https://collegefootballdata.com",
    "headlines": [
     {
+     "title": "Cameras Catch Miami QB Darian Mensah's Aggressive Referee Encounter as He Escapes Penalty in FSU Win",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNWXFEQWN5ZU4wbVJkTjlRSEo1Ul84Ry1Kb1VvOVRseHB2M3pYRVkxTERTbC1rSWVjRUthQVVJMjFyby1FdGJVQXNNN2dVeGRmcmF0SlpwemxrOXFwNnA4dWlGTFVtdkFrclFVNlBZNnAyOGFpNGQycXlXSURicXRaTXE1bFVSdjJ0RF9LaGVoaUtMVEswSEgzOVUtWWdlcU9aVFNEcXAyUmM1akJ5SF9WQ01QM0dmTm1MN0FxY0JSUHU1MUhmdWoyVzBWUDZZcTVPa1RnSlpoaGlyaExJMElFcFp6bHFZSHpWQW9CdGNyV0tyNFE?oc=5",
+     "source": "EssentiallySports",
+     "published": "2026-10-19T10:35:00+00:00"
+    },
+    {
      "title": "What Changed After Darian Mensah Threw His First Interception of the Season",
      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS2tOdDF5dlFCY3E2Qlh1RXdNUEgwLWlDSXd2UHhTMGxMZ3JEUjFNWVhucDMzRzNEVGlCUFJhVkxNa3BNTlp3bUlqcF9kUlQ0R0tkQ3djc1dWcDlFV0JPOVpsUDEweVowN1pnZk9Xaks2WUdaZ053WkdwM21PWkg4YXpSZFZfcktDR1FfNTRUcURYZHU5US1UQkRUYUhkR1hQXzEyeE01eFdxT2U3TS1DV2d6TTlvZ1JD?oc=5",
      "source": "Sports Illustrated",
@@ -54,12 +60,6 @@
      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOekZRX3pGQnVINVFOX0N5a05ZNTFPZ0xaUG55NW4ta2h5NWQ5SkxsVUVqSDNvalMyOTN6eDc0T0VYQXpGNnJPaDZSU1E1cDdESmcxTHRDMGhUamRWUkFCUExUYlVZM1hZYW1hNU4zWjBEclhUbWV0V3RhQW5ZN1F0M1FrWldobzNSdXFhOTV0anRORDhlanVLVF9Ca0JPRUJwMUU2em1XWE5KQ0pTQVpBU2Y1QWNoRGY3VDNKVjFvN0dpNVRnbmJTelVtdWF1MVB1b3N1dE5DMEJKZklNcUpuUEVXNzBMLXhXcU82NTlR?oc=5",
      "source": "CanesInSight",
      "published": "2026-10-18T19:07:25+00:00"
-    },
-    {
-     "title": "Did Miami Hurricanes' Darian Mensah Secure Heisman Trophy Frontrunning Status?",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ2FZcmZkVzNTVGdzTk5vNXdfNlJuaDd4dFhTbDVLLUwyR3VYeXlKbVd3RDktWGs1N1JUQVV1cmlrejQwcTJmNmNFQnZkMkN3TWNNZTgzM2VkMURiTXdmQlA0TzJnUG9zZF9oZUVzWk1WeUZueDRGVkh4NkE2bG54aFNWaFFZb0U4XzFF?oc=5",
-     "source": "Yahoo Sports",
-     "published": "2026-10-18T16:01:56+00:00"
     }
    ],
    "source": {
@@ -91,22 +91,22 @@
    "stats_url": "https://collegefootballdata.com",
    "headlines": [
     {
-     "title": "Drew Mestemaker reflects on what went wrong in OSU football loss at Houston",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOYVJQMWNTN2dwZ0htdm9YTU5vZE9sVGw3SW5sNWVmbzd3Z05tejNHVVEzVDdCa2pOeGdPYnFwN0VPVE9IdGNMYUFXUHdONzJuSUZXS2ZBOG9scjRSSTZsYVZYbkVPbE5yY3pBNHdQanBpVjZwMG5Ba2kxSmdVSUkxeXZSNkNkUjl0ZmhxY1oyYW0tdk9oeDJZa1pGQUgyTGd3blV5bFhHQ0d1NW9WNkVDLU5GV1ZWbWEwY2EtcERSeWRXYThicnp5Ujd0bUdwZHRFbzBLZ25iZHJoTldxWHNDckV6SVhFdnNnVDdv?oc=5",
+     "title": "NFL Mocks Watch: Drew Mestemaker is closing in on QB1 in the 2027 NFL Draft",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSTVJeVNhSHVyY1d3Wk9hWW9tR1RYTXVOMGxnX0kxQVlEeGk0Q2FPUV8wbWh0MVZDVVc3elFIYnVZckx2aXlIYkRIM3BYTGltcklJa3ZiQ09yS1VIVGdHQWc5Q01RYkt2VFVHTUllV1RISUJZZjFvRXpTUWdpVmg5aXlrWHVYQ3ctVjVIUQ?oc=5",
+     "source": "NFL Mocks",
+     "published": "2026-10-19T12:30:00+00:00"
+    },
+    {
+     "title": "Drew Mestemaker 'can’t do those dumb plays' if OSU football wants to make noise | Carlson",
+     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSXNEMHFTRnM2Q3llT1RRWDFRQWFqbmp5RjJMNEg2MkNQSGZVbGFFSTJPeF9vRWRNOWFoM0VvY1MzdFVvX1Uzd05DYTZBZi16X0x1MWUtaEN4QkdhMk54WnBrWE0zYjBBemlfQmRFZ3Y3LVBiZEI4cC1BSENEQzIzTzRDZ3o5d0lIT3lxMXJEbUtKSEJKTnkxak1CU1RZLVhnWmE4c2RLOXFQdUs5WUNvQTlqNWRJZE1tVEV1LXNZQTNWLVAwSl8zeUlwUGJLbjZuQWVCTXJkYlhqLTdQSnl2cWliRE5qZGdybjZLdkVPTG5STmdYaFBj?oc=5",
      "source": "The Oklahoman",
-     "published": "2026-10-18T18:00:21+00:00"
+     "published": "2026-10-19T10:30:00+00:00"
     },
     {
-     "title": "Drew Mestemaker Is Making a Case to Be the 2027 NFL Draft’s Top QB",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN1RJbm5EbGstZW1CM1hEN2ZHRFRHQVRJNFJXSmhSNVhkVnVnNDVGYVU1YzVZYkFiWFVzOUtWb21HVXRQbUhhdy1WUnlnbFVJRUt4UzJDZkgxTXdoSFdIc0wwUEJNYkctdjl4cG5LREhiOU5rMzdXbnVaZmNFd0p0THdFQlp0b3JqQUNBU2piR2s?oc=5",
-     "source": "Deadspin",
-     "published": "2026-10-18T15:11:00+00:00"
-    },
-    {
-     "title": "2027 NFL Draft takeaways: How did CJ Carr, Drew Mestemaker perform in Week 7 losses?",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeURfVFBVQnI4cDF3aUQzY0dJR1U1QkU5MG9TN1NqUFRPenVfM1AydWVOZVNKU2FWUkh2djdtZ3RxemY2REREdzlBeWRpRzcyTnkxZFlBM2o0Rmk2OTNmNzVIcFVJVFRlSG05MGE3cE9hSzREMmtsVkpJRXRqOVR4TGlxT0dCR0xxLXJ1S3JxUkEwNTZ1NEE?oc=5",
-     "source": "The New York Times",
-     "published": "2026-10-18T11:45:49+00:00"
+     "title": "Mock Draft Monday: Drew Mestemaker Crashes the Top Five as Quarterback Evaluations Fracture (Week of October 12, 2026)",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kVm9CWnZTNktTN2VHSnVxYnZybXdGbW9JQ2JJMUlyUEkxQ0gwV1dJdlo1UUF1TlNRcTRwR3JLNEQzT3ZGZWxod2drWE1GTkc4Ym80MnBQbTM3NFhzMlJFam94Rk5Ma0NlQW0tUk8xemotUGswbEkyVEhn?oc=5",
+     "source": "NFL Mock Draft Database",
+     "published": "2026-10-19T06:00:00+00:00"
     }
    ],
    "source": {
@@ -138,22 +138,22 @@
    "stats_url": "https://collegefootballdata.com",
    "headlines": [
     {
-     "title": "If Texas Is Going to Bench Arch Manning It Has to Happen Now",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZnlhVElDdFhKQmxRZERpcUFuNWIyOTgzMy0wV3d2a3JMSkFXNXlMZFMwSXdvTG9keVJqYy0wcTVCU2tQQnN4LUQxalpSU296N3d6RFM0dUdGTWFYNWdXajhuLW03dGgwaVRnR2pqcnl1ZU9PWWRoMUYzaExzcTNabW9DTlZqWDJ3RUJqbEZfMWpRVlpTRDZ6a2dBZkltZGQ4eVZBWQ?oc=5",
-     "source": "Sports Illustrated",
-     "published": "2026-10-18T23:30:00+00:00"
+     "title": "Arch Manning film review: What caused crucial turnovers vs Florida, OU",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWTJzTUI2bkhmYjJfWm9VZlFQZ3VmMVNsUTRoa3dFUFY0dGY2NGxCOVhXRGpiR1d6Wm1wNUluWW0wcE1CV2taSmU2ZElUN3dTdmxIRHZ2MXB5QzZJcVNnTHFvLTl5VjVkYUJRSEtYUTNfbEpVS0g0R3FMMnJDdF9JX1RqMnBDZlNkSUcza2lLbnhUVi1lQ0ZaMHBBa2ttcTczZDhBVjhIb1N2aHVIXzBJQnBSeV9sdw?oc=5",
+     "source": "Austin American-Statesman",
+     "published": "2026-10-19T11:04:17+00:00"
     },
     {
-     "title": "Paul Finebaum blasts Steve Sarkisian after another rough Arch Manning performance",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNE9pRHJYMEdFeW1CLXlhNHNUQVd6eFBUd1VGWTZEcXFQZFdPZ0ZUMlVVMTZES2hEN2VSVW95QjBtazE0dEZUTWhlU1d4dEVNYzRaNkY4clJFVEoyRllKc1J2eWtXZFdWVWZMRnNac0t3cjNjdy04dEhxbTRBTWZxaVF1cVkzTktMQ1AtUTd3?oc=5",
-     "source": "Yahoo Sports",
-     "published": "2026-10-18T22:16:11+00:00"
+     "title": "UT mailbag: New play-caller? Bench Arch Manning? What changes are coming?",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaU56b3JhX1dsNVpFSGFLdnFpamUxZVNsWUYyV1RuYWpLeXlnZERWTnZpSU8zUUp0OUJHOUhSbG1OT2dNbGVPbk9Eb3VfaWFvVGpiTkxOcEFtamtWNnNPaUZ1SFlITHI5UFY0WTVuX1ZKQklPVXg1U0wwTDFLdHozazd3UmJUamZPeVNVdmJwTUU0RjZBRnpwcXlybXFTbnAwaUJ3dzY2cnBjR0owVXgxTjlzWkg?oc=5",
+     "source": "Houston Chronicle",
+     "published": "2026-10-19T11:04:13+00:00"
     },
     {
      "title": "Arch Manning is a Texas problem, and Steve Sarkisian is last to see it",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNDU2SmxNTTRSWTRQOEx5b1hhUzlNZEhWNXNBQmtJRjRScWJManVaYzBMdFNiUWlwcFNOWXR3UEVfV2hHRmVaV0RPVnQ3c1ZoVkd0cnFIYUZNOGdzRTI0NHY1M2V2LVdDMXB4MlVoYUdnQ2NTZ29ZRGRmWWphV2tLZFVfdnRxMGJsV3FUQ1pjQXFTdm9XcGdRMi1VR1p4cTExX2hEMkpqd204SjhMY2pwZ1BtMWwyWnBtcWNjSkNwLVlFZ1FU?oc=5",
      "source": "USA Today",
-     "published": "2026-10-18T21:07:00+00:00"
+     "published": "2026-10-19T10:16:00+00:00"
     }
    ],
    "source": {
@@ -262,7 +262,7 @@
    "name": "Ellis Robinson IV",
    "position": "CB",
    "school": "Georgia",
-   "our_board_rank": 12,
+   "our_board_rank": 11,
    "last_game": {
     "date": "2026-10-17",
     "opponent": "Auburn",
@@ -342,6 +342,12 @@
    "stats_url": "https://collegefootballdata.com",
    "headlines": [
     {
+     "title": "Dabo Swinney challenged Ashton Hampton to grow up. Now he's Clemson's top NFL prospect",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTTJSaGNYdVVVVFZ0czJxTmJfd0c0T1VwNDFoeExZQUM5OEhxWU1lT09OVEQtLTQxT0FtVlFLdFhCd3lmc3lPOThoNERFTzRrdlpGaXl4SVRSYzJseGFaUFFTRW9Od1pmeENZQmg0LXFKWnRodTMxbUkxMWZsYmJxemgzZ283aFUwbjRQTXJYa3VvR1VILS16SEFuT1RkTmFaeGhUdHIwc0RKdUluVmlrOHhCMVJIa0Z5RnpfdzYyaW4xSFltbnFkT1Y0OFhhaW1PRkhVYk9aMA?oc=5",
+     "source": "Greenville Online",
+     "published": "2026-10-19T09:07:00+00:00"
+    },
+    {
      "title": "Ashton Hampton, Clemson football DB, top 2027 NFL Draft prospect for Dabo Swinney",
      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPeXZkc2U0X0tRU3RINlh2eWpDdjQ0TnNxemxIdmN2WkJvUTZPRHpGd3ZMeVplOS1EZnNkQVo0M0o0LXpuSUVZTDM1Uzk4Y01jd1B6U3FWeHFkSWoxMnktc0Rnc2p1MW1RU19IVTIwSkNYNTFZRTZWVWZrRFVHWWxrSW94ekFMVmE0aDIxVWlIc1VLS1FSMWxnLVFSRWdtSHZwQXREcURPWHNYM0l6YnZJbERDNjU4Q1BKSWJPTktnVU5aRUpucFVzZFJUVGNESEJyZGFhZmNmOURqWmhTMTJYdmxWd2RmSXND?oc=5",
      "source": "Greenville Online",
@@ -352,12 +358,6 @@
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQUlFRXpMWWdMaVlrd0Rlb1d5Vjh5VVQtN0xwakpobGYwRzRKdEl6emhyZGVqdTFqbWhQSy05am81bnNGNW1jTXUtSTNwVzc4Z2N5cGN1cHRYaGl0WmFTTHVYTGcybXUwV0Rma3I4Zi1oVDlGZWdVaHQ4S2d6XzVyQWhpTTFaVEdLUjRMSjFMTXNXZVpsSy1SUDJGbVJVWkVYZ3hsN0lSMmZKcGc2Yl92c2RHd1FDdUlIeExOcw?oc=5",
      "source": "Sports Illustrated",
      "published": "2026-10-16T14:40:34+00:00"
-    },
-    {
-     "title": "Clemson CB Ashton Hampton shows that aggression wins with his soaring NFL Draft stock",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWmwwQjBhcmhmSXVXYUNxdm5GOFlLN2JWdFIxMmtMR1oyUXVtZDNnbU9TV0twNGJTT2Q2MmJMdlVMbUwxd29Gbm9fQUhWcHZTdWJEaEhBZW5UVHF2SWZpZ0R4Q01HQVBFaW5hZE15UHFiTzhYM2VCS25tdi1ROXZHQ1BXVGwtMHBnRjlpR0pZT3FGV0FqVm8xM2JkVmZaSXZRdV9vNEVtd0xaQ05mUUJDY05n?oc=5",
-     "source": "Rubbing the Rock",
-     "published": "2026-10-15T17:00:00+00:00"
     }
    ],
    "source": {
@@ -404,7 +404,7 @@
      "title": "Georgia feels KJ Bolden's absence as safety struggles, missed tackles fuel Auburn upset",
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTk5fanpzQkx1bU5NcnhENmtHZWVIelNYQmU3S0F2WVRmSHQ1cVZmN0NwOGpUYTd0SVowZmZ2YmRjS0ZNRkZJSDVSYmVaRnFDNlJKLThrbzZ4YXFjamtIUTNxbU1Ua0dKVVNSNlQ5cWpzOWpxcWh1cFlhamN0blh6MF9nMklTNG82ak15aWZXVXByZk11THNCT3FGRDJTVmVwV3RHMVZhcFFzMGFwZFFQSGEzeUJZV3o4VVZLTGQwczROc0JQd1NHdkFEeERkemROclN2Sl93T1IzUQ?oc=5",
      "source": "247Sports",
-     "published": "2026-10-17T23:23:13+00:00"
+     "published": "2026-10-17T23:22:08+00:00"
     }
    ],
    "source": {
@@ -445,7 +445,7 @@
    "name": "Jelani McDonald",
    "position": "S",
    "school": "Texas",
-   "our_board_rank": 70,
+   "our_board_rank": 73,
    "last_game": {
     "date": "2026-10-17",
     "opponent": "Florida",
@@ -473,7 +473,7 @@
    "name": "Earl Little Jr.",
    "position": "S",
    "school": "Ohio State",
-   "our_board_rank": 99,
+   "our_board_rank": 102,
    "last_game": {
     "date": "2026-10-17",
     "opponent": "Indiana",
@@ -502,13 +502,60 @@
    }
   },
   {
+   "id": "180c6f9849a179c4",
+   "type": "prospect",
+   "need": "Inside linebacker",
+   "name": "Chris Cole",
+   "position": "LB",
+   "school": "Georgia",
+   "our_board_rank": 25,
+   "last_game": {
+    "date": "2026-10-17",
+    "opponent": "Auburn",
+    "atVs": "vs",
+    "result": "L",
+    "score": "24-27",
+    "line": "10 tackles",
+    "link": "https://collegefootballdata.com",
+    "days_ago": 1
+   },
+   "season_line": "40 tackles, 2.5 sacks, 3 PD, 2 FR",
+   "stats_summary": "Chris made 10 tackles in a loss vs. Auburn. Season: 40 tackles, 2.5 sacks, 3 PD in 7 games.",
+   "stats_found": true,
+   "stats_url": "https://collegefootballdata.com",
+   "headlines": [
+    {
+     "title": "Scouting Report: Chris Cole, LB, Georgia",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBObEMyNWdEX2NWR3hmS3VjU3VYZE1QeGctbDhGanFsQUdfekdPMUZFWnhXU01XdzZ3UjJDR0g2MUY5NEZVMkJSdHFKQTU4NFpadHhXUDFpbndFdUJmTGdhNUNiZ2tucUVkUEU0Mk4yeGh6Z1E4M2FmWnhLX2haQQ?oc=5",
+     "source": "All Access Football",
+     "published": "2026-10-19T09:01:53+00:00"
+    },
+    {
+     "title": "UGA LB Chris Cole claims that the Dawgs beat themselves today vs Auburn",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTjNfWHB2ZVpJRVh5REt5a0wtQXljUUp6RloteWVRdzl5aWNsY0l0QTdxSlpNNC1ZZUFMb0oxam9EYlFKcGpUaXN3MjI5TFBieV9ROGtWc2JLZU9tMVItbGlpczZpcGl4dlRCX1hwV0xHYXpXRzJPUGJQNHhZd1JpNFRGYklJSjRkdTc4Y3gzNlFMTjhrdjlpZFRIVm9Gd2xOaXhlVEs3Nzk?oc=5",
+     "source": "BVM Sports",
+     "published": "2026-10-18T09:42:56+00:00"
+    },
+    {
+     "title": "Georgia linebacker Chris Cole says loss to Auburn will help team grow",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMG8wUUlGY3lDQW9aUlNUMFNnaExJcUlneHZCZVlYNjBlMTk1RFFZWmNzMFJQR3hHTVJlRkRLZy1zcThBNnlPa3F2SnQ5ZTJFSG5SbDZZRm9hZV84VjV3aFJib3VjSFd5UzNtck43ZDllbEdJeDF3WjVya2pheURBRXJ3cjNBbm9ZQ3ZTZWxZV1ZUbnIwaTltejlpa3ZncmdfS0FiMkZ0RVZFa09NS2s1dF9GSHFiQXRoX0FwekNrcmhQQQ?oc=5",
+     "source": "Online Athens",
+     "published": "2026-10-17T07:00:00+00:00"
+    }
+   ],
+   "source": {
+    "name": "CollegeFootballData.com stats + Black & Gold Dispatch board + Google News headlines",
+    "url": "https://collegefootballdata.com"
+   }
+  },
+  {
    "id": "39d02f0471cfe2d1",
    "type": "prospect",
    "need": "Inside linebacker",
    "name": "Sammy Brown",
    "position": "LB",
    "school": "Clemson",
-   "our_board_rank": 25,
+   "our_board_rank": 26,
    "last_game": {
     "date": "2026-10-17",
     "opponent": "Charleston Southern",
@@ -530,60 +577,13 @@
    }
   },
   {
-   "id": "180c6f9849a179c4",
-   "type": "prospect",
-   "need": "Inside linebacker",
-   "name": "Chris Cole",
-   "position": "LB",
-   "school": "Georgia",
-   "our_board_rank": 26,
-   "last_game": {
-    "date": "2026-10-17",
-    "opponent": "Auburn",
-    "atVs": "vs",
-    "result": "L",
-    "score": "24-27",
-    "line": "10 tackles",
-    "link": "https://collegefootballdata.com",
-    "days_ago": 1
-   },
-   "season_line": "40 tackles, 2.5 sacks, 3 PD, 2 FR",
-   "stats_summary": "Chris made 10 tackles in a loss vs. Auburn. Season: 40 tackles, 2.5 sacks, 3 PD in 7 games.",
-   "stats_found": true,
-   "stats_url": "https://collegefootballdata.com",
-   "headlines": [
-    {
-     "title": "Georgia linebacker Chris Cole says loss to Auburn will help team grow",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMG8wUUlGY3lDQW9aUlNUMFNnaExJcUlneHZCZVlYNjBlMTk1RFFZWmNzMFJQR3hHTVJlRkRLZy1zcThBNnlPa3F2SnQ5ZTJFSG5SbDZZRm9hZV84VjV3aFJib3VjSFd5UzNtck43ZDllbEdJeDF3WjVya2pheURBRXJ3cjNBbm9ZQ3ZTZWxZV1ZUbnIwaTltejlpa3ZncmdfS0FiMkZ0RVZFa09NS2s1dF9GSHFiQXRoX0FwekNrcmhQQQ?oc=5",
-     "source": "Online Athens",
-     "published": "2026-10-18T17:30:29+00:00"
-    },
-    {
-     "title": "UGA LB Chris Cole claims that the Dawgs beat themselves today vs Auburn",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTjNfWHB2ZVpJRVh5REt5a0wtQXljUUp6RloteWVRdzl5aWNsY0l0QTdxSlpNNC1ZZUFMb0oxam9EYlFKcGpUaXN3MjI5TFBieV9ROGtWc2JLZU9tMVItbGlpczZpcGl4dlRCX1hwV0xHYXpXRzJPUGJQNHhZd1JpNFRGYklJSjRkdTc4Y3gzNlFMTjhrdjlpZFRIVm9Gd2xOaXhlVEs3Nzk?oc=5",
-     "source": "BVM Sports",
-     "published": "2026-10-18T09:42:56+00:00"
-    },
-    {
-     "title": "Georgia Linebacker Chris Cole Continues to Rack Up Accolades After Dominant Start",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcjhLVm9ydnNQeDlLWmlRc3dneFRPTHJabnVXMTlfYjdHWFZMUHA5bl9LQ2pXYUdoa3JaVERDeW42ZFpfZXBmc0RqUjFtMGU4d09tRXFSRkVhbVl4QzVfLUl3a21wVW14TzR2YldEUVB5SnRCUW1zT01Vdko4QjQzOVdHbzJ4ZVR3ejJSX08yMVQ3RXRpVjlDMUdkdGxuM19zdEJjTDJRSFJXSndtRzRDVkJMbkxkOFp1MlpNNEd5eF9zVWVKN0Jz?oc=5",
-     "source": "roundtable.io",
-     "published": "2026-10-16T17:31:50+00:00"
-    }
-   ],
-   "source": {
-    "name": "CollegeFootballData.com stats + Black & Gold Dispatch board + Google News headlines",
-    "url": "https://collegefootballdata.com"
-   }
-  },
-  {
    "id": "a8371c6e865eae04",
    "type": "prospect",
    "need": "Inside linebacker",
    "name": "Suntarine Perkins",
    "position": "LB",
    "school": "Ole Miss",
-   "our_board_rank": 93,
+   "our_board_rank": 92,
    "last_game": {
     "date": "2026-10-17",
     "opponent": "Missouri",
@@ -612,45 +612,45 @@
    }
   },
   {
-   "id": "8949d07a843101e7",
+   "id": "50a0d1b2280849da",
    "type": "prospect",
    "need": "Inside linebacker",
-   "name": "Myles Graham",
+   "name": "Raylen Wilson",
    "position": "LB",
-   "school": "Florida",
-   "our_board_rank": 108,
+   "school": "Georgia",
+   "our_board_rank": 104,
    "last_game": {
     "date": "2026-10-17",
-    "opponent": "Texas",
-    "atVs": "@",
-    "result": "W",
-    "score": "27-24",
-    "line": "7 tackles, 1 sack",
+    "opponent": "Auburn",
+    "atVs": "vs",
+    "result": "L",
+    "score": "24-27",
+    "line": "10 tackles, 1 sack",
     "link": "https://collegefootballdata.com",
-    "days_ago": 1
+    "days_ago": 2
    },
-   "season_line": "49 tackles, 3.5 sacks, 1 FR",
-   "stats_summary": "Myles made 7 tackles with 1 sack in a win at Texas. Season: 49 tackles, 3.5 sacks in 7 games.",
+   "season_line": "43 tackles, 4 sacks",
+   "stats_summary": "Raylen made 10 tackles with 1 sack in a loss vs. Auburn. Season: 43 tackles, 4 sacks in 6 games.",
    "stats_found": true,
    "stats_url": "https://collegefootballdata.com",
    "headlines": [
     {
-     "title": "Myles Graham continues to lead Florida's defense in victory over Texas",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMW9XeXNXbndoQmtBS3BVbkI5U0N1WE1aV0QxSzRWdEQ5SlRWQ0lxRUhvV2xMeHZSaE5FWVB0b0NVN1hyWG9ReGxJUjg4RzRGa21FZV9SeGV4d3g3dURVNkc5cV83QzdONDY2akJPNV9tdWg4c3JoZHdxWW56MnVsZzRrcTF4bjE1NWJhM1Bn?oc=5",
-     "source": "Yahoo Sports",
-     "published": "2026-10-18T21:26:27+00:00"
+     "title": "Alabama makes the exact right move by banning fan who hit Georgia's Raylen Wilson",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNmEtbGo2cnVUSzNta3lwNFNNaWlYSWQyMWlzOGM4d2plZnM1MHhoZHJJS3lJT293WUM2bW1rdGxxVXd2SkFVbnBLMHkxVXB0QWllQ0tTRFRRWjVTV1EzMVluZkM3N0o1UE5qNjM2eDF3Wml1N01jMnY1Q0dxNTc5ZVZiM25GMDR6UGtxZm5SaEo2Y1NjRTRCUUFmcw?oc=5",
+     "source": "Bama Hammer",
+     "published": "2026-10-16T19:12:22+00:00"
     },
     {
-     "title": "Florida Football Postgame Media Availability | Myles Graham & LJ McCray",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONzNqUy1XZnBpWHI0UnhwMmt3TTdlLXVROEUtSnFzVHliMFV1ZEQ2NnpfZC15a3J2UDNyR1ZNcnd0c1dmSDA1NzlEOHZ6dUhYSFp3bXhnd3pCQ0pHeUZrNU9Xd3VMTTQ0T2pyeDlicFV4akdOTWhpX3RFRjRoLXh0WFpVY0RaM3N6X2paR2FjNkJfYnh4QU5fem1tVGVnajFDaW53?oc=5",
-     "source": "BVM Sports",
-     "published": "2026-10-18T14:38:00+00:00"
+     "title": "Alabama Says It Has \"Taken Appropriate Action\" Against Fan That Hit Georgia Football LB Raylen Wilson",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQzZpMXNQcUxtNTRqT1FaVXBRWDdXaFdNVGwxVlNkcnRnVDNubC1ORkE3V3VKNlg5MlhBZF9iZXFSVDhYYmNMV1Q0R0g4N3NPT1ZRc29qOXczdTJqTFV1cTJmNVZ5dUZ1TDBQakctRlpTU3VDQ2psdHA4SHhkcGJaU3dyc1Q1RnhxR1BqRDNpVnk2a0JHei0xcUlGTUhsZjM1b1RGenM2U0VaV00zUUgtTTFCN1NySk9BMERaQTBhUGtWa1NCQ0ZHYmZITXA3bWJBdERBckJfM2hGdy0zSGcxeA?oc=5",
+     "source": "Sports Illustrated",
+     "published": "2026-10-16T00:27:59+00:00"
     },
     {
-     "title": "Hear Florida football LB Myles Graham discuss the Gators defensive turnaround in the win over Texas",
-     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPelhyODItYW1mVnFjMlVSdHY0ckRkRVpmX0VWYjhvemlfbUFFdWdIY05oWkZGcDdUSWM2WmhPTllOMExYLWNmM3g4aTVRZkJWVmFJSm1jdEs2dHhiLVhNLUoyd2xQT1FiQVlwRHhiNzBrWW9fVzJNOGk2SlRkMF9jV0ZYXzVxdlptek0ycE56WV8xZkFoZHV0T0cxajA1TWdxaC03d2g5bGxQREV6RjVLdDJxczFrTTdTejByUGp6UW9XNWxOY0lYbjk4dHZOS0Q2MjJreVJzd3k1cmNRUk5ZaTA0ZFJ2ZUJfVm1JT3pUOHdPWkV5NmpBVDB1MGxhRWMzWVpSVkhYdkY?oc=5",
-     "source": "Gainesville Sun",
-     "published": "2026-10-17T21:10:16+00:00"
+     "title": "Alabama takes action against Raylen Wilson offender",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmtIUjg1YmNpWmZyeDJRN2RMclpyUjZDZFFEcFcxaDlKS3psYkYwRjR2VTFsaUZLbkNtVlEyMnFMQS0zVVZZamRkTmxaVTl6RndRM3o0ZFpid2tuY0JyT1ZmdDdTdzdxYm1DTTZ6LXpTNkVVdldzSWNZR3BzRHhTVmpoaDNhQTdQTi1MVzU2MXZWRTlHWGh0cE80dUdTei1zalE?oc=5",
+     "source": "On3",
+     "published": "2026-10-15T22:34:05+00:00"
     }
    ],
    "source": {
@@ -682,9 +682,15 @@
    "stats_url": "https://collegefootballdata.com",
    "headlines": [
     {
+     "title": "Snap Counts: Jeremiah Smith, Bo Jackson, Eddrick Houston and Jason Moore Play Career-High Snap Counts vs. Indiana",
+     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOUFBRRlhVZC1uSVdPX05wQ3BHOTdTMzVqQWpWV0JtUDRHNTVEWHJWSnJPUHN2bVlWMHFaa1dUdVdUVUgxM3AycDRnaW1TcHkzSDBwQ0tHTFhGZVo5TU45WUMzM3V3RVR3N1F3Z2pyaEdIaHNhVnhEelBKWnV6Y2N4ZkRlTmYxZGg3ZTg4ZjZiRFNSMkF1UG9va1d3TDZzUGttNnlocTNsTjJjazNNb3dXZ0tud21oSUJZMFlXRXRBUDR4Ung2bFNsdzQwQzRYQ2JYMWsyZXBTTVY4RUZ1Z3QwdHV4SnhKZngxdm5RalF6U01HNnNNbVpoWFVSM3RwZ3JBVGpDNUxB?oc=5",
+     "source": "Eleven Warriors",
+     "published": "2026-10-19T11:05:00+00:00"
+    },
+    {
      "title": "NO APOLOGIES: Ohio State SURVIVES Indiana—Julian Sayin Injury SHOCK, Jeremiah Smith Shines",
-     "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPUlRLaVc1OWRHaXh0Y0V2RDRJVFNpbTZlZ05OcnpyZ3lYVzJFcGswYm12SXA2LXFtLWEtcnRqd25haFpJbTNMMnJzbUdTRHZyd1pLVUJvWlJOcy04NWxDQmlpRHRTXzEwenRwUXNHSkR2M19CMFlsbmg2X0t5T2plOWx0Q0tqd0RpYloxckFXWnFWNGVqdTR4QURma05PWVlMZ0o0UnZhWnZCMEJWcnl2aWRGZnU4NE9qSTE5NkthVm91Vl9lc3RDdHYtTkxxRWs1OVE5Y3pjY00yWUc2d1F3QjRHd01yYy1GVWJoMnBGVENza09YbzFUUVpXaEJYRWt0dEdMakkzd0tNbTdNTEY3TmQxaXRyMEFmdGJ5M1FrQ1VOaGhsUDhFRzllSjNhcEtlNmRXbURB?oc=5",
-     "source": "kiiitv.com",
+     "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQamhaZm5vdWVBbWQ2Ymh6TVRtS1JlU2dIR2d3U0x6UE53aC1fVHBJSWZGZEI2MVRmaDV3SXJfbkhGM2FMZzRObGN0RE56bWx2aUZZSE9uX0hyXzVreHJpanZHcjd6QURlTWN6RWs0QmV5VlFVd01mVG4zQ2p4cGU1QnFiNk82R0dMUndheTF2bTRldmlMaVplakc0RHNlbTE0NVN4ZFo2emRlTUhFVjktV2hkQnFzbGpza3oyeFMyM05hZlBycXRUdFEyS09adEF5TzRBV2hERW10cnpXQ05sd2M2Z0VuVE1UaldZRkxpVmxEYmhPR2UtNm82aW1VbVFsX2lkVFNNZ081amRIQ3ZBLTNDT0h5bkNYQTQ2NmY0NGN3N3ZMMDRNdzlINExMdU16RkM0?oc=5",
+     "source": "KTVB",
      "published": "2026-10-19T01:20:00+00:00"
     },
     {
@@ -692,12 +698,6 @@
      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOV0ZTSFRnU09LZ1hWOTQ1d04zbDdHVE01TjdrcHc0WkZuOEYwNU1jN3dvaGxJZl8tX1p4b3FyV0RZOXdJSXJTUVlRaXpVa1VmbWlCT0dRUzlDRnlBUG1kTlYtVzhacVVMQjZaYlhwUjVqUDdXcXJMR1djUE5KWTRXX2VpeWYwcTNPcFNPRU03RDhFUUFJWnFBRUlBNzFjNEczU2RlVU5EYjk1Unk0VU9rX3Zqa0k4RUlCNjNEVlViS3pOajNfNkxENTZMTk8xaUdVUGFwMlZvbmZPTjYwcGZWWU9TNzl4aE92RFE5V3hiaHN6WFFxWEw1WjV5NU1OV0ZUQTVKZ0FZUjFBbmdqOXloOUc0R2E2ZE9OQ3N5Y0ZHV3VIRV9vVk9lVQ?oc=5",
      "source": "The Lufkin Daily News",
      "published": "2026-10-18T21:27:12+00:00"
-    },
-    {
-     "title": "Jay Timmons, Jaylen McClain and Jeremiah Smith Earn Top Honors for Their Performances Against Indiana",
-     "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPcUNkYjVwU3ExSHJFaFpIMEZsNXBMU2ZBejZMUUVsMUE0NWoxenZXMHRtM2x5QkFnR3g2WmRXZlVPR0xzcXhvLS1fMk9vZWFqbXZzX0ZvRnVRRldIbFVTcTZQWHJHb1ZwTGptZXFEZ0RjVkthc2F5ak1HRFVJQUtBdWdkQk9VT0FVaEhMZTlKWGtza0MwakNDWTh5aG5wM0lFZDNyVkhtajUzbFpXMzRmYUNEZGhmTjhkRXRwcENNWkpwUHZHRmpTeV9mc0NPM2ZwTHIxQnA0ZF9RbS1CU2hhd1JoN0NtdkNKbnpPeHQzTEsxQmpsdXRlTHp0TXM0RkdjN1Bkeg?oc=5",
-     "source": "Eleven Warriors",
-     "published": "2026-10-18T20:00:00+00:00"
     }
    ],
    "source": {
@@ -712,7 +712,7 @@
    "name": "Cam Coleman",
    "position": "WR",
    "school": "Texas",
-   "our_board_rank": 11,
+   "our_board_rank": 12,
    "last_game": {
     "date": "2026-10-17",
     "opponent": "Florida",
@@ -759,7 +759,7 @@
    "name": "Charlie Becker",
    "position": "WR",
    "school": "Indiana",
-   "our_board_rank": 15,
+   "our_board_rank": 16,
    "last_game": {
     "date": "2026-10-17",
     "opponent": "Ohio State",
@@ -785,7 +785,7 @@
      "title": "Indiana's Charlie Becker (80) celebrates a catch during the Indiana versus Ohio State football game at Memorial Stadium on Saturday, Oct. 17, 2026.",
      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQUHVLQzZhWUZlSHRkVDlNdi1hOUdqei1OaDhMQnc5V0FyVlpqelV6dmU0bWMzbUhuenVBNTdSUElObkNfYVRQZUhWcFRoV3pDdmhsOGNWcVFobVRIOEViVU5CVlgxeE1PdTJ1MUp0cHR1cmtkUHRBOFljeVlha2pHaFRidkk1SHRrMTVtYzFsMk1CN091LVloNHV3UmRrM016eG9vYXZETHBDdkJKVW9JX2FzemVBYlNtNF9UQVNyODlvZVFYYzVKTlR5Smw5N1N1Y0REN3JRbmt5Y21ZUlBsSVh3OXJHSUxzcTZ3LTlPMzl2NWtLUElFNzRSMmhsc1MzRVhHckU5a2VXUUJLNktIcXp2eXBhckN0NklicDRpOA?oc=5",
      "source": "The Lufkin Daily News",
-     "published": "2026-10-18T13:44:30+00:00"
+     "published": "2026-10-18T13:57:46+00:00"
     },
     {
      "title": "Why Charlie Becker apologized to Ryan Day after Indiana-Ohio State",

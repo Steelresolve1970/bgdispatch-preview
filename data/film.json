@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T04:15:54.940704+00:00",
+ "generated": "2026-10-19T13:33:58.684592+00:00",
  "game": {
   "label": "at Tampa Bay Buccaneers (Oct 18)",
   "opponent": "Tampa Bay Buccaneers",
@@ -25,7 +25,7 @@
    "url": "https://steelersdepot.com/author/alex-kozora/feed/",
    "status": "ok",
    "feed_items": 20,
-   "in_window": 0
+   "in_window": 1
   },
   {
    "creator": "Still Curtain (Tommy Jaggi All-22)",
@@ -41,7 +41,7 @@
    "url": "https://www.behindthesteelcurtain.com/rss/index.xml",
    "status": "ok",
    "feed_items": 10,
-   "in_window": 0
+   "in_window": 1
   },
   {
    "creator": "Steelers Now",
@@ -49,14 +49,14 @@
    "url": "https://steelersnow.com/feed/",
    "status": "ok",
    "feed_items": 15,
-   "in_window": 0
+   "in_window": 1
   },
   {
    "creator": "Merril Hoge \u2013 Steelers Playbook (official)",
    "mode": "official",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChaRXjMDs4ppKfnTPE6Z89w",
-   "status": "error: HTTP Error 500: Internal Server Error",
-   "feed_items": 0,
+   "status": "ok",
+   "feed_items": 15,
    "in_window": 0
   },
   {
@@ -71,8 +71,8 @@
    "creator": "Merril Hoge (personal)",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCL1UFebpPn1rsxK0yEwwbgA",
-   "status": "error: HTTP Error 404: Not Found",
-   "feed_items": 0,
+   "status": "ok",
+   "feed_items": 15,
    "in_window": 0
   },
   {
@@ -87,16 +87,16 @@
    "creator": "Cover 1",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UClL6eJS1s8xmRoYRQbYgxQQ",
-   "status": "error: HTTP Error 404: Not Found",
-   "feed_items": 0,
+   "status": "ok",
+   "feed_items": 15,
    "in_window": 0
   },
   {
    "creator": "Alex & the NFL",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsGr04a3SDjhPhsAe4xj4YQ",
-   "status": "error: HTTP Error 404: Not Found",
-   "feed_items": 0,
+   "status": "ok",
+   "feed_items": 15,
    "in_window": 0
   },
   {
@@ -111,56 +111,56 @@
    "creator": "Steelers Now (Derrick Bell)",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp1iAMIfmmgWewzJ07_Y7oA",
-   "status": "error: HTTP Error 404: Not Found",
-   "feed_items": 0,
+   "status": "ok",
+   "feed_items": 15,
    "in_window": 0
   },
   {
    "creator": "Steel City Underground",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDcNNAMkYr-DzH6_XL-0p8Q",
-   "status": "error: HTTP Error 404: Not Found",
-   "feed_items": 0,
+   "status": "ok",
+   "feed_items": 15,
    "in_window": 0
   },
   {
    "creator": "Still Curtain",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxjSNPLcRAVzDKOjhRwo-hQ",
-   "status": "error: HTTP Error 500: Internal Server Error",
-   "feed_items": 0,
+   "status": "ok",
+   "feed_items": 15,
    "in_window": 0
   },
   {
    "creator": "Locked On Steelers",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7JorgD8nGLtvvMy1ogFetg",
-   "status": "error: HTTP Error 500: Internal Server Error",
-   "feed_items": 0,
+   "status": "ok",
+   "feed_items": 15,
    "in_window": 0
   },
   {
    "creator": "Steel Curtain Network (BTSC)",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqZ9EXmGxrTBTOhg7qldDvA",
-   "status": "error: HTTP Error 404: Not Found",
-   "feed_items": 0,
+   "status": "ok",
+   "feed_items": 15,
    "in_window": 0
   },
   {
    "creator": "Arthur Moats Experience",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFPpVnzIt33ZPQglYd7MOqQ",
-   "status": "error: HTTP Error 404: Not Found",
-   "feed_items": 0,
+   "status": "ok",
+   "feed_items": 15,
    "in_window": 0
   },
   {
    "creator": "Derrick Bell \u2013 DB's Film Room (Steelers Now)",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNsZFFKPF0bp85qzvJ8knbQ",
-   "status": "error: HTTP Error 500: Internal Server Error",
-   "feed_items": 0,
+   "status": "ok",
+   "feed_items": 15,
    "in_window": 0
   },
   {
@@ -175,8 +175,8 @@
    "creator": "Pittsburgh Steelers (official)",
    "mode": "official-yt",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChaRXjMDs4ppKfnTPE6Z89w",
-   "status": "error: HTTP Error 500: Internal Server Error",
-   "feed_items": 0,
+   "status": "ok",
+   "feed_items": 15,
    "in_window": 0
   },
   {
@@ -191,28 +191,52 @@
    "creator": "Brett Kollmann",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYzfVBuCfGz-oF3aOCGgO5g",
-   "status": "error: HTTP Error 404: Not Found",
-   "feed_items": 0,
+   "status": "ok",
+   "feed_items": 15,
    "in_window": 0
   },
   {
    "creator": "The QB School (JT O'Sullivan)",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGfxHp2yuimtLsFaq1r7aIQ",
-   "status": "error: HTTP Error 404: Not Found",
-   "feed_items": 0,
+   "status": "ok",
+   "feed_items": 15,
    "in_window": 0
   },
   {
    "creator": "All_22_Films",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7Dbn36zT6XjfBh9YDLmGIg",
-   "status": "error: HTTP Error 404: Not Found",
-   "feed_items": 0,
+   "status": "ok",
+   "feed_items": 15,
    "in_window": 0
   }
  ],
  "items": [
+  {
+   "title": "Film Room: Jalen Ramsey Calls Game To Beat Buccaneers",
+   "creator": "Alex Kozora (Steelers Depot)",
+   "link": "https://steelersdepot.com/2026/10/film-room-jalen-ramsey-calls-game-to-beat-buccaneers/",
+   "published": "2026-10-19T12:30:09+00:00",
+   "summary": "Film breakdown by Alex Kozora (Steelers Depot) of at Tampa Bay Buccaneers (Oct 18).",
+   "game": "at Tampa Bay Buccaneers (Oct 18)"
+  },
+  {
+   "title": "Saunders\u2019 Steelers Takeaways: Mike McCarthy Was Supposed to be Better Than This, But Give Credit Where It\u2019s Due",
+   "creator": "Steelers Now",
+   "link": "https://steelersnow.com/saunders-steelers-takeaways-mike-mccarthy-was-supposed-to-be-better-than-this-but-give-credit-where-its-due/",
+   "published": "2026-10-19T12:05:04+00:00",
+   "summary": "Film breakdown by Steelers Now of at Tampa Bay Buccaneers (Oct 18).",
+   "game": "at Tampa Bay Buccaneers (Oct 18)"
+  },
+  {
+   "title": "5 takeaways from the Steelers\u2019 OT win over the Tampa Bay Buccaneers",
+   "creator": "Behind the Steel Curtain",
+   "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176502/5-takeaways-from-the-steelers-26-19-ot-win-over-the-tampa-bay-buccaneers-mike-mccarthy-dk-metcalf-germie-bernard-jamel-dean",
+   "published": "2026-10-19T10:00:00+00:00",
+   "summary": "Film breakdown by Behind the Steel Curtain of at Tampa Bay Buccaneers (Oct 18).",
+   "game": "at Tampa Bay Buccaneers (Oct 18)"
+  },
   {
    "title": "NFL Week 6 Recap: Pittsburgh Steelers 26, Tampa Bay Buccaneers 19",
    "creator": "PFF",
@@ -229,8 +253,36 @@
    "week": "Week 6",
    "opponent": "Tampa Bay Buccaneers",
    "kickoff": "2026-10-18T17:00:00+00:00",
-   "count": 0,
-   "items": []
+   "count": 3,
+   "items": [
+    {
+     "title": "Film Room: Jalen Ramsey Calls Game To Beat Buccaneers",
+     "creator": "Alex Kozora (Steelers Depot)",
+     "link": "https://steelersdepot.com/2026/10/film-room-jalen-ramsey-calls-game-to-beat-buccaneers/",
+     "published": "2026-10-19T12:30:09+00:00",
+     "gid": "2026_06_PIT_TB",
+     "source": "rss",
+     "summary": "Film breakdown by Alex Kozora (Steelers Depot) of Week 6 at Buccaneers (W 26-19)."
+    },
+    {
+     "title": "Saunders\u2019 Steelers Takeaways: Mike McCarthy Was Supposed to be Better Than This, But Give Credit Where It\u2019s Due",
+     "creator": "Steelers Now",
+     "link": "https://steelersnow.com/saunders-steelers-takeaways-mike-mccarthy-was-supposed-to-be-better-than-this-but-give-credit-where-its-due/",
+     "published": "2026-10-19T12:05:04+00:00",
+     "gid": "2026_06_PIT_TB",
+     "source": "rss",
+     "summary": "Film breakdown by Steelers Now of Week 6 at Buccaneers (W 26-19)."
+    },
+    {
+     "title": "5 takeaways from the Steelers\u2019 OT win over the Tampa Bay Buccaneers",
+     "creator": "Behind the Steel Curtain",
+     "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176502/5-takeaways-from-the-steelers-26-19-ot-win-over-the-tampa-bay-buccaneers-mike-mccarthy-dk-metcalf-germie-bernard-jamel-dean",
+     "published": "2026-10-19T10:00:00+00:00",
+     "gid": "2026_06_PIT_TB",
+     "source": "rss",
+     "summary": "Film breakdown by Behind the Steel Curtain of Week 6 at Buccaneers (W 26-19)."
+    }
+   ]
   },
   {
    "gid": "2026_05_IND_PIT",
@@ -550,5 +602,5 @@
    ]
   }
  ],
- "count": 1
+ "count": 4
 }

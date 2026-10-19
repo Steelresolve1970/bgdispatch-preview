@@ -1,8 +1,17 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-19T04:16:57+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T04:16:49+00:00._
+_Generated 2026-10-19T13:35:27+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T13:34:03+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Video: [WAKING UP ON VICTORY MONDAY LIKE:](https://www.youtube.com/shorts/YWUC_KWv2ug): Pittsburgh Steelers (official), 2026-10-19 12:56 UTC
+- Podcast: [Steelers Calling for WR Trade - But There Are Rules](https://bleav.com/shows/all-steelers-talk/episodes/steelers-calling-for-wr-trade-but-there-are-rules/): All Steelers Talk, 2026-10-19 12:26 UTC
+- Video: [Steelers Now Postgame: Steelers 26, Buccaneers 19](https://www.youtube.com/watch?v=KonkrbBsYjY): Steelers Now, 2026-10-19 12:03 UTC
+- Podcast: [Pittsburgh Steelers Win Week 6 vs Buccaneers - [What Went Right/Wrong In Week 6]](https://arthurmoats55.libsyn.com/panel_1018_ytmp3): The Arthur Moats Experience, 2026-10-19 09:52 UTC
+- Podcast: [Let's Ride: Winners and Losers after the Steelers 26-19 win over the Buccaneers](http://steelcurtainnetwork.com): Steel Curtain Network (BTSC), 2026-10-19 08:00 UTC
+- Podcast: [DK's Daily Shot of Steelers: The 1-2 catch!](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-steelers-the-1-2-catch/): DK Pittsburgh Sports, 2026-10-19 07:49 UTC
+- Podcast: [DK's Daily Shot of Penguins: Is this Kyle Dubas’ wish?](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-penguins-is-this-kyle-dubas-wish/): DK Pittsburgh Sports, 2026-10-19 07:48 UTC
+- Podcast: [DK's Daily Shot of Pirates: Social media war!](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-pirates-social-media-war/): DK Pittsburgh Sports, 2026-10-19 07:47 UTC
+- Video: [Steelers WRs Germie Bernard, DK Metcalf Find Chemistry w/Aaron Rodgers in Time to Beat Buccaneers](https://www.youtube.com/watch?v=31udvFwckK0): Locked On Steelers, 2026-10-19 04:00 UTC
 - Podcast: [Steelers WRs Germie Bernard, DK Metcalf Find Chemistry w/Aaron Rodgers in Time to Beat Buccaneers](https://lockedonpodcasts.com/podcasts/locked-on-steelers/): Locked On Steelers, 2026-10-19 04:00 UTC
 - Video: [Germie Bernard, Jamel Dean & DK Metcalf on win at Buccaneers | Press Pass | Pittsburgh Steelers](https://www.youtube.com/watch?v=vxAoEcjl98k): Pittsburgh Steelers (official), 2026-10-19 01:22 UTC
 - Video: [Best fans in the world 🖤💛](https://www.youtube.com/shorts/mSgT-K71CjI): Pittsburgh Steelers (official), 2026-10-19 01:02 UTC
@@ -12,12 +21,10 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Reunited 🤝](https://www.youtube.com/shorts/_d_0PZ6tpi4): Pittsburgh Steelers (official), 2026-10-18 23:02 UTC
 - Video: [GGs](https://www.youtube.com/shorts/XkeRK_8xFk8): Pittsburgh Steelers (official), 2026-10-18 22:58 UTC
 - Podcast: [Steelers Beat Bucs in OT! WILD GAME](https://bleav.com/shows/all-steelers-talk/episodes/steelers-beat-bucs-in-ot-wild-game/): All Steelers Talk, 2026-10-18 22:23 UTC
-- Podcast: [SCN Post-Game Show: The Jekyll and Hyde Steelers beat Tampa Bay in OT](http://steelcurtainnetwork.com): Steel Curtain Network (BTSC), 2026-10-18 22:17 UTC
 - Video: [Shoutout Steelers Nation 🗣️](https://www.youtube.com/shorts/01RMOt4ohRM): Pittsburgh Steelers (official), 2026-10-18 22:12 UTC
 - Podcast: [DK’s Live Shot of Steelers: Postgame vs. Buccaneers](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-live-shot-of-steelers-postgame-vs-buccaneers/): DK Pittsburgh Sports, 2026-10-18 22:08 UTC
 - Video: [Steelers vs Bucs Post Game Show LIVE | Not Just Football](https://www.youtube.com/watch?v=GGODe0hKQXk): Not Just Football with Cam Heyward, 2026-10-18 22:03 UTC
 - Video: [STEELERS SQUAD SHOW: McCarthy ROLLS Ankle, Steelers Big COMEBACK Leads To 1st Road Win In OT](https://www.youtube.com/watch?v=oTfu6jvAWPA): Locked On Steelers, 2026-10-18 21:57 UTC
-- Video: [Steelers Now Postgame: Steelers 26, Buccaneers 19](https://www.youtube.com/watch?v=KonkrbBsYjY): Steelers Now, 2026-10-18 21:55 UTC
 - Video: [Mike McCarthy Explains Clock Management Decisions in Steelers Win over Bucs](https://www.youtube.com/watch?v=ZR7423xKpA8): Steelers Now, 2026-10-18 21:51 UTC
 - Video: [Coach McCarthy, Aaron Rodgers & Nick Herbig Postgame Press Conference (Week 6 at Buccaneers)](https://www.youtube.com/watch?v=V1-MVjyVhs8): Pittsburgh Steelers (official), 2026-10-18 21:41 UTC
 - Video: [Later gator ✌️](https://www.youtube.com/shorts/st-Ev-iQ0y0): Pittsburgh Steelers (official), 2026-10-18 21:04 UTC
@@ -26,7 +33,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [DON'T MAKE A SCENE ‼️📺: CBS](https://www.youtube.com/shorts/YB07IX8LGZw): Pittsburgh Steelers (official), 2026-10-18 20:38 UTC
 - Video: [MOST FIELD GOALS MADE IN STEELERS HISTORY ‼️ 📺: CBS](https://www.youtube.com/shorts/sPZ5fXU7IrA): Pittsburgh Steelers (official), 2026-10-18 19:48 UTC
 - Video: [OH MY DAYS 📺: CBS](https://www.youtube.com/shorts/7rBIMTrClGs): Pittsburgh Steelers (official), 2026-10-18 19:42 UTC
-- Video: [8 ➡️ 80 📺: CBS](https://www.youtube.com/shorts/hDToC95527o): Pittsburgh Steelers (official), 2026-10-18 19:34 UTC
 - Podcast: [The Terrible Take - Episode 2054 - October 18, 2026](https://megaphone.link/SDP9521387232): The Terrible Podcast (Steelers Depot), 2026-10-18 14:34 UTC
 - Podcast: [Steelers vs. Bucs Bold Predictions](https://bleav.com/shows/all-steelers-talk/episodes/steelers-vs-bucs-bold-predictions/): All Steelers Talk, 2026-10-18 12:35 UTC
 - Podcast: [DK's Live Shot of Steelers: Pregame vs. Buccaneers](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-live-shot-of-steelers-pregame-vs-buccaneers/): DK Pittsburgh Sports, 2026-10-18 01:37 UTC
@@ -152,13 +158,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Hour 1: Warren Peace](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-101226-mp3): Steelers Blitz, 2026-10-12 17:00 UTC
 - Podcast: [The Terrible Podcast — Steelers-Colts Game Recap, Historic Warren, WR Injuries, Roberts Rumblings & More](https://megaphone.link/SDP6441215922): The Terrible Podcast (Steelers Depot), 2026-10-12 16:29 UTC
 - Podcast: [Hour 2: Deeper Dive into Game/ Look Around the NFL](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr2-101226-mp3): Steelers Blitz, 2026-10-12 16:00 UTC
-- Podcast: [Steelers Get Brutal WR News](https://bleav.com/shows/all-steelers-talk/episodes/steelers-get-brutal-wr-news/): All Steelers Talk, 2026-10-12 12:04 UTC
-- Podcast: [Pittsburgh Steelers Win Week 5 vs Colts - [What Went Right/Wrong In Week 5]](https://arthurmoats55.libsyn.com/panel_1011_ytmp3): The Arthur Moats Experience, 2026-10-12 09:52 UTC
-- Video: [Steelers Get Back to Bully Ball in 34-22 Win vs Colts | Jaylen Warren/Pat Freiermuth Balance Offense](https://www.youtube.com/watch?v=BXnvFn1yxbI): Locked On Steelers, 2026-10-12 06:30 UTC
-- Podcast: [DK's Daily Shot of Steelers: Youth's served!](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-steelers-youths-served/): DK Pittsburgh Sports, 2026-10-12 05:31 UTC
-- Podcast: [DK's Daily Shot of Penguins: Normalcy on the horizon?](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-penguins-normalcy-on-the-horizon/): DK Pittsburgh Sports, 2026-10-12 05:30 UTC
-- Podcast: [DK's Daily Shot of Pirates: Four things I'd change](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-pirates-four-things-id-change/): DK Pittsburgh Sports, 2026-10-12 05:29 UTC
-- Podcast: [Scout’s Eye with Matt Williamson: Dominating the run game](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/scouts-eye-with-matt-williamson-dominating-the-run-game/): DK Pittsburgh Sports, 2026-10-12 05:28 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

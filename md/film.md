@@ -1,8 +1,11 @@
 # Steelers Film Room & Previews
 
-_Generated 2026-10-19T04:16:57+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T04:15:54+00:00._
+_Generated 2026-10-19T13:35:27+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T13:33:58+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/film.json_
 
+- Breakdown (at Tampa Bay Buccaneers (Oct 18)): [Film Room: Jalen Ramsey Calls Game To Beat Buccaneers](https://steelersdepot.com/2026/10/film-room-jalen-ramsey-calls-game-to-beat-buccaneers/): Alex Kozora (Steelers Depot), 2026-10-19 12:30 UTC
+- Breakdown (at Tampa Bay Buccaneers (Oct 18)): [Saunders’ Steelers Takeaways: Mike McCarthy Was Supposed to be Better Than This, But Give Credit Where It’s Due](https://steelersnow.com/saunders-steelers-takeaways-mike-mccarthy-was-supposed-to-be-better-than-this-but-give-credit-where-its-due/): Steelers Now, 2026-10-19 12:05 UTC
+- Breakdown (at Tampa Bay Buccaneers (Oct 18)): [5 takeaways from the Steelers’ OT win over the Tampa Bay Buccaneers](https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176502/5-takeaways-from-the-steelers-26-19-ot-win-over-the-tampa-bay-buccaneers-mike-mccarthy-dk-metcalf-germie-bernard-jamel-dean): Behind the Steel Curtain, 2026-10-19 10:00 UTC
 - Breakdown (at Tampa Bay Buccaneers (Oct 18)): [NFL Week 6 Recap: Pittsburgh Steelers 26, Tampa Bay Buccaneers 19](https://www.pff.com/news/nfl-week-6-recap-pittsburgh-steelers-26-tampa-bay-buccaneers-19/): PFF, 2026-10-18 22:22 UTC
 
 ---

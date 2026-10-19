@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-19T04:15:49.752211+00:00",
+ "generated": "2026-10-19T13:33:54.900137+00:00",
  "season": 2026,
  "through": "2026-10-18",
- "games_counted": 91,
+ "games_counted": 92,
  "divisions": {
   "AFC East": [
    {
@@ -252,20 +252,6 @@
     "strk": "L1"
    },
    {
-    "abbr": "DAL",
-    "name": "Dallas Cowboys",
-    "w": 2,
-    "l": 3,
-    "t": 0,
-    "pct": 0.4,
-    "pf": 138,
-    "pa": 136,
-    "diff": 2,
-    "div": "1-1",
-    "conf": "1-2",
-    "strk": "L1"
-   },
-   {
     "abbr": "PHI",
     "name": "Philadelphia Eagles",
     "w": 2,
@@ -278,6 +264,20 @@
     "div": "1-0",
     "conf": "1-3",
     "strk": "L4"
+   },
+   {
+    "abbr": "DAL",
+    "name": "Dallas Cowboys",
+    "w": 2,
+    "l": 4,
+    "t": 0,
+    "pct": 0.333,
+    "pf": 151,
+    "pa": 159,
+    "diff": -8,
+    "div": "1-1",
+    "conf": "1-3",
+    "strk": "L2"
    },
    {
     "abbr": "WAS",
@@ -310,6 +310,20 @@
     "strk": "W5"
    },
    {
+    "abbr": "GB",
+    "name": "Green Bay Packers",
+    "w": 4,
+    "l": 2,
+    "t": 0,
+    "pct": 0.667,
+    "pf": 127,
+    "pa": 125,
+    "diff": 2,
+    "div": "1-1",
+    "conf": "3-2",
+    "strk": "W3"
+   },
+   {
     "abbr": "CHI",
     "name": "Chicago Bears",
     "w": 4,
@@ -322,20 +336,6 @@
     "div": "0-2",
     "conf": "3-2",
     "strk": "W1"
-   },
-   {
-    "abbr": "GB",
-    "name": "Green Bay Packers",
-    "w": 3,
-    "l": 2,
-    "t": 0,
-    "pct": 0.6,
-    "pf": 104,
-    "pa": 112,
-    "diff": -8,
-    "div": "1-1",
-    "conf": "2-2",
-    "strk": "W2"
    },
    {
     "abbr": "DET",
@@ -471,13 +471,10 @@
  },
  "order_note": "Sorted by win pct, then division record, then point differential. Official NFL tiebreakers may order tied teams differently.",
  "espn_check": {
-  "status": "mismatch",
+  "status": "match",
   "teams": 32,
-  "mismatches": [
-   "DAL ours 2-3 espn 2-4",
-   "GB ours 3-2 espn 4-2"
-  ],
-  "checked": "2026-10-19T04:15:49.939815+00:00"
+  "mismatches": [],
+  "checked": "2026-10-19T13:33:55.106180+00:00"
  },
  "source": "Data: nflverse (CC-BY 4.0)",
  "source_url": "https://github.com/nflverse/nflverse-data"

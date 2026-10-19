@@ -1,6 +1,6 @@
 # College Prospects at Steelers Needs
 
-_Generated 2026-10-19T04:16:57+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T01:48:09+00:00._
+_Generated 2026-10-19T13:35:27+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T13:35:13+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/college.json_
 
 ### Quarterback
@@ -11,26 +11,26 @@ _JSON: https://blackandgolddispatch.com/api/v1/college.json_
 
 ### Cornerback
 - **Leonard Moore** (CB, Notre Dame, our board #8): Leonard made 5 tackles with 1 pass breakup in a loss at BYU. Season: 13 tackles, 5 PD in 5 games. (stats: CollegeFootballData.com)
-- **Ellis Robinson IV** (CB, Georgia, our board #12): Ellis made 0 tackles with 1 pass breakup in a loss vs. Auburn. Season: 13 tackles, 1 INT, 4 PD in 6 games. (stats: CollegeFootballData.com)
+- **Ellis Robinson IV** (CB, Georgia, our board #11): Ellis made 0 tackles with 1 pass breakup in a loss vs. Auburn. Season: 13 tackles, 1 INT, 4 PD in 6 games. (stats: CollegeFootballData.com)
 - **Kelley Jones** (CB, Mississippi State, our board #23): Kelley made 4 tackles in a loss at LSU. Season: 21 tackles, 6 PD in 6 games. (stats: CollegeFootballData.com)
 - **Ashton Hampton** (CB, Clemson, our board #27): Ashton made 4 tackles in a win vs. Charleston Southern. Season: 19 tackles, 1 INT, 9 PD in 6 games. (stats: CollegeFootballData.com)
 
 ### Safety
 - **KJ Bolden** (S, Georgia, our board #14): KJ made 7 tackles with 0.5 sacks, 1 pass breakup in a win at Alabama. Season: 22 tackles, 0.5 sacks, 1 INT, 2 PD in 6 games. (stats: CollegeFootballData.com)
 - **Brauntae Johnson** (S, Notre Dame, our board #42): Stats not found. (stats: CollegeFootballData.com)
-- **Jelani McDonald** (S, Texas, our board #70): Jelani made 9 tackles with 1 pass breakup in a loss vs. Florida. Season: 42 tackles, 2 PD in 6 games. (stats: CollegeFootballData.com)
-- **Earl Little Jr.** (S, Ohio State, our board #99): Earl made 8 tackles with 1 pass breakup in a win at Indiana. Season: 38 tackles, 4 PD in 7 games. (stats: CollegeFootballData.com)
+- **Jelani McDonald** (S, Texas, our board #73): Jelani made 9 tackles with 1 pass breakup in a loss vs. Florida. Season: 42 tackles, 2 PD in 6 games. (stats: CollegeFootballData.com)
+- **Earl Little Jr.** (S, Ohio State, our board #102): Earl made 8 tackles with 1 pass breakup in a win at Indiana. Season: 38 tackles, 4 PD in 7 games. (stats: CollegeFootballData.com)
 
 ### Inside linebacker
-- **Sammy Brown** (LB, Clemson, our board #25): Sammy made 1 tackle in a win vs. Charleston Southern. Season: 40 tackles, 1 sack, 1 PD in 6 games. (stats: CollegeFootballData.com)
-- **Chris Cole** (LB, Georgia, our board #26): Chris made 10 tackles in a loss vs. Auburn. Season: 40 tackles, 2.5 sacks, 3 PD in 7 games. (stats: CollegeFootballData.com)
-- **Suntarine Perkins** (LB, Ole Miss, our board #93): Suntarine made 1 tackle in a win vs. Missouri. Season: 20 tackles, 1.5 sacks, 1 PD in 6 games. (stats: CollegeFootballData.com)
-- **Myles Graham** (LB, Florida, our board #108): Myles made 7 tackles with 1 sack in a win at Texas. Season: 49 tackles, 3.5 sacks in 7 games. (stats: CollegeFootballData.com)
+- **Chris Cole** (LB, Georgia, our board #25): Chris made 10 tackles in a loss vs. Auburn. Season: 40 tackles, 2.5 sacks, 3 PD in 7 games. (stats: CollegeFootballData.com)
+- **Sammy Brown** (LB, Clemson, our board #26): Sammy made 1 tackle in a win vs. Charleston Southern. Season: 40 tackles, 1 sack, 1 PD in 6 games. (stats: CollegeFootballData.com)
+- **Suntarine Perkins** (LB, Ole Miss, our board #92): Suntarine made 1 tackle in a win vs. Missouri. Season: 20 tackles, 1.5 sacks, 1 PD in 6 games. (stats: CollegeFootballData.com)
+- **Raylen Wilson** (LB, Georgia, our board #104): Raylen made 10 tackles with 1 sack in a loss vs. Auburn. Season: 43 tackles, 4 sacks in 6 games. (stats: CollegeFootballData.com)
 
 ### Wide receiver
 - **Jeremiah Smith** (WR, Ohio State, our board #3): Jeremiah caught 4 passes for 68 yards and 1 TD in a win at Indiana. Season: 52 catches, 984 yards (141 per game), 12 TD. (stats: CollegeFootballData.com)
-- **Cam Coleman** (WR, Texas, our board #11): Cam caught 3 passes for 18 yards and 1 TD in a loss vs. Florida. Season: 19 catches, 322 yards (54 per game), 6 TD. (stats: CollegeFootballData.com)
-- **Charlie Becker** (WR, Indiana, our board #15): Charlie caught 9 passes for 165 yards in a loss vs. Ohio State. Season: 39 catches, 694 yards (99 per game), 8 TD. (stats: CollegeFootballData.com)
+- **Cam Coleman** (WR, Texas, our board #12): Cam caught 3 passes for 18 yards and 1 TD in a loss vs. Florida. Season: 19 catches, 322 yards (54 per game), 6 TD. (stats: CollegeFootballData.com)
+- **Charlie Becker** (WR, Indiana, our board #16): Charlie caught 9 passes for 165 yards in a loss vs. Ohio State. Season: 39 catches, 694 yards (99 per game), 8 TD. (stats: CollegeFootballData.com)
 - **Ryan Coleman-Williams** (WR, Alabama, our board #22): Stats not found. (stats: CollegeFootballData.com)
 
 ---
