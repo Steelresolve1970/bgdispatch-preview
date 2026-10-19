@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-19T21:43:53+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T21:43:20+00:00._
+_Generated 2026-10-19T21:55:38+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T21:55:12+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [Steelers Battling Over Trade | What's Different About This Team?](https://bleav.com/shows/all-steelers-talk/episodes/steelers-battling-over-trade-whats-different-about-this-team/): All Steelers Talk, 2026-10-19 21:35 UTC
@@ -157,7 +157,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [DK's Double Shot of Steelers: Elandon Roberts returns!](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-double-shot-of-steelers-elandon-roberts-returns/): DK Pittsburgh Sports, 2026-10-12 22:13 UTC
 - Podcast: [DK's Double Shot of Penguins: Andrei Kuzmenko’s role?](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-double-shot-of-penguins-andrei-kuzmenkos-role/): DK Pittsburgh Sports, 2026-10-12 22:11 UTC
 - Podcast: [Drive10.12.26Hr1: Colts Recap](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-12-26hr1-mp3): SNR Drive, 2026-10-12 22:00 UTC
-- Podcast: [Pittsburgh Steelers vs Indianapolis Colts Recap/Phone Lines](https://arthurmoats55.libsyn.com/the_arthur_moats_experience__ep_777__live___steelers_vs_colts_recap_phone_lines_mp3): The Arthur Moats Experience, 2026-10-12 21:55 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
