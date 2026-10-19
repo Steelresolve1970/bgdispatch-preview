@@ -1,9 +1,11 @@
 # Steelers News
 
-_Generated 2026-10-19T18:32:09+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T18:31:53+00:00._
+_Generated 2026-10-19T18:43:40+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T18:43:23+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Submit your questions for Mike DeFabo’s Steelers mailbag](https://www.nytimes.com/athletic/7705346/2026/10/19/steelers-mailbag-paris-game-bucs-win/): The Athletic, 2026-10-19 18:42 UTC
 - [‘I Wanted Them To Lose’: Domonique Foxworth Says Steelers ‘Didn’t Deserve’ To Beat Buccaneers](https://steelersdepot.com/2026/10/i-wanted-them-to-lose-domonique-foxworth-says-steelers-didnt-deserve-to-beat-buccaneers/): Steelers Depot, 2026-10-19 18:30 UTC
+- [NFL: Indianapolis Colts at Pittsburgh Steelers](https://lufkindailynews.com/news_reuters/sports/nfl-indianapolis-colts-at-pittsburgh-steelers/image_c50941c8-5962-5c56-aa3a-32fa6b324235.html): The Lufkin Daily News, 2026-10-19 18:22 UTC
 - [Steelers Accomplish Extremely Rare Feat in Win over Bucs](https://steelersnow.com/steelers-accomplish-extremely-rare-feat-in-win-over-bucs/): Steelers Now, 2026-10-19 18:20 UTC
 - [Steelers' Aaron Rodgers Has Daring Comments For Buccaneers' Glazer Family](https://www.steelernation.com/2026/10/19/steelers-aaron-rodgers-daring-buccaneers): SteelerNation, 2026-10-19 18:11 UTC
 - [‘Everyone Was Happy’: Jaquan Brisker Loved Jamel Dean’s ‘Amazing’ Revenge Game In Tampa](https://steelersdepot.com/2026/10/everyone-was-happy-jaquan-brisker-loved-jamel-deans-amazing-revenge-game-in-tampa/): Steelers Depot, 2026-10-19 18:00 UTC
@@ -28,7 +30,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Beat Writer Names Pittsburgh’s ‘Best Bet’ For Internal Wide Receiver Help](https://steelersdepot.com/2026/10/beat-writer-names-pittsburghs-best-bet-for-internal-wide-receiver-help/): Steelers Depot, 2026-10-19 15:50 UTC
 - [The Steelers are heading to Paris in 3 days as protests continue, and one player says what he’s seen online “looks crazy out there”](https://www.pennlive.com/steelers/2026/10/the-steelers-are-heading-to-paris-in-3-days-as-protests-continue-and-one-player-says-what-hes-seen-online-looks-crazy-out-there.html): PennLive (Nick Farabaugh), 2026-10-19 15:49 UTC
 - [David Walker Brings the Pressure | Data Crunch](https://www.buccaneers.com/news/david-walker-brings-pressure-data-crunch): Tampa Bay Buccaneers, 2026-10-19 15:47 UTC
-- [Violence and unrest intensify in Paris, other parts of France ahead of upcoming Steelers-Saints game](https://www.cbsnews.com/pittsburgh/news/violence-unrest-intensified-paris-pittsburgh-steelers-new-orleans-saints-game/): CBS News, 2026-10-19 15:34 UTC
 - [Perspective Of An Average Steelers Fan: Pittsburgh Stacks Wins](https://steelersdepot.com/2026/10/perspective-of-an-average-steelers-fan-pittsburgh-stacks-wins/): Steelers Depot, 2026-10-19 15:30 UTC
 - [Christopher Carter's Steelers and Pitt chat: 10.19.26](https://www.post-gazette.com/sports/steelers/2026/10/19/steelers-live-chat-aaron-rodgers/stories/202610190029): Pittsburgh Post-Gazette, 2026-10-19 15:30 UTC
 - [‘That’s A Good Sign’: Pete Prisco Credits Jalen Ramsey For ‘Fantastic’ Performance Against Buccaneers](https://steelersdepot.com/2026/10/thats-a-good-sign-pete-prico-credits-jalen-ramsey-for-fantastic-performance-against-buccaneers/): Steelers Depot, 2026-10-19 15:00 UTC
@@ -54,6 +55,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers Takeaways: Second-half comeback saves Pittsburgh in overtime win over Buccaneers](https://www.steelcityunderground.com/2026/10/19/steelers-takeaways-second-half-comeback-saves-pittsburgh-in-overtime-win-over-buccaneers/): Steel City Underground, 2026-10-19 13:14 UTC
 - [‘Gonna Be The Future’: Jamel Dean ‘Excited’ For Daylen Everette After Rookie’s First Interception](https://steelersdepot.com/2026/10/gonna-be-the-future-jamel-dean-excited-for-daylen-everette-after-rookies-first-interception/): Steelers Depot, 2026-10-19 13:00 UTC
 - [Germie Bernard's growing connection with Aaron Rodgers has Steelers buzzing](https://stillcurtain.com/germie-bernard-growing-connection-aaron-rodgers-pittsburgh-steelers-buzzing-01m59441d0x6?utm_source=RSS): Still Curtain, 2026-10-19 13:00 UTC
+- [Violence and unrest intensify in Paris, other parts of France ahead of upcoming Steelers-Saints game](https://www.cbsnews.com/pittsburgh/news/violence-unrest-intensified-paris-pittsburgh-steelers-new-orleans-saints-game/): CBS News, 2026-10-19 12:40 UTC
 - [Film Room: Jalen Ramsey Calls Game To Beat Buccaneers](https://steelersdepot.com/2026/10/film-room-jalen-ramsey-calls-game-to-beat-buccaneers/): Steelers Depot, 2026-10-19 12:30 UTC
 - [Saunders’ Steelers Takeaways: Mike McCarthy Was Supposed to be Better Than This, But Give Credit Where It’s Due](https://steelersnow.com/saunders-steelers-takeaways-mike-mccarthy-was-supposed-to-be-better-than-this-but-give-credit-where-its-due/): Steelers Now, 2026-10-19 12:05 UTC
 - [Nick Herbig Motivated Himself By Watching ‘Hungry Herb’ Film: ‘Remind Yourself How You Got Here’](https://steelersdepot.com/2026/10/nick-herbig-motivated-himself-by-watching-hungry-herb-film-remind-yourself-how-you-got-here/): Steelers Depot, 2026-10-19 12:00 UTC
@@ -75,7 +77,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Pittsburgh Steelers 2026 NFL Playoff Simulator](https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/pittsburgh-steelers-season-projections/): The New York Times, 2026-10-19 03:50 UTC
 - [Is this what the Steelers offense will look like against every quality defense?](https://www.nytimes.com/athletic/7703226/2026/10/18/pittsburgh-steelers-offensive-struggles-bucs-win/): The Athletic, 2026-10-19 01:30 UTC
 - [The NFL says the Steelers’ game in Paris is still on despite civil unrest](https://www.post-gazette.com/sports/steelers/2026/10/18/nfl-steelers-saints-game-paris-civil-unrest-france/stories/202610180091): Pittsburgh Post-Gazette, 2026-10-19 01:14 UTC
-- [Aaron Rodgers reacts to Steelers' overtime win against Buccaneers in Week 6](https://www.nfl.com/videos/aaron-rodgers-reacts-to-steelers-overtime-win-against-buccaneers-in-week-6): NFL.com, 2026-10-19 01:09 UTC
 - [From the Press Room: Steelers at Buccaneers](https://www.steelers.com/news/from-the-press-room-steelers-at-buccaneers): Steelers.com (official), 2026-10-19 00:40 UTC
 - [Steelers rookie Germie Bernard makes up for an early mistake by catching the OT winner](https://www.post-gazette.com/sports/steelers/2026/10/18/germie-bernard-overtime-touchdown-steelers/stories/202610180076): Pittsburgh Post-Gazette, 2026-10-19 00:18 UTC
 - [Mike McCarthy Gave A Direct Message To Steelers' Aaron Rodgers And The Offense](https://www.steelernation.com/2026/10/18/steelers-mike-mccarthy-direct-aaron-rodgers): SteelerNation, 2026-10-19 00:18 UTC
@@ -152,7 +153,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers place WR Roman Wilson on injured reserve](https://triblive.com/sports/steelers-place-wr-roman-wilson-on-injured-reserve/): TribLive, 2026-10-17 19:15 UTC
 - [Steelers make roster moves ahead of Buccaneers game](https://www.steelers.com/news/steelers-make-roster-moves-ahead-of-buccaneers-game): Steelers.com (official), 2026-10-17 19:02 UTC
 - [Steelers latest injury update swaps one problem for another](https://stillcurtain.com/pittsburgh-steelers-latest-injury-update-swaps-one-problem-for-another?utm_source=RSS): Still Curtain, 2026-10-17 18:01 UTC
-- [Updated: Week 6 Injury Report (Buccaneers)](https://www.steelers.com/news/week-6-injury-report-buccaneers-x2319): Steelers.com (official), 2026-10-17 18:00 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

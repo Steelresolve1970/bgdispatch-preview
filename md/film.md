@@ -1,6 +1,6 @@
 # Steelers Film Room & Previews
 
-_Generated 2026-10-19T18:32:09+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T18:31:56+00:00._
+_Generated 2026-10-19T18:43:40+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T18:43:27+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/film.json_
 
 - Breakdown (at Tampa Bay Buccaneers (Oct 18)): [Ugly Win in Tampa: Grading Every Steelers Unit After the OT Thriller | REPORT CARD | Week 6](https://www.youtube.com/watch?v=7rJt8I0UKLI): Steelers Almighty, 2026-10-19 18:00 UTC
