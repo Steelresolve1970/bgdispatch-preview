@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T01:58:42.566927+00:00",
+ "generated": "2026-10-19T02:10:09.991550+00:00",
  "date_et": "2026-10-18",
  "days": 7,
  "count": 185,
@@ -80,10 +80,10 @@
    "show": "Still Curtain Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxjSNPLcRAVzDKOjhRwo-hQ",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 2,
-   "latest": "2026-10-15T06:43:03+00:00"
+   "latest": null
   },
   {
    "show": "Steel City Underground",
@@ -242,10 +242,10 @@
    "show": "The Christian Kuntz Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKKBJcOGsYmwAATQv-xQYeA",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 500: Internal Server Error",
+   "episodes": 0,
    "week": 0,
-   "latest": "2009-05-26T14:01:33+00:00"
+   "latest": null
   }
  ],
  "items": [
@@ -1730,5 +1730,12 @@
    "summary": "Podcast episode from DK Pittsburgh Sports."
   }
  ],
- "yt_channels": []
+ "yt_channels": [
+  {
+   "show": "The Christian Kuntz Podcast",
+   "channel_id": "UCKKBJcOGsYmwAATQv-xQYeA",
+   "link": "https://www.youtube.com/channel/UCKKBJcOGsYmwAATQv-xQYeA",
+   "embed": "https://www.youtube-nocookie.com/embed/videoseries?list=UUKKBJcOGsYmwAATQv-xQYeA"
+  }
+ ]
 }

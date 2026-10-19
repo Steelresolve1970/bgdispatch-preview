@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-19T01:58:30.174423+00:00",
- "count": 6,
+ "generated": "2026-10-19T02:08:57.121961+00:00",
+ "count": 5,
  "insiders": [
   {
    "name": "Ian Rapoport",
@@ -12,9 +12,11 @@
   {
    "name": "Tom Pelissero",
    "handle": "tompelissero.bsky.social",
-   "posts": 30,
-   "last_3_days": 1,
-   "errors": []
+   "posts": 0,
+   "last_3_days": 0,
+   "errors": [
+    "bluesky_posts: <urlopen error timed out>"
+   ]
   },
   {
    "name": "Field Yates",
@@ -33,9 +35,11 @@
   {
    "name": "Dov Kleiman",
    "handle": "dovkleiman.bsky.social",
-   "posts": 1,
+   "posts": 0,
    "last_3_days": 0,
-   "errors": []
+   "errors": [
+    "bluesky_posts: <urlopen error timed out>"
+   ]
   },
   {
    "name": "Jim Trotter",
@@ -82,9 +86,11 @@
   {
    "name": "Alex Kozora (Steelers Depot)",
    "handle": "alexkozora.bsky.social",
-   "posts": 13,
+   "posts": 0,
    "last_3_days": 0,
-   "errors": []
+   "errors": [
+    "bluesky_posts: <urlopen error timed out>"
+   ]
   },
   {
    "name": "Christopher Carter (Locked On)",
@@ -139,16 +145,6 @@
    "about": "@rapsheet.bsky.social posted about the Steelers, injuries.",
    "link": "https://bsky.app/profile/rapsheet.bsky.social/post/3my5rerwbts2a",
    "published": "2026-10-18T14:01:00+00:00"
-  },
-  {
-   "name": "Tom Pelissero",
-   "handle": "@tompelissero.bsky.social",
-   "platform": "Bluesky",
-   "topics": [],
-   "steelers": false,
-   "about": "@tompelissero.bsky.social posted about NFL news.",
-   "link": "https://bsky.app/profile/tompelissero.bsky.social/post/3mxzf2x7x7s2g",
-   "published": "2026-10-16T20:10:00+00:00"
   },
   {
    "name": "Christopher Carter (Locked On)",
@@ -379,16 +375,6 @@
    "about": "@rapsheet.bsky.social posted about injuries.",
    "link": "https://bsky.app/profile/rapsheet.bsky.social/post/3my3ce6irbc2b",
    "published": "2026-10-17T14:27:00+00:00"
-  },
-  {
-   "name": "Tom Pelissero",
-   "handle": "@tompelissero.bsky.social",
-   "platform": "Bluesky",
-   "topics": [],
-   "steelers": false,
-   "about": "@tompelissero.bsky.social posted about NFL news.",
-   "link": "https://bsky.app/profile/tompelissero.bsky.social/post/3mxzf2x7x7s2g",
-   "published": "2026-10-16T20:10:00+00:00"
   },
   {
    "name": "Ian Rapoport",
