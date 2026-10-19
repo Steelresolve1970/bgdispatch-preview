@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-19T15:50:45+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T15:50:28+00:00._
+_Generated 2026-10-19T16:01:13+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T16:00:56+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Beat Writer Names Pittsburgh’s ‘Best Bet’ For Internal Wide Receiver Help](https://steelersdepot.com/2026/10/beat-writer-names-pittsburghs-best-bet-for-internal-wide-receiver-help/): Steelers Depot, 2026-10-19 15:50 UTC
@@ -74,7 +74,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers' Aaron Rodgers Makes Definitive Statement After Buccaneers Win](https://www.steelernation.com/2026/10/18/steelers-aaron-rodgers-definitive-statement): SteelerNation, 2026-10-18 23:51 UTC
 - [Mike McCarthy Sends Strong Message To Steelers Fan Base Following Week 6 WIn](https://www.steelernation.com/2026/10/18/steelers-mike-mccarthy-strong-fan): SteelerNation, 2026-10-18 23:50 UTC
 - [‘I Look At It As A Positive’: Germie Bernard Learning From Fourth-Down Mistake](https://steelersdepot.com/2026/10/i-look-at-it-as-a-positive-germie-bernard-learning-from-fourth-down-mistake/): Steelers Depot, 2026-10-18 23:45 UTC
-- [How Cowboys’ Joey Porter Jr. Week 6 Decision Helps Steelers](https://heavy.com/sports/nfl/pittsburgh-steelers/joey-porter-jr-trade-nfl-news-conditional-sixth-round-pick-cowboys/): Heavy.com, 2026-10-18 23:43 UTC
 - [Batko's Quick 6: Steelers at Buccaneers](https://www.steelers.com/news/batko-s-quick-6-steelers-at-buccaneers): Steelers.com (official), 2026-10-18 23:40 UTC
 - [Steelers QB Aaron Rodgers Rips Buccaneers' Raymond James Stadium: 'One Of The Worst Surfaces in The League'](https://sportsnetpittsburgh.com/pittsburgh-steelers/news/steelers-aaron-rodgers-rips-raymond-james-stadium-worst-surface/6a3f34b82b3d512c56485c65): SportsNet Pittsburgh, 2026-10-18 23:38 UTC
 - [‘Turned That Into Our Stadium’: Steelers Nation Takes Over Tampa in Comeback Win](https://steelersnow.com/turned-that-into-our-stadium-steelers-nation-takes-over-tampa-in-comeback-win/): Steelers Now, 2026-10-18 23:37 UTC
@@ -123,6 +122,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [HC Mike McCarthy Gets Injured During Steelers Game](https://www.si.com/nfl/steelers/onsi/mike-mccarthy-injured-pittsburgh-steelers-game-01m585csr1js): All Steelers (Sports Illustrated), 2026-10-18 18:54 UTC
 - [NFL: ‘Preparations continue as scheduled’ for Steelers game in Paris, despite protests](https://triblive.com/sports/nfl-preparations-continue-as-scheduled-for-steelers-game-in-paris-despite-protests/): TribLive, 2026-10-18 17:41 UTC
 - [[WATCH@LIVE-GAME] Pittsburgh Steelers vs Tampa Bay Buccaneers Game Live free NFL Football October, 18, 2026 pan](https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3RvcC5kaXJlY3R0dmh1Yi5zaG9wL2dvcyIvPjwva3JwYW5vPg==&id=video-pittsburgh-steelers-vs-tampa-bay-buccaneers-liv-games-op5): Universidad de Córdoba (UCO), 2026-10-18 17:33 UTC
+- [Here's How I find Tampa Bay Buccaneers vs Pittsburgh Steelers 𝕃𝕚𝕧𝕖 Ｆｒｅｅ Ｓｔｒｅａｍｓ Today](https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2dldnRzdi5naXRodWIuaW8vdmFsby9zci54bWwiLz48L2tycGFubz4=&id=video-heres-how-i-find-tampa-bay-b-n1gtm2mg): Universidad de Córdoba (UCO), 2026-10-18 17:20 UTC
 - [Steelers vs. Buccaneers: Alternate game thread](https://www.behindthesteelcurtain.com/pittsburgh-steelers-discussion/176383/steelers-vs-buccaneers-alternate-game-thread): Behind the Steel Curtain, 2026-10-18 16:50 UTC
 - [Steelers making calls for wide receiver trade](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176496/steelers-making-calls-for-wide-receiver-trade-dk-metcalf-michael-pittman): Behind the Steel Curtain, 2026-10-18 16:42 UTC
 - [Steelers vs. Buccaneers: Week 6 game chat](https://www.behindthesteelcurtain.com/pittsburgh-steelers-discussion/176379/steelers-vs-buccaneers-week-6-game-chat): Behind the Steel Curtain, 2026-10-18 16:30 UTC
