@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T16:11:43.487417+00:00",
+ "generated": "2026-10-19T16:22:04.938513+00:00",
  "count": 150,
  "sources": [
   {
@@ -29,8 +29,8 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
-   "steelers_items": 0
+   "status": "ok",
+   "steelers_items": 24
   },
   {
    "source": "Still Curtain",
@@ -72,7 +72,7 @@
    "source": "Yahoo Sports",
    "url": "https://sports.yahoo.com/nfl/rss/",
    "status": "ok",
-   "steelers_items": 3
+   "steelers_items": 2
   },
   {
    "source": "Google News",
@@ -106,6 +106,23 @@
   }
  ],
  "items": [
+  {
+   "title": "Pittsburgh Steelers lose key cornerback to hamstring injury",
+   "source": "PennLive (Nick Farabaugh)",
+   "link": "https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-lose-key-cornerback-to-injury.html",
+   "published": "2026-10-19T16:16:25+00:00",
+   "summary": "Injury story from PennLive (Nick Farabaugh). Full report at the original publisher.",
+   "id": "26d8e29a34"
+  },
+  {
+   "title": "Steelers Linemen Lead Way With Top PFF Grades in Week 6 Win vs. Buccaneers",
+   "source": "SportsNet Pittsburgh",
+   "link": "https://sportsnetpittsburgh.com/pittsburgh-steelers/news/steelers-linemen-pff-grades-week-6-buccaneers/52002b279070e5efeae8b865",
+   "published": "2026-10-19T16:11:07+00:00",
+   "via": "Google News",
+   "summary": "Game story from SportsNet Pittsburgh. Full report at the original publisher.",
+   "id": "7e29500bc0"
+  },
   {
    "title": "Steelers' WR Problem Got A Lot Worse With Latest Michael Pittman Jr Report",
    "source": "SteelerNation",
@@ -287,14 +304,6 @@
    "id": "71d2778a09"
   },
   {
-   "title": "Three Rivers Report: What to make of the Steelers\u2019 win over the Bucs",
-   "source": "Yahoo Sports",
-   "link": "https://sports.yahoo.com/articles/three-rivers-report-steelers-win-141816191.html",
-   "published": "2026-10-19T14:18:16+00:00",
-   "summary": "Game story from Yahoo Sports. Full report at the original publisher.",
-   "id": "be0b916dd4"
-  },
-  {
    "title": "Pittsburgh Steelers\u2019 Week 6 PFF Grades: Secondary Shines In Ugly Win",
    "source": "Steelers Depot",
    "link": "https://steelersdepot.com/2026/10/pittsburgh-steelers-week-6-pff-grades-secondary-shines-in-ugly-win/",
@@ -384,6 +393,14 @@
    "id": "6d1195e650"
   },
   {
+   "title": "Steelers Takeaways: Second-half comeback saves Pittsburgh in overtime win over Buccaneers",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/19/steelers-takeaways-second-half-comeback-saves-pittsburgh-in-overtime-win-over-buccaneers/",
+   "published": "2026-10-19T13:14:03+00:00",
+   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
+   "id": "dfe2de4202"
+  },
+  {
    "title": "\u2018Gonna Be The Future\u2019: Jamel Dean \u2018Excited\u2019 For Daylen Everette After Rookie\u2019s First Interception",
    "source": "Steelers Depot",
    "link": "https://steelersdepot.com/2026/10/gonna-be-the-future-jamel-dean-excited-for-daylen-everette-after-rookies-first-interception/",
@@ -447,6 +464,14 @@
    "via": "Google News",
    "summary": "Trade/roster move story from A to Z Sports. Full report at the original publisher.",
    "id": "16ae1373d4"
+  },
+  {
+   "title": "Plays of the Game: Jamel Dean\u2019s interception sets up Steelers\u2019 late lead",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/19/plays-of-the-game-jamel-deans-interception-sets-up-steelers-late-lead/",
+   "published": "2026-10-19T11:40:57+00:00",
+   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
+   "id": "c1a0198967"
   },
   {
    "title": "Steelers Stock Watch 2026 \u2013 RB Rico Dowdle",
@@ -700,15 +725,6 @@
    "published": "2026-10-18T23:40:37+00:00",
    "summary": "News story from Steelers.com (official). Full report at the original publisher.",
    "id": "d0cdbf5e83"
-  },
-  {
-   "title": "Steelers QB Aaron Rodgers Rips Buccaneers' Raymond James Stadium: 'One Of The Worst Surfaces in The League'",
-   "source": "SportsNet Pittsburgh",
-   "link": "https://sportsnetpittsburgh.com/pittsburgh-steelers/news/steelers-aaron-rodgers-rips-raymond-james-stadium-worst-surface/6a3f34b82b3d512c56485c65",
-   "published": "2026-10-18T23:38:10+00:00",
-   "via": "Google News",
-   "summary": "News story from SportsNet Pittsburgh. Full report at the original publisher.",
-   "id": "6e1544f7cc"
   },
   {
    "title": "\u2018Turned That Into Our Stadium\u2019: Steelers Nation Takes Over Tampa in Comeback Win",
@@ -1083,6 +1099,15 @@
    "id": "056164179c"
   },
   {
+   "title": "Can't-Miss Play: Bucs snag one of the most bizarre INTs of 2026 against Rodgers",
+   "source": "NFL.com",
+   "link": "https://www.nfl.com/videos/can-t-miss-play-bucs-snag-one-of-the-most-bizarre-ints-of-2026-against-rodgers",
+   "published": "2026-10-18T17:38:18+00:00",
+   "via": "Google News",
+   "summary": "News story from NFL.com. Full report at the original publisher.",
+   "id": "be13d38d52"
+  },
+  {
    "title": "[WATCH@LIVE-GAME] Pittsburgh Steelers vs Tampa Bay Buccaneers Game Live free NFL Football October, 18, 2026 pan",
    "source": "Universidad de C\u00f3rdoba (UCO)",
    "link": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3RvcC5kaXJlY3R0dmh1Yi5zaG9wL2dvcyIvPjwva3JwYW5vPg==&id=video-pittsburgh-steelers-vs-tampa-bay-buccaneers-liv-games-op5",
@@ -1090,15 +1115,6 @@
    "via": "Google News",
    "summary": "Game story from Universidad de C\u00f3rdoba (UCO). Full report at the original publisher.",
    "id": "4709360bfc"
-  },
-  {
-   "title": "Here's How I find Tampa Bay Buccaneers vs Pittsburgh Steelers \ud835\udd43\ud835\udd5a\ud835\udd67\ud835\udd56 \uff26\uff52\uff45\uff45 \uff33\uff54\uff52\uff45\uff41\uff4d\uff53 Today",
-   "source": "Universidad de C\u00f3rdoba (UCO)",
-   "link": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2dldnRzdi5naXRodWIuaW8vdmFsby9zci54bWwiLz48L2tycGFubz4=&id=video-heres-how-i-find-tampa-bay-b-n1gtm2mg",
-   "published": "2026-10-18T17:20:49+00:00",
-   "via": "Google News",
-   "summary": "Game story from Universidad de C\u00f3rdoba (UCO). Full report at the original publisher.",
-   "id": "420b410d16"
   },
   {
    "title": "Steelers vs. Buccaneers: Alternate game thread",
@@ -1224,6 +1240,14 @@
    "id": "e1fb31e68f"
   },
   {
+   "title": "SCU Week in Review \u2013 October 18th",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/18/scu-week-in-review-october-18th-2/",
+   "published": "2026-10-18T11:10:45+00:00",
+   "summary": "News story from Steel City Underground. Full report at the original publisher.",
+   "id": "3168b8bdcc"
+  },
+  {
    "title": "Steelers' tight end duo could counter costly WR injuries vs. Buccaneers",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/pittsburgh-steelers-tight-end-duo-could-counter-costly-wr-injuries-vs-buccaneers-01m534w1agdq?utm_source=RSS",
@@ -1310,30 +1334,6 @@
    "published": "2026-10-17T19:02:08+00:00",
    "summary": "Game story from Steelers.com (official). Full report at the original publisher.",
    "id": "aaecd724e5"
-  },
-  {
-   "title": "Steelers latest injury update swaps one problem for another",
-   "source": "Still Curtain",
-   "link": "https://stillcurtain.com/pittsburgh-steelers-latest-injury-update-swaps-one-problem-for-another?utm_source=RSS",
-   "published": "2026-10-17T18:01:55+00:00",
-   "summary": "Injury story from Still Curtain. Full report at the original publisher.",
-   "id": "dd0d2fa7f8"
-  },
-  {
-   "title": "Updated: Week 6 Injury Report (Buccaneers)",
-   "source": "Steelers.com (official)",
-   "link": "https://www.steelers.com/news/week-6-injury-report-buccaneers-x2319",
-   "published": "2026-10-17T18:00:00+00:00",
-   "summary": "Injury story from Steelers.com (official). Full report at the original publisher.",
-   "id": "b134dcffe5"
-  },
-  {
-   "title": "Steelers TE Pat Freiermuth questionable vs. Bucs; WR DK Metcalf removed from injury report",
-   "source": "TribLive",
-   "link": "https://triblive.com/sports/steelers-te-pat-freiermuth-questionable-vs-bucs-wr-dk-metcalf-removed-from-injury-report/",
-   "published": "2026-10-17T17:15:35+00:00",
-   "summary": "Injury story from TribLive. Full report at the original publisher.",
-   "id": "d1ed68dc25"
   }
  ],
  "dropped_bad_links": 0

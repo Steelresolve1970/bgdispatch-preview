@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-19T16:11:59+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T16:11:51+00:00._
+_Generated 2026-10-19T16:22:41+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T16:22:33+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Not many linebackers can do what he did with a Tom Brady pass 🤯🔥#patriots #tombrady #nfl](https://www.youtube.com/shorts/YKPK-rOYb1Q): Not Just Football with Cam Heyward, 2026-10-19 16:00 UTC
