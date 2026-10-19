@@ -158,6 +158,7 @@ async function listView(el){el.innerHTML=tabs('discuss')+'<p class="empty">Loadi
 async function flairs(){if(S.flairs)return S.flairs;try{const d=await getJ('data/depth.json');const n=new Set();(d.units||[]).forEach(u=>u.rows.forEach(r=>r.players.forEach(p=>n.add(p.name))));S.flairs=[...n].sort();}catch(e){S.flairs=[];}return S.flairs;}
 async function authForm(el,mode){const nxt=qs('next')||sessionStorage.getItem('bgd_next')||'';if(qs('next'))sessionStorage.setItem('bgd_next',qs('next'));
  if(S.me){goNext();return;}
+ if(mode==='join'&&(localStorage.getItem('bgd_u13')||/(^|; )bgd_u13=/.test(document.cookie))){el.innerHTML=`<p><a class="back" href="#/forum">← Forum</a></p><div class="box"><h2>Sorry, you can't make an account</h2><p>You can still read the forum and use the rest of the site.</p></div>`;return;}
  const fl=mode==='join'?await flairs():[];
  el.innerHTML=`<p><a class="back" href="#/forum">← Forum</a></p>${nxt==='mock'?'<p class="box">Sign in or join to post your mock draft. You\'ll come right back to finish posting.</p>':nxt.startsWith('grade')?'<p class="box">Sign in or join to grade the team.</p>':''}
  <form class="fx-form" id="fx-auth" novalidate>${mode==='join'?`<h2>Join Black &amp; Gold Dispatch</h2><p class="fine">Free. Takes 30 seconds. You stay signed in on this device.</p>
@@ -167,15 +168,17 @@ async function authForm(el,mode){const nxt=qs('next')||sessionStorage.getItem('b
   <label for="f-d">Display name <small>optional</small></label><input id="f-d" name="display_name" type="text" maxlength="30" placeholder="Shown on your posts">
   <label for="f-f">Favorite player <small>optional flair</small></label><input id="f-f" name="flair" type="text" list="f-fl" maxlength="40" placeholder="e.g. T.J. Watt"><datalist id="f-fl">${fl.map(n=>`<option value="${E(n)}">`).join('')}</datalist>
   <label>Avatar <small>optional</small></label>${avPicker('','?')}
-  <label class="chk"><input type="checkbox" name="age13" id="f-a"> I'm 13 or older and agree to the <a href="legal/community.html" target="_blank">community guidelines</a> and <a href="legal/terms.html" target="_blank">terms</a>.</label>`
+  <label for="f-b">Date of birth <small>we check it once and don't store it</small></label><input id="f-b" name="dob" type="date" required min="1900-01-01" max="${new Date().toISOString().slice(0,10)}">
+  <p class="fine" style="margin:8px 0">By creating an account you agree to the <a href="legal/terms.html" target="_blank">Terms</a> and <a href="legal/community.html" target="_blank">Community Guidelines</a>, and you've read the <a href="legal/privacy.html" target="_blank">Privacy notice</a>.</p>`
  :`<h2>Sign in</h2><label for="f-l">Username or email</label><input id="f-l" name="login" type="text" autocomplete="username" autocapitalize="off" required>
   <label for="f-p">Password</label><div class="fx-pw"><input id="f-p" name="password" type="password" autocomplete="current-password" required><button type="button" class="pw-t">Show</button></div>`}
   <p class="fx-err" role="alert"></p><button class="fx-btn" type="submit" style="width:100%">${mode==='join'?'Create account':'Sign in'}</button>
-  <p class="fine" style="text-align:center;margin-top:12px">${mode==='join'?'Already have an account? <a href="#/forum/signin">Sign in</a>':'New here? <a href="#/forum/join">Join free</a><br>Forgot your password? Email reset is coming soon; for now, ask a moderator in the forum.'}</p></form>`;
+  <p class="fine" style="text-align:center;margin-top:12px">${mode==='join'?'Already have an account? <a href="#/forum/signin">Sign in</a>':'New here? <a href="#/forum/join">Join free</a><br>Forgot your password? Use the <a href="#/contact?topic=Account%20help">Contact form</a> (topic "Account help") from your account\'s email. Moderators can\'t help with accounts in the forum.'}</p></form>`;
  const f=$('fx-auth');wirePicker(f,'?');f.querySelector('.pw-t').onclick=e=>{const i=$('f-p');i.type=i.type==='password'?'text':'password';e.target.textContent=i.type==='password'?'Show':'Hide';};
  f.onsubmit=async e=>{e.preventDefault();const b=f.querySelector('button[type=submit]');const er=f.querySelector('.fx-err');er.textContent='';b.disabled=true;
-  const fd=Object.fromEntries(new FormData(f));if(mode==='join')fd.age13=$('f-a').checked;
+  const fd=Object.fromEntries(new FormData(f));
   const d=await api(mode==='join'?'auth/signup':'auth/login',{body:fd});b.disabled=false;
+  if(!d.ok&&d.blocked){try{localStorage.setItem('bgd_u13','1');}catch(x){}authForm(el,mode);return;}
   if(!d.ok){er.textContent=d.error||'Something went wrong.';if(d.field){const i=f.querySelector(`[name=${d.field}]`);i&&i.focus();}return;}
   S.me=d.user;head();goNext();};}
 function goNext(){const n=sessionStorage.getItem('bgd_next')||'';sessionStorage.removeItem('bgd_next');
@@ -197,7 +200,17 @@ async function profile(el){if(!S.me){location.hash='#/forum/signin';return;}cons
  <label for="p-b">Bio <small>optional, 200 characters</small></label><textarea id="p-b" name="bio" rows="2" maxlength="200">${E(S.me.bio||'')}</textarea>
  <label>Avatar</label>${avPicker(S.me.avatar==='u'||S.me.av_pending?'__keep':S.me.avatar,S.me.display_name)}
  <p class="fx-err" role="status"></p><button class="fx-btn" type="submit">Save</button> <button class="fx-btn ghost" type="button" id="p-out">Sign out</button>
- <p class="fine" style="margin-top:12px">Email verification and password reset by email are coming soon.</p></form>`;
+ <p class="fine" style="margin-top:12px">Email verification and password reset by email are coming soon. Locked out? Use the <a href="#/contact?topic=Account%20help">Contact form</a>.</p></form>
+ <div class="fx-form" id="fx-acct"><h3>Your account and data</h3>
+ <p class="fine">Sign-ins last 90 days on each device. <a href="legal/privacy.html">Privacy notice</a></p>
+ <p><button class="fx-btn ghost sm" type="button" id="p-all">Sign out everywhere</button> <a class="fx-btn ghost sm" href="/api/me/export" download>Download my data (JSON)</a></p>
+ <details><summary><b>Delete my account</b></summary><p class="fine">This removes your profile, email, avatar, sign-ins, reactions, grades, picks and trivia scores. Your posts stay but show "Deleted user", unless you tick the box to remove them too. This can't be undone.</p>
+ <label class="chk"><input type="checkbox" id="p-rm"> Also remove all my posts</label>
+ <label for="p-pw">Your password, to confirm</label><input id="p-pw" type="password" autocomplete="current-password">
+ <p class="fx-err" id="p-derr" role="alert"></p><button class="fx-btn dark sm" type="button" id="p-del">Delete my account for good</button></details></div>`;
+ $('p-all').onclick=async()=>{if(!confirm('Sign out on every device, including this one?'))return;await api('auth/logout-all',{body:{}});S.me=null;head();location.hash='#/forum';toast('Signed out everywhere.');};
+ const pd=$('p-del');if(S.me.role==='owner'){pd.disabled=true;$('p-derr').textContent='The owner account can\'t be deleted here.';}
+ pd.onclick=async()=>{if(!confirm('Delete your account for good?'))return;const d=await api('me/delete',{body:{password:$('p-pw').value,remove_posts:$('p-rm').checked}});if(!d.ok){$('p-derr').textContent=d.error;return;}S.me=null;head();location.hash='#/forum';toast('Your account was deleted.');};
  wirePicker($('fx-prof'),S.me.display_name);
  $('fx-prof').onsubmit=async e=>{e.preventDefault();const fd=Object.fromEntries(new FormData(e.target));if(fd.avatar==='__keep')delete fd.avatar;const d=await api('me',{body:fd});const m=e.target.querySelector('.fx-err');
   if(d.ok){S.me=d.user;head();if('avatar' in fd&&String(fd.avatar).startsWith('data:'))toast('Saved. Your new picture will show to everyone once a moderator approves it.');profile($('forum-body'));}else{m.className='fx-err';m.textContent=d.error;}};
@@ -323,7 +336,7 @@ async function gamedayTab(el){el.innerHTML=tabs('gameday')+'<p class="empty">Loa
 // ---------- Illegal-content hold (mod queue section) + moderator procedure page ----------
 function restrictedHTML(d,own){const L=d.restricted||[];const held=L.filter(r=>r.status==='held').length;
  return `<h2 class="section-title">Illegal content hold <small>${held?held+' waiting for a report':'nothing waiting'}</small></h2>
- <div class="box fx-csam"><p><b>Never open, download, screenshot or share suspected child sexual abuse material.</b> Reported items are hidden from everyone (moderators too), with no preview, and kept for 1 year as the law requires (18 U.S.C. 2258A). ${own?`<b>Owner:</b> report each item to NCMEC's CyberTipline at <a href="${CYBERTIP}" target="_blank" rel="noopener">report.cybertip.org</a> as soon as you can, using the account details below (not the image), then record the report number here.`:'The owner reports each item to NCMEC. If you see something, use "Report as illegal" and tell the owner.'} <a href="#/forum/procedure">Read the moderator procedure →</a></p></div>
+ <div class="box fx-csam"><p><b>Never open, download, screenshot or share suspected child sexual abuse material.</b> Reported items are hidden from everyone (moderators too), with no preview, and kept for 1 year as the law requires (18 U.S.C. 2258A). ${own?`<b>Owner:</b> report each item to NCMEC's CyberTipline at <a href="${CYBERTIP}" target="_blank" rel="noopener">report.cybertip.org</a> as soon as you can, using the account details below (not the image), then record the report number here.`:`The owner reports each item to NCMEC's CyberTipline (<a href="${CYBERTIP}" target="_blank" rel="noopener">report.cybertip.org</a>). If you see something, use "Report as illegal" and tell the owner.`} <a href="#/forum/procedure">Read the moderator procedure →</a></p></div>
  ${L.map(r=>`<div class="fx-post" data-rs="${r.id}"><div class="who"><b>${r.kind==='avatar'?'Profile picture':'Post'} by @${E(r.author_username||'?')}</b><small>${new Date(r.created).toLocaleString()} · ${E(r.status==='held'?'NOT YET REPORTED':r.status==='reported'?'Reported'+(r.cybertip?' · CyberTipline #'+r.cybertip:''):r.status==='extended'?'Hold extended':'Released (report was wrong)')} · kept until ${new Date(r.hold_until).toLocaleDateString()}</small></div>
  <p class="fine">${E(r.reason||'')}${own?` · account #${r.author_id}, email ${E(r.author_email||'?')}, joined ${r.author_created?new Date(r.author_created).toLocaleDateString():'?'}, scrambled IP ${E(r.author_ip||'not recorded')} · reported by user #${r.reporter_id||'?'} (IP ${E(r.reporter_ip||'?')})${r.thread_id?` · thread #${r.thread_id}`:''}${r.note?' · '+E(r.note):''}`:''}</p>
  ${own?`<div class="fx-rx">${r.status==='held'?`<a class="fx-btn sm" href="${CYBERTIP}" target="_blank" rel="noopener">Open CyberTipline</a><button type="button" class="fx-btn sm rsq" data-a="reported">Record report number</button>`:''}<button type="button" class="fx-btn dark sm rsq" data-a="ban">Ban account</button>${r.status!=='released'?`<button type="button" class="fx-btn ghost sm rsq" data-a="extend">Extend hold</button>`:''}${r.status==='held'&&r.kind==='post'?`<button type="button" class="fx-btn ghost sm rsq" data-a="release">Release (wrong report)</button>`:''}</div>`:''}</div>`).join('')}`;}

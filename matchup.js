@@ -35,11 +35,11 @@ function table(d,skip){const GO=['Offense','Defense','Other'];const rows=d.stats
   <p class="fine">NFL rank in parentheses (1st = best of ${T} teams; ties share a rank). Highlighted = better of the two teams. Games played: PIT ${d.games_played.PIT}, ${E(d.opp)} ${d.games_played.opp}.</p></div>`;}
 function picks(d){const p=d.picks||{},it=p.items||[];const nick=d.opp_nick;
  const chk=p.checked?new Date(p.checked).toLocaleString('en-US',{timeZone:'America/New_York',weekday:'short',hour:'numeric',minute:'2-digit'})+' ET':'';
- if(!it.length)return `<div class="mu-wait">Picks coming later this week.<br><small class="fine">Experts usually post their picks Wednesday through Saturday. We check for new ones several times a day${chk?'; last checked '+E(chk):''}.</small></div>`;
+ if(!it.length)return `<div class="mu-wait">Picks coming later this week.<br><small class="fine">Experts usually post their picks Wednesday through Saturday. We check for new ones several times a day${chk?'; last checked '+E(chk):''}.${p.cbs_consensus&&p.cbs_consensus.link?` <a href="${E(p.cbs_consensus.link)}" ${EXT}>CBS Sports expert panel picks</a>`:''}</small></div>`;
  const c=p.cbs_consensus;
  return `<div class="mu-picks">${it.map(x=>{const pit=x.winner==='PIT';const tm=pit?'Steelers':nick;
   return `<div class="mu-pick"><span class="who">${E(x.name)}</span><span class="out">${E(x.outlet)}</span><span class="mu-pk ${pit?'pit':''}">${E(tm)}${x.score?' '+E(x.score):' to win'}</span><a href="${E(x.link)}" ${EXT}>Source</a></div>`;}).join('')}</div>
-  ${c?`<p class="fine">CBS Sports expert panel: ${c.pit} of ${c.total} pick the Steelers. <a href="${E(c.link)}" ${EXT}>See the panel</a></p>`:''}
+  ${c&&c.link?`<p class="fine">${c.link_only?'CBS Sports expert panel picks:':`CBS Sports expert panel: ${c.pit} of ${c.total} pick the Steelers.`} <a href="${E(c.link)}" ${EXT}>See the panel at CBS Sports</a></p>`:''}
   <p class="fine">Only each expert's pick is shown; tap Source to read their reasoning at the original outlet. ${it.length<5?'More picks will be added as they are published. ':''}Last checked ${E(chk)}.</p>`;}
 const l5=a=>(a||[]).map(e=>{const t=`${e.result} ${e.score} ${e.atVs} ${e.opp}`;return `<span class="res ${E(e.result)}" title="${E(t)}" aria-label="${E(t)}">${E(e.result)}</span>`;}).join('');
 const ST={'Out':'s-out','Doubtful':'s-doubt','Questionable':'s-q','Injured Reserve':'s-ir','Physically Unable to Perform':'s-ir'};

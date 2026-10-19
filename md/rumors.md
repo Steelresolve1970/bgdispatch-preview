@@ -1,8 +1,10 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-19T19:36:49+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T19:36:46+00:00._
+_Generated 2026-10-19T19:47:11+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T19:47:08+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
+- **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
+  [Former All-Pro Likely On Steelers' Radar With Trade Deadline Quickly Approaching](https://www.steelernation.com/2026/10/19/steelers-likely-quickly-approaching): SteelerNation, first seen 2026-10-19 19:47 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [Veteran Steelers QB Named Eagles Trade Target After Jalen Hurts News](https://heavy.com/sports/nfl/pittsburgh-steelers/steelers-mason-rudolph-trade-target-eagles-jalen-hurts/): Heavy.com, first seen 2026-10-19 17:56 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog

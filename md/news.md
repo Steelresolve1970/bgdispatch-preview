@@ -1,8 +1,10 @@
 # Steelers News
 
-_Generated 2026-10-19T19:36:49+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T19:36:16+00:00._
+_Generated 2026-10-19T19:47:11+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T19:46:56+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Former All-Pro Likely On Steelers' Radar With Trade Deadline Quickly Approaching](https://www.steelernation.com/2026/10/19/steelers-likely-quickly-approaching): SteelerNation, 2026-10-19 19:44 UTC
+- [Is DeShon Elliott Playing vs. Saints? Steelers HC Mike McCarthy Hopeful](https://steelersnow.com/is-deshon-elliott-playing-vs-saints-steelers-hc-mike-mccarthy-hopeful/): Steelers Now, 2026-10-19 19:38 UTC
 - [McCarthy Says Rooney, Players Held Meeting With NFL Ahead Of Paris Game Amid Unrest](https://steelersdepot.com/2026/10/mccarthy-says-rooney-players-held-meeting-with-nfl-ahead-of-paris-game-amid-unrest/): Steelers Depot, 2026-10-19 19:34 UTC
 - [Quarterback Aaron Rodgers on Pittsburgh Steelers offense in the second half](https://www.nfl.com/videos/aaron-rodgers-on-steelers-offense-in-the-second-half): NFL.com, 2026-10-19 19:32 UTC
 - [‘Aggressive:’ Steelers Linebacker Praises Patrick Graham For Opening Up Playbook](https://steelersdepot.com/2026/10/aggressive-steelers-linebacker-praises-patrick-graham-for-opening-up-playbook/): Steelers Depot, 2026-10-19 19:15 UTC
@@ -57,7 +59,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers' Mike McCarthy Gives Detailed Explanation To Rare Head Coach Injury](https://www.steelernation.com/2026/10/19/steelers-mike-mccarthy-detailed-rare): SteelerNation, 2026-10-19 13:53 UTC
 - [Cup of Joe (Starkey): Only the delusional believe Steelers QB Aaron Rodgers is done](https://triblive.com/sports/cup-of-joe-starkey-only-the-delusional-believe-steelers-qb-aaron-rodgers-is-done/): TribLive, 2026-10-19 13:45 UTC
 - [Stats Of The Weird: Steelers Vs Buccaneers](https://steelersdepot.com/2026/10/stats-of-the-weird-steelers-vs-buccaneers-3/): Steelers Depot, 2026-10-19 13:30 UTC
-- [NFL Week 6 grades for every team that played so far: Browns, Steelers earn high marks, Colts get 'F'](https://www.cbssports.com/nfl/news/nfl-grades-week-6-browns-ravens-afc-colts-2026/): CBS Sports, 2026-10-19 13:22 UTC
 - [Steelers Takeaways: Second-half comeback saves Pittsburgh in overtime win over Buccaneers](https://www.steelcityunderground.com/2026/10/19/steelers-takeaways-second-half-comeback-saves-pittsburgh-in-overtime-win-over-buccaneers/): Steel City Underground, 2026-10-19 13:14 UTC
 - [Germie Bernard's growing connection with Aaron Rodgers has Steelers buzzing](https://stillcurtain.com/germie-bernard-growing-connection-aaron-rodgers-pittsburgh-steelers-buzzing-01m59441d0x6?utm_source=RSS): Still Curtain, 2026-10-19 13:00 UTC
 - [Just My Opinion ...](https://247sports.com/nfl/pittsburgh-steelers/article/steelers-bucs-wexell-291508241/): 247Sports, 2026-10-19 12:41 UTC
@@ -102,10 +103,8 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Ramsey is Steelers Player of the Week](https://www.steelers.com/news/ramsey-is-steelers-player-of-the-week): Steelers.com (official), 2026-10-18 22:27 UTC
 - [Mike McCarthy Reveals How He Injured His Ankle](https://steelersnow.com/mike-mccarthy-reveals-how-he-injured-his-ankle/): Steelers Now, 2026-10-18 22:22 UTC
 - [Pittsburgh Steelers' top plays vs. Tampa Bay Buccaneers | Week 6](https://www.nfl.com/videos/steelers-top-plays-vs-buccaneers-week-6-x2393): NFL.com, 2026-10-18 22:18 UTC
-- [Aaron Rodgers Rips Into Steelers Rookie Germie Bernard Despite Another Great Game](https://www.steelernation.com/2026/10/18/steelers-aaron-rodgers-germie-bernard-great): SteelerNation, 2026-10-18 22:04 UTC
 - [Germie Bernard's breakout gives the struggling Steelers offense new hope](https://stillcurtain.com/germie-bernard-breakout-gives-pittsburgh-steelers-struggling-offense-new-hope-01m58dc7ekqg?utm_source=RSS): Still Curtain, 2026-10-18 22:00 UTC
 - [Feats of Strength: 4th quarter awakening, Chris Boswell’s return to form save Steelers in Tampa Bay](https://triblive.com/sports/feats-of-strength-fourth-quarter-awakening-chris-boswells-return-to-form-save-steelers-in-tampa-bay/): TribLive, 2026-10-18 21:57 UTC
-- [Mike McCarthy Opens Up on Clock Management Issues](https://steelersnow.com/mike-mccarthy-opens-up-on-major-mistake-vs-bucs/): Steelers Now, 2026-10-18 21:52 UTC
 - [Steelers vs. Bucs Full Game Highlights | Tampa Bay Falls 26-19 (OT)](https://www.buccaneers.com/video/full-game-highlights-steelers-bucs-loss-score-26-19-week-6): Tampa Bay Buccaneers, 2026-10-18 21:47 UTC
 - [7 winners (and 4 losers) from Steelers' dramatic Week 6 comeback over Tampa Bay](https://stillcurtain.com/7-winners-4-losers-pittsburgh-steelers-dramatic-week-6-comeback-tampa-bay-buccaneers-01m58beprnfv?utm_source=RSS): Still Curtain, 2026-10-18 21:30 UTC
 - [Steelers stock report after Week 6 win over Buccaneers](https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176510/steelers-stock-report-after-week-6-win-over-buccaneers): Behind the Steel Curtain, 2026-10-18 21:25 UTC
@@ -153,6 +152,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Pittsburgh Steelers lose speedy wide receiver, add two more unheralded names](https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-lose-speedy-wide-receiver-add-two-more-unheralded-names.html): PennLive (Nick Farabaugh), 2026-10-18 01:39 UTC
 - [Pittsburgh Steelers’ star tight end goes down with calf injury](https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-star-tight-end-goes-down-with-calf-injury.html): PennLive (Nick Farabaugh), 2026-10-18 01:05 UTC
 - [Steelers lose Roman Wilson as receiver injuries test their remaining depth](https://stillcurtain.com/pittsburgh-steelers-lose-roman-wilson-injured-reserve-receiver-injuries-test-remaining-depth?utm_source=RSS): Still Curtain, 2026-10-17 20:12 UTC
+- [The Steelers place WR Roman Wilson on injured reserve; add tight end Pat Freiermuth to the injury report](https://www.post-gazette.com/sports/steelers/2026/10/17/the-steelers-place-wr-roman-wilson-on-injured-reserve-add-tight-end-pat-freiermu/stories/202610170039): Pittsburgh Post-Gazette, 2026-10-17 19:43 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

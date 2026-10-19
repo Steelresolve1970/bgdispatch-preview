@@ -489,3 +489,6 @@ body.yt-modal-open{overflow:hidden}
   .ld-table th,.ld-table td{padding:7px 4px}
   .st-grid{grid-template-columns:1fr}
 }
+
+/* Ad slots stay collapsed until a real ad loads (add class ad-live) */
+.ad:not(.ad-live){display:none!important}

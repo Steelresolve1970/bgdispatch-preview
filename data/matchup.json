@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T19:36:29.440001+00:00",
+ "generated": "2026-10-19T19:47:05.926140+00:00",
  "game_id": "2026_07_PIT_NO",
  "game": {
   "id": "401873011",
@@ -281,7 +281,11 @@
   "checked": "2026-10-19T19:36:29.630298+00:00",
   "items": [],
   "items_all": [],
-  "cbs_consensus": null,
+  "cbs_consensus": {
+   "outlet": "CBS Sports experts",
+   "link": "https://www.cbssports.com/nfl/picks/experts/straight-up/7/",
+   "link_only": true
+  },
   "searched": 70
  },
  "source": "Data: nflverse (CC-BY 4.0)",
