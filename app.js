@@ -121,7 +121,7 @@ document.addEventListener('click',e=>{const b=e.target.closest('[data-copy]');if
 });
 
 // hash router
-const TITLES={home:'News',story:'Story',podcasts:'Podcasts & YouTube',film:'Film Room',opponent:'Opponent Preview',roster:'Depth Chart & Roster',game:'Schedule',stats:'Stats',heatmap:'Player Heat Map',drafthub:'Draft',draft:'Mock Draft',college:'College Prospect Tracker',insiders:'Insiders',forum:'Forum',live:'Live Hub',injuries:'Injury Tracker',scout:'Opponent Scouting',cap:'Cap Center',rumors:'Rumors & Updates',play:"Pick'em & Trivia",history:'Steelers History',alerts:'Alerts & Email',boxscore:'Box Score'};
+const TITLES={home:'News',story:'Story',podcasts:'Podcasts & YouTube',film:'Film Room',opponent:'Opponent Preview',roster:'Depth Chart & Roster',game:'Schedule',stats:'Stats',heatmap:'Player Grades',drafthub:'Draft',draft:'Mock Draft',college:'College Prospect Tracker',insiders:'Insiders',forum:'Forum',live:'Live Hub',injuries:'Injury Tracker',scout:'Opponent Scouting',cap:'Cap Center',rumors:'Rumors & Updates',play:"Pick'em & Trivia",history:'Steelers History',alerts:'Alerts & Email',boxscore:'Box Score'};
 function route(){const parts=(location.hash.replace(/^#\/?/,'')||'home').split('?')[0].split('/');const r=parts[0];const alias={grades:'heatmap',rumormeter:'rumors',preview:'opponent'};const v=alias[r]||(TITLES[r]?r:'home');window.BGD_boxId=r==='boxscore'?decodeURIComponent(parts[1]||''):'';window.BGD_storyId=r==='story'?decodeURIComponent(parts[1]||''):'';
  if(r==='rumormeter'){const qs=(location.hash.split('?')[1]||'');const nh='#/rumors'+(qs?('?'+qs):'?tab=meter');if(location.hash!==nh)history.replaceState(null,'',nh);}
  if(r==='preview'){if(location.hash!=='#/opponent')history.replaceState(null,'','#/opponent');}

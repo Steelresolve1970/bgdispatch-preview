@@ -1,9 +1,12 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-19T16:01:13+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T16:01:04+00:00._
+_Generated 2026-10-19T16:11:59+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T16:11:51+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Video: [Not many linebackers can do what he did with a Tom Brady pass 🤯🔥#patriots #tombrady #nfl](https://www.youtube.com/shorts/YKPK-rOYb1Q): Not Just Football with Cam Heyward, 2026-10-19 16:00 UTC
+- Podcast: [Hour 1: A Takeover in Tampa](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-101926-mp3): Steelers Blitz, 2026-10-19 16:00 UTC
 - Video: [Steelers ILB Payton Wilson Reveals Major Change in Defense’s Approach](https://www.youtube.com/watch?v=2u8S2Cd3QIU): Steelers Now, 2026-10-19 15:37 UTC
+- Podcast: [Hour 2: Brian Batko Break Down and Around the Shield](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/hour-2-brian-batko-break-down-and-around-the-shield): Steelers Blitz, 2026-10-19 15:00 UTC
 - Podcast: [Steelers INSIDER Jim Wexell Reveals Why Aaron Rodgers’ Comeback Win Changes EVERYTHING #Steelers](https://247sports.com/nfl/pittsburgh-steelers/): The Steel City Insider (Jim Wexell, 247Sports), 2026-10-19 14:01 UTC
 - Video: [Still Celebrating Sloppy Steelers Win? | Steelers Morning Rush](https://www.youtube.com/watch?v=R9OMTs6bo3I): Steelers Now, 2026-10-19 13:59 UTC
 - Video: [WAKING UP ON VICTORY MONDAY LIKE:](https://www.youtube.com/shorts/YWUC_KWv2ug): Pittsburgh Steelers (official), 2026-10-19 12:56 UTC
