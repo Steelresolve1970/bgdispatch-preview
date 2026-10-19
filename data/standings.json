@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T03:42:21.273604+00:00",
+ "generated": "2026-10-19T03:53:30.290655+00:00",
  "season": 2026,
  "through": "2026-10-18",
  "games_counted": 91,
@@ -471,10 +471,13 @@
  },
  "order_note": "Sorted by win pct, then division record, then point differential. Official NFL tiebreakers may order tied teams differently.",
  "espn_check": {
-  "status": "match",
+  "status": "mismatch",
   "teams": 32,
-  "mismatches": [],
-  "checked": "2026-10-19T03:42:21.460416+00:00"
+  "mismatches": [
+   "DAL ours 2-3 espn 2-4",
+   "GB ours 3-2 espn 4-2"
+  ],
+  "checked": "2026-10-19T03:53:30.548810+00:00"
  },
  "source": "Data: nflverse (CC-BY 4.0)",
  "source_url": "https://github.com/nflverse/nflverse-data"
