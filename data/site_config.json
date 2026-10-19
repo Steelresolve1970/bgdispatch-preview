@@ -1,5 +1,5 @@
 {
- "_help": "Owner switches. base_url: the public address once the site is live. ai_crawlers_allowed: true welcomes AI crawlers in robots.txt, false blocks the known AI bots. premium_enabled: keep false (paid feeds are only a scaffold, see AI-ACCESS.md). site_name: the brand name shown everywhere. contact_email: the site's public contact address (shown on Contact & Suggestions; leave empty to hide).",
+ "_help": "Owner switches. base_url: the public address once the site is live. ai_crawlers_allowed: true welcomes AI crawlers in robots.txt, false blocks the known AI bots. premium_enabled: keep false (paid feeds are only a scaffold, see AI-ACCESS.md). site_name: the brand name shown everywhere. contact_email: the site's public contact address (shown on Contact & Suggestions; leave empty to hide). contact_phone: the site's public phone number (Google Voice; shown on Contact & Suggestions; leave empty to hide).",
  "base_url": "https://blackandgolddispatch.com",
  "ai_crawlers_allowed": true,
  "premium_enabled": false,
@@ -7,5 +7,6 @@
  "tagline": "Daily Steelers news. Unofficial fan site.",
  "domain_note": "blackandgolddispatch.com is a placeholder: the owner has NOT registered it yet.",
  "disclaimer": "Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
- "contact_email": "blackandgolddispatch@gmail.com"
+ "contact_email": "blackandgolddispatch@gmail.com",
+ "contact_phone": "(412) 748-1640"
 }

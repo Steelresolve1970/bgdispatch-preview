@@ -1,8 +1,10 @@
 # Steelers News
 
-_Generated 2026-10-19T20:07:55+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T20:07:38+00:00._
+_Generated 2026-10-19T20:18:17+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T20:18:00+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Steelers Detail Key Area Where Offense Must Be Sharper](https://steelersdepot.com/2026/10/steelers-detail-key-area-where-offense-must-be-sharper/): Steelers Depot, 2026-10-19 20:10 UTC
+- [Steelers fans can vote for rookie Germie Bernard as FedEx Air & Ground player of the week](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176570/steelers-fans-can-vote-for-rookie-germie-bernard-as-fedex-air-ground-player-of-the-week): Behind the Steel Curtain, 2026-10-19 20:09 UTC
 - [McCarthy Opens Up on Trip to Paris Amid Social Unrest](https://steelersnow.com/mccarthy-opens-up-on-trip-to-paris-amid-social-unrest/): Steelers Now, 2026-10-19 20:03 UTC
 - [The Steelers are heading to Paris for an NFL game as France faces civil unrest — here’s what the team is doing to prepare](https://www.pennlive.com/steelers/2026/10/the-steelers-are-heading-to-paris-for-an-nfl-game-as-france-faces-civil-unrest-heres-what-the-team-is-doing-to-prepare.html): PennLive (Nick Farabaugh), 2026-10-19 20:03 UTC
 - [Missed Tackles Report: Steelers At Buccaneers](https://steelersdepot.com/2026/10/missed-tackles-report-steelers-at-buccaneers/): Steelers Depot, 2026-10-19 20:00 UTC
@@ -54,7 +56,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Eagles Will Be Without Jalen Hurts vs. Steelers](https://steelersnow.com/eagles-will-be-without-jalen-hurts-vs-steelers/): Steelers Now, 2026-10-19 14:38 UTC
 - [Paglia: College Football Week Seven Stock Report](https://steelersdepot.com/2026/10/paglia-college-football-week-seven-stock-report/): Steelers Depot, 2026-10-19 14:30 UTC
 - [Steelers vs Saints picks, predictions, odds for NFL Week 7 game Sunday](https://www.azcentral.com/story/sports/nfl/2026/10/19/pittsburgh-steelers-new-orleans-saints-picks-predictions-odds-nfl-week-7/90426283007/): azcentral.com and The Arizona Republic, 2026-10-19 14:30 UTC
-- [Eagles Lose Jalen Hurts For Season, Won’t Face Steelers In Week 11](https://steelersdepot.com/2026/10/eagles-lose-jalen-hurts-for-season-wont-face-steelers-in-week-11/): Steelers Depot, 2026-10-19 14:22 UTC
 - [Steelers news: What to make of the Steelers’ win over the Bucs](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176554/steelers-news-what-to-make-of-the-steelers-win-over-the-bucs): Behind the Steel Curtain, 2026-10-19 14:18 UTC
 - [Still Celebrating Sloppy Steelers Win? | Steelers Morning Rush](https://steelersnow.com/still-celebrating-sloppy-steelers-win-steelers-morning-rush/): Steelers Now, 2026-10-19 14:00 UTC
 - [QBs Worst Nightmare? Steelers CB Jalen Ramsey Provides Even More Value](https://steelersnow.com/qbs-worst-nightmare-steelers-cb-jalen-ramsey-provides-even-more-value/): Steelers Now, 2026-10-19 14:00 UTC
@@ -136,7 +137,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers’ Jamel Dean, Rico Dowdle, Pat Freiermuth active for game vs. Buccaneers](https://triblive.com/sports/steelers-jamel-dean-rico-dowdle-pat-freiermuth-active-for-game-vs-buccaneers/): TribLive, 2026-10-18 15:57 UTC
 - [Steelers Get Starting CB Back Against Bucs](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-get-starting-cornerback-jamel-dean-back-bucs): All Steelers (Sports Illustrated), 2026-10-18 15:38 UTC
 - [Steelers inactives for Week 6 at Buccaneers](https://www.steelers.com/news/steelers-inactives-for-week-6-at-buccaneers): Steelers.com (official), 2026-10-18 15:30 UTC
-- [Former Steelers RB Cordarrelle Patterson arrested for domestic assault](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176490/former-steelers-rb-cordarrelle-patterson-arrested-for-domestic-assault): Behind the Steel Curtain, 2026-10-18 15:21 UTC
 - [Steelers-Buccaneers: Week 6 live chat, updates and analysis with Christopher Carter](https://www.post-gazette.com/sports/steelers/2026/10/18/steelers-buccaneers-live-chat/stories/202610180071): Pittsburgh Post-Gazette, 2026-10-18 15:00 UTC
 - [NFL spread, straight-up picks: Rams, Chiefs, Colts top Week 6 confidence rankings](https://www.nytimes.com/athletic/7689979/2026/10/18/nfl-spread-straight-up-picks-confidence-rankings-week-6/): The Athletic, 2026-10-18 14:00 UTC
 - [Steelers Get Good News on Pat Freiermuth for Bucs Game](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-good-news-pat-freiermuth-bucs-game): All Steelers (Sports Illustrated), 2026-10-18 12:01 UTC
