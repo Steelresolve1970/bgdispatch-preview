@@ -2,8 +2,8 @@
  "api_version": "1",
  "dataset": "news",
  "description": "Steelers headlines from beat writers, national outlets and blogs, with our one-line summaries and links to the publisher.",
- "generated": "2026-10-19T17:04:49+00:00",
- "data_updated": "2026-10-19T17:04:28+00:00",
+ "generated": "2026-10-19T17:18:59+00:00",
+ "data_updated": "2026-10-19T17:18:42+00:00",
  "count": 150,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
@@ -29,8 +29,21 @@
     "name": "ESPN",
     "url": null
    },
-   "published": "2026-10-19T17:30:09+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "published": "2026-10-19T18:11:28+00:00",
+   "retrieved": "2026-10-19T17:18:42+00:00"
+  },
+  {
+   "id": "f7496ae2ace9e207",
+   "type": "news",
+   "title": "Steelers ‘Aren’t Interested’ In JuJu Smith-Schuster, Says Beat Writer",
+   "summary": "Game story from Steelers Depot. Full report at the original publisher.",
+   "url": "https://steelersdepot.com/2026/10/steelers-arent-interested-in-juju-smith-schuster-says-beat-writer/",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null
+   },
+   "published": "2026-10-19T17:15:31+00:00",
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "b695de4beba641f1",
@@ -43,7 +56,7 @@
     "url": null
    },
    "published": "2026-10-19T17:02:32+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "4e97fd427ab482e5",
@@ -56,7 +69,7 @@
     "url": null
    },
    "published": "2026-10-19T16:47:43+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "af2878d322f6d415",
@@ -69,7 +82,20 @@
     "url": null
    },
    "published": "2026-10-19T16:45:01+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
+  },
+  {
+   "id": "17b75b7576b42424",
+   "type": "news",
+   "title": "Chris Boswell Makes Steelers History in Week 6 Win Against Buccaneers",
+   "summary": "Game story from SportsNet Pittsburgh. Full report at the original publisher.",
+   "url": "https://sportsnetpittsburgh.com/pittsburgh-steelers/news/chris-boswell-steelers-history-week-6-win-buccaneers/18effaa85f4e239f2212df12",
+   "source": {
+    "name": "SportsNet Pittsburgh",
+    "url": null
+   },
+   "published": "2026-10-19T16:41:51+00:00",
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "5604340c18431bd9",
@@ -82,7 +108,7 @@
     "url": null
    },
    "published": "2026-10-19T16:34:01+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "8bcc7d87ac81bb58",
@@ -95,7 +121,7 @@
     "url": null
    },
    "published": "2026-10-19T16:30:36+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "cb5e385ab966df41",
@@ -108,7 +134,7 @@
     "url": null
    },
    "published": "2026-10-19T16:30:00+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "26d8e29a34525745",
@@ -121,7 +147,20 @@
     "url": null
    },
    "published": "2026-10-19T16:16:25+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
+  },
+  {
+   "id": "7e29500bc03317e4",
+   "type": "news",
+   "title": "Steelers Linemen Lead Way With Top PFF Grades in Week 6 Win vs. Buccaneers",
+   "summary": "Game story from SportsNet Pittsburgh. Full report at the original publisher.",
+   "url": "https://sportsnetpittsburgh.com/pittsburgh-steelers/news/steelers-linemen-pff-grades-week-6-buccaneers/52002b279070e5efeae8b865",
+   "source": {
+    "name": "SportsNet Pittsburgh",
+    "url": null
+   },
+   "published": "2026-10-19T16:11:07+00:00",
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "7fefa59a7bf88fb0",
@@ -134,7 +173,7 @@
     "url": null
    },
    "published": "2026-10-19T16:07:49+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "bc582caecae26280",
@@ -147,7 +186,7 @@
     "url": null
    },
    "published": "2026-10-19T16:00:29+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "50609f1d4f7ec162",
@@ -160,7 +199,20 @@
     "url": null
    },
    "published": "2026-10-19T16:00:02+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
+  },
+  {
+   "id": "f35a2cd8fc2b6083",
+   "type": "news",
+   "title": "Pittsburgh Steelers could face a challenge in Paris that has nothing to do with the game against the New Orleans Saints",
+   "summary": "Game story from A to Z Sports. Full report at the original publisher.",
+   "url": "https://atozsports.com/nfl/pittsburgh-steelers-news/steelers-facing-travel-dangers-vs-saints-paris-france-protest-unrest/",
+   "source": {
+    "name": "A to Z Sports",
+    "url": null
+   },
+   "published": "2026-10-19T16:00:00+00:00",
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "21f0831b239ddfeb",
@@ -173,7 +225,7 @@
     "url": null
    },
    "published": "2026-10-19T16:00:00+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "ca77fa402028c6e8",
@@ -186,7 +238,7 @@
     "url": null
    },
    "published": "2026-10-19T15:50:01+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "562a4a4600303a88",
@@ -199,7 +251,33 @@
     "url": null
    },
    "published": "2026-10-19T15:49:27+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
+  },
+  {
+   "id": "cf1bf494548f9e60",
+   "type": "news",
+   "title": "David Walker Brings the Pressure | Data Crunch",
+   "summary": "News story from Tampa Bay Buccaneers. Full report at the original publisher.",
+   "url": "https://www.buccaneers.com/news/david-walker-brings-pressure-data-crunch",
+   "source": {
+    "name": "Tampa Bay Buccaneers",
+    "url": null
+   },
+   "published": "2026-10-19T15:47:47+00:00",
+   "retrieved": "2026-10-19T17:18:42+00:00"
+  },
+  {
+   "id": "9a5a3673aea9e70d",
+   "type": "news",
+   "title": "Violence and unrest intensify in Paris, other parts of France ahead of upcoming Steelers-Saints game",
+   "summary": "Game story from CBS News. Full report at the original publisher.",
+   "url": "https://www.cbsnews.com/pittsburgh/news/violence-unrest-intensified-paris-pittsburgh-steelers-new-orleans-saints-game/",
+   "source": {
+    "name": "CBS News",
+    "url": null
+   },
+   "published": "2026-10-19T15:34:31+00:00",
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "4efb88e70052f45f",
@@ -212,7 +290,7 @@
     "url": null
    },
    "published": "2026-10-19T15:30:57+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "4d1cdc5c0b04ab49",
@@ -225,20 +303,20 @@
     "url": null
    },
    "published": "2026-10-19T15:30:00+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
-   "id": "d86a6e0ceb47e297",
+   "id": "3f1dc93e6b4727c7",
    "type": "news",
    "title": "Steelers PFF grades: Germie Bernard shines; Troy Fautanu stagnates",
-   "summary": "Opinion story from Yahoo Sports. Full report at the original publisher.",
-   "url": "https://sports.yahoo.com/articles/steelers-pff-grades-germie-bernard-151352078.html",
+   "summary": "Opinion story from USA Today. Full report at the original publisher.",
+   "url": "https://www.usatoday.com/story/sports/nfl/steelers/2026/10/19/steelers-pff-grades-germie-bernard-cam-heyward/92329013007/",
    "source": {
-    "name": "Yahoo Sports",
+    "name": "USA Today",
     "url": null
    },
-   "published": "2026-10-19T15:13:52+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "published": "2026-10-19T15:13:00+00:00",
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "8e1b83fce9cd452c",
@@ -251,7 +329,7 @@
     "url": null
    },
    "published": "2026-10-19T15:00:20+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "2726676a075ed4a2",
@@ -264,7 +342,7 @@
     "url": null
    },
    "published": "2026-10-19T15:00:02+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "5702a236bc6f701e",
@@ -277,7 +355,7 @@
     "url": null
    },
    "published": "2026-10-19T15:00:00+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "43fb0114dbc0e762",
@@ -290,7 +368,7 @@
     "url": null
    },
    "published": "2026-10-19T14:45:28+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "fb39b2abbedfeb7a",
@@ -303,7 +381,7 @@
     "url": null
    },
    "published": "2026-10-19T14:38:47+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "61824a535d0047ab",
@@ -316,7 +394,20 @@
     "url": null
    },
    "published": "2026-10-19T14:30:32+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
+  },
+  {
+   "id": "52f39517a2a2139e",
+   "type": "news",
+   "title": "Steelers vs Saints picks, predictions, odds for NFL Week 7 game Sunday",
+   "summary": "Game story from azcentral.com and The Arizona Republic. Full report at the original publisher.",
+   "url": "https://www.azcentral.com/story/sports/nfl/2026/10/19/pittsburgh-steelers-new-orleans-saints-picks-predictions-odds-nfl-week-7/90426283007/",
+   "source": {
+    "name": "azcentral.com and The Arizona Republic",
+    "url": null
+   },
+   "published": "2026-10-19T14:30:00+00:00",
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "99f1f642e05321a2",
@@ -329,7 +420,7 @@
     "url": null
    },
    "published": "2026-10-19T14:22:08+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "71d2778a093d3ef5",
@@ -342,7 +433,7 @@
     "url": null
    },
    "published": "2026-10-19T14:18:16+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "10a243530730a485",
@@ -355,7 +446,7 @@
     "url": null
    },
    "published": "2026-10-19T14:15:33+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "21cfdbfc057a0a24",
@@ -368,7 +459,7 @@
     "url": null
    },
    "published": "2026-10-19T14:00:21+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "ad822fd2c82ecff8",
@@ -381,7 +472,7 @@
     "url": null
    },
    "published": "2026-10-19T14:00:06+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "d124bf6c65814f50",
@@ -394,7 +485,7 @@
     "url": null
    },
    "published": "2026-10-19T14:00:00+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "be679a7d0f027bf6",
@@ -407,7 +498,20 @@
     "url": null
    },
    "published": "2026-10-19T14:00:00+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
+  },
+  {
+   "id": "6304e1fd972eb48f",
+   "type": "news",
+   "title": "Key Steelers contributor now one play away from suspension after \"major infraction\" against the Tampa Bay Buccaneers",
+   "summary": "News story from A to Z Sports. Full report at the original publisher.",
+   "url": "https://atozsports.com/nfl/pittsburgh-steelers-news/cole-holcomb-records-blindside-block-second-major-infraction-towards-suspension/",
+   "source": {
+    "name": "A to Z Sports",
+    "url": null
+   },
+   "published": "2026-10-19T14:00:00+00:00",
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "1be7818ac40902be",
@@ -420,7 +524,7 @@
     "url": null
    },
    "published": "2026-10-19T13:53:55+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "da4c5f3a6aab70fa",
@@ -433,7 +537,7 @@
     "url": null
    },
    "published": "2026-10-19T13:45:38+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "579cbcc3c25f7919",
@@ -446,7 +550,7 @@
     "url": null
    },
    "published": "2026-10-19T13:30:12+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "73d3c3ecccf12820",
@@ -459,7 +563,7 @@
     "url": null
    },
    "published": "2026-10-19T13:22:05+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "6d1195e6506f9d67",
@@ -472,7 +576,7 @@
     "url": null
    },
    "published": "2026-10-19T13:15:04+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "dfe2de4202e6e1ae",
@@ -485,7 +589,7 @@
     "url": null
    },
    "published": "2026-10-19T13:14:03+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "a6927e62948642f4",
@@ -498,7 +602,7 @@
     "url": null
    },
    "published": "2026-10-19T13:00:18+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "38f90d51ed483597",
@@ -511,7 +615,7 @@
     "url": null
    },
    "published": "2026-10-19T13:00:01+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "aec6db1ab813656d",
@@ -524,7 +628,7 @@
     "url": null
    },
    "published": "2026-10-19T12:30:09+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "9322888d62d6228c",
@@ -537,7 +641,7 @@
     "url": null
    },
    "published": "2026-10-19T12:05:04+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "afaf7b247c5a7044",
@@ -550,7 +654,7 @@
     "url": null
    },
    "published": "2026-10-19T12:00:51+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "89511851983b71b5",
@@ -563,7 +667,7 @@
     "url": null
    },
    "published": "2026-10-19T12:00:12+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "f1094d0f3bc7537c",
@@ -576,7 +680,20 @@
     "url": null
    },
    "published": "2026-10-19T12:00:03+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
+  },
+  {
+   "id": "16ae1373d425e1d1",
+   "type": "news",
+   "title": "Steelers' win over the Buccaneers can't distract them from making a trade that suddenly looks very likely after Sunday",
+   "summary": "Trade/roster move story from A to Z Sports. Full report at the original publisher.",
+   "url": "https://atozsports.com/nfl/pittsburgh-steelers-news/steelers-wr-rumors-brian-thomas-jr-jaguars-nfl-trade-deadline/",
+   "source": {
+    "name": "A to Z Sports",
+    "url": null
+   },
+   "published": "2026-10-19T12:00:00+00:00",
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "c1a0198967e312fb",
@@ -589,7 +706,7 @@
     "url": null
    },
    "published": "2026-10-19T11:40:57+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "506ff05d7935cc22",
@@ -602,7 +719,7 @@
     "url": null
    },
    "published": "2026-10-19T11:00:54+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "d6d58263657a010d",
@@ -615,7 +732,7 @@
     "url": null
    },
    "published": "2026-10-19T10:20:09+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "4e663227829b4841",
@@ -628,7 +745,7 @@
     "url": null
    },
    "published": "2026-10-19T10:16:00+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "703211ed7bc8eefa",
@@ -641,7 +758,7 @@
     "url": null
    },
    "published": "2026-10-19T10:01:00+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "d461ffd53186161b",
@@ -654,7 +771,7 @@
     "url": null
    },
    "published": "2026-10-19T10:00:02+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "42c5e07902528d8e",
@@ -667,7 +784,7 @@
     "url": null
    },
    "published": "2026-10-19T10:00:00+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "bda37168490c6594",
@@ -680,20 +797,20 @@
     "url": null
    },
    "published": "2026-10-19T10:00:00+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
-   "id": "7d755e84bc406e66",
+   "id": "ddf0dc375e5a975b",
    "type": "news",
-   "title": "Positional Grades: Steelers At Buccaneers",
-   "summary": "Opinion story from Steelers Depot. Full report at the original publisher.",
-   "url": "https://steelersdepot.com/2026/10/positional-grades-steelers-at-buccaneers/",
+   "title": "Steelers' win comes with a loss where they can least afford it as key starter works his way back from the injured reserve",
+   "summary": "Injury story from A to Z Sports. Full report at the original publisher.",
+   "url": "https://atozsports.com/nfl/pittsburgh-steelers-news/steelers-injury-news-vs-bucs-brandin-echols-pat-freiermuth-jaquan-brisker/",
    "source": {
-    "name": "Steelers Depot",
+    "name": "A to Z Sports",
     "url": null
    },
-   "published": "2026-10-19T09:47:06+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "published": "2026-10-19T10:00:00+00:00",
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "deebe3c0902d5d78",
@@ -706,7 +823,7 @@
     "url": null
    },
    "published": "2026-10-19T09:30:09+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "5cd26930cc26c894",
@@ -719,7 +836,7 @@
     "url": null
    },
    "published": "2026-10-19T08:55:38+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "aaccd98a98d932ac",
@@ -732,7 +849,7 @@
     "url": null
    },
    "published": "2026-10-19T08:00:00+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "4f9481184973af23",
@@ -745,7 +862,7 @@
     "url": null
    },
    "published": "2026-10-19T04:18:00+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "bf40f211c3b3e072",
@@ -758,7 +875,20 @@
     "url": null
    },
    "published": "2026-10-19T04:01:00+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
+  },
+  {
+   "id": "1b7071e7288f109a",
+   "type": "news",
+   "title": "Pittsburgh Steelers 2026 NFL Playoff Simulator",
+   "summary": "News story from The New York Times. Full report at the original publisher.",
+   "url": "https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/pittsburgh-steelers-season-projections/",
+   "source": {
+    "name": "The New York Times",
+    "url": null
+   },
+   "published": "2026-10-19T03:50:32+00:00",
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "426463bf1734f31d",
@@ -771,7 +901,7 @@
     "url": null
    },
    "published": "2026-10-19T01:30:15+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "55865748c7602ece",
@@ -784,7 +914,33 @@
     "url": null
    },
    "published": "2026-10-19T01:14:26+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
+  },
+  {
+   "id": "d764d9086427e20d",
+   "type": "news",
+   "title": "Aaron Rodgers reacts to Steelers' overtime win against Buccaneers in Week 6",
+   "summary": "Game story from NFL.com. Full report at the original publisher.",
+   "url": "https://www.nfl.com/videos/aaron-rodgers-reacts-to-steelers-overtime-win-against-buccaneers-in-week-6",
+   "source": {
+    "name": "NFL.com",
+    "url": null
+   },
+   "published": "2026-10-19T01:09:34+00:00",
+   "retrieved": "2026-10-19T17:18:42+00:00"
+  },
+  {
+   "id": "a479e5c177c3d532",
+   "type": "news",
+   "title": "Jalon Daniels: Loss to Steelers Doesn't Affect Bucs' Confidence",
+   "summary": "Game story from Tampa Bay Buccaneers. Full report at the original publisher.",
+   "url": "https://www.buccaneers.com/news/jalon-daniels-loss-steelers-does-not-affect-bucs-confidence",
+   "source": {
+    "name": "Tampa Bay Buccaneers",
+    "url": null
+   },
+   "published": "2026-10-19T01:02:47+00:00",
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "d39dea39f962226f",
@@ -797,7 +953,7 @@
     "url": null
    },
    "published": "2026-10-19T00:40:09+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "900fd35cba41206f",
@@ -810,7 +966,7 @@
     "url": null
    },
    "published": "2026-10-19T00:18:48+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "dfc117e1fac8c785",
@@ -823,7 +979,7 @@
     "url": null
    },
    "published": "2026-10-19T00:18:39+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "69918b0a63a21eec",
@@ -836,7 +992,7 @@
     "url": null
    },
    "published": "2026-10-19T00:13:59+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "cac0ea298eec79bd",
@@ -849,7 +1005,7 @@
     "url": null
    },
    "published": "2026-10-19T00:03:00+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "52c275a199f62325",
@@ -862,7 +1018,7 @@
     "url": null
    },
    "published": "2026-10-18T23:53:36+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "c2d3bdced8789aa6",
@@ -875,7 +1031,7 @@
     "url": null
    },
    "published": "2026-10-18T23:51:00+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "bbf9cfbc68bfa879",
@@ -888,7 +1044,7 @@
     "url": null
    },
    "published": "2026-10-18T23:50:59+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "d0cdbf5e837f7b24",
@@ -901,7 +1057,7 @@
     "url": null
    },
    "published": "2026-10-18T23:40:37+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "f17ea0d14ac1a7e2",
@@ -914,7 +1070,7 @@
     "url": null
    },
    "published": "2026-10-18T23:37:07+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "7c1e0b724ba214c0",
@@ -927,7 +1083,7 @@
     "url": null
    },
    "published": "2026-10-18T23:17:59+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "a413da2e2b03fd9e",
@@ -940,7 +1096,7 @@
     "url": null
    },
    "published": "2026-10-18T23:10:43+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "c216dd736c3dbe38",
@@ -953,7 +1109,7 @@
     "url": null
    },
    "published": "2026-10-18T23:08:02+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "9401a8a9a5fa784d",
@@ -966,7 +1122,7 @@
     "url": null
    },
    "published": "2026-10-18T22:59:46+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "c9ed8693cf8b420c",
@@ -979,7 +1135,7 @@
     "url": null
    },
    "published": "2026-10-18T22:45:10+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "809fd3733ff9b5bc",
@@ -992,7 +1148,7 @@
     "url": null
    },
    "published": "2026-10-18T22:37:10+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "7ad70c31f03b5b2e",
@@ -1005,7 +1161,7 @@
     "url": null
    },
    "published": "2026-10-18T22:36:07+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "6a04623055de7705",
@@ -1018,7 +1174,7 @@
     "url": null
    },
    "published": "2026-10-18T22:27:30+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "c0975a7da2049495",
@@ -1031,7 +1187,7 @@
     "url": null
    },
    "published": "2026-10-18T22:27:00+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "8c23f9f169578628",
@@ -1044,7 +1200,46 @@
     "url": null
    },
    "published": "2026-10-18T22:22:55+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
+  },
+  {
+   "id": "274a91bb0f644c99",
+   "type": "news",
+   "title": "NFL Week 6 Recap: Pittsburgh Steelers 26, Tampa Bay Buccaneers 19",
+   "summary": "Game story from PFF. Full report at the original publisher.",
+   "url": "https://www.pff.com/news/nfl-week-6-recap-pittsburgh-steelers-26-tampa-bay-buccaneers-19",
+   "source": {
+    "name": "PFF",
+    "url": null
+   },
+   "published": "2026-10-18T22:22:16+00:00",
+   "retrieved": "2026-10-19T17:18:42+00:00"
+  },
+  {
+   "id": "2622939c964a575c",
+   "type": "news",
+   "title": "Pittsburgh Steelers' top plays vs. Tampa Bay Buccaneers | Week 6",
+   "summary": "Game story from NFL.com. Full report at the original publisher.",
+   "url": "https://www.nfl.com/videos/steelers-top-plays-vs-buccaneers-week-6-x2393",
+   "source": {
+    "name": "NFL.com",
+    "url": null
+   },
+   "published": "2026-10-18T22:18:51+00:00",
+   "retrieved": "2026-10-19T17:18:42+00:00"
+  },
+  {
+   "id": "dabbbcfc0c7b5148",
+   "type": "news",
+   "title": "Steelers Rally Late to Nip Bucs in Overtime",
+   "summary": "News story from Tampa Bay Buccaneers. Full report at the original publisher.",
+   "url": "https://www.buccaneers.com/news/steelers-bucs-week-6-recap-postgame-report-2026",
+   "source": {
+    "name": "Tampa Bay Buccaneers",
+    "url": null
+   },
+   "published": "2026-10-18T22:17:38+00:00",
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "f7182bbabf00a3a2",
@@ -1057,7 +1252,7 @@
     "url": null
    },
    "published": "2026-10-18T22:04:29+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "5977733b2d996c08",
@@ -1070,7 +1265,7 @@
     "url": null
    },
    "published": "2026-10-18T22:00:03+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "b1c16aee137cc34e",
@@ -1083,7 +1278,7 @@
     "url": null
    },
    "published": "2026-10-18T21:57:38+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "5d82eadbf3c8e113",
@@ -1096,7 +1291,7 @@
     "url": null
    },
    "published": "2026-10-18T21:52:12+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "b6611aff919eebc3",
@@ -1109,7 +1304,7 @@
     "url": null
    },
    "published": "2026-10-18T21:50:22+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "755dae39d0cdfe15",
@@ -1122,7 +1317,7 @@
     "url": null
    },
    "published": "2026-10-18T21:47:12+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "8ef46146f8140f4f",
@@ -1135,7 +1330,7 @@
     "url": null
    },
    "published": "2026-10-18T21:32:28+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "ca22a1314a35fdd5",
@@ -1148,7 +1343,7 @@
     "url": null
    },
    "published": "2026-10-18T21:30:00+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "1f7a071eccbba663",
@@ -1161,7 +1356,20 @@
     "url": null
    },
    "published": "2026-10-18T21:25:31+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
+  },
+  {
+   "id": "5b84de00dccb3832",
+   "type": "news",
+   "title": "Can't-Miss Play: Ramsey calls game! Jalen's blitzing sack of Jalon Daniels sends Steelers to an OT win",
+   "summary": "Game story from NFL.com. Full report at the original publisher.",
+   "url": "https://www.nfl.com/videos/can-t-miss-play-ramsey-calls-game-jalen-s-blitzing-sack-of-jalon-daniels-sends-steelers-to-an-ot-win",
+   "source": {
+    "name": "NFL.com",
+    "url": null
+   },
+   "published": "2026-10-18T21:14:39+00:00",
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "e2fb01f66fca0c6f",
@@ -1174,7 +1382,7 @@
     "url": null
    },
    "published": "2026-10-18T21:10:12+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "37b438ee4e542a76",
@@ -1187,7 +1395,7 @@
     "url": null
    },
    "published": "2026-10-18T21:07:50+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "93a6d8946a66ff49",
@@ -1200,7 +1408,7 @@
     "url": null
    },
    "published": "2026-10-18T20:59:09+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "a32879efe1f7cedd",
@@ -1213,7 +1421,7 @@
     "url": null
    },
    "published": "2026-10-18T20:58:55+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "7a9bcc9723083703",
@@ -1226,7 +1434,7 @@
     "url": null
    },
    "published": "2026-10-18T20:57:48+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "adf553885fca2cd4",
@@ -1239,7 +1447,7 @@
     "url": null
    },
    "published": "2026-10-18T20:56:42+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "fdb775536e56a696",
@@ -1252,7 +1460,20 @@
     "url": null
    },
    "published": "2026-10-18T20:53:02+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
+  },
+  {
+   "id": "8d486aca8c35847c",
+   "type": "news",
+   "title": "Rapid Reaction: Steelers 26, Buccaneers 19",
+   "summary": "News story from Tampa Bay Buccaneers. Full report at the original publisher.",
+   "url": "https://www.buccaneers.com/news/bucs-lose-pittsburgh-steelers-overtime-week-6-2026-score-26-19",
+   "source": {
+    "name": "Tampa Bay Buccaneers",
+    "url": null
+   },
+   "published": "2026-10-18T20:50:55+00:00",
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "48340d4688cc4394",
@@ -1265,7 +1486,7 @@
     "url": null
    },
    "published": "2026-10-18T20:47:15+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "e9a256206532163a",
@@ -1278,7 +1499,7 @@
     "url": null
    },
    "published": "2026-10-18T20:44:36+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "81b27d8437e7288a",
@@ -1291,7 +1512,7 @@
     "url": null
    },
    "published": "2026-10-18T20:44:30+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "06139eb940b66f09",
@@ -1304,7 +1525,7 @@
     "url": null
    },
    "published": "2026-10-18T20:44:09+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "9a56b90ef522f920",
@@ -1317,7 +1538,20 @@
     "url": null
    },
    "published": "2026-10-18T20:44:04+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
+  },
+  {
+   "id": "b13ee28e6346ea29",
+   "type": "news",
+   "title": "Steelers beat Buccaneers in overtime after mounting thrilling fourth-quarter comeback",
+   "summary": "Game story from CBS News. Full report at the original publisher.",
+   "url": "https://www.cbsnews.com/pittsburgh/news/pittsburgh-steelers-tampa-bay-buccaneers-score-nfl-news/",
+   "source": {
+    "name": "CBS News",
+    "url": null
+   },
+   "published": "2026-10-18T20:43:00+00:00",
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "41c2451e1abc3370",
@@ -1330,7 +1564,7 @@
     "url": null
    },
    "published": "2026-10-18T20:07:00+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "c6c11c180c140a4f",
@@ -1343,7 +1577,7 @@
     "url": null
    },
    "published": "2026-10-18T19:20:45+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "84e60baf2909d573",
@@ -1356,7 +1590,7 @@
     "url": null
    },
    "published": "2026-10-18T19:12:45+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "e1fe7c2d1977e8ef",
@@ -1369,7 +1603,7 @@
     "url": null
    },
    "published": "2026-10-18T18:56:00+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "829c59a8d5ea3173",
@@ -1382,7 +1616,7 @@
     "url": null
    },
    "published": "2026-10-18T18:54:38+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "056164179c9d0fd2",
@@ -1395,7 +1629,20 @@
     "url": null
    },
    "published": "2026-10-18T17:41:52+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
+  },
+  {
+   "id": "4709360bfc51a16f",
+   "type": "news",
+   "title": "[WATCH@LIVE-GAME] Pittsburgh Steelers vs Tampa Bay Buccaneers Game Live free NFL Football October, 18, 2026 pan",
+   "summary": "Game story from Universidad de Córdoba (UCO). Full report at the original publisher.",
+   "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3RvcC5kaXJlY3R0dmh1Yi5zaG9wL2dvcyIvPjwva3JwYW5vPg==&id=video-pittsburgh-steelers-vs-tampa-bay-buccaneers-liv-games-op5",
+   "source": {
+    "name": "Universidad de Córdoba (UCO)",
+    "url": null
+   },
+   "published": "2026-10-18T17:33:57+00:00",
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "a40957c6bdad0d17",
@@ -1408,7 +1655,7 @@
     "url": null
    },
    "published": "2026-10-18T16:50:00+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "a8f78f94ea2b21a6",
@@ -1421,7 +1668,7 @@
     "url": null
    },
    "published": "2026-10-18T16:42:46+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "00318874de0fb730",
@@ -1434,7 +1681,7 @@
     "url": null
    },
    "published": "2026-10-18T16:30:00+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "e911b2cdeec6e82f",
@@ -1447,7 +1694,7 @@
     "url": null
    },
    "published": "2026-10-18T16:28:48+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "711af7d7030920a8",
@@ -1460,7 +1707,7 @@
     "url": null
    },
    "published": "2026-10-18T16:26:30+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "bf5947a6ae941648",
@@ -1473,7 +1720,7 @@
     "url": null
    },
    "published": "2026-10-18T16:08:17+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "9fdc77494ea96884",
@@ -1486,7 +1733,7 @@
     "url": null
    },
    "published": "2026-10-18T15:57:22+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "10db6c0907a239c5",
@@ -1499,7 +1746,7 @@
     "url": null
    },
    "published": "2026-10-18T15:38:46+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "642593a05ac41467",
@@ -1512,7 +1759,7 @@
     "url": null
    },
    "published": "2026-10-18T15:30:00+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "62080b131d78372d",
@@ -1525,7 +1772,7 @@
     "url": null
    },
    "published": "2026-10-18T15:21:01+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "0b4de13fa422ca3d",
@@ -1538,7 +1785,7 @@
     "url": null
    },
    "published": "2026-10-18T15:00:00+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "884ee34350c315d6",
@@ -1551,7 +1798,7 @@
     "url": null
    },
    "published": "2026-10-18T14:00:06+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "e1f229f33e2ed03d",
@@ -1564,7 +1811,7 @@
     "url": null
    },
    "published": "2026-10-18T12:01:54+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "e1fb31e68f11e02c",
@@ -1577,7 +1824,7 @@
     "url": null
    },
    "published": "2026-10-18T11:25:27+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "3168b8bdcc6b3870",
@@ -1590,7 +1837,7 @@
     "url": null
    },
    "published": "2026-10-18T11:10:45+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "301c050e801391fd",
@@ -1603,7 +1850,7 @@
     "url": null
    },
    "published": "2026-10-18T11:00:00+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "39358d92af5d1b07",
@@ -1616,7 +1863,7 @@
     "url": null
    },
    "published": "2026-10-18T10:05:00+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "ab037c8d3c824f1b",
@@ -1629,7 +1876,7 @@
     "url": null
    },
    "published": "2026-10-18T10:00:00+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "1c38ff48aa5d21e1",
@@ -1642,7 +1889,7 @@
     "url": null
    },
    "published": "2026-10-18T08:00:00+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "4abe846430c22910",
@@ -1655,7 +1902,7 @@
     "url": null
    },
    "published": "2026-10-18T02:24:41+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "5d2817907834fdf2",
@@ -1668,7 +1915,7 @@
     "url": null
    },
    "published": "2026-10-18T01:39:03+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "0b38fc1620d66bef",
@@ -1681,7 +1928,7 @@
     "url": null
    },
    "published": "2026-10-18T01:05:46+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "11533bafad1df851",
@@ -1694,7 +1941,7 @@
     "url": null
    },
    "published": "2026-10-17T20:12:13+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "d177e885baa8dee8",
@@ -1707,7 +1954,7 @@
     "url": null
    },
    "published": "2026-10-17T19:43:13+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   },
   {
    "id": "a7e0082a138ae54b",
@@ -1720,254 +1967,7 @@
     "url": null
    },
    "published": "2026-10-17T19:15:23+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
-  },
-  {
-   "id": "aaecd724e5ecee39",
-   "type": "news",
-   "title": "Steelers make roster moves ahead of Buccaneers game",
-   "summary": "Game story from Steelers.com (official). Full report at the original publisher.",
-   "url": "https://www.steelers.com/news/steelers-make-roster-moves-ahead-of-buccaneers-game",
-   "source": {
-    "name": "Steelers.com (official)",
-    "url": null
-   },
-   "published": "2026-10-17T19:02:08+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
-  },
-  {
-   "id": "dd0d2fa7f8f8d8b5",
-   "type": "news",
-   "title": "Steelers latest injury update swaps one problem for another",
-   "summary": "Injury story from Still Curtain. Full report at the original publisher.",
-   "url": "https://stillcurtain.com/pittsburgh-steelers-latest-injury-update-swaps-one-problem-for-another?utm_source=RSS",
-   "source": {
-    "name": "Still Curtain",
-    "url": null
-   },
-   "published": "2026-10-17T18:01:55+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
-  },
-  {
-   "id": "b134dcffe5cf89b2",
-   "type": "news",
-   "title": "Updated: Week 6 Injury Report (Buccaneers)",
-   "summary": "Injury story from Steelers.com (official). Full report at the original publisher.",
-   "url": "https://www.steelers.com/news/week-6-injury-report-buccaneers-x2319",
-   "source": {
-    "name": "Steelers.com (official)",
-    "url": null
-   },
-   "published": "2026-10-17T18:00:00+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
-  },
-  {
-   "id": "d1ed68dc25433bd1",
-   "type": "news",
-   "title": "Steelers TE Pat Freiermuth questionable vs. Bucs; WR DK Metcalf removed from injury report",
-   "summary": "Injury story from TribLive. Full report at the original publisher.",
-   "url": "https://triblive.com/sports/steelers-te-pat-freiermuth-questionable-vs-bucs-wr-dk-metcalf-removed-from-injury-report/",
-   "source": {
-    "name": "TribLive",
-    "url": null
-   },
-   "published": "2026-10-17T17:15:35+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
-  },
-  {
-   "id": "1f6066a792005248",
-   "type": "news",
-   "title": "Joey Porter Jr.'s latest injury leaves Steelers waiting on conditional draft pick",
-   "summary": "Injury story from Still Curtain. Full report at the original publisher.",
-   "url": "https://stillcurtain.com/joey-porter-jr-latest-injury-leaves-pittsburgh-steelers-waiting-conditional-draft-pick?utm_source=RSS",
-   "source": {
-    "name": "Still Curtain",
-    "url": null
-   },
-   "published": "2026-10-17T16:25:12+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
-  },
-  {
-   "id": "1616d4eec8bf9fae",
-   "type": "news",
-   "title": "Four-Down Territory: Teacher(s) and student",
-   "summary": "News story from Steelers.com (official). Full report at the original publisher.",
-   "url": "https://www.steelers.com/news/four-down-territory-teacher-s-and-student",
-   "source": {
-    "name": "Steelers.com (official)",
-    "url": null
-   },
-   "published": "2026-10-17T15:30:00+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
-  },
-  {
-   "id": "9dc8e52730f28fb8",
-   "type": "news",
-   "title": "Pittsburgh Steelers get big Baker Mayfield news before Buccaneers game",
-   "summary": "Game story from PennLive (Nick Farabaugh). Full report at the original publisher.",
-   "url": "https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-get-big-baker-mayfield-news-before-buccaneers-game.html",
-   "source": {
-    "name": "PennLive (Nick Farabaugh)",
-    "url": null
-   },
-   "published": "2026-10-17T14:26:00+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
-  },
-  {
-   "id": "b416c2109325c5dd",
-   "type": "news",
-   "title": "Steelers must accomplish these 3 things to secure victory vs. Buccaneers",
-   "summary": "Game story from Still Curtain. Full report at the original publisher.",
-   "url": "https://stillcurtain.com/pittsburgh-steelers-must-accomplish-these-3-things-to-secure-victory-vs-buccaneers-01m4xbbe4sgx?utm_source=RSS",
-   "source": {
-    "name": "Still Curtain",
-    "url": null
-   },
-   "published": "2026-10-17T14:00:02+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
-  },
-  {
-   "id": "060ea133efcf36d5",
-   "type": "news",
-   "title": "Steelers GameDay Cheat Sheet: Week 6 at the Tampa Bay Buccaneers",
-   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
-   "url": "https://www.steelcityunderground.com/2026/10/17/steelers-gameday-cheat-sheet-week-6-at-the-tampa-bay-buccaneers/",
-   "source": {
-    "name": "Steel City Underground",
-    "url": null
-   },
-   "published": "2026-10-17T11:40:08+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
-  },
-  {
-   "id": "64144a7f3d185698",
-   "type": "news",
-   "title": "What we learned about the Buccaneers from Steelers players | Farabaugh’s Five",
-   "summary": "News story from PennLive (Nick Farabaugh). Full report at the original publisher.",
-   "url": "https://www.pennlive.com/steelers/2026/10/what-we-learned-about-the-buccaneers-from-steelers-players-farabaughs-five.html",
-   "source": {
-    "name": "PennLive (Nick Farabaugh)",
-    "url": null
-   },
-   "published": "2026-10-17T11:03:04+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
-  },
-  {
-   "id": "9d851575bb9b50a3",
-   "type": "news",
-   "title": "Steelers vs. Buccaneers picks: Still Curtain panel predicts a brutal battle",
-   "summary": "Game story from Still Curtain. Full report at the original publisher.",
-   "url": "https://stillcurtain.com/steelers-vs-buccaneers-picks-still-curtain-panel-predicts-a-brutal-battle-01m4r3jag9f8?utm_source=RSS",
-   "source": {
-    "name": "Still Curtain",
-    "url": null
-   },
-   "published": "2026-10-17T11:00:01+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
-  },
-  {
-   "id": "bb4d9ee9cf1a0905",
-   "type": "news",
-   "title": "Cup of Joe (Starkey): At this rate, Steelers should pay Jaylen Warren top-5 RB money",
-   "summary": "Opinion story from TribLive. Full report at the original publisher.",
-   "url": "https://triblive.com/sports/cup-of-joe-starkey-at-this-rate-steelers-should-pay-jaylen-warren-top-5-rb-money/",
-   "source": {
-    "name": "TribLive",
-    "url": null
-   },
-   "published": "2026-10-17T10:00:00+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
-  },
-  {
-   "id": "54066e48bd6cd33e",
-   "type": "news",
-   "title": "The Steelers have been slow to join the NFL’s blitz craze, but Patrick Graham says it’s coming",
-   "summary": "News story from Pittsburgh Post-Gazette. Full report at the original publisher.",
-   "url": "https://www.post-gazette.com/sports/steelers/2026/10/17/more-blitzing-nfl-steelers-blitzburgh/stories/202610160040",
-   "source": {
-    "name": "Pittsburgh Post-Gazette",
-    "url": null
-   },
-   "published": "2026-10-17T08:00:00+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
-  },
-  {
-   "id": "e64fdc6231eef4a3",
-   "type": "news",
-   "title": "‘What a story’: Steelers’ Jaylen Warren goes from unheralded recruit to top of NFL leaderboard",
-   "summary": "News story from TribLive. Full report at the original publisher.",
-   "url": "https://triblive.com/sports/what-a-story-steelers-jaylen-warren-goes-from-unheralded-recruit-to-top-of-nfl-leaderboard/",
-   "source": {
-    "name": "TribLive",
-    "url": null
-   },
-   "published": "2026-10-17T00:06:41+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
-  },
-  {
-   "id": "d59e187e8a490ce4",
-   "type": "news",
-   "title": "Pittsburgh Steelers star wide receiver added to injury report as room thins out",
-   "summary": "Injury story from PennLive (Nick Farabaugh). Full report at the original publisher.",
-   "url": "https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-star-wide-receiver-added-to-injury-report-as-room-thins-out.html",
-   "source": {
-    "name": "PennLive (Nick Farabaugh)",
-    "url": null
-   },
-   "published": "2026-10-16T23:43:06+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
-  },
-  {
-   "id": "fde783a1f51cca43",
-   "type": "news",
-   "title": "Despite talk of disconnect, Steelers DB Jalen Ramsey says players, coaches ‘after the same goal’",
-   "summary": "News story from TribLive. Full report at the original publisher.",
-   "url": "https://triblive.com/sports/despite-earlier-talk-of-disconnect-steelers-db-jalen-ramsey-says-players-coaches-are-after-the-same-goal/",
-   "source": {
-    "name": "TribLive",
-    "url": null
-   },
-   "published": "2026-10-16T22:52:49+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
-  },
-  {
-   "id": "6edd4a278b156302",
-   "type": "news",
-   "title": "DK Metcalf (illness) joins 4 other Steelers starters listed as questionable to play vs. Bucs",
-   "summary": "Injury story from TribLive. Full report at the original publisher.",
-   "url": "https://triblive.com/sports/dk-metcalf-illness-joins-4-other-steelers-starters-listed-as-questionable-to-play-vs-bucs/",
-   "source": {
-    "name": "TribLive",
-    "url": null
-   },
-   "published": "2026-10-16T21:43:35+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
-  },
-  {
-   "id": "eb8e4d2949362592",
-   "type": "news",
-   "title": "Keeanu Benton’s injury puts Steelers' defense at risk vs. Buccaneers",
-   "summary": "Injury story from Still Curtain. Full report at the original publisher.",
-   "url": "https://stillcurtain.com/keeanu-benton-s-injury-puts-pittsburgh-steelers-defense-at-risk-vs-buccaneers-01m52fp2j0cv?utm_source=RSS",
-   "source": {
-    "name": "Still Curtain",
-    "url": null
-   },
-   "published": "2026-10-16T21:06:15+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
-  },
-  {
-   "id": "bc2e347d1d67a132",
-   "type": "news",
-   "title": "The Steelers rule out DeShon Elliott, list DK Metcalf as questionable for Sunday",
-   "summary": "Injury story from Pittsburgh Post-Gazette. Full report at the original publisher.",
-   "url": "https://www.post-gazette.com/sports/steelers/2026/10/16/steelers-injury-news-week-6/stories/202610160033",
-   "source": {
-    "name": "Pittsburgh Post-Gazette",
-    "url": null
-   },
-   "published": "2026-10-16T20:00:00+00:00",
-   "retrieved": "2026-10-19T17:04:28+00:00"
+   "retrieved": "2026-10-19T17:18:42+00:00"
   }
  ]
 }
