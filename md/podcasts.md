@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-19T03:06:12+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T03:06:05+00:00._
+_Generated 2026-10-19T03:21:04+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T03:20:56+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Germie Bernard, Jamel Dean & DK Metcalf on win at Buccaneers | Press Pass | Pittsburgh Steelers](https://www.youtube.com/watch?v=vxAoEcjl98k): Pittsburgh Steelers (official), 2026-10-19 01:22 UTC

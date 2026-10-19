@@ -1,6 +1,6 @@
 # Steelers Player Grades (Heat Map)
 
-_Generated 2026-10-19T03:06:12+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T17:00:00+00:00._
+_Generated 2026-10-19T03:21:04+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T17:00:00+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/grades.json_
 
 Week 6: at Tampa Bay Buccaneers (26-19). Grade = stats grade (box score, see GRADES.md) until a player has 25 fan votes, then fan grade.
@@ -45,9 +45,6 @@ Week 6: at Tampa Bay Buccaneers (26-19). Grade = stats grade (box score, see GRA
 | Carson Bruener | ILB | 5.7 | stats | 1 tkl |
 | Doneiko Slaughter | CB | 5.7 | stats | 1 tkl |
 | Kaden Wetjen | KR/PR | 5.1 | stats | 4 KR, 105 yds; 2 PR, 0 yds |
-| Dylan Cook | T | awaiting fan votes | awaiting |  |
-| Ryan McCollum | C | awaiting fan votes | awaiting |  |
-| Spencer Anderson | G | awaiting fan votes | awaiting |  |
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
