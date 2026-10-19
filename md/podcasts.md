@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-19T15:40:15+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T15:40:06+00:00._
+_Generated 2026-10-19T15:50:45+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T15:50:36+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Video: [Steelers ILB Payton Wilson Reveals Major Change in Defense’s Approach](https://www.youtube.com/watch?v=2u8S2Cd3QIU): Steelers Now, 2026-10-19 15:37 UTC
 - Podcast: [Steelers INSIDER Jim Wexell Reveals Why Aaron Rodgers’ Comeback Win Changes EVERYTHING #Steelers](https://247sports.com/nfl/pittsburgh-steelers/): The Steel City Insider (Jim Wexell, 247Sports), 2026-10-19 14:01 UTC
 - Video: [Still Celebrating Sloppy Steelers Win? | Steelers Morning Rush](https://www.youtube.com/watch?v=R9OMTs6bo3I): Steelers Now, 2026-10-19 13:59 UTC
 - Video: [WAKING UP ON VICTORY MONDAY LIKE:](https://www.youtube.com/shorts/YWUC_KWv2ug): Pittsburgh Steelers (official), 2026-10-19 12:56 UTC
@@ -79,7 +80,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Steelers Injuries: Good News, Bad News, IR Coming?](https://bleav.com/shows/all-steelers-talk/episodes/steelers-injuries-good-news-bad-news-ir-coming/): All Steelers Talk, 2026-10-15 21:11 UTC
 - Podcast: [The Terrible Take - Episode 2051 - October 15, 2026](https://megaphone.link/SDP5253318668): The Terrible Podcast (Steelers Depot), 2026-10-15 21:00 UTC
 - Podcast: [Can the Steelers keep rolling with a depleted offense?](https://www.steelcityunderground.com/podcast/2026/10/can-the-steelers-keep-rolling-with-a-depleted-offense/): Steel City Underground, 2026-10-15 19:52 UTC
-- Video: [Promising Injury Indications on Both Sides | Steelers Practice Report](https://www.youtube.com/watch?v=WHC4vPxpqpo): Steelers Now, 2026-10-15 19:25 UTC
 - Podcast: [The Depot Dive - Episode 118 - October 15, 2026](https://megaphone.link/SDP5088842678): The Terrible Podcast (Steelers Depot), 2026-10-15 19:15 UTC
 - Video: [Can the Steelers keep rolling with a depleted offense?](https://www.youtube.com/watch?v=5chTykeJwJk): Steel City Underground, 2026-10-15 19:05 UTC
 - Video: [The Steelers vs Bucs Matchup Comes Down to Who Controls the Run Game 😤 #steelers #Bucs #nfl](https://www.youtube.com/shorts/BW13C2GCr5g): Locked On Steelers, 2026-10-15 16:49 UTC

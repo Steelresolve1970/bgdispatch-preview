@@ -2,8 +2,8 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-19T15:40:15+00:00",
- "data_updated": "2026-10-19T15:40:06+00:00",
+ "generated": "2026-10-19T15:50:45+00:00",
+ "data_updated": "2026-10-19T15:50:36+00:00",
  "count": 155,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
@@ -19,6 +19,19 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/podcasts",
  "items": [
+  {
+   "id": "c15c2722f2e65d53",
+   "type": "video",
+   "title": "Steelers ILB Payton Wilson Reveals Major Change in Defense’s Approach",
+   "show": "Steelers Now",
+   "url": "https://www.youtube.com/watch?v=2u8S2Cd3QIU",
+   "published": "2026-10-19T15:37:21+00:00",
+   "summary": "Video from Steelers Now.",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   }
+  },
   {
    "id": "d7d6f5e4fe6a87a4",
    "type": "podcast_episode",
@@ -1004,19 +1017,6 @@
    "summary": "Podcast episode from Steel City Underground.",
    "source": {
     "name": "Steel City Underground",
-    "url": null
-   }
-  },
-  {
-   "id": "5d37bde621af97d4",
-   "type": "video",
-   "title": "Promising Injury Indications on Both Sides | Steelers Practice Report",
-   "show": "Steelers Now",
-   "url": "https://www.youtube.com/watch?v=WHC4vPxpqpo",
-   "published": "2026-10-15T19:25:57+00:00",
-   "summary": "Video from Steelers Now.",
-   "source": {
-    "name": "Steelers Now",
     "url": null
    }
   },
