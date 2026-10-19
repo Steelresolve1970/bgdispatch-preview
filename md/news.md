@@ -1,8 +1,9 @@
 # Steelers News
 
-_Generated 2026-10-19T18:00:54+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T18:00:39+00:00._
+_Generated 2026-10-19T18:11:16+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T18:10:59+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [‘Everyone Was Happy’: Jaquan Brisker Loved Jamel Dean’s ‘Amazing’ Revenge Game In Tampa](https://steelersdepot.com/2026/10/everyone-was-happy-jaquan-brisker-loved-jamel-deans-amazing-revenge-game-in-tampa/): Steelers Depot, 2026-10-19 18:00 UTC
 - [David Walker Led Defensive Charge Against Steelers With Multi-Sack Performance](https://www.buccaneers.com/news/david-walker-led-defensive-charge-against-steelers-multi-sack-performance-week-6-2026): Tampa Bay Buccaneers, 2026-10-19 17:37 UTC
 - ["Fire Sale": Steelers Trading For Colts WR Josh Downs Suddenly On The Horizon](https://www.steelernation.com/2026/10/19/steelers-colts-josh-downs-suddenly): SteelerNation, 2026-10-19 17:34 UTC
 - [Saints Could Get Back Key Playmaker vs. Steelers](https://steelersnow.com/saints-could-get-back-key-playmaker-vs-steelers/): Steelers Now, 2026-10-19 17:23 UTC
@@ -59,7 +60,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers' win over the Buccaneers can't distract them from making a trade that suddenly looks very likely after Sunday](https://atozsports.com/nfl/pittsburgh-steelers-news/steelers-wr-rumors-brian-thomas-jr-jaguars-nfl-trade-deadline/): A to Z Sports, 2026-10-19 12:00 UTC
 - [Plays of the Game: Jamel Dean’s interception sets up Steelers’ late lead](https://www.steelcityunderground.com/2026/10/19/plays-of-the-game-jamel-deans-interception-sets-up-steelers-late-lead/): Steel City Underground, 2026-10-19 11:40 UTC
 - [Steelers Stock Watch 2026 – RB Rico Dowdle](https://steelersdepot.com/2026/10/steelers-stock-watch-2026-rb-rico-dowdle-2/): Steelers Depot, 2026-10-19 11:00 UTC
-- [Mike McCarthy Assesses Steelers’ Season After Significant Milestones](https://steelersdepot.com/2026/10/mike-mccarthy-assesses-steelers-season-after-significant-milestone/): Steelers Depot, 2026-10-19 10:20 UTC
 - [Steelers get last laugh in Joey Porter Jr. drama with Cowboys](https://steelerswire.usatoday.com/story/sports/nfl/steelers/2026/10/19/steelers-joey-porter-jr-trade-cowboys-nfl-news-update/92325305007/): Steelers Wire, 2026-10-19 10:16 UTC
 - [‘He’s accepted the challenge’: Germie Bernard rewards Steelers’ faith in rookie wide receiver](https://triblive.com/sports/hes-accepted-the-challenge-germie-bernard-rewards-steelers-faith-in-rookie-wide-receiver/): TribLive, 2026-10-19 10:01 UTC
 - [Steelers fans have fresh Aaron Rodgers concerns despite comeback win](https://stillcurtain.com/pittsburgh-steelers-fans-have-fresh-aaron-rodgers-concerns-despite-comeback-win-01m58h04pa3e?utm_source=RSS): Still Curtain, 2026-10-19 10:00 UTC

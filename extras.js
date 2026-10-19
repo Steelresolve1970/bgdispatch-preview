@@ -1,4 +1,4 @@
-// Extra sections: Live Hub, Injuries, Scouting, Cap Center, Rumors & Updates / Rumor Meter, Pick'em & Trivia, History, Alerts.
+// Extra sections: Live Hub, Injuries, Cap Center, Rumors & Updates / Rumor Meter, Pick'em & Trivia, History, Alerts.
 // All data comes from files the fetchers write (nflverse CC-BY 4.0 data, our news feed, verified history).
 (function(){
 const X={};const E=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -18,21 +18,7 @@ function injuries(){const d=X.inj,el=$('injuries-body');if(!d||!el)return;const 
  <div class="box"><ul class="plain">${d.practice_headlines.length?d.practice_headlines.map(h=>`<li><a href="${E(h.link)}" ${EXT}>${E(h.title)}</a> <small>${E(h.source)} · ${ago(h.published)}</small></li>`).join(''):'<li>No practice-report headlines this week yet.</li>'}</ul></div>
  <p class="fine">${E(d.note)} Game statuses come from the official NFL injury report (via nflverse), which updates daily, mostly overnight; same-day moves show up first in the practice-report headlines below.</p>`;}
 
-// ---------- Opponent scouting ----------
-function scout(){const d=X.opp,el=$('scout-body');if(!d||!el)return;const g=d.game;
- const keys=Object.keys(d.stats.opp);const lower=/Allowed/;
- const l5=a=>a.map(e=>`<span class="res ${E(e.result)}" title="${E(e.atVs)} ${E(e.opp)} ${E(e.score)}">${E(e.result)}</span>`).join('');
- el.innerHTML=`<div class="box scout-head"><p class="kind dark">${E(g.week)} · ${et(g.date,{weekday:'short',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})} ET${g.tv?' · '+E(g.tv):''}</p>
-  <h2>Steelers ${g.home?'vs':'at'} ${E(d.team)} <small>(${E(d.record||'')})</small></h2><p>${E(g.venue||'')}</p>
-  <p>Last 5: <b>${E(d.abbr)}</b> ${l5(d.last5.opp)} &nbsp; <b>PIT</b> ${l5(d.last5.pit)}</p></div>
- <h2 class="section-title">Team stats (per game)</h2>
- <div class="box"><table class="cmp"><thead><tr><th>${E(d.abbr)}</th><th></th><th>PIT</th></tr></thead><tbody>${keys.map(k=>{const a=parseFloat(d.stats.opp[k]),b=parseFloat(d.stats.pit[k]);const better=lower.test(k)?a<b:a>b;
-  return`<tr><td class="${better?'win':''}">${E(d.stats.opp[k])}</td><th>${E(k)}</th><td class="${!better?'win':''}">${E(d.stats.pit[k]||'—')}</td></tr>`}).join('')}</tbody></table><p class="fine">Highlighted = better of the two teams.</p></div>
- <h2 class="section-title">${E(d.abbr)} key players</h2>
- <div class="leaders">${d.leaders.opp.map(l=>`<div class="box ldr"><small>${E(l.cat)}</small><b>${E(l.name)}</b><span>${E(l.line)}</span></div>`).join('')}</div>
- <h2 class="section-title">${E(d.abbr)} injuries</h2>
- <div class="inj-list">${d.injuries.filter(p=>p.status!=='Cleared').map(p=>`<a class="box inj" href="${E(p.link)}" ${EXT}><span class="pill ${stCls[p.status]||''}">${p.status==='Injured Reserve'?'IR':E(p.status)}</span><b>${E(p.name)}</b><small>${E(p.pos)}</small><span>${E(p.injury||'Undisclosed')}</span></a>`).join('')||'<p class="fine">No injuries listed.</p>'}</div>
- <p class="fine">${E(d.note)} <a href="#/opponent">Opponent previews →</a></p>`;}
+// (Opponent Scouting was merged into the Opponent Preview page; see matchup.js.)
 
 // ---------- Cap center ----------
 let capSort='salary';
@@ -68,7 +54,7 @@ async function live(){const el=$('live-body');if(!el)return;let d;try{d=await J(
  el.innerHTML=`<p class="page-sub">${state==='in'?(d.live_feed===false?'<b class="live-dot">● GAME ON</b> Live scoring is coming soon; the final posts after the game.':'<b class="live-dot">● LIVE</b> Updates every 20 seconds.'):state==='pre'?'Pregame. Live updates start at kickoff.':'Showing the most recent final. The hub goes live automatically an hour before each kickoff.'} <small>Data as of ${ago(d.generated)}.</small></p>
  <div class="scorebug box">${d.teams.map(t=>`<div class="sb-team${t.abbr==='PIT'?' pit':''}"><b>${E(t.abbr)}</b><span>${E(t.name)}</span><strong>${E(t.score??'0')}</strong></div>`).join('<span class="sb-at">'+(state==='pre'?'vs':'')+'</span>')}
   <p class="sb-status">${E(d.detail)}${d.situation?' · '+E(d.situation):''}</p></div>
- ${n&&!d.window?`<p class="box">Next: Steelers ${n.home?'vs':'at'} <b>${E(n.opponent)}</b>, ${et(n.date,{weekday:'short',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})} ET${n.tv?' · '+E(n.tv):''}. <a href="#/scout">Scouting report →</a></p>`:''}
+ ${n&&!d.window?`<p class="box">Next: Steelers ${n.home?'vs':'at'} <b>${E(n.opponent)}</b>, ${et(n.date,{weekday:'short',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})} ET${n.tv?' · '+E(n.tv):''}. <a href="#/opponent">Opponent preview →</a></p>`:''}
  <div class="live-grid"><section><h2 class="section-title">Play-by-play</h2><div class="box pbp">${d.plays.length?d.plays.map(p=>`<p class="${p.scoring?'score':''}"><small>${E(p.team||'')} · Q${E(p.q)} ${E(p.clock||'')}</small>${E(p.text)}</p>`).join(''):(d.live_feed===false?'<p class="fine">Live play-by-play is coming soon. For now this hub shows kickoff info and the final score once it posts.</p>':'<p class="fine">Plays appear here once the game starts.</p>')}</div></section>
  <section><h2 class="section-title">Scoring</h2><div class="box">${d.scoring.map(p=>`<p><b>${E(p.team)}</b> Q${E(p.q)} ${E(p.clock)}: ${E(p.text)} <small>(${E(p.away)}-${E(p.home)})</small></p>`).join('')||'<p class="fine">No scoring yet.</p>'}</div>
  <h2 class="section-title">Game chat</h2><div class="box chat"><p class="fine">Live chat opens when member accounts launch. Until then, join the Black & Gold Dispatch Bot's game thread in the <a href="#/forum">forum</a>.</p><textarea disabled placeholder="Chat opens at launch"></textarea></div></section></div>
@@ -125,7 +111,7 @@ function alerts(){const el=$('alerts-body');if(!el)return;const sw='serviceWorke
   <button class="btn" type="button" disabled>Turn on alerts (coming soon)</button><p class="fine">Your browser ${sw&&pn?'supports':'may not support'} web push.</p></section></div>
  <h2 class="section-title">Preview: today's email</h2><iframe class="email-prev" src="data/email/daily.html" title="Daily email preview"></iframe>`;}
 
-const SRCS={inj:['data/injuries.json',injuries],opp:['data/opponent.json',scout],cap:['data/cap.json',cap],rum:['data/rumors.json',rumors],pick:['data/pickem.json',play],hist:['data/history.json',()=>{history();play();}]};
+const SRCS={inj:['data/injuries.json',injuries],cap:['data/cap.json',cap],rum:['data/rumors.json',rumors],pick:['data/pickem.json',play],hist:['data/history.json',()=>{history();play();}]};
 Object.entries(SRCS).forEach(([k,[u,f]])=>J(u).then(d=>{X[k]=d;f();}).catch(()=>{}));
 document.addEventListener('click',e=>{const c=e.target.closest('.cap-sort');if(c){capSort=c.dataset.k;cap();}const r=e.target.closest('.rm-f');if(r){rmF=r.dataset.f;rumors();}});
 document.addEventListener('route',e=>{const v=e.detail;if(v==='live')live();else clearTimeout(liveTimer);if(v==='alerts')alerts();if(v==='play')play();if(v==='history')history();});

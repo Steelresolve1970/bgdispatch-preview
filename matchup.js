@@ -1,5 +1,6 @@
-// Matchup report for the next Steelers game (Opponent Preview + Opponent Scouting pages).
-// Data: data/matchup.json, built by fetch_matchup.py on every update (nflverse CC-BY 4.0 stats; pundit picks link to sources).
+// Matchup report for the next Steelers game (Opponent Preview page; the old Opponent Scouting page was merged in here).
+// Data: data/matchup.json (fetch_matchup.py) + data/opponent.json (fetch_hub.py: record, TV, last 5, key players, injuries).
+// Both are rebuilt by run_all.py on every update (nflverse CC-BY 4.0 stats; pundit picks link to sources).
 (function(){
 const E=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const EXT='target="_blank" rel="noopener"';
@@ -11,7 +12,8 @@ const css=`.mu{margin-top:8px}.mu .mu-head{display:flex;flex-wrap:wrap;gap:6px 1
 .mu-tbl th:first-child,.mu-tbl td:first-child{text-align:left}.mu-tbl thead th{font-size:.8rem;text-transform:uppercase;color:#555}
 .mu-tbl tr.grp td{background:#101010;color:#FFB612;font-weight:800;text-transform:uppercase;font-size:.78rem;letter-spacing:.5px}
 .mu-tbl td.win{font-weight:800;background:#fff6dc}
-@media(max-width:560px){#scout-body .cmp .mu-rk,.mu-tbl .mu-rk{display:block}}
+@media(max-width:560px){.mu-tbl .mu-rk{display:block}}
+.mu-form{display:flex;flex-wrap:wrap;gap:4px 14px;width:100%;font-size:.9rem}.mu-form b{margin-right:4px}.mu-form .res{cursor:default}
 .mu-list{display:grid;gap:10px;grid-template-columns:repeat(auto-fit,minmax(min(100%,280px),1fr));margin:0 0 16px;padding:0;list-style:none}
 .mu-list>li{background:#fff;border-radius:8px;padding:14px;box-shadow:0 1px 3px #0001;border-top:4px solid #FFB612}
 .mu-list>li>b{display:block;font-size:1.02rem;margin-bottom:4px}.mu-list>li>p{margin:0 0 6px}.mu-list>li>ul{margin:4px 0 0;padding-left:18px;font-size:.88rem;color:#444}
@@ -23,7 +25,7 @@ const css=`.mu{margin-top:8px}.mu .mu-head{display:flex;flex-wrap:wrap;gap:6px 1
 .mu-pick a{font-size:.85rem}.mu-wait{background:#fff;border:2px dashed #FFB612;border-radius:8px;padding:16px;text-align:center;font-weight:700}
 @media(max-width:560px){.mu-tbl{font-size:.88rem}.mu-tbl th,.mu-tbl td{padding:6px 3px}}`;
 const st=document.createElement('style');st.textContent=css;document.head.appendChild(st);
-let D=null,MS=null;
+let D=null,O=null;
 const rk=(n,total)=>`<span class="mu-rk ${n<=10?'top':n>(total||32)-10?'bot':''}">(${ord(n)})</span>`;
 const fmtv=(v,k,d)=>{const t=Number(v).toFixed(d??1);return k==='tomargin'&&v>0?'+'+t:t;};
 function table(d,skip){const GO=['Offense','Defense','Other'];const rows=d.stats.filter(s=>!skip||!skip.has(s.label)).sort((a,b)=>GO.indexOf(a.group)-GO.indexOf(b.group));if(!rows.length)return'';let g='';const T=d.teams_ranked;
@@ -39,33 +41,33 @@ function picks(d){const p=d.picks||{},it=p.items||[];const nick=d.opp_nick;
   return `<div class="mu-pick"><span class="who">${E(x.name)}</span><span class="out">${E(x.outlet)}</span><span class="mu-pk ${pit?'pit':''}">${E(tm)}${x.score?' '+E(x.score):' to win'}</span><a href="${E(x.link)}" ${EXT}>Source</a></div>`;}).join('')}</div>
   ${c?`<p class="fine">CBS Sports expert panel: ${c.pit} of ${c.total} pick the Steelers. <a href="${E(c.link)}" ${EXT}>See the panel</a></p>`:''}
   <p class="fine">Only each expert's pick is shown; tap Source to read their reasoning at the original outlet. ${it.length<5?'More picks will be added as they are published. ':''}Last checked ${E(chk)}.</p>`;}
-function block(d,opts){const g=d.game;if(!g)return'<p class="empty">No upcoming game.</p>';
+const l5=a=>(a||[]).map(e=>{const t=`${e.result} ${e.score} ${e.atVs} ${e.opp}`;return `<span class="res ${E(e.result)}" title="${E(t)}" aria-label="${E(t)}">${E(e.result)}</span>`;}).join('');
+const ST={'Out':'s-out','Doubtful':'s-doubt','Questionable':'s-q','Injured Reserve':'s-ir','Physically Unable to Perform':'s-ir'};
+function extra(d,o){if(!o)return'';const ld=(o.leaders&&o.leaders.opp)||[];const inj=(o.injuries||[]).filter(p=>p.status!=='Cleared');
+ return `<h2 class="section-title">${E(d.opp_nick||d.opp)} key players</h2>
+ <div class="leaders">${ld.map(l=>`<div class="box ldr"><small>${E(l.cat)}</small><b>${E(l.name)}${l.pos?' <small>'+E(l.pos)+'</small>':''}</b><span>${E(l.line)}</span></div>`).join('')||'<p class="fine">No stat leaders yet.</p>'}</div>
+ <h2 class="section-title">${E(d.opp_nick||d.opp)} injury report</h2>
+ <div class="inj-list">${inj.map(p=>`<a class="box inj" href="${E(p.link)}" ${EXT}><span class="pill ${ST[p.status]||''}">${p.status==='Injured Reserve'?'IR':E(p.status)}</span><b>${E(p.name)}</b><small>${E(p.pos)}</small><span>${E(p.injury||'Undisclosed')}</span></a>`).join('')||'<p class="fine">No injuries listed.</p>'}</div>`;}
+function block(d,o){const g=d.game;if(!g)return'<p class="empty">No upcoming game.</p>';
  const when=new Date(g.date).toLocaleString('en-US',{timeZone:'America/New_York',weekday:'short',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'});
  return `<section class="mu" aria-label="Matchup report">
- ${opts.head?`<div class="box mu-head"><h2>Steelers ${g.home?'vs':'at'} ${E(d.opp_name)}</h2><span class="fine">${E(g.week)} · ${E(when)} ET${g.venue?' · '+E(g.venue):''}</span></div>`:''}
+ <div class="box mu-head"><h2>Steelers ${g.home?'vs':'at'} ${E(d.opp_name)}${o&&o.record?` <small>(${E(d.opp)} ${E(o.record)})</small>`:''}</h2><span class="fine">${E(g.week)} · ${E(when)} ET${(g.tv||(o&&o.game&&o.game.tv))?' · '+E(g.tv||o.game.tv):''}${g.venue?' · '+E(g.venue):''}</span>
+ ${o&&o.last5?`<div class="mu-form"><span><b>Last 5 · ${E(d.opp)}</b>${l5(o.last5.opp)}</span><span><b>PIT</b>${l5(o.last5.pit)}</span></div>`:''}</div>
  <h2 class="section-title">3 keys to a Steelers win</h2>
  <ol class="mu-list">${d.keys.map((k,i)=>`<li><b><span class="mu-n">${i+1}</span>${E(k.title)}</b><p>${E(k.why)}</p></li>`).join('')}</ol>
  <h2 class="section-title">3 key matchups to watch</h2>
  <ol class="mu-list">${d.matchups.map((m,i)=>`<li><b><span class="mu-n">${i+1}</span>${E(m.title)}</b><p>${E(m.why)}</p><ul>${m.stats.map(s=>`<li>${E(s)}</li>`).join('')}</ul></li>`).join('')}</ol>
  <h2 class="section-title">Pundit picks</h2>${picks(d)}
- <h2 class="section-title">${opts.skip?'More team stats with NFL ranks':'Team stats with NFL ranks'}</h2>${table(d,opts.skip)}
- <p class="fine">Stats, ranks, keys and matchups update automatically every week from nflverse data (<a href="${E(d.source_url)}" ${EXT}>CC-BY 4.0</a>). Keys and matchups are our own takes, generated from the numbers.</p></section>`;}
-// Opponent Scouting: add ranks next to each value in its existing team-stats table
-function decorate(){if(!D)return;const t=document.querySelector('#scout-body table.cmp');const ms=MS;
- if(t&&ms){const bx=t.closest('.box');if(bx&&bx.nextSibling!==ms)bx.after(ms);}
- if(!t||t.dataset.mu)return;const by={};D.stats.forEach(s=>by[s.label]=s);
- t.querySelectorAll('tbody tr').forEach(tr=>{const th=tr.querySelector('th'),td=tr.querySelectorAll('td');const s=th&&by[th.textContent.trim()];if(!s||td.length<2)return;
-  td[0].insertAdjacentHTML('beforeend',' '+rk(s.opp_rank,D.teams_ranked));td[1].insertAdjacentHTML('beforeend',' '+rk(s.pit_rank,D.teams_ranked));});
- t.dataset.mu='1';const f=t.parentElement.querySelector('.fine');if(f&&!f.dataset.mu){f.dataset.mu='1';f.insertAdjacentText('beforeend',' NFL rank in parentheses (1st = best).');}}
+ <h2 class="section-title">Team stats with NFL ranks</h2>${table(d)}
+ ${extra(d,o)}
+ <p class="fine">Stats, ranks, keys and matchups update automatically every week from nflverse data (<a href="${E(d.source_url)}" ${EXT}>CC-BY 4.0</a>). Keys and matchups are our own takes, generated from the numbers. Records, last-5 results, key players and injuries come from nflverse schedules, stats and official injury reports.</p></section>`;}
 function render(){if(!D||D.opp===undefined&&!D.game)return;
  const pv=document.getElementById('preview-full');
  if(pv){let s=document.getElementById('mu-opp');if(!s){s=document.createElement('div');s.id='mu-opp';pv.parentNode.insertBefore(s,pv);
    const h=document.createElement('h2');h.className='section-title';h.id='mu-prev-h';h.textContent='Previews & film';pv.parentNode.insertBefore(h,pv);}
-  s.innerHTML=block(D,{head:true});}
- const sb=document.getElementById('scout-body');
- if(sb){let s=MS;if(!s){s=MS=document.createElement('div');s.id='mu-scout';sb.parentNode.insertBefore(s,sb.nextSibling);
-   new MutationObserver(decorate).observe(sb,{childList:true});}
-  s.innerHTML=block(D,{head:false,skip:new Set(D.stats.slice(0,8).map(x=>x.label))});decorate();}}
-fetch(url('data/matchup.json'),{cache:'no-store'}).then(r=>{if(!r.ok)throw r.status;return r.json();}).then(d=>{D=d;window.BGD_matchup=d;
- if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',render);else render();}).catch(()=>{});
+  s.innerHTML=block(D,(O&&D.opp&&O.abbr===D.opp)?O:null);}}
+const go=()=>{if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',render);else render();};
+const get=u=>fetch(url(u),{cache:'no-store'}).then(r=>{if(!r.ok)throw r.status;return r.json();});
+get('data/matchup.json').then(d=>{D=d;window.BGD_matchup=d;go();}).catch(()=>{});
+get('data/opponent.json').then(d=>{O=d;go();}).catch(()=>{});
 })();
