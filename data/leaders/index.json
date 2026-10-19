@@ -1,0 +1,354 @@
+{
+ "generated": "2026-10-19T17:48:16.989070+00:00",
+ "season": 2026,
+ "source": "Data: nflverse (CC-BY 4.0)",
+ "source_url": "https://github.com/nflverse/nflverse-data",
+ "team": [
+  {
+   "key": "pass_yds",
+   "label": "Pass yards",
+   "section": "Offense",
+   "lower_is_better": false,
+   "file": "team-pass_yds.json"
+  },
+  {
+   "key": "pass_td",
+   "label": "Pass TD",
+   "section": "Offense",
+   "lower_is_better": false,
+   "file": "team-pass_td.json"
+  },
+  {
+   "key": "ints_thrown",
+   "label": "INTs thrown",
+   "section": "Offense",
+   "lower_is_better": true,
+   "file": "team-ints_thrown.json"
+  },
+  {
+   "key": "rush_yds",
+   "label": "Rush yards",
+   "section": "Offense",
+   "lower_is_better": false,
+   "file": "team-rush_yds.json"
+  },
+  {
+   "key": "rush_td",
+   "label": "Rush TD",
+   "section": "Offense",
+   "lower_is_better": false,
+   "file": "team-rush_td.json"
+  },
+  {
+   "key": "fumbles_lost",
+   "label": "Fumbles lost",
+   "section": "Offense",
+   "lower_is_better": true,
+   "file": "team-fumbles_lost.json"
+  },
+  {
+   "key": "total_yds",
+   "label": "Total yards",
+   "section": "Offense",
+   "lower_is_better": false,
+   "file": "team-total_yds.json"
+  },
+  {
+   "key": "yds_allowed",
+   "label": "Yards allowed",
+   "section": "Defense",
+   "lower_is_better": true,
+   "file": "team-yds_allowed.json"
+  },
+  {
+   "key": "pass_yds_allowed",
+   "label": "Pass yards allowed",
+   "section": "Defense",
+   "lower_is_better": true,
+   "file": "team-pass_yds_allowed.json"
+  },
+  {
+   "key": "rush_yds_allowed",
+   "label": "Rush yards allowed",
+   "section": "Defense",
+   "lower_is_better": true,
+   "file": "team-rush_yds_allowed.json"
+  },
+  {
+   "key": "sacks",
+   "label": "Sacks",
+   "section": "Defense",
+   "lower_is_better": false,
+   "file": "team-sacks.json"
+  },
+  {
+   "key": "interceptions",
+   "label": "Interceptions",
+   "section": "Defense",
+   "lower_is_better": false,
+   "file": "team-interceptions.json"
+  },
+  {
+   "key": "forced_fumbles",
+   "label": "Forced fumbles",
+   "section": "Defense",
+   "lower_is_better": false,
+   "file": "team-forced_fumbles.json"
+  },
+  {
+   "key": "fumbles_recovered",
+   "label": "Fumbles recovered",
+   "section": "Defense",
+   "lower_is_better": false,
+   "file": "team-fumbles_recovered.json"
+  },
+  {
+   "key": "tfl",
+   "label": "Tackles for loss",
+   "section": "Defense",
+   "lower_is_better": false,
+   "file": "team-tfl.json"
+  },
+  {
+   "key": "passes_defended",
+   "label": "Passes defended",
+   "section": "Defense",
+   "lower_is_better": false,
+   "file": "team-passes_defended.json"
+  },
+  {
+   "key": "points_scored",
+   "label": "Points scored",
+   "section": "Scoring",
+   "lower_is_better": false,
+   "file": "team-points_scored.json"
+  },
+  {
+   "key": "ppg",
+   "label": "Points per game",
+   "section": "Scoring",
+   "lower_is_better": false,
+   "file": "team-ppg.json"
+  },
+  {
+   "key": "points_allowed",
+   "label": "Points allowed",
+   "section": "Scoring",
+   "lower_is_better": true,
+   "file": "team-points_allowed.json"
+  },
+  {
+   "key": "touchdowns",
+   "label": "Touchdowns",
+   "section": "Scoring",
+   "lower_is_better": false,
+   "file": "team-touchdowns.json"
+  }
+ ],
+ "player": [
+  {
+   "key": "pass_yds",
+   "label": "Pass Yds",
+   "group": "Passing",
+   "lower_is_better": false,
+   "min_note": "Min. 14 pass attempts",
+   "file": "player-pass_yds.json",
+   "count": 45
+  },
+  {
+   "key": "ypa",
+   "label": "YPA",
+   "group": "Passing",
+   "lower_is_better": false,
+   "min_note": "Min. 10 attempts per team game",
+   "file": "player-ypa.json",
+   "count": 36
+  },
+  {
+   "key": "pass_td",
+   "label": "Pass TD",
+   "group": "Passing",
+   "lower_is_better": false,
+   "min_note": "Min. 14 pass attempts",
+   "file": "player-pass_td.json",
+   "count": 45
+  },
+  {
+   "key": "int_thrown",
+   "label": "INT thrown",
+   "group": "Passing",
+   "lower_is_better": true,
+   "min_note": "Min. 14 pass attempts",
+   "file": "player-int_thrown.json",
+   "count": 45
+  },
+  {
+   "key": "passer_rtg",
+   "label": "Passer Rtg",
+   "group": "Passing",
+   "lower_is_better": false,
+   "min_note": "Min. 10 attempts per team game",
+   "file": "player-passer_rtg.json",
+   "count": 36
+  },
+  {
+   "key": "rush_yds",
+   "label": "Rush Yds",
+   "group": "Rushing",
+   "lower_is_better": false,
+   "min_note": "Min. 20 carries",
+   "file": "player-rush_yds.json",
+   "count": 74
+  },
+  {
+   "key": "rush_td",
+   "label": "Rush TD",
+   "group": "Rushing",
+   "lower_is_better": false,
+   "min_note": "Min. 20 carries",
+   "file": "player-rush_td.json",
+   "count": 74
+  },
+  {
+   "key": "rec",
+   "label": "Rec",
+   "group": "Receiving",
+   "lower_is_better": false,
+   "min_note": "Min. 10 receptions",
+   "file": "player-rec.json",
+   "count": 147
+  },
+  {
+   "key": "rec_yds",
+   "label": "Rec Yds",
+   "group": "Receiving",
+   "lower_is_better": false,
+   "min_note": "Min. 10 receptions",
+   "file": "player-rec_yds.json",
+   "count": 147
+  },
+  {
+   "key": "rec_td",
+   "label": "Rec TD",
+   "group": "Receiving",
+   "lower_is_better": false,
+   "min_note": "Min. 10 receptions",
+   "file": "player-rec_td.json",
+   "count": 147
+  },
+  {
+   "key": "yac",
+   "label": "YAC",
+   "group": "Receiving",
+   "lower_is_better": false,
+   "min_note": "Min. 10 receptions",
+   "file": "player-yac.json",
+   "count": 147
+  },
+  {
+   "key": "tackles",
+   "label": "Tackles",
+   "group": "Defense",
+   "lower_is_better": false,
+   "min_note": "Min. 15 tackles",
+   "file": "player-tackles.json",
+   "count": 320
+  },
+  {
+   "key": "sacks",
+   "label": "Sacks",
+   "group": "Defense",
+   "lower_is_better": false,
+   "min_note": "Min. 0.5 sacks",
+   "file": "player-sacks.json",
+   "count": 261
+  },
+  {
+   "key": "tfl",
+   "label": "TFL",
+   "group": "Defense",
+   "lower_is_better": false,
+   "min_note": "Min. 3 TFL",
+   "file": "player-tfl.json",
+   "count": 120
+  },
+  {
+   "key": "pd",
+   "label": "PD",
+   "group": "Defense",
+   "lower_is_better": false,
+   "min_note": "Min. 2 passes defended",
+   "file": "player-pd.json",
+   "count": 209
+  },
+  {
+   "key": "int",
+   "label": "INT",
+   "group": "Defense",
+   "lower_is_better": false,
+   "min_note": "Min. 1 interception",
+   "file": "player-int.json",
+   "count": 102
+  },
+  {
+   "key": "ff",
+   "label": "FF",
+   "group": "Defense",
+   "lower_is_better": false,
+   "min_note": "Min. 1 forced fumble",
+   "file": "player-ff.json",
+   "count": 144
+  },
+  {
+   "key": "fr",
+   "label": "FR",
+   "group": "Defense",
+   "lower_is_better": false,
+   "min_note": "Min. 1 fumble recovery",
+   "file": "player-fr.json",
+   "count": 101
+  }
+ ],
+ "team_label_key": {
+  "Pass yards": "pass_yds",
+  "Pass TD": "pass_td",
+  "INTs thrown": "ints_thrown",
+  "Rush yards": "rush_yds",
+  "Rush TD": "rush_td",
+  "Fumbles lost": "fumbles_lost",
+  "Total yards": "total_yds",
+  "Yards allowed": "yds_allowed",
+  "Pass yards allowed": "pass_yds_allowed",
+  "Rush yards allowed": "rush_yds_allowed",
+  "Sacks": "sacks",
+  "Interceptions": "interceptions",
+  "Forced fumbles": "forced_fumbles",
+  "Fumbles recovered": "fumbles_recovered",
+  "Tackles for loss": "tfl",
+  "Passes defended": "passes_defended",
+  "Points scored": "points_scored",
+  "Points per game": "ppg",
+  "Points allowed": "points_allowed",
+  "Touchdowns": "touchdowns"
+ },
+ "player_label_key": {
+  "Pass Yds": "pass_yds",
+  "YPA": "ypa",
+  "Pass TD": "pass_td",
+  "INT thrown": "int_thrown",
+  "Passer Rtg": "passer_rtg",
+  "Rush Yds": "rush_yds",
+  "Rush TD": "rush_td",
+  "Rec": "rec",
+  "Rec Yds": "rec_yds",
+  "Rec TD": "rec_td",
+  "YAC": "yac",
+  "Tackles": "tackles",
+  "Sacks": "sacks",
+  "TFL": "tfl",
+  "PD": "pd",
+  "INT": "int",
+  "FF": "ff",
+  "FR": "fr"
+ }
+}

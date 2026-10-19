@@ -465,3 +465,26 @@ body.yt-modal-open{overflow:hidden}
 .afcn-box{background:var(--black);color:#fff;border:3px solid var(--gold)!important}.afcn-box h2{color:var(--gold);text-transform:uppercase;letter-spacing:1px;font-weight:900}
 .afcn{width:100%;border-collapse:collapse;font-size:14px}.afcn th{color:var(--gold);text-align:left;font-size:11px;text-transform:uppercase}.afcn td{padding:5px 3px;border-bottom:1px solid #333;font-weight:600}
 .afcn tr.pit td{color:var(--gold)}.afcn-box .fine,.afcn-box a{color:#ccc}.afcn .num,.afcn th.num{text-align:right}
+
+/* League leaders (Stats deep-links) */
+.st-link{color:inherit;text-decoration:none;border-bottom:1px dotted rgba(0,0,0,.25)}
+.st-link:hover,.st-click:hover td{background:rgba(255,182,18,.12)}
+.st-pname{background:none;border:0;padding:0;font:inherit;font-weight:700;color:inherit;cursor:pointer;text-decoration:underline;text-decoration-color:rgba(255,182,18,.8)}
+.st-mini{font-size:.65rem;font-weight:800;margin-left:4px;color:#666;text-decoration:none;border:1px solid #ccc;border-radius:3px;padding:0 4px}
+.st-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch}
+.ld-bar{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin:8px 0 12px}
+.ld-pick{display:flex;flex-direction:column;gap:2px;font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.04em;color:#5e5e5e}
+.ld-pick select{font:inherit;font-size:15px;font-weight:600;text-transform:none;letter-spacing:0;padding:8px 10px;border:2px solid #111;border-radius:6px;background:#fff;min-width:min(100%,260px);color:#111}
+.ld-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch;max-height:70vh;overflow-y:auto}
+.ld-table{width:100%;border-collapse:collapse;font-size:14px;min-width:520px}
+.ld-table th,.ld-table td{padding:8px 6px;border-bottom:1px solid #eee;white-space:nowrap}
+.ld-table th{position:sticky;top:0;background:#111;color:#FFB612;text-align:left;font-size:11px;text-transform:uppercase;letter-spacing:.04em;z-index:1;cursor:pointer;user-select:none}
+.ld-table th.num,.ld-table td.num{text-align:right}
+.ld-table tr.pit td{background:rgba(255,182,18,.28);font-weight:700}
+.ld-table tbody tr:hover td{background:rgba(0,0,0,.04)}
+.ld-table tr.pit:hover td{background:rgba(255,182,18,.38)}
+@media(max-width:600px){
+  .ld-table{font-size:13px;min-width:480px}
+  .ld-table th,.ld-table td{padding:7px 4px}
+  .st-grid{grid-template-columns:1fr}
+}
