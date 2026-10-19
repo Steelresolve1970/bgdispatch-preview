@@ -1,8 +1,9 @@
 # Steelers News
 
-_Generated 2026-10-19T18:43:40+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T18:43:23+00:00._
+_Generated 2026-10-19T18:54:07+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T18:53:50+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Key Behind-The-Scenes Change Fueling Steelers’ Defense, Says Payton Wilson](https://steelersdepot.com/2026/10/key-behind-the-scenes-change-fueling-steelers-defense-says-payton-wilson/): Steelers Depot, 2026-10-19 18:45 UTC
 - [Submit your questions for Mike DeFabo’s Steelers mailbag](https://www.nytimes.com/athletic/7705346/2026/10/19/steelers-mailbag-paris-game-bucs-win/): The Athletic, 2026-10-19 18:42 UTC
 - [‘I Wanted Them To Lose’: Domonique Foxworth Says Steelers ‘Didn’t Deserve’ To Beat Buccaneers](https://steelersdepot.com/2026/10/i-wanted-them-to-lose-domonique-foxworth-says-steelers-didnt-deserve-to-beat-buccaneers/): Steelers Depot, 2026-10-19 18:30 UTC
 - [NFL: Indianapolis Colts at Pittsburgh Steelers](https://lufkindailynews.com/news_reuters/sports/nfl-indianapolis-colts-at-pittsburgh-steelers/image_c50941c8-5962-5c56-aa3a-32fa6b324235.html): The Lufkin Daily News, 2026-10-19 18:22 UTC
@@ -58,7 +59,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Violence and unrest intensify in Paris, other parts of France ahead of upcoming Steelers-Saints game](https://www.cbsnews.com/pittsburgh/news/violence-unrest-intensified-paris-pittsburgh-steelers-new-orleans-saints-game/): CBS News, 2026-10-19 12:40 UTC
 - [Film Room: Jalen Ramsey Calls Game To Beat Buccaneers](https://steelersdepot.com/2026/10/film-room-jalen-ramsey-calls-game-to-beat-buccaneers/): Steelers Depot, 2026-10-19 12:30 UTC
 - [Saunders’ Steelers Takeaways: Mike McCarthy Was Supposed to be Better Than This, But Give Credit Where It’s Due](https://steelersnow.com/saunders-steelers-takeaways-mike-mccarthy-was-supposed-to-be-better-than-this-but-give-credit-where-its-due/): Steelers Now, 2026-10-19 12:05 UTC
-- [Nick Herbig Motivated Himself By Watching ‘Hungry Herb’ Film: ‘Remind Yourself How You Got Here’](https://steelersdepot.com/2026/10/nick-herbig-motivated-himself-by-watching-hungry-herb-film-remind-yourself-how-you-got-here/): Steelers Depot, 2026-10-19 12:00 UTC
 - [Steelers vs. Buccaneers: What they’re saying in Tampa Bay after loss](https://triblive.com/sports/steelers-vs-buccaneers-what-theyre-saying-in-tampa-bay-after-loss/): TribLive, 2026-10-19 12:00 UTC
 - [Former Steelers Joey Porter Jr. and George Pickens aren't changing things in Dallas](https://stillcurtain.com/former-steelers-joey-porter-jr-and-george-pickens-aren-t-changing-things-in-dallas-01m596xmkand?utm_source=RSS): Still Curtain, 2026-10-19 12:00 UTC
 - [Steelers' win over the Buccaneers can't distract them from making a trade that suddenly looks very likely after Sunday](https://atozsports.com/nfl/pittsburgh-steelers-news/steelers-wr-rumors-brian-thomas-jr-jaguars-nfl-trade-deadline/): A to Z Sports, 2026-10-19 12:00 UTC
@@ -77,6 +77,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Pittsburgh Steelers 2026 NFL Playoff Simulator](https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/pittsburgh-steelers-season-projections/): The New York Times, 2026-10-19 03:50 UTC
 - [Is this what the Steelers offense will look like against every quality defense?](https://www.nytimes.com/athletic/7703226/2026/10/18/pittsburgh-steelers-offensive-struggles-bucs-win/): The Athletic, 2026-10-19 01:30 UTC
 - [The NFL says the Steelers’ game in Paris is still on despite civil unrest](https://www.post-gazette.com/sports/steelers/2026/10/18/nfl-steelers-saints-game-paris-civil-unrest-france/stories/202610180091): Pittsburgh Post-Gazette, 2026-10-19 01:14 UTC
+- [Aaron Rodgers reacts to Steelers' overtime win against Buccaneers in Week 6](https://www.nfl.com/videos/aaron-rodgers-reacts-to-steelers-overtime-win-against-buccaneers-in-week-6): NFL.com, 2026-10-19 01:09 UTC
 - [From the Press Room: Steelers at Buccaneers](https://www.steelers.com/news/from-the-press-room-steelers-at-buccaneers): Steelers.com (official), 2026-10-19 00:40 UTC
 - [Steelers rookie Germie Bernard makes up for an early mistake by catching the OT winner](https://www.post-gazette.com/sports/steelers/2026/10/18/germie-bernard-overtime-touchdown-steelers/stories/202610180076): Pittsburgh Post-Gazette, 2026-10-19 00:18 UTC
 - [Mike McCarthy Gave A Direct Message To Steelers' Aaron Rodgers And The Offense](https://www.steelernation.com/2026/10/18/steelers-mike-mccarthy-direct-aaron-rodgers): SteelerNation, 2026-10-19 00:18 UTC
@@ -112,7 +113,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [The Steelers rally back from 13 down to beat the Buccaneers in overtime](https://www.post-gazette.com/sports/steelers/2026/10/18/steelers-buccaneers-aaron-rodgers-germie-bernard/stories/202610180075): Pittsburgh Post-Gazette, 2026-10-18 20:58 UTC
 - [Steelers overcome 16-3 deficit, defeat Buccaneers in OT](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176501/steelers-overcome-16-3-deficit-defeat-buccaneers-in-ot-aaron-rodgers-germie-bernard-jalen-ramsey): Behind the Steel Curtain, 2026-10-18 20:57 UTC
 - [Steelers pull out 26-19 win over Bucs in overtime](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-pull-out-26-19-win-over-bucs-in-overtime): ProFootballTalk (NBC), 2026-10-18 20:53 UTC
-- [Rapid Reaction: Steelers 26, Buccaneers 19](https://www.buccaneers.com/news/bucs-lose-pittsburgh-steelers-overtime-week-6-2026-score-26-19): Tampa Bay Buccaneers, 2026-10-18 20:50 UTC
 - [Steelers rally past Buccaneers, 26-19, in overtime](https://www.steelers.com/news/steelers-rally-past-buccaneers-26-19-in-overtime): Steelers.com (official), 2026-10-18 20:44 UTC
 - [Aaron Rodgers rallies Steelers back from 13-point deficit to beat Bucs in overtime](https://triblive.com/sports/aaron-rodgers-rallies-steelers-back-from-16-point-deficit-to-beat-bucs-in-overtime/): TribLive, 2026-10-18 20:44 UTC
 - [The Steelers got punched in the mouth by the Buccaneers -- then their real football character showed](https://www.pennlive.com/steelers/2026/10/the-steelers-got-punched-in-the-mouth-by-the-buccaneers-then-their-real-football-character-showed.html): PennLive (Nick Farabaugh), 2026-10-18 20:44 UTC
