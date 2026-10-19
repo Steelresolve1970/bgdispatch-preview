@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T19:14:55.268746+00:00",
+ "generated": "2026-10-19T19:25:28.535808+00:00",
  "game": {
   "label": "at Tampa Bay Buccaneers (Oct 18)",
   "opponent": "Tampa Bay Buccaneers",
@@ -105,7 +105,7 @@
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgIrOw8M4dNVs-WcMSaZUxA",
    "status": "ok",
    "feed_items": 15,
-   "in_window": 1
+   "in_window": 2
   },
   {
    "creator": "Steelers Now (Derrick Bell)",
@@ -214,6 +214,14 @@
  ],
  "items": [
   {
+   "title": "Steelers' QB Grades vs Bucs",
+   "creator": "Steelers Almighty",
+   "link": "https://www.youtube.com/shorts/fJ6q0C9RHys",
+   "published": "2026-10-19T19:18:24+00:00",
+   "summary": "Film breakdown by Steelers Almighty of at Tampa Bay Buccaneers (Oct 18).",
+   "game": "at Tampa Bay Buccaneers (Oct 18)"
+  },
+  {
    "title": "Ugly Win in Tampa: Grading Every Steelers Unit After the OT Thriller | REPORT CARD | Week 6",
    "creator": "Steelers Almighty",
    "link": "https://www.youtube.com/watch?v=7rJt8I0UKLI",
@@ -261,8 +269,17 @@
    "week": "Week 6",
    "opponent": "Tampa Bay Buccaneers",
    "kickoff": "2026-10-18T17:00:00+00:00",
-   "count": 4,
+   "count": 5,
    "items": [
+    {
+     "title": "Steelers' QB Grades vs Bucs",
+     "creator": "Steelers Almighty",
+     "link": "https://www.youtube.com/shorts/fJ6q0C9RHys",
+     "published": "2026-10-19T19:18:24+00:00",
+     "gid": "2026_06_PIT_TB",
+     "source": "rss",
+     "summary": "Film breakdown by Steelers Almighty of Week 6 at Buccaneers (W 26-19)."
+    },
     {
      "title": "Ugly Win in Tampa: Grading Every Steelers Unit After the OT Thriller | REPORT CARD | Week 6",
      "creator": "Steelers Almighty",
@@ -619,5 +636,5 @@
    ]
   }
  ],
- "count": 5
+ "count": 6
 }

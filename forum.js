@@ -130,6 +130,7 @@ async function render(){const el=$('forum-body');if(!el)return;const r=sub();if(
  const [p,a]=r;
  if(p==='pickem'||p==='trivia')return playTab(el,p);
  if(!S.api){if(p==='gameday')return gamedayTab(el);return legacy(el,p,a);}
+ if(p==='claim')return claimView(el,a);
  if(p==='join'||p==='signin')return authForm(el,p);
  if(p==='me')return profile(el);
  if(p==='new')return newThread(el);
@@ -179,6 +180,14 @@ function goNext(){const n=sessionStorage.getItem('bgd_next')||'';sessionStorage.
  location.hash=n==='mock'?'#/forum/new?mock=1':n.startsWith('grade')?'#/forum/'+n.replace(':','/'):n.startsWith('thread')?'#/forum/'+n.replace(':','/'):n==='pickem'||n==='trivia'?'#/forum/'+n:'#/forum';}
 function needSignIn(next){sessionStorage.setItem('bgd_next',next);location.hash='#/forum/join';}
 
+async function claimView(el,tok){
+ el.innerHTML=`<form class="fx-form" id="fx-claim" novalidate><h2>Claim the owner account</h2><p class="fine">This private one-time link sets the password for the site owner account. It works once and expires 7 days after it was made.</p>
+  <label for="c-e">Email for the account <small>never shown publicly</small></label><input id="c-e" name="email" type="email" autocomplete="email" value="blackandgolddispatch@gmail.com">
+  <label for="c-p">New password <small>10+ characters</small></label><div class="fx-pw"><input id="c-p" name="password" type="password" autocomplete="new-password" minlength="10"><button type="button" class="pw-t">Show</button></div>
+  <p class="fx-err" role="alert"></p><button class="fx-btn" type="submit" style="width:100%">Set password and sign in</button></form>`;
+ const f=$('fx-claim');f.querySelector('.pw-t').onclick=e=>{const i=$('c-p');i.type=i.type==='password'?'text':'password';e.target.textContent=i.type==='password'?'Show':'Hide';};
+ f.onsubmit=async e=>{e.preventDefault();const b=f.querySelector('button[type=submit]');b.disabled=true;const d=await api('auth/claim',{body:{token:tok,email:$('c-e').value,password:$('c-p').value}});b.disabled=false;
+  if(!d.ok){f.querySelector('.fx-err').textContent=d.error;return;}S.me=d.user;head();location.replace('#/forum/mod');toast('Welcome, '+d.user.display_name+'! You are signed in as the owner. This is your Mod queue.');};}
 async function profile(el){if(!S.me){location.hash='#/forum/signin';return;}const fl=await flairs();
  el.innerHTML=`<p><a class="back" href="#/forum">← Forum</a></p><form class="fx-form" id="fx-prof"><h2>Your profile</h2><div style="display:flex;gap:14px;align-items:center">${av(S.me.avatar,S.me.display_name,S.me.id,S.me.av_v,'lg',S.me.av_pending)}<p class="fine" style="margin:0">Signed in as <b>${E(S.me.username)}</b>${S.me.role!=='user'?' · '+roleTag(S.me.role):''}<br><b>${rank(S.me.posts||0)}</b> · ${S.me.posts||0} posts · Joined ${joined(S.me.joined)}${S.me.av_pending?'<br><span class="fx-pend">Your new picture is waiting for a moderator. Only you can see it for now.</span>':''}</p></div>
  <label for="p-d">Display name</label><input id="p-d" name="display_name" type="text" maxlength="30" value="${E(S.me.display_name)}">
@@ -311,11 +320,14 @@ async function gamedayTab(el){el.innerHTML=tabs('gameday')+'<p class="empty">Loa
 
 // ---------- Moderator queue ----------
 async function modView(el){el.innerHTML=tabs('mod')+'<p class="empty">Loading reports…</p>';const d=await api('mod/reports');if(!d.ok){el.innerHTML=tabs('mod')+`<p class="fx-err">${E(d.error)}</p>`;return;}
- const pq=await api('mod/avatars');
- el.innerHTML=tabs('mod')+`<h2 class="section-title">Pictures waiting for approval</h2>${pq.ok&&pq.pending.length?`<div class="fx-avq">${pq.pending.map(u=>`<div class="c" data-u="${u.id}"><img src="/api/avatar/${u.id}?pending=1&t=${Date.now()}" alt="Pending picture from ${E(u.display_name)}"><p><b>${E(u.display_name)}</b> <small>@${E(u.username)}${u.strikes?' · '+u.strikes+' strike'+(u.strikes>1?'s':''):''}</small></p><div class="b"><button type="button" class="fx-btn avq" data-a="approve">✓ Approve</button><button type="button" class="fx-btn dark avq" data-a="reject">✕ Reject</button></div></div>`).join('')}</div>`:'<p class="box">No pictures waiting. 👍</p>'}
+ const pq=await api('mod/avatars');const own=S.me.role==='owner';const mq=own?await api('mod/messages'):null;const MS=mq&&mq.ok?mq.messages:[];
+ el.innerHTML=tabs('mod')+`${own?`<h2 class="section-title">Messages <small>(Contact &amp; Suggestions${MS.filter(m=>!m.read).length?' · '+MS.filter(m=>!m.read).length+' new':''})</small></h2>${MS.length?MS.map(m=>`<div class="fx-post fx-msg${m.read?' hid':''}" data-m="${m.id}"><div class="who"><b>${E(m.topic)}</b><small>${E(m.name||'Anonymous')}${m.email?` · <a href="mailto:${E(m.email)}?subject=${encodeURIComponent('Re: your message to Black & Gold Dispatch')}">${E(m.email)}</a>`:' · no email'} · ${ago(m.created)}${m.read?'':' · <b>NEW</b>'}</small></div><div class="tx">${E(m.body)}</div>
+ <div class="fx-rx"><button type="button" class="fx-btn sm msq" data-a="${m.read?'unread':'read'}">${m.read?'Mark unread':'✓ Mark read'}</button><button type="button" class="fx-btn ghost sm msq" data-a="delete">Delete</button></div></div>`).join(''):'<p class="box">No messages yet.</p>'}`:''}
+ <h2 class="section-title">Pictures waiting for approval</h2>${pq.ok&&pq.pending.length?`<div class="fx-avq">${pq.pending.map(u=>`<div class="c" data-u="${u.id}"><img src="/api/avatar/${u.id}?pending=1&t=${Date.now()}" alt="Pending picture from ${E(u.display_name)}"><p><b>${E(u.display_name)}</b> <small>@${E(u.username)}${u.strikes?' · '+u.strikes+' strike'+(u.strikes>1?'s':''):''}</small></p><div class="b"><button type="button" class="fx-btn avq" data-a="approve">✓ Approve</button><button type="button" class="fx-btn dark avq" data-a="reject">✕ Reject</button></div></div>`).join('')}</div>`:'<p class="box">No pictures waiting. 👍</p>'}
  <h2 class="section-title">Reported posts</h2>${d.reports.length?d.reports.map(r=>`<div class="fx-post${r.hidden?' hid':''}" data-id="${r.post_id}"><div class="who"><b>${E(r.author)}</b><small>in <a href="#/forum/thread/${r.thread_id}">${E(r.title)}</a> · ${r.reports} report${r.reports>1?'s':''}: ${E(r.reasons||'')}</small></div><div class="tx">${fmtBody(r.body)}</div>
  <div class="fx-rx"><button type="button" class="fx-btn sm qm" data-a="${r.hidden?'unhide':'hide'}">${r.hidden?'Unhide':'Hide'}</button><button type="button" class="fx-btn ghost sm qm" data-a="delete">Delete</button><button type="button" class="fx-btn ghost sm qm" data-a="dismiss">Dismiss</button><button type="button" class="fx-btn dark sm qb" data-u="${E(r.author)}">Ban user</button>${r.author_av==='u'?`<button type="button" class="fx-btn ghost sm qav" data-u="${r.author_id}">Remove picture</button>`:''}</div></div>`).join(''):'<p class="box">No open reports. 👍</p>'}
  ${S.me.role==='owner'?`<form class="fx-form" id="fx-role" style="margin-top:16px"><h3>Moderators</h3><label for="r-u">Username</label><input id="r-u" name="username" type="text"><p><button class="fx-btn sm" name="role" value="mod">Make moderator</button> <button class="fx-btn ghost sm" name="role" value="user">Remove moderator</button></p><p class="fx-err"></p></form>`:''}`;
+ el.querySelectorAll('.msq').forEach(b=>b.onclick=async()=>{if(b.dataset.a==='delete'&&!confirm('Delete this message?'))return;const d=await api('mod/message',{body:{id:+b.closest('.fx-msg').dataset.m,action:b.dataset.a}});if(!d.ok){toast(d.error);return;}modView(el);});
  el.querySelectorAll('.avq').forEach(b=>b.onclick=async()=>{const c=b.closest('.c');b.disabled=true;const d=await api('mod/avatar',{body:{user_id:+c.dataset.u,action:b.dataset.a}});if(!d.ok){toast(d.error);b.disabled=false;return;}c.remove();});
  el.querySelectorAll('.qav').forEach(b=>b.onclick=async()=>{const d=await api('mod/avatar',{body:{user_id:+b.dataset.u,action:'remove',strike:true}});toast(d.ok?'Picture removed.':d.error);});
  el.querySelectorAll('.qm').forEach(b=>b.onclick=async()=>{const d=await api('mod/post',{body:{post_id:+b.closest('.fx-post').dataset.id,action:b.dataset.a}});if(!d.ok)toast(d.error);modView(el);});
@@ -383,6 +395,7 @@ function onRoute(v){if(v==='play'){location.replace('#/forum/pickem');return;}
  if(v!=='forum')stopPolls();if(v==='forum')render();if(v==='heatmap')setTimeout(heatAvg,300);if(v==='boxscore')setTimeout(boxAvg,300);if(v==='home')homeLink();}
 document.addEventListener('route',e=>onRoute(e.detail));
 const hb=()=>{const h=$('heat-body');if(h)new MutationObserver(()=>{if(!location.hash.match(/heatmap|grades/))return;clearTimeout(S.hmT);S.hmT=setTimeout(heatAvg,250);}).observe(h,{childList:true});};
+const claimHop=()=>{const m=location.hash.match(/^#\/claim\/([0-9a-f]{48,128})/);if(m)location.replace('#/forum/claim/'+m[1]);};claimHop();addEventListener('hashchange',claimHop);
 probe().then(()=>{head();const v=(location.hash.replace(/^#\/?/,'').split(/[/?]/)[0])||'home';if(v==='play')location.replace('#/forum/pickem');
  if(v==='forum')render();if(/heatmap|grades/.test(v))heatAvg();if(v==='boxscore')boxAvg();if(v==='home')homeLink();hb();});
 })();

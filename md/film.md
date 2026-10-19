@@ -1,8 +1,9 @@
 # Steelers Film Room & Previews
 
-_Generated 2026-10-19T19:04:36+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T19:04:23+00:00._
+_Generated 2026-10-19T19:26:10+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T19:25:28+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/film.json_
 
+- Breakdown (at Tampa Bay Buccaneers (Oct 18)): [Steelers' QB Grades vs Bucs](https://www.youtube.com/shorts/fJ6q0C9RHys): Steelers Almighty, 2026-10-19 19:18 UTC
 - Breakdown (at Tampa Bay Buccaneers (Oct 18)): [Ugly Win in Tampa: Grading Every Steelers Unit After the OT Thriller | REPORT CARD | Week 6](https://www.youtube.com/watch?v=7rJt8I0UKLI): Steelers Almighty, 2026-10-19 18:00 UTC
 - Breakdown (at Tampa Bay Buccaneers (Oct 18)): [Film Room: Jalen Ramsey Calls Game To Beat Buccaneers](https://steelersdepot.com/2026/10/film-room-jalen-ramsey-calls-game-to-beat-buccaneers/): Alex Kozora (Steelers Depot), 2026-10-19 12:30 UTC
 - Breakdown (at Tampa Bay Buccaneers (Oct 18)): [Saunders’ Steelers Takeaways: Mike McCarthy Was Supposed to be Better Than This, But Give Credit Where It’s Due](https://steelersnow.com/saunders-steelers-takeaways-mike-mccarthy-was-supposed-to-be-better-than-this-but-give-credit-where-its-due/): Steelers Now, 2026-10-19 12:05 UTC

@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-19T19:04:36+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T19:04:28+00:00._
+_Generated 2026-10-19T19:26:10+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T19:25:33+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Coach McCarthy Press Conference (Week 7 at New Orleans Saints) | Pittsburgh Steelers](https://www.youtube.com/watch?v=M2zs_f3U6tQ): Pittsburgh Steelers (official), 2026-10-19 18:46 UTC
@@ -157,7 +157,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [The Terrible Take - Episode 2048 - October 12, 2026](https://megaphone.link/SDP2183324709): The Terrible Podcast (Steelers Depot), 2026-10-12 21:00 UTC
 - Podcast: [Drive10.12.26Hr2: Around the NFL Week 5](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-12-26hr2-mp3): SNR Drive, 2026-10-12 21:00 UTC
 - Podcast: [Drive10.12.26King: Rob King on Colts Win](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-12-26king-mp3): SNR Drive, 2026-10-12 20:00 UTC
-- Video: [Steelers somewhat "cleaned their house" in 34-22 win over Colts](https://www.youtube.com/watch?v=zVx3ZLnPY-0): Steel City Underground, 2026-10-12 19:12 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
