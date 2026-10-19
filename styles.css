@@ -398,6 +398,7 @@ nav .more a{color:#fff}nav .more a[aria-current]{color:var(--gold)}
 @media(max-width:600px){.rr-t .c-height,.rr-t .c-weight,.rr-t .c-age,.rr-t .c-college{display:none}.rr-t{font-size:.86rem}}
 .rr-card{max-width:760px}.rr-card h3{margin:16px 0 6px;font-size:1rem}
 .rr-bio{display:grid;grid-template-columns:repeat(auto-fill,minmax(110px,1fr));gap:8px;margin:10px 0}.rr-bio div{background:#f6f6f6;border-radius:8px;padding:6px 8px}.rr-bio dt{font-size:.68rem;text-transform:uppercase;color:#5e5e5e;font-weight:800}.rr-bio dd{margin:0;font-weight:700}
+.rr-social{margin:-2px 0 8px}.rr-x{display:inline-block;font-weight:800;font-size:.9rem;color:#111;background:#f6f6f6;border:1px solid #ddd;border-radius:999px;padding:5px 12px;text-decoration:none;min-height:32px;line-height:20px}.rr-x:hover,.rr-x:focus{background:var(--gold);border-color:var(--gold)}
 .rr-take{background:#fff3cf;border-left:4px solid var(--gold);border-radius:6px;padding:8px 12px;margin:12px 0}.rr-take p{margin:4px 0 0}
 .rr-career{margin:0;padding-left:18px}.rr-st-t{border-collapse:collapse;font-size:.82rem;width:100%;white-space:nowrap}.rr-st-t th{background:#111;color:var(--gold);padding:5px 6px;text-align:right}.rr-st-t td{padding:5px 6px;border-bottom:1px solid #eee;text-align:right}
 .rr-st-t th:nth-child(-n+2),.rr-st-t td:nth-child(-n+2){text-align:left}.rr-none{color:#5e5e5e;font-style:italic}

@@ -14,7 +14,11 @@ document.addEventListener('click',e=>{const b=e.target.closest('.view[data-view=
 document.addEventListener('route',e=>{if(e.detail!=='roster')return;const m=location.hash.match(/tab=(\w+)/);tab(m&&['depth','ps','roster'].includes(m[1])?m[1]:'depth',true);});
 // ---- data ----
 function load(){if(R)return Promise.resolve(R);return fetch(BGD_url('data/roster/roster.json'),{cache:'no-store'}).then(r=>r.json()).then(j=>{R=j;renderPS();renderRoster();return R;}).catch(()=>{const t='<p class="empty">Roster data is not available right now.</p>';$('ps-body').innerHTML=t;$('roster-body').innerHTML=t;});}
-function loadP(){return pReady||(pReady=fetch(BGD_url('data/roster/players.json'),{cache:'no-store'}).then(r=>r.json()).then(j=>P=j.players));}
+let SOC={};
+function loadP(){return pReady||(pReady=Promise.all([fetch(BGD_url('data/roster/players.json'),{cache:'no-store'}).then(r=>r.json()).then(j=>P=j.players),
+ fetch(BGD_url('data/player_socials.json'),{cache:'no-store'}).then(r=>r.ok?r.json():{}).then(j=>{SOC=(j&&j.players)||{};}).catch(()=>{})]));}
+// Player's own X account (verified list in data/player_socials.json). Plain text, no logos; opens in a new tab so the site stays open.
+const xl=id=>{const s=SOC[id];if(!s||s.active===false||!/^\w{1,15}$/.test(s.handle||''))return'';return`<p class="rr-social"><a class="rr-x ext-native" data-native="1" href="https://x.com/${E(s.handle)}" target="_blank" rel="noopener" aria-label="${E(s.name||'')} on X (opens in a new tab)">X: @${E(s.handle)}</a></p>`;};
 const asof=()=>`<p class="fine">nflverse roster data through Week ${R.nflverse_week} of ${R.season} (file updated ${new Date(R.nflverse_file_updated).toLocaleString('en-US',{timeZone:'America/New_York',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})} ET). Same-day signings and IR moves can take a day or two to show up. Tap a player for his card.</p>`;
 const nb=x=>x.num?'#'+E(x.num):'—';
 function renderPS(){if(!R)return;const ps=R.players.filter(p=>p.group==='Practice squad').sort((a,b)=>(+a.num||999)-(+b.num||999));
@@ -60,7 +64,7 @@ function career(p){const segs=[];p.career.forEach(c=>{const t=c.teams.join('/');
  return segs.length?`<ul class="rr-career">${segs.map(s=>`<li><b>${s.a===s.b?s.a:s.a+'–'+s.b}</b> ${s.t.split('/').map(tn).map(E).join(' / ')}</li>`).join('')}</ul>${p.joined_pit?`<p>Joined the Steelers: <b>${p.joined_pit}</b> season</p>`:''}`:'<p>No NFL roster history in nflverse yet.</p>';}
 const bd=b=>b?new Date(b+'T12:00:00').toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'}):'';
 function card(p){return`<div class="dr-modal rr-modal" role="dialog" aria-modal="true" aria-label="${E(p.name)}"><div class="dr-card rr-card"><button class="dr-x" type="button" aria-label="Close">✕</button>
- <p class="kind">${E(p.group)}${p.status!==p.group?' · '+E(p.status):''}</p><h2>${p.num?'#'+E(p.num)+' ':''}${E(p.name)}</h2>
+ <p class="kind">${E(p.group)}${p.status!==p.group?' · '+E(p.status):''}</p><h2>${p.num?'#'+E(p.num)+' ':''}${E(p.name)}</h2>${xl(p.id)}
  <dl class="rr-bio"><div><dt>Position</dt><dd>${E(p.pos)}</dd></div><div><dt>Height</dt><dd>${E(p.height)||'–'}</dd></div><div><dt>Weight</dt><dd>${p.weight?p.weight+' lb':'–'}</dd></div><div><dt>Age</dt><dd>${p.age??'–'}</dd></div><div><dt>Born</dt><dd>${bd(p.birthdate)||'–'}</dd></div><div><dt>College</dt><dd>${E(p.college)||'–'}</dd></div><div><dt>NFL exp.</dt><dd>${p.exp===0?'Rookie':p.exp+' yr'+(p.exp>1?'s':'')}</dd></div><div><dt>Rookie year</dt><dd>${p.rookie_year||'–'}</dd></div></dl>
  <h3>How he entered the league</h3><p>${entry(p.entry)}</p>
  <div class="rr-take"><b>Our take</b><p>${E(p.take)}</p></div>
