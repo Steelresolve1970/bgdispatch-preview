@@ -1,6 +1,6 @@
 # NFL Insider Posts (last 3 days)
 
-_Generated 2026-10-19T03:21:04+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T03:20:00+00:00._
+_Generated 2026-10-19T03:32:16+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-19T03:31:11+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/insiders.json_
 
 - [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3my6rl4l63k2a), 2026-10-18 23:37 UTC: @rapsheet.bsky.social posted about NFL news.
