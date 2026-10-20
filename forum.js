@@ -284,7 +284,7 @@ async function pull(mineJustPosted){const T=S.thread;if(!T)return;const was=inne
 function toast(m){const t=document.createElement('div');t.className='fx-modal';t.innerHTML=`<div class="in" role="alertdialog"><p><b>${E(m)}</b></p><button class="fx-btn" type="button" style="width:100%">OK</button></div>`;document.body.appendChild(t);t.querySelector('button').onclick=()=>t.remove();t.onclick=e=>{if(e.target===t)t.remove();};}
 // live score at the top of game threads (our box score + live data; refreshed every 30s while the game is on)
 async function liveScore(g,kind){const el=$('fx-score');if(!el)return;let live=null,box=null,sched=null;
- try{[live,sched]=await Promise.all([getJ('data/live.json').catch(()=>null),getJ('data/schedule.json').catch(()=>null)]);}catch(e){}
+ try{[live,sched]=await Promise.all([fetch('/api/live',{cache:'no-store'}).then(r=>r.ok?r.json():Promise.reject()).catch(()=>getJ('data/live.json')).catch(()=>null),getJ('data/schedule.json').catch(()=>null)]);}catch(e){}
  const sg=sched&&sched.games.find(x=>(x.nflverse_id||x.id)===(g.nflverse_id||g.id))||g;
  const onNow=live&&String(live.event_id)===String(sg.id)&&live.teams;
  if(sg.completed){try{box=await getJ(`data/boxscores/${sg.nflverse_id}.json`);}catch(e){}}

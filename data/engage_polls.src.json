@@ -1,0 +1,30 @@
+{
+ "_help": "Source list for the weekly fan poll. build_engage.py checks every choice (players against the roster, opponents against the schedule) and writes data/engage_polls.json. Week 1 of the rotation starts on epoch_monday.",
+ "epoch_monday": "2026-10-19",
+ "questions": [
+  {"id": "best-player-so-far", "q": "Who has been the Steelers' best player so far this season?", "choices": [
+   {"type": "player", "label": "T.J. Watt"}, {"type": "player", "label": "Aaron Rodgers"}, {"type": "player", "label": "Jaylen Warren"}, {"type": "player", "label": "Payton Wilson"}]},
+  {"id": "best-win-so-far", "q": "Which win has been the most impressive so far?", "choices": [
+   {"type": "win", "label": "Week 1: vs Atlanta Falcons, 20-13"}, {"type": "win", "label": "Week 3: vs Cincinnati Bengals, 30-27"}, {"type": "win", "label": "Week 5: vs Indianapolis Colts, 34-22"}, {"type": "win", "label": "Week 6: at Tampa Bay Buccaneers, 26-19"}]},
+  {"id": "top-defender", "q": "Who has been the best player on defense so far?", "choices": [
+   {"type": "player", "label": "T.J. Watt"}, {"type": "player", "label": "Payton Wilson"}, {"type": "player", "label": "Jalen Ramsey"}, {"type": "player", "label": "Jamel Dean"}]},
+  {"id": "final-record", "q": "Where will the Steelers finish the regular season?", "choices": [
+   {"label": "12 wins or more"}, {"label": "10 or 11 wins"}, {"label": "8 or 9 wins"}, {"label": "7 wins or fewer"}]},
+  {"id": "top-rookie", "q": "Which rookie has impressed you most so far?", "choices": [
+   {"type": "rookie", "label": "Germie Bernard"}, {"type": "rookie", "label": "Robert Spears-Jennings"}, {"type": "rookie", "label": "Daylen Everette"}, {"type": "rookie", "label": "Kaden Wetjen"}]},
+  {"id": "toughest-left", "q": "Which game left on the schedule looks toughest?", "choices": [
+   {"type": "opponent", "opp": "Philadelphia Eagles", "label": "Week 11 at Philadelphia Eagles"}, {"type": "opponent", "opp": "Houston Texans", "label": "Week 13 vs Houston Texans"}, {"type": "opponent", "opp": "Baltimore Ravens", "label": "Week 15 vs Baltimore Ravens"}, {"type": "opponent", "opp": "Baltimore Ravens", "label": "Week 18 at Baltimore Ravens"}]},
+  {"id": "top-target", "q": "Who will lead the team in receiving yards this season?", "choices": [
+   {"type": "player", "label": "DK Metcalf"}, {"type": "player", "label": "Germie Bernard"}, {"type": "player", "label": "Pat Freiermuth"}, {"type": "player", "label": "Darnell Washington"}]},
+  {"id": "fix-first", "q": "What should the team improve most over the second half?", "choices": [
+   {"label": "Running the ball"}, {"label": "Depth at receiver"}, {"label": "Pass defense"}, {"label": "Red-zone scoring"}]},
+  {"id": "afc-north", "q": "Will the Steelers win the AFC North this season?", "choices": [
+   {"label": "Yes, and comfortably"}, {"label": "Yes, but it will come down to the last weeks"}, {"label": "No, but they make the playoffs"}, {"label": "No playoffs this year"}]},
+  {"id": "grade-offense", "q": "What grade would you give the offense so far?", "choices": [
+   {"label": "A"}, {"label": "B"}, {"label": "C"}, {"label": "D or worse"}]},
+  {"id": "grade-defense", "q": "What grade would you give the defense so far?", "choices": [
+   {"label": "A"}, {"label": "B"}, {"label": "C"}, {"label": "D or worse"}]},
+  {"id": "pass-rush", "q": "Who will finish the season with the most sacks on the team?", "choices": [
+   {"type": "player", "label": "T.J. Watt"}, {"type": "player", "label": "Alex Highsmith"}, {"type": "player", "label": "Nick Herbig"}, {"type": "player", "label": "Jalen Ramsey"}]}
+ ]
+}

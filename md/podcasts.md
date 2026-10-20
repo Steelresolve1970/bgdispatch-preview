@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-20T03:28:55+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T03:28:40+00:00._
+_Generated 2026-10-20T03:40:35+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T03:40:20+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [Steelers Hangover: Trajectory Win! Steelers Beat Tampa Bay 26-19 in OT](http://steelcurtainnetwork.com): Steel Curtain Network (BTSC), 2026-10-20 02:14 UTC
@@ -114,50 +114,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [DK's Daily Shot of Pirates: What'll change now?](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-pirates-whatll-change-now/): DK Pittsburgh Sports, 2026-10-15 05:29 UTC
 - Podcast: [Scout’s Eye with Matt Williamson: The Offensive Player of the Week](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/scouts-eye-with-matt-williamson-the-offensive-player-of-the-week/): DK Pittsburgh Sports, 2026-10-15 05:28 UTC
 - Podcast: [SteelersFor7Podcast Ep. 210: Black & Gold Showdown | Steelers Trivia, Games & Heated Debates](https://podcasters.spotify.com/pod/show/steelersfor7podcast/episodes/SteelersFor7Podcast-Ep--210-Black--Gold-Showdown--Steelers-Trivia--Games--Heated-Debates-e3qhino): Steelers for 7 Podcast, 2026-10-15 04:55 UTC
-- Podcast: [Steelers Crazy #299 - Bucs vs Steelers Preview](https://anchor.fm/the-sick-podcast---steelers-crazy): The Sick Podcast - Steelers Crazy, 2026-10-15 01:32 UTC
-- Podcast: [DK's Double Shot of Steelers: Practice updates!](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-double-shot-of-steelers-practice-updates/): DK Pittsburgh Sports, 2026-10-14 22:23 UTC
-- Podcast: [DK's Double Shot of Penguins: ‘Disappointing’ sounds right](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-double-shot-of-penguins-disappointing-sounds-right/): DK Pittsburgh Sports, 2026-10-14 22:20 UTC
-- Podcast: [Insider Gives Steelers 5 WR Trades](https://bleav.com/shows/all-steelers-talk/episodes/insider-gives-steelers-5-wr-trades/): All Steelers Talk, 2026-10-14 21:13 UTC
-- Podcast: [The Terrible Take - Episode 2050 - October 14, 2026](https://megaphone.link/SDP8795893783): The Terrible Podcast (Steelers Depot), 2026-10-14 21:00 UTC
-- Podcast: [Steelers offense MUST adapt after WR injuries | Steelers vs. Buccaneers Week 6 Preview](https://redcircle.com/shows/62750d24-c3c9-4be8-919a-ff22b312fb19/episodes/ee2d37b8-0a10-4abe-828b-7af2efd47103): Still Curtain Podcast, 2026-10-14 20:33 UTC
-- Video: [Steelers' Elandon Roberts Excited to Be Back w/Patrick Queen/Payton Wilson | Says 'No Hard Feelings'](https://www.youtube.com/shorts/-S83od0Ep08): Locked On Steelers, 2026-10-14 20:11 UTC
-- Podcast: [Drive10.14.26Hr1: Scouting the Bucs](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-14-26hr1-mp3): SNR Drive, 2026-10-14 20:00 UTC
-- Podcast: [Drive10.14.26Hr2: Around Campus](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-14-26hr2-mp3): SNR Drive, 2026-10-14 19:00 UTC
-- Podcast: [Drive10.14.26DeFabo: Mike DeFabo on Tampa Trip](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-14-26defabo-mp3): SNR Drive, 2026-10-14 18:01 UTC
-- Podcast: [The Terrible Podcast — Steelers Vs. Colts All-22 Review, McCarthy Monday Recap, Week 6 WR Issues & More](https://megaphone.link/SDP8459223480): The Terrible Podcast (Steelers Depot), 2026-10-14 16:28 UTC
-- Podcast: [Steelers Have Two Problems - Big Ones](https://bleav.com/shows/all-steelers-talk/episodes/steelers-have-two-problems-big-ones/): All Steelers Talk, 2026-10-14 16:06 UTC
-- Podcast: [Hour 1: How Good are They Actually?](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-101426-mp3): Steelers Blitz, 2026-10-14 16:00 UTC
-- Video: [Reacting to the football in “All American” 😭😂🏈 #football #nfl #allamerican](https://www.youtube.com/shorts/WFwzDMia5wI): Not Just Football with Cam Heyward, 2026-10-14 15:12 UTC
-- Podcast: [Hour 2: Power Rankings](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr2-101426-mp3): Steelers Blitz, 2026-10-14 15:00 UTC
-- Podcast: [Steelers Star Might Fix Entire Defense](https://bleav.com/shows/all-steelers-talk/episodes/steelers-star-might-fix-entire-defense/): All Steelers Talk, 2026-10-14 12:24 UTC
-- Video: [Steelers Beat Colts, Bucs Preview, Commanders Game Debate & GOAT Denzel Movie | Not Just Football](https://www.youtube.com/watch?v=CpS4d9Kp7lY): Not Just Football with Cam Heyward, 2026-10-14 10:00 UTC
-- Podcast: [DK's Daily Shot of Steelers: Wide receiver alarm?](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-steelers-wide-receiver-alarm/): DK Pittsburgh Sports, 2026-10-14 05:29 UTC
-- Podcast: [DK's Daily Shot of Penguins: Not just a bad goal](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-penguins-not-just-a-bad-goal/): DK Pittsburgh Sports, 2026-10-14 05:28 UTC
-- Podcast: [DK's Daily Shot of Pirates: More player freedom](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-pirates-more-player-freedom/): DK Pittsburgh Sports, 2026-10-14 05:27 UTC
-- Podcast: [Scout’s Eye with Matt Williamson: A Pro Bowl-caliber right tackle](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/scouts-eye-with-matt-williamson-a-pro-bowl-caliber-right-tackle/): DK Pittsburgh Sports, 2026-10-14 05:26 UTC
-- Video: [Steelers' Top Strength Not its Pass Rush Anymore? | Mike McCarthy's Balance Frees Up Jaylen Warren](https://www.youtube.com/watch?v=f8omseVHBOw): Locked On Steelers, 2026-10-14 04:00 UTC
-- Podcast: [Jaylen Warren is the Steelers’ engine. Can Pittsburgh’s offense travel?](http://www.pennlive.com/steelers/): Steelers Breakdown (PennLive, Nick Farabaugh), 2026-10-14 01:22 UTC
-- Video: [The Steelers Can’t FULLY Rely on Jaylen Warren 🚨 #steelers #Jaylenwarren #nfl](https://www.youtube.com/shorts/pkyqtPUj2fM): Locked On Steelers, 2026-10-14 00:32 UTC
-- Podcast: [DK’s Double Shot of Steelers: Is the offense real?](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-double-shot-of-steelers-is-the-offense-real/): DK Pittsburgh Sports, 2026-10-13 22:27 UTC
-- Podcast: [DK's Double Shot of Penguins: On to Chicago!](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-double-shot-of-penguins-on-to-chicago/): DK Pittsburgh Sports, 2026-10-13 22:19 UTC
-- Podcast: [We Learned More From The Red Zone Than The Scoreboard Ep 143](https://footbahlinwithben.buzzsprout.com): Footbahlin with Ben Roethlisberger, 2026-10-13 22:00 UTC
-- Podcast: [Steelers Prepping for LB Trade?](https://bleav.com/shows/all-steelers-talk/episodes/steelers-prepping-for-lb-trade/): All Steelers Talk, 2026-10-13 21:16 UTC
-- Podcast: [The Terrible Take - Episode 2049 - October 13, 2026](https://megaphone.link/SDP6944403915): The Terrible Podcast (Steelers Depot), 2026-10-13 21:00 UTC
-- Podcast: [Drive10.13.26Hr1: Rookie Class Rising](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-13-26hr1-mp3): SNR Drive, 2026-10-13 20:01 UTC
-- Podcast: [Drive10.13.26Hr2: Fantasy Football Focus, Power Rankings](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-13-26hr2-mp3): SNR Drive, 2026-10-13 20:00 UTC
-- Podcast: [Drive10.13.26PowerRankings: Week 6 Power Rankings](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-13-26powerrankings-mp3-1): SNR Drive, 2026-10-13 19:01 UTC
-- Podcast: [Pittsburgh Steelers Feeling Good Heading Into Week 6 - Around The NFL](https://arthurmoats55.libsyn.com/steelers_feeling_good_heading_into_week_6_-_around_the_nflmp3): The Arthur Moats Experience, 2026-10-13 17:47 UTC
-- Podcast: [Hour 1: Player Developments + Mike McCarthy Tuesdays](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-101326-mp3): Steelers Blitz, 2026-10-13 16:00 UTC
-- Podcast: [SteelersFor7Podcast Ep. 209 | HISTORY MADE! Steelers Beat Colts 34-22 | Victory Recap & Analysis](https://podcasters.spotify.com/pod/show/steelersfor7podcast/episodes/SteelersFor7Podcast-Ep--209--HISTORY-MADE--Steelers-Beat-Colts-34-22--Victory-Recap--Analysis-e3qek96): Steelers for 7 Podcast, 2026-10-13 15:19 UTC
-- Podcast: [Hour 2: NFL Playoff Picture + Monday Night Football Breakdown](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/hour-2-nfl-playoff-picture-monday-night-football-breakdown): Steelers Blitz, 2026-10-13 15:00 UTC
-- Podcast: [Two WRs Steelers Can Poach From Other Teams](https://bleav.com/shows/all-steelers-talk/episodes/two-wrs-steelers-can-poach-from-other-teams/): All Steelers Talk, 2026-10-13 13:49 UTC
-- Podcast: [Steelers Need to Hurry For JuJu Smith-Schuster](https://bleav.com/shows/all-steelers-talk/episodes/steelers-need-to-hurry-for-juju-smith-schuster/): All Steelers Talk, 2026-10-13 12:23 UTC
-- Video: [Steelers Offense Shines, But Can They Keep It Up? | Illegal Hands to the Face](https://www.youtube.com/watch?v=DLx9iWbGw3A): Still Curtain Podcast, 2026-10-13 06:50 UTC
-- Video: [Steelers Debate: Jaylen Warren a Top 5 RB | Asante Samuel Jr. Steps Up | Young DL Stout Run Stuffers](https://www.youtube.com/watch?v=r0yBFrhkfv4): Locked On Steelers, 2026-10-13 06:30 UTC
-- Podcast: [DK's Daily Shot of Steelers: 'Featured player' at last!](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-steelers-featured-player-at-last/): DK Pittsburgh Sports, 2026-10-13 06:10 UTC
-- Podcast: [DK's Daily Shot of Penguins: The goaltending rotation](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-penguins-the-goaltending-rotation/): DK Pittsburgh Sports, 2026-10-13 06:09 UTC
-- Podcast: [DK's Daily Shot of Pirates: Pay more to more players](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-pirates-pay-more-to-more-players/): DK Pittsburgh Sports, 2026-10-13 06:08 UTC
-- Podcast: [Scout’s Eye with Matt Williamson: Exceptional red zone defense](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/scouts-eye-with-matt-williamson-exceptional-red-zone-defense/): DK Pittsburgh Sports, 2026-10-13 06:07 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

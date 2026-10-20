@@ -66,7 +66,7 @@ function setupHTML(){const ts=[...S.order.order].sort((a,b)=>a.name.localeCompar
  <p><b>Rounds</b></p><div class="chips">${[1,2,3,4,5,6,7].map(n=>`<button type="button" class="chip dr-rounds${S.rounds===n?' on':''}" data-n="${n}">${n}</button>`).join('')}</div>
  <p><b>CPU randomness</b>: <span id="drRandV">${S.rand}</span>/10 <small>(0 = sticks to our board, 10 = wild)</small></p><input type="range" min="0" max="10" value="${S.rand}" class="dr-rand" aria-label="CPU randomness">
  <p><b>Speed</b></p><div class="chips">${SPEEDS.map(([l,v])=>`<button type="button" class="chip dr-speed${S.speed===v?' on':''}" data-v="${v}">${l}</button>`).join('')}</div>
- ${S.teams.includes('PIT')?`<p><b>Steelers needs</b>: ${needs('PIT').map(E).join(' → ')} <small>(owner's order)</small></p>`:''}
+ ${S.teams.includes('PIT')?`<p><b>Steelers needs</b>: ${needs('PIT').map(E).join(' → ')}</p>`:''}
  <p><button class="btn dr-start" type="button"${S.teams.length?'':' disabled'}>Start draft</button></p></div>`;}
 function boardHTML(){const list=filtered().slice(0,80),on=S.slots[S.cur];const nd=on?needs(on.owner):[];
  const schools=[...new Set(S.avail.map(p=>p.school))].sort();

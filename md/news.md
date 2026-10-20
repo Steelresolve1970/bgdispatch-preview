@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-20T03:28:55+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T03:27:33+00:00._
+_Generated 2026-10-20T03:40:35+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T03:39:08+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Steelers’ belief in rookie class paying early dividends](https://www.altoonamirror.com/sports/local-sports/2026/10/steelers-belief-in-rookie-class-paying-early-dividends/): Altoona Mirror, 2026-10-20 03:08 UTC
@@ -30,10 +30,10 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers Afternoon Drive: Will Bernard Breakout Blow Up WR Plans?](https://steelersnow.com/steelers-afternoon-drive-will-bernard-breakout-blow-up-wr-plans/): Steelers Now, 2026-10-19 22:34 UTC
 - [Steelers' Jamel Dean Admits Rocky Sideline Energy Before Critical Comeback Against Buccaneers](https://www.steelernation.com/2026/10/19/steelers-jamel-dean-critical-comeback): SteelerNation, 2026-10-19 22:34 UTC
 - [‘Brian Thomas Jr. Needs To Be A Steeler’: Trai Essex Wants Pittsburgh To Trade For Jaguars WR](https://steelersdepot.com/2026/10/brian-thomas-jr-needs-to-be-a-steeler-trai-essex-wants-pittsburgh-to-trade-for-jaguars-wr/): Steelers Depot, 2026-10-19 22:30 UTC
+- [Steelers' belief in their massive rookie class is paying early dividends](https://www.oskaloosa.com/sports/national_sports/steelers-belief-in-their-massive-rookie-class-is-paying-early-dividends/article_fc1c1f6b-e41b-5d7d-9d0c-25853b546e9f.html): Oskaloosa Herald, 2026-10-19 21:41 UTC
 - [Listen: The Terrible Take (Episode 2,055)](https://steelersdepot.com/2026/10/listen-the-terrible-take-episode-2055/): Steelers Depot, 2026-10-19 21:30 UTC
 - [Steelers’ Mike McCarthy defends play-calling after Jamel Dean interception](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176579/steelers-mike-mccarthy-defends-play-calling-after-jamel-dean-interception): Behind the Steel Curtain, 2026-10-19 21:30 UTC
 - [Playmaking Jalen Ramsey has maybe his best game with Steelers in win vs. Bucs](https://triblive.com/sports/playmaking-jalen-ramsey-has-maybe-his-best-game-with-steelers-in-win-vs-bucs/): TribLive, 2026-10-19 21:22 UTC
-- [Steelers Insider Offers Blunt Update on Potential JuJu Smith-Schuster Reunion](https://heavy.com/sports/nfl/pittsburgh-steelers/juju-smith-schuster-nfl-news-reunion-kaboly/): Heavy.com, 2026-10-19 21:22 UTC
 - [The protests in France are a ‘continuing conversation’ for the Steelers before their game in Paris](https://www.post-gazette.com/sports/steelers/2026/10/19/steelers-paris-game-france-protests/stories/202610190026): Pittsburgh Post-Gazette, 2026-10-19 21:21 UTC
 - [‘There’s Nobody That Can Stop Him’: Chad Johnson Urges Steelers To Get Darnell Washington ‘Involved More’](https://steelersdepot.com/2026/10/theres-nobody-that-can-stop-him-chad-johnson-urges-steelers-to-get-darnell-washington-involved-more/): Steelers Depot, 2026-10-19 21:15 UTC
 - ['It goes a long way'](https://www.steelers.com/news/it-goes-a-long-way): Steelers.com (official), 2026-10-19 21:00 UTC
@@ -57,7 +57,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [McCarthy Says Rooney, Players Held Meeting With NFL Ahead Of Paris Game Amid Unrest](https://steelersdepot.com/2026/10/mccarthy-says-rooney-players-held-meeting-with-nfl-ahead-of-paris-game-amid-unrest/): Steelers Depot, 2026-10-19 19:34 UTC
 - [Quarterback Aaron Rodgers on Pittsburgh Steelers offense in the second half](https://www.nfl.com/videos/aaron-rodgers-on-steelers-offense-in-the-second-half): NFL.com, 2026-10-19 19:32 UTC
 - [‘Aggressive:’ Steelers Linebacker Praises Patrick Graham For Opening Up Playbook](https://steelersdepot.com/2026/10/aggressive-steelers-linebacker-praises-patrick-graham-for-opening-up-playbook/): Steelers Depot, 2026-10-19 19:15 UTC
-- [Steelers vs Saints picks, predictions, odds for NFL Week 7 game Sunday](https://www.azcentral.com/story/sports/nfl/2026/10/19/pittsburgh-steelers-new-orleans-saints-picks-predictions-odds-nfl-week-7/90426283007/): azcentral.com and The Arizona Republic, 2026-10-19 19:08 UTC
 - [Aaron Rodgers bashes Buccaneers’ poor playing surface: ‘That’s not very safe’](https://www.pennlive.com/steelers/2026/10/aaron-rodgers-doesnt-hold-back-about-the-buccaneers-playing-surface-thats-not-very-safe.html): PennLive (Nick Farabaugh), 2026-10-19 19:07 UTC
 - [‘It Looks Crazy Out There:’ Steelers’ Jaquan Brisker Reacts To Paris Protests](https://steelersdepot.com/2026/10/it-looks-crazy-out-there-steelers-jaquan-brisker-reacts-to-paris-protests/): Steelers Depot, 2026-10-19 19:00 UTC
 - [Steelers' Most Important Defenders Emerge in Week 6 Victory](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-most-important-defenders-emerge-week-6-victory): All Steelers (Sports Illustrated), 2026-10-19 19:00 UTC
@@ -94,6 +93,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Cup of Joe (Starkey): Only the delusional believe Steelers QB Aaron Rodgers is done](https://triblive.com/sports/cup-of-joe-starkey-only-the-delusional-believe-steelers-qb-aaron-rodgers-is-done/): TribLive, 2026-10-19 13:45 UTC
 - [Steelers Takeaways: Second-half comeback saves Pittsburgh in overtime win over Buccaneers](https://www.steelcityunderground.com/2026/10/19/steelers-takeaways-second-half-comeback-saves-pittsburgh-in-overtime-win-over-buccaneers/): Steel City Underground, 2026-10-19 13:14 UTC
 - [Germie Bernard's growing connection with Aaron Rodgers has Steelers buzzing](https://stillcurtain.com/germie-bernard-growing-connection-aaron-rodgers-pittsburgh-steelers-buzzing-01m59441d0x6?utm_source=RSS): Still Curtain, 2026-10-19 13:00 UTC
+- [Just My Opinion ...](https://247sports.com/nfl/pittsburgh-steelers/article/steelers-bucs-wexell-291508241/): 247Sports, 2026-10-19 12:41 UTC
 - [Violence and unrest intensify in Paris, other parts of France ahead of upcoming Steelers-Saints game](https://www.cbsnews.com/pittsburgh/news/violence-unrest-intensified-paris-pittsburgh-steelers-new-orleans-saints-game/): CBS News, 2026-10-19 12:40 UTC
 - [Saunders’ Steelers Takeaways: Mike McCarthy Was Supposed to be Better Than This, But Give Credit Where It’s Due](https://steelersnow.com/saunders-steelers-takeaways-mike-mccarthy-was-supposed-to-be-better-than-this-but-give-credit-where-its-due/): Steelers Now, 2026-10-19 12:05 UTC
 - [Steelers vs. Buccaneers: What they’re saying in Tampa Bay after loss](https://triblive.com/sports/steelers-vs-buccaneers-what-theyre-saying-in-tampa-bay-after-loss/): TribLive, 2026-10-19 12:00 UTC
@@ -134,8 +134,8 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Rapid Reaction: Steelers 26, Buccaneers 19](https://www.buccaneers.com/news/bucs-lose-pittsburgh-steelers-overtime-week-6-2026-score-26-19): Tampa Bay Buccaneers, 2026-10-18 20:50 UTC
 - [Steelers rally past Buccaneers, 26-19, in overtime](https://www.steelers.com/news/steelers-rally-past-buccaneers-26-19-in-overtime): Steelers.com (official), 2026-10-18 20:44 UTC
 - [Aaron Rodgers rallies Steelers back from 13-point deficit to beat Bucs in overtime](https://triblive.com/sports/aaron-rodgers-rallies-steelers-back-from-16-point-deficit-to-beat-bucs-in-overtime/): TribLive, 2026-10-18 20:44 UTC
+- [Steelers vs. Buccaneers Takeaways: The Comeback Tells Nothing](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-buccaneers-takeaways-comeback-tells-nothing): All Steelers (Sports Illustrated), 2026-10-18 20:44 UTC
 - [The Steelers got punched in the mouth by the Buccaneers -- then their real football character showed](https://www.pennlive.com/steelers/2026/10/the-steelers-got-punched-in-the-mouth-by-the-buccaneers-then-their-real-football-character-showed.html): PennLive (Nick Farabaugh), 2026-10-18 20:44 UTC
-- [Steelers beat Buccaneers in overtime after mounting thrilling fourth-quarter comeback](https://www.cbsnews.com/pittsburgh/news/pittsburgh-steelers-tampa-bay-buccaneers-score-nfl-news/): CBS News, 2026-10-18 20:43 UTC
 - [Steelers safety, former Penn State star goes down with injury against Buccaneers](https://www.pennlive.com/steelers/2026/10/steelers-safety-former-penn-state-star-goes-down-with-injury-against-buccaneers.html): PennLive (Nick Farabaugh), 2026-10-18 19:20 UTC
 - [Mike McCarthy spends halftime of Steelers-Bucs game in medical tent: 'I don't recommend it'](https://www.nytimes.com/athletic/7702079/2026/10/18/mike-mccarthy-injury-halftime-medical-tent-steelers/): The Athletic, 2026-10-18 19:12 UTC
 - [Mike McCarthy goes down with ankle injury in Steelers’ game against Buccaneers](https://www.pennlive.com/steelers/2026/10/mike-mccarthy-goes-down-with-ankle-injury-in-steelers-game-against-buccaneers.html): PennLive (Nick Farabaugh), 2026-10-18 18:56 UTC

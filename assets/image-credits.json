@@ -15,7 +15,9 @@
       "attribution_required": true,
       "changes": "Cropped to a 12:5 banner and resized to 1200 px",
       "credit_line": "Photo: Steven W. Adams (Fo2grfr) via Wikimedia Commons, CC BY-SA 4.0 (cropped)",
-      "logo_check": "Field has no midfield or end-zone logo visible; scoreboard shows only small, unreadable-at-banner-size sponsor ads; no team or NFL marks."
+      "logo_check": "Field has no midfield or end-zone logo visible; scoreboard shows only small, unreadable-at-banner-size sponsor ads; no team or NFL marks.",
+      "caption": "The stadium on the North Shore, with downtown behind it",
+      "stadium": true
     },
     {
       "file": "assets/breaks/stadium-north-shore-night.webp",
@@ -31,7 +33,9 @@
       "attribution_required": true,
       "changes": "Cropped to a 12:5 banner and resized to 1200 px",
       "credit_line": "Photo: thederek412 via Wikimedia Commons, CC BY 2.0 (cropped)",
-      "logo_check": "Only a small 'Heinz Field' sponsor sign, far right; no team or NFL marks."
+      "logo_check": "Only a small 'Heinz Field' sponsor sign, far right; no team or NFL marks.",
+      "caption": "The North Shore stadium lit up at night",
+      "stadium": true
     },
     {
       "file": "assets/breaks/pittsburgh-incline-autumn.webp",
@@ -45,10 +49,10 @@
       "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
       "attribution_required": true,
       "changes": "Cropped to a 12:5 banner and resized to 1200 px",
-      "credit_line": "Photo: Dllu via Wikimedia Commons, CC BY-SA 4.0 (cropped)"
-    }
-  ],
-  "unused_alternates": [
+      "credit_line": "Photo: Dllu via Wikimedia Commons, CC BY-SA 4.0 (cropped)",
+      "caption": "Pittsburgh from the Duquesne Incline",
+      "stadium": false
+    },
     {
       "file": "assets/breaks/fort-duquesne-bridge-dusk.webp",
       "fallback": "assets/breaks/fort-duquesne-bridge-dusk.jpg",
@@ -62,7 +66,148 @@
       "attribution_required": true,
       "changes": "Cropped to a 12:5 banner and resized to 1200 px",
       "credit_line": "Photo: Nathaniel F via Wikimedia Commons, CC BY-SA 2.0 (cropped)",
-      "author_url": "https://www.flickr.com/people/24630559@N04"
+      "author_url": "https://www.flickr.com/people/24630559@N04",
+      "caption": "Fort Duquesne Bridge and the North Shore at dusk",
+      "stadium": false
+    },
+    {
+      "file": "assets/breaks/heinz-field-snow-2010.webp",
+      "fallback": "assets/breaks/heinz-field-snow-2010.jpg",
+      "title": "The stadium after a snowfall, seen from Mount Washington",
+      "caption": "The North Shore stadium after a snowfall",
+      "stadium": true,
+      "alt": "The North Shore football stadium with snow on the ground, seen from above across the river, with hillside neighborhoods behind it",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Heinz_Field_2010.JPG",
+      "author": "Asamudra",
+      "author_url": "https://en.wikipedia.org/wiki/User:Asamudra",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "attribution_required": true,
+      "changes": "Cropped to a 12:5 banner and resized to 1200 px",
+      "credit_line": "Photo: Asamudra via Wikimedia Commons, CC BY 3.0 (cropped)",
+      "logo_check": "Only small Heinz and Carnegie Science Center signs; no team or NFL marks."
+    },
+    {
+      "file": "assets/breaks/stadium-aerial-highsmith.webp",
+      "fallback": "assets/breaks/stadium-aerial-highsmith.jpg",
+      "title": "Aerial view of the North Shore stadium and the Allegheny River",
+      "caption": "The North Shore stadium from the air",
+      "stadium": true,
+      "alt": "Aerial view of the North Shore football stadium, its parking lots and the Allegheny River with bridges in the distance",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Pittsburgh,_Pennsylvania,_with_a_focus_on_Heinz_Field,_the_home_statium_of_the_Pittsburgh_Steelers_National_Football_League_team_(highsm.58438).png",
+      "author": "Carol M. Highsmith (Library of Congress)",
+      "author_url": "https://www.loc.gov/pictures/collection/highsm/",
+      "license": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-Highsmith",
+      "attribution_required": false,
+      "changes": "Cropped to a 12:5 banner and resized to 1200 px",
+      "credit_line": "Photo: Carol M. Highsmith, Library of Congress (public domain)",
+      "logo_check": "Field and end zones hidden by the stands from this angle; no readable signage."
+    },
+    {
+      "file": "assets/breaks/stadium-across-river.webp",
+      "fallback": "assets/breaks/stadium-across-river.jpg",
+      "title": "The stadium from across the Allegheny River",
+      "caption": "The stadium from across the river",
+      "stadium": true,
+      "alt": "The North Shore football stadium seen from across the wide river on a sunny day with puffy clouds",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Heinz_field_(14079969870).jpg",
+      "author": "Barry Wise",
+      "author_url": "https://www.flickr.com/people/96936165@N05",
+      "license": "CC BY-SA 2.0 (Flickr license confirmed by Commons FlickreviewR)",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "attribution_required": true,
+      "changes": "Cropped to a 12:5 banner and resized to 1200 px",
+      "credit_line": "Photo: Barry Wise via Wikimedia Commons, CC BY-SA 2.0 (cropped)",
+      "logo_check": "Distant shot; Heinz sign tiny and unreadable at banner size; no team or NFL marks.",
+      "original_source": "https://www.flickr.com/photos/bwise-knowem/14079969870/"
+    },
+    {
+      "file": "assets/breaks/pittsburgh-skyline-mt-washington.webp",
+      "fallback": "assets/breaks/pittsburgh-skyline-mt-washington.jpg",
+      "title": "Downtown Pittsburgh skyline from Mount Washington",
+      "caption": "Downtown Pittsburgh from Mount Washington",
+      "stadium": false,
+      "alt": "Wide view of the downtown Pittsburgh skyline across the Monongahela River on a cloudy day",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Pittsburgh_skyline_from_Mount_Washington,_2024-05-27,_01.jpg",
+      "author": "Cbaile19",
+      "author_url": "https://commons.wikimedia.org/wiki/User:Cbaile19",
+      "license": "CC0 1.0 (public domain dedication)",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution_required": false,
+      "changes": "Cropped to a 3:1 banner and resized to 1200 px",
+      "credit_line": "Photo: Cbaile19 via Wikimedia Commons (CC0)",
+      "logo_check": "Skyline only; no team or NFL marks."
+    },
+    {
+      "file": "assets/breaks/point-fountain.webp",
+      "fallback": "assets/breaks/point-fountain.jpg",
+      "title": "The fountain at Point State Park",
+      "caption": "The fountain at the Point, where the three rivers meet",
+      "stadium": false,
+      "alt": "The tall fountain at Point State Park spraying water in front of green hills on a sunny day",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Point_Fountain,_2024-09-11.jpg",
+      "author": "Cbaile19",
+      "author_url": "https://commons.wikimedia.org/wiki/User:Cbaile19",
+      "license": "CC0 1.0 (public domain dedication)",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "attribution_required": false,
+      "changes": "Cropped to a 12:5 banner and resized to 1200 px",
+      "credit_line": "Photo: Cbaile19 via Wikimedia Commons (CC0)",
+      "logo_check": "No logos."
+    },
+    {
+      "file": "assets/breaks/smithfield-bridge-night.webp",
+      "fallback": "assets/breaks/smithfield-bridge-night.jpg",
+      "title": "Smithfield Street Bridge at night",
+      "caption": "Smithfield Street Bridge at night",
+      "stadium": false,
+      "alt": "The lit-up gateway of the Smithfield Street Bridge at night with streaks of car lights and downtown towers behind it",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Smithfield_Street_Bridge_at_Night.jpg",
+      "author": "Jmblough",
+      "author_url": "https://commons.wikimedia.org/wiki/User:Jmblough",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "attribution_required": true,
+      "changes": "Cropped to a 12:5 banner and resized to 1200 px",
+      "credit_line": "Photo: Jmblough via Wikimedia Commons, CC BY-SA 4.0 (cropped)",
+      "logo_check": "Only small office-tower name signs in the background; no team or NFL marks."
+    },
+    {
+      "file": "assets/breaks/fort-pitt-bridge-tugboat.webp",
+      "fallback": "assets/breaks/fort-pitt-bridge-tugboat.jpg",
+      "title": "A tugboat pushing barges under the Fort Pitt Bridge",
+      "caption": "A tugboat and barges under the Fort Pitt Bridge",
+      "stadium": false,
+      "alt": "Aerial view of a tugboat pushing barges under the yellow arch of the Fort Pitt Bridge on the Monongahela River",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Pittsburgh,_Pennsylvania,_with_a_focus_on_a_tugboat_and_barge_passing_under_the_Fort_Pitt_Bridge,_a_steel,_double-decked_bowstring_arch_bridge_that_spans_the_Monongahela_River_near_its_confluence_with_the_A_(highsm.58444).png",
+      "author": "Carol M. Highsmith (Library of Congress)",
+      "author_url": "https://www.loc.gov/pictures/collection/highsm/",
+      "license": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-Highsmith",
+      "attribution_required": false,
+      "changes": "Cropped to a 12:5 banner and resized to 1200 px",
+      "credit_line": "Photo: Carol M. Highsmith, Library of Congress (public domain)",
+      "logo_check": "No logos."
+    },
+    {
+      "file": "assets/breaks/football-on-turf.webp",
+      "fallback": "assets/breaks/football-on-turf.jpg",
+      "title": "A football resting on the turf",
+      "caption": "Game day",
+      "stadium": false,
+      "alt": "A brown leather football resting on green turf by a white yard line, with blurred yellow stadium seats behind it",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Baldwin_Wallace_Yellow_Jackets_vs._Wimington_Quakers_(51628334657).jpg",
+      "author": "Erik Drost",
+      "author_url": "https://www.flickr.com/people/62091376@N03",
+      "license": "CC BY 2.0 (Flickr license confirmed by Commons FlickreviewR 2)",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "attribution_required": true,
+      "changes": "Cropped to a 12:5 banner, resized to 1200 px, and a small embossed college mark on the ball retouched out",
+      "credit_line": "Photo: Erik Drost via Wikimedia Commons, CC BY 2.0 (cropped, edited)",
+      "logo_check": "Small embossed college mark on the ball retouched out; no team or NFL marks.",
+      "original_source": "https://www.flickr.com/photos/edrost88/51628334657/"
     }
-  ]
+  ],
+  "rotation": "Each ISO week (US Eastern) imagebreaks.js picks 3 photos from this pool: the top slot is always a stadium photo; no photo repeats within a week."
 }

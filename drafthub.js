@@ -6,8 +6,8 @@ const ext='target="_blank" rel="noopener"';
 let H=null,HI=null,need=null;const F={q:'',year:'',round:'',pos:''};let shown=50;
 const gcls=g=>'g-'+(g||'').charAt(0).toLowerCase();
 function needsHTML(){return`<section class="box needs-panel"><h2>Steelers Needs</h2>
- <p class="fine">${H.needs_mode==='automatic'?'Automatic ranking':'Owner-adjusted order'} · auto score from starter age, contracts, depth, player grades and analyst headlines (see NEEDS.md)</p>
- <ol class="needs-list">${H.needs.map((n,i)=>`<li><div class="nl-top"><span class="nl-rank">${i+1}</span><b>${E(n.label)}</b>${n.pinned?' <span class="badge">Owner pick</span>':''}<span class="nl-bar"><i style="width:${Math.min(100,n.score)}%"></i></span><span class="nl-score">${n.score}</span></div><ul>${n.reasons.map(x=>`<li>${E(x)}</li>`).join('')||'<li>Owner priority</li>'}</ul></li>`).join('')}</ol></section>`;}
+ <p class="fine">${H.needs_mode==='automatic'?'Automatic ranking':'Our ranking, in priority order'} · auto score from starter age, contracts, depth, player grades and analyst headlines (see NEEDS.md)</p>
+ <ol class="needs-list">${H.needs.map((n,i)=>`<li><div class="nl-top"><span class="nl-rank">${i+1}</span><b>${E(n.label)}</b>${n.pinned&&H.needs_mode!=='manual order'?' <span class="badge">Top priority</span>':''}<span class="nl-bar"><i style="width:${Math.min(100,n.score)}%"></i></span><span class="nl-score">${n.score}</span></div><ul>${n.reasons.map(x=>`<li>${E(x)}</li>`).join('')||'<li>Top priority</li>'}</ul></li>`).join('')}</ol></section>`;}
 function prospectsHTML(){need=need||H.needs[0].pos;const n=H.needs.find(x=>x.pos===need);
  return`<section><h2 class="section-title">Top ${H.draft_year} prospects by need</h2>
  <p class="page-sub">Steelers' projected picks: ${H.steelers_picks.map(p=>`Round ${p.round} (#${p.overall})`).join(', ')}, based on current standings. Our own board, not a consensus.</p>

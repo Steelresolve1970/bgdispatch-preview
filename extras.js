@@ -49,17 +49,31 @@ window.BGD_renderRumors=rumors;
 
 // ---------- Live hub ----------
 let liveTimer=null;
-async function live(){const el=$('live-body');if(!el)return;let d;try{d=await J('data/live.json');}catch(e){el.innerHTML='<p class="empty">Live data unavailable right now.</p>';return;}
+// Box score panel on the Live Hub: final box between games, a kickoff note before the game. nflverse posts stats after the game.
+async function liveBox(d){const el=$('live-box');if(!el)return;const H='<h2 class="section-title">Box score</h2>';
+ if(d.state==='pre'){el.innerHTML=H+'<div class="box"><p class="fine">Box score will appear at kickoff.</p></div>';return;}
+ const id=d.nflverse_id||'';let b=d.box||null;if(!b&&id){try{b=await J('data/boxscores/'+encodeURIComponent(id)+'.json');}catch(e){}}
+ if(!el.isConnected)return;
+ if(!b||!window.BGDBox){el.innerHTML=H+`<div class="box"><p class="fine">${d.state==='in'?'Game in progress. Our free stats source (nflverse) publishes the box score after the final whistle, usually within a few hours, and it appears here automatically.':'The box score for this game hasn\'t posted yet. It appears here automatically, usually within a few hours of the final whistle.'}</p></div>`;return;}
+ el.innerHTML=H+BGDBox.panel(b);}
+// Live data: /api/live (Pages Function, edge-cached ~15-20s, live provider during games) with the static file as backup.
+async function liveData(){try{const r=await fetch('/api/live',{cache:'no-store'});if(r.ok){const d=await r.json();if(d&&d.teams)return d;}}catch(e){}return J('data/live.json');}
+async function live(){const el=$('live-body');if(!el)return;let d;try{d=await liveData();}catch(e){el.innerHTML='<p class="empty">Live data unavailable right now.</p>';return;}
  const n=d.next,state=d.state;
  el.innerHTML=`<p class="page-sub">${state==='in'?(d.live_feed===false?'<b class="live-dot">● GAME ON</b> Live scoring is coming soon; the final posts after the game.':'<b class="live-dot">● LIVE</b> Updates every 20 seconds.'):state==='pre'?'Pregame. Live updates start at kickoff.':'Showing the most recent final. The hub goes live automatically an hour before each kickoff.'} <small>Data as of ${ago(d.generated)}.</small></p>
  <div class="scorebug box">${d.teams.map(t=>`<div class="sb-team${t.abbr==='PIT'?' pit':''}"><b>${E(t.abbr)}</b><span>${E(t.name)}</span><strong>${E(t.score??'0')}</strong></div>`).join('<span class="sb-at">'+(state==='pre'?'vs':'')+'</span>')}
-  <p class="sb-status">${E(d.detail)}${d.situation?' · '+E(d.situation):''}</p></div>
+  <p class="sb-status">${E(d.detail)}${d.situation?' · '+E(d.situation.text||d.situation.downDistanceText||(typeof d.situation==='string'?d.situation:'')):''}</p></div>
+ ${d.quarters&&Object.keys(d.quarters).length&&!d.box?`<div class="box bs-q"><table class="bs-t"><thead><tr><th></th>${Object.keys(d.quarters).map(q=>`<th>${q==='5'?'OT':'Q'+q}</th>`).join('')}<th>F</th></tr></thead><tbody>${d.teams.map(t=>`<tr><th scope="row">${E(t.abbr)}</th>${Object.keys(d.quarters).map(q=>`<td>${E(d.quarters[q][t.homeAway])}</td>`).join('')}<td><b>${E(t.score)}</b></td></tr>`).join('')}</tbody></table></div>`:''}
+ ${(d.field||state==='in')&&window.BGDField?`<section id="live-field"><h2 class="section-title">On the field</h2>${BGDField.html(d)}</section>`:''}
  ${n&&!d.window?`<p class="box">Next: Steelers ${n.home?'vs':'at'} <b>${E(n.opponent)}</b>, ${et(n.date,{weekday:'short',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})} ET${n.tv?' · '+E(n.tv):''}. <a href="#/opponent">Opponent preview →</a></p>`:''}
  <div class="live-grid"><section><h2 class="section-title">Play-by-play</h2><div class="box pbp">${d.plays.length?d.plays.map(p=>`<p class="${p.scoring?'score':''}"><small>${E(p.team||'')} · Q${E(p.q)} ${E(p.clock||'')}</small>${E(p.text)}</p>`).join(''):(d.live_feed===false?'<p class="fine">Live play-by-play is coming soon. For now this hub shows kickoff info and the final score once it posts.</p>':'<p class="fine">Plays appear here once the game starts.</p>')}</div></section>
  <section><h2 class="section-title">Scoring</h2><div class="box">${d.scoring.map(p=>`<p><b>${E(p.team)}</b> Q${E(p.q)} ${E(p.clock)}: ${E(p.text)} <small>(${E(p.away)}-${E(p.home)})</small></p>`).join('')||'<p class="fine">No scoring yet.</p>'}</div>
  <h2 class="section-title">Game chat</h2><div class="box chat"><p class="fine">Live chat opens when member accounts launch. Until then, join the Dispatch Desk's game thread in the <a href="#/forum">forum</a>.</p><textarea disabled placeholder="Chat opens at launch"></textarea></div></section></div>
+ <section class="lb-box" id="live-box" aria-live="polite"></section>
  <p class="fine">${E(d.note||'')} Data: nflverse (CC-BY 4.0).</p>`;
- clearTimeout(liveTimer);if(state==='in'||d.window)liveTimer=setTimeout(()=>{if(location.hash.startsWith('#/live'))live();},20000);}
+ liveBox(d);
+ clearTimeout(liveTimer);const every=d.poll_ms||(state==='in'||d.window?25000:0);   // poll only while a game is on (or about to start)
+ if(every)liveTimer=setTimeout(function tick(){if(!location.hash.startsWith('#/live'))return;if(document.hidden){liveTimer=setTimeout(tick,every);return;}live();},every);}
 
 // ---------- Pick'em + Trivia ----------
 function play(){const el=$('play-body'),p=X.pick,h=X.hist;if(!el||!p)return;const key='sd_picks_'+p.season+'_w'+p.week,skey=key+'_saved';

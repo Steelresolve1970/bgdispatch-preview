@@ -559,3 +559,58 @@ form[data-nl] input[name=website]{position:absolute!important;left:-9999px!impor
  .ib-line,.ib-sub{padding-right:30px}.ib-line{font-size:19px}
  .ib-record{grid-template-columns:1fr;gap:10px;text-align:left}.ib-num{justify-self:start}
 }
+/* ---- engagement cards on Podcasts & YouTube (engage.js), Oct 20, 2026 ---- */
+.eg{grid-column:1/-1;position:relative;border-radius:10px;padding:16px 18px 14px;margin:8px 0;box-shadow:0 1px 3px #0002;overflow:hidden;line-height:1.4}
+.eg-kicker{margin:0 0 6px;font-weight:800;font-size:12px;letter-spacing:1.5px;text-transform:uppercase}
+.eg-q{margin:0 0 10px;font-size:20px;line-height:1.2;font-weight:900}
+.eg p{margin:0}.eg .eg-src{margin-top:10px;font-size:12.5px}
+.eg a{font-weight:700}
+/* gold cards: poll + stat */
+.eg-poll,.eg-stat{background:var(--gold);color:var(--black);border-bottom:5px solid var(--black)}
+.eg-poll .eg-kicker,.eg-stat .eg-kicker{color:var(--black)}
+.eg-poll a,.eg-stat a{color:var(--black)}
+.eg-choices{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.eg-ch{min-height:48px;padding:10px 12px;border:2px solid var(--black);border-radius:8px;background:#fff;color:var(--black);font:inherit;font-size:16px;font-weight:700;text-align:left;cursor:pointer;-webkit-appearance:none;appearance:none}
+.eg-ch:hover,.eg-ch:focus-visible{background:var(--black);color:var(--gold);outline:none}
+.eg-ch.on{background:var(--black);color:var(--gold)}.eg-ch:disabled{cursor:default}
+.eg-res{list-style:none;margin:0;padding:0;display:grid;gap:8px}
+.eg-res li{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:2px 10px;align-items:center;font-weight:700;font-size:15px}
+.eg-res .eg-bar{grid-column:1/-1;height:12px;background:rgba(0,0,0,.15);border-radius:6px;overflow:hidden}
+.eg-res .eg-bar i{display:block;height:100%;background:var(--black);border-radius:6px;transition:width .5s ease}
+.eg-res li.me .eg-bar i{background:#fff;box-shadow:inset 0 0 0 2px var(--black)}
+.eg-res .eg-pc{font-weight:900;font-size:16px}
+.eg-you{display:inline-block;margin-left:6px;background:var(--black);color:var(--gold);font-size:10.5px;letter-spacing:.5px;text-transform:uppercase;padding:2px 7px;border-radius:9px;vertical-align:1px}
+.eg-tot{margin-top:8px!important;font-size:13px;font-weight:700}
+.eg-msg{min-height:0;margin-top:6px!important;color:var(--black)!important;font-weight:700}.eg-msg:empty{display:none}
+.eg-foot{margin-top:8px!important;font-size:12px;opacity:.8}
+.eg-statrow{display:grid;grid-template-columns:auto minmax(0,1fr);gap:16px;align-items:center}
+.eg-num{background:var(--black);color:var(--gold);border-radius:8px;padding:10px 16px;min-width:110px;text-align:center;font-size:40px;line-height:1;font-weight:900;font-style:italic}
+.eg-line{font-size:16px;font-weight:700}
+/* light card: history */
+.eg-history{background:#fff;color:var(--ink);border:2px solid var(--black);border-top:6px solid var(--gold)}
+.eg-history .eg-kicker{color:#7a5600}
+.eg-when{font-weight:900;font-style:italic;text-transform:uppercase;font-size:15px;letter-spacing:.3px;margin-bottom:4px!important}
+.eg-fact{font-size:17px;line-height:1.45}
+.eg-history a{color:var(--black)}
+/* dark cards: forum + pick 'em, with the gold stripe used on the Next-up divider */
+.eg-hot,.eg-pickem,.eg-news{background:#1b1b1b;color:#fff;padding-left:26px;border:1px solid #333}
+.eg-hot::before,.eg-pickem::before,.eg-news::before{content:"";position:absolute;left:0;top:0;bottom:0;width:8px;background:repeating-linear-gradient(180deg,var(--gold) 0 14px,#c98f00 14px 16px)}
+.eg-hot .eg-kicker,.eg-pickem .eg-kicker,.eg-news .eg-kicker{color:var(--gold)}
+.eg-hot a,.eg-pickem a,.eg-news a{color:var(--gold);text-decoration:none}
+.eg-thread{display:block;padding:10px 12px;border-radius:8px;background:#2a2a2a;border:1px solid #444}
+.eg-thread b{display:block;color:#fff;font-size:18px;line-height:1.25}
+.eg-thread span{display:block;color:#cfcfcf;font-size:13px;font-weight:600;margin-top:4px}
+.eg-thread:hover b{text-decoration:underline}
+.eg-pickem .eg-line{color:#e8e8e8;font-weight:600;font-size:15px}
+.eg-pickem .eg-line b{color:#fff}
+.eg-lead{margin-top:8px!important;color:#cfcfcf;font-size:14px}.eg-lead b{color:var(--gold)}
+.eg-btn{display:inline-block;background:var(--gold);color:var(--black)!important;font-weight:800;text-transform:uppercase;font-size:14px;padding:11px 16px;border-radius:6px;min-height:44px;line-height:22px}
+.eg-news .eg-q{font-size:17px}.eg-news .fine{color:#c8c8c8}
+/* in-list ad slots: invisible until ads_enabled turns on .ad-live */
+.pods>.ad-inline{grid-column:1/-1}.ad-inline.ad-live{min-height:250px}
+@media(max-width:600px){
+ .eg{padding:14px 14px 12px}.eg-hot,.eg-pickem,.eg-news{padding-left:22px}
+ .eg-q{font-size:18px}.eg-choices{grid-template-columns:1fr}
+ .eg-statrow{grid-template-columns:1fr;gap:10px}.eg-num{justify-self:start;font-size:36px}
+ .eg-fact{font-size:16px}
+}
