@@ -1,11 +1,12 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-20T09:05:07+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T09:04:51+00:00._
+_Generated 2026-10-20T10:05:56+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T10:05:33+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [Here We Go, The Steelers Show: Rookies are a part of the black-and-gold solution](http://steelcurtainnetwork.com): Steel Curtain Network (BTSC), 2026-10-20 08:00 UTC
 - Video: [Only the Steelers Can Make Winning Look So Ugly | Illegal Hands to the Face](https://www.youtube.com/watch?v=idEz7_-TZ68): Still Curtain Podcast, 2026-10-20 06:54 UTC
 - Video: [Steelers' Mike McCarthy Must Lean More on Jaylen Warren, Under Center Offense to Fix 3rd Down Issues](https://www.youtube.com/watch?v=L7OiUYf66XA): Locked On Steelers, 2026-10-20 06:15 UTC
+- Podcast: [DK's Daily Shot of Steelers: The great Jalen Ramsey](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-steelers-the-great-jalen-ramsey/): DK Pittsburgh Sports, 2026-10-20 06:05 UTC
 - Podcast: [Scout’s Eye with Matt Williamson: That's winning defense](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/scouts-eye-with-matt-williamson-thats-winning-defense/): DK Pittsburgh Sports, 2026-10-20 06:02 UTC
 - Podcast: [Steelers' Mike McCarthy Must Lean More on Jaylen Warren, Under Center Offense to Fix 3rd Down Issues](https://lockedonpodcasts.com/podcasts/locked-on-steelers/): Locked On Steelers, 2026-10-20 06:00 UTC
 - Podcast: [Steelers Raid Tampa! Mike McCarthy, Injury Updates & Next Stop Paris! | SF7P Ep. 212](https://podcasters.spotify.com/pod/show/steelersfor7podcast/episodes/Steelers-Raid-Tampa--Mike-McCarthy--Injury-Updates--Next-Stop-Paris---SF7P-Ep--212-e3qpdap): Steelers for 7 Podcast, 2026-10-20 05:11 UTC
@@ -102,7 +103,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Steelers Ready for Splash Trade at Deadline](https://bleav.com/shows/all-steelers-talk/?post_type=gp_podcast_episode&p=1850): All Steelers Talk, 2026-10-15 15:00 UTC
 - Video: [STEELERS SQUAD SHOW: SURPRISE! Kordell Stewart CRASHES Show, Talks 'Slash & Burn' HBO Doc](https://www.youtube.com/watch?v=CWlu-Dz7IJU): Locked On Steelers, 2026-10-15 13:15 UTC
 - Podcast: [Aaron Rodgers Leaks Steelers WR Plan](https://bleav.com/shows/all-steelers-talk/episodes/aaron-rodgers-leaks-steelers-wr-plan/): All Steelers Talk, 2026-10-15 12:25 UTC
-- Podcast: [Why Jaylen Warren Is Surging - And What's Going On With The Steelers Linebackers](https://arthurmoats55.libsyn.com/warrenilb_ytmp3): The Arthur Moats Experience, 2026-10-15 09:52 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

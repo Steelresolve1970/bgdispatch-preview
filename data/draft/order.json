@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T01:46:19.254784+00:00",
+ "generated": "2026-10-20T10:05:36.634407+00:00",
  "rounds": 7,
  "total": 224,
  "note": "Projected 2027 order from current records (nflverse, CC-BY 4.0): worst record first, ties broken by easier strength of schedule so far, then point differential. Same order every round; playoff seeding, traded picks and compensatory picks are not included. Not official.",
@@ -48,11 +48,11 @@
    "abbr": "WAS",
    "name": "Washington Commanders",
    "wins": 1,
-   "losses": 3,
+   "losses": 4,
    "ties": 1,
-   "pct": 0.3,
-   "sos": 0.417,
-   "pdiff": -34
+   "pct": 0.25,
+   "sos": 0.514,
+   "pdiff": -40
   },
   {
    "abbr": "DAL",
@@ -61,7 +61,7 @@
    "losses": 4,
    "ties": 0,
    "pct": 0.333,
-   "sos": 0.453,
+   "sos": 0.444,
    "pdiff": -8
   },
   {
@@ -71,7 +71,7 @@
    "losses": 4,
    "ties": 0,
    "pct": 0.333,
-   "sos": 0.456,
+   "sos": 0.447,
    "pdiff": -31
   },
   {
@@ -101,7 +101,7 @@
    "losses": 4,
    "ties": 0,
    "pct": 0.333,
-   "sos": 0.522,
+   "sos": 0.514,
    "pdiff": -20
   },
   {
@@ -161,7 +161,7 @@
    "losses": 3,
    "ties": 0,
    "pct": 0.5,
-   "sos": 0.494,
+   "sos": 0.486,
    "pdiff": 26
   },
   {
@@ -171,7 +171,7 @@
    "losses": 2,
    "ties": 1,
    "pct": 0.583,
-   "sos": 0.3,
+   "sos": 0.292,
    "pdiff": -4
   },
   {
@@ -305,6 +305,16 @@
    "pdiff": 57
   },
   {
+   "abbr": "SF",
+   "name": "San Francisco 49ers",
+   "wins": 6,
+   "losses": 0,
+   "ties": 0,
+   "pct": 1.0,
+   "sos": 0.347,
+   "pdiff": 67
+  },
+  {
    "abbr": "MIN",
    "name": "Minnesota Vikings",
    "wins": 5,
@@ -313,16 +323,6 @@
    "pct": 1.0,
    "sos": 0.367,
    "pdiff": 45
-  },
-  {
-   "abbr": "SF",
-   "name": "San Francisco 49ers",
-   "wins": 5,
-   "losses": 0,
-   "ties": 0,
-   "pct": 1.0,
-   "sos": 0.367,
-   "pdiff": 61
   }
  ],
  "picks": [
@@ -510,13 +510,13 @@
    "overall": 31,
    "round": 1,
    "pick": 31,
-   "team": "MIN"
+   "team": "SF"
   },
   {
    "overall": 32,
    "round": 1,
    "pick": 32,
-   "team": "SF"
+   "team": "MIN"
   },
   {
    "overall": 33,
@@ -702,13 +702,13 @@
    "overall": 63,
    "round": 2,
    "pick": 31,
-   "team": "MIN"
+   "team": "SF"
   },
   {
    "overall": 64,
    "round": 2,
    "pick": 32,
-   "team": "SF"
+   "team": "MIN"
   },
   {
    "overall": 65,
@@ -894,13 +894,13 @@
    "overall": 95,
    "round": 3,
    "pick": 31,
-   "team": "MIN"
+   "team": "SF"
   },
   {
    "overall": 96,
    "round": 3,
    "pick": 32,
-   "team": "SF"
+   "team": "MIN"
   },
   {
    "overall": 97,
@@ -1086,13 +1086,13 @@
    "overall": 127,
    "round": 4,
    "pick": 31,
-   "team": "MIN"
+   "team": "SF"
   },
   {
    "overall": 128,
    "round": 4,
    "pick": 32,
-   "team": "SF"
+   "team": "MIN"
   },
   {
    "overall": 129,
@@ -1278,13 +1278,13 @@
    "overall": 159,
    "round": 5,
    "pick": 31,
-   "team": "MIN"
+   "team": "SF"
   },
   {
    "overall": 160,
    "round": 5,
    "pick": 32,
-   "team": "SF"
+   "team": "MIN"
   },
   {
    "overall": 161,
@@ -1470,13 +1470,13 @@
    "overall": 191,
    "round": 6,
    "pick": 31,
-   "team": "MIN"
+   "team": "SF"
   },
   {
    "overall": 192,
    "round": 6,
    "pick": 32,
-   "team": "SF"
+   "team": "MIN"
   },
   {
    "overall": 193,
@@ -1662,13 +1662,13 @@
    "overall": 223,
    "round": 7,
    "pick": 31,
-   "team": "MIN"
+   "team": "SF"
   },
   {
    "overall": 224,
    "round": 7,
    "pick": 32,
-   "team": "SF"
+   "team": "MIN"
   }
  ],
  "needs": {
@@ -1676,22 +1676,22 @@
    "S",
    "CB",
    "DL",
-   "QB",
-   "TE"
+   "TE",
+   "QB"
   ],
   "ATL": [
    "CB",
    "S",
    "QB",
    "OT",
-   "TE"
+   "WR"
   ],
   "BAL": [
-   "OT",
    "TE",
+   "OT",
    "S",
    "WR",
-   "IOL"
+   "EDGE"
   ],
   "BUF": [
    "CB",
@@ -1746,8 +1746,8 @@
    "CB",
    "S",
    "LB",
-   "OT",
-   "RB"
+   "RB",
+   "OT"
   ],
   "GB": [
    "RB",
@@ -1761,7 +1761,7 @@
    "RB",
    "IOL",
    "OT",
-   "S"
+   "TE"
   ],
   "IND": [
    "LB",
@@ -1800,8 +1800,8 @@
   ],
   "LA": [
    "EDGE",
-   "LB",
    "DL",
+   "LB",
    "RB",
    "QB"
   ],
@@ -1849,10 +1849,10 @@
   ],
   "PHI": [
    "EDGE",
-   "QB",
    "WR",
+   "QB",
    "OT",
-   "CB"
+   "S"
   ],
   "PIT": [
    "QB",
@@ -1862,11 +1862,11 @@
    "WR"
   ],
   "SF": [
-   "WR",
-   "EDGE",
-   "LB",
    "S",
-   "RB"
+   "WR",
+   "CB",
+   "LB",
+   "EDGE"
   ],
   "SEA": [
    "RB",
@@ -1884,17 +1884,17 @@
   ],
   "TEN": [
    "QB",
-   "TE",
    "WR",
+   "TE",
    "DL",
    "S"
   ],
   "WAS": [
-   "WR",
-   "EDGE",
    "LB",
-   "TE",
-   "S"
+   "CB",
+   "S",
+   "WR",
+   "EDGE"
   ]
  },
  "needs_note": "CPU team needs are our own quick read of each team's 2026 stats (nflverse): the five areas where it ranks lowest. Steelers use our own needs order."
