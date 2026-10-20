@@ -674,3 +674,19 @@ figure.eg{margin:8px 0}
 .pd-btn:hover,.pd-btn:focus-visible{background:var(--gold);color:#111}
 .pd-btn.pd-less{background:var(--gold);color:#111}
 /* ===== end show-more-days ===== */
+
+/* ===== Insider ticker: 2nd scrolling line under the headline ticker (index.html #insTicker, app.js renderInsTicker) ===== */
+.ins-ticker{background:#0b0b0b;color:var(--gold);font-size:13px;border-top:1px solid #2a2a2a;border-bottom:1px solid #2a2a2a;align-items:stretch;min-height:30px;max-height:34px}
+.ins-ticker[hidden]{display:none}
+.ins-ticker .ins-label{background:var(--gold);color:#111;padding:7px 10px;font-weight:900;letter-spacing:.06em;text-decoration:none;display:flex;align-items:center;font-size:12px}
+.ins-ticker .ticker-track{display:flex;align-items:center;min-width:0}
+.ins-move{padding:7px 0;will-change:transform}
+.ins-move a{color:#f1f1f1;font-weight:500;margin-right:0;text-decoration:none}.ins-move a::before{content:none}
+.ins-move a b{color:var(--gold);font-weight:800;margin-right:4px}.ins-move time{color:#a8a8a8;font-size:12px;margin-left:4px}
+.ins-move a:hover,.ins-move a:focus-visible{text-decoration:underline;outline:none}
+.ins-move .ins-copy{margin:0}
+.ins-dot{display:inline-block;width:5px;height:5px;border-radius:50%;background:var(--gold);margin:0 16px;vertical-align:middle}
+.ins-ticker:hover .ins-move,.ins-ticker:focus-within .ins-move,.ins-ticker.ins-paused .ins-move{animation-play-state:paused}
+.ins-all{flex:0 0 auto;display:flex;align-items:center;padding:0 10px;color:var(--gold);font-weight:700;font-size:12px;text-decoration:none;border-left:1px solid #2a2a2a;background:#0b0b0b;white-space:nowrap}
+@media (max-width:480px){.ins-all{display:none}}  /* phones: the INSIDERS label links to all posts */
+/* ===== end insider ticker ===== */

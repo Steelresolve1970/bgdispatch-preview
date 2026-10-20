@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-20T05:57:58+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T05:57:36+00:00._
+_Generated 2026-10-20T06:09:39+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T06:09:23+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Podcast: [Steelers' Mike McCarthy Must Lean More on Jaylen Warren, Under Center Offense to Fix 3rd Down Issues](https://lockedonpodcasts.com/podcasts/locked-on-steelers/): Locked On Steelers, 2026-10-20 06:00 UTC
 - Podcast: [Steelers Raid Tampa! Mike McCarthy, Injury Updates & Next Stop Paris! | SF7P Ep. 212](https://podcasters.spotify.com/pod/show/steelersfor7podcast/episodes/Steelers-Raid-Tampa--Mike-McCarthy--Injury-Updates--Next-Stop-Paris---SF7P-Ep--212-e3qpdap): Steelers for 7 Podcast, 2026-10-20 05:11 UTC
 - Podcast: [Steelers Hangover: Trajectory Win! Steelers Beat Tampa Bay 26-19 in OT](http://steelcurtainnetwork.com): Steel Curtain Network (BTSC), 2026-10-20 02:14 UTC
 - Podcast: [Steelers Depot Youtube Live Stream Q & A Podcast - October 19, 2026](https://megaphone.link/SDP7863802568): The Terrible Podcast (Steelers Depot), 2026-10-20 01:07 UTC
@@ -35,7 +36,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Pittsburgh Steelers Win Week 6 vs Buccaneers - [What Went Right/Wrong In Week 6]](https://arthurmoats55.libsyn.com/panel_1018_ytmp3): The Arthur Moats Experience, 2026-10-19 09:52 UTC
 - Podcast: [DK's Daily Shot of Steelers: The 1-2 catch!](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-steelers-the-1-2-catch/): DK Pittsburgh Sports, 2026-10-19 07:49 UTC
 - Video: [Steelers WRs Germie Bernard, DK Metcalf Find Chemistry w/Aaron Rodgers in Time to Beat Buccaneers](https://www.youtube.com/watch?v=31udvFwckK0): Locked On Steelers, 2026-10-19 04:00 UTC
-- Podcast: [Steelers WRs Germie Bernard, DK Metcalf Find Chemistry w/Aaron Rodgers in Time to Beat Buccaneers](https://lockedonpodcasts.com/podcasts/locked-on-steelers/): Locked On Steelers, 2026-10-19 04:00 UTC
 - Video: [Germie Bernard, Jamel Dean & DK Metcalf on win at Buccaneers | Press Pass | Pittsburgh Steelers](https://www.youtube.com/watch?v=vxAoEcjl98k): Pittsburgh Steelers (official), 2026-10-19 01:22 UTC
 - Video: [Best fans in the world 🖤💛](https://www.youtube.com/shorts/mSgT-K71CjI): Pittsburgh Steelers (official), 2026-10-19 01:02 UTC
 - Podcast: [Scout’s Eye with Matt Williamson: Late domination](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/scouts-eye-with-matt-williamson-late-domination/): DK Pittsburgh Sports, 2026-10-19 00:14 UTC

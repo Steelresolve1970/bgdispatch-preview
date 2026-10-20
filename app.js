@@ -60,11 +60,23 @@ function renderNews(){const n=D.news;if(!n||!n.items.length)return;const items=n
   cards.innerHTML=shown.length?shown.map(card).join(''):empty('No roster-move headlines in the last 5 days');}
 }
 function renderTicker(){const t=D.ticker;if(!t)return;const h=t.items.map(i=>`<a href="${esc(i.link)}" ${ext}><b>${i.tag}</b> · ${esc(i.title)}</a>`).join('');$('tickerMove').innerHTML=h+h;}
+/* Insider ticker: 2nd scrolling line under the headline ticker, every page (replaced the sidebar Insider Tracker box).
+   Shows our own topic line ("posted about ..."), never the post text (fetch_insiders.py never stores it). */
+function renderInsTicker(all){const bar=$('insTicker'),mv=$('insMove');if(!bar||!mv)return;
+ const list=(all||[]).slice().sort((a,b)=>b.published.localeCompare(a.published)).slice(0,15);if(!list.length){bar.hidden=true;mv.innerHTML='';return;}
+ const cut=(s,n)=>{s=String(s||'');if(s.length<=n)return s;s=s.slice(0,n);const i=s.lastIndexOf(' ');return (i>40?s.slice(0,i):s).replace(/[\s,.;:]+$/,'')+'…';};
+ const line=p=>cut(String(p.about||'').replace(/^@\S+\s+/,'').replace(/\.$/,'')||('Post on '+p.platform),90);
+ const one=(hide)=>list.map(p=>`<a href="${esc(p.link)}" target="_blank" rel="noopener"${hide?' tabindex="-1"':''}><b>${esc(p.name)}</b> ${esc(line(p))} <time datetime="${esc(p.published)}">${ago(p.published)}</time></a>`).join('<i class="ins-dot" aria-hidden="true"></i>')+'<i class="ins-dot" aria-hidden="true"></i>';
+ mv.innerHTML=one(false)+`<span class="ins-copy" aria-hidden="true">${one(true)}</span>`;bar.hidden=false;
+ requestAnimationFrame(()=>{const w=mv.scrollWidth/2,slow=matchMedia('(prefers-reduced-motion: reduce)').matches;mv.style.animationDuration=Math.max(40,Math.round(w/(slow?18:42)))+'s';}); /* ~42px/s: easy to read on a phone; reduced motion ~18px/s */
+ if(!bar.dataset.wired){bar.dataset.wired='1';const on=()=>bar.classList.add('ins-paused'),off=()=>bar.classList.remove('ins-paused');
+  bar.addEventListener('touchstart',on,{passive:true});bar.addEventListener('touchend',()=>setTimeout(off,1500),{passive:true});bar.addEventListener('touchcancel',off,{passive:true});}}
 function renderIns(){const d=D.ins;if(!d)return;
  const cut=Date.now()-72*3600*1000;const fresh=a=>(a||[]).filter(p=>p.published&&new Date(p.published).getTime()>=cut);
  const items=fresh(d.items),all=fresh(d.all||d.items);
+ renderInsTicker(all);
  const li=p=>`<li><strong>${esc(p.name)}</strong><time datetime="${esc(p.published)}">${ago(p.published).replace(' ago','')}</time><span>${esc(p.about||('Post by '+p.name))}</span><a class="via" href="${esc(p.link)}" ${ext}>View on ${esc(p.platform)} →</a></li>`;
- $('insiders').innerHTML=items.length?items.slice(0,6).map(li).join(''):'<li><span>No insider posts in the last 3 days.</span></li>';
+ if($('insiders'))$('insiders').innerHTML=items.length?items.slice(0,6).map(li).join(''):'<li><span>No insider posts in the last 3 days.</span></li>';
  $('insider-full').innerHTML=all.length?all.map(p=>`<article class="card"><p class="meta"><b>${esc(p.name)}</b> · ${esc(p.handle)} · ${ago(p.published)}</p><p>${esc(p.about||('Post by '+p.name))}</p><a href="${esc(p.link)}" ${ext}>View on ${esc(p.platform)} →</a></article>`).join(''):empty('No insider posts in the last 3 days');}
 function renderFilm(){
  if(D.film){const p=D.film,h=p.game?'Film Breakdown: '+p.game.label:'Film Breakdown';$('filmH').textContent=h;$('filmH2').textContent=h;

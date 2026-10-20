@@ -2,8 +2,8 @@
  "api_version": "1",
  "dataset": "rumors",
  "description": "Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).",
- "generated": "2026-10-20T05:57:58+00:00",
- "data_updated": "2026-10-20T05:57:53+00:00",
+ "generated": "2026-10-20T06:09:39+00:00",
+ "data_updated": "2026-10-20T06:09:34+00:00",
  "count": 34,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
@@ -469,45 +469,6 @@
    }
   },
   {
-   "id": "8d208d6b87cd",
-   "type": "rumor",
-   "title": "Jaguars Hold Brian Thomas Jr. as Chiefs and Steelers Eye Trade",
-   "summary": "Trade/roster move story from SuaraGarut.ID. Full report at the original publisher.",
-   "url": "https://suaragarut.id/en/jaguars-hold-brian-thomas-trade",
-   "source": {
-    "name": "SuaraGarut.ID",
-    "url": null,
-    "reliability_tier": "Aggregator / other",
-    "reliability_score": 1
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-20T00:39:10+00:00",
-   "updated": "2026-10-20T00:39:10+00:00",
-   "published": "2026-10-18T14:47:36+00:00",
-   "people": [
-    "Brian Thomas Jr."
-   ],
-   "consensus": {
-    "cluster_id": "3eaa303e1bfb",
-    "independent_sources": 4,
-    "sources": [
-     "Athlon Sports",
-     "Still Curtain",
-     "SuaraGarut.ID",
-     "Yahoo Sports"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": [
-     "8f4df61a2c0d",
-     "e518dab1fe84",
-     "c46605b46d29",
-     "3eaa303e1bfb"
-    ]
-   }
-  },
-  {
    "id": "67e645182b72",
    "type": "rumor",
    "title": "McCorkle: My Top Wide Receiver Trade Target For Steelers",
@@ -649,17 +610,15 @@
    "people": [],
    "consensus": {
     "cluster_id": "3eaa303e1bfb",
-    "independent_sources": 4,
+    "independent_sources": 3,
     "sources": [
      "Athlon Sports",
      "Still Curtain",
-     "SuaraGarut.ID",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "8d208d6b87cd",
      "e518dab1fe84",
      "c46605b46d29",
      "3eaa303e1bfb"
@@ -686,17 +645,15 @@
    "people": [],
    "consensus": {
     "cluster_id": "3eaa303e1bfb",
-    "independent_sources": 4,
+    "independent_sources": 3,
     "sources": [
      "Athlon Sports",
      "Still Curtain",
-     "SuaraGarut.ID",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "8d208d6b87cd",
      "8f4df61a2c0d",
      "c46605b46d29",
      "3eaa303e1bfb"
@@ -940,17 +897,15 @@
    ],
    "consensus": {
     "cluster_id": "3eaa303e1bfb",
-    "independent_sources": 4,
+    "independent_sources": 3,
     "sources": [
      "Athlon Sports",
      "Still Curtain",
-     "SuaraGarut.ID",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "8d208d6b87cd",
      "8f4df61a2c0d",
      "e518dab1fe84",
      "3eaa303e1bfb"
@@ -979,17 +934,15 @@
    ],
    "consensus": {
     "cluster_id": "3eaa303e1bfb",
-    "independent_sources": 4,
+    "independent_sources": 3,
     "sources": [
      "Athlon Sports",
      "Still Curtain",
-     "SuaraGarut.ID",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "8d208d6b87cd",
      "8f4df61a2c0d",
      "e518dab1fe84",
      "c46605b46d29"
@@ -1058,6 +1011,35 @@
     "related_ids": [
      "b4555f2b0773"
     ]
+   }
+  },
+  {
+   "id": "cb7079ab8e2e",
+   "type": "rumor",
+   "title": "3 safety trades the Steelers could make at NFL deadline",
+   "summary": "Trade/roster move story from AOL.ca. Full report at the original publisher.",
+   "url": "https://www.aol.ca/articles/3-safety-trades-steelers-could-100751000.html",
+   "source": {
+    "name": "AOL.ca",
+    "url": null,
+    "reliability_tier": "Aggregator / other",
+    "reliability_score": 1
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-20T06:09:34+00:00",
+   "updated": "2026-10-20T06:09:34+00:00",
+   "published": "2026-10-16T10:07:51+00:00",
+   "people": [],
+   "consensus": {
+    "cluster_id": "cb7079ab8e2e",
+    "independent_sources": 1,
+    "sources": [
+     "AOL.ca"
+    ],
+    "highest_tier": "Aggregator / other",
+    "highest_tier_score": 1,
+    "related_ids": []
    }
   },
   {

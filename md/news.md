@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-20T05:57:58+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T05:56:25+00:00._
+_Generated 2026-10-20T06:09:39+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T06:08:12+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [The Forgotten Play That Helped The Steelers Beat The Buccaneers](https://steelersdepot.com/2026/10/the-forgotten-play-that-helped-the-steelers-beat-the-buccaneers/): Steelers Depot, 2026-10-20 04:00 UTC
@@ -8,8 +8,8 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers’ belief in rookie class paying early dividends](https://www.altoonamirror.com/sports/local-sports/2026/10/steelers-belief-in-rookie-class-paying-early-dividends/): Altoona Mirror, 2026-10-20 03:08 UTC
 - [REPORT-Rodgers gets one of favorite teammates back](https://www.audacy.com/937thefan/sports/pittsburgh-riverhounds/report-rodgers-gets-one-of-favorite-teammates-back): Audacy, 2026-10-20 02:35 UTC
 - [49ers Practice Squad Player Turned Down Chance To Sign With Steelers In 2025](https://steelersdepot.com/2026/10/49ers-practice-squad-player-turned-down-chance-to-sign-with-steelers-in-2025/): Steelers Depot, 2026-10-20 02:34 UTC
+- [Steelers set to reunite with former wide receiver](https://www.wpxi.com/news/local/steelers-set-reunite-with-former-wide-receiver/23QSZHSMCBCB7FLXJ4NGJIKZGM/): WPXI, 2026-10-20 02:32 UTC
 - [Report: Steelers to reunite with veteran wide receiver](https://www.wkbn.com/sports/pittsburgh-steelers/report-steelers-to-reunite-with-veteran-wide-receiver/): WKBN.com, 2026-10-20 02:28 UTC
-- [Steelers Set to Reunite with Former Wide Receiver](https://steelersnow.com/steelers-set-to-reunite-with-former-wide-receiver/): Steelers Now, 2026-10-20 01:21 UTC
 - [Steelers to sign WR Marquez Valdes-Scantling to practice squad](https://sports.yahoo.com/articles/steelers-sign-wr-marquez-valdes-012014351.html): Yahoo Sports, 2026-10-20 01:20 UTC
 - [Pittsburgh Steelers Found the Answer When Their Running Game Disappeared](https://athlonsports.com/nfl/pittsburgh-steelers/pittsburgh-steelers-germie-bernard-dk-metcalf-aaron-rodgers-tampa-bay-buccaneers): Athlon Sports, 2026-10-20 01:18 UTC
 - [Grading the signing: Pittsburgh Steelers bring back a familiar face to help the wide receiver room amid multiple injuries](https://atozsports.com/nfl/pittsburgh-steelers-news/steelers-signing-marquez-valdes-scantling-practice-squad-wr-trade-rumors/): A to Z Sports, 2026-10-20 01:15 UTC
@@ -59,7 +59,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [McCarthy Says Rooney, Players Held Meeting With NFL Ahead Of Paris Game Amid Unrest](https://steelersdepot.com/2026/10/mccarthy-says-rooney-players-held-meeting-with-nfl-ahead-of-paris-game-amid-unrest/): Steelers Depot, 2026-10-19 19:34 UTC
 - [Quarterback Aaron Rodgers on Pittsburgh Steelers offense in the second half](https://www.nfl.com/videos/aaron-rodgers-on-steelers-offense-in-the-second-half): NFL.com, 2026-10-19 19:32 UTC
 - [‘Aggressive:’ Steelers Linebacker Praises Patrick Graham For Opening Up Playbook](https://steelersdepot.com/2026/10/aggressive-steelers-linebacker-praises-patrick-graham-for-opening-up-playbook/): Steelers Depot, 2026-10-19 19:15 UTC
-- [Steelers vs Saints picks, predictions, odds for NFL Week 7 game Sunday](https://www.azcentral.com/story/sports/nfl/2026/10/19/pittsburgh-steelers-new-orleans-saints-picks-predictions-odds-nfl-week-7/90426283007/): azcentral.com and The Arizona Republic, 2026-10-19 19:08 UTC
 - [Aaron Rodgers bashes Buccaneers’ poor playing surface: ‘That’s not very safe’](https://www.pennlive.com/steelers/2026/10/aaron-rodgers-doesnt-hold-back-about-the-buccaneers-playing-surface-thats-not-very-safe.html): PennLive (Nick Farabaugh), 2026-10-19 19:07 UTC
 - [‘It Looks Crazy Out There:’ Steelers’ Jaquan Brisker Reacts To Paris Protests](https://steelersdepot.com/2026/10/it-looks-crazy-out-there-steelers-jaquan-brisker-reacts-to-paris-protests/): Steelers Depot, 2026-10-19 19:00 UTC
 - [Steelers' Most Important Defenders Emerge in Week 6 Victory](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-most-important-defenders-emerge-week-6-victory): All Steelers (Sports Illustrated), 2026-10-19 19:00 UTC
@@ -153,6 +152,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers Get Good News on Pat Freiermuth for Bucs Game](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-good-news-pat-freiermuth-bucs-game): All Steelers (Sports Illustrated), 2026-10-18 12:01 UTC
 - [Steelers Get Offensive Boost Before Bucs Game](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-offensive-boost-bucs-game-rico-dowdle): All Steelers (Sports Illustrated), 2026-10-18 11:25 UTC
 - [SCU Week in Review – October 18th](https://www.steelcityunderground.com/2026/10/18/scu-week-in-review-october-18th-2/): Steel City Underground, 2026-10-18 11:10 UTC
+- [Steelers' tight end duo could counter costly WR injuries vs. Buccaneers](https://stillcurtain.com/pittsburgh-steelers-tight-end-duo-could-counter-costly-wr-injuries-vs-buccaneers-01m534w1agdq?utm_source=RSS): Still Curtain, 2026-10-18 11:00 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

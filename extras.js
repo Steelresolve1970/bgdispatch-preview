@@ -227,14 +227,16 @@ if('serviceWorker' in navigator&&location.protocol!=='file:')navigator.serviceWo
   return '';}
  // --- Game-day shows list (Podcasts & YouTube page, All view) ---
  const open=new Set();
- function shows(){const now=NOW(),ph=phase(now),V=visible();if(!V.length)return '';
+ function shows(compact){const now=NOW(),ph=phase(now),V=visible();if(!V.length)return '';
   const top=V.find(g=>g.key===ph.grp),rest=V.filter(g=>g!==top),ord=top?[top,...rest]:rest;
   const row=(s,isTop,nextRef)=>{const x=stat(s,now);let line='';
    if(x.live)line=`<span class="ll-now">On now · ends ${x.o.est?'about ':''}${hm(x.o.e)}</span>`;
    else if(isTop&&x.o&&nextRef&&s.name===nextRef.n)line=x.o.est?`Starts after the game, about ${hm(x.o.s)} ET`:`Starts in ${cd(x.o.s,false)}${dayLbl(x.o.s,now)?' '+dayLbl(x.o.s,now).trim():''}`;
    return `<li class="${x.live?'ll-on':''}"><a href="${E(s.url)}" target="_blank" rel="noopener">${E(s.name)}</a>${x.live?' '+badge:''} <small>${E(s.where)} · ${E(s.when)}</small>${line?`<span class="ll-when">${line}</span>`:''}</li>`;};
   const grp=(g,isTop)=>{const title=isTop&&ph.k==='weekday'&&g.key==='dayafter'?'Weekday talk shows':g.title;let nextRef=null;if(isTop){for(const s of g.shows){const x=stat(s,now);if(!x.live&&x.o&&(!nextRef||x.o.s<nextRef.s))nextRef={s:x.o.s,n:s.name};}}
-   const body=`<ul>${g.shows.map(s=>row(s,isTop,nextRef)).join('')}</ul>`;
+   let L=g.shows,more=0;
+   if(compact&&isTop){const k=s=>{const x=stat(s,now);return x.live?-1e15+x.o.s:x.o?x.o.s:1e15;};L=L.slice().sort((a,b)=>k(a)-k(b));more=Math.max(0,L.length-4);L=L.slice(0,4);}
+   const body=`<ul>${L.map(s=>row(s,isTop,nextRef)).join('')}</ul>${more?`<p class="ll-more"><a href="#/podcasts" class="ll-golist">${more} more ${g.title.toLowerCase()} shows on the full list →</a></p>`:''}`;
    return isTop?`<div class="ll-grp ll-top"><h3>${E(title)}</h3>${body}</div>`:`<details class="ll-grp" data-k="${E(g.key)}"${open.has(g.key)?' open':''}><summary>${E(g.title)} <small>(${g.shows.length})</small></summary>${body}</details>`;};
   const game=ph.k==='game'?`<div class="ll-game">${badge} <b>Steelers ${ph.g.home?'vs':'at'} ${E(ph.g.opp)}</b> is on now. <a href="#/live">See the live score</a> or <a href="${E(ST[0].u)}" target="_blank" rel="noopener">listen on 102.5 WDVE</a> (online, the game call may be limited by NFL rules).</div>`:'';
   return `<h2 class="section-title">${E(ph.h)}</h2>${game}${ord.map((g,i)=>grp(g,i===0&&!!top)).join('')}<p class="fine">${E(SH.note||'')} Live badges follow each show's published schedule.</p>`;}
@@ -264,7 +266,7 @@ if('serviceWorker' in navigator&&location.protocol!=='file:')navigator.serviceWo
 .ll-box.ll-on{border:3px solid #e0303f!important}
 @media(min-width:600px) and (max-width:899px){.ll-inline{flex-direction:row;max-width:none}.ll-inline .ll-box{flex:1}}
 .ll-hubline{margin:0 0 14px}.ll-hubline .ll-link{margin:0;font-size:14px}.ll-hubline .ll-link a{font-weight:700}
-#pods-radio{margin:0 0 18px}#pods-radio h2{margin-top:0}
+#pods-radio{margin:0 0 18px}#pods-radio h2,#home-radio h2{margin-top:0}#home-radio{margin:0 0 18px}.sidebar #home-radio h2{font-size:18px}.sidebar #home-radio li{font-size:13px}.ll-shows .ll-more{margin:2px 0 4px;font-size:13px}.ll-shows .ll-more a{font-weight:700}
 .ll-bar{margin:0 0 16px}.ll-bar p{margin:0;background:var(--black);color:#fff;border:2px solid var(--gold);border-radius:6px;padding:8px 12px;font-size:14px;line-height:1.4}
 .ll-bar small{color:#ccc}.ll-bar a{color:var(--gold);font-weight:700;white-space:nowrap}.ll-bar .ll-next{color:var(--gold)}.ll-bar.ll-bar-on p{border-color:#e0303f;animation:llGlow 1.8s ease-in-out infinite}
 @media (prefers-reduced-motion:reduce){.ll-bar.ll-bar-on p{animation:none!important}}
@@ -273,7 +275,9 @@ if('serviceWorker' in navigator&&location.protocol!=='file:')navigator.serviceWo
  function mk(id,cls){const w=document.createElement('div');w.id=id;w.className='ll-wrap'+(cls?' '+cls:'');w.setAttribute('role','region');w.setAttribute('aria-label','Listen live on Pittsburgh radio');w.innerHTML=boxes();return w;}
  const podsAll=()=>!/[?&]show=/.test(location.hash);   // the list shows only in the All view of the podcast page
  function draw(){document.querySelectorAll('.ll-wrap').forEach(w=>{w.innerHTML=boxes();});
-  const sh=document.getElementById('pods-radio');if(sh&&SH){try{const h=shows();sh.innerHTML=h;sh.hidden=!h||!podsAll();}catch(e){sh.hidden=true;}}
+  let SL='';if(SH){try{SL=shows();}catch(e){SL='';}}
+  const sh=document.getElementById('pods-radio');if(sh&&SH){sh.innerHTML=SL;sh.hidden=!SL||!podsAll();}
+  const hr=document.getElementById('home-radio');if(hr&&SH){let H=SL;if(!hr.closest('.sidebar')){try{H=shows(true);}catch(e){H='';}}hr.innerHTML=H;hr.hidden=!H;}
   const lh=document.getElementById('live-shows');if(lh&&SH){let h='';try{const ph=phase(NOW());
     h=(ph.k==='game'?`<div class="ll-game">${badge} <b>Steelers ${ph.g.home?'vs':'at'} ${E(ph.g.opp)}</b> is on now. The live score is just below, or <a href="${E(ST[0].u)}" target="_blank" rel="noopener">listen on 102.5 WDVE</a> (online, the game call may be limited by NFL rules).</div>`:'')+
      `<p class="ll-link"><b>Game-day radio shows:</b> pre-game, post-game and weekday times, with what's on now. <a href="#/podcasts" class="ll-golist">See the full list →</a></p>`;}catch(e){}
@@ -294,6 +298,9 @@ if('serviceWorker' in navigator&&location.protocol!=='file:')navigator.serviceWo
   const pg=document.getElementById('pods-full-pg');
   if(pg&&!document.getElementById('pods-radio')){const sh=document.createElement('section');sh.id='pods-radio';sh.className='box ll-shows';sh.hidden=true;pg.after(sh);
    sh.addEventListener('toggle',e=>{const d=e.target.closest&&e.target.closest('details');if(d){d.open?open.add(d.dataset.k):open.delete(d.dataset.k);}},true);}
+  // Home page copy of the show list: one element, moved between the sidebar (wide) and the main column (narrow) by place(), so it never shows twice
+  if(!document.getElementById('home-radio')){const side2=document.querySelector('.sidebar');if(side2){const hr=document.createElement('section');hr.id='home-radio';hr.className='box ll-shows ll-home-shows';hr.hidden=true;hr.setAttribute('aria-label','Game-day radio shows');side2.appendChild(hr);
+   hr.addEventListener('toggle',e=>{const d=e.target.closest&&e.target.closest('details');if(d){d.open?open.add(d.dataset.k):open.delete(d.dataset.k);}},true);}}
   const nb=document.getElementById('ib-next');
   if(nb&&!document.getElementById('home-onair')){const b=document.createElement('div');b.id='home-onair';b.className='ll-bar';b.hidden=true;b.setAttribute('aria-live','polite');nb.after(b);}
   draw();}
@@ -303,10 +310,16 @@ if('serviceWorker' in navigator&&location.protocol!=='file:')navigator.serviceWo
   const NAV={home:1,podcasts:1,film:1,opponent:1,live:1,heatmap:1,drafthub:1,draft:1};
   s.style.display=(!NAV[v]||(!wide&&v==='live'))?'none':'';
   // Keep the sidebar copy directly under the AFC North box when that box is in the sidebar (home/schedule, wide screens).
-  const a=document.getElementById('afcn-box');if(wide&&a&&a.parentNode===s.parentNode&&a.nextElementSibling!==s)a.after(s);}
+  // Wide screens: station boxes at the top of the sidebar; on home the AFC North box (when standings.js has it in the sidebar) sits right under them,
+  // then the home copy of the show list. Works whether or not other sidebar boxes (e.g. the old Insider Tracker) exist.
+  const side=s.parentNode,a=document.getElementById('afcn-box'),hr=document.getElementById('home-radio');
+  if(wide&&side){if(side.firstElementChild!==s)side.prepend(s);if(a&&a.parentNode===side&&s.nextElementSibling!==a)s.after(a);}
+  if(hr){if(wide&&side){const ref=(a&&a.parentNode===side)?a:s;if(ref.nextElementSibling!==hr)ref.after(hr);hr.style.display=v==='home'?'':'none';}
+   else{const bar=document.getElementById('home-onair'),anc=bar||document.getElementById('ib-next');if(anc&&anc.nextElementSibling!==hr)anc.after(hr);hr.style.display='';}
+   const mode=hr.closest('.sidebar')?'side':'main';if(hr.dataset.mode!==mode){hr.dataset.mode=mode;if(SH)draw();}}}
  document.addEventListener('route',()=>setTimeout(place,20));addEventListener('resize',()=>{clearTimeout(place.t);place.t=setTimeout(place,200);});
- if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',place);else place();setTimeout(place,1500);
- load().then(draw);
+ if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',place);else place();setTimeout(place,1500);setTimeout(place,4000);
+ load().then(()=>{draw();place();});
  setInterval(tick,1000);                      // countdown digits every second
  let lastMin=Math.floor(NOW()/MIN);setInterval(()=>{const m=Math.floor(NOW()/MIN);if(m!==lastMin){lastMin=m;if(!document.hidden)draw();}},5000);   // live states/phase each minute
  setInterval(()=>{if(!document.hidden)load().then(draw);},5*MIN);   // pick up the final whistle and edits

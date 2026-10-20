@@ -1,6 +1,6 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-20T05:57:58+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T05:57:53+00:00._
+_Generated 2026-10-20T06:09:39+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T06:09:34+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
@@ -33,8 +33,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Pelissero: Steelers Have Been 'Calling Around' About Veteran Receivers Ahead Of Trade Deadline](https://steelersdepot.com/2026/10/pelissero-steelers-have-been-calling-around-on-veteran-receivers-ahead-of-trade-deadline/): Steelers Depot, first seen 2026-10-19 17:56 UTC
 - **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
   [The Steelers could get a ton better, with one simple trade](https://sports.yahoo.com/videos/steelers-could-ton-better-one-214648839.html): Yahoo Sports, first seen 2026-10-19 17:56 UTC
-- **Rumor** · tier: Aggregator / other · consensus: 4 source(s), top tier National insider
-  [Jaguars Hold Brian Thomas Jr. as Chiefs and Steelers Eye Trade](https://suaragarut.id/en/jaguars-hold-brian-thomas-trade): SuaraGarut.ID, first seen 2026-10-20 00:39 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [McCorkle: My Top Wide Receiver Trade Target For Steelers](https://steelersdepot.com/2026/10/mccorkle-my-top-wide-receiver-trade-target-for-steelers/): Steelers Depot, first seen 2026-10-18 12:06 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
@@ -43,9 +41,9 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [McCorkle: My Top Wide Receiver Trade Target For Steelers](https://steelersdepot.com/2026/10/mccorkle-my-top-wide-receiver-trade-target-for-steelers/): Steelers Depot, first seen 2026-10-18 04:34 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [Steelers Should Consider Surprise Trade Candidate](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-should-consider-surprise-trade-candidate-rico-dowdle): All Steelers (Sports Illustrated), first seen 2026-10-18 04:34 UTC
-- **Rumor** · tier: Aggregator / other · consensus: 4 source(s), top tier National insider
+- **Rumor** · tier: Aggregator / other · consensus: 3 source(s), top tier National insider
   [3 Trade Targets Steelers Could Pursue Before NFL Trade Deadline](https://athlonsports.com/nfl/pittsburgh-steelers/3-trade-targets-steelers-could-pursue-before-nfl-trade-deadline): Athlon Sports, first seen 2026-10-18 04:34 UTC
-- **Rumor** · tier: National insider · consensus: 4 source(s), top tier National insider
+- **Rumor** · tier: National insider · consensus: 3 source(s), top tier National insider
   [3 Trade Targets Steelers Could Pursue Before NFL Trade Deadline](https://sports.yahoo.com/articles/3-trade-targets-steelers-could-150000144.html): Yahoo Sports, first seen 2026-10-18 12:06 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Beat Writer Explains How Steelers Will Be ‘Active’ At Trade Deadline](https://steelersdepot.com/2026/10/beat-writer-explains-how-steelers-will-be-active-at-trade-deadline/): Steelers Depot, first seen 2026-10-18 04:34 UTC
@@ -61,14 +59,16 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Steelers Learn Important Detail About Omar Khan's Trade Deadline Strategy](https://www.steelernation.com/2026/10/16/steelers-important-omar-khan-strategy): Steeler Nation, first seen 2026-10-18 04:34 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [3 cornerback trades the Steelers could make at NFL deadline](https://www.aol.ca/articles/3-cornerback-trades-steelers-could-120357000.html): AOL.ca, first seen 2026-10-20 05:48 UTC
-- **Rumor** · tier: Fan blog · consensus: 4 source(s), top tier National insider
+- **Rumor** · tier: Fan blog · consensus: 3 source(s), top tier National insider
   [Brian Thomas Jr. headlines 7 WR trade targets Steelers can't afford to ignore](https://stillcurtain.com/brian-thomas-jr-headlines-7-wr-trade-targets-pittsburgh-steelers-can-t-afford-to-ignore-01m4rnfq23x6?utm_source=RSS): Still Curtain, first seen 2026-10-18 04:34 UTC
-- **Rumor** · tier: Fan blog · consensus: 4 source(s), top tier National insider
+- **Rumor** · tier: Fan blog · consensus: 3 source(s), top tier National insider
   [Brian Thomas Jr. headlines 7 WR trade targets Steelers can't afford to ignore](https://stillcurtain.com/brian-thomas-jr-headlines-7-wr-trade-targets-pittsburgh-steelers-can-t-afford-to-ignore-01m4rnfq23x6): Still Curtain, first seen 2026-10-19 17:56 UTC
 - **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
   [No One Knows What Steelers Trade Deadline Plans Are](https://sports.yahoo.com/articles/no-one-knows-steelers-trade-110008508.html): Yahoo Sports, first seen 2026-10-19 17:56 UTC
 - **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
   [No One Knows What Steelers Trade Deadline Plans Are](https://www.si.com/nfl/steelers/onsi/no-one-knows-what-pittsburgh-steelers-trade-deadline-plans): Sports Illustrated, first seen 2026-10-18 04:34 UTC
+- **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
+  [3 safety trades the Steelers could make at NFL deadline](https://www.aol.ca/articles/3-safety-trades-steelers-could-100751000.html): AOL.ca, first seen 2026-10-20 06:09 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Steelers coach is already on the hot seat (and the writing is on the wall)](https://stillcurtain.com/pittsburgh-steelers-coach-is-already-on-the-hot-seat-and-the-writing-is-on-the-wall-01m4x9aza3tm?utm_source=RSS): Still Curtain, first seen 2026-10-18 04:34 UTC
 
