@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-20T02:08:56+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T02:08:41+00:00._
+_Generated 2026-10-20T02:19:43+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T02:19:27+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Podcast: [Steelers Hangover: Trajectory Win! Steelers Beat Tampa Bay 26-19 in OT](http://steelcurtainnetwork.com): Steel Curtain Network (BTSC), 2026-10-20 02:14 UTC
 - Podcast: [Steelers Depot Youtube Live Stream Q & A Podcast - October 19, 2026](https://megaphone.link/SDP7863802568): The Terrible Podcast (Steelers Depot), 2026-10-20 01:07 UTC
 - Video: [ahoy.mp4](https://www.youtube.com/shorts/eJqO7AsgSnY): Pittsburgh Steelers (official), 2026-10-20 00:25 UTC
 - Video: [Recapping The 26-19 Win Against The Buccaneers | SNR Drive (Oct.19) | Pittsburgh Steelers](https://www.youtube.com/watch?v=8Dz8Jo8g6-0): Pittsburgh Steelers (official), 2026-10-19 23:45 UTC
@@ -18,7 +19,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [The Terrible Take - Episode 2055 - October 19, 2026](https://megaphone.link/SDP4685563774): The Terrible Podcast (Steelers Depot), 2026-10-19 21:00 UTC
 - Video: [Coach McCarthy Press Conference (Week 7 at New Orleans Saints) | Pittsburgh Steelers](https://www.youtube.com/watch?v=M2zs_f3U6tQ): Pittsburgh Steelers (official), 2026-10-19 20:45 UTC
 - Video: [Steelers Save Their Best for Last in Overtime Win in Tampa](https://www.youtube.com/watch?v=WwJom70LMfs): Steel City Underground, 2026-10-19 20:01 UTC
-- Podcast: [The Mike McCarthy Weekly Press Conference Recap: Week 6 vs. Buccaneers](http://steelcurtainnetwork.com): Steel Curtain Network (BTSC), 2026-10-19 19:50 UTC
 - Podcast: [Steelers Save Their Best for Last in Overtime Win in Tampa](https://www.steelcityunderground.com/podcast/2026/10/steelers-save-their-best-for-last-in-overtime-win-in-tampa/): Steel City Underground, 2026-10-19 19:40 UTC
 - Podcast: [Only the Steelers Can Make Winning Look So Ugly | Illegal Hands to the Face](https://redcircle.com/shows/62750d24-c3c9-4be8-919a-ff22b312fb19/episodes/a9b49b24-c6aa-4e45-9d33-504a994fcfb4): Still Curtain Podcast, 2026-10-19 19:38 UTC
 - Video: [Only the Steelers Can Make Winning Look So Ugly | Illegal Hands to the Face](https://www.youtube.com/watch?v=idEz7_-TZ68): Still Curtain Podcast, 2026-10-19 17:07 UTC

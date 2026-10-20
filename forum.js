@@ -22,6 +22,8 @@ const css=`
 .fx-btn{min-height:46px;padding:0 18px;border-radius:10px;border:0;background:#FFB612;color:#101010;font-weight:900;font-size:1rem;cursor:pointer;display:inline-flex;align-items:center;justify-content:center;gap:6px;text-decoration:none}
 .fx-btn.dark{background:#101010;color:#FFB612}.fx-btn.ghost{background:#fff;border:2px solid #101010;color:#101010}.fx-btn[disabled]{opacity:.5;cursor:default}.fx-btn.sm{min-height:36px;padding:0 12px;font-size:.9rem}
 .fx-form{background:#fff;border-radius:12px;padding:18px;max-width:520px;box-shadow:0 1px 3px #0001}
+.fx-newbar{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin:4px 0 14px}.fx-newbar .fine{margin:0}
+.fx-btn.fx-new{min-height:50px;padding:0 24px;font-size:1.08rem;border:2px solid #101010;box-shadow:0 3px 0 #101010;touch-action:manipulation}.fx-btn.fx-new:active{transform:translateY(2px);box-shadow:0 1px 0 #101010}
 .fx-form label{display:block;font-weight:800;margin:12px 0 4px}.fx-form small{color:#555;font-weight:400}
 .fx-form input[type=text],.fx-form input[type=email],.fx-form input[type=password],.fx-form select,.fx-form textarea{width:100%;min-height:48px;font-size:16px;padding:10px 12px;border:2px solid #ccc;border-radius:10px;background:#fff}
 .fx-form input:focus,.fx-form textarea:focus,.fx-form select:focus{border-color:#FFB612;outline:none}
@@ -111,13 +113,13 @@ function wirePicker(root,name){const box=root.querySelector('.fx-avbox');if(!box
 const fmtQuote=s=>s.split('\n').map(l=>/^&gt; ?/.test(l)?`<blockquote>${l.replace(/^&gt; ?/,'')}</blockquote>`:l).join('\n').replace(/<\/blockquote>\n<blockquote>/g,'<br>');
 const fmtBody=s=>fmtQuote(E(s)).replace(/https?:\/\/[^\s<]+[^\s<.,;:!?)"']/g,u=>`<a href="${u}" target="_blank" rel="noopener nofollow ugc">${u.replace(/^https?:\/\//,'').slice(0,60)}</a>`);
 const R_CSAM='Illegal content (child sexual abuse material)',R_NCII='Intimate image shared without consent (TAKE IT DOWN Act)',CYBERTIP='https://report.cybertip.org/';
-const roleTag=r=>r==='owner'?'<span class="fx-role">OWNER</span>':r==='mod'?'<span class="fx-role">MOD</span>':r==='bot'?'<span class="fx-role" title="Automated house account">BOT</span>':'';
+const roleTag=r=>r==='owner'?'<span class="fx-role">OWNER</span>':r==='mod'?'<span class="fx-role">MOD</span>':r==='bot'?'<span class="fx-role" title="Posted automatically by the Dispatch Desk">AUTO</span>':'';
 
 // ---------- header buttons ----------
 function head(){const a=document.querySelector('.forum-actions');const badge=document.querySelector('.forum-head .badge');
  if(S.api&&badge)badge.remove();if(!a)return;
  if(!S.api){a.innerHTML='';return;}
- a.innerHTML=S.me?`<a class="fx-btn ghost sm" href="#/forum/me">👤 ${E(S.me.display_name)}</a> <a class="fx-btn sm" href="#/forum/new">+ New thread</a>`
+ a.innerHTML=S.me?`<a class="fx-btn ghost sm" href="#/forum/me">👤 ${E(S.me.display_name)}</a> <a class="fx-btn sm" href="#/forum/new">+ New Thread</a>`
   :`<a class="fx-btn ghost sm" href="#/forum/signin">Sign in</a> <a class="fx-btn sm" href="#/forum/join">Join free</a>`;}
 function tabs(on){return `<nav class="fx-tabs" aria-label="Forum sections">${[['discuss','Discussions','#/forum'],['gameday','🏈 Game Day','#/forum/gameday'],['pickem',"Pick 'Em",'#/forum/pickem'],['trivia','Trivia','#/forum/trivia']]
  .map(([k,l,h])=>`<a href="${h}" class="${on===k?'on':''}">${l}</a>`).join('')}${S.me&&(S.me.role==='mod'||S.me.role==='owner')?`<a href="#/forum/mod" class="${on==='mod'?'on':''}">🛡 Mod queue</a>`:''}</nav>`;}
@@ -148,9 +150,10 @@ async function listView(el){el.innerHTML=tabs('discuss')+'<p class="empty">Loadi
  if(qs('cat')==='Film Talk'){location.replace('#/forum?cat='+encodeURIComponent('General Steelers'));return;}   // old category name
  const cat=qs('cat');const d=await api('forum/threads'+(cat?'?cat='+encodeURIComponent(cat):''));if(!d.ok){el.innerHTML=tabs('discuss')+`<p class="fx-err">${E(d.error)}</p>`;return;}
  S.cats=d.cats;S.me=d.me;head();const T=d.threads;const pin=T.filter(t=>t.pinned&&(t.kind==='gameday'||t.kind==='postgame'));
- el.innerHTML=tabs('discuss')+`${pin.map(t=>`<a class="fx-gd" href="#/forum/thread/${t.id}"><b>${E(t.title)}</b><small>${t.kind==='gameday'?'Live chat · score updates on its own':'Post-game talk + Grade the Team'} · ${t.posts} posts · ${ago(t.last_post)}</small></a>`).join('')}
+ const nq=cat&&cat!=='Game Day'?'?cat='+encodeURIComponent(cat):'';
+ el.innerHTML=tabs('discuss')+`<div class="fx-newbar"><a class="fx-btn fx-new" id="fx-newbtn" href="#/forum/new${nq}">+ New Thread</a><span class="fine">${S.me?(cat&&cat!=='Game Day'?'Start a thread in '+E(cat):'Start a conversation'):'Free account needed to post. Reading is open to everyone.'}</span></div>${pin.map(t=>`<a class="fx-gd" href="#/forum/thread/${t.id}"><b>${E(t.title)}</b><small>${t.kind==='gameday'?'Live chat · score updates on its own':'Post-game talk + Grade the Team'} · ${t.posts} posts · ${ago(t.last_post)}</small></a>`).join('')}
  <div class="fx-chips" role="group" aria-label="Filter by category"><button type="button" data-cat="" class="${!cat?'on':''}">All</button>${d.cats.map(c=>`<button type="button" data-cat="${E(c)}" class="${cat===c?'on':''}">${E(c)}</button>`).join('')}</div>
- <div class="fx-list">${T.filter(t=>!pin.includes(t)).map(t=>`<a class="fx-th${t.pinned?' pin':''}" href="#/forum/thread/${t.id}"><span class="m"><small>${t.pinned?'📌 ':''}${E(t.cat)}${t.hidden?' · HIDDEN':''}${t.locked?' · 🔒':''}</small><b>${E(t.title)}</b><small>by ${E(t.author)} ${t.author_role==='bot'?'(bot)':''} · ${ago(t.last_post)}</small></span><span class="n">${t.posts}<br><small>posts</small></span></a>`).join('')||'<p class="fine">No threads yet. Start the first one!</p>'}</div>
+ <div class="fx-list">${T.filter(t=>!pin.includes(t)).map(t=>`<a class="fx-th${t.pinned?' pin':''}" href="#/forum/thread/${t.id}"><span class="m"><small>${t.pinned?'📌 ':''}${E(t.cat)}${t.hidden?' · HIDDEN':''}${t.locked?' · 🔒':''}</small><b>${E(t.title)}</b><small>by ${E(t.author)} ${t.author_role==='bot'?roleTag('bot'):''} · ${ago(t.last_post)}</small></span><span class="n">${t.posts}<br><small>posts</small></span></a>`).join('')||`<p class="fine">No threads yet. <a href="#/forum/new${nq}">Start the first one!</a></p>`}</div>
  <p class="fine" style="margin-top:14px"><a href="legal/community.html">Community guidelines</a> · Be respectful, no spam, 13+ only.</p>`;
  el.querySelectorAll('[data-cat]').forEach(b=>b.onclick=()=>{location.hash='#/forum'+(b.dataset.cat?'?cat='+encodeURIComponent(b.dataset.cat):'');});}
 
@@ -160,7 +163,7 @@ async function authForm(el,mode){const nxt=qs('next')||sessionStorage.getItem('b
  if(S.me){goNext();return;}
  if(mode==='join'&&(localStorage.getItem('bgd_u13')||/(^|; )bgd_u13=/.test(document.cookie))){el.innerHTML=`<p><a class="back" href="#/forum">← Forum</a></p><div class="box"><h2>Sorry, you can't make an account</h2><p>You can still read the forum and use the rest of the site.</p></div>`;return;}
  const fl=mode==='join'?await flairs():[];
- el.innerHTML=`<p><a class="back" href="#/forum">← Forum</a></p>${nxt==='mock'?'<p class="box">Sign in or join to post your mock draft. You\'ll come right back to finish posting.</p>':nxt.startsWith('grade')?'<p class="box">Sign in or join to grade the team.</p>':''}
+ el.innerHTML=`<p><a class="back" href="#/forum">← Forum</a></p>${nxt==='mock'?'<p class="box">Sign in or join to post your mock draft. You\'ll come right back to finish posting.</p>':nxt.startsWith('grade')?'<p class="box">Sign in or join to grade the team.</p>':nxt==='new'||nxt.startsWith('new:')?`<p class="box fx-why">To start a thread, ${mode==='join'?'join free below, or <a href="#/forum/signin">sign in</a> if you already have an account':'sign in below, or <a href="#/forum/join">join free</a>'}. You'll come right back to the new-thread form.</p>`:''}
  <form class="fx-form" id="fx-auth" novalidate>${mode==='join'?`<h2>Join Black &amp; Gold Dispatch</h2><p class="fine">Free. Takes 30 seconds. You stay signed in on this device.</p>
   <label for="f-u">Username <small>3-20 letters, numbers or _</small></label><input id="f-u" name="username" type="text" autocomplete="username" autocapitalize="off" required maxlength="20">
   <label for="f-e">Email <small>never shown publicly</small></label><input id="f-e" name="email" type="email" autocomplete="email" required>
@@ -182,7 +185,7 @@ async function authForm(el,mode){const nxt=qs('next')||sessionStorage.getItem('b
   if(!d.ok){er.textContent=d.error||'Something went wrong.';if(d.field){const i=f.querySelector(`[name=${d.field}]`);i&&i.focus();}return;}
   S.me=d.user;head();goNext();};}
 function goNext(){const n=sessionStorage.getItem('bgd_next')||'';sessionStorage.removeItem('bgd_next');
- location.hash=n==='mock'?'#/forum/new?mock=1':n.startsWith('grade')?'#/forum/'+n.replace(':','/'):n.startsWith('thread')?'#/forum/'+n.replace(':','/'):n==='pickem'||n==='trivia'?'#/forum/'+n:'#/forum';}
+ location.hash=n==='mock'?'#/forum/new?mock=1':n==='new'?'#/forum/new':n.startsWith('new:')?'#/forum/new?cat='+encodeURIComponent(n.slice(4)):n.startsWith('grade')?'#/forum/'+n.replace(':','/'):n.startsWith('thread')?'#/forum/'+n.replace(':','/'):n==='pickem'||n==='trivia'?'#/forum/'+n:'#/forum';}
 function needSignIn(next){sessionStorage.setItem('bgd_next',next);location.hash='#/forum/join';}
 
 async function claimView(el,tok){
@@ -220,12 +223,12 @@ async function profile(el){if(!S.me){location.hash='#/forum/signin';return;}cons
 function mockText(m){const L=[];m.teams.forEach(t=>{L.push(`${t.name}${t.grade?' (Draft Desk grade: '+t.grade+')':''}`);if(t.needs&&t.needs.length)L.push('Team needs: '+t.needs.join(', '));
   const by={};t.picks.forEach(p=>(by[p.round]=by[p.round]||[]).push(p));Object.keys(by).sort((a,b)=>a-b).forEach(r=>{L.push(`Round ${r}:`);by[r].forEach(p=>L.push(`  #${p.overall} ${p.name}, ${p.pos}, ${p.school}${p.grade?' · grade '+p.grade:''}`));});L.push('');});
  return L.join('\n').trim();}
-async function newThread(el){if(!S.me){needSignIn(qs('mock')?'mock':'new');return;}
+async function newThread(el){if(!S.me){needSignIn(qs('mock')?'mock':qs('cat')?'new:'+qs('cat'):'new');return;}
  let mock=null;if(qs('mock')){try{mock=JSON.parse(sessionStorage.getItem('bgd_mock')||'null');}catch(e){}}
  const cats=(S.cats.length?S.cats:['Depth Chart & Roster','Draft','Fan Mock Drafts','General Steelers','Off-Topic']).filter(c=>c!=='Game Day'||S.me.role!=='user');
  const pit=mock&&(mock.teams.find(t=>t.team==='PIT')||mock.teams[0]);
  el.innerHTML=`<p><a class="back" href="#/forum">← Forum</a></p><form class="fx-form" id="fx-new"><h2>${mock?'Post your mock draft':'Start a thread'}</h2>
- ${mock?`<input type="hidden" name="cat" value="Fan Mock Drafts"><p class="fine">Category: <b>Fan Mock Drafts</b></p>`:`<label for="n-c">Category</label><select id="n-c" name="cat">${cats.map(c=>`<option ${c==='Off-Topic'?'selected':''}>${E(c)}</option>`).join('')}</select>`}
+ ${mock?`<input type="hidden" name="cat" value="Fan Mock Drafts"><p class="fine">Category: <b>Fan Mock Drafts</b></p>`:`<label for="n-c">Category</label><select id="n-c" name="cat">${cats.map(c=>`<option ${c===(cats.includes(qs('cat'))?qs('cat'):'Off-Topic')?'selected':''}>${E(c)}</option>`).join('')}</select>`}
  <label for="n-t">Title</label><input id="n-t" name="title" type="text" maxlength="120" required value="${mock?E(`${S.me.display_name}'s ${mock.rounds}-round mock${pit&&pit.grade?' (Draft Desk grade: '+pit.grade+')':''}`):''}">
  ${mock?`<label>Your picks</label><pre class="box" style="white-space:pre-wrap;font-size:.9rem;max-height:320px;overflow:auto">${E(mockText(mock))}</pre><label for="n-b">Add a comment <small>optional</small></label>`:'<label for="n-b">Post</label>'}
  <textarea id="n-b" name="body" rows="${mock?3:7}" maxlength="4000" ${mock?'':'required'} placeholder="${mock?'Why you made these picks…':'What\'s on your mind?'}"></textarea>
@@ -403,7 +406,7 @@ async function legacy(el){el.innerHTML=tabs('discuss')+'<p class="empty">Loading
  if(t){el.innerHTML=tabs('discuss')+`<p><a class="back" href="#/forum">← Forum</a></p><article class="fx-post"><div class="who"><b>${E(t.author)}</b>${roleTag('bot')}<small>${ago(t.created)}</small></div><h2>${E(t.title)}</h2><div class="tx">${E(t.body)}</div>
   ${(t.links||[]).map(l=>`<a class="fx-btn ghost sm" href="${E(l.href)}" ${l.external?'target="_blank" rel="noopener"':''}>${E(l.label)}</a>`).join(' ')}</article><p class="box">Replies open when fan accounts launch (very soon).</p>`;return;}
  const CL=[['Game Day','Game threads and post-game talk'],['Depth Chart & Roster','Roster moves and injuries'],['Draft','Prospects and big boards'],['Fan Mock Drafts','Your mock drafts'],['General Steelers','Anything Steelers'],['Off-Topic','Pittsburgh life, other sports']];
- el.innerHTML=tabs('discuss')+`<p class="box">Fan accounts are almost ready. Until then, here are today's topics from our labeled house bot.</p><p class="fine"><b>Categories:</b> ${CL.map(([n,d])=>`${E(n)} <small>(${E(d)})</small>`).join(' · ')}</p><div class="fx-list">${T.map(t=>`<a class="fx-th${t.pinned?' pin':''}" href="#/forum/thread/${E(t.id)}"><span class="m"><small>${E(t.kind)} · ${E(t.cat)}</small><b>${E(t.title)}</b><small>by ${E(t.author)} (bot) · ${ago(t.created)}</small></span></a>`).join('')}</div>
+ el.innerHTML=tabs('discuss')+`<p class="box">Fan accounts are almost ready. Until then, here are today's topics, posted automatically by the Dispatch Desk.</p><p class="fine"><b>Categories:</b> ${CL.map(([n,d])=>`${E(n)} <small>(${E(d)})</small>`).join(' · ')}</p><div class="fx-list">${T.map(t=>`<a class="fx-th${t.pinned?' pin':''}" href="#/forum/thread/${E(t.id)}"><span class="m"><small>${E(t.kind)} · ${E(t.cat)}</small><b>${E(t.title)}</b><small>by ${E(t.author)} ${roleTag('bot')} · ${ago(t.created)}</small></span></a>`).join('')}</div>
  <p class="fine" style="margin-top:14px"><a href="legal/community.html">Community guidelines</a></p>`;}
 
 // ---------- fan averages next to our grades (heat map + box score pages) ----------
