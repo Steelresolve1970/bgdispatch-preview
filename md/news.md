@@ -1,8 +1,9 @@
 # Steelers News
 
-_Generated 2026-10-20T18:05:01+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T18:04:31+00:00._
+_Generated 2026-10-20T18:15:54+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T18:15:20+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Gabriel Rubio Had No Idea Steelers Would Draft Him, Reveals Two Teams That Wanted To Sign Him](https://steelersdepot.com/2026/10/gabriel-rubio-had-no-idea-steelers-would-draft-him-reveals-two-teams-that-wanted-to-sign-him/): Steelers Depot, 2026-10-20 18:15 UTC
 - [‘I Was Devastated’: Mike Tomlin Reveals His Welcome to the NFL Moment](https://steelersnow.com/i-was-devastated-mike-tomlin-reveals-his-welcome-to-the-nfl-moment/): Steelers Now, 2026-10-20 17:51 UTC
 - [Buccaneers Fan Offers Reward For Lost Hat](https://steelersnow.com/buccaneers-fan-offers-reward-for-lost-hat/): Steelers Now, 2026-10-20 17:38 UTC
 - [‘Best Choice For Us’: James Harrison Optimistic About Steelers’ Addition Of WR Marquez Valdes-Scantling](https://steelersdepot.com/2026/10/best-choice-for-us-james-harrison-optimistic-about-steelers-addition-of-wr-marquez-valdes-scantling/): Steelers Depot, 2026-10-20 17:30 UTC
@@ -44,7 +45,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Mike McCarthy Shares What He Appreciates Most About Jalen Ramsey](https://steelersdepot.com/2026/10/mike-mccarthy-shares-what-he-appreciates-most-about-jalen-ramsey/): Steelers Depot, 2026-10-20 14:15 UTC
 - [Why Did Steelers Sign MVS? | Steelers Morning Rush](https://steelersnow.com/why-did-steelers-sign-mvs-steelers-morning-rush/): Steelers Now, 2026-10-20 14:11 UTC
 - [Steelers’ dream 2027 quarterback class is already losing its shine](https://stillcurtain.com/pittsburgh-steelers-dream-2027-quarterback-class-is-already-losing-its-shine-01m5b6pz8naq?utm_source=RSS): Still Curtain, 2026-10-20 14:00 UTC
-- [NFL Paris 2026: New Orleans Saints vs Pittsburgh Steelers game 'all systems go' despite riots in French capital](https://www.skysports.com/nfl/news/13601317/nfl-paris-2026-new-orleans-saints-vs-pittsburgh-steelers-game-all-systems-go-despite-riots-in-french-capital): Sky Sports, 2026-10-20 13:47 UTC
 - [Mark Madden: Steelers fans should embrace comeback win, not nitpick Mike McCarthy’s mistakes](https://triblive.com/sports/mark-madden-steelers-fans-should-embrace-comeback-win-not-nitpick-mike-mccarthys-mistakes/): TribLive, 2026-10-20 13:46 UTC
 - [Steelers news: NFL not relocating Paris game](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176594/steelers-news-nfl-not-relocating-paris-game): Behind the Steel Curtain, 2026-10-20 13:40 UTC
 - [Mike McCarthy Defends Late-Game Play-Calling vs. Bucs: ‘Those Are Solid Plays’](https://steelersnow.com/mike-mccarthy-defends-late-game-play-calling-vs-bucs/): Steelers Now, 2026-10-20 13:39 UTC
@@ -84,7 +84,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [49ers Practice Squad Player Turned Down Chance To Sign With Steelers In 2025](https://steelersdepot.com/2026/10/49ers-practice-squad-player-turned-down-chance-to-sign-with-steelers-in-2025/): Steelers Depot, 2026-10-20 02:34 UTC
 - [Steelers Set to Reunite with Former Wide Receiver](https://steelersnow.com/steelers-set-to-reunite-with-former-wide-receiver/): Steelers Now, 2026-10-20 01:21 UTC
 - [Grading the signing: Pittsburgh Steelers bring back a familiar face to help the wide receiver room amid multiple injuries](https://atozsports.com/nfl/pittsburgh-steelers-news/steelers-signing-marquez-valdes-scantling-practice-squad-wr-trade-rumors/): A to Z Sports, 2026-10-20 01:15 UTC
-- [Listen: Steelers Depot Q&A Livestream – October 19th](https://steelersdepot.com/2026/10/listen-steelers-depot-qa-livestream-october-19th/): Steelers Depot, 2026-10-20 01:13 UTC
 - [Steelers’ Mike McCarthy backs receivers ‘in the building,’ but open to adding outside help](https://triblive.com/sports/steelers-mike-mccarthy-backs-receivers-in-the-building-but-open-to-adding-help-from-outside/): TribLive, 2026-10-20 01:09 UTC
 - [Report: Steelers Bring Back Veteran WR For Another Aaron Rodgers Reunion](https://www.steelernation.com/2026/10/19/steelers-veteran-report-reunite-aaron-rodgers): SteelerNation, 2026-10-20 00:59 UTC
 - [Steelers signing WR Marquez Valdes-Scantling](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176587/steelers-signing-wr-marquez-valdes-scantling): Behind the Steel Curtain, 2026-10-20 00:55 UTC
@@ -153,6 +152,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Feats of Strength: 4th quarter awakening, Chris Boswell’s return to form save Steelers in Tampa Bay](https://triblive.com/sports/feats-of-strength-fourth-quarter-awakening-chris-boswells-return-to-form-save-steelers-in-tampa-bay/): TribLive, 2026-10-18 21:57 UTC
 - [7 winners (and 4 losers) from Steelers' dramatic Week 6 comeback over Tampa Bay](https://stillcurtain.com/7-winners-4-losers-pittsburgh-steelers-dramatic-week-6-comeback-tampa-bay-buccaneers-01m58beprnfv?utm_source=RSS): Still Curtain, 2026-10-18 21:30 UTC
 - [Pittsburgh Steelers vs. Tampa Bay Buccaneers highlights | Week 6](https://www.nfl.com/videos/steelers-vs-buccaneers-highlights-week-6): NFL.com, 2026-10-18 21:19 UTC
+- [Can't-Miss Play: Ramsey calls game! Jalen's blitzing sack of Jalon Daniels sends Steelers to an OT win](https://www.nfl.com/videos/can-t-miss-play-ramsey-calls-game-jalen-s-blitzing-sack-of-jalon-daniels-sends-steelers-to-an-ot-win): NFL.com, 2026-10-18 21:14 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

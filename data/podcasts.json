@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-20T18:04:45.167446+00:00",
+ "generated": "2026-10-20T18:15:37.226204+00:00",
  "date_et": "2026-10-20",
  "days": 5,
  "display_days": 2,
- "count": 132,
+ "count": 133,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -83,17 +83,17 @@
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxjSNPLcRAVzDKOjhRwo-hQ",
    "status": "ok",
    "episodes": 15,
-   "week": 1,
-   "latest": "2026-10-20T06:54:43+00:00"
+   "week": 2,
+   "latest": "2026-10-20T18:15:06+00:00"
   },
   {
    "show": "Steel City Underground",
    "kind": "podcast",
    "url": "https://feeds.feedburner.com/steelcityunderground",
-   "status": "ok",
-   "episodes": 45,
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "episodes": 0,
    "week": 2,
-   "latest": "2026-10-19T19:40:55+00:00"
+   "latest": null
   },
   {
    "show": "Steel City Underground",
@@ -250,6 +250,14 @@
   }
  ],
  "items": [
+  {
+   "title": "Is the Steelers pass defense actually fine without Joey Porter Jr? #steelers #nfl",
+   "show": "Still Curtain Podcast",
+   "kind": "video",
+   "link": "https://www.youtube.com/shorts/I8qkYpoHneg",
+   "published": "2026-10-20T18:15:06+00:00",
+   "summary": "Video from Still Curtain Podcast."
+  },
   {
    "title": "What We Know About The Steelers Following Week 6 - Steelers Gabriel Rubio Interview",
    "show": "The Arthur Moats Experience",
