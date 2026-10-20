@@ -207,15 +207,25 @@ if('serviceWorker' in navigator&&location.protocol!=='file:')navigator.serviceWo
  function visible(){return ((SH&&SH.groups)||[]).map(x=>({...x,shows:(x.shows||[]).filter(v=>!v.hidden&&v.name&&/^https:\/\//.test(v.url||''))})).filter(x=>x.shows.length);}
  const badge='<span class="ll-live" aria-label="Live now"><i aria-hidden="true"></i>LIVE</span>';
  const cd=(t,est)=>est?`about ${hm(t)} ET`:`<span class="ll-cd" data-at="${t}">${dur(t-NOW())}</span> · ${hm(t)} ET`;
- // --- Listen Live box ---
- function boxState(now){const ph=SH?phase(now):null,V=visible(),all=V.flatMap(g=>g.shows).filter(s=>s.station);
-  if(ph&&ph.k==='game')return {head:`Live now: Steelers ${ph.g.home?'vs':'at'} ${E(ph.g.opp.replace(/^.* /,''))}`,on:['wdve'],sub:'Game call on 102.5 WDVE (online may be limited by NFL rules).'};
-  let live=null,next=null;const L=[];for(const s of all){const x=stat(s,now);if(x.live){L.push({s,x});if(!live)live={s,x};}else if(!x.live&&x.o&&!x.o.est&&(!next||x.o.s<next.x.o.s))next={s,x};}
-  if(live){const also=L.filter(z=>z.s.station!==live.s.station).slice(0,1).map(z=>` · Also on now: ${E(z.s.name)} on ${z.s.station==='wdve'?'102.5 WDVE':'93.7 The Fan'}`).join('');return {head:`Live now: ${E(live.s.name)}`,on:L.map(z=>z.s.station),sub:`On now · ends ${live.x.o.est?'about ':''}${hm(live.x.o.e)}${also}`};}
-  if(next)return {head:`Next: ${E(next.s.name)} in <span class="ll-cd" data-at="${next.x.o.s}">${dur(next.x.o.s-now)}</span>`,on:[],sub:`${dayLbl(next.x.o.s,now)}${hm(next.x.o.s)} ET on ${next.s.station==='wdve'?'102.5 WDVE':'93.7 The Fan'}`};
-  return {head:'Listen Live',on:[],sub:''};}
- function box(){const b=boxState(NOW());return `<h2 class="ll-h">${b.head}</h2>${b.sub?`<p class="ll-sub">${b.sub}</p>`:''}${ST.map(s=>`<div class="ll-row${b.on.includes(s.k)?' ll-on':''}"><div class="ll-txt"><b>${E(s.n)}</b> <small>${E(s.s)}</small>${b.on.includes(s.k)?' '+badge:''}<p>${E(s.l)}</p></div><a class="ll-btn" href="${E(s.u)}" target="_blank" rel="noopener">${E(s.b)}<span class="sr"> (opens in a new tab)</span></a></div>`).join('')}<p class="fine ll-fine">Links open each station's own site. Unofficial fan site; not affiliated with these stations.</p>`;}
- // --- Game-day shows list (Live Hub only) ---
+ // --- Listen Live: one box per station ---
+ const stName=k=>k==='wdve'?'102.5 WDVE':'93.7 The Fan';
+ function stState(k,now){const ph=SH?phase(now):null;
+  if(k==='wdve'&&ph&&ph.k==='game')return {live:true,txt:`Live now: Steelers ${ph.g.home?'vs':'at'} ${E(ph.g.opp.replace(/^.* /,''))} game call`,sub:'Online, the game call may be limited by NFL rules.'};
+  let live=null,next=null;for(const s of visible().flatMap(g=>g.shows).filter(s=>s.station===k)){const x=stat(s,now);if(x.live){if(!live)live={s,x};}else if(x.o&&!x.o.est&&(!next||x.o.s<next.x.o.s))next={s,x};}
+  if(live)return {live:true,txt:`Live now: ${E(live.s.name)}`,sub:`Ends ${live.x.o.est?'about ':''}${hm(live.x.o.e)} ET`};
+  if(next)return {live:false,txt:`Next: ${E(next.s.name)} in <span class="ll-cd" data-at="${next.x.o.s}">${dur(next.x.o.s-now)}</span>`,sub:`${dayLbl(next.x.o.s,now)}${hm(next.x.o.s)} ET`};
+  return null;}
+ function box1(s){const b=SH?stState(s.k,NOW()):null;return `<h2 class="ll-h">${E(s.n)} <small>${E(s.s)}</small></h2>${b?`<p class="ll-st${b.live?' ll-st-on':''}">${b.live?badge+' ':''}${b.txt}${b.sub?` <small>· ${b.sub}</small>`:''}</p>`:''}<p class="ll-desc">${E(s.l)}</p><a class="ll-btn" href="${E(s.u)}" target="_blank" rel="noopener">${E(s.b)}<span class="sr"> (opens in a new tab)</span></a><p class="fine ll-fine">Unofficial fan site; not affiliated with this station.</p>`;}
+ function boxes(){return ST.map(s=>{const b=SH?stState(s.k,NOW()):null;return `<section class="box ll-box${b&&b.live?' ll-on':''}" data-st="${s.k}" aria-label="Listen live: ${E(s.n)}">${box1(s)}</section>`;}).join('');}
+ // --- Home page: single ON AIR NOW / UP NEXT bar ---
+ function barHtml(){if(!SH)return '';const now=NOW(),ph=phase(now);let pick=null,nx=null;
+  if(ph.k==='game')return `<span class="ll-live" aria-label="Live now"><i aria-hidden="true"></i>LIVE</span> <b>On air now:</b> Steelers ${ph.g.home?'vs':'at'} ${E(ph.g.opp.replace(/^.* /,''))} game call <small>on 102.5 WDVE</small>`;
+  const all=visible().flatMap(g=>g.shows),ord=[...all.filter(s=>s.station),...all.filter(s=>!s.station)];
+  for(const s of ord){const x=stat(s,now);if(x.live&&!pick)pick={s,x};else if(!x.live&&x.o&&!x.o.est&&(!nx||x.o.s<nx.x.o.s))nx={s,x};}
+  if(pick)return `${badge} <b>On air now:</b> ${E(pick.s.name)} <small>${E(pick.s.station?stName(pick.s.station):pick.s.where)} · ends ${pick.x.o.est?'about ':''}${hm(pick.x.o.e)}</small>`;
+  if(nx)return `<b class="ll-next">Up next:</b> ${E(nx.s.name)} in <span class="ll-cd" data-at="${nx.x.o.s}">${dur(nx.x.o.s-now)}</span> <small>${E(nx.s.station?stName(nx.s.station):nx.s.where)} · ${dayLbl(nx.x.o.s,now)}${hm(nx.x.o.s)} ET</small>`;
+  return '';}
+ // --- Game-day shows list (Podcasts & YouTube page, All view) ---
  const open=new Set();
  function shows(){const now=NOW(),ph=phase(now),V=visible();if(!V.length)return '';
   const top=V.find(g=>g.key===ph.grp),rest=V.filter(g=>g!==top),ord=top?[top,...rest]:rest;
@@ -226,7 +236,7 @@ if('serviceWorker' in navigator&&location.protocol!=='file:')navigator.serviceWo
   const grp=(g,isTop)=>{const title=isTop&&ph.k==='weekday'&&g.key==='dayafter'?'Weekday talk shows':g.title;let nextRef=null;if(isTop){for(const s of g.shows){const x=stat(s,now);if(!x.live&&x.o&&(!nextRef||x.o.s<nextRef.s))nextRef={s:x.o.s,n:s.name};}}
    const body=`<ul>${g.shows.map(s=>row(s,isTop,nextRef)).join('')}</ul>`;
    return isTop?`<div class="ll-grp ll-top"><h3>${E(title)}</h3>${body}</div>`:`<details class="ll-grp" data-k="${E(g.key)}"${open.has(g.key)?' open':''}><summary>${E(g.title)} <small>(${g.shows.length})</small></summary>${body}</details>`;};
-  const game=ph.k==='game'?`<div class="ll-game">${badge} <b>Steelers ${ph.g.home?'vs':'at'} ${E(ph.g.opp)}</b> is on now. <a href="#live-body" class="ll-jump">See the live score</a> or <a href="${E(ST[0].u)}" target="_blank" rel="noopener">listen on 102.5 WDVE</a> (online, the game call may be limited by NFL rules).</div>`:'';
+  const game=ph.k==='game'?`<div class="ll-game">${badge} <b>Steelers ${ph.g.home?'vs':'at'} ${E(ph.g.opp)}</b> is on now. <a href="#/live">See the live score</a> or <a href="${E(ST[0].u)}" target="_blank" rel="noopener">listen on 102.5 WDVE</a> (online, the game call may be limited by NFL rules).</div>`:'';
   return `<h2 class="section-title">${E(ph.h)}</h2>${game}${ord.map((g,i)=>grp(g,i===0&&!!top)).join('')}<p class="fine">${E(SH.note||'')} Live badges follow each show's published schedule.</p>`;}
  const st=document.createElement('style');st.textContent=`.ll-box{background:var(--black);color:#fff;border:3px solid var(--gold)!important;padding:14px 16px}.ll-box h2{color:var(--gold);text-transform:uppercase;letter-spacing:1px;font-weight:900;font-size:16px;margin:0 0 8px;line-height:1.25}
 .ll-box .ll-sub{margin:-4px 0 8px;font-size:12px;color:#ccc}
@@ -247,21 +257,46 @@ if('serviceWorker' in navigator&&location.protocol!=='file:')navigator.serviceWo
 .ll-shows .ll-top{border-left:4px solid var(--gold);padding:4px 0 2px 10px;background:#fffaf0}
 .ll-shows details{border-top:1px solid #e6e6e6;padding:6px 0}.ll-shows summary{cursor:pointer;font-weight:800;text-transform:uppercase;font-size:12.5px;letter-spacing:.5px;color:#444}
 .ll-shows details li{font-size:13px;padding:4px 8px}
+.ll-wrap{display:flex;flex-direction:column;gap:10px;margin:0 0 18px}.sidebar .ll-wrap{margin:0}.ll-wrap .ll-box{margin:0}
+.ll-box .ll-h small{color:#fff;font-size:11px;letter-spacing:.5px;margin-left:4px}
+.ll-box .ll-st{margin:0 0 6px;font-size:13px;font-weight:700;color:#fff;line-height:1.35}.ll-box .ll-st small{font-weight:400;color:#ccc}
+.ll-box .ll-desc{margin:0 0 8px;font-size:13px;line-height:1.35;color:#ccc}.ll-box .ll-btn{display:block;text-align:center}
+.ll-box.ll-on{border:3px solid #e0303f!important}
+@media(min-width:600px) and (max-width:899px){.ll-inline{flex-direction:row;max-width:none}.ll-inline .ll-box{flex:1}}
+.ll-hubline{margin:0 0 14px}.ll-hubline .ll-link{margin:0;font-size:14px}.ll-hubline .ll-link a{font-weight:700}
+#pods-radio{margin:0 0 18px}#pods-radio h2{margin-top:0}
+.ll-bar{margin:0 0 16px}.ll-bar p{margin:0;background:var(--black);color:#fff;border:2px solid var(--gold);border-radius:6px;padding:8px 12px;font-size:14px;line-height:1.4}
+.ll-bar small{color:#ccc}.ll-bar a{color:var(--gold);font-weight:700;white-space:nowrap}.ll-bar .ll-next{color:var(--gold)}.ll-bar.ll-bar-on p{border-color:#e0303f;animation:llGlow 1.8s ease-in-out infinite}
+@media (prefers-reduced-motion:reduce){.ll-bar.ll-bar-on p{animation:none!important}}
 .ll-game{background:var(--black);color:#fff;border:2px solid var(--gold);border-radius:6px;padding:10px 12px;margin:6px 0 10px;font-size:14px}.ll-game a{color:var(--gold)}`;
  document.head.appendChild(st);
- function mk(id,cls){const s=document.createElement('section');s.id=id;s.className='box ll-box'+(cls?' '+cls:'');s.setAttribute('aria-label','Listen live on Pittsburgh radio');s.innerHTML=box();return s;}
- function draw(){document.querySelectorAll('.ll-box').forEach(b=>{b.innerHTML=box();});
-  const sh=document.getElementById('live-shows');if(sh&&SH){try{const h=shows();if(h){sh.innerHTML=h;sh.hidden=false;}}catch(e){sh.hidden=true;}}}
+ function mk(id,cls){const w=document.createElement('div');w.id=id;w.className='ll-wrap'+(cls?' '+cls:'');w.setAttribute('role','region');w.setAttribute('aria-label','Listen live on Pittsburgh radio');w.innerHTML=boxes();return w;}
+ const podsAll=()=>!/[?&]show=/.test(location.hash);   // the list shows only in the All view of the podcast page
+ function draw(){document.querySelectorAll('.ll-wrap').forEach(w=>{w.innerHTML=boxes();});
+  const sh=document.getElementById('pods-radio');if(sh&&SH){try{const h=shows();sh.innerHTML=h;sh.hidden=!h||!podsAll();}catch(e){sh.hidden=true;}}
+  const lh=document.getElementById('live-shows');if(lh&&SH){let h='';try{const ph=phase(NOW());
+    h=(ph.k==='game'?`<div class="ll-game">${badge} <b>Steelers ${ph.g.home?'vs':'at'} ${E(ph.g.opp)}</b> is on now. The live score is just below, or <a href="${E(ST[0].u)}" target="_blank" rel="noopener">listen on 102.5 WDVE</a> (online, the game call may be limited by NFL rules).</div>`:'')+
+     `<p class="ll-link"><b>Game-day radio shows:</b> pre-game, post-game and weekday times, with what's on now. <a href="#/podcasts" class="ll-golist">See the full list →</a></p>`;}catch(e){}
+   lh.innerHTML=h;lh.hidden=!h;}
+  const bar=document.getElementById('home-onair');if(bar){let h='';try{h=barHtml();}catch(e){}
+   bar.innerHTML=h?`<p>${h} <a href="#/podcasts" class="ll-golist">Full show list →</a></p>`:'';bar.hidden=!h;bar.classList.toggle('ll-bar-on',/ll-live/.test(h));}}
  function tick(){const now=NOW();document.querySelectorAll('.ll-cd').forEach(el=>{const t=+el.dataset.at;if(t>now)el.textContent=dur(t-now);});}
+ function goList(){let n=0;const f=()=>{const el=document.getElementById('pods-radio');if(el&&!el.hidden&&el.offsetParent){el.scrollIntoView({block:'start'});window.scrollBy(0,-80);}else if(n++<20)setTimeout(f,150);};setTimeout(f,150);}
+ document.addEventListener('click',e=>{const a=e.target.closest&&e.target.closest('.ll-golist');if(a){if(location.hash.replace(/\?.*/,'')==='#/podcasts'&&podsAll()){e.preventDefault();}goList();return;}
+  if(e.target.closest&&e.target.closest('[data-pf]'))setTimeout(draw,30);});   // show filter clicks (pushState) hide/show the list
+ addEventListener('popstate',()=>setTimeout(draw,30));addEventListener('hashchange',()=>setTimeout(draw,30));
  function setup(){const side=document.querySelector('.sidebar');
   if(side&&!document.getElementById('listen-side')){const a=document.getElementById('afcn-box'),ad=side.querySelector('.ad-box'),el=mk('listen-side');
    if(a&&a.parentNode===side)a.after(el);else if(ad)ad.after(el);else side.prepend(el);}
   const lv=document.querySelector('.view[data-view="live"]'),body=document.getElementById('live-body');
   if(lv&&body&&!document.getElementById('listen-live')){body.before(mk('listen-live','ll-inline'));
-   const sh=document.createElement('section');sh.id='live-shows';sh.className='box ll-shows';sh.hidden=true;body.after(sh);
-   sh.addEventListener('toggle',e=>{const d=e.target.closest&&e.target.closest('details');if(d){d.open?open.add(d.dataset.k):open.delete(d.dataset.k);}},true);
-   sh.addEventListener('click',e=>{const a=e.target.closest('.ll-jump');if(a){e.preventDefault();document.getElementById('live-body')?.scrollIntoView({behavior:'smooth'});}});
-   draw();}}
+   const sh=document.createElement('section');sh.id='live-shows';sh.className='ll-hubline';sh.hidden=true;body.before(sh);}
+  const pg=document.getElementById('pods-full-pg');
+  if(pg&&!document.getElementById('pods-radio')){const sh=document.createElement('section');sh.id='pods-radio';sh.className='box ll-shows';sh.hidden=true;pg.after(sh);
+   sh.addEventListener('toggle',e=>{const d=e.target.closest&&e.target.closest('details');if(d){d.open?open.add(d.dataset.k):open.delete(d.dataset.k);}},true);}
+  const nb=document.getElementById('ib-next');
+  if(nb&&!document.getElementById('home-onair')){const b=document.createElement('div');b.id='home-onair';b.className='ll-bar';b.hidden=true;b.setAttribute('aria-live','polite');nb.after(b);}
+  draw();}
  function place(){setup();const s=document.getElementById('listen-side');if(!s)return;
   const cur=document.querySelector('.view:not([hidden])'),v=cur?cur.dataset.view:'home',wide=matchMedia('(min-width:900px)').matches;
   // Sidebar copy only on the main nav tabs (the ones before the More menu); hidden on every More route and other pages.

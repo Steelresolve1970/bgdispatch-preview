@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T05:45:04.198219+00:00",
+ "generated": "2026-10-20T05:57:36.556558+00:00",
  "date_et": "2026-10-20",
  "days": 5,
  "display_days": 3,
@@ -18,7 +18,7 @@
    "show": "Locked On Steelers",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7JorgD8nGLtvvMy1ogFetg",
-   "status": "error: HTTP Error 500: Internal Server Error",
+   "status": "error: HTTP Error 404: Not Found",
    "episodes": 0,
    "week": 9,
    "latest": null
@@ -81,10 +81,10 @@
    "show": "Still Curtain Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxjSNPLcRAVzDKOjhRwo-hQ",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 2,
-   "latest": "2026-10-19T17:07:10+00:00"
+   "latest": null
   },
   {
    "show": "Steel City Underground",
@@ -99,10 +99,10 @@
    "show": "Steel City Underground",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDcNNAMkYr-DzH6_XL-0p8Q",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 2,
-   "latest": "2026-10-19T20:01:57+00:00"
+   "latest": null
   },
   {
    "show": "Steelers Afternoon Drive",
@@ -153,7 +153,7 @@
    "show": "Steelers Now",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp1iAMIfmmgWewzJ07_Y7oA",
-   "status": "error: HTTP Error 500: Internal Server Error",
+   "status": "error: HTTP Error 404: Not Found",
    "episodes": 0,
    "week": 7,
    "latest": null
@@ -189,7 +189,7 @@
    "show": "Nick Farabaugh on PennLive",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5yvng1eSgffmybUM-51fTw",
-   "status": "error: HTTP Error 500: Internal Server Error",
+   "status": "error: HTTP Error 404: Not Found",
    "episodes": 0,
    "week": 0,
    "latest": null

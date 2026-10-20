@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-20T05:45:20+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T05:44:07+00:00._
+_Generated 2026-10-20T05:57:58+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T05:56:25+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [The Forgotten Play That Helped The Steelers Beat The Buccaneers](https://steelersdepot.com/2026/10/the-forgotten-play-that-helped-the-steelers-beat-the-buccaneers/): Steelers Depot, 2026-10-20 04:00 UTC
@@ -9,7 +9,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [REPORT-Rodgers gets one of favorite teammates back](https://www.audacy.com/937thefan/sports/pittsburgh-riverhounds/report-rodgers-gets-one-of-favorite-teammates-back): Audacy, 2026-10-20 02:35 UTC
 - [49ers Practice Squad Player Turned Down Chance To Sign With Steelers In 2025](https://steelersdepot.com/2026/10/49ers-practice-squad-player-turned-down-chance-to-sign-with-steelers-in-2025/): Steelers Depot, 2026-10-20 02:34 UTC
 - [Report: Steelers to reunite with veteran wide receiver](https://www.wkbn.com/sports/pittsburgh-steelers/report-steelers-to-reunite-with-veteran-wide-receiver/): WKBN.com, 2026-10-20 02:28 UTC
-- [Former NFL first-rounder just got released, should Steelers pursue signing?](https://steelerswire.usatoday.com/story/sports/nfl/steelers/2026/10/19/steelers-evan-neal-raiders-release-nfl-news-signing-giants/92338863007/): Steelers Wire, 2026-10-20 02:18 UTC
 - [Steelers Set to Reunite with Former Wide Receiver](https://steelersnow.com/steelers-set-to-reunite-with-former-wide-receiver/): Steelers Now, 2026-10-20 01:21 UTC
 - [Steelers to sign WR Marquez Valdes-Scantling to practice squad](https://sports.yahoo.com/articles/steelers-sign-wr-marquez-valdes-012014351.html): Yahoo Sports, 2026-10-20 01:20 UTC
 - [Pittsburgh Steelers Found the Answer When Their Running Game Disappeared](https://athlonsports.com/nfl/pittsburgh-steelers/pittsburgh-steelers-germie-bernard-dk-metcalf-aaron-rodgers-tampa-bay-buccaneers): Athlon Sports, 2026-10-20 01:18 UTC
@@ -60,6 +59,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [McCarthy Says Rooney, Players Held Meeting With NFL Ahead Of Paris Game Amid Unrest](https://steelersdepot.com/2026/10/mccarthy-says-rooney-players-held-meeting-with-nfl-ahead-of-paris-game-amid-unrest/): Steelers Depot, 2026-10-19 19:34 UTC
 - [Quarterback Aaron Rodgers on Pittsburgh Steelers offense in the second half](https://www.nfl.com/videos/aaron-rodgers-on-steelers-offense-in-the-second-half): NFL.com, 2026-10-19 19:32 UTC
 - [‘Aggressive:’ Steelers Linebacker Praises Patrick Graham For Opening Up Playbook](https://steelersdepot.com/2026/10/aggressive-steelers-linebacker-praises-patrick-graham-for-opening-up-playbook/): Steelers Depot, 2026-10-19 19:15 UTC
+- [Steelers vs Saints picks, predictions, odds for NFL Week 7 game Sunday](https://www.azcentral.com/story/sports/nfl/2026/10/19/pittsburgh-steelers-new-orleans-saints-picks-predictions-odds-nfl-week-7/90426283007/): azcentral.com and The Arizona Republic, 2026-10-19 19:08 UTC
 - [Aaron Rodgers bashes Buccaneers’ poor playing surface: ‘That’s not very safe’](https://www.pennlive.com/steelers/2026/10/aaron-rodgers-doesnt-hold-back-about-the-buccaneers-playing-surface-thats-not-very-safe.html): PennLive (Nick Farabaugh), 2026-10-19 19:07 UTC
 - [‘It Looks Crazy Out There:’ Steelers’ Jaquan Brisker Reacts To Paris Protests](https://steelersdepot.com/2026/10/it-looks-crazy-out-there-steelers-jaquan-brisker-reacts-to-paris-protests/): Steelers Depot, 2026-10-19 19:00 UTC
 - [Steelers' Most Important Defenders Emerge in Week 6 Victory](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-most-important-defenders-emerge-week-6-victory): All Steelers (Sports Illustrated), 2026-10-19 19:00 UTC
@@ -74,6 +74,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - ["Fire Sale": Steelers Trading For Colts WR Josh Downs Suddenly On The Horizon](https://www.steelernation.com/2026/10/19/steelers-colts-josh-downs-suddenly): SteelerNation, 2026-10-19 17:34 UTC
 - [Saints Could Get Back Key Playmaker vs. Steelers](https://steelersnow.com/saints-could-get-back-key-playmaker-vs-steelers/): Steelers Now, 2026-10-19 17:23 UTC
 - [Steelers Safety Jaquan Brisker Speaks On Playing In Paris Amid Civil Unrest](https://www.steelernation.com/2026/10/19/steelers-safety-jaquan-brisker-paris): SteelerNation, 2026-10-19 16:47 UTC
+- [Chris Boswell Makes Steelers History in Week 6 Win Against Buccaneers](https://sportsnetpittsburgh.com/pittsburgh-steelers/news/chris-boswell-steelers-history-week-6-win-buccaneers/18effaa85f4e239f2212df12): SportsNet Pittsburgh, 2026-10-19 16:41 UTC
 - [Pittsburgh Steelers players address upcoming trip to Paris amid France unrest, violence](https://www.cbsnews.com/pittsburgh/news/pittsburgh-steelers-paris-france-violence-unrest-protests/): CBS News, 2026-10-19 16:34 UTC
 - [The Steelers finally unleashed their blitzes — and Jalen Ramsey — at Tampa Bay](https://www.post-gazette.com/sports/steelers/2026/10/19/steelers-blitz-jalen-ramsey/stories/202610190025): Pittsburgh Post-Gazette, 2026-10-19 16:30 UTC
 - [Pittsburgh Steelers lose key cornerback to hamstring injury](https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-lose-key-cornerback-to-injury.html): PennLive (Nick Farabaugh), 2026-10-19 16:16 UTC
@@ -99,7 +100,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers vs. Buccaneers: What they’re saying in Tampa Bay after loss](https://triblive.com/sports/steelers-vs-buccaneers-what-theyre-saying-in-tampa-bay-after-loss/): TribLive, 2026-10-19 12:00 UTC
 - [Former Steelers Joey Porter Jr. and George Pickens aren't changing things in Dallas](https://stillcurtain.com/former-steelers-joey-porter-jr-and-george-pickens-aren-t-changing-things-in-dallas-01m596xmkand?utm_source=RSS): Still Curtain, 2026-10-19 12:00 UTC
 - [Plays of the Game: Jamel Dean’s interception sets up Steelers’ late lead](https://www.steelcityunderground.com/2026/10/19/plays-of-the-game-jamel-deans-interception-sets-up-steelers-late-lead/): Steel City Underground, 2026-10-19 11:40 UTC
-- [Steelers get last laugh in Joey Porter Jr. drama with Cowboys](https://steelerswire.usatoday.com/story/sports/nfl/steelers/2026/10/19/steelers-joey-porter-jr-trade-cowboys-nfl-news-update/92325305007/): Steelers Wire, 2026-10-19 10:16 UTC
 - [‘He’s accepted the challenge’: Germie Bernard rewards Steelers’ faith in rookie wide receiver](https://triblive.com/sports/hes-accepted-the-challenge-germie-bernard-rewards-steelers-faith-in-rookie-wide-receiver/): TribLive, 2026-10-19 10:01 UTC
 - [Steelers fans have fresh Aaron Rodgers concerns despite comeback win](https://stillcurtain.com/pittsburgh-steelers-fans-have-fresh-aaron-rodgers-concerns-despite-comeback-win-01m58h04pa3e?utm_source=RSS): Still Curtain, 2026-10-19 10:00 UTC
 - [5 takeaways from the Steelers’ OT win over the Tampa Bay Buccaneers](https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176502/5-takeaways-from-the-steelers-26-19-ot-win-over-the-tampa-bay-buccaneers-mike-mccarthy-dk-metcalf-germie-bernard-jamel-dean): Behind the Steel Curtain, 2026-10-19 10:00 UTC

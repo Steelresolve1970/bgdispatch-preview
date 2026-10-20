@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-20T05:45:20+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T05:45:04+00:00._
+_Generated 2026-10-20T05:57:58+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T05:57:36+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [Steelers Raid Tampa! Mike McCarthy, Injury Updates & Next Stop Paris! | SF7P Ep. 212](https://podcasters.spotify.com/pod/show/steelersfor7podcast/episodes/Steelers-Raid-Tampa--Mike-McCarthy--Injury-Updates--Next-Stop-Paris---SF7P-Ep--212-e3qpdap): Steelers for 7 Podcast, 2026-10-20 05:11 UTC

@@ -1,6 +1,6 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-20T05:45:20+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T05:45:15+00:00._
+_Generated 2026-10-20T05:57:58+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T05:57:53+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
@@ -55,14 +55,12 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Will Steelers Be Active Shoppers Before Trade Deadline?](https://steelersdepot.com/2026/10/will-steelers-be-active-shoppers-before-trade-deadline/): Steelers Depot, first seen 2026-10-18 04:34 UTC
 - **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
   [1 player Steelers must trade before 2026 NFL trade deadline](https://sports.yahoo.com/articles/1-player-steelers-must-trade-172241457.html): Yahoo Sports, first seen 2026-10-18 08:06 UTC
-- **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
+- **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
   [Steelers have perfect trade candidate as NFL quarterback injuries pile up](https://sports.yahoo.com/articles/steelers-perfect-trade-candidate-nfl-171602560.html): Yahoo Sports, first seen 2026-10-18 04:34 UTC
-- **Rumor** · tier: Fan blog · consensus: 2 source(s), top tier National insider
-  [Steelers have perfect trade candidate as NFL quarterback injuries pile up](https://steelerswire.usatoday.com/story/sports/nfl/steelers/2026/10/16/steelers-mason-rudolph-trade-nfl-deadline-eagles-chargers-commanders/92283019007/): Steelers Wire, first seen 2026-10-18 12:06 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Steelers Learn Important Detail About Omar Khan's Trade Deadline Strategy](https://www.steelernation.com/2026/10/16/steelers-important-omar-khan-strategy): Steeler Nation, first seen 2026-10-18 04:34 UTC
-- **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
-  [3 cornerback trades the Steelers could make at NFL deadline](https://steelerswire.usatoday.com/story/sports/nfl/steelers/2026/10/16/steelers-cornerback-trade-targets-2026-nfl-deadline-eagles-packers-giants/92270243007/): Steelers Wire, first seen 2026-10-18 04:34 UTC
+- **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
+  [3 cornerback trades the Steelers could make at NFL deadline](https://www.aol.ca/articles/3-cornerback-trades-steelers-could-120357000.html): AOL.ca, first seen 2026-10-20 05:48 UTC
 - **Rumor** · tier: Fan blog · consensus: 4 source(s), top tier National insider
   [Brian Thomas Jr. headlines 7 WR trade targets Steelers can't afford to ignore](https://stillcurtain.com/brian-thomas-jr-headlines-7-wr-trade-targets-pittsburgh-steelers-can-t-afford-to-ignore-01m4rnfq23x6?utm_source=RSS): Still Curtain, first seen 2026-10-18 04:34 UTC
 - **Rumor** · tier: Fan blog · consensus: 4 source(s), top tier National insider
@@ -71,8 +69,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [No One Knows What Steelers Trade Deadline Plans Are](https://sports.yahoo.com/articles/no-one-knows-steelers-trade-110008508.html): Yahoo Sports, first seen 2026-10-19 17:56 UTC
 - **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
   [No One Knows What Steelers Trade Deadline Plans Are](https://www.si.com/nfl/steelers/onsi/no-one-knows-what-pittsburgh-steelers-trade-deadline-plans): Sports Illustrated, first seen 2026-10-18 04:34 UTC
-- **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
-  [3 safety trades the Steelers could make at NFL deadline](https://steelerswire.usatoday.com/story/sports/nfl/steelers/2026/10/16/steelers-safety-trade-targets-2026-nfl-deadline-budda-baker-jessie-bates-isaiah-pola-mao/92270056007/): Steelers Wire, first seen 2026-10-18 04:34 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Steelers coach is already on the hot seat (and the writing is on the wall)](https://stillcurtain.com/pittsburgh-steelers-coach-is-already-on-the-hot-seat-and-the-writing-is-on-the-wall-01m4x9aza3tm?utm_source=RSS): Still Curtain, first seen 2026-10-18 04:34 UTC
 

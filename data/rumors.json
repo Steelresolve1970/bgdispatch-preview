@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T05:45:15.025739+00:00",
+ "generated": "2026-10-20T05:57:53.832708+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -793,48 +793,16 @@
    "status_link": null,
    "first_seen": "2026-10-18T04:34:04.958633+00:00",
    "consensus": {
-    "cluster_id": "c3235f652540",
-    "independent_sources": 2,
+    "cluster_id": "5166a3f90bb0",
+    "independent_sources": 1,
     "sources": [
-     "Steelers Wire",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
-    "related_ids": [
-     "c3235f652540"
-    ]
+    "related_ids": []
    },
    "updated": "2026-10-18T04:34:04.958633+00:00"
-  },
-  {
-   "id": "c3235f652540",
-   "title": "Steelers have perfect trade candidate as NFL quarterback injuries pile up",
-   "source": "Steelers Wire",
-   "link": "https://steelerswire.usatoday.com/story/sports/nfl/steelers/2026/10/16/steelers-mason-rudolph-trade-nfl-deadline-eagles-chargers-commanders/92283019007/",
-   "published": "2026-10-16T17:16:00+00:00",
-   "summary": "Rumor-style report from Steelers Wire on a Steelers roster move. Full details at the source.",
-   "tier": "Fan blog",
-   "tier_score": 2,
-   "subjects": [],
-   "status": "Rumor",
-   "status_note": null,
-   "status_link": null,
-   "first_seen": "2026-10-18T12:06:09.039356+00:00",
-   "consensus": {
-    "cluster_id": "c3235f652540",
-    "independent_sources": 2,
-    "sources": [
-     "Steelers Wire",
-     "Yahoo Sports"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": [
-     "5166a3f90bb0"
-    ]
-   },
-   "updated": "2026-10-18T12:06:09.039356+00:00"
   },
   {
    "id": "f8467377df93",
@@ -863,30 +831,30 @@
    "updated": "2026-10-18T04:34:04.958633+00:00"
   },
   {
-   "id": "5917b0c92c3e",
+   "id": "0f1cf282df95",
    "title": "3 cornerback trades the Steelers could make at NFL deadline",
-   "source": "Steelers Wire",
-   "link": "https://steelerswire.usatoday.com/story/sports/nfl/steelers/2026/10/16/steelers-cornerback-trade-targets-2026-nfl-deadline-eagles-packers-giants/92270243007/",
-   "published": "2026-10-16T12:03:00+00:00",
-   "summary": "Rumor-style report from Steelers Wire on a Steelers roster move. Full details at the source.",
-   "tier": "Fan blog",
-   "tier_score": 2,
+   "source": "AOL.ca",
+   "link": "https://www.aol.ca/articles/3-cornerback-trades-steelers-could-120357000.html",
+   "published": "2026-10-16T12:03:57+00:00",
+   "summary": "Rumor-style report from AOL.ca on a Steelers roster move. Full details at the source.",
+   "tier": "Aggregator / other",
+   "tier_score": 1,
    "subjects": [],
    "status": "Rumor",
    "status_note": null,
    "status_link": null,
-   "first_seen": "2026-10-18T04:34:04.958633+00:00",
+   "first_seen": "2026-10-20T05:48:26.480307+00:00",
    "consensus": {
-    "cluster_id": "5917b0c92c3e",
+    "cluster_id": "0f1cf282df95",
     "independent_sources": 1,
     "sources": [
-     "Steelers Wire"
+     "AOL.ca"
     ],
-    "highest_tier": "Fan blog",
-    "highest_tier_score": 2,
+    "highest_tier": "Aggregator / other",
+    "highest_tier_score": 1,
     "related_ids": []
    },
-   "updated": "2026-10-18T04:34:04.958633+00:00"
+   "updated": "2026-10-20T05:48:26.480307+00:00"
   },
   {
    "id": "c46605b46d29",
@@ -1015,32 +983,6 @@
     "related_ids": [
      "b4555f2b0773"
     ]
-   },
-   "updated": "2026-10-18T04:34:04.958633+00:00"
-  },
-  {
-   "id": "9ff2df59b999",
-   "title": "3 safety trades the Steelers could make at NFL deadline",
-   "source": "Steelers Wire",
-   "link": "https://steelerswire.usatoday.com/story/sports/nfl/steelers/2026/10/16/steelers-safety-trade-targets-2026-nfl-deadline-budda-baker-jessie-bates-isaiah-pola-mao/92270056007/",
-   "published": "2026-10-16T10:07:00+00:00",
-   "summary": "Rumor-style report from Steelers Wire on a Steelers roster move. Full details at the source.",
-   "tier": "Fan blog",
-   "tier_score": 2,
-   "subjects": [],
-   "status": "Rumor",
-   "status_note": null,
-   "status_link": null,
-   "first_seen": "2026-10-18T04:34:04.958633+00:00",
-   "consensus": {
-    "cluster_id": "9ff2df59b999",
-    "independent_sources": 1,
-    "sources": [
-     "Steelers Wire"
-    ],
-    "highest_tier": "Fan blog",
-    "highest_tier_score": 2,
-    "related_ids": []
    },
    "updated": "2026-10-18T04:34:04.958633+00:00"
   },
