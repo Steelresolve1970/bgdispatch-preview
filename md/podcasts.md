@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-20T22:06:05+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T22:05:48+00:00._
+_Generated 2026-10-20T22:16:56+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T22:16:39+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Podcast: [DK's Double Shot of Steelers: Off OUI go!](https://podcasts.apple.com/us/podcast/id1072021022): DK Pittsburgh Sports, 2026-10-20 22:01 UTC
 - Podcast: [How The Steelers Survived Three Quarters Of Stalled Offense Ep 144](https://footbahlinwithben.buzzsprout.com): Footbahlin with Ben Roethlisberger, 2026-10-20 22:00 UTC
 - Video: [Aaron Rodgers, Steelers QBs Zip It Around In the Rain](https://www.youtube.com/watch?v=wGbvT-xgteI): Steelers Now, 2026-10-20 21:40 UTC
 - Video: [The Steelers Need to Run the Ball on Third Down More Often 🚨 #steelers #nfl](https://www.youtube.com/shorts/nyEwZLT3nXM): Locked On Steelers, 2026-10-20 21:29 UTC
@@ -136,7 +137,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Steelers Need Mike McCarthy to Overcome Lack of Separation of WRs DK Metcalf, Germie Bernard](https://podcasts.apple.com/us/podcast/steelers-need-mike-mccarthy-to-overcome-lack-of/id1140522532?i=1000796596907): Locked On Steelers, 2026-10-16 04:30 UTC
 - Podcast: [SCB Steelers Podcast 494 - Galloping Away](https://scblitz.podbean.com/e/scb-steelers-podcast-494-galloping-away/): Steel City Blitz, 2026-10-16 03:32 UTC
 - Podcast: [Steelers Preview: Previewing Steelers vs. Buccaneers, Week 6](https://podcasts.apple.com/us/podcast/steelers-preview-previewing-steelers-vs-buccaneers-week-6/id905962218?i=1000796570410): Steel Curtain Network (BTSC), 2026-10-16 00:00 UTC
-- Podcast: [DK’s Double Shot of Steelers: Take Tampa seriously?](https://podcasts.apple.com/us/podcast/dks-double-shot-of-steelers-take-tampa-seriously/id1072021022?i=1000796564168): DK Pittsburgh Sports, 2026-10-15 22:06 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

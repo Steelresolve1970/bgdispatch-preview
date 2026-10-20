@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T22:05:48.730198+00:00",
+ "generated": "2026-10-20T22:16:39.598574+00:00",
  "date_et": "2026-10-20",
  "days": 5,
  "display_days": 2,
@@ -48,7 +48,7 @@
    "status": "ok",
    "episodes": 1002,
    "week": 12,
-   "latest": "2026-10-20T06:05:00+00:00"
+   "latest": "2026-10-20T22:01:00+00:00"
   },
   {
    "show": "Steelers Blitz",
@@ -135,10 +135,10 @@
    "show": "The Arthur Moats Experience",
    "kind": "podcast",
    "url": "https://rss.pdrl.fm/20d9c9/feeds.libsyn.com/183851/rss/?redirect=false",
-   "status": "error: <urlopen error timed out>",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 100,
    "week": 4,
-   "latest": null
+   "latest": "2026-10-20T17:39:00+00:00"
   },
   {
    "show": "All Steelers Talk",
@@ -234,10 +234,10 @@
    "show": "The Christian Kuntz Podcast",
    "kind": "podcast",
    "url": "https://anchor.fm/s/f8ce42dc/podcast/rss",
-   "status": "error: <urlopen error timed out>",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 112,
    "week": 0,
-   "latest": null
+   "latest": "2026-10-15T09:00:00+00:00"
   },
   {
    "show": "The Christian Kuntz Podcast",
@@ -250,6 +250,14 @@
   }
  ],
  "items": [
+  {
+   "title": "DK's Double Shot of Steelers: Off OUI go!",
+   "show": "DK Pittsburgh Sports",
+   "kind": "podcast",
+   "link": "https://podcasts.apple.com/us/podcast/id1072021022",
+   "published": "2026-10-20T22:01:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports."
+  },
   {
    "title": "How The Steelers Survived Three Quarters Of Stalled Offense Ep 144",
    "show": "Footbahlin with Ben Roethlisberger",
@@ -1313,14 +1321,6 @@
    "link": "https://podcasts.apple.com/us/podcast/steelers-preview-previewing-steelers-vs-buccaneers-week-6/id905962218?i=1000796570410",
    "published": "2026-10-16T00:00:00+00:00",
    "summary": "Podcast episode from Steel Curtain Network (BTSC)."
-  },
-  {
-   "title": "DK\u2019s Double Shot of Steelers: Take Tampa seriously?",
-   "show": "DK Pittsburgh Sports",
-   "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/dks-double-shot-of-steelers-take-tampa-seriously/id1072021022?i=1000796564168",
-   "published": "2026-10-15T22:06:00+00:00",
-   "summary": "Podcast episode from DK Pittsburgh Sports."
   }
  ],
  "yt_channels": [],
