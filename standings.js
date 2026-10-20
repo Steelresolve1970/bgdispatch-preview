@@ -8,7 +8,7 @@ function render(d){
  const full=document.getElementById('standings-full');
  if(full){full.innerHTML=`<h2 class="section-title">NFL Standings</h2><p class="page-sub">${d.season} regular season through ${E(d.through||'')} · updated ${upd(d)} ET.</p>`+
   ['AFC','NFC'].map(c=>`<h3 class="stn-conf">${c}</h3><div class="stn-grid">${Object.keys(d.divisions).filter(k=>k.startsWith(c)).map(k=>table(k,d.divisions[k])).join('')}</div>`).join('')+
-  `<p class="fine">${E(d.order_note)} Data: <a href="${E(d.source_url)}" target="_blank" rel="noopener">${E(d.source)}</a>.</p>`;}
+  `<p class="fine">${E(d.order_note)} Data: <a href="${E(d.source_url)}" target="_blank" rel="noopener noreferrer">${E(d.source)}</a>.</p>`;}
  const box=document.getElementById('afcn-box'), n=d.divisions['AFC North'];
  if(box&&n){box.hidden=false;box.innerHTML=`<h2>AFC North</h2><table class="afcn"><thead><tr><th>Team</th><th class="num">W-L-T</th><th class="num">Div</th><th class="num">Strk</th></tr></thead><tbody>${n.map((r,i)=>`<tr class="${r.abbr==='PIT'?'pit':''}"><td>${i+1}. ${E(r.name.replace(/^.* /,''))}</td><td class="num">${r.w}-${r.l}-${r.t}</td><td class="num">${E(r.div)}</td><td class="num">${E(r.strk)}</td></tr>`).join('')}</tbody></table><p class="fine">Updated ${upd(d)} ET · <a href="#/game">Full standings →</a></p>`;}
 }

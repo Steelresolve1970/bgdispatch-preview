@@ -83,7 +83,7 @@ function render(b){
    ${teamStats(b)}
    ${playerBlock(b.away.abbr,b.players[b.away.abbr])}
    ${playerBlock(b.home.abbr,b.players[b.home.abbr])}
-   <p class="fine">${E(b.source||'Data: nflverse (CC-BY 4.0)')}. <a href="${E(b.source_url||'https://github.com/nflverse/nflverse-data')}" target="_blank" rel="noopener">nflverse</a>. Unofficial fan site.</p>
+   <p class="fine">${E(b.source||'Data: nflverse (CC-BY 4.0)')}. <a href="${E(b.source_url||'https://github.com/nflverse/nflverse-data')}" target="_blank" rel="noopener noreferrer">nflverse</a>. Unofficial fan site.</p>
    <p><a class="back" href="#/game">← Back to Schedule</a></p>`;
   document.title=`Box Score: ${b.away.abbr} ${b.away.score}–${b.home.abbr} ${b.home.score} – Black & Gold Dispatch`;
 }
@@ -129,5 +129,5 @@ window.BGDBox={panel(b){const pit=b.away.abbr==='PIT'?b.away.abbr:b.home.abbr,op
  const url=b.source_url||'https://github.com/nflverse/nflverse-data';
  return`<p class="fine">${E(b.week)} · ${E(b.away.name)} ${b.away.score}, ${E(b.home.name)} ${b.home.score} · ${b.live?'<b>Live</b>, updates during the game':'Final'}</p>${qtrTable(b)}${teamStats(b)}
   <div class="bs-pitfirst">${playerBlock(pit,b.players[pit],true)}${playerBlock(opp,b.players[opp],true)}</div>
-  <p class="fine bs-credit">Stats via <a href="${E(url)}" target="_blank" rel="noopener">${/balldontlie/i.test(url)?'BALLDONTLIE':'nflverse</a> (CC-BY 4.0'}${/balldontlie/i.test(url)?'</a>':')'}.${b.live?'':` <a href="#/boxscore/${encodeURIComponent(b.id)}">Full box score with scoring plays →</a>`}</p>`;}};
+  <p class="fine bs-credit">Stats via <a href="${E(url)}" target="_blank" rel="noopener noreferrer">${/balldontlie/i.test(url)?'BALLDONTLIE':'nflverse</a> (CC-BY 4.0'}${/balldontlie/i.test(url)?'</a>':')'}.${b.live?'':` <a href="#/boxscore/${encodeURIComponent(b.id)}">Full box score with scoring plays →</a>`}</p>`;}};
 })();

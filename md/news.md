@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-20T15:48:19+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T15:47:45+00:00._
+_Generated 2026-10-20T15:59:10+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T15:58:38+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Analyst Identifies Wide Receiver Pittsburgh Should Trade For](https://steelersdepot.com/2026/10/analyst-identifies-wide-receiver-pittsburgh-should-trade-for/): Steelers Depot, 2026-10-20 15:45 UTC
@@ -12,7 +12,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers' Germie Bernard Explains Critical DK Metcalf Block Behind Overtime Winner](https://www.steelernation.com/2026/10/20/steelers-germie-bernard-critical-dk-metcalf): SteelerNation, 2026-10-20 15:00 UTC
 - [Top Graded Steelers Entering Week 7: Steelers With Free Agency Steal Shining](https://athlonsports.com/nfl/pittsburgh-steelers/top-graded-steelers-entering-week-7-steelers-with-free-agency-steal-shining): Athlon Sports, 2026-10-20 15:00 UTC
 - [Week 7 Blog: The stacking has begun](https://www.steelers.com/news/week-7-blog-the-stacking-has-begun): Steelers.com (official), 2026-10-20 14:49 UTC
-- [Steelers Surprises: Unexpected heroes emerge in overtime comeback against Buccaneers](https://www.steelcityunderground.com/2026/10/20/steelers-surprises-unexpected-heroes-emerge-in-overtime-comeback-against-buccaneers/): Steel City Underground, 2026-10-20 14:49 UTC
 - [Steelers' Germie Bernard Got His Start The Hard Way](https://www.steelernation.com/2026/10/20/steelers-germie-bernard-hard-way): SteelerNation, 2026-10-20 14:44 UTC
 - [Steelers Were Rejected By Former Undrafted Free Agent In Favor Of Better Opportunity](https://www.steelernation.com/2026/10/20/steelers-rejected-free-agent-better): SteelerNation, 2026-10-20 14:31 UTC
 - [Stars & Skulls Grades for Steelers-Buccaneers | Locked On](https://steelersnow.com/stars-skulls-grades-for-steelers-buccaneers-locked-on/): Steelers Now, 2026-10-20 14:30 UTC
@@ -41,7 +40,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Buccaneers just showed Steelers why Drew Allar should be Aaron Rodgers' backup](https://stillcurtain.com/buccaneers-just-showed-pittsburgh-steelers-why-drew-allar-should-be-aaron-rodgers-backup-01m5agyy802f?utm_source=RSS): Still Curtain, 2026-10-20 12:00 UTC
 - [Steelers Intend To ‘Let The Competition Play Out’ As DeShon Elliott Works His Way Back Into Secondary](https://steelersdepot.com/2026/10/steelers-intend-to-let-the-competition-play-out-as-deshon-elliott-works-his-way-back-into-secondary/): Steelers Depot, 2026-10-20 12:00 UTC
 - [Steelers Week 6 grades: Nick Herbig and the defensive line delivered at Tampa Bay](https://www.post-gazette.com/sports/steelers/2026/10/20/steelers-player-grades-buccaneers/stories/202610200027): Pittsburgh Post-Gazette, 2026-10-20 12:00 UTC
-- [Plays of the Game: Germie Bernard scores first NFL touchdown to lift Steelers past Buccaneers](https://www.steelcityunderground.com/2026/10/20/plays-of-the-game-germie-bernard-scores-first-nfl-touchdown-to-lift-steelers-past-buccaneers/): Steel City Underground, 2026-10-20 11:47 UTC
 - [PFF Grades And Snap Counts: Steelers Vs Buccaneers](https://steelersdepot.com/2026/10/pff-grades-and-snap-counts-steelers-vs-buccaneers/): Steelers Depot, 2026-10-20 11:15 UTC
 - [4 Steelers standouts from their overtime victory over the Buccaneers](https://stillcurtain.com/4-pittsburgh-steelers-standouts-from-their-overtime-victory-over-the-buccaneers-01m5b8avetkk?utm_source=RSS): Still Curtain, 2026-10-20 11:00 UTC
 - [Steelers' Jalen Ramsey Is Not the Same Player Anymore - And That's Great News](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-jalen-ramsey-not-same-player-anymore-great-news): All Steelers (Sports Illustrated), 2026-10-20 11:00 UTC
@@ -122,11 +120,9 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers news: What to make of the Steelers’ win over the Bucs](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176554/steelers-news-what-to-make-of-the-steelers-win-over-the-bucs): Behind the Steel Curtain, 2026-10-19 14:18 UTC
 - [Steelers quietly land conditional draft pick tied to Joey Porter Jr. trade](https://stillcurtain.com/pittsburgh-steelers-quietly-land-conditional-nfl-draft-pick-joey-porter-jr-trade-01m5a4hnr6py?utm_source=RSS): Still Curtain, 2026-10-19 14:00 UTC
 - [Cup of Joe (Starkey): Only the delusional believe Steelers QB Aaron Rodgers is done](https://triblive.com/sports/cup-of-joe-starkey-only-the-delusional-believe-steelers-qb-aaron-rodgers-is-done/): TribLive, 2026-10-19 13:45 UTC
-- [Steelers Takeaways: Second-half comeback saves Pittsburgh in overtime win over Buccaneers](https://www.steelcityunderground.com/2026/10/19/steelers-takeaways-second-half-comeback-saves-pittsburgh-in-overtime-win-over-buccaneers/): Steel City Underground, 2026-10-19 13:14 UTC
 - [Germie Bernard's growing connection with Aaron Rodgers has Steelers buzzing](https://stillcurtain.com/germie-bernard-growing-connection-aaron-rodgers-pittsburgh-steelers-buzzing-01m59441d0x6?utm_source=RSS): Still Curtain, 2026-10-19 13:00 UTC
 - [Steelers vs. Buccaneers: What they’re saying in Tampa Bay after loss](https://triblive.com/sports/steelers-vs-buccaneers-what-theyre-saying-in-tampa-bay-after-loss/): TribLive, 2026-10-19 12:00 UTC
 - [Former Steelers Joey Porter Jr. and George Pickens aren't changing things in Dallas](https://stillcurtain.com/former-steelers-joey-porter-jr-and-george-pickens-aren-t-changing-things-in-dallas-01m596xmkand?utm_source=RSS): Still Curtain, 2026-10-19 12:00 UTC
-- [Plays of the Game: Jamel Dean’s interception sets up Steelers’ late lead](https://www.steelcityunderground.com/2026/10/19/plays-of-the-game-jamel-deans-interception-sets-up-steelers-late-lead/): Steel City Underground, 2026-10-19 11:40 UTC
 - [‘He’s accepted the challenge’: Germie Bernard rewards Steelers’ faith in rookie wide receiver](https://triblive.com/sports/hes-accepted-the-challenge-germie-bernard-rewards-steelers-faith-in-rookie-wide-receiver/): TribLive, 2026-10-19 10:01 UTC
 - [Steelers fans have fresh Aaron Rodgers concerns despite comeback win](https://stillcurtain.com/pittsburgh-steelers-fans-have-fresh-aaron-rodgers-concerns-despite-comeback-win-01m58h04pa3e?utm_source=RSS): Still Curtain, 2026-10-19 10:00 UTC
 - [5 takeaways from the Steelers’ OT win over the Tampa Bay Buccaneers](https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176502/5-takeaways-from-the-steelers-26-19-ot-win-over-the-tampa-bay-buccaneers-mike-mccarthy-dk-metcalf-germie-bernard-jamel-dean): Behind the Steel Curtain, 2026-10-19 10:00 UTC
@@ -153,6 +149,10 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [6 instant reactions to the Steelers' overtime victory over the Buccaneers](https://stillcurtain.com/6-instant-reactions-to-the-pittsburgh-steelers-overtime-victory-over-the-buccaneers-01m5868wawaf?utm_source=RSS): Still Curtain, 2026-10-18 21:10 UTC
 - [Steelers CB Jamel Dean gets the last laugh against his former team](https://stillcurtain.com/pittsburgh-steelers-cb-jamel-dean-gets-last-laugh-against-tampa-bay-buccaneers-01m58a2nnh8a?utm_source=RSS): Still Curtain, 2026-10-18 20:59 UTC
 - [The Steelers rally back from 13 down to beat the Buccaneers in overtime](https://www.post-gazette.com/sports/steelers/2026/10/18/steelers-buccaneers-aaron-rodgers-germie-bernard/stories/202610180075): Pittsburgh Post-Gazette, 2026-10-18 20:58 UTC
+- [Steelers get OT win but leave Tampa Bay with more offensive questions than answers](https://www.nytimes.com/athletic/7702085/2026/10/18/steelers-buccaneers-nfl-week-6-result-takeaways/): The Athletic, 2026-10-18 20:56 UTC
+- [Rapid Reaction: Steelers 26, Buccaneers 19](https://www.buccaneers.com/news/bucs-lose-pittsburgh-steelers-overtime-week-6-2026-score-26-19): Tampa Bay Buccaneers, 2026-10-18 20:50 UTC
+- [Steelers rally past Buccaneers, 26-19, in overtime](https://www.steelers.com/news/steelers-rally-past-buccaneers-26-19-in-overtime): Steelers.com (official), 2026-10-18 20:44 UTC
+- [Aaron Rodgers rallies Steelers back from 13-point deficit to beat Bucs in overtime](https://triblive.com/sports/aaron-rodgers-rallies-steelers-back-from-16-point-deficit-to-beat-bucs-in-overtime/): TribLive, 2026-10-18 20:44 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

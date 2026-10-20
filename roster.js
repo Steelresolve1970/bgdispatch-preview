@@ -18,7 +18,7 @@ let SOC={};
 function loadP(){return pReady||(pReady=Promise.all([fetch(BGD_url('data/roster/players.json'),{cache:'no-store'}).then(r=>r.json()).then(j=>P=j.players),
  fetch(BGD_url('data/player_socials.json'),{cache:'no-store'}).then(r=>r.ok?r.json():{}).then(j=>{SOC=(j&&j.players)||{};}).catch(()=>{})]));}
 // Player's own X account (verified list in data/player_socials.json). Plain text, no logos; opens in a new tab so the site stays open.
-const xl=id=>{const s=SOC[id];if(!s||s.active===false||!/^\w{1,15}$/.test(s.handle||''))return'';return`<p class="rr-social"><a class="rr-x ext-native" data-native="1" href="https://x.com/${E(s.handle)}" target="_blank" rel="noopener" aria-label="${E(s.name||'')} on X (opens in a new tab)">X: @${E(s.handle)}</a></p>`;};
+const xl=id=>{const s=SOC[id];if(!s||s.active===false||!/^\w{1,15}$/.test(s.handle||''))return'';return`<p class="rr-social"><a class="rr-x ext-native" data-native="1" href="https://x.com/${E(s.handle)}" target="_blank" rel="noopener noreferrer" aria-label="${E(s.name||'')} on X (opens in a new tab)">X: @${E(s.handle)}</a></p>`;};
 const asof=()=>`<p class="fine">nflverse roster data through Week ${R.nflverse_week} of ${R.season} (file updated ${new Date(R.nflverse_file_updated).toLocaleString('en-US',{timeZone:'America/New_York',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})} ET). Same-day signings and IR moves can take a day or two to show up. Tap a player for his card.</p>`;
 const nb=x=>x.num?'#'+E(x.num):'—';
 function renderPS(){if(!R)return;const ps=R.players.filter(p=>p.group==='Practice squad').sort((a,b)=>(+a.num||999)-(+b.num||999));

@@ -61,7 +61,7 @@
 
  function statPool(s,st){
   var out=[],done=(s&&s.games||[]).filter(function(g){return g.completed&&g.season_type==='REG'&&g.pit_score!==''&&g.opp_score!=='';});
-  var n=done.length,src='<a href="#/stats">Stats page</a> · data: <a href="https://github.com/nflverse/nflverse-data" target="_blank" rel="noopener">nflverse</a>';
+  var n=done.length,src='<a href="#/stats">Stats page</a> · data: <a href="https://github.com/nflverse/nflverse-data" target="_blank" rel="noopener noreferrer">nflverse</a>';
   if(n){
    var pf=0,pa=0,hw=0,hl=0,aw=0,al=0,best=null;
    done.forEach(function(g){var a=+g.pit_score,b=+g.opp_score;pf+=a;pa+=b;if(g.home){a>b?hw++:a<b&&hl++;}else{a>b?aw++:a<b&&al++;}if(a>b&&(!best||a-b>best.m))best={m:a-b,g:g};});
@@ -96,7 +96,7 @@
     if(wk.length){pick=wk[0];label='This week in '+pick.year;}}
    if(!pick)return null;
    var when=new Date(pick.year+'-'+pick.md+'T12:00:00Z').toLocaleDateString('en-US',{month:'long',day:'numeric',year:'numeric',timeZone:'UTC'});
-   return card('history','This day in Steelers history','<p class="eg-when">'+esc(label)+' · '+esc(when)+'</p><p class="eg-fact">'+esc(pick.text)+'</p><p class="eg-src">Source: <a href="'+esc(pick.link)+'" target="_blank" rel="noopener">'+esc(pick.source)+'</a> · <a href="#/history">More Steelers history</a></p>');
+   return card('history','This day in Steelers history','<p class="eg-when">'+esc(label)+' · '+esc(when)+'</p><p class="eg-fact">'+esc(pick.text)+'</p><p class="eg-src">Source: <a href="'+esc(pick.link)+'" target="_blank" rel="noopener noreferrer">'+esc(pick.source)+'</a> · <a href="#/history">More Steelers history</a></p>');
   }).catch(function(){return null;});
  }
 
@@ -142,7 +142,7 @@
    for(var i=0;i<Q.length&&out.length<3;i++){var q=Q[(start+i)%Q.length];if(seen[q.speaker])continue;seen[q.speaker]=1;out.push(q);}
    return out.map(function(q){var a=document.createElement('figure');a.className='eg eg-quote';
     var when=new Date(q.date+'T12:00:00Z').toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric',timeZone:'UTC'});
-    a.innerHTML='<p class="eg-kicker">Quote of the week</p><blockquote><p><span class="eg-qm" aria-hidden="true">&ldquo;</span>'+esc(q.text)+'<span class="eg-qm" aria-hidden="true">&rdquo;</span></p></blockquote><figcaption><span class="eg-who"><b>'+esc(q.speaker)+'</b>, '+esc(q.role)+'</span><span class="eg-meta">'+esc(when)+' · Source: <a href="'+esc(q.url)+'" target="_blank" rel="noopener">'+esc(q.source_name)+': '+esc(q.source_title)+'</a></span></figcaption>';
+    a.innerHTML='<p class="eg-kicker">Quote of the week</p><blockquote><p><span class="eg-qm" aria-hidden="true">&ldquo;</span>'+esc(q.text)+'<span class="eg-qm" aria-hidden="true">&rdquo;</span></p></blockquote><figcaption><span class="eg-who"><b>'+esc(q.speaker)+'</b>, '+esc(q.role)+'</span><span class="eg-meta">'+esc(when)+' · Source: <a href="'+esc(q.url)+'" target="_blank" rel="noopener noreferrer">'+esc(q.source_name)+': '+esc(q.source_title)+'</a></span></figcaption>';
     return a;});
   }).catch(function(){return [];});
  }

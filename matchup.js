@@ -3,7 +3,7 @@
 // Both are rebuilt by run_all.py on every update (nflverse CC-BY 4.0 stats; pundit picks link to sources).
 (function(){
 const E=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const EXT='target="_blank" rel="noopener"';
+const EXT='target="_blank" rel="noopener noreferrer"';
 const url=u=>window.BGD_url?BGD_url(u):u;
 const ord=n=>{const s=['th','st','nd','rd'],v=n%100;return n+(s[(v-20)%10]||s[v]||s[0]);};
 const css=`.mu{margin-top:8px}.mu .mu-head{display:flex;flex-wrap:wrap;gap:6px 14px;align-items:baseline}.mu .mu-head h2{margin:0}

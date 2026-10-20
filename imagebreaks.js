@@ -39,8 +39,8 @@
   var b=rest.filter(function(i){return !i.stadium;})[0]||rest[0];rest=rest.filter(function(i){return i!==b;});
   return [a,b,rest[0]];}
  function credit(i){var lic=String(i.license||'').split(' (')[0];
-  var who='<a href="'+esc(i.source_url)+'" target="_blank" rel="noopener">'+esc(i.author)+'</a>';
-  if(i.attribution_required)return 'Photo: '+who+', <a href="'+esc(i.license_url)+'" target="_blank" rel="noopener">'+esc(lic)+'</a>, '+(/retouch|edit/i.test(i.changes||'')?'cropped and edited':'cropped');
+  var who='<a href="'+esc(i.source_url)+'" target="_blank" rel="noopener noreferrer">'+esc(i.author)+'</a>';
+  if(i.attribution_required)return 'Photo: '+who+', <a href="'+esc(i.license_url)+'" target="_blank" rel="noopener noreferrer">'+esc(lic)+'</a>, '+(/retouch|edit/i.test(i.changes||'')?'cropped and edited':'cropped');
   return 'Photo: '+who+' ('+(/^CC0/.test(lic)?'CC0':'public domain')+')';}
  function fill(fig,i){if(!fig||!i)return;var wide=/3:1/.test(i.changes||'');fig.classList.toggle('ib-wide',wide);
   var s=fig.querySelector('source'),im=fig.querySelector('img'),cap=fig.querySelector('figcaption');

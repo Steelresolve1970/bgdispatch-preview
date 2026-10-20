@@ -31,13 +31,14 @@ document.readyState==='loading'?document.addEventListener('DOMContentLoaded',wir
   if(!isExt(a))return;
   a.setAttribute('target','_blank');
   const rel=new Set((a.getAttribute('rel')||'').toLowerCase().split(/\s+/).filter(Boolean));
-  rel.add('noopener');rel.delete('noreferrer');
+  rel.add('noopener');rel.add('noreferrer');
   a.setAttribute('rel',[...rel].join(' '));
   if(!a.classList.contains('btn')&&!a.classList.contains('back')&&!a.classList.contains('wordmark'))
    a.classList.add('ext-link');
  }
  function scan(){document.querySelectorAll('a[href]').forEach(harden);}
- document.addEventListener('click',e=>{const a=e.target.closest?.('a[href]');if(!a||!isExt(a)||a.dataset.bgdFb)return;harden(a);e.preventDefault();e.stopPropagation();try{sessionStorage.setItem('bgd_place',JSON.stringify({hash:location.hash||location.pathname,scroll:window.scrollY||0,t:Date.now()}));}catch(err){}let w=null;try{w=window.open(a.href,'_blank');}catch(err){}if(w)try{w.opener=null;}catch(err){}if(!w){const x=document.createElement('a');x.href=a.href;x.target='_blank';x.rel='noopener';x.dataset.bgdFb='1';document.body.appendChild(x);x.click();x.remove();}},true);
+ // Oct 20 2026: native new tab (target=_blank, set here before the browser follows the link). No window.open or preventDefault, so iPad Safari and home-screen mode behave the same.
+ document.addEventListener('click',e=>{const a=e.target.closest?.('a[href]');if(a&&isExt(a))harden(a);},true);
  const go=()=>{scan();try{new MutationObserver(ms=>{for(const m of ms)m.addedNodes.forEach(n=>{if(n.nodeType===1){if(n.matches?.('a[href]'))harden(n);n.querySelectorAll?.('a[href]')?.forEach(harden);}});}).observe(document.documentElement,{childList:true,subtree:true});}catch(e){}};
  document.readyState==='loading'?document.addEventListener('DOMContentLoaded',go):go();
 })();

@@ -3,7 +3,7 @@
  if(t&&/^[0-9a-f]{48,128}$/.test(t)){window.BGD_CLAIM=t;const want='/#/forum/claim/'+t;if(location.pathname+location.search+location.hash!==want)history.replaceState(null,'',want);}}catch(e){}})();
 const $=id=>document.getElementById(id);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const ext='target="_blank" rel="noopener"';
+const ext='target="_blank" rel="noopener noreferrer"';
 // Newsletter sign-up -> /api/newsletter -> Kit (double opt-in). Falls back to posting straight to Kit if our endpoint is down.
 window.BGD_KIT_FORM='10069961';
 window.BGD_sub=async function(ev,f){ev.preventDefault();const m=f.querySelector('.msg'),b=f.querySelector('button'),em=f.querySelector('input[type=email]'),fn=f.querySelector('input[name=first_name]');
@@ -36,9 +36,10 @@ const getJSON=u=>fetch(BGD_url(u),{cache:'no-store'}).then(r=>{if(!r.ok)throw r.
 const storyHref=n=>`#/story/${encodeURIComponent(n.id||'')}`;
 const storyIdFromLink=link=>{try{let h=0;const s=String(link||'');for(let i=0;i<s.length;i++)h=((h<<5)-h)+s.charCodeAt(i)|0;return (h>>>0).toString(16).slice(0,10);}catch(e){return'';}};
 const D={};
-const card=n=>{const id=n.id||storyIdFromLink(n.link);const href=id?`#/story/${encodeURIComponent(id)}`:'#/';
+/* One tap to the source (owner, Oct 20 2026): headline and link open the original article in a new tab; our own-words summary stays on the card. #/story/<id> still works for old shared links. */
+const card=n=>{const id=n.id||storyIdFromLink(n.link);const href=n.link?esc(n.link):(id?`#/story/${encodeURIComponent(id)}`:'#/'),x=n.link?' '+ext:'';
  return `<article class="card" data-story="${esc(id)}"><p class="meta"><b>${esc(n.source)}</b> · <time datetime="${esc(n.published)}">${ago(n.published)}</time></p>
- <h3><a class="hl" href="${href}">${esc(n.title)}</a></h3>${n.summary?`<p>${esc(n.summary)}</p>`:''}<a href="${href}">Our take →</a></article>`;};
+ <h3><a class="hl" href="${href}"${x}>${esc(n.title)}</a></h3>${n.summary?`<p>${esc(n.summary)}</p>`:''}<a href="${href}"${x}>Read at ${esc(n.source)} →</a></article>`;};
 const tile=(e,kind,who,cta)=>`<article class="pod"><p class="kind">${kind}</p><p class="meta"><b>${esc(who)}</b> · ${ago(e.published)}</p><h3><a class="hl" href="${esc(e.link)}" ${ext}>${esc(e.title)}</a></h3>${e.summary?`<p>${esc(e.summary)}</p>`:''}<a href="${esc(e.link)}" ${ext}>${cta} at source →</a></article>`;
 const empty=t=>`<p class="empty">${t}</p>`;
 
@@ -49,8 +50,8 @@ const TAGS=[['Trades',/trad(e|ing)/i],['Signings',/sign|contract|extension|deal|
 let rumorTag=null;
 
 function renderNews(){const n=D.news;if(!n||!n.items.length)return;const items=n.items,f=items[0];
- {const fid=f.id||storyIdFromLink(f.link);const fhref=fid?`#/story/${encodeURIComponent(fid)}`:'#/';
- $('featured').querySelector('.featured-body').innerHTML=`<span class="tag">Top Story</span><h1><a class="hl" href="${fhref}">${esc(f.title)}</a></h1>${f.summary?`<p>${esc(f.summary)}</p>`:''}<p class="meta">${esc(f.source)} · ${ago(f.published)} · <a href="${fhref}">Our take →</a></p>`;}
+ {const fid=f.id||storyIdFromLink(f.link);const fhref=f.link?esc(f.link):(fid?`#/story/${encodeURIComponent(fid)}`:'#/'),fx=f.link?' '+ext:'';
+ $('featured').querySelector('.featured-body').innerHTML=`<span class="tag">Top Story</span><h1><a class="hl" href="${fhref}"${fx}>${esc(f.title)}</a></h1>${f.summary?`<p>${esc(f.summary)}</p>`:''}<p class="meta">${esc(f.source)} · ${ago(f.published)} · <a href="${fhref}"${fx}>Read at ${esc(f.source)} →</a></p>`;}
  $('cards').innerHTML=items.slice(1,17).map(card).join('');
  $('updated').textContent=`${n.count} headlines from ${n.sources.filter(s=>s.status==='ok').length} sources · updated ${ago(n.generated)}`;
  const chips=$('rumor-chips'), cards=$('rumor-cards');
@@ -66,7 +67,7 @@ function renderInsTicker(all){const bar=$('insTicker'),mv=$('insMove');if(!bar||
  const list=(all||[]).slice().sort((a,b)=>b.published.localeCompare(a.published)).slice(0,15);if(!list.length){bar.hidden=true;mv.innerHTML='';return;}
  const cut=(s,n)=>{s=String(s||'');if(s.length<=n)return s;s=s.slice(0,n);const i=s.lastIndexOf(' ');return (i>40?s.slice(0,i):s).replace(/[\s,.;:]+$/,'')+'…';};
  const line=p=>cut(String(p.about||'').replace(/^@\S+\s+/,'').replace(/\.$/,'')||('Post on '+p.platform),90);
- const one=(hide)=>list.map(p=>`<a href="${esc(p.link)}" target="_blank" rel="noopener"${hide?' tabindex="-1"':''}><b>${esc(p.name)}</b> ${esc(line(p))} <time datetime="${esc(p.published)}">${ago(p.published)}</time></a>`).join('<i class="ins-dot" aria-hidden="true"></i>')+'<i class="ins-dot" aria-hidden="true"></i>';
+ const one=(hide)=>list.map(p=>`<a href="${esc(p.link)}" target="_blank" rel="noopener noreferrer"${hide?' tabindex="-1"':''}><b>${esc(p.name)}</b> ${esc(line(p))} <time datetime="${esc(p.published)}">${ago(p.published)}</time></a>`).join('<i class="ins-dot" aria-hidden="true"></i>')+'<i class="ins-dot" aria-hidden="true"></i>';
  mv.innerHTML=one(false)+`<span class="ins-copy" aria-hidden="true">${one(true)}</span>`;bar.hidden=false;
  requestAnimationFrame(()=>{const w=mv.scrollWidth/2,slow=matchMedia('(prefers-reduced-motion: reduce)').matches;mv.style.animationDuration=Math.max(40,Math.round(w/(slow?18:42)))+'s';}); /* ~42px/s: easy to read on a phone; reduced motion ~18px/s */
  if(!bar.dataset.wired){bar.dataset.wired='1';const on=()=>bar.classList.add('ins-paused'),off=()=>bar.classList.remove('ins-paused');
@@ -210,7 +211,7 @@ function renderStory(){
    ${n.summary?`<p class="story-summary">${esc(n.summary)}</p>`:''}
    <p class="story-credit fine">Summary by Black &amp; Gold Dispatch. Full article © ${src}.</p>
    <p class="story-actions">
-     <a class="btn primary ext-native" href="${url}" target="_blank" rel="noopener" data-native="1">Read full story at ${src} ↗</a>
+     <a class="btn primary ext-native" href="${url}" target="_blank" rel="noopener noreferrer" data-native="1">Read full story at ${src} ↗</a>
      <button type="button" class="btn ghost" data-copy="${url}">Copy link</button>
    </p>`;
 }
@@ -260,8 +261,10 @@ window.availHTML=function(name,list){const a=list||(window.BGD_AV&&window.BGD_AV
 // iPadOS Safari reports a Mac desktop UA; detect via maxTouchPoints. It often ignores
 // window.open after async work and may open target=_blank in-place — so for iPad / in-app
 // WebViews we do NOT preventDefault: a real <a target=_blank rel=noopener> handles the tap.
-// News cards go to #/story/<id> first. "Read full story" on that page is data-native.
-// Desktop: sync window.open; if blocked, show an in-site sheet (Open article + Copy link).
+// Oct 20 2026 (owner: "one tap to the source, keep our site open"): every outbound link is a real
+// <a target=_blank rel="noopener noreferrer"> on every device. No window.open, no in-site video
+// modal, no "Open article" sheet in between. News cards link straight to the source.
+// Home-screen (standalone) mode: a target=_blank link opens in Safari, the app view stays put.
 (function(){
  const PLACE='bgd_place';
  function savePlace(){try{if(/claim/.test(location.hash)||window.BGD_CLAIM)return;const p={hash:location.hash||'#/',scroll:window.scrollY||0,t:Date.now()};sessionStorage.setItem(PLACE,JSON.stringify(p));localStorage.setItem(PLACE,JSON.stringify(p));}catch(e){}}
@@ -270,6 +273,23 @@ window.availHTML=function(name,list){const a=list||(window.BGD_AV&&window.BGD_AV
   const cur=location.hash||'';if(cur&&cur!=='#'&&cur!=='#/'&&cur!==p.hash)return;
   const go=()=>{if(window.BGD_CLAIM||/claim/.test(location.hash))return;if((location.hash||'#/')!==p.hash)location.hash=p.hash;const sc=()=>window.scrollTo(0,p.scroll||0);sc();setTimeout(sc,120);setTimeout(sc,450);};if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',()=>setTimeout(go,0));else setTimeout(go,0);}catch(e){}}
  window.BGD_savePlace=savePlace;window.BGD_restorePlace=restorePlace;
+ // Back/Forward returns to the same page AND the same spot (route() scrolls to the top on every page change).
+ // Each history entry gets a key in history.state; its scroll position is kept in sessionStorage under that key.
+ const SP='bgd_scrollpos';let spMap={};try{spMap=JSON.parse(sessionStorage.getItem(SP)||'{}')||{};}catch(e){}
+ let spHold=0,spPend=null,spT=null;
+ const spKey=()=>{const st=history.state;return st&&typeof st==='object'&&st.bgdk?st.bgdk:null;};
+ const spEnsure=()=>{let k=spKey();if(k)return k;k=Date.now().toString(36)+Math.random().toString(36).slice(2,6);try{history.replaceState(Object.assign({},history.state&&typeof history.state==='object'?history.state:{},{bgdk:k}),'');}catch(e){return null;}return k;};
+ const spSave=()=>{if(Date.now()<spHold)return;const k=spEnsure();if(!k)return;spMap[k]=Math.round(window.scrollY||0);const ks=Object.keys(spMap);if(ks.length>80)ks.slice(0,ks.length-80).forEach(x=>delete spMap[x]);try{sessionStorage.setItem(SP,JSON.stringify(spMap));}catch(e){}};
+ const spGo=(y,steps)=>{spHold=Date.now()+(steps[steps.length-1]||0)+250;let user=false;const stop=()=>{user=true;spHold=0;};
+  addEventListener('touchstart',stop,{once:true,passive:true});addEventListener('wheel',stop,{once:true,passive:true});
+  steps.forEach(ms=>setTimeout(()=>{if(!user)window.scrollTo(0,y);},ms));};
+ history.scrollRestoration&&(history.scrollRestoration='manual');
+ addEventListener('scroll',()=>{clearTimeout(spT);spT=setTimeout(spSave,150);},{passive:true});
+ document.addEventListener('click',()=>spSave(),true);   // remember the spot the moment a link is tapped
+ addEventListener('pagehide',spSave);
+ addEventListener('popstate',()=>{spPend=spKey();});     // fires before hashchange; a key means Back/Forward to an entry we saw before
+ addEventListener('hashchange',()=>{const k=spPend;spPend=null;if(k&&spMap[k]!=null){spEnsure();spGo(spMap[k],[0,120,450]);}else spEnsure();});
+ addEventListener('pageshow',e=>{const k=spKey();if(k&&spMap[k]>0&&!e.persisted)spGo(spMap[k],[0,300,900,1800]);}); // full reload after Back (tab was dropped from memory)
  let scrollT=null;addEventListener('scroll',()=>{clearTimeout(scrollT);scrollT=setTimeout(savePlace,200);},{passive:true});
  addEventListener('hashchange',()=>setTimeout(savePlace,0));
  addEventListener('pagehide',savePlace);addEventListener('beforeunload',savePlace);
@@ -302,7 +322,7 @@ window.availHTML=function(name,list){const a=list||(window.BGD_AV&&window.BGD_AV
   if(!isExt(a))return false;
   a.setAttribute('target','_blank');
   const rel=new Set((a.getAttribute('rel')||'').toLowerCase().split(/\s+/).filter(Boolean));
-  rel.add('noopener');rel.delete('noreferrer');
+  rel.add('noopener');rel.add('noreferrer');
   a.setAttribute('rel',[...rel].join(' '));
   if(!a.classList.contains('ext-skip')&&!a.classList.contains('hl')&&!a.classList.contains('btn')&&!a.classList.contains('fv-out')&&!a.classList.contains('inj')&&!a.classList.contains('dp')&&!a.classList.contains('ext-native')&&!a.closest('#tickerMove,.fv-frame,.merch-grid,nav,#ext-viewer,#ext-sheet'))
    a.classList.add('ext-link');
@@ -335,7 +355,7 @@ window.availHTML=function(name,list){const a=list||(window.BGD_AV&&window.BGD_AV
   let host=document.getElementById('ext-viewer');
   if(host)return host;
   host=document.createElement('div');host.id='ext-viewer';host.className='yt-modal';host.setAttribute('role','dialog');host.setAttribute('aria-modal','true');
-  host.innerHTML=`<div class="yt-modal-card ext-viewer-card"><button type="button" class="yt-modal-x" aria-label="Close">✕</button><h2 class="yt-modal-title"></h2><div class="yt-modal-frame ext-viewer-frame"><iframe referrerpolicy="no-referrer-when-downgrade" title="External content"></iframe></div><p class="yt-modal-note" hidden></p><p class="yt-modal-actions"><a class="btn ghost yt-modal-ext ext-native" href="#" target="_blank" rel="noopener" data-native="1">Open in new tab ↗</a> <button type="button" class="btn ghost yt-modal-close">Close</button></p></div>`;
+  host.innerHTML=`<div class="yt-modal-card ext-viewer-card"><button type="button" class="yt-modal-x" aria-label="Close">✕</button><h2 class="yt-modal-title"></h2><div class="yt-modal-frame ext-viewer-frame"><iframe referrerpolicy="no-referrer-when-downgrade" title="External content"></iframe></div><p class="yt-modal-note" hidden></p><p class="yt-modal-actions"><a class="btn ghost yt-modal-ext ext-native" href="#" target="_blank" rel="noopener noreferrer" data-native="1">Open in new tab ↗</a> <button type="button" class="btn ghost yt-modal-close">Close</button></p></div>`;
   document.body.appendChild(host);
   host.addEventListener('click',e=>{if(e.target===host||e.target.closest('.yt-modal-x')||e.target.closest('.yt-modal-close'))closeViewer();});
   document.addEventListener('keydown',e=>{if(e.key==='Escape')closeViewer();});
@@ -357,7 +377,7 @@ window.availHTML=function(name,list){const a=list||(window.BGD_AV&&window.BGD_AV
   let host=document.getElementById('ext-sheet');
   if(!host){
    host=document.createElement('div');host.id='ext-sheet';host.className='yt-modal';host.setAttribute('role','dialog');host.setAttribute('aria-modal','true');
-   host.innerHTML=`<div class="yt-modal-card"><button type="button" class="yt-modal-x" aria-label="Close">✕</button><h2 class="yt-modal-title">Open article</h2><p class="story-summary ext-sheet-sum"></p><p class="yt-modal-actions"><a class="btn primary ext-native ext-sheet-open" href="#" target="_blank" rel="noopener" data-native="1">Open article ↗</a> <button type="button" class="btn ghost ext-sheet-copy">Copy link</button> <button type="button" class="btn ghost yt-modal-close">Stay here</button></p></div>`;
+   host.innerHTML=`<div class="yt-modal-card"><button type="button" class="yt-modal-x" aria-label="Close">✕</button><h2 class="yt-modal-title">Open article</h2><p class="story-summary ext-sheet-sum"></p><p class="yt-modal-actions"><a class="btn primary ext-native ext-sheet-open" href="#" target="_blank" rel="noopener noreferrer" data-native="1">Open article ↗</a> <button type="button" class="btn ghost ext-sheet-copy">Copy link</button> <button type="button" class="btn ghost yt-modal-close">Stay here</button></p></div>`;
    document.body.appendChild(host);
    host.addEventListener('click',e=>{if(e.target===host||e.target.closest('.yt-modal-x')||e.target.closest('.yt-modal-close')){host.classList.remove('open');document.body.classList.remove('yt-modal-open');}});
    host.querySelector('.ext-sheet-copy').addEventListener('click',()=>{const u=host.querySelector('.ext-sheet-open').href;const b=host.querySelector('.ext-sheet-copy');
@@ -395,12 +415,8 @@ window.availHTML=function(name,list){const a=list||(window.BGD_AV&&window.BGD_AV
  function onExtActivate(e){
   const a=e.target.closest?.('a[href]');if(!a||!isExt(a))return;
   if(a.closest?.('#ext-viewer')||a.closest?.('#ext-sheet'))return;
-  if(a.classList.contains('ext-native')||a.dataset.native==='1'){harden(a);savePlace();return;} // real target=_blank
-  harden(a);
-  // iPad / in-app: do not preventDefault — Safari must see a direct user-activated <a target=_blank>.
-  if(preferNative()){savePlace();return;}
-  const handled=openExternal(a.href,a);
-  if(handled){e.preventDefault();e.stopPropagation();if(typeof e.stopImmediatePropagation==='function')e.stopImmediatePropagation();}
+  // Native new tab everywhere: set target/rel before the browser follows the link, never preventDefault.
+  harden(a);savePlace();
  }
  document.addEventListener('click',onExtActivate,true);
  document.addEventListener('auxclick',e=>{if(e.button===1)onExtActivate(e);},true);

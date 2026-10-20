@@ -2,7 +2,7 @@
 // All data comes from files the fetchers write (nflverse CC-BY 4.0 data, our news feed, verified history).
 (function(){
 const X={};const E=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const EXT='target="_blank" rel="noopener"';const J=u=>fetch((window.BGD_url?BGD_url(u):u),{cache:'no-store'}).then(r=>{if(!r.ok)throw r.status;return r.json()});
+const EXT='target="_blank" rel="noopener noreferrer"';const J=u=>fetch((window.BGD_url?BGD_url(u):u),{cache:'no-store'}).then(r=>{if(!r.ok)throw r.status;return r.json()});
 const et=(iso,o)=>new Date(iso).toLocaleString('en-US',{timeZone:'America/New_York',...o});
 const ago=iso=>{if(iso==null||iso==='')return'';const t=new Date(iso).getTime();if(!Number.isFinite(t))return'';const m=Math.round((Date.now()-t)/6e4);if(m<0)return'';if(m>3650*1440)return'';return m<60?m+'m ago':m<1440?Math.round(m/60)+'h ago':Math.round(m/1440)+'d ago';};
 const $=id=>document.getElementById(id);const money=v=>v==null?'—':'$'+(v>=1e6?(v/1e6).toFixed(v>=1e7?1:2)+'M':Math.round(v/1e3)+'K');
@@ -43,7 +43,7 @@ function rumors(){const d=X.rum,el=$('rumormeter-body');if(!d||!el)return;const 
  <div class="box tiers-legend">${Object.entries(sc).map(([t,n])=>`<span><i class="meter m${n}">${'▮'.repeat(n)}${'▯'.repeat(4-n)}</i> ${t}</span>`).join('')}</div>
  <div class="chips">${['All','Rumor','Confirmed','Denied','National insider','Beat writer / team','Fan blog','Aggregator / other'].map(f=>`<button class="chip rm-f${rmF===f?' on':''}" data-f="${f}">${f}</button>`).join('')}</div>
  <div class="rm-list">${list.map(r=>`<article class="box rm"><div class="rm-top"><span class="st st-${r.status.toLowerCase()}">${r.status}</span><i class="meter m${sc[r.tier]}" title="${E(r.tier)}">${'▮'.repeat(sc[r.tier])}${'▯'.repeat(4-sc[r.tier])}</i><small>${E(r.tier)} · ${E(r.source)} · ${ago(r.published)}</small></div>
-  <a class="hl ext-native" href="${E(r.link)}" target="_blank" rel="noopener" data-native="1">${E(r.title)}</a>${r.summary?`<p>${E(r.summary)}</p>`:''}${r.status_note?`<p class="fine">${r.status==='Confirmed'?'✅ Confirmed by':'❌ Denied by'}: <a href="${E(r.status_link)}" target="_blank" rel="noopener" data-native="1" class="ext-native">${E(r.status_note)}</a></p>`:''}</article>`).join('')||'<p class="empty">No rumors in the last 5 days</p>'}</div>
+  <a class="hl ext-native" href="${E(r.link)}" target="_blank" rel="noopener noreferrer" data-native="1">${E(r.title)}</a>${r.summary?`<p>${E(r.summary)}</p>`:''}${r.status_note?`<p class="fine">${r.status==='Confirmed'?'✅ Confirmed by':'❌ Denied by'}: <a href="${E(r.status_link)}" target="_blank" rel="noopener noreferrer" data-native="1" class="ext-native">${E(r.status_note)}</a></p>`:''}</article>`).join('')||'<p class="empty">No rumors in the last 5 days</p>'}</div>
  <p class="fine">${E(d.method)}</p>`;}
 window.BGD_renderRumors=rumors;
 
@@ -135,7 +135,7 @@ if('serviceWorker' in navigator&&location.protocol!=='file:')navigator.serviceWo
 (function(){const E=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
  const tag={Out:'s-out',Doubtful:'s-doubt',Questionable:'s-q','Injured Reserve':'s-ir','Physically Unable to Perform':'s-ir'};
  const ab={Out:'OUT',Doubtful:'D',Questionable:'Q','Injured Reserve':'IR','Physically Unable to Perform':'PUP'};
- const pc=p=>p?`<${p.link?'a':'span'} class="dp"${p.link?` href="${E(p.link)}" target="_blank" rel="noopener"`:''}>${p.jersey?'<small>#'+E(p.jersey)+'</small> ':''}${E(p.name)}${p.injury?` <span class="pill ${tag[p.injury]||''}">${ab[p.injury]||E(p.injury)}</span>`:''}</${p.link?'a':'span'}>`:'<span class="dp none">—</span>';
+ const pc=p=>p?`<${p.link?'a':'span'} class="dp"${p.link?` href="${E(p.link)}" target="_blank" rel="noopener noreferrer"`:''}>${p.jersey?'<small>#'+E(p.jersey)+'</small> ':''}${E(p.name)}${p.injury?` <span class="pill ${tag[p.injury]||''}">${ab[p.injury]||E(p.injury)}</span>`:''}</${p.link?'a':'span'}>`:'<span class="dp none">—</span>';
  let D=null;let uSel='Offense';
  function render(){const el=document.getElementById('depth-body');if(!el||!D)return;const u=D.units.find(x=>x.unit===uSel)||D.units[0];
   el.innerHTML=`<p class="fine">Last updated ${new Date(D.generated).toLocaleString('en-US',{timeZone:'America/New_York',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})} ET · refreshed every update cycle · formation: ${E(u.formation)}</p>
@@ -215,7 +215,7 @@ if('serviceWorker' in navigator&&location.protocol!=='file:')navigator.serviceWo
   if(live)return {live:true,txt:`Live now: ${E(live.s.name)}`,sub:`Ends ${live.x.o.est?'about ':''}${hm(live.x.o.e)} ET`};
   if(next)return {live:false,txt:`Next: ${E(next.s.name)} in <span class="ll-cd" data-at="${next.x.o.s}">${dur(next.x.o.s-now)}</span>`,sub:`${dayLbl(next.x.o.s,now)}${hm(next.x.o.s)} ET`};
   return null;}
- function box1(s){const b=SH?stState(s.k,NOW()):null;return `<h2 class="ll-h">${E(s.n)} <small>${E(s.s)}</small></h2>${b?`<p class="ll-st${b.live?' ll-st-on':''}">${b.live?badge+' ':''}${b.txt}${b.sub?` <small>· ${b.sub}</small>`:''}</p>`:''}<p class="ll-desc">${E(s.l)}</p><a class="ll-btn" href="${E(s.u)}" target="_blank" rel="noopener">${E(s.b)}<span class="sr"> (opens in a new tab)</span></a><p class="fine ll-fine">Unofficial fan site; not affiliated with this station.</p>`;}
+ function box1(s){const b=SH?stState(s.k,NOW()):null;return `<h2 class="ll-h">${E(s.n)} <small>${E(s.s)}</small></h2>${b?`<p class="ll-st${b.live?' ll-st-on':''}">${b.live?badge+' ':''}${b.txt}${b.sub?` <small>· ${b.sub}</small>`:''}</p>`:''}<p class="ll-desc">${E(s.l)}</p><a class="ll-btn" href="${E(s.u)}" target="_blank" rel="noopener noreferrer">${E(s.b)}<span class="sr"> (opens in a new tab)</span></a><p class="fine ll-fine">Unofficial fan site; not affiliated with this station.</p>`;}
  function boxes(){return ST.map(s=>{const b=SH?stState(s.k,NOW()):null;return `<section class="box ll-box${b&&b.live?' ll-on':''}" data-st="${s.k}" aria-label="Listen live: ${E(s.n)}">${box1(s)}</section>`;}).join('');}
  // --- Home page: single ON AIR NOW / UP NEXT bar ---
  function barHtml(){if(!SH)return '';const now=NOW(),ph=phase(now);let pick=null,nx=null;
@@ -232,13 +232,13 @@ if('serviceWorker' in navigator&&location.protocol!=='file:')navigator.serviceWo
   const row=(s,isTop,nextRef)=>{const x=stat(s,now);let line='';
    if(x.live)line=`<span class="ll-now">On now · ends ${x.o.est?'about ':''}${hm(x.o.e)}</span>`;
    else if(isTop&&x.o&&nextRef&&s.name===nextRef.n)line=x.o.est?`Starts after the game, about ${hm(x.o.s)} ET`:`Starts in ${cd(x.o.s,false)}${dayLbl(x.o.s,now)?' '+dayLbl(x.o.s,now).trim():''}`;
-   return `<li class="${x.live?'ll-on':''}"><a href="${E(s.url)}" target="_blank" rel="noopener">${E(s.name)}</a>${x.live?' '+badge:''} <small>${E(s.where)} · ${E(s.when)}</small>${line?`<span class="ll-when">${line}</span>`:''}</li>`;};
+   return `<li class="${x.live?'ll-on':''}"><a href="${E(s.url)}" target="_blank" rel="noopener noreferrer">${E(s.name)}</a>${x.live?' '+badge:''} <small>${E(s.where)} · ${E(s.when)}</small>${line?`<span class="ll-when">${line}</span>`:''}</li>`;};
   const grp=(g,isTop)=>{const title=isTop&&ph.k==='weekday'&&g.key==='dayafter'?'Weekday talk shows':g.title;let nextRef=null;if(isTop){for(const s of g.shows){const x=stat(s,now);if(!x.live&&x.o&&(!nextRef||x.o.s<nextRef.s))nextRef={s:x.o.s,n:s.name};}}
    let L=g.shows,more=0;
    if(compact&&isTop){const k=s=>{const x=stat(s,now);return x.live?-1e15+x.o.s:x.o?x.o.s:1e15;};L=L.slice().sort((a,b)=>k(a)-k(b));more=Math.max(0,L.length-4);L=L.slice(0,4);}
    const body=`<ul>${L.map(s=>row(s,isTop,nextRef)).join('')}</ul>${more?`<p class="ll-more"><a href="#/podcasts" class="ll-golist">${more} more ${title.toLowerCase().replace(/ shows$/,'')} shows on the full list →</a></p>`:''}`;
    return isTop?`<div class="ll-grp ll-top"><h3>${E(title)}</h3>${body}</div>`:`<details class="ll-grp" data-k="${E(g.key)}"${open.has(g.key)?' open':''}><summary>${E(g.title)} <small>(${g.shows.length})</small></summary>${body}</details>`;};
-  const game=ph.k==='game'?`<div class="ll-game">${badge} <b>Steelers ${ph.g.home?'vs':'at'} ${E(ph.g.opp)}</b> is on now. <a href="#/live">See the live score</a> or <a href="${E(ST[0].u)}" target="_blank" rel="noopener">listen on 102.5 WDVE</a> (online, the game call may be limited by NFL rules).</div>`:'';
+  const game=ph.k==='game'?`<div class="ll-game">${badge} <b>Steelers ${ph.g.home?'vs':'at'} ${E(ph.g.opp)}</b> is on now. <a href="#/live">See the live score</a> or <a href="${E(ST[0].u)}" target="_blank" rel="noopener noreferrer">listen on 102.5 WDVE</a> (online, the game call may be limited by NFL rules).</div>`:'';
   return `<h2 class="section-title">${E(ph.h)}</h2>${game}${ord.map((g,i)=>grp(g,i===0&&!!top)).join('')}<p class="fine">${E(SH.note||'')} Live badges follow each show's published schedule.</p>`;}
  const st=document.createElement('style');st.textContent=`.ll-box{background:var(--black);color:#fff;border:3px solid var(--gold)!important;padding:14px 16px}.ll-box h2{color:var(--gold);text-transform:uppercase;letter-spacing:1px;font-weight:900;font-size:16px;margin:0 0 8px;line-height:1.25}
 .ll-box .ll-sub{margin:-4px 0 8px;font-size:12px;color:#ccc}
@@ -279,7 +279,7 @@ if('serviceWorker' in navigator&&location.protocol!=='file:')navigator.serviceWo
   const sh=document.getElementById('pods-radio');if(sh&&SH){sh.innerHTML=SL;sh.hidden=!SL||!podsAll();}
   const hr=document.getElementById('home-radio');if(hr&&SH){let H=SL;if(!hr.closest('.sidebar')){try{H=shows(true);}catch(e){H='';}}hr.innerHTML=H;hr.hidden=!H;}
   const lh=document.getElementById('live-shows');if(lh&&SH){let h='';try{const ph=phase(NOW());
-    h=(ph.k==='game'?`<div class="ll-game">${badge} <b>Steelers ${ph.g.home?'vs':'at'} ${E(ph.g.opp)}</b> is on now. The live score is just below, or <a href="${E(ST[0].u)}" target="_blank" rel="noopener">listen on 102.5 WDVE</a> (online, the game call may be limited by NFL rules).</div>`:'')+
+    h=(ph.k==='game'?`<div class="ll-game">${badge} <b>Steelers ${ph.g.home?'vs':'at'} ${E(ph.g.opp)}</b> is on now. The live score is just below, or <a href="${E(ST[0].u)}" target="_blank" rel="noopener noreferrer">listen on 102.5 WDVE</a> (online, the game call may be limited by NFL rules).</div>`:'')+
      `<p class="ll-link"><b>Game-day radio shows:</b> pre-game, post-game and weekday times, with what's on now. <a href="#/podcasts" class="ll-golist">See the full list →</a></p>`;}catch(e){}
    lh.innerHTML=h;lh.hidden=!h;}
   const bar=document.getElementById('home-onair');if(bar){let h='';try{h=barHtml();}catch(e){}
