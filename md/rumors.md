@@ -1,8 +1,10 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-20T00:50:41+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T00:50:36+00:00._
+_Generated 2026-10-20T01:02:03+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T01:01:58+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
+- **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
+  [Report: MVS to sign with Steelers’ practice squad](https://www.nbcsports.com/fantasy/football/player-news/2026-10-19/report-mvs-to-sign-with-steelers-practice-squad): NBC Sports, first seen 2026-10-20 01:01 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Report: Steelers Signing WR Marquez Valdes-Scantling](https://steelersdepot.com/2026/10/report-steelers-signing-wr-marquez-valdes-scantling-2/): Steelers Depot, first seen 2026-10-20 00:50 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other

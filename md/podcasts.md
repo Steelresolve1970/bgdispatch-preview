@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-20T00:50:41+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T00:50:25+00:00._
+_Generated 2026-10-20T01:02:03+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T01:01:48+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [ahoy.mp4](https://www.youtube.com/shorts/eJqO7AsgSnY): Pittsburgh Steelers (official), 2026-10-20 00:25 UTC
@@ -157,7 +157,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [DK's Daily Shot of Penguins: The goaltending rotation](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-penguins-the-goaltending-rotation/): DK Pittsburgh Sports, 2026-10-13 06:09 UTC
 - Podcast: [DK's Daily Shot of Pirates: Pay more to more players](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-pirates-pay-more-to-more-players/): DK Pittsburgh Sports, 2026-10-13 06:08 UTC
 - Podcast: [Scout’s Eye with Matt Williamson: Exceptional red zone defense](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/scouts-eye-with-matt-williamson-exceptional-red-zone-defense/): DK Pittsburgh Sports, 2026-10-13 06:07 UTC
-- Podcast: [Steelers Offense Shines, But Can They Keep It Up? | Illegal Hands to the Face](https://redcircle.com/shows/62750d24-c3c9-4be8-919a-ff22b312fb19/episodes/d66fe140-8bb4-471a-8502-fe09f5d0ff25): Still Curtain Podcast, 2026-10-13 01:00 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

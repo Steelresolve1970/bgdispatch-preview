@@ -16,7 +16,7 @@ const st=document.createElement('style');st.textContent=css;document.head.append
 async function cfg(){if(CFG)return CFG;try{const r=await fetch((window.BGD_url?BGD_url('data/site_config.json'):'data/site_config.json'),{cache:'no-store'});CFG=await r.json();}catch(e){CFG={};}return CFG;}
 async function render(){const el=$('contact-body');if(!el)return;const c=await cfg();const em=(c.contact_email||'').trim(),ph=(c.contact_phone||'').trim(),tel='+1'+ph.replace(/\D/g,'').replace(/^1(?=\d{10}$)/,'');shown=Date.now();
  const pre=(new URLSearchParams(location.hash.split('?')[1]||'')).get('topic');
- el.innerHTML=`<p class="page-sub">Ideas, fixes, corrections or questions: we read every message.${em?` You can also email us at <a href="mailto:${E(em)}">${E(em)}</a>${ph?` or call or text <a href="tel:${E(tel)}">${E(ph)}</a>`:''}.`:ph?` You can also call or text <a href="tel:${E(tel)}">${E(ph)}</a>.`:''}</p>
+ el.innerHTML=`<p class="page-sub">Ideas, fixes, corrections or questions: we read every message.${em?` You can also email us at <a href="mailto:${E(em)}">${E(em)}</a>${ph?` or call or <a href="sms:${E(tel)}">text</a> <a href="tel:${E(tel)}">${E(ph)}</a>`:''}.`:ph?` You can also call or <a href="sms:${E(tel)}">text</a> <a href="tel:${E(tel)}">${E(ph)}</a>.`:''}</p>
  <form class="ct-form" id="ct-form" novalidate>
   <label for="ct-n">Name <small>optional</small></label><input id="ct-n" name="name" type="text" maxlength="80" autocomplete="name">
   <label for="ct-e">Email <small>optional, only if you'd like a reply</small></label><input id="ct-e" name="email" type="email" maxlength="120" autocomplete="email">
