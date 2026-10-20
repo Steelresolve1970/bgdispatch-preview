@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-20T22:16:56+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T22:16:39+00:00._
+_Generated 2026-10-20T22:27:38+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T22:27:22+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Video: [Should Steelers Still Seek WR Help? | Steelers Afternoon Drive](https://www.youtube.com/watch?v=Bp2zQ4eZjX8): Steelers Now, 2026-10-20 22:21 UTC
 - Podcast: [DK's Double Shot of Steelers: Off OUI go!](https://podcasts.apple.com/us/podcast/id1072021022): DK Pittsburgh Sports, 2026-10-20 22:01 UTC
 - Podcast: [How The Steelers Survived Three Quarters Of Stalled Offense Ep 144](https://footbahlinwithben.buzzsprout.com): Footbahlin with Ben Roethlisberger, 2026-10-20 22:00 UTC
 - Video: [Aaron Rodgers, Steelers QBs Zip It Around In the Rain](https://www.youtube.com/watch?v=wGbvT-xgteI): Steelers Now, 2026-10-20 21:40 UTC
@@ -114,7 +115,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Trouble in Paradise? Inside Steelers-Buccaneers with Nick Farabaugh | THE PITTSBURGH FOOTBALL SHOW](https://www.youtube.com/watch?v=6s5qtvsRYeY): Steelers Now, 2026-10-16 17:40 UTC
 - Podcast: [Trouble in Paradise? Inside Steelers-Buccaneers with Nick Farabaugh | THE PITTSBURGH FOOTBALL SHOW](https://podcasts.apple.com/us/podcast/trouble-in-paradise-inside-steelers-buccaneers-with/id1700240934?i=1000796704169): Steelers Afternoon Drive, 2026-10-16 17:40 UTC
 - Podcast: [THE PITTSBURGH FOOTBALL SHOW, Episode 6, Oct. 16, 2026](https://podcasts.apple.com/us/podcast/the-pittsburgh-football-show-episode-6-oct-16-2026/id1700240934?i=1000796695057): Steelers Afternoon Drive, 2026-10-16 16:24 UTC
-- Video: [What to Make of Mike McCarthy So Far? | Steelers Morning Rush](https://www.youtube.com/watch?v=BWwGqQFkBbc): Steelers Now, 2026-10-16 16:19 UTC
 - Podcast: [What to Make of Mike McCarthy So Far? | Steelers Morning Rush](https://podcasts.apple.com/us/podcast/what-to-make-of-mike-mccarthy-so-far-steelers-morning-rush/id1700240934?i=1000796692758): Steelers Afternoon Drive, 2026-10-16 16:18 UTC
 - Podcast: [Smitty's Six Pack of Steelers-Buccaneers Topics | THE PITTSBURGH FOOTBALL SHOW](https://podcasts.apple.com/us/podcast/smittys-six-pack-of-steelers-buccaneers-topics/id1700240934?i=1000796692896): Steelers Afternoon Drive, 2026-10-16 16:15 UTC
 - Video: [So much went into this play for Elandon Roberts 💥🏈 #steelers #nfl #pittsburgh](https://www.youtube.com/shorts/5FYyVJkVFIw): Not Just Football with Cam Heyward, 2026-10-16 16:10 UTC
