@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T10:05:50.672618+00:00",
+ "generated": "2026-10-20T10:16:41.838191+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -44,6 +44,39 @@
  },
  "rumors": [
   {
+   "id": "cea338c8f16a",
+   "title": "First Call: Steelers reportedly signing Marquez Valdes-Scantling; a theory on Chris Boswell\u2019s FG miss dismissed",
+   "source": "TribLIVE.com",
+   "link": "https://triblive.com/sports/first-call-steelers-reportedly-signing-marquez-valdes-scantling-a-theory-on-chris-boswells-fg-miss-dismissed/",
+   "published": "2026-10-20T10:07:30+00:00",
+   "summary": "Rumor-style report from TribLIVE.com on a Steelers roster move. Full details at the source.",
+   "tier": "Aggregator / other",
+   "tier_score": 1,
+   "subjects": [
+    "Chris Boswell",
+    "First Call",
+    "Marquez Valdes-Scantling"
+   ],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-20T10:16:41.838191+00:00",
+   "consensus": {
+    "cluster_id": "7562897ee621",
+    "independent_sources": 2,
+    "sources": [
+     "Steelers Depot",
+     "TribLIVE.com"
+    ],
+    "highest_tier": "Fan blog",
+    "highest_tier_score": 2,
+    "related_ids": [
+     "7562897ee621"
+    ]
+   },
+   "updated": "2026-10-20T10:16:41.838191+00:00"
+  },
+  {
    "id": "8cb28a915183",
    "title": "Report: MVS to sign with Steelers\u2019 practice squad",
    "source": "NBC Sports",
@@ -85,13 +118,16 @@
    "first_seen": "2026-10-20T00:50:36.617557+00:00",
    "consensus": {
     "cluster_id": "7562897ee621",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
-     "Steelers Depot"
+     "Steelers Depot",
+     "TribLIVE.com"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "cea338c8f16a"
+    ]
    },
    "updated": "2026-10-20T00:50:36.617557+00:00"
   },

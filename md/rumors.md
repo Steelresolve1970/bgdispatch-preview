@@ -1,11 +1,13 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-20T10:05:56+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T10:05:50+00:00._
+_Generated 2026-10-20T10:16:47+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T10:16:41+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
+- **Rumor** · tier: Aggregator / other · consensus: 2 source(s), top tier Fan blog
+  [First Call: Steelers reportedly signing Marquez Valdes-Scantling; a theory on Chris Boswell’s FG miss dismissed](https://triblive.com/sports/first-call-steelers-reportedly-signing-marquez-valdes-scantling-a-theory-on-chris-boswells-fg-miss-dismissed/): TribLIVE.com, first seen 2026-10-20 10:16 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [Report: MVS to sign with Steelers’ practice squad](https://www.nbcsports.com/fantasy/football/player-news/2026-10-19/report-mvs-to-sign-with-steelers-practice-squad): NBC Sports, first seen 2026-10-20 01:01 UTC
-- **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
+- **Rumor** · tier: Fan blog · consensus: 2 source(s), top tier Fan blog
   [Report: Steelers Signing WR Marquez Valdes-Scantling](https://steelersdepot.com/2026/10/report-steelers-signing-wr-marquez-valdes-scantling-2/): Steelers Depot, first seen 2026-10-20 00:50 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [Steelers Trade Rumors: Pittsburgh Is Making Calls for Receiver Help — Could Mike McCarthy Turn to Dallas?](https://sportsnaut.com/nfl/steelers-trade-rumors-pittsburgh-is-making-calls-for-receiver-help-could-mike-mccarthy-turn-to-dallas): Sportsnaut, first seen 2026-10-20 00:50 UTC
