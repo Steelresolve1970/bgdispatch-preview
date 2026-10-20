@@ -1,8 +1,9 @@
 # Steelers News
 
-_Generated 2026-10-20T19:11:48+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T19:05:50+00:00._
+_Generated 2026-10-20T19:28:00+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T19:22:34+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Report Detailed Exactly What Steelers Are Looking For At The Trade Deadline](https://www.steelernation.com/2026/10/20/steelers-detailed-exactly-deadline): SteelerNation, 2026-10-20 19:07 UTC
 - [Chris Long Says He’ll ‘Walk Across America’ If Steelers Play In Super Bowl This Season](https://steelersdepot.com/2026/10/chris-long-says-hell-walk-across-america-if-steelers-play-in-super-bowl-this-season/): Steelers Depot, 2026-10-20 19:00 UTC
 - [History Favors Steelers Making The Playoffs](https://steelersdepot.com/2026/10/history-favors-steelers-making-the-playoffs/): Steelers Depot, 2026-10-20 18:30 UTC
 - [Steelers' Ben Skowronek's Injury May Have Been The Result Of Foul Play From The Colts](https://www.steelernation.com/2026/10/20/steelers-ben-skowronek-foul-colts): SteelerNation, 2026-10-20 18:21 UTC
@@ -93,7 +94,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Following the leader, a re-kick and the gist of run defense](https://www.steelers.com/news/following-the-leader-a-re-kick-and-the-gist-of-run-defense): Steelers.com (official), 2026-10-20 00:00 UTC
 - [Steelers Open as Favorites vs. Saints in Week 7](https://steelersnow.com/steelers-open-as-favorites-vs-saints-in-week-7/): Steelers Now, 2026-10-19 23:45 UTC
 - [Steelers' DK Metcalf Has Reason For Rocky Start To 2026 Season Exposed](https://www.steelernation.com/2026/10/19/steelers-dk-metcalf-season-exposed): SteelerNation, 2026-10-19 23:25 UTC
-- [Steelers Get Called Out By Mike McCarthy For Offensive Failure](https://www.steelernation.com/2026/10/19/steelers-mike-mccarthy-offensive-failure): SteelerNation, 2026-10-19 23:04 UTC
 - [Aaron Rodgers, Jalen Ramsey reach personal milestones in Steelers win over Buccaneers](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176581/aaron-rodgers-jalen-ramsey-reach-personal-milestones-in-steelers-win-over-buccaneers): Behind the Steel Curtain, 2026-10-19 22:50 UTC
 - [Steelers Afternoon Drive: Will Bernard Breakout Blow Up WR Plans?](https://steelersnow.com/steelers-afternoon-drive-will-bernard-breakout-blow-up-wr-plans/): Steelers Now, 2026-10-19 22:34 UTC
 - [WATCH: SNR Drive (All Episodes from Week of October 19)](https://www.steelers.com/news/watch-snr-drive-all-episodes-from-week-of-october-19): Steelers.com (official), 2026-10-19 22:00 UTC

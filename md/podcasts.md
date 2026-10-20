@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-20T19:11:48+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T19:06:03+00:00._
+_Generated 2026-10-20T19:28:00+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T19:06:03+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Is the Steelers pass defense actually fine without Joey Porter Jr? #steelers #nfl](https://www.youtube.com/shorts/I8qkYpoHneg): Still Curtain Podcast, 2026-10-20 18:15 UTC
