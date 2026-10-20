@@ -1,8 +1,10 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-20T06:55:58+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T06:55:43+00:00._
+_Generated 2026-10-20T07:06:35+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T07:06:19+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Video: [Only the Steelers Can Make Winning Look So Ugly | Illegal Hands to the Face](https://www.youtube.com/watch?v=idEz7_-TZ68): Still Curtain Podcast, 2026-10-20 06:54 UTC
+- Video: [Steelers' Mike McCarthy Must Lean More on Jaylen Warren, Under Center Offense to Fix 3rd Down Issues](https://www.youtube.com/watch?v=L7OiUYf66XA): Locked On Steelers, 2026-10-20 06:15 UTC
 - Podcast: [Scout’s Eye with Matt Williamson: That's winning defense](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/scouts-eye-with-matt-williamson-thats-winning-defense/): DK Pittsburgh Sports, 2026-10-20 06:02 UTC
 - Podcast: [Steelers' Mike McCarthy Must Lean More on Jaylen Warren, Under Center Offense to Fix 3rd Down Issues](https://lockedonpodcasts.com/podcasts/locked-on-steelers/): Locked On Steelers, 2026-10-20 06:00 UTC
 - Podcast: [Steelers Raid Tampa! Mike McCarthy, Injury Updates & Next Stop Paris! | SF7P Ep. 212](https://podcasters.spotify.com/pod/show/steelersfor7podcast/episodes/Steelers-Raid-Tampa--Mike-McCarthy--Injury-Updates--Next-Stop-Paris---SF7P-Ep--212-e3qpdap): Steelers for 7 Podcast, 2026-10-20 05:11 UTC
@@ -23,7 +25,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Steelers Save Their Best for Last in Overtime Win in Tampa](https://www.youtube.com/watch?v=WwJom70LMfs): Steel City Underground, 2026-10-19 20:01 UTC
 - Podcast: [Steelers Save Their Best for Last in Overtime Win in Tampa](https://www.steelcityunderground.com/podcast/2026/10/steelers-save-their-best-for-last-in-overtime-win-in-tampa/): Steel City Underground, 2026-10-19 19:40 UTC
 - Podcast: [Only the Steelers Can Make Winning Look So Ugly | Illegal Hands to the Face](https://redcircle.com/shows/62750d24-c3c9-4be8-919a-ff22b312fb19/episodes/a9b49b24-c6aa-4e45-9d33-504a994fcfb4): Still Curtain Podcast, 2026-10-19 19:38 UTC
-- Video: [Only the Steelers Can Make Winning Look So Ugly | Illegal Hands to the Face](https://www.youtube.com/watch?v=idEz7_-TZ68): Still Curtain Podcast, 2026-10-19 17:07 UTC
 - Podcast: [The Terrible Podcast — Steelers-Buccaneers Game Recap, Injury Recap, Clock Management, WR Rumblings & More](https://megaphone.link/SDP8391514828): The Terrible Podcast (Steelers Depot), 2026-10-19 16:55 UTC
 - Video: [Not many linebackers can do what he did with a Tom Brady pass 🤯🔥#patriots #tombrady #nfl](https://www.youtube.com/shorts/YKPK-rOYb1Q): Not Just Football with Cam Heyward, 2026-10-19 16:00 UTC
 - Podcast: [Hour 1: A Takeover in Tampa](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-101926-mp3): Steelers Blitz, 2026-10-19 16:00 UTC
@@ -60,10 +61,18 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Which Steelers Are Fantasy Must-Plays in Week 6? | THE PITTSBURGH FOOTBALL SHOW](https://www.youtube.com/watch?v=QLTI3E_BS94): Steelers Now, 2026-10-17 15:48 UTC
 - Video: [Burgh Bets with Bob Konarski: NFL and CFB Picks and Props for Week 6 | THE PITTSBURGH FOOTBALL SHOW](https://www.youtube.com/watch?v=Z7xvi-201f4): Steelers Now, 2026-10-17 13:45 UTC
 - Podcast: [🔥 JAYLEN WARREN ON FIRE! CAN THE STEELERS SINK TAMPA BAY? | SF7P EPISODE 211 ⚫🟡](https://podcasters.spotify.com/pod/show/steelersfor7podcast/episodes/JAYLEN-WARREN-ON-FIRE--CAN-THE-STEELERS-SINK-TAMPA-BAY---SF7P-EPISODE-211-e3qkqod): Steelers for 7 Podcast, 2026-10-17 04:46 UTC
+- Video: [Buccaneers Preview & Predictions | Steelers Afternoon Drive](https://www.youtube.com/watch?v=usANVtFc8bk): Steelers Now, 2026-10-16 22:10 UTC
 - Podcast: [DK’s Double Shot of Steelers: Those linebackers](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-double-shot-of-steelers-those-linebackers/): DK Pittsburgh Sports, 2026-10-16 22:01 UTC
 - Podcast: [The South Side Beat - Ep. 301: Can Steelers win on the road?](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/the-south-side-beat-ep-301-can-steelers-win-on-the-road/): DK Pittsburgh Sports, 2026-10-16 22:00 UTC
 - Podcast: [Steelers Hit With Even Worse WR News!](https://bleav.com/shows/all-steelers-talk/episodes/steelers-hit-with-even-worse-wr-news/): All Steelers Talk, 2026-10-16 21:13 UTC
 - Podcast: [The Terrible Take - Episode 2052 - October 16, 2026](https://megaphone.link/SDP8426283247): The Terrible Podcast (Steelers Depot), 2026-10-16 21:00 UTC
+- Video: [Jalen Ramsey Clarifies Comments | Steelers Practice Report](https://www.youtube.com/watch?v=bRDSxlq5FRQ): Steelers Now, 2026-10-16 19:59 UTC
+- Video: [Aaron Rodgers Bonds with Unheralded WRs | Steelers Sights & Sounds](https://www.youtube.com/watch?v=DypVLdv5nY0): Steelers Now, 2026-10-16 18:41 UTC
+- Video: [Is Kaden Wetjen on Short Leash? The Grand Finale with Jack Hillgrove | THE PITTSBURGH FOOTBALL SHOW](https://www.youtube.com/watch?v=bbQu6HyTAh4): Steelers Now, 2026-10-16 18:21 UTC
+- Video: [Trouble in Paradise? Inside Steelers-Buccaneers with Nick Farabaugh | THE PITTSBURGH FOOTBALL SHOW](https://www.youtube.com/watch?v=6s5qtvsRYeY): Steelers Now, 2026-10-16 17:40 UTC
+- Video: [What to Make of Mike McCarthy So Far? | Steelers Morning Rush](https://www.youtube.com/watch?v=BWwGqQFkBbc): Steelers Now, 2026-10-16 16:19 UTC
+- Video: [Smitty's Six Pack of Steelers-Buccaneers Topics | THE PITTSBURGH FOOTBALL SHOW](https://www.youtube.com/watch?v=xuypubMqt1o): Steelers Now, 2026-10-16 16:15 UTC
+- Video: [THE PITTSBURGH FOOTBALL SHOW, Episode 6, Oct. 16, 2026](https://www.youtube.com/watch?v=0l4fHR7bMbo): Steelers Now, 2026-10-16 16:12 UTC
 - Video: [So much went into this play for Elandon Roberts 💥🏈 #steelers #nfl #pittsburgh](https://www.youtube.com/shorts/5FYyVJkVFIw): Not Just Football with Cam Heyward, 2026-10-16 16:10 UTC
 - Podcast: [Hour 1: Final Breakdown of the Bucs](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-101626-mp3): Steelers Blitz, 2026-10-16 16:00 UTC
 - Podcast: [Drive10.16.26Hr1: 5 Star Friday](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-16-26hr1-mp3): SNR Drive, 2026-10-16 16:00 UTC

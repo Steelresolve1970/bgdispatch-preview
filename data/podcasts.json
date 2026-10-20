@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-20T06:55:43.284799+00:00",
+ "generated": "2026-10-20T07:06:19.885031+00:00",
  "date_et": "2026-10-20",
  "days": 5,
  "display_days": 2,
- "count": 111,
+ "count": 120,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -18,10 +18,10 @@
    "show": "Locked On Steelers",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7JorgD8nGLtvvMy1ogFetg",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
-   "week": 8,
-   "latest": null
+   "status": "ok",
+   "episodes": 15,
+   "week": 9,
+   "latest": "2026-10-20T06:15:07+00:00"
   },
   {
    "show": "The Terrible Podcast (Steelers Depot)",
@@ -81,10 +81,10 @@
    "show": "Still Curtain Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxjSNPLcRAVzDKOjhRwo-hQ",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 1,
-   "latest": null
+   "latest": "2026-10-20T06:54:43+00:00"
   },
   {
    "show": "Steel City Underground",
@@ -99,10 +99,10 @@
    "show": "Steel City Underground",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDcNNAMkYr-DzH6_XL-0p8Q",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 2,
-   "latest": null
+   "latest": "2026-10-19T20:01:57+00:00"
   },
   {
    "show": "Steelers Afternoon Drive",
@@ -153,10 +153,10 @@
    "show": "Steelers Now",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp1iAMIfmmgWewzJ07_Y7oA",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
-   "week": 7,
-   "latest": null
+   "status": "ok",
+   "episodes": 15,
+   "week": 15,
+   "latest": "2026-10-19T22:34:51+00:00"
   },
   {
    "show": "The Steel City Insider (Jim Wexell, 247Sports)",
@@ -189,7 +189,7 @@
    "show": "Nick Farabaugh on PennLive",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5yvng1eSgffmybUM-51fTw",
-   "status": "error: HTTP Error 404: Not Found",
+   "status": "ok",
    "episodes": 0,
    "week": 0,
    "latest": null
@@ -198,10 +198,10 @@
    "show": "Pittsburgh Steelers (official)",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChaRXjMDs4ppKfnTPE6Z89w",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 15,
-   "latest": null
+   "latest": "2026-10-20T00:25:35+00:00"
   },
   {
    "show": "Not Just Football with Cam Heyward",
@@ -216,10 +216,10 @@
    "show": "Not Just Football with Cam Heyward",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8hodyaoiw297aspKf9QVDA",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 6,
-   "latest": null
+   "latest": "2026-10-19T16:00:35+00:00"
   },
   {
    "show": "Footbahlin with Ben Roethlisberger",
@@ -243,13 +243,29 @@
    "show": "The Christian Kuntz Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKKBJcOGsYmwAATQv-xQYeA",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 0,
-   "latest": null
+   "latest": "2009-05-26T14:01:33+00:00"
   }
  ],
  "items": [
+  {
+   "title": "Only the Steelers Can Make Winning Look So Ugly | Illegal Hands to the Face",
+   "show": "Still Curtain Podcast",
+   "kind": "video",
+   "link": "https://www.youtube.com/watch?v=idEz7_-TZ68",
+   "published": "2026-10-20T06:54:43+00:00",
+   "summary": "Video from Still Curtain Podcast."
+  },
+  {
+   "title": "Steelers' Mike McCarthy Must Lean More on Jaylen Warren, Under Center Offense to Fix 3rd Down Issues",
+   "show": "Locked On Steelers",
+   "kind": "video",
+   "link": "https://www.youtube.com/watch?v=L7OiUYf66XA",
+   "published": "2026-10-20T06:15:07+00:00",
+   "summary": "Video from Locked On Steelers."
+  },
   {
    "title": "Scout\u2019s Eye with Matt Williamson: That's winning defense",
    "show": "DK Pittsburgh Sports",
@@ -425,14 +441,6 @@
    "link": "http://steelcurtainnetwork.com",
    "published": "2026-10-19T17:40:00+00:00",
    "summary": "Podcast episode from Steel Curtain Network (BTSC)."
-  },
-  {
-   "title": "Only the Steelers Can Make Winning Look So Ugly | Illegal Hands to the Face",
-   "show": "Still Curtain Podcast",
-   "kind": "video",
-   "link": "https://www.youtube.com/watch?v=idEz7_-TZ68",
-   "published": "2026-10-19T17:07:10+00:00",
-   "summary": "Video from Still Curtain Podcast."
   },
   {
    "title": "The Terrible Podcast \u2014 Steelers-Buccaneers Game Recap, Injury Recap, Clock Management, WR Rumblings & More",
@@ -803,6 +811,14 @@
    "summary": "Podcast episode from Steel Curtain Network (BTSC)."
   },
   {
+   "title": "Buccaneers Preview & Predictions | Steelers Afternoon Drive",
+   "show": "Steelers Now",
+   "kind": "video",
+   "link": "https://www.youtube.com/watch?v=usANVtFc8bk",
+   "published": "2026-10-16T22:10:44+00:00",
+   "summary": "Video from Steelers Now."
+  },
+  {
    "title": "DK\u2019s Double Shot of Steelers: Those linebackers",
    "show": "DK Pittsburgh Sports",
    "kind": "podcast",
@@ -833,6 +849,62 @@
    "link": "https://megaphone.link/SDP8426283247",
    "published": "2026-10-16T21:00:00+00:00",
    "summary": "Podcast episode from The Terrible Podcast (Steelers Depot)."
+  },
+  {
+   "title": "Jalen Ramsey Clarifies Comments | Steelers Practice Report",
+   "show": "Steelers Now",
+   "kind": "video",
+   "link": "https://www.youtube.com/watch?v=bRDSxlq5FRQ",
+   "published": "2026-10-16T19:59:42+00:00",
+   "summary": "Video from Steelers Now."
+  },
+  {
+   "title": "Aaron Rodgers Bonds with Unheralded WRs | Steelers Sights & Sounds",
+   "show": "Steelers Now",
+   "kind": "video",
+   "link": "https://www.youtube.com/watch?v=DypVLdv5nY0",
+   "published": "2026-10-16T18:41:30+00:00",
+   "summary": "Video from Steelers Now."
+  },
+  {
+   "title": "Is Kaden Wetjen on Short Leash? The Grand Finale with Jack Hillgrove | THE PITTSBURGH FOOTBALL SHOW",
+   "show": "Steelers Now",
+   "kind": "video",
+   "link": "https://www.youtube.com/watch?v=bbQu6HyTAh4",
+   "published": "2026-10-16T18:21:24+00:00",
+   "summary": "Video from Steelers Now."
+  },
+  {
+   "title": "Trouble in Paradise? Inside Steelers-Buccaneers with Nick Farabaugh | THE PITTSBURGH FOOTBALL SHOW",
+   "show": "Steelers Now",
+   "kind": "video",
+   "link": "https://www.youtube.com/watch?v=6s5qtvsRYeY",
+   "published": "2026-10-16T17:40:06+00:00",
+   "summary": "Video from Steelers Now."
+  },
+  {
+   "title": "What to Make of Mike McCarthy So Far? | Steelers Morning Rush",
+   "show": "Steelers Now",
+   "kind": "video",
+   "link": "https://www.youtube.com/watch?v=BWwGqQFkBbc",
+   "published": "2026-10-16T16:19:36+00:00",
+   "summary": "Video from Steelers Now."
+  },
+  {
+   "title": "Smitty's Six Pack of Steelers-Buccaneers Topics | THE PITTSBURGH FOOTBALL SHOW",
+   "show": "Steelers Now",
+   "kind": "video",
+   "link": "https://www.youtube.com/watch?v=xuypubMqt1o",
+   "published": "2026-10-16T16:15:10+00:00",
+   "summary": "Video from Steelers Now."
+  },
+  {
+   "title": "THE PITTSBURGH FOOTBALL SHOW, Episode 6, Oct. 16, 2026",
+   "show": "Steelers Now",
+   "kind": "video",
+   "link": "https://www.youtube.com/watch?v=0l4fHR7bMbo",
+   "published": "2026-10-16T16:12:00+00:00",
+   "summary": "Video from Steelers Now."
   },
   {
    "title": "So much went into this play for Elandon Roberts \ud83d\udca5\ud83c\udfc8 #steelers #nfl #pittsburgh",
@@ -1139,14 +1211,7 @@
    "summary": "Podcast episode from Steel Curtain Network (BTSC)."
   }
  ],
- "yt_channels": [
-  {
-   "show": "The Christian Kuntz Podcast",
-   "channel_id": "UCKKBJcOGsYmwAATQv-xQYeA",
-   "link": "https://www.youtube.com/channel/UCKKBJcOGsYmwAATQv-xQYeA",
-   "embed": "https://www.youtube-nocookie.com/embed/videoseries?list=UUKKBJcOGsYmwAATQv-xQYeA"
-  }
- ],
+ "yt_channels": [],
  "postgame": {
   "game": "2026_06_PIT_TB",
   "week": "Week 6",

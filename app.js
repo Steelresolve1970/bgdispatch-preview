@@ -105,6 +105,7 @@ function podChipsFit(){const c=$('pf-chips'),b=document.querySelector('#pods-fil
  if(cur&&cur.offsetTop+cur.offsetHeight>c.offsetTop+c.clientHeight+2&&!podChipsOpen)podChipsOpen=true; /* selected show sits in a hidden row: open the list */
  c.classList.toggle('open',podChipsOpen);b.hidden=!over;b.setAttribute('aria-expanded',podChipsOpen);b.textContent=podChipsOpen?'Fewer shows':`All ${c.children.length} shows`;}
 document.addEventListener('click',e=>{const b=e.target.closest&&e.target.closest('#pods-filter .pf-more');if(!b)return;e.preventDefault();podChipsOpen=!podChipsOpen;podChipsFit();});
+document.addEventListener('click',e=>{if(e.target.closest&&e.target.closest('#pods-filter .pf-seg-btn,#pods-filter .pf-showing a'))podChipsOpen=false;},true); /* All shows / Following / Clear: fold the show list back to 2 rows */
 document.addEventListener('focusin',e=>{const c=e.target.closest&&e.target.closest('#pf-chips .pf-chip');if(c&&!podChipsOpen){const w=$('pf-chips');if(c.offsetTop+c.offsetHeight>w.offsetTop+w.clientHeight+2){podChipsOpen=true;podChipsFit();}}});
 {let t;addEventListener('resize',()=>{clearTimeout(t);t=setTimeout(podChipsFit,150);});}
 document.addEventListener('route',e=>{if(e.detail==='podcasts')setTimeout(podChipsFit,0);});

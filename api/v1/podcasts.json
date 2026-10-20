@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-20T06:55:58+00:00",
- "data_updated": "2026-10-20T06:55:43+00:00",
- "count": 92,
+ "generated": "2026-10-20T07:06:35+00:00",
+ "data_updated": "2026-10-20T07:06:19+00:00",
+ "count": 101,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -19,6 +19,32 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/podcasts",
  "items": [
+  {
+   "id": "cc9cfdd6ece869b1",
+   "type": "video",
+   "title": "Only the Steelers Can Make Winning Look So Ugly | Illegal Hands to the Face",
+   "show": "Still Curtain Podcast",
+   "url": "https://www.youtube.com/watch?v=idEz7_-TZ68",
+   "published": "2026-10-20T06:54:43+00:00",
+   "summary": "Video from Still Curtain Podcast.",
+   "source": {
+    "name": "Still Curtain Podcast",
+    "url": null
+   }
+  },
+  {
+   "id": "77c663ccc9d5a1f2",
+   "type": "video",
+   "title": "Steelers' Mike McCarthy Must Lean More on Jaylen Warren, Under Center Offense to Fix 3rd Down Issues",
+   "show": "Locked On Steelers",
+   "url": "https://www.youtube.com/watch?v=L7OiUYf66XA",
+   "published": "2026-10-20T06:15:07+00:00",
+   "summary": "Video from Locked On Steelers.",
+   "source": {
+    "name": "Locked On Steelers",
+    "url": null
+   }
+  },
   {
    "id": "49f91158e941fbac",
    "type": "podcast_episode",
@@ -274,19 +300,6 @@
    "url": "https://redcircle.com/shows/62750d24-c3c9-4be8-919a-ff22b312fb19/episodes/a9b49b24-c6aa-4e45-9d33-504a994fcfb4",
    "published": "2026-10-19T19:38:53+00:00",
    "summary": "Podcast episode from Still Curtain Podcast.",
-   "source": {
-    "name": "Still Curtain Podcast",
-    "url": null
-   }
-  },
-  {
-   "id": "cc9cfdd6ece869b1",
-   "type": "video",
-   "title": "Only the Steelers Can Make Winning Look So Ugly | Illegal Hands to the Face",
-   "show": "Still Curtain Podcast",
-   "url": "https://www.youtube.com/watch?v=idEz7_-TZ68",
-   "published": "2026-10-19T17:07:10+00:00",
-   "summary": "Video from Still Curtain Podcast.",
    "source": {
     "name": "Still Curtain Podcast",
     "url": null
@@ -761,6 +774,19 @@
    }
   },
   {
+   "id": "249923d5e0fc7c44",
+   "type": "video",
+   "title": "Buccaneers Preview & Predictions | Steelers Afternoon Drive",
+   "show": "Steelers Now",
+   "url": "https://www.youtube.com/watch?v=usANVtFc8bk",
+   "published": "2026-10-16T22:10:44+00:00",
+   "summary": "Video from Steelers Now.",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   }
+  },
+  {
    "id": "1d72a024fabf0d83",
    "type": "podcast_episode",
    "title": "DK’s Double Shot of Steelers: Those linebackers",
@@ -809,6 +835,97 @@
    "summary": "Podcast episode from The Terrible Podcast (Steelers Depot).",
    "source": {
     "name": "The Terrible Podcast (Steelers Depot)",
+    "url": null
+   }
+  },
+  {
+   "id": "fc23a3f2e0cd6351",
+   "type": "video",
+   "title": "Jalen Ramsey Clarifies Comments | Steelers Practice Report",
+   "show": "Steelers Now",
+   "url": "https://www.youtube.com/watch?v=bRDSxlq5FRQ",
+   "published": "2026-10-16T19:59:42+00:00",
+   "summary": "Video from Steelers Now.",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   }
+  },
+  {
+   "id": "2dc0f27cf6e0bec2",
+   "type": "video",
+   "title": "Aaron Rodgers Bonds with Unheralded WRs | Steelers Sights & Sounds",
+   "show": "Steelers Now",
+   "url": "https://www.youtube.com/watch?v=DypVLdv5nY0",
+   "published": "2026-10-16T18:41:30+00:00",
+   "summary": "Video from Steelers Now.",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   }
+  },
+  {
+   "id": "b43be43ac4414edc",
+   "type": "video",
+   "title": "Is Kaden Wetjen on Short Leash? The Grand Finale with Jack Hillgrove | THE PITTSBURGH FOOTBALL SHOW",
+   "show": "Steelers Now",
+   "url": "https://www.youtube.com/watch?v=bbQu6HyTAh4",
+   "published": "2026-10-16T18:21:24+00:00",
+   "summary": "Video from Steelers Now.",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   }
+  },
+  {
+   "id": "0395f0a97854e011",
+   "type": "video",
+   "title": "Trouble in Paradise? Inside Steelers-Buccaneers with Nick Farabaugh | THE PITTSBURGH FOOTBALL SHOW",
+   "show": "Steelers Now",
+   "url": "https://www.youtube.com/watch?v=6s5qtvsRYeY",
+   "published": "2026-10-16T17:40:06+00:00",
+   "summary": "Video from Steelers Now.",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   }
+  },
+  {
+   "id": "bb029f72f04c1aa6",
+   "type": "video",
+   "title": "What to Make of Mike McCarthy So Far? | Steelers Morning Rush",
+   "show": "Steelers Now",
+   "url": "https://www.youtube.com/watch?v=BWwGqQFkBbc",
+   "published": "2026-10-16T16:19:36+00:00",
+   "summary": "Video from Steelers Now.",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   }
+  },
+  {
+   "id": "255128397ef1ce70",
+   "type": "video",
+   "title": "Smitty's Six Pack of Steelers-Buccaneers Topics | THE PITTSBURGH FOOTBALL SHOW",
+   "show": "Steelers Now",
+   "url": "https://www.youtube.com/watch?v=xuypubMqt1o",
+   "published": "2026-10-16T16:15:10+00:00",
+   "summary": "Video from Steelers Now.",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   }
+  },
+  {
+   "id": "10558bc531d9fc99",
+   "type": "video",
+   "title": "THE PITTSBURGH FOOTBALL SHOW, Episode 6, Oct. 16, 2026",
+   "show": "Steelers Now",
+   "url": "https://www.youtube.com/watch?v=0l4fHR7bMbo",
+   "published": "2026-10-16T16:12:00+00:00",
+   "summary": "Video from Steelers Now.",
+   "source": {
+    "name": "Steelers Now",
     "url": null
    }
   },
