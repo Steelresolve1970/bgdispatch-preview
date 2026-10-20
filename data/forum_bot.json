@@ -1,11 +1,35 @@
 {
- "generated": "2026-10-20T03:52:14.193043+00:00",
+ "generated": "2026-10-20T04:04:28.682604+00:00",
  "bot": {
   "name": "Dispatch Desk",
   "bot": true,
   "about": "Posts automatically. Opens game threads, daily topics and polls. Not a person."
  },
  "topics": [
+  {
+   "id": "daily-2026-10-20",
+   "kind": "Daily discussion",
+   "cat": "Depth Chart & Roster",
+   "pinned": false,
+   "created": "2026-10-20T08:00:00-04:00",
+   "title": "Daily Discussion (Oct 20): The Forgotten Play That Helped The Steelers Beat The Buccaneers",
+   "body": "Today's top headline comes from Steelers Depot. Read it at the link, then tell us: does it change how you see this team?",
+   "links": [
+    {
+     "label": "Read at Steelers Depot \u2192",
+     "href": "https://steelersdepot.com/2026/10/the-forgotten-play-that-helped-the-steelers-beat-the-buccaneers/",
+     "external": true
+    },
+    {
+     "label": "All news",
+     "href": "#/"
+    }
+   ],
+   "author": "Dispatch Desk",
+   "bot": true,
+   "replies": 0,
+   "views": null
+  },
   {
    "id": "poll-2026-10-19",
    "kind": "Weekly poll",

@@ -73,8 +73,8 @@
   ((st&&st.team)||[]).forEach(function(t){if(t.rank&&t.rank<=10&&t.value&&!/per game|scored|allowed|Touchdowns/i.test(t.label))
    out.push({num:t.value,line:t.label+(t.section==='Defense'&&!/allowed/i.test(t.label)?' by the defense':'')+' this season, '+ord(t.rank)+(t.lower_is_better?' fewest':'')+' in the NFL.',src:src});});
   var lead={'Sacks':'sacks','Tackles':'tackles','Rush Yds':'rushing yards','Rec Yds':'receiving yards','Pass TD':'touchdown passes','INT':'interceptions','PD':'passes defended'};
-  Object.keys(lead).forEach(function(k){var top=null;((st&&st.players)||[]).forEach(function(p){var v=p.stats&&p.stats[k];if(!v)return;var x=parseFloat(String(v.value).replace(/,/g,''));if(!(x>0))return;if(!top||x>top.x)top={x:x,p:p,v:v};});
-   if(top)out.push({num:top.v.value,line:top.p.name+' leads the team in '+lead[k]+(top.v.rank&&top.v.rank<=20?', '+ord(top.v.rank)+' in the NFL':'')+'.',src:src});});
+  Object.keys(lead).forEach(function(k){var top=null;((st&&st.players)||[]).forEach(function(p){var v=p.stats&&p.stats[k];if(!v)return;var x=parseFloat(String(v.value).replace(/,/g,''));if(!(x>0))return;if(!top||x>top.x)top={x:x,p:p,v:v,tie:false};else if(x===top.x)top.tie=true;});
+   if(top&&!top.tie)out.push({num:top.v.value,line:top.p.name+' leads the team in '+lead[k]+(top.v.rank&&top.v.rank<=20?', '+ord(top.v.rank)+' in the NFL':'')+'.',src:src});});
   return out;
  }
  function buildStat(){

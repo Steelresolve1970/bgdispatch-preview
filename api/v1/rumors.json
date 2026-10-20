@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "rumors",
  "description": "Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).",
- "generated": "2026-10-20T03:52:43+00:00",
- "data_updated": "2026-10-20T03:52:39+00:00",
- "count": 46,
+ "generated": "2026-10-20T04:04:38+00:00",
+ "data_updated": "2026-10-20T04:04:33+00:00",
+ "count": 36,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -722,18 +722,15 @@
    "published": "2026-10-16T22:35:11+00:00",
    "people": [],
    "consensus": {
-    "cluster_id": "c67d73eea6cd",
-    "independent_sources": 2,
+    "cluster_id": "601fa2aecd5d",
+    "independent_sources": 1,
     "sources": [
-     "Steelers Depot",
-     "Yahoo Sports"
+     "Steelers Depot"
     ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
+    "highest_tier": "Fan blog",
+    "highest_tier_score": 2,
     "related_ids": [
-     "601fa2aecd5d",
-     "64e717f9f071",
-     "c67d73eea6cd"
+     "601fa2aecd5d"
     ]
    }
   },
@@ -789,18 +786,15 @@
    "published": "2026-10-16T20:19:38+00:00",
    "people": [],
    "consensus": {
-    "cluster_id": "c67d73eea6cd",
-    "independent_sources": 2,
+    "cluster_id": "601fa2aecd5d",
+    "independent_sources": 1,
     "sources": [
-     "Steelers Depot",
-     "Yahoo Sports"
+     "Steelers Depot"
     ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
+    "highest_tier": "Fan blog",
+    "highest_tier_score": 2,
     "related_ids": [
-     "43d4a76b13c9",
-     "64e717f9f071",
-     "c67d73eea6cd"
+     "43d4a76b13c9"
     ]
    }
   },
@@ -1157,318 +1151,6 @@
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
     "related_ids": []
-   }
-  },
-  {
-   "id": "40c36f37a43b",
-   "type": "rumor",
-   "title": "Steelers Visiting With Pro Bowl WR Amid Trade Rumors",
-   "summary": "Trade/roster move story from roundtable.io. Full report at the original publisher.",
-   "url": "https://roundtable.io/sports/nfl/steelers/news/steelers-visiting-with-pro-bowl-wr-amid-trade-rumors",
-   "source": {
-    "name": "roundtable.io",
-    "url": null,
-    "reliability_tier": "Aggregator / other",
-    "reliability_score": 1
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-18T04:34:04+00:00",
-   "updated": "2026-10-18T04:34:04+00:00",
-   "published": "2026-10-16T00:07:45+00:00",
-   "people": [],
-   "consensus": {
-    "cluster_id": "5ad446649580",
-    "independent_sources": 2,
-    "sources": [
-     "Yahoo Sports",
-     "roundtable.io"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": [
-     "5ad446649580"
-    ]
-   }
-  },
-  {
-   "id": "5ad446649580",
-   "type": "rumor",
-   "title": "Steelers Visiting With Pro Bowl WR Amid Trade Rumors",
-   "summary": "Trade/roster move story from Yahoo Sports. Full report at the original publisher.",
-   "url": "https://sports.yahoo.com/articles/steelers-visiting-pro-bowl-wr-233953182.html",
-   "source": {
-    "name": "Yahoo Sports",
-    "url": null,
-    "reliability_tier": "National insider",
-    "reliability_score": 4
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-19T17:56:36+00:00",
-   "updated": "2026-10-19T17:56:36+00:00",
-   "published": "2026-10-15T23:39:53+00:00",
-   "people": [],
-   "consensus": {
-    "cluster_id": "5ad446649580",
-    "independent_sources": 2,
-    "sources": [
-     "Yahoo Sports",
-     "roundtable.io"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": [
-     "40c36f37a43b"
-    ]
-   }
-  },
-  {
-   "id": "bc2979686f73",
-   "type": "rumor",
-   "title": "Steelers Rumors: Insider Predicts Busy Trade Deadline For Pittsburgh",
-   "summary": "Trade/roster move story from Chat Sports. Full report at the original publisher.",
-   "url": "https://www.chatsports.com/pittsburgh-steelers/a/steelers-rumors-insider-predicts-busy-trade-deadline-pittsburgh-53309",
-   "source": {
-    "name": "Chat Sports",
-    "url": null,
-    "reliability_tier": "Fan blog",
-    "reliability_score": 2
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-18T04:34:04+00:00",
-   "updated": "2026-10-18T04:34:04+00:00",
-   "published": "2026-10-15T23:15:07+00:00",
-   "people": [],
-   "consensus": {
-    "cluster_id": "bc2979686f73",
-    "independent_sources": 1,
-    "sources": [
-     "Chat Sports"
-    ],
-    "highest_tier": "Fan blog",
-    "highest_tier_score": 2,
-    "related_ids": []
-   }
-  },
-  {
-   "id": "038c7d82d0b0",
-   "type": "rumor",
-   "title": "NFL Insider: Steelers Could Make Rare Trade Inside AFC North In-Season",
-   "summary": "Trade/roster move story from Steeler Nation. Full report at the original publisher.",
-   "url": "https://www.steelernation.com/2026/10/15/steelers-rare-trade-insider-afc-north",
-   "source": {
-    "name": "Steeler Nation",
-    "url": null,
-    "reliability_tier": "Fan blog",
-    "reliability_score": 2
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-18T04:34:04+00:00",
-   "updated": "2026-10-18T04:34:04+00:00",
-   "published": "2026-10-15T22:28:58+00:00",
-   "people": [],
-   "consensus": {
-    "cluster_id": "038c7d82d0b0",
-    "independent_sources": 1,
-    "sources": [
-     "Steeler Nation"
-    ],
-    "highest_tier": "Fan blog",
-    "highest_tier_score": 2,
-    "related_ids": []
-   }
-  },
-  {
-   "id": "c5accacd5cd9",
-   "type": "rumor",
-   "title": "Steelers Expected to Make Big Trade Move Before Nov 10 Deadline",
-   "summary": "Trade/roster move story from Yahoo Sports. Full report at the original publisher.",
-   "url": "https://sports.yahoo.com/articles/steelers-expected-big-trade-move-212149727.html",
-   "source": {
-    "name": "Yahoo Sports",
-    "url": null,
-    "reliability_tier": "National insider",
-    "reliability_score": 4
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-18T04:34:04+00:00",
-   "updated": "2026-10-18T04:34:04+00:00",
-   "published": "2026-10-15T21:21:49+00:00",
-   "people": [],
-   "consensus": {
-    "cluster_id": "c5accacd5cd9",
-    "independent_sources": 1,
-    "sources": [
-     "Yahoo Sports"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": []
-   }
-  },
-  {
-   "id": "2e483e86cb94",
-   "type": "rumor",
-   "title": "Steelers have an ideal Chargers trade target hiding in plain sight",
-   "summary": "Trade/roster move story from Still Curtain. Full report at the original publisher.",
-   "url": "https://stillcurtain.com/pittsburgh-steelers-have-an-ideal-chargers-trade-target-hiding-in-plain-sight-01m4rgvtk45h?utm_source=RSS",
-   "source": {
-    "name": "Still Curtain",
-    "url": null,
-    "reliability_tier": "Fan blog",
-    "reliability_score": 2
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-18T04:34:04+00:00",
-   "updated": "2026-10-18T04:34:04+00:00",
-   "published": "2026-10-15T16:00:03+00:00",
-   "people": [],
-   "consensus": {
-    "cluster_id": "1ae7b4da0019",
-    "independent_sources": 1,
-    "sources": [
-     "Still Curtain"
-    ],
-    "highest_tier": "Fan blog",
-    "highest_tier_score": 2,
-    "related_ids": [
-     "1ae7b4da0019"
-    ]
-   }
-  },
-  {
-   "id": "1ae7b4da0019",
-   "type": "rumor",
-   "title": "Steelers have an ideal Chargers trade target hiding in plain sight",
-   "summary": "Trade/roster move story from Still Curtain. Full report at the original publisher.",
-   "url": "https://stillcurtain.com/pittsburgh-steelers-have-an-ideal-chargers-trade-target-hiding-in-plain-sight-01m4rgvtk45h",
-   "source": {
-    "name": "Still Curtain",
-    "url": null,
-    "reliability_tier": "Fan blog",
-    "reliability_score": 2
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-19T17:56:36+00:00",
-   "updated": "2026-10-19T17:56:36+00:00",
-   "published": "2026-10-15T16:00:03+00:00",
-   "people": [],
-   "consensus": {
-    "cluster_id": "1ae7b4da0019",
-    "independent_sources": 1,
-    "sources": [
-     "Still Curtain"
-    ],
-    "highest_tier": "Fan blog",
-    "highest_tier_score": 2,
-    "related_ids": [
-     "2e483e86cb94"
-    ]
-   }
-  },
-  {
-   "id": "ed1176768f71",
-   "type": "rumor",
-   "title": "Could Baker Mayfield return in Week 6 game vs. Steelers?",
-   "summary": "Game story from Steelers Wire. Full report at the original publisher.",
-   "url": "https://steelerswire.usatoday.com/story/sports/nfl/steelers/2026/10/15/steelers-buccaneers-baker-mayfield-injury-return-nfl-news-update/92255907007/",
-   "source": {
-    "name": "Steelers Wire",
-    "url": null,
-    "reliability_tier": "Fan blog",
-    "reliability_score": 2
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-19T17:56:36+00:00",
-   "updated": "2026-10-19T17:56:36+00:00",
-   "published": "2026-10-15T15:32:00+00:00",
-   "people": [
-    "Could Baker Mayfield"
-   ],
-   "consensus": {
-    "cluster_id": "ed1176768f71",
-    "independent_sources": 1,
-    "sources": [
-     "Steelers Wire"
-    ],
-    "highest_tier": "Fan blog",
-    "highest_tier_score": 2,
-    "related_ids": []
-   }
-  },
-  {
-   "id": "64e717f9f071",
-   "type": "rumor",
-   "title": "Steelers Active at Trade Deadline?",
-   "summary": "Trade/roster move story from Yahoo Sports. Full report at the original publisher.",
-   "url": "https://sports.yahoo.com/articles/steelers-active-trade-deadline-steelers-151048233.html",
-   "source": {
-    "name": "Yahoo Sports",
-    "url": null,
-    "reliability_tier": "National insider",
-    "reliability_score": 4
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-18T04:34:04+00:00",
-   "updated": "2026-10-18T04:34:04+00:00",
-   "published": "2026-10-15T15:10:48+00:00",
-   "people": [],
-   "consensus": {
-    "cluster_id": "c67d73eea6cd",
-    "independent_sources": 2,
-    "sources": [
-     "Steelers Depot",
-     "Yahoo Sports"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": [
-     "43d4a76b13c9",
-     "601fa2aecd5d",
-     "c67d73eea6cd"
-    ]
-   }
-  },
-  {
-   "id": "c67d73eea6cd",
-   "type": "rumor",
-   "title": "Kaboly: ‘Strong Indications’ Steelers Will Be ‘Active’ At Trade Deadline",
-   "summary": "Trade/roster move story from Steelers Depot. Full report at the original publisher.",
-   "url": "https://steelersdepot.com/2026/10/kaboly-strong-indications-steelers-will-be-active-at-trade-deadline/",
-   "source": {
-    "name": "Steelers Depot",
-    "url": null,
-    "reliability_tier": "Fan blog",
-    "reliability_score": 2
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-18T04:34:04+00:00",
-   "updated": "2026-10-18T04:34:04+00:00",
-   "published": "2026-10-15T04:57:46+00:00",
-   "people": [],
-   "consensus": {
-    "cluster_id": "c67d73eea6cd",
-    "independent_sources": 2,
-    "sources": [
-     "Steelers Depot",
-     "Yahoo Sports"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": [
-     "43d4a76b13c9",
-     "601fa2aecd5d",
-     "64e717f9f071"
-    ]
    }
   }
  ]

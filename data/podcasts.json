@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-20T03:52:08.457903+00:00",
- "date_et": "2026-10-19",
+ "generated": "2026-10-20T04:04:22.887512+00:00",
+ "date_et": "2026-10-20",
  "days": 5,
  "count": 130,
  "shows": [
@@ -17,7 +17,7 @@
    "show": "Locked On Steelers",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7JorgD8nGLtvvMy1ogFetg",
-   "status": "error: HTTP Error 500: Internal Server Error",
+   "status": "error: HTTP Error 404: Not Found",
    "episodes": 0,
    "week": 9,
    "latest": null
@@ -98,7 +98,7 @@
    "show": "Steel City Underground",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDcNNAMkYr-DzH6_XL-0p8Q",
-   "status": "error: HTTP Error 500: Internal Server Error",
+   "status": "error: HTTP Error 404: Not Found",
    "episodes": 0,
    "week": 2,
    "latest": null
@@ -215,7 +215,7 @@
    "show": "Not Just Football with Cam Heyward",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8hodyaoiw297aspKf9QVDA",
-   "status": "error: HTTP Error 404: Not Found",
+   "status": "error: HTTP Error 500: Internal Server Error",
    "episodes": 0,
    "week": 6,
    "latest": null
