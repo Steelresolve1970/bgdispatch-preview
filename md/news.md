@@ -1,13 +1,16 @@
 # Steelers News
 
-_Generated 2026-10-20T01:12:43+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T01:12:18+00:00._
+_Generated 2026-10-20T01:23:49+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T01:22:56+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Steelers Set to Reunite with Former Wide Receiver](https://steelersnow.com/steelers-set-to-reunite-with-former-wide-receiver/): Steelers Now, 2026-10-20 01:21 UTC
+- [Grading the signing: Pittsburgh Steelers bring back a familiar face to help the wide receiver room amid multiple injuries](https://atozsports.com/nfl/pittsburgh-steelers-news/steelers-signing-marquez-valdes-scantling-practice-squad-wr-trade-rumors/): A to Z Sports, 2026-10-20 01:15 UTC
+- [Listen: Steelers Depot Q&A Livestream – October 19th](https://steelersdepot.com/2026/10/listen-steelers-depot-qa-livestream-october-19th/): Steelers Depot, 2026-10-20 01:13 UTC
 - [Depot After Dark: Players And Danny Smith, Warren And Gainwell Jersey Swap, Colts Fire GM](https://steelersdepot.com/2026/10/depot-after-dark-players-and-danny-smith-warren-and-gainwell-jersey-swap-colts-fire-gm/): Steelers Depot, 2026-10-20 01:00 UTC
 - [Report: Steelers Bring Back Veteran WR For Another Aaron Rodgers Reunion](https://www.steelernation.com/2026/10/19/steelers-veteran-report-reunite-aaron-rodgers): SteelerNation, 2026-10-20 00:59 UTC
 - [Steelers signing WR Marquez Valdes-Scantling](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176587/steelers-signing-wr-marquez-valdes-scantling): Behind the Steel Curtain, 2026-10-20 00:55 UTC
 - [Report: Steelers Signing WR Marquez Valdes-Scantling](https://steelersdepot.com/2026/10/report-steelers-signing-wr-marquez-valdes-scantling-2/): Steelers Depot, 2026-10-20 00:46 UTC
-- [Steelers, Aaron Rodgers to reunite with Marquez Valdes-Scantling: Source](https://www.nytimes.com/athletic/7706229/2026/10/19/steelers-aaron-rodgers-marquez-valdes-scantling-signing/): The Athletic, 2026-10-20 00:39 UTC
+- [Steelers, Aaron Rodgers to reunite with Marquez Valdes-Scantling: Source](https://www.nytimes.com/athletic/7706229/2026/10/19/steelers-aaron-rodgers-marquez-valdes-scantling-signing/): The New York Times, 2026-10-20 00:42 UTC
 - [Jaylen Warren Leads NFL in Jaw-Dropping Stat Despite Quiet Week 6 Performance](https://steelersnow.com/jaylen-warren-leads-nfl-in-jaw-dropping-stat-despite-quiet-week-6-performance/): Steelers Now, 2026-10-20 00:10 UTC
 - [BTSC Monday Night Football thread: Commanders at 49ers](https://www.behindthesteelcurtain.com/pittsburgh-steelers-discussion/176386/btsc-monday-night-football-thread-commanders-at-49ers): Behind the Steel Curtain, 2026-10-20 00:00 UTC
 - [Following the leader, a re-kick and the gist of run defense](https://www.steelers.com/news/following-the-leader-a-re-kick-and-the-gist-of-run-defense): Steelers.com (official), 2026-10-20 00:00 UTC
@@ -65,7 +68,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [The Terrible Podcast — Steelers-Buccaneers Game Recap, Injury Situation, Clock Management, WR Rumblings & More](https://steelersdepot.com/2026/10/the-terrible-podcast-steelers-buccaneers-game-recap-injury-situation-clock-management-wr-rumblings-more/): Steelers Depot, 2026-10-19 17:02 UTC
 - [Todd Bowles on Baker Mayfield’s Timeline to Return | Press Conference](https://www.buccaneers.com/video/todd-bowles-on-baker-mayfield-timeline-to-return-press-conference): Tampa Bay Buccaneers, 2026-10-19 17:00 UTC
 - [Steelers Safety Jaquan Brisker Speaks On Playing In Paris Amid Civil Unrest](https://www.steelernation.com/2026/10/19/steelers-safety-jaquan-brisker-paris): SteelerNation, 2026-10-19 16:47 UTC
-- [‘Going To Stay On That Boz Train’: Big Ben Remains Confident In Steelers Kicker Despite Recent Misses](https://steelersdepot.com/2026/10/going-to-stay-on-that-boz-train-bi-ben-remains-confident-in-chris-boswell-despite-recent-misses/): Steelers Depot, 2026-10-19 16:45 UTC
 - [Chris Boswell Makes Steelers History in Week 6 Win Against Buccaneers](https://sportsnetpittsburgh.com/pittsburgh-steelers/news/chris-boswell-steelers-history-week-6-win-buccaneers/18effaa85f4e239f2212df12): SportsNet Pittsburgh, 2026-10-19 16:41 UTC
 - [Pittsburgh Steelers players address upcoming trip to Paris amid France unrest, violence](https://www.cbsnews.com/pittsburgh/news/pittsburgh-steelers-paris-france-violence-unrest-protests/): CBS News, 2026-10-19 16:34 UTC
 - [The Steelers finally unleashed their blitzes — and Jalen Ramsey — at Tampa Bay](https://www.post-gazette.com/sports/steelers/2026/10/19/steelers-blitz-jalen-ramsey/stories/202610190025): Pittsburgh Post-Gazette, 2026-10-19 16:30 UTC
@@ -108,7 +110,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [From the Press Room: Steelers at Buccaneers](https://www.steelers.com/news/from-the-press-room-steelers-at-buccaneers): Steelers.com (official), 2026-10-19 00:40 UTC
 - [Steelers rookie Germie Bernard makes up for an early mistake by catching the OT winner](https://www.post-gazette.com/sports/steelers/2026/10/18/germie-bernard-overtime-touchdown-steelers/stories/202610180076): Pittsburgh Post-Gazette, 2026-10-19 00:18 UTC
 - [Steelers kicker Chris Boswell breaks franchise record for career field goals](https://triblive.com/sports/steelers-kicker-chris-boswell-breaks-franchise-record-for-career-field-goals/): TribLive, 2026-10-19 00:13 UTC
-- [Germie Bernard Breaks Steelers Record in Win over Bucs](https://steelersnow.com/germie-bernard-breaks-steelers-record-in-win-over-bucs/): Steelers Now, 2026-10-19 00:03 UTC
 - [‘He’s from Pittsburgh, so he toughed it out’: Steelers coach Mike McCarthy misses halftime with foot injury](https://triblive.com/sports/hes-from-pittsburgh-so-he-toughed-it-out-steelers-coach-mike-mccarthy-misses-halftime-with-foot-injury/): TribLive, 2026-10-18 23:53 UTC
 - [Batko's Quick 6: Steelers at Buccaneers](https://www.steelers.com/news/batko-s-quick-6-steelers-at-buccaneers): Steelers.com (official), 2026-10-18 23:40 UTC
 - [Steelers report card: Germie Bernard and DK Metcalf step up in the win over the Buccaneers](https://www.post-gazette.com/sports/steelers/2026/10/18/steelers-report-card-buccaneers-week6/stories/202610180077): Pittsburgh Post-Gazette, 2026-10-18 23:17 UTC
@@ -152,7 +153,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers-Buccaneers scouting report: The offensive line has its hands full in the run game](https://www.post-gazette.com/sports/steelers/2026/10/18/steelers-bucs-scouting-report/stories/202610180046): Pittsburgh Post-Gazette, 2026-10-18 10:00 UTC
 - [Gerry Dulac’s 2026 NFL predictions: Week 6](https://www.post-gazette.com/sports/steelers/2026/10/18/nfl-picks-week-6/stories/202610150037): Pittsburgh Post-Gazette, 2026-10-18 08:00 UTC
 - [Former Super Bowl champ, Pittsburgh Steelers player arrested on domestic assault charge](https://katu.com/news/nation-world/former-nfl-super-bowl-champ-pittsburgh-steelers-cordarrelle-patterson-arrested-domestic-assault-charge-tennessee): KATU, 2026-10-18 07:00 UTC
-- [The Pittsburgh Steelers’ ‘diva whisperer’ secretly earned a doctorate while coaching NFL stars](https://www.nytimes.com/athletic/7691693/2026/10/16/adam-henry-pittsburgh-steelers-receivers-coach/): The New York Times, 2026-10-18 07:00 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
