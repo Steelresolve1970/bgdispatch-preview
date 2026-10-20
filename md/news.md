@@ -1,8 +1,10 @@
 # Steelers News
 
-_Generated 2026-10-20T18:26:47+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T18:26:09+00:00._
+_Generated 2026-10-20T19:11:48+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T19:05:50+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Chris Long Says He’ll ‘Walk Across America’ If Steelers Play In Super Bowl This Season](https://steelersdepot.com/2026/10/chris-long-says-hell-walk-across-america-if-steelers-play-in-super-bowl-this-season/): Steelers Depot, 2026-10-20 19:00 UTC
+- [History Favors Steelers Making The Playoffs](https://steelersdepot.com/2026/10/history-favors-steelers-making-the-playoffs/): Steelers Depot, 2026-10-20 18:30 UTC
 - [Steelers' Ben Skowronek's Injury May Have Been The Result Of Foul Play From The Colts](https://www.steelernation.com/2026/10/20/steelers-ben-skowronek-foul-colts): SteelerNation, 2026-10-20 18:21 UTC
 - [Gabriel Rubio Had No Idea Steelers Would Draft Him, Reveals Two Teams That Wanted To Sign Him](https://steelersdepot.com/2026/10/gabriel-rubio-had-no-idea-steelers-would-draft-him-reveals-two-teams-that-wanted-to-sign-him/): Steelers Depot, 2026-10-20 18:15 UTC
 - [‘I Was Devastated’: Mike Tomlin Reveals His Welcome to the NFL Moment](https://steelersnow.com/i-was-devastated-mike-tomlin-reveals-his-welcome-to-the-nfl-moment/): Steelers Now, 2026-10-20 17:51 UTC
@@ -56,7 +58,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [The best soccer/NFL crossover jerseys as PSG unveil kit for Steelers vs. Saints in Paris](https://www.espn.com/soccer/story/_/id/50225836/the-best-soccer-nfl-crossover-jerseys-psg-kit-pittsburgh-steelers-new-orleans-saints-paris-game): ESPN, 2026-10-20 12:41 UTC
 - [Steelers Rookie Kaden Wetjen Gets Strong Vote Of Confidence](https://www.steelernation.com/2026/10/20/steelers-rookie-kaden-wetjen-strong): SteelerNation, 2026-10-20 12:39 UTC
 - [Marquez Valdes-Scantling Signing Might Mean Good News for Steelers](https://www.si.com/nfl/steelers/onsi/marquez-valdes-scantling-signing-might-good-news-pittsburgh-steelers): All Steelers (Sports Illustrated), 2026-10-20 12:37 UTC
-- [Pittsburgh Steelers vs New Orleans Saints | October 25, 2026 | NFL Matchup](https://www.thescore.com/nfl/event/140671?source=ticker_home): theScore, 2026-10-20 12:13 UTC
 - [The shorthanded Steelers are bringing back veteran receiver Marquez Valdes-Scantling](https://www.post-gazette.com/sports/steelers/2026/10/20/steelers-sign-mvs/stories/202610200032): Pittsburgh Post-Gazette, 2026-10-20 12:13 UTC
 - [Keionte Scott Developing into Bucs’ Swiss-Army Knife](https://www.buccaneers.com/news/keionte-scott-developing-bucs-swiss-army-knife): Tampa Bay Buccaneers, 2026-10-20 12:02 UTC
 - [Buccaneers just showed Steelers why Drew Allar should be Aaron Rodgers' backup](https://stillcurtain.com/buccaneers-just-showed-pittsburgh-steelers-why-drew-allar-should-be-aaron-rodgers-backup-01m5agyy802f?utm_source=RSS): Still Curtain, 2026-10-20 12:00 UTC
@@ -79,9 +80,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Will Steelers Quickly Promote Marquez Valdes-Scantling To WR3?](https://steelersdepot.com/2026/10/will-steelers-quickly-promote-marquez-valdes-scantling-to-wr3/): Steelers Depot, 2026-10-20 09:00 UTC
 - [25 players who found their best NFL chapter with the Steelers](https://stillcurtain.com/25-players-who-found-their-best-nfl-chapter-with-the-steelers?utm_source=RSS): Still Curtain, 2026-10-20 09:00 UTC
 - [Why Mike McCarthy and the Steelers must run the ball more often on third down](https://www.post-gazette.com/sports/steelers/2026/10/20/steelers-third-down-struggles/stories/202610190030): Pittsburgh Post-Gazette, 2026-10-20 08:00 UTC
-- [The Forgotten Play That Helped The Steelers Beat The Buccaneers](https://steelersdepot.com/2026/10/the-forgotten-play-that-helped-the-steelers-beat-the-buccaneers/): Steelers Depot, 2026-10-20 04:00 UTC
 - [Pittsburgh Steelers 2026 NFL Playoff Simulator](https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/pittsburgh-steelers-season-projections/): The New York Times, 2026-10-20 03:25 UTC
-- [49ers Practice Squad Player Turned Down Chance To Sign With Steelers In 2025](https://steelersdepot.com/2026/10/49ers-practice-squad-player-turned-down-chance-to-sign-with-steelers-in-2025/): Steelers Depot, 2026-10-20 02:34 UTC
 - [Steelers Set to Reunite with Former Wide Receiver](https://steelersnow.com/steelers-set-to-reunite-with-former-wide-receiver/): Steelers Now, 2026-10-20 01:21 UTC
 - [Grading the signing: Pittsburgh Steelers bring back a familiar face to help the wide receiver room amid multiple injuries](https://atozsports.com/nfl/pittsburgh-steelers-news/steelers-signing-marquez-valdes-scantling-practice-squad-wr-trade-rumors/): A to Z Sports, 2026-10-20 01:15 UTC
 - [Steelers’ Mike McCarthy backs receivers ‘in the building,’ but open to adding outside help](https://triblive.com/sports/steelers-mike-mccarthy-backs-receivers-in-the-building-but-open-to-adding-help-from-outside/): TribLive, 2026-10-20 01:09 UTC
@@ -97,6 +96,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers Get Called Out By Mike McCarthy For Offensive Failure](https://www.steelernation.com/2026/10/19/steelers-mike-mccarthy-offensive-failure): SteelerNation, 2026-10-19 23:04 UTC
 - [Aaron Rodgers, Jalen Ramsey reach personal milestones in Steelers win over Buccaneers](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176581/aaron-rodgers-jalen-ramsey-reach-personal-milestones-in-steelers-win-over-buccaneers): Behind the Steel Curtain, 2026-10-19 22:50 UTC
 - [Steelers Afternoon Drive: Will Bernard Breakout Blow Up WR Plans?](https://steelersnow.com/steelers-afternoon-drive-will-bernard-breakout-blow-up-wr-plans/): Steelers Now, 2026-10-19 22:34 UTC
+- [WATCH: SNR Drive (All Episodes from Week of October 19)](https://www.steelers.com/news/watch-snr-drive-all-episodes-from-week-of-october-19): Steelers.com (official), 2026-10-19 22:00 UTC
 - [Steelers’ Mike McCarthy defends play-calling after Jamel Dean interception](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176579/steelers-mike-mccarthy-defends-play-calling-after-jamel-dean-interception): Behind the Steel Curtain, 2026-10-19 21:30 UTC
 - [Playmaking Jalen Ramsey has maybe his best game with Steelers in win vs. Bucs](https://triblive.com/sports/playmaking-jalen-ramsey-has-maybe-his-best-game-with-steelers-in-win-vs-bucs/): TribLive, 2026-10-19 21:22 UTC
 - [The protests in France are a ‘continuing conversation’ for the Steelers before their game in Paris](https://www.post-gazette.com/sports/steelers/2026/10/19/steelers-paris-game-france-protests/stories/202610190026): Pittsburgh Post-Gazette, 2026-10-19 21:21 UTC
