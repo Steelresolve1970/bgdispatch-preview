@@ -1,9 +1,10 @@
 # Steelers News
 
-_Generated 2026-10-20T20:33:16+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T20:32:04+00:00._
+_Generated 2026-10-20T20:43:59+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T20:43:30+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [NFL to beef up security for Steelers-Saints in Paris after riots](https://www.espn.com/nfl/story/_/id/50230791/nfl-increase-security-paris-steelers-saints-game): ESPN, 2026-10-20 21:01 UTC
+- [Steelers Player’s Wife Questions Making Trip to Paris](https://steelersnow.com/steelers-players-wife-questions-making-trip-to-paris/): Steelers Now, 2026-10-20 20:33 UTC
 - [‘It Confuses, Confounds, Flabbergasts’: Trai Essex Frustrated With Steelers’ Week 6 Usage Of Jaylen Warren](https://steelersdepot.com/2026/10/it-confuses-confounds-flabbergasts-trai-essex-frustrated-with-steelers-week-6-usage-of-jaylen-warren/): Steelers Depot, 2026-10-20 20:30 UTC
 - [Steelers Week 7 power rankings roundup: Starting to believe yet?](https://www.behindthesteelcurtain.com/pittsburgh-steelers-power-rankings/176618/steelers-week-7-power-rankings-roundup-starting-to-believe-yet): Behind the Steel Curtain, 2026-10-20 20:27 UTC
 - [Pittsburgh Steelers sign wide receiver with Aaron Rodgers ties](https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-sign-wide-receiver-with-aaron-rodgers-ties.html): PennLive (Nick Farabaugh), 2026-10-20 20:18 UTC
@@ -108,7 +109,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Playmaking Jalen Ramsey has maybe his best game with Steelers in win vs. Bucs](https://triblive.com/sports/playmaking-jalen-ramsey-has-maybe-his-best-game-with-steelers-in-win-vs-bucs/): TribLive, 2026-10-19 21:22 UTC
 - [The protests in France are a ‘continuing conversation’ for the Steelers before their game in Paris](https://www.post-gazette.com/sports/steelers/2026/10/19/steelers-paris-game-france-protests/stories/202610190026): Pittsburgh Post-Gazette, 2026-10-19 21:21 UTC
 - ['It goes a long way'](https://www.steelers.com/news/it-goes-a-long-way): Steelers.com (official), 2026-10-19 21:00 UTC
-- [Could Steelers Consider Kick Returner Change? Rising RB Earning Opportunity](https://steelersnow.com/could-steelers-consider-kick-returner-change-rising-rb-earning-opportunity/): Steelers Now, 2026-10-19 20:47 UTC
 - [Steelers fans can vote for rookie Germie Bernard as FedEx Air & Ground player of the week](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176570/steelers-fans-can-vote-for-rookie-germie-bernard-as-fedex-air-ground-player-of-the-week): Behind the Steel Curtain, 2026-10-19 20:09 UTC
 - [The Steelers are heading to Paris for an NFL game as France faces civil unrest — here’s what the team is doing to prepare](https://www.pennlive.com/steelers/2026/10/the-steelers-are-heading-to-paris-for-an-nfl-game-as-france-faces-civil-unrest-heres-what-the-team-is-doing-to-prepare.html): PennLive (Nick Farabaugh), 2026-10-19 20:03 UTC
 - [Steelers fans expecting a bolder Mike McCarthy are learning a painful lesson](https://stillcurtain.com/pittsburgh-steelers-fans-expecting-bolder-mike-mccarthy-learning-painful-lesson-01m5ag1p2tyd?utm_source=RSS): Still Curtain, 2026-10-19 20:00 UTC
