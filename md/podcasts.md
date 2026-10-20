@@ -1,14 +1,14 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-20T08:00:23+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T07:59:45+00:00._
+_Generated 2026-10-20T08:11:05+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T08:10:49+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Podcast: [Here We Go, The Steelers Show: Rookies are a part of the black-and-gold solution](http://steelcurtainnetwork.com): Steel Curtain Network (BTSC), 2026-10-20 08:00 UTC
 - Video: [Only the Steelers Can Make Winning Look So Ugly | Illegal Hands to the Face](https://www.youtube.com/watch?v=idEz7_-TZ68): Still Curtain Podcast, 2026-10-20 06:54 UTC
 - Video: [Steelers' Mike McCarthy Must Lean More on Jaylen Warren, Under Center Offense to Fix 3rd Down Issues](https://www.youtube.com/watch?v=L7OiUYf66XA): Locked On Steelers, 2026-10-20 06:15 UTC
 - Podcast: [Scout’s Eye with Matt Williamson: That's winning defense](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/scouts-eye-with-matt-williamson-thats-winning-defense/): DK Pittsburgh Sports, 2026-10-20 06:02 UTC
 - Podcast: [Steelers' Mike McCarthy Must Lean More on Jaylen Warren, Under Center Offense to Fix 3rd Down Issues](https://lockedonpodcasts.com/podcasts/locked-on-steelers/): Locked On Steelers, 2026-10-20 06:00 UTC
 - Podcast: [Steelers Raid Tampa! Mike McCarthy, Injury Updates & Next Stop Paris! | SF7P Ep. 212](https://podcasters.spotify.com/pod/show/steelersfor7podcast/episodes/Steelers-Raid-Tampa--Mike-McCarthy--Injury-Updates--Next-Stop-Paris---SF7P-Ep--212-e3qpdap): Steelers for 7 Podcast, 2026-10-20 05:11 UTC
-- Podcast: [Steelers Hangover: Trajectory Win! Steelers Beat Tampa Bay 26-19 in OT](http://steelcurtainnetwork.com): Steel Curtain Network (BTSC), 2026-10-20 02:14 UTC
 - Podcast: [Steelers Depot Youtube Live Stream Q & A Podcast - October 19, 2026](https://megaphone.link/SDP7863802568): The Terrible Podcast (Steelers Depot), 2026-10-20 01:07 UTC
 - Video: [ahoy.mp4](https://www.youtube.com/shorts/eJqO7AsgSnY): Pittsburgh Steelers (official), 2026-10-20 00:25 UTC
 - Video: [Recapping The 26-19 Win Against The Buccaneers | SNR Drive (Oct.19) | Pittsburgh Steelers](https://www.youtube.com/watch?v=8Dz8Jo8g6-0): Pittsburgh Steelers (official), 2026-10-19 23:45 UTC
