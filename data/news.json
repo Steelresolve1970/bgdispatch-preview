@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-20T08:31:56.194317+00:00",
- "count": 150,
+ "generated": "2026-10-20T08:43:01.501253+00:00",
+ "count": 149,
  "sources": [
   {
    "source": "Steelers Depot",
@@ -29,8 +29,8 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "ok",
-   "steelers_items": 24
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "steelers_items": 0
   },
   {
    "source": "Still Curtain",
@@ -678,15 +678,6 @@
    "id": "4e97fd427a"
   },
   {
-   "title": "Chris Boswell Makes Steelers History in Week 6 Win Against Buccaneers",
-   "source": "SportsNet Pittsburgh",
-   "link": "https://sportsnetpittsburgh.com/pittsburgh-steelers/news/chris-boswell-steelers-history-week-6-win-buccaneers/18effaa85f4e239f2212df12",
-   "published": "2026-10-19T16:41:51+00:00",
-   "via": "Google News",
-   "summary": "Game story from SportsNet Pittsburgh. Full report at the original publisher.",
-   "id": "17b75b7576"
-  },
-  {
    "title": "Pittsburgh Steelers players address upcoming trip to Paris amid France unrest, violence",
    "source": "CBS News",
    "link": "https://www.cbsnews.com/pittsburgh/news/pittsburgh-steelers-paris-france-violence-unrest-protests/",
@@ -834,14 +825,6 @@
    "id": "da4c5f3a6a"
   },
   {
-   "title": "Steelers Takeaways: Second-half comeback saves Pittsburgh in overtime win over Buccaneers",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/19/steelers-takeaways-second-half-comeback-saves-pittsburgh-in-overtime-win-over-buccaneers/",
-   "published": "2026-10-19T13:14:03+00:00",
-   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
-   "id": "dfe2de4202"
-  },
-  {
    "title": "Germie Bernard's growing connection with Aaron Rodgers has Steelers buzzing",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/germie-bernard-growing-connection-aaron-rodgers-pittsburgh-steelers-buzzing-01m59441d0x6?utm_source=RSS",
@@ -881,14 +864,6 @@
    "published": "2026-10-19T12:00:03+00:00",
    "summary": "News story from Still Curtain. Full report at the original publisher.",
    "id": "f1094d0f3b"
-  },
-  {
-   "title": "Plays of the Game: Jamel Dean\u2019s interception sets up Steelers\u2019 late lead",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/19/plays-of-the-game-jamel-deans-interception-sets-up-steelers-late-lead/",
-   "published": "2026-10-19T11:40:57+00:00",
-   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
-   "id": "c1a0198967"
   },
   {
    "title": "\u2018He\u2019s accepted the challenge\u2019: Germie Bernard rewards Steelers\u2019 faith in rookie wide receiver",
@@ -1243,6 +1218,15 @@
    "id": "4709360bfc"
   },
   {
+   "title": "Here's How I find Tampa Bay Buccaneers vs Pittsburgh Steelers \ud835\udd43\ud835\udd5a\ud835\udd67\ud835\udd56 \uff26\uff52\uff45\uff45 \uff33\uff54\uff52\uff45\uff41\uff4d\uff53 Today",
+   "source": "Universidad de C\u00f3rdoba (UCO)",
+   "link": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2dldnRzdi5naXRodWIuaW8vdmFsby9zci54bWwiLz48L2tycGFubz4=&id=video-heres-how-i-find-tampa-bay-b-n1gtm2mg",
+   "published": "2026-10-18T17:20:49+00:00",
+   "via": "Google News",
+   "summary": "Game story from Universidad de C\u00f3rdoba (UCO). Full report at the original publisher.",
+   "id": "420b410d16"
+  },
+  {
    "title": "Tampa Bay Buccaneers vs Pittsburgh Steelers NFL Week 6 live: Tampa Bay Buccaneers vs Pittsburgh Steelers NFL Week 6 look to seize control of thrilling Tampa Bay Buccaneers vs Pittsburgh Steelers NFL Week 6. Every team in the Tampa Bay Buccaneers",
    "source": "Universidad de C\u00f3rdoba (UCO)",
    "link": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5aHVicy5ubC92b3MvbmV3L2EueG1sIi8+PC9rcnBhbm8+&id=video-tampa-bay-buccaneers-vs-pittsburgh-steelers-nfl-week-6-lie-us5b1174",
@@ -1333,7 +1317,15 @@
    "summary": "Game story from All Steelers (Sports Illustrated). Full report at the original publisher.",
    "via": "Google News",
    "id": "e1f229f33e"
+  },
+  {
+   "title": "Steelers' tight end duo could counter costly WR injuries vs. Buccaneers",
+   "source": "Still Curtain",
+   "link": "https://stillcurtain.com/pittsburgh-steelers-tight-end-duo-could-counter-costly-wr-injuries-vs-buccaneers-01m534w1agdq?utm_source=RSS",
+   "published": "2026-10-18T11:00:00+00:00",
+   "summary": "Injury story from Still Curtain. Full report at the original publisher.",
+   "id": "301c050e80"
   }
  ],
- "dropped_bad_links": 0
+ "dropped_bad_links": 1
 }
