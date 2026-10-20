@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T02:42:29.431500+00:00",
+ "generated": "2026-10-20T02:53:47.249126+00:00",
  "date_et": "2026-10-19",
  "days": 7,
  "count": 184,
@@ -98,10 +98,10 @@
    "show": "Steel City Underground",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDcNNAMkYr-DzH6_XL-0p8Q",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 2,
-   "latest": "2026-10-19T20:01:57+00:00"
+   "latest": null
   },
   {
    "show": "Steelers Afternoon Drive",
@@ -215,10 +215,10 @@
    "show": "Not Just Football with Cam Heyward",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8hodyaoiw297aspKf9QVDA",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 8,
-   "latest": "2026-10-19T16:00:35+00:00"
+   "latest": null
   },
   {
    "show": "Footbahlin with Ben Roethlisberger",

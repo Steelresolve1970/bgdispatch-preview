@@ -1,13 +1,13 @@
 # Steelers News
 
-_Generated 2026-10-20T02:42:45+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T02:41:17+00:00._
+_Generated 2026-10-20T02:54:02+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T02:52:59+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [REPORT-Rodgers gets one of favorite teammates back](https://www.audacy.com/937thefan/sports/pittsburgh-riverhounds/report-rodgers-gets-one-of-favorite-teammates-back): Audacy, 2026-10-20 02:35 UTC
 - [49ers Practice Squad Player Turned Down Chance To Sign With Steelers In 2025](https://steelersdepot.com/2026/10/49ers-practice-squad-player-turned-down-chance-to-sign-with-steelers-in-2025/): Steelers Depot, 2026-10-20 02:34 UTC
+- [Steelers set to reunite with former wide receiver](https://www.wpxi.com/news/local/steelers-set-reunite-with-former-wide-receiver/23QSZHSMCBCB7FLXJ4NGJIKZGM/): WPXI, 2026-10-20 02:32 UTC
 - [Report: Steelers to reunite with veteran wide receiver](https://www.wkbn.com/sports/pittsburgh-steelers/report-steelers-to-reunite-with-veteran-wide-receiver/): WKBN.com, 2026-10-20 02:28 UTC
-- [Steelers Set to Reunite with Former Wide Receiver](https://steelersnow.com/steelers-set-to-reunite-with-former-wide-receiver/): Steelers Now, 2026-10-20 01:21 UTC
 - [Steelers to sign WR Marquez Valdes-Scantling to practice squad](https://sports.yahoo.com/articles/steelers-sign-wr-marquez-valdes-012014351.html): Yahoo Sports, 2026-10-20 01:20 UTC
-- [Pittsburgh Steelers Found the Answer When Their Running Game Disappeared](https://athlonsports.com/nfl/pittsburgh-steelers/pittsburgh-steelers-germie-bernard-dk-metcalf-aaron-rodgers-tampa-bay-buccaneers): Athlon Sports, 2026-10-20 01:18 UTC
 - [Grading the signing: Pittsburgh Steelers bring back a familiar face to help the wide receiver room amid multiple injuries](https://atozsports.com/nfl/pittsburgh-steelers-news/steelers-signing-marquez-valdes-scantling-practice-squad-wr-trade-rumors/): A to Z Sports, 2026-10-20 01:15 UTC
 - [Listen: Steelers Depot Q&A Livestream – October 19th](https://steelersdepot.com/2026/10/listen-steelers-depot-qa-livestream-october-19th/): Steelers Depot, 2026-10-20 01:13 UTC
 - [Depot After Dark: Players And Danny Smith, Warren And Gainwell Jersey Swap, Colts Fire GM](https://steelersdepot.com/2026/10/depot-after-dark-players-and-danny-smith-warren-and-gainwell-jersey-swap-colts-fire-gm/): Steelers Depot, 2026-10-20 01:00 UTC
@@ -29,6 +29,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [‘Brian Thomas Jr. Needs To Be A Steeler’: Trai Essex Wants Pittsburgh To Trade For Jaguars WR](https://steelersdepot.com/2026/10/brian-thomas-jr-needs-to-be-a-steeler-trai-essex-wants-pittsburgh-to-trade-for-jaguars-wr/): Steelers Depot, 2026-10-19 22:30 UTC
 - [Listen: The Terrible Take (Episode 2,055)](https://steelersdepot.com/2026/10/listen-the-terrible-take-episode-2055/): Steelers Depot, 2026-10-19 21:30 UTC
 - [Steelers’ Mike McCarthy defends play-calling after Jamel Dean interception](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176579/steelers-mike-mccarthy-defends-play-calling-after-jamel-dean-interception): Behind the Steel Curtain, 2026-10-19 21:30 UTC
+- [Steelers Insider Offers Blunt Update on Potential JuJu Smith-Schuster Reunion](https://heavy.com/sports/nfl/pittsburgh-steelers/juju-smith-schuster-nfl-news-reunion-kaboly/): Heavy.com, 2026-10-19 21:22 UTC
 - [The protests in France are a ‘continuing conversation’ for the Steelers before their game in Paris](https://www.post-gazette.com/sports/steelers/2026/10/19/steelers-paris-game-france-protests/stories/202610190026): Pittsburgh Post-Gazette, 2026-10-19 21:21 UTC
 - [‘There’s Nobody That Can Stop Him’: Chad Johnson Urges Steelers To Get Darnell Washington ‘Involved More’](https://steelersdepot.com/2026/10/theres-nobody-that-can-stop-him-chad-johnson-urges-steelers-to-get-darnell-washington-involved-more/): Steelers Depot, 2026-10-19 21:15 UTC
 - ['It goes a long way'](https://www.steelers.com/news/it-goes-a-long-way): Steelers.com (official), 2026-10-19 21:00 UTC
@@ -60,7 +61,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Key Behind-The-Scenes Change Fueling Steelers’ Defense, Says Payton Wilson](https://steelersdepot.com/2026/10/key-behind-the-scenes-change-fueling-steelers-defense-says-payton-wilson/): Steelers Depot, 2026-10-19 18:45 UTC
 - [Submit your questions for Mike DeFabo’s Steelers mailbag](https://www.nytimes.com/athletic/7705346/2026/10/19/steelers-mailbag-paris-game-bucs-win/): The Athletic, 2026-10-19 18:42 UTC
 - [‘I Wanted Them To Lose’: Domonique Foxworth Says Steelers ‘Didn’t Deserve’ To Beat Buccaneers](https://steelersdepot.com/2026/10/i-wanted-them-to-lose-domonique-foxworth-says-steelers-didnt-deserve-to-beat-buccaneers/): Steelers Depot, 2026-10-19 18:30 UTC
-- [NFL: Indianapolis Colts at Pittsburgh Steelers](https://lufkindailynews.com/news_reuters/sports/nfl-indianapolis-colts-at-pittsburgh-steelers/image_c50941c8-5962-5c56-aa3a-32fa6b324235.html): The Lufkin Daily News, 2026-10-19 18:22 UTC
 - [Steelers Accomplish Extremely Rare Feat in Win over Bucs](https://steelersnow.com/steelers-accomplish-extremely-rare-feat-in-win-over-bucs/): Steelers Now, 2026-10-19 18:20 UTC
 - [Steelers' Aaron Rodgers Has Daring Comments For Buccaneers' Glazer Family](https://www.steelernation.com/2026/10/19/steelers-aaron-rodgers-daring-buccaneers): SteelerNation, 2026-10-19 18:11 UTC
 - [‘Everyone Was Happy’: Jaquan Brisker Loved Jamel Dean’s ‘Amazing’ Revenge Game In Tampa](https://steelersdepot.com/2026/10/everyone-was-happy-jaquan-brisker-loved-jamel-deans-amazing-revenge-game-in-tampa/): Steelers Depot, 2026-10-19 18:00 UTC

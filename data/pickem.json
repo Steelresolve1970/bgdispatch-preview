@@ -1,8 +1,304 @@
 {
- "generated": "2026-10-20T02:42:43.111499+00:00",
+ "generated": "2026-10-20T02:54:00.292107+00:00",
  "season": 2026,
- "week": 6,
+ "week": 7,
  "games": [
+  {
+   "id": "401873010",
+   "date": "2026-10-23T00:15Z",
+   "state": "pre",
+   "detail": "Thu 10/22 8:15 PM ET",
+   "completed": false,
+   "away": {
+    "abbr": "NE",
+    "name": "New England Patriots",
+    "score": null,
+    "winner": null,
+    "record": "4-2"
+   },
+   "home": {
+    "abbr": "CHI",
+    "name": "Chicago Bears",
+    "score": null,
+    "winner": null,
+    "record": "4-2"
+   }
+  },
+  {
+   "id": "401873011",
+   "date": "2026-10-25T13:30Z",
+   "state": "pre",
+   "detail": "Sun 10/25 9:30 AM ET",
+   "completed": false,
+   "away": {
+    "abbr": "PIT",
+    "name": "Pittsburgh Steelers",
+    "score": null,
+    "winner": null,
+    "record": "4-2"
+   },
+   "home": {
+    "abbr": "NO",
+    "name": "New Orleans Saints",
+    "score": null,
+    "winner": null,
+    "record": "2-4"
+   }
+  },
+  {
+   "id": "401873017",
+   "date": "2026-10-25T17:00Z",
+   "state": "pre",
+   "detail": "Sun 10/25 1:00 PM ET",
+   "completed": false,
+   "away": {
+    "abbr": "SF",
+    "name": "San Francisco 49ers",
+    "score": null,
+    "winner": null,
+    "record": "5-0"
+   },
+   "home": {
+    "abbr": "ATL",
+    "name": "Atlanta Falcons",
+    "score": null,
+    "winner": null,
+    "record": "2-4"
+   }
+  },
+  {
+   "id": "401873012",
+   "date": "2026-10-25T17:00Z",
+   "state": "pre",
+   "detail": "Sun 10/25 1:00 PM ET",
+   "completed": false,
+   "away": {
+    "abbr": "CIN",
+    "name": "Cincinnati Bengals",
+    "score": null,
+    "winner": null,
+    "record": "3-2"
+   },
+   "home": {
+    "abbr": "BAL",
+    "name": "Baltimore Ravens",
+    "score": null,
+    "winner": null,
+    "record": "4-2"
+   }
+  },
+  {
+   "id": "401873018",
+   "date": "2026-10-25T17:00Z",
+   "state": "pre",
+   "detail": "Sun 10/25 1:00 PM ET",
+   "completed": false,
+   "away": {
+    "abbr": "TB",
+    "name": "Tampa Bay Buccaneers",
+    "score": null,
+    "winner": null,
+    "record": "1-5"
+   },
+   "home": {
+    "abbr": "CAR",
+    "name": "Carolina Panthers",
+    "score": null,
+    "winner": null,
+    "record": "3-2"
+   }
+  },
+  {
+   "id": "401873016",
+   "date": "2026-10-25T17:00Z",
+   "state": "pre",
+   "detail": "Sun 10/25 1:00 PM ET",
+   "completed": false,
+   "away": {
+    "abbr": "NYG",
+    "name": "New York Giants",
+    "score": null,
+    "winner": null,
+    "record": "3-2-1"
+   },
+   "home": {
+    "abbr": "HOU",
+    "name": "Houston Texans",
+    "score": null,
+    "winner": null,
+    "record": "2-4"
+   }
+  },
+  {
+   "id": "401873014",
+   "date": "2026-10-25T17:00Z",
+   "state": "pre",
+   "detail": "Sun 10/25 1:00 PM ET",
+   "completed": false,
+   "away": {
+    "abbr": "IND",
+    "name": "Indianapolis Colts",
+    "score": null,
+    "winner": null,
+    "record": "2-4"
+   },
+   "home": {
+    "abbr": "MIN",
+    "name": "Minnesota Vikings",
+    "score": null,
+    "winner": null,
+    "record": "5-0"
+   }
+  },
+  {
+   "id": "401873015",
+   "date": "2026-10-25T17:00Z",
+   "state": "pre",
+   "detail": "Sun 10/25 1:00 PM ET",
+   "completed": false,
+   "away": {
+    "abbr": "MIA",
+    "name": "Miami Dolphins",
+    "score": null,
+    "winner": null,
+    "record": "0-5"
+   },
+   "home": {
+    "abbr": "NYJ",
+    "name": "New York Jets",
+    "score": null,
+    "winner": null,
+    "record": "2-4"
+   }
+  },
+  {
+   "id": "401873013",
+   "date": "2026-10-25T17:00Z",
+   "state": "pre",
+   "detail": "Sun 10/25 1:00 PM ET",
+   "completed": false,
+   "away": {
+    "abbr": "CLE",
+    "name": "Cleveland Browns",
+    "score": null,
+    "winner": null,
+    "record": "4-2"
+   },
+   "home": {
+    "abbr": "TEN",
+    "name": "Tennessee Titans",
+    "score": null,
+    "winner": null,
+    "record": "1-5"
+   }
+  },
+  {
+   "id": "401873019",
+   "date": "2026-10-25T20:05Z",
+   "state": "pre",
+   "detail": "Sun 10/25 4:05 PM ET",
+   "completed": false,
+   "away": {
+    "abbr": "DEN",
+    "name": "Denver Broncos",
+    "score": null,
+    "winner": null,
+    "record": "4-2"
+   },
+   "home": {
+    "abbr": "ARI",
+    "name": "Arizona Cardinals",
+    "score": null,
+    "winner": null,
+    "record": "2-4"
+   }
+  },
+  {
+   "id": "401873020",
+   "date": "2026-10-25T20:25Z",
+   "state": "pre",
+   "detail": "Sun 10/25 4:25 PM ET",
+   "completed": false,
+   "away": {
+    "abbr": "GB",
+    "name": "Green Bay Packers",
+    "score": null,
+    "winner": null,
+    "record": "4-2"
+   },
+   "home": {
+    "abbr": "DET",
+    "name": "Detroit Lions",
+    "score": null,
+    "winner": null,
+    "record": "3-2"
+   }
+  },
+  {
+   "id": "401873021",
+   "date": "2026-10-25T20:25Z",
+   "state": "pre",
+   "detail": "Sun 10/25 4:25 PM ET",
+   "completed": false,
+   "away": {
+    "abbr": "LA",
+    "name": "Los Angeles Rams",
+    "score": null,
+    "winner": null,
+    "record": "2-4"
+   },
+   "home": {
+    "abbr": "LV",
+    "name": "Las Vegas Raiders",
+    "score": null,
+    "winner": null,
+    "record": "3-3"
+   }
+  },
+  {
+   "id": "401873022",
+   "date": "2026-10-26T00:20Z",
+   "state": "pre",
+   "detail": "Sun 10/25 8:20 PM ET",
+   "completed": false,
+   "away": {
+    "abbr": "KC",
+    "name": "Kansas City Chiefs",
+    "score": null,
+    "winner": null,
+    "record": "5-0"
+   },
+   "home": {
+    "abbr": "SEA",
+    "name": "Seattle Seahawks",
+    "score": null,
+    "winner": null,
+    "record": "3-3"
+   }
+  },
+  {
+   "id": "401873009",
+   "date": "2026-10-27T00:15Z",
+   "state": "pre",
+   "detail": "Mon 10/26 8:15 PM ET",
+   "completed": false,
+   "away": {
+    "abbr": "DAL",
+    "name": "Dallas Cowboys",
+    "score": null,
+    "winner": null,
+    "record": "2-4"
+   },
+   "home": {
+    "abbr": "PHI",
+    "name": "Philadelphia Eagles",
+    "score": null,
+    "winner": null,
+    "record": "2-4"
+   }
+  }
+ ],
+ "recent": [
   {
    "id": "401872995",
    "date": "2026-10-16T00:15Z",
@@ -275,28 +571,8 @@
     "winner": true,
     "record": "4-2"
    }
-  },
-  {
-   "id": "401873008",
-   "date": "2026-10-20T00:15Z",
-   "state": "in",
-   "detail": "In progress",
-   "completed": false,
-   "away": {
-    "abbr": "WAS",
-    "name": "Washington Commanders",
-    "score": null,
-    "winner": null,
-    "record": "1-3-1"
-   },
-   "home": {
-    "abbr": "SF",
-    "name": "San Francisco 49ers",
-    "score": null,
-    "winner": null,
-    "record": "5-0"
-   }
   }
  ],
+ "recent_week": 6,
  "source": "Data: nflverse (CC-BY 4.0)"
 }
