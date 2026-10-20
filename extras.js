@@ -108,8 +108,7 @@ function alerts(){const el=$('alerts-body');if(!el)return;const sw='serviceWorke
   <label for="al-em" class="sr">Email</label><input id="al-em" type="email" placeholder="you@email.com" required><button class="btn">Notify me</button><p class="fine age13">You must be 13 or older to sign up. Emails are sent by Kit (ConvertKit). We use double opt-in, and every email has a one-click unsubscribe. <a href="legal/privacy.html">Privacy</a></p><p class="msg fine" role="status" aria-live="polite"></p></form></section>
  <section class="box"><h2>Push alerts</h2><p>Breaking news, injury updates and game-day reminders on your phone.</p>
   ${['Breaking news','Injury report changes','Game-day kickoff + final score','Daily trivia reminder'].map(t=>`<label class="tog"><input type="checkbox" disabled> ${t}</label>`).join('')}
-  <button class="btn" type="button" disabled>Turn on alerts (coming soon)</button><p class="fine">Your browser ${sw&&pn?'supports':'may not support'} web push.</p></section></div>
- <h2 class="section-title">Preview: today's email</h2><iframe class="email-prev" src="data/email/daily.html" title="Daily email preview"></iframe>`;}
+  <button class="btn" type="button" disabled>Turn on alerts (coming soon)</button><p class="fine">Your browser ${sw&&pn?'supports':'may not support'} web push.</p></section></div>`;}
 
 const SRCS={inj:['data/injuries.json',injuries],cap:['data/cap.json',cap],rum:['data/rumors.json',rumors],pick:['data/pickem.json',play],hist:['data/history.json',()=>{history();play();}]};
 Object.entries(SRCS).forEach(([k,[u,f]])=>J(u).then(d=>{X[k]=d;f();}).catch(()=>{}));
