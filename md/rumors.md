@@ -1,8 +1,10 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-20T17:43:25+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T17:43:19+00:00._
+_Generated 2026-10-20T17:54:18+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T17:54:13+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
+- **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
+  [Steelers’ $12 Million Playmaker Named Trade Candidate After Strong Week 6](https://heavy.com/sports/nfl/pittsburgh-steelers/steelers-rico-dowdle-trade-candidate-jaylen-warren/): Heavy.com, first seen 2026-10-20 17:54 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 9 source(s), top tier National insider
   [Latest update on injured Steelers wide receiver could mean Pittsburgh has no choice but to make a trade before the deadline](https://www.yardbarker.com/nfl/articles/latest_update_on_injured_steelers_wide_receiver_could_mean_pittsburgh_has_no_choice_but_to_make_a_trade_before_the_deadline/s1_17313_44451738): Yardbarker, first seen 2026-10-20 17:32 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog

@@ -1,8 +1,9 @@
 # Steelers News
 
-_Generated 2026-10-20T17:43:25+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T17:42:54+00:00._
+_Generated 2026-10-20T17:54:18+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T17:53:48+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [‘I Was Devastated’: Mike Tomlin Reveals His Welcome to the NFL Moment](https://steelersnow.com/i-was-devastated-mike-tomlin-reveals-his-welcome-to-the-nfl-moment/): Steelers Now, 2026-10-20 17:51 UTC
 - [Buccaneers Fan Offers Reward For Lost Hat](https://steelersnow.com/buccaneers-fan-offers-reward-for-lost-hat/): Steelers Now, 2026-10-20 17:38 UTC
 - [‘Best Choice For Us’: James Harrison Optimistic About Steelers’ Addition Of WR Marquez Valdes-Scantling](https://steelersdepot.com/2026/10/best-choice-for-us-james-harrison-optimistic-about-steelers-addition-of-wr-marquez-valdes-scantling/): Steelers Depot, 2026-10-20 17:30 UTC
 - [Mike McCarthy Lands In Top Half Of CBS Sports’ Rankings Of New Head Coaches](https://steelersdepot.com/2026/10/mike-mccarthy-lands-in-top-half-of-cbs-sports-rankings-of-new-head-coaches/): Steelers Depot, 2026-10-20 17:15 UTC
@@ -10,9 +11,8 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers Week 6 grades in win over Buccaneers](https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176607/steelers-week-6-grades-in-win-over-buccaneers-germie-bernard-dk-metcalf-jalen-ramsey): Behind the Steel Curtain, 2026-10-20 17:01 UTC
 - [One Steelers Stat That Tells the Story of Pittsburgh’s Week 6 Win](https://athlonsports.com/nfl/pittsburgh-steelers/one-steelers-stat-that-tells-the-story-of-pittsburghs-week-6-win): Athlon Sports, 2026-10-20 17:00 UTC
 - [One Of NFL’s Most Senior Referees To Work Steelers-Saints In Paris](https://steelersdepot.com/2026/10/one-of-nfls-most-senior-referees-to-work-steelers-saints-in-paris/): Steelers Depot, 2026-10-20 16:44 UTC
-- [CSC Reacts Survey: Will the Saints beat the Steelers in Paris?](https://sports.yahoo.com/articles/csc-reacts-survey-saints-beat-164215448.html): Yahoo Sports, 2026-10-20 16:42 UTC
 - [Steelers Power Rankings Roundup Week 7: Steelers Survive?](https://athlonsports.com/nfl/pittsburgh-steelers/steelers-power-rankings-roundup-week-7-steelers-survive): Athlon Sports, 2026-10-20 16:41 UTC
-- [Saints arrive in Paris for Sunday's game against Steelers](https://sports.yahoo.com/articles/saints-arrive-paris-sundays-game-163457016.html): Yahoo Sports, 2026-10-20 16:34 UTC
+- [Saints arrive in Paris for Sunday's game against Steelers](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-arrive-in-paris-for-sundays-game-against-steelers): ProFootballTalk (NBC), 2026-10-20 16:34 UTC
 - [Where Do Steelers Stand In Week 7 Power Rankings?](https://steelersdepot.com/2026/10/where-do-steelers-stand-in-week-7-power-rankings-2/): Steelers Depot, 2026-10-20 16:30 UTC
 - [Brian Thomas Jr "Needs To Be" Traded To The Steelers Immediately After Bizarre Week 6](https://www.steelernation.com/2026/10/20/steelers-immediately-brian-thomas-jr): SteelerNation, 2026-10-20 16:25 UTC
 - [Former Steelers running back arrested on domestic assault charge](https://www.audacy.com/937thefan/sports/pittsburgh-steelers/cordarrelle-patterson): Audacy, 2026-10-20 16:21 UTC
@@ -102,7 +102,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [The protests in France are a ‘continuing conversation’ for the Steelers before their game in Paris](https://www.post-gazette.com/sports/steelers/2026/10/19/steelers-paris-game-france-protests/stories/202610190026): Pittsburgh Post-Gazette, 2026-10-19 21:21 UTC
 - ['It goes a long way'](https://www.steelers.com/news/it-goes-a-long-way): Steelers.com (official), 2026-10-19 21:00 UTC
 - [Could Steelers Consider Kick Returner Change? Rising RB Earning Opportunity](https://steelersnow.com/could-steelers-consider-kick-returner-change-rising-rb-earning-opportunity/): Steelers Now, 2026-10-19 20:47 UTC
-- [McCarthy Reveals Steelers’ Travel Plan for Paris](https://steelersnow.com/mccarthy-reveals-steelers-travel-plan-for-paris/): Steelers Now, 2026-10-19 20:34 UTC
 - [Steelers fans can vote for rookie Germie Bernard as FedEx Air & Ground player of the week](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176570/steelers-fans-can-vote-for-rookie-germie-bernard-as-fedex-air-ground-player-of-the-week): Behind the Steel Curtain, 2026-10-19 20:09 UTC
 - [The Steelers are heading to Paris for an NFL game as France faces civil unrest — here’s what the team is doing to prepare](https://www.pennlive.com/steelers/2026/10/the-steelers-are-heading-to-paris-for-an-nfl-game-as-france-faces-civil-unrest-heres-what-the-team-is-doing-to-prepare.html): PennLive (Nick Farabaugh), 2026-10-19 20:03 UTC
 - [Steelers fans expecting a bolder Mike McCarthy are learning a painful lesson](https://stillcurtain.com/pittsburgh-steelers-fans-expecting-bolder-mike-mccarthy-learning-painful-lesson-01m5ag1p2tyd?utm_source=RSS): Still Curtain, 2026-10-19 20:00 UTC
@@ -153,6 +152,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Can't-Miss Play: Ramsey calls game! Jalen's blitzing sack of Jalon Daniels sends Steelers to an OT win](https://www.nfl.com/videos/can-t-miss-play-ramsey-calls-game-jalen-s-blitzing-sack-of-jalon-daniels-sends-steelers-to-an-ot-win): NFL.com, 2026-10-18 21:14 UTC
 - [6 instant reactions to the Steelers' overtime victory over the Buccaneers](https://stillcurtain.com/6-instant-reactions-to-the-pittsburgh-steelers-overtime-victory-over-the-buccaneers-01m5868wawaf?utm_source=RSS): Still Curtain, 2026-10-18 21:10 UTC
 - [Steelers CB Jamel Dean gets the last laugh against his former team](https://stillcurtain.com/pittsburgh-steelers-cb-jamel-dean-gets-last-laugh-against-tampa-bay-buccaneers-01m58a2nnh8a?utm_source=RSS): Still Curtain, 2026-10-18 20:59 UTC
+- [The Steelers rally back from 13 down to beat the Buccaneers in overtime](https://www.post-gazette.com/sports/steelers/2026/10/18/steelers-buccaneers-aaron-rodgers-germie-bernard/stories/202610180075): Pittsburgh Post-Gazette, 2026-10-18 20:58 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

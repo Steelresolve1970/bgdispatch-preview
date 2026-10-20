@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T17:42:54.404932+00:00",
+ "generated": "2026-10-20T17:53:48.792335+00:00",
  "count": 150,
  "sources": [
   {
@@ -72,7 +72,7 @@
    "source": "Yahoo Sports",
    "url": "https://sports.yahoo.com/nfl/rss/",
    "status": "ok",
-   "steelers_items": 3
+   "steelers_items": 1
   },
   {
    "source": "Google News",
@@ -106,6 +106,14 @@
   }
  ],
  "items": [
+  {
+   "title": "\u2018I Was Devastated\u2019: Mike Tomlin Reveals His Welcome to the NFL Moment",
+   "source": "Steelers Now",
+   "link": "https://steelersnow.com/i-was-devastated-mike-tomlin-reveals-his-welcome-to-the-nfl-moment/",
+   "published": "2026-10-20T17:51:39+00:00",
+   "summary": "News story from Steelers Now. Full report at the original publisher.",
+   "id": "f752100d36"
+  },
   {
    "title": "Buccaneers Fan Offers Reward For Lost Hat",
    "source": "Steelers Now",
@@ -165,14 +173,6 @@
    "id": "bbb2492a6a"
   },
   {
-   "title": "CSC Reacts Survey: Will the Saints beat the Steelers in Paris?",
-   "source": "Yahoo Sports",
-   "link": "https://sports.yahoo.com/articles/csc-reacts-survey-saints-beat-164215448.html",
-   "published": "2026-10-20T16:42:15+00:00",
-   "summary": "Game story from Yahoo Sports. Full report at the original publisher.",
-   "id": "746bbfda3e"
-  },
-  {
    "title": "Steelers Power Rankings Roundup Week 7: Steelers Survive?",
    "source": "Athlon Sports",
    "link": "https://athlonsports.com/nfl/pittsburgh-steelers/steelers-power-rankings-roundup-week-7-steelers-survive",
@@ -183,11 +183,11 @@
   },
   {
    "title": "Saints arrive in Paris for Sunday's game against Steelers",
-   "source": "Yahoo Sports",
-   "link": "https://sports.yahoo.com/articles/saints-arrive-paris-sundays-game-163457016.html",
+   "source": "ProFootballTalk (NBC)",
+   "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-arrive-in-paris-for-sundays-game-against-steelers",
    "published": "2026-10-20T16:34:57+00:00",
-   "summary": "Game story from Yahoo Sports. Full report at the original publisher.",
-   "id": "f654f3a372"
+   "summary": "Game story from ProFootballTalk (NBC). Full report at the original publisher.",
+   "id": "74d97d4e73"
   },
   {
    "title": "Where Do Steelers Stand In Week 7 Power Rankings?",
@@ -916,14 +916,6 @@
    "id": "f8d094ca1f"
   },
   {
-   "title": "McCarthy Reveals Steelers\u2019 Travel Plan for Paris",
-   "source": "Steelers Now",
-   "link": "https://steelersnow.com/mccarthy-reveals-steelers-travel-plan-for-paris/",
-   "published": "2026-10-19T20:34:16+00:00",
-   "summary": "News story from Steelers Now. Full report at the original publisher.",
-   "id": "f8c5930ada"
-  },
-  {
    "title": "Steelers fans can vote for rookie Germie Bernard as FedEx Air & Ground player of the week",
    "source": "Behind the Steel Curtain",
    "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176570/steelers-fans-can-vote-for-rookie-germie-bernard-as-fedex-air-ground-player-of-the-week",
@@ -1329,6 +1321,14 @@
    "published": "2026-10-18T20:59:09+00:00",
    "summary": "News story from Still Curtain. Full report at the original publisher.",
    "id": "93a6d8946a"
+  },
+  {
+   "title": "The Steelers rally back from 13 down to beat the Buccaneers in overtime",
+   "source": "Pittsburgh Post-Gazette",
+   "link": "https://www.post-gazette.com/sports/steelers/2026/10/18/steelers-buccaneers-aaron-rodgers-germie-bernard/stories/202610180075",
+   "published": "2026-10-18T20:58:55+00:00",
+   "summary": "Game story from Pittsburgh Post-Gazette. Full report at the original publisher.",
+   "id": "a32879efe1"
   }
  ],
  "dropped_bad_links": 0
