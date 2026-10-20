@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-20T00:16:25+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T00:16:10+00:00._
+_Generated 2026-10-20T00:27:37+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T00:27:22+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Recapping The 26-19 Win Against The Buccaneers | SNR Drive (Oct.19) | Pittsburgh Steelers](https://www.youtube.com/watch?v=8Dz8Jo8g6-0): Pittsburgh Steelers (official), 2026-10-19 23:45 UTC
