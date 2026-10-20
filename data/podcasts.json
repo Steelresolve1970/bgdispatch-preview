@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-20T20:21:31.775936+00:00",
+ "generated": "2026-10-20T20:32:53.713888+00:00",
  "date_et": "2026-10-20",
  "days": 5,
  "display_days": 2,
- "count": 131,
+ "count": 134,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -64,9 +64,9 @@
    "kind": "podcast",
    "url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/402ff7c3-7326-4fc5-aee9-aea000011b5f/fb99635a-fca2-410d-995d-aea000011b8e/podcast.rss",
    "status": "ok",
-   "episodes": 2796,
-   "week": 6,
-   "latest": "2026-10-19T22:00:00+00:00"
+   "episodes": 2799,
+   "week": 9,
+   "latest": "2026-10-20T20:00:00+00:00"
   },
   {
    "show": "Still Curtain Podcast",
@@ -126,28 +126,28 @@
    "show": "Steelers for 7 Podcast",
    "kind": "podcast",
    "url": "https://anchor.fm/s/7881254/podcast/rss",
-   "status": "ok",
-   "episodes": 162,
+   "status": "error: <urlopen error timed out>",
+   "episodes": 0,
    "week": 2,
-   "latest": "2026-10-20T05:11:45+00:00"
+   "latest": null
   },
   {
    "show": "The Arthur Moats Experience",
    "kind": "podcast",
    "url": "https://rss.pdrl.fm/20d9c9/feeds.libsyn.com/183851/rss/?redirect=false",
-   "status": "ok",
-   "episodes": 100,
+   "status": "error: <urlopen error timed out>",
+   "episodes": 0,
    "week": 4,
-   "latest": "2026-10-20T17:39:00+00:00"
+   "latest": null
   },
   {
    "show": "All Steelers Talk",
    "kind": "podcast",
    "url": "https://feeds.simplecast.com/TJlnaIkx",
-   "status": "ok",
-   "episodes": 1825,
+   "status": "error: <urlopen error timed out>",
+   "episodes": 0,
    "week": 9,
-   "latest": "2026-10-20T15:00:00+00:00"
+   "latest": null
   },
   {
    "show": "Steelers Now",
@@ -251,12 +251,28 @@
  ],
  "items": [
   {
+   "title": "Drive10.20.26Hr1: Scouting the Saints",
+   "show": "SNR Drive",
+   "kind": "podcast",
+   "link": "https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-20-26hr1-mp3",
+   "published": "2026-10-20T20:00:00+00:00",
+   "summary": "Podcast episode from SNR Drive."
+  },
+  {
    "title": "Steelers Crazy #300 - Saints Vs Steelers In Paris",
    "show": "The Sick Podcast - Steelers Crazy",
    "kind": "podcast",
    "link": "https://anchor.fm/the-sick-podcast---steelers-crazy",
    "published": "2026-10-20T19:12:00+00:00",
    "summary": "Podcast episode from The Sick Podcast - Steelers Crazy."
+  },
+  {
+   "title": "Drive10.20.26Hr2: Week Seven Power Rankings",
+   "show": "SNR Drive",
+   "kind": "podcast",
+   "link": "https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-20-26hr2-mp3",
+   "published": "2026-10-20T19:00:00+00:00",
+   "summary": "Podcast episode from SNR Drive."
   },
   {
    "title": "Is the Steelers pass defense actually fine without Joey Porter Jr? #steelers #nfl",
@@ -273,6 +289,14 @@
    "link": "https://www.youtube.com/shorts/OlJTbqdizjI",
    "published": "2026-10-20T18:07:45+00:00",
    "summary": "Video from Pittsburgh Steelers (official)."
+  },
+  {
+   "title": "Drive10.20.26AC: Around Campus",
+   "show": "SNR Drive",
+   "kind": "podcast",
+   "link": "https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-20-26ac-mp3",
+   "published": "2026-10-20T18:00:00+00:00",
+   "summary": "Podcast episode from SNR Drive."
   },
   {
    "title": "What We Know About The Steelers Following Week 6 - Steelers Gabriel Rubio Interview",
@@ -406,7 +430,7 @@
    "title": "Steelers' Mike McCarthy Must Lean More on Jaylen Warren, Under Center Offense to Fix 3rd Down Issues",
    "show": "Locked On Steelers",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/steelers-mike-mccarthy-must-lean-more-on-jaylen-warren/id1140522532?i=1000797209848",
+   "link": "https://lockedonpodcasts.com/podcasts/locked-on-steelers/",
    "published": "2026-10-20T06:00:00+00:00",
    "summary": "Podcast episode from Locked On Steelers."
   },
@@ -430,7 +454,7 @@
    "title": "Steelers Depot Youtube Live Stream Q & A Podcast - October 19, 2026",
    "show": "The Terrible Podcast (Steelers Depot)",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/steelers-depot-youtube-live-stream-q-a-podcast/id405990739?i=1000797179113",
+   "link": "https://podcasts.apple.com/us/podcast/id405990739",
    "published": "2026-10-20T01:07:00+00:00",
    "summary": "Podcast episode from The Terrible Podcast (Steelers Depot)."
   },
@@ -534,7 +558,7 @@
    "title": "The Terrible Take - Episode 2055 - October 19, 2026",
    "show": "The Terrible Podcast (Steelers Depot)",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2055-october-19-2026/id405990739?i=1000797151151",
+   "link": "https://podcasts.apple.com/us/podcast/id405990739",
    "published": "2026-10-19T21:00:00+00:00",
    "summary": "Podcast episode from The Terrible Podcast (Steelers Depot)."
   },
@@ -606,7 +630,7 @@
    "title": "The Terrible Podcast \u2014 Steelers-Buccaneers Game Recap, Injury Recap, Clock Management, WR Rumblings & More",
    "show": "The Terrible Podcast (Steelers Depot)",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/the-terrible-podcast-steelers-buccaneers-game-recap/id405990739?i=1000797117064",
+   "link": "https://podcasts.apple.com/us/podcast/id405990739",
    "published": "2026-10-19T16:55:00+00:00",
    "summary": "Podcast episode from The Terrible Podcast (Steelers Depot)."
   },
@@ -726,7 +750,7 @@
    "title": "Steelers WRs Germie Bernard, DK Metcalf Find Chemistry w/Aaron Rodgers in Time to Beat Buccaneers",
    "show": "Locked On Steelers",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/steelers-wrs-germie-bernard-dk-metcalf-find-chemistry/id1140522532?i=1000797007681",
+   "link": "https://lockedonpodcasts.com/podcasts/locked-on-steelers/",
    "published": "2026-10-19T04:00:00+00:00",
    "summary": "Podcast episode from Locked On Steelers."
   },
@@ -798,7 +822,7 @@
    "title": "STEELERS SQUAD SHOW: McCarthy ROLLS Ankle, Steelers Big COMEBACK Leads To 1st Road Win In OT",
    "show": "Locked On Steelers",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/steelers-squad-show-mccarthy-rolls-ankle-steelers-big/id1140522532?i=1000796979708",
+   "link": "https://lockedonpodcasts.com/podcasts/locked-on-steelers/",
    "published": "2026-10-18T22:38:37+00:00",
    "summary": "Podcast episode from Locked On Steelers."
   },
@@ -862,7 +886,7 @@
    "title": "The Terrible Take - Episode 2054 - October 18, 2026",
    "show": "The Terrible Podcast (Steelers Depot)",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2054-october-18-2026/id405990739?i=1000796929510",
+   "link": "https://podcasts.apple.com/us/podcast/id405990739",
    "published": "2026-10-18T14:34:00+00:00",
    "summary": "Podcast episode from The Terrible Podcast (Steelers Depot)."
   },
@@ -910,7 +934,7 @@
    "title": "The Terrible Take - Episode 2053 - October 17, 2026",
    "show": "The Terrible Podcast (Steelers Depot)",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2053-october-17-2026/id405990739?i=1000796840142",
+   "link": "https://podcasts.apple.com/us/podcast/id405990739",
    "published": "2026-10-17T21:00:00+00:00",
    "summary": "Podcast episode from The Terrible Podcast (Steelers Depot)."
   },
@@ -1014,7 +1038,7 @@
    "title": "The Terrible Take - Episode 2052 - October 16, 2026",
    "show": "The Terrible Podcast (Steelers Depot)",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2052-october-16-2026/id405990739?i=1000796726979",
+   "link": "https://podcasts.apple.com/us/podcast/id405990739",
    "published": "2026-10-16T21:00:00+00:00",
    "summary": "Podcast episode from The Terrible Podcast (Steelers Depot)."
   },
@@ -1134,7 +1158,7 @@
    "title": "The Terrible Podcast \u2014 Steelers Vs Buccaneers Game Preview, Trade Possibility, Injury Report, Week 6 Picks, And More",
    "show": "The Terrible Podcast (Steelers Depot)",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/the-terrible-podcast-steelers-vs-buccaneers-game/id405990739?i=1000796683883",
+   "link": "https://podcasts.apple.com/us/podcast/id405990739",
    "published": "2026-10-16T15:14:00+00:00",
    "summary": "Podcast episode from The Terrible Podcast (Steelers Depot)."
   },
@@ -1238,7 +1262,7 @@
    "title": "Steelers Need Mike McCarthy to Overcome Lack of Separation of WRs DK Metcalf, Germie Bernard",
    "show": "Locked On Steelers",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/steelers-need-mike-mccarthy-to-overcome-lack-of/id1140522532?i=1000796596907",
+   "link": "https://lockedonpodcasts.com/podcasts/locked-on-steelers/",
    "published": "2026-10-16T04:30:00+00:00",
    "summary": "Podcast episode from Locked On Steelers."
   },
@@ -1294,7 +1318,7 @@
    "title": "The Terrible Take - Episode 2051 - October 15, 2026",
    "show": "The Terrible Podcast (Steelers Depot)",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2051-october-15-2026/id405990739?i=1000796551180",
+   "link": "https://podcasts.apple.com/us/podcast/id405990739",
    "published": "2026-10-15T21:00:00+00:00",
    "summary": "Podcast episode from The Terrible Podcast (Steelers Depot)."
   }
@@ -1309,14 +1333,6 @@
   "kickoff": "2026-10-18T17:00:00+00:00",
   "until": "2026-10-20T21:00:00+00:00",
   "items": [
-   {
-    "title": "Steelers Raid Tampa! Mike McCarthy, Injury Updates & Next Stop Paris! | SF7P Ep. 212",
-    "show": "Steelers for 7 Podcast",
-    "kind": "podcast",
-    "link": "https://podcasters.spotify.com/pod/show/steelersfor7podcast/episodes/Steelers-Raid-Tampa--Mike-McCarthy--Injury-Updates--Next-Stop-Paris---SF7P-Ep--212-e3qpdap",
-    "published": "2026-10-20T05:11:45+00:00",
-    "summary": "Podcast episode from Steelers for 7 Podcast."
-   },
    {
     "title": "Steelers Hangover: Trajectory Win! Steelers Beat Tampa Bay 26-19 in OT",
     "show": "Steel Curtain Network (BTSC)",
@@ -1371,6 +1387,14 @@
     "kind": "podcast",
     "link": "https://podcasts.apple.com/us/podcast/the-mike-mccarthy-weekly-press-conference-recap-week/id905962218?i=1000797141377",
     "published": "2026-10-19T19:50:00+00:00",
+    "summary": "Podcast episode from Steel Curtain Network (BTSC)."
+   },
+   {
+    "title": "Steel City Insider: Recapping the Steelers OT win over the Buccaneers",
+    "show": "Steel Curtain Network (BTSC)",
+    "kind": "podcast",
+    "link": "https://podcasts.apple.com/us/podcast/steel-city-insider-recapping-the-steelers-ot-win-over/id905962218?i=1000797123941",
+    "published": "2026-10-19T17:40:00+00:00",
     "summary": "Podcast episode from Steel Curtain Network (BTSC)."
    }
   ]

@@ -1,11 +1,14 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-20T20:21:50+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T20:21:31+00:00._
+_Generated 2026-10-20T20:33:16+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T20:32:53+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Podcast: [Drive10.20.26Hr1: Scouting the Saints](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-20-26hr1-mp3): SNR Drive, 2026-10-20 20:00 UTC
 - Podcast: [Steelers Crazy #300 - Saints Vs Steelers In Paris](https://anchor.fm/the-sick-podcast---steelers-crazy): The Sick Podcast - Steelers Crazy, 2026-10-20 19:12 UTC
+- Podcast: [Drive10.20.26Hr2: Week Seven Power Rankings](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-20-26hr2-mp3): SNR Drive, 2026-10-20 19:00 UTC
 - Video: [Is the Steelers pass defense actually fine without Joey Porter Jr? #steelers #nfl](https://www.youtube.com/shorts/I8qkYpoHneg): Still Curtain Podcast, 2026-10-20 18:15 UTC
 - Video: [That crowd pop 💥 📺: #PITvsNO 10/25 at 9:30 AM ET on NFLN](https://www.youtube.com/shorts/OlJTbqdizjI): Pittsburgh Steelers (official), 2026-10-20 18:07 UTC
+- Podcast: [Drive10.20.26AC: Around Campus](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-20-26ac-mp3): SNR Drive, 2026-10-20 18:00 UTC
 - Podcast: [What We Know About The Steelers Following Week 6 - Steelers Gabriel Rubio Interview](https://arthurmoats55.libsyn.com/what_we_know_about_the_steelers_following_week_6_-_steelers_gabriel_rubiomp3): The Arthur Moats Experience, 2026-10-20 17:39 UTC
 - Video: [So nice he had to do it twice‼️ 📺: #PITvsNO 10/25 at 9:30 AM ET on NFLN](https://www.youtube.com/shorts/fuUj8eUqn4g): Pittsburgh Steelers (official), 2026-10-20 16:04 UTC
 - Video: [Just having Tom Brady was enough for them to think they had a chance 😮‍💨🔥#patriots #tombrady](https://www.youtube.com/shorts/YF0Yc1KkCzA): Not Just Football with Cam Heyward, 2026-10-20 16:00 UTC
@@ -22,10 +25,10 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Steelers' Mike McCarthy Must Lean More on Jaylen Warren, Under Center Offense to Fix 3rd Down Issues](https://www.youtube.com/watch?v=L7OiUYf66XA): Locked On Steelers, 2026-10-20 06:15 UTC
 - Podcast: [DK's Daily Shot of Steelers: The great Jalen Ramsey](https://podcasts.apple.com/us/podcast/dks-daily-shot-of-steelers-the-great-jalen-ramsey/id1072021022?i=1000797237233): DK Pittsburgh Sports, 2026-10-20 06:05 UTC
 - Podcast: [Scout’s Eye with Matt Williamson: That's winning defense](https://podcasts.apple.com/us/podcast/scouts-eye-with-matt-williamson-thats-winning-defense/id1072021022?i=1000797213910): DK Pittsburgh Sports, 2026-10-20 06:02 UTC
-- Podcast: [Steelers' Mike McCarthy Must Lean More on Jaylen Warren, Under Center Offense to Fix 3rd Down Issues](https://podcasts.apple.com/us/podcast/steelers-mike-mccarthy-must-lean-more-on-jaylen-warren/id1140522532?i=1000797209848): Locked On Steelers, 2026-10-20 06:00 UTC
+- Podcast: [Steelers' Mike McCarthy Must Lean More on Jaylen Warren, Under Center Offense to Fix 3rd Down Issues](https://lockedonpodcasts.com/podcasts/locked-on-steelers/): Locked On Steelers, 2026-10-20 06:00 UTC
 - Podcast: [Steelers Raid Tampa! Mike McCarthy, Injury Updates & Next Stop Paris! | SF7P Ep. 212](https://podcasters.spotify.com/pod/show/steelersfor7podcast/episodes/Steelers-Raid-Tampa--Mike-McCarthy--Injury-Updates--Next-Stop-Paris---SF7P-Ep--212-e3qpdap): Steelers for 7 Podcast, 2026-10-20 05:11 UTC
 - Podcast: [Steelers Hangover: Trajectory Win! Steelers Beat Tampa Bay 26-19 in OT](https://podcasts.apple.com/us/podcast/steelers-hangover-trajectory-win-steelers-beat-tampa/id905962218?i=1000797185794): Steel Curtain Network (BTSC), 2026-10-20 02:14 UTC
-- Podcast: [Steelers Depot Youtube Live Stream Q & A Podcast - October 19, 2026](https://podcasts.apple.com/us/podcast/steelers-depot-youtube-live-stream-q-a-podcast/id405990739?i=1000797179113): The Terrible Podcast (Steelers Depot), 2026-10-20 01:07 UTC
+- Podcast: [Steelers Depot Youtube Live Stream Q & A Podcast - October 19, 2026](https://podcasts.apple.com/us/podcast/id405990739): The Terrible Podcast (Steelers Depot), 2026-10-20 01:07 UTC
 - Video: [ahoy.mp4](https://www.youtube.com/shorts/eJqO7AsgSnY): Pittsburgh Steelers (official), 2026-10-20 00:25 UTC
 - Video: [Recapping The 26-19 Win Against The Buccaneers | SNR Drive (Oct.19) | Pittsburgh Steelers](https://www.youtube.com/watch?v=8Dz8Jo8g6-0): Pittsburgh Steelers (official), 2026-10-19 23:45 UTC
 - Video: [What Jaquan said 🗣️](https://www.youtube.com/shorts/1fzVAxBoz-U): Pittsburgh Steelers (official), 2026-10-19 23:19 UTC
@@ -38,7 +41,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Pittsburgh Steelers vs Tampa Bay Buccaneers Week 6 Game Recap/Phone Lines](https://arthurmoats55.libsyn.com/the_arthur_moats_experience__ep_779__live___steelers_vs_bucs_recap_phone_lines_mp3): The Arthur Moats Experience, 2026-10-19 21:56 UTC
 - Video: [DK Metcalf Came Up HUGE in the Steelers OT Win Over the Bucs 🔥 #dkmetcalf #steelers #nfl](https://www.youtube.com/shorts/LPBp6gROjcU): Locked On Steelers, 2026-10-19 21:54 UTC
 - Podcast: [Steelers Battling Over Trade | What's Different About This Team?](https://podcasts.apple.com/us/podcast/steelers-battling-over-trade-whats-different-about/id1627248534?i=1000797154912): All Steelers Talk, 2026-10-19 21:35 UTC
-- Podcast: [The Terrible Take - Episode 2055 - October 19, 2026](https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2055-october-19-2026/id405990739?i=1000797151151): The Terrible Podcast (Steelers Depot), 2026-10-19 21:00 UTC
 - Podcast: [Drive10.19.26Hr2: Around the NFL - Week Six](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-19-26hr2-mp3): SNR Drive, 2026-10-19 21:00 UTC
 - Video: [Coach McCarthy Press Conference (Week 7 at New Orleans Saints) | Pittsburgh Steelers](https://www.youtube.com/watch?v=M2zs_f3U6tQ): Pittsburgh Steelers (official), 2026-10-19 20:45 UTC
 - Video: [Steelers Save Their Best for Last in Overtime Win in Tampa](https://www.youtube.com/watch?v=WwJom70LMfs): Steel City Underground, 2026-10-19 20:01 UTC
@@ -47,7 +49,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Steelers Save Their Best for Last in Overtime Win in Tampa](https://www.steelcityunderground.com/podcast/2026/10/steelers-save-their-best-for-last-in-overtime-win-in-tampa/): Steel City Underground, 2026-10-19 19:40 UTC
 - Podcast: [Only the Steelers Can Make Winning Look So Ugly | Illegal Hands to the Face](https://redcircle.com/shows/62750d24-c3c9-4be8-919a-ff22b312fb19/episodes/a9b49b24-c6aa-4e45-9d33-504a994fcfb4): Still Curtain Podcast, 2026-10-19 19:38 UTC
 - Podcast: [Steel City Insider: Recapping the Steelers OT win over the Buccaneers](https://podcasts.apple.com/us/podcast/steel-city-insider-recapping-the-steelers-ot-win-over/id905962218?i=1000797123941): Steel Curtain Network (BTSC), 2026-10-19 17:40 UTC
-- Podcast: [The Terrible Podcast — Steelers-Buccaneers Game Recap, Injury Recap, Clock Management, WR Rumblings & More](https://podcasts.apple.com/us/podcast/the-terrible-podcast-steelers-buccaneers-game-recap/id405990739?i=1000797117064): The Terrible Podcast (Steelers Depot), 2026-10-19 16:55 UTC
 - Video: [Not many linebackers can do what he did with a Tom Brady pass 🤯🔥#patriots #tombrady #nfl](https://www.youtube.com/shorts/YKPK-rOYb1Q): Not Just Football with Cam Heyward, 2026-10-19 16:00 UTC
 - Podcast: [Hour 1: A Takeover in Tampa](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-101926-mp3): Steelers Blitz, 2026-10-19 16:00 UTC
 - Video: [Steelers ILB Payton Wilson Reveals Major Change in Defense’s Approach](https://www.youtube.com/watch?v=2u8S2Cd3QIU): Steelers Now, 2026-10-19 15:37 UTC
@@ -62,7 +63,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Let's Ride: Winners and Losers after the Steelers 26-19 win over the Buccaneers](https://podcasts.apple.com/us/podcast/lets-ride-winners-and-losers-after-the-steelers-26-19/id905962218?i=1000797038152): Steel Curtain Network (BTSC), 2026-10-19 08:00 UTC
 - Podcast: [DK's Daily Shot of Steelers: The 1-2 catch!](https://podcasts.apple.com/us/podcast/dks-daily-shot-of-steelers-the-1-2-catch/id1072021022?i=1000797058459): DK Pittsburgh Sports, 2026-10-19 07:49 UTC
 - Video: [Steelers WRs Germie Bernard, DK Metcalf Find Chemistry w/Aaron Rodgers in Time to Beat Buccaneers](https://www.youtube.com/watch?v=31udvFwckK0): Locked On Steelers, 2026-10-19 04:00 UTC
-- Podcast: [Steelers WRs Germie Bernard, DK Metcalf Find Chemistry w/Aaron Rodgers in Time to Beat Buccaneers](https://podcasts.apple.com/us/podcast/steelers-wrs-germie-bernard-dk-metcalf-find-chemistry/id1140522532?i=1000797007681): Locked On Steelers, 2026-10-19 04:00 UTC
 - Video: [Germie Bernard, Jamel Dean & DK Metcalf on win at Buccaneers | Press Pass | Pittsburgh Steelers](https://www.youtube.com/watch?v=vxAoEcjl98k): Pittsburgh Steelers (official), 2026-10-19 01:22 UTC
 - Video: [Best fans in the world 🖤💛](https://www.youtube.com/shorts/mSgT-K71CjI): Pittsburgh Steelers (official), 2026-10-19 01:02 UTC
 - Podcast: [Scout’s Eye with Matt Williamson: Late domination](https://podcasts.apple.com/us/podcast/scouts-eye-with-matt-williamson-late-domination/id1072021022?i=1000796990242): DK Pittsburgh Sports, 2026-10-19 00:14 UTC
@@ -71,7 +71,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Reunited 🤝](https://www.youtube.com/shorts/_d_0PZ6tpi4): Pittsburgh Steelers (official), 2026-10-18 23:02 UTC
 - Video: [GGs](https://www.youtube.com/shorts/XkeRK_8xFk8): Pittsburgh Steelers (official), 2026-10-18 22:58 UTC
 - Podcast: [Steelers Now Postgame: Steelers 26, Buccaneers 19](https://podcasts.apple.com/us/podcast/steelers-now-postgame-steelers-26-buccaneers-19/id1700240934?i=1000796980106): Steelers Afternoon Drive, 2026-10-18 22:41 UTC
-- Podcast: [STEELERS SQUAD SHOW: McCarthy ROLLS Ankle, Steelers Big COMEBACK Leads To 1st Road Win In OT](https://podcasts.apple.com/us/podcast/steelers-squad-show-mccarthy-rolls-ankle-steelers-big/id1140522532?i=1000796979708): Locked On Steelers, 2026-10-18 22:38 UTC
 - Podcast: [Steelers Beat Bucs in OT! WILD GAME](https://podcasts.apple.com/us/podcast/steelers-beat-bucs-in-ot-wild-game/id1627248534?i=1000796978945): All Steelers Talk, 2026-10-18 22:23 UTC
 - Podcast: [SCN Post-Game Show: The Jekyll and Hyde Steelers beat Tampa Bay in OT](https://podcasts.apple.com/us/podcast/scn-post-game-show-the-jekyll-and-hyde-steelers/id905962218?i=1000796978026): Steel Curtain Network (BTSC), 2026-10-18 22:17 UTC
 - Podcast: [DK’s Live Shot of Steelers: Postgame vs. Buccaneers](https://podcasts.apple.com/us/podcast/dks-live-shot-of-steelers-postgame-vs-buccaneers/id1072021022?i=1000796977662): DK Pittsburgh Sports, 2026-10-18 22:08 UTC
@@ -79,13 +78,11 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [The Mike McCarthy Postgame Press Conference Recap: Steelers 26, Buccaneers 19](https://podcasts.apple.com/us/podcast/the-mike-mccarthy-postgame-press-conference-recap/id905962218?i=1000796982069): Steel Curtain Network (BTSC), 2026-10-18 22:00 UTC
 - Video: [STEELERS SQUAD SHOW: McCarthy ROLLS Ankle, Steelers Big COMEBACK Leads To 1st Road Win In OT](https://www.youtube.com/watch?v=oTfu6jvAWPA): Locked On Steelers, 2026-10-18 21:57 UTC
 - Video: [Mike McCarthy Explains Clock Management Decisions in Steelers Win over Bucs](https://www.youtube.com/watch?v=ZR7423xKpA8): Steelers Now, 2026-10-18 21:51 UTC
-- Podcast: [The Terrible Take - Episode 2054 - October 18, 2026](https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2054-october-18-2026/id405990739?i=1000796929510): The Terrible Podcast (Steelers Depot), 2026-10-18 14:34 UTC
 - Podcast: [Steelers vs. Bucs Bold Predictions](https://podcasts.apple.com/us/podcast/steelers-vs-bucs-bold-predictions/id1627248534?i=1000796922691): All Steelers Talk, 2026-10-18 12:35 UTC
 - Podcast: [Last Minute Thoughts: Black and Bold, Week 6 vs. Tampa Bay](https://podcasts.apple.com/us/podcast/last-minute-thoughts-black-and-bold-week-6-vs-tampa-bay/id905962218?i=1000796897704): Steel Curtain Network (BTSC), 2026-10-18 08:00 UTC
 - Podcast: [The Steelers Q&A: Getting off the coaster in Week 6](https://podcasts.apple.com/us/podcast/the-steelers-q-a-getting-off-the-coaster-in-week-6/id905962218?i=1000796865157): Steel Curtain Network (BTSC), 2026-10-18 02:30 UTC
 - Podcast: [DK's Live Shot of Steelers: Pregame vs. Buccaneers](https://podcasts.apple.com/us/podcast/dks-live-shot-of-steelers-pregame-vs-buccaneers/id1072021022?i=1000796861441): DK Pittsburgh Sports, 2026-10-18 01:37 UTC
 - Video: [E Robb didn’t want to let his teammates down 👏💥#nfl #patriots #falcons](https://www.youtube.com/shorts/bheCQdatp50): Not Just Football with Cam Heyward, 2026-10-17 23:00 UTC
-- Podcast: [The Terrible Take - Episode 2053 - October 17, 2026](https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2053-october-17-2026/id405990739?i=1000796840142): The Terrible Podcast (Steelers Depot), 2026-10-17 21:00 UTC
 - Video: [Which Steelers Are Fantasy Must-Plays in Week 6? | THE PITTSBURGH FOOTBALL SHOW](https://www.youtube.com/watch?v=QLTI3E_BS94): Steelers Now, 2026-10-17 15:48 UTC
 - Podcast: [State of the Steelers: Can The Steelers Fix Its Road Woes in Tampa Bay?](https://podcasts.apple.com/us/podcast/state-of-the-steelers-can-the-steelers-fix-its-road/id905962218?i=1000796815256): Steel Curtain Network (BTSC), 2026-10-17 15:09 UTC
 - Video: [Burgh Bets with Bob Konarski: NFL and CFB Picks and Props for Week 6 | THE PITTSBURGH FOOTBALL SHOW](https://www.youtube.com/watch?v=Z7xvi-201f4): Steelers Now, 2026-10-17 13:45 UTC
@@ -98,7 +95,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [DK’s Double Shot of Steelers: Those linebackers](https://podcasts.apple.com/us/podcast/dks-double-shot-of-steelers-those-linebackers/id1072021022?i=1000796735591): DK Pittsburgh Sports, 2026-10-16 22:01 UTC
 - Podcast: [The South Side Beat - Ep. 301: Can Steelers win on the road?](https://podcasts.apple.com/us/podcast/the-south-side-beat-ep-301-can-steelers-win-on-the-road/id1072021022?i=1000796743885): DK Pittsburgh Sports, 2026-10-16 22:00 UTC
 - Podcast: [Steelers Hit With Even Worse WR News!](https://podcasts.apple.com/us/podcast/steelers-hit-with-even-worse-wr-news/id1627248534?i=1000796729440): All Steelers Talk, 2026-10-16 21:13 UTC
-- Podcast: [The Terrible Take - Episode 2052 - October 16, 2026](https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2052-october-16-2026/id405990739?i=1000796726979): The Terrible Podcast (Steelers Depot), 2026-10-16 21:00 UTC
 - Video: [Jalen Ramsey Clarifies Comments | Steelers Practice Report](https://www.youtube.com/watch?v=bRDSxlq5FRQ): Steelers Now, 2026-10-16 19:59 UTC
 - Video: [Aaron Rodgers Bonds with Unheralded WRs | Steelers Sights & Sounds](https://www.youtube.com/watch?v=DypVLdv5nY0): Steelers Now, 2026-10-16 18:41 UTC
 - Video: [Is Kaden Wetjen on Short Leash? The Grand Finale with Jack Hillgrove | THE PITTSBURGH FOOTBALL SHOW](https://www.youtube.com/watch?v=bbQu6HyTAh4): Steelers Now, 2026-10-16 18:21 UTC
@@ -113,7 +109,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Hour 1: Final Breakdown of the Bucs](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-101626-mp3): Steelers Blitz, 2026-10-16 16:00 UTC
 - Podcast: [Drive10.16.26Hr1: 5 Star Friday](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-16-26hr1-mp3): SNR Drive, 2026-10-16 16:00 UTC
 - Podcast: [Black & Gold Blueprint: Buccaneers Preview Featuring Special Guest Jay Hostetler](https://podcasts.apple.com/us/podcast/black-gold-blueprint-buccaneers-preview-featuring-special/id905962218?i=1000796685619): Steel Curtain Network (BTSC), 2026-10-16 15:30 UTC
-- Podcast: [The Terrible Podcast — Steelers Vs Buccaneers Game Preview, Trade Possibility, Injury Report, Week 6 Picks, And More](https://podcasts.apple.com/us/podcast/the-terrible-podcast-steelers-vs-buccaneers-game/id405990739?i=1000796683883): The Terrible Podcast (Steelers Depot), 2026-10-16 15:14 UTC
 - Podcast: [Hour 2: Ed Troupe / Around the Shield](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr2-101626-mp3): Steelers Blitz, 2026-10-16 15:00 UTC
 - Podcast: [Drive10.16.26Hr2: Week 6 Preview](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-16-26hr2-mp3): SNR Drive, 2026-10-16 15:00 UTC
 - Podcast: [Steelers Film Expert Issues a WARNING About T.J. Watt — And Reveals the Key to Beating Tampa Bay](https://podcasts.apple.com/us/podcast/steelers-film-expert-issues-a-warning-about-t-j/id1623192893?i=1000796678598): The Steel City Insider (Jim Wexell, 247Sports), 2026-10-16 14:23 UTC
@@ -126,14 +121,12 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [DK's Daily Shot of Steelers: Ten things I'd like to see](https://podcasts.apple.com/us/podcast/dks-daily-shot-of-steelers-ten-things-id-like-to-see/id1072021022?i=1000796623164): DK Pittsburgh Sports, 2026-10-16 05:08 UTC
 - Podcast: [Scout’s Eye with Matt Williamson: Tougher than they look](https://podcasts.apple.com/us/podcast/scouts-eye-with-matt-williamson-tougher-than-they-look/id1072021022?i=1000796607010): DK Pittsburgh Sports, 2026-10-16 05:06 UTC
 - Video: [Steelers Need Mike McCarthy to Overcome Lack of Separation of WRs DK Metcalf, Germie Bernard](https://www.youtube.com/watch?v=N1WprZaEpWI): Locked On Steelers, 2026-10-16 05:00 UTC
-- Podcast: [Steelers Need Mike McCarthy to Overcome Lack of Separation of WRs DK Metcalf, Germie Bernard](https://podcasts.apple.com/us/podcast/steelers-need-mike-mccarthy-to-overcome-lack-of/id1140522532?i=1000796596907): Locked On Steelers, 2026-10-16 04:30 UTC
 - Podcast: [SCB Steelers Podcast 494 - Galloping Away](https://scblitz.podbean.com/e/scb-steelers-podcast-494-galloping-away/): Steel City Blitz, 2026-10-16 03:32 UTC
 - Podcast: [Steelers Preview: Previewing Steelers vs. Buccaneers, Week 6](https://podcasts.apple.com/us/podcast/steelers-preview-previewing-steelers-vs-buccaneers-week-6/id905962218?i=1000796570410): Steel Curtain Network (BTSC), 2026-10-16 00:00 UTC
 - Podcast: [DK’s Double Shot of Steelers: Take Tampa seriously?](https://podcasts.apple.com/us/podcast/dks-double-shot-of-steelers-take-tampa-seriously/id1072021022?i=1000796564168): DK Pittsburgh Sports, 2026-10-15 22:06 UTC
 - Podcast: [Worried About Rookie Roles? | Steelers Afternoon Drive](https://podcasts.apple.com/us/podcast/worried-about-rookie-roles-steelers-afternoon-drive/id1700240934?i=1000796556968): Steelers Afternoon Drive, 2026-10-15 21:55 UTC
 - Video: [Steelers' Mike McCarthy Must Solve WR Separation Issue w/DK Metcalf, Germie Bernard vs Buccaneers](https://www.youtube.com/shorts/FJtbyDhy-5k): Locked On Steelers, 2026-10-15 21:53 UTC
 - Podcast: [Steelers Injuries: Good News, Bad News, IR Coming?](https://podcasts.apple.com/us/podcast/steelers-injuries-good-news-bad-news-ir-coming/id1627248534?i=1000796558853): All Steelers Talk, 2026-10-15 21:11 UTC
-- Podcast: [The Terrible Take - Episode 2051 - October 15, 2026](https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2051-october-15-2026/id405990739?i=1000796551180): The Terrible Podcast (Steelers Depot), 2026-10-15 21:00 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
