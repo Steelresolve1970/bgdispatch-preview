@@ -1,8 +1,10 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-20T19:49:29+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T19:49:23+00:00._
+_Generated 2026-10-20T20:00:12+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T20:00:06+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
+- **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
+  [Steelers Linked To Intriguing Chris Godwin Jr Trade After Buccaneers Win](https://www.steelernation.com/2026/10/20/steelers-intriguing-chris-godwin-trade): SteelerNation, first seen 2026-10-20 20:00 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Report Detailed Exactly What Steelers Are Looking For At The Trade Deadline](https://www.steelernation.com/2026/10/20/steelers-detailed-exactly-deadline): SteelerNation, first seen 2026-10-20 19:27 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other

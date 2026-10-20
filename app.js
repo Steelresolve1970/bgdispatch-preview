@@ -460,5 +460,8 @@ function ruTab(k,push){document.querySelectorAll('.ru-tabs .rr-tab').forEach(b=>
  if(k==='meter'){try{window.BGD_renderRumors&&window.BGD_renderRumors();}catch(e){}}}
 document.addEventListener('click',e=>{const b=e.target.closest('.ru-tabs .rr-tab');if(b){ruTab(b.dataset.ru,true);}});
 document.addEventListener('route',e=>{if(e.detail!=='rumors')return;const m=location.hash.match(/tab=(\w+)/);ruTab(m&&['news','meter'].includes(m[1])?m[1]:'news',true);});
-
-
+// "Follow us" social links (footer, Contact page, Newsletter page). ONE config spot: data/site_config.json
+// "x_url" and "facebook_url". A link shows only when its URL is set (https://...); empty "" hides it.
+(function(){fetch(BGD_url('data/site_config.json'),{cache:'no-store'}).then(r=>r.ok?r.json():null).then(c=>{if(!c)return;
+ document.querySelectorAll('a[data-social]').forEach(a=>{const k=a.dataset.social+'_url';if(!(k in c))return;const u=String(c[k]||'').trim();
+  if(/^https:\/\//.test(u)){a.href=u;a.hidden=false;}else a.hidden=true;});}).catch(()=>{});})();

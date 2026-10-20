@@ -1,5 +1,5 @@
 {
- "_help": "Owner switches. base_url: the public address once the site is live. ai_crawlers_allowed: true welcomes AI crawlers in robots.txt, false blocks the known AI bots. premium_enabled: keep false (paid feeds are only a scaffold, see AI-ACCESS.md). site_name: the brand name shown everywhere. contact_email: the site's public contact address (shown on Contact & Suggestions; leave empty to hide). contact_phone: the site's public phone number (Google Voice; shown on Contact & Suggestions; leave empty to hide). ads_enabled: keep false until an ad network (e.g. Google AdSense) has approved the site; true shows every ad slot (.ad) site-wide and, if ads_script_src is set, loads that network script once. ads_script_src / ads_client: the network script URL and publisher id it gives you.",
+ "_help": "Owner switches. base_url: the public address once the site is live. ai_crawlers_allowed: true welcomes AI crawlers in robots.txt, false blocks the known AI bots. premium_enabled: keep false (paid feeds are only a scaffold, see AI-ACCESS.md). site_name: the brand name shown everywhere. contact_email: the site's public contact address (shown on Contact & Suggestions; leave empty to hide). contact_phone: the site's public phone number (Google Voice; shown on Contact & Suggestions; leave empty to hide). ads_enabled: keep false until an ad network (e.g. Google AdSense) has approved the site; true shows every ad slot (.ad) site-wide and, if ads_script_src is set, loads that network script once. ads_script_src / ads_client: the network script URL and publisher id it gives you. x_url / facebook_url: the site's social accounts, shown as \"Follow us\" links in the footer, Contact and Newsletter pages and listed in the search-engine data (sameAs). Paste the full https:// address; leave \"\" to hide that link.",
  "base_url": "https://blackandgolddispatch.com",
  "ai_crawlers_allowed": true,
  "premium_enabled": false,
@@ -11,5 +11,7 @@
  "contact_phone": "(412) 748-1640",
  "ads_enabled": false,
  "ads_script_src": "",
- "ads_client": ""
+ "ads_client": "",
+ "x_url": "https://x.com/BnGDispatch",
+ "facebook_url": ""
 }

@@ -1,9 +1,11 @@
 # Steelers News
 
-_Generated 2026-10-20T19:49:29+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T19:48:59+00:00._
+_Generated 2026-10-20T20:00:12+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T19:59:42+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
-- [NFL To Have ‘Heightened’ Security For Steelers Paris Game](https://steelersdepot.com/2026/10/nfl-to-have-heightened-security-for-steelers-paris-game/): Steelers Depot, 2026-10-20 19:44 UTC
+- [Steelers Linked To Intriguing Chris Godwin Jr Trade After Buccaneers Win](https://www.steelernation.com/2026/10/20/steelers-intriguing-chris-godwin-trade): SteelerNation, 2026-10-20 19:57 UTC
+- [NFL says heightened security measures will be in place for the Steelers-Saints game in Paris](https://www.wral.com/news/ap/2234a-nfl-says-heightened-security-measures-will-be-in-place-for-the-steelers-saints-game-in-paris/): WRAL, 2026-10-20 19:54 UTC
+- [NFL To Have ‘Heightened’ Security For Steelers’ Paris Game](https://steelersdepot.com/2026/10/nfl-to-have-heightened-security-for-steelers-paris-game/): Steelers Depot, 2026-10-20 19:44 UTC
 - [Cam Heyward Proposes Revamp To Roughing-The-Passer Rule](https://steelersdepot.com/2026/10/cam-heyward-proposes-revamp-to-roughing-the-passer-rule/): Steelers Depot, 2026-10-20 19:30 UTC
 - [Report Detailed Exactly What Steelers Are Looking For At The Trade Deadline](https://www.steelernation.com/2026/10/20/steelers-detailed-exactly-deadline): SteelerNation, 2026-10-20 19:07 UTC
 - [Chris Long Says He’ll ‘Walk Across America’ If Steelers Play In Super Bowl This Season](https://steelersdepot.com/2026/10/chris-long-says-hell-walk-across-america-if-steelers-play-in-super-bowl-this-season/): Steelers Depot, 2026-10-20 19:00 UTC
@@ -92,7 +94,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [BTSC Monday Night Football thread: Commanders at 49ers](https://www.behindthesteelcurtain.com/pittsburgh-steelers-discussion/176386/btsc-monday-night-football-thread-commanders-at-49ers): Behind the Steel Curtain, 2026-10-20 00:00 UTC
 - [Following the leader, a re-kick and the gist of run defense](https://www.steelers.com/news/following-the-leader-a-re-kick-and-the-gist-of-run-defense): Steelers.com (official), 2026-10-20 00:00 UTC
 - [Steelers Open as Favorites vs. Saints in Week 7](https://steelersnow.com/steelers-open-as-favorites-vs-saints-in-week-7/): Steelers Now, 2026-10-19 23:45 UTC
-- [Steelers' DK Metcalf Has Reason For Rocky Start To 2026 Season Exposed](https://www.steelernation.com/2026/10/19/steelers-dk-metcalf-season-exposed): SteelerNation, 2026-10-19 23:25 UTC
 - [Aaron Rodgers, Jalen Ramsey reach personal milestones in Steelers win over Buccaneers](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176581/aaron-rodgers-jalen-ramsey-reach-personal-milestones-in-steelers-win-over-buccaneers): Behind the Steel Curtain, 2026-10-19 22:50 UTC
 - [Steelers Afternoon Drive: Will Bernard Breakout Blow Up WR Plans?](https://steelersnow.com/steelers-afternoon-drive-will-bernard-breakout-blow-up-wr-plans/): Steelers Now, 2026-10-19 22:34 UTC
 - [WATCH: SNR Drive (All Episodes from Week of October 19)](https://www.steelers.com/news/watch-snr-drive-all-episodes-from-week-of-october-19): Steelers.com (official), 2026-10-19 22:00 UTC
@@ -152,7 +153,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [The Steelers rally back from 13 down to beat the Buccaneers in overtime](https://www.post-gazette.com/sports/steelers/2026/10/18/steelers-buccaneers-aaron-rodgers-germie-bernard/stories/202610180075): Pittsburgh Post-Gazette, 2026-10-18 20:58 UTC
 - [Steelers get OT win but leave Tampa Bay with more offensive questions than answers](https://www.nytimes.com/athletic/7702085/2026/10/18/steelers-buccaneers-nfl-week-6-result-takeaways/): The Athletic, 2026-10-18 20:56 UTC
 - [Rapid Reaction: Steelers 26, Buccaneers 19](https://www.buccaneers.com/news/bucs-lose-pittsburgh-steelers-overtime-week-6-2026-score-26-19): Tampa Bay Buccaneers, 2026-10-18 20:50 UTC
-- [Steelers rally past Buccaneers, 26-19, in overtime](https://www.steelers.com/news/steelers-rally-past-buccaneers-26-19-in-overtime): Steelers.com (official), 2026-10-18 20:44 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
