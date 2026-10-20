@@ -101,7 +101,7 @@
  function buildHot(){
   return api('engage/hot').then(function(d){
    if(!d||!d.ok||!d.thread)return null;var t=d.thread;
-   var sub=d.why==='hot'?(t.recent+' new post'+(t.recent===1?'':'s')+' in the last 2 days · '+esc(t.cat)):d.why==='welcome'?'Pinned · New here? Start with this one':'Game Day · Talk about this week\'s game';
+   var sub=d.why==='hot'&&t.recent>=2?(t.recent+' new posts in the last 2 days · '+esc(t.cat)):d.why==='hot'?('Latest discussion · '+esc(t.cat)):d.why==='welcome'?'Pinned · New here? Start with this one':'Game Day · Talk about this week\'s game';
    return card('hot','Hot in the forum','<a class="eg-thread" href="#/forum/thread/'+(+t.id)+'"><b>'+esc(t.title)+'</b><span>'+sub+'</span></a><p class="eg-src"><a href="#/forum/thread/'+(+t.id)+'">Join the conversation</a> · <a href="#/forum">All forum topics</a></p>');
   }).catch(function(){return null;});
  }

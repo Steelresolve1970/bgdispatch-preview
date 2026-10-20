@@ -117,10 +117,10 @@ window.BGDField={svg(f){if(!f||f.ytez==null||!f.posteam)return'';const W=120,Hh=
   <line x1="${x}" y1="${Hh/2}" x2="${ax}" y2="${Hh/2}" stroke="#FFB612" stroke-width="1.1"/><path d="M${ax} ${Hh/2-2.2} L${ax+dir*3} ${Hh/2} L${ax} ${Hh/2+2.2}Z" fill="#FFB612"/>
   <ellipse cx="${x}" cy="${Hh/2}" rx="2.6" ry="1.6" fill="#FFB612" stroke="#101010" stroke-width=".4"/>
  </svg>`;},
- html(d){const f=d.field;const pl=(d.plays||[]).slice(0,12);
+ html(d){const f=d.field;const pl=(d.plays||[]).slice(0,5);
   const head=f?`<p class="bf-dd"><b>${E(f.posteam)} ball</b> · ${E(f.text||'')}</p>`:'';
   return`<div class="box bf">${head}${f?this.svg(f):'<p class="fine">Ball position shows here once the play-by-play feed is connected.</p>'}
-   <p class="fine bf-key"><span class="bf-k bf-k1"></span> line of scrimmage <span class="bf-k bf-k2"></span> first-down line · arrow shows the drive direction</p>
+   <p class="fine bf-key">White line: line of scrimmage · dashed gold: first-down line · arrow: drive direction</p>
    ${pl.length?`<h3 class="bs-h3">Latest plays</h3><ol class="bf-plays">${pl.map(p=>`<li class="${p.scoring?'sc':''}"><small>${E(p.team||'')} · Q${E(p.q)} ${E(p.clock||'')}${p.down?' · '+E(p.down):''}</small>${E(p.text)}</li>`).join('')}</ol>`:''}</div>`;}};
 const st2=document.createElement('style');st2.textContent='.bf{padding:12px}.bf-svg{width:100%;height:auto;display:block;border-radius:8px;max-height:360px}.bf-dd{margin:0 0 8px;font-size:1.05rem}.bf-dd b{background:#101010;color:#FFB612;padding:2px 8px;border-radius:5px;font-size:.85rem;letter-spacing:.06em;text-transform:uppercase}.bf-key{margin:6px 0 0}.bf-k{display:inline-block;width:14px;height:0;border-top:2px solid #101010;vertical-align:middle;margin:0 2px 0 6px}.bf-k2{border-top:2px dashed #c98f00}.bf-plays{list-style:none;margin:0;padding:0;max-height:420px;overflow:auto}.bf-plays li{padding:8px 0;border-bottom:1px solid #eee;overflow-wrap:anywhere}.bf-plays li small{display:block;color:#6b6b6b;font-weight:700}.bf-plays li.sc{border-left:4px solid #FFB612;padding-left:8px}';document.head.appendChild(st2);
 // Compact box score for the Live Hub (extras.js live()). Same nflverse data as the full page.
