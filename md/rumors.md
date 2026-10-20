@@ -1,6 +1,6 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-20T15:37:32+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T15:37:26+00:00._
+_Generated 2026-10-20T15:48:19+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T15:48:13+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
@@ -27,7 +27,9 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Steelers Trade Rumors: Pittsburgh Is Making Calls for Receiver Help — Could Mike McCarthy Turn to Dallas?](https://sportsnaut.com/nfl/steelers-trade-rumors-pittsburgh-is-making-calls-for-receiver-help-could-mike-mccarthy-turn-to-dallas): Sportsnaut, first seen 2026-10-20 00:50 UTC
 - **Rumor** · tier: Beat writer / team · consensus: 1 source(s), top tier Beat writer / team
   [Could Steelers Consider Kick Returner Change? Rising RB Earning Opportunity](https://steelersnow.com/could-steelers-consider-kick-returner-change-rising-rb-earning-opportunity/): Steelers Now, first seen 2026-10-19 21:21 UTC
-- **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
+- **Rumor** · tier: Fan blog · consensus: 2 source(s), top tier Fan blog
+  [Former All-Pro Likely On Steelers' Radar With Trade Deadline Quickly Approaching](https://www.steelernation.com/2026/10/19/steelers-likely-quickly-approaching): Steeler Nation, first seen 2026-10-20 15:48 UTC
+- **Rumor** · tier: Fan blog · consensus: 2 source(s), top tier Fan blog
   [Former All-Pro Likely On Steelers' Radar With Trade Deadline Quickly Approaching](https://www.steelernation.com/2026/10/19/steelers-likely-quickly-approaching): SteelerNation, first seen 2026-10-19 19:47 UTC
 - **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
   [Veteran Steelers QB Named Eagles Trade Target After Jalen Hurts News](https://sports.yahoo.com/articles/veteran-steelers-qb-named-eagles-183142596.html): Yahoo Sports, first seen 2026-10-19 21:10 UTC

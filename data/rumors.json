@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T15:37:26.855359+00:00",
+ "generated": "2026-10-20T15:48:13.791980+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -505,6 +505,35 @@
    "updated": "2026-10-19T21:21:37.792934+00:00"
   },
   {
+   "id": "290cc538b506",
+   "title": "Former All-Pro Likely On Steelers' Radar With Trade Deadline Quickly Approaching",
+   "source": "Steeler Nation",
+   "link": "https://www.steelernation.com/2026/10/19/steelers-likely-quickly-approaching",
+   "published": "2026-10-19T19:49:22+00:00",
+   "summary": "Rumor-style report from Steeler Nation on a Steelers roster move. Full details at the source.",
+   "tier": "Fan blog",
+   "tier_score": 2,
+   "subjects": [],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-20T15:48:13.791980+00:00",
+   "consensus": {
+    "cluster_id": "05c9cabecb81",
+    "independent_sources": 2,
+    "sources": [
+     "Steeler Nation",
+     "SteelerNation"
+    ],
+    "highest_tier": "Fan blog",
+    "highest_tier_score": 2,
+    "related_ids": [
+     "05c9cabecb81"
+    ]
+   },
+   "updated": "2026-10-20T15:48:13.791980+00:00"
+  },
+  {
    "id": "05c9cabecb81",
    "title": "Former All-Pro Likely On Steelers' Radar With Trade Deadline Quickly Approaching",
    "source": "SteelerNation",
@@ -520,13 +549,16 @@
    "first_seen": "2026-10-19T19:47:08.454946+00:00",
    "consensus": {
     "cluster_id": "05c9cabecb81",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
+     "Steeler Nation",
      "SteelerNation"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "290cc538b506"
+    ]
    },
    "updated": "2026-10-19T19:47:08.454946+00:00"
   },

@@ -1,8 +1,9 @@
 # Steelers Film Room & Previews
 
-_Generated 2026-10-20T15:37:32+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T15:37:11+00:00._
+_Generated 2026-10-20T15:48:19+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T15:47:50+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/film.json_
 
+- Breakdown (at Tampa Bay Buccaneers (Oct 18)): [Steelers' DL Grades vs Bucs](https://www.youtube.com/shorts/WgQOVchjdTg): Steelers Almighty, 2026-10-20 15:33 UTC
 - Breakdown (at Tampa Bay Buccaneers (Oct 18)): [Stars & Skulls Grades for Steelers-Buccaneers | Locked On](https://steelersnow.com/stars-skulls-grades-for-steelers-buccaneers-locked-on/): Steelers Now, 2026-10-20 14:30 UTC
 - Breakdown (at Tampa Bay Buccaneers (Oct 18)): [Pittsburgh Steelers 2026 Schedule, Week-By-Week Analysis](https://steelersnow.com/pittsburgh-steelers-2026-schedule/): Steelers Now, 2026-10-20 14:27 UTC
 - Breakdown (at Tampa Bay Buccaneers (Oct 18)): [Steelers' OL Grades vs Bucs](https://www.youtube.com/shorts/XnzAiZ2rG18): Steelers Almighty, 2026-10-20 11:27 UTC
