@@ -2,8 +2,8 @@
  "api_version": "1",
  "dataset": "college",
  "description": "College prospects at the Steelers' top needs with last-game and season stats (CollegeFootballData.com) and recent headlines.",
- "generated": "2026-10-20T20:11:03+00:00",
- "data_updated": "2026-10-20T14:13:36+00:00",
+ "generated": "2026-10-20T20:21:50+00:00",
+ "data_updated": "2026-10-20T20:21:38+00:00",
  "count": 20,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
@@ -91,6 +91,12 @@
    "stats_url": "https://collegefootballdata.com",
    "headlines": [
     {
+     "title": "Deion Sanders Doesn't Hold Back on Oklahoma State Quarterback Drew Mestemaker",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZlZWR3pTYmJvcVd0U25yR29WM0x4WWxhSFlZbGlXaDU1WF8zVC0yaHRkUXV3d3NMOEQ3QUU2NmJ4LTBYQXItRHhhQU9GaFVaaXRNdGE1alotMjN1TVpWQmtjNVV2S1VVOXduLUhRZzRod1JmR0daRG92YnRnT2puZzNWRjREUDF1SHJMRFJBTGM2QjF5YzRTVS00dVQxZWRJY3Z1UkhDR3Uwc3NqMWpkZXE3Rjl0MW0xajluOURUT2szY1Vf?oc=5",
+     "source": "Sports Illustrated",
+     "published": "2026-10-20T18:02:35+00:00"
+    },
+    {
      "title": "Why Mel Kiper Jr. names Oklahoma State’s Drew Mestemaker his QB1 for 2027 NFL Draft",
      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zUVVGTTVBWmUxbkltUFE2VjBYV1lTbXZQS2ZoczFibzFhSWs2S2JTNXpLUnFadmFjMHNpMzJUaURWSWRILWhCT0RWMmd0aXA4cFAyNVE0TEg0Y0hndkRDeENBNEpxR0RaWmZvQ0Y2dF83aFVtV01LYnYzSQ?oc=5",
      "source": "Yahoo Sports",
@@ -101,12 +107,6 @@
      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSXNEMHFTRnM2Q3llT1RRWDFRQWFqbmp5RjJMNEg2MkNQSGZVbGFFSTJPeF9vRWRNOWFoM0VvY1MzdFVvX1Uzd05DYTZBZi16X0x1MWUtaEN4QkdhMk54WnBrWE0zYjBBemlfQmRFZ3Y3LVBiZEI4cC1BSENEQzIzTzRDZ3o5d0lIT3lxMXJEbUtKSEJKTnkxak1CU1RZLVhnWmE4c2RLOXFQdUs5WUNvQTlqNWRJZE1tVEV1LXNZQTNWLVAwSl8zeUlwUGJLbjZuQWVCTXJkYlhqLTdQSnl2cWliRE5qZGdybjZLdkVPTG5STmdYaFBj?oc=5",
      "source": "The Oklahoman",
      "published": "2026-10-19T21:08:00+00:00"
-    },
-    {
-     "title": "Drew Mestemaker Takes Accountability for Oklahoma State's Loss to Houston, Refuses to Blame Defense",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWk1sZzNNS2t0UjFJandfWlpIQVdJLThHeGRuVTQ5UzV2SWZKUmpfU2swUndldVBIX05mRS1RVGZSdjVsXzNObWdOaE10ZU80TE1rLUp3cmQ5RG9MRERyMU1UQ0FWdTF3eExlOEdnYy1rajdBZDllbmpMN2tpNmk0RW9SUUx6YVRPX2hncTJ1N2hVejZpbEIyS0hmYks2VHd6ZW00REE0d3BTR1cyZU5PSUxVVkF1dXlDQVhYeUI3cXVKWUstcjN3a294VHBReFlUdEF3NndBMFBVc3VYWWlPRElNa2doZw?oc=5",
-     "source": "roundtable.io",
-     "published": "2026-10-19T18:12:38+00:00"
     }
    ],
    "source": {
@@ -138,22 +138,22 @@
    "stats_url": "https://collegefootballdata.com",
    "headlines": [
     {
-     "title": "Steve Sarkisian, Arch Manning take accountability for recent offensive struggles",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZnYyU0w0WWswS0ZKRVBPR09XanJpYnlkZHNybWpVYkFWM0diWE45OGxFTVlFSWZJUS1QQ3Q3dnFaZ1RRaHV4ZlNad3JybUhXR0dNM1RHbXZySUxJbHU1dVNTNUl4WEpOMXJrSkY4a1dCT2dnZEtXY1pQeHV4MWpLWXZiOG9NQ0s5b3F5WWt4RU1iTDhmSmFV?oc=5",
+     "title": "NFL, Texas or transfer: Where will Arch Manning be playing in 2027?",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeF9RUy0zdWlRS01nX0RaVjVmSTZTRTE1UVU0Z1V2cDFrclMxM2hGdFdJZWdDalFUVXlyLVlLYVZSUjR3Q3VlYU9XYXVTbGVqX2VsMXZiemhfR09HTHBnMUNCdHA1b2xWY3JYY2dtS3pvNkI2NHVfbVVyd05fVE5LZlFIbGZydXB3RlBITm83Mzl1S0lZNDhGRHFQaFpTNWQwVElrTWpwS2hOWEJEYVpr?oc=5",
      "source": "Yahoo Sports",
-     "published": "2026-10-20T12:00:00+00:00"
+     "published": "2026-10-20T18:17:10+00:00"
     },
     {
-     "title": "REALITY: Texas' Offensive Problems Go WAY BEYOND Arch Manning - Can Sark Fix It? | Texas Football",
-     "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNSE5QbGdhTHNEMXVLbTJJaUpZU3FmMlRzMWp4c3dUWEQ1M3ZzTV9Xeml3TThGQXVVcnZFeGFGVzhVU0FFakQwLVk0SXRzb0NEMWUwX0cwcFhjVW82RHkwMWhGVnhQb1RlTlZlUm5wMmtCNzJkVnFrUVhaOEg2WGxsMkNWOS12V1JZTnFnWWNhTW5XMzBhTmppaE1kX1piUFpHT2VZTmQtVjlqeldjbXZMY0xZNmRfMjkzSy01Tnk5VWliWXZISlJEX29UVjBOSkdweVdOTXBzdjJHUFRpVXdsb3NfdzZ6US1lQktxZVpPVFZIblIyTXVsOHBpZWZfcVg1Z25wUnZxZFhfbWlJOGxfbW15cVhyUjhtQzBOSmhwcldHWXpOTWZ5NXB1SHRHVnBINGp0RFhxN09rWjg?oc=5",
-     "source": "localmemphis.com",
-     "published": "2026-10-20T04:17:00+00:00"
+     "title": "Arch Manning: ‘I’m gonna die on the hill of, I’m letting it rip’",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdnBpZENuSjA2VW83N2htYnZ5dkFfeFFKeVNla005V3E4ZE5XLUxQOGtVNEdXUHdWNHBmYlZSSVFNRFhMUXVhWUlXQi1NRzVnUHpORXZ6WHNWX1laYy1POFhhY2h2ZXlFQ0dvWjZpOTJqdGwxOFFmNVhHZFFWd0tteXdlUzBwejgwOXFtVk90S25VOEdTQV9nU1lpQUYwRjBqamlPTjc3S3ZHdzhZeDJJ?oc=5",
+     "source": "Burnt Orange Nation",
+     "published": "2026-10-20T17:56:50+00:00"
     },
     {
-     "title": "Arch Manning Tries to Get Back to Basics vs. No. 34 Florida Gators",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOY1B1ZVNpTTc2Y0VadF91bGdmNmZiUU1lSldBenZ2ajBrRDFVQlVjNUh5ejRuTVhRYW1ReHpzQkllQUVrVnhHd1M0UHJZbE5SQjhoQjlhaVp3YVp5Vjc1RGE5WURfblJmQmR4V1NFQWtyY0VYbDFEMkh4TUp2Q3FtcGZFUGZqek1aTWZUNE1Nd2hVMFpuS2ZRWU03WklvLTVVUFE?oc=5",
-     "source": "First Round Mock",
-     "published": "2026-10-20T02:31:38+00:00"
+     "title": "Arch Manning’s Texas experiment is failing. Is a breakup next? | Opinion",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNVkJiUVdmWnZtbFZfTFVZVEE2LU5kWVNsS3k0U2JSbjRDZ2VLUDJBM0ZZeFZYN3o5WnJ5WTNLb19MbEtxYklhSXJxb3dQNTlUX1NkNE5jekx6NmRQRjZ2OUhmaUNTLTd0V0g5MnZLdzdfaS1NSVhTUTIxZEg5aE5GSEstV0w0VDRQUlRZM003MlJFcVRoa0dhazhfZGh0cmc3QTQza1FyV252YzRQcm9vVGt5U1l1S3E4aUNFTHJfdXY3M1pUMFU2Y3djczlzU2RTdkota3RnZm5SN25SV1padmdxbTBSQUk0dEZHVDRpVWxTelZkalRWV1NsRQ?oc=5",
+     "source": "USA Today",
+     "published": "2026-10-20T17:53:00+00:00"
     }
    ],
    "source": {
@@ -185,6 +185,12 @@
    "stats_url": "https://collegefootballdata.com",
    "headlines": [
     {
+     "title": "Dante Moore Injury Question Goes Unanswered by Dan Lanning Ahead of Illinois",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNDZvcDZleXBucWRISEdvNVlGNHRCa0R1NEczWUs4a1l1bUJsOVExZHRmS0I3X3o1bEZYX3VoekVHUjVwNUt4a1JZdDZ2cWRmZWNGdGNmMFN3NzFJVHk1LWxxUHI2VXZ3Y0swSmZQU2YxWkptLXJ3MEFYeWFEckJqZHRlUlFQUTlBek9vSGlRQnAtSFRUak1BQV80c2pQb1otX05oQTdhVWhWczZpV0hMT0JR?oc=5",
+     "source": "Sports Illustrated",
+     "published": "2026-10-20T03:53:55+00:00"
+    },
+    {
      "title": "Dan Lanning's post Nebraska QB update raises more questions about Dante Moore's health",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeW1VN2xpNUlXYmpQN21URE02dnJDQUx1NEZodzV3ZDRQR0lRbDNWc1U4dXQzT2pyb3FaaTJjWi1tX3pZaHhaeXdWM2tqdFV6ZHQxNVduRzlkRXhjV1plVmpxMVN5WG82SG1OQ0tFUWxvUlVpcmNKbEFkTndROC0yX2JSWS1yUWpKRlEyUnZsai1YLUVONXUzc2xiRldmQlVJcEgtUDY0U1BSdE9D?oc=5",
      "source": "Autzen Zoo",
@@ -195,12 +201,6 @@
      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qbTR4VmU3bWVBU1NWcnBJRlY5cG5BLWFmbXl1SFdJU0g3LUs3V1lrQ1loSXFRekZvS1FwYmdKN1pVWjc3bjE0TzdmVWxsT3B5WERjSDZfUHZ5YXNsQnhIRHN3?oc=5",
      "source": "SuaraGarut.ID",
      "published": "2026-10-18T04:40:28+00:00"
-    },
-    {
-     "title": "Brock Thomas trending to start over Dylan Raiola after Dante Moore Injury forces Oregon to reassess quarterback plan",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91MjVuRHp5eXBXRXQ1V0FienJiWEVfaVZCelN2bkJld0k0VklTamphLTczdTlqMXlXSEQ5M0VyMXNfUi1oNmVGYnFOaWlJcU9qMkRn?oc=5",
-     "source": "شبكة تواصل الإخبارية",
-     "published": "2026-10-18T03:56:24+00:00"
     }
    ],
    "source": {
@@ -232,7 +232,7 @@
    "stats_url": "https://collegefootballdata.com",
    "headlines": [
     {
-     "title": "Notre Dame football coach Marcus Freeman on Leonard Moore's return",
+     "title": "Notre Dame football coach Marcus Freeman on CB Leonard Moore vs. BYU",
      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPcFRIZkNXQzJ0WHdmZWdkTG02UkFvLS1TbEtoOXJDN2FpRkVnMDRkMGQzcDFPZHRqd3J3WUZfa3NmdDEwbEt4clhUelotcWZETHpXQmFBX3hac2o0dTE1NzFFbVBFX3ptQllTZGJiRVRLZ0szUVNQS1BpNTZIT29oZUhxZm9Fd2E0TllEdlFpRVRVVDJDbmwtZ095X1Q0bVdpSjJTQTNJUW53Z2RPN1IydHdGRy02VEM2UzY0cHZ3aVVwQ2lOR0tscUozY3FYNFNMVUZVbGJIWmxaMVZYOU81NHdfLUs3d0pyVzJkdkhNZG9UMHdGWU5iMXYyb04wWUQ5?oc=5",
      "source": "South Bend Tribune",
      "published": "2026-10-18T15:31:19+00:00"
@@ -389,6 +389,12 @@
    "stats_url": "https://collegefootballdata.com",
    "headlines": [
     {
+     "title": "Kirby Smart provides new injury updates on KJ Bolden, Nate Frazier",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMDYxNnJWT1dZbW5haGRaZ3pHUG10azhfdXphWXA4bkZvOXViMG1pVzh3TWtfaUVGMG9XYlZ3bFN0RXdpenhSTHFOa3cxcU55NXdiX2x1ZVA0T0pQcko5VDNTRERYZ0hRcDlOb3BIRENpNXFxVDF2ZVB1anF5T1Zlb3QtNGZNTVBPeEdCek9BTTM?oc=5",
+     "source": "The Atlanta Journal-Constitution",
+     "published": "2026-10-20T20:06:14+00:00"
+    },
+    {
      "title": "KJ Bolden’s absence was very noticeable in Georgia loss to Auburn",
      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbGk5c0ZMWjV0aVBhX3pDNmctdW9Lb0NvOXpONDZFV2s5OUtSMnZaZnV3QkFNeUhTYUdneGJsX2NfbmtGYXpnUXJ0cHduNlo5MUpRejVzSDN4eDBHbC1UOTVwYzBwYmRJZjNUVnM1dE4weDRKZ1hmQU1JZ3lOMlJNY3pNaklCRVk4RjNGem9NVWhHZ1lYb3FtUVhvMHJhWkdHYnQ0am5YZXFYclJWOWMtOGtnRUNNYkVNQkxJUVI4anJiSVNuTHpxaFhtR0phTzB2dHBXSEtVSnkzMXlk?oc=5",
      "source": "DawgNation",
@@ -399,12 +405,6 @@
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLXM3Vkg0aUhnSE9yY3BOREZmaEhoN1VteVBBc0JlV21WODU3Um4ta2N1bTROWWIybklZUW5BVmk5dlp0VXdZMmUyemFuM1R2cGhXTnM3TmwxQmhfNFlPdHRBbmg2VjNidGdJNG1SS1RlNkx1WkRNRmQ2RXJWZmZ2amJnWElqU0lwaFdhQUZQR0ZkeXgwUWpzek1mLTFqWHBjT0JmaGVUZjJQUWlmSEFQNWpJdVdzREJPWld4eGpqQ1Z3RWo1TFJyUXpmMA?oc=5",
      "source": "Savannah Morning News",
      "published": "2026-10-18T14:32:00+00:00"
-    },
-    {
-     "title": "Kirby Smart clarifies Gunner Stockton’s injury, how Georgia missed KJ Bolden",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdmc3Ujg2OUZfN0lTQU1lYlR5SzZic1RPWkRLdDVlNUIwdEFQaFpCaWQ4MlJvVjFMM19XWWVfN0V0UVNKRkNRcVhxNUd6WkdLSEJfOGxtbko4TUVWbklfanIwMklqWEdaTUZPcEhhWmRBYk1mRVpoYXlBOTRUS3FucGtqSTM4YUdyOWlvc1hya2JqZVNQcGc0R3RmUnYzdm1sbUNza3pkLWVDdUVNQjFmOV8zUnV2UGZaSkhpUkQxLTJFTy0xT0Z5ckpzbE5uMFJlSnc?oc=5",
-     "source": "DawgNation",
-     "published": "2026-10-18T04:14:52+00:00"
     }
    ],
    "source": {
@@ -647,16 +647,16 @@
      "published": "2026-10-16T19:12:22+00:00"
     },
     {
+     "title": "Alabama takes action against Raylen Wilson offender",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmtIUjg1YmNpWmZyeDJRN2RMclpyUjZDZFFEcFcxaDlKS3psYkYwRjR2VTFsaUZLbkNtVlEyMnFMQS0zVVZZamRkTmxaVTl6RndRM3o0ZFpid2tuY0JyT1ZmdDdTdzdxYm1DTTZ6LXpTNkVVdldzSWNZR3BzRHhTVmpoaDNhQTdQTi1MVzU2MXZWRTlHWGh0cE80dUdTei1zalE?oc=5",
+     "source": "On3",
+     "published": "2026-10-16T09:29:11+00:00"
+    },
+    {
      "title": "Alabama Says It Has \"Taken Appropriate Action\" Against Fan That Hit Georgia Football LB Raylen Wilson",
      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQzZpMXNQcUxtNTRqT1FaVXBRWDdXaFdNVGwxVlNkcnRnVDNubC1ORkE3V3VKNlg5MlhBZF9iZXFSVDhYYmNMV1Q0R0g4N3NPT1ZRc29qOXczdTJqTFV1cTJmNVZ5dUZ1TDBQakctRlpTU3VDQ2psdHA4SHhkcGJaU3dyc1Q1RnhxR1BqRDNpVnk2a0JHei0xcUlGTUhsZjM1b1RGenM2U0VaV00zUUgtTTFCN1NySk9BMERaQTBhUGtWa1NCQ0ZHYmZITXA3bWJBdERBckJfM2hGdy0zSGcxeA?oc=5",
      "source": "Sports Illustrated",
      "published": "2026-10-16T00:27:59+00:00"
-    },
-    {
-     "title": "Alabama takes action against Raylen Wilson offender",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmtIUjg1YmNpWmZyeDJRN2RMclpyUjZDZFFEcFcxaDlKS3psYkYwRjR2VTFsaUZLbkNtVlEyMnFMQS0zVVZZamRkTmxaVTl6RndRM3o0ZFpid2tuY0JyT1ZmdDdTdzdxYm1DTTZ6LXpTNkVVdldzSWNZR3BzRHhTVmpoaDNhQTdQTi1MVzU2MXZWRTlHWGh0cE80dUdTei1zalE?oc=5",
-     "source": "On3",
-     "published": "2026-10-15T22:34:05+00:00"
     }
    ],
    "source": {
@@ -688,22 +688,22 @@
    "stats_url": "https://collegefootballdata.com",
    "headlines": [
     {
-     "title": "Jeremiah Smith Hyped by Mel Kiper Jr., Ohio State WR Is 'Locked In' As 2027 No. 1 NFL Draft Prospect",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRTQ0ZW5Ja2Jhcm1kWWRfajBja3VZTDFGa0VCeE1jS1JlTlJjUjgzZ21FXzFQQzVqVUdBaGE3SVZxT1NqQ19QVHpuY0plN2xYcG0tOVBVaG04YmN1eEo5dDFrd1BPbkxWWjBFejBPcjF4MGMyX3BrV3NDWFBCZ01WQnJJdF9aaHdzRDUwSm81ODBtd2ZENUl6RE5jUG85NjkzOFdfRW9PLXM3YjV5SGlFSjJxNWV1OEdvdzNPRE5iRnRvdS1GVlJv?oc=5",
-     "source": "Bleacher Report",
-     "published": "2026-10-19T22:45:25+00:00"
+     "title": "Heisman Trophy watch: Jeremiah Smith still on top, Malachi Toney is in",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOR1lUaDJHOFQ1VzFxcTdvR2YydDR3a29veTdWYnRHdklPLXBFUGYyRGM2NUdXSV8wbzNROU1MZzBSR0RsWnJfSUcwUmlrZk4yREFUWTFucEg2eXVVMFZ5Ql9tcHhzbXJyWUd5NWNsYkVwSWl5R2VwMjVWT25kakRGLVd3QzZzcVBjMjEzLWJNbHllVTZueXMxc3ZmVW5hYUU2NWFEaVVhMjFUVS1pcnI2ZDU0M204SFROQk83bHJrcjd4NHFMSVlQMW4tWkFaQlJTakVIVVMyb3ZycF9GSkh0Szd2d3Y?oc=5",
+     "source": "DAZN",
+     "published": "2026-10-20T19:55:28+00:00"
     },
     {
-     "title": "Why Ohio State’s Jeremiah Smith already ‘locked in’ as Mel Kiper Jr.’s No. 1 prospect for 2027 NFL Draft",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVTI1Y3RwQ0pOOUtGVXNUTTVrbDFxYVJqeDVjLVJ5RTNwZ2RPX2FMOW41dWZaRkc0eTlfa0tJcWZvUGYzaVZnX0FXSDFaUHNmSmNwWFJoMktYcTRFbWNiX01Kdk1reXpTcnlwUDUybXJpSmRXMVJncmtYdThwRUg0c1Q4ckQ?oc=5",
-     "source": "Yahoo Sports",
-     "published": "2026-10-19T22:15:23+00:00"
+     "title": "Ohio State's Jeremiah Smith named unanimous midseason All-American by CBS Sports",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdl95d1lxdDVFVkNYbEQ0SkFtT2Ffa2x0R1BPNDhwZTFCRGF1eWZzemtLdjB2aXRQVjE3Qkx3X0sycHZXcE5XemFuNm5DSHFpMDludnljdVFZekpPcGF6UHJlTGF0WkN1UkFBbTlIUmpyZ1VCdlFhcjU2TFptM0tlbWJMcm9haHdVVnV5WVFnemdfN0pHbkVnUVZmclowNjB0OHBwb0ZOQVJFLW9wa2RMUGpPbU1rV1Q1eHVsSW9EdmhtOHZVMXB6bU8tSVlvRElzRVRzaU9zMUlnMVR4T01aMg?oc=5",
+     "source": "247Sports",
+     "published": "2026-10-20T17:50:22+00:00"
     },
     {
-     "title": "Ohio State Buckeyes wide receiver Jeremiah Smith (4) celebrates a touchdown with with wide receiver Devin McCuin (3) during the",
-     "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOZzlwZzQyOE9UV3dueml2VmVPRjN0XzQwUWNiS0N3Mm9yc0ZOdmJKLTU2T2R2elJtNHA1YjZHVmJuRzhtYThldUZaT25zbHJLZHNkQ1E3QlQ3NElZOTQ4akcwMGgzRDZ2b20zcldsZUpfZUE1ZUo3WFVmSEZWd3ZtR2JaY3hwejQtM0poMnh0UmZXVUhyZFI2dmlUdVFiWnlRNmdvOUxuNnBOckxMQXZhZTYtZHdMMHBKNVd6STJCeEh3Nl9EVkpBbTUzS1RXUmZjVlViLUI3Z2NveGpBZXozdEpQenVHWGw2bUduXzRPLXlLbG5ONk5fdjVKUmFWQzNVY3dFSm1sZEp6VjhBcDJpOEVJOHVna1RyeWFJdnVDYU44THBpbWIzUDVHVQ?oc=5",
-     "source": "AppleValleyNewsNow.com",
-     "published": "2026-10-19T20:50:21+00:00"
+     "title": "Celebrate Jeremiah Smith’s record-breaking season with a trio of bobbleheads",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV2V4SC1TOFIyNFhSUmc3aFFTZTkyVlFXWHJqSnBMUlpqN1lScHZvamhFWU1HWkltN2RLajVYeERCRGI1azNqeEJhUUZRMlQ1ZkRUaGZ2SWZ6VGxfYXJxZlZPakY4ZXlJa0Fmd2Jxc0VQM3JfNF9rbFRkU3pSRWpuRm1PeExYbkJPOUVIVEFETFhwbHViMnFIZFRaTUJwamJDS2dqQksxdHRZNElBdVlySFUxa3lwNjVOVlI2anF1ajUtVHU5aTBRNFlGWG82ZjVUbXc?oc=5",
+     "source": "Land-Grant Holy Land",
+     "published": "2026-10-20T16:02:00+00:00"
     }
    ],
    "source": {
@@ -820,6 +820,12 @@
    "stats_url": "https://collegefootballdata.com",
    "headlines": [
     {
+     "title": "Rico Scott among those rising up as offensive leaders with Ryan Coleman-Williams out, says Marshall Pritchett",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOYXhfM3UyclJjemFybkNmS0pEY3hPS1VMeUl0bHFaSWpqLXBQUlF6QnNpV1pDMGc5alhVckgtMGpOZzhxUnBnNTUxamZNMGlUblkxRDFmTVlmYXFxQXI4a3NWSVlBQng2ek81UHBRLW81M2Y3bVB2eDE5eE9nTWxHS2pNNzRKMFBxdTFyR2NJd001ekZCaEo2TmNNRWRwSFZrY2YzU3hkX1dVcko0MV9sMmdsQWRLY2NWX1BCUlJoYWQ0ZXZ4NXRvZng4eEhXRGV4eHlzZTQyNzUxMHp5Q092UW5RakpxTUY2aDJZSUgyTFFDRTc0TWdiWQ?oc=5",
+     "source": "247Sports",
+     "published": "2026-10-20T17:26:21+00:00"
+    },
+    {
      "title": "Alabama could be without Ryan Coleman-Williams against Texas A&M",
      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRTlSTlMtX3R0SU1fUkJBRTdnbVU2TkRiQ3ZjbW1yT0pZdERyNG1NZkRSWUtrSk92VU1admMwRm56b2otUmt4LWl4cm5pWHo5a1hBQjVmWFlQOTdjekljVkJreXRFRTFvUnh1VVNmbHJZV1VHXzJ6Q3c5OWkzWUlUbE1wVjNKcGY1YzlVRUJuU29GOUxfUExuY2Q4YjFWd0xsXzh0R29IbXhsdFNmSGpLSEE4VGFleG8ycFB4WFNONGVHaVhnQ1JOZjE5dUhYS2FLYjdQeGVkMGJ4NG4zQ0dacVRR?oc=5",
      "source": "timesdaily.com",
@@ -827,15 +833,9 @@
     },
     {
      "title": "How can Alabama football receiving corps hold up without Ryan Coleman-Williams?",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUnplVjU5U2ZISVdRUW5pdHctb24xNkQtekgzb2dVUjQtN0FKb29SdWNGX1BqV0I5RjBkSl9MWGYwRTVfWjFyOVNzVzVEc0VEZ1pUa3h3Q0xHeTN0VGlkSHpQSEtpM0lSZUNQU2xjQ1ZCNmhBa2dKOGJYdFRNU0tTNFBieWhpYnFqd1c2UW9zQzQ2VG5nYzUzNWlOejJTbDBDWkJGZzBxOHVhVzJjc0Z2bFJMWVNJc3Z4ZllfTlZZWkRDVHVCejFlSE1GQVNQRUFxRllQaDVpeF93OUE5U1ZRMHdKSWRndUtxT0E?oc=5",
-     "source": "The Tuscaloosa News",
-     "published": "2026-10-19T17:07:00+00:00"
-    },
-    {
-     "title": "No. 13 Alabama could be without speedy receiver Ryan Coleman-Williams against Texas A&M",
-     "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOUlZvYlplSTc5WnQ5MWY5SzBPYm4xWGRVblgwS0RFTTRLbmFWNEZuTDZCUkFJWVg3WWZadlFQaDNodjhLendWMmZ2LWFESlV2YUQyTG9NcnFMNFQwNGg5dG5ZX2ZzRi1DZ255V1VVVG9xUGpmdFF6NFo2M3Q2cGt6MlJSX09sWUExdnFBeXhtNnJpNEJZU3dDTm1QMUxBYXJJSWJsSVhncUxxX3E5cHhQbmxzeEJPX3YyWlJGSFhrOWVTOUhaMEdLcUptVExLTWFXWkpPRWlVbmJSRHBkWEV4SWlna25GRXVKMzFWbnlwdmJWUWRweGtLX1haZmVpdVpySFJRcTljUjVPUnZUM01FR2lVTmE?oc=5",
-     "source": "Bozeman Daily Chronicle",
-     "published": "2026-10-19T16:55:57+00:00"
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQM3RnSUNRTmZ1M2lBQUFZc3lxQThCcDhTOE5XdzVWc2J1TUFpeXJOY1dFRHZVLWxSRG5JTUZmN2plSmM3V2ZIZEE3dzZzalViSlhQQjJTZm1UNTNMekFEc2lTd2g5ajJwa01XTTA4b042SEZ0QmhGRTBDUUtJb2I0ZDhoT2pFYV96UmR2TW5Lbw?oc=5",
+     "source": "Yahoo Sports",
+     "published": "2026-10-19T17:07:14+00:00"
     }
    ],
    "source": {

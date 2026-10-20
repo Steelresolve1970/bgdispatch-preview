@@ -1,14 +1,18 @@
 # Steelers News
 
-_Generated 2026-10-20T20:11:03+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T20:10:30+00:00._
+_Generated 2026-10-20T20:21:50+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T20:21:17+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [NFL to beef up security for Steelers-Saints in Paris after riots](https://www.espn.com/nfl/story/_/id/50230791/nfl-increase-security-paris-steelers-saints-game): ESPN, 2026-10-20 21:01 UTC
+- [Pittsburgh Steelers sign wide receiver with Aaron Rodgers ties](https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-sign-wide-receiver-with-aaron-rodgers-ties.html): PennLive (Nick Farabaugh), 2026-10-20 20:18 UTC
+- [Steelers Release Updated Depth Chart For Week 7 Saints Game](https://steelersdepot.com/2026/10/steelers-release-updated-depth-chart-for-week-7-saints-game/): Steelers Depot, 2026-10-20 20:13 UTC
+- [Steelers defense stalls Buccaneers in second half en route to OT win](https://www.wtaj.com/sports/blackandgoldnation/steelers-defense-stalls-buccaneers-in-second-half-en-route-to-ot-win/): WTAJ, 2026-10-20 20:09 UTC
 - [Steelers' Thin Secondary Becoming A Bright Spot: "They Do Not Miss Joey Porter Jr"](https://www.steelernation.com/2026/10/20/steelers-secondary-bright-spot): SteelerNation, 2026-10-20 20:07 UTC
 - [NFL will proceed with plans for Steelers-Saints game in Paris despite unrest](https://www.nytimes.com/athletic/7708509/2026/10/20/nfl-paris-steelers-saints-security/): The Athletic, 2026-10-20 20:03 UTC
-- [NFL says heightened security measures will be in place for the Steelers-Saints game in Paris](https://www.washingtonpost.com/sports/nfl/2026/10/20/nfl-owners-meeting-paris/be171ea6-ccbe-11f1-ac04-9f58578a68b4_story.html): The Washington Post, 2026-10-20 20:01 UTC
 - [Steelers sign Valdes-Scantling](https://www.steelers.com/news/steelers-sign-valdes-scantling): Steelers.com (official), 2026-10-20 20:00 UTC
 - [Steelers Linked To Intriguing Chris Godwin Jr Trade After Buccaneers Win](https://www.steelernation.com/2026/10/20/steelers-intriguing-chris-godwin-trade): SteelerNation, 2026-10-20 19:57 UTC
+- [NFL says heightened security measures will be in place for the Steelers-Saints game in Paris](https://www.scrippsnews.com/sports/nfl-says-heightened-security-measures-will-be-in-place-for-the-steelers-saints-game-in-paris): Scripps News, 2026-10-20 19:51 UTC
+- [Mike McCarthy Explains What ‘Clean Your House’ Means for Steelers](https://sportsnetpittsburgh.com/pittsburgh-steelers/news/steelers-mike-mccarthy-explains-clean-your-house-comments/4010d803669f2a096fdbbc10): SportsNet Pittsburgh, 2026-10-20 19:50 UTC
 - [NFL To Have ‘Heightened’ Security For Steelers’ Paris Game](https://steelersdepot.com/2026/10/nfl-to-have-heightened-security-for-steelers-paris-game/): Steelers Depot, 2026-10-20 19:44 UTC
 - [Cam Heyward Proposes Revamp To Roughing-The-Passer Rule](https://steelersdepot.com/2026/10/cam-heyward-proposes-revamp-to-roughing-the-passer-rule/): Steelers Depot, 2026-10-20 19:30 UTC
 - [Report Detailed Exactly What Steelers Are Looking For At The Trade Deadline](https://www.steelernation.com/2026/10/20/steelers-detailed-exactly-deadline): SteelerNation, 2026-10-20 19:07 UTC
@@ -77,7 +81,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [4 Steelers standouts from their overtime victory over the Buccaneers](https://stillcurtain.com/4-pittsburgh-steelers-standouts-from-their-overtime-victory-over-the-buccaneers-01m5b8avetkk?utm_source=RSS): Still Curtain, 2026-10-20 11:00 UTC
 - [Steelers' Jalen Ramsey Is Not the Same Player Anymore - And That's Great News](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-jalen-ramsey-not-same-player-anymore-great-news): All Steelers (Sports Illustrated), 2026-10-20 11:00 UTC
 - [Steelers Stock Watch 2026 – CB Jamel Dean](https://steelersdepot.com/2026/10/steelers-stock-watch-2026-cb-jamel-dean-2/): Steelers Depot, 2026-10-20 11:00 UTC
-- [No Backsies: Germie Bernard Quickly Making Starting Role His Own](https://steelersdepot.com/2026/10/no-backsies-germie-bernard-quickly-making-starting-role-his-own/): Steelers Depot, 2026-10-20 10:20 UTC
 - [First Call: Steelers reportedly signing Marquez Valdes-Scantling; a theory on Chris Boswell’s FG miss dismissed](https://triblive.com/sports/first-call-steelers-reportedly-signing-marquez-valdes-scantling-a-theory-on-chris-boswells-fg-miss-dismissed/): TribLive, 2026-10-20 10:08 UTC
 - [Asked and Answered: Oct. 20](https://www.steelers.com/news/asked-and-answered-oct-20-x3980): Steelers.com (official), 2026-10-20 10:05 UTC
 - [Tim Benz: Aaron Rodgers says the quiet part out loud about ‘trajectory-altering’ Steelers win in Tampa](https://triblive.com/sports/tim-benz-aaron-rodgers-says-the-quiet-part-out-loud-about-trajectory-altering-steelers-win-in-tampa/): TribLive, 2026-10-20 10:01 UTC
@@ -150,9 +153,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers report card: Germie Bernard and DK Metcalf step up in the win over the Buccaneers](https://www.post-gazette.com/sports/steelers/2026/10/18/steelers-report-card-buccaneers-week6/stories/202610180077): Pittsburgh Post-Gazette, 2026-10-18 23:17 UTC
 - [Noah Hiles: Mike McCarthy got bailed out by his Steelers players in Tampa](https://www.post-gazette.com/sports/steelers/2026/10/18/mike-mccarthy-steelers-buccaneers/stories/202610180078): Pittsburgh Post-Gazette, 2026-10-18 22:45 UTC
 - [Ramsey is Steelers Player of the Week](https://www.steelers.com/news/ramsey-is-steelers-player-of-the-week): Steelers.com (official), 2026-10-18 22:27 UTC
-- [Pittsburgh Steelers' top plays vs. Tampa Bay Buccaneers | Week 6](https://www.nfl.com/videos/steelers-top-plays-vs-buccaneers-week-6-x2393): NFL.com, 2026-10-18 22:18 UTC
-- [Germie Bernard's breakout gives the struggling Steelers offense new hope](https://stillcurtain.com/germie-bernard-breakout-gives-pittsburgh-steelers-struggling-offense-new-hope-01m58dc7ekqg?utm_source=RSS): Still Curtain, 2026-10-18 22:00 UTC
-- [Feats of Strength: 4th quarter awakening, Chris Boswell’s return to form save Steelers in Tampa Bay](https://triblive.com/sports/feats-of-strength-fourth-quarter-awakening-chris-boswells-return-to-form-save-steelers-in-tampa-bay/): TribLive, 2026-10-18 21:57 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
