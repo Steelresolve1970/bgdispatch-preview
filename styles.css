@@ -645,3 +645,25 @@ figure.eg{margin:8px 0}
 
 /* Post-Game Reaction block on #/podcasts and the home podcasts box (app.js renderPods) */
 .pg-react{margin:0 0 18px;padding:12px;background:#111;border:2px solid var(--gold);border-radius:10px}.pg-react .pg-head{color:var(--gold);margin:4px 0 12px;border-left-color:var(--gold)}.pg-react .pod{background:#1d1d1d}.pg-react.pg-home{margin-top:4px}
+
+/* ===== Podcasts & YouTube: show-name-first cards, show filter buttons, Follow stars (app.js renderPods; podcasts-shows-follow) ===== */
+.pod-ep .pod-show,.pod .pod-show{display:flex;align-items:center;gap:6px;margin:0 0 4px;min-width:0}
+.pod .pod-show b{color:var(--gold);font-size:18px;font-weight:900;line-height:1.2;overflow-wrap:anywhere}
+.pod-ep .kind{margin:0 0 4px;color:#c8c8c8}
+.pod-ep h3{font-size:16px;font-weight:600}
+.pf-star{flex:0 0 auto;background:none;border:1px solid rgba(255,182,18,.55);color:var(--gold);border-radius:999px;min-width:32px;height:32px;padding:0 6px;font-size:17px;line-height:1;cursor:pointer;margin-left:auto}
+.pf-star.on{background:var(--gold);color:#111;border-color:var(--gold)}
+.pf-star:focus-visible{outline:3px solid #fff;outline-offset:2px}
+#pods-filter{max-width:100%;min-width:0}
+.pf-row{display:flex;gap:8px;overflow-x:auto;-webkit-overflow-scrolling:touch;overscroll-behavior-x:contain;scrollbar-width:thin;padding:4px 2px 10px;margin:0 0 6px;max-width:100%}
+.pf-item{flex:0 0 auto;display:inline-flex;align-items:center;gap:2px;background:#111;border:1px solid #333;border-radius:999px;padding:2px 4px 2px 2px}
+.pf-item .pf-star{min-width:28px;height:28px;font-size:15px;margin-left:0;border-color:transparent}
+.pf-item .pf-star.on{background:none;color:var(--gold)}
+.pf-btn{display:inline-block;color:#fff;text-decoration:none;font-weight:700;font-size:14px;padding:7px 10px;border-radius:999px;white-space:nowrap}
+.pf-btn small{color:#bbb;font-weight:600;margin-left:2px}
+.pf-item.cur{background:var(--gold);border-color:var(--gold)}.pf-item.cur .pf-btn,.pf-item.cur .pf-btn small,.pf-item.cur .pf-star{color:#111}
+.pf-showing{margin:0 0 12px;font-size:15px}.pf-showing a{font-weight:700}
+@media (min-width:900px){.pf-row{flex-wrap:wrap;overflow-x:visible}}
+#pods-full.pf-filtered .eg,#pods-full.pf-filtered .ad-inline{display:none}
+.pod-day-home{font-size:16px;margin:14px 0 8px}
+/* ===== end podcasts-shows-follow ===== */

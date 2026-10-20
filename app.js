@@ -75,21 +75,53 @@ function renderFilm(){
  if(D.prev){const p=D.prev,h=p.game?'Opponent Preview: '+p.game.label:'Opponent Preview';if($('prevH'))$('prevH').textContent=h;$('prevH2').textContent=h;
   const x=p.items.map(e=>tile(e,'🔎 Preview',e.creator,'View'));if($('preview-list'))$('preview-list').innerHTML=x.slice(0,6).join('')||empty('No previews yet for the next game');$('preview-full').innerHTML=ctmBox(p.ctm)+(x.join('')||empty('No previews yet for the next game'));}}
 function ctmBox(c){if(!c)return'';return `<article class="pod ctm"><p class="kind">🎙 Check the Mic · ${esc(c.network)}</p><h3>${esc(c.title)}</h3><p class="meta"><b>${esc(c.hosts)}</b> · ${fmt(c.published,{month:'short',day:'numeric'})}</p><p>${esc(c.summary)}</p>${c.note?`<p class="fine">${esc(c.note)}</p>`:''}${c.embed?`<div class="yt-embed"><iframe loading="lazy" src="${esc(c.embed)}" title="${esc(c.title)}" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe></div>`:''}<a href="${esc(c.link)}" ${ext}>Listen${c.segment?' (Steelers segment at '+esc(c.segment)+')':''} →</a>${c.youtube?` · <a href="${esc(c.youtube)}" ${ext}>Watch on YouTube →</a>`:''}</article>`;}
-function renderPods(){const p=D.pods;if(!p)return;const cut=Date.now()-3*864e5,POD_MIN=6;
+/* Podcasts & YouTube (#/podcasts + home box). Show-name-first cards, show filter buttons (#/podcasts?show=<slug> or ?show=following),
+   Follow stars saved on this device (localStorage bgd_follow_shows). Owner rule: All view and home box grouped by US Eastern day, newest day first; filtered views are one newest-first list with dates on cards. */
+const podSlug=s=>String(s||'').toLowerCase().normalize('NFKD').replace(/[\u0300-\u036f]/g,'').replace(/&/g,' and ').replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'');
+const podFollows=()=>{try{const a=JSON.parse(localStorage.getItem('bgd_follow_shows')||'[]');return new Set(Array.isArray(a)?a:[]);}catch(e){return new Set();}};
+const podSetFollows=s=>{try{localStorage.setItem('bgd_follow_shows',JSON.stringify([...s]));}catch(e){}};
+const podFilter=()=>{const m=(location.hash.split('?')[1]||'').match(/(?:^|&)show=([a-z0-9-]+)/);return m?m[1]:'';};
+const podStar=(slug,name,f)=>`<button type="button" class="pf-star${f.has(slug)?' on':''}" data-follow="${esc(slug)}" aria-pressed="${f.has(slug)}" aria-label="${f.has(slug)?'Unfollow':'Follow'} ${esc(name)}" title="${f.has(slug)?'Following':'Follow'}">${f.has(slug)?'★':'☆'}</button>`;
+const podTile=(e,f,dated)=>{const v=e.kind==='video',s=podSlug(e.show);return `<article class="pod pod-ep" data-show="${esc(s)}"><p class="pod-show"><b>${esc(e.show)}</b>${podStar(s,e.show,f)}</p><p class="kind">${v?'YouTube':'Podcast'} · ${dated?`<time class="pod-date" datetime="${esc(e.published)}">${new Date(e.published).toLocaleDateString('en-US',{...ET,weekday:'short',month:'short',day:'numeric'})}</time> · `:''}${ago(e.published)}</p><h3><a class="hl" href="${esc(e.link)}" ${ext}>${esc(e.title)}</a></h3>${e.summary?`<p>${esc(e.summary)}</p>`:''}<a href="${esc(e.link)}" ${ext}>${v?'Watch':'Listen'} at source →</a></article>`;};
+const podDays=(list,f,cls)=>{const g={};list.forEach(e=>{const k=new Date(e.published).toLocaleDateString('en-CA',ET);(g[k]=g[k]||[]).push(e)});
+ const day=k=>new Date(k+'T12:00:00').toLocaleDateString('en-US',{weekday:'long',month:'short',day:'numeric'});
+ return Object.keys(g).sort().reverse().map(k=>{const d=g[k].slice().sort((a,b)=>(f.has(podSlug(b.show))-f.has(podSlug(a.show)))||b.published.localeCompare(a.published)); /* followed shows first within the day */
+  return `<h2 class="section-title pod-day${cls?' '+cls:''}">${day(k)} <small>${d.length}</small></h2><div class="pods">${d.map(e=>podTile(e,f)).join('')}</div>`;}).join('');};
+function renderPods(){const p=D.pods;if(!p)return;const cut=Date.now()-3*864e5,POD_MIN=6,f=podFollows();
  const all=(p.items||[]).filter(e=>e&&e.published).sort((a,b)=>b.published.localeCompare(a.published));let it=all.filter(e=>new Date(e.published)>=cut);if(it.length<POD_MIN)it=all.slice(0,Math.max(POD_MIN,it.length)); /* 3-day rule; fallback: newest ~6 so it's never empty */
- const t=e=>tile(e,e.kind==='video'?'▶ YouTube':'🎙 Podcast',e.show,e.kind==='video'?'Watch':'Listen');
  /* Post-Game Reaction (fetch_podcasts.py "postgame"): ~48h after each game, post-game shows on top; not repeated below */
  const pg=p.postgame&&p.postgame.items&&p.postgame.items.length&&Date.now()<new Date(p.postgame.until)?p.postgame:null,pk=e=>e.show+'|'+String(e.title).toLowerCase().replace(/\W+/g,''); /* same show+title = same episode (podcast and video copies) */
- if(pg){const s=new Set(pg.items.map(pk));it=it.filter(e=>!s.has(pk(e)));}
- const pgH=(n,cls)=>pg?`<section class="pg-react ${cls}" aria-label="${esc(pg.heading)}"><h2 class="section-title pg-head">${esc(pg.heading)}</h2><div class="pods">${pg.items.slice(0,n).map(t).join('')}</div></section>`:'';
- if($('pods-pg'))$('pods-pg').innerHTML=pgH(3,'pg-home');if($('pods-full-pg'))$('pods-full-pg').innerHTML=pgH(8,'pg-full');
- $('pods').innerHTML=it.slice(0,pg?3:6).map(t).join('')||empty('No new episodes this week'); /* home box stays 6 shows total */
- const g={};it.forEach(e=>{const k=new Date(e.published).toLocaleDateString('en-CA',ET);(g[k]=g[k]||[]).push(e)});
- const day=k=>new Date(k+'T12:00:00').toLocaleDateString('en-US',{weekday:'long',month:'short',day:'numeric'});
- let h=Object.keys(g).sort().reverse().map(k=>`<h2 class="section-title pod-day">${day(k)} <small>${g[k].length}</small></h2><div class="pods">${g[k].map(t).join('')}</div>`).join('')||empty('No recent episodes right now');
- const ch=p.yt_channels||[];
- if(ch.length)h+=`<h2 class="section-title pod-day">Latest on YouTube</h2><p class="fine">Official YouTube players for channels whose feed didn’t load this update.</p><div class="pods">${ch.map(c=>`<article class="pod"><p class="kind">▶ YouTube</p><p class="meta"><b>${esc(c.show)}</b></p><div class="yt-embed"><iframe loading="lazy" src="${esc(c.embed)}" title="${esc(c.show)} latest videos" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe></div><a href="${esc(c.link)}" ${ext}>Watch on YouTube →</a></article>`).join('')}</div>`;
- $('pods-full').innerHTML=h;}
+ const pgItems=pg?pg.items:[];
+ if(pg){const s=new Set(pgItems.map(pk));it=it.filter(e=>!s.has(pk(e)));}
+ /* show list: every show with items in the window (post-game box included) */
+ const cnt={},nm={};it.concat(pgItems).forEach(e=>{const s=podSlug(e.show);cnt[s]=(cnt[s]||0)+1;nm[s]=e.show;});
+ const shows=Object.keys(cnt).sort((a,b)=>cnt[b]-cnt[a]||nm[a].localeCompare(nm[b]));
+ let sel=podFilter();if(sel&&sel!=='following'&&!cnt[sel])sel='';   /* unknown or expired show: fall back to All */
+ const keep=e=>!sel||(sel==='following'?f.has(podSlug(e.show)):podSlug(e.show)===sel);
+ const pgShown=pgItems.filter(keep),list=it.filter(keep);
+ const pgBox=(items,n,cls)=>items.length?`<section class="pg-react ${cls}" aria-label="${esc(pg.heading)}"><h2 class="section-title pg-head">${esc(pg.heading)}</h2><div class="pods">${items.slice(0,n).map(e=>podTile(e,f,cls==='pg-full'&&!!sel)).join('')}</div></section>`:'';
+ /* home box: 3 post-game + 3 newest (or 6 newest), still grouped by day */
+ if($('pods-pg'))$('pods-pg').innerHTML=pgBox(pgItems,3,'pg-home');
+ if($('pods')){const h=it.slice(0,pg?3:6);$('pods').innerHTML=h.length?podDays(h,f,'pod-day-home'):empty('No new episodes this week');}
+ /* filter bar */
+ const fb=$('pods-filter');if(fb){const btn=(s,label,n,star)=>`<span class="pf-item${sel===s?' cur':''}"><a class="pf-btn" href="#/podcasts${s?'?show='+esc(s):''}" data-pf="${esc(s)}"${sel===s?' aria-current="true"':''}>${esc(label)}${n!=null?` <small>${n}</small>`:''}</a>${star?podStar(s,label,f):''}</span>`;
+  const nf=it.concat(pgItems).filter(e=>f.has(podSlug(e.show))).length;
+  fb.innerHTML=`<nav class="pf-row" aria-label="Filter by show">${btn('','All shows',it.length+pgItems.length)}${btn('following','★ Following',nf)}${shows.map(s=>btn(s,nm[s],cnt[s],true)).join('')}</nav>`+
+   (sel?`<p class="pf-showing">Showing: <b>${sel==='following'?'Shows you follow':esc(nm[sel])}</b> · <a href="#/podcasts" data-pf="">Clear</a></p>`:'');
+  const cur=fb.querySelector('.pf-item.cur');if(cur&&cur.scrollIntoView){const r=fb.querySelector('.pf-row');if(r)r.scrollLeft=Math.max(0,cur.offsetLeft-r.offsetLeft-16);}}
+ if($('pods-full-pg'))$('pods-full-pg').innerHTML=pgBox(pgShown,8,'pg-full');
+ const root=$('pods-full');root.classList.toggle('pf-filtered',!!sel); /* filtered views: engage/quote/ad cards are hidden by CSS */
+ /* All view: grouped by US Eastern day (followed shows first within each day). Single-show / Following views: one newest-first list, date on each card (owner) */
+ let h=(sel?(list.length?`<div class="pods pods-flat">${list.map(e=>podTile(e,f,true)).join('')}</div>`:''):podDays(list,f))||(sel==='following'?empty(f.size?'None of the shows you follow have posted in the past 3 days.':'You aren’t following any shows yet. Tap the star next to a show’s name to follow it.'):sel&&pgShown.length?'':empty('No recent episodes right now'));
+ const ch=sel?[]:(p.yt_channels||[]);
+ if(ch.length)h+=`<h2 class="section-title pod-day">Latest on YouTube</h2><p class="fine">Official YouTube players for channels whose feed didn’t load this update.</p><div class="pods">${ch.map(c=>`<article class="pod"><p class="pod-show"><b>${esc(c.show)}</b></p><p class="kind">YouTube</p><div class="yt-embed"><iframe loading="lazy" src="${esc(c.embed)}" title="${esc(c.show)} latest videos" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe></div><a href="${esc(c.link)}" ${ext}>Watch on YouTube →</a></article>`).join('')}</div>`;
+ root.innerHTML=h;}
+/* Follow stars + show filter buttons: filter changes update the URL without jumping to the top of the page */
+document.addEventListener('click',e=>{const st=e.target.closest&&e.target.closest('.pf-star');if(st){e.preventDefault();e.stopPropagation();const f=podFollows(),s=st.dataset.follow;f.has(s)?f.delete(s):f.add(s);podSetFollows(f);renderPods();return;}
+ const b=e.target.closest&&e.target.closest('[data-pf]');if(b&&!e.metaKey&&!e.ctrlKey){e.preventDefault();const s=b.dataset.pf,h='#/podcasts'+(s?'?show='+s:'');if(location.hash!==h)history.pushState(null,'',h);renderPods();
+  const top=$('pods-filter');if(top&&top.getBoundingClientRect().top<0)top.scrollIntoView({block:'start'});}});
+addEventListener('popstate',()=>{if(/^#\/?podcasts/.test(location.hash))renderPods();});
+document.addEventListener('route',e=>{if(e.detail==='podcasts'&&D.pods)renderPods();});
 const fmt=(iso,o)=>new Date(iso).toLocaleString('en-US',{...ET,...o});
 function renderGame(){const s=D.sched;if(!s)return;const n=s.next,l=s.last;
  const vs=g=>`${g.home?'vs':'at'} ${esc(g.opponent)}`;
