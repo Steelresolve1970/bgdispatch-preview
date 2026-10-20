@@ -1,8 +1,10 @@
 # Steelers Film Room & Previews
 
-_Generated 2026-10-20T11:11:11+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T11:10:40+00:00._
+_Generated 2026-10-20T12:17:53+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T12:12:36+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/film.json_
 
+- Breakdown (at Tampa Bay Buccaneers (Oct 18)): [Steelers' OL Grades vs Bucs](https://www.youtube.com/shorts/XnzAiZ2rG18): Steelers Almighty, 2026-10-20 11:27 UTC
+- Breakdown (at Tampa Bay Buccaneers (Oct 18)): [Bunch of Highs, Bunch of Lows for Steelers' O-Line vs Bucs | All-22 Film](https://www.youtube.com/watch?v=vxeOQ2ipoFs): Steelers Almighty, 2026-10-20 11:22 UTC
 - Breakdown (at Tampa Bay Buccaneers (Oct 18)): [Steelers' WR Grades vs Bucs](https://www.youtube.com/shorts/BPN3OhibZF4): Steelers Almighty, 2026-10-19 23:43 UTC
 - Breakdown (at Tampa Bay Buccaneers (Oct 18)): [Steelers' RB Grades vs Bucs](https://www.youtube.com/shorts/q_JsDrEUaBM): Steelers Almighty, 2026-10-19 21:37 UTC
 - Breakdown (at Tampa Bay Buccaneers (Oct 18)): [Steelers' QB Grades vs Bucs](https://www.youtube.com/shorts/fJ6q0C9RHys): Steelers Almighty, 2026-10-19 19:18 UTC
