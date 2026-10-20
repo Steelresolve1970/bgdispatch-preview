@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-20T23:11:43+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T23:11:26+00:00._
+_Generated 2026-10-20T23:22:31+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T23:22:14+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Video: [Steelers Vs Saints Thoughts & Predictions | SNR Drive (Oct.20) | Pittsburgh Steelers](https://www.youtube.com/watch?v=PKD5RscDaPI): Pittsburgh Steelers (official), 2026-10-20 23:00 UTC
 - Video: [STEELERS SQUAD SHOW: Winning Ugly Won’t Fly in Paris! Steelers/Saints Preview!](https://www.youtube.com/watch?v=Es_bukL78yk): Locked On Steelers, 2026-10-20 22:54 UTC
 - Video: [Should Steelers Still Seek WR Help? | Steelers Afternoon Drive](https://www.youtube.com/watch?v=Bp2zQ4eZjX8): Steelers Now, 2026-10-20 22:21 UTC
 - Video: [Every Boz field goal but with every field goal it gets faster 📺:#PITvsNO 10/25 at 9:30AM ET on NFLN](https://www.youtube.com/shorts/2W3Ld83xwfw): Pittsburgh Steelers (official), 2026-10-20 22:13 UTC
@@ -80,7 +81,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Scout’s Eye with Matt Williamson: Late domination](https://podcasts.apple.com/us/podcast/scouts-eye-with-matt-williamson-late-domination/id1072021022?i=1000796990242): DK Pittsburgh Sports, 2026-10-19 00:14 UTC
 - Video: [Walk off 🙌](https://www.youtube.com/shorts/2QLYY5in1-0): Pittsburgh Steelers (official), 2026-10-19 00:05 UTC
 - Video: [O H I O 🙌](https://www.youtube.com/shorts/hAyLCs34L9o): Pittsburgh Steelers (official), 2026-10-18 23:39 UTC
-- Video: [Reunited 🤝](https://www.youtube.com/shorts/_d_0PZ6tpi4): Pittsburgh Steelers (official), 2026-10-18 23:02 UTC
 - Podcast: [Steelers Now Postgame: Steelers 26, Buccaneers 19](https://podcasts.apple.com/us/podcast/steelers-now-postgame-steelers-26-buccaneers-19/id1700240934?i=1000796980106): Steelers Afternoon Drive, 2026-10-18 22:41 UTC
 - Podcast: [STEELERS SQUAD SHOW: McCarthy ROLLS Ankle, Steelers Big COMEBACK Leads To 1st Road Win In OT](https://podcasts.apple.com/us/podcast/steelers-squad-show-mccarthy-rolls-ankle-steelers-big/id1140522532?i=1000796979708): Locked On Steelers, 2026-10-18 22:38 UTC
 - Podcast: [Steelers Beat Bucs in OT! WILD GAME](https://podcasts.apple.com/us/podcast/steelers-beat-bucs-in-ot-wild-game/id1627248534?i=1000796978945): All Steelers Talk, 2026-10-18 22:23 UTC
