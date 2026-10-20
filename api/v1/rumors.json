@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "rumors",
  "description": "Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).",
- "generated": "2026-10-20T14:24:50+00:00",
- "data_updated": "2026-10-20T14:24:45+00:00",
- "count": 37,
+ "generated": "2026-10-20T15:05:14+00:00",
+ "data_updated": "2026-10-20T15:05:08+00:00",
+ "count": 39,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -40,9 +40,11 @@
     "Marquez Valdes-Scantling"
    ],
    "consensus": {
-    "cluster_id": "7562897ee621",
-    "independent_sources": 4,
+    "cluster_id": "f0317db1080a",
+    "independent_sources": 6,
     "sources": [
+     "Beaver County Radio",
+     "NBC Sports",
      "Sports Illustrated",
      "Steelers Depot",
      "Still Curtain",
@@ -52,8 +54,12 @@
     "highest_tier_score": 4,
     "related_ids": [
      "47b303529098",
+     "903d04baad12",
      "cea338c8f16a",
-     "7562897ee621"
+     "8cb28a915183",
+     "7562897ee621",
+     "67e645182b72",
+     "f0317db1080a"
     ]
    }
   },
@@ -76,9 +82,11 @@
    "published": "2026-10-20T12:37:08+00:00",
    "people": [],
    "consensus": {
-    "cluster_id": "7562897ee621",
-    "independent_sources": 4,
+    "cluster_id": "f0317db1080a",
+    "independent_sources": 6,
     "sources": [
+     "Beaver County Radio",
+     "NBC Sports",
      "Sports Illustrated",
      "Steelers Depot",
      "Still Curtain",
@@ -88,9 +96,86 @@
     "highest_tier_score": 4,
     "related_ids": [
      "c096101038f6",
+     "903d04baad12",
      "cea338c8f16a",
-     "7562897ee621"
+     "8cb28a915183",
+     "7562897ee621",
+     "67e645182b72",
+     "f0317db1080a"
     ]
+   }
+  },
+  {
+   "id": "903d04baad12",
+   "type": "rumor",
+   "title": "Report: Steelers signing wide receiver Marquez Valdes-Scantling to team's practice squad, marking return to Steelers",
+   "summary": "Injury story from Beaver County Radio. Full report at the original publisher.",
+   "url": "https://beavercountyradio.com/sports/report-steelers-signing-wide-receiver-marquez-valdes-scantling-to-teams-practice-squad-marking-return-to-steelers/",
+   "source": {
+    "name": "Beaver County Radio",
+    "url": null,
+    "reliability_tier": "Aggregator / other",
+    "reliability_score": 1
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-20T15:05:08+00:00",
+   "updated": "2026-10-20T15:05:08+00:00",
+   "published": "2026-10-20T12:12:56+00:00",
+   "people": [
+    "Marquez Valdes-Scantling"
+   ],
+   "consensus": {
+    "cluster_id": "f0317db1080a",
+    "independent_sources": 6,
+    "sources": [
+     "Beaver County Radio",
+     "NBC Sports",
+     "Sports Illustrated",
+     "Steelers Depot",
+     "Still Curtain",
+     "TribLIVE.com"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "c096101038f6",
+     "47b303529098",
+     "cea338c8f16a",
+     "8cb28a915183",
+     "7562897ee621",
+     "67e645182b72",
+     "f0317db1080a"
+    ]
+   }
+  },
+  {
+   "id": "1f538a3ad310",
+   "type": "rumor",
+   "title": "With Trade Deadline Approaching, Mike McCarthy Hints at Steelers’ Roster Expectations",
+   "summary": "Trade/roster move story from Athlon Sports. Full report at the original publisher.",
+   "url": "https://athlonsports.com/nfl/pittsburgh-steelers/with-trade-deadline-approaching-mike-mccarthy-hints-at-steelers-roster-expectations",
+   "source": {
+    "name": "Athlon Sports",
+    "url": null,
+    "reliability_tier": "Aggregator / other",
+    "reliability_score": 1
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-20T15:05:08+00:00",
+   "updated": "2026-10-20T15:05:08+00:00",
+   "published": "2026-10-20T12:00:00+00:00",
+   "people": [],
+   "consensus": {
+    "cluster_id": "1f538a3ad310",
+    "independent_sources": 1,
+    "sources": [
+     "Athlon Sports"
+    ],
+    "highest_tier": "Aggregator / other",
+    "highest_tier_score": 1,
+    "related_ids": []
    }
   },
   {
@@ -119,9 +204,11 @@
     "Marquez Valdes-Scantling"
    ],
    "consensus": {
-    "cluster_id": "7562897ee621",
-    "independent_sources": 4,
+    "cluster_id": "f0317db1080a",
+    "independent_sources": 6,
     "sources": [
+     "Beaver County Radio",
+     "NBC Sports",
      "Sports Illustrated",
      "Steelers Depot",
      "Still Curtain",
@@ -132,7 +219,11 @@
     "related_ids": [
      "c096101038f6",
      "47b303529098",
-     "7562897ee621"
+     "903d04baad12",
+     "8cb28a915183",
+     "7562897ee621",
+     "67e645182b72",
+     "f0317db1080a"
     ]
    }
   },
@@ -155,14 +246,27 @@
    "published": "2026-10-20T00:54:23+00:00",
    "people": [],
    "consensus": {
-    "cluster_id": "8cb28a915183",
-    "independent_sources": 1,
+    "cluster_id": "f0317db1080a",
+    "independent_sources": 6,
     "sources": [
-     "NBC Sports"
+     "Beaver County Radio",
+     "NBC Sports",
+     "Sports Illustrated",
+     "Steelers Depot",
+     "Still Curtain",
+     "TribLIVE.com"
     ],
-    "highest_tier": "Aggregator / other",
-    "highest_tier_score": 1,
-    "related_ids": []
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "c096101038f6",
+     "47b303529098",
+     "903d04baad12",
+     "cea338c8f16a",
+     "7562897ee621",
+     "67e645182b72",
+     "f0317db1080a"
+    ]
    }
   },
   {
@@ -184,9 +288,11 @@
    "published": "2026-10-20T00:46:40+00:00",
    "people": [],
    "consensus": {
-    "cluster_id": "7562897ee621",
-    "independent_sources": 4,
+    "cluster_id": "f0317db1080a",
+    "independent_sources": 6,
     "sources": [
+     "Beaver County Radio",
+     "NBC Sports",
      "Sports Illustrated",
      "Steelers Depot",
      "Still Curtain",
@@ -197,7 +303,11 @@
     "related_ids": [
      "c096101038f6",
      "47b303529098",
-     "cea338c8f16a"
+     "903d04baad12",
+     "cea338c8f16a",
+     "8cb28a915183",
+     "67e645182b72",
+     "f0317db1080a"
     ]
    }
   },
@@ -612,13 +722,24 @@
    "people": [],
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 1,
+    "independent_sources": 6,
     "sources": [
-     "Steelers Depot"
+     "Beaver County Radio",
+     "NBC Sports",
+     "Sports Illustrated",
+     "Steelers Depot",
+     "Still Curtain",
+     "TribLIVE.com"
     ],
-    "highest_tier": "Fan blog",
-    "highest_tier_score": 2,
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
     "related_ids": [
+     "c096101038f6",
+     "47b303529098",
+     "903d04baad12",
+     "cea338c8f16a",
+     "8cb28a915183",
+     "7562897ee621",
      "f0317db1080a"
     ]
    }
@@ -674,13 +795,24 @@
    "people": [],
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 1,
+    "independent_sources": 6,
     "sources": [
-     "Steelers Depot"
+     "Beaver County Radio",
+     "NBC Sports",
+     "Sports Illustrated",
+     "Steelers Depot",
+     "Still Curtain",
+     "TribLIVE.com"
     ],
-    "highest_tier": "Fan blog",
-    "highest_tier_score": 2,
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
     "related_ids": [
+     "c096101038f6",
+     "47b303529098",
+     "903d04baad12",
+     "cea338c8f16a",
+     "8cb28a915183",
+     "7562897ee621",
      "67e645182b72"
     ]
    }

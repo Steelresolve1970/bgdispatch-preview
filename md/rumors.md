@@ -1,17 +1,21 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-20T14:24:50+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T14:24:45+00:00._
+_Generated 2026-10-20T15:05:14+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T15:05:08+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
-- **Rumor** · tier: Fan blog · consensus: 4 source(s), top tier National insider
+- **Rumor** · tier: Fan blog · consensus: 6 source(s), top tier National insider
   [Steelers signing Marquez Valdes-Scantling could make things even worse](https://stillcurtain.com/pittsburgh-steelers-signing-marquez-valdes-scantling-could-make-offense-worse-01m5cmdzgrz1?utm_source=RSS): Still Curtain, first seen 2026-10-20 14:14 UTC
-- **Rumor** · tier: National insider · consensus: 4 source(s), top tier National insider
+- **Rumor** · tier: National insider · consensus: 6 source(s), top tier National insider
   [Marquez Valdes-Scantling Signing Might Mean Good News for Steelers](https://www.si.com/nfl/steelers/onsi/marquez-valdes-scantling-signing-might-good-news-pittsburgh-steelers): Sports Illustrated, first seen 2026-10-20 14:14 UTC
-- **Denied** · tier: Aggregator / other · consensus: 4 source(s), top tier National insider
-  [First Call: Steelers reportedly signing Marquez Valdes-Scantling; a theory on Chris Boswell’s FG miss dismissed](https://triblive.com/sports/first-call-steelers-reportedly-signing-marquez-valdes-scantling-a-theory-on-chris-boswells-fg-miss-dismissed/): TribLIVE.com, first seen 2026-10-20 10:16 UTC
+- **Rumor** · tier: Aggregator / other · consensus: 6 source(s), top tier National insider
+  [Report: Steelers signing wide receiver Marquez Valdes-Scantling to team's practice squad, marking return to Steelers](https://beavercountyradio.com/sports/report-steelers-signing-wide-receiver-marquez-valdes-scantling-to-teams-practice-squad-marking-return-to-steelers/): Beaver County Radio, first seen 2026-10-20 15:05 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
+  [With Trade Deadline Approaching, Mike McCarthy Hints at Steelers’ Roster Expectations](https://athlonsports.com/nfl/pittsburgh-steelers/with-trade-deadline-approaching-mike-mccarthy-hints-at-steelers-roster-expectations): Athlon Sports, first seen 2026-10-20 15:05 UTC
+- **Denied** · tier: Aggregator / other · consensus: 6 source(s), top tier National insider
+  [First Call: Steelers reportedly signing Marquez Valdes-Scantling; a theory on Chris Boswell’s FG miss dismissed](https://triblive.com/sports/first-call-steelers-reportedly-signing-marquez-valdes-scantling-a-theory-on-chris-boswells-fg-miss-dismissed/): TribLIVE.com, first seen 2026-10-20 10:16 UTC
+- **Rumor** · tier: Aggregator / other · consensus: 6 source(s), top tier National insider
   [Report: MVS to sign with Steelers’ practice squad](https://www.nbcsports.com/fantasy/football/player-news/2026-10-19/report-mvs-to-sign-with-steelers-practice-squad): NBC Sports, first seen 2026-10-20 01:01 UTC
-- **Rumor** · tier: Fan blog · consensus: 4 source(s), top tier National insider
+- **Rumor** · tier: Fan blog · consensus: 6 source(s), top tier National insider
   [Report: Steelers Signing WR Marquez Valdes-Scantling](https://steelersdepot.com/2026/10/report-steelers-signing-wr-marquez-valdes-scantling-2/): Steelers Depot, first seen 2026-10-20 00:50 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [Steelers Trade Rumors: Pittsburgh Is Making Calls for Receiver Help — Could Mike McCarthy Turn to Dallas?](https://sportsnaut.com/nfl/steelers-trade-rumors-pittsburgh-is-making-calls-for-receiver-help-could-mike-mccarthy-turn-to-dallas): Sportsnaut, first seen 2026-10-20 00:50 UTC
@@ -39,11 +43,11 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Pelissero: Steelers Have Been 'Calling Around' About Veteran Receivers Ahead Of Trade Deadline](https://steelersdepot.com/2026/10/pelissero-steelers-have-been-calling-around-on-veteran-receivers-ahead-of-trade-deadline/): Steelers Depot, first seen 2026-10-19 17:56 UTC
 - **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
   [The Steelers could get a ton better, with one simple trade](https://sports.yahoo.com/videos/steelers-could-ton-better-one-214648839.html): Yahoo Sports, first seen 2026-10-19 17:56 UTC
-- **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
+- **Rumor** · tier: Fan blog · consensus: 6 source(s), top tier National insider
   [McCorkle: My Top Wide Receiver Trade Target For Steelers](https://steelersdepot.com/2026/10/mccorkle-my-top-wide-receiver-trade-target-for-steelers/): Steelers Depot, first seen 2026-10-18 12:06 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [Jordan Addison-to-Steelers trade rumor takes off despite making zero sense for Vikings](https://bringmethesports.com/jordan-addison-to-steelers-trade-rumor-takes-off-despite-making-zero-sense-for-vikings): Bring Me the Sports, first seen 2026-10-18 04:34 UTC
-- **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
+- **Rumor** · tier: Fan blog · consensus: 6 source(s), top tier National insider
   [McCorkle: My Top Wide Receiver Trade Target For Steelers](https://steelersdepot.com/2026/10/mccorkle-my-top-wide-receiver-trade-target-for-steelers/): Steelers Depot, first seen 2026-10-18 04:34 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [Steelers Should Consider Surprise Trade Candidate](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-should-consider-surprise-trade-candidate-rico-dowdle): All Steelers (Sports Illustrated), first seen 2026-10-18 04:34 UTC

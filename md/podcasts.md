@@ -1,8 +1,10 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-20T14:24:50+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T14:24:34+00:00._
+_Generated 2026-10-20T15:05:14+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T15:04:56+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Podcast: [Do Steelers Have Next Rookie of the Year?](https://bleav.com/shows/all-steelers-talk/?post_type=gp_podcast_episode&p=1864): All Steelers Talk, 2026-10-20 15:00 UTC
+- Video: [Why Did Steelers Sign MVS? | Steelers Morning Rush](https://www.youtube.com/watch?v=Y1a4toUay64): Steelers Now, 2026-10-20 14:10 UTC
 - Podcast: [Steelers Hint at Two Good Things With WR Signing](https://bleav.com/shows/all-steelers-talk/episodes/steelers-hint-at-two-good-things-with-wr-signing/): All Steelers Talk, 2026-10-20 12:10 UTC
 - Podcast: [Here We Go, The Steelers Show: Rookies are a part of the black-and-gold solution](http://steelcurtainnetwork.com): Steel Curtain Network (BTSC), 2026-10-20 08:00 UTC
 - Video: [Only the Steelers Can Make Winning Look So Ugly | Illegal Hands to the Face](https://www.youtube.com/watch?v=idEz7_-TZ68): Still Curtain Podcast, 2026-10-20 06:54 UTC
@@ -77,7 +79,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Trouble in Paradise? Inside Steelers-Buccaneers with Nick Farabaugh | THE PITTSBURGH FOOTBALL SHOW](https://www.youtube.com/watch?v=6s5qtvsRYeY): Steelers Now, 2026-10-16 17:40 UTC
 - Video: [What to Make of Mike McCarthy So Far? | Steelers Morning Rush](https://www.youtube.com/watch?v=BWwGqQFkBbc): Steelers Now, 2026-10-16 16:19 UTC
 - Video: [Smitty's Six Pack of Steelers-Buccaneers Topics | THE PITTSBURGH FOOTBALL SHOW](https://www.youtube.com/watch?v=xuypubMqt1o): Steelers Now, 2026-10-16 16:15 UTC
-- Video: [THE PITTSBURGH FOOTBALL SHOW, Episode 6, Oct. 16, 2026](https://www.youtube.com/watch?v=0l4fHR7bMbo): Steelers Now, 2026-10-16 16:12 UTC
 - Video: [So much went into this play for Elandon Roberts 💥🏈 #steelers #nfl #pittsburgh](https://www.youtube.com/shorts/5FYyVJkVFIw): Not Just Football with Cam Heyward, 2026-10-16 16:10 UTC
 - Podcast: [Hour 1: Final Breakdown of the Bucs](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-101626-mp3): Steelers Blitz, 2026-10-16 16:00 UTC
 - Podcast: [Drive10.16.26Hr1: 5 Star Friday](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-16-26hr1-mp3): SNR Drive, 2026-10-16 16:00 UTC
@@ -103,8 +104,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [The Steelers vs Bucs Matchup Comes Down to Who Controls the Run Game 😤 #steelers #Bucs #nfl](https://www.youtube.com/shorts/BW13C2GCr5g): Locked On Steelers, 2026-10-15 16:49 UTC
 - Video: [Not many number 1 receivers would be willing to block like DK Metcalf is 🔥👏#dkmetcalf #steelers](https://www.youtube.com/shorts/Q-zad-ffG3c): Not Just Football with Cam Heyward, 2026-10-15 16:00 UTC
 - Podcast: [Hour 1: Deep Dive into Buccaneers](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-101526-mp3): Steelers Blitz, 2026-10-15 16:00 UTC
-- Podcast: [Hour 2: How to Lose a Game in Five Ways](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr2-101526-mp3): Steelers Blitz, 2026-10-15 15:00 UTC
-- Podcast: [Steelers Ready for Splash Trade at Deadline](https://bleav.com/shows/all-steelers-talk/?post_type=gp_podcast_episode&p=1850): All Steelers Talk, 2026-10-15 15:00 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

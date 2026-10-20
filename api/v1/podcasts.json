@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-20T14:24:50+00:00",
- "data_updated": "2026-10-20T14:24:34+00:00",
- "count": 102,
+ "generated": "2026-10-20T15:05:14+00:00",
+ "data_updated": "2026-10-20T15:04:56+00:00",
+ "count": 101,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -19,6 +19,32 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/podcasts",
  "items": [
+  {
+   "id": "7f5801f7d257a60c",
+   "type": "podcast_episode",
+   "title": "Do Steelers Have Next Rookie of the Year?",
+   "show": "All Steelers Talk",
+   "url": "https://bleav.com/shows/all-steelers-talk/?post_type=gp_podcast_episode&p=1864",
+   "published": "2026-10-20T15:00:00+00:00",
+   "summary": "Podcast episode from All Steelers Talk.",
+   "source": {
+    "name": "All Steelers Talk",
+    "url": null
+   }
+  },
+  {
+   "id": "372fa524cec8b7c1",
+   "type": "video",
+   "title": "Why Did Steelers Sign MVS? | Steelers Morning Rush",
+   "show": "Steelers Now",
+   "url": "https://www.youtube.com/watch?v=Y1a4toUay64",
+   "published": "2026-10-20T14:10:27+00:00",
+   "summary": "Video from Steelers Now.",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   }
+  },
   {
    "id": "1714979aa8b6e953",
    "type": "podcast_episode",
@@ -982,19 +1008,6 @@
    }
   },
   {
-   "id": "10558bc531d9fc99",
-   "type": "video",
-   "title": "THE PITTSBURGH FOOTBALL SHOW, Episode 6, Oct. 16, 2026",
-   "show": "Steelers Now",
-   "url": "https://www.youtube.com/watch?v=0l4fHR7bMbo",
-   "published": "2026-10-16T16:12:00+00:00",
-   "summary": "Video from Steelers Now.",
-   "source": {
-    "name": "Steelers Now",
-    "url": null
-   }
-  },
-  {
    "id": "47feb07447e41450",
    "type": "video",
    "title": "So much went into this play for Elandon Roberts 💥🏈 #steelers #nfl #pittsburgh",
@@ -1316,32 +1329,6 @@
    "summary": "Podcast episode from Steelers Blitz.",
    "source": {
     "name": "Steelers Blitz",
-    "url": null
-   }
-  },
-  {
-   "id": "e4dfef84727a8474",
-   "type": "podcast_episode",
-   "title": "Hour 2: How to Lose a Game in Five Ways",
-   "show": "Steelers Blitz",
-   "url": "https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr2-101526-mp3",
-   "published": "2026-10-15T15:00:00+00:00",
-   "summary": "Podcast episode from Steelers Blitz.",
-   "source": {
-    "name": "Steelers Blitz",
-    "url": null
-   }
-  },
-  {
-   "id": "4a3ad79bf1e3d838",
-   "type": "podcast_episode",
-   "title": "Steelers Ready for Splash Trade at Deadline",
-   "show": "All Steelers Talk",
-   "url": "https://bleav.com/shows/all-steelers-talk/?post_type=gp_podcast_episode&p=1850",
-   "published": "2026-10-15T15:00:00+00:00",
-   "summary": "Podcast episode from All Steelers Talk.",
-   "source": {
-    "name": "All Steelers Talk",
     "url": null
    }
   }
