@@ -1,10 +1,10 @@
 {
- "last_run": "2026-10-20T03:17:22.945902+00:00",
+ "last_run": "2026-10-20T03:28:56.215030+00:00",
  "results": [
   {
    "fetcher": "apply_grade_edits.py",
    "ok": true,
-   "seconds": 0.5,
+   "seconds": 1.0,
    "last_line": "no grade edits"
   },
   {
@@ -34,19 +34,19 @@
   {
    "fetcher": "fetch_insiders.py",
    "ok": true,
-   "seconds": 1.5,
+   "seconds": 2.0,
    "last_line": "sidebar: 6 full feed: 35"
   },
   {
    "fetcher": "fetch_film.py",
    "ok": true,
-   "seconds": 40.5,
+   "seconds": 41.5,
    "last_line": "  Week 1 vs Falcons (W 20-13): 4   {'Steelers Depot Film Room (Alex Kozora)': 1, \"Derrick Bell \u2013 DB's Film Room (Steelers Now)\": 1, 'Steelers Almighty': 1, 'Steelers Depot (YouTube)': 1}"
   },
   {
    "fetcher": "fetch_podcasts.py",
    "ok": true,
-   "seconds": 18.0,
+   "seconds": 20.0,
    "last_line": "episodes past 7 days: 184 | embed-fallback channels: 1"
   },
   {
@@ -65,13 +65,13 @@
    "fetcher": "fetch_stats.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "team stats 20 players 42 pools {'offense:passing': 61, 'offense:rushing': 227, 'offense:receiving': 385, 'defense': 1113}"
+   "last_line": "stats fresh; skipped"
   },
   {
    "fetcher": "build_leaders.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "leaders team 20 player 18 sizes {'pass_yds': 45, 'ypa': 36, 'pass_td': 45, 'int_thrown': 45, 'passer_rtg': 36, 'rush_yds': 74, 'rush_td': 74, 'rec': 147, 'rec_yds': 147, 'rec_td': 147, 'yac': 147, 'tackles': 320, 'sacks': 261, 'tfl': 120, 'pd': 209, 'int': 102, 'ff': 144, 'fr': 101}"
+   "last_line": "leaders fresh; skipped"
   },
   {
    "fetcher": "fetch_draft.py",
@@ -113,7 +113,7 @@
    "fetcher": "fetch_hub.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "hub fresh (<30 min); skipped"
+   "last_line": "injuries 16 practice 2 opp NO"
   },
   {
    "fetcher": "fetch_matchup.py",
