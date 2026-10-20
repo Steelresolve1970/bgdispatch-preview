@@ -1,10 +1,11 @@
 # Steelers News
 
-_Generated 2026-10-20T21:44:07+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T21:43:32+00:00._
+_Generated 2026-10-20T21:54:58+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T21:54:27+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [NFL to beef up security for Steelers-Saints in Paris after riots](https://www.espn.com/nfl/story/_/id/50230791/nfl-increase-security-paris-steelers-saints-game): ESPN, 2026-10-20 22:39 UTC
 - [The best soccer/NFL crossover jerseys as PSG unveil kit for Steelers vs. Saints in Paris](https://www.espn.com/soccer/story/_/id/50225836/the-best-soccer-nfl-crossover-jerseys-psg-kit-pittsburgh-steelers-new-orleans-saints-paris-game): ESPN, 2026-10-20 21:47 UTC
+- [‘Not Ruling Out Surgery’: Kaboly Shares Michael Pittman Jr. Update, Names Trade Options To Replace Him](https://steelersdepot.com/2026/10/not-ruling-out-surgery-kaboly-shares-michael-pittman-jr-update-names-trade-options-to-replace-him/): Steelers Depot, 2026-10-20 21:45 UTC
 - [Steelers Throw Stunning Lineup Curveball As DeShon Elliott Will Have To Fight For His Spot](https://www.steelernation.com/2026/10/20/steelers-stunning-deshon-elliott-fight): SteelerNation, 2026-10-20 21:35 UTC
 - [Listen: The Terrible Take (Episode 2,056)](https://steelersdepot.com/2026/10/listen-the-terrible-take-episode-2056/): Steelers Depot, 2026-10-20 21:30 UTC
 - [Steelers Power Rankings Roundup: Where Pittsburgh Landed After Week 6](https://sportsnetpittsburgh.com/pittsburgh-steelers/news/steelers-power-rankings-roundup-week-7/8f57dda2564ee24d46d173c8): SportsNet Pittsburgh, 2026-10-20 21:29 UTC
@@ -52,6 +53,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Film Room: An Absurdly Good Rep From Darnell Washington (That’s Easy To Miss)](https://steelersdepot.com/2026/10/film-room-an-absurdly-good-rep-from-darnell-washington-thats-easy-to-miss/): Steelers Depot, 2026-10-20 16:00 UTC
 - [Steelers Rookie WR Quickly Joining Rookie of the Year Mix](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-rookie-germie-bernard-quickly-joining-rookie-year-mix): All Steelers (Sports Illustrated), 2026-10-20 16:00 UTC
 - [Steelers should cash in on Mason Rudolph if the Eagles come calling](https://stillcurtain.com/pittsburgh-steelers-should-cash-in-mason-rudolph-trade-philadelphia-eagles-01m5b9frwbv6?utm_source=RSS): Still Curtain, 2026-10-20 16:00 UTC
+- [NFL in Paris: League eyes big debut as Steelers-Saints game comes amid security concerns](https://triblive.com/sports/nfl-in-paris-league-eyes-big-debut-as-steelers-saints-game-comes-amid-security-concerns/): TribLive, 2026-10-20 15:56 UTC
 - [Analyst Identifies Wide Receiver Pittsburgh Should Trade For](https://steelersdepot.com/2026/10/analyst-identifies-wide-receiver-pittsburgh-should-trade-for/): Steelers Depot, 2026-10-20 15:45 UTC
 - [Steelers' Level Of Interest In Former WR JuJu Smith-Schuster Gets Exposed](https://www.steelernation.com/2026/10/20/steelers-interest-juju-smith-schuster-exposed): SteelerNation, 2026-10-20 15:44 UTC
 - [Steelers Rookie Germie Bernard Nominated for NFL Award](https://steelersnow.com/steelers-rookie-germie-bernard-nominated-for-nfl-award/): Steelers Now, 2026-10-20 15:38 UTC
@@ -74,7 +76,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Mark Madden: Steelers fans should embrace comeback win, not nitpick Mike McCarthy’s mistakes](https://triblive.com/sports/mark-madden-steelers-fans-should-embrace-comeback-win-not-nitpick-mike-mccarthys-mistakes/): TribLive, 2026-10-20 13:46 UTC
 - [Steelers news: NFL not relocating Paris game](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176594/steelers-news-nfl-not-relocating-paris-game): Behind the Steel Curtain, 2026-10-20 13:40 UTC
 - [Mike McCarthy Defends Late-Game Play-Calling vs. Bucs: ‘Those Are Solid Plays’](https://steelersnow.com/mike-mccarthy-defends-late-game-play-calling-vs-bucs/): Steelers Now, 2026-10-20 13:39 UTC
-- [Even In A Win, Mike McCarthy’s Late-Game Decisions Need Questioned](https://steelersdepot.com/2026/10/even-in-a-win-mike-mccarthys-late-game-decisions-need-questioned/): Steelers Depot, 2026-10-20 13:30 UTC
 - [Steelers signing Marquez Valdes-Scantling could make things even worse](https://stillcurtain.com/pittsburgh-steelers-signing-marquez-valdes-scantling-could-make-offense-worse-01m5cmdzgrz1?utm_source=RSS): Still Curtain, 2026-10-20 13:01 UTC
 - [Steelers should call the Giants after the surprise Cam Skattebo benching](https://stillcurtain.com/pittsburgh-steelers-should-call-the-giants-after-the-surprise-cam-skattebo-benching-01m5arkwgky1?utm_source=RSS): Still Curtain, 2026-10-20 13:00 UTC
 - [Pittsburgh Steelers 2026 NFL Playoff Simulator](https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/pittsburgh-steelers-season-projections/): The New York Times, 2026-10-20 12:48 UTC
@@ -152,7 +153,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers report card: Germie Bernard and DK Metcalf step up in the win over the Buccaneers](https://www.post-gazette.com/sports/steelers/2026/10/18/steelers-report-card-buccaneers-week6/stories/202610180077): Pittsburgh Post-Gazette, 2026-10-18 23:17 UTC
 - [Noah Hiles: Mike McCarthy got bailed out by his Steelers players in Tampa](https://www.post-gazette.com/sports/steelers/2026/10/18/mike-mccarthy-steelers-buccaneers/stories/202610180078): Pittsburgh Post-Gazette, 2026-10-18 22:45 UTC
 - [Ramsey is Steelers Player of the Week](https://www.steelers.com/news/ramsey-is-steelers-player-of-the-week): Steelers.com (official), 2026-10-18 22:27 UTC
-- [Pittsburgh Steelers' top plays vs. Tampa Bay Buccaneers | Week 6](https://www.nfl.com/videos/steelers-top-plays-vs-buccaneers-week-6-x2393): NFL.com, 2026-10-18 22:18 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

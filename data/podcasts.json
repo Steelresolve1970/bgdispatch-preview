@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-20T21:43:50.874056+00:00",
+ "generated": "2026-10-20T21:54:42.145286+00:00",
  "date_et": "2026-10-20",
  "days": 5,
  "display_days": 2,
- "count": 135,
+ "count": 134,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -20,7 +20,7 @@
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7JorgD8nGLtvvMy1ogFetg",
    "status": "ok",
    "episodes": 15,
-   "week": 8,
+   "week": 7,
    "latest": "2026-10-20T21:29:44+00:00"
   },
   {
@@ -90,10 +90,10 @@
    "show": "Steel City Underground",
    "kind": "podcast",
    "url": "https://feeds.feedburner.com/steelcityunderground",
-   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 45,
    "week": 1,
-   "latest": null
+   "latest": "2026-10-19T19:40:55+00:00"
   },
   {
    "show": "Steel City Underground",
@@ -156,7 +156,7 @@
    "status": "ok",
    "episodes": 15,
    "week": 15,
-   "latest": "2026-10-20T14:10:27+00:00"
+   "latest": "2026-10-20T21:40:52+00:00"
   },
   {
    "show": "The Steel City Insider (Jim Wexell, 247Sports)",
@@ -250,6 +250,14 @@
   }
  ],
  "items": [
+  {
+   "title": "Aaron Rodgers, Steelers QBs Zip It Around In the Rain",
+   "show": "Steelers Now",
+   "kind": "video",
+   "link": "https://www.youtube.com/watch?v=wGbvT-xgteI",
+   "published": "2026-10-20T21:40:52+00:00",
+   "summary": "Video from Steelers Now."
+  },
   {
    "title": "The Steelers Need to Run the Ball on Third Down More Often \ud83d\udea8 #steelers #nfl",
    "show": "Locked On Steelers",
@@ -1132,14 +1140,6 @@
   },
   {
    "title": "Smitty's Six Pack of Steelers-Buccaneers Topics | THE PITTSBURGH FOOTBALL SHOW",
-   "show": "Steelers Now",
-   "kind": "video",
-   "link": "https://www.youtube.com/watch?v=xuypubMqt1o",
-   "published": "2026-10-16T16:15:10+00:00",
-   "summary": "Video from Steelers Now."
-  },
-  {
-   "title": "Smitty's Six Pack of Steelers-Buccaneers Topics | THE PITTSBURGH FOOTBALL SHOW",
    "show": "Steelers Afternoon Drive",
    "kind": "podcast",
    "link": "https://podcasts.apple.com/us/podcast/smittys-six-pack-of-steelers-buccaneers-topics/id1700240934?i=1000796692896",
@@ -1321,14 +1321,6 @@
    "link": "https://podcasts.apple.com/us/podcast/worried-about-rookie-roles-steelers-afternoon-drive/id1700240934?i=1000796556968",
    "published": "2026-10-15T21:55:00+00:00",
    "summary": "Podcast episode from Steelers Afternoon Drive."
-  },
-  {
-   "title": "Steelers' Mike McCarthy Must Solve WR Separation Issue w/DK Metcalf, Germie Bernard vs Buccaneers",
-   "show": "Locked On Steelers",
-   "kind": "video",
-   "link": "https://www.youtube.com/shorts/FJtbyDhy-5k",
-   "published": "2026-10-15T21:53:58+00:00",
-   "summary": "Video from Locked On Steelers."
   }
  ],
  "yt_channels": [],
