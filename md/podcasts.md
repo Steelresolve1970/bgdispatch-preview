@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-20T01:02:03+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T01:01:48+00:00._
+_Generated 2026-10-20T01:12:43+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T01:12:28+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Podcast: [Steelers Depot Youtube Live Stream Q & A Podcast - October 19, 2026](https://megaphone.link/SDP7863802568): The Terrible Podcast (Steelers Depot), 2026-10-20 01:07 UTC
 - Video: [ahoy.mp4](https://www.youtube.com/shorts/eJqO7AsgSnY): Pittsburgh Steelers (official), 2026-10-20 00:25 UTC
 - Video: [Recapping The 26-19 Win Against The Buccaneers | SNR Drive (Oct.19) | Pittsburgh Steelers](https://www.youtube.com/watch?v=8Dz8Jo8g6-0): Pittsburgh Steelers (official), 2026-10-19 23:45 UTC
 - Video: [What Jaquan said 🗣️](https://www.youtube.com/shorts/1fzVAxBoz-U): Pittsburgh Steelers (official), 2026-10-19 23:19 UTC
