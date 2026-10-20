@@ -1,8 +1,10 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-20T21:33:13+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T21:33:07+00:00._
+_Generated 2026-10-20T21:44:07+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T21:44:01+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
+- **Rumor** · tier: Aggregator / other · consensus: 2 source(s), top tier Fan blog
+  [Reports: Giants to release former Steelers running back Najee Harris](https://triblive.com/sports/reports-giants-to-release-former-steelers-running-back-najee-harris/): TribLIVE.com, first seen 2026-10-20 21:44 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Steelers Linked To Intriguing Chris Godwin Jr Trade After Buccaneers Win](https://www.steelernation.com/2026/10/20/steelers-intriguing-chris-godwin-trade): SteelerNation, first seen 2026-10-20 20:00 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
@@ -13,7 +15,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Latest update on injured Steelers wide receiver could mean Pittsburgh has no choice but to make a trade before the deadline](https://www.yardbarker.com/nfl/articles/latest_update_on_injured_steelers_wide_receiver_could_mean_pittsburgh_has_no_choice_but_to_make_a_trade_before_the_deadline/s1_17313_44451738): Yardbarker, first seen 2026-10-20 17:32 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 10 source(s), top tier National insider
   [Latest update on injured Steelers wide receiver could mean Pittsburgh has no choice but to make a trade before the deadline](https://atozsports.com/nfl/pittsburgh-steelers-news/michael-pittman-jr-could-miss-rest-of-season-wr-trade-deadline-rumors/): A to Z Sports, first seen 2026-10-20 21:02 UTC
-- **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
+- **Rumor** · tier: Fan blog · consensus: 2 source(s), top tier Fan blog
   [Reports: Giants Release Ex-Steelers RB Najee Harris](https://steelersdepot.com/2026/10/reports-giants-release-ex-steelers-rb-najee-harris/): Steelers Depot, first seen 2026-10-20 15:15 UTC
 - **Rumor** · tier: Fan blog · consensus: 10 source(s), top tier National insider
   [Steelers signing Marquez Valdes-Scantling could make things even worse](https://stillcurtain.com/pittsburgh-steelers-signing-marquez-valdes-scantling-could-make-offense-worse-01m5cmdzgrz1?utm_source=RSS): Still Curtain, first seen 2026-10-20 14:14 UTC

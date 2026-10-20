@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-20T21:33:13+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T21:32:56+00:00._
+_Generated 2026-10-20T21:44:07+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T21:43:50+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Video: [The Steelers Need to Run the Ball on Third Down More Often 🚨 #steelers #nfl](https://www.youtube.com/shorts/nyEwZLT3nXM): Locked On Steelers, 2026-10-20 21:29 UTC
 - Podcast: [Steelers Not Done With WR Moves?](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-20 21:17 UTC
 - Podcast: [The Terrible Take - Episode 2056 - October 20, 2026](https://podcasts.apple.com/us/podcast/id405990739): The Terrible Podcast (Steelers Depot), 2026-10-20 21:00 UTC
 - Podcast: [Drive10.20.26Hr1: Scouting the Saints](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-20-26hr1-mp3): SNR Drive, 2026-10-20 20:00 UTC

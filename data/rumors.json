@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T21:33:07.919962+00:00",
+ "generated": "2026-10-20T21:44:01.582561+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -43,6 +43,37 @@
   ]
  },
  "rumors": [
+  {
+   "id": "2289e7e73871",
+   "title": "Reports: Giants to release former Steelers running back Najee Harris",
+   "source": "TribLIVE.com",
+   "link": "https://triblive.com/sports/reports-giants-to-release-former-steelers-running-back-najee-harris/",
+   "published": "2026-10-20T21:33:23+00:00",
+   "summary": "Rumor-style report from TribLIVE.com on a Steelers roster move. Full details at the source.",
+   "tier": "Aggregator / other",
+   "tier_score": 1,
+   "subjects": [
+    "Najee Harris"
+   ],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-20T21:44:01.582561+00:00",
+   "consensus": {
+    "cluster_id": "d9ea387e2e1d",
+    "independent_sources": 2,
+    "sources": [
+     "Steelers Depot",
+     "TribLIVE.com"
+    ],
+    "highest_tier": "Fan blog",
+    "highest_tier_score": 2,
+    "related_ids": [
+     "d9ea387e2e1d"
+    ]
+   },
+   "updated": "2026-10-20T21:44:01.582561+00:00"
+  },
   {
    "id": "dd1f84d92d9c",
    "title": "Steelers Linked To Intriguing Chris Godwin Jr Trade After Buccaneers Win",
@@ -233,13 +264,16 @@
    "first_seen": "2026-10-20T15:15:55.820081+00:00",
    "consensus": {
     "cluster_id": "d9ea387e2e1d",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
-     "Steelers Depot"
+     "Steelers Depot",
+     "TribLIVE.com"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "2289e7e73871"
+    ]
    },
    "updated": "2026-10-20T15:15:55.820081+00:00"
   },
