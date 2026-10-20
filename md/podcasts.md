@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-20T00:27:37+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T00:27:22+00:00._
+_Generated 2026-10-20T00:39:18+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T00:39:00+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Video: [ahoy.mp4](https://www.youtube.com/shorts/eJqO7AsgSnY): Pittsburgh Steelers (official), 2026-10-20 00:25 UTC
 - Video: [Recapping The 26-19 Win Against The Buccaneers | SNR Drive (Oct.19) | Pittsburgh Steelers](https://www.youtube.com/watch?v=8Dz8Jo8g6-0): Pittsburgh Steelers (official), 2026-10-19 23:45 UTC
 - Video: [What Jaquan said 🗣️](https://www.youtube.com/shorts/1fzVAxBoz-U): Pittsburgh Steelers (official), 2026-10-19 23:19 UTC
 - Video: [Why Steelers MUST RUN THE BALL to Fix their 3rd Down Failures | Mike McCarthy's Necessary Changes](https://www.youtube.com/shorts/mXiVHOzgvR4): Locked On Steelers, 2026-10-19 22:54 UTC
@@ -51,7 +52,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Mike McCarthy Explains Clock Management Decisions in Steelers Win over Bucs](https://www.youtube.com/watch?v=ZR7423xKpA8): Steelers Now, 2026-10-18 21:51 UTC
 - Video: [Coach McCarthy, Aaron Rodgers & Nick Herbig Postgame Press Conference (Week 6 at Buccaneers)](https://www.youtube.com/watch?v=V1-MVjyVhs8): Pittsburgh Steelers (official), 2026-10-18 21:41 UTC
 - Video: [Later gator ✌️](https://www.youtube.com/shorts/st-Ev-iQ0y0): Pittsburgh Steelers (official), 2026-10-18 21:04 UTC
-- Video: [RAMSEY CALLED GAME 😤 📺: CBS](https://www.youtube.com/shorts/2y1WtqDK8GE): Pittsburgh Steelers (official), 2026-10-18 20:56 UTC
 - Podcast: [The Terrible Take - Episode 2054 - October 18, 2026](https://megaphone.link/SDP9521387232): The Terrible Podcast (Steelers Depot), 2026-10-18 14:34 UTC
 - Podcast: [Steelers vs. Bucs Bold Predictions](https://bleav.com/shows/all-steelers-talk/episodes/steelers-vs-bucs-bold-predictions/): All Steelers Talk, 2026-10-18 12:35 UTC
 - Podcast: [DK's Live Shot of Steelers: Pregame vs. Buccaneers](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-live-shot-of-steelers-pregame-vs-buccaneers/): DK Pittsburgh Sports, 2026-10-18 01:37 UTC

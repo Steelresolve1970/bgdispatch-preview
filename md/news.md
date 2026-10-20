@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-20T00:27:37+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T00:26:36+00:00._
+_Generated 2026-10-20T00:39:18+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T00:37:57+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Jaylen Warren Leads NFL in Jaw-Dropping Stat Despite Quiet Week 6 Performance](https://steelersnow.com/jaylen-warren-leads-nfl-in-jaw-dropping-stat-despite-quiet-week-6-performance/): Steelers Now, 2026-10-20 00:10 UTC
@@ -84,13 +84,11 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Pittsburgh Steelers 2026 NFL Playoff Simulator](https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/pittsburgh-steelers-season-projections/): The New York Times, 2026-10-19 13:58 UTC
 - [Steelers' Mike McCarthy Gives Detailed Explanation To Rare Head Coach Injury](https://www.steelernation.com/2026/10/19/steelers-mike-mccarthy-detailed-rare): SteelerNation, 2026-10-19 13:53 UTC
 - [Cup of Joe (Starkey): Only the delusional believe Steelers QB Aaron Rodgers is done](https://triblive.com/sports/cup-of-joe-starkey-only-the-delusional-believe-steelers-qb-aaron-rodgers-is-done/): TribLive, 2026-10-19 13:45 UTC
-- [Steelers Takeaways: Second-half comeback saves Pittsburgh in overtime win over Buccaneers](https://www.steelcityunderground.com/2026/10/19/steelers-takeaways-second-half-comeback-saves-pittsburgh-in-overtime-win-over-buccaneers/): Steel City Underground, 2026-10-19 13:14 UTC
 - [Germie Bernard's growing connection with Aaron Rodgers has Steelers buzzing](https://stillcurtain.com/germie-bernard-growing-connection-aaron-rodgers-pittsburgh-steelers-buzzing-01m59441d0x6?utm_source=RSS): Still Curtain, 2026-10-19 13:00 UTC
 - [Violence and unrest intensify in Paris, other parts of France ahead of upcoming Steelers-Saints game](https://www.cbsnews.com/pittsburgh/news/violence-unrest-intensified-paris-pittsburgh-steelers-new-orleans-saints-game/): CBS News, 2026-10-19 12:40 UTC
 - [Saunders’ Steelers Takeaways: Mike McCarthy Was Supposed to be Better Than This, But Give Credit Where It’s Due](https://steelersnow.com/saunders-steelers-takeaways-mike-mccarthy-was-supposed-to-be-better-than-this-but-give-credit-where-its-due/): Steelers Now, 2026-10-19 12:05 UTC
 - [Steelers vs. Buccaneers: What they’re saying in Tampa Bay after loss](https://triblive.com/sports/steelers-vs-buccaneers-what-theyre-saying-in-tampa-bay-after-loss/): TribLive, 2026-10-19 12:00 UTC
 - [Former Steelers Joey Porter Jr. and George Pickens aren't changing things in Dallas](https://stillcurtain.com/former-steelers-joey-porter-jr-and-george-pickens-aren-t-changing-things-in-dallas-01m596xmkand?utm_source=RSS): Still Curtain, 2026-10-19 12:00 UTC
-- [Plays of the Game: Jamel Dean’s interception sets up Steelers’ late lead](https://www.steelcityunderground.com/2026/10/19/plays-of-the-game-jamel-deans-interception-sets-up-steelers-late-lead/): Steel City Underground, 2026-10-19 11:40 UTC
 - [Steelers get last laugh in Joey Porter Jr. drama with Cowboys](https://steelerswire.usatoday.com/story/sports/nfl/steelers/2026/10/19/steelers-joey-porter-jr-trade-cowboys-nfl-news-update/92325305007/): Steelers Wire, 2026-10-19 10:16 UTC
 - [‘He’s accepted the challenge’: Germie Bernard rewards Steelers’ faith in rookie wide receiver](https://triblive.com/sports/hes-accepted-the-challenge-germie-bernard-rewards-steelers-faith-in-rookie-wide-receiver/): TribLive, 2026-10-19 10:01 UTC
 - [Steelers fans have fresh Aaron Rodgers concerns despite comeback win](https://stillcurtain.com/pittsburgh-steelers-fans-have-fresh-aaron-rodgers-concerns-despite-comeback-win-01m58h04pa3e?utm_source=RSS): Still Curtain, 2026-10-19 10:00 UTC
@@ -146,13 +144,15 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [NFL spread, straight-up picks: Rams, Chiefs, Colts top Week 6 confidence rankings](https://www.nytimes.com/athletic/7689979/2026/10/18/nfl-spread-straight-up-picks-confidence-rankings-week-6/): The Athletic, 2026-10-18 14:00 UTC
 - [Steelers Get Good News on Pat Freiermuth for Bucs Game](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-good-news-pat-freiermuth-bucs-game): All Steelers (Sports Illustrated), 2026-10-18 12:01 UTC
 - [Steelers Get Offensive Boost Before Bucs Game](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-offensive-boost-bucs-game-rico-dowdle): All Steelers (Sports Illustrated), 2026-10-18 11:25 UTC
-- [SCU Week in Review – October 18th](https://www.steelcityunderground.com/2026/10/18/scu-week-in-review-october-18th-2/): Steel City Underground, 2026-10-18 11:10 UTC
 - [Steelers' tight end duo could counter costly WR injuries vs. Buccaneers](https://stillcurtain.com/pittsburgh-steelers-tight-end-duo-could-counter-costly-wr-injuries-vs-buccaneers-01m534w1agdq?utm_source=RSS): Still Curtain, 2026-10-18 11:00 UTC
 - [How to watch today's Pittsburgh Steelers vs. Tampa Bay Buccaneers game in Week 6 of the NFL schedule](https://www.cbsnews.com/pittsburgh/news/how-to-watch-today-pittsburgh-steelers-tampa-bay-buccaneers-week-6-nfl-schedule/): CBS News, 2026-10-18 11:00 UTC
 - [Asked and Answered: Oct. 18](https://www.steelers.com/news/asked-and-answered-oct-18-x5033): Steelers.com (official), 2026-10-18 10:05 UTC
 - [Steelers-Buccaneers scouting report: The offensive line has its hands full in the run game](https://www.post-gazette.com/sports/steelers/2026/10/18/steelers-bucs-scouting-report/stories/202610180046): Pittsburgh Post-Gazette, 2026-10-18 10:00 UTC
 - [Gerry Dulac’s 2026 NFL predictions: Week 6](https://www.post-gazette.com/sports/steelers/2026/10/18/nfl-picks-week-6/stories/202610150037): Pittsburgh Post-Gazette, 2026-10-18 08:00 UTC
 - [Former Super Bowl champ, Pittsburgh Steelers player arrested on domestic assault charge](https://katu.com/news/nation-world/former-nfl-super-bowl-champ-pittsburgh-steelers-cordarrelle-patterson-arrested-domestic-assault-charge-tennessee): KATU, 2026-10-18 07:00 UTC
+- [The Pittsburgh Steelers’ ‘diva whisperer’ secretly earned a doctorate while coaching NFL stars](https://www.nytimes.com/athletic/7691693/2026/10/16/adam-henry-pittsburgh-steelers-receivers-coach/): The New York Times, 2026-10-18 07:00 UTC
+- [‘I feel it coming for sure’: Steelers’ Kaden Wetjen predicts special teams surge](https://triblive.com/sports/i-feel-it-coming-for-sure-steelers-kaden-wetjen-predicts-special-teams-surge/): TribLive, 2026-10-18 02:24 UTC
+- [Pittsburgh Steelers lose speedy wide receiver, add two more unheralded names](https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-lose-speedy-wide-receiver-add-two-more-unheralded-names.html): PennLive (Nick Farabaugh), 2026-10-18 01:39 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
