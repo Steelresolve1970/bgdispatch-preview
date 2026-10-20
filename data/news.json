@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T01:22:56.614553+00:00",
+ "generated": "2026-10-20T01:34:04.245376+00:00",
  "count": 150,
  "sources": [
   {
@@ -72,7 +72,7 @@
    "source": "Yahoo Sports",
    "url": "https://sports.yahoo.com/nfl/rss/",
    "status": "ok",
-   "steelers_items": 1
+   "steelers_items": 2
   },
   {
    "source": "Google News",
@@ -102,7 +102,7 @@
    "source": "ProFootballTalk (NBC)",
    "url": "https://profootballtalk.nbcsports.com/feed/",
    "status": "ok",
-   "steelers_items": 0
+   "steelers_items": 1
   }
  ],
  "items": [
@@ -113,6 +113,14 @@
    "published": "2026-10-20T01:21:19+00:00",
    "summary": "News story from Steelers Now. Full report at the original publisher.",
    "id": "2e2fd97935"
+  },
+  {
+   "title": "Steelers to sign WR Marquez Valdes-Scantling to practice squad",
+   "source": "Yahoo Sports",
+   "link": "https://sports.yahoo.com/articles/steelers-sign-wr-marquez-valdes-012014351.html",
+   "published": "2026-10-20T01:20:14+00:00",
+   "summary": "Injury story from Yahoo Sports. Full report at the original publisher.",
+   "id": "645b740317"
   },
   {
    "title": "Grading the signing: Pittsburgh Steelers bring back a familiar face to help the wide receiver room amid multiple injuries",
@@ -334,13 +342,13 @@
    "id": "1764c213ad"
   },
   {
-   "title": "NFL: Steelers-Saints game in Paris still on despite civil unrest",
-   "source": "WJAC",
-   "link": "https://wjactv.com/sports/steelers/nfl-steelers-saints-game-in-paris-still-on-despite-civil-unrest-france-pittsburgh-new-orleans-football-sports",
-   "published": "2026-10-19T20:41:30+00:00",
+   "title": "Steelers 'excited' for NFL Paris game vs Saints despite spate of disruptive protests",
+   "source": "USA Today",
+   "link": "https://www.usatoday.com/story/sports/nfl/steelers/2026/10/19/steelers-mike-mccarthy-nfl-paris-game-protests/92334947007/",
+   "published": "2026-10-19T20:43:00+00:00",
    "via": "Google News",
-   "summary": "Game story from WJAC. Full report at the original publisher.",
-   "id": "160502b8f6"
+   "summary": "Game story from USA Today. Full report at the original publisher.",
+   "id": "97c1d15d30"
   },
   {
    "title": "McCarthy Reveals Steelers\u2019 Travel Plan for Paris",
@@ -622,15 +630,6 @@
    "id": "b695de4beb"
   },
   {
-   "title": "Todd Bowles on Baker Mayfield\u2019s Timeline to Return | Press Conference",
-   "source": "Tampa Bay Buccaneers",
-   "link": "https://www.buccaneers.com/video/todd-bowles-on-baker-mayfield-timeline-to-return-press-conference",
-   "published": "2026-10-19T17:00:14+00:00",
-   "via": "Google News",
-   "summary": "News story from Tampa Bay Buccaneers. Full report at the original publisher.",
-   "id": "b2f6b6a166"
-  },
-  {
    "title": "Steelers Safety Jaquan Brisker Speaks On Playing In Paris Amid Civil Unrest",
    "source": "SteelerNation",
    "link": "https://www.steelernation.com/2026/10/19/steelers-safety-jaquan-brisker-paris",
@@ -687,15 +686,6 @@
    "published": "2026-10-19T16:00:02+00:00",
    "summary": "Game story from Still Curtain. Full report at the original publisher.",
    "id": "50609f1d4f"
-  },
-  {
-   "title": "Pittsburgh Steelers could face a challenge in Paris that has nothing to do with the game against the New Orleans Saints",
-   "source": "A to Z Sports",
-   "link": "https://atozsports.com/nfl/pittsburgh-steelers-news/steelers-facing-travel-dangers-vs-saints-paris-france-protest-unrest/",
-   "published": "2026-10-19T16:00:00+00:00",
-   "via": "Google News",
-   "summary": "Game story from A to Z Sports. Full report at the original publisher.",
-   "id": "f35a2cd8fc"
   },
   {
    "title": "Where Steelers Stand in AFC North After Huge Comeback Win",
@@ -958,6 +948,15 @@
    "id": "55865748c7"
   },
   {
+   "title": "Aaron Rodgers reacts to Steelers' overtime win against Buccaneers in Week 6",
+   "source": "NFL.com",
+   "link": "https://www.nfl.com/videos/aaron-rodgers-reacts-to-steelers-overtime-win-against-buccaneers-in-week-6",
+   "published": "2026-10-19T01:09:34+00:00",
+   "via": "Google News",
+   "summary": "Game story from NFL.com. Full report at the original publisher.",
+   "id": "d764d90864"
+  },
+  {
    "title": "From the Press Room: Steelers at Buccaneers",
    "source": "Steelers.com (official)",
    "link": "https://www.steelers.com/news/from-the-press-room-steelers-at-buccaneers",
@@ -1053,6 +1052,15 @@
    "published": "2026-10-18T21:57:38+00:00",
    "summary": "News story from TribLive. Full report at the original publisher.",
    "id": "b1c16aee13"
+  },
+  {
+   "title": "Steelers vs. Bucs Full Game Highlights | Tampa Bay Falls 26-19 (OT)",
+   "source": "Tampa Bay Buccaneers",
+   "link": "https://www.buccaneers.com/video/full-game-highlights-steelers-bucs-loss-score-26-19-week-6",
+   "published": "2026-10-18T21:47:12+00:00",
+   "via": "Google News",
+   "summary": "Game story from Tampa Bay Buccaneers. Full report at the original publisher.",
+   "id": "755dae39d0"
   },
   {
    "title": "7 winners (and 4 losers) from Steelers' dramatic Week 6 comeback over Tampa Bay",
@@ -1319,21 +1327,13 @@
    "id": "ab037c8d3c"
   },
   {
-   "title": "Gerry Dulac\u2019s 2026 NFL predictions: Week 6",
-   "source": "Pittsburgh Post-Gazette",
-   "link": "https://www.post-gazette.com/sports/steelers/2026/10/18/nfl-picks-week-6/stories/202610150037",
-   "published": "2026-10-18T08:00:00+00:00",
-   "summary": "News story from Pittsburgh Post-Gazette. Full report at the original publisher.",
-   "id": "1c38ff48aa"
-  },
-  {
-   "title": "Former Super Bowl champ, Pittsburgh Steelers player arrested on domestic assault charge",
-   "source": "KATU",
-   "link": "https://katu.com/news/nation-world/former-nfl-super-bowl-champ-pittsburgh-steelers-cordarrelle-patterson-arrested-domestic-assault-charge-tennessee",
-   "published": "2026-10-18T07:00:00+00:00",
+   "title": "Ex-Steelers WR Gets Cut as Pittsburgh\u2019s Need at Wideout Grows",
+   "source": "Heavy.com",
+   "link": "https://heavy.com/sports/nfl/pittsburgh-steelers/marquez-valdes-scantling-chargers-release-nfl-news/",
+   "published": "2026-10-18T09:25:51+00:00",
    "via": "Google News",
-   "summary": "News story from KATU. Full report at the original publisher.",
-   "id": "ac7422fe9f"
+   "summary": "Trade/roster move story from Heavy.com. Full report at the original publisher.",
+   "id": "ebd2e02f52"
   }
  ],
  "dropped_bad_links": 0

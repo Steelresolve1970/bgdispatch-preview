@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-20T01:23:49+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T01:23:33+00:00._
+_Generated 2026-10-20T01:35:03+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T01:34:48+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [Steelers Depot Youtube Live Stream Q & A Podcast - October 19, 2026](https://megaphone.link/SDP7863802568): The Terrible Podcast (Steelers Depot), 2026-10-20 01:07 UTC
