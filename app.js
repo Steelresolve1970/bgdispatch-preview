@@ -39,7 +39,7 @@ const D={};
 /* One tap to the source (owner, Oct 20 2026): headline and link open the original article in a new tab; our own-words summary stays on the card. #/story/<id> still works for old shared links. */
 const card=n=>{const id=n.id||storyIdFromLink(n.link);const href=n.link?esc(n.link):(id?`#/story/${encodeURIComponent(id)}`:'#/'),x=n.link?' '+ext:'';
  return `<article class="card" data-story="${esc(id)}"><p class="meta"><b>${esc(n.source)}</b> · <time datetime="${esc(n.published)}">${ago(n.published)}</time></p>
- <h3><a class="hl" href="${href}"${x}>${esc(n.title)}</a></h3>${n.summary?`<p>${esc(n.summary)}</p>`:''}<a href="${href}"${x}>Read at ${esc(n.source)} →</a></article>`;};
+ <h3><a class="hl" href="${href}"${x}>${esc(n.title)}</a></h3>${n.summary?`<p>${esc(n.summary)}</p>`:''}<a href="${href}"${x}>Read at ${esc(n.source)}</a></article>`;};
 const tile=(e,kind,who,cta)=>`<article class="pod"><p class="kind">${kind}</p><p class="meta"><b>${esc(who)}</b> · ${ago(e.published)}</p><h3><a class="hl" href="${esc(e.link)}" ${ext}>${esc(e.title)}</a></h3>${e.summary?`<p>${esc(e.summary)}</p>`:''}<a href="${esc(e.link)}" ${ext}>${cta} at source →</a></article>`;
 const empty=t=>`<p class="empty">${t}</p>`;
 
@@ -51,7 +51,7 @@ let rumorTag=null;
 
 function renderNews(){const n=D.news;if(!n||!n.items.length)return;const items=n.items,f=items[0];
  {const fid=f.id||storyIdFromLink(f.link);const fhref=f.link?esc(f.link):(fid?`#/story/${encodeURIComponent(fid)}`:'#/'),fx=f.link?' '+ext:'';
- $('featured').querySelector('.featured-body').innerHTML=`<span class="tag">Top Story</span><h1><a class="hl" href="${fhref}"${fx}>${esc(f.title)}</a></h1>${f.summary?`<p>${esc(f.summary)}</p>`:''}<p class="meta">${esc(f.source)} · ${ago(f.published)} · <a href="${fhref}"${fx}>Read at ${esc(f.source)} →</a></p>`;}
+ $('featured').querySelector('.featured-body').innerHTML=`<span class="tag">Top Story</span><h1><a class="hl" href="${fhref}"${fx}>${esc(f.title)}</a></h1>${f.summary?`<p>${esc(f.summary)}</p>`:''}<p class="meta">${esc(f.source)} · ${ago(f.published)} · <a href="${fhref}"${fx}>Read at ${esc(f.source)}</a></p>`;}
  $('cards').innerHTML=items.slice(1,17).map(card).join('');
  $('updated').textContent=`${n.count} headlines from ${n.sources.filter(s=>s.status==='ok').length} sources · updated ${ago(n.generated)}`;
  const chips=$('rumor-chips'), cards=$('rumor-cards');

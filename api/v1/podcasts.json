@@ -2,8 +2,8 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-20T15:59:10+00:00",
- "data_updated": "2026-10-20T15:58:53+00:00",
+ "generated": "2026-10-20T16:10:03+00:00",
+ "data_updated": "2026-10-20T16:09:46+00:00",
  "count": 131,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
@@ -20,6 +20,19 @@
  "html": "https://blackandgolddispatch.com/#/podcasts",
  "items": [
   {
+   "id": "7c69a125952c430c",
+   "type": "video",
+   "title": "Just having Tom Brady was enough for them to think they had a chance 😮‍💨🔥#patriots #tombrady",
+   "show": "Not Just Football with Cam Heyward",
+   "url": "https://www.youtube.com/shorts/YF0Yc1KkCzA",
+   "published": "2026-10-20T16:00:08+00:00",
+   "summary": "Video from Not Just Football with Cam Heyward.",
+   "source": {
+    "name": "Not Just Football with Cam Heyward",
+    "url": null
+   }
+  },
+  {
    "id": "1aedde4957bc4401",
    "type": "podcast_episode",
    "title": "G'Day Steelers Nation: It was a Steelers win, but OT was avoidable",
@@ -29,6 +42,19 @@
    "summary": "Podcast episode from Steel Curtain Network (BTSC).",
    "source": {
     "name": "Steel Curtain Network (BTSC)",
+    "url": null
+   }
+  },
+  {
+   "id": "bdef180e9ac81daa",
+   "type": "podcast_episode",
+   "title": "Hour 1: All Around Contributions from the Steelers",
+   "show": "Steelers Blitz",
+   "url": "https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-102026-mp3",
+   "published": "2026-10-20T15:00:00+00:00",
+   "summary": "Podcast episode from Steelers Blitz.",
+   "source": {
+    "name": "Steelers Blitz",
     "url": null
    }
   },
@@ -1693,32 +1719,6 @@
    "summary": "Video from Locked On Steelers.",
    "source": {
     "name": "Locked On Steelers",
-    "url": null
-   }
-  },
-  {
-   "id": "02ca1db1b2ce2181",
-   "type": "video",
-   "title": "Not many number 1 receivers would be willing to block like DK Metcalf is 🔥👏#dkmetcalf #steelers",
-   "show": "Not Just Football with Cam Heyward",
-   "url": "https://www.youtube.com/shorts/Q-zad-ffG3c",
-   "published": "2026-10-15T16:00:14+00:00",
-   "summary": "Video from Not Just Football with Cam Heyward.",
-   "source": {
-    "name": "Not Just Football with Cam Heyward",
-    "url": null
-   }
-  },
-  {
-   "id": "5cbb1343e3bf21fe",
-   "type": "podcast_episode",
-   "title": "Hour 1: Deep Dive into Buccaneers",
-   "show": "Steelers Blitz",
-   "url": "https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-101526-mp3",
-   "published": "2026-10-15T16:00:00+00:00",
-   "summary": "Podcast episode from Steelers Blitz.",
-   "source": {
-    "name": "Steelers Blitz",
     "url": null
    }
   }

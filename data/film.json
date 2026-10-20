@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T15:58:44.033171+00:00",
+ "generated": "2026-10-20T16:09:37.259394+00:00",
  "game": {
   "label": "at Tampa Bay Buccaneers (Oct 18)",
   "opponent": "Tampa Bay Buccaneers",
@@ -25,7 +25,7 @@
    "url": "https://steelersdepot.com/author/alex-kozora/feed/",
    "status": "ok",
    "feed_items": 20,
-   "in_window": 1
+   "in_window": 2
   },
   {
    "creator": "Still Curtain (Tommy Jaggi All-22)",
@@ -161,7 +161,7 @@
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNsZFFKPF0bp85qzvJ8knbQ",
    "status": "ok",
    "feed_items": 15,
-   "in_window": 0
+   "in_window": 1
   },
   {
    "creator": "Steelers Depot (YouTube)",
@@ -213,6 +213,22 @@
   }
  ],
  "items": [
+  {
+   "title": "Film Room: Jamel Dean SAVES Steelers in Tampa Homecoming",
+   "creator": "Derrick Bell \u2013 DB's Film Room (Steelers Now)",
+   "link": "https://www.youtube.com/watch?v=e6yzGC2yM94",
+   "published": "2026-10-20T16:00:29+00:00",
+   "summary": "Film breakdown by Derrick Bell \u2013 DB's Film Room (Steelers Now) of at Tampa Bay Buccaneers (Oct 18).",
+   "game": "at Tampa Bay Buccaneers (Oct 18)"
+  },
+  {
+   "title": "Film Room: An Absurdly Good Rep From Darnell Washington (That\u2019s Easy To Miss)",
+   "creator": "Alex Kozora (Steelers Depot)",
+   "link": "https://steelersdepot.com/2026/10/film-room-an-absurdly-good-rep-from-darnell-washington-thats-easy-to-miss/",
+   "published": "2026-10-20T16:00:22+00:00",
+   "summary": "Film breakdown by Alex Kozora (Steelers Depot) of at Tampa Bay Buccaneers (Oct 18).",
+   "game": "at Tampa Bay Buccaneers (Oct 18)"
+  },
   {
    "title": "Steelers' DL Grades vs Bucs",
    "creator": "Steelers Almighty",
@@ -326,8 +342,26 @@
    "week": "Week 6",
    "opponent": "Tampa Bay Buccaneers",
    "kickoff": "2026-10-18T17:00:00+00:00",
-   "count": 12,
+   "count": 14,
    "items": [
+    {
+     "title": "Film Room: Jamel Dean SAVES Steelers in Tampa Homecoming",
+     "creator": "Derrick Bell \u2013 DB's Film Room (Steelers Now)",
+     "link": "https://www.youtube.com/watch?v=e6yzGC2yM94",
+     "published": "2026-10-20T16:00:29+00:00",
+     "gid": "2026_06_PIT_TB",
+     "source": "rss",
+     "summary": "Film breakdown by Derrick Bell \u2013 DB's Film Room (Steelers Now) of Week 6 at Buccaneers (W 26-19)."
+    },
+    {
+     "title": "Film Room: An Absurdly Good Rep From Darnell Washington (That\u2019s Easy To Miss)",
+     "creator": "Alex Kozora (Steelers Depot)",
+     "link": "https://steelersdepot.com/2026/10/film-room-an-absurdly-good-rep-from-darnell-washington-thats-easy-to-miss/",
+     "published": "2026-10-20T16:00:22+00:00",
+     "gid": "2026_06_PIT_TB",
+     "source": "rss",
+     "summary": "Film breakdown by Alex Kozora (Steelers Depot) of Week 6 at Buccaneers (W 26-19)."
+    },
     {
      "title": "Steelers' DL Grades vs Bucs",
      "creator": "Steelers Almighty",
@@ -756,5 +790,5 @@
    ]
   }
  ],
- "count": 13
+ "count": 15
 }

@@ -1,8 +1,10 @@
 # Steelers Film Room & Previews
 
-_Generated 2026-10-20T15:59:10+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T15:58:44+00:00._
+_Generated 2026-10-20T16:10:03+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T16:09:37+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/film.json_
 
+- Breakdown (at Tampa Bay Buccaneers (Oct 18)): [Film Room: Jamel Dean SAVES Steelers in Tampa Homecoming](https://www.youtube.com/watch?v=e6yzGC2yM94): Derrick Bell – DB's Film Room (Steelers Now), 2026-10-20 16:00 UTC
+- Breakdown (at Tampa Bay Buccaneers (Oct 18)): [Film Room: An Absurdly Good Rep From Darnell Washington (That’s Easy To Miss)](https://steelersdepot.com/2026/10/film-room-an-absurdly-good-rep-from-darnell-washington-thats-easy-to-miss/): Alex Kozora (Steelers Depot), 2026-10-20 16:00 UTC
 - Breakdown (at Tampa Bay Buccaneers (Oct 18)): [Steelers' DL Grades vs Bucs](https://www.youtube.com/shorts/WgQOVchjdTg): Steelers Almighty, 2026-10-20 15:33 UTC
 - Breakdown (at Tampa Bay Buccaneers (Oct 18)): [Stars & Skulls Grades for Steelers-Buccaneers | Locked On](https://steelersnow.com/stars-skulls-grades-for-steelers-buccaneers-locked-on/): Steelers Now, 2026-10-20 14:30 UTC
 - Breakdown (at Tampa Bay Buccaneers (Oct 18)): [Pittsburgh Steelers 2026 Schedule, Week-By-Week Analysis](https://steelersnow.com/pittsburgh-steelers-2026-schedule/): Steelers Now, 2026-10-20 14:27 UTC

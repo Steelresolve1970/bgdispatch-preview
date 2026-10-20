@@ -1,9 +1,11 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-20T15:59:10+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T15:58:53+00:00._
+_Generated 2026-10-20T16:10:03+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T16:09:46+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Video: [Just having Tom Brady was enough for them to think they had a chance 😮‍💨🔥#patriots #tombrady](https://www.youtube.com/shorts/YF0Yc1KkCzA): Not Just Football with Cam Heyward, 2026-10-20 16:00 UTC
 - Podcast: [G'Day Steelers Nation: It was a Steelers win, but OT was avoidable](https://podcasts.apple.com/us/podcast/gday-steelers-nation-it-was-a-steelers-win-but-ot/id905962218?i=1000797281766): Steel Curtain Network (BTSC), 2026-10-20 15:30 UTC
+- Podcast: [Hour 1: All Around Contributions from the Steelers](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-102026-mp3): Steelers Blitz, 2026-10-20 15:00 UTC
 - Podcast: [Do Steelers Have Next Rookie of the Year?](https://podcasts.apple.com/us/podcast/do-steelers-have-next-rookie-of-the-year/id1627248534?i=1000797276743): All Steelers Talk, 2026-10-20 15:00 UTC
 - Video: [Steelers Nation runs deep](https://www.youtube.com/shorts/OaRNvHbX6UA): Pittsburgh Steelers (official), 2026-10-20 14:57 UTC
 - Video: [Why Did Steelers Sign MVS? | Steelers Morning Rush](https://www.youtube.com/watch?v=Y1a4toUay64): Steelers Now, 2026-10-20 14:10 UTC
@@ -132,8 +134,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [The Depot Dive - Episode 118 - October 15, 2026](https://podcasts.apple.com/us/podcast/the-depot-dive-episode-118-october-15-2026/id405990739?i=1000796537397): The Terrible Podcast (Steelers Depot), 2026-10-15 19:15 UTC
 - Video: [Can the Steelers keep rolling with a depleted offense?](https://www.youtube.com/watch?v=5chTykeJwJk): Steel City Underground, 2026-10-15 19:05 UTC
 - Video: [The Steelers vs Bucs Matchup Comes Down to Who Controls the Run Game 😤 #steelers #Bucs #nfl](https://www.youtube.com/shorts/BW13C2GCr5g): Locked On Steelers, 2026-10-15 16:49 UTC
-- Video: [Not many number 1 receivers would be willing to block like DK Metcalf is 🔥👏#dkmetcalf #steelers](https://www.youtube.com/shorts/Q-zad-ffG3c): Not Just Football with Cam Heyward, 2026-10-15 16:00 UTC
-- Podcast: [Hour 1: Deep Dive into Buccaneers](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-101526-mp3): Steelers Blitz, 2026-10-15 16:00 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
