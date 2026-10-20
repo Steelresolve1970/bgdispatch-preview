@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T06:43:03.980521+00:00",
+ "generated": "2026-10-20T06:54:33.574020+00:00",
  "game": {
   "label": "at New Orleans Saints (Oct 25)",
   "opponent": "New Orleans Saints",
@@ -87,15 +87,15 @@
    "creator": "Cover 1",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UClL6eJS1s8xmRoYRQbYgxQQ",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
    "creator": "Alex & the NFL",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsGr04a3SDjhPhsAe4xj4YQ",
-   "status": "error: HTTP Error 500: Internal Server Error",
+   "status": "error: HTTP Error 404: Not Found",
    "feed_items": 0,
    "in_window": 0
   },
@@ -119,8 +119,8 @@
    "creator": "Steel City Underground",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDcNNAMkYr-DzH6_XL-0p8Q",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
@@ -159,8 +159,8 @@
    "creator": "Derrick Bell \u2013 DB's Film Room (Steelers Now)",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNsZFFKPF0bp85qzvJ8knbQ",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {

@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-20T06:44:17+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T06:44:02+00:00._
+_Generated 2026-10-20T06:55:58+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T06:55:43+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [Scout’s Eye with Matt Williamson: That's winning defense](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/scouts-eye-with-matt-williamson-thats-winning-defense/): DK Pittsburgh Sports, 2026-10-20 06:02 UTC

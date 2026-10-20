@@ -99,6 +99,15 @@ const podDays=(list,f,cls)=>{const g={};list.forEach(e=>{const k=new Date(e.publ
  const day=k=>new Date(k+'T12:00:00').toLocaleDateString('en-US',{weekday:'long',month:'short',day:'numeric'});
  return Object.keys(g).sort().reverse().map(k=>{const d=g[k].slice().sort((a,b)=>(f.has(podSlug(b.show))-f.has(podSlug(a.show)))||b.published.localeCompare(a.published)); /* followed shows first within the day */
   return `<h2 class="section-title pod-day${cls?' '+cls:''}">${day(k)} <small>${d.length}</small></h2><div class="pods">${d.map(e=>podTile(e,f)).join('')}</div>`;}).join('');};
+let podChipsOpen=false; /* show chips: 2 rows by default; 'All N shows' opens the rest (kept while on the page) */
+function podChipsFit(){const c=$('pf-chips'),b=document.querySelector('#pods-filter .pf-more');if(!c||!b||!c.offsetHeight)return;
+ c.classList.remove('open');const over=c.scrollHeight>c.clientHeight+2,cur=c.querySelector('.pf-chip.cur');
+ if(cur&&cur.offsetTop+cur.offsetHeight>c.offsetTop+c.clientHeight+2&&!podChipsOpen)podChipsOpen=true; /* selected show sits in a hidden row: open the list */
+ c.classList.toggle('open',podChipsOpen);b.hidden=!over;b.setAttribute('aria-expanded',podChipsOpen);b.textContent=podChipsOpen?'Fewer shows':`All ${c.children.length} shows`;}
+document.addEventListener('click',e=>{const b=e.target.closest&&e.target.closest('#pods-filter .pf-more');if(!b)return;e.preventDefault();podChipsOpen=!podChipsOpen;podChipsFit();});
+document.addEventListener('focusin',e=>{const c=e.target.closest&&e.target.closest('#pf-chips .pf-chip');if(c&&!podChipsOpen){const w=$('pf-chips');if(c.offsetTop+c.offsetHeight>w.offsetTop+w.clientHeight+2){podChipsOpen=true;podChipsFit();}}});
+{let t;addEventListener('resize',()=>{clearTimeout(t);t=setTimeout(podChipsFit,150);});}
+document.addEventListener('route',e=>{if(e.detail==='podcasts')setTimeout(podChipsFit,0);});
 function renderPods(){const p=D.pods;if(!p)return;const cut=Date.now()-3*864e5,POD_MIN=6,f=podFollows();
  const D3=p.display_days||2,DK=p.days||5,dk=t=>new Date(t).toLocaleDateString('en-CA',ET),k3=dk(Date.now()-(D3-1)*864e5),k5=dk(Date.now()-(DK-1)*864e5); /* data keeps 5 days; default view = today + yesterday (US Eastern calendar days), so day headings are whole days */
  const all=(p.items||[]).filter(e=>e&&e.published).sort((a,b)=>b.published.localeCompare(a.published));let it=all.filter(e=>dk(e.published)>=k3);if(it.length<POD_MIN)it=all.slice(0,Math.max(POD_MIN,it.length)); /* 3-day default; slow-week fallback: newest ~6 so it's never empty */
@@ -119,11 +128,16 @@ function renderPods(){const p=D.pods;if(!p)return;const cut=Date.now()-3*864e5,P
  if($('pods-pg'))$('pods-pg').innerHTML=pgBox(pgItems,3,'pg-home');
  if($('pods')){const h=it.slice(0,pg?3:6);$('pods').innerHTML=h.length?podDays(h,f,'pod-day-home'):empty('No new episodes this week');}
  /* filter bar */
- const fb=$('pods-filter');if(fb){const btn=(s,label,n,star)=>`<span class="pf-item${sel===s?' cur':''}"><a class="pf-btn" href="#/podcasts${s?'?show='+esc(s):''}" data-pf="${esc(s)}"${sel===s?' aria-current="true"':''}>${esc(label)}${n!=null?` <small>${n}</small>`:''}</a>${star?podStar(s,label,f):''}</span>`;
-  const nf=full.concat(pgItems).filter(e=>f.has(podSlug(e.show))).length;
-  fb.innerHTML=`<div class="pf-row" role="group" aria-label="Filter by show">${btn('','All shows',it.length+pgItems.length)}${btn('following','★ Following',nf)}${shows.map(s=>btn(s,nm[s],cnt[s],true)).join('')}</div>`+
+ /* filter bar (polished): All shows | Following segmented toggle, then quiet show chips (followed first, then A to Z), 2 rows with an 'All N shows' toggle */
+ const fb=$('pods-filter');if(fb){const nf=full.concat(pgItems).filter(e=>f.has(podSlug(e.show))).length,az=s=>nm[s].replace(/^the\s+/i,'').toLowerCase();
+  const seg=(s,label,n)=>`<a class="pf-seg-btn${sel===s?' cur':''}" href="#/podcasts${s?'?show='+esc(s):''}" data-pf="${esc(s)}"${sel===s?' aria-current="true"':''}>${esc(label)}${n?` <small>${n}</small>`:''}</a>`;
+  const order=shows.slice().sort((a,b)=>(f.has(b)-f.has(a))||az(a).localeCompare(az(b)));
+  const chip=s=>`<a class="pf-chip${sel===s?' cur':''}${f.has(s)?' fol':''}" href="#/podcasts?show=${esc(s)}" data-pf="${esc(s)}"${sel===s?' aria-current="true"':''} title="${esc(nm[s])}">${f.has(s)?'<span class="pf-fol" aria-hidden="true">★</span><span class="sr"> (following) </span>':''}<span class="pf-nm">${esc(nm[s])}</span> <small>${cnt[s]}</small></a>`;
+  fb.innerHTML=`<div class="pf-panel"><div class="pf-seg" role="group" aria-label="View">${seg('','All shows',it.length+pgItems.length)}${seg('following','Following',nf)}</div>`+
+   `<div class="pf-chips${podChipsOpen?' open':''}" id="pf-chips" role="group" aria-label="Filter by show">${order.map(chip).join('')}</div>`+
+   `<button type="button" class="pf-more" aria-controls="pf-chips" aria-expanded="${podChipsOpen}" hidden>${podChipsOpen?'Fewer shows':`All ${order.length} shows`}</button></div>`+
    (sel?`<p class="pf-showing">Showing: <b>${sel==='following'?'Shows you follow':esc(nm[sel])}</b> · <a href="#/podcasts" data-pf="">Clear</a></p>`:'');
-  const cur=fb.querySelector('.pf-item.cur');if(cur&&cur.scrollIntoView){const r=fb.querySelector('.pf-row');if(r)r.scrollLeft=Math.max(0,cur.offsetLeft-r.offsetLeft-16);}}
+  podChipsFit();}
  if($('pods-full-pg'))$('pods-full-pg').innerHTML=pgBox(pgShown,8,'pg-full');
  const root=$('pods-full');root.classList.toggle('pf-filtered',!!sel); /* filtered views: engage/quote/ad cards are hidden by CSS */
  /* All view: grouped by US Eastern day (followed shows first within each day). Single-show / Following views: one newest-first list, date on each card (owner) */
@@ -206,9 +220,10 @@ document.addEventListener('click',e=>{const b=e.target.closest('[data-copy]');if
 });
 
 // hash router
-const TITLES={home:'News',story:'Story',podcasts:'Podcasts & YouTube',film:'Film Room',opponent:'Opponent Preview',roster:'Depth Chart & Roster',game:'Schedule',stats:'Stats',leaders:'League Leaders',heatmap:'Player Grades',drafthub:'Draft',draft:'Mock Draft',college:'College Prospect Tracker',insiders:'Insiders',forum:'Forum',contact:'Contact & Suggestions',live:'Live Hub',injuries:'Injury Tracker',cap:'Cap Center',rumors:'Rumors & Updates',play:"Pick'em & Trivia",history:'Steelers History',alerts:'Alerts & Email',boxscore:'Box Score',notfound:'Page not found'};
+const TITLES={home:'News',story:'Story',podcasts:'Podcasts & YouTube',film:'Film Room',opponent:'Opponent Preview',roster:'Depth Chart & Roster',game:'Schedule',stats:'Stats',leaders:'League Leaders',heatmap:'Player Grades',drafthub:'Draft',draft:'Mock Draft',college:'College Prospect Tracker',insiders:'Insiders',forum:'Forum',contact:'Contact & Suggestions',live:'Live Hub',injuries:'Injury Tracker',cap:'Cap Center',rumors:'Rumors & Updates',play:"Pick'em & Trivia",history:'Steelers History',alerts:'Newsletter Sign-up',boxscore:'Box Score',notfound:'Page not found'};
 function route(){const parts=(location.hash.replace(/^#\/?/,'')||'home').split('?')[0].split('/');const r=parts[0];const alias={newsletter:'alerts',signup:'alerts',grades:'heatmap',rumormeter:'rumors',preview:'opponent',scout:'opponent',scouting:'opponent',schedule:'game'};if(r==='about'){location.replace('legal/about.html');return;}const bad=/^#\//.test(location.hash)&&!!r&&!alias[r]&&!TITLES[r]&&r!=='claim'&&r!=='home';const v=bad?'notfound':alias[r]||(TITLES[r]?r:'home');window.BGD_boxId=r==='boxscore'?decodeURIComponent(parts[1]||''):'';window.BGD_storyId=r==='story'?decodeURIComponent(parts[1]||''):'';window.BGD_leaderKind=r==='leaders'?decodeURIComponent(parts[1]||''):'';window.BGD_leaderStat=r==='leaders'?decodeURIComponent(parts[2]||''):'';
  if(r==='rumormeter'){const qs=(location.hash.split('?')[1]||'');const nh='#/rumors'+(qs?('?'+qs):'?tab=meter');if(location.hash!==nh)history.replaceState(null,'',nh);}
+ if(r==='alerts'){history.replaceState(null,'','#/newsletter');} /* old Alerts & Email address now opens the Newsletter page */
  if(r==='preview'||r==='scout'||r==='scouting'){if(location.hash!=='#/opponent')history.replaceState(null,'','#/opponent');}
  document.querySelectorAll('.view').forEach(e=>e.hidden=e.dataset.view!==v);
  {const ib=document.querySelector('.sidebar .insiders');if(ib)ib.style.display=v==='home'?'':'none';} {const hs=document.querySelector('[aria-labelledby="huddleSide"]');if(hs)hs.style.display=v==='alerts'?'none':'';}
@@ -227,7 +242,7 @@ document.addEventListener('keydown',e=>{if(e.key!=='Enter'&&e.key!==' ')return;c
 document.addEventListener('click',e=>{const m=document.querySelector('.has-more');if(!m)return;const bt=e.target.closest('.more-btn');if(bt){const o=m.classList.toggle('open');bt.setAttribute('aria-expanded',o);if(o)BGD_fitMore();}else if(!e.target.closest('.more')){m.classList.remove('open');m.querySelector('.more-btn')?.setAttribute('aria-expanded','false');}});
 // Keep the More dropdown fully on screen (it can sit near the left edge when the tabs wrap on an iPad).
 window.BGD_fitMore=function(){const u=document.getElementById('moreMenu');if(!u)return;u.style.left='';u.style.right='';const r=u.getBoundingClientRect();if(r.width&&r.left<8){u.style.left='0';u.style.right='auto';}const r2=u.getBoundingClientRect();if(r2.right>innerWidth-8){u.style.left='auto';u.style.right='0';}};
-// #/newsletter opens Alerts & Email and puts the cursor in the email box.
+// #/newsletter opens the Newsletter page and puts the cursor in the email box.
 document.addEventListener('route',e=>{if(e.detail==='alerts'&&/^#\/(newsletter|signup)/.test(location.hash))setTimeout(()=>{const i=document.getElementById('al-em');if(i){i.scrollIntoView({block:'center'});}},250);});
 
 // Per-section Schema.org JSON-LD for crawlers/agents (no visual change): loads jsonld/<route>.json into <head>.

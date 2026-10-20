@@ -68,7 +68,7 @@ async function live(){const el=$('live-body');if(!el)return;let d;try{d=await li
  ${n&&!d.window?`<p class="box">Next: Steelers ${n.home?'vs':'at'} <b>${E(n.opponent)}</b>, ${et(n.date,{weekday:'short',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})} ET${n.tv?' · '+E(n.tv):''}. <a href="#/opponent">Opponent preview →</a></p>`:''}
  <div class="live-grid"><section><h2 class="section-title">Play-by-play</h2><div class="box pbp">${d.plays.length?d.plays.map(p=>`<p class="${p.scoring?'score':''}"><small>${E(p.team||'')} · Q${E(p.q)} ${E(p.clock||'')}</small>${E(p.text)}</p>`).join(''):(d.live_feed===false?'<p class="fine">Live play-by-play is coming soon. For now this hub shows kickoff info and the final score once it posts.</p>':'<p class="fine">Plays appear here once the game starts.</p>')}</div></section>
  <section><h2 class="section-title">Scoring</h2><div class="box">${d.scoring.map(p=>`<p><b>${E(p.team)}</b> Q${E(p.q)} ${E(p.clock)}: ${E(p.text)} <small>(${E(p.away)}-${E(p.home)})</small></p>`).join('')||'<p class="fine">No scoring yet.</p>'}</div>
- <h2 class="section-title">Game chat</h2><div class="box chat"><p class="fine">Live chat opens when member accounts launch. Until then, join the Dispatch Desk's game thread in the <a href="#/forum">forum</a>.</p><textarea disabled placeholder="Chat opens at launch"></textarea></div></section></div>
+ <h2 class="section-title">Game chat</h2><div id="live-chat-slot"></div></section></div>
  <section class="lb-box" id="live-box" aria-live="polite"></section>
  <p class="fine">${E(d.note||'')} Data: nflverse (CC-BY 4.0).</p>`;
  liveBox(d);
@@ -114,7 +114,7 @@ function history(){const d=X.hist,el=$('history-body');if(!d||!el)return;const t
  <div class="box tbl-wrap"><table class="cap"><thead><tr><th>Record</th><th>Mark</th><th>Game</th></tr></thead><tbody>${d.records.map(r=>`<tr><td>${E(r.record)}</td><td><b>${E(r.value)}</b></td><td>${r.game?`<a href="${E(r.game.link)}" ${EXT}>${E(r.game.date)} ${r.game.home?'vs':'at'} ${E(r.game.opp)} ${r.game.pit}-${r.game.opp_pts}</a>`:'—'}</td></tr>`).join('')}</tbody></table></div>
  <p class="fine">Game results: nflverse schedules, CC-BY 4.0 (${E(d.game_range)}); earlier seasons are left out instead of guessed. Milestones and Super Bowls are checked against Wikipedia's text every week; any fact that can't be matched is dropped automatically. Wikipedia-derived facts: Source: Wikipedia, licensed <a href="https://creativecommons.org/licenses/by-sa/4.0/" ${EXT}>CC BY-SA 4.0</a>; wording adapted by Black & Gold Dispatch. Licensed only as described in our free API terms (<a href="llms.txt">llms.txt</a>).</p>`;}
 
-// ---------- Alerts & email ----------
+// ---------- Newsletter page (old Alerts & Email) ----------
 function alerts(){const el=$('alerts-body');if(!el)return;const sw='serviceWorker' in navigator,pn='PushManager' in window;
  el.innerHTML=`<p class="page-sub">The Daily Huddle email sign-up is live. Push alerts are coming soon.</p>
  <div class="alerts-grid"><section class="box"><h2>The Daily Huddle email</h2><p>Every morning: top Steelers news, today's podcasts, the heat-map leader and the next game.</p>

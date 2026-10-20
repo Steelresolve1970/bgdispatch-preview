@@ -77,7 +77,18 @@ const css=`
 .fx-home{display:block;background:#101010;color:#fff;text-decoration:none;border-radius:10px;padding:14px 16px;margin:10px 0;border-left:8px solid #FFB612;font-weight:800}
 .fx-home span{color:#FFB612}
 @media(min-width:800px){.fx-reply{left:50%;transform:translateX(-50%);max-width:820px;border-radius:12px 12px 0 0}}`;
-const st=document.createElement('style');st.textContent=css;document.head.appendChild(st);
+const lcCss=`
+.lc{padding:0;overflow:hidden}.lc-top{display:flex;flex-wrap:wrap;gap:6px 12px;align-items:center;justify-content:space-between;background:#101010;color:#fff;padding:10px 12px}
+.lc-top b{color:#FFB612}.lc-top .fx-tag.gold{display:inline-block;margin:0 6px 0 0}.lc-top a{color:#FFB612;font-weight:800;white-space:nowrap}
+.lc-note{margin:0;padding:6px 12px;font-size:.8rem;color:#555;background:#faf6ea;border-bottom:1px solid #eee}
+.lc-list{max-height:420px;overflow-y:auto;padding:6px 12px;overscroll-behavior:contain}.lc-empty{color:#666;font-size:.9rem;margin:10px 0}
+.lc-m{display:flex;gap:8px;padding:7px 0;border-bottom:1px solid #f0f0f0}.lc-m:last-child{border-bottom:0}.lc-m.hid{opacity:.55}.lc-m .fx-av{width:30px;height:30px}
+.lc-b{min-width:0;flex:1}.lc-h{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 6px}.lc-h b{font-size:.92rem}.lc-h small{color:#777;font-size:.75rem}
+.lc-t{white-space:pre-wrap;overflow-wrap:anywhere;font-size:.95rem;line-height:1.35}.lc-a{font-size:.78rem}.lc-a a,.lc-a .lnk{background:none;border:0;padding:0;margin-right:10px;color:#555;text-decoration:underline;cursor:pointer;font-size:.78rem}
+.lc-form{display:flex;gap:8px;padding:10px 12px;border-top:1px solid #eee;background:#fafafa;align-items:flex-end}.lc-form textarea{flex:1;min-height:44px;max-height:120px;resize:none;font:inherit;padding:10px;border:2px solid #101010;border-radius:10px}
+.lc-gate{padding:12px;border-top:1px solid #eee;background:#fafafa}.lc-gate p{margin:0 0 8px}.lc-gate .fx-btn{margin:0 6px 6px 0}.lc .fx-err{margin:0;padding:0 12px 8px}
+`;
+const st=document.createElement('style');st.textContent=css+lcCss;document.head.appendChild(st);
 
 // ---------- body text: escape, keep line breaks, link URLs ----------
 // Avatars: our own simple black-and-gold art (no logos, no marks, no real people). '' = initials.
@@ -158,12 +169,12 @@ async function listView(el){el.innerHTML=tabs('discuss')+'<p class="empty">Loadi
  const cat=qs('cat');const d=await api('forum/threads'+(cat?'?cat='+encodeURIComponent(cat):''));if(!d.ok){el.innerHTML=tabs('discuss')+`<p class="fx-err">${E(d.error)}</p>`;return;}
  S.cats=d.cats;S.me=d.me;head();const T=d.threads;const pin=T.filter(t=>t.pinned&&(t.kind==='gameday'||t.kind==='postgame'));
  const nq=cat&&cat!=='Game Day'?'?cat='+encodeURIComponent(cat):'';
- el.innerHTML=tabs('discuss')+`<div class="fx-newbar"><a class="fx-btn fx-new" id="fx-newbtn" href="#/forum/new${nq}">+ New Thread</a><span class="fine">${S.me?(cat&&cat!=='Game Day'?'Start a thread in '+E(cat):'Start a conversation'):'Free account needed to post. Reading is open to everyone.'}</span></div>${cat?'':'<div id="fx-fanpost"></div>'}${pin.map(t=>`<a class="fx-gd" href="#/forum/thread/${t.id}">${tag(t.kind==='gameday'?'Game Day':'Post-Game','gold')}<b>${E(t.title)}</b><small>${t.kind==='gameday'?'Live chat · score updates on its own':'Post-game talk + Grade the Team'} · ${t.posts} posts · ${ago(t.last_post)}</small></a>`).join('')}
+ el.innerHTML=tabs('discuss')+`<div id="fx-livebadge"></div><div class="fx-newbar"><a class="fx-btn fx-new" id="fx-newbtn" href="#/forum/new${nq}">+ New Thread</a><span class="fine">${S.me?(cat&&cat!=='Game Day'?'Start a thread in '+E(cat):'Start a conversation'):'Free account needed to post. Reading is open to everyone.'}</span></div>${cat?'':'<div id="fx-fanpost"></div>'}${pin.map(t=>`<a class="fx-gd" href="#/forum/thread/${t.id}">${tag(t.kind==='gameday'?'Game Day':'Post-Game','gold')}<b>${E(t.title)}</b><small>${t.kind==='gameday'?'Live chat · score updates on its own':'Post-game talk + Grade the Team'} · ${t.posts} posts · ${ago(t.last_post)}</small></a>`).join('')}
  <div class="fx-chips" role="group" aria-label="Filter by category"><button type="button" data-cat="" class="${!cat?'on':''}">All</button>${d.cats.map(c=>`<button type="button" data-cat="${E(c)}" class="${cat===c?'on':''}">${E(c)}</button>`).join('')}</div>
  <div class="fx-list">${T.filter(t=>!pin.includes(t)).map(t=>`<a class="fx-th${t.pinned?' pin':''}" href="#/forum/thread/${t.id}"><span class="m"><small>${t.pinned?tag('Pinned')+' ':''}${t.locked?tag('Locked','dim')+' ':''}${t.hidden?tag('Hidden','dim')+' ':''}${E(t.cat)}</small><b>${E(t.title)}</b><small>by ${E(t.author)} ${t.author_role==='bot'?roleTag('bot'):''} · ${ago(t.last_post)}</small></span><span class="n">${t.posts}<br><small>posts</small></span></a>`).join('')||`<p class="fine">No threads yet. <a href="#/forum/new${nq}">Start the first one!</a></p>`}</div>
  <p class="fine" style="margin-top:14px"><a href="legal/community.html">Community guidelines</a> · Be respectful, no spam, 13+ only.</p>`;
  el.querySelectorAll('[data-cat]').forEach(b=>b.onclick=()=>{location.hash='#/forum'+(b.dataset.cat?'?cat='+encodeURIComponent(b.dataset.cat):'');});
- if(!cat)fanPost();}
+ liveBadge();if(!cat)fanPost();}
 // Fan Post of the Week (GET /api/forum/fanpost, cached ~5 min). No winner yet: the box stays empty (no placeholder).
 async function fanPostData(){try{const r=await fetch('/api/forum/fanpost',{credentials:'same-origin'});const d=await r.json();return d&&d.ok?d:null;}catch(e){return null;}}
 async function fanPost(){const box=$('fx-fanpost');if(!box)return;const d=await fanPostData();const p=d&&d.post;if(!p||!box.isConnected)return;
@@ -197,7 +208,7 @@ async function authForm(el,mode){const nxt=qs('next')||sessionStorage.getItem('b
   if(!d.ok){er.textContent=d.error||'Something went wrong.';if(d.field){const i=f.querySelector(`[name=${d.field}]`);i&&i.focus();}return;}
   S.me=d.user;head();goNext();};}
 function goNext(){const n=sessionStorage.getItem('bgd_next')||'';sessionStorage.removeItem('bgd_next');
- location.hash=n==='mock'?'#/forum/new?mock=1':n==='new'?'#/forum/new':n.startsWith('new:')?'#/forum/new?cat='+encodeURIComponent(n.slice(4)):n.startsWith('grade')?'#/forum/'+n.replace(':','/'):n.startsWith('thread')?'#/forum/'+n.replace(':','/'):n==='pickem'||n==='trivia'?'#/forum/'+n:'#/forum';}
+ location.hash=n==='mock'?'#/forum/new?mock=1':n==='new'?'#/forum/new':n.startsWith('new:')?'#/forum/new?cat='+encodeURIComponent(n.slice(4)):n.startsWith('grade')?'#/forum/'+n.replace(':','/'):n.startsWith('thread')?'#/forum/'+n.replace(':','/'):n==='pickem'||n==='trivia'?'#/forum/'+n:n==='live'?'#/live':'#/forum';}
 function needSignIn(next){sessionStorage.setItem('bgd_next',next);location.hash='#/forum/join';}
 
 async function claimView(el,tok){
@@ -261,7 +272,7 @@ async function threadView(el,id){el.innerHTML='<p class="empty">Loading thread�
  S.me=d.me;head();if(d.emoji)S.emoji=d.emoji;const T=S.thread={id,th:d.thread,posts:d.posts,reactions:d.reactions,mine:d.mine};S.last=d.posts.length?d.posts[d.posts.length-1].id:0;
  const th=d.thread,mod=S.me&&(S.me.role==='mod'||S.me.role==='owner');
  el.innerHTML=`<p><a class="back" href="#/forum">← Forum</a></p>${th.game?'<div class="fx-score" id="fx-score"><small>Loading score…</small></div>':''}
- <h2 style="margin:6px 0">${E(th.title)}</h2><p class="fine">${E(th.cat)} · started ${ago(th.created)}${th.locked?' · '+tag('Locked','dim'):''}${th.hidden?' · '+tag('Hidden','dim'):''}</p>
+ <h2 style="margin:6px 0">${E(th.title)}</h2>${th.kind==='gameday'?'<div id="fx-livebadge"></div>':''}<p class="fine">${E(th.cat)} · started ${ago(th.created)}${th.locked?' · '+tag('Locked','dim'):''}${th.hidden?' · '+tag('Hidden','dim'):''}</p>
  ${th.grade?`<a class="fx-gd" href="#/forum/grade/${E(th.game_id)}">${tag('Open','gold')}<b>Grade the Team</b><small>Grade every player who played, plus the coaches. Open for 7 days after the game.</small></a>`:''}
  ${mod?`<p class="fx-rx"><button type="button" class="fx-btn ghost sm tmod" data-a="${th.pinned?'unpin':'pin'}">${th.pinned?'Unpin':'Pin'}</button> <button type="button" class="fx-btn ghost sm tmod" data-a="${th.locked?'unlock':'lock'}">${th.locked?'Unlock':'Lock'}</button> <button type="button" class="fx-btn ghost sm tmod" data-a="${th.hidden?'unhide':'hide'}">${th.hidden?'Unhide thread':'Hide thread'}</button></p>`:''}
  <div class="fx-posts" id="fx-posts">${T.posts.map(p=>postHTML(p,T)).join('')}</div>`;
@@ -280,7 +291,7 @@ async function threadView(el,id){el.innerHTML='<p class="empty">Loading thread�
  const send=$('fx-send');if(send){const ta=$('fx-ta');ta.oninput=()=>{ta.style.height='auto';ta.style.height=Math.min(160,ta.scrollHeight)+'px';};
   send.onclick=async()=>{const v=ta.value.trim();if(!v)return;send.disabled=true;const r=await api(`forum/thread/${id}/posts`,{body:{body:v}});send.disabled=false;
    if(!r.ok){toast(r.error);return;}ta.value='';ta.style.height='';await pull(true);};}
- if(th.game)liveScore(th.game,th.kind);
+ if(th.game)liveScore(th.game,th.kind);if(th.kind==='gameday')liveBadge();
  S.poll=setTimeout(tick,10000);}
 async function tick(){if(!S.thread)return;if(document.visibilityState==='visible')await pull(false);if(S.thread)S.poll=setTimeout(tick,10000);}
 async function pull(mineJustPosted){const T=S.thread;if(!T)return;const was=innerHeight+scrollY>document.documentElement.scrollHeight-260;
@@ -344,13 +355,14 @@ async function gradeView(el,gid){el.innerHTML='<p class="empty">Loading ballot�
 
 // ---------- Game Day tab ----------
 async function gamedayTab(el){el.innerHTML=tabs('gameday')+'<p class="empty">Loading…</p>';let sched=null;try{sched=await getJ('data/schedule.json');}catch(e){}
- const g=S.api?(await api('forum/gameday')).game:null;const nx=sched&&sched.next;
- let h=tabs('gameday');
- if(g){h+=`${g.gameday_thread?`<a class="fx-gd" href="#/forum/thread/${g.gameday_thread}">${g.final?tag('Game Day','gold'):tag('Live','gold')}<b>Game Day Thread: ${E(g.label)}</b><small>${g.final?'Game over · read the live chat':'Live chat · score at the top updates on its own'}</small></a>`:''}
+ const gd=S.api?await api('forum/gameday'):null,g=gd&&gd.game,ch=gd&&gd.chat;const nx=sched&&sched.next;
+ let h=tabs('gameday')+liveCard(ch);
+ if(ch&&(!g||g.gameday_thread!==ch.thread))h+=`<a class="fx-gd" href="#/forum/thread/${ch.thread}">${tag('Game Day','gold')}<b>${E(ch.title)}</b><small>Talk about the game here or in the Live Hub game chat · ${ch.posts} posts</small></a>`;
+ if(g){h+=`${g.gameday_thread?`<a class="fx-gd" href="#/forum/thread/${g.gameday_thread}">${g.final?tag('Game Day','gold'):tag('Live','gold')}<b>Game Day Chat: ${E(g.label)}</b><small>${g.final?'Game over · read the live chat':'Live chat · score at the top updates on its own'}</small></a>`:''}
   ${g.postgame_thread?`<a class="fx-gd" href="#/forum/thread/${g.postgame_thread}">${tag('Post-Game','gold')}<b>Post-Game Thread</b><small>Takeaways and reactions</small></a>`:''}
   ${g.grading_open?`<a class="fx-gd" href="#/forum/grade/${E(g.game_id)}">${tag('Open','gold')}<b>Grade the Team</b><small>Open for 7 days after the final whistle</small></a>`:''}`;}
  if(nx)h+=`<div class="box"><h3 style="margin-top:0">Next game</h3><p><b>Steelers ${nx.home?'vs':'at'} ${E(nx.opponent)}</b><br>${E(nx.week)} · ${E(etTime(nx.date))}${nx.venue?' · '+E(nx.venue):''}</p>
-  <p class="fine">${S.api?'The game-day thread opens on its own the day before kickoff and gets pinned to the top of the forum. The post-game thread and Grade the Team poll open at the final whistle.':'Game-day threads open here when fan accounts go live.'}</p><p><a class="fx-btn ghost sm" href="#/opponent">Opponent preview →</a></p></div>`;
+  <p class="fine">${S.api?'The game-day chat thread opens on its own up to a week before kickoff and gets pinned to the top of the forum. Messages from the Live Hub game chat are saved in it. The post-game thread and Grade the Team poll open at the final whistle.':'Game-day threads open here when fan accounts go live.'}</p><p><a class="fx-btn ghost sm" href="#/opponent">Opponent preview →</a></p></div>`;
  el.innerHTML=h;}
 
 // ---------- Illegal-content hold (mod queue section) + moderator procedure page ----------
@@ -453,7 +465,7 @@ async function boxAvg(){const bb=$('boxscore-body');if(!bb||!S.api)return;let id
 async function homeLink(){const home=document.querySelector('[data-view="home"]');if(!home||!S.api)return;let sched=null;try{sched=await getJ('data/schedule.json');}catch(e){return;}
  const t=Date.now();const near=(sched.games||[]).some(g=>{const k=Date.parse(g.date);return t>k-24*36e5&&t<k+7*864e5;});if(!near)return;
  const d=await api('forum/gameday');const g=d.ok&&d.game;let a=$('fx-home');if(!g){a&&a.remove();return;}
- const html=!g.final&&g.gameday_thread?`${tag('Game Day','gold')} <span>Game Day Thread:</span> ${E(g.label)} · join the live chat →`:g.grading_open?`${tag('Grades open','gold')} <span>Grade the Team:</span> ${E(g.label)} · fans' grades are open →`:'';if(!html){a&&a.remove();return;}
+ const html=!g.final&&g.gameday_thread?`${tag('Game Day','gold')} <span>Game Day Chat:</span> ${E(g.label)} · join the live chat →`:g.grading_open?`${tag('Grades open','gold')} <span>Grade the Team:</span> ${E(g.label)} · fans' grades are open →`:'';if(!html){a&&a.remove();return;}
  if(!a){a=document.createElement('a');a.id='fx-home';a.className='fx-home';home.prepend(a);}a.href=!g.final&&g.gameday_thread?`#/forum/thread/${g.gameday_thread}`:`#/forum/grade/${g.game_id}`;a.innerHTML=html;}
 
 // ---------- mock draft -> forum ----------
@@ -461,13 +473,64 @@ document.addEventListener('click',e=>{const b=e.target.closest('.dr-forum');if(!
  sessionStorage.setItem('bgd_mock',JSON.stringify(m));if(S.api===false){toast('Posting to the forum is almost here: fan sign-in launches soon. Your draft is saved on this device, and once sign-in opens this button will post it to Fan Mock Drafts under your name. For now you can share it with Copy text or Download image.');return;}
  if(!S.me){sessionStorage.setItem('bgd_next','mock');location.hash='#/forum/join';return;}location.hash='#/forum/new?mock=1';});
 
+// ---------- Live Hub game chat ----------
+// The chat IS the forum's game-day thread: same accounts, same posts, same word filter, bans, rate limits and moderator tools.
+// Messages sent here are forum posts in that thread, so the conversation stays in the forum after the game.
+const lcLive=c=>{const k=Date.parse(c.kickoff),t=Date.now();return t>k-36e5&&t<k+6*36e5;};
+function liveCard(c){return c&&lcLive(c)?`<a class="fx-gd" href="#/live">${tag('Live now','gold')}<b>Game on: chat on the Live Hub</b><small>${E(c.label)} · score, play-by-play and the game chat in one place. Messages there are saved in the forum's game-day thread.</small></a>`:'';}
+async function liveBadge(){const box=$('fx-livebadge');if(!box||!S.api)return;const d=await api('forum/gameday');if(box.isConnected)box.innerHTML=liveCard(d.ok&&d.chat);}
+const LC={el:null,tid:0,last:0,timer:null,chat:null,busy:false,st:0,bottom:true,err:''};
+const lcMod=()=>S.me&&(S.me.role==='mod'||S.me.role==='owner');
+function lcAttach(){const slot=$('live-chat-slot');if(!slot)return false;if(!LC.el){LC.el=document.createElement('div');LC.el.id='lc';LC.el.className='box lc';LC.el.innerHTML='<p class="lc-empty" style="padding:0 12px">Loading chat…</p>';}
+ if(LC.el.parentNode!==slot){slot.appendChild(LC.el);const l=LC.el.querySelector('.lc-list');if(l)l.scrollTop=LC.bottom?l.scrollHeight:LC.st;}return true;}
+function lcMsg(p){const mod=lcMod(),mine=S.me&&S.me.id===p.user_id;
+ return `<div class="lc-m${p.hidden?' hid':''}" id="lc${p.id}" data-id="${p.id}">${av(p.av,p.name,p.user_id,p.av_v)}<div class="lc-b"><div class="lc-h"><b>${E(p.name)}</b>${roleTag(p.role)}<small>${ago(p.created)}${p.hidden?' · hidden':''}</small></div><div class="lc-t">${fmtBody(p.body)}</div>${(S.me&&!mine&&p.role!=='bot')||mod?`<div class="lc-a">${S.me&&!mine&&p.role!=='bot'?`<a href="#/forum/thread/${LC.tid}?p=${p.id}">Report in forum</a>`:''}${mod?`<button type="button" class="lnk lcmod" data-a="${p.hidden?'unhide':'hide'}">${p.hidden?'Unhide':'Hide'}</button><button type="button" class="lnk lcmod" data-a="delete">Delete</button>`:''}</div>`:''}</div></div>`;}
+function lcBox(html){if(!lcAttach()&&!LC.el)return;LC.el.innerHTML=html;}
+function lcGate(c){if(!S.me)return `<div class="lc-gate"><p><b>Sign in or join the forum to chat.</b> Reading is open to everyone. One free account works across the whole site.</p><a class="fx-btn sm" href="#/forum/signin" data-lcnext>Sign in</a><a class="fx-btn ghost sm" href="#/forum/join" data-lcnext>Join the forum</a></div>`;
+ if(S.me.banned)return '<div class="lc-gate"><p class="fine">Your account is suspended from posting.</p></div>';
+ if(c.locked&&!lcMod())return '<div class="lc-gate"><p class="fine">This game chat is locked.</p></div>';
+ return `<form class="lc-form" id="lc-form"><label class="sr" for="lc-ta">Chat message</label><textarea id="lc-ta" rows="1" maxlength="2000" placeholder="Chat as ${E(S.me.display_name)}…"></textarea><button class="fx-btn" type="submit" id="lc-send">Send</button></form>`;}
+async function lcLoad(){if(LC.busy)return;LC.busy=true;try{
+ if(S.api===null)await probe();
+ if(!S.api){lcBox('<p class="lc-empty" style="padding:0 12px">Game chat is resting right now. Talk about the game in the <a href="#/forum">forum</a>.</p>');return;}
+ const d=await api('forum/gameday');const c=d.ok&&d.chat,g=d.ok&&d.game;LC.chat=c||null;
+ if(!c){LC.tid=0;const gt=g&&g.gameday_thread,pg=g&&g.postgame_thread;
+  lcBox(`<div class="lc-top"><b>Game chat</b><a href="#/forum/gameday">Game Day forum →</a></div><p class="lc-empty" style="padding:0 12px">The chat for the next game opens up to a week before kickoff.${gt?` <a href="#/forum/thread/${gt}">Read the last game's chat in the forum</a>.`:''}${pg?` <a href="#/forum/thread/${pg}">Post-game thread</a>.`:''}</p>`);return;}
+ const t=await api('forum/thread/'+c.thread);if(!t.ok){lcBox(`<p class="fx-err" style="padding:8px 12px">${E(t.error||'Chat unavailable right now.')}</p>`);return;}
+ S.me=t.me;LC.tid=c.thread;const posts=t.posts.slice(-150);LC.last=t.posts.length?t.posts[t.posts.length-1].id:0;
+ lcBox(`<div class="lc-top"><span>${lcLive(c)?tag('Live now','gold'):''}<b>${E(c.title)}</b></span><a href="#/forum/thread/${c.thread}">Continue in the forum →</a></div>
+  <p class="lc-note">Every message here is also a post in the forum's game-day thread. One account, same <a href="legal/community.html">community guidelines</a>.</p>
+  <div class="lc-list" id="lc-list" aria-live="polite">${posts.map(lcMsg).join('')||'<p class="lc-empty">No messages yet. Start the conversation.</p>'}</div><p class="fx-err" id="lc-err" role="alert"></p>${lcGate(c)}`);
+ const l=$('lc-list');if(l){l.scrollTop=l.scrollHeight;LC.bottom=true;l.onscroll=()=>{LC.st=l.scrollTop;LC.bottom=l.scrollTop+l.clientHeight>l.scrollHeight-40;};}
+ lcWire();}finally{LC.busy=false;}lcSchedule();}
+function lcWire(){const f=$('lc-form');if(!f)return;const ta=$('lc-ta');
+ ta.oninput=()=>{ta.style.height='auto';ta.style.height=Math.min(120,ta.scrollHeight)+'px';};
+ ta.onkeydown=e=>{if(e.key==='Enter'&&!e.shiftKey&&!e.isComposing){e.preventDefault();f.requestSubmit();}};
+ f.onsubmit=async e=>{e.preventDefault();const v=ta.value.trim();if(!v)return;const b=$('lc-send'),er=$('lc-err');b.disabled=true;er.textContent='';
+  const r=await api(`forum/thread/${LC.tid}/posts`,{body:{body:v}});b.disabled=false;
+  if(!r.ok){er.textContent=r.error||'Could not send. Try again.';return;}ta.value='';ta.style.height='';LC.bottom=true;await lcPull();ta.focus();};}
+async function lcPull(){if(!LC.tid)return;const tid=LC.tid;const d=await api(`forum/thread/${tid}?after=${LC.last}`);if(!d.ok||tid!==LC.tid)return;
+ const l=$('lc-list');if(!l)return;(d.hidden_ids||[]).forEach(i=>{const n=$('lc'+i);n&&n.remove();});
+ const fresh=d.posts.filter(p=>!$('lc'+p.id));if(fresh.length){const em=l.querySelector('.lc-empty');em&&em.remove();l.insertAdjacentHTML('beforeend',fresh.map(lcMsg).join(''));}
+ d.posts.forEach(p=>LC.last=Math.max(LC.last,p.id));if(fresh.length&&LC.bottom)l.scrollTop=l.scrollHeight;}
+function lcSchedule(){clearTimeout(LC.timer);if(!location.hash.startsWith('#/live')||!LC.tid)return;
+ LC.timer=setTimeout(async function tick(){if(!location.hash.startsWith('#/live'))return;if(!document.hidden)await lcPull().catch(()=>{});lcSchedule();},LC.chat&&lcLive(LC.chat)?5000:20000);}
+function lcStart(){if(LC.el)LC.el.innerHTML='<p class="lc-empty" style="padding:0 12px">Loading chat…</p>';lcAttach();lcLoad();}
+function lcStop(){clearTimeout(LC.timer);LC.timer=null;}
+document.addEventListener('click',async e=>{
+ const n=e.target.closest('#lc [data-lcnext]');if(n){sessionStorage.setItem('bgd_next','live');return;}
+ const b=e.target.closest('#lc .lcmod');if(!b)return;const m=b.closest('.lc-m'),a=b.dataset.a;
+ if(a==='delete'&&!confirm('Delete this message for good? It is removed from the forum thread too.'))return;
+ const d=await api('mod/post',{body:{post_id:+m.dataset.id,action:a}});if(!d.ok){toast(d.error);return;}lcLoad();});
+{const lb=$('live-body');if(lb)new MutationObserver(()=>{if(location.hash.startsWith('#/live'))lcAttach();}).observe(lb,{childList:true});}
+
 // ---------- wiring ----------
 function onRoute(v){if(v==='play'){location.replace('#/forum/pickem');return;}
- if(v!=='forum')stopPolls();if(v==='forum')render();if(v==='heatmap')setTimeout(heatAvg,300);if(v==='boxscore')setTimeout(boxAvg,300);if(v==='home')homeLink();}
+ if(v!=='forum')stopPolls();if(v==='live')lcStart();else lcStop();if(v==='forum')render();if(v==='heatmap')setTimeout(heatAvg,300);if(v==='boxscore')setTimeout(boxAvg,300);if(v==='home')homeLink();}
 document.addEventListener('route',e=>onRoute(e.detail));
 const hb=()=>{const h=$('heat-body');if(h)new MutationObserver(()=>{if(!location.hash.match(/heatmap|grades/))return;clearTimeout(S.hmT);S.hmT=setTimeout(heatAvg,250);}).observe(h,{childList:true});};
 addEventListener('hashchange',()=>document.querySelectorAll('.fx-modal').forEach(m=>m.remove()));   // close pop-ups when the page changes
 const claimHop=()=>{const m=location.hash.match(/^#\/claim\/([0-9a-f]{48,128})/);if(m)location.replace('#/forum/claim/'+m[1]);};claimHop();addEventListener('hashchange',claimHop);
 probe().then(()=>{head();const v=(location.hash.replace(/^#\/?/,'').split(/[/?]/)[0])||'home';if(v==='play')location.replace('#/forum/pickem');
- if(v==='forum')render();if(/heatmap|grades/.test(v))heatAvg();if(v==='boxscore')boxAvg();if(v==='home')homeLink();hb();});
+ if(v==='forum')render();if(v==='live')lcStart();if(/heatmap|grades/.test(v))heatAvg();if(v==='boxscore')boxAvg();if(v==='home')homeLink();hb();});
 })();
