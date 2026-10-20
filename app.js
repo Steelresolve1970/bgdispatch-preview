@@ -75,10 +75,15 @@ function renderFilm(){
  if(D.prev){const p=D.prev,h=p.game?'Opponent Preview: '+p.game.label:'Opponent Preview';if($('prevH'))$('prevH').textContent=h;$('prevH2').textContent=h;
   const x=p.items.map(e=>tile(e,'🔎 Preview',e.creator,'View'));if($('preview-list'))$('preview-list').innerHTML=x.slice(0,6).join('')||empty('No previews yet for the next game');$('preview-full').innerHTML=ctmBox(p.ctm)+(x.join('')||empty('No previews yet for the next game'));}}
 function ctmBox(c){if(!c)return'';return `<article class="pod ctm"><p class="kind">🎙 Check the Mic · ${esc(c.network)}</p><h3>${esc(c.title)}</h3><p class="meta"><b>${esc(c.hosts)}</b> · ${fmt(c.published,{month:'short',day:'numeric'})}</p><p>${esc(c.summary)}</p>${c.note?`<p class="fine">${esc(c.note)}</p>`:''}${c.embed?`<div class="yt-embed"><iframe loading="lazy" src="${esc(c.embed)}" title="${esc(c.title)}" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe></div>`:''}<a href="${esc(c.link)}" ${ext}>Listen${c.segment?' (Steelers segment at '+esc(c.segment)+')':''} →</a>${c.youtube?` · <a href="${esc(c.youtube)}" ${ext}>Watch on YouTube →</a>`:''}</article>`;}
-function renderPods(){const p=D.pods;if(!p)return;const cut=Date.now()-5*864e5,POD_MIN=6;
- const all=(p.items||[]).filter(e=>e&&e.published).sort((a,b)=>b.published.localeCompare(a.published));let it=all.filter(e=>new Date(e.published)>=cut);if(it.length<POD_MIN)it=all.slice(0,Math.max(POD_MIN,it.length)); /* 5-day rule; fallback: newest ~6 so it's never empty */
+function renderPods(){const p=D.pods;if(!p)return;const cut=Date.now()-3*864e5,POD_MIN=6;
+ const all=(p.items||[]).filter(e=>e&&e.published).sort((a,b)=>b.published.localeCompare(a.published));let it=all.filter(e=>new Date(e.published)>=cut);if(it.length<POD_MIN)it=all.slice(0,Math.max(POD_MIN,it.length)); /* 3-day rule; fallback: newest ~6 so it's never empty */
  const t=e=>tile(e,e.kind==='video'?'▶ YouTube':'🎙 Podcast',e.show,e.kind==='video'?'Watch':'Listen');
- $('pods').innerHTML=it.slice(0,6).map(t).join('')||empty('No new episodes this week');
+ /* Post-Game Reaction (fetch_podcasts.py "postgame"): ~48h after each game, post-game shows on top; not repeated below */
+ const pg=p.postgame&&p.postgame.items&&p.postgame.items.length&&Date.now()<new Date(p.postgame.until)?p.postgame:null,pk=e=>e.show+'|'+String(e.title).toLowerCase().replace(/\W+/g,''); /* same show+title = same episode (podcast and video copies) */
+ if(pg){const s=new Set(pg.items.map(pk));it=it.filter(e=>!s.has(pk(e)));}
+ const pgH=(n,cls)=>pg?`<section class="pg-react ${cls}" aria-label="${esc(pg.heading)}"><h2 class="section-title pg-head">${esc(pg.heading)}</h2><div class="pods">${pg.items.slice(0,n).map(t).join('')}</div></section>`:'';
+ if($('pods-pg'))$('pods-pg').innerHTML=pgH(3,'pg-home');if($('pods-full-pg'))$('pods-full-pg').innerHTML=pgH(8,'pg-full');
+ $('pods').innerHTML=it.slice(0,pg?3:6).map(t).join('')||empty('No new episodes this week'); /* home box stays 6 shows total */
  const g={};it.forEach(e=>{const k=new Date(e.published).toLocaleDateString('en-CA',ET);(g[k]=g[k]||[]).push(e)});
  const day=k=>new Date(k+'T12:00:00').toLocaleDateString('en-US',{weekday:'long',month:'short',day:'numeric'});
  let h=Object.keys(g).sort().reverse().map(k=>`<h2 class="section-title pod-day">${day(k)} <small>${g[k].length}</small></h2><div class="pods">${g[k].map(t).join('')}</div>`).join('')||empty('No recent episodes right now');

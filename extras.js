@@ -146,3 +146,46 @@ if('serviceWorker' in navigator&&location.protocol!=='file:')navigator.serviceWo
  fetch(BGD_url('data/depth.json'),{cache:'no-store'}).then(r=>r.json()).then(d=>{D=d;render();}).catch(()=>{});
  setInterval(()=>fetch(BGD_url('data/depth.json'),{cache:'no-store'}).then(r=>r.json()).then(d=>{D=d;render();}).catch(()=>{}),5*60*1000);
  document.addEventListener('click',e=>{const b=e.target.closest('.dc-u');if(b){uSel=b.dataset.u;render();}});})();
+
+// ---------- Listen Live (radio link-outs only: no players, streams, iframes or station logos) ----------
+// Sidebar copy on every page (on home/schedule it sits directly under the AFC North box; standings.js is untouched).
+// One-column screens (<900px) drop the sidebar below the content, so the Live Hub also shows a copy near its top,
+// and the sidebar copy is hidden on the Live Hub there so the box never shows twice on one screen.
+(function(){const E=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+ const ST=[
+  {n:'102.5 WDVE',s:'Pittsburgh',l:'Flagship of the Steelers Audio Network: game-day pregame, the game and postgame. Online, the live game call is limited by NFL rules; pregame and postgame stream.',u:'https://www.iheart.com/live/1025-dve-2017/',b:'Listen on iHeart'},
+  {n:'93.7 The Fan',s:'KDKA-FM',l:'Pittsburgh sports talk, with Steelers talk all week. It does not carry the Steelers game broadcast.',u:'https://www.audacy.com/stations/937thefan',b:'Listen on Audacy'}];
+ const SHOWS={pre:[
+  {n:'Countdown To Kickoff',w:'Steelers Audio Network (102.5 WDVE, 970 AM, Steelers.com)',t:'Starts 4 hours before kickoff',u:'https://www.steelers.com/audio/steelers-audio-network/radio'},
+  {n:'Steelers Kickoff',w:'KDKA-TV',t:'Sundays 11:30 a.m. (1 p.m. games)',u:'https://www.cbsnews.com/pittsburgh/news/kdka-announces-2026-steelers-programming-schedule/'}],
+  post:[
+  {n:'The Steelers Postgame Show',w:'Steelers Audio Network (102.5 WDVE, 970 AM, Steelers.com)',t:'Right after the game, about 3 hours',u:'https://www.steelers.com/audio/steelers-audio-network/radio'},
+  {n:'Steelers Extra Point',w:'KDKA-TV or KDKA+',t:'Right after 1 p.m. and 4 p.m. games',u:'https://www.cbsnews.com/pittsburgh/news/kdka-announces-2026-steelers-programming-schedule/'},
+  {n:'Point After',w:'Steelers Nation Radio',t:'The night after each game, 7 to 8 p.m.',u:'https://www.steelers.com/audio/steelers-audio-network/radio'}]};
+ const box=()=>`<h2>Listen Live</h2>${ST.map(s=>`<div class="ll-row"><div class="ll-txt"><b>${E(s.n)}</b> <small>${E(s.s)}</small><p>${E(s.l)}</p></div><a class="ll-btn" href="${E(s.u)}" target="_blank" rel="noopener">${E(s.b)}<span class="sr"> (opens in a new tab)</span></a></div>`).join('')}<p class="fine ll-fine">Links open each station's own site. Unofficial fan site; not affiliated with these stations.</p>`;
+ const sl=a=>a.map(s=>`<li><a href="${E(s.u)}" target="_blank" rel="noopener">${E(s.n)}</a> <small>${E(s.w)} · ${E(s.t)}</small></li>`).join('');
+ const st=document.createElement('style');st.textContent=`.ll-box{background:var(--black);color:#fff;border:3px solid var(--gold)!important;padding:14px 16px}.ll-box h2{color:var(--gold);text-transform:uppercase;letter-spacing:1px;font-weight:900;font-size:16px;margin:0 0 8px}
+.ll-row{display:flex;gap:10px;align-items:center;justify-content:space-between;padding:8px 0;border-top:1px solid #333}.ll-txt{min-width:0;flex:1}.ll-txt b{color:#fff}.ll-txt small{color:var(--gold);font-weight:700}.ll-txt p{margin:3px 0 0;font-size:13px;line-height:1.35;color:#ccc}
+.ll-btn{flex:none;background:var(--gold);color:var(--black)!important;font-weight:800;font-size:13px;padding:8px 10px;border-radius:4px;text-decoration:none;white-space:nowrap}.ll-btn:hover,.ll-btn:focus{background:#fff}
+.ll-box .ll-fine{color:#aaa;margin:8px 0 0;font-size:11px}.ll-inline{margin:0 0 18px}@media(min-width:600px){.ll-inline{max-width:560px}}
+.sidebar .ll-row{flex-direction:column;align-items:stretch}.sidebar .ll-btn{text-align:center}
+@media(min-width:900px){#listen-live{display:none!important}}
+.ll-shows ul{margin:4px 0 10px;padding-left:18px}.ll-shows li{margin:4px 0}.ll-shows li small{display:block;color:#666}.ll-shows h3{font-size:14px;margin:8px 0 2px;text-transform:uppercase;letter-spacing:.5px}`;
+ document.head.appendChild(st);
+ function mk(id,cls){const s=document.createElement('section');s.id=id;s.className='box ll-box'+(cls?' '+cls:'');s.setAttribute('aria-label','Listen live on Pittsburgh radio');s.innerHTML=box();return s;}
+ function setup(){const side=document.querySelector('.sidebar');
+  if(side&&!document.getElementById('listen-side')){const a=document.getElementById('afcn-box'),ad=side.querySelector('.ad-box'),el=mk('listen-side');
+   if(a&&a.parentNode===side)a.after(el);else if(ad)ad.after(el);else side.prepend(el);}
+  const lv=document.querySelector('.view[data-view="live"]'),body=document.getElementById('live-body');
+  if(lv&&body&&!document.getElementById('listen-live')){body.before(mk('listen-live','ll-inline'));
+   const sh=document.createElement('section');sh.id='live-shows';sh.className='box ll-shows';
+   sh.innerHTML=`<h2 class="section-title">Game-day shows</h2><h3>Pre-game</h3><ul>${sl(SHOWS.pre)}</ul><h3>Post-game</h3><ul>${sl(SHOWS.post)}</ul><p class="fine">Times are Eastern and come from each show's official schedule; they can change for night or international games. Online, NFL rules may limit the live game call; pregame and postgame shows usually stream.</p>`;
+   body.after(sh);}}
+ function place(){setup();const s=document.getElementById('listen-side');if(!s)return;
+  const cur=document.querySelector('.view:not([hidden])'),v=cur?cur.dataset.view:'home',wide=matchMedia('(min-width:900px)').matches;
+  s.style.display=(!wide&&v==='live')?'none':'';
+  // Keep the sidebar copy directly under the AFC North box when that box is in the sidebar (home/schedule, wide screens).
+  const a=document.getElementById('afcn-box');if(wide&&a&&a.parentNode===s.parentNode&&a.nextElementSibling!==s)a.after(s);}
+ document.addEventListener('route',()=>setTimeout(place,20));addEventListener('resize',()=>{clearTimeout(place.t);place.t=setTimeout(place,200);});
+ if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',place);else place();setTimeout(place,1500);
+})();

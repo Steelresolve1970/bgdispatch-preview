@@ -642,3 +642,6 @@ figure.eg{margin:8px 0}
 /* Quote cards: gold quote marks before and after the words */
 .eg-quote{padding:18px 20px 16px 20px}.eg-quote .eg-qm{color:var(--gold);font-style:normal;font-weight:900;font-size:1.6em;line-height:0;vertical-align:-.28em;margin:0 3px}
 @media (max-width:600px){.eg-quote{padding:16px 14px 14px 14px}}
+
+/* Post-Game Reaction block on #/podcasts and the home podcasts box (app.js renderPods) */
+.pg-react{margin:0 0 18px;padding:12px;background:#111;border:2px solid var(--gold);border-radius:10px}.pg-react .pg-head{color:var(--gold);margin:4px 0 12px;border-left-color:var(--gold)}.pg-react .pod{background:#1d1d1d}.pg-react.pg-home{margin-top:4px}
