@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-20T08:21:42+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T08:21:17+00:00._
+_Generated 2026-10-20T08:32:26+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T08:31:56+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Why Mike McCarthy and the Steelers must run the ball more often on third down](https://www.post-gazette.com/sports/steelers/2026/10/20/steelers-third-down-struggles/stories/202610190030): Pittsburgh Post-Gazette, 2026-10-20 08:00 UTC
