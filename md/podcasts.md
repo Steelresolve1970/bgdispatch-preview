@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-20T17:54:18+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T17:54:02+00:00._
+_Generated 2026-10-20T18:05:01+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T18:04:45+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [What We Know About The Steelers Following Week 6 - Steelers Gabriel Rubio Interview](https://arthurmoats55.libsyn.com/what_we_know_about_the_steelers_following_week_6_-_steelers_gabriel_rubiomp3): The Arthur Moats Experience, 2026-10-20 17:39 UTC
