@@ -1,18 +1,20 @@
 # Steelers News
 
-_Generated 2026-10-20T00:05:48+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T00:05:17+00:00._
+_Generated 2026-10-20T00:16:25+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T00:16:00+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Jaylen Warren Leads NFL in Jaw-Dropping Stat Despite Quiet Week 6 Performance](https://steelersnow.com/jaylen-warren-leads-nfl-in-jaw-dropping-stat-despite-quiet-week-6-performance/): Steelers Now, 2026-10-20 00:10 UTC
+- [BTSC Monday Night Football thread: Commanders at 49ers](https://www.behindthesteelcurtain.com/pittsburgh-steelers-discussion/176386/btsc-monday-night-football-thread-commanders-at-49ers): Behind the Steel Curtain, 2026-10-20 00:00 UTC
 - [Following the leader, a re-kick and the gist of run defense](https://www.steelers.com/news/following-the-leader-a-re-kick-and-the-gist-of-run-defense): Steelers.com (official), 2026-10-20 00:00 UTC
 - [Steelers Open as Favorites vs. Saints in Week 7](https://steelersnow.com/steelers-open-as-favorites-vs-saints-in-week-7/): Steelers Now, 2026-10-19 23:45 UTC
 - [Steelers' DK Metcalf Has Reason For Rocky Start To 2026 Season Exposed](https://www.steelernation.com/2026/10/19/steelers-dk-metcalf-season-exposed): SteelerNation, 2026-10-19 23:25 UTC
 - [Steelers Get Called Out By Mike McCarthy For Offensive Failure](https://www.steelernation.com/2026/10/19/steelers-mike-mccarthy-offensive-failure): SteelerNation, 2026-10-19 23:04 UTC
 - [Patrick Graham Explains What Makes Nick Herbig ‘Special’](https://steelersdepot.com/2026/10/patrick-graham-explains-what-makes-nick-herbig-special/): Steelers Depot, 2026-10-19 23:00 UTC
-- [Steelers' belief in their massive rookie class is paying early dividends](https://www.lmtonline.com/sports/article/steelers-belief-in-their-massive-rookie-class-is-22484589.php): Laredo Morning Times, 2026-10-19 22:52 UTC
 - [Aaron Rodgers, Jalen Ramsey reach personal milestones in Steelers win over Buccaneers](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176581/aaron-rodgers-jalen-ramsey-reach-personal-milestones-in-steelers-win-over-buccaneers): Behind the Steel Curtain, 2026-10-19 22:50 UTC
 - [Steelers Afternoon Drive: Will Bernard Breakout Blow Up WR Plans?](https://steelersnow.com/steelers-afternoon-drive-will-bernard-breakout-blow-up-wr-plans/): Steelers Now, 2026-10-19 22:34 UTC
 - [Steelers' Jamel Dean Admits Rocky Sideline Energy Before Critical Comeback Against Buccaneers](https://www.steelernation.com/2026/10/19/steelers-jamel-dean-critical-comeback): SteelerNation, 2026-10-19 22:34 UTC
 - [‘Brian Thomas Jr. Needs To Be A Steeler’: Trai Essex Wants Pittsburgh To Trade For Jaguars WR](https://steelersdepot.com/2026/10/brian-thomas-jr-needs-to-be-a-steeler-trai-essex-wants-pittsburgh-to-trade-for-jaguars-wr/): Steelers Depot, 2026-10-19 22:30 UTC
+- [Steelers' belief in their massive rookie class is paying early dividends](https://www.nhregister.com/sports/article/steelers-belief-in-their-massive-rookie-class-is-22484589.php): New Haven Register, 2026-10-19 21:49 UTC
 - [Listen: The Terrible Take (Episode 2,055)](https://steelersdepot.com/2026/10/listen-the-terrible-take-episode-2055/): Steelers Depot, 2026-10-19 21:30 UTC
 - [Steelers’ Mike McCarthy defends play-calling after Jamel Dean interception](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176579/steelers-mike-mccarthy-defends-play-calling-after-jamel-dean-interception): Behind the Steel Curtain, 2026-10-19 21:30 UTC
 - [Steelers Insider Offers Blunt Update on Potential JuJu Smith-Schuster Reunion](https://heavy.com/sports/nfl/pittsburgh-steelers/juju-smith-schuster-nfl-news-reunion-kaboly/): Heavy.com, 2026-10-19 21:22 UTC
@@ -107,7 +109,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Germie Bernard Breaks Steelers Record in Win over Bucs](https://steelersnow.com/germie-bernard-breaks-steelers-record-in-win-over-bucs/): Steelers Now, 2026-10-19 00:03 UTC
 - [‘He’s from Pittsburgh, so he toughed it out’: Steelers coach Mike McCarthy misses halftime with foot injury](https://triblive.com/sports/hes-from-pittsburgh-so-he-toughed-it-out-steelers-coach-mike-mccarthy-misses-halftime-with-foot-injury/): TribLive, 2026-10-18 23:53 UTC
 - [Batko's Quick 6: Steelers at Buccaneers](https://www.steelers.com/news/batko-s-quick-6-steelers-at-buccaneers): Steelers.com (official), 2026-10-18 23:40 UTC
-- [‘Turned That Into Our Stadium’: Steelers Nation Takes Over Tampa in Comeback Win](https://steelersnow.com/turned-that-into-our-stadium-steelers-nation-takes-over-tampa-in-comeback-win/): Steelers Now, 2026-10-18 23:37 UTC
 - [Steelers report card: Germie Bernard and DK Metcalf step up in the win over the Buccaneers](https://www.post-gazette.com/sports/steelers/2026/10/18/steelers-report-card-buccaneers-week6/stories/202610180077): Pittsburgh Post-Gazette, 2026-10-18 23:17 UTC
 - [Noah Hiles: Mike McCarthy got bailed out by his Steelers players in Tampa](https://www.post-gazette.com/sports/steelers/2026/10/18/mike-mccarthy-steelers-buccaneers/stories/202610180078): Pittsburgh Post-Gazette, 2026-10-18 22:45 UTC
 - [Germie Bernard sets Steelers record in win over Buccaneers](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176519/germie-bernard-sets-steelers-record-in-win-over-buccaneers-dk-metcalf): Behind the Steel Curtain, 2026-10-18 22:27 UTC
@@ -127,6 +128,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Rapid Reaction: Steelers 26, Buccaneers 19](https://www.buccaneers.com/news/bucs-lose-pittsburgh-steelers-overtime-week-6-2026-score-26-19): Tampa Bay Buccaneers, 2026-10-18 20:50 UTC
 - [Steelers rally past Buccaneers, 26-19, in overtime](https://www.steelers.com/news/steelers-rally-past-buccaneers-26-19-in-overtime): Steelers.com (official), 2026-10-18 20:44 UTC
 - [Aaron Rodgers rallies Steelers back from 13-point deficit to beat Bucs in overtime](https://triblive.com/sports/aaron-rodgers-rallies-steelers-back-from-16-point-deficit-to-beat-bucs-in-overtime/): TribLive, 2026-10-18 20:44 UTC
+- [Steelers vs. Buccaneers Takeaways: The Comeback Tells Nothing](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-buccaneers-takeaways-comeback-tells-nothing): All Steelers (Sports Illustrated), 2026-10-18 20:44 UTC
 - [The Steelers got punched in the mouth by the Buccaneers -- then their real football character showed](https://www.pennlive.com/steelers/2026/10/the-steelers-got-punched-in-the-mouth-by-the-buccaneers-then-their-real-football-character-showed.html): PennLive (Nick Farabaugh), 2026-10-18 20:44 UTC
 - [Steelers beat Buccaneers in overtime after mounting thrilling fourth-quarter comeback](https://www.cbsnews.com/pittsburgh/news/pittsburgh-steelers-tampa-bay-buccaneers-score-nfl-news/): CBS News, 2026-10-18 20:43 UTC
 - [Steelers safety, former Penn State star goes down with injury against Buccaneers](https://www.pennlive.com/steelers/2026/10/steelers-safety-former-penn-state-star-goes-down-with-injury-against-buccaneers.html): PennLive (Nick Farabaugh), 2026-10-18 19:20 UTC
@@ -135,7 +137,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [HC Mike McCarthy Gets Injured During Steelers Game](https://www.si.com/nfl/steelers/onsi/mike-mccarthy-injured-pittsburgh-steelers-game-01m585csr1js): All Steelers (Sports Illustrated), 2026-10-18 18:54 UTC
 - [NFL: ‘Preparations continue as scheduled’ for Steelers game in Paris, despite protests](https://triblive.com/sports/nfl-preparations-continue-as-scheduled-for-steelers-game-in-paris-despite-protests/): TribLive, 2026-10-18 17:41 UTC
 - [[WATCH@LIVE-GAME] Pittsburgh Steelers vs Tampa Bay Buccaneers Game Live free NFL Football October, 18, 2026 pan](https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3RvcC5kaXJlY3R0dmh1Yi5zaG9wL2dvcyIvPjwva3JwYW5vPg==&id=video-pittsburgh-steelers-vs-tampa-bay-buccaneers-liv-games-op5): Universidad de Córdoba (UCO), 2026-10-18 17:33 UTC
-- [Steelers vs. Buccaneers: Alternate game thread](https://www.behindthesteelcurtain.com/pittsburgh-steelers-discussion/176383/steelers-vs-buccaneers-alternate-game-thread): Behind the Steel Curtain, 2026-10-18 16:50 UTC
 - [Pittsburgh Steelers get huge boost with good injury news on five starters, including Pat Freiermuth](https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-get-huge-boost-with-good-injury-news-on-five-starters-including-pat-freiermuth.html): PennLive (Nick Farabaugh), 2026-10-18 16:28 UTC
 - [Steelers-Saints game in Paris still on despite unrest in France, NFL says](https://www.nytimes.com/athletic/7701635/2026/10/18/paris-nfl-steelers-saints-protests/): The Athletic, 2026-10-18 16:26 UTC
 - [Huge comeback nets Steelers overtime win over Buccaneers | live updates recap](https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-at-tampa-bay-buccaneers-nfl-week-6-live-updates.html): PennLive (Nick Farabaugh), 2026-10-18 16:08 UTC
@@ -152,7 +153,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Asked and Answered: Oct. 18](https://www.steelers.com/news/asked-and-answered-oct-18-x5033): Steelers.com (official), 2026-10-18 10:05 UTC
 - [Steelers-Buccaneers scouting report: The offensive line has its hands full in the run game](https://www.post-gazette.com/sports/steelers/2026/10/18/steelers-bucs-scouting-report/stories/202610180046): Pittsburgh Post-Gazette, 2026-10-18 10:00 UTC
 - [Gerry Dulac’s 2026 NFL predictions: Week 6](https://www.post-gazette.com/sports/steelers/2026/10/18/nfl-picks-week-6/stories/202610150037): Pittsburgh Post-Gazette, 2026-10-18 08:00 UTC
-- [Former Super Bowl champ, Pittsburgh Steelers player arrested on domestic assault charge](https://katu.com/news/nation-world/former-nfl-super-bowl-champ-pittsburgh-steelers-cordarrelle-patterson-arrested-domestic-assault-charge-tennessee): KATU, 2026-10-18 07:00 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

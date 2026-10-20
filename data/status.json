@@ -1,10 +1,10 @@
 {
- "last_run": "2026-10-20T00:05:49.464397+00:00",
+ "last_run": "2026-10-20T00:16:25.616696+00:00",
  "results": [
   {
    "fetcher": "apply_grade_edits.py",
    "ok": true,
-   "seconds": 1.0,
+   "seconds": 0.5,
    "last_line": "no grade edits"
   },
   {
@@ -28,7 +28,7 @@
   {
    "fetcher": "build_boxscores.py",
    "ok": true,
-   "seconds": 2.0,
+   "seconds": 2.5,
    "last_line": "boxscores 6"
   },
   {
@@ -65,13 +65,13 @@
    "fetcher": "fetch_stats.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "stats fresh; skipped"
+   "last_line": "team stats 20 players 42 pools {'offense:passing': 61, 'offense:rushing': 227, 'offense:receiving': 385, 'defense': 1113}"
   },
   {
    "fetcher": "build_leaders.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "leaders fresh; skipped"
+   "last_line": "leaders team 20 player 18 sizes {'pass_yds': 45, 'ypa': 36, 'pass_td': 45, 'int_thrown': 45, 'passer_rtg': 36, 'rush_yds': 74, 'rush_td': 74, 'rec': 147, 'rec_yds': 147, 'rec_td': 147, 'yac': 147, 'tackles': 320, 'sacks': 261, 'tfl': 120, 'pd': 209, 'int': 102, 'ff': 144, 'fr': 101}"
   },
   {
    "fetcher": "fetch_draft.py",
@@ -112,8 +112,8 @@
   {
    "fetcher": "fetch_hub.py",
    "ok": true,
-   "seconds": 1.0,
-   "last_line": "injuries 16 practice 0 opp NO"
+   "seconds": 0.5,
+   "last_line": "hub fresh (<30 min); skipped"
   },
   {
    "fetcher": "fetch_matchup.py",
@@ -130,8 +130,8 @@
   {
    "fetcher": "build_roster.py",
    "ok": true,
-   "seconds": 6.5,
-   "last_line": "roster {'Active roster': 48, 'Practice squad': 15, 'Reserve / IR': 10} {'no_draft_row': 0, 'no_stats': 15, 'no_snaps': 12}"
+   "seconds": 0.5,
+   "last_line": "roster unchanged today; skip"
   },
   {
    "fetcher": "fetch_player_socials.py",
@@ -142,7 +142,7 @@
   {
    "fetcher": "fetch_rumors.py",
    "ok": true,
-   "seconds": 3.0,
+   "seconds": 2.5,
    "last_line": "rumors 42 {'Rumor': 42, 'Confirmed': 0, 'Denied': 0}"
   },
   {
