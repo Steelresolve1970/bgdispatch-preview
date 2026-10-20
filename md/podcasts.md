@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-20T15:16:01+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T15:15:38+00:00._
+_Generated 2026-10-20T15:26:46+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T15:26:31+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [Do Steelers Have Next Rookie of the Year?](https://bleav.com/shows/all-steelers-talk/?post_type=gp_podcast_episode&p=1864): All Steelers Talk, 2026-10-20 15:00 UTC
