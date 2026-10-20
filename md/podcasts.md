@@ -1,13 +1,13 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-20T15:26:46+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T15:26:31+00:00._
+_Generated 2026-10-20T15:37:32+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T15:37:15+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Podcast: [G'Day Steelers Nation: It was a Steelers win, but OT was avoidable](http://steelcurtainnetwork.com): Steel Curtain Network (BTSC), 2026-10-20 15:30 UTC
 - Podcast: [Do Steelers Have Next Rookie of the Year?](https://bleav.com/shows/all-steelers-talk/?post_type=gp_podcast_episode&p=1864): All Steelers Talk, 2026-10-20 15:00 UTC
 - Video: [Steelers Nation runs deep](https://www.youtube.com/shorts/OaRNvHbX6UA): Pittsburgh Steelers (official), 2026-10-20 14:57 UTC
 - Video: [Why Did Steelers Sign MVS? | Steelers Morning Rush](https://www.youtube.com/watch?v=Y1a4toUay64): Steelers Now, 2026-10-20 14:10 UTC
 - Podcast: [Steelers Hint at Two Good Things With WR Signing](https://bleav.com/shows/all-steelers-talk/episodes/steelers-hint-at-two-good-things-with-wr-signing/): All Steelers Talk, 2026-10-20 12:10 UTC
-- Podcast: [Here We Go, The Steelers Show: Rookies are a part of the black-and-gold solution](http://steelcurtainnetwork.com): Steel Curtain Network (BTSC), 2026-10-20 08:00 UTC
 - Video: [Only the Steelers Can Make Winning Look So Ugly | Illegal Hands to the Face](https://www.youtube.com/watch?v=idEz7_-TZ68): Still Curtain Podcast, 2026-10-20 06:54 UTC
 - Video: [Steelers' Mike McCarthy Must Lean More on Jaylen Warren, Under Center Offense to Fix 3rd Down Issues](https://www.youtube.com/watch?v=L7OiUYf66XA): Locked On Steelers, 2026-10-20 06:15 UTC
 - Podcast: [DK's Daily Shot of Steelers: The great Jalen Ramsey](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-steelers-the-great-jalen-ramsey/): DK Pittsburgh Sports, 2026-10-20 06:05 UTC

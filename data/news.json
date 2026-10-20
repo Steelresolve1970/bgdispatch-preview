@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T15:26:15.461323+00:00",
+ "generated": "2026-10-20T15:37:06.840103+00:00",
  "count": 150,
  "sources": [
   {
@@ -29,8 +29,8 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "ok",
-   "steelers_items": 24
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "steelers_items": 0
   },
   {
    "source": "Still Curtain",
@@ -107,6 +107,14 @@
  ],
  "items": [
   {
+   "title": "Former Steelers first-round pick's NFL career may be on life support",
+   "source": "Still Curtain",
+   "link": "https://stillcurtain.com/former-pittsburgh-steelers-first-round-pick-najee-harris-nfl-career-life-support-01m5cx9yd8td?utm_source=RSS",
+   "published": "2026-10-20T15:36:31+00:00",
+   "summary": "News story from Still Curtain. Full report at the original publisher.",
+   "id": "7e11e27668"
+  },
+  {
    "title": "Reports: Giants Release Ex-Steelers RB Najee Harris",
    "source": "Steelers Depot",
    "link": "https://steelersdepot.com/2026/10/reports-giants-release-ex-steelers-rb-najee-harris/",
@@ -131,20 +139,21 @@
    "id": "e41b73d5e9"
   },
   {
+   "title": "Top Graded Steelers Entering Week 7: Steelers With Free Agency Steal Shining",
+   "source": "Athlon Sports",
+   "link": "https://athlonsports.com/nfl/pittsburgh-steelers/top-graded-steelers-entering-week-7-steelers-with-free-agency-steal-shining",
+   "published": "2026-10-20T15:00:00+00:00",
+   "via": "Google News",
+   "summary": "Opinion story from Athlon Sports. Full report at the original publisher.",
+   "id": "59f6168ab9"
+  },
+  {
    "title": "Week 7 Blog: The stacking has begun",
    "source": "Steelers.com (official)",
    "link": "https://www.steelers.com/news/week-7-blog-the-stacking-has-begun",
    "published": "2026-10-20T14:49:51+00:00",
    "summary": "News story from Steelers.com (official). Full report at the original publisher.",
    "id": "38796afb44"
-  },
-  {
-   "title": "Steelers Surprises: Unexpected heroes emerge in overtime comeback against Buccaneers",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/20/steelers-surprises-unexpected-heroes-emerge-in-overtime-comeback-against-buccaneers/",
-   "published": "2026-10-20T14:49:26+00:00",
-   "summary": "News story from Steel City Underground. Full report at the original publisher.",
-   "id": "5f3153e761"
   },
   {
    "title": "Steelers' Germie Bernard Got His Start The Hard Way",
@@ -384,14 +393,6 @@
    "published": "2026-10-20T12:00:00+00:00",
    "summary": "Opinion story from Pittsburgh Post-Gazette. Full report at the original publisher.",
    "id": "c170b3e653"
-  },
-  {
-   "title": "Plays of the Game: Germie Bernard scores first NFL touchdown to lift Steelers past Buccaneers",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/20/plays-of-the-game-germie-bernard-scores-first-nfl-touchdown-to-lift-steelers-past-buccaneers/",
-   "published": "2026-10-20T11:47:58+00:00",
-   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
-   "id": "ff47dfcfd1"
   },
   {
    "title": "PFF Grades And Snap Counts: Steelers Vs Buccaneers",
@@ -1062,14 +1063,6 @@
    "id": "da4c5f3a6a"
   },
   {
-   "title": "Steelers Takeaways: Second-half comeback saves Pittsburgh in overtime win over Buccaneers",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/19/steelers-takeaways-second-half-comeback-saves-pittsburgh-in-overtime-win-over-buccaneers/",
-   "published": "2026-10-19T13:14:03+00:00",
-   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
-   "id": "dfe2de4202"
-  },
-  {
    "title": "Germie Bernard's growing connection with Aaron Rodgers has Steelers buzzing",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/germie-bernard-growing-connection-aaron-rodgers-pittsburgh-steelers-buzzing-01m59441d0x6?utm_source=RSS",
@@ -1092,14 +1085,6 @@
    "published": "2026-10-19T12:00:03+00:00",
    "summary": "News story from Still Curtain. Full report at the original publisher.",
    "id": "f1094d0f3b"
-  },
-  {
-   "title": "Plays of the Game: Jamel Dean\u2019s interception sets up Steelers\u2019 late lead",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/19/plays-of-the-game-jamel-deans-interception-sets-up-steelers-late-lead/",
-   "published": "2026-10-19T11:40:57+00:00",
-   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
-   "id": "c1a0198967"
   },
   {
    "title": "\u2018He\u2019s accepted the challenge\u2019: Germie Bernard rewards Steelers\u2019 faith in rookie wide receiver",
@@ -1327,6 +1312,23 @@
    "published": "2026-10-18T20:56:42+00:00",
    "summary": "Game story from The Athletic. Full report at the original publisher.",
    "id": "adf553885f"
+  },
+  {
+   "title": "Rapid Reaction: Steelers 26, Buccaneers 19",
+   "source": "Tampa Bay Buccaneers",
+   "link": "https://www.buccaneers.com/news/bucs-lose-pittsburgh-steelers-overtime-week-6-2026-score-26-19",
+   "published": "2026-10-18T20:50:55+00:00",
+   "via": "Google News",
+   "summary": "News story from Tampa Bay Buccaneers. Full report at the original publisher.",
+   "id": "8d486aca8c"
+  },
+  {
+   "title": "Steelers rally past Buccaneers, 26-19, in overtime",
+   "source": "Steelers.com (official)",
+   "link": "https://www.steelers.com/news/steelers-rally-past-buccaneers-26-19-in-overtime",
+   "published": "2026-10-18T20:44:36+00:00",
+   "summary": "News story from Steelers.com (official). Full report at the original publisher.",
+   "id": "e9a2562065"
   }
  ],
  "dropped_bad_links": 0
