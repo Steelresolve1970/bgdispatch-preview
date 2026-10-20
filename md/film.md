@@ -1,8 +1,9 @@
 # Steelers Film Room & Previews
 
-_Generated 2026-10-20T20:00:12+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T19:59:47+00:00._
+_Generated 2026-10-20T20:11:03+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T20:10:35+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/film.json_
 
+- Breakdown (at Tampa Bay Buccaneers (Oct 18)): [Steelers' LB Grades vs Bucs](https://www.youtube.com/shorts/sxaS_1dQBHA): Steelers Almighty, 2026-10-20 19:52 UTC
 - Breakdown (at Tampa Bay Buccaneers (Oct 18)): [Steelers Week 6 grades in win over Buccaneers](https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176607/steelers-week-6-grades-in-win-over-buccaneers-germie-bernard-dk-metcalf-jalen-ramsey): Behind the Steel Curtain, 2026-10-20 17:01 UTC
 - Breakdown (at Tampa Bay Buccaneers (Oct 18)): [Film Room: Jamel Dean SAVES Steelers in Tampa Homecoming](https://www.youtube.com/watch?v=e6yzGC2yM94): Derrick Bell – DB's Film Room (Steelers Now), 2026-10-20 16:00 UTC
 - Breakdown (at Tampa Bay Buccaneers (Oct 18)): [Film Room: An Absurdly Good Rep From Darnell Washington (That’s Easy To Miss)](https://steelersdepot.com/2026/10/film-room-an-absurdly-good-rep-from-darnell-washington-thats-easy-to-miss/): Alex Kozora (Steelers Depot), 2026-10-20 16:00 UTC

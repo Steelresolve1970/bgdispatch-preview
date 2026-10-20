@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T19:59:47.342120+00:00",
+ "generated": "2026-10-20T20:10:35.959604+00:00",
  "game": {
   "label": "at Tampa Bay Buccaneers (Oct 18)",
   "opponent": "Tampa Bay Buccaneers",
@@ -105,7 +105,7 @@
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgIrOw8M4dNVs-WcMSaZUxA",
    "status": "ok",
    "feed_items": 15,
-   "in_window": 7
+   "in_window": 8
   },
   {
    "creator": "Steelers Now (Derrick Bell)",
@@ -213,6 +213,14 @@
   }
  ],
  "items": [
+  {
+   "title": "Steelers' LB Grades vs Bucs",
+   "creator": "Steelers Almighty",
+   "link": "https://www.youtube.com/shorts/sxaS_1dQBHA",
+   "published": "2026-10-20T19:52:40+00:00",
+   "summary": "Film breakdown by Steelers Almighty of at Tampa Bay Buccaneers (Oct 18).",
+   "game": "at Tampa Bay Buccaneers (Oct 18)"
+  },
   {
    "title": "Steelers Week 6 grades in win over Buccaneers",
    "creator": "Behind the Steel Curtain",
@@ -343,8 +351,17 @@
    "week": "Week 6",
    "opponent": "Tampa Bay Buccaneers",
    "kickoff": "2026-10-18T17:00:00+00:00",
-   "count": 15,
+   "count": 16,
    "items": [
+    {
+     "title": "Steelers' LB Grades vs Bucs",
+     "creator": "Steelers Almighty",
+     "link": "https://www.youtube.com/shorts/sxaS_1dQBHA",
+     "published": "2026-10-20T19:52:40+00:00",
+     "gid": "2026_06_PIT_TB",
+     "source": "rss",
+     "summary": "Film breakdown by Steelers Almighty of Week 6 at Buccaneers (W 26-19)."
+    },
     {
      "title": "Steelers Week 6 grades in win over Buccaneers",
      "creator": "Behind the Steel Curtain",
@@ -800,5 +817,5 @@
    ]
   }
  ],
- "count": 15
+ "count": 16
 }
