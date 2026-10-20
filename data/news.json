@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-20T08:43:01.501253+00:00",
- "count": 149,
+ "generated": "2026-10-20T08:53:44.548917+00:00",
+ "count": 150,
  "sources": [
   {
    "source": "Steelers Depot",
@@ -29,8 +29,8 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
-   "steelers_items": 0
+   "status": "ok",
+   "steelers_items": 24
   },
   {
    "source": "Still Curtain",
@@ -825,6 +825,14 @@
    "id": "da4c5f3a6a"
   },
   {
+   "title": "Steelers Takeaways: Second-half comeback saves Pittsburgh in overtime win over Buccaneers",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/19/steelers-takeaways-second-half-comeback-saves-pittsburgh-in-overtime-win-over-buccaneers/",
+   "published": "2026-10-19T13:14:03+00:00",
+   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
+   "id": "dfe2de4202"
+  },
+  {
    "title": "Germie Bernard's growing connection with Aaron Rodgers has Steelers buzzing",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/germie-bernard-growing-connection-aaron-rodgers-pittsburgh-steelers-buzzing-01m59441d0x6?utm_source=RSS",
@@ -864,6 +872,14 @@
    "published": "2026-10-19T12:00:03+00:00",
    "summary": "News story from Still Curtain. Full report at the original publisher.",
    "id": "f1094d0f3b"
+  },
+  {
+   "title": "Plays of the Game: Jamel Dean\u2019s interception sets up Steelers\u2019 late lead",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/19/plays-of-the-game-jamel-deans-interception-sets-up-steelers-late-lead/",
+   "published": "2026-10-19T11:40:57+00:00",
+   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
+   "id": "c1a0198967"
   },
   {
    "title": "\u2018He\u2019s accepted the challenge\u2019: Germie Bernard rewards Steelers\u2019 faith in rookie wide receiver",
@@ -1317,15 +1333,7 @@
    "summary": "Game story from All Steelers (Sports Illustrated). Full report at the original publisher.",
    "via": "Google News",
    "id": "e1f229f33e"
-  },
-  {
-   "title": "Steelers' tight end duo could counter costly WR injuries vs. Buccaneers",
-   "source": "Still Curtain",
-   "link": "https://stillcurtain.com/pittsburgh-steelers-tight-end-duo-could-counter-costly-wr-injuries-vs-buccaneers-01m534w1agdq?utm_source=RSS",
-   "published": "2026-10-18T11:00:00+00:00",
-   "summary": "Injury story from Still Curtain. Full report at the original publisher.",
-   "id": "301c050e80"
   }
  ],
- "dropped_bad_links": 1
+ "dropped_bad_links": 0
 }

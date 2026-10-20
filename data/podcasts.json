@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T08:43:10.676882+00:00",
+ "generated": "2026-10-20T08:54:13.736922+00:00",
  "date_et": "2026-10-20",
  "days": 5,
  "display_days": 2,
@@ -90,10 +90,10 @@
    "show": "Steel City Underground",
    "kind": "podcast",
    "url": "https://feeds.feedburner.com/steelcityunderground",
-   "status": "ok",
-   "episodes": 45,
+   "status": "error: <urlopen error timed out>",
+   "episodes": 0,
    "week": 2,
-   "latest": "2026-10-19T19:40:55+00:00"
+   "latest": null
   },
   {
    "show": "Steel City Underground",
@@ -144,10 +144,10 @@
    "show": "All Steelers Talk",
    "kind": "podcast",
    "url": "https://feeds.simplecast.com/TJlnaIkx",
-   "status": "ok",
-   "episodes": 1823,
+   "status": "error: <urlopen error timed out>",
+   "episodes": 0,
    "week": 9,
-   "latest": "2026-10-19T21:35:00+00:00"
+   "latest": null
   },
   {
    "show": "Steelers Now",
@@ -180,10 +180,10 @@
    "show": "Steelers Breakdown (PennLive, Nick Farabaugh)",
    "kind": "podcast",
    "url": "https://feeds.megaphone.fm/steelersupdateonpennlive",
-   "status": "ok",
-   "episodes": 696,
+   "status": "error: <urlopen error timed out>",
+   "episodes": 0,
    "week": 0,
-   "latest": "2026-10-14T01:22:00+00:00"
+   "latest": null
   },
   {
    "show": "Nick Farabaugh on PennLive",
