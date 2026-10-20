@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-20T17:03:10+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T17:02:52+00:00._
+_Generated 2026-10-20T17:32:33+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T17:32:16+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [So nice he had to do it twice‼️ 📺: #PITvsNO 10/25 at 9:30 AM ET on NFLN](https://www.youtube.com/shorts/fuUj8eUqn4g): Pittsburgh Steelers (official), 2026-10-20 16:04 UTC
