@@ -1,6 +1,6 @@
 # Steelers Film Room & Previews
 
-_Generated 2026-10-20T16:10:03+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T16:09:37+00:00._
+_Generated 2026-10-20T16:21:24+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T16:20:29+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/film.json_
 
 - Breakdown (at Tampa Bay Buccaneers (Oct 18)): [Film Room: Jamel Dean SAVES Steelers in Tampa Homecoming](https://www.youtube.com/watch?v=e6yzGC2yM94): Derrick Bell – DB's Film Room (Steelers Now), 2026-10-20 16:00 UTC

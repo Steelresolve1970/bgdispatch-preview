@@ -303,11 +303,14 @@ window.availHTML=function(name,list){const a=list||(window.BGD_AV&&window.BGD_AV
  }
  function isInApp(){
   const ua=navigator.userAgent||'';
-  if(/FBAN|FBAV|Instagram|Line\/|Twitter|LinkedInApp|GSA\/|Snapchat|Discord|MicroMessenger|WKWebView/i.test(ua))return true;
+  // Known in-app webviews (Facebook, Instagram, X/Twitter, LINE, Google app, LinkedIn, Snapchat, etc.)
+  if(/FBAN|FBAV|FB_IAB|Instagram|\bLine\/|Twitter|LinkedInApp|GSA\/|Snapchat|Discord|MicroMessenger/i.test(ua))return true;
+  // Real browsers never get the tip: Chrome, Firefox, Edge, Opera on iOS (and everything else with "Safari/").
+  if(/CriOS|FxiOS|EdgiOS|OPiOS/i.test(ua))return false;
   if(/\bwv\b/i.test(ua) && /Android/i.test(ua))return true;
-  // iOS WebView: has AppleWebKit but not Safari (and not CriOS/FxiOS)
-  if(/(iPhone|iPod|iPad)/i.test(ua) && /AppleWebKit/i.test(ua) && !/Safari/i.test(ua))return true;
-  if(isIPad() && /AppleWebKit/i.test(ua) && !/Safari\//i.test(ua) && !/CriOS|FxiOS|EdgiOS/i.test(ua))return true;
+  // Bare iOS/iPadOS WKWebView: AppleWebKit but no "Safari/" token (real Safari, incl. iPad desktop mode, has it).
+  if(/WKWebView/i.test(ua) && !/Safari\//i.test(ua))return true;
+  if((/(iPhone|iPod|iPad)/i.test(ua)||isIPad()) && /AppleWebKit/i.test(ua) && !/Safari\//i.test(ua))return true;
   return false;
  }
  function preferNative(){return isIPad() || isInApp();}
@@ -421,9 +424,9 @@ window.availHTML=function(name,list){const a=list||(window.BGD_AV&&window.BGD_AV
  document.addEventListener('click',onExtActivate,true);
  document.addEventListener('auxclick',e=>{if(e.button===1)onExtActivate(e);},true);
 
- // One-time banner for in-app / awkward WebViews (incl. iPad desktop-UA).
+ // One-time banner for in-app webviews only (never real Safari/Chrome/Firefox/Edge, incl. iPad desktop mode).
  function showBrowseBanner(){
-  if(!preferNative())return;
+  if(!isInApp())return;
   try{if(localStorage.getItem('bgd_browser_banner')==='1')return;}catch(e){}
   if(document.getElementById('bgd-browser-banner'))return;
   const bar=document.createElement('div');bar.id='bgd-browser-banner';bar.className='bgd-browser-banner';

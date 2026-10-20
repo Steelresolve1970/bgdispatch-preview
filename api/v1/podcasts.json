@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-20T16:10:03+00:00",
- "data_updated": "2026-10-20T16:09:46+00:00",
- "count": 131,
+ "generated": "2026-10-20T16:21:24+00:00",
+ "data_updated": "2026-10-20T16:20:42+00:00",
+ "count": 132,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -19,6 +19,19 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/podcasts",
  "items": [
+  {
+   "id": "7f32c294c3b63f86",
+   "type": "video",
+   "title": "So nice he had to do it twice‼️ 📺: #PITvsNO 10/25 at 9:30 AM ET on NFLN",
+   "show": "Pittsburgh Steelers (official)",
+   "url": "https://www.youtube.com/shorts/fuUj8eUqn4g",
+   "published": "2026-10-20T16:04:12+00:00",
+   "summary": "Video from Pittsburgh Steelers (official).",
+   "source": {
+    "name": "Pittsburgh Steelers (official)",
+    "url": null
+   }
+  },
   {
    "id": "7c69a125952c430c",
    "type": "video",
@@ -107,6 +120,19 @@
    "summary": "Podcast episode from Steelers Afternoon Drive.",
    "source": {
     "name": "Steelers Afternoon Drive",
+    "url": null
+   }
+  },
+  {
+   "id": "d484b183d5b88497",
+   "type": "podcast_episode",
+   "title": "Hour 2: Unc Still Got It + Just the Toe",
+   "show": "Steelers Blitz",
+   "url": "https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/hour-2-unc-still-got-it-just-the-toe",
+   "published": "2026-10-20T14:00:00+00:00",
+   "summary": "Podcast episode from Steelers Blitz.",
+   "source": {
+    "name": "Steelers Blitz",
     "url": null
    }
   },
@@ -939,19 +965,6 @@
    "summary": "Video from Steelers Now.",
    "source": {
     "name": "Steelers Now",
-    "url": null
-   }
-  },
-  {
-   "id": "d29614949601fd2f",
-   "type": "video",
-   "title": "Coach McCarthy, Aaron Rodgers & Nick Herbig Postgame Press Conference (Week 6 at Buccaneers)",
-   "show": "Pittsburgh Steelers (official)",
-   "url": "https://www.youtube.com/watch?v=V1-MVjyVhs8",
-   "published": "2026-10-18T21:41:28+00:00",
-   "summary": "Video from Pittsburgh Steelers (official).",
-   "source": {
-    "name": "Pittsburgh Steelers (official)",
     "url": null
    }
   },

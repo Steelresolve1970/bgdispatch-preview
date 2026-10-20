@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-20T16:10:03+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T16:09:46+00:00._
+_Generated 2026-10-20T16:21:24+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T16:20:42+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Video: [So nice he had to do it twice‼️ 📺: #PITvsNO 10/25 at 9:30 AM ET on NFLN](https://www.youtube.com/shorts/fuUj8eUqn4g): Pittsburgh Steelers (official), 2026-10-20 16:04 UTC
 - Video: [Just having Tom Brady was enough for them to think they had a chance 😮‍💨🔥#patriots #tombrady](https://www.youtube.com/shorts/YF0Yc1KkCzA): Not Just Football with Cam Heyward, 2026-10-20 16:00 UTC
 - Podcast: [G'Day Steelers Nation: It was a Steelers win, but OT was avoidable](https://podcasts.apple.com/us/podcast/gday-steelers-nation-it-was-a-steelers-win-but-ot/id905962218?i=1000797281766): Steel Curtain Network (BTSC), 2026-10-20 15:30 UTC
 - Podcast: [Hour 1: All Around Contributions from the Steelers](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-102026-mp3): Steelers Blitz, 2026-10-20 15:00 UTC
@@ -10,6 +11,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Steelers Nation runs deep](https://www.youtube.com/shorts/OaRNvHbX6UA): Pittsburgh Steelers (official), 2026-10-20 14:57 UTC
 - Video: [Why Did Steelers Sign MVS? | Steelers Morning Rush](https://www.youtube.com/watch?v=Y1a4toUay64): Steelers Now, 2026-10-20 14:10 UTC
 - Podcast: [Why Did Steelers Sign MVS? | Steelers Morning Rush](https://podcasts.apple.com/us/podcast/why-did-steelers-sign-mvs-steelers-morning-rush/id1700240934?i=1000797271263): Steelers Afternoon Drive, 2026-10-20 14:10 UTC
+- Podcast: [Hour 2: Unc Still Got It + Just the Toe](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/hour-2-unc-still-got-it-just-the-toe): Steelers Blitz, 2026-10-20 14:00 UTC
 - Podcast: [Steelers Hint at Two Good Things With WR Signing](https://podcasts.apple.com/us/podcast/steelers-hint-at-two-good-things-with-wr-signing/id1627248534?i=1000797256032): All Steelers Talk, 2026-10-20 12:10 UTC
 - Podcast: [Here We Go, The Steelers Show: Rookies are a part of the black-and-gold solution](https://podcasts.apple.com/us/podcast/here-we-go-the-steelers-show-rookies-are-a-part/id905962218?i=1000797224318): Steel Curtain Network (BTSC), 2026-10-20 08:00 UTC
 - Video: [Only the Steelers Can Make Winning Look So Ugly | Illegal Hands to the Face](https://www.youtube.com/watch?v=idEz7_-TZ68): Still Curtain Podcast, 2026-10-20 06:54 UTC
@@ -74,7 +76,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [The Mike McCarthy Postgame Press Conference Recap: Steelers 26, Buccaneers 19](https://podcasts.apple.com/us/podcast/the-mike-mccarthy-postgame-press-conference-recap/id905962218?i=1000796982069): Steel Curtain Network (BTSC), 2026-10-18 22:00 UTC
 - Video: [STEELERS SQUAD SHOW: McCarthy ROLLS Ankle, Steelers Big COMEBACK Leads To 1st Road Win In OT](https://www.youtube.com/watch?v=oTfu6jvAWPA): Locked On Steelers, 2026-10-18 21:57 UTC
 - Video: [Mike McCarthy Explains Clock Management Decisions in Steelers Win over Bucs](https://www.youtube.com/watch?v=ZR7423xKpA8): Steelers Now, 2026-10-18 21:51 UTC
-- Video: [Coach McCarthy, Aaron Rodgers & Nick Herbig Postgame Press Conference (Week 6 at Buccaneers)](https://www.youtube.com/watch?v=V1-MVjyVhs8): Pittsburgh Steelers (official), 2026-10-18 21:41 UTC
 - Podcast: [The Terrible Take - Episode 2054 - October 18, 2026](https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2054-october-18-2026/id405990739?i=1000796929510): The Terrible Podcast (Steelers Depot), 2026-10-18 14:34 UTC
 - Podcast: [Steelers vs. Bucs Bold Predictions](https://podcasts.apple.com/us/podcast/steelers-vs-bucs-bold-predictions/id1627248534?i=1000796922691): All Steelers Talk, 2026-10-18 12:35 UTC
 - Podcast: [Last Minute Thoughts: Black and Bold, Week 6 vs. Tampa Bay](https://podcasts.apple.com/us/podcast/last-minute-thoughts-black-and-bold-week-6-vs-tampa-bay/id905962218?i=1000796897704): Steel Curtain Network (BTSC), 2026-10-18 08:00 UTC

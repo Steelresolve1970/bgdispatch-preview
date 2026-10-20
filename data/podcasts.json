@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-20T16:09:46.836320+00:00",
+ "generated": "2026-10-20T16:20:42.317166+00:00",
  "date_et": "2026-10-20",
  "days": 5,
  "display_days": 2,
- "count": 131,
+ "count": 132,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -55,8 +55,8 @@
    "kind": "podcast",
    "url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/979efa78-cb51-451a-bdb0-aea000005d8f/ebb5298b-6620-41b6-b498-aea000005d9d/podcast.rss",
    "status": "ok",
-   "episodes": 1949,
-   "week": 5,
+   "episodes": 1950,
+   "week": 6,
    "latest": "2026-10-20T15:00:00+00:00"
   },
   {
@@ -90,10 +90,10 @@
    "show": "Steel City Underground",
    "kind": "podcast",
    "url": "https://feeds.feedburner.com/steelcityunderground",
-   "status": "ok",
-   "episodes": 45,
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "episodes": 0,
    "week": 2,
-   "latest": "2026-10-19T19:40:55+00:00"
+   "latest": null
   },
   {
    "show": "Steel City Underground",
@@ -201,7 +201,7 @@
    "status": "ok",
    "episodes": 15,
    "week": 15,
-   "latest": "2026-10-20T14:57:13+00:00"
+   "latest": "2026-10-20T16:04:12+00:00"
   },
   {
    "show": "Not Just Football with Cam Heyward",
@@ -250,6 +250,14 @@
   }
  ],
  "items": [
+  {
+   "title": "So nice he had to do it twice\u203c\ufe0f \ud83d\udcfa: #PITvsNO 10/25 at 9:30 AM ET on NFLN",
+   "show": "Pittsburgh Steelers (official)",
+   "kind": "video",
+   "link": "https://www.youtube.com/shorts/fuUj8eUqn4g",
+   "published": "2026-10-20T16:04:12+00:00",
+   "summary": "Video from Pittsburgh Steelers (official)."
+  },
   {
    "title": "Just having Tom Brady was enough for them to think they had a chance \ud83d\ude2e\u200d\ud83d\udca8\ud83d\udd25#patriots #tombrady",
    "show": "Not Just Football with Cam Heyward",
@@ -305,6 +313,14 @@
    "link": "https://podcasts.apple.com/us/podcast/why-did-steelers-sign-mvs-steelers-morning-rush/id1700240934?i=1000797271263",
    "published": "2026-10-20T14:10:00+00:00",
    "summary": "Podcast episode from Steelers Afternoon Drive."
+  },
+  {
+   "title": "Hour 2: Unc Still Got It + Just the Toe",
+   "show": "Steelers Blitz",
+   "kind": "podcast",
+   "link": "https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/hour-2-unc-still-got-it-just-the-toe",
+   "published": "2026-10-20T14:00:00+00:00",
+   "summary": "Podcast episode from Steelers Blitz."
   },
   {
    "title": "Steelers Hint at Two Good Things With WR Signing",
@@ -817,14 +833,6 @@
    "link": "https://www.youtube.com/watch?v=ZR7423xKpA8",
    "published": "2026-10-18T21:51:16+00:00",
    "summary": "Video from Steelers Now."
-  },
-  {
-   "title": "Coach McCarthy, Aaron Rodgers & Nick Herbig Postgame Press Conference (Week 6 at Buccaneers)",
-   "show": "Pittsburgh Steelers (official)",
-   "kind": "video",
-   "link": "https://www.youtube.com/watch?v=V1-MVjyVhs8",
-   "published": "2026-10-18T21:41:28+00:00",
-   "summary": "Video from Pittsburgh Steelers (official)."
   },
   {
    "title": "The Terrible Take - Episode 2054 - October 18, 2026",
