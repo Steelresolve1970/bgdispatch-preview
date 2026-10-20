@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T01:34:13.384891+00:00",
+ "generated": "2026-10-20T01:45:23.761531+00:00",
  "game": {
   "label": "at Tampa Bay Buccaneers (Oct 18)",
   "opponent": "Tampa Bay Buccaneers",
@@ -71,8 +71,8 @@
    "creator": "Merril Hoge (personal)",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCL1UFebpPn1rsxK0yEwwbgA",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 500: Internal Server Error",
+   "feed_items": 0,
    "in_window": 0
   },
   {
@@ -95,17 +95,17 @@
    "creator": "Alex & the NFL",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsGr04a3SDjhPhsAe4xj4YQ",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
    "creator": "Steelers Almighty",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgIrOw8M4dNVs-WcMSaZUxA",
-   "status": "ok",
-   "feed_items": 15,
-   "in_window": 4
+   "status": "error: HTTP Error 500: Internal Server Error",
+   "feed_items": 0,
+   "in_window": 0
   },
   {
    "creator": "Steelers Now (Derrick Bell)",
@@ -119,8 +119,8 @@
    "creator": "Steel City Underground",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDcNNAMkYr-DzH6_XL-0p8Q",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
@@ -159,8 +159,8 @@
    "creator": "Derrick Bell \u2013 DB's Film Room (Steelers Now)",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNsZFFKPF0bp85qzvJ8knbQ",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 500: Internal Server Error",
+   "feed_items": 0,
    "in_window": 0
   },
   {
@@ -183,32 +183,32 @@
    "creator": "Baldy's Breakdowns",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHdXqjAWwGqEGfC1a9319Mw",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 500: Internal Server Error",
+   "feed_items": 0,
    "in_window": 0
   },
   {
    "creator": "Brett Kollmann",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYzfVBuCfGz-oF3aOCGgO5g",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
    "creator": "The QB School (JT O'Sullivan)",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGfxHp2yuimtLsFaq1r7aIQ",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
    "creator": "All_22_Films",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7Dbn36zT6XjfBh9YDLmGIg",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   }
  ],
@@ -218,32 +218,36 @@
    "creator": "Steelers Almighty",
    "link": "https://www.youtube.com/shorts/BPN3OhibZF4",
    "published": "2026-10-19T23:43:32+00:00",
-   "summary": "Film breakdown by Steelers Almighty of at Tampa Bay Buccaneers (Oct 18).",
-   "game": "at Tampa Bay Buccaneers (Oct 18)"
+   "gid": "2026_06_PIT_TB",
+   "source": "rss",
+   "summary": "Film breakdown by Steelers Almighty of Week 6 at Buccaneers (W 26-19)."
   },
   {
    "title": "Steelers' RB Grades vs Bucs",
    "creator": "Steelers Almighty",
    "link": "https://www.youtube.com/shorts/q_JsDrEUaBM",
    "published": "2026-10-19T21:37:21+00:00",
-   "summary": "Film breakdown by Steelers Almighty of at Tampa Bay Buccaneers (Oct 18).",
-   "game": "at Tampa Bay Buccaneers (Oct 18)"
+   "gid": "2026_06_PIT_TB",
+   "source": "rss",
+   "summary": "Film breakdown by Steelers Almighty of Week 6 at Buccaneers (W 26-19)."
   },
   {
    "title": "Steelers' QB Grades vs Bucs",
    "creator": "Steelers Almighty",
    "link": "https://www.youtube.com/shorts/fJ6q0C9RHys",
    "published": "2026-10-19T19:18:24+00:00",
-   "summary": "Film breakdown by Steelers Almighty of at Tampa Bay Buccaneers (Oct 18).",
-   "game": "at Tampa Bay Buccaneers (Oct 18)"
+   "gid": "2026_06_PIT_TB",
+   "source": "rss",
+   "summary": "Film breakdown by Steelers Almighty of Week 6 at Buccaneers (W 26-19)."
   },
   {
    "title": "Ugly Win in Tampa: Grading Every Steelers Unit After the OT Thriller | REPORT CARD | Week 6",
    "creator": "Steelers Almighty",
    "link": "https://www.youtube.com/watch?v=7rJt8I0UKLI",
    "published": "2026-10-19T18:00:26+00:00",
-   "summary": "Film breakdown by Steelers Almighty of at Tampa Bay Buccaneers (Oct 18).",
-   "game": "at Tampa Bay Buccaneers (Oct 18)"
+   "gid": "2026_06_PIT_TB",
+   "source": "rss",
+   "summary": "Film breakdown by Steelers Almighty of Week 6 at Buccaneers (W 26-19)."
   },
   {
    "title": "Film Room: Jalen Ramsey Calls Game To Beat Buccaneers",
