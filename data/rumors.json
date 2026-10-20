@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T11:11:04.965414+00:00",
+ "generated": "2026-10-20T14:14:03.584102+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -44,6 +44,74 @@
  },
  "rumors": [
   {
+   "id": "c096101038f6",
+   "title": "Steelers signing Marquez Valdes-Scantling could make things even worse",
+   "source": "Still Curtain",
+   "link": "https://stillcurtain.com/pittsburgh-steelers-signing-marquez-valdes-scantling-could-make-offense-worse-01m5cmdzgrz1?utm_source=RSS",
+   "published": "2026-10-20T13:01:13+00:00",
+   "summary": "Trade/roster move story from Still Curtain. Full report at the original publisher.",
+   "tier": "Fan blog",
+   "tier_score": 2,
+   "subjects": [
+    "Marquez Valdes-Scantling"
+   ],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-20T14:14:03.584102+00:00",
+   "consensus": {
+    "cluster_id": "7562897ee621",
+    "independent_sources": 4,
+    "sources": [
+     "Sports Illustrated",
+     "Steelers Depot",
+     "Still Curtain",
+     "TribLIVE.com"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "47b303529098",
+     "cea338c8f16a",
+     "7562897ee621"
+    ]
+   },
+   "updated": "2026-10-20T14:14:03.584102+00:00"
+  },
+  {
+   "id": "47b303529098",
+   "title": "Marquez Valdes-Scantling Signing Might Mean Good News for Steelers",
+   "source": "Sports Illustrated",
+   "link": "https://www.si.com/nfl/steelers/onsi/marquez-valdes-scantling-signing-might-good-news-pittsburgh-steelers",
+   "published": "2026-10-20T12:37:08+00:00",
+   "summary": "Rumor-style report from Sports Illustrated on a Steelers roster move. Full details at the source.",
+   "tier": "National insider",
+   "tier_score": 4,
+   "subjects": [],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-20T14:14:03.584102+00:00",
+   "consensus": {
+    "cluster_id": "7562897ee621",
+    "independent_sources": 4,
+    "sources": [
+     "Sports Illustrated",
+     "Steelers Depot",
+     "Still Curtain",
+     "TribLIVE.com"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "c096101038f6",
+     "cea338c8f16a",
+     "7562897ee621"
+    ]
+   },
+   "updated": "2026-10-20T14:14:03.584102+00:00"
+  },
+  {
    "id": "cea338c8f16a",
    "title": "First Call: Steelers reportedly signing Marquez Valdes-Scantling; a theory on Chris Boswell\u2019s FG miss dismissed",
    "source": "TribLIVE.com",
@@ -63,14 +131,18 @@
    "first_seen": "2026-10-20T10:16:41.838191+00:00",
    "consensus": {
     "cluster_id": "7562897ee621",
-    "independent_sources": 2,
+    "independent_sources": 4,
     "sources": [
+     "Sports Illustrated",
      "Steelers Depot",
+     "Still Curtain",
      "TribLIVE.com"
     ],
-    "highest_tier": "Fan blog",
-    "highest_tier_score": 2,
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
     "related_ids": [
+     "c096101038f6",
+     "47b303529098",
      "7562897ee621"
     ]
    },
@@ -119,14 +191,18 @@
    "first_seen": "2026-10-20T00:50:36.617557+00:00",
    "consensus": {
     "cluster_id": "7562897ee621",
-    "independent_sources": 2,
+    "independent_sources": 4,
     "sources": [
+     "Sports Illustrated",
      "Steelers Depot",
+     "Still Curtain",
      "TribLIVE.com"
     ],
-    "highest_tier": "Fan blog",
-    "highest_tier_score": 2,
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
     "related_ids": [
+     "c096101038f6",
+     "47b303529098",
      "cea338c8f16a"
     ]
    },

@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-20T12:17:53+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T12:12:39+00:00._
+_Generated 2026-10-20T14:14:09+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T14:13:28+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Podcast: [Steelers Hint at Two Good Things With WR Signing](https://bleav.com/shows/all-steelers-talk/episodes/steelers-hint-at-two-good-things-with-wr-signing/): All Steelers Talk, 2026-10-20 12:10 UTC
 - Podcast: [Here We Go, The Steelers Show: Rookies are a part of the black-and-gold solution](http://steelcurtainnetwork.com): Steel Curtain Network (BTSC), 2026-10-20 08:00 UTC
 - Video: [Only the Steelers Can Make Winning Look So Ugly | Illegal Hands to the Face](https://www.youtube.com/watch?v=idEz7_-TZ68): Still Curtain Podcast, 2026-10-20 06:54 UTC
 - Video: [Steelers' Mike McCarthy Must Lean More on Jaylen Warren, Under Center Offense to Fix 3rd Down Issues](https://www.youtube.com/watch?v=L7OiUYf66XA): Locked On Steelers, 2026-10-20 06:15 UTC
@@ -18,12 +19,15 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Will Bernard Breakout Blow Up WR Plans? | Steelers Afternoon Drive](https://www.youtube.com/watch?v=7KJmrLW9OyQ): Steelers Now, 2026-10-19 22:34 UTC
 - Video: [Jaquan Brisker, Jack Sawyer & Payton Wilson Press Conference (October 19) | Pittsburgh Steelers](https://www.youtube.com/watch?v=eZZ5tuTJolA): Pittsburgh Steelers (official), 2026-10-19 22:20 UTC
 - Podcast: [DK's Double Shot of Steelers: Credit to this defense](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-double-shot-of-steelers-credit-to-this-defense/): DK Pittsburgh Sports, 2026-10-19 22:15 UTC
+- Podcast: [Drive10.19.26Hr1: Victory Monday](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-19-26hr1-mp3): SNR Drive, 2026-10-19 22:00 UTC
 - Podcast: [Pittsburgh Steelers vs Tampa Bay Buccaneers Week 6 Game Recap/Phone Lines](https://arthurmoats55.libsyn.com/the_arthur_moats_experience__ep_779__live___steelers_vs_bucs_recap_phone_lines_mp3): The Arthur Moats Experience, 2026-10-19 21:56 UTC
 - Video: [DK Metcalf Came Up HUGE in the Steelers OT Win Over the Bucs 🔥 #dkmetcalf #steelers #nfl](https://www.youtube.com/shorts/LPBp6gROjcU): Locked On Steelers, 2026-10-19 21:54 UTC
 - Podcast: [Steelers Battling Over Trade | What's Different About This Team?](https://bleav.com/shows/all-steelers-talk/episodes/steelers-battling-over-trade-whats-different-about-this-team/): All Steelers Talk, 2026-10-19 21:35 UTC
 - Podcast: [The Terrible Take - Episode 2055 - October 19, 2026](https://megaphone.link/SDP4685563774): The Terrible Podcast (Steelers Depot), 2026-10-19 21:00 UTC
+- Podcast: [Drive10.19.26Hr2: Around the NFL - Week Six](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-19-26hr2-mp3): SNR Drive, 2026-10-19 21:00 UTC
 - Video: [Coach McCarthy Press Conference (Week 7 at New Orleans Saints) | Pittsburgh Steelers](https://www.youtube.com/watch?v=M2zs_f3U6tQ): Pittsburgh Steelers (official), 2026-10-19 20:45 UTC
 - Video: [Steelers Save Their Best for Last in Overtime Win in Tampa](https://www.youtube.com/watch?v=WwJom70LMfs): Steel City Underground, 2026-10-19 20:01 UTC
+- Podcast: [Drive10.19.26Kinger: Rob King on Bucs Win](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-19-26king-mp3): SNR Drive, 2026-10-19 20:00 UTC
 - Podcast: [Steelers Save Their Best for Last in Overtime Win in Tampa](https://www.steelcityunderground.com/podcast/2026/10/steelers-save-their-best-for-last-in-overtime-win-in-tampa/): Steel City Underground, 2026-10-19 19:40 UTC
 - Podcast: [Only the Steelers Can Make Winning Look So Ugly | Illegal Hands to the Face](https://redcircle.com/shows/62750d24-c3c9-4be8-919a-ff22b312fb19/episodes/a9b49b24-c6aa-4e45-9d33-504a994fcfb4): Still Curtain Podcast, 2026-10-19 19:38 UTC
 - Podcast: [The Terrible Podcast — Steelers-Buccaneers Game Recap, Injury Recap, Clock Management, WR Rumblings & More](https://megaphone.link/SDP8391514828): The Terrible Podcast (Steelers Depot), 2026-10-19 16:55 UTC
@@ -101,8 +105,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Hour 1: Deep Dive into Buccaneers](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-101526-mp3): Steelers Blitz, 2026-10-15 16:00 UTC
 - Podcast: [Hour 2: How to Lose a Game in Five Ways](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr2-101526-mp3): Steelers Blitz, 2026-10-15 15:00 UTC
 - Podcast: [Steelers Ready for Splash Trade at Deadline](https://bleav.com/shows/all-steelers-talk/?post_type=gp_podcast_episode&p=1850): All Steelers Talk, 2026-10-15 15:00 UTC
-- Video: [STEELERS SQUAD SHOW: SURPRISE! Kordell Stewart CRASHES Show, Talks 'Slash & Burn' HBO Doc](https://www.youtube.com/watch?v=CWlu-Dz7IJU): Locked On Steelers, 2026-10-15 13:15 UTC
-- Podcast: [Aaron Rodgers Leaks Steelers WR Plan](https://bleav.com/shows/all-steelers-talk/episodes/aaron-rodgers-leaks-steelers-wr-plan/): All Steelers Talk, 2026-10-15 12:25 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

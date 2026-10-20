@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T12:12:30.762791+00:00",
+ "generated": "2026-10-20T14:13:09.569347+00:00",
  "count": 150,
  "sources": [
   {
@@ -29,8 +29,8 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "ok",
-   "steelers_items": 24
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "steelers_items": 0
   },
   {
    "source": "Still Curtain",
@@ -107,12 +107,136 @@
  ],
  "items": [
   {
+   "title": "Why Did Steelers Sign MVS? | Steelers Morning Rush",
+   "source": "Steelers Now",
+   "link": "https://steelersnow.com/why-did-steelers-sign-mvs-steelers-morning-rush/",
+   "published": "2026-10-20T14:11:46+00:00",
+   "summary": "Trade/roster move story from Steelers Now. Full report at the original publisher.",
+   "id": "2b0c2893a3"
+  },
+  {
+   "title": "NFL in Paris: League eyes big debut as Pittsburgh Steelers-New Orleans Saints game comes amid security concerns",
+   "source": "Chicago Tribune",
+   "link": "https://www.chicagotribune.com/2026/10/20/nfl-in-paris-league-eyes-big-debut-as-steelers-saints-game-comes-amid-security-concerns/",
+   "published": "2026-10-20T14:05:09+00:00",
+   "via": "Google News",
+   "summary": "Game story from Chicago Tribune. Full report at the original publisher.",
+   "id": "bb40b65656"
+  },
+  {
+   "title": "Steelers\u2019 dream 2027 quarterback class is already losing its shine",
+   "source": "Still Curtain",
+   "link": "https://stillcurtain.com/pittsburgh-steelers-dream-2027-quarterback-class-is-already-losing-its-shine-01m5b6pz8naq?utm_source=RSS",
+   "published": "2026-10-20T14:00:02+00:00",
+   "summary": "News story from Still Curtain. Full report at the original publisher.",
+   "id": "8b2fc04a4e"
+  },
+  {
+   "title": "Steelers news: NFL not relocating Paris game",
+   "source": "Behind the Steel Curtain",
+   "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176594/steelers-news-nfl-not-relocating-paris-game",
+   "published": "2026-10-20T13:40:11+00:00",
+   "summary": "Game story from Behind the Steel Curtain. Full report at the original publisher.",
+   "id": "b633b87bc3"
+  },
+  {
+   "title": "Mike McCarthy Defends Late-Game Play-Calling vs. Bucs: \u2018Those Are Solid Plays\u2019",
+   "source": "Steelers Now",
+   "link": "https://steelersnow.com/mike-mccarthy-defends-late-game-play-calling-vs-bucs/",
+   "published": "2026-10-20T13:39:26+00:00",
+   "summary": "Game story from Steelers Now. Full report at the original publisher.",
+   "id": "ec29e36b94"
+  },
+  {
+   "title": "Even In A Win, Mike McCarthy\u2019s Late-Game Decisions Need Questioned",
+   "source": "Steelers Depot",
+   "link": "https://steelersdepot.com/2026/10/even-in-a-win-mike-mccarthys-late-game-decisions-need-questioned/",
+   "published": "2026-10-20T13:30:44+00:00",
+   "summary": "Game story from Steelers Depot. Full report at the original publisher.",
+   "id": "ecfa4d77eb"
+  },
+  {
+   "title": "Steelers signing Marquez Valdes-Scantling could make things even worse",
+   "source": "Still Curtain",
+   "link": "https://stillcurtain.com/pittsburgh-steelers-signing-marquez-valdes-scantling-could-make-offense-worse-01m5cmdzgrz1?utm_source=RSS",
+   "published": "2026-10-20T13:01:13+00:00",
+   "summary": "Trade/roster move story from Still Curtain. Full report at the original publisher.",
+   "id": "c096101038"
+  },
+  {
+   "title": "\u2018I Take That Very Personal\u2019: One Area Where Mike McCarthy Needs Offense To Do Better",
+   "source": "Steelers Depot",
+   "link": "https://steelersdepot.com/2026/10/i-take-that-very-personal-one-area-where-mike-mccarthy-needs-offense-to-do-better/",
+   "published": "2026-10-20T13:00:51+00:00",
+   "summary": "News story from Steelers Depot. Full report at the original publisher.",
+   "id": "289a237ea7"
+  },
+  {
+   "title": "Steelers should call the Giants after the surprise Cam Skattebo benching",
+   "source": "Still Curtain",
+   "link": "https://stillcurtain.com/pittsburgh-steelers-should-call-the-giants-after-the-surprise-cam-skattebo-benching-01m5arkwgky1?utm_source=RSS",
+   "published": "2026-10-20T13:00:00+00:00",
+   "summary": "Opinion story from Still Curtain. Full report at the original publisher.",
+   "id": "31262c8e23"
+  },
+  {
+   "title": "Steelers Week 6 Snap Counts: Running Back Plan Becoming Clear?",
+   "source": "Athlon Sports",
+   "link": "https://athlonsports.com/nfl/pittsburgh-steelers/steelers-week-6-snap-counts-running-back-plan-becoming-clear",
+   "published": "2026-10-20T13:00:00+00:00",
+   "via": "Google News",
+   "summary": "Opinion story from Athlon Sports. Full report at the original publisher.",
+   "id": "78f730689a"
+  },
+  {
    "title": "The best soccer/NFL crossover jerseys as PSG unveil kit for Steelers vs. Saints in Paris",
    "source": "ESPN",
    "link": "https://www.espn.com/soccer/story/_/id/50225836/the-best-soccer-nfl-crossover-jerseys-psg-kit-pittsburgh-steelers-new-orleans-saints-paris-game",
    "published": "2026-10-20T12:41:31+00:00",
    "summary": "Game story from ESPN. Full report at the original publisher.",
    "id": "8fa78cac8e"
+  },
+  {
+   "title": "Steelers Rookie Kaden Wetjen Gets Strong Vote Of Confidence",
+   "source": "SteelerNation",
+   "link": "https://www.steelernation.com/2026/10/20/steelers-rookie-kaden-wetjen-strong",
+   "published": "2026-10-20T12:39:04+00:00",
+   "summary": "News story from SteelerNation. Full report at the original publisher.",
+   "id": "81f36c37cf"
+  },
+  {
+   "title": "Getting Defensive: Week 7 fantasy plays led by Vikings, Steelers; top streaming defenses",
+   "source": "Yahoo Sports",
+   "link": "https://sports.yahoo.com/articles/getting-defensive-week-7-fantasy-121855969.html",
+   "published": "2026-10-20T12:18:55+00:00",
+   "summary": "News story from Yahoo Sports. Full report at the original publisher.",
+   "id": "1e89f369f3"
+  },
+  {
+   "title": "Pittsburgh Steelers vs New Orleans Saints | October 25, 2026 | NFL Matchup",
+   "source": "theScore",
+   "link": "https://www.thescore.com/nfl/event/140671?source=ticker_home",
+   "published": "2026-10-20T12:13:20+00:00",
+   "via": "Google News",
+   "summary": "Game story from theScore. Full report at the original publisher.",
+   "id": "d096d2c233"
+  },
+  {
+   "title": "The shorthanded Steelers are bringing back veteran receiver Marquez Valdes-Scantling",
+   "source": "Pittsburgh Post-Gazette",
+   "link": "https://www.post-gazette.com/sports/steelers/2026/10/20/steelers-sign-mvs/stories/202610200032",
+   "published": "2026-10-20T12:13:00+00:00",
+   "summary": "News story from Pittsburgh Post-Gazette. Full report at the original publisher.",
+   "id": "c15c80dc95"
+  },
+  {
+   "title": "Keionte Scott Developing into Bucs\u2019 Swiss-Army Knife",
+   "source": "Tampa Bay Buccaneers",
+   "link": "https://www.buccaneers.com/news/keionte-scott-developing-bucs-swiss-army-knife",
+   "published": "2026-10-20T12:02:53+00:00",
+   "via": "Google News",
+   "summary": "News story from Tampa Bay Buccaneers. Full report at the original publisher.",
+   "id": "73fcef6dd4"
   },
   {
    "title": "Buccaneers just showed Steelers why Drew Allar should be Aaron Rodgers' backup",
@@ -139,12 +263,13 @@
    "id": "c170b3e653"
   },
   {
-   "title": "Plays of the Game: Germie Bernard scores first NFL touchdown to lift Steelers past Buccaneers",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/20/plays-of-the-game-germie-bernard-scores-first-nfl-touchdown-to-lift-steelers-past-buccaneers/",
-   "published": "2026-10-20T11:47:58+00:00",
-   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
-   "id": "ff47dfcfd1"
+   "title": "NFL Paris game still on despite France riots, league says",
+   "source": "NewsNation",
+   "link": "https://www.newsnationnow.com/us-news/sports/nfl-paris-game-france-riots-pittsburgh-steelers-new-orleans-saints/",
+   "published": "2026-10-20T11:38:09+00:00",
+   "via": "Google News",
+   "summary": "Game story from NewsNation. Full report at the original publisher.",
+   "id": "6ef3bb561b"
   },
   {
    "title": "PFF Grades And Snap Counts: Steelers Vs Buccaneers",
@@ -180,14 +305,6 @@
    "id": "2b3c29a6e2"
   },
   {
-   "title": "Tampa Bay Buccaneers news: Bucs show progress in loss vs. Steelers",
-   "source": "Yahoo Sports",
-   "link": "https://sports.yahoo.com/articles/tampa-bay-buccaneers-news-bucs-110000458.html",
-   "published": "2026-10-20T11:00:00+00:00",
-   "summary": "Game story from Yahoo Sports. Full report at the original publisher.",
-   "id": "e37a68f655"
-  },
-  {
    "title": "NFL Paris: Alan Faneca\u2019s bold Steelers call before Saints showdown",
    "source": "DAZN",
    "link": "https://www.dazn.com/en-US/news/football/steelers-vs-saints-nfl-paris-faneca-offensive-line-rodgers-mccarthy/1hzn0950ivg0r117xaxo9ndcaz",
@@ -211,15 +328,6 @@
    "published": "2026-10-20T10:05:00+00:00",
    "summary": "News story from Steelers.com (official). Full report at the original publisher.",
    "id": "3b4e645c6a"
-  },
-  {
-   "title": "NFL in Paris: League eyes big debut as Steelers-Saints game comes amid security concerns",
-   "source": "Bozeman Daily Chronicle",
-   "link": "https://www.bozemandailychronicle.com/wire/sports/nfl-in-paris-league-eyes-big-debut-as-steelers-saints-game-comes-amid-security-concerns/article_18d81167-21b8-5b0a-be49-daa1f460a4a7.html",
-   "published": "2026-10-20T10:01:06+00:00",
-   "via": "Google News",
-   "summary": "Game story from Bozeman Daily Chronicle. Full report at the original publisher.",
-   "id": "060a6c9c91"
   },
   {
    "title": "Steelers may have an unexpected Browns problem brewing in the AFC North",
@@ -286,13 +394,22 @@
    "id": "01bc02e291"
   },
   {
-   "title": "Steelers, Aaron Rodgers to reunite with Marquez Valdes-Scantling: Source",
+   "title": "Steelers, Aaron Rodgers to reunite with Marquez Valdes-Scantling: Source - The Athletic",
    "source": "The New York Times",
    "link": "https://www.nytimes.com/athletic/7706229/2026/10/19/steelers-aaron-rodgers-marquez-valdes-scantling-signing/",
    "published": "2026-10-20T03:44:54+00:00",
    "via": "Google News",
    "summary": "News story from The New York Times. Full report at the original publisher.",
    "id": "5a11d67393"
+  },
+  {
+   "title": "Pittsburgh Steelers 2026 NFL Playoff Simulator",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/pittsburgh-steelers-season-projections/",
+   "published": "2026-10-20T03:25:44+00:00",
+   "via": "Google News",
+   "summary": "News story from The New York Times. Full report at the original publisher.",
+   "id": "1b7071e728"
   },
   {
    "title": "49ers Practice Squad Player Turned Down Chance To Sign With Steelers In 2025",
@@ -326,6 +443,15 @@
    "published": "2026-10-20T01:20:14+00:00",
    "summary": "Injury story from ProFootballTalk (NBC). Full report at the original publisher.",
    "id": "362f0d9952"
+  },
+  {
+   "title": "Pittsburgh Steelers Found the Answer When Their Running Game Disappeared",
+   "source": "Athlon Sports",
+   "link": "https://athlonsports.com/nfl/pittsburgh-steelers/pittsburgh-steelers-germie-bernard-dk-metcalf-aaron-rodgers-tampa-bay-buccaneers",
+   "published": "2026-10-20T01:18:00+00:00",
+   "via": "Google News",
+   "summary": "Game story from Athlon Sports. Full report at the original publisher.",
+   "id": "5a11d1fd52"
   },
   {
    "title": "Grading the signing: Pittsburgh Steelers bring back a familiar face to help the wide receiver room amid multiple injuries",
@@ -391,15 +517,6 @@
    "published": "2026-10-20T00:46:40+00:00",
    "summary": "Trade/roster move story from Steelers Depot. Full report at the original publisher.",
    "id": "7562897ee6"
-  },
-  {
-   "title": "Pittsburgh Steelers 2026 NFL Playoff Simulator",
-   "source": "The New York Times",
-   "link": "https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/pittsburgh-steelers-season-projections/",
-   "published": "2026-10-20T00:17:38+00:00",
-   "via": "Google News",
-   "summary": "News story from The New York Times. Full report at the original publisher.",
-   "id": "1b7071e728"
   },
   {
    "title": "Jaylen Warren Leads NFL in Jaw-Dropping Stat Despite Quiet Week 6 Performance",
@@ -618,14 +735,6 @@
    "id": "ad2efed89b"
   },
   {
-   "title": "Missed Tackles Report: Steelers At Buccaneers",
-   "source": "Steelers Depot",
-   "link": "https://steelersdepot.com/2026/10/missed-tackles-report-steelers-at-buccaneers/",
-   "published": "2026-10-19T20:00:55+00:00",
-   "summary": "News story from Steelers Depot. Full report at the original publisher.",
-   "id": "d1e673cb0a"
-  },
-  {
    "title": "Steelers fans expecting a bolder Mike McCarthy are learning a painful lesson",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/pittsburgh-steelers-fans-expecting-bolder-mike-mccarthy-learning-painful-lesson-01m5ag1p2tyd?utm_source=RSS",
@@ -641,14 +750,6 @@
    "summary": "News story from All Steelers (Sports Illustrated). Full report at the original publisher.",
    "via": "Google News",
    "id": "97cd5de9c0"
-  },
-  {
-   "title": "\u2018You\u2019re Always Looking:\u2019 McCarthy Acknowledges Steelers Could Consider External Receiver Options",
-   "source": "Steelers Depot",
-   "link": "https://steelersdepot.com/2026/10/youre-always-looking-mccarthy-acknowledges-front-office-could-consider-external-receiver-options/",
-   "published": "2026-10-19T19:50:59+00:00",
-   "summary": "News story from Steelers Depot. Full report at the original publisher.",
-   "id": "12e790ce10"
   },
   {
    "title": "Former All-Pro Likely On Steelers' Radar With Trade Deadline Quickly Approaching",
@@ -758,15 +859,6 @@
    "id": "76483ef434"
   },
   {
-   "title": "Aaron Rodgers\u2019 family cheers on NFL star at Steelers game for first time since ending feud",
-   "source": "Page Six",
-   "link": "https://pagesix.com/2026/10/19/celebrity-news/aaron-rodgers-family-cheers-him-on-at-steelers-game-for-first-time-since-ending-feud/",
-   "published": "2026-10-19T16:54:00+00:00",
-   "via": "Google News",
-   "summary": "Game story from Page Six. Full report at the original publisher.",
-   "id": "86224c8272"
-  },
-  {
    "title": "Steelers Safety Jaquan Brisker Speaks On Playing In Paris Amid Civil Unrest",
    "source": "SteelerNation",
    "link": "https://www.steelernation.com/2026/10/19/steelers-safety-jaquan-brisker-paris",
@@ -798,14 +890,6 @@
    "published": "2026-10-19T16:16:25+00:00",
    "summary": "Injury story from PennLive (Nick Farabaugh). Full report at the original publisher.",
    "id": "26d8e29a34"
-  },
-  {
-   "title": "Steelers' WR Problem Got A Lot Worse With Latest Michael Pittman Jr Report",
-   "source": "SteelerNation",
-   "link": "https://www.steelernation.com/2026/10/19/steelers-problem-worse-michael-pittman-jr",
-   "published": "2026-10-19T16:07:49+00:00",
-   "summary": "News story from SteelerNation. Full report at the original publisher.",
-   "id": "7fefa59a7b"
   },
   {
    "title": "Steelers\u2019 winning ways are hiding a troubling Chris Boswell problem",
@@ -889,6 +973,15 @@
    "id": "ad822fd2c8"
   },
   {
+   "title": "Steelers' Germie Bernard Sets New Aaron Rodgers Record",
+   "source": "All Steelers (Sports Illustrated)",
+   "link": "https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-germie-bernard-sets-new-aaron-rodgers-record",
+   "published": "2026-10-19T14:00:02+00:00",
+   "summary": "News story from All Steelers (Sports Illustrated). Full report at the original publisher.",
+   "via": "Google News",
+   "id": "0d794c90ec"
+  },
+  {
    "title": "QBs Worst Nightmare? Steelers CB Jalen Ramsey Provides Even More Value",
    "source": "Steelers Now",
    "link": "https://steelersnow.com/qbs-worst-nightmare-steelers-cb-jalen-ramsey-provides-even-more-value/",
@@ -913,28 +1006,12 @@
    "id": "da4c5f3a6a"
   },
   {
-   "title": "Steelers Takeaways: Second-half comeback saves Pittsburgh in overtime win over Buccaneers",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/19/steelers-takeaways-second-half-comeback-saves-pittsburgh-in-overtime-win-over-buccaneers/",
-   "published": "2026-10-19T13:14:03+00:00",
-   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
-   "id": "dfe2de4202"
-  },
-  {
    "title": "Germie Bernard's growing connection with Aaron Rodgers has Steelers buzzing",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/germie-bernard-growing-connection-aaron-rodgers-pittsburgh-steelers-buzzing-01m59441d0x6?utm_source=RSS",
    "published": "2026-10-19T13:00:01+00:00",
    "summary": "Game story from Still Curtain. Full report at the original publisher.",
    "id": "38f90d51ed"
-  },
-  {
-   "title": "Saunders\u2019 Steelers Takeaways: Mike McCarthy Was Supposed to be Better Than This, But Give Credit Where It\u2019s Due",
-   "source": "Steelers Now",
-   "link": "https://steelersnow.com/saunders-steelers-takeaways-mike-mccarthy-was-supposed-to-be-better-than-this-but-give-credit-where-its-due/",
-   "published": "2026-10-19T12:05:04+00:00",
-   "summary": "Game story from Steelers Now. Full report at the original publisher.",
-   "id": "9322888d62"
   },
   {
    "title": "Steelers vs. Buccaneers: What they\u2019re saying in Tampa Bay after loss",
@@ -951,14 +1028,6 @@
    "published": "2026-10-19T12:00:03+00:00",
    "summary": "News story from Still Curtain. Full report at the original publisher.",
    "id": "f1094d0f3b"
-  },
-  {
-   "title": "Plays of the Game: Jamel Dean\u2019s interception sets up Steelers\u2019 late lead",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/19/plays-of-the-game-jamel-deans-interception-sets-up-steelers-late-lead/",
-   "published": "2026-10-19T11:40:57+00:00",
-   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
-   "id": "c1a0198967"
   },
   {
    "title": "\u2018He\u2019s accepted the challenge\u2019: Germie Bernard rewards Steelers\u2019 faith in rookie wide receiver",
@@ -983,14 +1052,6 @@
    "published": "2026-10-19T10:00:00+00:00",
    "summary": "Game story from Behind the Steel Curtain. Full report at the original publisher.",
    "id": "42c5e07902"
-  },
-  {
-   "title": "Daily News & Links: Aaron Rodgers Has Hilarious Moment with Bucs Player; Jamel Dean Sets Steelers Record",
-   "source": "Steelers Now",
-   "link": "https://steelersnow.com/daily-news-links-aaron-rodgers-has-hilarious-moment-with-bucs-player-jamel-dean-sets-steelers-record/",
-   "published": "2026-10-19T10:00:00+00:00",
-   "summary": "News story from Steelers Now. Full report at the original publisher.",
-   "id": "bda3716849"
   },
   {
    "title": "NFL Wake-up Call: Week 6 smashed narratives and showed how little we know",
@@ -1121,15 +1182,6 @@
    "id": "c0975a7da2"
   },
   {
-   "title": "NFL Week 6 Recap: Pittsburgh Steelers 26, Tampa Bay Buccaneers 19",
-   "source": "PFF",
-   "link": "https://www.pff.com/news/nfl-week-6-recap-pittsburgh-steelers-26-tampa-bay-buccaneers-19",
-   "published": "2026-10-18T22:22:16+00:00",
-   "via": "Google News",
-   "summary": "Game story from PFF. Full report at the original publisher.",
-   "id": "274a91bb0f"
-  },
-  {
    "title": "Pittsburgh Steelers' top plays vs. Tampa Bay Buccaneers | Week 6",
    "source": "NFL.com",
    "link": "https://www.nfl.com/videos/steelers-top-plays-vs-buccaneers-week-6-x2393",
@@ -1161,14 +1213,6 @@
    "published": "2026-10-18T21:30:00+00:00",
    "summary": "Game story from Still Curtain. Full report at the original publisher.",
    "id": "ca22a1314a"
-  },
-  {
-   "title": "Steelers stock report after Week 6 win over Buccaneers",
-   "source": "Behind the Steel Curtain",
-   "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176510/steelers-stock-report-after-week-6-win-over-buccaneers",
-   "published": "2026-10-18T21:25:31+00:00",
-   "summary": "Game story from Behind the Steel Curtain. Full report at the original publisher.",
-   "id": "1f7a071ecc"
   },
   {
    "title": "Can't-Miss Play: Ramsey calls game! Jalen's blitzing sack of Jalon Daniels sends Steelers to an OT win",
@@ -1237,21 +1281,21 @@
    "id": "81b27d8437"
   },
   {
+   "title": "Steelers vs. Buccaneers Takeaways: The Comeback Tells Nothing",
+   "source": "All Steelers (Sports Illustrated)",
+   "link": "https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-buccaneers-takeaways-comeback-tells-nothing",
+   "published": "2026-10-18T20:44:09+00:00",
+   "summary": "Game story from All Steelers (Sports Illustrated). Full report at the original publisher.",
+   "via": "Google News",
+   "id": "06139eb940"
+  },
+  {
    "title": "The Steelers got punched in the mouth by the Buccaneers -- then their real football character showed",
    "source": "PennLive (Nick Farabaugh)",
    "link": "https://www.pennlive.com/steelers/2026/10/the-steelers-got-punched-in-the-mouth-by-the-buccaneers-then-their-real-football-character-showed.html",
    "published": "2026-10-18T20:44:04+00:00",
    "summary": "Opinion story from PennLive (Nick Farabaugh). Full report at the original publisher.",
    "id": "9a56b90ef5"
-  },
-  {
-   "title": "Steelers beat Buccaneers in overtime after mounting thrilling fourth-quarter comeback",
-   "source": "CBS News",
-   "link": "https://www.cbsnews.com/pittsburgh/news/pittsburgh-steelers-tampa-bay-buccaneers-score-nfl-news/",
-   "published": "2026-10-18T20:43:00+00:00",
-   "via": "Google News",
-   "summary": "Game story from CBS News. Full report at the original publisher.",
-   "id": "b13ee28e63"
   },
   {
    "title": "Steelers safety, former Penn State star goes down with injury against Buccaneers",
@@ -1285,49 +1329,6 @@
    "summary": "Injury story from All Steelers (Sports Illustrated). Full report at the original publisher.",
    "via": "Google News",
    "id": "829c59a8d5"
-  },
-  {
-   "title": "NFL: \u2018Preparations continue as scheduled\u2019 for Steelers game in Paris, despite protests",
-   "source": "TribLive",
-   "link": "https://triblive.com/sports/nfl-preparations-continue-as-scheduled-for-steelers-game-in-paris-despite-protests/",
-   "published": "2026-10-18T17:41:52+00:00",
-   "summary": "Game story from TribLive. Full report at the original publisher.",
-   "id": "056164179c"
-  },
-  {
-   "title": "[WATCH@LIVE-GAME] Pittsburgh Steelers vs Tampa Bay Buccaneers Game Live free NFL Football October, 18, 2026 pan",
-   "source": "Universidad de C\u00f3rdoba (UCO)",
-   "link": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3RvcC5kaXJlY3R0dmh1Yi5zaG9wL2dvcyIvPjwva3JwYW5vPg==&id=video-pittsburgh-steelers-vs-tampa-bay-buccaneers-liv-games-op5",
-   "published": "2026-10-18T17:33:57+00:00",
-   "via": "Google News",
-   "summary": "Game story from Universidad de C\u00f3rdoba (UCO). Full report at the original publisher.",
-   "id": "4709360bfc"
-  },
-  {
-   "title": "Here's How I find Tampa Bay Buccaneers vs Pittsburgh Steelers \ud835\udd43\ud835\udd5a\ud835\udd67\ud835\udd56 \uff26\uff52\uff45\uff45 \uff33\uff54\uff52\uff45\uff41\uff4d\uff53 Today",
-   "source": "Universidad de C\u00f3rdoba (UCO)",
-   "link": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2dldnRzdi5naXRodWIuaW8vdmFsby9zci54bWwiLz48L2tycGFubz4=&id=video-heres-how-i-find-tampa-bay-b-n1gtm2mg",
-   "published": "2026-10-18T17:20:49+00:00",
-   "via": "Google News",
-   "summary": "Game story from Universidad de C\u00f3rdoba (UCO). Full report at the original publisher.",
-   "id": "420b410d16"
-  },
-  {
-   "title": "Tampa Bay Buccaneers vs Pittsburgh Steelers NFL Week 6 live: Tampa Bay Buccaneers vs Pittsburgh Steelers NFL Week 6 look to seize control of thrilling Tampa Bay Buccaneers vs Pittsburgh Steelers NFL Week 6. Every team in the Tampa Bay Buccaneers",
-   "source": "Universidad de C\u00f3rdoba (UCO)",
-   "link": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5aHVicy5ubC92b3MvbmV3L2EueG1sIi8+PC9rcnBhbm8+&id=video-tampa-bay-buccaneers-vs-pittsburgh-steelers-nfl-week-6-lie-us5b1174",
-   "published": "2026-10-18T16:47:56+00:00",
-   "via": "Google News",
-   "summary": "Game story from Universidad de C\u00f3rdoba (UCO). Full report at the original publisher.",
-   "id": "70458e29e5"
-  },
-  {
-   "title": "Pittsburgh Steelers get huge boost with good injury news on five starters, including Pat Freiermuth",
-   "source": "PennLive (Nick Farabaugh)",
-   "link": "https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-get-huge-boost-with-good-injury-news-on-five-starters-including-pat-freiermuth.html",
-   "published": "2026-10-18T16:28:48+00:00",
-   "summary": "Injury story from PennLive (Nick Farabaugh). Full report at the original publisher.",
-   "id": "e911b2cdee"
   }
  ],
  "dropped_bad_links": 0

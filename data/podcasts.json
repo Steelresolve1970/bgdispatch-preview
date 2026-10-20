@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-20T12:12:39.998207+00:00",
+ "generated": "2026-10-20T14:13:28.822729+00:00",
  "date_et": "2026-10-20",
  "days": 5,
  "display_days": 2,
- "count": 119,
+ "count": 121,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -20,7 +20,7 @@
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7JorgD8nGLtvvMy1ogFetg",
    "status": "ok",
    "episodes": 15,
-   "week": 9,
+   "week": 8,
    "latest": "2026-10-20T06:15:07+00:00"
   },
   {
@@ -64,9 +64,9 @@
    "kind": "podcast",
    "url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/402ff7c3-7326-4fc5-aee9-aea000011b5f/fb99635a-fca2-410d-995d-aea000011b8e/podcast.rss",
    "status": "ok",
-   "episodes": 2793,
-   "week": 3,
-   "latest": "2026-10-16T16:00:00+00:00"
+   "episodes": 2796,
+   "week": 6,
+   "latest": "2026-10-19T22:00:00+00:00"
   },
   {
    "show": "Still Curtain Podcast",
@@ -90,10 +90,10 @@
    "show": "Steel City Underground",
    "kind": "podcast",
    "url": "https://feeds.feedburner.com/steelcityunderground",
-   "status": "ok",
-   "episodes": 45,
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "episodes": 0,
    "week": 2,
-   "latest": "2026-10-19T19:40:55+00:00"
+   "latest": null
   },
   {
    "show": "Steel City Underground",
@@ -109,9 +109,9 @@
    "kind": "podcast",
    "url": "https://feeds.megaphone.fm/RRTET7764502074",
    "status": "ok",
-   "episodes": 1481,
+   "episodes": 1482,
    "week": 0,
-   "latest": "2026-10-19T22:31:00+00:00"
+   "latest": "2026-10-20T14:10:00+00:00"
   },
   {
    "show": "The Sick Podcast - Steelers Crazy",
@@ -145,9 +145,9 @@
    "kind": "podcast",
    "url": "https://feeds.simplecast.com/TJlnaIkx",
    "status": "ok",
-   "episodes": 1823,
+   "episodes": 1824,
    "week": 9,
-   "latest": "2026-10-19T21:35:00+00:00"
+   "latest": "2026-10-20T12:10:00+00:00"
   },
   {
    "show": "Steelers Now",
@@ -250,6 +250,14 @@
   }
  ],
  "items": [
+  {
+   "title": "Steelers Hint at Two Good Things With WR Signing",
+   "show": "All Steelers Talk",
+   "kind": "podcast",
+   "link": "https://bleav.com/shows/all-steelers-talk/episodes/steelers-hint-at-two-good-things-with-wr-signing/",
+   "published": "2026-10-20T12:10:00+00:00",
+   "summary": "Podcast episode from All Steelers Talk."
+  },
   {
    "title": "Here We Go, The Steelers Show: Rookies are a part of the black-and-gold solution",
    "show": "Steel Curtain Network (BTSC)",
@@ -379,6 +387,14 @@
    "summary": "Podcast episode from DK Pittsburgh Sports."
   },
   {
+   "title": "Drive10.19.26Hr1: Victory Monday",
+   "show": "SNR Drive",
+   "kind": "podcast",
+   "link": "https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-19-26hr1-mp3",
+   "published": "2026-10-19T22:00:00+00:00",
+   "summary": "Podcast episode from SNR Drive."
+  },
+  {
    "title": "Pittsburgh Steelers vs Tampa Bay Buccaneers Week 6 Game Recap/Phone Lines",
    "show": "The Arthur Moats Experience",
    "kind": "podcast",
@@ -411,6 +427,14 @@
    "summary": "Podcast episode from The Terrible Podcast (Steelers Depot)."
   },
   {
+   "title": "Drive10.19.26Hr2: Around the NFL - Week Six",
+   "show": "SNR Drive",
+   "kind": "podcast",
+   "link": "https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-19-26hr2-mp3",
+   "published": "2026-10-19T21:00:00+00:00",
+   "summary": "Podcast episode from SNR Drive."
+  },
+  {
    "title": "Coach McCarthy Press Conference (Week 7 at New Orleans Saints) | Pittsburgh Steelers",
    "show": "Pittsburgh Steelers (official)",
    "kind": "video",
@@ -425,6 +449,14 @@
    "link": "https://www.youtube.com/watch?v=WwJom70LMfs",
    "published": "2026-10-19T20:01:57+00:00",
    "summary": "Video from Steel City Underground."
+  },
+  {
+   "title": "Drive10.19.26Kinger: Rob King on Bucs Win",
+   "show": "SNR Drive",
+   "kind": "podcast",
+   "link": "https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-19-26king-mp3",
+   "published": "2026-10-19T20:00:00+00:00",
+   "summary": "Podcast episode from SNR Drive."
   },
   {
    "title": "The Mike McCarthy Weekly Press Conference Recap: Week 6 vs. Buccaneers",
@@ -1185,22 +1217,6 @@
    "link": "https://bleav.com/shows/all-steelers-talk/?post_type=gp_podcast_episode&p=1850",
    "published": "2026-10-15T15:00:00+00:00",
    "summary": "Podcast episode from All Steelers Talk."
-  },
-  {
-   "title": "STEELERS SQUAD SHOW: SURPRISE! Kordell Stewart CRASHES Show, Talks 'Slash & Burn' HBO Doc",
-   "show": "Locked On Steelers",
-   "kind": "video",
-   "link": "https://www.youtube.com/watch?v=CWlu-Dz7IJU",
-   "published": "2026-10-15T13:15:31+00:00",
-   "summary": "Video from Locked On Steelers."
-  },
-  {
-   "title": "Aaron Rodgers Leaks Steelers WR Plan",
-   "show": "All Steelers Talk",
-   "kind": "podcast",
-   "link": "https://bleav.com/shows/all-steelers-talk/episodes/aaron-rodgers-leaks-steelers-wr-plan/",
-   "published": "2026-10-15T12:25:00+00:00",
-   "summary": "Podcast episode from All Steelers Talk."
   }
  ],
  "yt_channels": [],
@@ -1262,19 +1278,19 @@
     "summary": "Video from Steel City Underground."
    },
    {
+    "title": "Drive10.19.26Kinger: Rob King on Bucs Win",
+    "show": "SNR Drive",
+    "kind": "podcast",
+    "link": "https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-19-26king-mp3",
+    "published": "2026-10-19T20:00:00+00:00",
+    "summary": "Podcast episode from SNR Drive."
+   },
+   {
     "title": "The Mike McCarthy Weekly Press Conference Recap: Week 6 vs. Buccaneers",
     "show": "Steel Curtain Network (BTSC)",
     "kind": "podcast",
     "link": "http://steelcurtainnetwork.com",
     "published": "2026-10-19T19:50:00+00:00",
-    "summary": "Podcast episode from Steel Curtain Network (BTSC)."
-   },
-   {
-    "title": "Steel City Insider: Recapping the Steelers OT win over the Buccaneers",
-    "show": "Steel Curtain Network (BTSC)",
-    "kind": "podcast",
-    "link": "http://steelcurtainnetwork.com",
-    "published": "2026-10-19T17:40:00+00:00",
     "summary": "Podcast episode from Steel Curtain Network (BTSC)."
    }
   ]
