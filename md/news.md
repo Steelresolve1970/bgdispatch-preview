@@ -1,8 +1,9 @@
 # Steelers News
 
-_Generated 2026-10-20T08:54:29+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T08:53:44+00:00._
+_Generated 2026-10-20T09:05:07+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T09:04:42+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Will Steelers Quickly Promote Marquez Valdes-Scantling To WR3?](https://steelersdepot.com/2026/10/will-steelers-quickly-promote-marquez-valdes-scantling-to-wr3/): Steelers Depot, 2026-10-20 09:00 UTC
 - [Why Mike McCarthy and the Steelers must run the ball more often on third down](https://www.post-gazette.com/sports/steelers/2026/10/20/steelers-third-down-struggles/stories/202610190030): Pittsburgh Post-Gazette, 2026-10-20 08:00 UTC
 - [The Forgotten Play That Helped The Steelers Beat The Buccaneers](https://steelersdepot.com/2026/10/the-forgotten-play-that-helped-the-steelers-beat-the-buccaneers/): Steelers Depot, 2026-10-20 04:00 UTC
 - [Steelers, Aaron Rodgers to reunite with Marquez Valdes-Scantling: Source](https://www.nytimes.com/athletic/7706229/2026/10/19/steelers-aaron-rodgers-marquez-valdes-scantling-signing/): The New York Times, 2026-10-20 03:44 UTC
@@ -68,7 +69,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [‘I Wanted Them To Lose’: Domonique Foxworth Says Steelers ‘Didn’t Deserve’ To Beat Buccaneers](https://steelersdepot.com/2026/10/i-wanted-them-to-lose-domonique-foxworth-says-steelers-didnt-deserve-to-beat-buccaneers/): Steelers Depot, 2026-10-19 18:30 UTC
 - [Steelers Accomplish Extremely Rare Feat in Win over Bucs](https://steelersnow.com/steelers-accomplish-extremely-rare-feat-in-win-over-bucs/): Steelers Now, 2026-10-19 18:20 UTC
 - [Steelers' Aaron Rodgers Has Daring Comments For Buccaneers' Glazer Family](https://www.steelernation.com/2026/10/19/steelers-aaron-rodgers-daring-buccaneers): SteelerNation, 2026-10-19 18:11 UTC
-- [‘Everyone Was Happy’: Jaquan Brisker Loved Jamel Dean’s ‘Amazing’ Revenge Game In Tampa](https://steelersdepot.com/2026/10/everyone-was-happy-jaquan-brisker-loved-jamel-deans-amazing-revenge-game-in-tampa/): Steelers Depot, 2026-10-19 18:00 UTC
 - [David Walker Led Defensive Charge Against Steelers With Multi-Sack Performance](https://www.buccaneers.com/news/david-walker-led-defensive-charge-against-steelers-multi-sack-performance-week-6-2026): Tampa Bay Buccaneers, 2026-10-19 17:37 UTC
 - ["Fire Sale": Steelers Trading For Colts WR Josh Downs Suddenly On The Horizon](https://www.steelernation.com/2026/10/19/steelers-colts-josh-downs-suddenly): SteelerNation, 2026-10-19 17:34 UTC
 - [Saints Could Get Back Key Playmaker vs. Steelers](https://steelersnow.com/saints-could-get-back-key-playmaker-vs-steelers/): Steelers Now, 2026-10-19 17:23 UTC

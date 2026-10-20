@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-20T08:54:13.736922+00:00",
+ "generated": "2026-10-20T09:04:51.116895+00:00",
  "date_et": "2026-10-20",
  "days": 5,
  "display_days": 2,
- "count": 120,
+ "count": 119,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -90,10 +90,10 @@
    "show": "Steel City Underground",
    "kind": "podcast",
    "url": "https://feeds.feedburner.com/steelcityunderground",
-   "status": "error: <urlopen error timed out>",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 45,
    "week": 2,
-   "latest": null
+   "latest": "2026-10-19T19:40:55+00:00"
   },
   {
    "show": "Steel City Underground",
@@ -144,10 +144,10 @@
    "show": "All Steelers Talk",
    "kind": "podcast",
    "url": "https://feeds.simplecast.com/TJlnaIkx",
-   "status": "error: <urlopen error timed out>",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 1823,
    "week": 9,
-   "latest": null
+   "latest": "2026-10-19T21:35:00+00:00"
   },
   {
    "show": "Steelers Now",
@@ -180,10 +180,10 @@
    "show": "Steelers Breakdown (PennLive, Nick Farabaugh)",
    "kind": "podcast",
    "url": "https://feeds.megaphone.fm/steelersupdateonpennlive",
-   "status": "error: <urlopen error timed out>",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 696,
    "week": 0,
-   "latest": null
+   "latest": "2026-10-14T01:22:00+00:00"
   },
   {
    "show": "Nick Farabaugh on PennLive",
@@ -236,7 +236,7 @@
    "url": "https://anchor.fm/s/f8ce42dc/podcast/rss",
    "status": "ok",
    "episodes": 112,
-   "week": 1,
+   "week": 0,
    "latest": "2026-10-15T09:00:00+00:00"
   },
   {
@@ -1201,14 +1201,6 @@
    "link": "https://arthurmoats55.libsyn.com/warrenilb_ytmp3",
    "published": "2026-10-15T09:52:00+00:00",
    "summary": "Podcast episode from The Arthur Moats Experience."
-  },
-  {
-   "title": "Germie Bernard on Making It to the NFL & Life Beyond the Game | The Christian Kuntz Podcast",
-   "show": "The Christian Kuntz Podcast",
-   "kind": "podcast",
-   "link": "https://podcasters.spotify.com/pod/show/christian-kuntz/episodes/Germie-Bernard-on-Making-It-to-the-NFL--Life-Beyond-the-Game--The-Christian-Kuntz-Podcast-e3qgbnm",
-   "published": "2026-10-15T09:00:00+00:00",
-   "summary": "Podcast episode from The Christian Kuntz Podcast."
   }
  ],
  "yt_channels": [],
