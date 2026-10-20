@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-20T16:20:42.317166+00:00",
+ "generated": "2026-10-20T17:02:52.562092+00:00",
  "date_et": "2026-10-20",
  "days": 5,
  "display_days": 2,
- "count": 132,
+ "count": 131,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -20,7 +20,7 @@
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7JorgD8nGLtvvMy1ogFetg",
    "status": "ok",
    "episodes": 15,
-   "week": 8,
+   "week": 7,
    "latest": "2026-10-20T06:15:07+00:00"
   },
   {
@@ -90,10 +90,10 @@
    "show": "Steel City Underground",
    "kind": "podcast",
    "url": "https://feeds.feedburner.com/steelcityunderground",
-   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 45,
    "week": 2,
-   "latest": null
+   "latest": "2026-10-19T19:40:55+00:00"
   },
   {
    "show": "Steel City Underground",
@@ -1297,14 +1297,6 @@
    "link": "https://www.youtube.com/watch?v=5chTykeJwJk",
    "published": "2026-10-15T19:05:24+00:00",
    "summary": "Video from Steel City Underground."
-  },
-  {
-   "title": "The Steelers vs Bucs Matchup Comes Down to Who Controls the Run Game \ud83d\ude24 #steelers #Bucs #nfl",
-   "show": "Locked On Steelers",
-   "kind": "video",
-   "link": "https://www.youtube.com/shorts/BW13C2GCr5g",
-   "published": "2026-10-15T16:49:06+00:00",
-   "summary": "Video from Locked On Steelers."
   }
  ],
  "yt_channels": [],

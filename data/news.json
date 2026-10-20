@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T16:20:24.294626+00:00",
+ "generated": "2026-10-20T17:02:37.411763+00:00",
  "count": 150,
  "sources": [
   {
@@ -29,8 +29,8 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "ok",
-   "steelers_items": 24
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "steelers_items": 0
   },
   {
    "source": "Still Curtain",
@@ -72,7 +72,7 @@
    "source": "Yahoo Sports",
    "url": "https://sports.yahoo.com/nfl/rss/",
    "status": "ok",
-   "steelers_items": 0
+   "steelers_items": 2
   },
   {
    "source": "Google News",
@@ -102,10 +102,59 @@
    "source": "ProFootballTalk (NBC)",
    "url": "https://profootballtalk.nbcsports.com/feed/",
    "status": "ok",
-   "steelers_items": 0
+   "steelers_items": 1
   }
  ],
  "items": [
+  {
+   "title": "One Of NFL\u2019s Most Senior Referees To Work Steelers-Saints In Paris",
+   "source": "Steelers Depot",
+   "link": "https://steelersdepot.com/2026/10/one-of-nfls-most-senior-referees-to-work-steelers-saints-in-paris/",
+   "published": "2026-10-20T16:44:14+00:00",
+   "summary": "News story from Steelers Depot. Full report at the original publisher.",
+   "id": "bbb2492a6a"
+  },
+  {
+   "title": "CSC Reacts Survey: Will the Saints beat the Steelers in Paris?",
+   "source": "Yahoo Sports",
+   "link": "https://sports.yahoo.com/articles/csc-reacts-survey-saints-beat-164215448.html",
+   "published": "2026-10-20T16:42:15+00:00",
+   "summary": "Game story from Yahoo Sports. Full report at the original publisher.",
+   "id": "746bbfda3e"
+  },
+  {
+   "title": "Saints arrive in Paris for Sunday's game against Steelers",
+   "source": "Yahoo Sports",
+   "link": "https://sports.yahoo.com/articles/saints-arrive-paris-sundays-game-163457016.html",
+   "published": "2026-10-20T16:34:57+00:00",
+   "summary": "Game story from Yahoo Sports. Full report at the original publisher.",
+   "id": "f654f3a372"
+  },
+  {
+   "title": "Where Do Steelers Stand In Week 7 Power Rankings?",
+   "source": "Steelers Depot",
+   "link": "https://steelersdepot.com/2026/10/where-do-steelers-stand-in-week-7-power-rankings-2/",
+   "published": "2026-10-20T16:30:38+00:00",
+   "summary": "Opinion story from Steelers Depot. Full report at the original publisher.",
+   "id": "3ca3f6f82c"
+  },
+  {
+   "title": "Brian Thomas Jr \"Needs To Be\" Traded To The Steelers Immediately After Bizarre Week 6",
+   "source": "SteelerNation",
+   "link": "https://www.steelernation.com/2026/10/20/steelers-immediately-brian-thomas-jr",
+   "published": "2026-10-20T16:25:59+00:00",
+   "summary": "Trade/roster move story from SteelerNation. Full report at the original publisher.",
+   "id": "4f677d8fdf"
+  },
+  {
+   "title": "Former Steelers running back arrested on domestic assault charge",
+   "source": "Audacy",
+   "link": "https://www.audacy.com/937thefan/sports/pittsburgh-steelers/cordarrelle-patterson",
+   "published": "2026-10-20T16:21:00+00:00",
+   "via": "Google News",
+   "summary": "News story from Audacy. Full report at the original publisher.",
+   "id": "39e19a1835"
+  },
   {
    "title": "New Data Shows Mike McCarthy Has Reversed Mike Tomlin\u2019s Most Criticized Philosophy",
    "source": "Steelers Depot",
@@ -253,14 +302,6 @@
    "published": "2026-10-20T14:49:51+00:00",
    "summary": "News story from Steelers.com (official). Full report at the original publisher.",
    "id": "38796afb44"
-  },
-  {
-   "title": "Steelers Surprises: Unexpected heroes emerge in overtime comeback against Buccaneers",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/20/steelers-surprises-unexpected-heroes-emerge-in-overtime-comeback-against-buccaneers/",
-   "published": "2026-10-20T14:49:26+00:00",
-   "summary": "News story from Steel City Underground. Full report at the original publisher.",
-   "id": "5f3153e761"
   },
   {
    "title": "Steelers' Germie Bernard Got His Start The Hard Way",
@@ -418,15 +459,6 @@
    "id": "31262c8e23"
   },
   {
-   "title": "Steelers Week 6 Snap Counts: Running Back Plan Becoming Clear?",
-   "source": "Athlon Sports",
-   "link": "https://athlonsports.com/nfl/pittsburgh-steelers/steelers-week-6-snap-counts-running-back-plan-becoming-clear",
-   "published": "2026-10-20T13:00:00+00:00",
-   "via": "Google News",
-   "summary": "Opinion story from Athlon Sports. Full report at the original publisher.",
-   "id": "78f730689a"
-  },
-  {
    "title": "The best soccer/NFL crossover jerseys as PSG unveil kit for Steelers vs. Saints in Paris",
    "source": "ESPN",
    "link": "https://www.espn.com/soccer/story/_/id/50225836/the-best-soccer-nfl-crossover-jerseys-psg-kit-pittsburgh-steelers-new-orleans-saints-paris-game",
@@ -492,14 +524,6 @@
    "published": "2026-10-20T12:00:00+00:00",
    "summary": "Opinion story from Pittsburgh Post-Gazette. Full report at the original publisher.",
    "id": "c170b3e653"
-  },
-  {
-   "title": "Plays of the Game: Germie Bernard scores first NFL touchdown to lift Steelers past Buccaneers",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/20/plays-of-the-game-germie-bernard-scores-first-nfl-touchdown-to-lift-steelers-past-buccaneers/",
-   "published": "2026-10-20T11:47:58+00:00",
-   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
-   "id": "ff47dfcfd1"
   },
   {
    "title": "PFF Grades And Snap Counts: Steelers Vs Buccaneers",
@@ -803,14 +827,6 @@
    "id": "2af654a45b"
   },
   {
-   "title": "Patrick Graham Explains What Makes Nick Herbig \u2018Special\u2019",
-   "source": "Steelers Depot",
-   "link": "https://steelersdepot.com/2026/10/patrick-graham-explains-what-makes-nick-herbig-special/",
-   "published": "2026-10-19T23:00:02+00:00",
-   "summary": "News story from Steelers Depot. Full report at the original publisher.",
-   "id": "d804174fd7"
-  },
-  {
    "title": "Aaron Rodgers, Jalen Ramsey reach personal milestones in Steelers win over Buccaneers",
    "source": "Behind the Steel Curtain",
    "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176581/aaron-rodgers-jalen-ramsey-reach-personal-milestones-in-steelers-win-over-buccaneers",
@@ -833,14 +849,6 @@
    "published": "2026-10-19T22:34:53+00:00",
    "summary": "News story from SteelerNation. Full report at the original publisher.",
    "id": "c622fdacc5"
-  },
-  {
-   "title": "\u2018Brian Thomas Jr. Needs To Be A Steeler\u2019: Trai Essex Wants Pittsburgh To Trade For Jaguars WR",
-   "source": "Steelers Depot",
-   "link": "https://steelersdepot.com/2026/10/brian-thomas-jr-needs-to-be-a-steeler-trai-essex-wants-pittsburgh-to-trade-for-jaguars-wr/",
-   "published": "2026-10-19T22:30:16+00:00",
-   "summary": "Trade/roster move story from Steelers Depot. Full report at the original publisher.",
-   "id": "34e0be5e09"
   },
   {
    "title": "Steelers\u2019 Mike McCarthy defends play-calling after Jamel Dean interception",
@@ -881,14 +889,6 @@
    "published": "2026-10-19T20:47:56+00:00",
    "summary": "Opinion story from Steelers Now. Full report at the original publisher.",
    "id": "f8d094ca1f"
-  },
-  {
-   "title": "Steelers' Mike McCarthy Admits To Being Controversial With Team Brass About Roster Construction",
-   "source": "SteelerNation",
-   "link": "https://www.steelernation.com/2026/10/19/steelers-mike-mccarthy-controversial-roster",
-   "published": "2026-10-19T20:45:24+00:00",
-   "summary": "News story from SteelerNation. Full report at the original publisher.",
-   "id": "1764c213ad"
   },
   {
    "title": "McCarthy Reveals Steelers\u2019 Travel Plan for Paris",
@@ -1096,14 +1096,6 @@
    "id": "da4c5f3a6a"
   },
   {
-   "title": "Steelers Takeaways: Second-half comeback saves Pittsburgh in overtime win over Buccaneers",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/19/steelers-takeaways-second-half-comeback-saves-pittsburgh-in-overtime-win-over-buccaneers/",
-   "published": "2026-10-19T13:14:03+00:00",
-   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
-   "id": "dfe2de4202"
-  },
-  {
    "title": "Germie Bernard's growing connection with Aaron Rodgers has Steelers buzzing",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/germie-bernard-growing-connection-aaron-rodgers-pittsburgh-steelers-buzzing-01m59441d0x6?utm_source=RSS",
@@ -1126,14 +1118,6 @@
    "published": "2026-10-19T12:00:03+00:00",
    "summary": "News story from Still Curtain. Full report at the original publisher.",
    "id": "f1094d0f3b"
-  },
-  {
-   "title": "Plays of the Game: Jamel Dean\u2019s interception sets up Steelers\u2019 late lead",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/19/plays-of-the-game-jamel-deans-interception-sets-up-steelers-late-lead/",
-   "published": "2026-10-19T11:40:57+00:00",
-   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
-   "id": "c1a0198967"
   },
   {
    "title": "\u2018He\u2019s accepted the challenge\u2019: Germie Bernard rewards Steelers\u2019 faith in rookie wide receiver",
@@ -1328,6 +1312,22 @@
    "published": "2026-10-18T21:10:12+00:00",
    "summary": "News story from Still Curtain. Full report at the original publisher.",
    "id": "e2fb01f66f"
+  },
+  {
+   "title": "Steelers CB Jamel Dean gets the last laugh against his former team",
+   "source": "Still Curtain",
+   "link": "https://stillcurtain.com/pittsburgh-steelers-cb-jamel-dean-gets-last-laugh-against-tampa-bay-buccaneers-01m58a2nnh8a?utm_source=RSS",
+   "published": "2026-10-18T20:59:09+00:00",
+   "summary": "News story from Still Curtain. Full report at the original publisher.",
+   "id": "93a6d8946a"
+  },
+  {
+   "title": "The Steelers rally back from 13 down to beat the Buccaneers in overtime",
+   "source": "Pittsburgh Post-Gazette",
+   "link": "https://www.post-gazette.com/sports/steelers/2026/10/18/steelers-buccaneers-aaron-rodgers-germie-bernard/stories/202610180075",
+   "published": "2026-10-18T20:58:55+00:00",
+   "summary": "Game story from Pittsburgh Post-Gazette. Full report at the original publisher.",
+   "id": "a32879efe1"
   }
  ],
  "dropped_bad_links": 0
