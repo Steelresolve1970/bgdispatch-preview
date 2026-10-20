@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-20T22:50:05+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T22:49:48+00:00._
+_Generated 2026-10-20T23:00:53+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T23:00:36+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Video: [STEELERS SQUAD SHOW: Winning Ugly Won’t Fly in Paris! Steelers/Saints Preview!](https://www.youtube.com/watch?v=Es_bukL78yk): Locked On Steelers, 2026-10-20 22:54 UTC
 - Video: [Should Steelers Still Seek WR Help? | Steelers Afternoon Drive](https://www.youtube.com/watch?v=Bp2zQ4eZjX8): Steelers Now, 2026-10-20 22:21 UTC
 - Video: [Every Boz field goal but with every field goal it gets faster 📺:#PITvsNO 10/25 at 9:30AM ET on NFLN](https://www.youtube.com/shorts/2W3Ld83xwfw): Pittsburgh Steelers (official), 2026-10-20 22:13 UTC
 - Podcast: [DK's Double Shot of Steelers: Off OUI go!](https://podcasts.apple.com/us/podcast/id1072021022): DK Pittsburgh Sports, 2026-10-20 22:01 UTC

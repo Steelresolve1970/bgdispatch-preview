@@ -88,7 +88,7 @@ const css=`
 #fp-play section[hidden]{display:none}
 .fx-home{display:block;background:#101010;color:#fff;text-decoration:none;border-radius:10px;padding:14px 16px;margin:10px 0;border-left:8px solid #FFB612;font-weight:800}
 .fx-home span{color:#FFB612}
-@media(min-width:800px){.fx-reply{left:50%;transform:translateX(-50%);max-width:820px;border-radius:12px 12px 0 0}}`;
+@media(min-width:800px){.fx-reply{left:50%;right:auto;width:100%;transform:translateX(-50%);max-width:820px;border-radius:12px 12px 0 0}}`;
 const lcCss=`
 .lc{padding:0;overflow:hidden}.lc-top{display:flex;flex-wrap:wrap;gap:6px 12px;align-items:center;justify-content:space-between;background:#101010;color:#fff;padding:10px 12px}
 .lc-top b{color:#FFB612}.lc-top .fx-tag.gold{display:inline-block;margin:0 6px 0 0}.lc-top a{color:#FFB612;font-weight:800;white-space:nowrap}
@@ -324,7 +324,8 @@ async function threadView(el,id,tok=S.rseq){el.innerHTML='<p class="empty">Loadi
  const bar=document.createElement('div');bar.className='fx-reply';
  // sit above the cookie banner until it's dismissed, and above the on-screen keyboard on iPad/iPhone (visualViewport)
  const vv=window.visualViewport;const lift=()=>{if(!bar.isConnected)return clearInterval(bar._t);const cb=$('cookie-banner');const r=cb&&!cb.hidden&&getComputedStyle(cb).display!=='none'?cb.getBoundingClientRect():null;const h=r&&r.height?Math.max(0,Math.round(innerHeight-r.top)):0;
-  const kb=vv?Math.max(0,Math.round(innerHeight-vv.height-vv.offsetTop)):0;const v=Math.max(h,kb>60?kb:0)+'px';if(bar.style.bottom!==v)bar.style.bottom=v;};bar._t=setInterval(lift,800);setTimeout(lift,0);
+  const kb=vv?Math.max(0,Math.round(innerHeight-vv.height-vv.offsetTop)):0;const v=Math.max(h,kb>60?kb:0)+'px';if(bar.style.bottom!==v)bar.style.bottom=v;
+  const j=document.querySelector('.fx-jump');if(j){const jb=Math.round(parseInt(v)+bar.offsetHeight+12)+'px';if(j.style.bottom!==jb)j.style.bottom=jb;}};   // keep "Jump to latest" above the reply box as it growsbar._t=setInterval(lift,800);setTimeout(lift,0);
  if(vv){vv.addEventListener('resize',lift);vv.addEventListener('scroll',lift);S.vvOff=()=>{vv.removeEventListener('resize',lift);vv.removeEventListener('scroll',lift);};}
  bar.innerHTML=S.me?(th.locked&&!mod?'<p class="fine" style="margin:0;flex:1;text-align:center">This thread is locked.</p>':`<label class="sr" for="fx-ta">Reply</label><textarea id="fx-ta" rows="1" placeholder="Write a reply…" enterkeyhint="enter"></textarea><button class="fx-btn" type="button" id="fx-send">Post</button><p class="fx-cnt" id="fx-rmsg" role="status" aria-live="polite"></p>`)
   :`<a class="fx-btn" style="flex:1" href="#/forum/join" onclick="sessionStorage.setItem('bgd_next','thread:${id}')">Join free to post</a><a class="fx-btn ghost" href="#/forum/signin" onclick="sessionStorage.setItem('bgd_next','thread:${id}')">Sign in</a>`;
@@ -339,7 +340,7 @@ async function threadView(el,id,tok=S.rseq){el.innerHTML='<p class="empty">Loadi
  const send=bar.querySelector('#fx-send');if(send){const ta=bar.querySelector('#fx-ta'),msg=bar.querySelector('#fx-rmsg'),dk='bgd_draft_'+id;
   try{const dv=sessionStorage.getItem(dk);if(dv)ta.value=dv;}catch(e){}   // a reply that didn't post is kept on this device
   const grow=()=>{const atEnd=ta.selectionEnd>=ta.value.length-1;const cap=Math.round(innerHeight*0.4);ta.style.height='auto';ta.style.height=Math.min(cap,ta.scrollHeight+4)+'px';if(atEnd)ta.scrollTop=ta.scrollHeight;};
-  const cnt=wireCount(ta,msg);ta.addEventListener('input',()=>{grow();try{ta.value?sessionStorage.setItem(dk,ta.value):sessionStorage.removeItem(dk);}catch(e){}});if(ta.value)setTimeout(grow,0);
+  const cnt=wireCount(ta,msg);ta.addEventListener('input',()=>{grow();lift();try{ta.value?sessionStorage.setItem(dk,ta.value):sessionStorage.removeItem(dk);}catch(e){}});if(ta.value)setTimeout(grow,0);
   const say=(t)=>{msg.textContent=t;msg.className='fx-cnt bad';msg.dataset.err=t?'1':'';};
   send.onclick=async()=>{const v=ta.value.trim();if(!v){say('Write something first.');ta.focus();return;}
    if(v.length>POST_MAX){say(countMsg(v.length).t);ta.focus();return;}
@@ -540,7 +541,9 @@ function lcAttach(){const slot=$('live-chat-slot');if(!slot)return false;if(!LC.
  if(LC.el.parentNode!==slot){slot.appendChild(LC.el);const l=LC.el.querySelector('.lc-list');if(l)l.scrollTop=LC.bottom?l.scrollHeight:LC.st;}return true;}
 function lcMsg(p){const mod=lcMod(),mine=S.me&&S.me.id===p.user_id;
  return `<div class="lc-m${p.hidden?' hid':''}" id="lc${p.id}" data-id="${p.id}">${av(p.av,p.name,p.user_id,p.av_v)}<div class="lc-b"><div class="lc-h"><b>${E(p.name)}</b>${roleTag(p.role)}${fmTag(p.fm)}<small>${ago(p.created)}${p.hidden?' · hidden':''}</small></div><div class="lc-t">${fmtBody(p.body)}</div>${(S.me&&!mine&&p.role!=='bot')||mod?`<div class="lc-a">${S.me&&!mine&&p.role!=='bot'?`<a href="#/forum/thread/${LC.tid}?p=${p.id}">Report in forum</a>`:''}${mod?`<button type="button" class="lnk lcmod" data-a="${p.hidden?'unhide':'hide'}">${p.hidden?'Unhide':'Hide'}</button><button type="button" class="lnk lcmod" data-a="delete">Delete</button>`:''}</div>`:''}</div></div>`;}
-function lcBox(html){if(!lcAttach()&&!LC.el)return;LC.el.innerHTML=html;}
+// The chat box can finish loading before the Live Hub page has drawn its slot; keep the box ready and attach it when the slot appears
+// (before Oct 20, 2026 it could stay on "Loading chat…" with no working Send button).
+function lcBox(html){lcAttach();if(!LC.el){LC.el=document.createElement('div');LC.el.id='lc';LC.el.className='box lc';}LC.el.innerHTML=html;}
 function lcGate(c){if(!S.me)return `<div class="lc-gate"><p><b>Sign in or join the forum to chat.</b> Reading is open to everyone. One free account works across the whole site.</p><a class="fx-btn sm" href="#/forum/signin" data-lcnext>Sign in</a><a class="fx-btn ghost sm" href="#/forum/join" data-lcnext>Join the forum</a></div>`;
  if(S.me.banned)return '<div class="lc-gate"><p class="fine">Your account is suspended from posting.</p></div>';
  if(c.locked&&!lcMod())return '<div class="lc-gate"><p class="fine">This game chat is locked.</p></div>';
@@ -558,13 +561,13 @@ async function lcLoad(){if(LC.busy)return;LC.busy=true;try{
  lcBox(`<div class="lc-top"><span>${lcLive(c)?tag('Live now','gold'):''}<b>${E(c.title)}</b></span><a href="#/forum/thread/${c.thread}">Continue in the forum →</a></div>
   <p class="lc-note">Every message here is also a post in the forum's game-day thread. One account, same <a href="legal/community.html">community guidelines</a>.</p>
   <div class="lc-list" id="lc-list" aria-live="polite">${posts.map(lcMsg).join('')||'<p class="lc-empty">No messages yet. Start the conversation.</p>'}</div><p class="fx-err" id="lc-err" role="alert"></p>${lcGate(c)}`);
- const l=$('lc-list');if(l){l.scrollTop=l.scrollHeight;LC.bottom=true;l.onscroll=()=>{LC.st=l.scrollTop;LC.bottom=l.scrollTop+l.clientHeight>l.scrollHeight-40;};}
+ const l=LC.el.querySelector('#lc-list');if(l){l.scrollTop=l.scrollHeight;LC.bottom=true;l.onscroll=()=>{LC.st=l.scrollTop;LC.bottom=l.scrollTop+l.clientHeight>l.scrollHeight-40;};}
  lcWire();}finally{LC.busy=false;}lcSchedule();}
-function lcWire(){const f=$('lc-form');if(!f)return;const ta=$('lc-ta');
+function lcWire(){const q=x=>LC.el&&LC.el.querySelector('#'+x);const f=q('lc-form');if(!f)return;const ta=q('lc-ta');
  ta.oninput=()=>{const atEnd=ta.selectionEnd>=ta.value.length-1;ta.style.height='auto';ta.style.height=Math.min(200,ta.scrollHeight+4)+'px';if(atEnd)ta.scrollTop=ta.scrollHeight;};
- const cnt=wireCount(ta,$('lc-cnt'));
+ const cnt=wireCount(ta,q('lc-cnt'));
  ta.onkeydown=e=>{if(e.key==='Enter'&&!e.shiftKey&&!e.isComposing&&!lcTouch()){e.preventDefault();f.requestSubmit();}};
- f.onsubmit=async e=>{e.preventDefault();const v=ta.value.trim();const b=$('lc-send'),er=$('lc-err');er.textContent='';if(!v)return;
+ f.onsubmit=async e=>{e.preventDefault();const v=ta.value.trim();const b=q('lc-send'),er=q('lc-err');er.textContent='';if(!v)return;
   if(v.length>POST_MAX){er.textContent=countMsg(v.length).t;return;}
   b.disabled=true;b.textContent='Sending…';const r=await api(`forum/thread/${LC.tid}/posts`,{body:{body:v},timeout:25000});b.disabled=false;b.textContent='Send';
   if(!r.ok){er.textContent=(r.status===401?'You were signed out. Sign in again to keep chatting.':(r.error||'Your message didn\'t send. Please try again.'))+' Your message is still in the box.';return;}ta.value='';ta.style.height='';cnt();LC.bottom=true;await lcPull();ta.focus();};}
