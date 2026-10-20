@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-20T01:46:37+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T01:45:19+00:00._
+_Generated 2026-10-20T01:58:04+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T01:56:52+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Steelers Set to Reunite with Former Wide Receiver](https://steelersnow.com/steelers-set-to-reunite-with-former-wide-receiver/): Steelers Now, 2026-10-20 01:21 UTC
@@ -20,11 +20,11 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers' DK Metcalf Has Reason For Rocky Start To 2026 Season Exposed](https://www.steelernation.com/2026/10/19/steelers-dk-metcalf-season-exposed): SteelerNation, 2026-10-19 23:25 UTC
 - [Steelers Get Called Out By Mike McCarthy For Offensive Failure](https://www.steelernation.com/2026/10/19/steelers-mike-mccarthy-offensive-failure): SteelerNation, 2026-10-19 23:04 UTC
 - [Patrick Graham Explains What Makes Nick Herbig ‘Special’](https://steelersdepot.com/2026/10/patrick-graham-explains-what-makes-nick-herbig-special/): Steelers Depot, 2026-10-19 23:00 UTC
-- [Steelers' belief in their massive rookie class is paying early dividends](https://www.lmtonline.com/sports/article/steelers-belief-in-their-massive-rookie-class-is-22484589.php): Laredo Morning Times, 2026-10-19 22:52 UTC
 - [Aaron Rodgers, Jalen Ramsey reach personal milestones in Steelers win over Buccaneers](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176581/aaron-rodgers-jalen-ramsey-reach-personal-milestones-in-steelers-win-over-buccaneers): Behind the Steel Curtain, 2026-10-19 22:50 UTC
 - [Steelers Afternoon Drive: Will Bernard Breakout Blow Up WR Plans?](https://steelersnow.com/steelers-afternoon-drive-will-bernard-breakout-blow-up-wr-plans/): Steelers Now, 2026-10-19 22:34 UTC
 - [Steelers' Jamel Dean Admits Rocky Sideline Energy Before Critical Comeback Against Buccaneers](https://www.steelernation.com/2026/10/19/steelers-jamel-dean-critical-comeback): SteelerNation, 2026-10-19 22:34 UTC
 - [‘Brian Thomas Jr. Needs To Be A Steeler’: Trai Essex Wants Pittsburgh To Trade For Jaguars WR](https://steelersdepot.com/2026/10/brian-thomas-jr-needs-to-be-a-steeler-trai-essex-wants-pittsburgh-to-trade-for-jaguars-wr/): Steelers Depot, 2026-10-19 22:30 UTC
+- [Steelers' belief in their massive rookie class is paying early dividends](https://www.timesunion.com/sports/article/steelers-belief-in-their-massive-rookie-class-is-22484589.php): Times Union, 2026-10-19 21:45 UTC
 - [Listen: The Terrible Take (Episode 2,055)](https://steelersdepot.com/2026/10/listen-the-terrible-take-episode-2055/): Steelers Depot, 2026-10-19 21:30 UTC
 - [Steelers’ Mike McCarthy defends play-calling after Jamel Dean interception](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176579/steelers-mike-mccarthy-defends-play-calling-after-jamel-dean-interception): Behind the Steel Curtain, 2026-10-19 21:30 UTC
 - [The protests in France are a ‘continuing conversation’ for the Steelers before their game in Paris](https://www.post-gazette.com/sports/steelers/2026/10/19/steelers-paris-game-france-protests/stories/202610190026): Pittsburgh Post-Gazette, 2026-10-19 21:21 UTC
@@ -33,7 +33,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [‘He Flipped The Game’: Germie Bernard ‘Changed Everything’ For Steelers’ Offense, Orlovsky Believes](https://steelersdepot.com/2026/10/he-flipped-the-game-germie-bernard-changed-everything-for-steelers-offense-orlovsky-believes/): Steelers Depot, 2026-10-19 21:00 UTC
 - [Could Steelers Consider Kick Returner Change? Rising RB Earning Opportunity](https://steelersnow.com/could-steelers-consider-kick-returner-change-rising-rb-earning-opportunity/): Steelers Now, 2026-10-19 20:47 UTC
 - [Steelers' Mike McCarthy Admits To Being Controversial With Team Brass About Roster Construction](https://www.steelernation.com/2026/10/19/steelers-mike-mccarthy-controversial-roster): SteelerNation, 2026-10-19 20:45 UTC
-- [NFL: Steelers-Saints game in Paris still on despite civil unrest](https://wjactv.com/sports/steelers/nfl-steelers-saints-game-in-paris-still-on-despite-civil-unrest-france-pittsburgh-new-orleans-football-sports): WJAC, 2026-10-19 20:41 UTC
+- [Steelers 'excited' for NFL Paris game vs Saints despite spate of disruptive protests](https://www.usatoday.com/story/sports/nfl/steelers/2026/10/19/steelers-mike-mccarthy-nfl-paris-game-protests/92334947007/): USA Today, 2026-10-19 20:43 UTC
 - [McCarthy Reveals Steelers’ Travel Plan for Paris](https://steelersnow.com/mccarthy-reveals-steelers-travel-plan-for-paris/): Steelers Now, 2026-10-19 20:34 UTC
 - [‘Not A Factor’: Steelers Coach Shuts Down Theory About Chris Boswell’s Missed Field Goal](https://steelersdepot.com/2026/10/not-a-factor-steelers-coach-shuts-down-theory-about-chris-boswells-missed-field-goal/): Steelers Depot, 2026-10-19 20:20 UTC
 - [Steelers Detail Key Area Where Offense Must Be Sharper](https://steelersdepot.com/2026/10/steelers-detail-key-area-where-offense-must-be-sharper/): Steelers Depot, 2026-10-19 20:10 UTC
