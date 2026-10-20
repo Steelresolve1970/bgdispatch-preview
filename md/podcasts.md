@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-20T19:28:00+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T19:06:03+00:00._
+_Generated 2026-10-20T19:38:44+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T19:38:28+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Podcast: [Steelers Crazy #300 - Saints Vs Steelers In Paris](https://anchor.fm/the-sick-podcast---steelers-crazy): The Sick Podcast - Steelers Crazy, 2026-10-20 19:12 UTC
 - Video: [Is the Steelers pass defense actually fine without Joey Porter Jr? #steelers #nfl](https://www.youtube.com/shorts/I8qkYpoHneg): Still Curtain Podcast, 2026-10-20 18:15 UTC
 - Video: [That crowd pop 💥 📺: #PITvsNO 10/25 at 9:30 AM ET on NFLN](https://www.youtube.com/shorts/OlJTbqdizjI): Pittsburgh Steelers (official), 2026-10-20 18:07 UTC
 - Podcast: [What We Know About The Steelers Following Week 6 - Steelers Gabriel Rubio Interview](https://arthurmoats55.libsyn.com/what_we_know_about_the_steelers_following_week_6_-_steelers_gabriel_rubiomp3): The Arthur Moats Experience, 2026-10-20 17:39 UTC
@@ -134,7 +135,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Steelers Injuries: Good News, Bad News, IR Coming?](https://podcasts.apple.com/us/podcast/steelers-injuries-good-news-bad-news-ir-coming/id1627248534?i=1000796558853): All Steelers Talk, 2026-10-15 21:11 UTC
 - Podcast: [The Terrible Take - Episode 2051 - October 15, 2026](https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2051-october-15-2026/id405990739?i=1000796551180): The Terrible Podcast (Steelers Depot), 2026-10-15 21:00 UTC
 - Podcast: [Can the Steelers keep rolling with a depleted offense?](https://www.steelcityunderground.com/podcast/2026/10/can-the-steelers-keep-rolling-with-a-depleted-offense/): Steel City Underground, 2026-10-15 19:52 UTC
-- Podcast: [The Depot Dive - Episode 118 - October 15, 2026](https://podcasts.apple.com/us/podcast/the-depot-dive-episode-118-october-15-2026/id405990739?i=1000796537397): The Terrible Podcast (Steelers Depot), 2026-10-15 19:15 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

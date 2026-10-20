@@ -1,8 +1,9 @@
 # Steelers News
 
-_Generated 2026-10-20T19:28:00+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T19:22:34+00:00._
+_Generated 2026-10-20T19:38:44+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T19:38:14+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Cam Heyward Proposes Revamp To Roughing-The-Passer Rule](https://steelersdepot.com/2026/10/cam-heyward-proposes-revamp-to-roughing-the-passer-rule/): Steelers Depot, 2026-10-20 19:30 UTC
 - [Report Detailed Exactly What Steelers Are Looking For At The Trade Deadline](https://www.steelernation.com/2026/10/20/steelers-detailed-exactly-deadline): SteelerNation, 2026-10-20 19:07 UTC
 - [Chris Long Says He’ll ‘Walk Across America’ If Steelers Play In Super Bowl This Season](https://steelersdepot.com/2026/10/chris-long-says-hell-walk-across-america-if-steelers-play-in-super-bowl-this-season/): Steelers Depot, 2026-10-20 19:00 UTC
 - [History Favors Steelers Making The Playoffs](https://steelersdepot.com/2026/10/history-favors-steelers-making-the-playoffs/): Steelers Depot, 2026-10-20 18:30 UTC
@@ -48,6 +49,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Mike McCarthy Shares What He Appreciates Most About Jalen Ramsey](https://steelersdepot.com/2026/10/mike-mccarthy-shares-what-he-appreciates-most-about-jalen-ramsey/): Steelers Depot, 2026-10-20 14:15 UTC
 - [Why Did Steelers Sign MVS? | Steelers Morning Rush](https://steelersnow.com/why-did-steelers-sign-mvs-steelers-morning-rush/): Steelers Now, 2026-10-20 14:11 UTC
 - [Steelers’ dream 2027 quarterback class is already losing its shine](https://stillcurtain.com/pittsburgh-steelers-dream-2027-quarterback-class-is-already-losing-its-shine-01m5b6pz8naq?utm_source=RSS): Still Curtain, 2026-10-20 14:00 UTC
+- [NFL Paris 2026: New Orleans Saints vs Pittsburgh Steelers game 'all systems go' despite riots in French capital](https://www.skysports.com/nfl/news/13601317/nfl-paris-2026-new-orleans-saints-vs-pittsburgh-steelers-game-all-systems-go-despite-riots-in-french-capital): Sky Sports, 2026-10-20 13:47 UTC
 - [Mark Madden: Steelers fans should embrace comeback win, not nitpick Mike McCarthy’s mistakes](https://triblive.com/sports/mark-madden-steelers-fans-should-embrace-comeback-win-not-nitpick-mike-mccarthys-mistakes/): TribLive, 2026-10-20 13:46 UTC
 - [Steelers news: NFL not relocating Paris game](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176594/steelers-news-nfl-not-relocating-paris-game): Behind the Steel Curtain, 2026-10-20 13:40 UTC
 - [Mike McCarthy Defends Late-Game Play-Calling vs. Bucs: ‘Those Are Solid Plays’](https://steelersnow.com/mike-mccarthy-defends-late-game-play-calling-vs-bucs/): Steelers Now, 2026-10-20 13:39 UTC
@@ -78,7 +80,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [This French football podcaster is pumped to support the Steelers on his home turf](https://www.post-gazette.com/sports/steelers/2026/10/20/steelers-france-podcast-nfl-paris-game/stories/202610200007): Pittsburgh Post-Gazette, 2026-10-20 10:00 UTC
 - [Ravens Add Veteran Kicker After Tyler Loop Misses Another Key Field Goal](https://steelersdepot.com/2026/10/ravens-add-veteran-kicker-after-tyler-loop-misses-another-key-field-goal/): Steelers Depot, 2026-10-20 09:40 UTC
 - [Week 7 NFL power rankings: Bears bounce back as Seahawks, Rams, Eagles continue free fall](https://www.nytimes.com/athletic/7704974/2026/10/20/nfl-power-rankings-week-7-bears-seahawks-rams-eagles/): The Athletic, 2026-10-20 09:30 UTC
-- [Will Steelers Quickly Promote Marquez Valdes-Scantling To WR3?](https://steelersdepot.com/2026/10/will-steelers-quickly-promote-marquez-valdes-scantling-to-wr3/): Steelers Depot, 2026-10-20 09:00 UTC
 - [25 players who found their best NFL chapter with the Steelers](https://stillcurtain.com/25-players-who-found-their-best-nfl-chapter-with-the-steelers?utm_source=RSS): Still Curtain, 2026-10-20 09:00 UTC
 - [Why Mike McCarthy and the Steelers must run the ball more often on third down](https://www.post-gazette.com/sports/steelers/2026/10/20/steelers-third-down-struggles/stories/202610190030): Pittsburgh Post-Gazette, 2026-10-20 08:00 UTC
 - [Pittsburgh Steelers 2026 NFL Playoff Simulator](https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/pittsburgh-steelers-season-projections/): The New York Times, 2026-10-20 03:25 UTC
@@ -111,6 +112,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers' Most Important Defenders Emerge in Week 6 Victory](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-most-important-defenders-emerge-week-6-victory): All Steelers (Sports Illustrated), 2026-10-19 19:00 UTC
 - [Watch: Steelers coach Mike McCarthy previews Week 7 matchup with Saints](https://triblive.com/sports/watch-steelers-coach-mike-mccarthy-previews-week-7-matchup-with-saints/): TribLive, 2026-10-19 19:00 UTC
 - [Submit your questions for Mike DeFabo’s Steelers mailbag](https://www.nytimes.com/athletic/7705346/2026/10/19/steelers-mailbag-paris-game-bucs-win/): The Athletic, 2026-10-19 18:42 UTC
+- [Aaron Rodgers’ family cheers on NFL star at Steelers game for first time since ending feud](https://pagesix.com/2026/10/19/celebrity-news/aaron-rodgers-family-cheers-him-on-at-steelers-game-for-first-time-since-ending-feud/): Page Six, 2026-10-19 16:54 UTC
 - [Pittsburgh Steelers players address upcoming trip to Paris amid France unrest, violence](https://www.cbsnews.com/pittsburgh/news/pittsburgh-steelers-paris-france-violence-unrest-protests/): CBS News, 2026-10-19 16:34 UTC
 - [The Steelers finally unleashed their blitzes — and Jalen Ramsey — at Tampa Bay](https://www.post-gazette.com/sports/steelers/2026/10/19/steelers-blitz-jalen-ramsey/stories/202610190025): Pittsburgh Post-Gazette, 2026-10-19 16:30 UTC
 - [Pittsburgh Steelers lose key cornerback to hamstring injury](https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-lose-key-cornerback-to-injury.html): PennLive (Nick Farabaugh), 2026-10-19 16:16 UTC
@@ -150,8 +152,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Germie Bernard's breakout gives the struggling Steelers offense new hope](https://stillcurtain.com/germie-bernard-breakout-gives-pittsburgh-steelers-struggling-offense-new-hope-01m58dc7ekqg?utm_source=RSS): Still Curtain, 2026-10-18 22:00 UTC
 - [Feats of Strength: 4th quarter awakening, Chris Boswell’s return to form save Steelers in Tampa Bay](https://triblive.com/sports/feats-of-strength-fourth-quarter-awakening-chris-boswells-return-to-form-save-steelers-in-tampa-bay/): TribLive, 2026-10-18 21:57 UTC
 - [7 winners (and 4 losers) from Steelers' dramatic Week 6 comeback over Tampa Bay](https://stillcurtain.com/7-winners-4-losers-pittsburgh-steelers-dramatic-week-6-comeback-tampa-bay-buccaneers-01m58beprnfv?utm_source=RSS): Still Curtain, 2026-10-18 21:30 UTC
-- [Pittsburgh Steelers vs. Tampa Bay Buccaneers highlights | Week 6](https://www.nfl.com/videos/steelers-vs-buccaneers-highlights-week-6): NFL.com, 2026-10-18 21:19 UTC
-- [Can't-Miss Play: Ramsey calls game! Jalen's blitzing sack of Jalon Daniels sends Steelers to an OT win](https://www.nfl.com/videos/can-t-miss-play-ramsey-calls-game-jalen-s-blitzing-sack-of-jalon-daniels-sends-steelers-to-an-ot-win): NFL.com, 2026-10-18 21:14 UTC
 - [6 instant reactions to the Steelers' overtime victory over the Buccaneers](https://stillcurtain.com/6-instant-reactions-to-the-pittsburgh-steelers-overtime-victory-over-the-buccaneers-01m5868wawaf?utm_source=RSS): Still Curtain, 2026-10-18 21:10 UTC
 
 ---
