@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-20T05:10:46+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T05:09:29+00:00._
+_Generated 2026-10-20T05:22:28+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T05:20:57+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [The Forgotten Play That Helped The Steelers Beat The Buccaneers](https://steelersdepot.com/2026/10/the-forgotten-play-that-helped-the-steelers-beat-the-buccaneers/): Steelers Depot, 2026-10-20 04:00 UTC

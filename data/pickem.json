@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T05:10:43.874508+00:00",
+ "generated": "2026-10-20T05:22:26.276842+00:00",
  "season": 2026,
  "week": 7,
  "games": [
@@ -56,7 +56,7 @@
     "name": "San Francisco 49ers",
     "score": null,
     "winner": null,
-    "record": "5-0"
+    "record": "6-0"
    },
    "home": {
     "abbr": "ATL",
@@ -570,6 +570,27 @@
     "score": "23",
     "winner": true,
     "record": "4-2"
+   }
+  },
+  {
+   "id": "401873008",
+   "date": "2026-10-20T00:15Z",
+   "state": "post",
+   "detail": "Final",
+   "completed": true,
+   "away": {
+    "abbr": "WAS",
+    "name": "Washington Commanders",
+    "score": "17",
+    "winner": false,
+    "record": "1-4-1"
+   },
+   "home": {
+    "abbr": "SF",
+    "name": "San Francisco 49ers",
+    "score": "23",
+    "winner": true,
+    "record": "6-0"
    }
   }
  ],

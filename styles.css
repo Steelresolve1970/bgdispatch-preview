@@ -667,3 +667,10 @@ figure.eg{margin:8px 0}
 #pods-full.pf-filtered .eg,#pods-full.pf-filtered .ad-inline{display:none}
 .pod-day-home{font-size:16px;margin:14px 0 8px}
 /* ===== end podcasts-shows-follow ===== */
+
+/* ===== Podcasts & YouTube: 'Show 2 more days' button (app.js renderPods; podcasts-shows-follow) ===== */
+.pd-more{display:flex;flex-direction:column;align-items:center;gap:6px;margin:22px 0 10px;text-align:center}
+.pd-btn{display:inline-block;background:#111;color:var(--gold);border:2px solid var(--gold);border-radius:999px;padding:12px 22px;font-weight:900;font-size:16px;text-transform:uppercase;letter-spacing:.02em;text-decoration:none;min-height:44px}
+.pd-btn:hover,.pd-btn:focus-visible{background:var(--gold);color:#111}
+.pd-btn.pd-less{background:var(--gold);color:#111}
+/* ===== end show-more-days ===== */
