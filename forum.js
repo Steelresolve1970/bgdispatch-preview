@@ -22,6 +22,7 @@ const css=`
 .fx-btn{min-height:46px;padding:0 18px;border-radius:10px;border:0;background:#FFB612;color:#101010;font-weight:900;font-size:1rem;cursor:pointer;display:inline-flex;align-items:center;justify-content:center;gap:6px;text-decoration:none}
 .fx-btn.dark{background:#101010;color:#FFB612}.fx-btn.ghost{background:#fff;border:2px solid #101010;color:#101010}.fx-btn[disabled]{opacity:.5;cursor:default}.fx-btn.sm{min-height:36px;padding:0 12px;font-size:.9rem}
 .fx-form{background:#fff;border-radius:12px;padding:18px;max-width:520px;box-shadow:0 1px 3px #0001}
+.fp-gate{border-left:5px solid #FFB612;margin:0 0 14px}.fp-gate p{margin:0 0 10px}.fp-gate .fp-gate-btns{display:flex;gap:10px;flex-wrap:wrap;margin:0}#fp-play.fp-gated .pk-save{display:none!important}
 .fx-newbar{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin:4px 0 14px}.fx-newbar .fine{margin:0}
 .fx-btn.fx-new{min-height:50px;padding:0 24px;font-size:1.08rem;border:2px solid #101010;box-shadow:0 3px 0 #101010;touch-action:manipulation}.fx-btn.fx-new:active{transform:translateY(2px);box-shadow:0 1px 0 #101010}
 .fx-form label{display:block;font-weight:800;margin:12px 0 4px}.fx-form small{color:#555;font-weight:400}
@@ -163,7 +164,7 @@ async function authForm(el,mode){const nxt=qs('next')||sessionStorage.getItem('b
  if(S.me){goNext();return;}
  if(mode==='join'&&(localStorage.getItem('bgd_u13')||/(^|; )bgd_u13=/.test(document.cookie))){el.innerHTML=`<p><a class="back" href="#/forum">← Forum</a></p><div class="box"><h2>Sorry, you can't make an account</h2><p>You can still read the forum and use the rest of the site.</p></div>`;return;}
  const fl=mode==='join'?await flairs():[];
- el.innerHTML=`<p><a class="back" href="#/forum">← Forum</a></p>${nxt==='mock'?'<p class="box">Sign in or join to post your mock draft. You\'ll come right back to finish posting.</p>':nxt.startsWith('grade')?'<p class="box">Sign in or join to grade the team.</p>':nxt==='new'||nxt.startsWith('new:')?`<p class="box fx-why">To start a thread, ${mode==='join'?'join free below, or <a href="#/forum/signin">sign in</a> if you already have an account':'sign in below, or <a href="#/forum/join">join free</a>'}. You'll come right back to the new-thread form.</p>`:''}
+ el.innerHTML=`<p><a class="back" href="#/forum">← Forum</a></p>${nxt==='mock'?'<p class="box">Sign in or join to post your mock draft. You\'ll come right back to finish posting.</p>':nxt.startsWith('grade')?'<p class="box">Sign in or join to grade the team.</p>':nxt==='pickem'?`<p class="box fx-why">Sign in or join free to make your picks. You'll come right back to Pick 'Em.</p>`:nxt==='new'||nxt.startsWith('new:')?`<p class="box fx-why">To start a thread, ${mode==='join'?'join free below, or <a href="#/forum/signin">sign in</a> if you already have an account':'sign in below, or <a href="#/forum/join">join free</a>'}. You'll come right back to the new-thread form.</p>`:''}
  <form class="fx-form" id="fx-auth" novalidate>${mode==='join'?`<h2>Join Black &amp; Gold Dispatch</h2><p class="fine">Free. Takes 30 seconds. You stay signed in on this device.</p>
   <label for="f-u">Username <small>3-20 letters, numbers or _</small></label><input id="f-u" name="username" type="text" autocomplete="username" autocapitalize="off" required maxlength="20">
   <label for="f-e">Email <small>never shown publicly</small></label><input id="f-e" name="email" type="email" autocomplete="email" required>
@@ -388,16 +389,22 @@ function parkPlay(){const pb=$('play-body');if(!pb)return;let host=$('fp-play');
 function tagPlay(){const host=$('fp-play');if(!host)return;const tab=host.dataset.tab;host.querySelectorAll('#play-body section').forEach(s=>{const h=(s.querySelector('h2')||{}).textContent||'';s.hidden=tab==='trivia'?!/trivia/i.test(h):/trivia/i.test(h);});const ps=host.querySelector('#play-body > p.page-sub');if(ps&&S.api)ps.hidden=true;
  host.querySelectorAll('#play-body h2.section-title').forEach(h=>{if(/leaderboard/i.test(h.textContent)){h.hidden=!!S.api;const n=h.nextElementSibling;if(n)n.hidden=!!S.api;}});}
 async function playTab(el,tab){el.innerHTML=tabs(tab);const host=$('fp-play');host.dataset.tab=tab;host.hidden=false;tagPlay();
+ // Pick 'Em needs a free account on the live site: show a clear sign-in prompt instead of buttons that seem to do nothing
+ let gate=$('fp-gate');const gated=!!(S.api&&!S.me&&tab==='pickem');host.classList.toggle('fp-gated',gated);
+ if(gated){if(!gate){gate=document.createElement('div');gate.id='fp-gate';host.prepend(gate);}gate.hidden=false;
+  gate.innerHTML=`<div class="box fp-gate"><p><b>Sign in or join free to make your picks.</b> It takes 30 seconds, and your picks count on the fan leaderboard.</p><p class="fp-gate-btns"><a class="fx-btn" href="#/forum/join" onclick="sessionStorage.setItem('bgd_next','pickem')">Join free</a> <a class="fx-btn ghost" href="#/forum/signin" onclick="sessionStorage.setItem('bgd_next','pickem')">Sign in</a></p></div>`;}
+ else if(gate)gate.hidden=true;
  let lb=$('fp-lb');if(!lb){lb=document.createElement('div');lb.id='fp-lb';host.appendChild(lb);}
  if(!S.api){lb.innerHTML='';return;}
- lb.innerHTML=`${S.me?`<p class="fine">Signed in as <b>${E(S.me.display_name)}</b>: your ${tab==='trivia'?'answers':'saved picks'} count on the fan leaderboard.</p>`:`<p class="box">Want to be on the leaderboard? <a class="fx-btn sm" href="#/forum/join" onclick="sessionStorage.setItem('bgd_next','${tab}')">Join free</a> Your picks and answers still save on this device either way.</p>`}
+ lb.innerHTML=`${S.me?`<p class="fine">Signed in as <b>${E(S.me.display_name)}</b>: your ${tab==='trivia'?'answers':'saved picks'} count on the fan leaderboard.</p>`:tab==='pickem'?'':`<p class="box">Want to be on the leaderboard? <a class="fx-btn sm" href="#/forum/join" onclick="sessionStorage.setItem('bgd_next','${tab}')">Join free</a> Your answers still save on this device either way.</p>`}
  <h2 class="section-title">Fan leaderboard</h2><div class="box" id="fp-lbb"><p class="fine">Loading…</p></div>`;
  const d=await api('play/leaderboard');const b=$('fp-lbb');if(!b)return;
  b.innerHTML=d.ok&&d.leaders.length?`<table class="fx-cmp"><thead><tr><th>#</th><th>Fan</th><th>Pick 'Em</th><th>Trivia</th></tr></thead><tbody>${d.leaders.map((r,i)=>`<tr><td>${i+1}</td><td><b>${E(r.name)}</b>${r.flair?` <span class="fx-flair">${E(r.flair)}</span>`:''}</td><td>${r.pick_wins}/${r.pick_games}</td><td>${r.trivia_right}/${r.trivia_played}</td></tr>`).join('')}</tbody></table><p class="fine">Pick 'Em: correct picks / graded games. Trivia: right answers / days played. Only real accounts are listed.</p>`
   :'<p class="fine">No scores yet. Signed-in fans show up here after their first saved picks or trivia answer.</p>';}
 // sync on-device picks/answers to the fan account (the on-device game itself is unchanged)
 let PK=null;getJ('data/pickem.json').then(d=>PK=d).catch(()=>{});
-document.addEventListener('click',e=>{if(!S.api||!S.me)return;const t=e.target.closest('#play-body .topt');if(t&&!t.disabled){api('play/trivia',{body:{answer:t.dataset.a}});return;}
+document.addEventListener('click',e=>{const g=S.api&&!S.me&&e.target.closest('#fp-play.fp-gated #play-body .pk');if(g&&!g.disabled){e.preventDefault();e.stopPropagation();sessionStorage.setItem('bgd_next','pickem');location.hash='#/forum/join';return;}
+ if(!S.api||!S.me)return;const t=e.target.closest('#play-body .topt');if(t&&!t.disabled){api('play/trivia',{body:{answer:t.dataset.a}});return;}
  const s=e.target.closest('#play-body .pk-submit');if(s&&!s.disabled&&PK)setTimeout(()=>{try{const p=JSON.parse(localStorage.getItem('sd_picks_'+PK.season+'_w'+PK.week)||'{}');api('play/picks',{body:{picks:p}});}catch(err){}},50);},true);
 
 // ---------- read-only fallback (before accounts are switched on) ----------

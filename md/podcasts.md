@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-20T02:54:02+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T02:53:47+00:00._
+_Generated 2026-10-20T03:05:50+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T03:05:34+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [Steelers Hangover: Trajectory Win! Steelers Beat Tampa Bay 26-19 in OT](http://steelcurtainnetwork.com): Steel Curtain Network (BTSC), 2026-10-20 02:14 UTC
