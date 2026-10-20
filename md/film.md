@@ -1,6 +1,6 @@
 # Steelers Film Room & Previews
 
-_Generated 2026-10-20T15:05:14+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T14:37:44+00:00._
+_Generated 2026-10-20T15:16:01+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T15:15:33+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/film.json_
 
 - Breakdown (at Tampa Bay Buccaneers (Oct 18)): [Stars & Skulls Grades for Steelers-Buccaneers | Locked On](https://steelersnow.com/stars-skulls-grades-for-steelers-buccaneers-locked-on/): Steelers Now, 2026-10-20 14:30 UTC

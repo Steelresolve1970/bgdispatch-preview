@@ -1,13 +1,13 @@
 {
- "generated": "2026-10-20T08:32:21.128926+00:00",
+ "generated": "2026-10-20T15:15:55.106743+00:00",
  "built_day": "2026-10-20",
- "source_sig": "18039096538ccabdfe8d91c60221ac0e",
+ "source_sig": "1e5c2b2072fac66c8cf6b12faea269b3",
  "season": 2026,
- "nflverse_week": 6,
- "nflverse_file_updated": "2026-10-20T08:32:06.310536+00:00",
+ "nflverse_week": 7,
+ "nflverse_file_updated": "2026-10-20T15:15:39.411283+00:00",
  "counts": {
-  "Active roster": 48,
-  "Practice squad": 15,
+  "Active roster": 53,
+  "Practice squad": 17,
   "Reserve / IR": 10
  },
  "gaps": {
@@ -22,12 +22,15 @@
    "Troy Fautanu",
    "Daequan Hardy",
    "Julius Welschof",
+   "Will Howard",
    "Donte Kent",
    "Car'lin Vigers",
    "Max Hurleman",
+   "Kevin Jobity Jr.",
    "Lake McRee",
    "Gennings Dunker",
-   "Max Iheanachor"
+   "Max Iheanachor",
+   "Drew Allar"
   ],
   "no_snaps": [
    "Steven Jones",
@@ -36,12 +39,15 @@
    "Doug Nester",
    "Daequan Hardy",
    "Julius Welschof",
+   "Will Howard",
    "Donte Kent",
    "Car'lin Vigers",
    "Max Hurleman",
+   "Kevin Jobity Jr.",
    "Lake McRee",
    "Gennings Dunker",
-   "Gabe Rubio"
+   "Gabe Rubio",
+   "Drew Allar"
   ]
  },
  "note": "Roster status from nflverse weekly roster data; it can trail same-day transactions by a day or two. Games/starts from nflverse snap counts (2012+); 'starts' = games with 50%+ of offensive or defensive snaps (nflverse has no official starts field). Regular season only.",
@@ -217,6 +223,19 @@
    "status": "Active roster"
   },
   {
+   "id": "00-0035239",
+   "name": "Sean Murphy-Bunting",
+   "num": "27",
+   "pos": "DB",
+   "height": "6'0\"",
+   "weight": 195,
+   "age": 29,
+   "exp": 7,
+   "college": "Central Michigan",
+   "group": "Active roster",
+   "status": "Active roster"
+  },
+  {
    "id": "00-0035286",
    "name": "Cole Holcomb",
    "num": "55",
@@ -382,8 +401,8 @@
    "age": 27,
    "exp": 5,
    "college": "Iowa",
-   "group": "Active roster",
-   "status": "Active roster"
+   "group": "Practice squad",
+   "status": "Practice squad"
   },
   {
    "id": "00-0036783",
@@ -395,6 +414,19 @@
    "age": 28,
    "exp": 5,
    "college": "Texas A&M",
+   "group": "Active roster",
+   "status": "Active roster"
+  },
+  {
+   "id": "00-0036862",
+   "name": "Ben Skowronek",
+   "num": "15",
+   "pos": "WR",
+   "height": "6'3\"",
+   "weight": 224,
+   "age": 29,
+   "exp": 5,
+   "college": "Notre Dame; Northwestern",
    "group": "Active roster",
    "status": "Active roster"
   },
@@ -460,8 +492,8 @@
    "age": 28,
    "exp": 4,
    "college": "UCF; Tennessee",
-   "group": "Active roster",
-   "status": "Active roster"
+   "group": "Practice squad",
+   "status": "Practice squad (veteran)"
   },
   {
    "id": "00-0037480",
@@ -501,6 +533,19 @@
    "college": "South Carolina",
    "group": "Practice squad",
    "status": "Practice squad"
+  },
+  {
+   "id": "00-0038395",
+   "name": "Terell Smith",
+   "num": "39",
+   "pos": "DB",
+   "height": "6'0\"",
+   "weight": 207,
+   "age": 27,
+   "exp": 3,
+   "college": "Minnesota",
+   "group": "Active roster",
+   "status": "Active roster"
   },
   {
    "id": "00-0038409",
@@ -789,6 +834,19 @@
    "status": "Active roster"
   },
   {
+   "id": "00-0040203",
+   "name": "Will Howard",
+   "num": "18",
+   "pos": "QB",
+   "height": "6'4\"",
+   "weight": 235,
+   "age": 25,
+   "exp": 1,
+   "college": "Ohio State; Kansas State",
+   "group": "Active roster",
+   "status": "Active roster"
+  },
+  {
    "id": "00-0040231",
    "name": "Carson Bruener",
    "num": "44",
@@ -878,6 +936,19 @@
    "college": "Oregon; Michigan State",
    "group": "Reserve / IR",
    "status": "Injured reserve"
+  },
+  {
+   "id": "00-0041261",
+   "name": "Kevin Jobity Jr.",
+   "num": "92",
+   "pos": "DL",
+   "height": "6'4\"",
+   "weight": 300,
+   "age": 23,
+   "exp": 0,
+   "college": "Syracuse",
+   "group": "Active roster",
+   "status": "Active roster"
   },
   {
    "id": "00-0041263",
@@ -993,6 +1064,32 @@
    "age": 22,
    "exp": 0,
    "college": "Alabama; Washington; Michigan State",
+   "group": "Active roster",
+   "status": "Active roster"
+  },
+  {
+   "id": "00-0041490",
+   "name": "Eli Heidenreich",
+   "num": "29",
+   "pos": "RB",
+   "height": "6'0\"",
+   "weight": 198,
+   "age": 23,
+   "exp": 0,
+   "college": "Navy",
+   "group": "Active roster",
+   "status": "Active roster"
+  },
+  {
+   "id": "00-0041565",
+   "name": "Drew Allar",
+   "num": "16",
+   "pos": "QB",
+   "height": "6'5\"",
+   "weight": 228,
+   "age": 22,
+   "exp": 0,
+   "college": "Penn State",
    "group": "Active roster",
    "status": "Active roster"
   }

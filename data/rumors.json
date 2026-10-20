@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T15:05:08.821093+00:00",
+ "generated": "2026-10-20T15:15:55.820081+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -44,6 +44,32 @@
  },
  "rumors": [
   {
+   "id": "d9ea387e2e1d",
+   "title": "Reports: Giants Release Ex-Steelers RB Najee Harris",
+   "source": "Steelers Depot",
+   "link": "https://steelersdepot.com/2026/10/reports-giants-release-ex-steelers-rb-najee-harris/",
+   "published": "2026-10-20T15:12:49+00:00",
+   "summary": "Trade/roster move story from Steelers Depot. Full report at the original publisher.",
+   "tier": "Fan blog",
+   "tier_score": 2,
+   "subjects": [],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-20T15:15:55.820081+00:00",
+   "consensus": {
+    "cluster_id": "d9ea387e2e1d",
+    "independent_sources": 1,
+    "sources": [
+     "Steelers Depot"
+    ],
+    "highest_tier": "Fan blog",
+    "highest_tier_score": 2,
+    "related_ids": []
+   },
+   "updated": "2026-10-20T15:15:55.820081+00:00"
+  },
+  {
    "id": "c096101038f6",
    "title": "Steelers signing Marquez Valdes-Scantling could make things even worse",
    "source": "Still Curtain",
@@ -61,8 +87,9 @@
    "first_seen": "2026-10-20T14:14:03.584102+00:00",
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 6,
+    "independent_sources": 7,
     "sources": [
+     "All Steelers (Sports Illustrated)",
      "Beaver County Radio",
      "NBC Sports",
      "Sports Illustrated",
@@ -74,6 +101,7 @@
     "highest_tier_score": 4,
     "related_ids": [
      "47b303529098",
+     "d4ce4b6994a9",
      "903d04baad12",
      "cea338c8f16a",
      "8cb28a915183",
@@ -100,8 +128,9 @@
    "first_seen": "2026-10-20T14:14:03.584102+00:00",
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 6,
+    "independent_sources": 7,
     "sources": [
+     "All Steelers (Sports Illustrated)",
      "Beaver County Radio",
      "NBC Sports",
      "Sports Illustrated",
@@ -113,6 +142,7 @@
     "highest_tier_score": 4,
     "related_ids": [
      "c096101038f6",
+     "d4ce4b6994a9",
      "903d04baad12",
      "cea338c8f16a",
      "8cb28a915183",
@@ -122,6 +152,47 @@
     ]
    },
    "updated": "2026-10-20T14:14:03.584102+00:00"
+  },
+  {
+   "id": "d4ce4b6994a9",
+   "title": "Marquez Valdes-Scantling Signing Might Mean Good News for Steelers",
+   "source": "All Steelers (Sports Illustrated)",
+   "link": "https://www.si.com/nfl/steelers/onsi/marquez-valdes-scantling-signing-might-good-news-pittsburgh-steelers",
+   "published": "2026-10-20T12:37:08+00:00",
+   "summary": "Trade/roster move story from All Steelers (Sports Illustrated). Full report at the original publisher.",
+   "tier": "Aggregator / other",
+   "tier_score": 1,
+   "subjects": [],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-20T15:15:55.820081+00:00",
+   "consensus": {
+    "cluster_id": "f0317db1080a",
+    "independent_sources": 7,
+    "sources": [
+     "All Steelers (Sports Illustrated)",
+     "Beaver County Radio",
+     "NBC Sports",
+     "Sports Illustrated",
+     "Steelers Depot",
+     "Still Curtain",
+     "TribLIVE.com"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "c096101038f6",
+     "47b303529098",
+     "903d04baad12",
+     "cea338c8f16a",
+     "8cb28a915183",
+     "7562897ee621",
+     "67e645182b72",
+     "f0317db1080a"
+    ]
+   },
+   "updated": "2026-10-20T15:15:55.820081+00:00"
   },
   {
    "id": "903d04baad12",
@@ -141,8 +212,9 @@
    "first_seen": "2026-10-20T15:05:08.821093+00:00",
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 6,
+    "independent_sources": 7,
     "sources": [
+     "All Steelers (Sports Illustrated)",
      "Beaver County Radio",
      "NBC Sports",
      "Sports Illustrated",
@@ -155,6 +227,7 @@
     "related_ids": [
      "c096101038f6",
      "47b303529098",
+     "d4ce4b6994a9",
      "cea338c8f16a",
      "8cb28a915183",
      "7562897ee621",
@@ -210,8 +283,9 @@
    "first_seen": "2026-10-20T10:16:41.838191+00:00",
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 6,
+    "independent_sources": 7,
     "sources": [
+     "All Steelers (Sports Illustrated)",
      "Beaver County Radio",
      "NBC Sports",
      "Sports Illustrated",
@@ -224,6 +298,7 @@
     "related_ids": [
      "c096101038f6",
      "47b303529098",
+     "d4ce4b6994a9",
      "903d04baad12",
      "8cb28a915183",
      "7562897ee621",
@@ -250,8 +325,9 @@
    "first_seen": "2026-10-20T01:01:58.589655+00:00",
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 6,
+    "independent_sources": 7,
     "sources": [
+     "All Steelers (Sports Illustrated)",
      "Beaver County Radio",
      "NBC Sports",
      "Sports Illustrated",
@@ -264,6 +340,7 @@
     "related_ids": [
      "c096101038f6",
      "47b303529098",
+     "d4ce4b6994a9",
      "903d04baad12",
      "cea338c8f16a",
      "7562897ee621",
@@ -289,8 +366,9 @@
    "first_seen": "2026-10-20T00:50:36.617557+00:00",
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 6,
+    "independent_sources": 7,
     "sources": [
+     "All Steelers (Sports Illustrated)",
      "Beaver County Radio",
      "NBC Sports",
      "Sports Illustrated",
@@ -303,6 +381,7 @@
     "related_ids": [
      "c096101038f6",
      "47b303529098",
+     "d4ce4b6994a9",
      "903d04baad12",
      "cea338c8f16a",
      "8cb28a915183",
@@ -680,8 +759,9 @@
    "first_seen": "2026-10-18T12:06:09.039356+00:00",
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 6,
+    "independent_sources": 7,
     "sources": [
+     "All Steelers (Sports Illustrated)",
      "Beaver County Radio",
      "NBC Sports",
      "Sports Illustrated",
@@ -694,6 +774,7 @@
     "related_ids": [
      "c096101038f6",
      "47b303529098",
+     "d4ce4b6994a9",
      "903d04baad12",
      "cea338c8f16a",
      "8cb28a915183",
@@ -747,8 +828,9 @@
    "first_seen": "2026-10-18T04:34:04.958633+00:00",
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 6,
+    "independent_sources": 7,
     "sources": [
+     "All Steelers (Sports Illustrated)",
      "Beaver County Radio",
      "NBC Sports",
      "Sports Illustrated",
@@ -761,6 +843,7 @@
     "related_ids": [
      "c096101038f6",
      "47b303529098",
+     "d4ce4b6994a9",
      "903d04baad12",
      "cea338c8f16a",
      "8cb28a915183",

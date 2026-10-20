@@ -1,9 +1,10 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-20T15:05:14+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T15:04:56+00:00._
+_Generated 2026-10-20T15:16:01+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T15:15:38+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [Do Steelers Have Next Rookie of the Year?](https://bleav.com/shows/all-steelers-talk/?post_type=gp_podcast_episode&p=1864): All Steelers Talk, 2026-10-20 15:00 UTC
+- Video: [Steelers Nation runs deep](https://www.youtube.com/shorts/OaRNvHbX6UA): Pittsburgh Steelers (official), 2026-10-20 14:57 UTC
 - Video: [Why Did Steelers Sign MVS? | Steelers Morning Rush](https://www.youtube.com/watch?v=Y1a4toUay64): Steelers Now, 2026-10-20 14:10 UTC
 - Podcast: [Steelers Hint at Two Good Things With WR Signing](https://bleav.com/shows/all-steelers-talk/episodes/steelers-hint-at-two-good-things-with-wr-signing/): All Steelers Talk, 2026-10-20 12:10 UTC
 - Podcast: [Here We Go, The Steelers Show: Rookies are a part of the black-and-gold solution](http://steelcurtainnetwork.com): Steel Curtain Network (BTSC), 2026-10-20 08:00 UTC
@@ -59,7 +60,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [STEELERS SQUAD SHOW: McCarthy ROLLS Ankle, Steelers Big COMEBACK Leads To 1st Road Win In OT](https://www.youtube.com/watch?v=oTfu6jvAWPA): Locked On Steelers, 2026-10-18 21:57 UTC
 - Video: [Mike McCarthy Explains Clock Management Decisions in Steelers Win over Bucs](https://www.youtube.com/watch?v=ZR7423xKpA8): Steelers Now, 2026-10-18 21:51 UTC
 - Video: [Coach McCarthy, Aaron Rodgers & Nick Herbig Postgame Press Conference (Week 6 at Buccaneers)](https://www.youtube.com/watch?v=V1-MVjyVhs8): Pittsburgh Steelers (official), 2026-10-18 21:41 UTC
-- Video: [Later gator ✌️](https://www.youtube.com/shorts/st-Ev-iQ0y0): Pittsburgh Steelers (official), 2026-10-18 21:04 UTC
 - Podcast: [The Terrible Take - Episode 2054 - October 18, 2026](https://megaphone.link/SDP9521387232): The Terrible Podcast (Steelers Depot), 2026-10-18 14:34 UTC
 - Podcast: [Steelers vs. Bucs Bold Predictions](https://bleav.com/shows/all-steelers-talk/episodes/steelers-vs-bucs-bold-predictions/): All Steelers Talk, 2026-10-18 12:35 UTC
 - Podcast: [DK's Live Shot of Steelers: Pregame vs. Buccaneers](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-live-shot-of-steelers-pregame-vs-buccaneers/): DK Pittsburgh Sports, 2026-10-18 01:37 UTC
