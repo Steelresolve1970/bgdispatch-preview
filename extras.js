@@ -148,33 +148,120 @@ if('serviceWorker' in navigator&&location.protocol!=='file:')navigator.serviceWo
  document.addEventListener('click',e=>{const b=e.target.closest('.dc-u');if(b){uSel=b.dataset.u;render();}});})();
 
 // ---------- Listen Live (radio link-outs only: no players, streams, iframes or station logos) ----------
-// Sidebar copy on every page (on home/schedule it sits directly under the AFC North box; standings.js is untouched).
+// Sidebar copy only on the main nav tabs (on home it sits directly under the AFC North box; standings.js is untouched).
 // One-column screens (<900px) drop the sidebar below the content, so the Live Hub also shows a copy near its top,
 // and the sidebar copy is hidden on the Live Hub there so the box never shows twice on one screen.
+// Time-aware: shows, phases and LIVE badges come from data/radio_shows.json (sched.rules, all US Eastern) and the
+// kickoff times in data/schedule.json. A show is only marked LIVE when its time is known; estimates say "about".
 (function(){const E=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
  const ST=[
-  {n:'102.5 WDVE',s:'Pittsburgh',l:'Flagship of the Steelers Audio Network: game-day pregame, the game and postgame. Online, the live game call is limited by NFL rules; pregame and postgame stream.',u:'https://www.iheart.com/live/1025-dve-2017/',b:'Listen on iHeart'},
-  {n:'93.7 The Fan',s:'KDKA-FM',l:'Pittsburgh sports talk, with Steelers talk all week. It does not carry the Steelers game broadcast.',u:'https://www.audacy.com/stations/937thefan',b:'Listen on Audacy'}];
- const box=()=>`<h2>Listen Live</h2>${ST.map(s=>`<div class="ll-row"><div class="ll-txt"><b>${E(s.n)}</b> <small>${E(s.s)}</small><p>${E(s.l)}</p></div><a class="ll-btn" href="${E(s.u)}" target="_blank" rel="noopener">${E(s.b)}<span class="sr"> (opens in a new tab)</span></a></div>`).join('')}<p class="fine ll-fine">Links open each station's own site. Unofficial fan site; not affiliated with these stations.</p>`;
- const st=document.createElement('style');st.textContent=`.ll-box{background:var(--black);color:#fff;border:3px solid var(--gold)!important;padding:14px 16px}.ll-box h2{color:var(--gold);text-transform:uppercase;letter-spacing:1px;font-weight:900;font-size:16px;margin:0 0 8px}
-.ll-row{display:flex;gap:10px;align-items:center;justify-content:space-between;padding:8px 0;border-top:1px solid #333}.ll-txt{min-width:0;flex:1}.ll-txt b{color:#fff}.ll-txt small{color:var(--gold);font-weight:700}.ll-txt p{margin:3px 0 0;font-size:13px;line-height:1.35;color:#ccc}
+  {k:'wdve',n:'102.5 WDVE',s:'Pittsburgh',l:'Flagship of the Steelers Audio Network: game-day pregame, the game and postgame. Online, the live game call is limited by NFL rules; pregame and postgame stream.',u:'https://www.iheart.com/live/1025-dve-2017/',b:'Listen on iHeart'},
+  {k:'fan',n:'93.7 The Fan',s:'KDKA-FM',l:'Pittsburgh sports talk, with Steelers talk all week. It does not carry the Steelers game broadcast.',u:'https://www.audacy.com/stations/937thefan',b:'Listen on Audacy'}];
+ const TZ='America/New_York',MIN=6e4,GAME_EST=195*MIN;   // final whistle estimated at kickoff + 3h15m until confirmed
+ const NOW=()=>Date.now();
+ // --- Eastern-time helpers ---
+ const fmtP=new Intl.DateTimeFormat('en-US',{timeZone:TZ,year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',weekday:'short',hourCycle:'h23'});
+ function et(t){const o={};fmtP.formatToParts(new Date(t)).forEach(p=>o[p.type]=p.value);return {y:+o.year,m:+o.month,d:+o.day,h:+o.hour%24,mi:+o.minute,wd:o.weekday,date:`${o.year}-${o.month}-${o.day}`};}
+ function etTime(date,hm){const [y,m,d]=date.split('-').map(Number),[h,mi]=hm.split(':').map(Number);let g=Date.UTC(y,m-1,d,h,mi);
+  for(let i=0;i<2;i++){const p=et(g),asUTC=Date.UTC(p.y,p.m-1,p.d,p.h,p.mi);g+=Date.UTC(y,m-1,d,h,mi)-asUTC;}return g;}
+ const addDays=(date,n)=>{const [y,m,d]=date.split('-').map(Number);return new Date(Date.UTC(y,m-1,d+n)).toISOString().slice(0,10);};
+ const hm=t=>new Date(t).toLocaleTimeString('en-US',{timeZone:TZ,hour:'numeric',minute:'2-digit'});
+ const dayLbl=(t,now)=>{const a=et(t).date,b=et(now).date;return a===b?'':a===addDays(b,1)?'tomorrow ':new Date(t).toLocaleDateString('en-US',{timeZone:TZ,weekday:'short'})+' ';};
+ function dur(ms){const s=Math.max(0,Math.floor(ms/1000)),d=Math.floor(s/86400),h=Math.floor(s%86400/3600),m=Math.floor(s%3600/60),x=s%60;
+  return d?`${d}d ${h}h`:h?`${h}h ${String(m).padStart(2,'0')}m`:`${m}m ${String(x).padStart(2,'0')}s`;}
+ // --- data ---
+ let SH=null,SC=null,LV=null;
+ const getJ=u=>fetch(BGD_url(u),{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null);
+ function load(){return Promise.all([getJ('data/radio_shows.json'),getJ('data/schedule.json'),getJ('data/live.json')]).then(([a,b,c])=>{if(a)SH=a;if(b)SC=b;if(c)LV=c;});}
+ function games(){const g=(SC&&SC.games)||[];return g.map(x=>({id:x.nflverse_id,ko:Date.parse(x.date),opp:x.opponent,home:x.home,completed:!!x.completed})).filter(x=>x.ko).sort((a,b)=>a.ko-b.ko);}
+ // final whistle: confirmed (schedule says completed, or live.json says this game is final) or estimated
+ function fin(g,now){const lvFinal=LV&&LV.nflverse_id===g.id&&(LV.state==='post'||LV.completed);
+  if(g.completed||lvFinal){return {t:Math.min(g.ko+GAME_EST,now),sure:true,known:false};}
+  if(now>=g.ko+240*MIN)return {t:g.ko+GAME_EST,sure:true,known:false};      // 4h after kickoff the game is certainly over
+  return {t:g.ko+GAME_EST,sure:false,known:false};}
+ // occurrences of one show around now: [{s,e,est,sure}]
+ function occ(show,now){const R=(show.sched&&show.sched.rules)||[],out=[],today=et(now).date,G=games();
+  const dated=new Set(R.filter(r=>r.type==='dated').map(r=>r.date));
+  const recent=G.some(g=>g.ko<=now&&g.ko>now-8*864e5);
+  for(const r of R){
+   if(r.type==='dated'){const s=etTime(r.date,r.start),e=etTime(r.date,r.end);out.push({s,e,est:false,sure:true});}
+   else if(r.type==='weekly'){for(let i=-1;i<=8;i++){const dt=addDays(today,i),wd=et(etTime(dt,'12:00')).wd;if(!(r.days||[]).includes(wd)||dated.has(dt))continue;
+     if(r.needs_recent_game&&!recent)continue;out.push({s:etTime(dt,r.start),e:etTime(dt,r.end),est:false,sure:true});}}
+   else if(r.type==='kickoff'){for(const g of G){if(dated.has(et(g.ko).date))continue;if(r.only_kickoff_et){const p=et(g.ko);if(`${String(p.h).padStart(2,'0')}:${String(p.mi).padStart(2,'0')}`!==r.only_kickoff_et)continue;}
+     out.push({s:g.ko+(r.start_offset_min||0)*MIN,e:g.ko+(r.end_offset_min||0)*MIN,est:false,sure:true});}}
+   else if(r.type==='after_game'){for(const g of G){if(dated.has(et(g.ko).date))continue;const f=fin(g,now);out.push({s:f.t,e:f.t+(r.duration_min||0)*MIN,est:true,sure:f.sure,after:true});}}}
+  return out.filter(o=>o.e>now-864e5&&o.s<now+9*864e5).sort((a,b)=>a.s-b.s);}
+ function stat(show,now){const o=occ(show,now);const on=o.find(x=>x.s<=now&&now<x.e&&x.sure);if(on)return {live:true,o:on};const nx=o.find(x=>x.s>now);return {live:false,o:nx||null};}
+ // --- phase of the week ---
+ function phase(now){const G=games(),today=et(now).date;
+  const g=G.find(g=>(et(g.ko).date===today&&now<g.ko)||(now>=g.ko&&now<fin(g,now).t+4*36e5));   // game day from midnight ET, through ~4h after the final
+  if(g){const f=fin(g,now);
+   if(now<g.ko)return {k:'pre',grp:'pre',h:'Pre-game shows',g};
+   if(now<f.t&&!(f.sure&&LV&&LV.nflverse_id===g.id&&LV.state==='post'))return {k:'game',grp:'post',h:'Game in progress',g};
+   return {k:'post',grp:'post',h:'Post-game shows',g,fin:f};}
+  const p=et(now),last=[...G].reverse().find(x=>x.ko<now);
+  if(p.wd==='Mon'&&p.h===15&&last&&last.ko>now-8*864e5)return {k:'presser',grp:'presser',h:'Monday press conference'};
+  if(last&&addDays(et(last.ko).date,1)===today)return {k:'dayafter',grp:'dayafter',h:'Day after'};
+  if(last&&et(last.ko).date===today)return {k:'dayafter',grp:'dayafter',h:'Day after',tonight:true};   // game night, post-game window over
+  return {k:'weekday',grp:'dayafter',h:'Weekday shows'};}
+ function visible(){return ((SH&&SH.groups)||[]).map(x=>({...x,shows:(x.shows||[]).filter(v=>!v.hidden&&v.name&&/^https:\/\//.test(v.url||''))})).filter(x=>x.shows.length);}
+ const badge='<span class="ll-live" aria-label="Live now"><i aria-hidden="true"></i>LIVE</span>';
+ const cd=(t,est)=>est?`about ${hm(t)} ET`:`<span class="ll-cd" data-at="${t}">${dur(t-NOW())}</span> · ${hm(t)} ET`;
+ // --- Listen Live box ---
+ function boxState(now){const ph=SH?phase(now):null,V=visible(),all=V.flatMap(g=>g.shows).filter(s=>s.station);
+  if(ph&&ph.k==='game')return {head:`Live now: Steelers ${ph.g.home?'vs':'at'} ${E(ph.g.opp.replace(/^.* /,''))}`,on:['wdve'],sub:'Game call on 102.5 WDVE (online may be limited by NFL rules).'};
+  let live=null,next=null;const L=[];for(const s of all){const x=stat(s,now);if(x.live){L.push({s,x});if(!live)live={s,x};}else if(!x.live&&x.o&&!x.o.est&&(!next||x.o.s<next.x.o.s))next={s,x};}
+  if(live){const also=L.filter(z=>z.s.station!==live.s.station).slice(0,1).map(z=>` · Also on now: ${E(z.s.name)} on ${z.s.station==='wdve'?'102.5 WDVE':'93.7 The Fan'}`).join('');return {head:`Live now: ${E(live.s.name)}`,on:L.map(z=>z.s.station),sub:`On now · ends ${live.x.o.est?'about ':''}${hm(live.x.o.e)}${also}`};}
+  if(next)return {head:`Next: ${E(next.s.name)} in <span class="ll-cd" data-at="${next.x.o.s}">${dur(next.x.o.s-now)}</span>`,on:[],sub:`${dayLbl(next.x.o.s,now)}${hm(next.x.o.s)} ET on ${next.s.station==='wdve'?'102.5 WDVE':'93.7 The Fan'}`};
+  return {head:'Listen Live',on:[],sub:''};}
+ function box(){const b=boxState(NOW());return `<h2 class="ll-h">${b.head}</h2>${b.sub?`<p class="ll-sub">${b.sub}</p>`:''}${ST.map(s=>`<div class="ll-row${b.on.includes(s.k)?' ll-on':''}"><div class="ll-txt"><b>${E(s.n)}</b> <small>${E(s.s)}</small>${b.on.includes(s.k)?' '+badge:''}<p>${E(s.l)}</p></div><a class="ll-btn" href="${E(s.u)}" target="_blank" rel="noopener">${E(s.b)}<span class="sr"> (opens in a new tab)</span></a></div>`).join('')}<p class="fine ll-fine">Links open each station's own site. Unofficial fan site; not affiliated with these stations.</p>`;}
+ // --- Game-day shows list (Live Hub only) ---
+ const open=new Set();
+ function shows(){const now=NOW(),ph=phase(now),V=visible();if(!V.length)return '';
+  const top=V.find(g=>g.key===ph.grp),rest=V.filter(g=>g!==top),ord=top?[top,...rest]:rest;
+  const row=(s,isTop,nextRef)=>{const x=stat(s,now);let line='';
+   if(x.live)line=`<span class="ll-now">On now · ends ${x.o.est?'about ':''}${hm(x.o.e)}</span>`;
+   else if(isTop&&x.o&&nextRef&&s.name===nextRef.n)line=x.o.est?`Starts after the game, about ${hm(x.o.s)} ET`:`Starts in ${cd(x.o.s,false)}${dayLbl(x.o.s,now)?' '+dayLbl(x.o.s,now).trim():''}`;
+   return `<li class="${x.live?'ll-on':''}"><a href="${E(s.url)}" target="_blank" rel="noopener">${E(s.name)}</a>${x.live?' '+badge:''} <small>${E(s.where)} · ${E(s.when)}</small>${line?`<span class="ll-when">${line}</span>`:''}</li>`;};
+  const grp=(g,isTop)=>{const title=isTop&&ph.k==='weekday'&&g.key==='dayafter'?'Weekday talk shows':g.title;let nextRef=null;if(isTop){for(const s of g.shows){const x=stat(s,now);if(!x.live&&x.o&&(!nextRef||x.o.s<nextRef.s))nextRef={s:x.o.s,n:s.name};}}
+   const body=`<ul>${g.shows.map(s=>row(s,isTop,nextRef)).join('')}</ul>`;
+   return isTop?`<div class="ll-grp ll-top"><h3>${E(title)}</h3>${body}</div>`:`<details class="ll-grp" data-k="${E(g.key)}"${open.has(g.key)?' open':''}><summary>${E(g.title)} <small>(${g.shows.length})</small></summary>${body}</details>`;};
+  const game=ph.k==='game'?`<div class="ll-game">${badge} <b>Steelers ${ph.g.home?'vs':'at'} ${E(ph.g.opp)}</b> is on now. <a href="#live-body" class="ll-jump">See the live score</a> or <a href="${E(ST[0].u)}" target="_blank" rel="noopener">listen on 102.5 WDVE</a> (online, the game call may be limited by NFL rules).</div>`:'';
+  return `<h2 class="section-title">${E(ph.h)}</h2>${game}${ord.map((g,i)=>grp(g,i===0&&!!top)).join('')}<p class="fine">${E(SH.note||'')} Live badges follow each show's published schedule.</p>`;}
+ const st=document.createElement('style');st.textContent=`.ll-box{background:var(--black);color:#fff;border:3px solid var(--gold)!important;padding:14px 16px}.ll-box h2{color:var(--gold);text-transform:uppercase;letter-spacing:1px;font-weight:900;font-size:16px;margin:0 0 8px;line-height:1.25}
+.ll-box .ll-sub{margin:-4px 0 8px;font-size:12px;color:#ccc}
+.ll-row{display:flex;gap:10px;align-items:center;justify-content:space-between;padding:8px;margin:0 -8px;border-top:1px solid #333;border-radius:6px}.ll-txt{min-width:0;flex:1}.ll-txt b{color:#fff}.ll-txt small{color:var(--gold);font-weight:700}.ll-txt p{margin:3px 0 0;font-size:13px;line-height:1.35;color:#ccc}
 .ll-btn{flex:none;background:var(--gold);color:var(--black)!important;font-weight:800;font-size:13px;padding:8px 10px;border-radius:4px;text-decoration:none;white-space:nowrap}.ll-btn:hover,.ll-btn:focus{background:#fff}
 .ll-box .ll-fine{color:#aaa;margin:8px 0 0;font-size:11px}.ll-inline{margin:0 0 18px}@media(min-width:600px){.ll-inline{max-width:560px}}
 .sidebar .ll-row{flex-direction:column;align-items:stretch}.sidebar .ll-btn{text-align:center}
 @media(min-width:900px){#listen-live{display:none!important}}
-.ll-shows ul{margin:4px 0 10px;padding-left:18px}.ll-shows li{margin:4px 0}.ll-shows li small{display:block;color:#666}.ll-shows h3{font-size:14px;margin:8px 0 2px;text-transform:uppercase;letter-spacing:.5px}`;
+.ll-live{display:inline-flex;align-items:center;gap:4px;background:#c8102e;color:#fff;font-weight:800;font-size:10.5px;letter-spacing:.5px;padding:2px 6px;border-radius:3px;vertical-align:2px;line-height:1.3}
+.ll-live i{width:7px;height:7px;border-radius:50%;background:#fff;animation:llDot 1.8s ease-in-out infinite}
+.ll-on{border:2px solid #e0303f!important;animation:llGlow 1.8s ease-in-out infinite}
+@keyframes llGlow{0%,100%{box-shadow:0 0 0 0 rgba(224,48,63,.25)}50%{box-shadow:0 0 12px 2px rgba(224,48,63,.6)}}
+@keyframes llDot{0%,100%{opacity:1}50%{opacity:.35}}
+@media (prefers-reduced-motion:reduce){.ll-on,.ll-live i{animation:none!important}.ll-on{box-shadow:0 0 0 2px rgba(224,48,63,.35)}}
+.ll-shows .ll-grp{margin:6px 0}.ll-shows ul{margin:4px 0 6px;padding:0;list-style:none}.ll-shows li{margin:6px 0;padding:6px 8px;border:1px solid #e6e6e6;border-radius:6px}
+.ll-shows li small{display:block;color:#666}.ll-shows .ll-when{display:block;font-size:12.5px;font-weight:700;color:#111;margin-top:2px}.ll-shows .ll-now{color:#b00d24}
+.ll-shows h3{font-size:14px;margin:8px 0 2px;text-transform:uppercase;letter-spacing:.5px}
+.ll-shows .ll-top{border-left:4px solid var(--gold);padding:4px 0 2px 10px;background:#fffaf0}
+.ll-shows details{border-top:1px solid #e6e6e6;padding:6px 0}.ll-shows summary{cursor:pointer;font-weight:800;text-transform:uppercase;font-size:12.5px;letter-spacing:.5px;color:#444}
+.ll-shows details li{font-size:13px;padding:4px 8px}
+.ll-game{background:var(--black);color:#fff;border:2px solid var(--gold);border-radius:6px;padding:10px 12px;margin:6px 0 10px;font-size:14px}.ll-game a{color:var(--gold)}`;
  document.head.appendChild(st);
  function mk(id,cls){const s=document.createElement('section');s.id=id;s.className='box ll-box'+(cls?' '+cls:'');s.setAttribute('aria-label','Listen live on Pittsburgh radio');s.innerHTML=box();return s;}
+ function draw(){document.querySelectorAll('.ll-box').forEach(b=>{b.innerHTML=box();});
+  const sh=document.getElementById('live-shows');if(sh&&SH){try{const h=shows();if(h){sh.innerHTML=h;sh.hidden=false;}}catch(e){sh.hidden=true;}}}
+ function tick(){const now=NOW();document.querySelectorAll('.ll-cd').forEach(el=>{const t=+el.dataset.at;if(t>now)el.textContent=dur(t-now);});}
  function setup(){const side=document.querySelector('.sidebar');
   if(side&&!document.getElementById('listen-side')){const a=document.getElementById('afcn-box'),ad=side.querySelector('.ad-box'),el=mk('listen-side');
    if(a&&a.parentNode===side)a.after(el);else if(ad)ad.after(el);else side.prepend(el);}
   const lv=document.querySelector('.view[data-view="live"]'),body=document.getElementById('live-body');
   if(lv&&body&&!document.getElementById('listen-live')){body.before(mk('listen-live','ll-inline'));
-   const sh=document.createElement('section');sh.id='live-shows';sh.className='box ll-shows';sh.hidden=true;
-   // Show list lives in data/radio_shows.json (owner-editable; set "hidden": true to drop a show).
-   fetch(BGD_url('data/radio_shows.json'),{cache:'no-store'}).then(r=>r.json()).then(d=>{const g=(d.groups||[]).map(x=>[x,(x.shows||[]).filter(v=>!v.hidden&&v.name&&/^https:\/\//.test(v.url||''))]).filter(x=>x[1].length);if(!g.length)return;
-    sh.innerHTML=`<h2 class="section-title">Game-day shows</h2>${g.map(([x,l])=>`<h3>${E(x.title)}</h3><ul>${l.map(v=>`<li><a href="${E(v.url)}" target="_blank" rel="noopener">${E(v.name)}</a> <small>${E(v.where)} · ${E(v.when)}</small></li>`).join('')}</ul>`).join('')}<p class="fine">${E(d.note||'')}</p>`;sh.hidden=false;}).catch(()=>{});
-   body.after(sh);}}
+   const sh=document.createElement('section');sh.id='live-shows';sh.className='box ll-shows';sh.hidden=true;body.after(sh);
+   sh.addEventListener('toggle',e=>{const d=e.target.closest&&e.target.closest('details');if(d){d.open?open.add(d.dataset.k):open.delete(d.dataset.k);}},true);
+   sh.addEventListener('click',e=>{const a=e.target.closest('.ll-jump');if(a){e.preventDefault();document.getElementById('live-body')?.scrollIntoView({behavior:'smooth'});}});
+   draw();}}
  function place(){setup();const s=document.getElementById('listen-side');if(!s)return;
   const cur=document.querySelector('.view:not([hidden])'),v=cur?cur.dataset.view:'home',wide=matchMedia('(min-width:900px)').matches;
   // Sidebar copy only on the main nav tabs (the ones before the More menu); hidden on every More route and other pages.
@@ -184,4 +271,8 @@ if('serviceWorker' in navigator&&location.protocol!=='file:')navigator.serviceWo
   const a=document.getElementById('afcn-box');if(wide&&a&&a.parentNode===s.parentNode&&a.nextElementSibling!==s)a.after(s);}
  document.addEventListener('route',()=>setTimeout(place,20));addEventListener('resize',()=>{clearTimeout(place.t);place.t=setTimeout(place,200);});
  if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',place);else place();setTimeout(place,1500);
+ load().then(draw);
+ setInterval(tick,1000);                      // countdown digits every second
+ let lastMin=Math.floor(NOW()/MIN);setInterval(()=>{const m=Math.floor(NOW()/MIN);if(m!==lastMin){lastMin=m;if(!document.hidden)draw();}},5000);   // live states/phase each minute
+ setInterval(()=>{if(!document.hidden)load().then(draw);},5*MIN);   // pick up the final whistle and edits
 })();

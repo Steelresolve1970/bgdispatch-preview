@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-20T05:22:28+00:00",
- "data_updated": "2026-10-20T05:22:12+00:00",
- "count": 98,
+ "generated": "2026-10-20T05:33:52+00:00",
+ "data_updated": "2026-10-20T05:33:35+00:00",
+ "count": 91,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -143,19 +143,6 @@
    "show": "DK Pittsburgh Sports",
    "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-double-shot-of-steelers-credit-to-this-defense/",
    "published": "2026-10-19T22:15:00+00:00",
-   "summary": "Podcast episode from DK Pittsburgh Sports.",
-   "source": {
-    "name": "DK Pittsburgh Sports",
-    "url": null
-   }
-  },
-  {
-   "id": "9af77d4cf06d8b3c",
-   "type": "podcast_episode",
-   "title": "DK's Double Shot of Penguins: A little heat?",
-   "show": "DK Pittsburgh Sports",
-   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-double-shot-of-penguins-a-little-heat/",
-   "published": "2026-10-19T22:03:00+00:00",
    "summary": "Podcast episode from DK Pittsburgh Sports.",
    "source": {
     "name": "DK Pittsburgh Sports",
@@ -429,32 +416,6 @@
    "show": "DK Pittsburgh Sports",
    "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-steelers-the-1-2-catch/",
    "published": "2026-10-19T07:49:00+00:00",
-   "summary": "Podcast episode from DK Pittsburgh Sports.",
-   "source": {
-    "name": "DK Pittsburgh Sports",
-    "url": null
-   }
-  },
-  {
-   "id": "4b6b7071f8d0f492",
-   "type": "podcast_episode",
-   "title": "DK's Daily Shot of Penguins: Is this Kyle Dubas’ wish?",
-   "show": "DK Pittsburgh Sports",
-   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-penguins-is-this-kyle-dubas-wish/",
-   "published": "2026-10-19T07:48:00+00:00",
-   "summary": "Podcast episode from DK Pittsburgh Sports.",
-   "source": {
-    "name": "DK Pittsburgh Sports",
-    "url": null
-   }
-  },
-  {
-   "id": "dd64c83e328ebe3f",
-   "type": "podcast_episode",
-   "title": "DK's Daily Shot of Pirates: Social media war!",
-   "show": "DK Pittsburgh Sports",
-   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-pirates-social-media-war/",
-   "published": "2026-10-19T07:47:00+00:00",
    "summary": "Podcast episode from DK Pittsburgh Sports.",
    "source": {
     "name": "DK Pittsburgh Sports",
@@ -787,19 +748,6 @@
    }
   },
   {
-   "id": "43b3c700153a0cae",
-   "type": "podcast_episode",
-   "title": "DK's Double Shot of Penguins: Updates from Denver!",
-   "show": "DK Pittsburgh Sports",
-   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-double-shot-of-penguins-updates-from-denver/",
-   "published": "2026-10-16T22:03:00+00:00",
-   "summary": "Podcast episode from DK Pittsburgh Sports.",
-   "source": {
-    "name": "DK Pittsburgh Sports",
-    "url": null
-   }
-  },
-  {
    "id": "1d72a024fabf0d83",
    "type": "podcast_episode",
    "title": "DK’s Double Shot of Steelers: Those linebackers",
@@ -848,6 +796,19 @@
    "summary": "Podcast episode from The Terrible Podcast (Steelers Depot).",
    "source": {
     "name": "The Terrible Podcast (Steelers Depot)",
+    "url": null
+   }
+  },
+  {
+   "id": "47feb07447e41450",
+   "type": "video",
+   "title": "So much went into this play for Elandon Roberts 💥🏈 #steelers #nfl #pittsburgh",
+   "show": "Not Just Football with Cam Heyward",
+   "url": "https://www.youtube.com/shorts/5FYyVJkVFIw",
+   "published": "2026-10-16T16:10:09+00:00",
+   "summary": "Video from Not Just Football with Cam Heyward.",
+   "source": {
+    "name": "Not Just Football with Cam Heyward",
     "url": null
    }
   },
@@ -943,6 +904,19 @@
    }
   },
   {
+   "id": "0e43bfa198ef7821",
+   "type": "video",
+   "title": "Elandon Roberts on Returning to the Steelers, Super Bowl Memories & More! | Not Just Football",
+   "show": "Not Just Football with Cam Heyward",
+   "url": "https://www.youtube.com/watch?v=AE8wB5uMrH4",
+   "published": "2026-10-16T10:00:01+00:00",
+   "summary": "Video from Not Just Football with Cam Heyward.",
+   "source": {
+    "name": "Not Just Football with Cam Heyward",
+    "url": null
+   }
+  },
+  {
    "id": "2ed6132323e2d6f6",
    "type": "podcast_episode",
    "title": "Elandon Roberts on Returning to the Steelers, Super Bowl Memories & More! | Not Just Football",
@@ -975,19 +949,6 @@
    "show": "DK Pittsburgh Sports",
    "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-steelers-ten-things-id-like-to-see/",
    "published": "2026-10-16T05:08:00+00:00",
-   "summary": "Podcast episode from DK Pittsburgh Sports.",
-   "source": {
-    "name": "DK Pittsburgh Sports",
-    "url": null
-   }
-  },
-  {
-   "id": "c51ff549855ecc28",
-   "type": "podcast_episode",
-   "title": "DK's Daily Shot of Penguins: Youngsters without fault?",
-   "show": "DK Pittsburgh Sports",
-   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-penguins-youngsters-without-fault/",
-   "published": "2026-10-16T05:07:00+00:00",
    "summary": "Podcast episode from DK Pittsburgh Sports.",
    "source": {
     "name": "DK Pittsburgh Sports",
@@ -1030,19 +991,6 @@
    "summary": "Podcast episode from Steel City Blitz.",
    "source": {
     "name": "Steel City Blitz",
-    "url": null
-   }
-  },
-  {
-   "id": "44389d9e6d91d026",
-   "type": "podcast_episode",
-   "title": "DK's Double Shot of Penguins: Power-play change?",
-   "show": "DK Pittsburgh Sports",
-   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-double-shot-of-penguins-power-play-change/",
-   "published": "2026-10-15T22:49:00+00:00",
-   "summary": "Podcast episode from DK Pittsburgh Sports.",
-   "source": {
-    "name": "DK Pittsburgh Sports",
     "url": null
    }
   },
@@ -1134,6 +1082,19 @@
    "summary": "Video from Locked On Steelers.",
    "source": {
     "name": "Locked On Steelers",
+    "url": null
+   }
+  },
+  {
+   "id": "02ca1db1b2ce2181",
+   "type": "video",
+   "title": "Not many number 1 receivers would be willing to block like DK Metcalf is 🔥👏#dkmetcalf #steelers",
+   "show": "Not Just Football with Cam Heyward",
+   "url": "https://www.youtube.com/shorts/Q-zad-ffG3c",
+   "published": "2026-10-15T16:00:14+00:00",
+   "summary": "Video from Not Just Football with Cam Heyward.",
+   "source": {
+    "name": "Not Just Football with Cam Heyward",
     "url": null
    }
   },
@@ -1238,58 +1199,6 @@
    "summary": "Video from Locked On Steelers.",
    "source": {
     "name": "Locked On Steelers",
-    "url": null
-   }
-  },
-  {
-   "id": "304b44b63d31911d",
-   "type": "podcast_episode",
-   "title": "DK's Daily Shot of Steelers: Too tough on this defense?",
-   "show": "DK Pittsburgh Sports",
-   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-steelers-too-tough-on-this-defense/",
-   "published": "2026-10-15T05:31:00+00:00",
-   "summary": "Podcast episode from DK Pittsburgh Sports.",
-   "source": {
-    "name": "DK Pittsburgh Sports",
-    "url": null
-   }
-  },
-  {
-   "id": "ff700a0852c5621e",
-   "type": "podcast_episode",
-   "title": "DK's Daily Shot of Penguins: Do right by Ben Kindel",
-   "show": "DK Pittsburgh Sports",
-   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-penguins-do-right-by-ben-kindel/",
-   "published": "2026-10-15T05:30:00+00:00",
-   "summary": "Podcast episode from DK Pittsburgh Sports.",
-   "source": {
-    "name": "DK Pittsburgh Sports",
-    "url": null
-   }
-  },
-  {
-   "id": "2ac0754712dffdbb",
-   "type": "podcast_episode",
-   "title": "DK's Daily Shot of Pirates: What'll change now?",
-   "show": "DK Pittsburgh Sports",
-   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/dks-daily-shot-of-pirates-whatll-change-now/",
-   "published": "2026-10-15T05:29:00+00:00",
-   "summary": "Podcast episode from DK Pittsburgh Sports.",
-   "source": {
-    "name": "DK Pittsburgh Sports",
-    "url": null
-   }
-  },
-  {
-   "id": "3327f6afcb9807d4",
-   "type": "podcast_episode",
-   "title": "Scout’s Eye with Matt Williamson: The Offensive Player of the Week",
-   "show": "DK Pittsburgh Sports",
-   "url": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/scouts-eye-with-matt-williamson-the-offensive-player-of-the-week/",
-   "published": "2026-10-15T05:28:00+00:00",
-   "summary": "Podcast episode from DK Pittsburgh Sports.",
-   "source": {
-    "name": "DK Pittsburgh Sports",
     "url": null
    }
   }

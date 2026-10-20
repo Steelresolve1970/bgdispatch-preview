@@ -1,193 +1,420 @@
 {
- "_how_to_edit": "Owner-editable list for the Live Hub 'Game-day shows' box. Groups: pre, post, dayafter. Each show: name, where, when (Eastern time), url (the show's or station's own official page), source (where the time was verified). To hide a show without deleting it, set \"hidden\": true. Stations block (Listen Live box) is in extras.js. Last verified Oct 20, 2026.",
- "updated": "2026-10-20",
- "note": "Times are Eastern and come from each station's or show's official schedule. They can shift for early, night or international games. Online, NFL rules may limit the live game call; pregame, postgame and talk shows usually stream.",
- "groups": [
-  {
-   "key": "pre",
-   "title": "Pre-game",
-   "shows": [
+  "_how_to_edit": "Owner-editable list for the Live Hub 'Game-day shows' box and the Listen Live headline. Groups: pre, post, dayafter (also used for weekday shows), presser. Each show: name, where, when (text shown to readers, Eastern time), url (official page), source (where the time was verified), optional station ('wdve' or 'fan') for the Listen Live box, optional hidden:true. Machine times go in sched.rules (all Eastern time): {type:'weekly', days:['Mon',...], start:'HH:MM', end:'HH:MM', needs_recent_game:true (only if a game was in the last 8 days)}; {type:'kickoff', start_offset_min:-240, end_offset_min:0, only_kickoff_et:'13:00' (optional: only for games at that kickoff)} = minutes relative to kickoff from data/schedule.json; {type:'after_game', duration_min:180} = starts at the final whistle (estimated as kickoff + 3h15m until the final is confirmed), always labeled 'about'; {type:'dated', date:'YYYY-MM-DD', start:'HH:MM', end:'HH:MM'} = a one-off time for that day; it replaces the other rules on that date. A show with no rules shows its 'when' text only: no live badge, no countdown. Last verified Oct 20, 2026.",
+  "updated": "2026-10-20",
+  "note": "Times are Eastern and come from each station's or show's official schedule. They can shift for early, night or international games. Online, NFL rules may limit the live game call; pregame, postgame and talk shows usually stream.",
+  "groups": [
     {
-     "name": "Countdown To Kickoff",
-     "where": "Steelers Audio Network: 102.5 WDVE, 970 AM, Steelers.com",
-     "when": "Starts 4 hours before kickoff",
-     "url": "https://www.steelers.com/audio/steelers-audio-network/radio",
-     "source": "https://www.steelers.com/audio/steelers-audio-network/radio"
+      "key": "pre",
+      "title": "Pre-game",
+      "shows": [
+        {
+          "name": "Countdown To Kickoff",
+          "where": "Steelers Audio Network: 102.5 WDVE, 970 AM, Steelers.com",
+          "when": "Starts 4 hours before kickoff",
+          "url": "https://www.steelers.com/audio/steelers-audio-network/radio",
+          "source": "https://www.steelers.com/audio/steelers-audio-network/radio",
+          "sched": {
+            "rules": [
+              {
+                "type": "kickoff",
+                "start_offset_min": -240,
+                "end_offset_min": 0
+              }
+            ]
+          },
+          "station": "wdve"
+        },
+        {
+          "name": "Fan Gameday",
+          "where": "93.7 The Fan",
+          "when": "Sunday morning, about 2.5 hours (7 a.m. this week)",
+          "url": "https://www.audacy.com/stations/937thefan",
+          "source": "https://www.siriusxm.com/channels/kdka-pittsburgh",
+          "sched": {
+            "rules": [
+              {
+                "type": "dated",
+                "date": "2026-10-25",
+                "start": "07:00",
+                "end": "09:30"
+              }
+            ],
+            "note": "Only this week's time is known (SiriusXM listing for the Paris week)."
+          },
+          "station": "fan"
+        },
+        {
+          "name": "BetMGM Gameday",
+          "where": "93.7 The Fan",
+          "when": "Sunday morning, after Fan Gameday (9:30 a.m. this week)",
+          "url": "https://www.audacy.com/stations/937thefan",
+          "source": "https://www.siriusxm.com/channels/kdka-pittsburgh",
+          "sched": {
+            "rules": [
+              {
+                "type": "dated",
+                "date": "2026-10-25",
+                "start": "09:30",
+                "end": "11:00"
+              }
+            ],
+            "note": "Only this week's time is known. With the 9:30 a.m. Paris kickoff it airs while the game is on."
+          },
+          "station": "fan"
+        },
+        {
+          "name": "You Better You Bet Countdown to Kickoff",
+          "where": "93.7 The Fan",
+          "when": "Sunday, leading up to kickoff (11 a.m. this week)",
+          "url": "https://www.audacy.com/stations/937thefan",
+          "source": "https://www.siriusxm.com/channels/kdka-pittsburgh",
+          "sched": {
+            "rules": [
+              {
+                "type": "dated",
+                "date": "2026-10-25",
+                "start": "11:00",
+                "end": "12:30"
+              }
+            ],
+            "note": "Only this week's time is known. With the Paris kickoff it airs while the game is on (likely the national 1 p.m. countdown)."
+          },
+          "station": "fan"
+        },
+        {
+          "name": "Steelers Kickoff",
+          "where": "KDKA-TV",
+          "when": "Sundays 11:30 a.m. before 1 p.m. games",
+          "url": "https://www.cbsnews.com/pittsburgh/news/kdka-announces-2026-steelers-programming-schedule/",
+          "source": "https://www.cbsnews.com/pittsburgh/news/kdka-announces-2026-steelers-programming-schedule/",
+          "hidden": true,
+          "sched": {
+            "rules": [],
+            "note": "Length not published, so no live badge or countdown."
+          }
+        },
+        {
+          "name": "NFL GameDay Morning",
+          "where": "NFL Network (national, pay TV)",
+          "when": "Sundays 9 a.m. to 1 p.m.",
+          "url": "https://www.nfl.com/network/",
+          "source": "https://espnpressroom.com/press-release/espn-kicks-off-super-bowl-lxi-season-with-comprehensive-week-1-nfl-coverage-from-kansas-city-across-espn-and-nfl-network/",
+          "hidden": true
+        },
+        {
+          "name": "Sunday NFL Countdown",
+          "where": "ESPN (national, pay TV)",
+          "when": "Sundays 10 a.m. to 1 p.m.",
+          "url": "https://espnpressroom.com/",
+          "source": "https://espnpressroom.com/press-release/espn-kicks-off-super-bowl-lxi-season-with-comprehensive-week-1-nfl-coverage-from-kansas-city-across-espn-and-nfl-network/",
+          "hidden": true
+        },
+        {
+          "name": "The NFL Today",
+          "where": "CBS and Paramount+ (national)",
+          "when": "Sundays noon to 1 p.m.",
+          "url": "https://www.paramountpressexpress.com/cbs-sports/shows/the-nfl-today/",
+          "source": "https://www.skydance.com/news/the-nfl-today-crew-previews-a-blockbuster-2026-season",
+          "hidden": true
+        },
+        {
+          "name": "FOX NFL Sunday",
+          "where": "FOX (national)",
+          "when": "Sundays noon to 1 p.m. (FOX NFL Kickoff at 11 a.m.)",
+          "url": "https://www.foxsports.com/stories/presspass/fox-sports-unveils-2026-nfl-broadcast-lineup",
+          "source": "https://www.foxsports.com/stories/presspass/fox-sports-unveils-2026-nfl-broadcast-lineup",
+          "hidden": true
+        }
+      ]
     },
     {
-     "name": "Fan Gameday",
-     "where": "93.7 The Fan",
-     "when": "Sunday morning, about 2.5 hours (7 a.m. this week)",
-     "url": "https://www.audacy.com/stations/937thefan",
-     "source": "https://www.siriusxm.com/channels/kdka-pittsburgh"
+      "key": "post",
+      "title": "Post-game",
+      "shows": [
+        {
+          "name": "The Steelers Postgame Show",
+          "where": "Steelers Audio Network: 102.5 WDVE, 970 AM, Steelers.com",
+          "when": "Right after the game, about 3 hours",
+          "url": "https://www.steelers.com/audio/steelers-audio-network/radio",
+          "source": "https://www.steelers.com/audio/steelers-audio-network/radio",
+          "sched": {
+            "rules": [
+              {
+                "type": "after_game",
+                "duration_min": 180
+              }
+            ]
+          },
+          "station": "wdve"
+        },
+        {
+          "name": "The Fan Postgame Show",
+          "where": "93.7 The Fan",
+          "when": "Right after the game, about 4 hours",
+          "url": "https://www.audacy.com/stations/937thefan",
+          "source": "https://www.siriusxm.com/channels/kdka-pittsburgh",
+          "sched": {
+            "rules": [
+              {
+                "type": "dated",
+                "date": "2026-10-25",
+                "start": "12:30",
+                "end": "16:30"
+              },
+              {
+                "type": "after_game",
+                "duration_min": 240
+              }
+            ]
+          },
+          "station": "fan"
+        },
+        {
+          "name": "Steelers Extra Point",
+          "where": "KDKA-TV or KDKA+",
+          "when": "Right after 1 p.m. and 4 p.m. games",
+          "url": "https://www.cbsnews.com/pittsburgh/news/kdka-announces-2026-steelers-programming-schedule/",
+          "source": "https://www.cbsnews.com/pittsburgh/news/kdka-announces-2026-steelers-programming-schedule/",
+          "hidden": true,
+          "sched": {
+            "rules": [],
+            "note": "Length not published, so no live badge or countdown."
+          }
+        }
+      ]
     },
     {
-     "name": "BetMGM Gameday",
-     "where": "93.7 The Fan",
-     "when": "Sunday morning, after Fan Gameday (9:30 a.m. this week)",
-     "url": "https://www.audacy.com/stations/937thefan",
-     "source": "https://www.siriusxm.com/channels/kdka-pittsburgh"
+      "key": "dayafter",
+      "title": "Day after",
+      "shows": [
+        {
+          "name": "The Fan Morning Show",
+          "where": "93.7 The Fan",
+          "when": "Weekdays 5:40 to 10 a.m.",
+          "url": "https://www.audacy.com/stations/937thefan",
+          "source": "https://www.siriusxm.com/channels/kdka-pittsburgh",
+          "sched": {
+            "rules": [
+              {
+                "type": "weekly",
+                "days": [
+                  "Mon",
+                  "Tue",
+                  "Wed",
+                  "Thu",
+                  "Fri"
+                ],
+                "start": "05:40",
+                "end": "10:00"
+              }
+            ]
+          },
+          "station": "fan"
+        },
+        {
+          "name": "The Pomp and Joe Show",
+          "where": "93.7 The Fan",
+          "when": "Weekdays 10 a.m. to 2 p.m.",
+          "url": "https://www.audacy.com/stations/937thefan",
+          "source": "https://www.siriusxm.com/channels/kdka-pittsburgh",
+          "sched": {
+            "rules": [
+              {
+                "type": "weekly",
+                "days": [
+                  "Mon",
+                  "Tue",
+                  "Wed",
+                  "Thu",
+                  "Fri"
+                ],
+                "start": "10:00",
+                "end": "14:00"
+              }
+            ]
+          },
+          "station": "fan"
+        },
+        {
+          "name": "The PM Team with Poni and Mueller",
+          "where": "93.7 The Fan",
+          "when": "Weekdays 2 to 6 p.m.",
+          "url": "https://www.audacy.com/stations/937thefan",
+          "source": "https://www.siriusxm.com/channels/kdka-pittsburgh",
+          "sched": {
+            "rules": [
+              {
+                "type": "weekly",
+                "days": [
+                  "Mon",
+                  "Tue",
+                  "Wed",
+                  "Thu",
+                  "Fri"
+                ],
+                "start": "14:00",
+                "end": "18:00"
+              }
+            ]
+          },
+          "station": "fan"
+        },
+        {
+          "name": "Steelers Blitz",
+          "where": "Steelers Nation Radio",
+          "when": "Weekdays 10 a.m. to noon",
+          "url": "https://www.steelers.com/audio/steelers-audio-network/radio",
+          "source": "https://www.steelers.com/audio/steelers-audio-network/radio",
+          "sched": {
+            "rules": [
+              {
+                "type": "weekly",
+                "days": [
+                  "Mon",
+                  "Tue",
+                  "Wed",
+                  "Thu",
+                  "Fri"
+                ],
+                "start": "10:00",
+                "end": "12:00"
+              }
+            ]
+          }
+        },
+        {
+          "name": "In the Locker Room",
+          "where": "Steelers Nation Radio",
+          "when": "Weekdays noon to 2 p.m.",
+          "url": "https://www.steelers.com/audio/steelers-audio-network/radio",
+          "source": "https://www.steelers.com/audio/steelers-audio-network/radio",
+          "sched": {
+            "rules": [
+              {
+                "type": "weekly",
+                "days": [
+                  "Mon",
+                  "Tue",
+                  "Wed",
+                  "Thu",
+                  "Fri"
+                ],
+                "start": "12:00",
+                "end": "14:00"
+              }
+            ]
+          }
+        },
+        {
+          "name": "The Steelers Report",
+          "where": "Steelers Nation Radio",
+          "when": "Weekdays 2 to 4 p.m.",
+          "url": "https://www.steelers.com/audio/steelers-audio-network/radio",
+          "source": "https://www.steelers.com/audio/steelers-audio-network/radio",
+          "sched": {
+            "rules": [
+              {
+                "type": "weekly",
+                "days": [
+                  "Mon",
+                  "Tue",
+                  "Wed",
+                  "Thu",
+                  "Fri"
+                ],
+                "start": "14:00",
+                "end": "16:00"
+              }
+            ]
+          }
+        },
+        {
+          "name": "SNR Drive",
+          "where": "Steelers Nation Radio",
+          "when": "Weekdays 4 to 6 p.m.",
+          "url": "https://www.steelers.com/audio/steelers-audio-network/radio",
+          "source": "https://www.steelers.com/audio/steelers-audio-network/radio",
+          "sched": {
+            "rules": [
+              {
+                "type": "weekly",
+                "days": [
+                  "Mon",
+                  "Tue",
+                  "Wed",
+                  "Thu",
+                  "Fri"
+                ],
+                "start": "16:00",
+                "end": "18:00"
+              }
+            ]
+          }
+        },
+        {
+          "name": "Point After",
+          "where": "Steelers Nation Radio",
+          "when": "The night following each game, 7 to 8 p.m.",
+          "url": "https://www.steelers.com/audio/steelers-audio-network/radio",
+          "source": "https://www.steelers.com/audio/steelers-audio-network/radio",
+          "sched": {
+            "rules": [],
+            "note": "Steelers.com says 'the night following all games, 7 to 8 p.m.' It is unclear whether that means game night or the next night, so no live badge or countdown."
+          }
+        },
+        {
+          "name": "Randy Baumann and the DVE Morning Show",
+          "where": "102.5 WDVE",
+          "when": "Weekdays 6 to 10 a.m.",
+          "url": "https://dve.iheart.com/schedule/",
+          "source": "https://dve.iheart.com/schedule/",
+          "hidden": true,
+          "_why_hidden": "Time verified, but it is a music/morning show; how much it breaks down the game was not verified.",
+          "sched": {
+            "rules": [
+              {
+                "type": "weekly",
+                "days": [
+                  "Mon",
+                  "Tue",
+                  "Wed",
+                  "Thu",
+                  "Fri"
+                ],
+                "start": "06:00",
+                "end": "10:00"
+              }
+            ]
+          },
+          "station": "wdve"
+        }
+      ]
     },
     {
-     "name": "You Better You Bet Countdown to Kickoff",
-     "where": "93.7 The Fan",
-     "when": "Sunday, leading up to kickoff (11 a.m. this week)",
-     "url": "https://www.audacy.com/stations/937thefan",
-     "source": "https://www.siriusxm.com/channels/kdka-pittsburgh"
-    },
-    {
-     "name": "Steelers Kickoff",
-     "where": "KDKA-TV",
-     "when": "Sundays 11:30 a.m. before 1 p.m. games",
-     "url": "https://www.cbsnews.com/pittsburgh/news/kdka-announces-2026-steelers-programming-schedule/",
-     "source": "https://www.cbsnews.com/pittsburgh/news/kdka-announces-2026-steelers-programming-schedule/",
-     "hidden": true
-    },
-    {
-     "name": "NFL GameDay Morning",
-     "where": "NFL Network (national, pay TV)",
-     "when": "Sundays 9 a.m. to 1 p.m.",
-     "url": "https://www.nfl.com/network/",
-     "source": "https://espnpressroom.com/press-release/espn-kicks-off-super-bowl-lxi-season-with-comprehensive-week-1-nfl-coverage-from-kansas-city-across-espn-and-nfl-network/",
-     "hidden": true
-    },
-    {
-     "name": "Sunday NFL Countdown",
-     "where": "ESPN (national, pay TV)",
-     "when": "Sundays 10 a.m. to 1 p.m.",
-     "url": "https://espnpressroom.com/",
-     "source": "https://espnpressroom.com/press-release/espn-kicks-off-super-bowl-lxi-season-with-comprehensive-week-1-nfl-coverage-from-kansas-city-across-espn-and-nfl-network/",
-     "hidden": true
-    },
-    {
-     "name": "The NFL Today",
-     "where": "CBS and Paramount+ (national)",
-     "when": "Sundays noon to 1 p.m.",
-     "url": "https://www.paramountpressexpress.com/cbs-sports/shows/the-nfl-today/",
-     "source": "https://www.skydance.com/news/the-nfl-today-crew-previews-a-blockbuster-2026-season",
-     "hidden": true
-    },
-    {
-     "name": "FOX NFL Sunday",
-     "where": "FOX (national)",
-     "when": "Sundays noon to 1 p.m. (FOX NFL Kickoff at 11 a.m.)",
-     "url": "https://www.foxsports.com/stories/presspass/fox-sports-unveils-2026-nfl-broadcast-lineup",
-     "source": "https://www.foxsports.com/stories/presspass/fox-sports-unveils-2026-nfl-broadcast-lineup",
-     "hidden": true
+      "key": "presser",
+      "title": "Monday Press Conference",
+      "shows": [
+        {
+          "name": "Mike McCarthy Press Conference",
+          "where": "KDKA+ and Steelers.com",
+          "when": "Mondays 3 to 4 p.m.",
+          "url": "https://www.cbsnews.com/pittsburgh/news/kdka-announces-2026-steelers-programming-schedule/",
+          "source": "https://www.cbsnews.com/pittsburgh/news/kdka-announces-2026-steelers-programming-schedule/",
+          "sched": {
+            "rules": [
+              {
+                "type": "weekly",
+                "days": [
+                  "Mon"
+                ],
+                "start": "15:00",
+                "end": "16:00",
+                "needs_recent_game": true
+              }
+            ]
+          }
+        }
+      ]
     }
-   ]
-  },
-  {
-   "key": "post",
-   "title": "Post-game",
-   "shows": [
-    {
-     "name": "The Steelers Postgame Show",
-     "where": "Steelers Audio Network: 102.5 WDVE, 970 AM, Steelers.com",
-     "when": "Right after the game, about 3 hours",
-     "url": "https://www.steelers.com/audio/steelers-audio-network/radio",
-     "source": "https://www.steelers.com/audio/steelers-audio-network/radio"
-    },
-    {
-     "name": "The Fan Postgame Show",
-     "where": "93.7 The Fan",
-     "when": "Right after the game, about 4 hours",
-     "url": "https://www.audacy.com/stations/937thefan",
-     "source": "https://www.siriusxm.com/channels/kdka-pittsburgh"
-    },
-    {
-     "name": "Steelers Extra Point",
-     "where": "KDKA-TV or KDKA+",
-     "when": "Right after 1 p.m. and 4 p.m. games",
-     "url": "https://www.cbsnews.com/pittsburgh/news/kdka-announces-2026-steelers-programming-schedule/",
-     "source": "https://www.cbsnews.com/pittsburgh/news/kdka-announces-2026-steelers-programming-schedule/",
-     "hidden": true
-    }
-   ]
-  },
-  {
-   "key": "dayafter",
-   "title": "Day after",
-   "shows": [
-    {
-     "name": "The Fan Morning Show",
-     "where": "93.7 The Fan",
-     "when": "Weekdays 5:40 to 10 a.m.",
-     "url": "https://www.audacy.com/stations/937thefan",
-     "source": "https://www.siriusxm.com/channels/kdka-pittsburgh"
-    },
-    {
-     "name": "The Pomp and Joe Show",
-     "where": "93.7 The Fan",
-     "when": "Weekdays 10 a.m. to 2 p.m.",
-     "url": "https://www.audacy.com/stations/937thefan",
-     "source": "https://www.siriusxm.com/channels/kdka-pittsburgh"
-    },
-    {
-     "name": "The PM Team with Poni and Mueller",
-     "where": "93.7 The Fan",
-     "when": "Weekdays 2 to 6 p.m.",
-     "url": "https://www.audacy.com/stations/937thefan",
-     "source": "https://www.siriusxm.com/channels/kdka-pittsburgh"
-    },
-    {
-     "name": "Steelers Blitz",
-     "where": "Steelers Nation Radio",
-     "when": "Weekdays 10 a.m. to noon",
-     "url": "https://www.steelers.com/audio/steelers-audio-network/radio",
-     "source": "https://www.steelers.com/audio/steelers-audio-network/radio"
-    },
-    {
-     "name": "In the Locker Room",
-     "where": "Steelers Nation Radio",
-     "when": "Weekdays noon to 2 p.m.",
-     "url": "https://www.steelers.com/audio/steelers-audio-network/radio",
-     "source": "https://www.steelers.com/audio/steelers-audio-network/radio"
-    },
-    {
-     "name": "The Steelers Report",
-     "where": "Steelers Nation Radio",
-     "when": "Weekdays 2 to 4 p.m.",
-     "url": "https://www.steelers.com/audio/steelers-audio-network/radio",
-     "source": "https://www.steelers.com/audio/steelers-audio-network/radio"
-    },
-    {
-     "name": "SNR Drive",
-     "where": "Steelers Nation Radio",
-     "when": "Weekdays 4 to 6 p.m.",
-     "url": "https://www.steelers.com/audio/steelers-audio-network/radio",
-     "source": "https://www.steelers.com/audio/steelers-audio-network/radio"
-    },
-    {
-     "name": "Point After",
-     "where": "Steelers Nation Radio",
-     "when": "The night following each game, 7 to 8 p.m.",
-     "url": "https://www.steelers.com/audio/steelers-audio-network/radio",
-     "source": "https://www.steelers.com/audio/steelers-audio-network/radio"
-    },
-    {
-     "name": "Randy Baumann and the DVE Morning Show",
-     "where": "102.5 WDVE",
-     "when": "Weekdays 6 to 10 a.m.",
-     "url": "https://dve.iheart.com/schedule/",
-     "source": "https://dve.iheart.com/schedule/",
-     "hidden": true,
-     "_why_hidden": "Time verified, but it is a music/morning show; how much it breaks down the game was not verified."
-    }
-   ]
-  },
-  {
-   "key": "presser",
-   "title": "Monday Press Conference",
-   "shows": [
-    {
-     "name": "Mike McCarthy Press Conference",
-     "where": "KDKA+ and Steelers.com",
-     "when": "Mondays 3 to 4 p.m.",
-     "url": "https://www.cbsnews.com/pittsburgh/news/kdka-announces-2026-steelers-programming-schedule/",
-     "source": "https://www.cbsnews.com/pittsburgh/news/kdka-announces-2026-steelers-programming-schedule/"
-    }
-   ]
-  }
- ]
+  ]
 }
