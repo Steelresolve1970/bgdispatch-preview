@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-20T07:38:37+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T07:38:20+00:00._
+_Generated 2026-10-20T07:49:22+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T07:49:05+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Only the Steelers Can Make Winning Look So Ugly | Illegal Hands to the Face](https://www.youtube.com/watch?v=idEz7_-TZ68): Still Curtain Podcast, 2026-10-20 06:54 UTC
