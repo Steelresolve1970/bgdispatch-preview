@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T23:00:47.779826+00:00",
+ "generated": "2026-10-20T23:11:37.628876+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -43,6 +43,36 @@
   ]
  },
  "rumors": [
+  {
+   "id": "33136c96597c",
+   "title": "Steelers Linked To A Slew Of All-Pros With Trade Deadline Quickly Approaching",
+   "source": "SteelerNation",
+   "link": "https://www.steelernation.com/2026/10/20/steelers-trade-deadline-quickly",
+   "published": "2026-10-20T23:08:59+00:00",
+   "summary": "Trade/roster move story from SteelerNation. Full report at the original publisher.",
+   "tier": "Fan blog",
+   "tier_score": 2,
+   "subjects": [],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-20T23:11:37.628876+00:00",
+   "consensus": {
+    "cluster_id": "05c9cabecb81",
+    "independent_sources": 2,
+    "sources": [
+     "Steeler Nation",
+     "SteelerNation"
+    ],
+    "highest_tier": "Fan blog",
+    "highest_tier_score": 2,
+    "related_ids": [
+     "290cc538b506",
+     "05c9cabecb81"
+    ]
+   },
+   "updated": "2026-10-20T23:11:37.628876+00:00"
+  },
   {
    "id": "2289e7e73871",
    "title": "Reports: Giants to release former Steelers running back Najee Harris",
@@ -856,6 +886,7 @@
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
     "related_ids": [
+     "33136c96597c",
      "05c9cabecb81"
     ]
    },
@@ -885,6 +916,7 @@
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
     "related_ids": [
+     "33136c96597c",
      "290cc538b506"
     ]
    },

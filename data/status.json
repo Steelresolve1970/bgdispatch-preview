@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-20T23:00:53.739199+00:00",
+ "last_run": "2026-10-20T23:11:43.593996+00:00",
  "results": [
   {
    "fetcher": "apply_grade_edits.py",
@@ -40,7 +40,7 @@
   {
    "fetcher": "fetch_film.py",
    "ok": true,
-   "seconds": 2.5,
+   "seconds": 3.0,
    "last_line": "  Week 1 vs Falcons (W 20-13): 4   {'Steelers Depot Film Room (Alex Kozora)': 1, \"Derrick Bell \u2013 DB's Film Room (Steelers Now)\": 1, 'Steelers Almighty': 1, 'Steelers Depot (YouTube)': 1}"
   },
   {
@@ -113,7 +113,7 @@
    "fetcher": "fetch_hub.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "hub fresh (<30 min); skipped"
+   "last_line": "injuries 16 practice 0 opp NO"
   },
   {
    "fetcher": "fetch_matchup.py",
@@ -124,7 +124,7 @@
   {
    "fetcher": "fetch_depth.py",
    "ok": true,
-   "seconds": 2.5,
+   "seconds": 3.0,
    "last_line": "depth units [('Offense', '3WR 1TE', 12), ('Defense', 'Base 3-4 D', 12), ('Special teams', 'Special Teams', 6)]"
   },
   {
@@ -143,7 +143,7 @@
    "fetcher": "fetch_rumors.py",
    "ok": true,
    "seconds": 2.5,
-   "last_line": "rumors 51 {'Rumor': 50, 'Confirmed': 0, 'Denied': 1}"
+   "last_line": "rumors 52 {'Rumor': 51, 'Confirmed': 0, 'Denied': 1}"
   },
   {
    "fetcher": "fetch_pickem.py",
@@ -173,13 +173,13 @@
    "fetcher": "fetch_quotes.py",
    "ok": true,
    "seconds": 1.0,
-   "last_line": "quotes: 6 kept from 126 articles"
+   "last_line": "quotes: 6 kept from 125 articles"
   },
   {
    "fetcher": "build_machine.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "machine layer: {'news': 150, 'rumors': 51, 'injuries': 16, 'depth-chart': 28, 'schedule': 17, 'stats': 62, 'grades': 40, 'college': 20, 'insiders': 36, 'podcasts': 135, 'film': 17, 'draft': 521} md 13 feeds 5 jsonld 14"
+   "last_line": "machine layer: {'news': 150, 'rumors': 52, 'injuries': 16, 'depth-chart': 28, 'schedule': 17, 'stats': 62, 'grades': 40, 'college': 20, 'insiders': 36, 'podcasts': 135, 'film': 17, 'draft': 521} md 13 feeds 5 jsonld 14"
   }
  ]
 }

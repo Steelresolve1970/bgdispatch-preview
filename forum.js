@@ -14,7 +14,8 @@ async function api(path,opts={}){const o={method:opts.method||'GET',credentials:
  let r;try{r=await fetch('/api/'+path,o);}catch(e){clearTimeout(to);return{ok:false,error:e&&e.name==='AbortError'?'The site took too long to answer. Check your connection and try again.':'Network problem. Check your connection and try again.',net:true};}
  clearTimeout(to);
  let d;try{d=await r.json();}catch(e){d={ok:false,error:r.status===404?'not_configured':r.status===413?'That is too long to send. Please shorten it and try again.':r.status>=500?'The site had a problem saving that. Please try again in a minute.':'Something went wrong. Please try again.'};}
- if(!r.ok&&d.ok!==false)d.ok=false;if(!d.ok&&!d.error)d.error='Something went wrong. Please try again.';d.status=r.status;return d;}
+ if(!d||typeof d!=='object')d={ok:false,error:r.status>=500?'The site had a problem saving that. Please try again in a minute.':'Something went wrong. Please try again.'};
+ if(!r.ok&&d.ok!==false)d.ok=false;if(!d.ok&&!d.error)d.error='Something went wrong. Please try again.';d.status=r.ok&&typeof d.status==='number'?d.status:r.status;return d;}   // the API answers most errors with HTTP 200 and the real code in the body
 // Longest post / reply / chat message (the server checks the same number). A counter shows up near the limit; nothing is ever cut off silently.
 const POST_MAX=5000,COUNT_FROM=4000;const n0=n=>n.toLocaleString('en-US');
 function countMsg(len){return len>POST_MAX?{t:`Too long by ${n0(len-POST_MAX)} characters (${n0(len)} of ${n0(POST_MAX)}). Shorten it to post.`,bad:true}:len>=COUNT_FROM?{t:`${n0(len)} of ${n0(POST_MAX)} characters`,bad:false}:{t:'',bad:false};}

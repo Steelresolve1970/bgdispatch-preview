@@ -1,8 +1,10 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-20T23:00:53+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T23:00:47+00:00._
+_Generated 2026-10-20T23:11:43+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T23:11:37+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
+- **Rumor** · tier: Fan blog · consensus: 2 source(s), top tier Fan blog
+  [Steelers Linked To A Slew Of All-Pros With Trade Deadline Quickly Approaching](https://www.steelernation.com/2026/10/20/steelers-trade-deadline-quickly): SteelerNation, first seen 2026-10-20 23:11 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 2 source(s), top tier Fan blog
   [Reports: Giants to release former Steelers running back Najee Harris](https://triblive.com/sports/reports-giants-to-release-former-steelers-running-back-najee-harris/): TribLIVE.com, first seen 2026-10-20 21:44 UTC
 - **Rumor** · tier: Fan blog · consensus: 2 source(s), top tier Fan blog
