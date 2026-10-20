@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T04:26:48.258976+00:00",
+ "generated": "2026-10-20T04:38:16.554219+00:00",
  "game": {
   "label": "at New Orleans Saints (Oct 25)",
   "opponent": "New Orleans Saints",
@@ -55,8 +55,8 @@
    "creator": "Merril Hoge \u2013 Steelers Playbook (official)",
    "mode": "official",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChaRXjMDs4ppKfnTPE6Z89w",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
@@ -111,8 +111,8 @@
    "creator": "Steelers Now (Derrick Bell)",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp1iAMIfmmgWewzJ07_Y7oA",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
@@ -135,7 +135,7 @@
    "creator": "Locked On Steelers",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7JorgD8nGLtvvMy1ogFetg",
-   "status": "error: HTTP Error 500: Internal Server Error",
+   "status": "error: HTTP Error 404: Not Found",
    "feed_items": 0,
    "in_window": 0
   },
@@ -191,8 +191,8 @@
    "creator": "Brett Kollmann",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYzfVBuCfGz-oF3aOCGgO5g",
-   "status": "error: HTTP Error 404: Not Found",
-   "feed_items": 0,
+   "status": "ok",
+   "feed_items": 15,
    "in_window": 0
   },
   {
