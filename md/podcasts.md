@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-20T22:38:46+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T22:38:08+00:00._
+_Generated 2026-10-20T22:50:05+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T22:49:48+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Should Steelers Still Seek WR Help? | Steelers Afternoon Drive](https://www.youtube.com/watch?v=Bp2zQ4eZjX8): Steelers Now, 2026-10-20 22:21 UTC

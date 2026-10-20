@@ -10,9 +10,15 @@ const ago=t=>{if(t==null||t==='')return'';const v=typeof t==='number'?t:Date.par
 const etTime=t=>new Date(t).toLocaleString('en-US',{timeZone:'America/New_York',weekday:'short',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})+' ET';
 const S={api:null,me:null,cats:[],emoji:['🔥','👏','😤','😂','💛'],poll:null,livePoll:null,thread:null,last:0,bot:null,flairs:null};
 async function api(path,opts={}){const o={method:opts.method||'GET',credentials:'same-origin',headers:{'x-bgd':'1'}};if(opts.body){o.method='POST';o.headers['content-type']='application/json';o.body=JSON.stringify(opts.body);}
- let r;try{r=await fetch('/api/'+path,o);}catch(e){return{ok:false,error:'Network problem. Check your connection and try again.',net:true};}
- let d;try{d=await r.json();}catch(e){d={ok:false,error:r.status===404?'not_configured':'Something went wrong.'};}
- if(!r.ok&&d.ok!==false)d.ok=false;d.status=r.status;return d;}
+ let to=null;if(opts.timeout&&window.AbortController){const ac=new AbortController();o.signal=ac.signal;to=setTimeout(()=>ac.abort(),opts.timeout);}
+ let r;try{r=await fetch('/api/'+path,o);}catch(e){clearTimeout(to);return{ok:false,error:e&&e.name==='AbortError'?'The site took too long to answer. Check your connection and try again.':'Network problem. Check your connection and try again.',net:true};}
+ clearTimeout(to);
+ let d;try{d=await r.json();}catch(e){d={ok:false,error:r.status===404?'not_configured':r.status===413?'That is too long to send. Please shorten it and try again.':r.status>=500?'The site had a problem saving that. Please try again in a minute.':'Something went wrong. Please try again.'};}
+ if(!r.ok&&d.ok!==false)d.ok=false;if(!d.ok&&!d.error)d.error='Something went wrong. Please try again.';d.status=r.status;return d;}
+// Longest post / reply / chat message (the server checks the same number). A counter shows up near the limit; nothing is ever cut off silently.
+const POST_MAX=5000,COUNT_FROM=4000;const n0=n=>n.toLocaleString('en-US');
+function countMsg(len){return len>POST_MAX?{t:`Too long by ${n0(len-POST_MAX)} characters (${n0(len)} of ${n0(POST_MAX)}). Shorten it to post.`,bad:true}:len>=COUNT_FROM?{t:`${n0(len)} of ${n0(POST_MAX)} characters`,bad:false}:{t:'',bad:false};}
+function wireCount(ta,out){const u=()=>{const m=countMsg(ta.value.length);out.textContent=m.t;out.className='fx-cnt'+(m.bad?' bad':'');out.dataset.err='';};ta.addEventListener('input',u);u();return u;}
 
 // ---------- styles (kept here so the shared stylesheet stays untouched) ----------
 const css=`
@@ -61,8 +67,13 @@ const css=`
 .fx-post .tx{margin:6px 0 8px;white-space:pre-wrap;overflow-wrap:anywhere;font-size:1.02rem}
 .fx-rx{display:flex;gap:6px;flex-wrap:wrap;align-items:center}.fx-rx button{min-height:40px;min-width:48px;border-radius:20px;border:1px solid #ddd;background:#f6f6f4;font-size:1.05rem;padding:0 10px}
 .fx-rx button.on{background:#fff3cf;border-color:#FFB612}.fx-rx .sp{flex:1}.fx-rx .lnk{background:none;border:0;min-width:0;font-size:.85rem;color:#555;text-decoration:underline}
-.fx-reply{position:fixed;left:0;right:0;bottom:0;background:#fff;border-top:3px solid #FFB612;padding:10px;z-index:6;display:flex;gap:8px;align-items:flex-end;box-shadow:0 -2px 8px #0002}
-.fx-reply textarea{flex:1;min-height:48px;max-height:160px;font-size:16px;padding:10px;border:2px solid #ccc;border-radius:10px;resize:vertical}
+.fx-reply{position:fixed;left:0;right:0;bottom:0;background:#fff;border-top:3px solid #FFB612;padding:10px;z-index:6;display:flex;flex-wrap:wrap;gap:8px;align-items:flex-end;box-shadow:0 -2px 8px #0002}
+.fx-reply textarea{flex:1;min-width:0;min-height:48px;max-height:40vh;font-size:16px;line-height:1.35;padding:10px;border:2px solid #ccc;border-radius:10px;resize:none;overflow-y:auto}
+.fx-reply .fx-cnt{flex-basis:100%;order:3;margin:0}.fx-reply .fx-cnt:empty{display:none}
+.fx-cnt{font-size:.85rem;font-weight:700;color:#555;margin:4px 0 0}.fx-cnt.bad{color:#b3261e}
+.fx-dob{display:flex;gap:8px;align-items:stretch}.fx-dob>*{min-width:0}.fx-dob select{flex:1.6}.fx-dob .d{flex:0.9}.fx-dob .y{flex:1.2}
+.fx-dob span{display:block;font-size:.8rem;font-weight:700;color:#555;margin:0 0 3px}.fx-dob>div{display:flex;flex-direction:column}
+.fx-form .fx-dob input.bad,.fx-form .fx-dob select.bad{border-color:#b3261e}
 .fx-jump{position:fixed;right:14px;bottom:92px;z-index:7;min-height:46px;border-radius:23px;border:0;background:#101010;color:#FFB612;font-weight:900;padding:0 16px;box-shadow:0 2px 8px #0004}
 .fx-grade{background:#fff;border-radius:12px;padding:14px;margin-bottom:10px;box-shadow:0 1px 3px #0001}
 .fx-gi{display:grid;grid-template-columns:1fr 54px;gap:4px 10px;align-items:center;padding:10px 0;border-bottom:1px solid #eee}
@@ -86,7 +97,7 @@ const lcCss=`
 .lc-m{display:flex;gap:8px;padding:7px 0;border-bottom:1px solid #f0f0f0}.lc-m:last-child{border-bottom:0}.lc-m.hid{opacity:.55}.lc-m .fx-av{width:30px;height:30px}
 .lc-b{min-width:0;flex:1}.lc-h{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 6px}.lc-h b{font-size:.92rem}.lc-h small{color:#777;font-size:.75rem}
 .lc-t{white-space:pre-wrap;overflow-wrap:anywhere;font-size:.95rem;line-height:1.35}.lc-a{font-size:.78rem}.lc-a a,.lc-a .lnk{background:none;border:0;padding:0;margin-right:10px;color:#555;text-decoration:underline;cursor:pointer;font-size:.78rem}
-.lc-form{display:flex;gap:8px;padding:10px 12px;border-top:1px solid #eee;background:#fafafa;align-items:flex-end}.lc-form textarea{flex:1;min-height:44px;max-height:120px;resize:none;font:inherit;padding:10px;border:2px solid #101010;border-radius:10px}
+.lc-form{display:flex;gap:8px;padding:10px 12px;border-top:1px solid #eee;background:#fafafa;align-items:flex-end}.lc-form textarea{flex:1;min-width:0;min-height:44px;max-height:200px;resize:none;font:inherit;font-size:16px;padding:10px;border:2px solid #101010;border-radius:10px;overflow-y:auto}.lc-form{flex-wrap:wrap}.lc-form .fx-cnt{flex-basis:100%;order:3;margin:0}.lc-form .fx-cnt:empty{display:none}.lc-hint{flex-basis:100%;order:4;margin:0;font-size:.75rem;color:#666}
 .lc-gate{padding:12px;border-top:1px solid #eee;background:#fafafa}.lc-gate p{margin:0 0 8px}.lc-gate .fx-btn{margin:0 6px 6px 0}.lc .fx-err{margin:0;padding:0 12px 8px}
 `;
 const st=document.createElement('style');st.textContent=css+lcCss;document.head.appendChild(st);
@@ -148,17 +159,20 @@ function tabs(on){return `<nav class="fx-tabs" aria-label="Forum sections">${[['
 // ---------- routing inside #/forum ----------
 function sub(){const h=location.hash.replace(/^#\/?/,'');const [p,...rest]=h.split('?')[0].split('/');return p==='forum'?rest:null;}
 function qs(k){const m=(location.hash.split('?')[1]||'').match(new RegExp('(?:^|&)'+k+'=([^&]*)'));return m?decodeURIComponent(m[1]):null;}
-function stopPolls(){clearTimeout(S.poll);clearTimeout(S.livePoll);S.poll=S.livePoll=null;S.thread=null;document.querySelector('.fx-reply')?.remove();document.querySelector('.fx-jump')?.remove();}
-async function render(){const el=$('forum-body');if(!el)return;const r=sub();if(!r)return;stopPolls();
- if(S.api===null)await probe();head();parkPlay();
+function stopPolls(){clearTimeout(S.poll);clearTimeout(S.livePoll);S.poll=S.livePoll=null;S.thread=null;document.querySelectorAll('.fx-reply,.fx-jump').forEach(n=>n.remove());if(S.vvOff){S.vvOff();S.vvOff=null;}}
+// Each render gets a number; a view that finishes loading after a newer render started just stops.
+// (Fixes Oct 20, 2026: on a fresh page load the thread view ran twice and stacked two reply boxes, and the one on top had no working Post button.)
+S.rseq=0;const stale=t=>t!==S.rseq;
+async function render(){const el=$('forum-body');if(!el)return;const r=sub();if(!r)return;stopPolls();const tok=++S.rseq;
+ if(S.api===null)await probe();if(stale(tok))return;head();parkPlay();
  const [p,a]=r;
  if(p==='pickem'||p==='trivia')return playTab(el,p);
  if(!S.api){if(p==='gameday')return gamedayTab(el);return legacy(el,p,a);}
  if(p==='claim')return claimView(el,a);
- if(p==='join'||p==='signin')return authForm(el,p);
+ if(p==='join'||p==='signin')return authForm(el,p,tok);
  if(p==='me')return profile(el);
  if(p==='new')return newThread(el);
- if(p==='thread'&&a)return threadView(el,+a);
+ if(p==='thread'&&a)return threadView(el,+a,tok);
  if(p==='grade')return gradeView(el,a);
  if(p==='mod')return modView(el);
  if(p==='procedure')return procView(el);
@@ -185,10 +199,10 @@ async function fanPost(){const box=$('fx-fanpost');if(!box)return;const d=await 
 
 // ---------- sign up / sign in (one screen each) ----------
 async function flairs(){if(S.flairs)return S.flairs;try{const d=await getJ('data/depth.json');const n=new Set();(d.units||[]).forEach(u=>u.rows.forEach(r=>r.players.forEach(p=>n.add(p.name))));S.flairs=[...n].sort();}catch(e){S.flairs=[];}return S.flairs;}
-async function authForm(el,mode){const nxt=qs('next')||sessionStorage.getItem('bgd_next')||'';if(qs('next'))sessionStorage.setItem('bgd_next',qs('next'));
+async function authForm(el,mode,tok=S.rseq){const nxt=qs('next')||sessionStorage.getItem('bgd_next')||'';if(qs('next'))sessionStorage.setItem('bgd_next',qs('next'));
  if(S.me){goNext();return;}
  if(mode==='join'&&(localStorage.getItem('bgd_u13')||/(^|; )bgd_u13=/.test(document.cookie))){el.innerHTML=`<p><a class="back" href="#/forum">← Forum</a></p><div class="box"><h2>Sorry, you can't make an account</h2><p>You can still read the forum and use the rest of the site.</p></div>`;return;}
- const fl=mode==='join'?await flairs():[];
+ const fl=mode==='join'?await flairs():[];if(stale(tok))return;
  el.innerHTML=`<p><a class="back" href="#/forum">← Forum</a></p>${nxt==='mock'?'<p class="box">Sign in or join to post your mock draft. You\'ll come right back to finish posting.</p>':nxt.startsWith('grade')?'<p class="box">Sign in or join to grade the team.</p>':nxt==='pickem'?`<p class="box fx-why">Sign in or join free to make your picks. You'll come right back to Pick 'Em.</p>`:nxt==='new'||nxt.startsWith('new:')?`<p class="box fx-why">To start a thread, ${mode==='join'?'join free below, or <a href="#/forum/signin">sign in</a> if you already have an account':'sign in below, or <a href="#/forum/join">join free</a>'}. You'll come right back to the new-thread form.</p>`:''}
  <form class="fx-form" id="fx-auth" novalidate>${mode==='join'?`<h2>Join Black &amp; Gold Dispatch</h2><p class="fine">Free. Takes 30 seconds. You stay signed in on this device.</p><p class="fx-fmline" id="fx-fmleft" hidden></p>
   <label for="f-u">Username <small>3-20 letters, numbers or _</small></label><input id="f-u" name="username" type="text" autocomplete="username" autocapitalize="off" required maxlength="20">
@@ -197,19 +211,42 @@ async function authForm(el,mode){const nxt=qs('next')||sessionStorage.getItem('b
   <label for="f-d">Display name <small>optional</small></label><input id="f-d" name="display_name" type="text" maxlength="30" placeholder="Shown on your posts">
   <label for="f-f">Favorite player <small>optional flair</small></label><input id="f-f" name="flair" type="text" list="f-fl" maxlength="40" placeholder="e.g. T.J. Watt"><datalist id="f-fl">${fl.map(n=>`<option value="${E(n)}">`).join('')}</datalist>
   <label>Avatar <small>optional</small></label>${avPicker('','?')}
-  <label for="f-b">Date of birth <small>we check it once and don't store it</small></label><input id="f-b" name="dob" type="date" required min="1900-01-01" max="${new Date().toISOString().slice(0,10)}">
+  <fieldset class="fx-dobset" style="border:0;padding:0;margin:0"><legend style="font-weight:800;margin:12px 0 4px;padding:0">Date of birth <small>we check it once and don't store it</small></legend>
+  <div class="fx-dob"><div><span id="f-bm-l">Month</span><select id="f-bm" aria-labelledby="f-bm-l" autocomplete="bday-month"><option value="">Month</option>${MONTHS.map((m,i)=>`<option value="${i+1}">${m}</option>`).join('')}</select></div>
+  <div class="d"><span id="f-bd-l">Day</span><input id="f-bd" aria-labelledby="f-bd-l" type="text" inputmode="numeric" pattern="[0-9]*" maxlength="2" placeholder="DD" autocomplete="bday-day"></div>
+  <div class="y"><span id="f-by-l">Year</span><input id="f-by" aria-labelledby="f-by-l" type="text" inputmode="numeric" pattern="[0-9]*" maxlength="4" placeholder="YYYY" autocomplete="bday-year"></div></div>
+  <input type="hidden" name="dob" id="f-b"><p class="fx-err" id="f-berr" role="alert" style="margin:6px 0 0"></p></fieldset>
   <p class="fine" style="margin:8px 0">By creating an account you agree to the <a href="legal/terms.html" target="_blank">Terms</a> and <a href="legal/community.html" target="_blank">Community Guidelines</a>, and you've read the <a href="legal/privacy.html" target="_blank">Privacy notice</a>.</p>`
  :`<h2>Sign in</h2><label for="f-l">Username or email</label><input id="f-l" name="login" type="text" autocomplete="username" autocapitalize="off" required>
   <label for="f-p">Password</label><div class="fx-pw"><input id="f-p" name="password" type="password" autocomplete="current-password" required><button type="button" class="pw-t">Show</button></div>`}
   <p class="fx-err" role="alert"></p><button class="fx-btn" type="submit" style="width:100%">${mode==='join'?'Create account':'Sign in'}</button>
   <p class="fine" style="text-align:center;margin-top:12px">${mode==='join'?'Already have an account? <a href="#/forum/signin">Sign in</a>':'New here? <a href="#/forum/join">Join free</a><br>Forgot your password? Use the <a href="#/contact?topic=Account%20help">Contact form</a> (topic "Account help") from your account\'s email. Moderators can\'t help with accounts in the forum.'}</p></form>`;
- const f=$('fx-auth');wirePicker(f,'?');if(mode==='join')fmLeft();f.querySelector('.pw-t').onclick=e=>{const i=$('f-p');i.type=i.type==='password'?'text':'password';e.target.textContent=i.type==='password'?'Show':'Hide';};
+ const f=$('fx-auth');wirePicker(f,'?');if(mode==='join'){fmLeft();wireDob();}f.querySelector('.pw-t').onclick=e=>{const i=$('f-p');i.type=i.type==='password'?'text':'password';e.target.textContent=i.type==='password'?'Show':'Hide';};
  f.onsubmit=async e=>{e.preventDefault();const b=f.querySelector('button[type=submit]');const er=f.querySelector('.fx-err');er.textContent='';b.disabled=true;
+  if(mode==='join'){const v=dobCheck(true);if(!v.ok){b.disabled=false;$('f-berr').textContent=v.msg;v.el&&v.el.focus();return;}$('f-b').value=v.iso;}
   const fd=Object.fromEntries(new FormData(f));
-  const d=await api(mode==='join'?'auth/signup':'auth/login',{body:fd});b.disabled=false;
+  const d=await api(mode==='join'?'auth/signup':'auth/login',{body:fd,timeout:25000});b.disabled=false;
   if(!d.ok&&d.blocked){try{localStorage.setItem('bgd_u13','1');}catch(x){}authForm(el,mode);return;}
-  if(!d.ok){er.textContent=d.error||'Something went wrong.';if(d.field){const i=f.querySelector(`[name=${d.field}]`);i&&i.focus();}return;}
+  if(!d.ok){er.textContent=d.error||'Something went wrong.';if(d.field==='dob'){$('f-berr').textContent=d.error||'';$('f-bm')&&$('f-bm').focus();}else if(d.field){const i=f.querySelector(`[name=${d.field}]`);i&&i.focus();}return;}
   S.me=d.user;head();goNext();if(mode==='join'&&d.user&&d.user.founding)setTimeout(()=>toast(`Welcome! You're Founding Member #${+d.user.founding}. The badge shows next to your name on your posts and in the game chat.`),400);};}
+// Date of birth: Month list + Day + Year typed with the number keypad (replaced the scroll-through calendar, Oct 20, 2026).
+// Sent to the server as YYYY-MM-DD, the same format as before; the server still does the real 13+ check and throws the date away.
+const MONTHS=['January','February','March','April','May','June','July','August','September','October','November','December'];
+function dobCheck(final){const m=+$('f-bm').value,dS=$('f-bd').value.trim(),yS=$('f-by').value.trim(),d=+dS,y=+yS,now=new Date();
+ [$('f-bm'),$('f-bd'),$('f-by')].forEach(x=>x.classList.remove('bad'));const bad=(el,msg)=>{if(final)el.classList.add('bad');return{ok:false,el,msg};};
+ if(!m)return bad($('f-bm'),'Pick the month you were born.');
+ if(!/^\d{1,2}$/.test(dS)||d<1||d>31)return bad($('f-bd'),'Type the day you were born, a number from 1 to 31.');
+ if(!/^\d{4}$/.test(yS))return bad($('f-by'),'Type your birth year with 4 numbers, like 1985.');
+ if(y<1900)return bad($('f-by'),'Please check the year. It should be 1900 or later.');
+ const dim=new Date(Date.UTC(y,m,0)).getUTCDate();if(d>dim)return bad($('f-bd'),`${MONTHS[m-1]} ${y} only has ${dim} days. Please check the day.`);
+ const iso=`${y}-${String(m).padStart(2,'0')}-${String(d).padStart(2,'0')}`;if(iso>now.toISOString().slice(0,10))return bad($('f-by'),'That date is in the future. Please check it.');
+ return{ok:true,iso};}
+function wireDob(){const dd=$('f-bd'),yy=$('f-by'),mm=$('f-bm'),er=$('f-berr');if(!dd)return;
+ const digits=(el,n)=>{const v=el.value.replace(/\D/g,'').slice(0,n);if(v!==el.value)el.value=v;};
+ dd.addEventListener('input',()=>{digits(dd,2);er.textContent='';if(dd.value.length===2||(dd.value.length===1&&+dd.value>3))yy.focus();});
+ yy.addEventListener('input',()=>{digits(yy,4);er.textContent='';if(yy.value.length===4){const v=dobCheck(true);if(!v.ok)er.textContent=v.msg;}});
+ mm.addEventListener('change',()=>{er.textContent='';if(mm.value&&!dd.value)dd.focus();});
+ [dd,yy].forEach(x=>x.addEventListener('blur',()=>{if(dd.value&&yy.value.length===4&&mm.value){const v=dobCheck(true);er.textContent=v.ok?'':v.msg;}}));}
 // "X of 250 Founding Member spots left" (real counts from the server; hidden if the count can't load)
 async function fmLeft(){const b=$('fx-fmleft');if(!b)return;const d=await api('founding');if(!d.ok||!b.isConnected||!(d.total>0))return;
  b.innerHTML=d.left>0?`<b>${d.left} of ${d.total}</b> Founding Member spots left. The first ${d.total} forum members get a permanent Founding Member badge next to their name.`:`All ${d.total} Founding Member spots have been claimed. Thanks for joining!`;b.hidden=false;}
@@ -260,11 +297,12 @@ async function newThread(el){if(!S.me){needSignIn(qs('mock')?'mock':qs('cat')?'n
  ${mock?`<input type="hidden" name="cat" value="Fan Mock Drafts"><p class="fine">Category: <b>Fan Mock Drafts</b></p>`:`<label for="n-c">Category</label><select id="n-c" name="cat">${cats.map(c=>`<option ${c===(cats.includes(qs('cat'))?qs('cat'):'Off-Topic')?'selected':''}>${E(c)}</option>`).join('')}</select>`}
  <label for="n-t">Title</label><input id="n-t" name="title" type="text" maxlength="120" required value="${mock?E(`${S.me.display_name}'s ${mock.rounds}-round mock${pit&&pit.grade?' (Draft Desk grade: '+pit.grade+')':''}`):''}">
  ${mock?`<label>Your picks</label><pre class="box" style="white-space:pre-wrap;font-size:.9rem;max-height:320px;overflow:auto">${E(mockText(mock))}</pre><label for="n-b">Add a comment <small>optional</small></label>`:'<label for="n-b">Post</label>'}
- <textarea id="n-b" name="body" rows="${mock?3:7}" maxlength="4000" ${mock?'':'required'} placeholder="${mock?'Why you made these picks…':'What\'s on your mind?'}"></textarea>
+ <textarea id="n-b" name="body" rows="${mock?3:7}" ${mock?'':'required'} placeholder="${mock?'Why you made these picks…':'What\'s on your mind?'}"></textarea><p class="fx-cnt" id="n-cnt" aria-live="polite"></p>
  <p class="fx-err" role="alert"></p><button class="fx-btn" type="submit" style="width:100%">${mock?'Post to Forum':'Post thread'}</button></form>`;
- $('fx-new').onsubmit=async e=>{e.preventDefault();const f=e.target,b=f.querySelector('button[type=submit]'),er=f.querySelector('.fx-err');b.disabled=true;
+ wireCount($('n-b'),$('n-cnt'));
+ $('fx-new').onsubmit=async e=>{e.preventDefault();const f=e.target,b=f.querySelector('button[type=submit]'),er=f.querySelector('.fx-err');er.textContent='';if(!mock&&$('n-b').value.trim().length>POST_MAX){er.textContent=countMsg($('n-b').value.trim().length).t;return;}b.disabled=true;
   const fd=Object.fromEntries(new FormData(f));if(mock){fd.kind='mock';fd.mock=mock;fd.body=(fd.body?fd.body.trim()+'\n\n':'')+mockText(mock);}
-  const d=await api('forum/threads',{body:fd});b.disabled=false;if(!d.ok){er.textContent=d.error;return;}
+  const d=await api('forum/threads',{body:fd,timeout:25000});b.disabled=false;if(!d.ok){er.textContent=d.error;return;}
   if(mock)sessionStorage.removeItem('bgd_mock');location.hash='#/forum/thread/'+d.id;};}
 
 // ---------- thread view with live polling ----------
@@ -273,7 +311,8 @@ function postHTML(p,T){const mine=new Set((T.mine||[]).filter(x=>x.post_id===p.i
  return `<article class="fx-post${p.hidden?' hid':''}" id="p${p.id}" data-id="${p.id}"><div class="who2">${av(p.av,p.name,p.user_id,p.av_v,'',!!(S.me&&S.me.id===p.user_id&&S.me.av_pending))}<div class="who"><b>${E(p.name)}</b>${roleTag(p.role)}${fmTag(p.fm)}${p.flair?`<span class="fx-flair">${E(p.flair)}</span>`:''}<small>${ago(p.created)}${p.hidden?' · hidden':''}</small>${p.role==='bot'?'':`<span class="stat"><span class="rk">${rank(p.posts_n||0)}</span> · ${p.posts_n||0} posts · Joined ${joined(p.joined)}</span>`}</div></div>
  <div class="tx">${fmtBody(p.body)}</div><div class="fx-rx">${S.emoji.map(em=>{const [ic,lb]=RX[em]||[em,em];return `<button type="button" class="rx${mine.has(em)?' on':''}" data-e="${em}" aria-label="${lb}" aria-pressed="${mine.has(em)}" title="${lb}"><span class="l">${lb}</span><small>${c[em]?' '+c[em]:''}</small></button>`;}).join('')}
  <span class="sp"></span><button type="button" class="lnk qt">Reply</button> ${p.role!=='bot'?`<button type="button" class="lnk rep">Report</button>`:''}${mod&&p.av==='u'?` <button type="button" class="lnk rmav" data-u="${p.user_id}">Remove picture</button>`:''}${mod?` <button type="button" class="lnk mod" data-a="${p.hidden?'unhide':'hide'}">${p.hidden?'Unhide':'Hide'}</button> <button type="button" class="lnk mod" data-a="delete">Delete</button>${p.role==='user'&&p.user_id>2&&!p.hidden?` <button type="button" class="lnk fp" data-a="feature">Feature</button>`:''}${p.role==='user'?` <button type="button" class="lnk ban" data-u="${E(p.username)}">Ban</button>`:''}`:''}</div></article>`;}
-async function threadView(el,id){el.innerHTML='<p class="empty">Loading thread…</p>';const d=await api('forum/thread/'+id);
+async function threadView(el,id,tok=S.rseq){el.innerHTML='<p class="empty">Loading thread…</p>';const d=await api('forum/thread/'+id);
+ if(stale(tok))return;document.querySelectorAll('.fx-reply,.fx-jump').forEach(n=>n.remove());
  if(!d.ok){el.innerHTML=`<p><a class="back" href="#/forum">← Forum</a></p><p class="fx-err">${E(d.error)}</p>`;return;}
  S.me=d.me;head();if(d.emoji)S.emoji=d.emoji;const T=S.thread={id,th:d.thread,posts:d.posts,reactions:d.reactions,mine:d.mine};S.last=d.posts.length?d.posts[d.posts.length-1].id:0;
  const th=d.thread,mod=S.me&&(S.me.role==='mod'||S.me.role==='owner');
@@ -283,8 +322,11 @@ async function threadView(el,id){el.innerHTML='<p class="empty">Loading thread�
  ${mod?`<p class="fx-rx"><button type="button" class="fx-btn ghost sm tmod" data-a="${th.pinned?'unpin':'pin'}">${th.pinned?'Unpin':'Pin'}</button> <button type="button" class="fx-btn ghost sm tmod" data-a="${th.locked?'unlock':'lock'}">${th.locked?'Unlock':'Lock'}</button> <button type="button" class="fx-btn ghost sm tmod" data-a="${th.hidden?'unhide':'hide'}">${th.hidden?'Unhide thread':'Hide thread'}</button></p>`:''}
  <div class="fx-posts" id="fx-posts">${T.posts.map(p=>postHTML(p,T)).join('')}</div>`;
  const bar=document.createElement('div');bar.className='fx-reply';
- const lift=()=>{if(!bar.isConnected)return clearInterval(bar._t);const cb=$('cookie-banner');const r=cb&&!cb.hidden&&getComputedStyle(cb).display!=='none'?cb.getBoundingClientRect():null;const h=r&&r.height?Math.max(0,Math.round(innerHeight-r.top)):0;bar.style.bottom=h+'px';};bar._t=setInterval(lift,800);setTimeout(lift,0);   // sit above the cookie banner until it's dismissed
- bar.innerHTML=S.me?(th.locked&&!mod?'<p class="fine" style="margin:0;flex:1;text-align:center">This thread is locked.</p>':`<label class="sr" for="fx-ta">Reply</label><textarea id="fx-ta" rows="1" maxlength="2000" placeholder="Write a reply…"></textarea><button class="fx-btn" type="button" id="fx-send">Post</button>`)
+ // sit above the cookie banner until it's dismissed, and above the on-screen keyboard on iPad/iPhone (visualViewport)
+ const vv=window.visualViewport;const lift=()=>{if(!bar.isConnected)return clearInterval(bar._t);const cb=$('cookie-banner');const r=cb&&!cb.hidden&&getComputedStyle(cb).display!=='none'?cb.getBoundingClientRect():null;const h=r&&r.height?Math.max(0,Math.round(innerHeight-r.top)):0;
+  const kb=vv?Math.max(0,Math.round(innerHeight-vv.height-vv.offsetTop)):0;const v=Math.max(h,kb>60?kb:0)+'px';if(bar.style.bottom!==v)bar.style.bottom=v;};bar._t=setInterval(lift,800);setTimeout(lift,0);
+ if(vv){vv.addEventListener('resize',lift);vv.addEventListener('scroll',lift);S.vvOff=()=>{vv.removeEventListener('resize',lift);vv.removeEventListener('scroll',lift);};}
+ bar.innerHTML=S.me?(th.locked&&!mod?'<p class="fine" style="margin:0;flex:1;text-align:center">This thread is locked.</p>':`<label class="sr" for="fx-ta">Reply</label><textarea id="fx-ta" rows="1" placeholder="Write a reply…" enterkeyhint="enter"></textarea><button class="fx-btn" type="button" id="fx-send">Post</button><p class="fx-cnt" id="fx-rmsg" role="status" aria-live="polite"></p>`)
   :`<a class="fx-btn" style="flex:1" href="#/forum/join" onclick="sessionStorage.setItem('bgd_next','thread:${id}')">Join free to post</a><a class="fx-btn ghost" href="#/forum/signin" onclick="sessionStorage.setItem('bgd_next','thread:${id}')">Sign in</a>`;
  document.body.appendChild(bar);
  const jump=document.createElement('button');jump.type='button';jump.className='fx-jump';jump.textContent='↓ Jump to latest';jump.hidden=true;document.body.appendChild(jump);
@@ -294,9 +336,16 @@ async function threadView(el,id){el.innerHTML='<p class="empty">Loading thread�
  {const fp=+qs('p');if(fp)setTimeout(()=>{const t=$('p'+fp);if(t){t.scrollIntoView({block:'center'});t.classList.add('fx-hl');}},120);}
  if(mod)fanPostData().then(d=>{if(d&&d.post&&d.post.pinned){const b=document.querySelector('#p'+d.post.id+' .lnk.fp');if(b){b.dataset.a='unfeature';b.textContent='Unfeature';}}});
  setTimeout(()=>{jump.hidden=nearBottom();if(th.kind==='gameday'&&!location.hash.includes('top')&&!qs('p')){const l=$('fx-posts').lastElementChild;l&&l.scrollIntoView({block:'end'});}},50);
- const send=$('fx-send');if(send){const ta=$('fx-ta');ta.oninput=()=>{ta.style.height='auto';ta.style.height=Math.min(160,ta.scrollHeight)+'px';};
-  send.onclick=async()=>{const v=ta.value.trim();if(!v)return;send.disabled=true;const r=await api(`forum/thread/${id}/posts`,{body:{body:v}});send.disabled=false;
-   if(!r.ok){toast(r.error);return;}ta.value='';ta.style.height='';await pull(true);};}
+ const send=bar.querySelector('#fx-send');if(send){const ta=bar.querySelector('#fx-ta'),msg=bar.querySelector('#fx-rmsg'),dk='bgd_draft_'+id;
+  try{const dv=sessionStorage.getItem(dk);if(dv)ta.value=dv;}catch(e){}   // a reply that didn't post is kept on this device
+  const grow=()=>{const atEnd=ta.selectionEnd>=ta.value.length-1;const cap=Math.round(innerHeight*0.4);ta.style.height='auto';ta.style.height=Math.min(cap,ta.scrollHeight+4)+'px';if(atEnd)ta.scrollTop=ta.scrollHeight;};
+  const cnt=wireCount(ta,msg);ta.addEventListener('input',()=>{grow();try{ta.value?sessionStorage.setItem(dk,ta.value):sessionStorage.removeItem(dk);}catch(e){}});if(ta.value)setTimeout(grow,0);
+  const say=(t)=>{msg.textContent=t;msg.className='fx-cnt bad';msg.dataset.err=t?'1':'';};
+  send.onclick=async()=>{const v=ta.value.trim();if(!v){say('Write something first.');ta.focus();return;}
+   if(v.length>POST_MAX){say(countMsg(v.length).t);ta.focus();return;}
+   send.disabled=true;send.textContent='Posting…';msg.dataset.err='';const r=await api(`forum/thread/${id}/posts`,{body:{body:v},timeout:25000});send.disabled=false;send.textContent='Post';
+   if(!r.ok){say(r.status===401?'You were signed out. Sign in again and your reply will still be here.':(r.error||'Your reply didn\'t post. Please try again.')+' Your reply is still in the box.');return;}
+   ta.value='';ta.style.height='';try{sessionStorage.removeItem(dk);}catch(e){}msg.dataset.err='';cnt();await pull(true);};}
  if(th.game)liveScore(th.game,th.kind);if(th.kind==='gameday')liveBadge();
  S.poll=setTimeout(tick,10000);}
 async function tick(){if(!S.thread)return;if(document.visibilityState==='visible')await pull(false);if(S.thread)S.poll=setTimeout(tick,10000);}
@@ -495,7 +544,9 @@ function lcBox(html){if(!lcAttach()&&!LC.el)return;LC.el.innerHTML=html;}
 function lcGate(c){if(!S.me)return `<div class="lc-gate"><p><b>Sign in or join the forum to chat.</b> Reading is open to everyone. One free account works across the whole site.</p><a class="fx-btn sm" href="#/forum/signin" data-lcnext>Sign in</a><a class="fx-btn ghost sm" href="#/forum/join" data-lcnext>Join the forum</a></div>`;
  if(S.me.banned)return '<div class="lc-gate"><p class="fine">Your account is suspended from posting.</p></div>';
  if(c.locked&&!lcMod())return '<div class="lc-gate"><p class="fine">This game chat is locked.</p></div>';
- return `<form class="lc-form" id="lc-form"><label class="sr" for="lc-ta">Chat message</label><textarea id="lc-ta" rows="1" maxlength="2000" placeholder="Chat as ${E(S.me.display_name)}…"></textarea><button class="fx-btn" type="submit" id="lc-send">Send</button></form>`;}
+ return `<form class="lc-form" id="lc-form"><label class="sr" for="lc-ta">Chat message</label><textarea id="lc-ta" rows="1" placeholder="Chat as ${E(S.me.display_name)}…"></textarea><button class="fx-btn" type="submit" id="lc-send">Send</button><p class="fx-cnt" id="lc-cnt" aria-live="polite"></p>${lcTouch()?'':'<p class="lc-hint">Enter sends. Shift+Enter starts a new line.</p>'}</form>`;}
+// iPad/iPhone: the Return key makes a new line and the Send button sends. Keyboard and mouse computers: Enter sends.
+const lcTouch=()=>matchMedia('(pointer: coarse)').matches||/iPad|iPhone|iPod/.test(navigator.userAgent)||(navigator.platform==='MacIntel'&&navigator.maxTouchPoints>1);
 async function lcLoad(){if(LC.busy)return;LC.busy=true;try{
  if(S.api===null)await probe();
  if(!S.api){lcBox('<p class="lc-empty" style="padding:0 12px">Game chat is resting right now. Talk about the game in the <a href="#/forum">forum</a>.</p>');return;}
@@ -510,11 +561,13 @@ async function lcLoad(){if(LC.busy)return;LC.busy=true;try{
  const l=$('lc-list');if(l){l.scrollTop=l.scrollHeight;LC.bottom=true;l.onscroll=()=>{LC.st=l.scrollTop;LC.bottom=l.scrollTop+l.clientHeight>l.scrollHeight-40;};}
  lcWire();}finally{LC.busy=false;}lcSchedule();}
 function lcWire(){const f=$('lc-form');if(!f)return;const ta=$('lc-ta');
- ta.oninput=()=>{ta.style.height='auto';ta.style.height=Math.min(120,ta.scrollHeight)+'px';};
- ta.onkeydown=e=>{if(e.key==='Enter'&&!e.shiftKey&&!e.isComposing){e.preventDefault();f.requestSubmit();}};
- f.onsubmit=async e=>{e.preventDefault();const v=ta.value.trim();if(!v)return;const b=$('lc-send'),er=$('lc-err');b.disabled=true;er.textContent='';
-  const r=await api(`forum/thread/${LC.tid}/posts`,{body:{body:v}});b.disabled=false;
-  if(!r.ok){er.textContent=r.error||'Could not send. Try again.';return;}ta.value='';ta.style.height='';LC.bottom=true;await lcPull();ta.focus();};}
+ ta.oninput=()=>{const atEnd=ta.selectionEnd>=ta.value.length-1;ta.style.height='auto';ta.style.height=Math.min(200,ta.scrollHeight+4)+'px';if(atEnd)ta.scrollTop=ta.scrollHeight;};
+ const cnt=wireCount(ta,$('lc-cnt'));
+ ta.onkeydown=e=>{if(e.key==='Enter'&&!e.shiftKey&&!e.isComposing&&!lcTouch()){e.preventDefault();f.requestSubmit();}};
+ f.onsubmit=async e=>{e.preventDefault();const v=ta.value.trim();const b=$('lc-send'),er=$('lc-err');er.textContent='';if(!v)return;
+  if(v.length>POST_MAX){er.textContent=countMsg(v.length).t;return;}
+  b.disabled=true;b.textContent='Sending…';const r=await api(`forum/thread/${LC.tid}/posts`,{body:{body:v},timeout:25000});b.disabled=false;b.textContent='Send';
+  if(!r.ok){er.textContent=(r.status===401?'You were signed out. Sign in again to keep chatting.':(r.error||'Your message didn\'t send. Please try again.'))+' Your message is still in the box.';return;}ta.value='';ta.style.height='';cnt();LC.bottom=true;await lcPull();ta.focus();};}
 async function lcPull(){if(!LC.tid)return;const tid=LC.tid;const d=await api(`forum/thread/${tid}?after=${LC.last}`);if(!d.ok||tid!==LC.tid)return;
  const l=$('lc-list');if(!l)return;(d.hidden_ids||[]).forEach(i=>{const n=$('lc'+i);n&&n.remove();});
  const fresh=d.posts.filter(p=>!$('lc'+p.id));if(fresh.length){const em=l.querySelector('.lc-empty');em&&em.remove();l.insertAdjacentHTML('beforeend',fresh.map(lcMsg).join(''));}
