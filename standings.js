@@ -12,5 +12,20 @@ function render(d){
  const box=document.getElementById('afcn-box'), n=d.divisions['AFC North'];
  if(box&&n){box.hidden=false;box.innerHTML=`<h2>AFC North</h2><table class="afcn"><thead><tr><th>Team</th><th class="num">W-L-T</th><th class="num">Div</th><th class="num">Strk</th></tr></thead><tbody>${n.map((r,i)=>`<tr class="${r.abbr==='PIT'?'pit':''}"><td>${i+1}. ${E(r.name.replace(/^.* /,''))}</td><td class="num">${r.w}-${r.l}-${r.t}</td><td class="num">${E(r.div)}</td><td class="num">${E(r.strk)}</td></tr>`).join('')}</tbody></table><p class="fine">Updated ${upd(d)} ET · <a href="#/game">Full standings →</a></p>`;}
 }
-fetch(BGD_url('data/standings.json'),{cache:'no-store'}).then(r=>r.json()).then(render).catch(()=>{});
+// AFC North box: only on the home page and the schedule page (#/game).
+// Wide screens (900px+): it stays in the sidebar. One-column screens (iPad portrait, phones): it moves into the page,
+// above News on home and above the full standings on the schedule page, so it isn't buried at the bottom.
+const SHOW={home:1,game:1};
+function place(){const box=document.getElementById('afcn-box');if(!box)return;
+ const cur=document.querySelector('.view:not([hidden])'),v=cur?cur.dataset.view:'home';
+ box.style.display=SHOW[v]?'':'none';if(!SHOW[v])return;
+ const fl=box.querySelector('a[href="#/game"]');if(fl)fl.onclick=v==='game'?(e=>{e.preventDefault();document.getElementById('standings-full')?.scrollIntoView({behavior:'smooth'});}):null;   // already on the schedule page: jump down to the full table
+ const wide=matchMedia('(min-width:900px)').matches,side=document.querySelector('.sidebar');
+ if(wide){const ref=side&&side.querySelector('.ad-box');if(side&&box.parentNode!==side)ref?ref.after(box):side.prepend(box);box.classList.remove('afcn-inline');return;}
+ const anchor=v==='home'?document.getElementById('latestH')?.closest('section'):document.getElementById('standings-full');
+ if(anchor&&box.nextElementSibling!==anchor){anchor.before(box);}box.classList.add('afcn-inline');}
+document.addEventListener('route',()=>setTimeout(place,0));addEventListener('resize',()=>{clearTimeout(place.t);place.t=setTimeout(place,150);});
+place();
+const st=document.createElement('style');st.textContent='.afcn-box.afcn-inline{margin:0 0 20px}@media(min-width:600px){.afcn-box.afcn-inline{max-width:560px}}';document.head.appendChild(st);
+fetch(BGD_url('data/standings.json'),{cache:'no-store'}).then(r=>r.json()).then(d=>{render(d);place();}).catch(()=>{});
 })();

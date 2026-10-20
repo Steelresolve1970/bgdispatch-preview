@@ -5,13 +5,15 @@
  *   history - This day / this week in Steelers history, from data/engage_history.json (each fact source-checked by build_engage.py)
  *   hot     - Hot in the forum: busiest thread in the last 48 hours (/api/engage/hot)
  *   pickem  - Pick 'Em reminder with the first kickoff, from data/pickem.json + /api/play/leaderboard
+ *   fanpost - Fan post of the week from /api/forum/fanpost (hidden when that endpoint is missing or empty)
+ * Plus Quotes of the week (data/quotes.json from fetch_quotes.py): 3 verbatim quotes after items 4, 12 and 20, every week, rotating daily.
  * Cards are spread evenly through the episode list (about 1/4, 1/2 and 3/4 of the way down).
  * QA only: add ?engage=poll,stat,history,hot,pickem (or ?engage=all) before the # to force cards.
  * ADS: one switch, "ads_enabled" in data/site_config.json. While false, every .ad slot stays display:none (styles.css). */
 (function(){
  'use strict';
  var ET='America/New_York', EPOCH='2026-10-19';
- var ORDER=['poll','stat','history','hot','pickem'];
+ var ORDER=['poll','stat','history','hot','pickem','fanpost'];
  var NEWSLETTER_CARD='narrow';   // 'off' | 'narrow' (only when the sidebar sign-up sits below the list, under 900px) | 'always'
  function $(id){return document.getElementById(id);}
  function esc(s){return String(s==null?'':s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];});}
@@ -28,7 +30,7 @@
 
  /* ---------- which cards this week ---------- */
  function forced(){var m=/[?&]engage=([a-z,]+)/.exec(location.search);if(!m)return null;return m[1]==='all'?ORDER.slice():m[1].split(',').filter(function(k){return ORDER.indexOf(k)>=0;});}
- function weekPicks(idx){var k=((idx%5)+5)%5;return [ORDER[k],ORDER[(k+1)%5],ORDER[(k+3)%5]];}
+ function weekPicks(idx){var L=ORDER.length,k=((idx%L)+L)%L;return [ORDER[k],ORDER[(k+1)%L],ORDER[(k+3)%L]];}
 
  /* ---------- card builders: each resolves to an element, or null when it has nothing true to show ---------- */
  function card(type,kicker,inner,extra){var a=document.createElement('aside');a.className='eg eg-'+type+(extra?' '+extra:'');a.setAttribute('aria-label',kicker);
@@ -123,13 +125,35 @@
   var f=el.querySelector('form');f.dataset.t=String(Date.now());return el;
  }
 
- var BUILD={poll:buildPoll,stat:buildStat,history:buildHistory,hot:buildHot,pickem:buildPickem};
+ function buildFanpost(){   /* GET /api/forum/fanpost -> {post_id, thread_id, thread_title, username, excerpt, week_start}; anything else hides the card */
+  return api('forum/fanpost').then(function(d){
+   var f=d&&(d.post||d.fanpost||d);if(!d||d.ok===false||!f||!f.post_id||!f.thread_id||!f.excerpt)return null;
+   var wk=f.week_start?new Date(String(f.week_start).slice(0,10)+'T12:00:00Z').toLocaleDateString('en-US',{month:'short',day:'numeric',timeZone:'UTC'}):'';
+   var link='#/forum/thread/'+(+f.thread_id);
+   return card('fanpost','Fan post of the week','<blockquote class="eg-fp"><p>'+esc(f.excerpt)+'</p></blockquote><p class="eg-by">Posted by <b>'+esc(f.username||'a member')+'</b> in <a href="'+link+'">'+esc(f.thread_title||'the forum')+'</a>'+(wk?' · Week of '+esc(wk):'')+'</p><p class="eg-src"><a href="'+link+'">Read the full post</a> · <a href="#/forum">Join the forum</a></p>');
+  }).catch(function(){return null;});
+ }
+
+ /* ---------- Quotes of the week: always shown (separate from the rotation), after list items 4, 12 and 20 ---------- */
+ var QMARK='<svg class="eg-qmark" viewBox="0 0 64 48" aria-hidden="true" focusable="false"><path d="M0 48V30C0 13 9 3 26 0l3 7C19 10 14 16 14 24h12v24H0zm35 0V30c0-17 9-27 26-30l3 7c-10 3-15 9-15 17h12v24H35z"/></svg>';
+ function buildQuotes(){
+  return getJSON('data/quotes.json').then(function(d){
+   var Q=(d&&d.quotes)||[];if(!Q.length)return [];var day=weekInfo(Date.now()).day,start=((day*3)%Q.length+Q.length)%Q.length,out=[],seen={};
+   for(var i=0;i<Q.length&&out.length<3;i++){var q=Q[(start+i)%Q.length];if(seen[q.speaker])continue;seen[q.speaker]=1;out.push(q);}
+   return out.map(function(q){var a=document.createElement('figure');a.className='eg eg-quote';
+    var when=new Date(q.date+'T12:00:00Z').toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric',timeZone:'UTC'});
+    a.innerHTML='<p class="eg-kicker">Quote of the week</p>'+QMARK+'<blockquote><p>'+esc(q.text)+'</p></blockquote><figcaption><span class="eg-who"><b>'+esc(q.speaker)+'</b>, '+esc(q.role)+'</span><span class="eg-meta">'+esc(when)+' · Source: <a href="'+esc(q.url)+'" target="_blank" rel="noopener">'+esc(q.source_name)+': '+esc(q.source_title)+'</a></span></figcaption>';
+    return a;});
+  }).catch(function(){return [];});
+ }
+
+ var BUILD={poll:buildPoll,stat:buildStat,history:buildHistory,hot:buildHot,pickem:buildPickem,fanpost:buildFanpost};
 
  /* ---------- placement inside #pods-full ---------- */
- var state={cards:[],ads:[],news:null,loading:null,adsOn:false};
+ var state={cards:[],ads:[],news:null,loading:null,adsOn:false,quotes:[]};
  function adSlot(i){var d=document.createElement('div');d.className='ad ad-inline'+(state.adsOn?' ad-live':'');d.setAttribute('aria-hidden','true');d.dataset.slot='pods-'+i;return d;}
  function place(){
-  var root=$('pods-full');if(!root||!state.cards.length&&!state.news)return;
+  var root=$('pods-full');if(!root||!state.cards.length&&!state.news&&!state.quotes.length)return;
   var tiles=[].slice.call(root.querySelectorAll('.pods > .pod, .pods > article'));var n=tiles.length;
   var items=state.cards.slice();
   function after(k,el){if(!el)return;if(!n){root.appendChild(el);return;}var t=tiles[Math.max(0,Math.min(n-1,k-1))];
@@ -144,7 +168,8 @@
   if(state.ads[1]&&n>=12)after(Math.round(n*0.9),state.ads[1]);
   if(showNews)after(Math.round(n/2),state.news);else if(state.news&&state.news.parentNode)state.news.remove();
   for(var i=items.length-1;i>=0;i--)after(pos[i],items[i]);
-  if(n<3)items.forEach(function(el){root.appendChild(el);});
+  [4,12,20].forEach(function(k,i){var q=state.quotes[i];if(q&&(k<=n||!n))after(k,q);});
+  if(n<3)items.concat(state.quotes).forEach(function(el){root.appendChild(el);});
  }
  function load(){
   if(state.loading)return state.loading;
@@ -158,6 +183,8 @@
    return chain.then(function(){state.cards=list.map(function(k){return got[k];});window.BGD_engage={cards:list,week_index:weekInfo(Date.now()).idx};});
   }).then(function(){
    if(NEWSLETTER_CARD!=='off')state.news=buildNewsletter();
+   return buildQuotes().then(function(q){state.quotes=q;});
+  }).then(function(){
    state.ads=[adSlot(1),adSlot(2)];place();
   });
   return state.loading;
@@ -165,7 +192,7 @@
  function onRoute(v){if(v!=='podcasts')return;load().then(place);}
  document.addEventListener('route',function(e){onRoute(e.detail);});
  var root=$('pods-full');
- if(root&&window.MutationObserver)new MutationObserver(function(){if(!root.querySelector('.eg')&&state.cards.length)place();}).observe(root,{childList:true});
+ if(root&&window.MutationObserver)new MutationObserver(function(){if(!root.querySelector('.eg')&&(state.cards.length||state.quotes.length))place();}).observe(root,{childList:true});
  if(/^#\/?podcasts/.test(location.hash))onRoute('podcasts');
 
  /* ---------- ad switch (data/site_config.json "ads_enabled") ---------- */

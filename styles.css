@@ -614,3 +614,23 @@ form[data-nl] input[name=website]{position:absolute!important;left:-9999px!impor
  .eg-statrow{grid-template-columns:1fr;gap:10px}.eg-num{justify-self:start;font-size:36px}
  .eg-fact{font-size:16px}
 }
+/* ---- quotes of the week + fan post of the week (engage.js), Oct 20, 2026 ---- */
+figure.eg{margin:8px 0}
+.eg-quote{background:var(--black);color:#fff;border:1px solid #333;border-bottom:4px solid var(--gold);padding:18px 20px 16px 84px;min-height:120px}
+.eg-quote .eg-kicker{color:var(--gold)}
+.eg-qmark{position:absolute;left:20px;top:20px;width:46px;height:35px;fill:var(--gold)}
+.eg-quote blockquote{margin:0}
+.eg-quote blockquote p{margin:0;font-size:20px;line-height:1.38;font-weight:700;font-style:italic;color:#fff}
+.eg-quote figcaption{margin-top:12px;display:flex;flex-direction:column;gap:3px;font-size:13.5px;color:#cfcfcf}
+.eg-quote .eg-who b{color:var(--gold);font-size:15px}
+.eg-quote .eg-meta{font-size:12.5px}
+.eg-quote a{color:var(--gold);text-decoration:underline;font-weight:600}
+.eg-fanpost{background:#fff;color:var(--ink);border:2px solid var(--black);border-left:8px solid var(--gold)}
+.eg-fanpost .eg-kicker{color:#7a5600}
+.eg-fp{margin:0 0 8px;padding:10px 14px;background:#f4f4f2;border-radius:8px;border-left:3px solid var(--black)}
+.eg-fp p{margin:0;font-size:17px;line-height:1.45}
+.eg-by{font-size:14px}.eg-fanpost a{color:var(--black)}
+@media(max-width:600px){
+ .eg-quote{padding:16px 14px 14px 14px}.eg-qmark{position:static;display:block;width:38px;height:29px;margin:2px 0 8px}
+ .eg-quote blockquote p{font-size:18px}
+}
