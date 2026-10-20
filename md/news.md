@@ -1,8 +1,9 @@
 # Steelers News
 
-_Generated 2026-10-20T17:32:33+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T17:32:02+00:00._
+_Generated 2026-10-20T17:43:25+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T17:42:54+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Buccaneers Fan Offers Reward For Lost Hat](https://steelersnow.com/buccaneers-fan-offers-reward-for-lost-hat/): Steelers Now, 2026-10-20 17:38 UTC
 - [‘Best Choice For Us’: James Harrison Optimistic About Steelers’ Addition Of WR Marquez Valdes-Scantling](https://steelersdepot.com/2026/10/best-choice-for-us-james-harrison-optimistic-about-steelers-addition-of-wr-marquez-valdes-scantling/): Steelers Depot, 2026-10-20 17:30 UTC
 - [Mike McCarthy Lands In Top Half Of CBS Sports’ Rankings Of New Head Coaches](https://steelersdepot.com/2026/10/mike-mccarthy-lands-in-top-half-of-cbs-sports-rankings-of-new-head-coaches/): Steelers Depot, 2026-10-20 17:15 UTC
 - [Pittsburgh Steelers Make Move for Aaron Rodgers After 6 Games](https://athlonsports.com/nfl/trending/pittsburgh-steelers-make-move-aaron-rodgers-after-6-games-marquez-valdes-scantling): Athlon Sports, 2026-10-20 17:08 UTC
@@ -10,6 +11,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [One Steelers Stat That Tells the Story of Pittsburgh’s Week 6 Win](https://athlonsports.com/nfl/pittsburgh-steelers/one-steelers-stat-that-tells-the-story-of-pittsburghs-week-6-win): Athlon Sports, 2026-10-20 17:00 UTC
 - [One Of NFL’s Most Senior Referees To Work Steelers-Saints In Paris](https://steelersdepot.com/2026/10/one-of-nfls-most-senior-referees-to-work-steelers-saints-in-paris/): Steelers Depot, 2026-10-20 16:44 UTC
 - [CSC Reacts Survey: Will the Saints beat the Steelers in Paris?](https://sports.yahoo.com/articles/csc-reacts-survey-saints-beat-164215448.html): Yahoo Sports, 2026-10-20 16:42 UTC
+- [Steelers Power Rankings Roundup Week 7: Steelers Survive?](https://athlonsports.com/nfl/pittsburgh-steelers/steelers-power-rankings-roundup-week-7-steelers-survive): Athlon Sports, 2026-10-20 16:41 UTC
 - [Saints arrive in Paris for Sunday's game against Steelers](https://sports.yahoo.com/articles/saints-arrive-paris-sundays-game-163457016.html): Yahoo Sports, 2026-10-20 16:34 UTC
 - [Where Do Steelers Stand In Week 7 Power Rankings?](https://steelersdepot.com/2026/10/where-do-steelers-stand-in-week-7-power-rankings-2/): Steelers Depot, 2026-10-20 16:30 UTC
 - [Brian Thomas Jr "Needs To Be" Traded To The Steelers Immediately After Bizarre Week 6](https://www.steelernation.com/2026/10/20/steelers-immediately-brian-thomas-jr): SteelerNation, 2026-10-20 16:25 UTC
@@ -30,7 +32,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Reports: Giants Release Ex-Steelers RB Najee Harris](https://steelersdepot.com/2026/10/reports-giants-release-ex-steelers-rb-najee-harris/): Steelers Depot, 2026-10-20 15:12 UTC
 - [Giants Cut Ties with Former Steelers RB Najee Harris](https://steelersnow.com/giants-cut-ties-with-former-steelers-rb-najee-harris/): Steelers Now, 2026-10-20 15:08 UTC
 - [Steelers' Germie Bernard Explains Critical DK Metcalf Block Behind Overtime Winner](https://www.steelernation.com/2026/10/20/steelers-germie-bernard-critical-dk-metcalf): SteelerNation, 2026-10-20 15:00 UTC
-- [Top Graded Steelers Entering Week 7: Steelers With Free Agency Steal Shining](https://athlonsports.com/nfl/pittsburgh-steelers/top-graded-steelers-entering-week-7-steelers-with-free-agency-steal-shining): Athlon Sports, 2026-10-20 15:00 UTC
 - [Week 7 Blog: The stacking has begun](https://www.steelers.com/news/week-7-blog-the-stacking-has-begun): Steelers.com (official), 2026-10-20 14:49 UTC
 - [Steelers' Germie Bernard Got His Start The Hard Way](https://www.steelernation.com/2026/10/20/steelers-germie-bernard-hard-way): SteelerNation, 2026-10-20 14:44 UTC
 - [Steelers Were Rejected By Former Undrafted Free Agent In Favor Of Better Opportunity](https://www.steelernation.com/2026/10/20/steelers-rejected-free-agent-better): SteelerNation, 2026-10-20 14:31 UTC
@@ -103,7 +104,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Could Steelers Consider Kick Returner Change? Rising RB Earning Opportunity](https://steelersnow.com/could-steelers-consider-kick-returner-change-rising-rb-earning-opportunity/): Steelers Now, 2026-10-19 20:47 UTC
 - [McCarthy Reveals Steelers’ Travel Plan for Paris](https://steelersnow.com/mccarthy-reveals-steelers-travel-plan-for-paris/): Steelers Now, 2026-10-19 20:34 UTC
 - [Steelers fans can vote for rookie Germie Bernard as FedEx Air & Ground player of the week](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176570/steelers-fans-can-vote-for-rookie-germie-bernard-as-fedex-air-ground-player-of-the-week): Behind the Steel Curtain, 2026-10-19 20:09 UTC
-- [McCarthy Opens Up on Trip to Paris Amid Social Unrest](https://steelersnow.com/mccarthy-opens-up-on-trip-to-paris-amid-social-unrest/): Steelers Now, 2026-10-19 20:03 UTC
 - [The Steelers are heading to Paris for an NFL game as France faces civil unrest — here’s what the team is doing to prepare](https://www.pennlive.com/steelers/2026/10/the-steelers-are-heading-to-paris-for-an-nfl-game-as-france-faces-civil-unrest-heres-what-the-team-is-doing-to-prepare.html): PennLive (Nick Farabaugh), 2026-10-19 20:03 UTC
 - [Steelers fans expecting a bolder Mike McCarthy are learning a painful lesson](https://stillcurtain.com/pittsburgh-steelers-fans-expecting-bolder-mike-mccarthy-learning-painful-lesson-01m5ag1p2tyd?utm_source=RSS): Still Curtain, 2026-10-19 20:00 UTC
 - [Steelers' Paris Plan: Travel Arrangements, NFL's Statement](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-paris-plan-travel-arrangements-nfl-statement): All Steelers (Sports Illustrated), 2026-10-19 20:00 UTC

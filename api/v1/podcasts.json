@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-20T17:32:33+00:00",
- "data_updated": "2026-10-20T17:32:16+00:00",
- "count": 131,
+ "generated": "2026-10-20T17:43:25+00:00",
+ "data_updated": "2026-10-20T17:43:08+00:00",
+ "count": 132,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -19,6 +19,19 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/podcasts",
  "items": [
+  {
+   "id": "882d5715a27db003",
+   "type": "podcast_episode",
+   "title": "What We Know About The Steelers Following Week 6 - Steelers Gabriel Rubio Interview",
+   "show": "The Arthur Moats Experience",
+   "url": "https://arthurmoats55.libsyn.com/what_we_know_about_the_steelers_following_week_6_-_steelers_gabriel_rubiomp3",
+   "published": "2026-10-20T17:39:00+00:00",
+   "summary": "Podcast episode from The Arthur Moats Experience.",
+   "source": {
+    "name": "The Arthur Moats Experience",
+    "url": null
+   }
+  },
   {
    "id": "7f32c294c3b63f86",
    "type": "video",

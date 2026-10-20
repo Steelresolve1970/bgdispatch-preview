@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-20T17:32:33+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T17:32:16+00:00._
+_Generated 2026-10-20T17:43:25+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T17:43:08+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Podcast: [What We Know About The Steelers Following Week 6 - Steelers Gabriel Rubio Interview](https://arthurmoats55.libsyn.com/what_we_know_about_the_steelers_following_week_6_-_steelers_gabriel_rubiomp3): The Arthur Moats Experience, 2026-10-20 17:39 UTC
 - Video: [So nice he had to do it twice‼️ 📺: #PITvsNO 10/25 at 9:30 AM ET on NFLN](https://www.youtube.com/shorts/fuUj8eUqn4g): Pittsburgh Steelers (official), 2026-10-20 16:04 UTC
 - Video: [Just having Tom Brady was enough for them to think they had a chance 😮‍💨🔥#patriots #tombrady](https://www.youtube.com/shorts/YF0Yc1KkCzA): Not Just Football with Cam Heyward, 2026-10-20 16:00 UTC
 - Podcast: [G'Day Steelers Nation: It was a Steelers win, but OT was avoidable](https://podcasts.apple.com/us/podcast/gday-steelers-nation-it-was-a-steelers-win-but-ot/id905962218?i=1000797281766): Steel Curtain Network (BTSC), 2026-10-20 15:30 UTC
