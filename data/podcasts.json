@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T22:27:22.506548+00:00",
+ "generated": "2026-10-20T22:38:08.595534+00:00",
  "date_et": "2026-10-20",
  "days": 5,
  "display_days": 2,
@@ -90,10 +90,10 @@
    "show": "Steel City Underground",
    "kind": "podcast",
    "url": "https://feeds.feedburner.com/steelcityunderground",
-   "status": "ok",
-   "episodes": 45,
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "episodes": 0,
    "week": 1,
-   "latest": "2026-10-19T19:40:55+00:00"
+   "latest": null
   },
   {
    "show": "Steel City Underground",
@@ -201,7 +201,7 @@
    "status": "ok",
    "episodes": 15,
    "week": 15,
-   "latest": "2026-10-20T18:07:45+00:00"
+   "latest": "2026-10-20T22:13:29+00:00"
   },
   {
    "show": "Not Just Football with Cam Heyward",
@@ -257,6 +257,14 @@
    "link": "https://www.youtube.com/watch?v=Bp2zQ4eZjX8",
    "published": "2026-10-20T22:21:36+00:00",
    "summary": "Video from Steelers Now."
+  },
+  {
+   "title": "Every Boz field goal but with every field goal it gets faster \ud83d\udcfa:#PITvsNO 10/25 at 9:30AM ET on NFLN",
+   "show": "Pittsburgh Steelers (official)",
+   "kind": "video",
+   "link": "https://www.youtube.com/shorts/2W3Ld83xwfw",
+   "published": "2026-10-20T22:13:29+00:00",
+   "summary": "Video from Pittsburgh Steelers (official)."
   },
   {
    "title": "DK's Double Shot of Steelers: Off OUI go!",
@@ -856,14 +864,6 @@
    "kind": "video",
    "link": "https://www.youtube.com/shorts/_d_0PZ6tpi4",
    "published": "2026-10-18T23:02:19+00:00",
-   "summary": "Video from Pittsburgh Steelers (official)."
-  },
-  {
-   "title": "GGs",
-   "show": "Pittsburgh Steelers (official)",
-   "kind": "video",
-   "link": "https://www.youtube.com/shorts/XkeRK_8xFk8",
-   "published": "2026-10-18T22:58:38+00:00",
    "summary": "Video from Pittsburgh Steelers (official)."
   },
   {

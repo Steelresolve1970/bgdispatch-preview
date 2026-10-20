@@ -1,10 +1,11 @@
 # Steelers News
 
-_Generated 2026-10-20T22:27:38+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T22:27:08+00:00._
+_Generated 2026-10-20T22:38:46+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T22:37:51+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Steelers bring back veteran Valdes-Scantling amid receiver injury woes](https://www.espn.com/nfl/story/_/id/50232379/steelers-bring-back-marquez-valdes-scantling-amid-wr-injuries): ESPN, 2026-10-20 23:21 UTC
 - [NFL to beef up security for Steelers-Saints in Paris after riots](https://www.espn.com/nfl/story/_/id/50230791/nfl-increase-security-paris-steelers-saints-game): ESPN, 2026-10-20 23:21 UTC
+- [Orlovsky Explains One Area Where Steelers’ Offense Shows ‘Uptick In Creativity’](https://steelersdepot.com/2026/10/orlovsky-explains-one-area-where-steelers-offense-shows-uptick-in-creativity/): Steelers Depot, 2026-10-20 22:30 UTC
 - [Steelers Afternoon Drive: Should Steelers Still Seeking WR Help?](https://steelersnow.com/steelers-afternoon-drive-should-steelers-still-seeking-wr-help/): Steelers Now, 2026-10-20 22:23 UTC
 - [The NFL says it's "confident" with security plans for the Steelers-Saints game in Paris](https://www.cbsnews.com/pittsburgh/news/nfl-confident-security-plans-steelers-saints-game-paris/): CBS News, 2026-10-20 22:23 UTC
 - [Watch: The Depot 180 — October 20 — Episode 628](https://steelersdepot.com/2026/10/watch-the-depot-180-october-20-episode-628/): Steelers Depot, 2026-10-20 22:15 UTC
@@ -64,7 +65,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Former Steelers first-round pick's NFL career may be on life support](https://stillcurtain.com/former-pittsburgh-steelers-first-round-pick-najee-harris-nfl-career-life-support-01m5cx9yd8td?utm_source=RSS): Still Curtain, 2026-10-20 15:36 UTC
 - [Steelers, Aaron Rodgers to reunite with Marquez Valdes-Scantling: Source - The Athletic](https://www.nytimes.com/athletic/7706229/2026/10/19/steelers-aaron-rodgers-marquez-valdes-scantling-signing/): The New York Times, 2026-10-20 15:27 UTC
 - [Steelers Intend To ‘Let The Competition Play Out’ As DeShon Elliott Works His Way Back Into Secondary](https://steelersdepot.com/2026/10/steelers-intend-to-let-the-competition-play-out-as-deshon-elliott-works-his-way-back-into-secondary/): Steelers Depot, 2026-10-20 15:16 UTC
-- [Reports: Giants Release Ex-Steelers RB Najee Harris](https://steelersdepot.com/2026/10/reports-giants-release-ex-steelers-rb-najee-harris/): Steelers Depot, 2026-10-20 15:12 UTC
 - [Giants Cut Ties with Former Steelers RB Najee Harris](https://steelersnow.com/giants-cut-ties-with-former-steelers-rb-najee-harris/): Steelers Now, 2026-10-20 15:08 UTC
 - [Steelers' Germie Bernard Explains Critical DK Metcalf Block Behind Overtime Winner](https://www.steelernation.com/2026/10/20/steelers-germie-bernard-critical-dk-metcalf): SteelerNation, 2026-10-20 15:00 UTC
 - [Week 7 Blog: The stacking has begun](https://www.steelers.com/news/week-7-blog-the-stacking-has-begun): Steelers.com (official), 2026-10-20 14:49 UTC
