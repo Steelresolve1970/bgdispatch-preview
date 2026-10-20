@@ -1,8 +1,9 @@
 # Steelers News
 
-_Generated 2026-10-20T18:15:54+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T18:15:20+00:00._
+_Generated 2026-10-20T18:26:47+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T18:26:09+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Steelers' Ben Skowronek's Injury May Have Been The Result Of Foul Play From The Colts](https://www.steelernation.com/2026/10/20/steelers-ben-skowronek-foul-colts): SteelerNation, 2026-10-20 18:21 UTC
 - [Gabriel Rubio Had No Idea Steelers Would Draft Him, Reveals Two Teams That Wanted To Sign Him](https://steelersdepot.com/2026/10/gabriel-rubio-had-no-idea-steelers-would-draft-him-reveals-two-teams-that-wanted-to-sign-him/): Steelers Depot, 2026-10-20 18:15 UTC
 - [‘I Was Devastated’: Mike Tomlin Reveals His Welcome to the NFL Moment](https://steelersnow.com/i-was-devastated-mike-tomlin-reveals-his-welcome-to-the-nfl-moment/): Steelers Now, 2026-10-20 17:51 UTC
 - [Buccaneers Fan Offers Reward For Lost Hat](https://steelersnow.com/buccaneers-fan-offers-reward-for-lost-hat/): Steelers Now, 2026-10-20 17:38 UTC
@@ -11,8 +12,8 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Pittsburgh Steelers Make Move for Aaron Rodgers After 6 Games](https://athlonsports.com/nfl/trending/pittsburgh-steelers-make-move-aaron-rodgers-after-6-games-marquez-valdes-scantling): Athlon Sports, 2026-10-20 17:08 UTC
 - [Steelers Week 6 grades in win over Buccaneers](https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176607/steelers-week-6-grades-in-win-over-buccaneers-germie-bernard-dk-metcalf-jalen-ramsey): Behind the Steel Curtain, 2026-10-20 17:01 UTC
 - [One Steelers Stat That Tells the Story of Pittsburgh’s Week 6 Win](https://athlonsports.com/nfl/pittsburgh-steelers/one-steelers-stat-that-tells-the-story-of-pittsburghs-week-6-win): Athlon Sports, 2026-10-20 17:00 UTC
+- [NFL Paris game still on despite France riots, league says](https://www.newsnationnow.com/us-news/sports/nfl-paris-game-france-riots-pittsburgh-steelers-new-orleans-saints/): NewsNation, 2026-10-20 16:59 UTC
 - [One Of NFL’s Most Senior Referees To Work Steelers-Saints In Paris](https://steelersdepot.com/2026/10/one-of-nfls-most-senior-referees-to-work-steelers-saints-in-paris/): Steelers Depot, 2026-10-20 16:44 UTC
-- [Steelers Power Rankings Roundup Week 7: Steelers Survive?](https://athlonsports.com/nfl/pittsburgh-steelers/steelers-power-rankings-roundup-week-7-steelers-survive): Athlon Sports, 2026-10-20 16:41 UTC
 - [Saints arrive in Paris for Sunday's game against Steelers](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/saints-arrive-in-paris-for-sundays-game-against-steelers): ProFootballTalk (NBC), 2026-10-20 16:34 UTC
 - [Where Do Steelers Stand In Week 7 Power Rankings?](https://steelersdepot.com/2026/10/where-do-steelers-stand-in-week-7-power-rankings-2/): Steelers Depot, 2026-10-20 16:30 UTC
 - [Brian Thomas Jr "Needs To Be" Traded To The Steelers Immediately After Bizarre Week 6](https://www.steelernation.com/2026/10/20/steelers-immediately-brian-thomas-jr): SteelerNation, 2026-10-20 16:25 UTC
@@ -41,7 +42,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Week 7 odds: Steelers open as slight favorites vs. Saints](https://www.behindthesteelcurtain.com/pittsburgh-steelers-odds/176592/week-7-odds-steelers-open-as-slight-favorites-vs-saints): Behind the Steel Curtain, 2026-10-20 14:30 UTC
 - [Steelers at Saints in Paris: How to watch/listen to the game](https://www.steelers.com/news/steelers-at-saints-in-paris-how-to-watch-listen-to-the-game): Steelers.com (official), 2026-10-20 14:30 UTC
 - [Pittsburgh Steelers 2026 Schedule, Week-By-Week Analysis](https://steelersnow.com/pittsburgh-steelers-2026-schedule/): Steelers Now, 2026-10-20 14:27 UTC
-- [NFL Paris game still on despite France riots, league says](https://www.newsnationnow.com/us-news/sports/nfl-paris-game-france-riots-pittsburgh-steelers-new-orleans-saints/): NewsNation, 2026-10-20 14:21 UTC
 - [Mike McCarthy Shares What He Appreciates Most About Jalen Ramsey](https://steelersdepot.com/2026/10/mike-mccarthy-shares-what-he-appreciates-most-about-jalen-ramsey/): Steelers Depot, 2026-10-20 14:15 UTC
 - [Why Did Steelers Sign MVS? | Steelers Morning Rush](https://steelersnow.com/why-did-steelers-sign-mvs-steelers-morning-rush/): Steelers Now, 2026-10-20 14:11 UTC
 - [Steelers’ dream 2027 quarterback class is already losing its shine](https://stillcurtain.com/pittsburgh-steelers-dream-2027-quarterback-class-is-already-losing-its-shine-01m5b6pz8naq?utm_source=RSS): Still Curtain, 2026-10-20 14:00 UTC
@@ -97,7 +97,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers Get Called Out By Mike McCarthy For Offensive Failure](https://www.steelernation.com/2026/10/19/steelers-mike-mccarthy-offensive-failure): SteelerNation, 2026-10-19 23:04 UTC
 - [Aaron Rodgers, Jalen Ramsey reach personal milestones in Steelers win over Buccaneers](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176581/aaron-rodgers-jalen-ramsey-reach-personal-milestones-in-steelers-win-over-buccaneers): Behind the Steel Curtain, 2026-10-19 22:50 UTC
 - [Steelers Afternoon Drive: Will Bernard Breakout Blow Up WR Plans?](https://steelersnow.com/steelers-afternoon-drive-will-bernard-breakout-blow-up-wr-plans/): Steelers Now, 2026-10-19 22:34 UTC
-- [Steelers' Jamel Dean Admits Rocky Sideline Energy Before Critical Comeback Against Buccaneers](https://www.steelernation.com/2026/10/19/steelers-jamel-dean-critical-comeback): SteelerNation, 2026-10-19 22:34 UTC
 - [Steelers’ Mike McCarthy defends play-calling after Jamel Dean interception](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176579/steelers-mike-mccarthy-defends-play-calling-after-jamel-dean-interception): Behind the Steel Curtain, 2026-10-19 21:30 UTC
 - [Playmaking Jalen Ramsey has maybe his best game with Steelers in win vs. Bucs](https://triblive.com/sports/playmaking-jalen-ramsey-has-maybe-his-best-game-with-steelers-in-win-vs-bucs/): TribLive, 2026-10-19 21:22 UTC
 - [The protests in France are a ‘continuing conversation’ for the Steelers before their game in Paris](https://www.post-gazette.com/sports/steelers/2026/10/19/steelers-paris-game-france-protests/stories/202610190026): Pittsburgh Post-Gazette, 2026-10-19 21:21 UTC
@@ -153,6 +152,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [7 winners (and 4 losers) from Steelers' dramatic Week 6 comeback over Tampa Bay](https://stillcurtain.com/7-winners-4-losers-pittsburgh-steelers-dramatic-week-6-comeback-tampa-bay-buccaneers-01m58beprnfv?utm_source=RSS): Still Curtain, 2026-10-18 21:30 UTC
 - [Pittsburgh Steelers vs. Tampa Bay Buccaneers highlights | Week 6](https://www.nfl.com/videos/steelers-vs-buccaneers-highlights-week-6): NFL.com, 2026-10-18 21:19 UTC
 - [Can't-Miss Play: Ramsey calls game! Jalen's blitzing sack of Jalon Daniels sends Steelers to an OT win](https://www.nfl.com/videos/can-t-miss-play-ramsey-calls-game-jalen-s-blitzing-sack-of-jalon-daniels-sends-steelers-to-an-ot-win): NFL.com, 2026-10-18 21:14 UTC
+- [6 instant reactions to the Steelers' overtime victory over the Buccaneers](https://stillcurtain.com/6-instant-reactions-to-the-pittsburgh-steelers-overtime-victory-over-the-buccaneers-01m5868wawaf?utm_source=RSS): Still Curtain, 2026-10-18 21:10 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

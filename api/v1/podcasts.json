@@ -2,8 +2,8 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-20T18:15:54+00:00",
- "data_updated": "2026-10-20T18:15:37+00:00",
+ "generated": "2026-10-20T18:26:47+00:00",
+ "data_updated": "2026-10-20T18:26:23+00:00",
  "count": 133,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
@@ -29,6 +29,19 @@
    "summary": "Video from Still Curtain Podcast.",
    "source": {
     "name": "Still Curtain Podcast",
+    "url": null
+   }
+  },
+  {
+   "id": "94dd7c3daa77f925",
+   "type": "video",
+   "title": "That crowd pop 💥 📺: #PITvsNO 10/25 at 9:30 AM ET on NFLN",
+   "show": "Pittsburgh Steelers (official)",
+   "url": "https://www.youtube.com/shorts/OlJTbqdizjI",
+   "published": "2026-10-20T18:07:45+00:00",
+   "summary": "Video from Pittsburgh Steelers (official).",
+   "source": {
+    "name": "Pittsburgh Steelers (official)",
     "url": null
    }
   },
@@ -913,19 +926,6 @@
    "summary": "Podcast episode from Steel Curtain Network (BTSC).",
    "source": {
     "name": "Steel Curtain Network (BTSC)",
-    "url": null
-   }
-  },
-  {
-   "id": "d26c7e9f7081104f",
-   "type": "video",
-   "title": "Shoutout Steelers Nation 🗣️",
-   "show": "Pittsburgh Steelers (official)",
-   "url": "https://www.youtube.com/shorts/01RMOt4ohRM",
-   "published": "2026-10-18T22:12:23+00:00",
-   "summary": "Video from Pittsburgh Steelers (official).",
-   "source": {
-    "name": "Pittsburgh Steelers (official)",
     "url": null
    }
   },
