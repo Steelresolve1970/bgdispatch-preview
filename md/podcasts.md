@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-20T06:21:20+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T06:21:03+00:00._
+_Generated 2026-10-20T06:32:45+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T06:32:30+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Podcast: [Scout’s Eye with Matt Williamson: That's winning defense](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/scouts-eye-with-matt-williamson-thats-winning-defense/): DK Pittsburgh Sports, 2026-10-20 06:02 UTC
 - Podcast: [Steelers' Mike McCarthy Must Lean More on Jaylen Warren, Under Center Offense to Fix 3rd Down Issues](https://lockedonpodcasts.com/podcasts/locked-on-steelers/): Locked On Steelers, 2026-10-20 06:00 UTC
 - Podcast: [Steelers Raid Tampa! Mike McCarthy, Injury Updates & Next Stop Paris! | SF7P Ep. 212](https://podcasters.spotify.com/pod/show/steelersfor7podcast/episodes/Steelers-Raid-Tampa--Mike-McCarthy--Injury-Updates--Next-Stop-Paris---SF7P-Ep--212-e3qpdap): Steelers for 7 Podcast, 2026-10-20 05:11 UTC
 - Podcast: [Steelers Hangover: Trajectory Win! Steelers Beat Tampa Bay 26-19 in OT](http://steelcurtainnetwork.com): Steel Curtain Network (BTSC), 2026-10-20 02:14 UTC
@@ -95,7 +96,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Why Jaylen Warren Is Surging - And What's Going On With The Steelers Linebackers](https://arthurmoats55.libsyn.com/warrenilb_ytmp3): The Arthur Moats Experience, 2026-10-15 09:52 UTC
 - Podcast: [Germie Bernard on Making It to the NFL & Life Beyond the Game | The Christian Kuntz Podcast](https://podcasters.spotify.com/pod/show/christian-kuntz/episodes/Germie-Bernard-on-Making-It-to-the-NFL--Life-Beyond-the-Game--The-Christian-Kuntz-Podcast-e3qgbnm): The Christian Kuntz Podcast, 2026-10-15 09:00 UTC
 - Video: [Steelers offense MUST adapt after WR injuries | Steelers vs. Buccaneers Week 6 Preview](https://www.youtube.com/watch?v=n-84rQrUKEc): Still Curtain Podcast, 2026-10-15 06:43 UTC
-- Video: [Steelers' Offensive Balance Unlocks Aaron Rodgers' Football IQ | Jaylen Warren vs Top Run Defense](https://www.youtube.com/watch?v=u_XrcucgHrI): Locked On Steelers, 2026-10-15 06:30 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
