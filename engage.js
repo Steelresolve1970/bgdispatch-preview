@@ -127,7 +127,7 @@
 
  function buildFanpost(){   /* GET /api/forum/fanpost -> {post_id, thread_id, thread_title, username, excerpt, week_start}; anything else hides the card */
   return api('forum/fanpost').then(function(d){
-   var f=d&&(d.post||d.fanpost||d);if(!d||d.ok===false||!f||!f.post_id||!f.thread_id||!f.excerpt)return null;
+   var f=d&&(d.post||d.fanpost||d);if(f&&f.id&&!f.post_id){f.post_id=f.id;f.excerpt=f.excerpt||f.quote;f.week_start=f.week_start||(d.week&&d.week.start);}if(!d||d.ok===false||!f||!f.post_id||!f.thread_id||!f.excerpt)return null;
    var wk=f.week_start?new Date(String(f.week_start).slice(0,10)+'T12:00:00Z').toLocaleDateString('en-US',{month:'short',day:'numeric',timeZone:'UTC'}):'';
    var link='#/forum/thread/'+(+f.thread_id);
    return card('fanpost','Fan post of the week','<blockquote class="eg-fp"><p>'+esc(f.excerpt)+'</p></blockquote><p class="eg-by">Posted by <b>'+esc(f.username||'a member')+'</b> in <a href="'+link+'">'+esc(f.thread_title||'the forum')+'</a>'+(wk?' · Week of '+esc(wk):'')+'</p><p class="eg-src"><a href="'+link+'">Read the full post</a> · <a href="#/forum">Join the forum</a></p>');
@@ -142,7 +142,7 @@
    for(var i=0;i<Q.length&&out.length<3;i++){var q=Q[(start+i)%Q.length];if(seen[q.speaker])continue;seen[q.speaker]=1;out.push(q);}
    return out.map(function(q){var a=document.createElement('figure');a.className='eg eg-quote';
     var when=new Date(q.date+'T12:00:00Z').toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric',timeZone:'UTC'});
-    a.innerHTML='<p class="eg-kicker">Quote of the week</p>'+QMARK+'<blockquote><p>'+esc(q.text)+'</p></blockquote><figcaption><span class="eg-who"><b>'+esc(q.speaker)+'</b>, '+esc(q.role)+'</span><span class="eg-meta">'+esc(when)+' · Source: <a href="'+esc(q.url)+'" target="_blank" rel="noopener">'+esc(q.source_name)+': '+esc(q.source_title)+'</a></span></figcaption>';
+    a.innerHTML='<p class="eg-kicker">Quote of the week</p><blockquote><p><span class="eg-qm" aria-hidden="true">&ldquo;</span>'+esc(q.text)+'<span class="eg-qm" aria-hidden="true">&rdquo;</span></p></blockquote><figcaption><span class="eg-who"><b>'+esc(q.speaker)+'</b>, '+esc(q.role)+'</span><span class="eg-meta">'+esc(when)+' · Source: <a href="'+esc(q.url)+'" target="_blank" rel="noopener">'+esc(q.source_name)+': '+esc(q.source_title)+'</a></span></figcaption>';
     return a;});
   }).catch(function(){return [];});
  }

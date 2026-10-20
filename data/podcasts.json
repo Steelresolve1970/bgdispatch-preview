@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T04:15:59.372832+00:00",
+ "generated": "2026-10-20T04:27:41.506147+00:00",
  "date_et": "2026-10-20",
  "days": 5,
  "count": 130,
@@ -197,7 +197,7 @@
    "show": "Pittsburgh Steelers (official)",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChaRXjMDs4ppKfnTPE6Z89w",
-   "status": "error: HTTP Error 404: Not Found",
+   "status": "error: HTTP Error 500: Internal Server Error",
    "episodes": 0,
    "week": 15,
    "latest": null
@@ -242,7 +242,7 @@
    "show": "The Christian Kuntz Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKKBJcOGsYmwAATQv-xQYeA",
-   "status": "error: HTTP Error 404: Not Found",
+   "status": "error: HTTP Error 500: Internal Server Error",
    "episodes": 0,
    "week": 0,
    "latest": null

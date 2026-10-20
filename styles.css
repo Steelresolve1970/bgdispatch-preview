@@ -634,3 +634,11 @@ figure.eg{margin:8px 0}
  .eg-quote{padding:16px 14px 14px 14px}.eg-qmark{position:static;display:block;width:38px;height:29px;margin:2px 0 8px}
  .eg-quote blockquote p{font-size:18px}
 }
+
+/* Practice squad rows: tag after name, position on far right */
+.rr-ps .rr-row{grid-template-columns:52px 1fr 64px}.rr-ps .rr-pos{text-align:right}
+.rr-tag{display:inline-block;margin-left:8px;padding:1px 7px;border-radius:3px;background:#111;color:var(--gold);font-size:.66rem;font-weight:800;letter-spacing:.04em;text-transform:uppercase;vertical-align:2px}
+
+/* Quote cards: gold quote marks before and after the words */
+.eg-quote{padding:18px 20px 16px 20px}.eg-quote .eg-qm{color:var(--gold);font-style:normal;font-weight:900;font-size:1.6em;line-height:0;vertical-align:-.28em;margin:0 3px}
+@media (max-width:600px){.eg-quote{padding:16px 14px 14px 14px}}
