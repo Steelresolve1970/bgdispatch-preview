@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-20T02:19:43+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T02:19:10+00:00._
+_Generated 2026-10-20T02:31:03+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T02:29:55+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Steelers Set to Reunite with Former Wide Receiver](https://steelersnow.com/steelers-set-to-reunite-with-former-wide-receiver/): Steelers Now, 2026-10-20 01:21 UTC
@@ -20,13 +20,14 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers' DK Metcalf Has Reason For Rocky Start To 2026 Season Exposed](https://www.steelernation.com/2026/10/19/steelers-dk-metcalf-season-exposed): SteelerNation, 2026-10-19 23:25 UTC
 - [Steelers Get Called Out By Mike McCarthy For Offensive Failure](https://www.steelernation.com/2026/10/19/steelers-mike-mccarthy-offensive-failure): SteelerNation, 2026-10-19 23:04 UTC
 - [Patrick Graham Explains What Makes Nick Herbig ‘Special’](https://steelersdepot.com/2026/10/patrick-graham-explains-what-makes-nick-herbig-special/): Steelers Depot, 2026-10-19 23:00 UTC
-- [Steelers' belief in their massive rookie class is paying early dividends](https://www.lmtonline.com/sports/article/steelers-belief-in-their-massive-rookie-class-is-22484589.php): Laredo Morning Times, 2026-10-19 22:52 UTC
 - [Aaron Rodgers, Jalen Ramsey reach personal milestones in Steelers win over Buccaneers](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176581/aaron-rodgers-jalen-ramsey-reach-personal-milestones-in-steelers-win-over-buccaneers): Behind the Steel Curtain, 2026-10-19 22:50 UTC
 - [Steelers Afternoon Drive: Will Bernard Breakout Blow Up WR Plans?](https://steelersnow.com/steelers-afternoon-drive-will-bernard-breakout-blow-up-wr-plans/): Steelers Now, 2026-10-19 22:34 UTC
 - [Steelers' Jamel Dean Admits Rocky Sideline Energy Before Critical Comeback Against Buccaneers](https://www.steelernation.com/2026/10/19/steelers-jamel-dean-critical-comeback): SteelerNation, 2026-10-19 22:34 UTC
 - [‘Brian Thomas Jr. Needs To Be A Steeler’: Trai Essex Wants Pittsburgh To Trade For Jaguars WR](https://steelersdepot.com/2026/10/brian-thomas-jr-needs-to-be-a-steeler-trai-essex-wants-pittsburgh-to-trade-for-jaguars-wr/): Steelers Depot, 2026-10-19 22:30 UTC
+- [Steelers' belief in their massive rookie class is paying early dividends](https://www.timesunion.com/sports/article/steelers-belief-in-their-massive-rookie-class-is-22484589.php): Times Union, 2026-10-19 21:45 UTC
 - [Listen: The Terrible Take (Episode 2,055)](https://steelersdepot.com/2026/10/listen-the-terrible-take-episode-2055/): Steelers Depot, 2026-10-19 21:30 UTC
 - [Steelers’ Mike McCarthy defends play-calling after Jamel Dean interception](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176579/steelers-mike-mccarthy-defends-play-calling-after-jamel-dean-interception): Behind the Steel Curtain, 2026-10-19 21:30 UTC
+- [Steelers Insider Offers Blunt Update on Potential JuJu Smith-Schuster Reunion](https://heavy.com/sports/nfl/pittsburgh-steelers/juju-smith-schuster-nfl-news-reunion-kaboly/): Heavy.com, 2026-10-19 21:22 UTC
 - [The protests in France are a ‘continuing conversation’ for the Steelers before their game in Paris](https://www.post-gazette.com/sports/steelers/2026/10/19/steelers-paris-game-france-protests/stories/202610190026): Pittsburgh Post-Gazette, 2026-10-19 21:21 UTC
 - [‘There’s Nobody That Can Stop Him’: Chad Johnson Urges Steelers To Get Darnell Washington ‘Involved More’](https://steelersdepot.com/2026/10/theres-nobody-that-can-stop-him-chad-johnson-urges-steelers-to-get-darnell-washington-involved-more/): Steelers Depot, 2026-10-19 21:15 UTC
 - ['It goes a long way'](https://www.steelers.com/news/it-goes-a-long-way): Steelers.com (official), 2026-10-19 21:00 UTC
@@ -58,7 +59,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Key Behind-The-Scenes Change Fueling Steelers’ Defense, Says Payton Wilson](https://steelersdepot.com/2026/10/key-behind-the-scenes-change-fueling-steelers-defense-says-payton-wilson/): Steelers Depot, 2026-10-19 18:45 UTC
 - [Submit your questions for Mike DeFabo’s Steelers mailbag](https://www.nytimes.com/athletic/7705346/2026/10/19/steelers-mailbag-paris-game-bucs-win/): The Athletic, 2026-10-19 18:42 UTC
 - [‘I Wanted Them To Lose’: Domonique Foxworth Says Steelers ‘Didn’t Deserve’ To Beat Buccaneers](https://steelersdepot.com/2026/10/i-wanted-them-to-lose-domonique-foxworth-says-steelers-didnt-deserve-to-beat-buccaneers/): Steelers Depot, 2026-10-19 18:30 UTC
-- [NFL: Indianapolis Colts at Pittsburgh Steelers](https://lufkindailynews.com/news_reuters/sports/nfl-indianapolis-colts-at-pittsburgh-steelers/image_c50941c8-5962-5c56-aa3a-32fa6b324235.html): The Lufkin Daily News, 2026-10-19 18:22 UTC
 - [Steelers Accomplish Extremely Rare Feat in Win over Bucs](https://steelersnow.com/steelers-accomplish-extremely-rare-feat-in-win-over-bucs/): Steelers Now, 2026-10-19 18:20 UTC
 - [Steelers' Aaron Rodgers Has Daring Comments For Buccaneers' Glazer Family](https://www.steelernation.com/2026/10/19/steelers-aaron-rodgers-daring-buccaneers): SteelerNation, 2026-10-19 18:11 UTC
 - [‘Everyone Was Happy’: Jaquan Brisker Loved Jamel Dean’s ‘Amazing’ Revenge Game In Tampa](https://steelersdepot.com/2026/10/everyone-was-happy-jaquan-brisker-loved-jamel-deans-amazing-revenge-game-in-tampa/): Steelers Depot, 2026-10-19 18:00 UTC
@@ -74,7 +74,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Pittsburgh Steelers lose key cornerback to hamstring injury](https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-lose-key-cornerback-to-injury.html): PennLive (Nick Farabaugh), 2026-10-19 16:16 UTC
 - [Steelers' WR Problem Got A Lot Worse With Latest Michael Pittman Jr Report](https://www.steelernation.com/2026/10/19/steelers-problem-worse-michael-pittman-jr): SteelerNation, 2026-10-19 16:07 UTC
 - [Steelers’ winning ways are hiding a troubling Chris Boswell problem](https://stillcurtain.com/pittsburgh-steelers-winning-ways-hiding-troubling-chris-boswell-problem-01m5a2ekha59?utm_source=RSS): Still Curtain, 2026-10-19 16:00 UTC
-- [Pittsburgh Steelers could face a challenge in Paris that has nothing to do with the game against the New Orleans Saints](https://atozsports.com/nfl/pittsburgh-steelers-news/steelers-facing-travel-dangers-vs-saints-paris-france-protest-unrest/): A to Z Sports, 2026-10-19 16:00 UTC
 - [Where Steelers Stand in AFC North After Huge Comeback Win](https://www.si.com/nfl/steelers/onsi/where-pittsburgh-steelers-stand-afc-north-huge-comeback-win): All Steelers (Sports Illustrated), 2026-10-19 16:00 UTC
 - [Fans turned out for Steelers international watch parties](https://www.steelers.com/news/fans-turned-out-for-steelers-international-watch-parties): Steelers.com (official), 2026-10-19 15:50 UTC
 - [The Steelers are heading to Paris in 3 days as protests continue, and one player says what he’s seen online “looks crazy out there”](https://www.pennlive.com/steelers/2026/10/the-steelers-are-heading-to-paris-in-3-days-as-protests-continue-and-one-player-says-what-hes-seen-online-looks-crazy-out-there.html): PennLive (Nick Farabaugh), 2026-10-19 15:49 UTC
@@ -128,6 +127,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [The Steelers rally back from 13 down to beat the Buccaneers in overtime](https://www.post-gazette.com/sports/steelers/2026/10/18/steelers-buccaneers-aaron-rodgers-germie-bernard/stories/202610180075): Pittsburgh Post-Gazette, 2026-10-18 20:58 UTC
 - [Steelers get OT win but leave Tampa Bay with more offensive questions than answers](https://www.nytimes.com/athletic/7702085/2026/10/18/steelers-buccaneers-nfl-week-6-result-takeaways/): The Athletic, 2026-10-18 20:56 UTC
 - [Germie Bernard's first NFL touchdown gives Steelers the lead vs. Bucs in overtime](https://www.nfl.com/videos/germie-bernard-s-first-nfl-touchdown-gives-steelers-the-lead-vs-bucs-in-overtime): NFL.com, 2026-10-18 20:52 UTC
+- [Rapid Reaction: Steelers 26, Buccaneers 19](https://www.buccaneers.com/news/bucs-lose-pittsburgh-steelers-overtime-week-6-2026-score-26-19): Tampa Bay Buccaneers, 2026-10-18 20:50 UTC
 - [Steelers rally past Buccaneers, 26-19, in overtime](https://www.steelers.com/news/steelers-rally-past-buccaneers-26-19-in-overtime): Steelers.com (official), 2026-10-18 20:44 UTC
 - [Aaron Rodgers rallies Steelers back from 13-point deficit to beat Bucs in overtime](https://triblive.com/sports/aaron-rodgers-rallies-steelers-back-from-16-point-deficit-to-beat-bucs-in-overtime/): TribLive, 2026-10-18 20:44 UTC
 - [The Steelers got punched in the mouth by the Buccaneers -- then their real football character showed](https://www.pennlive.com/steelers/2026/10/the-steelers-got-punched-in-the-mouth-by-the-buccaneers-then-their-real-football-character-showed.html): PennLive (Nick Farabaugh), 2026-10-18 20:44 UTC

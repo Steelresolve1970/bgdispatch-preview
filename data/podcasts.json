@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T02:19:27.861097+00:00",
+ "generated": "2026-10-20T02:30:47.914584+00:00",
  "date_et": "2026-10-19",
  "days": 7,
  "count": 184,
@@ -89,10 +89,10 @@
    "show": "Steel City Underground",
    "kind": "podcast",
    "url": "https://feeds.feedburner.com/steelcityunderground",
-   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 45,
    "week": 2,
-   "latest": null
+   "latest": "2026-10-19T19:40:55+00:00"
   },
   {
    "show": "Steel City Underground",
@@ -215,10 +215,10 @@
    "show": "Not Just Football with Cam Heyward",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8hodyaoiw297aspKf9QVDA",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 8,
-   "latest": "2026-10-19T16:00:35+00:00"
+   "latest": null
   },
   {
    "show": "Footbahlin with Ben Roethlisberger",
