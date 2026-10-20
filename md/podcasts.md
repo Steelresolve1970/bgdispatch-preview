@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-20T20:43:59+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T20:43:43+00:00._
+_Generated 2026-10-20T21:02:39+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T21:02:21+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Podcast: [The Terrible Take - Episode 2056 - October 20, 2026](https://podcasts.apple.com/us/podcast/id405990739): The Terrible Podcast (Steelers Depot), 2026-10-20 21:00 UTC
 - Podcast: [Drive10.20.26Hr1: Scouting the Saints](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-20-26hr1-mp3): SNR Drive, 2026-10-20 20:00 UTC
 - Podcast: [Steelers Crazy #300 - Saints Vs Steelers In Paris](https://anchor.fm/the-sick-podcast---steelers-crazy): The Sick Podcast - Steelers Crazy, 2026-10-20 19:12 UTC
 - Podcast: [Drive10.20.26Hr2: Week Seven Power Rankings](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-20-26hr2-mp3): SNR Drive, 2026-10-20 19:00 UTC
@@ -136,7 +137,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Worried About Rookie Roles? | Steelers Afternoon Drive](https://podcasts.apple.com/us/podcast/worried-about-rookie-roles-steelers-afternoon-drive/id1700240934?i=1000796556968): Steelers Afternoon Drive, 2026-10-15 21:55 UTC
 - Video: [Steelers' Mike McCarthy Must Solve WR Separation Issue w/DK Metcalf, Germie Bernard vs Buccaneers](https://www.youtube.com/shorts/FJtbyDhy-5k): Locked On Steelers, 2026-10-15 21:53 UTC
 - Podcast: [Steelers Injuries: Good News, Bad News, IR Coming?](https://podcasts.apple.com/us/podcast/steelers-injuries-good-news-bad-news-ir-coming/id1627248534?i=1000796558853): All Steelers Talk, 2026-10-15 21:11 UTC
-- Podcast: [The Terrible Take - Episode 2051 - October 15, 2026](https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2051-october-15-2026/id405990739?i=1000796551180): The Terrible Podcast (Steelers Depot), 2026-10-15 21:00 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
