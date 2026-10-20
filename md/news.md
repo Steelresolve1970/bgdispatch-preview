@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-20T08:11:05+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T08:10:39+00:00._
+_Generated 2026-10-20T08:21:42+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T08:21:17+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Why Mike McCarthy and the Steelers must run the ball more often on third down](https://www.post-gazette.com/sports/steelers/2026/10/20/steelers-third-down-struggles/stories/202610190030): Pittsburgh Post-Gazette, 2026-10-20 08:00 UTC
@@ -36,7 +36,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Listen: The Terrible Take (Episode 2,055)](https://steelersdepot.com/2026/10/listen-the-terrible-take-episode-2055/): Steelers Depot, 2026-10-19 21:30 UTC
 - [Steelers’ Mike McCarthy defends play-calling after Jamel Dean interception](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176579/steelers-mike-mccarthy-defends-play-calling-after-jamel-dean-interception): Behind the Steel Curtain, 2026-10-19 21:30 UTC
 - [Playmaking Jalen Ramsey has maybe his best game with Steelers in win vs. Bucs](https://triblive.com/sports/playmaking-jalen-ramsey-has-maybe-his-best-game-with-steelers-in-win-vs-bucs/): TribLive, 2026-10-19 21:22 UTC
-- [Steelers Insider Offers Blunt Update on Potential JuJu Smith-Schuster Reunion](https://heavy.com/sports/nfl/pittsburgh-steelers/juju-smith-schuster-nfl-news-reunion-kaboly/): Heavy.com, 2026-10-19 21:22 UTC
 - [The protests in France are a ‘continuing conversation’ for the Steelers before their game in Paris](https://www.post-gazette.com/sports/steelers/2026/10/19/steelers-paris-game-france-protests/stories/202610190026): Pittsburgh Post-Gazette, 2026-10-19 21:21 UTC
 - [‘There’s Nobody That Can Stop Him’: Chad Johnson Urges Steelers To Get Darnell Washington ‘Involved More’](https://steelersdepot.com/2026/10/theres-nobody-that-can-stop-him-chad-johnson-urges-steelers-to-get-darnell-washington-involved-more/): Steelers Depot, 2026-10-19 21:15 UTC
 - ['It goes a long way'](https://www.steelers.com/news/it-goes-a-long-way): Steelers.com (official), 2026-10-19 21:00 UTC
@@ -147,6 +146,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Pittsburgh Steelers get huge boost with good injury news on five starters, including Pat Freiermuth](https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-get-huge-boost-with-good-injury-news-on-five-starters-including-pat-freiermuth.html): PennLive (Nick Farabaugh), 2026-10-18 16:28 UTC
 - [Steelers-Saints game in Paris still on despite unrest in France, NFL says](https://www.nytimes.com/athletic/7701635/2026/10/18/paris-nfl-steelers-saints-protests/): The Athletic, 2026-10-18 16:26 UTC
 - [Huge comeback nets Steelers overtime win over Buccaneers | live updates recap](https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-at-tampa-bay-buccaneers-nfl-week-6-live-updates.html): PennLive (Nick Farabaugh), 2026-10-18 16:08 UTC
+- [Tampa Bay Buccaneers vs Pittsburgh Steelers Live match Free National Football League: Tampa Bay Buccaneers vs Pittsburgh Steelers look to seize control of thrilling Tampa Bay Buccaneers vs Pittsburgh Steelers. Every team in the Tampa Bay Buccaneers](https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5aHVicy5ubC92b3MvbmV3L2EueG1sIi8+PC9rcnBhbm8+&id=video-tampa-bay-buccaneers-vs-pittsburgh-steelers-tv666462298): Universidad de Córdoba (UCO), 2026-10-18 15:58 UTC
 - [Steelers’ Jamel Dean, Rico Dowdle, Pat Freiermuth active for game vs. Buccaneers](https://triblive.com/sports/steelers-jamel-dean-rico-dowdle-pat-freiermuth-active-for-game-vs-buccaneers/): TribLive, 2026-10-18 15:57 UTC
 - [Steelers Get Starting CB Back Against Bucs](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-get-starting-cornerback-jamel-dean-back-bucs): All Steelers (Sports Illustrated), 2026-10-18 15:38 UTC
 - [Steelers inactives for Week 6 at Buccaneers](https://www.steelers.com/news/steelers-inactives-for-week-6-at-buccaneers): Steelers.com (official), 2026-10-18 15:30 UTC
