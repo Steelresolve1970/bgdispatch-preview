@@ -492,3 +492,5 @@ body.yt-modal-open{overflow:hidden}
 
 /* Ad slots stay collapsed until a real ad loads (add class ad-live) */
 .ad:not(.ad-live){display:none!important}
+/* newsletter sign-up result messages */
+form[data-nl] .msg.ok{color:#1f7a33;font-weight:600}form[data-nl] .msg.err{color:#b3261e;font-weight:600}form[data-nl] .msg a{font-weight:700}

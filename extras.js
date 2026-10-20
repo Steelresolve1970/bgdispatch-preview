@@ -102,10 +102,10 @@ function history(){const d=X.hist,el=$('history-body');if(!d||!el)return;const t
 
 // ---------- Alerts & email ----------
 function alerts(){const el=$('alerts-body');if(!el)return;const sw='serviceWorker' in navigator,pn='PushManager' in window;
- el.innerHTML=`<p class="page-sub">Coming soon. Nothing is sent and no sign-ups are stored yet.</p>
+ el.innerHTML=`<p class="page-sub">The Daily Huddle email sign-up is live. Push alerts are coming soon.</p>
  <div class="alerts-grid"><section class="box"><h2>The Daily Huddle email</h2><p>Every morning: top Steelers news, today's podcasts, the heat-map leader and the next game.</p>
-  <form class="signup" onsubmit="event.preventDefault();this.querySelector('.msg').textContent='Thanks! Email sign-up isn\\'t live yet; nothing was saved or sent.';">
-  <label for="al-em" class="sr">Email</label><input id="al-em" type="email" placeholder="you@email.com" required><button class="btn">Notify me</button><p class="fine age13">You must be 13 or older to sign up. We'll use double opt-in, and every email has a one-click unsubscribe. <a href="legal/privacy.html">Privacy</a></p><p class="msg fine"></p></form></section>
+  <form class="signup" data-nl onsubmit="return BGD_sub(event,this)"><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;width:1px;height:1px;opacity:0">
+  <label for="al-em" class="sr">Email</label><input id="al-em" type="email" placeholder="you@email.com" required><button class="btn">Notify me</button><p class="fine age13">You must be 13 or older to sign up. Emails are sent by Kit (ConvertKit). We use double opt-in, and every email has a one-click unsubscribe. <a href="legal/privacy.html">Privacy</a></p><p class="msg fine" role="status" aria-live="polite"></p></form></section>
  <section class="box"><h2>Push alerts</h2><p>Breaking news, injury updates and game-day reminders on your phone.</p>
   ${['Breaking news','Injury report changes','Game-day kickoff + final score','Daily trivia reminder'].map(t=>`<label class="tog"><input type="checkbox" disabled> ${t}</label>`).join('')}
   <button class="btn" type="button" disabled>Turn on alerts (coming soon)</button><p class="fine">Your browser ${sw&&pn?'supports':'may not support'} web push.</p></section></div>

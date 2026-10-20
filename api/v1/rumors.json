@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "rumors",
  "description": "Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).",
- "generated": "2026-10-20T00:39:18+00:00",
- "data_updated": "2026-10-20T00:39:10+00:00",
- "count": 43,
+ "generated": "2026-10-20T00:50:41+00:00",
+ "data_updated": "2026-10-20T00:50:36+00:00",
+ "count": 45,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -19,6 +19,64 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/rumors",
  "items": [
+  {
+   "id": "7562897ee621",
+   "type": "rumor",
+   "title": "Report: Steelers Signing WR Marquez Valdes-Scantling",
+   "summary": "Trade/roster move story from Steelers Depot. Full report at the original publisher.",
+   "url": "https://steelersdepot.com/2026/10/report-steelers-signing-wr-marquez-valdes-scantling-2/",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null,
+    "reliability_tier": "Fan blog",
+    "reliability_score": 2
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-20T00:50:36+00:00",
+   "updated": "2026-10-20T00:50:36+00:00",
+   "published": "2026-10-20T00:46:40+00:00",
+   "people": [],
+   "consensus": {
+    "cluster_id": "7562897ee621",
+    "independent_sources": 1,
+    "sources": [
+     "Steelers Depot"
+    ],
+    "highest_tier": "Fan blog",
+    "highest_tier_score": 2,
+    "related_ids": []
+   }
+  },
+  {
+   "id": "9aa76112a419",
+   "type": "rumor",
+   "title": "Steelers Trade Rumors: Pittsburgh Is Making Calls for Receiver Help — Could Mike McCarthy Turn to Dallas?",
+   "summary": "Trade/roster move story from Sportsnaut. Full report at the original publisher.",
+   "url": "https://sportsnaut.com/nfl/steelers-trade-rumors-pittsburgh-is-making-calls-for-receiver-help-could-mike-mccarthy-turn-to-dallas",
+   "source": {
+    "name": "Sportsnaut",
+    "url": null,
+    "reliability_tier": "Aggregator / other",
+    "reliability_score": 1
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-20T00:50:36+00:00",
+   "updated": "2026-10-20T00:50:36+00:00",
+   "published": "2026-10-20T00:42:33+00:00",
+   "people": [],
+   "consensus": {
+    "cluster_id": "9aa76112a419",
+    "independent_sources": 1,
+    "sources": [
+     "Sportsnaut"
+    ],
+    "highest_tier": "Aggregator / other",
+    "highest_tier_score": 1,
+    "related_ids": []
+   }
+  },
   {
    "id": "f8d094ca1f62",
    "type": "rumor",

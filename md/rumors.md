@@ -1,8 +1,12 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-20T00:39:18+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T00:39:10+00:00._
+_Generated 2026-10-20T00:50:41+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T00:50:36+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
+- **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
+  [Report: Steelers Signing WR Marquez Valdes-Scantling](https://steelersdepot.com/2026/10/report-steelers-signing-wr-marquez-valdes-scantling-2/): Steelers Depot, first seen 2026-10-20 00:50 UTC
+- **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
+  [Steelers Trade Rumors: Pittsburgh Is Making Calls for Receiver Help — Could Mike McCarthy Turn to Dallas?](https://sportsnaut.com/nfl/steelers-trade-rumors-pittsburgh-is-making-calls-for-receiver-help-could-mike-mccarthy-turn-to-dallas): Sportsnaut, first seen 2026-10-20 00:50 UTC
 - **Rumor** · tier: Beat writer / team · consensus: 1 source(s), top tier Beat writer / team
   [Could Steelers Consider Kick Returner Change? Rising RB Earning Opportunity](https://steelersnow.com/could-steelers-consider-kick-returner-change-rising-rb-earning-opportunity/): Steelers Now, first seen 2026-10-19 21:21 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog

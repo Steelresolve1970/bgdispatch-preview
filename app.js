@@ -4,6 +4,20 @@
 const $=id=>document.getElementById(id);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const ext='target="_blank" rel="noopener"';
+// Newsletter sign-up -> /api/newsletter -> Kit (double opt-in). Falls back to posting straight to Kit if our endpoint is down.
+window.BGD_KIT_FORM='10069961';
+window.BGD_sub=async function(ev,f){ev.preventDefault();const m=f.querySelector('.msg'),b=f.querySelector('button'),em=f.querySelector('input[type=email]'),fn=f.querySelector('input[name=first_name]');
+ const ok='Almost done! Check your inbox and click the confirmation link from Kit to finish subscribing.';const say=(t,cls)=>{m.innerHTML=t;m.className='msg fine '+(cls||'');};
+ if(f.dataset.busy)return false;f.dataset.busy='1';b&&(b.disabled=true);say('Signing you up…');
+ const email=(em&&em.value||'').trim(),first=(fn&&fn.value||'').trim();let d=null;
+ try{const r=await fetch('/api/newsletter',{method:'POST',credentials:'same-origin',headers:{'x-bgd':'1','content-type':'application/json'},body:JSON.stringify({email,first_name:first,website:(f.querySelector('input[name=website]')||{}).value||'',t:Date.now()-(+f.dataset.t||0)})});d=await r.json().catch(()=>null);}catch(e){d=null;}
+ if(!d||d.fallback||d.error==='not_configured'){try{const fd=new FormData();fd.append('email_address',email);if(first)fd.append('fields[first_name]',first);const r=await fetch('https://app.kit.com/forms/'+window.BGD_KIT_FORM+'/subscriptions',{method:'POST',body:fd,headers:{accept:'application/json'}});const k=await r.json();d=k.status==='success'?{ok:true,status:'success'}:k.status==='quarantined'?{ok:true,status:'check',url:k.url}:{ok:false,error:(k.errors&&k.errors.messages||[]).join(' ')||'Sign-up didn\'t go through. Please try again.'};}catch(e){d={ok:false,error:'Sign-up didn\'t go through. Please check your connection and try again.'};}}
+ delete f.dataset.busy;b&&(b.disabled=false);
+ if(d.ok&&d.status==='check'&&/^https:\/\/app\.kit\.com\//.test(d.url||''))say('One more step: Kit needs a quick security check. <a href="'+esc(d.url)+'" '+ext+'>Finish subscribing →</a> Then check your inbox for the confirmation email.','ok');
+ else if(d.ok){say(esc(ok),'ok');f.reset();}
+ else say(esc(d.message&&d.error&&/^[a-z_]+$/.test(d.error)?d.message:(d.error||'Sign-up didn\'t go through. Please try again.')),'err');
+ return false;};
+document.addEventListener('focusin',e=>{const f=e.target.closest&&e.target.closest('form[data-nl]');if(f&&!f.dataset.t)f.dataset.t=Date.now();});
 const ET={timeZone:'America/New_York'};
 function ago(iso){if(iso==null||iso==='')return'';const t=new Date(iso).getTime();if(!Number.isFinite(t))return'';const m=Math.max(0,Math.round((Date.now()-t)/60000));
  if(m>3650*1440)return'';if(m<60)return m+'m ago';const h=Math.round(m/60);if(h<24)return h+'h ago';return Math.round(h/24)+'d ago';}
