@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-20T10:16:47+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T10:16:30+00:00._
+_Generated 2026-10-20T11:11:11+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T11:10:53+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [Here We Go, The Steelers Show: Rookies are a part of the black-and-gold solution](http://steelcurtainnetwork.com): Steel Curtain Network (BTSC), 2026-10-20 08:00 UTC

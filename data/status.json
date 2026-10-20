@@ -1,10 +1,10 @@
 {
- "last_run": "2026-10-20T10:16:48.299340+00:00",
+ "last_run": "2026-10-20T11:11:11.916082+00:00",
  "results": [
   {
    "fetcher": "apply_grade_edits.py",
    "ok": true,
-   "seconds": 0.5,
+   "seconds": 1.0,
    "last_line": "no grade edits"
   },
   {
@@ -28,7 +28,7 @@
   {
    "fetcher": "build_boxscores.py",
    "ok": true,
-   "seconds": 2.0,
+   "seconds": 2.5,
    "last_line": "boxscores 6"
   },
   {
@@ -40,13 +40,13 @@
   {
    "fetcher": "fetch_film.py",
    "ok": true,
-   "seconds": 2.5,
+   "seconds": 3.5,
    "last_line": "  Week 1 vs Falcons (W 20-13): 4   {'Steelers Depot Film Room (Alex Kozora)': 1, \"Derrick Bell \u2013 DB's Film Room (Steelers Now)\": 1, 'Steelers Almighty': 1, 'Steelers Depot (YouTube)': 1}"
   },
   {
    "fetcher": "fetch_podcasts.py",
    "ok": true,
-   "seconds": 10.0,
+   "seconds": 9.5,
    "last_line": "episodes past 5 days: 119 | embed-fallback channels: 0 | post-game: 8"
   },
   {
@@ -113,7 +113,7 @@
    "fetcher": "fetch_hub.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "hub fresh (<30 min); skipped"
+   "last_line": "injuries 16 practice 2 opp NO"
   },
   {
    "fetcher": "fetch_matchup.py",
@@ -143,7 +143,7 @@
    "fetcher": "fetch_rumors.py",
    "ok": true,
    "seconds": 2.5,
-   "last_line": "rumors 35 {'Rumor': 35, 'Confirmed': 0, 'Denied': 0}"
+   "last_line": "rumors 35 {'Rumor': 34, 'Confirmed': 0, 'Denied': 1}"
   },
   {
    "fetcher": "fetch_pickem.py",
@@ -172,7 +172,7 @@
   {
    "fetcher": "fetch_quotes.py",
    "ok": true,
-   "seconds": 1.5,
+   "seconds": 2.0,
    "last_line": "quotes: 10 kept from 120 articles"
   },
   {
