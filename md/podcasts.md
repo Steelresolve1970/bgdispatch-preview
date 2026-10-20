@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-20T23:22:31+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T23:22:14+00:00._
+_Generated 2026-10-20T23:33:41+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T23:33:08+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Steelers Vs Saints Thoughts & Predictions | SNR Drive (Oct.20) | Pittsburgh Steelers](https://www.youtube.com/watch?v=PKD5RscDaPI): Pittsburgh Steelers (official), 2026-10-20 23:00 UTC
