@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-20T05:33:52+00:00",
- "data_updated": "2026-10-20T05:33:35+00:00",
- "count": 91,
+ "generated": "2026-10-20T05:45:20+00:00",
+ "data_updated": "2026-10-20T05:45:04+00:00",
+ "count": 93,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -1073,6 +1073,19 @@
    }
   },
   {
+   "id": "a6c7f42b63d3bbaf",
+   "type": "video",
+   "title": "Can the Steelers keep rolling with a depleted offense?",
+   "show": "Steel City Underground",
+   "url": "https://www.youtube.com/watch?v=5chTykeJwJk",
+   "published": "2026-10-15T19:05:24+00:00",
+   "summary": "Video from Steel City Underground.",
+   "source": {
+    "name": "Steel City Underground",
+    "url": null
+   }
+  },
+  {
    "id": "6673017ef88bbce8",
    "type": "video",
    "title": "The Steelers vs Bucs Matchup Comes Down to Who Controls the Run Game 😤 #steelers #Bucs #nfl",
@@ -1186,6 +1199,19 @@
    "summary": "Podcast episode from The Christian Kuntz Podcast.",
    "source": {
     "name": "The Christian Kuntz Podcast",
+    "url": null
+   }
+  },
+  {
+   "id": "515888b9c494f948",
+   "type": "video",
+   "title": "Steelers offense MUST adapt after WR injuries | Steelers vs. Buccaneers Week 6 Preview",
+   "show": "Still Curtain Podcast",
+   "url": "https://www.youtube.com/watch?v=n-84rQrUKEc",
+   "published": "2026-10-15T06:43:03+00:00",
+   "summary": "Video from Still Curtain Podcast.",
+   "source": {
+    "name": "Still Curtain Podcast",
     "url": null
    }
   },

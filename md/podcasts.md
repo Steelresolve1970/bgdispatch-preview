@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-20T05:33:52+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T05:33:35+00:00._
+_Generated 2026-10-20T05:45:20+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T05:45:04+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [Steelers Raid Tampa! Mike McCarthy, Injury Updates & Next Stop Paris! | SF7P Ep. 212](https://podcasters.spotify.com/pod/show/steelersfor7podcast/episodes/Steelers-Raid-Tampa--Mike-McCarthy--Injury-Updates--Next-Stop-Paris---SF7P-Ep--212-e3qpdap): Steelers for 7 Podcast, 2026-10-20 05:11 UTC
@@ -84,6 +84,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [The Terrible Take - Episode 2051 - October 15, 2026](https://megaphone.link/SDP5253318668): The Terrible Podcast (Steelers Depot), 2026-10-15 21:00 UTC
 - Podcast: [Can the Steelers keep rolling with a depleted offense?](https://www.steelcityunderground.com/podcast/2026/10/can-the-steelers-keep-rolling-with-a-depleted-offense/): Steel City Underground, 2026-10-15 19:52 UTC
 - Podcast: [The Depot Dive - Episode 118 - October 15, 2026](https://megaphone.link/SDP5088842678): The Terrible Podcast (Steelers Depot), 2026-10-15 19:15 UTC
+- Video: [Can the Steelers keep rolling with a depleted offense?](https://www.youtube.com/watch?v=5chTykeJwJk): Steel City Underground, 2026-10-15 19:05 UTC
 - Video: [The Steelers vs Bucs Matchup Comes Down to Who Controls the Run Game 😤 #steelers #Bucs #nfl](https://www.youtube.com/shorts/BW13C2GCr5g): Locked On Steelers, 2026-10-15 16:49 UTC
 - Video: [Not many number 1 receivers would be willing to block like DK Metcalf is 🔥👏#dkmetcalf #steelers](https://www.youtube.com/shorts/Q-zad-ffG3c): Not Just Football with Cam Heyward, 2026-10-15 16:00 UTC
 - Podcast: [Hour 1: Deep Dive into Buccaneers](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-101526-mp3): Steelers Blitz, 2026-10-15 16:00 UTC
@@ -93,6 +94,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Aaron Rodgers Leaks Steelers WR Plan](https://bleav.com/shows/all-steelers-talk/episodes/aaron-rodgers-leaks-steelers-wr-plan/): All Steelers Talk, 2026-10-15 12:25 UTC
 - Podcast: [Why Jaylen Warren Is Surging - And What's Going On With The Steelers Linebackers](https://arthurmoats55.libsyn.com/warrenilb_ytmp3): The Arthur Moats Experience, 2026-10-15 09:52 UTC
 - Podcast: [Germie Bernard on Making It to the NFL & Life Beyond the Game | The Christian Kuntz Podcast](https://podcasters.spotify.com/pod/show/christian-kuntz/episodes/Germie-Bernard-on-Making-It-to-the-NFL--Life-Beyond-the-Game--The-Christian-Kuntz-Podcast-e3qgbnm): The Christian Kuntz Podcast, 2026-10-15 09:00 UTC
+- Video: [Steelers offense MUST adapt after WR injuries | Steelers vs. Buccaneers Week 6 Preview](https://www.youtube.com/watch?v=n-84rQrUKEc): Still Curtain Podcast, 2026-10-15 06:43 UTC
 - Video: [Steelers' Offensive Balance Unlocks Aaron Rodgers' Football IQ | Jaylen Warren vs Top Run Defense](https://www.youtube.com/watch?v=u_XrcucgHrI): Locked On Steelers, 2026-10-15 06:30 UTC
 
 ---

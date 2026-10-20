@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-20T05:33:35.453329+00:00",
+ "generated": "2026-10-20T05:45:04.198219+00:00",
  "date_et": "2026-10-20",
  "days": 5,
  "display_days": 3,
- "count": 110,
+ "count": 112,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -18,7 +18,7 @@
    "show": "Locked On Steelers",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7JorgD8nGLtvvMy1ogFetg",
-   "status": "error: HTTP Error 404: Not Found",
+   "status": "error: HTTP Error 500: Internal Server Error",
    "episodes": 0,
    "week": 9,
    "latest": null
@@ -81,10 +81,10 @@
    "show": "Still Curtain Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxjSNPLcRAVzDKOjhRwo-hQ",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
-   "week": 1,
-   "latest": null
+   "status": "ok",
+   "episodes": 15,
+   "week": 2,
+   "latest": "2026-10-19T17:07:10+00:00"
   },
   {
    "show": "Steel City Underground",
@@ -99,10 +99,10 @@
    "show": "Steel City Underground",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDcNNAMkYr-DzH6_XL-0p8Q",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
-   "week": 1,
-   "latest": null
+   "status": "ok",
+   "episodes": 15,
+   "week": 2,
+   "latest": "2026-10-19T20:01:57+00:00"
   },
   {
    "show": "Steelers Afternoon Drive",
@@ -153,7 +153,7 @@
    "show": "Steelers Now",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp1iAMIfmmgWewzJ07_Y7oA",
-   "status": "error: HTTP Error 404: Not Found",
+   "status": "error: HTTP Error 500: Internal Server Error",
    "episodes": 0,
    "week": 7,
    "latest": null
@@ -189,7 +189,7 @@
    "show": "Nick Farabaugh on PennLive",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5yvng1eSgffmybUM-51fTw",
-   "status": "error: HTTP Error 404: Not Found",
+   "status": "error: HTTP Error 500: Internal Server Error",
    "episodes": 0,
    "week": 0,
    "latest": null
@@ -198,10 +198,10 @@
    "show": "Pittsburgh Steelers (official)",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChaRXjMDs4ppKfnTPE6Z89w",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 15,
-   "latest": "2026-10-20T00:25:35+00:00"
+   "latest": null
   },
   {
    "show": "Not Just Football with Cam Heyward",
@@ -216,10 +216,10 @@
    "show": "Not Just Football with Cam Heyward",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8hodyaoiw297aspKf9QVDA",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 6,
-   "latest": "2026-10-19T16:00:35+00:00"
+   "latest": null
   },
   {
    "show": "Footbahlin with Ben Roethlisberger",
@@ -1027,6 +1027,14 @@
    "summary": "Podcast episode from The Terrible Podcast (Steelers Depot)."
   },
   {
+   "title": "Can the Steelers keep rolling with a depleted offense?",
+   "show": "Steel City Underground",
+   "kind": "video",
+   "link": "https://www.youtube.com/watch?v=5chTykeJwJk",
+   "published": "2026-10-15T19:05:24+00:00",
+   "summary": "Video from Steel City Underground."
+  },
+  {
    "title": "The Steelers vs Bucs Matchup Comes Down to Who Controls the Run Game \ud83d\ude24 #steelers #Bucs #nfl",
    "show": "Locked On Steelers",
    "kind": "video",
@@ -1113,6 +1121,14 @@
    "link": "http://steelcurtainnetwork.com",
    "published": "2026-10-15T08:00:00+00:00",
    "summary": "Podcast episode from Steel Curtain Network (BTSC)."
+  },
+  {
+   "title": "Steelers offense MUST adapt after WR injuries | Steelers vs. Buccaneers Week 6 Preview",
+   "show": "Still Curtain Podcast",
+   "kind": "video",
+   "link": "https://www.youtube.com/watch?v=n-84rQrUKEc",
+   "published": "2026-10-15T06:43:03+00:00",
+   "summary": "Video from Still Curtain Podcast."
   },
   {
    "title": "Steelers' Offensive Balance Unlocks Aaron Rodgers' Football IQ | Jaylen Warren vs Top Run Defense",
