@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T06:08:16.892121+00:00",
+ "generated": "2026-10-20T06:19:58.771397+00:00",
  "game": {
   "label": "at Tampa Bay Buccaneers (Oct 18)",
   "opponent": "Tampa Bay Buccaneers",
@@ -71,8 +71,8 @@
    "creator": "Merril Hoge (personal)",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCL1UFebpPn1rsxK0yEwwbgA",
-   "status": "error: HTTP Error 404: Not Found",
-   "feed_items": 0,
+   "status": "ok",
+   "feed_items": 15,
    "in_window": 0
   },
   {
@@ -143,8 +143,8 @@
    "creator": "Steel Curtain Network (BTSC)",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqZ9EXmGxrTBTOhg7qldDvA",
-   "status": "error: HTTP Error 404: Not Found",
-   "feed_items": 0,
+   "status": "ok",
+   "feed_items": 15,
    "in_window": 0
   },
   {
@@ -191,7 +191,7 @@
    "creator": "Brett Kollmann",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYzfVBuCfGz-oF3aOCGgO5g",
-   "status": "error: HTTP Error 404: Not Found",
+   "status": "error: HTTP Error 500: Internal Server Error",
    "feed_items": 0,
    "in_window": 0
   },

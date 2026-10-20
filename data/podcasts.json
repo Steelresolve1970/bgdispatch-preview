@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-20T06:09:23.467061+00:00",
+ "generated": "2026-10-20T06:21:03.407365+00:00",
  "date_et": "2026-10-20",
  "days": 5,
- "display_days": 3,
- "count": 113,
+ "display_days": 2,
+ "count": 112,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -11,7 +11,7 @@
    "url": "https://rss.pdrl.fm/cd1f3b/feeds.simplecast.com/y_l5uReM",
    "status": "ok",
    "episodes": 500,
-   "week": 5,
+   "week": 4,
    "latest": "2026-10-20T06:00:00+00:00"
   },
   {
@@ -153,7 +153,7 @@
    "show": "Steelers Now",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp1iAMIfmmgWewzJ07_Y7oA",
-   "status": "error: HTTP Error 404: Not Found",
+   "status": "error: HTTP Error 500: Internal Server Error",
    "episodes": 0,
    "week": 7,
    "latest": null
@@ -1145,14 +1145,6 @@
    "link": "https://www.youtube.com/watch?v=u_XrcucgHrI",
    "published": "2026-10-15T06:30:06+00:00",
    "summary": "Video from Locked On Steelers."
-  },
-  {
-   "title": "Steelers' Offensive Balance Unlocks Aaron Rodgers' Football IQ | Jaylen Warren vs Top Run Defense",
-   "show": "Locked On Steelers",
-   "kind": "podcast",
-   "link": "https://lockedonpodcasts.com/podcasts/locked-on-steelers/",
-   "published": "2026-10-15T06:10:00+00:00",
-   "summary": "Podcast episode from Locked On Steelers."
   }
  ],
  "yt_channels": [
@@ -1237,5 +1229,188 @@
     "summary": "Podcast episode from Steel Curtain Network (BTSC)."
    }
   ]
- }
+ },
+ "directory": [
+  {
+   "show": "Locked On Steelers",
+   "kinds": [
+    "podcast",
+    "video"
+   ],
+   "site": "https://lockedonpodcasts.com/podcasts/locked-on-steelers/",
+   "youtube": "https://www.youtube.com/channel/UC7JorgD8nGLtvvMy1ogFetg"
+  },
+  {
+   "show": "The Terrible Podcast (Steelers Depot)",
+   "kinds": [
+    "podcast"
+   ],
+   "site": "https://steelersdepot.com/category/podcast/",
+   "youtube": null
+  },
+  {
+   "show": "Steel Curtain Network (BTSC)",
+   "kinds": [
+    "podcast"
+   ],
+   "site": "http://steelcurtainnetwork.com",
+   "youtube": null
+  },
+  {
+   "show": "DK Pittsburgh Sports",
+   "kinds": [
+    "podcast"
+   ],
+   "site": "https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/",
+   "youtube": null
+  },
+  {
+   "show": "Steelers Blitz",
+   "kinds": [
+    "podcast"
+   ],
+   "site": "https://www.steelers.com/audio/steelers-nation-radio/steelers-blitz",
+   "youtube": null
+  },
+  {
+   "show": "SNR Drive",
+   "kinds": [
+    "podcast"
+   ],
+   "site": "https://www.steelers.com/audio/steelers-nation-radio/snr-drive",
+   "youtube": null
+  },
+  {
+   "show": "Still Curtain Podcast",
+   "kinds": [
+    "podcast",
+    "video"
+   ],
+   "site": "https://redcircle.com/shows/still-curtain",
+   "youtube": "https://www.youtube.com/channel/UCxjSNPLcRAVzDKOjhRwo-hQ"
+  },
+  {
+   "show": "Steel City Underground",
+   "kinds": [
+    "podcast",
+    "video"
+   ],
+   "site": "https://www.steelcityunderground.com/",
+   "youtube": "https://www.youtube.com/channel/UCDcNNAMkYr-DzH6_XL-0p8Q"
+  },
+  {
+   "show": "Steelers Afternoon Drive",
+   "kinds": [
+    "podcast"
+   ],
+   "site": null,
+   "youtube": null
+  },
+  {
+   "show": "The Sick Podcast - Steelers Crazy",
+   "kinds": [
+    "podcast"
+   ],
+   "site": "https://anchor.fm/the-sick-podcast---steelers-crazy",
+   "youtube": null
+  },
+  {
+   "show": "Steelers for 7 Podcast",
+   "kinds": [
+    "podcast"
+   ],
+   "site": "https://linktr.ee/steelersfor7podcast",
+   "youtube": null
+  },
+  {
+   "show": "The Arthur Moats Experience",
+   "kinds": [
+    "podcast"
+   ],
+   "site": "http://arthurmoats.com",
+   "youtube": null
+  },
+  {
+   "show": "All Steelers Talk",
+   "kinds": [
+    "podcast"
+   ],
+   "site": "https://bleav.com/shows/all-steelers-talk/",
+   "youtube": null
+  },
+  {
+   "show": "Steelers Now",
+   "kinds": [
+    "video"
+   ],
+   "site": null,
+   "youtube": "https://www.youtube.com/channel/UCp1iAMIfmmgWewzJ07_Y7oA"
+  },
+  {
+   "show": "The Steel City Insider (Jim Wexell, 247Sports)",
+   "kinds": [
+    "podcast"
+   ],
+   "site": "https://247sports.com/nfl/pittsburgh-steelers/",
+   "youtube": null
+  },
+  {
+   "show": "Steel City Blitz",
+   "kinds": [
+    "podcast"
+   ],
+   "site": "https://scblitz.podbean.com",
+   "youtube": null
+  },
+  {
+   "show": "Steelers Breakdown (PennLive, Nick Farabaugh)",
+   "kinds": [
+    "podcast"
+   ],
+   "site": "http://www.pennlive.com/steelers/",
+   "youtube": null
+  },
+  {
+   "show": "Nick Farabaugh on PennLive",
+   "kinds": [
+    "video"
+   ],
+   "site": null,
+   "youtube": "https://www.youtube.com/channel/UC5yvng1eSgffmybUM-51fTw"
+  },
+  {
+   "show": "Pittsburgh Steelers (official)",
+   "kinds": [
+    "video"
+   ],
+   "site": null,
+   "youtube": "https://www.youtube.com/channel/UChaRXjMDs4ppKfnTPE6Z89w"
+  },
+  {
+   "show": "Not Just Football with Cam Heyward",
+   "kinds": [
+    "podcast",
+    "video"
+   ],
+   "site": "https://www.youtube.com/@NotJustFootballwithCamHeyward",
+   "youtube": "https://www.youtube.com/channel/UC8hodyaoiw297aspKf9QVDA"
+  },
+  {
+   "show": "Footbahlin with Ben Roethlisberger",
+   "kinds": [
+    "podcast"
+   ],
+   "site": "https://footbahlinwithben.buzzsprout.com",
+   "youtube": null
+  },
+  {
+   "show": "The Christian Kuntz Podcast",
+   "kinds": [
+    "podcast",
+    "video"
+   ],
+   "site": "https://podcasters.spotify.com/pod/show/christian-kuntz",
+   "youtube": "https://www.youtube.com/channel/UCKKBJcOGsYmwAATQv-xQYeA"
+  }
+ ]
 }

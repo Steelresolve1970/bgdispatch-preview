@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T03:17:09.968277+00:00",
+ "generated": "2026-10-20T06:21:06.276449+00:00",
  "season": 2026,
  "source": "Data: nflverse (CC-BY 4.0)",
  "source_url": "https://github.com/nflverse/nflverse-data",
@@ -162,7 +162,7 @@
    "lower_is_better": false,
    "min_note": "Min. 10 attempts per team game",
    "file": "player-ypa.json",
-   "count": 36
+   "count": 35
   },
   {
    "key": "pass_td",
@@ -189,7 +189,7 @@
    "lower_is_better": false,
    "min_note": "Min. 10 attempts per team game",
    "file": "player-passer_rtg.json",
-   "count": 36
+   "count": 35
   },
   {
    "key": "rush_yds",
@@ -216,7 +216,7 @@
    "lower_is_better": false,
    "min_note": "Min. 10 receptions",
    "file": "player-rec.json",
-   "count": 147
+   "count": 148
   },
   {
    "key": "rec_yds",
@@ -225,7 +225,7 @@
    "lower_is_better": false,
    "min_note": "Min. 10 receptions",
    "file": "player-rec_yds.json",
-   "count": 147
+   "count": 148
   },
   {
    "key": "rec_td",
@@ -234,7 +234,7 @@
    "lower_is_better": false,
    "min_note": "Min. 10 receptions",
    "file": "player-rec_td.json",
-   "count": 147
+   "count": 148
   },
   {
    "key": "yac",
@@ -243,7 +243,7 @@
    "lower_is_better": false,
    "min_note": "Min. 10 receptions",
    "file": "player-yac.json",
-   "count": 147
+   "count": 148
   },
   {
    "key": "tackles",
@@ -252,7 +252,7 @@
    "lower_is_better": false,
    "min_note": "Min. 15 tackles",
    "file": "player-tackles.json",
-   "count": 320
+   "count": 322
   },
   {
    "key": "sacks",
@@ -261,7 +261,7 @@
    "lower_is_better": false,
    "min_note": "Min. 0.5 sacks",
    "file": "player-sacks.json",
-   "count": 261
+   "count": 263
   },
   {
    "key": "tfl",
@@ -306,7 +306,7 @@
    "lower_is_better": false,
    "min_note": "Min. 1 fumble recovery",
    "file": "player-fr.json",
-   "count": 101
+   "count": 102
   }
  ],
  "team_label_key": {

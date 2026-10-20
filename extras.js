@@ -236,7 +236,7 @@ if('serviceWorker' in navigator&&location.protocol!=='file:')navigator.serviceWo
   const grp=(g,isTop)=>{const title=isTop&&ph.k==='weekday'&&g.key==='dayafter'?'Weekday talk shows':g.title;let nextRef=null;if(isTop){for(const s of g.shows){const x=stat(s,now);if(!x.live&&x.o&&(!nextRef||x.o.s<nextRef.s))nextRef={s:x.o.s,n:s.name};}}
    let L=g.shows,more=0;
    if(compact&&isTop){const k=s=>{const x=stat(s,now);return x.live?-1e15+x.o.s:x.o?x.o.s:1e15;};L=L.slice().sort((a,b)=>k(a)-k(b));more=Math.max(0,L.length-4);L=L.slice(0,4);}
-   const body=`<ul>${L.map(s=>row(s,isTop,nextRef)).join('')}</ul>${more?`<p class="ll-more"><a href="#/podcasts" class="ll-golist">${more} more ${g.title.toLowerCase()} shows on the full list →</a></p>`:''}`;
+   const body=`<ul>${L.map(s=>row(s,isTop,nextRef)).join('')}</ul>${more?`<p class="ll-more"><a href="#/podcasts" class="ll-golist">${more} more ${title.toLowerCase().replace(/ shows$/,'')} shows on the full list →</a></p>`:''}`;
    return isTop?`<div class="ll-grp ll-top"><h3>${E(title)}</h3>${body}</div>`:`<details class="ll-grp" data-k="${E(g.key)}"${open.has(g.key)?' open':''}><summary>${E(g.title)} <small>(${g.shows.length})</small></summary>${body}</details>`;};
   const game=ph.k==='game'?`<div class="ll-game">${badge} <b>Steelers ${ph.g.home?'vs':'at'} ${E(ph.g.opp)}</b> is on now. <a href="#/live">See the live score</a> or <a href="${E(ST[0].u)}" target="_blank" rel="noopener">listen on 102.5 WDVE</a> (online, the game call may be limited by NFL rules).</div>`:'';
   return `<h2 class="section-title">${E(ph.h)}</h2>${game}${ord.map((g,i)=>grp(g,i===0&&!!top)).join('')}<p class="fine">${E(SH.note||'')} Live badges follow each show's published schedule.</p>`;}

@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-20T06:09:39+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T06:08:12+00:00._
+_Generated 2026-10-20T06:21:20+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T06:19:54+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [The Forgotten Play That Helped The Steelers Beat The Buccaneers](https://steelersdepot.com/2026/10/the-forgotten-play-that-helped-the-steelers-beat-the-buccaneers/): Steelers Depot, 2026-10-20 04:00 UTC
@@ -8,8 +8,8 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers’ belief in rookie class paying early dividends](https://www.altoonamirror.com/sports/local-sports/2026/10/steelers-belief-in-rookie-class-paying-early-dividends/): Altoona Mirror, 2026-10-20 03:08 UTC
 - [REPORT-Rodgers gets one of favorite teammates back](https://www.audacy.com/937thefan/sports/pittsburgh-riverhounds/report-rodgers-gets-one-of-favorite-teammates-back): Audacy, 2026-10-20 02:35 UTC
 - [49ers Practice Squad Player Turned Down Chance To Sign With Steelers In 2025](https://steelersdepot.com/2026/10/49ers-practice-squad-player-turned-down-chance-to-sign-with-steelers-in-2025/): Steelers Depot, 2026-10-20 02:34 UTC
-- [Steelers set to reunite with former wide receiver](https://www.wpxi.com/news/local/steelers-set-reunite-with-former-wide-receiver/23QSZHSMCBCB7FLXJ4NGJIKZGM/): WPXI, 2026-10-20 02:32 UTC
 - [Report: Steelers to reunite with veteran wide receiver](https://www.wkbn.com/sports/pittsburgh-steelers/report-steelers-to-reunite-with-veteran-wide-receiver/): WKBN.com, 2026-10-20 02:28 UTC
+- [Steelers Set to Reunite with Former Wide Receiver](https://steelersnow.com/steelers-set-to-reunite-with-former-wide-receiver/): Steelers Now, 2026-10-20 01:21 UTC
 - [Steelers to sign WR Marquez Valdes-Scantling to practice squad](https://sports.yahoo.com/articles/steelers-sign-wr-marquez-valdes-012014351.html): Yahoo Sports, 2026-10-20 01:20 UTC
 - [Pittsburgh Steelers Found the Answer When Their Running Game Disappeared](https://athlonsports.com/nfl/pittsburgh-steelers/pittsburgh-steelers-germie-bernard-dk-metcalf-aaron-rodgers-tampa-bay-buccaneers): Athlon Sports, 2026-10-20 01:18 UTC
 - [Grading the signing: Pittsburgh Steelers bring back a familiar face to help the wide receiver room amid multiple injuries](https://atozsports.com/nfl/pittsburgh-steelers-news/steelers-signing-marquez-valdes-scantling-practice-squad-wr-trade-rumors/): A to Z Sports, 2026-10-20 01:15 UTC
@@ -36,6 +36,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Listen: The Terrible Take (Episode 2,055)](https://steelersdepot.com/2026/10/listen-the-terrible-take-episode-2055/): Steelers Depot, 2026-10-19 21:30 UTC
 - [Steelers’ Mike McCarthy defends play-calling after Jamel Dean interception](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176579/steelers-mike-mccarthy-defends-play-calling-after-jamel-dean-interception): Behind the Steel Curtain, 2026-10-19 21:30 UTC
 - [Playmaking Jalen Ramsey has maybe his best game with Steelers in win vs. Bucs](https://triblive.com/sports/playmaking-jalen-ramsey-has-maybe-his-best-game-with-steelers-in-win-vs-bucs/): TribLive, 2026-10-19 21:22 UTC
+- [Steelers Insider Offers Blunt Update on Potential JuJu Smith-Schuster Reunion](https://heavy.com/sports/nfl/pittsburgh-steelers/juju-smith-schuster-nfl-news-reunion-kaboly/): Heavy.com, 2026-10-19 21:22 UTC
 - [The protests in France are a ‘continuing conversation’ for the Steelers before their game in Paris](https://www.post-gazette.com/sports/steelers/2026/10/19/steelers-paris-game-france-protests/stories/202610190026): Pittsburgh Post-Gazette, 2026-10-19 21:21 UTC
 - [‘There’s Nobody That Can Stop Him’: Chad Johnson Urges Steelers To Get Darnell Washington ‘Involved More’](https://steelersdepot.com/2026/10/theres-nobody-that-can-stop-him-chad-johnson-urges-steelers-to-get-darnell-washington-involved-more/): Steelers Depot, 2026-10-19 21:15 UTC
 - ['It goes a long way'](https://www.steelers.com/news/it-goes-a-long-way): Steelers.com (official), 2026-10-19 21:00 UTC
@@ -73,7 +74,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - ["Fire Sale": Steelers Trading For Colts WR Josh Downs Suddenly On The Horizon](https://www.steelernation.com/2026/10/19/steelers-colts-josh-downs-suddenly): SteelerNation, 2026-10-19 17:34 UTC
 - [Saints Could Get Back Key Playmaker vs. Steelers](https://steelersnow.com/saints-could-get-back-key-playmaker-vs-steelers/): Steelers Now, 2026-10-19 17:23 UTC
 - [Steelers Safety Jaquan Brisker Speaks On Playing In Paris Amid Civil Unrest](https://www.steelernation.com/2026/10/19/steelers-safety-jaquan-brisker-paris): SteelerNation, 2026-10-19 16:47 UTC
-- [Chris Boswell Makes Steelers History in Week 6 Win Against Buccaneers](https://sportsnetpittsburgh.com/pittsburgh-steelers/news/chris-boswell-steelers-history-week-6-win-buccaneers/18effaa85f4e239f2212df12): SportsNet Pittsburgh, 2026-10-19 16:41 UTC
 - [Pittsburgh Steelers players address upcoming trip to Paris amid France unrest, violence](https://www.cbsnews.com/pittsburgh/news/pittsburgh-steelers-paris-france-violence-unrest-protests/): CBS News, 2026-10-19 16:34 UTC
 - [The Steelers finally unleashed their blitzes — and Jalen Ramsey — at Tampa Bay](https://www.post-gazette.com/sports/steelers/2026/10/19/steelers-blitz-jalen-ramsey/stories/202610190025): Pittsburgh Post-Gazette, 2026-10-19 16:30 UTC
 - [Pittsburgh Steelers lose key cornerback to hamstring injury](https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-lose-key-cornerback-to-injury.html): PennLive (Nick Farabaugh), 2026-10-19 16:16 UTC
@@ -111,6 +111,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Is this what the Steelers offense will look like against every quality defense?](https://www.nytimes.com/athletic/7703226/2026/10/18/pittsburgh-steelers-offensive-struggles-bucs-win/): The Athletic, 2026-10-19 01:30 UTC
 - [The NFL says the Steelers’ game in Paris is still on despite civil unrest](https://www.post-gazette.com/sports/steelers/2026/10/18/nfl-steelers-saints-game-paris-civil-unrest-france/stories/202610180091): Pittsburgh Post-Gazette, 2026-10-19 01:14 UTC
 - [From the Press Room: Steelers at Buccaneers](https://www.steelers.com/news/from-the-press-room-steelers-at-buccaneers): Steelers.com (official), 2026-10-19 00:40 UTC
+- [Mike McCarthy Gave A Direct Message To Steelers' Aaron Rodgers And The Offense](https://www.steelernation.com/2026/10/18/steelers-mike-mccarthy-direct-aaron-rodgers): Steeler Nation, 2026-10-19 00:28 UTC
 - [Steelers rookie Germie Bernard makes up for an early mistake by catching the OT winner](https://www.post-gazette.com/sports/steelers/2026/10/18/germie-bernard-overtime-touchdown-steelers/stories/202610180076): Pittsburgh Post-Gazette, 2026-10-19 00:18 UTC
 - [Steelers kicker Chris Boswell breaks franchise record for career field goals](https://triblive.com/sports/steelers-kicker-chris-boswell-breaks-franchise-record-for-career-field-goals/): TribLive, 2026-10-19 00:13 UTC
 - [‘He’s from Pittsburgh, so he toughed it out’: Steelers coach Mike McCarthy misses halftime with foot injury](https://triblive.com/sports/hes-from-pittsburgh-so-he-toughed-it-out-steelers-coach-mike-mccarthy-misses-halftime-with-foot-injury/): TribLive, 2026-10-18 23:53 UTC
@@ -152,7 +153,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers Get Good News on Pat Freiermuth for Bucs Game](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-good-news-pat-freiermuth-bucs-game): All Steelers (Sports Illustrated), 2026-10-18 12:01 UTC
 - [Steelers Get Offensive Boost Before Bucs Game](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-offensive-boost-bucs-game-rico-dowdle): All Steelers (Sports Illustrated), 2026-10-18 11:25 UTC
 - [SCU Week in Review – October 18th](https://www.steelcityunderground.com/2026/10/18/scu-week-in-review-october-18th-2/): Steel City Underground, 2026-10-18 11:10 UTC
-- [Steelers' tight end duo could counter costly WR injuries vs. Buccaneers](https://stillcurtain.com/pittsburgh-steelers-tight-end-duo-could-counter-costly-wr-injuries-vs-buccaneers-01m534w1agdq?utm_source=RSS): Still Curtain, 2026-10-18 11:00 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
