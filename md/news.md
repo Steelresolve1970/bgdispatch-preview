@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-20T07:27:59+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T07:27:33+00:00._
+_Generated 2026-10-20T07:38:37+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T07:38:11+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [The Forgotten Play That Helped The Steelers Beat The Buccaneers](https://steelersdepot.com/2026/10/the-forgotten-play-that-helped-the-steelers-beat-the-buccaneers/): Steelers Depot, 2026-10-20 04:00 UTC
@@ -88,7 +88,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Eagles Will Be Without Jalen Hurts vs. Steelers](https://steelersnow.com/eagles-will-be-without-jalen-hurts-vs-steelers/): Steelers Now, 2026-10-19 14:38 UTC
 - [Steelers news: What to make of the Steelers’ win over the Bucs](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176554/steelers-news-what-to-make-of-the-steelers-win-over-the-bucs): Behind the Steel Curtain, 2026-10-19 14:18 UTC
 - [Still Celebrating Sloppy Steelers Win? | Steelers Morning Rush](https://steelersnow.com/still-celebrating-sloppy-steelers-win-steelers-morning-rush/): Steelers Now, 2026-10-19 14:00 UTC
-- [Steelers' Germie Bernard Sets New Aaron Rodgers Record](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-germie-bernard-sets-new-aaron-rodgers-record): All Steelers (Sports Illustrated), 2026-10-19 14:00 UTC
 - [QBs Worst Nightmare? Steelers CB Jalen Ramsey Provides Even More Value](https://steelersnow.com/qbs-worst-nightmare-steelers-cb-jalen-ramsey-provides-even-more-value/): Steelers Now, 2026-10-19 14:00 UTC
 - [Steelers quietly land conditional draft pick tied to Joey Porter Jr. trade](https://stillcurtain.com/pittsburgh-steelers-quietly-land-conditional-nfl-draft-pick-joey-porter-jr-trade-01m5a4hnr6py?utm_source=RSS): Still Curtain, 2026-10-19 14:00 UTC
 - [Key Steelers contributor now one play away from suspension after "major infraction" against the Tampa Bay Buccaneers](https://atozsports.com/nfl/pittsburgh-steelers-news/cole-holcomb-records-blindside-block-second-major-infraction-towards-suspension/): A to Z Sports, 2026-10-19 14:00 UTC
@@ -153,6 +152,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers-Buccaneers: Week 6 live chat, updates and analysis with Christopher Carter](https://www.post-gazette.com/sports/steelers/2026/10/18/steelers-buccaneers-live-chat/stories/202610180071): Pittsburgh Post-Gazette, 2026-10-18 15:00 UTC
 - [NFL spread, straight-up picks: Rams, Chiefs, Colts top Week 6 confidence rankings](https://www.nytimes.com/athletic/7689979/2026/10/18/nfl-spread-straight-up-picks-confidence-rankings-week-6/): The Athletic, 2026-10-18 14:00 UTC
 - [Steelers Get Good News on Pat Freiermuth for Bucs Game](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-good-news-pat-freiermuth-bucs-game): All Steelers (Sports Illustrated), 2026-10-18 12:01 UTC
+- [Steelers Get Offensive Boost Before Bucs Game](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-offensive-boost-bucs-game-rico-dowdle): All Steelers (Sports Illustrated), 2026-10-18 11:25 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
