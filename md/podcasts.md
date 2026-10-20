@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-20T06:32:45+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T06:32:30+00:00._
+_Generated 2026-10-20T06:44:17+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-20T06:44:02+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [Scout’s Eye with Matt Williamson: That's winning defense](https://bleav.com/shows/dk-pittsburgh-sports-daily-podcasts-on-steelers-penguins-pirates/episodes/scouts-eye-with-matt-williamson-thats-winning-defense/): DK Pittsburgh Sports, 2026-10-20 06:02 UTC
@@ -95,7 +95,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Aaron Rodgers Leaks Steelers WR Plan](https://bleav.com/shows/all-steelers-talk/episodes/aaron-rodgers-leaks-steelers-wr-plan/): All Steelers Talk, 2026-10-15 12:25 UTC
 - Podcast: [Why Jaylen Warren Is Surging - And What's Going On With The Steelers Linebackers](https://arthurmoats55.libsyn.com/warrenilb_ytmp3): The Arthur Moats Experience, 2026-10-15 09:52 UTC
 - Podcast: [Germie Bernard on Making It to the NFL & Life Beyond the Game | The Christian Kuntz Podcast](https://podcasters.spotify.com/pod/show/christian-kuntz/episodes/Germie-Bernard-on-Making-It-to-the-NFL--Life-Beyond-the-Game--The-Christian-Kuntz-Podcast-e3qgbnm): The Christian Kuntz Podcast, 2026-10-15 09:00 UTC
-- Video: [Steelers offense MUST adapt after WR injuries | Steelers vs. Buccaneers Week 6 Preview](https://www.youtube.com/watch?v=n-84rQrUKEc): Still Curtain Podcast, 2026-10-15 06:43 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

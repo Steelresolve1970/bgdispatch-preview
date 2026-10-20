@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-20T06:32:30.032057+00:00",
+ "generated": "2026-10-20T06:44:02.326631+00:00",
  "date_et": "2026-10-20",
  "days": 5,
  "display_days": 2,
- "count": 112,
+ "count": 111,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -81,9 +81,9 @@
    "show": "Still Curtain Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxjSNPLcRAVzDKOjhRwo-hQ",
-   "status": "error: HTTP Error 500: Internal Server Error",
+   "status": "error: HTTP Error 404: Not Found",
    "episodes": 0,
-   "week": 2,
+   "week": 1,
    "latest": null
   },
   {
@@ -99,10 +99,10 @@
    "show": "Steel City Underground",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDcNNAMkYr-DzH6_XL-0p8Q",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 2,
-   "latest": null
+   "latest": "2026-10-19T20:01:57+00:00"
   },
   {
    "show": "Steelers Afternoon Drive",
@@ -243,7 +243,7 @@
    "show": "The Christian Kuntz Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKKBJcOGsYmwAATQv-xQYeA",
-   "status": "error: HTTP Error 500: Internal Server Error",
+   "status": "error: HTTP Error 404: Not Found",
    "episodes": 0,
    "week": 0,
    "latest": null
@@ -1137,14 +1137,6 @@
    "link": "http://steelcurtainnetwork.com",
    "published": "2026-10-15T08:00:00+00:00",
    "summary": "Podcast episode from Steel Curtain Network (BTSC)."
-  },
-  {
-   "title": "Steelers offense MUST adapt after WR injuries | Steelers vs. Buccaneers Week 6 Preview",
-   "show": "Still Curtain Podcast",
-   "kind": "video",
-   "link": "https://www.youtube.com/watch?v=n-84rQrUKEc",
-   "published": "2026-10-15T06:43:03+00:00",
-   "summary": "Video from Still Curtain Podcast."
   }
  ],
  "yt_channels": [
