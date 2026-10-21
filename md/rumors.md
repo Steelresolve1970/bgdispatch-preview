@@ -1,6 +1,6 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-21T13:59:51+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T13:59:45+00:00._
+_Generated 2026-10-21T14:10:34+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T14:10:28+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
 - **Rumor** · tier: National insider · consensus: 3 source(s), top tier National insider
@@ -27,7 +27,9 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Reports: Giants Release Ex-Steelers RB Najee Harris](https://steelersdepot.com/2026/10/reports-giants-release-ex-steelers-rb-najee-harris/): Steelers Depot, first seen 2026-10-20 22:38 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Steelers Linked To Intriguing Chris Godwin Jr Trade After Buccaneers Win](https://www.steelernation.com/2026/10/20/steelers-intriguing-chris-godwin-trade): SteelerNation, first seen 2026-10-20 20:00 UTC
-- **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
+- **Rumor** · tier: Fan blog · consensus: 2 source(s), top tier Fan blog
+  [Report Detailed Exactly What Steelers Are Looking For At The Trade Deadline](https://www.steelernation.com/2026/10/20/steelers-detailed-exactly-deadline): Steeler Nation, first seen 2026-10-21 14:10 UTC
+- **Rumor** · tier: Fan blog · consensus: 2 source(s), top tier Fan blog
   [Report Detailed Exactly What Steelers Are Looking For At The Trade Deadline](https://www.steelernation.com/2026/10/20/steelers-detailed-exactly-deadline): SteelerNation, first seen 2026-10-20 19:27 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [Steelers’ $12 Million Playmaker Named Trade Candidate After Strong Week 6](https://heavy.com/sports/nfl/pittsburgh-steelers/steelers-rico-dowdle-trade-candidate-jaylen-warren/): Heavy.com, first seen 2026-10-20 17:54 UTC

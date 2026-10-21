@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "rumors",
  "description": "Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).",
- "generated": "2026-10-21T13:59:51+00:00",
- "data_updated": "2026-10-21T13:59:45+00:00",
- "count": 49,
+ "generated": "2026-10-21T14:10:34+00:00",
+ "data_updated": "2026-10-21T14:10:28+00:00",
+ "count": 50,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -516,6 +516,38 @@
    }
   },
   {
+   "id": "405f68f18baa",
+   "type": "rumor",
+   "title": "Report Detailed Exactly What Steelers Are Looking For At The Trade Deadline",
+   "summary": "Trade/roster move story from Steeler Nation. Full report at the original publisher.",
+   "url": "https://www.steelernation.com/2026/10/20/steelers-detailed-exactly-deadline",
+   "source": {
+    "name": "Steeler Nation",
+    "url": null,
+    "reliability_tier": "Fan blog",
+    "reliability_score": 2
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-21T14:10:28+00:00",
+   "updated": "2026-10-21T14:10:28+00:00",
+   "published": "2026-10-20T19:09:22+00:00",
+   "people": [],
+   "consensus": {
+    "cluster_id": "b54dd8fd8410",
+    "independent_sources": 2,
+    "sources": [
+     "Steeler Nation",
+     "SteelerNation"
+    ],
+    "highest_tier": "Fan blog",
+    "highest_tier_score": 2,
+    "related_ids": [
+     "b54dd8fd8410"
+    ]
+   }
+  },
+  {
    "id": "b54dd8fd8410",
    "type": "rumor",
    "title": "Report Detailed Exactly What Steelers Are Looking For At The Trade Deadline",
@@ -535,13 +567,16 @@
    "people": [],
    "consensus": {
     "cluster_id": "b54dd8fd8410",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
+     "Steeler Nation",
      "SteelerNation"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "405f68f18baa"
+    ]
    }
   },
   {

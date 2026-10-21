@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T13:59:45.884739+00:00",
+ "generated": "2026-10-21T14:10:28.160714+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -504,6 +504,35 @@
    "updated": "2026-10-20T20:00:06.856173+00:00"
   },
   {
+   "id": "405f68f18baa",
+   "title": "Report Detailed Exactly What Steelers Are Looking For At The Trade Deadline",
+   "source": "Steeler Nation",
+   "link": "https://www.steelernation.com/2026/10/20/steelers-detailed-exactly-deadline",
+   "published": "2026-10-20T19:09:22+00:00",
+   "summary": "Rumor-style report from Steeler Nation on a Steelers roster move. Full details at the source.",
+   "tier": "Fan blog",
+   "tier_score": 2,
+   "subjects": [],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-21T14:10:28.160714+00:00",
+   "consensus": {
+    "cluster_id": "b54dd8fd8410",
+    "independent_sources": 2,
+    "sources": [
+     "Steeler Nation",
+     "SteelerNation"
+    ],
+    "highest_tier": "Fan blog",
+    "highest_tier_score": 2,
+    "related_ids": [
+     "b54dd8fd8410"
+    ]
+   },
+   "updated": "2026-10-21T14:10:28.160714+00:00"
+  },
+  {
    "id": "b54dd8fd8410",
    "title": "Report Detailed Exactly What Steelers Are Looking For At The Trade Deadline",
    "source": "SteelerNation",
@@ -519,13 +548,16 @@
    "first_seen": "2026-10-20T19:27:54.888121+00:00",
    "consensus": {
     "cluster_id": "b54dd8fd8410",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
+     "Steeler Nation",
      "SteelerNation"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "405f68f18baa"
+    ]
    },
    "updated": "2026-10-20T19:27:54.888121+00:00"
   },
