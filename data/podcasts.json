@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T05:30:35.040810+00:00",
+ "generated": "2026-10-21T05:42:10.295721+00:00",
  "date_et": "2026-10-21",
  "days": 5,
  "display_days": 2,
@@ -81,7 +81,7 @@
    "show": "Still Curtain Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxjSNPLcRAVzDKOjhRwo-hQ",
-   "status": "error: HTTP Error 500: Internal Server Error",
+   "status": "error: HTTP Error 404: Not Found",
    "episodes": 0,
    "week": 2,
    "latest": null
@@ -243,10 +243,10 @@
    "show": "The Christian Kuntz Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKKBJcOGsYmwAATQv-xQYeA",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 0,
-   "latest": null
+   "latest": "2009-05-26T14:01:33+00:00"
   }
  ],
  "items": [
@@ -1299,14 +1299,7 @@
    "summary": "Podcast episode from Steel Curtain Network (BTSC)."
   }
  ],
- "yt_channels": [
-  {
-   "show": "The Christian Kuntz Podcast",
-   "channel_id": "UCKKBJcOGsYmwAATQv-xQYeA",
-   "link": "https://www.youtube.com/channel/UCKKBJcOGsYmwAATQv-xQYeA",
-   "embed": "https://www.youtube-nocookie.com/embed/videoseries?list=UUKKBJcOGsYmwAATQv-xQYeA"
-  }
- ],
+ "yt_channels": [],
  "postgame": null,
  "directory": [
   {

@@ -8,13 +8,23 @@ const gcls=g=>'g-'+(g||'').charAt(0).toLowerCase();
 function needsHTML(){return`<section class="box needs-panel"><h2>Steelers Needs</h2>
  <p class="fine">${H.needs_mode==='automatic'?'Automatic ranking':'Our ranking, in priority order'} · auto score from starter age, contracts, depth, player grades and analyst headlines (see NEEDS.md)</p>
  <ol class="needs-list">${H.needs.map((n,i)=>`<li><div class="nl-top"><span class="nl-rank">${i+1}</span><b>${E(n.label)}</b>${n.pinned&&H.needs_mode!=='manual order'?' <span class="badge">Top priority</span>':''}<span class="nl-bar"><i style="width:${Math.min(100,n.score)}%"></i></span><span class="nl-score">${n.score}</span></div><ul>${n.reasons.map(x=>`<li>${E(x)}</li>`).join('')||'<li>Top priority</li>'}</ul></li>`).join('')}</ol></section>`;}
+let moreOpen=false,morePos=null;
+const x40=n=>window.PCard&&PCard.forty?PCard.forty(n):'',xhl=n=>window.PCard&&PCard.hl?PCard.hl(n):'';
+function cardsHTML(list){return list.map(p=>`<article class="box cl-card"><div class="cl-head"><span class="dr-rank">#${p.rank}</span><div><h2><button type="button" class="pc-link" data-pc="${E(p.name)}" aria-label="Open player card for ${E(p.name)}">${E(p.name)}</button></h2><small>${E(p.pos)} · ${E(p.school)}${p.cls?' · '+E(p.cls):''}${window.PCard&&PCard.size(p.name)?' · '+E(PCard.size(p.name)):''} · ${E(p.tier)} · our grade ${p.grade}</small></div></div>
+  <p class="pc-xrow">${x40(p.name)} ${xhl(p.name)}</p>
+  ${p.realistic?'<p class="kind dark">Realistic target</p>':''}${availHTML(p.name,p.availability)}${window.compHTML?compHTML(p.name):''}
+  ${p.season||p.line?`<p><b>2026:</b> ${E(p.season||p.line)}</p>`:''}${p.snippet&&p.snippet!==p.line?`<p class="cl-snip">${E(p.snippet)}</p>`:''}</article>`).join('');}
+function moreHTML(){const M=H.more_positions||[];if(!M.length)return'';morePos=morePos&&M.some(x=>x.pos===morePos)?morePos:M[0].pos;const m=M.find(x=>x.pos===morePos);
+ return`<div class="dh-more-wrap"><p><button type="button" class="btn dh-moretoggle" aria-expanded="${moreOpen}" aria-controls="dh-morebox">${moreOpen?'Hide more positions':'More positions'}</button> <small class="fine">Top prospects at spots that are not a Steelers need right now: ${M.map(x=>E(x.label)).join(', ')}.</small></p>
+ <div id="dh-morebox" class="dh-morebox"${moreOpen?'':' hidden'}><div class="chips">${M.map(x=>`<button type="button" class="chip dh-mpos${x.pos===morePos?' on':''}" data-p="${x.pos}">${E(x.label)}</button>`).join('')}</div>
+ <div class="cl-list">${moreOpen?cardsHTML(m.prospects):''}</div></div></div>`;}
 function prospectsHTML(){need=need||H.needs[0].pos;const n=H.needs.find(x=>x.pos===need);
  return`<section><h2 class="section-title">Top ${H.draft_year} prospects by need</h2>
  <p class="page-sub">Steelers' projected picks: ${H.steelers_picks.map(p=>`Round ${p.round} (#${p.overall})`).join(', ')}, based on current standings. Our own board, not a consensus.</p>
  <div class="chips">${H.needs.map(x=>`<button type="button" class="chip dh-need${x.pos===need?' on':''}" data-p="${x.pos}">${E(x.label)}</button>`).join('')}</div>
- <div class="cl-list">${n.prospects.map(p=>`<article class="box cl-card"><div class="cl-head"><span class="dr-rank">#${p.rank}</span><div><h2><button type="button" class="pc-link" data-pc="${E(p.name)}" aria-label="Open player card for ${E(p.name)}">${E(p.name)}</button></h2><small>${E(p.pos)} · ${E(p.school)}${p.cls?' · '+E(p.cls):''}${window.PCard&&PCard.size(p.name)?' · '+E(PCard.size(p.name)):''} · ${E(p.tier)} · our grade ${p.grade}</small></div></div>
-  ${p.realistic?'<p class="kind dark">Realistic target</p>':''}${availHTML(p.name,p.availability)}${window.compHTML?compHTML(p.name):''}
-  ${p.season||p.line?`<p><b>2026:</b> ${E(p.season||p.line)}</p>`:''}${p.snippet&&p.snippet!==p.line?`<p class="cl-snip">${E(p.snippet)}</p>`:''}</article>`).join('')}</div>
+ <div class="cl-list">${cardsHTML(n.prospects)}</div>
+ ${moreHTML()}
+ <p class="fine">40 times: no 2027 prospect has run at the NFL combine yet (February 2027), so times shown are published projections with the source named. "Watch highlights" opens the original video on YouTube in a new tab.</p>
  <details class="box dh-how"><summary>How "chance available" works</summary><p>${E(H.availability_method)}</p><p>Example: a player ranked #22 on our board has about a 50% chance of still being there at pick #22. The further a player ranks below the pick, the better the odds. Picks move as the standings change, so these numbers update with every run.</p></details></section>`;}
 function classHTML(){const c=H.last_class,A=c.analysts||[];
  return`<section><h2 class="section-title">Last draft: ${c.year} Steelers class, graded pick by pick</h2>
@@ -37,9 +47,12 @@ function archHTML(){const years=[...new Set(HI.picks.map(p=>p.year))],poss=[...n
 function deeperHTML(){return`<section class="box"><h2>Go deeper on prospects</h2><ul class="dh-links">${H.go_deeper.map(l=>`<li><a href="${E(l.url)}" ${ext}><b>${E(l.name)}</b> →</a><small>${E(l.why)}</small></li>`).join('')}</ul><p class="fine">Outside sites, not affiliated with us. Try the <a href="#/draft">Mock Draft</a> to run your own picks.</p></section>`;}
 function render(){const el=document.getElementById('drafthub-body');if(!el||!H||!HI)return;
  el.innerHTML=`<p class="box dh-cpt"><a href="#/college"><b>College Prospect Tracker →</b></a> <small>Live stats and weekly headlines for top prospects at our needs.</small></p>`+needsHTML()+prospectsHTML()+classHTML()+archHTML()+deeperHTML()+`<p class="fine">Credits: ${H.credits.map(E).join(' · ')}. Updated ${new Date(H.generated).toLocaleString('en-US',{timeZone:'America/New_York',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})} ET.</p>`;}
+function rerenderMore(){const w=document.querySelector('.dh-more-wrap');if(!w)return render();w.outerHTML=moreHTML();const b=document.querySelector('.dh-moretoggle');if(b)b.focus({preventScroll:true});}
 function rerenderArchive(focus){const a=document.getElementById('dh-archive');if(!a)return;const pos=focus&&document.activeElement===focus?focus.selectionStart:null;a.outerHTML=archHTML();if(pos!==null){const q=document.querySelector('.dh-q');q.focus();q.setSelectionRange(pos,pos);}}
-Promise.all([...['data/draft/hub.json','data/draft/history.json'].map(u=>fetch((window.BGD_url?BGD_url(u):u),{cache:'no-store'}).then(r=>r.json())),window.compsReady,window.PCard&&PCard.ready]).then(([h,hi])=>{H=h;HI=hi;render();}).catch(()=>{const el=document.getElementById('drafthub-body');if(el)el.innerHTML='<p class="empty">Draft info unavailable right now.</p>';});
-document.addEventListener('click',e=>{const n=e.target.closest('.dh-need');if(n){need=n.dataset.p;render();return;}if(e.target.closest('.dh-more')){shown+=100;rerenderArchive();}});
+Promise.all([...['data/draft/hub.json','data/draft/history.json'].map(u=>fetch((window.BGD_url?BGD_url(u):u),{cache:'no-store'}).then(r=>r.json())),window.compsReady,window.PCard&&PCard.ready,window.PCard&&PCard.xready]).then(([h,hi])=>{H=h;HI=hi;render();}).catch(()=>{const el=document.getElementById('drafthub-body');if(el)el.innerHTML='<p class="empty">Draft info unavailable right now.</p>';});
+document.addEventListener('click',e=>{const n=e.target.closest('.dh-need');if(n){need=n.dataset.p;render();return;}
+ if(e.target.closest('.dh-moretoggle')){moreOpen=!moreOpen;rerenderMore();return;}
+ const mp=e.target.closest('.dh-mpos');if(mp){morePos=mp.dataset.p;rerenderMore();return;}if(e.target.closest('.dh-more')){shown+=100;rerenderArchive();}});
 document.addEventListener('input',e=>{if(e.target.matches('.dh-q')){F.q=e.target.value;shown=50;rerenderArchive(e.target);}});
 document.addEventListener('change',e=>{if(e.target.matches('.dh-f')){F[e.target.dataset.k]=e.target.value;shown=50;rerenderArchive();}});
 })();

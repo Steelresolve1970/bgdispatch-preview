@@ -743,3 +743,11 @@ figure.eg{margin:8px 0}
 .site-footer .sf-link{background:transparent;border-color:#555;color:#eee}
 .site-footer .sf-link:hover,.site-footer .sf-link:focus-visible{border-color:var(--gold);color:var(--gold)}
 .sf-contact,.sf-newsletter{max-width:640px;margin-top:18px}
+/* Mock draft upgrades (Oct 21, 2026): 40 times, highlight links, More positions, plain-words trade verdict */
+.pc-xrow{display:flex;flex-wrap:wrap;align-items:center;gap:8px 12px;margin:8px 0}
+.pc-40 small{color:#5e5e5e}.pc-40 a{color:inherit}
+.btn.pc-hl{display:inline-flex;align-items:center;min-height:44px;padding:8px 14px;text-decoration:none;font-size:15px}
+.dh-more-wrap{margin:14px 0}.dh-morebox{margin-top:10px}.dh-moretoggle{min-height:44px}
+.dr-tv{padding:10px 12px;border-radius:8px;margin:8px 0;font-size:16px;line-height:1.4}
+.dr-tv.dr-ok{background:#e8f5e9;color:#14532d}.dr-tv.dr-close{background:#fff8e1;color:#6b4e00}.dr-tv.dr-no{background:#fdecea;color:#8a1414}
+.dr-tv b{display:block}

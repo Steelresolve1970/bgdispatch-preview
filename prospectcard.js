@@ -18,11 +18,17 @@ function scout(p){const t=p.parts||{},g=[],c=[];
  if(p.pos==='OT'||p.pos==='IOL')c.push('No box-score stats for linemen, so our view leans on scouting');
  if(p.scout_tier>=5)c.push('Our scouts project him as a Day 3 pick');
  return{g:g.slice(0,4),c:c.slice(0,3)};}
+// Extras (Oct 21, 2026): sourced 40 times + verified highlight links (data/draft/prospect_extras.json). Link out only, new tab.
+let X={};const xready=fetch(BGD_url('data/draft/prospect_extras.json'),{cache:'no-store'}).then(r=>r.json()).then(j=>{X=j.players||{};}).catch(()=>{X={};});
+function fortyHTML(n){const f=(X[n]||{}).forty;if(!f)return`<span class="pc-40"><b>40:</b> TBD (combine Feb 2027)</span>`;
+ return`<span class="pc-40"><b>40:</b> ${E(f.time)} <small>(${f.kind==='verified'?'verified':'projected'}, per <a href="${E(f.url)}" target="_blank" rel="noopener">${E(f.source)}</a>)</small></span>`;}
+function hlHTML(n){const h=(X[n]||{}).highlight;return h?`<a class="btn pc-hl" href="${E(h.url)}" target="_blank" rel="noopener" title="${E(h.title)} (${E(h.channel)}, YouTube)" aria-label="Watch highlights of ${E(n)} on YouTube (opens a new tab)">Watch highlights</a>`:'';}
 const meta=p=>[p.pos,p.school,p.cls,p.height,p.weight?p.weight+' lb':''].filter(Boolean).map(E).join(' · ');
 function html(p,o){o=o||{};const t=p.parts||{},sc=scout(p),why=scoutReason(p);
  return`<div class="dr-modal" role="dialog" aria-label="${E(p.name)}"><div class="dr-card"><button class="dr-x" type="button" aria-label="Close">✕</button>
  <p class="kind">Our board #${p.rank} · ${E(p.tier)}${p.scout_tier?` · staff tier ${p.scout_tier}`:''}</p><h2>${E(p.name)}</h2><p>${meta(p)}${p.conf?' · '+E(p.conf):''}</p>
  ${o.top||''}
+ <p class="pc-xrow">${fortyHTML(p.name)} ${hlHTML(p.name)}</p>
  <p class="dr-g">Our grade <b>${p.grade}</b>${p.stars?` · ${p.stars}★ recruit`:''}${p.transfer?` · transfer`:''}${p.anchor?' · Steelers watch list':''}</p>
  ${p.line&&p.line!=='None'?`<p><b>2026 season:</b> ${E(p.line)}</p>`:''}
  ${why?`<p><b>Our scouts:</b> ${E(why)}</p>`:''}
@@ -32,7 +38,7 @@ function html(p,o){o=o||{};const t=p.parts||{},sc=scout(p),why=scoutReason(p);
  <table class="dr-parts"><tr><th>Prod.</th><th>Pedigree</th><th>Sched.</th><th>Team</th><th>Class</th><th>Size</th></tr><tr><td>${t.production??'–'}/45</td><td>${t.pedigree??'–'}/22</td><td>${t.schedule??'–'}/12</td><td>${t.team??'–'}/6</td><td>${t.cls??'–'}/5</td><td>${t.size??'–'}/5</td></tr></table>
  <p class="fine">Our own formula from CollegeFootballData.com stats plus our staff tier; strengths, concerns and comparison are our own read. Fan opinion, not a scouting report.</p>
  ${o.bottom||''}</div></div>`;}
-let B=null;const ready=fetch(BGD_url('data/draft/board.json'),{cache:'no-store'}).then(r=>r.json()).then(j=>{B={};(j.prospects||[]).forEach(p=>{B[p.name]=p;});return B;}).catch(()=>{B={};});
+let B=null;const ready=Promise.all([fetch(BGD_url('data/draft/board.json'),{cache:'no-store'}).then(r=>r.json()).then(j=>{B={};(j.prospects||[]).forEach(p=>{B[p.name]=p;});return B;}).catch(()=>{B={};}),xready]).then(a=>a[0]);
 const get=n=>B&&B[n];
 const size=n=>{const p=get(n);return p?[p.height,p.weight?p.weight+' lb':''].filter(Boolean).join(', '):'';};
 let host=null,last=null;
@@ -43,5 +49,5 @@ document.addEventListener('click',e=>{if(host&&host.contains(e.target)){if(e.tar
  const t=e.target.closest('[data-pc]');if(t){e.preventDefault();ready.then(()=>open(t.dataset.pc));}});
 document.addEventListener('keydown',e=>{if(e.key==='Escape'&&host)close();});
 window.addEventListener('hashchange',close);
-window.PCard={meta,html,open,close,get,size,ready};
+window.PCard={meta,html,open,close,get,size,ready,xready,forty:fortyHTML,hl:hlHTML};
 })();
