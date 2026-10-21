@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-21T14:21:59+00:00",
- "data_updated": "2026-10-21T14:21:14+00:00",
- "count": 130,
+ "generated": "2026-10-21T14:32:46+00:00",
+ "data_updated": "2026-10-21T14:32:31+00:00",
+ "count": 131,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -98,11 +98,11 @@
    }
   },
   {
-   "id": "50327394adeb9940",
+   "id": "5e893a32975f7486",
    "type": "podcast_episode",
    "title": "Steelers' Chameleon Defensive Scheme w/Patrick Graham Aids Weekly Adjustments | DeShon Elliott Back?",
    "show": "Locked On Steelers",
-   "url": "https://lockedonpodcasts.com/podcasts/locked-on-steelers/",
+   "url": "https://podcasts.apple.com/us/podcast/steelers-chameleon-defensive-scheme-w-patrick-graham/id1140522532?i=1000797389886",
    "published": "2026-10-21T06:00:00+00:00",
    "summary": "Podcast episode from Locked On Steelers.",
    "source": {
@@ -111,11 +111,11 @@
    }
   },
   {
-   "id": "7968be70b4f37758",
+   "id": "c3fd84790c2e3deb",
    "type": "podcast_episode",
    "title": "DK's Daily Shot of Steelers: Let ‘em all loose!",
    "show": "DK Pittsburgh Sports",
-   "url": "https://podcasts.apple.com/us/podcast/id1072021022",
+   "url": "https://podcasts.apple.com/us/podcast/dks-daily-shot-of-steelers-let-em-all-loose/id1072021022?i=1000797403367",
    "published": "2026-10-21T05:37:00+00:00",
    "summary": "Podcast episode from DK Pittsburgh Sports.",
    "source": {
@@ -124,11 +124,24 @@
    }
   },
   {
-   "id": "8583a21dcd2cf379",
+   "id": "d998db5a5a129e9a",
+   "type": "podcast_episode",
+   "title": "Scout’s Eye with Matt Williamson: All the Rodgersesque things",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://podcasts.apple.com/us/podcast/scouts-eye-with-matt-williamson-all-the/id1072021022?i=1000797398522",
+   "published": "2026-10-21T05:34:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
+    "url": null
+   }
+  },
+  {
+   "id": "de4083b2562d02eb",
    "type": "podcast_episode",
    "title": "Paris Under Pressure: Steelers Prepare for NFL First During Unrest Abroad",
    "show": "Steelers Breakdown (PennLive, Nick Farabaugh)",
-   "url": "http://www.pennlive.com/steelers/",
+   "url": "https://podcasts.apple.com/us/podcast/paris-under-pressure-steelers-prepare-for-nfl-first/id1277196913?i=1000797352171",
    "published": "2026-10-21T00:03:00+00:00",
    "summary": "Podcast episode from Steelers Breakdown (PennLive, Nick Farabaugh).",
    "source": {
@@ -198,6 +211,19 @@
    "summary": "Video from Pittsburgh Steelers (official).",
    "source": {
     "name": "Pittsburgh Steelers (official)",
+    "url": null
+   }
+  },
+  {
+   "id": "c6b6c798d18d8be6",
+   "type": "podcast_episode",
+   "title": "DK's Double Shot of Steelers: Off OUI go!",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://podcasts.apple.com/us/podcast/dks-double-shot-of-steelers-off-oui-go/id1072021022?i=1000797337026",
+   "published": "2026-10-20T22:01:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
     "url": null
    }
   },
@@ -1693,19 +1719,6 @@
    "summary": "Podcast episode from SNR Drive.",
    "source": {
     "name": "SNR Drive",
-    "url": null
-   }
-  },
-  {
-   "id": "e7468361f4566643",
-   "type": "podcast_episode",
-   "title": "Steelers Film Expert Issues a WARNING About T.J. Watt — And Reveals the Key to Beating Tampa Bay",
-   "show": "The Steel City Insider (Jim Wexell, 247Sports)",
-   "url": "https://podcasts.apple.com/us/podcast/steelers-film-expert-issues-a-warning-about-t-j/id1623192893?i=1000796678598",
-   "published": "2026-10-16T14:23:07+00:00",
-   "summary": "Podcast episode from The Steel City Insider (Jim Wexell, 247Sports).",
-   "source": {
-    "name": "The Steel City Insider (Jim Wexell, 247Sports)",
     "url": null
    }
   }

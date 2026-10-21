@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T14:20:56.746312+00:00",
+ "generated": "2026-10-21T14:32:17.384777+00:00",
  "count": 150,
  "sources": [
   {
@@ -29,8 +29,8 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
-   "steelers_items": 0
+   "status": "ok",
+   "steelers_items": 24
   },
   {
    "source": "Still Curtain",
@@ -72,7 +72,7 @@
    "source": "Yahoo Sports",
    "url": "https://sports.yahoo.com/nfl/rss/",
    "status": "ok",
-   "steelers_items": 1
+   "steelers_items": 2
   },
   {
    "source": "Google News",
@@ -113,6 +113,22 @@
    "published": "2026-10-21T14:39:59+00:00",
    "summary": "Injury story from ESPN. Full report at the original publisher.",
    "id": "e6db9e7aac"
+  },
+  {
+   "title": "NFL spread, straight-up picks: Texans, Jets, Colts top Week 7 confidence rankings",
+   "source": "The Athletic",
+   "link": "https://www.nytimes.com/athletic/7710373/2026/10/21/nfl-spread-straight-up-picks-confidence-rankings-week-7/",
+   "published": "2026-10-21T14:26:10+00:00",
+   "summary": "News story from The Athletic. Full report at the original publisher.",
+   "id": "e59a801123"
+  },
+  {
+   "title": "Dani Watt, wife of Steelers star T.J. Watt, questions NFL plan for Paris game",
+   "source": "Yahoo Sports",
+   "link": "https://sports.yahoo.com/articles/dani-watt-wife-steelers-star-141850764.html",
+   "published": "2026-10-21T14:18:50+00:00",
+   "summary": "Game story from Yahoo Sports. Full report at the original publisher.",
+   "id": "cb1e1df885"
   },
   {
    "title": "Steelers' Young Core In 2026: Six Players Who Could Shape Pittsburgh",
@@ -270,6 +286,14 @@
    "id": "d7577e1135"
   },
   {
+   "title": "Steelers have more than international travel to worry about against the Saints",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/21/steelers-have-more-than-international-travel-to-worry-about-against-the-saints/",
+   "published": "2026-10-21T12:15:47+00:00",
+   "summary": "News story from Steel City Underground. Full report at the original publisher.",
+   "id": "dd96e02d3b"
+  },
+  {
    "title": "Beat Writers Debate What Role Marquez Valdes-Scantling Will Play, And When",
    "source": "Steelers Depot",
    "link": "https://steelersdepot.com/2026/10/beat-writers-debate-what-role-marquez-valdes-scantling-will-play-and-when/",
@@ -317,15 +341,6 @@
    "published": "2026-10-21T10:20:04+00:00",
    "summary": "News story from Steelers Depot. Full report at the original publisher.",
    "id": "fb5106f27a"
-  },
-  {
-   "title": "French connection: New Orleans and Paris' shared history in spotlight before Saints-Steelers game",
-   "source": "Bozeman Daily Chronicle",
-   "link": "https://www.bozemandailychronicle.com/wire/sports/french-connection-new-orleans-and-paris-shared-history-in-spotlight-before-saints-steelers-game/article_09dc15e3-995f-5caf-a94e-090edef2ab09.html",
-   "published": "2026-10-21T10:00:09+00:00",
-   "via": "Google News",
-   "summary": "Game story from Bozeman Daily Chronicle. Full report at the original publisher.",
-   "id": "f790a41b8a"
   },
   {
    "title": "Steelers vs. Saints Week 7 Tracker: Injury updates, predictions, storylines and more",
@@ -391,6 +406,15 @@
    "published": "2026-10-21T08:00:00+00:00",
    "summary": "News story from Pittsburgh Post-Gazette. Full report at the original publisher.",
    "id": "118b61d3bb"
+  },
+  {
+   "title": "Steelers\u2019 Belief In Their Massive Rookie Class Is Paying Early Dividends",
+   "source": "Martins Ferry Times Leader",
+   "link": "https://www.timesleaderonline.com/sports/local-sports/2026/10/steelers-belief-in-their-massive-rookie-class-is-paying-early-dividends/",
+   "published": "2026-10-21T06:56:59+00:00",
+   "via": "Google News",
+   "summary": "News story from Martins Ferry Times Leader. Full report at the original publisher.",
+   "id": "667adc7f2a"
   },
   {
    "title": "Wide receiver-needy Steelers bring back veteran Marquez Valdes-Scantling",
@@ -810,6 +834,14 @@
    "id": "38796afb44"
   },
   {
+   "title": "Steelers Surprises: Unexpected heroes emerge in overtime comeback against Buccaneers",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/20/steelers-surprises-unexpected-heroes-emerge-in-overtime-comeback-against-buccaneers/",
+   "published": "2026-10-20T14:49:26+00:00",
+   "summary": "News story from Steel City Underground. Full report at the original publisher.",
+   "id": "5f3153e761"
+  },
+  {
    "title": "Week 7 odds: Steelers open as slight favorites vs. Saints",
    "source": "Behind the Steel Curtain",
    "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-odds/176592/week-7-odds-steelers-open-as-slight-favorites-vs-saints",
@@ -906,6 +938,14 @@
    "published": "2026-10-20T12:00:00+00:00",
    "summary": "Opinion story from Pittsburgh Post-Gazette. Full report at the original publisher.",
    "id": "c170b3e653"
+  },
+  {
+   "title": "Plays of the Game: Germie Bernard scores first NFL touchdown to lift Steelers past Buccaneers",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/20/plays-of-the-game-germie-bernard-scores-first-nfl-touchdown-to-lift-steelers-past-buccaneers/",
+   "published": "2026-10-20T11:47:58+00:00",
+   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
+   "id": "ff47dfcfd1"
   },
   {
    "title": "4 Steelers standouts from their overtime victory over the Buccaneers",
@@ -1275,60 +1315,20 @@
    "id": "da4c5f3a6a"
   },
   {
+   "title": "Steelers Takeaways: Second-half comeback saves Pittsburgh in overtime win over Buccaneers",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/19/steelers-takeaways-second-half-comeback-saves-pittsburgh-in-overtime-win-over-buccaneers/",
+   "published": "2026-10-19T13:14:03+00:00",
+   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
+   "id": "dfe2de4202"
+  },
+  {
    "title": "Germie Bernard's growing connection with Aaron Rodgers has Steelers buzzing",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/germie-bernard-growing-connection-aaron-rodgers-pittsburgh-steelers-buzzing-01m59441d0x6?utm_source=RSS",
    "published": "2026-10-19T13:00:01+00:00",
    "summary": "Game story from Still Curtain. Full report at the original publisher.",
    "id": "38f90d51ed"
-  },
-  {
-   "title": "Steelers vs. Buccaneers: What they\u2019re saying in Tampa Bay after loss",
-   "source": "TribLive",
-   "link": "https://triblive.com/sports/steelers-vs-buccaneers-what-theyre-saying-in-tampa-bay-after-loss/",
-   "published": "2026-10-19T12:00:12+00:00",
-   "summary": "Game story from TribLive. Full report at the original publisher.",
-   "id": "8951185198"
-  },
-  {
-   "title": "Former Steelers Joey Porter Jr. and George Pickens aren't changing things in Dallas",
-   "source": "Still Curtain",
-   "link": "https://stillcurtain.com/former-steelers-joey-porter-jr-and-george-pickens-aren-t-changing-things-in-dallas-01m596xmkand?utm_source=RSS",
-   "published": "2026-10-19T12:00:03+00:00",
-   "summary": "News story from Still Curtain. Full report at the original publisher.",
-   "id": "f1094d0f3b"
-  },
-  {
-   "title": "\u2018He\u2019s accepted the challenge\u2019: Germie Bernard rewards Steelers\u2019 faith in rookie wide receiver",
-   "source": "TribLive",
-   "link": "https://triblive.com/sports/hes-accepted-the-challenge-germie-bernard-rewards-steelers-faith-in-rookie-wide-receiver/",
-   "published": "2026-10-19T10:01:00+00:00",
-   "summary": "News story from TribLive. Full report at the original publisher.",
-   "id": "703211ed7b"
-  },
-  {
-   "title": "Steelers fans have fresh Aaron Rodgers concerns despite comeback win",
-   "source": "Still Curtain",
-   "link": "https://stillcurtain.com/pittsburgh-steelers-fans-have-fresh-aaron-rodgers-concerns-despite-comeback-win-01m58h04pa3e?utm_source=RSS",
-   "published": "2026-10-19T10:00:02+00:00",
-   "summary": "Game story from Still Curtain. Full report at the original publisher.",
-   "id": "d461ffd531"
-  },
-  {
-   "title": "NFL Wake-up Call: Week 6 smashed narratives and showed how little we know",
-   "source": "The Athletic",
-   "link": "https://www.nytimes.com/athletic/7703754/2026/10/19/nfl-week-6-takeaways-winners-losers/",
-   "published": "2026-10-19T09:30:09+00:00",
-   "summary": "Opinion story from The Athletic. Full report at the original publisher.",
-   "id": "deebe3c090"
-  },
-  {
-   "title": "Steelers\u2019 Mike McCarthy explains baffling late-game coaching decisions, clock management issues in win",
-   "source": "PennLive (Nick Farabaugh)",
-   "link": "https://www.pennlive.com/steelers/2026/10/steelers-mike-mccarthy-explains-baffling-late-game-coaching-decisions-clock-management-issues-in-win.html",
-   "published": "2026-10-19T08:55:38+00:00",
-   "summary": "Game story from PennLive (Nick Farabaugh). Full report at the original publisher.",
-   "id": "5cd26930cc"
   }
  ],
  "dropped_bad_links": 0
