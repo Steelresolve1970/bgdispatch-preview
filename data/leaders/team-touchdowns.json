@@ -5,7 +5,7 @@
  "section": "Scoring",
  "season": 2026,
  "lower_is_better": false,
- "generated": "2026-10-21T19:14:11.408428+00:00",
+ "generated": "2026-10-21T22:19:18.235239+00:00",
  "source": "Data: nflverse (CC-BY 4.0)",
  "source_url": "https://github.com/nflverse/nflverse-data",
  "columns": [
@@ -27,324 +27,324 @@
  ],
  "rows": [
   {
-   "team": "BUF",
-   "pts": 197,
-   "pit": false,
    "name": "Buffalo Bills",
-   "ppg": 32.8,
+   "gp": 6,
+   "pts": 197,
    "value": 23,
-   "rank": 1,
-   "gp": 6
-  },
-  {
-   "team": "SF",
-   "pts": 177,
    "pit": false,
-   "name": "San Francisco 49ers",
-   "ppg": 29.5,
-   "value": 22,
-   "rank": 2,
-   "gp": 6
-  },
-  {
-   "team": "DET",
-   "pts": 164,
-   "pit": false,
-   "name": "Detroit Lions",
    "ppg": 32.8,
+   "team": "BUF",
+   "rank": 1
+  },
+  {
+   "name": "San Francisco 49ers",
+   "gp": 6,
+   "pts": 177,
+   "value": 22,
+   "pit": false,
+   "ppg": 29.5,
+   "team": "SF",
+   "rank": 2
+  },
+  {
+   "name": "Detroit Lions",
+   "gp": 5,
+   "pts": 164,
    "value": 20,
-   "rank": 3,
-   "gp": 5
+   "pit": false,
+   "ppg": 32.8,
+   "team": "DET",
+   "rank": 3
   },
   {
-   "team": "BAL",
-   "pts": 156,
-   "pit": false,
    "name": "Baltimore Ravens",
+   "gp": 6,
+   "pts": 156,
+   "value": 18,
+   "pit": false,
    "ppg": 26,
-   "value": 18,
-   "rank": 4,
-   "gp": 6
+   "team": "BAL",
+   "rank": 4
   },
   {
-   "team": "CHI",
-   "pts": 150,
-   "pit": false,
    "name": "Chicago Bears",
+   "gp": 6,
+   "pts": 150,
+   "value": 18,
+   "pit": false,
    "ppg": 25,
-   "value": 18,
-   "rank": 4,
-   "gp": 6
+   "team": "CHI",
+   "rank": 4
   },
   {
-   "team": "DAL",
-   "pts": 151,
-   "pit": false,
    "name": "Dallas Cowboys",
+   "gp": 6,
+   "pts": 151,
+   "value": 18,
+   "pit": false,
    "ppg": 25.2,
-   "value": 18,
-   "rank": 4,
-   "gp": 6
+   "team": "DAL",
+   "rank": 4
   },
   {
-   "team": "JAX",
-   "pts": 154,
-   "pit": false,
    "name": "Jacksonville Jaguars",
+   "gp": 6,
+   "pts": 154,
+   "value": 18,
+   "pit": false,
    "ppg": 25.7,
-   "value": 18,
-   "rank": 4,
-   "gp": 6
+   "team": "JAX",
+   "rank": 4
   },
   {
-   "team": "NO",
-   "pts": 152,
-   "pit": false,
    "name": "New Orleans Saints",
-   "ppg": 25.3,
+   "gp": 6,
+   "pts": 152,
    "value": 18,
-   "rank": 4,
-   "gp": 6
+   "pit": false,
+   "ppg": 25.3,
+   "team": "NO",
+   "rank": 4
   },
   {
-   "team": "CAR",
-   "pts": 146,
-   "pit": false,
    "name": "Carolina Panthers",
+   "gp": 5,
+   "pts": 146,
+   "value": 17,
+   "pit": false,
    "ppg": 29.2,
-   "value": 17,
-   "rank": 9,
-   "gp": 5
+   "team": "CAR",
+   "rank": 9
   },
   {
-   "team": "LV",
-   "pts": 162,
-   "pit": false,
    "name": "Las Vegas Raiders",
+   "gp": 6,
+   "pts": 162,
+   "value": 17,
+   "pit": false,
    "ppg": 27,
-   "value": 17,
-   "rank": 9,
-   "gp": 6
+   "team": "LV",
+   "rank": 9
   },
   {
-   "team": "LA",
-   "pts": 135,
-   "pit": false,
    "name": "Los Angeles Rams",
-   "ppg": 22.5,
+   "gp": 6,
+   "pts": 135,
    "value": 17,
-   "rank": 9,
-   "gp": 6
+   "pit": false,
+   "ppg": 22.5,
+   "team": "LA",
+   "rank": 9
   },
   {
-   "team": "KC",
-   "pts": 140,
-   "pit": false,
    "name": "Kansas City Chiefs",
+   "gp": 5,
+   "pts": 140,
+   "value": 16,
+   "pit": false,
    "ppg": 28,
-   "value": 16,
-   "rank": 12,
-   "gp": 5
+   "team": "KC",
+   "rank": 12
   },
   {
-   "team": "SEA",
-   "pts": 148,
-   "pit": false,
    "name": "Seattle Seahawks",
-   "ppg": 24.7,
+   "gp": 6,
+   "pts": 148,
    "value": 16,
-   "rank": 12,
-   "gp": 6
+   "pit": false,
+   "ppg": 24.7,
+   "team": "SEA",
+   "rank": 12
   },
   {
-   "team": "ATL",
-   "pts": 142,
-   "pit": false,
    "name": "Atlanta Falcons",
+   "gp": 6,
+   "pts": 142,
+   "value": 15,
+   "pit": false,
    "ppg": 23.7,
-   "value": 15,
-   "rank": 14,
-   "gp": 6
+   "team": "ATL",
+   "rank": 14
   },
   {
-   "team": "HOU",
-   "pts": 144,
-   "pit": false,
    "name": "Houston Texans",
-   "ppg": 24,
-   "value": 15,
-   "rank": 14,
-   "gp": 6
-  },
-  {
-   "team": "NE",
-   "pts": 136,
-   "pit": false,
-   "name": "New England Patriots",
-   "ppg": 22.7,
-   "value": 15,
-   "rank": 14,
-   "gp": 6
-  },
-  {
-   "team": "WAS",
-   "pts": 132,
-   "pit": false,
-   "name": "Washington Commanders",
-   "ppg": 22,
-   "value": 15,
-   "rank": 14,
-   "gp": 6
-  },
-  {
-   "team": "GB",
-   "pts": 127,
-   "pit": false,
-   "name": "Green Bay Packers",
-   "ppg": 21.2,
-   "value": 14,
-   "rank": 18,
-   "gp": 6
-  },
-  {
-   "team": "NYG",
-   "pts": 136,
-   "pit": false,
-   "name": "New York Giants",
-   "ppg": 22.7,
-   "value": 14,
-   "rank": 18,
-   "gp": 6
-  },
-  {
-   "team": "PIT",
-   "pts": 137,
-   "pit": true,
-   "name": "Pittsburgh Steelers",
-   "ppg": 22.8,
-   "value": 14,
-   "rank": 18,
-   "gp": 6
-  },
-  {
-   "team": "CIN",
-   "pts": 128,
-   "pit": false,
-   "name": "Cincinnati Bengals",
-   "ppg": 25.6,
-   "value": 13,
-   "rank": 21,
-   "gp": 5
-  },
-  {
-   "team": "IND",
+   "gp": 6,
    "pts": 144,
+   "value": 15,
    "pit": false,
-   "name": "Indianapolis Colts",
    "ppg": 24,
-   "value": 13,
-   "rank": 21,
-   "gp": 6
+   "team": "HOU",
+   "rank": 14
   },
   {
-   "team": "PHI",
-   "pts": 106,
+   "name": "New England Patriots",
+   "gp": 6,
+   "pts": 136,
+   "value": 15,
    "pit": false,
+   "ppg": 22.7,
+   "team": "NE",
+   "rank": 14
+  },
+  {
+   "name": "Washington Commanders",
+   "gp": 6,
+   "pts": 132,
+   "value": 15,
+   "pit": false,
+   "ppg": 22,
+   "team": "WAS",
+   "rank": 14
+  },
+  {
+   "name": "Green Bay Packers",
+   "gp": 6,
+   "pts": 127,
+   "value": 14,
+   "pit": false,
+   "ppg": 21.2,
+   "team": "GB",
+   "rank": 18
+  },
+  {
+   "name": "New York Giants",
+   "gp": 6,
+   "pts": 136,
+   "value": 14,
+   "pit": false,
+   "ppg": 22.7,
+   "team": "NYG",
+   "rank": 18
+  },
+  {
+   "name": "Pittsburgh Steelers",
+   "gp": 6,
+   "pts": 137,
+   "value": 14,
+   "pit": true,
+   "ppg": 22.8,
+   "team": "PIT",
+   "rank": 18
+  },
+  {
+   "name": "Cincinnati Bengals",
+   "gp": 5,
+   "pts": 128,
+   "value": 13,
+   "pit": false,
+   "ppg": 25.6,
+   "team": "CIN",
+   "rank": 21
+  },
+  {
+   "name": "Indianapolis Colts",
+   "gp": 6,
+   "pts": 144,
+   "value": 13,
+   "pit": false,
+   "ppg": 24,
+   "team": "IND",
+   "rank": 21
+  },
+  {
    "name": "Philadelphia Eagles",
-   "ppg": 17.7,
-   "value": 13,
-   "rank": 21,
-   "gp": 6
-  },
-  {
-   "team": "ARI",
-   "pts": 126,
-   "pit": false,
-   "name": "Arizona Cardinals",
-   "ppg": 21,
-   "value": 12,
-   "rank": 24,
-   "gp": 6
-  },
-  {
-   "team": "DEN",
-   "pts": 114,
-   "pit": false,
-   "name": "Denver Broncos",
-   "ppg": 19,
-   "value": 12,
-   "rank": 24,
-   "gp": 6
-  },
-  {
-   "team": "NYJ",
-   "pts": 112,
-   "pit": false,
-   "name": "New York Jets",
-   "ppg": 18.7,
-   "value": 11,
-   "rank": 26,
-   "gp": 6
-  },
-  {
-   "team": "TB",
-   "pts": 119,
-   "pit": false,
-   "name": "Tampa Bay Buccaneers",
-   "ppg": 19.8,
-   "value": 11,
-   "rank": 26,
-   "gp": 6
-  },
-  {
-   "team": "CLE",
+   "gp": 6,
    "pts": 106,
+   "value": 13,
    "pit": false,
-   "name": "Cleveland Browns",
    "ppg": 17.7,
+   "team": "PHI",
+   "rank": 21
+  },
+  {
+   "name": "Arizona Cardinals",
+   "gp": 6,
+   "pts": 126,
+   "value": 12,
+   "pit": false,
+   "ppg": 21,
+   "team": "ARI",
+   "rank": 24
+  },
+  {
+   "name": "Denver Broncos",
+   "gp": 6,
+   "pts": 114,
+   "value": 12,
+   "pit": false,
+   "ppg": 19,
+   "team": "DEN",
+   "rank": 24
+  },
+  {
+   "name": "New York Jets",
+   "gp": 6,
+   "pts": 112,
+   "value": 11,
+   "pit": false,
+   "ppg": 18.7,
+   "team": "NYJ",
+   "rank": 26
+  },
+  {
+   "name": "Tampa Bay Buccaneers",
+   "gp": 6,
+   "pts": 119,
+   "value": 11,
+   "pit": false,
+   "ppg": 19.8,
+   "team": "TB",
+   "rank": 26
+  },
+  {
+   "name": "Cleveland Browns",
+   "gp": 6,
+   "pts": 106,
    "value": 10,
-   "rank": 28,
-   "gp": 6
+   "pit": false,
+   "ppg": 17.7,
+   "team": "CLE",
+   "rank": 28
   },
   {
-   "team": "LAC",
-   "pts": 90,
-   "pit": false,
    "name": "Los Angeles Chargers",
+   "gp": 6,
+   "pts": 90,
+   "value": 9,
+   "pit": false,
    "ppg": 15,
-   "value": 9,
-   "rank": 29,
-   "gp": 6
+   "team": "LAC",
+   "rank": 29
   },
   {
-   "team": "MIN",
-   "pts": 109,
-   "pit": false,
    "name": "Minnesota Vikings",
-   "ppg": 21.8,
+   "gp": 5,
+   "pts": 109,
    "value": 9,
-   "rank": 29,
-   "gp": 5
+   "pit": false,
+   "ppg": 21.8,
+   "team": "MIN",
+   "rank": 29
   },
   {
-   "team": "TEN",
-   "pts": 84,
-   "pit": false,
    "name": "Tennessee Titans",
-   "ppg": 14,
+   "gp": 6,
+   "pts": 84,
    "value": 8,
-   "rank": 31,
-   "gp": 6
+   "pit": false,
+   "ppg": 14,
+   "team": "TEN",
+   "rank": 31
   },
   {
-   "team": "MIA",
-   "pts": 70,
-   "pit": false,
    "name": "Miami Dolphins",
-   "ppg": 14,
+   "gp": 5,
+   "pts": 70,
    "value": 7,
-   "rank": 32,
-   "gp": 5
+   "pit": false,
+   "ppg": 14,
+   "team": "MIA",
+   "rank": 32
   }
  ]
 }

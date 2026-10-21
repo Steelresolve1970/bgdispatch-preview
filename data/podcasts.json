@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-21T22:08:31.113083+00:00",
+ "generated": "2026-10-21T22:19:15.217938+00:00",
  "date_et": "2026-10-21",
  "days": 5,
  "display_days": 2,
- "count": 127,
+ "count": 128,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -46,9 +46,9 @@
    "kind": "podcast",
    "url": "https://feeds.simplecast.com/OkvCKc09",
    "status": "ok",
-   "episodes": 1001,
-   "week": 10,
-   "latest": "2026-10-21T05:37:00+00:00"
+   "episodes": 1002,
+   "week": 11,
+   "latest": "2026-10-21T22:10:00+00:00"
   },
   {
    "show": "Steelers Blitz",
@@ -90,10 +90,10 @@
    "show": "Steel City Underground",
    "kind": "podcast",
    "url": "https://feeds.feedburner.com/steelcityunderground",
-   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 45,
    "week": 1,
-   "latest": null
+   "latest": "2026-10-19T19:40:55+00:00"
   },
   {
    "show": "Steel City Underground",
@@ -156,7 +156,7 @@
    "status": "ok",
    "episodes": 15,
    "week": 14,
-   "latest": "2026-10-21T20:46:29+00:00"
+   "latest": "2026-10-21T22:04:51+00:00"
   },
   {
    "show": "The Steel City Insider (Jim Wexell, 247Sports)",
@@ -250,6 +250,22 @@
   }
  ],
  "items": [
+  {
+   "title": "DK\u2019s Double Shot of Steelers: Almost Paris!",
+   "show": "DK Pittsburgh Sports",
+   "kind": "podcast",
+   "link": "https://podcasts.apple.com/us/podcast/id1072021022",
+   "published": "2026-10-21T22:10:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports."
+  },
+  {
+   "title": "Can MVS Play Right Away? | Steelers Afternoon Drive",
+   "show": "Steelers Now",
+   "kind": "video",
+   "link": "https://www.youtube.com/watch?v=HGSOYSj-8n0",
+   "published": "2026-10-21T22:04:51+00:00",
+   "summary": "Video from Steelers Now."
+  },
   {
    "title": "Steelers Release Veteran DB | Chris Godwin Trade?",
    "show": "All Steelers Talk",
@@ -1257,14 +1273,6 @@
    "link": "https://podcasts.apple.com/us/podcast/is-kaden-wetjen-on-a-short-leash-grand-finale-with/id1700240934?i=1000796754627",
    "published": "2026-10-17T02:10:00+00:00",
    "summary": "Podcast episode from Steelers Afternoon Drive."
-  },
-  {
-   "title": "Buccaneers Preview & Predictions | Steelers Afternoon Drive",
-   "show": "Steelers Now",
-   "kind": "video",
-   "link": "https://www.youtube.com/watch?v=usANVtFc8bk",
-   "published": "2026-10-16T22:10:44+00:00",
-   "summary": "Video from Steelers Now."
   }
  ],
  "yt_channels": [],

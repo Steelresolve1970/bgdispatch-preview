@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-21T22:08:47+00:00",
- "data_updated": "2026-10-21T22:08:31+00:00",
- "count": 125,
+ "generated": "2026-10-21T22:19:32+00:00",
+ "data_updated": "2026-10-21T22:19:15+00:00",
+ "count": 126,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -19,6 +19,32 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/podcasts",
  "items": [
+  {
+   "id": "7968be70b4f37758",
+   "type": "podcast_episode",
+   "title": "DK’s Double Shot of Steelers: Almost Paris!",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://podcasts.apple.com/us/podcast/id1072021022",
+   "published": "2026-10-21T22:10:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
+    "url": null
+   }
+  },
+  {
+   "id": "8e28991f1295f2bb",
+   "type": "video",
+   "title": "Can MVS Play Right Away? | Steelers Afternoon Drive",
+   "show": "Steelers Now",
+   "url": "https://www.youtube.com/watch?v=HGSOYSj-8n0",
+   "published": "2026-10-21T22:04:51+00:00",
+   "summary": "Video from Steelers Now.",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   }
+  },
   {
    "id": "7d533777079a5528",
    "type": "podcast_episode",
@@ -1628,19 +1654,6 @@
    "summary": "Podcast episode from Steelers Afternoon Drive.",
    "source": {
     "name": "Steelers Afternoon Drive",
-    "url": null
-   }
-  },
-  {
-   "id": "249923d5e0fc7c44",
-   "type": "video",
-   "title": "Buccaneers Preview & Predictions | Steelers Afternoon Drive",
-   "show": "Steelers Now",
-   "url": "https://www.youtube.com/watch?v=usANVtFc8bk",
-   "published": "2026-10-16T22:10:44+00:00",
-   "summary": "Video from Steelers Now.",
-   "source": {
-    "name": "Steelers Now",
     "url": null
    }
   }
