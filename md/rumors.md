@@ -1,6 +1,6 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-21T14:32:46+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T14:32:41+00:00._
+_Generated 2026-10-21T14:43:47+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T14:43:41+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
 - **Rumor** · tier: National insider · consensus: 3 source(s), top tier National insider
@@ -25,7 +25,9 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Reports: Giants to release former Steelers running back Najee Harris](https://triblive.com/sports/reports-giants-to-release-former-steelers-running-back-najee-harris/): TribLIVE.com, first seen 2026-10-20 21:44 UTC
 - **Rumor** · tier: Fan blog · consensus: 10 source(s), top tier National insider
   [Reports: Giants Release Ex-Steelers RB Najee Harris](https://steelersdepot.com/2026/10/reports-giants-release-ex-steelers-rb-najee-harris/): Steelers Depot, first seen 2026-10-20 22:38 UTC
-- **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
+- **Rumor** · tier: Fan blog · consensus: 2 source(s), top tier Fan blog
+  [Steelers Linked To Intriguing Chris Godwin Jr Trade After Buccaneers Win](https://www.steelernation.com/2026/10/20/steelers-intriguing-chris-godwin-trade): Steeler Nation, first seen 2026-10-21 14:43 UTC
+- **Rumor** · tier: Fan blog · consensus: 2 source(s), top tier Fan blog
   [Steelers Linked To Intriguing Chris Godwin Jr Trade After Buccaneers Win](https://www.steelernation.com/2026/10/20/steelers-intriguing-chris-godwin-trade): SteelerNation, first seen 2026-10-20 20:00 UTC
 - **Rumor** · tier: Fan blog · consensus: 2 source(s), top tier Fan blog
   [Report Detailed Exactly What Steelers Are Looking For At The Trade Deadline](https://www.steelernation.com/2026/10/20/steelers-detailed-exactly-deadline): Steeler Nation, first seen 2026-10-21 14:10 UTC

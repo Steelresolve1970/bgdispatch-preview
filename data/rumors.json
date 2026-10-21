@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T14:32:41.409799+00:00",
+ "generated": "2026-10-21T14:43:41.474581+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -478,6 +478,35 @@
    "updated": "2026-10-20T22:38:25.728624+00:00"
   },
   {
+   "id": "d949037efd22",
+   "title": "Steelers Linked To Intriguing Chris Godwin Jr Trade After Buccaneers Win",
+   "source": "Steeler Nation",
+   "link": "https://www.steelernation.com/2026/10/20/steelers-intriguing-chris-godwin-trade",
+   "published": "2026-10-20T19:59:22+00:00",
+   "summary": "Rumor-style report from Steeler Nation on a Steelers roster move. Full details at the source.",
+   "tier": "Fan blog",
+   "tier_score": 2,
+   "subjects": [],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-21T14:43:41.474581+00:00",
+   "consensus": {
+    "cluster_id": "dd1f84d92d9c",
+    "independent_sources": 2,
+    "sources": [
+     "Steeler Nation",
+     "SteelerNation"
+    ],
+    "highest_tier": "Fan blog",
+    "highest_tier_score": 2,
+    "related_ids": [
+     "dd1f84d92d9c"
+    ]
+   },
+   "updated": "2026-10-21T14:43:41.474581+00:00"
+  },
+  {
    "id": "dd1f84d92d9c",
    "title": "Steelers Linked To Intriguing Chris Godwin Jr Trade After Buccaneers Win",
    "source": "SteelerNation",
@@ -493,13 +522,16 @@
    "first_seen": "2026-10-20T20:00:06.856173+00:00",
    "consensus": {
     "cluster_id": "dd1f84d92d9c",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
+     "Steeler Nation",
      "SteelerNation"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "d949037efd22"
+    ]
    },
    "updated": "2026-10-20T20:00:06.856173+00:00"
   },
