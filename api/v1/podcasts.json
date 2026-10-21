@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-21T15:49:42+00:00",
- "data_updated": "2026-10-21T15:49:25+00:00",
- "count": 127,
+ "generated": "2026-10-21T16:01:05+00:00",
+ "data_updated": "2026-10-21T16:00:19+00:00",
+ "count": 130,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -19,6 +19,19 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/podcasts",
  "items": [
+  {
+   "id": "25e69eb1f5def1c5",
+   "type": "video",
+   "title": "8 on the move 🌪️ 📺: #PITvsNO 10/25 at 9:30 AM ET on NFLN",
+   "show": "Pittsburgh Steelers (official)",
+   "url": "https://www.youtube.com/shorts/DAK6nmsyqNE",
+   "published": "2026-10-21T15:47:31+00:00",
+   "summary": "Video from Pittsburgh Steelers (official).",
+   "source": {
+    "name": "Pittsburgh Steelers (official)",
+    "url": null
+   }
+  },
   {
    "id": "dd3008860aec9a40",
    "type": "podcast_episode",
@@ -55,6 +68,19 @@
    "summary": "Video from Pittsburgh Steelers (official).",
    "source": {
     "name": "Pittsburgh Steelers (official)",
+    "url": null
+   }
+  },
+  {
+   "id": "7d7d87f66f5744f7",
+   "type": "podcast_episode",
+   "title": "Time to Believe in One Steelers Player",
+   "show": "All Steelers Talk",
+   "url": "https://podcasts.apple.com/us/podcast/time-to-believe-in-one-steelers-player/id1627248534?i=1000797435986",
+   "published": "2026-10-21T12:18:00+00:00",
+   "summary": "Podcast episode from All Steelers Talk.",
+   "source": {
+    "name": "All Steelers Talk",
     "url": null
    }
   },
@@ -98,6 +124,19 @@
    }
   },
   {
+   "id": "4574ccc583e2a4af",
+   "type": "podcast_episode",
+   "title": "Let's Ride: Know Your Steelers Enemy, Week 7 vs. the Saints",
+   "show": "Steel Curtain Network (BTSC)",
+   "url": "https://podcasts.apple.com/us/podcast/lets-ride-know-your-steelers-enemy-week-7-vs-the-saints/id905962218?i=1000797404571",
+   "published": "2026-10-21T08:00:00+00:00",
+   "summary": "Podcast episode from Steel Curtain Network (BTSC).",
+   "source": {
+    "name": "Steel Curtain Network (BTSC)",
+    "url": null
+   }
+  },
+  {
    "id": "de43ec30bf5951dd",
    "type": "video",
    "title": "Steelers' Chameleon Defensive Scheme w/Patrick Graham Aids Weekly Adjustments | DeShon Elliott Back?",
@@ -111,11 +150,11 @@
    }
   },
   {
-   "id": "50327394adeb9940",
+   "id": "5e893a32975f7486",
    "type": "podcast_episode",
    "title": "Steelers' Chameleon Defensive Scheme w/Patrick Graham Aids Weekly Adjustments | DeShon Elliott Back?",
    "show": "Locked On Steelers",
-   "url": "https://lockedonpodcasts.com/podcasts/locked-on-steelers/",
+   "url": "https://podcasts.apple.com/us/podcast/steelers-chameleon-defensive-scheme-w-patrick-graham/id1140522532?i=1000797389886",
    "published": "2026-10-21T06:00:00+00:00",
    "summary": "Podcast episode from Locked On Steelers.",
    "source": {
@@ -146,6 +185,19 @@
    "summary": "Podcast episode from DK Pittsburgh Sports.",
    "source": {
     "name": "DK Pittsburgh Sports",
+    "url": null
+   }
+  },
+  {
+   "id": "72daa95006b4817b",
+   "type": "podcast_episode",
+   "title": "The Scho Bro Show: The familiarity of the Steelers unfamiliar win",
+   "show": "Steel Curtain Network (BTSC)",
+   "url": "https://podcasts.apple.com/us/podcast/the-scho-bro-show-the-familiarity-of/id905962218?i=1000797367767",
+   "published": "2026-10-21T02:55:00+00:00",
+   "summary": "Podcast episode from Steel Curtain Network (BTSC).",
+   "source": {
+    "name": "Steel Curtain Network (BTSC)",
     "url": null
    }
   },
@@ -215,6 +267,19 @@
    }
   },
   {
+   "id": "6a3f309de443b251",
+   "type": "podcast_episode",
+   "title": "Should Steelers Still Seek WR Help? | Steelers Afternoon Drive",
+   "show": "Steelers Afternoon Drive",
+   "url": "https://podcasts.apple.com/us/podcast/should-steelers-still-seek-wr-help-steelers-afternoon/id1700240934?i=1000797337923",
+   "published": "2026-10-20T22:21:00+00:00",
+   "summary": "Podcast episode from Steelers Afternoon Drive.",
+   "source": {
+    "name": "Steelers Afternoon Drive",
+    "url": null
+   }
+  },
+  {
    "id": "d1d377e95886fdd5",
    "type": "video",
    "title": "Every Boz field goal but with every field goal it gets faster 📺:#PITvsNO 10/25 at 9:30AM ET on NFLN",
@@ -280,11 +345,24 @@
    }
   },
   {
-   "id": "7b2055f73c775a81",
+   "id": "94e8226bebf7decb",
+   "type": "podcast_episode",
+   "title": "Steelers Not Done With WR Moves?",
+   "show": "All Steelers Talk",
+   "url": "https://podcasts.apple.com/us/podcast/steelers-not-done-with-wr-moves/id1627248534?i=1000797329590",
+   "published": "2026-10-20T21:17:00+00:00",
+   "summary": "Podcast episode from All Steelers Talk.",
+   "source": {
+    "name": "All Steelers Talk",
+    "url": null
+   }
+  },
+  {
+   "id": "b6c8885fad11e18e",
    "type": "podcast_episode",
    "title": "The Terrible Take - Episode 2056 - October 20, 2026",
    "show": "The Terrible Podcast (Steelers Depot)",
-   "url": "https://podcasts.apple.com/us/podcast/id405990739",
+   "url": "https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2056-october-20-2026/id405990739?i=1000797326238",
    "published": "2026-10-20T21:00:00+00:00",
    "summary": "Podcast episode from The Terrible Podcast (Steelers Depot).",
    "source": {
@@ -1125,19 +1203,6 @@
    }
   },
   {
-   "id": "040c303866c79112",
-   "type": "video",
-   "title": "Best fans in the world 🖤💛",
-   "show": "Pittsburgh Steelers (official)",
-   "url": "https://www.youtube.com/shorts/mSgT-K71CjI",
-   "published": "2026-10-19T01:02:43+00:00",
-   "summary": "Video from Pittsburgh Steelers (official).",
-   "source": {
-    "name": "Pittsburgh Steelers (official)",
-    "url": null
-   }
-  },
-  {
    "id": "5cf07b2445bb0b99",
    "type": "podcast_episode",
    "title": "Scout’s Eye with Matt Williamson: Late domination",
@@ -1641,32 +1706,6 @@
    "summary": "Video from Not Just Football with Cam Heyward.",
    "source": {
     "name": "Not Just Football with Cam Heyward",
-    "url": null
-   }
-  },
-  {
-   "id": "6c4826990cfcd5e9",
-   "type": "podcast_episode",
-   "title": "Hour 1: Final Breakdown of the Bucs",
-   "show": "Steelers Blitz",
-   "url": "https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-101626-mp3",
-   "published": "2026-10-16T16:00:00+00:00",
-   "summary": "Podcast episode from Steelers Blitz.",
-   "source": {
-    "name": "Steelers Blitz",
-    "url": null
-   }
-  },
-  {
-   "id": "23e71ad86838e42f",
-   "type": "podcast_episode",
-   "title": "Drive10.16.26Hr1: 5 Star Friday",
-   "show": "SNR Drive",
-   "url": "https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-16-26hr1-mp3",
-   "published": "2026-10-16T16:00:00+00:00",
-   "summary": "Podcast episode from SNR Drive.",
-   "source": {
-    "name": "SNR Drive",
     "url": null
    }
   }

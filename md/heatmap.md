@@ -1,6 +1,6 @@
 # Steelers Player Grades (Heat Map)
 
-_Generated 2026-10-21T15:49:42+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T17:00:00+00:00._
+_Generated 2026-10-21T16:01:05+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T17:00:00+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/grades.json_
 
 Week 6: at Tampa Bay Buccaneers (26-19). Grade = stats grade (box score, see GRADES.md) until a player has 25 fan votes, then fan grade.
