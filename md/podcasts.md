@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-21T22:41:08+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T22:40:50+00:00._
+_Generated 2026-10-21T22:51:55+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T22:51:39+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Coach Mike McCarthy Press Conference (October 21) | Pittsburgh Steelers](https://www.youtube.com/watch?v=2BEQkzVwsWQ): Pittsburgh Steelers (official), 2026-10-21 22:25 UTC
