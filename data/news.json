@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T21:24:55.149906+00:00",
+ "generated": "2026-10-21T21:35:46.654759+00:00",
  "count": 150,
  "sources": [
   {
@@ -29,8 +29,8 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "ok",
-   "steelers_items": 24
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "steelers_items": 0
   },
   {
    "source": "Still Curtain",
@@ -106,6 +106,38 @@
   }
  ],
  "items": [
+  {
+   "title": "DeShon Elliott full participant in Steelers practice",
+   "source": "Behind the Steel Curtain",
+   "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-injuries/176659/deshon-elliott-full-participant-in-steelers-practice-injury-report-week-7-saints-paris-game-roster-news",
+   "published": "2026-10-21T21:30:31+00:00",
+   "summary": "Injury story from Behind the Steel Curtain. Full report at the original publisher.",
+   "id": "ce055ce50a"
+  },
+  {
+   "title": "Listen: The Terrible Take (Episode 2,057)",
+   "source": "Steelers Depot",
+   "link": "https://steelersdepot.com/2026/10/listen-the-terrible-take-episode-2057/",
+   "published": "2026-10-21T21:30:24+00:00",
+   "summary": "News story from Steelers Depot. Full report at the original publisher.",
+   "id": "335253e9ea"
+  },
+  {
+   "title": "Steelers WR DK Metcalf Leads NFL in Key Receiving Stat",
+   "source": "Steelers Now",
+   "link": "https://steelersnow.com/steelers-wr-dk-metcalf-leads-nfl-in-key-receiving-stat/",
+   "published": "2026-10-21T21:27:35+00:00",
+   "summary": "News story from Steelers Now. Full report at the original publisher.",
+   "id": "8577c3aed5"
+  },
+  {
+   "title": "Steelers\u2019 Week Seven Wednesday Injury Report: Team Deals With Multiple New Injuries",
+   "source": "Steelers Depot",
+   "link": "https://steelersdepot.com/2026/10/steelers-week-seven-wednesday-injury-report-team-deals-with-multiple-new-injuries/",
+   "published": "2026-10-21T21:25:10+00:00",
+   "summary": "Injury story from Steelers Depot. Full report at the original publisher.",
+   "id": "508b40f6a3"
+  },
   {
    "title": "Steelers' Mike McCarthy Pushes Back On Revealing Question About Aaron Rodgers' Usage",
    "source": "SteelerNation",
@@ -236,6 +268,14 @@
    "published": "2026-10-21T20:00:01+00:00",
    "summary": "News story from PennLive (Nick Farabaugh). Full report at the original publisher.",
    "id": "500cd44c3e"
+  },
+  {
+   "title": "Week 7 Injury Report (Saints)",
+   "source": "Steelers.com (official)",
+   "link": "https://www.steelers.com/news/week-7-injury-report-saints",
+   "published": "2026-10-21T20:00:00+00:00",
+   "summary": "Injury story from Steelers.com (official). Full report at the original publisher.",
+   "id": "43776160e1"
   },
   {
    "title": "Giants cut ties with former Steelers first round running back",
@@ -651,14 +691,6 @@
    "id": "ba902b4304"
   },
   {
-   "title": "\u2018It Doesn\u2019t Usually Happen\u2019: Todd Haley Explains What Separates Germie Bernard From Most Young WRs",
-   "source": "Steelers Depot",
-   "link": "https://steelersdepot.com/2026/10/it-doesnt-usually-happen-todd-haley-explains-what-separates-germie-bernard-from-most-young-wrs/",
-   "published": "2026-10-21T14:00:10+00:00",
-   "summary": "News story from Steelers Depot. Full report at the original publisher.",
-   "id": "73bffd7b13"
-  },
-  {
    "title": "Gerry Dulac\u2019s Steelers chat transcript: 10.21.26",
    "source": "Pittsburgh Post-Gazette",
    "link": "https://www.post-gazette.com/sports/steelers/2026/10/21/nfl-paris-game-steelers-saints/stories/202610210043",
@@ -673,14 +705,6 @@
    "published": "2026-10-21T13:54:44+00:00",
    "summary": "News story from Steelers Now. Full report at the original publisher.",
    "id": "0dde437df9"
-  },
-  {
-   "title": "Watch: Jaylen Warren Does It All For The Steelers",
-   "source": "Steelers Depot",
-   "link": "https://steelersdepot.com/2026/10/watch-jaylen-warren-does-it-all-for-the-steelers/",
-   "published": "2026-10-21T13:30:45+00:00",
-   "summary": "News story from Steelers Depot. Full report at the original publisher.",
-   "id": "a75edb280c"
   },
   {
    "title": "NFL to Bolster Security for Steelers-Saints Game in Paris",
@@ -714,14 +738,6 @@
    "published": "2026-10-21T13:00:00+00:00",
    "summary": "News story from Steelers.com (official). Full report at the original publisher.",
    "id": "27c9ea19ea"
-  },
-  {
-   "title": "Steelers have more than international travel to worry about against the Saints",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/21/steelers-have-more-than-international-travel-to-worry-about-against-the-saints/",
-   "published": "2026-10-21T12:15:47+00:00",
-   "summary": "News story from Steel City Underground. Full report at the original publisher.",
-   "id": "dd96e02d3b"
   },
   {
    "title": "Germie Bernard is making Steelers forget all about the Makai Lemon debacle",
@@ -854,29 +870,12 @@
    "id": "e9db192162"
   },
   {
-   "title": "Steelers Afternoon Drive: Should Steelers Still Seeking WR Help?",
-   "source": "Steelers Now",
-   "link": "https://steelersnow.com/steelers-afternoon-drive-should-steelers-still-seeking-wr-help/",
-   "published": "2026-10-20T22:23:28+00:00",
-   "summary": "Opinion story from Steelers Now. Full report at the original publisher.",
-   "id": "9937f0d5d1"
-  },
-  {
    "title": "WATCH: SNR Drive (All Episodes from Week of October 19)",
    "source": "Steelers.com (official)",
    "link": "https://www.steelers.com/news/watch-snr-drive-all-episodes-from-week-of-october-19",
    "published": "2026-10-20T22:00:00+00:00",
    "summary": "News story from Steelers.com (official). Full report at the original publisher.",
    "id": "742ddb75b5"
-  },
-  {
-   "title": "Steelers Have Obvious Solution to Third Down Struggles",
-   "source": "All Steelers (Sports Illustrated)",
-   "link": "https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-obvious-solution-third-down-struggles",
-   "published": "2026-10-20T21:30:00+00:00",
-   "summary": "News story from All Steelers (Sports Illustrated). Full report at the original publisher.",
-   "via": "Google News",
-   "id": "d95045be6a"
   },
   {
    "title": "NFL says heightened security measures will be in place for the Steelers-Saints game in Paris",
@@ -985,14 +984,6 @@
    "id": "38796afb44"
   },
   {
-   "title": "Steelers Surprises: Unexpected heroes emerge in overtime comeback against Buccaneers",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/20/steelers-surprises-unexpected-heroes-emerge-in-overtime-comeback-against-buccaneers/",
-   "published": "2026-10-20T14:49:26+00:00",
-   "summary": "News story from Steel City Underground. Full report at the original publisher.",
-   "id": "5f3153e761"
-  },
-  {
    "title": "Week 7 odds: Steelers open as slight favorites vs. Saints",
    "source": "Behind the Steel Curtain",
    "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-odds/176592/week-7-odds-steelers-open-as-slight-favorites-vs-saints",
@@ -1091,14 +1082,6 @@
    "id": "c170b3e653"
   },
   {
-   "title": "Plays of the Game: Germie Bernard scores first NFL touchdown to lift Steelers past Buccaneers",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/20/plays-of-the-game-germie-bernard-scores-first-nfl-touchdown-to-lift-steelers-past-buccaneers/",
-   "published": "2026-10-20T11:47:58+00:00",
-   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
-   "id": "ff47dfcfd1"
-  },
-  {
    "title": "4 Steelers standouts from their overtime victory over the Buccaneers",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/4-pittsburgh-steelers-standouts-from-their-overtime-victory-over-the-buccaneers-01m5b8avetkk?utm_source=RSS",
@@ -1194,14 +1177,6 @@
    "published": "2026-10-20T01:09:57+00:00",
    "summary": "News story from TribLive. Full report at the original publisher.",
    "id": "737344824f"
-  },
-  {
-   "title": "Steelers signing WR Marquez Valdes-Scantling",
-   "source": "Behind the Steel Curtain",
-   "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176587/steelers-signing-wr-marquez-valdes-scantling",
-   "published": "2026-10-20T00:55:32+00:00",
-   "summary": "Trade/roster move story from Behind the Steel Curtain. Full report at the original publisher.",
-   "id": "a0c0b32de2"
   },
   {
    "title": "Steelers players aware of unrest in France, trusting of NFL to provide positive experience in Paris for game",
@@ -1333,6 +1308,30 @@
    "via": "Google News",
    "summary": "News story from CBS News. Full report at the original publisher.",
    "id": "5604340c18"
+  },
+  {
+   "title": "The Steelers finally unleashed their blitzes \u2014 and Jalen Ramsey \u2014 at Tampa Bay",
+   "source": "Pittsburgh Post-Gazette",
+   "link": "https://www.post-gazette.com/sports/steelers/2026/10/19/steelers-blitz-jalen-ramsey/stories/202610190025",
+   "published": "2026-10-19T16:30:00+00:00",
+   "summary": "News story from Pittsburgh Post-Gazette. Full report at the original publisher.",
+   "id": "cb5e385ab9"
+  },
+  {
+   "title": "Pittsburgh Steelers lose key cornerback to hamstring injury",
+   "source": "PennLive (Nick Farabaugh)",
+   "link": "https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-lose-key-cornerback-to-injury.html",
+   "published": "2026-10-19T16:16:25+00:00",
+   "summary": "Injury story from PennLive (Nick Farabaugh). Full report at the original publisher.",
+   "id": "26d8e29a34"
+  },
+  {
+   "title": "Steelers\u2019 winning ways are hiding a troubling Chris Boswell problem",
+   "source": "Still Curtain",
+   "link": "https://stillcurtain.com/pittsburgh-steelers-winning-ways-hiding-troubling-chris-boswell-problem-01m5a2ekha59?utm_source=RSS",
+   "published": "2026-10-19T16:00:02+00:00",
+   "summary": "Game story from Still Curtain. Full report at the original publisher.",
+   "id": "50609f1d4f"
   }
  ],
  "dropped_bad_links": 0
