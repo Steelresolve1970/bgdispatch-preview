@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-21T21:57:53+00:00",
- "data_updated": "2026-10-21T21:57:37+00:00",
- "count": 128,
+ "generated": "2026-10-21T22:08:47+00:00",
+ "data_updated": "2026-10-21T22:08:31+00:00",
+ "count": 125,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -1641,45 +1641,6 @@
    "summary": "Video from Steelers Now.",
    "source": {
     "name": "Steelers Now",
-    "url": null
-   }
-  },
-  {
-   "id": "9d37442956f8cfe5",
-   "type": "podcast_episode",
-   "title": "Buccaneers Preview & Predictions | Steelers Afternoon Drive",
-   "show": "Steelers Afternoon Drive",
-   "url": "https://podcasts.apple.com/us/podcast/buccaneers-preview-predictions-steelers-afternoon-drive/id1700240934?i=1000796735252",
-   "published": "2026-10-16T22:07:00+00:00",
-   "summary": "Podcast episode from Steelers Afternoon Drive.",
-   "source": {
-    "name": "Steelers Afternoon Drive",
-    "url": null
-   }
-  },
-  {
-   "id": "443f5cfe65647f41",
-   "type": "podcast_episode",
-   "title": "DK’s Double Shot of Steelers: Those linebackers",
-   "show": "DK Pittsburgh Sports",
-   "url": "https://podcasts.apple.com/us/podcast/dks-double-shot-of-steelers-those-linebackers/id1072021022?i=1000796735591",
-   "published": "2026-10-16T22:01:00+00:00",
-   "summary": "Podcast episode from DK Pittsburgh Sports.",
-   "source": {
-    "name": "DK Pittsburgh Sports",
-    "url": null
-   }
-  },
-  {
-   "id": "5628429fedf2ae28",
-   "type": "podcast_episode",
-   "title": "The South Side Beat - Ep. 301: Can Steelers win on the road?",
-   "show": "DK Pittsburgh Sports",
-   "url": "https://podcasts.apple.com/us/podcast/the-south-side-beat-ep-301-can-steelers-win-on-the-road/id1072021022?i=1000796743885",
-   "published": "2026-10-16T22:00:00+00:00",
-   "summary": "Podcast episode from DK Pittsburgh Sports.",
-   "source": {
-    "name": "DK Pittsburgh Sports",
     "url": null
    }
   }
