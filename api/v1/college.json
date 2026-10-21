@@ -2,8 +2,8 @@
  "api_version": "1",
  "dataset": "college",
  "description": "College prospects at the Steelers' top needs with last-game and season stats (CollegeFootballData.com) and recent headlines.",
- "generated": "2026-10-21T21:03:49+00:00",
- "data_updated": "2026-10-21T15:05:34+00:00",
+ "generated": "2026-10-21T21:14:41+00:00",
+ "data_updated": "2026-10-21T21:14:24+00:00",
  "count": 20,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
@@ -42,7 +42,26 @@
    "stats_summary": "Darian threw for 326 yards and 3 TD with 1 pick in a win vs. Florida State. Through 6 games he's at 1,764 yards, 18 TD and 1 INT (80.8% completions).",
    "stats_found": true,
    "stats_url": "https://collegefootballdata.com",
-   "headlines": [],
+   "headlines": [
+    {
+     "title": "Miami Offensive Lineman Matthew McCoy on Darian Mensah Relationship, Growth, and Getting Stronger",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTnhOUHRKdTJwNVFtNC1BblJOZ1RrR3FzTWFsNEpwYVdWNmxTemJwNU5GdHFOdXF2TElaeHRZSWJROWd0dEoxRkh5TGJWdWtaOXNOaVhWVnNYdHZjZV9FOXJSdWp1OWp4RTNuWnJrdFFQRlRmTVFmTWo2M2wzRE1IYTFJVHhOaXlBUE5CSw?oc=5",
+     "source": "Yahoo Sports",
+     "published": "2026-10-21T17:42:40+00:00"
+    },
+    {
+     "title": "Miami QB Darian Mensah Preview Pitt, On Malachi Toney and Being Ranked No. 1 in the Country",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMDE4Y21aa2FHaEZHTm13R3lFYXd1OEZzVG5EcHRUNE5kWnZEeHYybjMyQmQxdUdUU0t1NVJlTkhNY3h6UGhaM25TQ19samxhZ3ZSVnFBNWctNWlKWk91djk2d1VWOUR3aGlIOXBlcXBrRHRTZnRWSHBlbDR2UjNPUUJLaw?oc=5",
+     "source": "Yahoo Sports",
+     "published": "2026-10-21T17:05:39+00:00"
+    },
+    {
+     "title": "The Next Level Darian Mensah Can Take to Be A More Complete Quarterback",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOajhVcS1VRW1rcDVFb1FrY3JMWEZSZ253ZmhGWGRHTXY5WDBCMW5DV2k3dVhtNDkzSmxlT3hXSTFIZjRRcFR6emN0M0JfOGYxN1p0YUJOWHFSUURsTmVmdWpOdUY2Vjk4TW9OZ0VGZkxLcFA0WVZYa3ZfS3prc1M2TlBhV0Y?oc=5",
+     "source": "Yahoo Sports",
+     "published": "2026-10-21T16:42:39+00:00"
+    }
+   ],
    "source": {
     "name": "CollegeFootballData.com stats + Black & Gold Dispatch board + Google News headlines",
     "url": "https://collegefootballdata.com"
@@ -72,22 +91,22 @@
    "stats_url": "https://collegefootballdata.com",
    "headlines": [
     {
-     "title": "New Field Yates NFL Mock Draft Reveals Top 10 Picks, Landing Spots for Drew Mestemaker, More",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUUVCSnRuUHN1bHMxaVcxOHdlM09SR0JCb05sR212bFNFS0wwck9iSFZMZnNnWWEwSVZhUFpOaV9WaHBwZ0QzVVhvNS1UNVdmeHdpWkVCeTdJQ1NoOTVlZXFYTktpTll4b2xZQ2ZuVGJQeXRCbGZpVU9fV1dLZHNWaDR6R2RIcGdHdDNkSUpMM1drOGJiTlpKZVZFSzFDX21xWkNHMXE5dVRzZUJSSzNUa2h2Y3ItUmdOcHlpZWt2cXVJbk5kdFgxQURrSQ?oc=5",
-     "source": "Bleacher Report",
-     "published": "2026-10-21T14:23:42+00:00"
-    },
-    {
-     "title": "Is Drew Mestemaker the QB1 of the 2027 NFL Draft class?",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR0RYLVJ5VzhBZHVEU3NRT3dBcHRqdTFVODk3WnZtVHZEcElFS3pMMENMUjhxVUUxNjBXRkJBNUhOMmY1bG91SDBXXzVsV2NsMmEwUy1TclFGeS1neFAtd3pVd1JMMjgwRVJKVHQ1by13X2piRHAzMXVEMjR5T041M21LeUU3XzdPZ1cweXJ4VmxFTGNyVl94UWZEd0VQbWRPb2c?oc=5",
+     "title": "How Colorado football can slow Oklahoma State QB Drew Mestemaker",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUGZvX0c2VFBKMEZLSHVWZzZwM2xSbWRHY19PTHNtMzA5YmZPTkI3WFFNejNrWVVOM1d0Rnk1VDhxQS1rY19RUV9FSHNXR0VDbE4wdVREbVc4bUdkUEVHeWhGWXhKQlpCRVdibEJlVGtLWi1YRFBXVzA2RWVubnlDMGZaMzdMYXVxM21wUDZWbw?oc=5",
      "source": "Yahoo Sports",
-     "published": "2026-10-21T01:19:00+00:00"
+     "published": "2026-10-21T21:06:02+00:00"
     },
     {
-     "title": "Deion Sanders Doesn't Hold Back on Oklahoma State Quarterback Drew Mestemaker",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZlZWR3pTYmJvcVd0U25yR29WM0x4WWxhSFlZbGlXaDU1WF8zVC0yaHRkUXV3d3NMOEQ3QUU2NmJ4LTBYQXItRHhhQU9GaFVaaXRNdGE1alotMjN1TVpWQmtjNVV2S1VVOXduLUhRZzRod1JmR0daRG92YnRnT2puZzNWRjREUDF1SHJMRFJBTGM2QjF5YzRTVS00dVQxZWRJY3Z1UkhDR3Uwc3NqMWpkZXE3Rjl0MW0xajluOURUT2szY1Vf?oc=5",
+     "title": "How Oklahoma State’s Drew Mestemaker Showed NFL Future Against Houston",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUXdEVjdRdzM2ZzU2UzRwOVVPbkxGRFdvV1FMeDFybG1XR0xIOVVPNTZteHJwSnZtY25MSVFCa3dfcDUwbHBqV19HMlhiU0ZyelQ4a29VSjBSYnJLQkluQ2pPR2FWTHJQLWVtMmVyYXNQLUFYT3lzMVBleTJ5b1RwdGYwc3ViV1NDSVRYTDB3OFBIaWVrdmZRMjJQNlV2bmo0NkNULW5HaENjNFMwOGpVLXNjSWhVcUgzaVg3Ug?oc=5",
      "source": "Sports Illustrated",
-     "published": "2026-10-20T18:02:35+00:00"
+     "published": "2026-10-21T21:00:00+00:00"
+    },
+    {
+     "title": "Drew Mestemaker 2027 NFL Draft profile: Oklahoma State QB's projection, strengths, pro comparison",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTFpMZjJOV0F1RWNyWWZ5RHRucXg0ZWxtSlg3NWROVjZMRGxOd1FUYjhvdV9xRldLTkM2ZzIxMWItc1ZsdU5UbjBScWlmb0ltbDZuVU5SZFZ5ZzlTMENHQzdZbjB0bzVkNjkzRGtMVFFDUGJDVV9JQV9ua011TExGYy1EMEh0c0xLUUtxRmI0TEhFVHkxVHRUWUViTVE5ZmpMMHlB?oc=5",
+     "source": "NFL Mocks",
+     "published": "2026-10-21T18:53:07+00:00"
     }
    ],
    "source": {
@@ -119,22 +138,22 @@
    "stats_url": "https://collegefootballdata.com",
    "headlines": [
     {
-     "title": "Steve Sarkisian Faces a Bigger Problem Than Arch Manning's Struggles",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaGx1eGk1b1FOakFMM1VnVHNscmd5cDdmQU9IeERCVVVROTNZUnBkZWxNZ093V2hYTkhWQm5US1ROVUJoN3pySXQ5enhOc2JKZ0xHR24tXzVyODl3bmZCRHlqVW5McXl6QmN4eHVHNDNXOHVFb1pmdVBBc211ZFlrTURJRUl6VzdkZW1uU2tZeTVUMkk1bDVPNzc4VlZvRnlJY2tZOFZ3Q053WUVZ?oc=5",
-     "source": "Sports Illustrated",
-     "published": "2026-10-21T12:00:05+00:00"
-    },
-    {
-     "title": "Urban Meyer says Arch Manning has 'gone backwards' as noise grows surrounding starting job security",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTTU5Z2d3WENseHpXRUl5LTN1Q3BPVEhCakVpMlI5Z09UMEpGcmk2X2pmSmJQS1R4STNkQTVEYy1fTGoyM0hiSDRhcC1rdzdTaXFSb0RfWGFIQ1M4ekNBWmFzbnFQXzRwM0NYc0FPMEVac2U0SXRoUVdnSXVFR011S3pDY3ZtbDRzS1lTZlJ6ejd5YzR2ZFF4SUtCWjhPYWJHVmNCaC1xak1QdUZPeFR6RVdaRkg4UGxOTmkwa25JYjNvSEY2cE5jUA?oc=5",
+     "title": "Brian Kelly pins blame for Texas' offensive struggles on coach Steve Sarkisian, not Arch Manning",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWE9YQmVzejZmSG5mY2Q3TVVRYmFnMjJVQ1JqSFlwbVdHN2puQTZpaFVKZnZJRC0yYU5QbkdvYXZUMUtqYlRMbDZBVTVJTDZoUnpJSHhTclRLSGRzYUx1RHdxczI2LUhrS1JaaThhSTRqclVJRDkyOXFKcms5bmlKVk5OeW9Ebmg4MzJZUmEyUmNxZnJEQUlPUGFjR044R2UycnI0WEpiRGtKZnNsdF9aS29YT0NDUWRHdFpEbzNhVFBGMW5m?oc=5",
      "source": "Fox News",
-     "published": "2026-10-21T10:52:36+00:00"
+     "published": "2026-10-21T19:14:19+00:00"
     },
     {
-     "title": "Arch Manning, Texas look to rebound against No. 7 Ole Miss",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdGw1QWJlSjVRN0k1OE9OMXlYMTIwTFp5SFZrRjR1dm5fVHZpWGV6ekFaMGx2OWUtVU5pZktaTW5mdU85RFhYN09uMGlrQjMzbnppM1cwZ0ZibWJjd012cXRITWYya0ZkRlRLVER5Q1U1YkpJVS0yUEcySk5uTzZEUk9YVUs4Zl84S3ZnaEtCemgwWFJIYzZWZmlEb0g2ZG1UVTlmdE1jYVY?oc=5",
-     "source": "CBS Sports",
-     "published": "2026-10-21T07:04:00+00:00"
+     "title": "Arch Manning Advised to Transfer From Texas Instead of Entering 2027 NFL Draft",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRXBCaVk5enZ5dk1UTWFSUHQ2ZjlvTFJzaFlySThNczVwaWJwRjdja2NBNWlOdi13R2tmUFp2OEpCS3hPVG9xdzNrWV9MUUNfclZFdnVFM3ZtQ2UzVEZkelRUU1ctOUtPRDVfWDhYZ0JVdng3VFpfOVVuNEFmUnBWU2ZqZU9qQkNTNzhZOA?oc=5",
+     "source": "Yahoo Sports",
+     "published": "2026-10-21T18:49:52+00:00"
+    },
+    {
+     "title": "Finebaum: ‘It’s embarrassing what (Sarkisian's) done to Arch Manning’",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV0tEMzNaanptZnlsZnlKWjhyWnBJeHlrbXlUb1J3V1BNc0FwU29aT1BDNEdXQ052MnhoTUdOTTg3SnZEN0pVQXdNQkJReVNWT2U0UGNaaEk0TWhmdjdrNDA4MDl0T2ZPbGZwdG9vUm52a0o3SVJtckF2cnlJMGZyemQ0cnZ2VzBQMlNrOXRjSTJBc0w3Zmc?oc=5",
+     "source": "Yahoo Sports",
+     "published": "2026-10-21T17:59:08+00:00"
     }
    ],
    "source": {
@@ -213,6 +232,12 @@
    "stats_url": "https://collegefootballdata.com",
    "headlines": [
     {
+     "title": "Notre Dame Star Cornerback Leonard Moore Named A Sporting News Midseason All-American",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTnZpaDBxdEh5LXRwS3lFNGJIN0ItMlNyRUFQWU5BcHdNWFV4ZHNOeDNxVHdPWElkRF81SjZteHMxRWEwa2FCbjNnaTByeTM3OEtKWEwxSUlPSEZpb1d1R205TjZjVGtCTUZXTUxDaTlhbTJYdEw4Q01FendrV3dpSHBBa3VGNXFMWExmQkZwWEVZOEdOZWRaWXFXRjZFRkZpVW1ISGRnbWtnRE9YRnhYa0tweGpObEg4VEVRS3daQ3lOUmQ4Qm9pTDJSWGl5eURJ?oc=5",
+     "source": "roundtable.io",
+     "published": "2026-10-21T15:46:52+00:00"
+    },
+    {
      "title": "Notre Dame football coach Marcus Freeman on CB Leonard Moore vs. BYU",
      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPcFRIZkNXQzJ0WHdmZWdkTG02UkFvLS1TbEtoOXJDN2FpRkVnMDRkMGQzcDFPZHRqd3J3WUZfa3NmdDEwbEt4clhUelotcWZETHpXQmFBX3hac2o0dTE1NzFFbVBFX3ptQllTZGJiRVRLZ0szUVNQS1BpNTZIT29oZUhxZm9Fd2E0TllEdlFpRVRVVDJDbmwtZ095X1Q0bVdpSjJTQTNJUW53Z2RPN1IydHdGRy02VEM2UzY0cHZ3aVVwQ2lOR0tscUozY3FYNFNMVUZVbGJIWmxaMVZYOU81NHdfLUs3d0pyVzJkdkhNZG9UMHdGWU5iMXYyb04wWUQ5?oc=5",
      "source": "South Bend Tribune",
@@ -223,12 +248,6 @@
      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNal9JSEMxaGgwOGV4VTBURlg3QlAtbFFKejZhNnhnY3pRcElQeThxV3E2TDBuRHZiQURjQnRSU21nMEhFSzQ4bndMcjhSUG4xMThYUzVBYzRfTkxEaU1lY2ZNWVc0dm9CN2IwSFNReEJQZVRacjR3QU9LOTFQX2ZMRkx0ME4?oc=5",
      "source": "Yahoo Sports",
      "published": "2026-10-18T02:36:00+00:00"
-    },
-    {
-     "title": "Leonard Moore Reaches Lott IMPACT Trophy Quarterfinals",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jQXNNTUVqN0pzT01ZSEE4c04zUHZxNUVBS3N2TzZ1LTBqN0ZNTndSbVh6YzZJN0NJRm1xSHRzZzRYNENfZ2hnclhrUFFLRU1rdm01Xy1ZZkgzU0FMNzRVaVU1dzVWOE94NGhRdFAyeWRybEd4?oc=5",
-     "source": "SuaraGarut.ID",
-     "published": "2026-10-18T00:19:09+00:00"
     }
    ],
    "source": {
@@ -636,16 +655,16 @@
    "stats_url": "https://collegefootballdata.com",
    "headlines": [
     {
+     "title": "Raylen Wilson, LB, Georgia: 2027 NFL Draft Prospect Profile & Scouting Report",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSGtqZGRaZFl3Z0NMc00xemNKSzB6MkROZTkxTnpqVGJPR1hueGQxSlZfbmc5SVFiZ3RNYTV0UW1hbkJsVWRPSnBGeHNxcVVZMmxjekpyS2EwODBiYTRaMzhhd1pNOUFSZkdUMWdmd2hpMEdZZEwzcWMwQkJHNm5IVks2YWhRRnZwYmxyYU8tbGsxV2JxeUtNdEJaMUV1VVhHd2xaQ3FHNDZWYnpIWS1CTmtxelZPbkU3aUotTUNwdWlfaFUtTDVLanM5cl83V2ozNWc?oc=5",
+     "source": "NFL Draft Countdown",
+     "published": "2026-10-21T17:00:24+00:00"
+    },
+    {
      "title": "Alabama makes the exact right move by banning fan who hit Georgia's Raylen Wilson",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNmEtbGo2cnVUSzNta3lwNFNNaWlYSWQyMWlzOGM4d2plZnM1MHhoZHJJS3lJT293WUM2bW1rdGxxVXd2SkFVbnBLMHkxVXB0QWllQ0tTRFRRWjVTV1EzMVluZkM3N0o1UE5qNjM2eDF3Wml1N01jMnY1Q0dxNTc5ZVZiM25GMDR6UGtxZm5SaEo2Y1NjRTRCUUFmcw?oc=5",
      "source": "Bama Hammer",
      "published": "2026-10-16T19:12:22+00:00"
-    },
-    {
-     "title": "Alabama takes action against Raylen Wilson offender",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmtIUjg1YmNpWmZyeDJRN2RMclpyUjZDZFFEcFcxaDlKS3psYkYwRjR2VTFsaUZLbkNtVlEyMnFMQS0zVVZZamRkTmxaVTl6RndRM3o0ZFpid2tuY0JyT1ZmdDdTdzdxYm1DTTZ6LXpTNkVVdldzSWNZR3BzRHhTVmpoaDNhQTdQTi1MVzU2MXZWRTlHWGh0cE80dUdTei1zalE?oc=5",
-     "source": "On3",
-     "published": "2026-10-16T09:29:11+00:00"
     },
     {
      "title": "Alabama Says It Has \"Taken Appropriate Action\" Against Fan That Hit Georgia Football LB Raylen Wilson",
@@ -683,22 +702,22 @@
    "stats_url": "https://collegefootballdata.com",
    "headlines": [
     {
-     "title": "Cinematic Recap: Behind-the-Scenes Footage of Ryan Day’s Pregame and Postgame Speeches, Nolan Baudo Calling Jeremiah Smith “The Best Player Ever” and Locker Room Celebrations",
-     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQSTFfd0J5SEFycVU4SXJpWERUNGJ2SnNCejV6Z1diNm9Udm92LWt5QkppRGJBM0dTQ2RTMjZWRHRwSFBNaGJiTi1wRnJ3SkswYVk2U2hWUEZFWUNJZ1FuTU5UQVg0LUxNUjQtTnZvTktfVTdXam1iUl82TWo3WFl1ZDVDMS0tU0tkQS1oN185Y3E1ZU5MaUNYX0FTUTdRaVMwaXlubmNQSEgxRFFRRXFxWVlJZDYxOHdZSWFVbTIxSkV1WHhlcllIdTFDLXBOY3FBZnhndjhCdE9kcmNFSko5NFdid184b2xjaEtPMUh0TDhlVEhUTFR4Q2pkaWtHMjBadG9yVzdpRzE1NW95?oc=5",
-     "source": "Eleven Warriors",
-     "published": "2026-10-21T13:43:01+00:00"
+     "title": "Ohio State WR Jeremiah Smith emerging as potential fit for Chargers",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWjZZcEJLVTVqZ3c2RjV0clVESWhIVWh2SGVkWVFoQUJUNkhDMHJoMEhOMVBGMDJhVzNJZ1dfZFBSRFhwYjJZMU0yNEJENk1ydkQ2Rl9mbU5ldFgwUElhRnV1TkdQNlhtT2NYVDJjS0NMS19JTy1iY0xXRGZyZHJHWnhTYkhtUXRTajRqM0lMS1Z6YUJBTU5ReHlORkI1Y3lBOUpwSm03OC0xX1BxU2EyT0Jua1RxRFJJTVhVMWRpa1ZrYlNiQU54bW10TGJERTY2VnBnbA?oc=5",
+     "source": "Yardbarker",
+     "published": "2026-10-21T20:19:37+00:00"
     },
     {
-     "title": "College football midseason All-America teams: Jeremiah Smith, Colin Simmons lead first-half stars",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaGx0cXlRZWZuUHJpSTRoUG1wOXNwU3llZkZGd3NwZ2poenNLbGhubHdIc3dLYUotUDh4TXZBQWZuMWFfVGFlU3ZQcXhnUnhuWnExVDVwMXFtQ2ZRZ2M5S0M4NER2c2RaRTZGU2FJNnBtTXpRd0lZNWctR1JuZHNPdWV3d21LTi1kaDhoSnBwZXdHaGREZHB5alpKejZsZGdDd3pBUw?oc=5",
-     "source": "The New York Times",
-     "published": "2026-10-21T10:00:12+00:00"
+     "title": "Is Miami’s Malachi Toney better than Ohio State’s Jeremiah Smith?",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4eFRURVdDa2IwZGFLOC1nTHhlOHctbE1WaUVYbWNjdDhhbTNOY2JsOFJINjdPOHhHQjJMcjVORHVSbHJ6LWxSd2lrZ0lRamJwVE0tcjF4X09zcmFKV2Z1SC1sZnI?oc=5",
+     "source": "Sun Sentinel",
+     "published": "2026-10-21T18:50:43+00:00"
     },
     {
-     "title": "Skull Session: Ohio State Ranks No. 1 in SP+ and FPI, Jeremiah Smith is the Half-Season Heisman and Jay Timmons’ Breakout is a Sight to Behold",
-     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOY0tYd1BEazJzN1Q0R0Z0SlBrX213Ukh1ZkJ0eUNqWUE4U1g5MzM0U1NvZkVYZ0hDdFlfRHZmTUV3d2ZRS0tqek1tUGZwYVFKbjdKMWdkYW1NZEk5WVdDWlVfNjAzVzdLZ3VEaUJnalFQbnpMSEpSLWJtaGx4SHgxWi1pNENhLWkwTlJnNE1Ra0x6VE9XNG93RWpiOFF4R2FZbDR6VlN2dFpGbmRwdkhXNHRyQ1RxNVZNV2g3c3VIYXVSeVZWbWxiUlVpTDVzWk1tOXJSVGp4NXViMk9HSnR1a1BVVnlfdUhiT2U1VUZIcHhyYl9LX1lST19mZXVFWU8yanhKQ2I4MHJiTXps?oc=5",
-     "source": "Eleven Warriors",
-     "published": "2026-10-21T08:55:00+00:00"
+     "title": "Jon Wilner: Ohio State's Jeremiah Smith my midseason Heisman pick as preseason favorite fade",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcUZIV05ONDlRMDdLTHBRcFBlOTJpdENOS1ZUajcySEFOejdnRFpkVEFPdEFXcGZRYW12RGE1MmVMY18wTTZLZ1hGMndHUXQyLXRUUlBjcC1rSzU5c3hRQkJTNWpSZVNvbFpjRkdtUEZjTm5NOGNORjN3TlpScUZIQnBTOFNDWmczNXZzWXYtUmFJSmp4cUpqRXdGcGVlMTg4R3lBOHBSZlJ2cUVfVUJtTUZRTzc1VUVhMmQzZzg0bHFLRS1nT2FkX3V4eGtDVGRZNUxqYlpR?oc=5",
+     "source": "San Diego Union-Tribune",
+     "published": "2026-10-21T16:51:52+00:00"
     }
    ],
    "source": {
@@ -730,6 +749,12 @@
    "stats_url": "https://collegefootballdata.com",
    "headlines": [
     {
+     "title": "Steve Sarkisian Must Find a Way to Involve Cam Coleman Against Ole Miss",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSnFDUEtIRUVBRUNtb1JwZFFhR0ZuLVlacGVWb2tBTWtMeGhvQ3FWYU1xSlpZX1ZudVdQTC1pUXFReUVWNjZ5OV9UT1lTMm5iN1FmZUVDWlpkRmZfVVd3NU5BRUtYQmpNSEI3NURRVHlGY0hYVm9US0h6QTdRRmFWY1V4bmRLYXNpYU9hSEZYd2w5M1NoTlQtdmVWaVJ6VTRkbUU1NE1qS2ltQnVSS2REXzd3RQ?oc=5",
+     "source": "Sports Illustrated",
+     "published": "2026-10-21T17:06:42+00:00"
+    },
+    {
      "title": "Arch Manning finds Cam Coleman for deep Texas TD",
      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NQ1lwVVR1U2dWNnpYdTQ0NkkwZFBSN0lUTUVZQ1hncVRyMHZWWUhEdE1JbmtXcXZFTlc0YWlpSmJFckY4THhVT2FrckZkbjdudXlrRnowTklVbW8?oc=5",
      "source": "ESPN",
@@ -740,12 +765,6 @@
      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOZjE3NTl4S2kwRGc0b3lKalVQZ2JJY19rd0pPU29QdDNuQjdLZHJybGJ4aERMZmZPZE5XWUZETE1ZSlNleFNPNmJrS19qRUtvblU3QUxfb1JQdlhMYVNNZ3hELXpFZG5TTFlXTlBnZE5qZEhDZWhNeW9LQzBhSzZDRHpNNG54QkhTNEdFd2JTMFlBMHFlbk9jcTI5UkloMFZ4aTBGaVN2UlRRN3d3SC12TEkzeHhCTEV4bW82WEt1RUNJVVdEUDRjZ2lRREJjWDN4TXhaNFhfMzhlTnNBeXAxMThwTE1Fc3JtMHF3Z3NoRFVheVdIV3FZODBqQ2tjWkwxdmFYc0Z3?oc=5",
      "source": "The Lufkin Daily News",
      "published": "2026-10-18T17:11:47+00:00"
-    },
-    {
-     "title": "Auburn fans mock Cam Coleman after Texas falls to Florida on the same day Tigers shock UGA",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNEsyVk5yanNDVWlrSG1iSzdscURMTlFMX1VsWHhueUdxaURhMlZ3dWFxU2pGSWVCbWEzZVlyMjdqVDBsaW1rOUhDOHlfR2laZ3RzaTdEUjZoYUZYRGNacUNITmdycU42MjctSWg1aXBCcXhnTHJFX2FIUHdZeXJ5ZW5oZjM4RFoyeUR2UTdHeGdzZmpkRGZIeDRlbEp1OGVZb0Iyb09vc21KMTJOR2JvNGdUMnM?oc=5",
-     "source": "Fly War Eagle",
-     "published": "2026-10-18T02:57:00+00:00"
     }
    ],
    "source": {

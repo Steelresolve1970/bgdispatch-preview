@@ -1,6 +1,6 @@
 # Steelers Opponent Preview
 
-_Generated 2026-10-21T21:03:49+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T21:03:40+00:00._
+_Generated 2026-10-21T21:14:41+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T21:14:26+00:00._
 
 Week 7: Steelers at **New Orleans Saints** (NO 2-4), kickoff 2026-10-25 13:30 UTC, Stade de France.
 
@@ -17,7 +17,7 @@ Last 5: NO W 24-17 @ BAL L 35-27 vs LV L 45-24 vs ATL L 23-13 vs MIN W 34-27 @ N
 3. **Chase Young vs. the Steelers' offensive line**: Chase Young is the Saints' top pass rusher; Pittsburgh's line has to keep him away from the quarterback. (Chase Young: 5.5 sacks (3rd in NFL), 9 QB hits; PIT allows 3.17 sacks/game (28th))
 
 ## Pundit picks
-Picks not posted yet; experts usually post Wednesday through Saturday.
+- Joe Jensen (Predictem): Steelers 26-19: https://www.predictem.com/nfl/steelers-vs-saints-prediction-picks-paris-week-7-odds/
 
 ## Team stats (per game, NFL rank of 32)
 
