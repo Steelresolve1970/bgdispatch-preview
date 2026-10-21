@@ -1,8 +1,10 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-21T00:05:33+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T00:05:28+00:00._
+_Generated 2026-10-21T00:34:48+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T00:34:42+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
+- **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
+  [Aaron Rodgers Reportedly Has ‘Favorite’ WR Trade Target](https://heavy.com/sports/nfl/pittsburgh-steelers/aaron-rodgers-favorite-wr-trade-target/): Heavy.com, first seen 2026-10-21 00:34 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Steelers Rumors: Could Davante Adams Be a Trade Target?](https://www.chatsports.com/pittsburgh-steelers/a/steelers-rumors-could-davante-adams-be-trade-target-53435): Chat Sports, first seen 2026-10-21 00:05 UTC
 - **Rumor** · tier: Fan blog · consensus: 2 source(s), top tier Fan blog
