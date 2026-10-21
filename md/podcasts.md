@@ -1,10 +1,11 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-21T18:18:55+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T18:18:36+00:00._
+_Generated 2026-10-21T18:29:46+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T18:29:30+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Steelers vs. Saints Week 7 Preview | Aaron Rodgers Problem Brewing](https://www.youtube.com/watch?v=B0agqGjSVpU): Still Curtain Podcast, 2026-10-21 17:20 UTC
 - Video: [The rookie Germie Bernard got his first NFL TD at the perfect time! 🔥👏#germiebernard #steelers](https://www.youtube.com/shorts/VoBCAmwhJqs): Not Just Football with Cam Heyward, 2026-10-21 17:11 UTC
+- Podcast: [Steelers Offense a One-Trick Pony? | Steelers Morning Rush](https://podcasts.apple.com/us/podcast/steelers-offense-a-one-trick-pony-steelers-morning-rush/id1700240934?i=1000797476047): Steelers Afternoon Drive, 2026-10-21 17:06 UTC
 - Video: [Steelers Offense a One-Trick Pony? | Steelers Morning Rush](https://www.youtube.com/watch?v=-zQt3m3PEa0): Steelers Now, 2026-10-21 17:05 UTC
 - Podcast: [The Terrible Podcast — Steelers Vs. Buccaneers All-22 Review, Valdes-Scantling Return, Monday Presser Recaps, & More](https://podcasts.apple.com/us/podcast/id405990739): The Terrible Podcast (Steelers Depot), 2026-10-21 16:37 UTC
 - Video: [AFC DEFENSIVE PLAYER OF THE WEEK: JALEN RAMSEY](https://www.youtube.com/shorts/Wlg6JLl9cbY): Pittsburgh Steelers (official), 2026-10-21 16:09 UTC
@@ -132,7 +133,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [The Terrible Take - Episode 2052 - October 16, 2026](https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2052-october-16-2026/id405990739?i=1000796726979): The Terrible Podcast (Steelers Depot), 2026-10-16 21:00 UTC
 - Video: [Jalen Ramsey Clarifies Comments | Steelers Practice Report](https://www.youtube.com/watch?v=bRDSxlq5FRQ): Steelers Now, 2026-10-16 19:59 UTC
 - Video: [Aaron Rodgers Bonds with Unheralded WRs | Steelers Sights & Sounds](https://www.youtube.com/watch?v=DypVLdv5nY0): Steelers Now, 2026-10-16 18:41 UTC
-- Video: [Is Kaden Wetjen on Short Leash? The Grand Finale with Jack Hillgrove | THE PITTSBURGH FOOTBALL SHOW](https://www.youtube.com/watch?v=bbQu6HyTAh4): Steelers Now, 2026-10-16 18:21 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

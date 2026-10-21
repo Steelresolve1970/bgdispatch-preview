@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-21T18:18:55+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T18:18:19+00:00._
+_Generated 2026-10-21T18:29:46+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T18:29:17+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Aaron Rodgers Thinks Steelers Have ‘One Of The Smartest Offensive Lines He’s Worked With,’ Former Player Says](https://steelersdepot.com/2026/10/aaron-rodgers-thinks-steelers-have-one-of-the-smartest-offensive-lines-hes-worked-with-relays-former-player/): Steelers Depot, 2026-10-21 18:00 UTC
@@ -64,7 +64,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers Urged by Former Super Bowl Champion to Make One Specific Blockbuster Trade](https://athlonsports.com/nfl/pittsburgh-steelers/steelers-urged-by-former-super-bowl-champion-to-make-one-specific-blockbuster-trade): Athlon Sports, 2026-10-21 13:00 UTC
 - [Stade de France: An iconic arena](https://www.steelers.com/news/stade-de-france-an-iconic-arena): Steelers.com (official), 2026-10-21 13:00 UTC
 - [‘Makes You Have Fun:’ Germie Bernard Explains Why He Loves Playing With Aaron Rodgers](https://steelersdepot.com/2026/10/makes-you-have-fun-germie-bernard-explains-why-he-loves-playing-with-aaron-rodgers/): Steelers Depot, 2026-10-21 12:15 UTC
-- [Steelers have more than international travel to worry about against the Saints](https://www.steelcityunderground.com/2026/10/21/steelers-have-more-than-international-travel-to-worry-about-against-the-saints/): Steel City Underground, 2026-10-21 12:15 UTC
 - [Beat Writers Debate What Role Marquez Valdes-Scantling Will Play, And When](https://steelersdepot.com/2026/10/beat-writers-debate-what-role-marquez-valdes-scantling-will-play-and-when/): Steelers Depot, 2026-10-21 12:00 UTC
 - [Germie Bernard is making Steelers forget all about the Makai Lemon debacle](https://stillcurtain.com/germie-bernard-is-making-pittsburgh-steelers-forget-all-about-the-makai-lemon-debacle-01m5a5vwkehr?utm_source=RSS): Still Curtain, 2026-10-21 12:00 UTC
 - [Steelers Stock Watch 2026 – OLB Nick Herbig](https://steelersdepot.com/2026/10/steelers-stock-watch-2026-olb-nick-herbig-3/): Steelers Depot, 2026-10-21 11:00 UTC
@@ -105,7 +104,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [NFL in Paris: League eyes big debut as Steelers-Saints game comes amid security concerns](https://triblive.com/sports/nfl-in-paris-league-eyes-big-debut-as-steelers-saints-game-comes-amid-security-concerns/): TribLive, 2026-10-20 15:56 UTC
 - [Former Steelers first-round pick's NFL career may be on life support](https://stillcurtain.com/former-pittsburgh-steelers-first-round-pick-najee-harris-nfl-career-life-support-01m5cx9yd8td?utm_source=RSS): Still Curtain, 2026-10-20 15:36 UTC
 - [Week 7 Blog: The stacking has begun](https://www.steelers.com/news/week-7-blog-the-stacking-has-begun): Steelers.com (official), 2026-10-20 14:49 UTC
-- [Steelers Surprises: Unexpected heroes emerge in overtime comeback against Buccaneers](https://www.steelcityunderground.com/2026/10/20/steelers-surprises-unexpected-heroes-emerge-in-overtime-comeback-against-buccaneers/): Steel City Underground, 2026-10-20 14:49 UTC
 - [Week 7 odds: Steelers open as slight favorites vs. Saints](https://www.behindthesteelcurtain.com/pittsburgh-steelers-odds/176592/week-7-odds-steelers-open-as-slight-favorites-vs-saints): Behind the Steel Curtain, 2026-10-20 14:30 UTC
 - [Steelers at Saints in Paris: How to watch/listen to the game](https://www.steelers.com/news/steelers-at-saints-in-paris-how-to-watch-listen-to-the-game): Steelers.com (official), 2026-10-20 14:30 UTC
 - [Steelers’ dream 2027 quarterback class is already losing its shine](https://stillcurtain.com/pittsburgh-steelers-dream-2027-quarterback-class-is-already-losing-its-shine-01m5b6pz8naq?utm_source=RSS): Still Curtain, 2026-10-20 14:00 UTC
@@ -117,7 +115,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [The shorthanded Steelers are bringing back veteran receiver Marquez Valdes-Scantling](https://www.post-gazette.com/sports/steelers/2026/10/20/steelers-sign-mvs/stories/202610200032): Pittsburgh Post-Gazette, 2026-10-20 12:13 UTC
 - [Buccaneers just showed Steelers why Drew Allar should be Aaron Rodgers' backup](https://stillcurtain.com/buccaneers-just-showed-pittsburgh-steelers-why-drew-allar-should-be-aaron-rodgers-backup-01m5agyy802f?utm_source=RSS): Still Curtain, 2026-10-20 12:00 UTC
 - [Steelers Week 6 grades: Nick Herbig and the defensive line delivered at Tampa Bay](https://www.post-gazette.com/sports/steelers/2026/10/20/steelers-player-grades-buccaneers/stories/202610200027): Pittsburgh Post-Gazette, 2026-10-20 12:00 UTC
-- [Plays of the Game: Germie Bernard scores first NFL touchdown to lift Steelers past Buccaneers](https://www.steelcityunderground.com/2026/10/20/plays-of-the-game-germie-bernard-scores-first-nfl-touchdown-to-lift-steelers-past-buccaneers/): Steel City Underground, 2026-10-20 11:47 UTC
 - [4 Steelers standouts from their overtime victory over the Buccaneers](https://stillcurtain.com/4-pittsburgh-steelers-standouts-from-their-overtime-victory-over-the-buccaneers-01m5b8avetkk?utm_source=RSS): Still Curtain, 2026-10-20 11:00 UTC
 - [Steelers' Jalen Ramsey Is Not the Same Player Anymore - And That's Great News](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-jalen-ramsey-not-same-player-anymore-great-news): All Steelers (Sports Illustrated), 2026-10-20 11:00 UTC
 - [First Call: Steelers reportedly signing Marquez Valdes-Scantling; a theory on Chris Boswell’s FG miss dismissed](https://triblive.com/sports/first-call-steelers-reportedly-signing-marquez-valdes-scantling-a-theory-on-chris-boswells-fg-miss-dismissed/): TribLive, 2026-10-20 10:08 UTC
@@ -153,6 +150,9 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers’ winning ways are hiding a troubling Chris Boswell problem](https://stillcurtain.com/pittsburgh-steelers-winning-ways-hiding-troubling-chris-boswell-problem-01m5a2ekha59?utm_source=RSS): Still Curtain, 2026-10-19 16:00 UTC
 - [Where Steelers Stand in AFC North After Huge Comeback Win](https://www.si.com/nfl/steelers/onsi/where-pittsburgh-steelers-stand-afc-north-huge-comeback-win): All Steelers (Sports Illustrated), 2026-10-19 16:00 UTC
 - [Fans turned out for Steelers international watch parties](https://www.steelers.com/news/fans-turned-out-for-steelers-international-watch-parties): Steelers.com (official), 2026-10-19 15:50 UTC
+- [The Steelers are heading to Paris in 3 days as protests continue, and one player says what he’s seen online “looks crazy out there”](https://www.pennlive.com/steelers/2026/10/the-steelers-are-heading-to-paris-in-3-days-as-protests-continue-and-one-player-says-what-hes-seen-online-looks-crazy-out-there.html): PennLive (Nick Farabaugh), 2026-10-19 15:49 UTC
+- [Christopher Carter’s Steelers and Pitt chat transcript: 10.19.26](https://www.post-gazette.com/sports/steelers/2026/10/19/steelers-live-chat-aaron-rodgers/stories/202610190029): Pittsburgh Post-Gazette, 2026-10-19 15:30 UTC
+- [4 Colts trade candidates the Steelers could poach after Ballard firing](https://stillcurtain.com/4-indianapolis-colts-trade-candidates-pittsburgh-steelers-could-poach-chris-ballard-firing-01m5a7n7aspa?utm_source=RSS): Still Curtain, 2026-10-19 15:00 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

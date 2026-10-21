@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T18:18:19.410849+00:00",
+ "generated": "2026-10-21T18:29:17.453841+00:00",
  "count": 150,
  "sources": [
   {
@@ -29,8 +29,8 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "ok",
-   "steelers_items": 24
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "steelers_items": 0
   },
   {
    "source": "Still Curtain",
@@ -613,14 +613,6 @@
    "id": "d7577e1135"
   },
   {
-   "title": "Steelers have more than international travel to worry about against the Saints",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/21/steelers-have-more-than-international-travel-to-worry-about-against-the-saints/",
-   "published": "2026-10-21T12:15:47+00:00",
-   "summary": "News story from Steel City Underground. Full report at the original publisher.",
-   "id": "dd96e02d3b"
-  },
-  {
    "title": "Beat Writers Debate What Role Marquez Valdes-Scantling Will Play, And When",
    "source": "Steelers Depot",
    "link": "https://steelersdepot.com/2026/10/beat-writers-debate-what-role-marquez-valdes-scantling-will-play-and-when/",
@@ -945,14 +937,6 @@
    "id": "38796afb44"
   },
   {
-   "title": "Steelers Surprises: Unexpected heroes emerge in overtime comeback against Buccaneers",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/20/steelers-surprises-unexpected-heroes-emerge-in-overtime-comeback-against-buccaneers/",
-   "published": "2026-10-20T14:49:26+00:00",
-   "summary": "News story from Steel City Underground. Full report at the original publisher.",
-   "id": "5f3153e761"
-  },
-  {
    "title": "Week 7 odds: Steelers open as slight favorites vs. Saints",
    "source": "Behind the Steel Curtain",
    "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-odds/176592/week-7-odds-steelers-open-as-slight-favorites-vs-saints",
@@ -1040,14 +1024,6 @@
    "published": "2026-10-20T12:00:00+00:00",
    "summary": "Opinion story from Pittsburgh Post-Gazette. Full report at the original publisher.",
    "id": "c170b3e653"
-  },
-  {
-   "title": "Plays of the Game: Germie Bernard scores first NFL touchdown to lift Steelers past Buccaneers",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/20/plays-of-the-game-germie-bernard-scores-first-nfl-touchdown-to-lift-steelers-past-buccaneers/",
-   "published": "2026-10-20T11:47:58+00:00",
-   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
-   "id": "ff47dfcfd1"
   },
   {
    "title": "4 Steelers standouts from their overtime victory over the Buccaneers",
@@ -1333,6 +1309,30 @@
    "published": "2026-10-19T15:50:00+00:00",
    "summary": "Injury story from Steelers.com (official). Full report at the original publisher.",
    "id": "afbc7852c4"
+  },
+  {
+   "title": "The Steelers are heading to Paris in 3 days as protests continue, and one player says what he\u2019s seen online \u201clooks crazy out there\u201d",
+   "source": "PennLive (Nick Farabaugh)",
+   "link": "https://www.pennlive.com/steelers/2026/10/the-steelers-are-heading-to-paris-in-3-days-as-protests-continue-and-one-player-says-what-hes-seen-online-looks-crazy-out-there.html",
+   "published": "2026-10-19T15:49:27+00:00",
+   "summary": "News story from PennLive (Nick Farabaugh). Full report at the original publisher.",
+   "id": "562a4a4600"
+  },
+  {
+   "title": "Christopher Carter\u2019s Steelers and Pitt chat transcript: 10.19.26",
+   "source": "Pittsburgh Post-Gazette",
+   "link": "https://www.post-gazette.com/sports/steelers/2026/10/19/steelers-live-chat-aaron-rodgers/stories/202610190029",
+   "published": "2026-10-19T15:30:00+00:00",
+   "summary": "News story from Pittsburgh Post-Gazette. Full report at the original publisher.",
+   "id": "4d1cdc5c0b"
+  },
+  {
+   "title": "4 Colts trade candidates the Steelers could poach after Ballard firing",
+   "source": "Still Curtain",
+   "link": "https://stillcurtain.com/4-indianapolis-colts-trade-candidates-pittsburgh-steelers-could-poach-chris-ballard-firing-01m5a7n7aspa?utm_source=RSS",
+   "published": "2026-10-19T15:00:02+00:00",
+   "summary": "Trade/roster move story from Still Curtain. Full report at the original publisher.",
+   "id": "2726676a07"
   }
  ],
  "dropped_bad_links": 0
