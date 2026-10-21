@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T16:33:33.803331+00:00",
+ "generated": "2026-10-21T17:02:02.384475+00:00",
  "game": {
   "label": "at Tampa Bay Buccaneers (Oct 18)",
   "opponent": "Tampa Bay Buccaneers",
@@ -169,7 +169,7 @@
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFqbkq2BzNY3iQ_FPveqVhw",
    "status": "ok",
    "feed_items": 15,
-   "in_window": 0
+   "in_window": 1
   },
   {
    "creator": "Pittsburgh Steelers (official)",
@@ -213,6 +213,14 @@
   }
  ],
  "items": [
+  {
+   "title": "The Terrible Podcast \u2014 Steelers Vs Bucs All-22 Review, Valdes-Scantling Return, Monday Presser Recap",
+   "creator": "Steelers Depot (YouTube)",
+   "link": "https://www.youtube.com/watch?v=dTb7GC3ZHUs",
+   "published": "2026-10-21T16:52:46+00:00",
+   "summary": "Film breakdown by Steelers Depot (YouTube) of at Tampa Bay Buccaneers (Oct 18).",
+   "game": "at Tampa Bay Buccaneers (Oct 18)"
+  },
   {
    "title": "DB\u2019s Steelers Film Room: Jamel Dean Saves the Day in Tampa",
    "creator": "Steelers Now",
@@ -389,8 +397,17 @@
    "week": "Week 6",
    "opponent": "Tampa Bay Buccaneers",
    "kickoff": "2026-10-18T17:00:00+00:00",
-   "count": 20,
+   "count": 21,
    "items": [
+    {
+     "title": "The Terrible Podcast \u2014 Steelers Vs Bucs All-22 Review, Valdes-Scantling Return, Monday Presser Recap",
+     "creator": "Steelers Depot (YouTube)",
+     "link": "https://www.youtube.com/watch?v=dTb7GC3ZHUs",
+     "published": "2026-10-21T16:52:46+00:00",
+     "gid": "2026_06_PIT_TB",
+     "source": "rss",
+     "summary": "Film breakdown by Steelers Depot (YouTube) of Week 6 at Buccaneers (W 26-19)."
+    },
     {
      "title": "DB\u2019s Steelers Film Room: Jamel Dean Saves the Day in Tampa",
      "creator": "Steelers Now",
@@ -891,5 +908,5 @@
    ]
   }
  ],
- "count": 20
+ "count": 21
 }

@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-21T16:33:59+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T16:33:42+00:00._
+_Generated 2026-10-21T17:02:29+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T17:02:11+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Podcast: [The Terrible Podcast — Steelers Vs. Buccaneers All-22 Review, Valdes-Scantling Return, Monday Presser Recaps, & More](https://podcasts.apple.com/us/podcast/id405990739): The Terrible Podcast (Steelers Depot), 2026-10-21 16:37 UTC
 - Video: [AFC DEFENSIVE PLAYER OF THE WEEK: JALEN RAMSEY](https://www.youtube.com/shorts/Wlg6JLl9cbY): Pittsburgh Steelers (official), 2026-10-21 16:09 UTC
 - Video: [8 on the move 🌪️ 📺: #PITvsNO 10/25 at 9:30 AM ET on NFLN](https://www.youtube.com/shorts/DAK6nmsyqNE): Pittsburgh Steelers (official), 2026-10-21 15:47 UTC
 - Podcast: [The Steelers Fix: Dream Scenario Trades for the Steelers before the Deadline](https://podcasts.apple.com/us/podcast/id905962218): Steel Curtain Network (BTSC), 2026-10-21 15:30 UTC
