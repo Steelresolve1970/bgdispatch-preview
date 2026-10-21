@@ -2,8 +2,8 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-21T16:01:05+00:00",
- "data_updated": "2026-10-21T16:00:19+00:00",
+ "generated": "2026-10-21T16:12:04+00:00",
+ "data_updated": "2026-10-21T16:11:48+00:00",
  "count": 130,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
@@ -46,6 +46,19 @@
    }
   },
   {
+   "id": "ac01b23a0bd0b1fb",
+   "type": "podcast_episode",
+   "title": "Hour 1: Sticking it to the Saints",
+   "show": "Steelers Blitz",
+   "url": "https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-102126-mp3",
+   "published": "2026-10-21T15:00:00+00:00",
+   "summary": "Podcast episode from Steelers Blitz.",
+   "source": {
+    "name": "Steelers Blitz",
+    "url": null
+   }
+  },
+  {
    "id": "7d533777079a5528",
    "type": "podcast_episode",
    "title": "Steelers Big Plans at QB and WR",
@@ -68,6 +81,19 @@
    "summary": "Video from Pittsburgh Steelers (official).",
    "source": {
     "name": "Pittsburgh Steelers (official)",
+    "url": null
+   }
+  },
+  {
+   "id": "0ad7ca100843177c",
+   "type": "podcast_episode",
+   "title": "Hour 2: Power Rankings",
+   "show": "Steelers Blitz",
+   "url": "https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr2-102126-mp3",
+   "published": "2026-10-21T14:00:00+00:00",
+   "summary": "Podcast episode from Steelers Blitz.",
+   "source": {
+    "name": "Steelers Blitz",
     "url": null
    }
   },
@@ -263,19 +289,6 @@
    "summary": "Video from Steelers Now.",
    "source": {
     "name": "Steelers Now",
-    "url": null
-   }
-  },
-  {
-   "id": "6a3f309de443b251",
-   "type": "podcast_episode",
-   "title": "Should Steelers Still Seek WR Help? | Steelers Afternoon Drive",
-   "show": "Steelers Afternoon Drive",
-   "url": "https://podcasts.apple.com/us/podcast/should-steelers-still-seek-wr-help-steelers-afternoon/id1700240934?i=1000797337923",
-   "published": "2026-10-20T22:21:00+00:00",
-   "summary": "Podcast episode from Steelers Afternoon Drive.",
-   "source": {
-    "name": "Steelers Afternoon Drive",
     "url": null
    }
   },
@@ -1693,19 +1706,6 @@
    "summary": "Podcast episode from Steelers Afternoon Drive.",
    "source": {
     "name": "Steelers Afternoon Drive",
-    "url": null
-   }
-  },
-  {
-   "id": "47feb07447e41450",
-   "type": "video",
-   "title": "So much went into this play for Elandon Roberts 💥🏈 #steelers #nfl #pittsburgh",
-   "show": "Not Just Football with Cam Heyward",
-   "url": "https://www.youtube.com/shorts/5FYyVJkVFIw",
-   "published": "2026-10-16T16:10:09+00:00",
-   "summary": "Video from Not Just Football with Cam Heyward.",
-   "source": {
-    "name": "Not Just Football with Cam Heyward",
     "url": null
    }
   }

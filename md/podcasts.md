@@ -1,12 +1,14 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-21T16:01:05+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T16:00:19+00:00._
+_Generated 2026-10-21T16:12:04+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T16:11:48+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [8 on the move 🌪️ 📺: #PITvsNO 10/25 at 9:30 AM ET on NFLN](https://www.youtube.com/shorts/DAK6nmsyqNE): Pittsburgh Steelers (official), 2026-10-21 15:47 UTC
 - Podcast: [The Steelers Fix: Dream Scenario Trades for the Steelers before the Deadline](https://podcasts.apple.com/us/podcast/id905962218): Steel Curtain Network (BTSC), 2026-10-21 15:30 UTC
+- Podcast: [Hour 1: Sticking it to the Saints](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-102126-mp3): Steelers Blitz, 2026-10-21 15:00 UTC
 - Podcast: [Steelers Big Plans at QB and WR](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-21 15:00 UTC
 - Video: [You already know the vibes 🙌](https://www.youtube.com/shorts/HdzKsylahSs): Pittsburgh Steelers (official), 2026-10-21 14:49 UTC
+- Podcast: [Hour 2: Power Rankings](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr2-102126-mp3): Steelers Blitz, 2026-10-21 14:00 UTC
 - Podcast: [Time to Believe in One Steelers Player](https://podcasts.apple.com/us/podcast/time-to-believe-in-one-steelers-player/id1627248534?i=1000797435986): All Steelers Talk, 2026-10-21 12:18 UTC
 - Video: [Germie Bernard's First NFL Touchdown, Rookie Wall, Paris Preview & More! | Not Just Football](https://www.youtube.com/watch?v=gYn6X7Mzibw): Not Just Football with Cam Heyward, 2026-10-21 10:00 UTC
 - Podcast: [Germie Bernard's First NFL Touchdown, Rookie Wall, Paris Preview & More! | Not Just Football](https://podcasts.apple.com/us/podcast/germie-bernards-first-nfl-touchdown-rookie-wall-paris/id1633134223?i=1000797421041): Not Just Football with Cam Heyward, 2026-10-21 10:00 UTC
@@ -22,7 +24,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Steelers Vs Saints Thoughts & Predictions | SNR Drive (Oct.20) | Pittsburgh Steelers](https://www.youtube.com/watch?v=PKD5RscDaPI): Pittsburgh Steelers (official), 2026-10-20 23:00 UTC
 - Video: [STEELERS SQUAD SHOW: Winning Ugly Won’t Fly in Paris! Steelers/Saints Preview!](https://www.youtube.com/watch?v=Es_bukL78yk): Locked On Steelers, 2026-10-20 22:54 UTC
 - Video: [Should Steelers Still Seek WR Help? | Steelers Afternoon Drive](https://www.youtube.com/watch?v=Bp2zQ4eZjX8): Steelers Now, 2026-10-20 22:21 UTC
-- Podcast: [Should Steelers Still Seek WR Help? | Steelers Afternoon Drive](https://podcasts.apple.com/us/podcast/should-steelers-still-seek-wr-help-steelers-afternoon/id1700240934?i=1000797337923): Steelers Afternoon Drive, 2026-10-20 22:21 UTC
 - Video: [Every Boz field goal but with every field goal it gets faster 📺:#PITvsNO 10/25 at 9:30AM ET on NFLN](https://www.youtube.com/shorts/2W3Ld83xwfw): Pittsburgh Steelers (official), 2026-10-20 22:13 UTC
 - Podcast: [DK's Double Shot of Steelers: Off OUI go!](https://podcasts.apple.com/us/podcast/dks-double-shot-of-steelers-off-oui-go/id1072021022?i=1000797337026): DK Pittsburgh Sports, 2026-10-20 22:01 UTC
 - Podcast: [How The Steelers Survived Three Quarters Of Stalled Offense Ep 144](https://podcasts.apple.com/us/podcast/how-the-steelers-survived-three-quarters-of/id1648793385?i=1000797333266): Footbahlin with Ben Roethlisberger, 2026-10-20 22:00 UTC
@@ -132,7 +133,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [THE PITTSBURGH FOOTBALL SHOW, Episode 6, Oct. 16, 2026](https://podcasts.apple.com/us/podcast/the-pittsburgh-football-show-episode-6-oct-16-2026/id1700240934?i=1000796695057): Steelers Afternoon Drive, 2026-10-16 16:24 UTC
 - Podcast: [What to Make of Mike McCarthy So Far? | Steelers Morning Rush](https://podcasts.apple.com/us/podcast/what-to-make-of-mike-mccarthy-so-far-steelers-morning-rush/id1700240934?i=1000796692758): Steelers Afternoon Drive, 2026-10-16 16:18 UTC
 - Podcast: [Smitty's Six Pack of Steelers-Buccaneers Topics | THE PITTSBURGH FOOTBALL SHOW](https://podcasts.apple.com/us/podcast/smittys-six-pack-of-steelers-buccaneers-topics/id1700240934?i=1000796692896): Steelers Afternoon Drive, 2026-10-16 16:15 UTC
-- Video: [So much went into this play for Elandon Roberts 💥🏈 #steelers #nfl #pittsburgh](https://www.youtube.com/shorts/5FYyVJkVFIw): Not Just Football with Cam Heyward, 2026-10-16 16:10 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
