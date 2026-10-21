@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-21T04:50:23+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T04:48:47+00:00._
+_Generated 2026-10-21T05:02:05+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T05:00:35+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [NFL Adds Security for Steelers-Saints Game at Stade de France](https://rg.org/news/football/nfl-heightened-security-steelers-saints-paris): RG.org, 2026-10-21 04:17 UTC
