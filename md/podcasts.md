@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-21T13:05:47+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T13:05:22+00:00._
+_Generated 2026-10-21T13:16:38+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T13:16:22+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [Time to Believe in One Steelers Player](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-21 12:18 UTC

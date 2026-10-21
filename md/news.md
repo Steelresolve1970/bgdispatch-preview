@@ -1,12 +1,13 @@
 # Steelers News
 
-_Generated 2026-10-21T13:05:47+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T13:05:04+00:00._
+_Generated 2026-10-21T13:16:38+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T13:16:08+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Steelers bring back veteran Valdes-Scantling amid receiver injury woes](https://www.espn.com/nfl/story/_/id/50232379/steelers-bring-back-marquez-valdes-scantling-amid-wr-injuries): ESPN, 2026-10-21 13:50 UTC
 - [Patrick Graham Lays Out His Fundamentals For Steelers’ Run Defense After Recent Success](https://steelersdepot.com/2026/10/patrick-graham-lays-out-his-fundamentals-for-steelers-run-defense-after-recent-success/): Steelers Depot, 2026-10-21 13:00 UTC
 - [One Steelers stat shows Mike McCarthy is sabotaging Jaylen Warren's breakout](https://stillcurtain.com/one-pittsburgh-steelers-stat-shows-mike-mccarthy-is-sabotaging-jaylen-warren-s-breakout-01m5cdewzrxq?utm_source=RSS): Still Curtain, 2026-10-21 13:00 UTC
 - [Steelers Can Shut Down This Trade Idea](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-shut-down-this-trade-idea-cornerback): All Steelers (Sports Illustrated), 2026-10-21 13:00 UTC
+- [Steelers Urged by Former Super Bowl Champion to Make One Specific Blockbuster Trade](https://athlonsports.com/nfl/pittsburgh-steelers/steelers-urged-by-former-super-bowl-champion-to-make-one-specific-blockbuster-trade): Athlon Sports, 2026-10-21 13:00 UTC
 - [Stade de France: An iconic arena](https://www.steelers.com/news/stade-de-france-an-iconic-arena): Steelers.com (official), 2026-10-21 13:00 UTC
 - [Steelers' Ben Roethlisberger Shouts Out "Invaluable" Depth Piece That Helps The Defense Be Great](https://www.steelernation.com/2026/10/21/steelers-ben-roethlisberger-invaluable-great): SteelerNation, 2026-10-21 12:53 UTC
 - [The best soccer/NFL crossover jerseys as PSG unveil kit for Steelers vs. Saints in Paris](https://www.espn.com/soccer/story/_/id/50225836/the-best-soccer-nfl-crossover-jerseys-psg-kit-pittsburgh-steelers-new-orleans-saints-paris-game): ESPN, 2026-10-21 12:35 UTC
@@ -152,7 +153,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Labriola on the win over Tampa Bay](https://www.steelers.com/news/labriola-on-the-win-over-tampa-bay-x6386): Steelers.com (official), 2026-10-19 04:18 UTC
 - [5 things we learned from the Steelers’ 1st road win of the season](https://triblive.com/sports/5-things-we-learned-from-the-steelers-1st-road-win-of-the-season/): TribLive, 2026-10-19 04:01 UTC
 - [Is this what the Steelers offense will look like against every quality defense?](https://www.nytimes.com/athletic/7703226/2026/10/18/pittsburgh-steelers-offensive-struggles-bucs-win/): The Athletic, 2026-10-19 01:30 UTC
-- [The NFL says the Steelers’ game in Paris is still on despite civil unrest](https://www.post-gazette.com/sports/steelers/2026/10/18/nfl-steelers-saints-game-paris-civil-unrest-france/stories/202610180091): Pittsburgh Post-Gazette, 2026-10-19 01:14 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
