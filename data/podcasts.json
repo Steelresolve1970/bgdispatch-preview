@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T02:39:11.438077+00:00",
+ "generated": "2026-10-21T02:49:58.866699+00:00",
  "date_et": "2026-10-20",
  "days": 5,
  "display_days": 2,
@@ -18,10 +18,10 @@
    "show": "Locked On Steelers",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7JorgD8nGLtvvMy1ogFetg",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 8,
-   "latest": null
+   "latest": "2026-10-20T22:54:40+00:00"
   },
   {
    "show": "The Terrible Podcast (Steelers Depot)",
@@ -90,10 +90,10 @@
    "show": "Steel City Underground",
    "kind": "podcast",
    "url": "https://feeds.feedburner.com/steelcityunderground",
-   "status": "ok",
-   "episodes": 45,
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "episodes": 0,
    "week": 1,
-   "latest": "2026-10-19T19:40:55+00:00"
+   "latest": null
   },
   {
    "show": "Steel City Underground",
@@ -189,7 +189,7 @@
    "show": "Nick Farabaugh on PennLive",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5yvng1eSgffmybUM-51fTw",
-   "status": "error: HTTP Error 404: Not Found",
+   "status": "ok",
    "episodes": 0,
    "week": 0,
    "latest": null
@@ -216,10 +216,10 @@
    "show": "Not Just Football with Cam Heyward",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8hodyaoiw297aspKf9QVDA",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 6,
-   "latest": null
+   "latest": "2026-10-20T16:00:08+00:00"
   },
   {
    "show": "Footbahlin with Ben Roethlisberger",
@@ -243,10 +243,10 @@
    "show": "The Christian Kuntz Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKKBJcOGsYmwAATQv-xQYeA",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 0,
-   "latest": null
+   "latest": "2009-05-26T14:01:33+00:00"
   }
  ],
  "items": [
@@ -1331,14 +1331,7 @@
    "summary": "Podcast episode from Steel City Blitz."
   }
  ],
- "yt_channels": [
-  {
-   "show": "The Christian Kuntz Podcast",
-   "channel_id": "UCKKBJcOGsYmwAATQv-xQYeA",
-   "link": "https://www.youtube.com/channel/UCKKBJcOGsYmwAATQv-xQYeA",
-   "embed": "https://www.youtube-nocookie.com/embed/videoseries?list=UUKKBJcOGsYmwAATQv-xQYeA"
-  }
- ],
+ "yt_channels": [],
  "postgame": null,
  "directory": [
   {
