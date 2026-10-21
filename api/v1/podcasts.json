@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-21T16:12:04+00:00",
- "data_updated": "2026-10-21T16:11:48+00:00",
- "count": 130,
+ "generated": "2026-10-21T16:23:03+00:00",
+ "data_updated": "2026-10-21T16:22:45+00:00",
+ "count": 129,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -19,6 +19,19 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/podcasts",
  "items": [
+  {
+   "id": "adf74be98dd4625c",
+   "type": "video",
+   "title": "AFC DEFENSIVE PLAYER OF THE WEEK: JALEN RAMSEY",
+   "show": "Pittsburgh Steelers (official)",
+   "url": "https://www.youtube.com/shorts/Wlg6JLl9cbY",
+   "published": "2026-10-21T16:09:12+00:00",
+   "summary": "Video from Pittsburgh Steelers (official).",
+   "source": {
+    "name": "Pittsburgh Steelers (official)",
+    "url": null
+   }
+  },
   {
    "id": "25e69eb1f5def1c5",
    "type": "video",
@@ -289,6 +302,19 @@
    "summary": "Video from Steelers Now.",
    "source": {
     "name": "Steelers Now",
+    "url": null
+   }
+  },
+  {
+   "id": "6a3f309de443b251",
+   "type": "podcast_episode",
+   "title": "Should Steelers Still Seek WR Help? | Steelers Afternoon Drive",
+   "show": "Steelers Afternoon Drive",
+   "url": "https://podcasts.apple.com/us/podcast/should-steelers-still-seek-wr-help-steelers-afternoon/id1700240934?i=1000797337923",
+   "published": "2026-10-20T22:21:00+00:00",
+   "summary": "Podcast episode from Steelers Afternoon Drive.",
+   "source": {
+    "name": "Steelers Afternoon Drive",
     "url": null
    }
   },
@@ -1203,19 +1229,6 @@
    }
   },
   {
-   "id": "740f79f0a71fed1a",
-   "type": "video",
-   "title": "Germie Bernard, Jamel Dean & DK Metcalf on win at Buccaneers | Press Pass | Pittsburgh Steelers",
-   "show": "Pittsburgh Steelers (official)",
-   "url": "https://www.youtube.com/watch?v=vxAoEcjl98k",
-   "published": "2026-10-19T01:22:57+00:00",
-   "summary": "Video from Pittsburgh Steelers (official).",
-   "source": {
-    "name": "Pittsburgh Steelers (official)",
-    "url": null
-   }
-  },
-  {
    "id": "5cf07b2445bb0b99",
    "type": "podcast_episode",
    "title": "Scout’s Eye with Matt Williamson: Late domination",
@@ -1677,32 +1690,6 @@
    "show": "Steelers Afternoon Drive",
    "url": "https://podcasts.apple.com/us/podcast/the-pittsburgh-football-show-episode-6-oct-16-2026/id1700240934?i=1000796695057",
    "published": "2026-10-16T16:24:00+00:00",
-   "summary": "Podcast episode from Steelers Afternoon Drive.",
-   "source": {
-    "name": "Steelers Afternoon Drive",
-    "url": null
-   }
-  },
-  {
-   "id": "e28966b7fd744d7e",
-   "type": "podcast_episode",
-   "title": "What to Make of Mike McCarthy So Far? | Steelers Morning Rush",
-   "show": "Steelers Afternoon Drive",
-   "url": "https://podcasts.apple.com/us/podcast/what-to-make-of-mike-mccarthy-so-far-steelers-morning-rush/id1700240934?i=1000796692758",
-   "published": "2026-10-16T16:18:00+00:00",
-   "summary": "Podcast episode from Steelers Afternoon Drive.",
-   "source": {
-    "name": "Steelers Afternoon Drive",
-    "url": null
-   }
-  },
-  {
-   "id": "899f5c2b00874fc4",
-   "type": "podcast_episode",
-   "title": "Smitty's Six Pack of Steelers-Buccaneers Topics | THE PITTSBURGH FOOTBALL SHOW",
-   "show": "Steelers Afternoon Drive",
-   "url": "https://podcasts.apple.com/us/podcast/smittys-six-pack-of-steelers-buccaneers-topics/id1700240934?i=1000796692896",
-   "published": "2026-10-16T16:15:00+00:00",
    "summary": "Podcast episode from Steelers Afternoon Drive.",
    "source": {
     "name": "Steelers Afternoon Drive",
