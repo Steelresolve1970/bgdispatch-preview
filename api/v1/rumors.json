@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "rumors",
  "description": "Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).",
- "generated": "2026-10-21T11:11:02+00:00",
- "data_updated": "2026-10-21T11:10:56+00:00",
- "count": 47,
+ "generated": "2026-10-21T13:05:47+00:00",
+ "data_updated": "2026-10-21T13:05:41+00:00",
+ "count": 48,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -19,6 +19,40 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/rumors",
  "items": [
+  {
+   "id": "794b3684899f",
+   "type": "rumor",
+   "title": "Aaron Rodgers reportedly eyes Buccaneers WR as potential trade target for the Steelers",
+   "summary": "Trade/roster move story from Yahoo Sports. Full report at the original publisher.",
+   "url": "https://sports.yahoo.com/articles/aaron-rodgers-reportedly-eyes-buccaneers-114842350.html",
+   "source": {
+    "name": "Yahoo Sports",
+    "url": null,
+    "reliability_tier": "National insider",
+    "reliability_score": 4
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-21T13:05:41+00:00",
+   "updated": "2026-10-21T13:05:41+00:00",
+   "published": "2026-10-21T11:48:42+00:00",
+   "people": [
+    "Aaron Rodgers"
+   ],
+   "consensus": {
+    "cluster_id": "14ffc5da6c16",
+    "independent_sources": 2,
+    "sources": [
+     "Heavy.com",
+     "Yahoo Sports"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "14ffc5da6c16"
+    ]
+   }
+  },
   {
    "id": "c774b8995598",
    "type": "rumor",
@@ -165,13 +199,16 @@
    "people": [],
    "consensus": {
     "cluster_id": "14ffc5da6c16",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
-     "Heavy.com"
+     "Heavy.com",
+     "Yahoo Sports"
     ],
-    "highest_tier": "Aggregator / other",
-    "highest_tier_score": 1,
-    "related_ids": []
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "794b3684899f"
+    ]
    }
   },
   {

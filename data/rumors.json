@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T11:10:56.941625+00:00",
+ "generated": "2026-10-21T13:05:41.045260+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -43,6 +43,37 @@
   ]
  },
  "rumors": [
+  {
+   "id": "794b3684899f",
+   "title": "Aaron Rodgers reportedly eyes Buccaneers WR as potential trade target for the Steelers",
+   "source": "Yahoo Sports",
+   "link": "https://sports.yahoo.com/articles/aaron-rodgers-reportedly-eyes-buccaneers-114842350.html",
+   "published": "2026-10-21T11:48:42+00:00",
+   "summary": "Rumor-style report from Yahoo Sports on a Steelers roster move. Full details at the source.",
+   "tier": "National insider",
+   "tier_score": 4,
+   "subjects": [
+    "Aaron Rodgers"
+   ],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-21T13:05:41.045260+00:00",
+   "consensus": {
+    "cluster_id": "14ffc5da6c16",
+    "independent_sources": 2,
+    "sources": [
+     "Heavy.com",
+     "Yahoo Sports"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "14ffc5da6c16"
+    ]
+   },
+   "updated": "2026-10-21T13:05:41.045260+00:00"
+  },
   {
    "id": "c774b8995598",
    "title": "First Call: Steelers\u2019 WR trade speculation; Najee Harris may be out in New York; big hockey win for RMU at Penn State",
@@ -176,13 +207,16 @@
    "first_seen": "2026-10-21T00:34:42.545004+00:00",
    "consensus": {
     "cluster_id": "14ffc5da6c16",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
-     "Heavy.com"
+     "Heavy.com",
+     "Yahoo Sports"
     ],
-    "highest_tier": "Aggregator / other",
-    "highest_tier_score": 1,
-    "related_ids": []
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "794b3684899f"
+    ]
    },
    "updated": "2026-10-21T00:34:42.545004+00:00"
   },

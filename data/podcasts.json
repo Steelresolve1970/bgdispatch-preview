@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-21T11:10:45.368705+00:00",
+ "generated": "2026-10-21T13:05:22.701557+00:00",
  "date_et": "2026-10-21",
  "days": 5,
  "display_days": 2,
- "count": 134,
+ "count": 135,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -36,10 +36,10 @@
    "show": "Steel Curtain Network (BTSC)",
    "kind": "podcast",
    "url": "https://feeds.megaphone.fm/btsc-steelers",
-   "status": "error: <urlopen error timed out>",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 4998,
    "week": 16,
-   "latest": null
+   "latest": "2026-10-21T08:00:00+00:00"
   },
   {
    "show": "DK Pittsburgh Sports",
@@ -72,10 +72,10 @@
    "show": "Still Curtain Podcast",
    "kind": "podcast",
    "url": "https://feeds.redcircle.com/62750d24-c3c9-4be8-919a-ff22b312fb19",
-   "status": "error: <urlopen error timed out>",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 253,
    "week": 1,
-   "latest": null
+   "latest": "2026-10-19T19:38:53+00:00"
   },
   {
    "show": "Still Curtain Podcast",
@@ -90,10 +90,10 @@
    "show": "Steel City Underground",
    "kind": "podcast",
    "url": "https://feeds.feedburner.com/steelcityunderground",
-   "status": "ok",
-   "episodes": 45,
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "episodes": 0,
    "week": 1,
-   "latest": "2026-10-19T19:40:55+00:00"
+   "latest": null
   },
   {
    "show": "Steel City Underground",
@@ -108,10 +108,10 @@
    "show": "Steelers Afternoon Drive",
    "kind": "podcast",
    "url": "https://feeds.megaphone.fm/RRTET7764502074",
-   "status": "error: <urlopen error timed out>",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 1483,
    "week": 10,
-   "latest": null
+   "latest": "2026-10-20T22:21:00+00:00"
   },
   {
    "show": "The Sick Podcast - Steelers Crazy",
@@ -126,10 +126,10 @@
    "show": "Steelers for 7 Podcast",
    "kind": "podcast",
    "url": "https://anchor.fm/s/7881254/podcast/rss",
-   "status": "error: <urlopen error timed out>",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 162,
    "week": 2,
-   "latest": null
+   "latest": "2026-10-20T05:11:45+00:00"
   },
   {
    "show": "The Arthur Moats Experience",
@@ -145,9 +145,9 @@
    "kind": "podcast",
    "url": "https://feeds.simplecast.com/TJlnaIkx",
    "status": "ok",
-   "episodes": 1826,
-   "week": 8,
-   "latest": "2026-10-20T21:17:00+00:00"
+   "episodes": 1827,
+   "week": 9,
+   "latest": "2026-10-21T12:18:00+00:00"
   },
   {
    "show": "Steelers Now",
@@ -250,6 +250,14 @@
   }
  ],
  "items": [
+  {
+   "title": "Time to Believe in One Steelers Player",
+   "show": "All Steelers Talk",
+   "kind": "podcast",
+   "link": "https://podcasts.apple.com/us/podcast/id1627248534",
+   "published": "2026-10-21T12:18:00+00:00",
+   "summary": "Podcast episode from All Steelers Talk."
+  },
   {
    "title": "Germie Bernard's First NFL Touchdown, Rookie Wall, Paris Preview & More! | Not Just Football",
    "show": "Not Just Football with Cam Heyward",
@@ -430,7 +438,7 @@
    "title": "Steelers Crazy #300 - Saints Vs Steelers In Paris",
    "show": "The Sick Podcast - Steelers Crazy",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/steelers-crazy-300-saints-vs-steelers-in-paris/id1640291008?i=1000797311768",
+   "link": "https://anchor.fm/the-sick-podcast---steelers-crazy",
    "published": "2026-10-20T19:12:00+00:00",
    "summary": "Podcast episode from The Sick Podcast - Steelers Crazy."
   },
@@ -598,7 +606,7 @@
    "title": "Steelers' Mike McCarthy Must Lean More on Jaylen Warren, Under Center Offense to Fix 3rd Down Issues",
    "show": "Locked On Steelers",
    "kind": "podcast",
-   "link": "https://lockedonpodcasts.com/podcasts/locked-on-steelers/",
+   "link": "https://podcasts.apple.com/us/podcast/steelers-mike-mccarthy-must-lean-more-on-jaylen-warren/id1140522532?i=1000797209848",
    "published": "2026-10-20T06:00:00+00:00",
    "summary": "Podcast episode from Locked On Steelers."
   },
@@ -918,7 +926,7 @@
    "title": "Steelers WRs Germie Bernard, DK Metcalf Find Chemistry w/Aaron Rodgers in Time to Beat Buccaneers",
    "show": "Locked On Steelers",
    "kind": "podcast",
-   "link": "https://lockedonpodcasts.com/podcasts/locked-on-steelers/",
+   "link": "https://podcasts.apple.com/us/podcast/steelers-wrs-germie-bernard-dk-metcalf-find-chemistry/id1140522532?i=1000797007681",
    "published": "2026-10-19T04:00:00+00:00",
    "summary": "Podcast episode from Locked On Steelers."
   },
@@ -966,7 +974,7 @@
    "title": "STEELERS SQUAD SHOW: McCarthy ROLLS Ankle, Steelers Big COMEBACK Leads To 1st Road Win In OT",
    "show": "Locked On Steelers",
    "kind": "podcast",
-   "link": "https://lockedonpodcasts.com/podcasts/locked-on-steelers/",
+   "link": "https://podcasts.apple.com/us/podcast/steelers-squad-show-mccarthy-rolls-ankle-steelers-big/id1140522532?i=1000796979708",
    "published": "2026-10-18T22:38:37+00:00",
    "summary": "Podcast episode from Locked On Steelers."
   },
