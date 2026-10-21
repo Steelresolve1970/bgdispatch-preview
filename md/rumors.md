@@ -1,6 +1,6 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-21T08:06:16+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T08:06:10+00:00._
+_Generated 2026-10-21T09:03:39+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T09:03:34+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
 - **Rumor** · tier: Aggregator / other · consensus: 2 source(s), top tier Aggregator / other
@@ -87,7 +87,9 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Jordan Addison-to-Steelers trade rumor takes off despite making zero sense for Vikings](https://bringmethesports.com/jordan-addison-to-steelers-trade-rumor-takes-off-despite-making-zero-sense-for-vikings): Bring Me the Sports, first seen 2026-10-18 04:34 UTC
 - **Rumor** · tier: Fan blog · consensus: 10 source(s), top tier National insider
   [McCorkle: My Top Wide Receiver Trade Target For Steelers](https://steelersdepot.com/2026/10/mccorkle-my-top-wide-receiver-trade-target-for-steelers/): Steelers Depot, first seen 2026-10-18 04:34 UTC
-- **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
+- **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
+  [Steelers Should Consider Surprise Trade Candidate](https://sports.yahoo.com/articles/steelers-consider-surprise-trade-candidate-150005786.html): Yahoo Sports, first seen 2026-10-21 09:03 UTC
+- **Rumor** · tier: Aggregator / other · consensus: 2 source(s), top tier National insider
   [Steelers Should Consider Surprise Trade Candidate](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-should-consider-surprise-trade-candidate-rico-dowdle): All Steelers (Sports Illustrated), first seen 2026-10-18 04:34 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 2 source(s), top tier National insider
   [3 Trade Targets Steelers Could Pursue Before NFL Trade Deadline](https://athlonsports.com/nfl/pittsburgh-steelers/3-trade-targets-steelers-could-pursue-before-nfl-trade-deadline): Athlon Sports, first seen 2026-10-18 04:34 UTC

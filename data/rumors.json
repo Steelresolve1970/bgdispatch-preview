@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T08:06:10.234552+00:00",
+ "generated": "2026-10-21T09:03:34.506524+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -1525,6 +1525,35 @@
    "updated": "2026-10-18T04:34:04.958633+00:00"
   },
   {
+   "id": "7541640ea56b",
+   "title": "Steelers Should Consider Surprise Trade Candidate",
+   "source": "Yahoo Sports",
+   "link": "https://sports.yahoo.com/articles/steelers-consider-surprise-trade-candidate-150005786.html",
+   "published": "2026-10-17T15:00:05+00:00",
+   "summary": "Rumor-style report from Yahoo Sports on a Steelers roster move. Full details at the source.",
+   "tier": "National insider",
+   "tier_score": 4,
+   "subjects": [],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-21T09:03:34.506524+00:00",
+   "consensus": {
+    "cluster_id": "d6220eadaae6",
+    "independent_sources": 2,
+    "sources": [
+     "All Steelers (Sports Illustrated)",
+     "Yahoo Sports"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "d6220eadaae6"
+    ]
+   },
+   "updated": "2026-10-21T09:03:34.506524+00:00"
+  },
+  {
    "id": "d6220eadaae6",
    "title": "Steelers Should Consider Surprise Trade Candidate",
    "source": "All Steelers (Sports Illustrated)",
@@ -1540,13 +1569,16 @@
    "first_seen": "2026-10-18T04:34:04.958633+00:00",
    "consensus": {
     "cluster_id": "d6220eadaae6",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
-     "All Steelers (Sports Illustrated)"
+     "All Steelers (Sports Illustrated)",
+     "Yahoo Sports"
     ],
-    "highest_tier": "Aggregator / other",
-    "highest_tier_score": 1,
-    "related_ids": []
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "7541640ea56b"
+    ]
    },
    "updated": "2026-10-18T04:34:04.958633+00:00"
   },
