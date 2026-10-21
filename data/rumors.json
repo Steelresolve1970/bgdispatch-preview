@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T02:05:17.428524+00:00",
+ "generated": "2026-10-21T02:15:58.548313+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -1681,16 +1681,48 @@
    "status_link": null,
    "first_seen": "2026-10-20T05:48:26.480307+00:00",
    "consensus": {
-    "cluster_id": "0f1cf282df95",
-    "independent_sources": 1,
+    "cluster_id": "ff1a493d5cec",
+    "independent_sources": 2,
     "sources": [
-     "AOL.ca"
+     "AOL.ca",
+     "AOL.co.uk"
     ],
     "highest_tier": "Aggregator / other",
     "highest_tier_score": 1,
-    "related_ids": []
+    "related_ids": [
+     "ff1a493d5cec"
+    ]
    },
    "updated": "2026-10-20T05:48:26.480307+00:00"
+  },
+  {
+   "id": "ff1a493d5cec",
+   "title": "3 cornerback trades the Steelers could make at NFL deadline",
+   "source": "AOL.co.uk",
+   "link": "https://www.aol.co.uk/articles/3-cornerback-trades-steelers-could-120357000.html",
+   "published": "2026-10-16T12:03:57+00:00",
+   "summary": "Rumor-style report from AOL.co.uk on a Steelers roster move. Full details at the source.",
+   "tier": "Aggregator / other",
+   "tier_score": 1,
+   "subjects": [],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-21T02:15:58.548313+00:00",
+   "consensus": {
+    "cluster_id": "ff1a493d5cec",
+    "independent_sources": 2,
+    "sources": [
+     "AOL.ca",
+     "AOL.co.uk"
+    ],
+    "highest_tier": "Aggregator / other",
+    "highest_tier_score": 1,
+    "related_ids": [
+     "0f1cf282df95"
+    ]
+   },
+   "updated": "2026-10-21T02:15:58.548313+00:00"
   },
   {
    "id": "c46605b46d29",

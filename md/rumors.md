@@ -1,6 +1,6 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-21T02:05:22+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T02:05:17+00:00._
+_Generated 2026-10-21T02:16:03+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T02:15:58+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
@@ -99,8 +99,10 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Steelers have perfect trade candidate as NFL quarterback injuries pile up](https://sports.yahoo.com/articles/steelers-perfect-trade-candidate-nfl-171602560.html): Yahoo Sports, first seen 2026-10-18 04:34 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Steelers Learn Important Detail About Omar Khan's Trade Deadline Strategy](https://www.steelernation.com/2026/10/16/steelers-important-omar-khan-strategy): Steeler Nation, first seen 2026-10-18 04:34 UTC
-- **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
+- **Rumor** · tier: Aggregator / other · consensus: 2 source(s), top tier Aggregator / other
   [3 cornerback trades the Steelers could make at NFL deadline](https://www.aol.ca/articles/3-cornerback-trades-steelers-could-120357000.html): AOL.ca, first seen 2026-10-20 05:48 UTC
+- **Rumor** · tier: Aggregator / other · consensus: 2 source(s), top tier Aggregator / other
+  [3 cornerback trades the Steelers could make at NFL deadline](https://www.aol.co.uk/articles/3-cornerback-trades-steelers-could-120357000.html): AOL.co.uk, first seen 2026-10-21 02:15 UTC
 - **Rumor** · tier: Fan blog · consensus: 3 source(s), top tier National insider
   [Brian Thomas Jr. headlines 7 WR trade targets Steelers can't afford to ignore](https://stillcurtain.com/brian-thomas-jr-headlines-7-wr-trade-targets-pittsburgh-steelers-can-t-afford-to-ignore-01m4rnfq23x6?utm_source=RSS): Still Curtain, first seen 2026-10-18 04:34 UTC
 - **Rumor** · tier: Fan blog · consensus: 3 source(s), top tier National insider
