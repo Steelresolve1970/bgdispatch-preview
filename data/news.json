@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T16:22:32.559089+00:00",
+ "generated": "2026-10-21T16:33:28.935295+00:00",
  "count": 149,
  "sources": [
   {
@@ -29,8 +29,8 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
-   "steelers_items": 0
+   "status": "ok",
+   "steelers_items": 24
   },
   {
    "source": "Still Curtain",
@@ -72,7 +72,7 @@
    "source": "Yahoo Sports",
    "url": "https://sports.yahoo.com/nfl/rss/",
    "status": "ok",
-   "steelers_items": 1
+   "steelers_items": 0
   },
   {
    "source": "Google News",
@@ -113,6 +113,22 @@
    "published": "2026-10-21T17:01:44+00:00",
    "summary": "Injury story from ESPN. Full report at the original publisher.",
    "id": "e6db9e7aac"
+  },
+  {
+   "title": "Germie Bernard Gets Honest About His Critical Sunday Mistake",
+   "source": "Steelers Depot",
+   "link": "https://steelersdepot.com/2026/10/germie-bernard-gets-honest-about-his-critical-sunday-mistake/",
+   "published": "2026-10-21T16:30:09+00:00",
+   "summary": "News story from Steelers Depot. Full report at the original publisher.",
+   "id": "bf7ba1d585"
+  },
+  {
+   "title": "Jalen Ramsey Named AFC Defensive Player of the Week",
+   "source": "Steelers Now",
+   "link": "https://steelersnow.com/jalen-ramsey-named-afc-defensive-player-of-the-week/",
+   "published": "2026-10-21T16:23:49+00:00",
+   "summary": "News story from Steelers Now. Full report at the original publisher.",
+   "id": "ee44178ca4"
   },
   {
    "title": "Steelers' Jalen Ramsey Draws Intriguing Extension Talk From Arthur Moats After Dominant Tampa Bay Win",
@@ -228,15 +244,6 @@
    "id": "6668b7a5b3"
   },
   {
-   "title": "Steelers Must Avoid This Veteran WR Trade Target",
-   "source": "All Steelers (Sports Illustrated)",
-   "link": "https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-must-avoid-veteran-trade-target-chris-godwin",
-   "published": "2026-10-21T15:00:01+00:00",
-   "summary": "Trade/roster move story from All Steelers (Sports Illustrated). Full report at the original publisher.",
-   "via": "Google News",
-   "id": "bb96c631b7"
-  },
-  {
    "title": "Steelers Week 7 Scouting Report: Get to Know the New Orleans Saints",
    "source": "Athlon Sports",
    "link": "https://athlonsports.com/nfl/pittsburgh-steelers/steelers-week-7-scouting-report-get-to-know-the-new-orleans-saints",
@@ -268,14 +275,6 @@
    "published": "2026-10-21T14:57:21+00:00",
    "summary": "Opinion story from SteelerNation. Full report at the original publisher.",
    "id": "b1fa359a78"
-  },
-  {
-   "title": "The Steelers offense is actually good for fantasy football, and more updated scoring identities to know in Week 7",
-   "source": "Yahoo Sports",
-   "link": "https://sports.yahoo.com/fantasy/article/the-steelers-offense-is-actually-good-for-fantasy-football-and-more-updated-scoring-identities-to-know-in-week-7-145345099.html",
-   "published": "2026-10-21T14:53:45+00:00",
-   "summary": "News story from Yahoo Sports. Full report at the original publisher.",
-   "id": "0c6aa26eb4"
   },
   {
    "title": "Top 5 Sportsbooks With The Most Football Markets For Steelers Fans",
@@ -327,15 +326,6 @@
    "published": "2026-10-21T14:26:10+00:00",
    "summary": "News story from The Athletic. Full report at the original publisher.",
    "id": "e59a801123"
-  },
-  {
-   "title": "NFL Analyst Breaks Down Steelers\u2019 \u2018Creative\u2019 Red Zone Offense",
-   "source": "Heavy.com",
-   "link": "https://heavy.com/sports/nfl/pittsburgh-steelers/nfl-analyst-breaks-down-steelers-creative-red-zone-offense/",
-   "published": "2026-10-21T14:24:34+00:00",
-   "via": "Google News",
-   "summary": "News story from Heavy.com. Full report at the original publisher.",
-   "id": "2506a58351"
   },
   {
    "title": "Steelers' Young Core In 2026: Six Players Who Could Shape Pittsburgh",
@@ -394,6 +384,15 @@
    "id": "5e0e310dea"
   },
   {
+   "title": "Steelers sign wide receiver Marquez Valdes-Scantling",
+   "source": "WTAE",
+   "link": "https://www.wtae.com/article/pittsburgh-steelers-marquez-valdes-scantling/74204336",
+   "published": "2026-10-21T13:46:00+00:00",
+   "via": "Google News",
+   "summary": "Trade/roster move story from WTAE. Full report at the original publisher.",
+   "id": "0e448a4a00"
+  },
+  {
    "title": "Watch: Jaylen Warren Does It All For The Steelers",
    "source": "Steelers Depot",
    "link": "https://steelersdepot.com/2026/10/watch-jaylen-warren-does-it-all-for-the-steelers/",
@@ -408,15 +407,6 @@
    "published": "2026-10-21T13:25:13+00:00",
    "summary": "Game story from Steelers Now. Full report at the original publisher.",
    "id": "60a2de1f98"
-  },
-  {
-   "title": "Steelers Linked to Chris Godwin Jr. With Michael Pittman Jr. and Roman Wilson on IR",
-   "source": "Athlon Sports",
-   "link": "https://athlonsports.com/nfl/pittsburgh-steelers/steelers-chris-godwin-trade-pittman-wilson-injured-reserve",
-   "published": "2026-10-21T13:15:00+00:00",
-   "via": "Google News",
-   "summary": "Injury story from Athlon Sports. Full report at the original publisher.",
-   "id": "f19bb42cd5"
   },
   {
    "title": "Patrick Graham Lays Out His Fundamentals For Steelers\u2019 Run Defense After Recent Success",
@@ -467,6 +457,14 @@
    "published": "2026-10-21T12:15:56+00:00",
    "summary": "Opinion story from Steelers Depot. Full report at the original publisher.",
    "id": "d7577e1135"
+  },
+  {
+   "title": "Steelers have more than international travel to worry about against the Saints",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/21/steelers-have-more-than-international-travel-to-worry-about-against-the-saints/",
+   "published": "2026-10-21T12:15:47+00:00",
+   "summary": "News story from Steel City Underground. Full report at the original publisher.",
+   "id": "dd96e02d3b"
   },
   {
    "title": "Beat Writers Debate What Role Marquez Valdes-Scantling Will Play, And When",
@@ -599,15 +597,6 @@
    "id": "118b61d3bb"
   },
   {
-   "title": "Steelers\u2019 Belief In Their Massive Rookie Class Is Paying Early Dividends",
-   "source": "Martins Ferry Times Leader",
-   "link": "https://www.timesleaderonline.com/sports/local-sports/2026/10/steelers-belief-in-their-massive-rookie-class-is-paying-early-dividends/",
-   "published": "2026-10-21T06:56:59+00:00",
-   "via": "Google News",
-   "summary": "News story from Martins Ferry Times Leader. Full report at the original publisher.",
-   "id": "667adc7f2a"
-  },
-  {
    "title": "Depot After Dark: 49ers Pass Steelers For MNF Wins, Arth\u2019s Son Scores TD, Steelers-Saints Promo",
    "source": "Steelers Depot",
    "link": "https://steelersdepot.com/2026/10/depot-after-dark-49ers-pass-steelers-for-mnf-wins-arths-son-scores-td-steelers-saints-promo/",
@@ -625,13 +614,22 @@
    "id": "8e5cd6c4e3"
   },
   {
+   "title": "Aaron Rodgers Reportedly Has \u2018Favorite\u2019 WR Trade Target",
+   "source": "Heavy.com",
+   "link": "https://heavy.com/sports/nfl/pittsburgh-steelers/aaron-rodgers-favorite-wr-trade-target/",
+   "published": "2026-10-21T00:14:00+00:00",
+   "via": "Google News",
+   "summary": "Trade/roster move story from Heavy.com. Full report at the original publisher.",
+   "id": "14ffc5da6c"
+  },
+  {
    "title": "One of Aaron Rodgers' favorite wide receivers returns to Pittsburgh",
    "source": "Milwaukee Journal Sentinel",
-   "link": "https://www.jsonline.com/story/sports/nfl/packers/2026/10/20/marquez-valdes-scantling-reunites-aaron-rodgers-pittsburgh-steelers/92352151007/",
+   "link": "https://www.usatoday.com/story/sports/nfl/packers/2026/10/20/marquez-valdes-scantling-reunites-aaron-rodgers-pittsburgh-steelers/92352151007/",
    "published": "2026-10-20T23:35:00+00:00",
    "via": "Google News",
    "summary": "News story from Milwaukee Journal Sentinel. Full report at the original publisher.",
-   "id": "bbc78a1742"
+   "id": "41ae5fc892"
   },
   {
    "title": "\u2018Dude Is A Problem\u2019: Maxx Crosby Showers \u2018Very Underrated\u2019 Nick Herbig With Praise",
@@ -730,14 +728,6 @@
    "id": "b3e5f736f2"
   },
   {
-   "title": "Listen: The Terrible Take (Episode 2,056)",
-   "source": "Steelers Depot",
-   "link": "https://steelersdepot.com/2026/10/listen-the-terrible-take-episode-2056/",
-   "published": "2026-10-20T21:30:37+00:00",
-   "summary": "News story from Steelers Depot. Full report at the original publisher.",
-   "id": "40ef195718"
-  },
-  {
    "title": "Steelers Have Obvious Solution to Third Down Struggles",
    "source": "All Steelers (Sports Illustrated)",
    "link": "https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-obvious-solution-third-down-struggles",
@@ -820,15 +810,6 @@
    "id": "c28a1cb63a"
   },
   {
-   "title": "Mike McCarthy Explains What \u2018Clean Your House\u2019 Means for Steelers",
-   "source": "SportsNet Pittsburgh",
-   "link": "https://sportsnetpittsburgh.com/pittsburgh-steelers/news/steelers-mike-mccarthy-explains-clean-your-house-comments/4010d803669f2a096fdbbc10",
-   "published": "2026-10-20T19:50:30+00:00",
-   "via": "Google News",
-   "summary": "News story from SportsNet Pittsburgh. Full report at the original publisher.",
-   "id": "b8b190b6da"
-  },
-  {
    "title": "\u2018I Was Devastated\u2019: Mike Tomlin Reveals His Welcome to the NFL Moment",
    "source": "Steelers Now",
    "link": "https://steelersnow.com/i-was-devastated-mike-tomlin-reveals-his-welcome-to-the-nfl-moment/",
@@ -860,14 +841,6 @@
    "via": "Google News",
    "summary": "News story from Audacy. Full report at the original publisher.",
    "id": "39e19a1835"
-  },
-  {
-   "title": "Steelers Coach Says Hold Not a Factor in Chris Boswell Miss",
-   "source": "Steelers Now",
-   "link": "https://steelersnow.com/steelers-coach-says-hold-not-a-factor-in-chris-boswell-miss/",
-   "published": "2026-10-20T16:09:46+00:00",
-   "summary": "News story from Steelers Now. Full report at the original publisher.",
-   "id": "55e4da0abc"
   },
   {
    "title": "Steelers Rookie WR Quickly Joining Rookie of the Year Mix",
@@ -909,6 +882,14 @@
    "published": "2026-10-20T14:49:51+00:00",
    "summary": "News story from Steelers.com (official). Full report at the original publisher.",
    "id": "38796afb44"
+  },
+  {
+   "title": "Steelers Surprises: Unexpected heroes emerge in overtime comeback against Buccaneers",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/20/steelers-surprises-unexpected-heroes-emerge-in-overtime-comeback-against-buccaneers/",
+   "published": "2026-10-20T14:49:26+00:00",
+   "summary": "News story from Steel City Underground. Full report at the original publisher.",
+   "id": "5f3153e761"
   },
   {
    "title": "Week 7 odds: Steelers open as slight favorites vs. Saints",
@@ -998,6 +979,14 @@
    "published": "2026-10-20T12:00:00+00:00",
    "summary": "Opinion story from Pittsburgh Post-Gazette. Full report at the original publisher.",
    "id": "c170b3e653"
+  },
+  {
+   "title": "Plays of the Game: Germie Bernard scores first NFL touchdown to lift Steelers past Buccaneers",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/20/plays-of-the-game-germie-bernard-scores-first-nfl-touchdown-to-lift-steelers-past-buccaneers/",
+   "published": "2026-10-20T11:47:58+00:00",
+   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
+   "id": "ff47dfcfd1"
   },
   {
    "title": "4 Steelers standouts from their overtime victory over the Buccaneers",
@@ -1324,6 +1313,14 @@
    "published": "2026-10-19T15:30:00+00:00",
    "summary": "News story from Pittsburgh Post-Gazette. Full report at the original publisher.",
    "id": "4d1cdc5c0b"
+  },
+  {
+   "title": "4 Colts trade candidates the Steelers could poach after Ballard firing",
+   "source": "Still Curtain",
+   "link": "https://stillcurtain.com/4-indianapolis-colts-trade-candidates-pittsburgh-steelers-could-poach-chris-ballard-firing-01m5a7n7aspa?utm_source=RSS",
+   "published": "2026-10-19T15:00:02+00:00",
+   "summary": "Trade/roster move story from Still Curtain. Full report at the original publisher.",
+   "id": "2726676a07"
   }
  ],
  "dropped_bad_links": 1

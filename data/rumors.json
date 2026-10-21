@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T16:22:56.249208+00:00",
+ "generated": "2026-10-21T16:33:53.323563+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -59,20 +59,55 @@
    "first_seen": "2026-10-21T15:05:47.257266+00:00",
    "consensus": {
     "cluster_id": "7484671f5438",
-    "independent_sources": 3,
+    "independent_sources": 4,
     "sources": [
      "All Steelers (Sports Illustrated)",
      "Heavy.com",
+     "Sports Illustrated",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "b0a5eee622fd",
      "76a89e5c6bed",
      "7484671f5438"
     ]
    },
    "updated": "2026-10-21T15:05:47.257266+00:00"
+  },
+  {
+   "id": "b0a5eee622fd",
+   "title": "Steelers Must Avoid This Veteran WR Trade Target",
+   "source": "Sports Illustrated",
+   "link": "https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-must-avoid-veteran-trade-target-chris-godwin",
+   "published": "2026-10-21T15:00:01+00:00",
+   "summary": "Rumor-style report from Sports Illustrated on a Steelers roster move. Full details at the source.",
+   "tier": "National insider",
+   "tier_score": 4,
+   "subjects": [],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-21T16:33:53.323563+00:00",
+   "consensus": {
+    "cluster_id": "7484671f5438",
+    "independent_sources": 4,
+    "sources": [
+     "All Steelers (Sports Illustrated)",
+     "Heavy.com",
+     "Sports Illustrated",
+     "Yahoo Sports"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "bb96c631b70b",
+     "76a89e5c6bed",
+     "7484671f5438"
+    ]
+   },
+   "updated": "2026-10-21T16:33:53.323563+00:00"
   },
   {
    "id": "794b3684899f",
@@ -1630,16 +1665,18 @@
    "first_seen": "2026-10-19T21:10:05.781517+00:00",
    "consensus": {
     "cluster_id": "7484671f5438",
-    "independent_sources": 3,
+    "independent_sources": 4,
     "sources": [
      "All Steelers (Sports Illustrated)",
      "Heavy.com",
+     "Sports Illustrated",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
      "bb96c631b70b",
+     "b0a5eee622fd",
      "7484671f5438"
     ]
    },
@@ -1687,16 +1724,18 @@
    "first_seen": "2026-10-19T17:56:36.682233+00:00",
    "consensus": {
     "cluster_id": "7484671f5438",
-    "independent_sources": 3,
+    "independent_sources": 4,
     "sources": [
      "All Steelers (Sports Illustrated)",
      "Heavy.com",
+     "Sports Illustrated",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
      "bb96c631b70b",
+     "b0a5eee622fd",
      "76a89e5c6bed"
     ]
    },
