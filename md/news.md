@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-21T03:13:06+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T03:11:51+00:00._
+_Generated 2026-10-21T03:24:33+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T03:23:18+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Wide receiver-needy Steelers bring back veteran Marquez Valdes-Scantling](https://www.washingtonpost.com/sports/nfl/2026/10/20/pittsburgh-steelers/495d684a-ccd2-11f1-ac04-9f58578a68b4_story.html): The Washington Post, 2026-10-21 02:42 UTC
@@ -9,7 +9,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers' Ben Roethlisberger Exposes 1 Critical Issue With Pittsburgh's Offense](https://www.steelernation.com/2026/10/20/steelers-ben-roethlisberger-critical-offense): SteelerNation, 2026-10-21 01:11 UTC
 - [Depot After Dark: 49ers Pass Steelers For MNF Wins, Arth’s Son Scores TD, Steelers-Saints Promo](https://steelersdepot.com/2026/10/depot-after-dark-49ers-pass-steelers-for-mnf-wins-arths-son-scores-td-steelers-saints-promo/): Steelers Depot, 2026-10-21 01:00 UTC
 - [Ramsey's Leadership & 'One-of-One' Play Inspire Steelers](https://www.audacy.com/937thefan/sports/pittsburgh-steelers/ramsey-s-leadership-one-of-one-play-inspire-steelers): Audacy, 2026-10-21 00:58 UTC
-- [Aaron Rodgers Reportedly Has ‘Favorite’ WR Trade Target](https://heavy.com/sports/nfl/pittsburgh-steelers/aaron-rodgers-favorite-wr-trade-target/): Heavy.com, 2026-10-20 23:46 UTC
+- [Aaron Rodgers Reportedly Has ‘Favorite’ WR Trade Target](https://heavy.com/sports/nfl/pittsburgh-steelers/aaron-rodgers-favorite-wr-trade-target/): Heavy.com, 2026-10-21 00:14 UTC
 - [One of Aaron Rodgers' favorite wide receivers returns to Pittsburgh](https://www.jsonline.com/story/sports/nfl/packers/2026/10/20/marquez-valdes-scantling-reunites-aaron-rodgers-pittsburgh-steelers/92352151007/): Milwaukee Journal Sentinel, 2026-10-20 23:35 UTC
 - [‘Dude Is A Problem’: Maxx Crosby Showers ‘Very Underrated’ Nick Herbig With Praise](https://steelersdepot.com/2026/10/dude-is-a-problem-maxx-crosby-showers-very-underrated-nick-herbig-with-praise/): Steelers Depot, 2026-10-20 23:30 UTC
 - [Cardinals Take Close Look at Ex-Steelers Punter](https://steelersnow.com/cardinals-take-close-look-at-ex-steelers-punter/): Steelers Now, 2026-10-20 23:15 UTC
@@ -133,7 +133,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Christopher Carter’s Steelers and Pitt chat transcript: 10.19.26](https://www.post-gazette.com/sports/steelers/2026/10/19/steelers-live-chat-aaron-rodgers/stories/202610190029): Pittsburgh Post-Gazette, 2026-10-19 15:30 UTC
 - [4 Colts trade candidates the Steelers could poach after Ballard firing](https://stillcurtain.com/4-indianapolis-colts-trade-candidates-pittsburgh-steelers-could-poach-chris-ballard-firing-01m5a7n7aspa?utm_source=RSS): Still Curtain, 2026-10-19 15:00 UTC
 - [Jalen Ramsey is the glue to the Steelers’ defense](https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176552/jalen-ramsey-is-the-glue-to-the-steelers-defense): Behind the Steel Curtain, 2026-10-19 15:00 UTC
-- [Steelers' Germie Bernard Sets New Aaron Rodgers Record](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-germie-bernard-sets-new-aaron-rodgers-record): All Steelers (Sports Illustrated), 2026-10-19 14:00 UTC
 - [Steelers quietly land conditional draft pick tied to Joey Porter Jr. trade](https://stillcurtain.com/pittsburgh-steelers-quietly-land-conditional-nfl-draft-pick-joey-porter-jr-trade-01m5a4hnr6py?utm_source=RSS): Still Curtain, 2026-10-19 14:00 UTC
 - [Cup of Joe (Starkey): Only the delusional believe Steelers QB Aaron Rodgers is done](https://triblive.com/sports/cup-of-joe-starkey-only-the-delusional-believe-steelers-qb-aaron-rodgers-is-done/): TribLive, 2026-10-19 13:45 UTC
 - [Steelers Takeaways: Second-half comeback saves Pittsburgh in overtime win over Buccaneers](https://www.steelcityunderground.com/2026/10/19/steelers-takeaways-second-half-comeback-saves-pittsburgh-in-overtime-win-over-buccaneers/): Steel City Underground, 2026-10-19 13:14 UTC
@@ -153,6 +152,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [From the Press Room: Steelers at Buccaneers](https://www.steelers.com/news/from-the-press-room-steelers-at-buccaneers): Steelers.com (official), 2026-10-19 00:40 UTC
 - [Steelers rookie Germie Bernard makes up for an early mistake by catching the OT winner](https://www.post-gazette.com/sports/steelers/2026/10/18/germie-bernard-overtime-touchdown-steelers/stories/202610180076): Pittsburgh Post-Gazette, 2026-10-19 00:18 UTC
 - [Steelers kicker Chris Boswell breaks franchise record for career field goals](https://triblive.com/sports/steelers-kicker-chris-boswell-breaks-franchise-record-for-career-field-goals/): TribLive, 2026-10-19 00:13 UTC
+- [‘He’s from Pittsburgh, so he toughed it out’: Steelers coach Mike McCarthy misses halftime with foot injury](https://triblive.com/sports/hes-from-pittsburgh-so-he-toughed-it-out-steelers-coach-mike-mccarthy-misses-halftime-with-foot-injury/): TribLive, 2026-10-18 23:53 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

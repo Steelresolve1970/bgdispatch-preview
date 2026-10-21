@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-21T03:13:06+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T03:12:50+00:00._
+_Generated 2026-10-21T03:24:33+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T03:24:17+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [The Scho Bro Show: The familiarity of the Steelers unfamiliar win](https://podcasts.apple.com/us/podcast/id905962218): Steel Curtain Network (BTSC), 2026-10-21 02:55 UTC
