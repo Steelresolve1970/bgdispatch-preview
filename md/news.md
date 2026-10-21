@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-21T22:19:32+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T22:19:00+00:00._
+_Generated 2026-10-21T22:30:15+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T22:29:46+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Steelers prepare days ahead of NFL’s first-ever game in Paris](https://www.wpxi.com/sports/nfl/pittsburgh-steelers/steelers-prepare-days-ahead-nfls-first-ever-game-paris/DVNSDVKNLZCWNOTOAQ45GDOULI/): WPXI, 2026-10-21 22:08 UTC
@@ -44,7 +44,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers' Chris Godwin Trade Idea Runs Into Huge Financial Problem](https://www.steelernation.com/2026/10/21/steelers-chris-godwin-huge-problem): SteelerNation, 2026-10-21 18:52 UTC
 - [Saints Head Coach Kellen Moore Opens Up About What He Learned Under Mike McCarthy](https://steelersdepot.com/2026/10/saints-head-coach-kellen-moore-opens-up-about-what-he-learned-under-mike-mccarthy/): Steelers Depot, 2026-10-21 18:45 UTC
 - [‘Can Be A Big-Time Pro Bowl Tackle’: Mark Schlereth Was Wowed Watching Max Iheanachor](https://steelersdepot.com/2026/10/can-be-a-big-time-pro-bowl-tackle-mark-schlereth-was-wowed-watching-max-iheanachor/): Steelers Depot, 2026-10-21 18:30 UTC
-- [French connection: New Orleans and Paris’ shared history in spotlight before Saints-Steelers game](https://mymotherlode.com/sports/nfl-general-news/11240151/french-connection-new-orleans-and-paris-shared-history-in-spotlight-before-saints-steelers-game.html): myMotherLode.com, 2026-10-21 18:25 UTC
 - [Roger Goodell is comfortable with security for the NFL’s Paris game between the Steelers and Saints](https://triblive.com/sports/roger-goodell-is-comfortable-with-security-for-the-nfls-paris-game-between-the-steelers-and-saints/): TribLive, 2026-10-21 18:16 UTC
 - [Aaron Rodgers Thinks Steelers Have ‘One Of The Smartest Offensive Lines He’s Worked With,’ Former Player Says](https://steelersdepot.com/2026/10/aaron-rodgers-thinks-steelers-have-one-of-the-smartest-offensive-lines-hes-worked-with-relays-former-player/): Steelers Depot, 2026-10-21 18:00 UTC
 - [3 WRs Steelers Can Trade Day 3 Draft Picks For](https://www.si.com/nfl/steelers/onsi/3-wide-receivers-pittsburgh-steelers-trade-day-3-draft-picks): All Steelers (Sports Illustrated), 2026-10-21 18:00 UTC
@@ -68,6 +67,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Germie Bernard Gets Honest About His Critical Sunday Mistake](https://steelersdepot.com/2026/10/germie-bernard-gets-honest-about-his-critical-sunday-mistake/): Steelers Depot, 2026-10-21 16:30 UTC
 - [Jalen Ramsey Named AFC Defensive Player of the Week](https://steelersnow.com/jalen-ramsey-named-afc-defensive-player-of-the-week/): Steelers Now, 2026-10-21 16:23 UTC
 - [Steelers' Jalen Ramsey Draws Intriguing Extension Talk From Arthur Moats After Dominant Tampa Bay Win](https://www.steelernation.com/2026/10/21/steelers-jalen-ramsey-intriguing-extension): SteelerNation, 2026-10-21 16:21 UTC
+- [Saints need to show they can manage lead against Steelers](https://www.louisianasports.net/2026/10/21/saints-need-to-show-they-can-manage-lead-against-steelers/latest-stories/): Louisiana Sports, 2026-10-21 16:10 UTC
 - [Jalen Ramsey Takes Home NFL Honor After Outstanding Week Six Performance](https://steelersdepot.com/2026/10/jalen-ramsey-takes-home-nfl-honor-after-outstanding-week-six-performance/): Steelers Depot, 2026-10-21 16:04 UTC
 - [Former NFL OL Says Steelers Are Better Than Expected: ‘Can Find Ways To Win’](https://steelersdepot.com/2026/10/former-nfl-ol-says-steelers-are-better-than-expected-can-find-ways-to-win/): Steelers Depot, 2026-10-21 16:00 UTC
 - [AFC North power rankings deliver a brutal Week 7 reality check for Ravens](https://stillcurtain.com/afc-north-power-rankings-pittsburgh-steelers-deliver-week-7-reality-check-baltimore-ravens-01m5fg61kdyg?utm_source=RSS): Still Curtain, 2026-10-21 16:00 UTC
@@ -78,7 +78,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers aren't going anywhere with Aaron Rodgers as QB1 despite 4-2 record](https://stillcurtain.com/pittsburgh-steelers-aren-t-going-anywhere-with-aaron-rodgers-as-qb1-despite-4-2-record-01m5bgs7rdb6?utm_source=RSS): Still Curtain, 2026-10-21 15:00 UTC
 - [Steelers Must Avoid This Veteran WR Trade Target](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-must-avoid-veteran-trade-target-chris-godwin): All Steelers (Sports Illustrated), 2026-10-21 15:00 UTC
 - [DB’s Steelers Film Room: Jamel Dean Saves the Day in Tampa](https://steelersnow.com/dbs-steelers-film-room-jamel-dean-saves-the-day-in-tampa/): Steelers Now, 2026-10-21 14:57 UTC
-- [T.J. Watt’s wife has one big question before Steelers’ historic Paris game](https://www.cleveland.com/news/2026/10/tj-watts-wife-has-one-big-question-before-steelers-historic-paris-game.html): Cleveland.com, 2026-10-21 14:48 UTC
+- [Ex-Steelers’ George Pickens Could Get Traded Because of Joey Porter Jr.: Analyst](https://heavy.com/sports/nfl/pittsburgh-steelers/george-pickens-trade-rumors-joey-porter-cowboys-nfl-news/): Heavy.com, 2026-10-21 14:43 UTC
 - [Battista: NFL is 'all systems go' for Week 7 Steelers-Saints game in Paris | 'GMFB'](https://www.nfl.com/videos/battista-nfl-is-all-systems-go-for-week-7-steelers-saints-game-in-paris-gmfb): NFL.com, 2026-10-21 14:37 UTC
 - [Steelers film study: Keeanu Benton turned in his best performance of the season against the Buccaneers](https://www.post-gazette.com/sports/steelers/2026/10/21/steelers-film-study-keeanu-benton/stories/202610210005): Pittsburgh Post-Gazette, 2026-10-21 14:06 UTC
 - [Steelers quietly catch a major break with the latest Jordyn Tyson update](https://stillcurtain.com/pittsburgh-steelers-quietly-catch-major-break-latest-jordyn-tyson-update-01m5faqwx8mz?utm_source=RSS): Still Curtain, 2026-10-21 14:01 UTC

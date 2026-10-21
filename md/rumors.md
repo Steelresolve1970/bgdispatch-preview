@@ -1,8 +1,10 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-21T22:19:32+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T22:19:26+00:00._
+_Generated 2026-10-21T22:30:15+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T22:30:10+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
+- **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
+  [Steelers Rumors: Latest NFL Trade Intel on Jessie Bates and Derwin James](https://www.chatsports.com/pittsburgh-steelers/a/steelers-rumors-latest-nfl-trade-intel-jessie-bates-and-derwin-james-53472): Chat Sports, first seen 2026-10-21 22:30 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 11 source(s), top tier National insider
   [Elliott returns to full practice, full injury report](https://www.audacy.com/937thefan/sports/pittsburgh-steelers/elliott-returns-to-full-practice-full-injury-report): Audacy, first seen 2026-10-21 22:08 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
