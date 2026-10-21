@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T17:34:41.846023+00:00",
+ "generated": "2026-10-21T17:45:44.604781+00:00",
  "count": 150,
  "sources": [
   {
@@ -29,8 +29,8 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "ok",
-   "steelers_items": 24
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "steelers_items": 0
   },
   {
    "source": "Still Curtain",
@@ -115,6 +115,14 @@
    "id": "e6db9e7aac"
   },
   {
+   "title": "Steelers Get Important Message From Roger Goodell About Paris Game Safety",
+   "source": "SteelerNation",
+   "link": "https://www.steelernation.com/2026/10/21/steelers-important-roger-goodell-paris",
+   "published": "2026-10-21T17:40:33+00:00",
+   "summary": "Game story from SteelerNation. Full report at the original publisher.",
+   "id": "194369a753"
+  },
+  {
    "title": "Steelers Could Turn To New WR Marquez Valdes-Scantling For Help Sooner Than Expected",
    "source": "SteelerNation",
    "link": "https://www.steelernation.com/2026/10/21/steelers-new-marquez-valdes-scantling",
@@ -137,6 +145,15 @@
    "published": "2026-10-21T17:15:49+00:00",
    "summary": "News story from Steelers Depot. Full report at the original publisher.",
    "id": "36d3aa7887"
+  },
+  {
+   "title": "A'Shawn Robinson's Interception vs. Steelers | Call of the Game",
+   "source": "Tampa Bay Buccaneers",
+   "link": "https://www.buccaneers.com/video/ashawn-robinson-interception-vs-steelers-call-of-the-game",
+   "published": "2026-10-21T17:15:00+00:00",
+   "via": "Google News",
+   "summary": "Game story from Tampa Bay Buccaneers. Full report at the original publisher.",
+   "id": "beb07b9732"
   },
   {
    "title": "Steelers Offense a One-Trick Pony? | Steelers Morning Rush",
@@ -324,12 +341,12 @@
   },
   {
    "title": "Steelers player TJ Watt's wife questions NFL game in Paris amid riots",
-   "source": "fox23maine.com",
-   "link": "https://fox23maine.com/news/nation-world/steelers-player-tj-watts-wife-questions-nfl-game-in-paris-amid-riots-saints-france-arrests-emmanuel-macron-rrt",
-   "published": "2026-10-21T15:44:03+00:00",
+   "source": "The National News Desk",
+   "link": "https://thenationaldesk.com/news/americas-news-now/steelers-player-tj-watts-wife-questions-nfl-game-in-paris-amid-riots-saints-france-arrests-emmanuel-macron-rrt",
+   "published": "2026-10-21T15:42:42+00:00",
    "via": "Google News",
-   "summary": "Game story from fox23maine.com. Full report at the original publisher.",
-   "id": "a2f8fcca6e"
+   "summary": "Game story from The National News Desk. Full report at the original publisher.",
+   "id": "03b0616f57"
   },
   {
    "title": "Dulac: Steelers Won\u2019t Make WR Trade After Signing Marquez Valdes-Scantling",
@@ -447,14 +464,6 @@
    "id": "02a9743f62"
   },
   {
-   "title": "Steelers' Ben Roethlisberger Questions Mike McCarthy's Risky Clock Management Against Rookie QB",
-   "source": "SteelerNation",
-   "link": "https://www.steelernation.com/2026/10/21/steelers-ben-roethlisberger-mike-mccarthy-risky",
-   "published": "2026-10-21T14:42:10+00:00",
-   "summary": "News story from SteelerNation. Full report at the original publisher.",
-   "id": "e9ff2b53ed"
-  },
-  {
    "title": "Battista: NFL is 'all systems go' for Week 7 Steelers-Saints game in Paris | 'GMFB'",
    "source": "NFL.com",
    "link": "https://www.nfl.com/videos/battista-nfl-is-all-systems-go-for-week-7-steelers-saints-game-in-paris-gmfb",
@@ -554,15 +563,6 @@
    "id": "49a37a962a"
   },
   {
-   "title": "Steelers Urged by Former Super Bowl Champion to Make One Specific Blockbuster Trade",
-   "source": "Athlon Sports",
-   "link": "https://athlonsports.com/nfl/pittsburgh-steelers/steelers-urged-by-former-super-bowl-champion-to-make-one-specific-blockbuster-trade",
-   "published": "2026-10-21T13:00:00+00:00",
-   "via": "Google News",
-   "summary": "Trade/roster move story from Athlon Sports. Full report at the original publisher.",
-   "id": "aaf405beb6"
-  },
-  {
    "title": "Stade de France: An iconic arena",
    "source": "Steelers.com (official)",
    "link": "https://www.steelers.com/news/stade-de-france-an-iconic-arena",
@@ -577,14 +577,6 @@
    "published": "2026-10-21T12:15:56+00:00",
    "summary": "Opinion story from Steelers Depot. Full report at the original publisher.",
    "id": "d7577e1135"
-  },
-  {
-   "title": "Steelers have more than international travel to worry about against the Saints",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/21/steelers-have-more-than-international-travel-to-worry-about-against-the-saints/",
-   "published": "2026-10-21T12:15:47+00:00",
-   "summary": "News story from Steel City Underground. Full report at the original publisher.",
-   "id": "dd96e02d3b"
   },
   {
    "title": "Beat Writers Debate What Role Marquez Valdes-Scantling Will Play, And When",
@@ -806,6 +798,15 @@
    "id": "d95045be6a"
   },
   {
+   "title": "Steelers Power Rankings Roundup: Where Pittsburgh Landed After Week 6",
+   "source": "SportsNet Pittsburgh",
+   "link": "https://sportsnetpittsburgh.com/pittsburgh-steelers/news/steelers-power-rankings-roundup-week-7/8f57dda2564ee24d46d173c8",
+   "published": "2026-10-20T21:29:41+00:00",
+   "via": "Google News",
+   "summary": "News story from SportsNet Pittsburgh. Full report at the original publisher.",
+   "id": "d33b5698b2"
+  },
+  {
    "title": "Cam Heyward Once Again Elected to Esteemed Post for Steelers",
    "source": "Steelers Now",
    "link": "https://steelersnow.com/cam-heyward-once-again-elected-to-esteemed-post-for-steelers/",
@@ -936,14 +937,6 @@
    "id": "38796afb44"
   },
   {
-   "title": "Steelers Surprises: Unexpected heroes emerge in overtime comeback against Buccaneers",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/20/steelers-surprises-unexpected-heroes-emerge-in-overtime-comeback-against-buccaneers/",
-   "published": "2026-10-20T14:49:26+00:00",
-   "summary": "News story from Steel City Underground. Full report at the original publisher.",
-   "id": "5f3153e761"
-  },
-  {
    "title": "Week 7 odds: Steelers open as slight favorites vs. Saints",
    "source": "Behind the Steel Curtain",
    "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-odds/176592/week-7-odds-steelers-open-as-slight-favorites-vs-saints",
@@ -1033,14 +1026,6 @@
    "id": "c170b3e653"
   },
   {
-   "title": "Plays of the Game: Germie Bernard scores first NFL touchdown to lift Steelers past Buccaneers",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/20/plays-of-the-game-germie-bernard-scores-first-nfl-touchdown-to-lift-steelers-past-buccaneers/",
-   "published": "2026-10-20T11:47:58+00:00",
-   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
-   "id": "ff47dfcfd1"
-  },
-  {
    "title": "4 Steelers standouts from their overtime victory over the Buccaneers",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/4-pittsburgh-steelers-standouts-from-their-overtime-victory-over-the-buccaneers-01m5b8avetkk?utm_source=RSS",
@@ -1128,15 +1113,6 @@
    "published": "2026-10-20T08:00:00+00:00",
    "summary": "Opinion story from Pittsburgh Post-Gazette. Full report at the original publisher.",
    "id": "7381ab7b5c"
-  },
-  {
-   "title": "Grading the signing: Pittsburgh Steelers bring back a familiar face to help the wide receiver room amid multiple injuries",
-   "source": "A to Z Sports",
-   "link": "https://atozsports.com/nfl/pittsburgh-steelers-news/steelers-signing-marquez-valdes-scantling-practice-squad-wr-trade-rumors/",
-   "published": "2026-10-20T01:15:35+00:00",
-   "via": "Google News",
-   "summary": "Injury story from A to Z Sports. Full report at the original publisher.",
-   "id": "f01d19beae"
   },
   {
    "title": "Steelers\u2019 Mike McCarthy backs receivers \u2018in the building,\u2019 but open to adding outside help",
@@ -1333,6 +1309,30 @@
    "published": "2026-10-19T15:50:00+00:00",
    "summary": "Injury story from Steelers.com (official). Full report at the original publisher.",
    "id": "afbc7852c4"
+  },
+  {
+   "title": "The Steelers are heading to Paris in 3 days as protests continue, and one player says what he\u2019s seen online \u201clooks crazy out there\u201d",
+   "source": "PennLive (Nick Farabaugh)",
+   "link": "https://www.pennlive.com/steelers/2026/10/the-steelers-are-heading-to-paris-in-3-days-as-protests-continue-and-one-player-says-what-hes-seen-online-looks-crazy-out-there.html",
+   "published": "2026-10-19T15:49:27+00:00",
+   "summary": "News story from PennLive (Nick Farabaugh). Full report at the original publisher.",
+   "id": "562a4a4600"
+  },
+  {
+   "title": "Christopher Carter\u2019s Steelers and Pitt chat transcript: 10.19.26",
+   "source": "Pittsburgh Post-Gazette",
+   "link": "https://www.post-gazette.com/sports/steelers/2026/10/19/steelers-live-chat-aaron-rodgers/stories/202610190029",
+   "published": "2026-10-19T15:30:00+00:00",
+   "summary": "News story from Pittsburgh Post-Gazette. Full report at the original publisher.",
+   "id": "4d1cdc5c0b"
+  },
+  {
+   "title": "4 Colts trade candidates the Steelers could poach after Ballard firing",
+   "source": "Still Curtain",
+   "link": "https://stillcurtain.com/4-indianapolis-colts-trade-candidates-pittsburgh-steelers-could-poach-chris-ballard-firing-01m5a7n7aspa?utm_source=RSS",
+   "published": "2026-10-19T15:00:02+00:00",
+   "summary": "Trade/roster move story from Still Curtain. Full report at the original publisher.",
+   "id": "2726676a07"
   }
  ],
  "dropped_bad_links": 0

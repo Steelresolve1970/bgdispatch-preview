@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-21T17:35:22+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T17:34:54+00:00._
+_Generated 2026-10-21T17:46:14+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T17:45:57+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Steelers vs. Saints Week 7 Preview | Aaron Rodgers Problem Brewing](https://www.youtube.com/watch?v=B0agqGjSVpU): Still Curtain Podcast, 2026-10-21 17:20 UTC
@@ -133,7 +133,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Jalen Ramsey Clarifies Comments | Steelers Practice Report](https://www.youtube.com/watch?v=bRDSxlq5FRQ): Steelers Now, 2026-10-16 19:59 UTC
 - Video: [Aaron Rodgers Bonds with Unheralded WRs | Steelers Sights & Sounds](https://www.youtube.com/watch?v=DypVLdv5nY0): Steelers Now, 2026-10-16 18:41 UTC
 - Video: [Is Kaden Wetjen on Short Leash? The Grand Finale with Jack Hillgrove | THE PITTSBURGH FOOTBALL SHOW](https://www.youtube.com/watch?v=bbQu6HyTAh4): Steelers Now, 2026-10-16 18:21 UTC
-- Podcast: [Trouble in Paradise? Inside Steelers-Buccaneers with Nick Farabaugh | THE PITTSBURGH FOOTBALL SHOW](https://podcasts.apple.com/us/podcast/trouble-in-paradise-inside-steelers-buccaneers-with/id1700240934?i=1000796704169): Steelers Afternoon Drive, 2026-10-16 17:40 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

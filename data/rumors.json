@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T17:35:05.152340+00:00",
+ "generated": "2026-10-21T17:46:08.428151+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -98,6 +98,35 @@
     ]
    },
    "updated": "2026-10-21T17:35:05.152340+00:00"
+  },
+  {
+   "id": "6023736ee2c7",
+   "title": "Fantasy Football Players Need To Target Steelers WR Germie Bernard On The Trade Block",
+   "source": "Sports Illustrated",
+   "link": "https://www.si.com/onsi/fantasy/trade-analysis/fantasy-football-players-need-to-target-steelers-wr-germie-bernard-on-the-trade-block",
+   "published": "2026-10-21T17:11:08+00:00",
+   "summary": "Rumor-style report from Sports Illustrated on a Steelers roster move. Full details at the source.",
+   "tier": "National insider",
+   "tier_score": 4,
+   "subjects": [],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-21T17:46:08.428151+00:00",
+   "consensus": {
+    "cluster_id": "e44e8dd7936e",
+    "independent_sources": 2,
+    "sources": [
+     "ClutchPoints",
+     "Sports Illustrated"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "e44e8dd7936e"
+    ]
+   },
+   "updated": "2026-10-21T17:46:08.428151+00:00"
   },
   {
    "id": "bb96c631b70b",
@@ -1772,13 +1801,16 @@
    "first_seen": "2026-10-19T21:43:48.997226+00:00",
    "consensus": {
     "cluster_id": "e44e8dd7936e",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
-     "ClutchPoints"
+     "ClutchPoints",
+     "Sports Illustrated"
     ],
-    "highest_tier": "Aggregator / other",
-    "highest_tier_score": 1,
-    "related_ids": []
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "6023736ee2c7"
+    ]
    },
    "updated": "2026-10-19T21:43:48.997226+00:00"
   },
