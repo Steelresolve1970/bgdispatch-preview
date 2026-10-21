@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-21T21:47:06+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T21:46:50+00:00._
+_Generated 2026-10-21T21:57:53+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T21:57:37+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Podcast: [Steelers Release Veteran DB | Chris Godwin Trade?](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-21 21:45 UTC
 - Podcast: [The Terrible Take - Episode 2057 - October 21, 2026](https://podcasts.apple.com/us/podcast/id405990739): The Terrible Podcast (Steelers Depot), 2026-10-21 21:00 UTC
 - Video: [Cause for Concern? Steelers OT Max Iheanachor Has Taped Hand](https://www.youtube.com/watch?v=8BuJm27H0WQ): Steelers Now, 2026-10-21 20:46 UTC
 - Video: [♾️](https://www.youtube.com/shorts/bazY7Ly8iU4): Pittsburgh Steelers (official), 2026-10-21 20:11 UTC
@@ -15,7 +16,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [8 on the move 🌪️ 📺: #PITvsNO 10/25 at 9:30 AM ET on NFLN](https://www.youtube.com/shorts/DAK6nmsyqNE): Pittsburgh Steelers (official), 2026-10-21 15:47 UTC
 - Podcast: [The Steelers Fix: Dream Scenario Trades for the Steelers before the Deadline](https://podcasts.apple.com/us/podcast/id905962218): Steel Curtain Network (BTSC), 2026-10-21 15:30 UTC
 - Podcast: [Hour 1: Sticking it to the Saints](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-102126-mp3): Steelers Blitz, 2026-10-21 15:00 UTC
-- Podcast: [Steelers Big Plans at QB and WR](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-21 15:00 UTC
 - Video: [You already know the vibes 🙌](https://www.youtube.com/shorts/HdzKsylahSs): Pittsburgh Steelers (official), 2026-10-21 14:49 UTC
 - Podcast: [Hour 2: Power Rankings](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr2-102126-mp3): Steelers Blitz, 2026-10-21 14:00 UTC
 - Podcast: [Time to Believe in One Steelers Player](https://podcasts.apple.com/us/podcast/time-to-believe-in-one-steelers-player/id1627248534?i=1000797435986): All Steelers Talk, 2026-10-21 12:18 UTC
