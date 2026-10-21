@@ -2,8 +2,8 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-21T20:19:39+00:00",
- "data_updated": "2026-10-21T20:19:23+00:00",
+ "generated": "2026-10-21T20:30:49+00:00",
+ "data_updated": "2026-10-21T20:30:32+00:00",
  "count": 129,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
@@ -20,9 +20,22 @@
  "html": "https://blackandgolddispatch.com/#/podcasts",
  "items": [
   {
+   "id": "ea01e41b53d6907e",
+   "type": "video",
+   "title": "♾️",
+   "show": "Pittsburgh Steelers (official)",
+   "url": "https://www.youtube.com/shorts/bazY7Ly8iU4",
+   "published": "2026-10-21T20:11:23+00:00",
+   "summary": "Video from Pittsburgh Steelers (official).",
+   "source": {
+    "name": "Pittsburgh Steelers (official)",
+    "url": null
+   }
+  },
+  {
    "id": "0a4b412e9a9d8bf9",
    "type": "video",
-   "title": "A Look at WR Marquez Valdes-Scantling Back | Steelers Sights & Sounds",
+   "title": "WR Marquez Valdes-Scantling Back with Steelers | Steelers Sights & Sounds",
    "show": "Steelers Now",
    "url": "https://www.youtube.com/watch?v=xL7r9S_Nzh4",
    "published": "2026-10-21T20:00:53+00:00",
@@ -1164,11 +1177,11 @@
    }
   },
   {
-   "id": "fe01a90b4885e246",
+   "id": "d7d6f5e4fe6a87a4",
    "type": "podcast_episode",
    "title": "Steelers INSIDER Jim Wexell Reveals Why Aaron Rodgers’ Comeback Win Changes EVERYTHING #Steelers",
    "show": "The Steel City Insider (Jim Wexell, 247Sports)",
-   "url": "https://podcasts.apple.com/us/podcast/steelers-insider-jim-wexell-reveals-why-aaron-rodgers/id1623192893?i=1000797086130",
+   "url": "https://247sports.com/nfl/pittsburgh-steelers/",
    "published": "2026-10-19T14:01:09+00:00",
    "summary": "Podcast episode from The Steel City Insider (Jim Wexell, 247Sports).",
    "source": {
@@ -1199,19 +1212,6 @@
    "summary": "Podcast episode from Steelers Afternoon Drive.",
    "source": {
     "name": "Steelers Afternoon Drive",
-    "url": null
-   }
-  },
-  {
-   "id": "911eac4467d02ad2",
-   "type": "video",
-   "title": "WAKING UP ON VICTORY MONDAY LIKE:",
-   "show": "Pittsburgh Steelers (official)",
-   "url": "https://www.youtube.com/shorts/YWUC_KWv2ug",
-   "published": "2026-10-19T12:56:31+00:00",
-   "summary": "Video from Pittsburgh Steelers (official).",
-   "source": {
-    "name": "Pittsburgh Steelers (official)",
     "url": null
    }
   },

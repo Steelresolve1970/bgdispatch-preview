@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T20:19:06.051717+00:00",
+ "generated": "2026-10-21T20:30:00.223025+00:00",
  "count": 150,
  "sources": [
   {
@@ -29,8 +29,8 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "ok",
-   "steelers_items": 24
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "steelers_items": 0
   },
   {
    "source": "Still Curtain",
@@ -72,7 +72,7 @@
    "source": "Yahoo Sports",
    "url": "https://sports.yahoo.com/nfl/rss/",
    "status": "ok",
-   "steelers_items": 1
+   "steelers_items": 2
   },
   {
    "source": "Google News",
@@ -107,12 +107,45 @@
  ],
  "items": [
   {
+   "title": "Steelers Rookie Tackle Max Iheanachor Dealing with Hand Injury",
+   "source": "Steelers Now",
+   "link": "https://steelersnow.com/steelers-rookie-tackle-max-iheanachor-dealing-with-hand-injury/",
+   "published": "2026-10-21T20:27:53+00:00",
+   "summary": "Injury story from Steelers Now. Full report at the original publisher.",
+   "id": "fc0259e836"
+  },
+  {
+   "title": "Steelers' Germie Bernard's Mistake Brought A Strong Response On Sideline: \"What The F*** Are You Doing?\"",
+   "source": "SteelerNation",
+   "link": "https://www.steelernation.com/2026/10/21/steelers-germie-bernards-strong-doing",
+   "published": "2026-10-21T20:21:30+00:00",
+   "summary": "Opinion story from SteelerNation. Full report at the original publisher.",
+   "id": "413233594d"
+  },
+  {
+   "title": "Mike McCarthy Reacts To Steelers Signing Marquez Valdes-Scantling, Discusses Potential Role",
+   "source": "Steelers Depot",
+   "link": "https://steelersdepot.com/2026/10/mike-mccarthy-reacts-to-steelers-signing-marquez-valdes-scantling-discusses-potential-role/",
+   "published": "2026-10-21T20:20:27+00:00",
+   "summary": "Trade/roster move story from Steelers Depot. Full report at the original publisher.",
+   "id": "39e138b021"
+  },
+  {
    "title": "Steelers release S Rayshawn Jenkins",
-   "source": "ProFootballTalk (NBC)",
-   "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-release-s-rayshawn-jenkins",
+   "source": "Yahoo Sports",
+   "link": "https://sports.yahoo.com/articles/steelers-release-rayshawn-jenkins-201649818.html",
    "published": "2026-10-21T20:16:49+00:00",
-   "summary": "Trade/roster move story from ProFootballTalk (NBC). Full report at the original publisher.",
-   "id": "5c4940fd6d"
+   "summary": "Trade/roster move story from Yahoo Sports. Full report at the original publisher.",
+   "id": "6f8b535216"
+  },
+  {
+   "title": "McCarthy said Steelers prepared, confident for Sunday",
+   "source": "Audacy",
+   "link": "https://www.audacy.com/937thefan/sports/pittsburgh-steelers/mccarthy-said-steelers-prepared-confident-for-sunday",
+   "published": "2026-10-21T20:15:00+00:00",
+   "via": "Google News",
+   "summary": "News story from Audacy. Full report at the original publisher.",
+   "id": "81505e843c"
   },
   {
    "title": "Steelers Sights & Sounds: A Look at WR Marquez Valdes-Scantling",
@@ -395,15 +428,6 @@
    "id": "501df1b8aa"
   },
   {
-   "title": "Steelers' Jalen Ramsey Earns NFL Honor for Dominant Performance vs. Buccaneers",
-   "source": "SportsNet Pittsburgh",
-   "link": "https://sportsnetpittsburgh.com/pittsburgh-steelers/news/steelers-jalen-ramsey-afc-defensive-player-week-buccaneers/d5f46f16f4d32e4a538f1e14",
-   "published": "2026-10-21T16:38:45+00:00",
-   "via": "Google News",
-   "summary": "Game story from SportsNet Pittsburgh. Full report at the original publisher.",
-   "id": "f18e15119d"
-  },
-  {
    "title": "Steelers news: Zach Frazier has had tremendous start to season",
    "source": "Behind the Steel Curtain",
    "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176640/steelers-news-zach-frazier-has-had-tremendous-start-to-season",
@@ -541,14 +565,6 @@
    "published": "2026-10-21T15:08:19+00:00",
    "summary": "Game story from Steelers Now. Full report at the original publisher.",
    "id": "3a299cf224"
-  },
-  {
-   "title": "Navigating Online Casino Sites Safely For Steelers Fans: The Definitive Search And Verification FAQ",
-   "source": "SteelerNation",
-   "link": "https://www.steelernation.com/2026/10/21/steelers-navigating-online-casino-sites-safely",
-   "published": "2026-10-21T15:07:26+00:00",
-   "summary": "News story from SteelerNation. Full report at the original publisher.",
-   "id": "7d32dbb76e"
   },
   {
    "title": "Steelers aren't going anywhere with Aaron Rodgers as QB1 despite 4-2 record",
@@ -700,14 +716,6 @@
    "id": "d7577e1135"
   },
   {
-   "title": "Steelers have more than international travel to worry about against the Saints",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/21/steelers-have-more-than-international-travel-to-worry-about-against-the-saints/",
-   "published": "2026-10-21T12:15:47+00:00",
-   "summary": "News story from Steel City Underground. Full report at the original publisher.",
-   "id": "dd96e02d3b"
-  },
-  {
    "title": "Beat Writers Debate What Role Marquez Valdes-Scantling Will Play, And When",
    "source": "Steelers Depot",
    "link": "https://steelersdepot.com/2026/10/beat-writers-debate-what-role-marquez-valdes-scantling-will-play-and-when/",
@@ -722,14 +730,6 @@
    "published": "2026-10-21T12:00:02+00:00",
    "summary": "News story from Still Curtain. Full report at the original publisher.",
    "id": "d62c97e389"
-  },
-  {
-   "title": "Steelers Stock Watch 2026 \u2013 OLB Nick Herbig",
-   "source": "Steelers Depot",
-   "link": "https://steelersdepot.com/2026/10/steelers-stock-watch-2026-olb-nick-herbig-3/",
-   "published": "2026-10-21T11:00:37+00:00",
-   "summary": "News story from Steelers Depot. Full report at the original publisher.",
-   "id": "4d5d91a0b3"
   },
   {
    "title": "Steelers cornerbacks are giving fans a reason to move on from Joey Porter Jr.",
@@ -870,14 +870,6 @@
    "id": "742ddb75b5"
   },
   {
-   "title": "Cam Heyward Once Again Elected to Esteemed Post for Steelers",
-   "source": "Steelers Now",
-   "link": "https://steelersnow.com/cam-heyward-once-again-elected-to-esteemed-post-for-steelers/",
-   "published": "2026-10-20T21:29:34+00:00",
-   "summary": "News story from Steelers Now. Full report at the original publisher.",
-   "id": "205021db2b"
-  },
-  {
    "title": "NFL says heightened security measures will be in place for the Steelers-Saints game in Paris",
    "source": "TribLive",
    "link": "https://triblive.com/sports/nfl-says-heightened-security-measures-will-be-in-place-for-the-steelers-saints-game-in-paris/",
@@ -984,14 +976,6 @@
    "id": "38796afb44"
   },
   {
-   "title": "Steelers Surprises: Unexpected heroes emerge in overtime comeback against Buccaneers",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/20/steelers-surprises-unexpected-heroes-emerge-in-overtime-comeback-against-buccaneers/",
-   "published": "2026-10-20T14:49:26+00:00",
-   "summary": "News story from Steel City Underground. Full report at the original publisher.",
-   "id": "5f3153e761"
-  },
-  {
    "title": "Week 7 odds: Steelers open as slight favorites vs. Saints",
    "source": "Behind the Steel Curtain",
    "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-odds/176592/week-7-odds-steelers-open-as-slight-favorites-vs-saints",
@@ -1088,14 +1072,6 @@
    "published": "2026-10-20T12:00:00+00:00",
    "summary": "Opinion story from Pittsburgh Post-Gazette. Full report at the original publisher.",
    "id": "c170b3e653"
-  },
-  {
-   "title": "Plays of the Game: Germie Bernard scores first NFL touchdown to lift Steelers past Buccaneers",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/20/plays-of-the-game-germie-bernard-scores-first-nfl-touchdown-to-lift-steelers-past-buccaneers/",
-   "published": "2026-10-20T11:47:58+00:00",
-   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
-   "id": "ff47dfcfd1"
   },
   {
    "title": "4 Steelers standouts from their overtime victory over the Buccaneers",
@@ -1332,6 +1308,30 @@
    "via": "Google News",
    "summary": "News story from CBS News. Full report at the original publisher.",
    "id": "5604340c18"
+  },
+  {
+   "title": "The Steelers finally unleashed their blitzes \u2014 and Jalen Ramsey \u2014 at Tampa Bay",
+   "source": "Pittsburgh Post-Gazette",
+   "link": "https://www.post-gazette.com/sports/steelers/2026/10/19/steelers-blitz-jalen-ramsey/stories/202610190025",
+   "published": "2026-10-19T16:30:00+00:00",
+   "summary": "News story from Pittsburgh Post-Gazette. Full report at the original publisher.",
+   "id": "cb5e385ab9"
+  },
+  {
+   "title": "Pittsburgh Steelers lose key cornerback to hamstring injury",
+   "source": "PennLive (Nick Farabaugh)",
+   "link": "https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-lose-key-cornerback-to-injury.html",
+   "published": "2026-10-19T16:16:25+00:00",
+   "summary": "Injury story from PennLive (Nick Farabaugh). Full report at the original publisher.",
+   "id": "26d8e29a34"
+  },
+  {
+   "title": "Steelers\u2019 winning ways are hiding a troubling Chris Boswell problem",
+   "source": "Still Curtain",
+   "link": "https://stillcurtain.com/pittsburgh-steelers-winning-ways-hiding-troubling-chris-boswell-problem-01m5a2ekha59?utm_source=RSS",
+   "published": "2026-10-19T16:00:02+00:00",
+   "summary": "Game story from Still Curtain. Full report at the original publisher.",
+   "id": "50609f1d4f"
   }
  ],
  "dropped_bad_links": 0

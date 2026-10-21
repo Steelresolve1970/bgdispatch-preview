@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T20:19:23.161603+00:00",
+ "generated": "2026-10-21T20:30:32.616660+00:00",
  "date_et": "2026-10-21",
  "days": 5,
  "display_days": 2,
@@ -90,10 +90,10 @@
    "show": "Steel City Underground",
    "kind": "podcast",
    "url": "https://feeds.feedburner.com/steelcityunderground",
-   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 45,
    "week": 1,
-   "latest": null
+   "latest": "2026-10-19T19:40:55+00:00"
   },
   {
    "show": "Steel City Underground",
@@ -201,16 +201,16 @@
    "status": "ok",
    "episodes": 15,
    "week": 15,
-   "latest": "2026-10-21T16:09:12+00:00"
+   "latest": "2026-10-21T20:11:23+00:00"
   },
   {
    "show": "Not Just Football with Cam Heyward",
    "kind": "podcast",
    "url": "https://feeds.megaphone.fm/VMP7932485726",
-   "status": "ok",
-   "episodes": 211,
+   "status": "error: <urlopen error timed out>",
+   "episodes": 0,
    "week": 1,
-   "latest": "2026-10-21T10:00:00+00:00"
+   "latest": null
   },
   {
    "show": "Not Just Football with Cam Heyward",
@@ -225,10 +225,10 @@
    "show": "Footbahlin with Ben Roethlisberger",
    "kind": "podcast",
    "url": "https://rss.buzzsprout.com/2062616.rss",
-   "status": "ok",
-   "episodes": 145,
+   "status": "error: <urlopen error timed out>",
+   "episodes": 0,
    "week": 1,
-   "latest": "2026-10-20T22:00:00+00:00"
+   "latest": null
   },
   {
    "show": "The Christian Kuntz Podcast",
@@ -251,7 +251,15 @@
  ],
  "items": [
   {
-   "title": "A Look at WR Marquez Valdes-Scantling Back | Steelers Sights & Sounds",
+   "title": "\u267e\ufe0f",
+   "show": "Pittsburgh Steelers (official)",
+   "kind": "video",
+   "link": "https://www.youtube.com/shorts/bazY7Ly8iU4",
+   "published": "2026-10-21T20:11:23+00:00",
+   "summary": "Video from Pittsburgh Steelers (official)."
+  },
+  {
+   "title": "WR Marquez Valdes-Scantling Back with Steelers | Steelers Sights & Sounds",
    "show": "Steelers Now",
    "kind": "video",
    "link": "https://www.youtube.com/watch?v=xL7r9S_Nzh4",
@@ -958,7 +966,7 @@
    "title": "Steelers INSIDER Jim Wexell Reveals Why Aaron Rodgers\u2019 Comeback Win Changes EVERYTHING #Steelers",
    "show": "The Steel City Insider (Jim Wexell, 247Sports)",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/steelers-insider-jim-wexell-reveals-why-aaron-rodgers/id1623192893?i=1000797086130",
+   "link": "https://247sports.com/nfl/pittsburgh-steelers/",
    "published": "2026-10-19T14:01:09+00:00",
    "summary": "Podcast episode from The Steel City Insider (Jim Wexell, 247Sports)."
   },
@@ -977,14 +985,6 @@
    "link": "https://podcasts.apple.com/us/podcast/still-celebrating-sloppy-steelers-win-steelers-morning/id1700240934?i=1000797088259",
    "published": "2026-10-19T13:59:00+00:00",
    "summary": "Podcast episode from Steelers Afternoon Drive."
-  },
-  {
-   "title": "WAKING UP ON VICTORY MONDAY LIKE:",
-   "show": "Pittsburgh Steelers (official)",
-   "kind": "video",
-   "link": "https://www.youtube.com/shorts/YWUC_KWv2ug",
-   "published": "2026-10-19T12:56:31+00:00",
-   "summary": "Video from Pittsburgh Steelers (official)."
   },
   {
    "title": "Steelers Calling for WR Trade - But There Are Rules",

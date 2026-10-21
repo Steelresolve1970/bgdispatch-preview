@@ -1,9 +1,10 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-21T20:19:39+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T20:19:23+00:00._
+_Generated 2026-10-21T20:30:49+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T20:30:32+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
-- Video: [A Look at WR Marquez Valdes-Scantling Back | Steelers Sights & Sounds](https://www.youtube.com/watch?v=xL7r9S_Nzh4): Steelers Now, 2026-10-21 20:00 UTC
+- Video: [♾️](https://www.youtube.com/shorts/bazY7Ly8iU4): Pittsburgh Steelers (official), 2026-10-21 20:11 UTC
+- Video: [WR Marquez Valdes-Scantling Back with Steelers | Steelers Sights & Sounds](https://www.youtube.com/watch?v=xL7r9S_Nzh4): Steelers Now, 2026-10-21 20:00 UTC
 - Podcast: [Steelers vs. Saints Week 7 Preview | Aaron Rodgers Problem Brewing](https://redcircle.com/shows/62750d24-c3c9-4be8-919a-ff22b312fb19/episodes/713cf51f-6e13-4adb-977b-bd7b8f477ea3): Still Curtain Podcast, 2026-10-21 19:35 UTC
 - Video: [Steelers vs. Saints Week 7 Preview | Aaron Rodgers Problem Brewing](https://www.youtube.com/watch?v=B0agqGjSVpU): Still Curtain Podcast, 2026-10-21 17:20 UTC
 - Video: [The rookie Germie Bernard got his first NFL TD at the perfect time! 🔥👏#germiebernard #steelers](https://www.youtube.com/shorts/VoBCAmwhJqs): Not Just Football with Cam Heyward, 2026-10-21 17:11 UTC
@@ -91,10 +92,9 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Hour 1: A Takeover in Tampa](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-101926-mp3): Steelers Blitz, 2026-10-19 16:00 UTC
 - Video: [Steelers ILB Payton Wilson Reveals Major Change in Defense’s Approach](https://www.youtube.com/watch?v=2u8S2Cd3QIU): Steelers Now, 2026-10-19 15:37 UTC
 - Podcast: [Hour 2: Brian Batko Break Down and Around the Shield](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/hour-2-brian-batko-break-down-and-around-the-shield): Steelers Blitz, 2026-10-19 15:00 UTC
-- Podcast: [Steelers INSIDER Jim Wexell Reveals Why Aaron Rodgers’ Comeback Win Changes EVERYTHING #Steelers](https://podcasts.apple.com/us/podcast/steelers-insider-jim-wexell-reveals-why-aaron-rodgers/id1623192893?i=1000797086130): The Steel City Insider (Jim Wexell, 247Sports), 2026-10-19 14:01 UTC
+- Podcast: [Steelers INSIDER Jim Wexell Reveals Why Aaron Rodgers’ Comeback Win Changes EVERYTHING #Steelers](https://247sports.com/nfl/pittsburgh-steelers/): The Steel City Insider (Jim Wexell, 247Sports), 2026-10-19 14:01 UTC
 - Video: [Still Celebrating Sloppy Steelers Win? | Steelers Morning Rush](https://www.youtube.com/watch?v=R9OMTs6bo3I): Steelers Now, 2026-10-19 13:59 UTC
 - Podcast: [Still Celebrating Sloppy Steelers Win? | Steelers Morning Rush](https://podcasts.apple.com/us/podcast/still-celebrating-sloppy-steelers-win-steelers-morning/id1700240934?i=1000797088259): Steelers Afternoon Drive, 2026-10-19 13:59 UTC
-- Video: [WAKING UP ON VICTORY MONDAY LIKE:](https://www.youtube.com/shorts/YWUC_KWv2ug): Pittsburgh Steelers (official), 2026-10-19 12:56 UTC
 - Podcast: [Steelers Calling for WR Trade - But There Are Rules](https://podcasts.apple.com/us/podcast/steelers-calling-for-wr-trade-but-there-are-rules/id1627248534?i=1000797073700): All Steelers Talk, 2026-10-19 12:26 UTC
 - Video: [Steelers Now Postgame: Steelers 26, Buccaneers 19](https://www.youtube.com/watch?v=KonkrbBsYjY): Steelers Now, 2026-10-19 12:03 UTC
 - Podcast: [Pittsburgh Steelers Win Week 6 vs Buccaneers - [What Went Right/Wrong In Week 6]](https://arthurmoats55.libsyn.com/panel_1018_ytmp3): The Arthur Moats Experience, 2026-10-19 09:52 UTC
