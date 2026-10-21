@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T22:51:27.021855+00:00",
+ "generated": "2026-10-21T23:22:59.970659+00:00",
  "game": {
   "label": "at Tampa Bay Buccaneers (Oct 18)",
   "opponent": "Tampa Bay Buccaneers",
@@ -95,8 +95,8 @@
    "creator": "Alex & the NFL",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsGr04a3SDjhPhsAe4xj4YQ",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
@@ -105,14 +105,14 @@
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgIrOw8M4dNVs-WcMSaZUxA",
    "status": "ok",
    "feed_items": 15,
-   "in_window": 5
+   "in_window": 4
   },
   {
    "creator": "Steelers Now (Derrick Bell)",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp1iAMIfmmgWewzJ07_Y7oA",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
@@ -127,8 +127,8 @@
    "creator": "Still Curtain",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxjSNPLcRAVzDKOjhRwo-hQ",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 500: Internal Server Error",
+   "feed_items": 0,
    "in_window": 0
   },
   {
@@ -290,8 +290,9 @@
    "creator": "Steelers Almighty",
    "link": "https://www.youtube.com/shorts/WgQOVchjdTg",
    "published": "2026-10-20T15:33:04+00:00",
-   "summary": "Film breakdown by Steelers Almighty of at Tampa Bay Buccaneers (Oct 18).",
-   "game": "at Tampa Bay Buccaneers (Oct 18)"
+   "gid": "2026_06_PIT_TB",
+   "source": "rss",
+   "summary": "Film breakdown by Steelers Almighty of Week 6 at Buccaneers (W 26-19)."
   },
   {
    "title": "Stars & Skulls Grades for Steelers-Buccaneers | Locked On",

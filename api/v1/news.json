@@ -2,8 +2,8 @@
  "api_version": "1",
  "dataset": "news",
  "description": "Steelers headlines from beat writers, national outlets and blogs, with our one-line summaries and links to the publisher.",
- "generated": "2026-10-21T22:51:55+00:00",
- "data_updated": "2026-10-21T22:51:22+00:00",
+ "generated": "2026-10-21T23:23:55+00:00",
+ "data_updated": "2026-10-21T23:22:54+00:00",
  "count": 150,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
@@ -20,6 +20,84 @@
  "html": "https://blackandgolddispatch.com/#/",
  "items": [
   {
+   "id": "a18a140bc67aa9a2",
+   "type": "news",
+   "title": "Steelers Get Encouraging Update On Safety DeShon Elliott Ahead Of Return",
+   "summary": "News story from SteelerNation. Full report at the original publisher.",
+   "url": "https://www.steelernation.com/2026/10/21/steelers-safety-deshon-elliott-return",
+   "source": {
+    "name": "SteelerNation",
+    "url": null
+   },
+   "published": "2026-10-21T23:14:06+00:00",
+   "retrieved": "2026-10-21T23:22:54+00:00"
+  },
+  {
+   "id": "134873f814b3bf94",
+   "type": "news",
+   "title": "Buccaneers Lineman Was Left Stunned After Steelers' Yahya Black Revealed True Weight",
+   "summary": "News story from SportsNet Pittsburgh. Full report at the original publisher.",
+   "url": "https://sportsnetpittsburgh.com/pittsburgh-steelers/news/steelers-yahya-black-weight-tristan-wirfs-buccaneers/c7396411c03ce135bc77702a",
+   "source": {
+    "name": "SportsNet Pittsburgh",
+    "url": null
+   },
+   "published": "2026-10-21T23:09:55+00:00",
+   "retrieved": "2026-10-21T23:22:54+00:00"
+  },
+  {
+   "id": "de8ad3c092b8d777",
+   "type": "news",
+   "title": "Marquez Valdes-Scantling is back for a reunion and hopes to bolster an injured Steelers receiver room",
+   "summary": "Injury story from Pittsburgh Post-Gazette. Full report at the original publisher.",
+   "url": "https://www.post-gazette.com/sports/steelers/2026/10/21/marquez-valdes-scantling-aaron-rodgers-mike-mccarthy-steelers/stories/202610210044",
+   "source": {
+    "name": "Pittsburgh Post-Gazette",
+    "url": null
+   },
+   "published": "2026-10-21T23:07:26+00:00",
+   "retrieved": "2026-10-21T23:22:54+00:00"
+  },
+  {
+   "id": "5bdf6950ef518cda",
+   "type": "news",
+   "title": "Injury Emerges for Steelers Defensive Lineman",
+   "summary": "Injury story from Steelers Now. Full report at the original publisher.",
+   "url": "https://steelersnow.com/injury-emerges-for-steelers-defensive-lineman/",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   },
+   "published": "2026-10-21T23:07:08+00:00",
+   "retrieved": "2026-10-21T23:22:54+00:00"
+  },
+  {
+   "id": "38796afb448562a7",
+   "type": "news",
+   "title": "Week 7 Blog: On a mission",
+   "summary": "News story from Steelers.com (official). Full report at the original publisher.",
+   "url": "https://www.steelers.com/news/week-7-blog-the-stacking-has-begun",
+   "source": {
+    "name": "Steelers.com (official)",
+    "url": null
+   },
+   "published": "2026-10-21T23:01:00+00:00",
+   "retrieved": "2026-10-21T23:22:54+00:00"
+  },
+  {
+   "id": "faedff00be221983",
+   "type": "news",
+   "title": "Aaron Rodgers Steered Marquez Valdes-Scantling Away From Chargers Return",
+   "summary": "News story from Steelers Depot. Full report at the original publisher.",
+   "url": "https://steelersdepot.com/2026/10/aaron-rodgers-steered-marquez-valdes-scantling-away-from-chargers-return/",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null
+   },
+   "published": "2026-10-21T23:00:55+00:00",
+   "retrieved": "2026-10-21T23:22:54+00:00"
+  },
+  {
    "id": "246b096e91d3101e",
    "type": "news",
    "title": "Ready to fly",
@@ -30,7 +108,7 @@
     "url": null
    },
    "published": "2026-10-21T22:40:06+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "a70e1b74e4c68b4b",
@@ -43,7 +121,7 @@
     "url": null
    },
    "published": "2026-10-21T22:34:53+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "6df594045912b13c",
@@ -56,7 +134,7 @@
     "url": null
    },
    "published": "2026-10-21T22:30:51+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "4b76b261dc009eca",
@@ -69,7 +147,7 @@
     "url": null
    },
    "published": "2026-10-21T22:08:37+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "7f74b103dc5b3947",
@@ -82,7 +160,7 @@
     "url": null
    },
    "published": "2026-10-21T22:06:28+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "3ef58a18176340d8",
@@ -95,7 +173,7 @@
     "url": null
    },
    "published": "2026-10-21T21:56:47+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "a47989cc3ca8562a",
@@ -108,7 +186,7 @@
     "url": null
    },
    "published": "2026-10-21T21:54:00+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "cf032c681184ef45",
@@ -121,7 +199,7 @@
     "url": null
    },
    "published": "2026-10-21T21:53:24+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "825a24751358040d",
@@ -134,7 +212,7 @@
     "url": null
    },
    "published": "2026-10-21T21:47:32+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "1f06bdc145112399",
@@ -147,7 +225,7 @@
     "url": null
    },
    "published": "2026-10-21T21:43:12+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "e4f12f851afd3bc7",
@@ -160,7 +238,7 @@
     "url": null
    },
    "published": "2026-10-21T21:43:03+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "18b325c6ec518174",
@@ -173,7 +251,7 @@
     "url": null
    },
    "published": "2026-10-21T21:40:40+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "6f57904e35d541bb",
@@ -186,7 +264,7 @@
     "url": null
    },
    "published": "2026-10-21T21:37:33+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "ce055ce50aec5ad5",
@@ -199,7 +277,7 @@
     "url": null
    },
    "published": "2026-10-21T21:30:31+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "335253e9ea68a2d9",
@@ -212,7 +290,7 @@
     "url": null
    },
    "published": "2026-10-21T21:30:24+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "8577c3aed5983f34",
@@ -225,7 +303,7 @@
     "url": null
    },
    "published": "2026-10-21T21:27:35+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "508b40f6a3134fdf",
@@ -238,7 +316,7 @@
     "url": null
    },
    "published": "2026-10-21T21:25:10+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "9bb2c8fefeab272b",
@@ -251,7 +329,7 @@
     "url": null
    },
    "published": "2026-10-21T21:17:30+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "b71928cf3c7c614f",
@@ -264,7 +342,7 @@
     "url": null
    },
    "published": "2026-10-21T21:15:04+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "ed7c292a3d49678f",
@@ -277,7 +355,7 @@
     "url": null
    },
    "published": "2026-10-21T21:11:25+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "f0f7c7122ada9fb5",
@@ -290,7 +368,7 @@
     "url": null
    },
    "published": "2026-10-21T20:57:51+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "28359084a15faa92",
@@ -303,7 +381,7 @@
     "url": null
    },
    "published": "2026-10-21T20:43:51+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "d2e5562e4ae0ba6d",
@@ -316,7 +394,7 @@
     "url": null
    },
    "published": "2026-10-21T20:30:35+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "fc0259e8362751e0",
@@ -329,7 +407,7 @@
     "url": null
    },
    "published": "2026-10-21T20:27:53+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "a7468b981cd165ba",
@@ -342,7 +420,7 @@
     "url": null
    },
    "published": "2026-10-21T20:26:35+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "413233594d4d5a99",
@@ -355,7 +433,7 @@
     "url": null
    },
    "published": "2026-10-21T20:21:30+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "39e138b02112b68f",
@@ -368,7 +446,7 @@
     "url": null
    },
    "published": "2026-10-21T20:20:27+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "5c4940fd6dbeebfb",
@@ -381,7 +459,7 @@
     "url": null
    },
    "published": "2026-10-21T20:16:49+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "81505e843cba03a9",
@@ -394,7 +472,7 @@
     "url": null
    },
    "published": "2026-10-21T20:15:00+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "a64526732c9cfa96",
@@ -407,7 +485,7 @@
     "url": null
    },
    "published": "2026-10-21T20:11:51+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "4e161f0bf7391a06",
@@ -420,7 +498,7 @@
     "url": null
    },
    "published": "2026-10-21T20:08:56+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "a5a641905716439f",
@@ -433,7 +511,7 @@
     "url": null
    },
    "published": "2026-10-21T20:02:44+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "b7f276569999bc57",
@@ -446,7 +524,7 @@
     "url": null
    },
    "published": "2026-10-21T20:00:02+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "500cd44c3e74a05e",
@@ -459,7 +537,7 @@
     "url": null
    },
    "published": "2026-10-21T20:00:01+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "43776160e19d5bd5",
@@ -472,7 +550,7 @@
     "url": null
    },
    "published": "2026-10-21T20:00:00+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "d5dc31f16ff78804",
@@ -485,7 +563,7 @@
     "url": null
    },
    "published": "2026-10-21T19:54:19+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "a5ad1208533abbf5",
@@ -498,7 +576,7 @@
     "url": null
    },
    "published": "2026-10-21T19:45:16+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "3f4dcc8727ea298d",
@@ -511,7 +589,7 @@
     "url": null
    },
    "published": "2026-10-21T19:45:00+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "f6883b65cd64ca05",
@@ -524,7 +602,7 @@
     "url": null
    },
    "published": "2026-10-21T19:35:50+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "bfaee7a530c31fc6",
@@ -537,7 +615,7 @@
     "url": null
    },
    "published": "2026-10-21T19:23:15+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "a83e1de5760ca26a",
@@ -550,7 +628,7 @@
     "url": null
    },
    "published": "2026-10-21T19:03:00+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "ddebb1c98d23722b",
@@ -563,7 +641,7 @@
     "url": null
    },
    "published": "2026-10-21T19:00:00+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "7e324214d78d9bed",
@@ -576,7 +654,7 @@
     "url": null
    },
    "published": "2026-10-21T18:52:16+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "c84217e4e8676371",
@@ -589,7 +667,7 @@
     "url": null
    },
    "published": "2026-10-21T18:45:06+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "fd3fe270627beb5c",
@@ -602,7 +680,7 @@
     "url": null
    },
    "published": "2026-10-21T18:30:23+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "70ce1777bf84bf1e",
@@ -615,7 +693,7 @@
     "url": null
    },
    "published": "2026-10-21T18:16:46+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "5594954ecce29280",
@@ -628,7 +706,20 @@
     "url": null
    },
    "published": "2026-10-21T18:00:27+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
+  },
+  {
+   "id": "559a9759692e1a71",
+   "type": "news",
+   "title": "3 WRs Steelers Can Trade Day 3 Draft Picks For",
+   "summary": "Trade/roster move story from All Steelers (Sports Illustrated). Full report at the original publisher.",
+   "url": "https://www.si.com/nfl/steelers/onsi/3-wide-receivers-pittsburgh-steelers-trade-day-3-draft-picks",
+   "source": {
+    "name": "All Steelers (Sports Illustrated)",
+    "url": null
+   },
+   "published": "2026-10-21T18:00:03+00:00",
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "7d80fd2abeda5b0f",
@@ -641,7 +732,7 @@
     "url": null
    },
    "published": "2026-10-21T17:50:31+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "194369a753e8db06",
@@ -654,7 +745,7 @@
     "url": null
    },
    "published": "2026-10-21T17:40:33+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "58ce37e67fe4aca4",
@@ -667,7 +758,7 @@
     "url": null
    },
    "published": "2026-10-21T17:21:01+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "aa1233eb5bfc2bbe",
@@ -680,7 +771,7 @@
     "url": null
    },
    "published": "2026-10-21T17:19:52+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "36d3aa7887fb5e54",
@@ -693,7 +784,7 @@
     "url": null
    },
    "published": "2026-10-21T17:15:49+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "e89f2bb3b79659e8",
@@ -706,20 +797,20 @@
     "url": null
    },
    "published": "2026-10-21T17:07:00+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
-   "id": "4c1493811fb6b506",
+   "id": "349de42bf63d85d2",
    "type": "news",
-   "title": "\"Big Advantage For The Saints\": Steelers Could Have A Problem Heading To Paris",
-   "summary": "News story from SteelerNation. Full report at the original publisher.",
-   "url": "https://www.steelernation.com/2026/10/21/steelers-big-advantage-saints-paris",
+   "title": "NFL Paris Game On: Goodell Confident in Security",
+   "summary": "Game story from Audacy. Full report at the original publisher.",
+   "url": "https://www.audacy.com/937thefan/sports/pittsburgh-steelers/nfl-paris-game-on-goodell-confident-in-security",
    "source": {
-    "name": "SteelerNation",
+    "name": "Audacy",
     "url": null
    },
-   "published": "2026-10-21T17:02:19+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "published": "2026-10-21T17:04:00+00:00",
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "a16450dbaaadd5c1",
@@ -732,7 +823,7 @@
     "url": null
    },
    "published": "2026-10-21T17:00:10+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "0735134a93d04123",
@@ -745,7 +836,20 @@
     "url": null
    },
    "published": "2026-10-21T17:00:00+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
+  },
+  {
+   "id": "4e820f59025ae556",
+   "type": "news",
+   "title": "Kool-Aid McKinstry, Quincy Riley, Devaugh Vele, Justin Reid, Isaiah Stalbird press conference | Saints vs. Steelers 2026 NFL Week 7",
+   "summary": "Game story from New Orleans Saints | NewOrleansSaints.com. Full report at the original publisher.",
+   "url": "https://www.neworleanssaints.com/video/kool-aid-mckinstry-quincy-riley-devaugh-vele-justin-reid-isaiah-stalbird-press-conference-saints-vs-steelers-2026-nfl-week-7-october-21-2026",
+   "source": {
+    "name": "New Orleans Saints | NewOrleansSaints.com",
+    "url": null
+   },
+   "published": "2026-10-21T16:59:05+00:00",
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "bf54383d85747408",
@@ -758,7 +862,7 @@
     "url": null
    },
    "published": "2026-10-21T16:53:44+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "2670ece13a6fe62e",
@@ -771,7 +875,7 @@
     "url": null
    },
    "published": "2026-10-21T16:46:02+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "501df1b8aaf880dd",
@@ -784,7 +888,7 @@
     "url": null
    },
    "published": "2026-10-21T16:39:36+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "edbc8e59daa2a465",
@@ -797,7 +901,7 @@
     "url": null
    },
    "published": "2026-10-21T16:39:36+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "68e057aeafd5b11b",
@@ -810,7 +914,7 @@
     "url": null
    },
    "published": "2026-10-21T16:33:46+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "6fd78fdc4a96c84d",
@@ -823,7 +927,7 @@
     "url": null
    },
    "published": "2026-10-21T16:33:03+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "bf7ba1d5858fe1c6",
@@ -836,7 +940,7 @@
     "url": null
    },
    "published": "2026-10-21T16:30:09+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "ee44178ca47e013c",
@@ -849,7 +953,7 @@
     "url": null
    },
    "published": "2026-10-21T16:23:49+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "c43de5337750ee83",
@@ -862,7 +966,7 @@
     "url": null
    },
    "published": "2026-10-21T16:10:43+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "10ac75e17306cce0",
@@ -875,7 +979,7 @@
     "url": null
    },
    "published": "2026-10-21T16:04:03+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "1180f171cb1f18f3",
@@ -888,7 +992,7 @@
     "url": null
    },
    "published": "2026-10-21T16:00:28+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "856b95a76bfc274d",
@@ -901,7 +1005,7 @@
     "url": null
    },
    "published": "2026-10-21T16:00:01+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "8fa78cac8e1b963f",
@@ -914,20 +1018,7 @@
     "url": null
    },
    "published": "2026-10-21T15:51:22+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
-  },
-  {
-   "id": "cf3314866dd916d8",
-   "type": "news",
-   "title": "Dulac: Steelers Won’t Make WR Trade After Signing Marquez Valdes-Scantling",
-   "summary": "Trade/roster move story from Steelers Depot. Full report at the original publisher.",
-   "url": "https://steelersdepot.com/2026/10/dulac-steelers-wont-make-wr-trade-after-signing-marquez-valdes-scantling/",
-   "source": {
-    "name": "Steelers Depot",
-    "url": null
-   },
-   "published": "2026-10-21T15:42:39+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "db06ba0a98f9a081",
@@ -940,7 +1031,7 @@
     "url": null
    },
    "published": "2026-10-21T15:36:42+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "3a299cf2249e8359",
@@ -953,7 +1044,7 @@
     "url": null
    },
    "published": "2026-10-21T15:08:19+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "6668b7a5b3efa75a",
@@ -966,7 +1057,20 @@
     "url": null
    },
    "published": "2026-10-21T15:00:03+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
+  },
+  {
+   "id": "bb96c631b70b8fee",
+   "type": "news",
+   "title": "Steelers Must Avoid This Veteran WR Trade Target",
+   "summary": "Trade/roster move story from All Steelers (Sports Illustrated). Full report at the original publisher.",
+   "url": "https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-must-avoid-veteran-trade-target-chris-godwin",
+   "source": {
+    "name": "All Steelers (Sports Illustrated)",
+    "url": null
+   },
+   "published": "2026-10-21T15:00:01+00:00",
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "9d3edd1ae8b69682",
@@ -979,33 +1083,20 @@
     "url": null
    },
    "published": "2026-10-21T14:57:35+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
-   "id": "6d7177ca7de1c06e",
+   "id": "02a9743f623b4eb4",
    "type": "news",
-   "title": "T.J. Watt’s wife has one big question before Steelers’ historic Paris game",
-   "summary": "Game story from Cleveland.com. Full report at the original publisher.",
-   "url": "https://www.cleveland.com/news/2026/10/tj-watts-wife-has-one-big-question-before-steelers-historic-paris-game.html",
+   "title": "Ex-Steelers’ George Pickens Could Get Traded Because of Joey Porter Jr.: Analyst",
+   "summary": "Trade/roster move story from Heavy.com. Full report at the original publisher.",
+   "url": "https://heavy.com/sports/nfl/pittsburgh-steelers/george-pickens-trade-rumors-joey-porter-cowboys-nfl-news/",
    "source": {
-    "name": "Cleveland.com",
+    "name": "Heavy.com",
     "url": null
    },
-   "published": "2026-10-21T14:48:00+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
-  },
-  {
-   "id": "3c2d3b92ad99f87b",
-   "type": "news",
-   "title": "Battista: NFL is 'all systems go' for Week 7 Steelers-Saints game in Paris | 'GMFB'",
-   "summary": "Game story from NFL.com. Full report at the original publisher.",
-   "url": "https://www.nfl.com/videos/battista-nfl-is-all-systems-go-for-week-7-steelers-saints-game-in-paris-gmfb",
-   "source": {
-    "name": "NFL.com",
-    "url": null
-   },
-   "published": "2026-10-21T14:37:35+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "published": "2026-10-21T14:43:05+00:00",
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "42c4beeb657d0b19",
@@ -1018,7 +1109,7 @@
     "url": null
    },
    "published": "2026-10-21T14:06:03+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "ba902b430459f834",
@@ -1031,7 +1122,7 @@
     "url": null
    },
    "published": "2026-10-21T14:01:37+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "1490807f3d94721d",
@@ -1044,7 +1135,7 @@
     "url": null
    },
    "published": "2026-10-21T14:00:00+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "0dde437df9757b96",
@@ -1057,20 +1148,7 @@
     "url": null
    },
    "published": "2026-10-21T13:54:44+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
-  },
-  {
-   "id": "60a2de1f98281dd3",
-   "type": "news",
-   "title": "NFL to Bolster Security for Steelers-Saints Game in Paris",
-   "summary": "Game story from Steelers Now. Full report at the original publisher.",
-   "url": "https://steelersnow.com/nfl-to-bolster-security-for-steelers-saints-game-in-paris/",
-   "source": {
-    "name": "Steelers Now",
-    "url": null
-   },
-   "published": "2026-10-21T13:25:13+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "f18129405cfca686",
@@ -1083,7 +1161,20 @@
     "url": null
    },
    "published": "2026-10-21T13:00:03+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
+  },
+  {
+   "id": "49a37a962ae4ea29",
+   "type": "news",
+   "title": "Steelers Can Shut Down This Trade Idea",
+   "summary": "Trade/roster move story from All Steelers (Sports Illustrated). Full report at the original publisher.",
+   "url": "https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-shut-down-this-trade-idea-cornerback",
+   "source": {
+    "name": "All Steelers (Sports Illustrated)",
+    "url": null
+   },
+   "published": "2026-10-21T13:00:01+00:00",
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "27c9ea19ea0342f9",
@@ -1096,20 +1187,7 @@
     "url": null
    },
    "published": "2026-10-21T13:00:00+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
-  },
-  {
-   "id": "dd96e02d3b7b9af1",
-   "type": "news",
-   "title": "Steelers have more than international travel to worry about against the Saints",
-   "summary": "News story from Steel City Underground. Full report at the original publisher.",
-   "url": "https://www.steelcityunderground.com/2026/10/21/steelers-have-more-than-international-travel-to-worry-about-against-the-saints/",
-   "source": {
-    "name": "Steel City Underground",
-    "url": null
-   },
-   "published": "2026-10-21T12:15:47+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "d62c97e3894c94c5",
@@ -1122,7 +1200,7 @@
     "url": null
    },
    "published": "2026-10-21T12:00:02+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "b1389e1537ae3a6b",
@@ -1135,7 +1213,7 @@
     "url": null
    },
    "published": "2026-10-21T11:00:04+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "b875732ff7f808b2",
@@ -1148,7 +1226,7 @@
     "url": null
    },
    "published": "2026-10-21T10:16:15+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "1b9cf10893b1b6c9",
@@ -1161,7 +1239,7 @@
     "url": null
    },
    "published": "2026-10-21T10:07:00+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "8e382a5d7f4515fe",
@@ -1174,7 +1252,7 @@
     "url": null
    },
    "published": "2026-10-21T10:00:03+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "2cc20dd7eb4945ed",
@@ -1187,7 +1265,7 @@
     "url": null
    },
    "published": "2026-10-21T10:00:01+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "b065c2468ea57b21",
@@ -1200,20 +1278,7 @@
     "url": null
    },
    "published": "2026-10-21T10:00:00+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
-  },
-  {
-   "id": "8b1bf6d1db2ca997",
-   "type": "news",
-   "title": "Saints vs. Steelers Play-by-Play - Week 7 - Oct. 25, 2026",
-   "summary": "Game story from New Orleans Saints | NewOrleansSaints.com. Full report at the original publisher.",
-   "url": "https://www.neworleanssaints.com/game-day/2026/reg-week7/steelers-at-saints/play-by-play",
-   "source": {
-    "name": "New Orleans Saints | NewOrleansSaints.com",
-    "url": null
-   },
-   "published": "2026-10-21T08:59:53+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "118b61d3bbfca660",
@@ -1226,7 +1291,7 @@
     "url": null
    },
    "published": "2026-10-21T08:00:00+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "41ae5fc89208e0e1",
@@ -1239,7 +1304,7 @@
     "url": null
    },
    "published": "2026-10-20T23:35:00+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "47df9d0a12d2bb63",
@@ -1252,7 +1317,7 @@
     "url": null
    },
    "published": "2026-10-20T22:57:29+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "742ddb75b5e204da",
@@ -1265,7 +1330,7 @@
     "url": null
    },
    "published": "2026-10-20T22:00:00+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "9efd134f8af6709c",
@@ -1278,7 +1343,7 @@
     "url": null
    },
    "published": "2026-10-20T21:02:51+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "257550f28ce86328",
@@ -1291,7 +1356,7 @@
     "url": null
    },
    "published": "2026-10-20T21:00:02+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "8dfe05ccf68f4241",
@@ -1304,7 +1369,7 @@
     "url": null
    },
    "published": "2026-10-20T20:27:45+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "44041b0673479a87",
@@ -1317,7 +1382,7 @@
     "url": null
    },
    "published": "2026-10-20T20:18:36+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "db48f8eb3a866aa0",
@@ -1330,7 +1395,7 @@
     "url": null
    },
    "published": "2026-10-20T20:03:16+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "c28a1cb63a964705",
@@ -1343,7 +1408,7 @@
     "url": null
    },
    "published": "2026-10-20T20:00:38+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "edaadb5c3c26ac6f",
@@ -1356,7 +1421,7 @@
     "url": null
    },
    "published": "2026-10-20T17:01:36+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "39e19a1835fa6d2a",
@@ -1369,7 +1434,20 @@
     "url": null
    },
    "published": "2026-10-20T16:21:00+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
+  },
+  {
+   "id": "3dc35dfa5c11ba66",
+   "type": "news",
+   "title": "Steelers Rookie WR Quickly Joining Rookie of the Year Mix",
+   "summary": "News story from All Steelers (Sports Illustrated). Full report at the original publisher.",
+   "url": "https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-rookie-germie-bernard-quickly-joining-rookie-year-mix",
+   "source": {
+    "name": "All Steelers (Sports Illustrated)",
+    "url": null
+   },
+   "published": "2026-10-20T16:00:03+00:00",
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "0aef56f734a28d4d",
@@ -1382,7 +1460,7 @@
     "url": null
    },
    "published": "2026-10-20T16:00:01+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "44038ee75b63c9fb",
@@ -1395,7 +1473,7 @@
     "url": null
    },
    "published": "2026-10-20T15:56:05+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "7e11e276689a7330",
@@ -1408,33 +1486,7 @@
     "url": null
    },
    "published": "2026-10-20T15:36:31+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
-  },
-  {
-   "id": "38796afb448562a7",
-   "type": "news",
-   "title": "Week 7 Blog: The stacking has begun",
-   "summary": "News story from Steelers.com (official). Full report at the original publisher.",
-   "url": "https://www.steelers.com/news/week-7-blog-the-stacking-has-begun",
-   "source": {
-    "name": "Steelers.com (official)",
-    "url": null
-   },
-   "published": "2026-10-20T14:49:51+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
-  },
-  {
-   "id": "5f3153e761e18dba",
-   "type": "news",
-   "title": "Steelers Surprises: Unexpected heroes emerge in overtime comeback against Buccaneers",
-   "summary": "News story from Steel City Underground. Full report at the original publisher.",
-   "url": "https://www.steelcityunderground.com/2026/10/20/steelers-surprises-unexpected-heroes-emerge-in-overtime-comeback-against-buccaneers/",
-   "source": {
-    "name": "Steel City Underground",
-    "url": null
-   },
-   "published": "2026-10-20T14:49:26+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "8ce1afc6bf1860f3",
@@ -1447,7 +1499,7 @@
     "url": null
    },
    "published": "2026-10-20T14:30:00+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "c7e06dc551260450",
@@ -1460,7 +1512,7 @@
     "url": null
    },
    "published": "2026-10-20T14:30:00+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "8b2fc04a4e1693a1",
@@ -1473,20 +1525,7 @@
     "url": null
    },
    "published": "2026-10-20T14:00:02+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
-  },
-  {
-   "id": "4d57d7896c49deb5",
-   "type": "news",
-   "title": "NFL Paris 2026: New Orleans Saints vs Pittsburgh Steelers game 'all systems go' despite riots in French capital",
-   "summary": "Game story from Sky Sports. Full report at the original publisher.",
-   "url": "https://www.skysports.com/nfl/news/13601317/nfl-paris-2026-new-orleans-saints-vs-pittsburgh-steelers-game-all-systems-go-despite-riots-in-french-capital",
-   "source": {
-    "name": "Sky Sports",
-    "url": null
-   },
-   "published": "2026-10-20T13:47:38+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "79e7bd731a6f7d49",
@@ -1499,7 +1538,7 @@
     "url": null
    },
    "published": "2026-10-20T13:46:47+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "b633b87bc3970e1b",
@@ -1512,7 +1551,7 @@
     "url": null
    },
    "published": "2026-10-20T13:40:11+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "c096101038f6ee01",
@@ -1525,7 +1564,7 @@
     "url": null
    },
    "published": "2026-10-20T13:01:13+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "31262c8e23aed95c",
@@ -1538,7 +1577,7 @@
     "url": null
    },
    "published": "2026-10-20T13:00:00+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "d4ce4b6994a931aa",
@@ -1551,7 +1590,7 @@
     "url": null
    },
    "published": "2026-10-20T12:37:08+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "c15c80dc95e18d8b",
@@ -1564,7 +1603,7 @@
     "url": null
    },
    "published": "2026-10-20T12:13:00+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "9935b246d6ec4221",
@@ -1577,7 +1616,7 @@
     "url": null
    },
    "published": "2026-10-20T12:00:04+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "c170b3e65326910d",
@@ -1590,20 +1629,7 @@
     "url": null
    },
    "published": "2026-10-20T12:00:00+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
-  },
-  {
-   "id": "ff47dfcfd14f8010",
-   "type": "news",
-   "title": "Plays of the Game: Germie Bernard scores first NFL touchdown to lift Steelers past Buccaneers",
-   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
-   "url": "https://www.steelcityunderground.com/2026/10/20/plays-of-the-game-germie-bernard-scores-first-nfl-touchdown-to-lift-steelers-past-buccaneers/",
-   "source": {
-    "name": "Steel City Underground",
-    "url": null
-   },
-   "published": "2026-10-20T11:47:58+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "710f8fe7c1d70caa",
@@ -1616,7 +1642,20 @@
     "url": null
    },
    "published": "2026-10-20T11:00:04+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
+  },
+  {
+   "id": "4407a08f010cd54a",
+   "type": "news",
+   "title": "Steelers' Jalen Ramsey Is Not the Same Player Anymore - And That's Great News",
+   "summary": "News story from All Steelers (Sports Illustrated). Full report at the original publisher.",
+   "url": "https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-jalen-ramsey-not-same-player-anymore-great-news",
+   "source": {
+    "name": "All Steelers (Sports Illustrated)",
+    "url": null
+   },
+   "published": "2026-10-20T11:00:04+00:00",
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "44f0c20355e38be7",
@@ -1629,7 +1668,7 @@
     "url": null
    },
    "published": "2026-10-20T10:08:44+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "3b4e645c6af02542",
@@ -1642,7 +1681,7 @@
     "url": null
    },
    "published": "2026-10-20T10:05:00+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "0c5c474e6ad53c9a",
@@ -1655,7 +1694,7 @@
     "url": null
    },
    "published": "2026-10-20T10:01:00+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "e545533a8fe33f71",
@@ -1668,7 +1707,7 @@
     "url": null
    },
    "published": "2026-10-20T10:01:00+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "2c71bd0e86b90a3d",
@@ -1681,7 +1720,7 @@
     "url": null
    },
    "published": "2026-10-20T10:00:00+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "01fe387f1b71b426",
@@ -1694,7 +1733,7 @@
     "url": null
    },
    "published": "2026-10-20T10:00:00+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "a35597084d780be5",
@@ -1707,7 +1746,7 @@
     "url": null
    },
    "published": "2026-10-20T09:30:12+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "482eb34a0e12d98b",
@@ -1720,7 +1759,7 @@
     "url": null
    },
    "published": "2026-10-20T09:00:00+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "7381ab7b5c96568f",
@@ -1733,20 +1772,7 @@
     "url": null
    },
    "published": "2026-10-20T08:00:00+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
-  },
-  {
-   "id": "c47b5d1409ffbf4c",
-   "type": "news",
-   "title": "Steelers Re-Signing Aaron Rodgers' Former WR Marquez Valdes-Scantling",
-   "summary": "Trade/roster move story from All Steelers (Sports Illustrated). Full report at the original publisher.",
-   "url": "https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-resign-former-aaron-rodgers-marquez-valdes-scantling",
-   "source": {
-    "name": "All Steelers (Sports Illustrated)",
-    "url": null
-   },
-   "published": "2026-10-20T01:46:23+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "737344824f5acccd",
@@ -1759,7 +1785,7 @@
     "url": null
    },
    "published": "2026-10-20T01:09:57+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "910fdfa7ae0d7f4b",
@@ -1772,7 +1798,7 @@
     "url": null
    },
    "published": "2026-10-20T00:53:32+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "5a11d67393c38884",
@@ -1785,7 +1811,7 @@
     "url": null
    },
    "published": "2026-10-20T00:39:22+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "7888ec7da4a30285",
@@ -1798,7 +1824,7 @@
     "url": null
    },
    "published": "2026-10-20T00:08:25+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "cc16b0c9735f9c2d",
@@ -1811,7 +1837,7 @@
     "url": null
    },
    "published": "2026-10-20T00:00:00+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "d0817d28e5bb3785",
@@ -1824,7 +1850,7 @@
     "url": null
    },
    "published": "2026-10-19T21:22:22+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "172a5966cd07407e",
@@ -1837,7 +1863,7 @@
     "url": null
    },
    "published": "2026-10-19T21:21:13+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "c312dc50816283b2",
@@ -1850,7 +1876,7 @@
     "url": null
    },
    "published": "2026-10-19T21:00:33+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "ad2efed89b04a16f",
@@ -1863,7 +1889,7 @@
     "url": null
    },
    "published": "2026-10-19T20:03:22+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "1bd65c4add65f5e3",
@@ -1876,7 +1902,7 @@
     "url": null
    },
    "published": "2026-10-19T20:00:02+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "97cd5de9c03c247a",
@@ -1889,7 +1915,7 @@
     "url": null
    },
    "published": "2026-10-19T20:00:01+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "d7c15e3b37d4e2e7",
@@ -1902,7 +1928,7 @@
     "url": null
    },
    "published": "2026-10-19T19:37:05+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "3f9b6d2551f07fc4",
@@ -1915,7 +1941,20 @@
     "url": null
    },
    "published": "2026-10-19T19:07:23+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
+  },
+  {
+   "id": "65e19b122ef018be",
+   "type": "news",
+   "title": "Steelers' Most Important Defenders Emerge in Week 6 Victory",
+   "summary": "News story from All Steelers (Sports Illustrated). Full report at the original publisher.",
+   "url": "https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-most-important-defenders-emerge-week-6-victory",
+   "source": {
+    "name": "All Steelers (Sports Illustrated)",
+    "url": null
+   },
+   "published": "2026-10-19T19:00:02+00:00",
+   "retrieved": "2026-10-21T23:22:54+00:00"
   },
   {
    "id": "35f94af81f9e33ee",
@@ -1928,46 +1967,7 @@
     "url": null
    },
    "published": "2026-10-19T19:00:00+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
-  },
-  {
-   "id": "b4d4d3d979502a80",
-   "type": "news",
-   "title": "Submit your questions for Mike DeFabo’s Steelers mailbag",
-   "summary": "News story from The Athletic. Full report at the original publisher.",
-   "url": "https://www.nytimes.com/athletic/7705346/2026/10/19/steelers-mailbag-paris-game-bucs-win/",
-   "source": {
-    "name": "The Athletic",
-    "url": null
-   },
-   "published": "2026-10-19T18:42:37+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
-  },
-  {
-   "id": "5604340c18431bd9",
-   "type": "news",
-   "title": "Pittsburgh Steelers players address upcoming trip to Paris amid France unrest, violence",
-   "summary": "News story from CBS News. Full report at the original publisher.",
-   "url": "https://www.cbsnews.com/pittsburgh/news/pittsburgh-steelers-paris-france-violence-unrest-protests/",
-   "source": {
-    "name": "CBS News",
-    "url": null
-   },
-   "published": "2026-10-19T16:34:00+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
-  },
-  {
-   "id": "cb5e385ab966df41",
-   "type": "news",
-   "title": "The Steelers finally unleashed their blitzes — and Jalen Ramsey — at Tampa Bay",
-   "summary": "News story from Pittsburgh Post-Gazette. Full report at the original publisher.",
-   "url": "https://www.post-gazette.com/sports/steelers/2026/10/19/steelers-blitz-jalen-ramsey/stories/202610190025",
-   "source": {
-    "name": "Pittsburgh Post-Gazette",
-    "url": null
-   },
-   "published": "2026-10-19T16:30:00+00:00",
-   "retrieved": "2026-10-21T22:51:22+00:00"
+   "retrieved": "2026-10-21T23:22:54+00:00"
   }
  ]
 }

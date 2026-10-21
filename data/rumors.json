@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T22:51:50.046382+00:00",
+ "generated": "2026-10-21T23:23:49.000327+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -59,7 +59,7 @@
    "first_seen": "2026-10-21T22:41:01.773182+00:00",
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 12,
+    "independent_sources": 13,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
@@ -72,11 +72,13 @@
      "Still Curtain",
      "TribLIVE.com",
      "TribLive",
+     "Yahoo Sports",
      "Yardbarker"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "220ffc62c292",
      "a47989cc3ca8",
      "fac5ee1b7992",
      "00eb03c92b11",
@@ -103,6 +105,69 @@
     ]
    },
    "updated": "2026-10-21T22:41:01.773182+00:00"
+  },
+  {
+   "id": "220ffc62c292",
+   "title": "Gerry Dulac Shuts Down Steelers Trade Rumors After Marquez Valdes-Scantling Signing",
+   "source": "Yahoo Sports",
+   "link": "https://sports.yahoo.com/articles/gerry-dulac-shuts-down-steelers-223228013.html",
+   "published": "2026-10-21T22:32:28+00:00",
+   "summary": "Rumor-style report from Yahoo Sports on a Steelers roster move. Full details at the source.",
+   "tier": "National insider",
+   "tier_score": 4,
+   "subjects": [],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-21T23:23:49.000327+00:00",
+   "consensus": {
+    "cluster_id": "f0317db1080a",
+    "independent_sources": 13,
+    "sources": [
+     "A to Z Sports",
+     "All Steelers (Sports Illustrated)",
+     "Audacy",
+     "Beaver County Radio",
+     "Gridiron Heroics",
+     "NBC Sports",
+     "Sports Illustrated",
+     "Steelers Depot",
+     "Still Curtain",
+     "TribLIVE.com",
+     "TribLive",
+     "Yahoo Sports",
+     "Yardbarker"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "88ec15922e1e",
+     "a47989cc3ca8",
+     "fac5ee1b7992",
+     "00eb03c92b11",
+     "c774b8995598",
+     "1b9cf10893b1",
+     "2ffbfc23c5b6",
+     "2289e7e73871",
+     "8517ea310aff",
+     "084a41627d7f",
+     "80328d8900e5",
+     "dc4e7eea9511",
+     "d9ea387e2e1d",
+     "c096101038f6",
+     "47b303529098",
+     "d4ce4b6994a9",
+     "903d04baad12",
+     "a2fc6f6f5226",
+     "44f0c20355e3",
+     "cea338c8f16a",
+     "8cb28a915183",
+     "7562897ee621",
+     "67e645182b72",
+     "f0317db1080a"
+    ]
+   },
+   "updated": "2026-10-21T23:23:49.000327+00:00"
   },
   {
    "id": "8646fc49f8e0",
@@ -146,7 +211,7 @@
    "first_seen": "2026-10-21T22:08:41.999543+00:00",
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 12,
+    "independent_sources": 13,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
@@ -159,12 +224,14 @@
      "Still Curtain",
      "TribLIVE.com",
      "TribLive",
+     "Yahoo Sports",
      "Yardbarker"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
      "88ec15922e1e",
+     "220ffc62c292",
      "fac5ee1b7992",
      "00eb03c92b11",
      "c774b8995598",
@@ -233,7 +300,7 @@
    "first_seen": "2026-10-21T17:35:05.152340+00:00",
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 12,
+    "independent_sources": 13,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
@@ -246,12 +313,14 @@
      "Still Curtain",
      "TribLIVE.com",
      "TribLive",
+     "Yahoo Sports",
      "Yardbarker"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
      "88ec15922e1e",
+     "220ffc62c292",
      "a47989cc3ca8",
      "00eb03c92b11",
      "c774b8995598",
@@ -294,7 +363,7 @@
    "first_seen": "2026-10-21T17:56:51.806797+00:00",
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 12,
+    "independent_sources": 13,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
@@ -307,12 +376,14 @@
      "Still Curtain",
      "TribLIVE.com",
      "TribLive",
+     "Yahoo Sports",
      "Yardbarker"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
      "88ec15922e1e",
+     "220ffc62c292",
      "a47989cc3ca8",
      "fac5ee1b7992",
      "c774b8995598",
@@ -519,7 +590,7 @@
    "first_seen": "2026-10-21T11:10:56.941625+00:00",
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 12,
+    "independent_sources": 13,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
@@ -532,12 +603,14 @@
      "Still Curtain",
      "TribLIVE.com",
      "TribLive",
+     "Yahoo Sports",
      "Yardbarker"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
      "88ec15922e1e",
+     "220ffc62c292",
      "a47989cc3ca8",
      "fac5ee1b7992",
      "00eb03c92b11",
@@ -585,7 +658,7 @@
    "first_seen": "2026-10-21T15:49:36.477025+00:00",
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 12,
+    "independent_sources": 13,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
@@ -598,12 +671,14 @@
      "Still Curtain",
      "TribLIVE.com",
      "TribLive",
+     "Yahoo Sports",
      "Yardbarker"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
      "88ec15922e1e",
+     "220ffc62c292",
      "a47989cc3ca8",
      "fac5ee1b7992",
      "00eb03c92b11",
@@ -825,7 +900,7 @@
    "first_seen": "2026-10-20T23:22:25.773687+00:00",
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 12,
+    "independent_sources": 13,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
@@ -838,12 +913,14 @@
      "Still Curtain",
      "TribLIVE.com",
      "TribLive",
+     "Yahoo Sports",
      "Yardbarker"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
      "88ec15922e1e",
+     "220ffc62c292",
      "a47989cc3ca8",
      "fac5ee1b7992",
      "00eb03c92b11",
@@ -888,7 +965,7 @@
    "first_seen": "2026-10-20T21:44:01.582561+00:00",
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 12,
+    "independent_sources": 13,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
@@ -901,12 +978,14 @@
      "Still Curtain",
      "TribLIVE.com",
      "TribLive",
+     "Yahoo Sports",
      "Yardbarker"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
      "88ec15922e1e",
+     "220ffc62c292",
      "a47989cc3ca8",
      "fac5ee1b7992",
      "00eb03c92b11",
@@ -949,7 +1028,7 @@
    "first_seen": "2026-10-20T22:38:25.728624+00:00",
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 12,
+    "independent_sources": 13,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
@@ -962,12 +1041,14 @@
      "Still Curtain",
      "TribLIVE.com",
      "TribLive",
+     "Yahoo Sports",
      "Yardbarker"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
      "88ec15922e1e",
+     "220ffc62c292",
      "a47989cc3ca8",
      "fac5ee1b7992",
      "00eb03c92b11",
@@ -1152,7 +1233,7 @@
    "first_seen": "2026-10-20T17:32:27.771657+00:00",
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 12,
+    "independent_sources": 13,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
@@ -1165,12 +1246,14 @@
      "Still Curtain",
      "TribLIVE.com",
      "TribLive",
+     "Yahoo Sports",
      "Yardbarker"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
      "88ec15922e1e",
+     "220ffc62c292",
      "a47989cc3ca8",
      "fac5ee1b7992",
      "00eb03c92b11",
@@ -1213,7 +1296,7 @@
    "first_seen": "2026-10-20T21:02:33.218202+00:00",
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 12,
+    "independent_sources": 13,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
@@ -1226,12 +1309,14 @@
      "Still Curtain",
      "TribLIVE.com",
      "TribLive",
+     "Yahoo Sports",
      "Yardbarker"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
      "88ec15922e1e",
+     "220ffc62c292",
      "a47989cc3ca8",
      "fac5ee1b7992",
      "00eb03c92b11",
@@ -1274,7 +1359,7 @@
    "first_seen": "2026-10-21T04:26:48.549067+00:00",
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 12,
+    "independent_sources": 13,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
@@ -1287,12 +1372,14 @@
      "Still Curtain",
      "TribLIVE.com",
      "TribLive",
+     "Yahoo Sports",
      "Yardbarker"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
      "88ec15922e1e",
+     "220ffc62c292",
      "a47989cc3ca8",
      "fac5ee1b7992",
      "00eb03c92b11",
@@ -1335,7 +1422,7 @@
    "first_seen": "2026-10-20T15:15:55.820081+00:00",
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 12,
+    "independent_sources": 13,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
@@ -1348,12 +1435,14 @@
      "Still Curtain",
      "TribLIVE.com",
      "TribLive",
+     "Yahoo Sports",
      "Yardbarker"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
      "88ec15922e1e",
+     "220ffc62c292",
      "a47989cc3ca8",
      "fac5ee1b7992",
      "00eb03c92b11",
@@ -1398,7 +1487,7 @@
    "first_seen": "2026-10-20T14:14:03.584102+00:00",
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 12,
+    "independent_sources": 13,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
@@ -1411,12 +1500,14 @@
      "Still Curtain",
      "TribLIVE.com",
      "TribLive",
+     "Yahoo Sports",
      "Yardbarker"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
      "88ec15922e1e",
+     "220ffc62c292",
      "a47989cc3ca8",
      "fac5ee1b7992",
      "00eb03c92b11",
@@ -1459,7 +1550,7 @@
    "first_seen": "2026-10-20T14:14:03.584102+00:00",
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 12,
+    "independent_sources": 13,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
@@ -1472,12 +1563,14 @@
      "Still Curtain",
      "TribLIVE.com",
      "TribLive",
+     "Yahoo Sports",
      "Yardbarker"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
      "88ec15922e1e",
+     "220ffc62c292",
      "a47989cc3ca8",
      "fac5ee1b7992",
      "00eb03c92b11",
@@ -1520,7 +1613,7 @@
    "first_seen": "2026-10-20T15:15:55.820081+00:00",
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 12,
+    "independent_sources": 13,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
@@ -1533,12 +1626,14 @@
      "Still Curtain",
      "TribLIVE.com",
      "TribLive",
+     "Yahoo Sports",
      "Yardbarker"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
      "88ec15922e1e",
+     "220ffc62c292",
      "a47989cc3ca8",
      "fac5ee1b7992",
      "00eb03c92b11",
@@ -1583,7 +1678,7 @@
    "first_seen": "2026-10-20T15:05:08.821093+00:00",
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 12,
+    "independent_sources": 13,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
@@ -1596,12 +1691,14 @@
      "Still Curtain",
      "TribLIVE.com",
      "TribLive",
+     "Yahoo Sports",
      "Yardbarker"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
      "88ec15922e1e",
+     "220ffc62c292",
      "a47989cc3ca8",
      "fac5ee1b7992",
      "00eb03c92b11",
@@ -1670,7 +1767,7 @@
    "first_seen": "2026-10-20T17:32:27.771657+00:00",
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 12,
+    "independent_sources": 13,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
@@ -1683,12 +1780,14 @@
      "Still Curtain",
      "TribLIVE.com",
      "TribLive",
+     "Yahoo Sports",
      "Yardbarker"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
      "88ec15922e1e",
+     "220ffc62c292",
      "a47989cc3ca8",
      "fac5ee1b7992",
      "00eb03c92b11",
@@ -1735,7 +1834,7 @@
    "first_seen": "2026-10-20T15:26:41.393043+00:00",
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 12,
+    "independent_sources": 13,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
@@ -1748,12 +1847,14 @@
      "Still Curtain",
      "TribLIVE.com",
      "TribLive",
+     "Yahoo Sports",
      "Yardbarker"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
      "88ec15922e1e",
+     "220ffc62c292",
      "a47989cc3ca8",
      "fac5ee1b7992",
      "00eb03c92b11",
@@ -1800,7 +1901,7 @@
    "first_seen": "2026-10-20T10:16:41.838191+00:00",
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 12,
+    "independent_sources": 13,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
@@ -1813,12 +1914,14 @@
      "Still Curtain",
      "TribLIVE.com",
      "TribLive",
+     "Yahoo Sports",
      "Yardbarker"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
      "88ec15922e1e",
+     "220ffc62c292",
      "a47989cc3ca8",
      "fac5ee1b7992",
      "00eb03c92b11",
@@ -1862,7 +1965,7 @@
    "first_seen": "2026-10-20T01:01:58.589655+00:00",
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 12,
+    "independent_sources": 13,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
@@ -1875,12 +1978,14 @@
      "Still Curtain",
      "TribLIVE.com",
      "TribLive",
+     "Yahoo Sports",
      "Yardbarker"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
      "88ec15922e1e",
+     "220ffc62c292",
      "a47989cc3ca8",
      "fac5ee1b7992",
      "00eb03c92b11",
@@ -1923,7 +2028,7 @@
    "first_seen": "2026-10-20T00:50:36.617557+00:00",
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 12,
+    "independent_sources": 13,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
@@ -1936,12 +2041,14 @@
      "Still Curtain",
      "TribLIVE.com",
      "TribLive",
+     "Yahoo Sports",
      "Yardbarker"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
      "88ec15922e1e",
+     "220ffc62c292",
      "a47989cc3ca8",
      "fac5ee1b7992",
      "00eb03c92b11",
@@ -2409,7 +2516,7 @@
    "first_seen": "2026-10-18T12:06:09.039356+00:00",
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 12,
+    "independent_sources": 13,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
@@ -2422,12 +2529,14 @@
      "Still Curtain",
      "TribLIVE.com",
      "TribLive",
+     "Yahoo Sports",
      "Yardbarker"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
      "88ec15922e1e",
+     "220ffc62c292",
      "a47989cc3ca8",
      "fac5ee1b7992",
      "00eb03c92b11",
@@ -2498,7 +2607,7 @@
    "first_seen": "2026-10-18T04:34:04.958633+00:00",
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 12,
+    "independent_sources": 13,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
@@ -2511,12 +2620,14 @@
      "Still Curtain",
      "TribLIVE.com",
      "TribLive",
+     "Yahoo Sports",
      "Yardbarker"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
      "88ec15922e1e",
+     "220ffc62c292",
      "a47989cc3ca8",
      "fac5ee1b7992",
      "00eb03c92b11",

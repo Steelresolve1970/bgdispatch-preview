@@ -1,10 +1,10 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-21T22:51:55+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T22:51:39+00:00._
+_Generated 2026-10-21T23:23:55+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T23:23:37+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Video: [Sights & Sounds: Week 6 Win at Tampa Bay Buccaneers | Pittsburgh Steelers](https://www.youtube.com/watch?v=Trzxzx_RfSs): Pittsburgh Steelers (official), 2026-10-21 23:00 UTC
 - Video: [Coach Mike McCarthy Press Conference (October 21) | Pittsburgh Steelers](https://www.youtube.com/watch?v=2BEQkzVwsWQ): Pittsburgh Steelers (official), 2026-10-21 22:25 UTC
-- Video: [Sights & Sounds: Week 6 Win at Tampa Bay Buccaneers | Pittsburgh Steelers](https://www.youtube.com/watch?v=Trzxzx_RfSs): Pittsburgh Steelers (official), 2026-10-21 22:21 UTC
 - Podcast: [DK’s Double Shot of Steelers: Almost Paris!](https://podcasts.apple.com/us/podcast/id1072021022): DK Pittsburgh Sports, 2026-10-21 22:10 UTC
 - Video: [Can MVS Play Right Away? | Steelers Afternoon Drive](https://www.youtube.com/watch?v=HGSOYSj-8n0): Steelers Now, 2026-10-21 22:04 UTC
 - Podcast: [Steelers Release Veteran DB | Chris Godwin Trade?](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-21 21:45 UTC

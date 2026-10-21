@@ -1,6 +1,6 @@
 # Steelers Film Room & Previews
 
-_Generated 2026-10-21T22:51:55+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T22:51:27+00:00._
+_Generated 2026-10-21T23:23:55+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T23:22:59+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/film.json_
 
 - Breakdown (at Tampa Bay Buccaneers (Oct 18)): [The Terrible Podcast — Steelers Vs Bucs All-22 Review, Valdes-Scantling Return, Monday Presser Recap](https://www.youtube.com/watch?v=dTb7GC3ZHUs): Steelers Depot (YouTube), 2026-10-21 16:52 UTC
@@ -24,7 +24,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/film.json_
 - Breakdown (at Tampa Bay Buccaneers (Oct 18)): [Film Room: Jalen Ramsey Calls Game To Beat Buccaneers](https://steelersdepot.com/2026/10/film-room-jalen-ramsey-calls-game-to-beat-buccaneers/): Alex Kozora (Steelers Depot), 2026-10-19 12:30 UTC
 - Breakdown (at Tampa Bay Buccaneers (Oct 18)): [Saunders’ Steelers Takeaways: Mike McCarthy Was Supposed to be Better Than This, But Give Credit Where It’s Due](https://steelersnow.com/saunders-steelers-takeaways-mike-mccarthy-was-supposed-to-be-better-than-this-but-give-credit-where-its-due/): Steelers Now, 2026-10-19 12:05 UTC
 - Breakdown (at Tampa Bay Buccaneers (Oct 18)): [5 takeaways from the Steelers’ OT win over the Tampa Bay Buccaneers](https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176502/5-takeaways-from-the-steelers-26-19-ot-win-over-the-tampa-bay-buccaneers-mike-mccarthy-dk-metcalf-germie-bernard-jamel-dean): Behind the Steel Curtain, 2026-10-19 10:00 UTC
-- Preview (at New Orleans Saints (Oct 25)): [Steelers vs. Saints Week 7 Preview | Aaron Rodgers Problem Brewing](https://www.youtube.com/watch?v=B0agqGjSVpU): Still Curtain, 2026-10-21 17:20 UTC
 - Preview (at New Orleans Saints (Oct 25)): [STEELERS SQUAD SHOW: Winning Ugly Won’t Fly in Paris! Steelers/Saints Preview!](https://www.youtube.com/watch?v=Es_bukL78yk): Locked On Steelers, 2026-10-20 22:54 UTC
 
 ---
