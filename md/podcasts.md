@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-21T02:50:21+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T02:49:58+00:00._
+_Generated 2026-10-21T03:01:35+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T03:01:19+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Podcast: [The Scho Bro Show: The familiarity of the Steelers unfamiliar win](https://podcasts.apple.com/us/podcast/id905962218): Steel Curtain Network (BTSC), 2026-10-21 02:55 UTC
 - Podcast: [Paris Under Pressure: Steelers Prepare for NFL First During Unrest Abroad](http://www.pennlive.com/steelers/): Steelers Breakdown (PennLive, Nick Farabaugh), 2026-10-21 00:03 UTC
 - Video: [Poetry in motion 📺: #PITvsNO 10/25 at 9:30 AM ET on NFLN](https://www.youtube.com/shorts/bVYdjuYYbHw): Pittsburgh Steelers (official), 2026-10-20 23:33 UTC
 - Video: [Steelers Vs Saints Thoughts & Predictions | SNR Drive (Oct.20) | Pittsburgh Steelers](https://www.youtube.com/watch?v=PKD5RscDaPI): Pittsburgh Steelers (official), 2026-10-20 23:00 UTC
