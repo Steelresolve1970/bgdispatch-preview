@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-21T17:01:57.175830+00:00",
- "count": 150,
+ "generated": "2026-10-21T17:12:56.909196+00:00",
+ "count": 149,
  "sources": [
   {
    "source": "Steelers Depot",
@@ -29,8 +29,8 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
-   "steelers_items": 0
+   "status": "ok",
+   "steelers_items": 24
   },
   {
    "source": "Still Curtain",
@@ -72,7 +72,7 @@
    "source": "Yahoo Sports",
    "url": "https://sports.yahoo.com/nfl/rss/",
    "status": "ok",
-   "steelers_items": 0
+   "steelers_items": 1
   },
   {
    "source": "Google News",
@@ -110,9 +110,25 @@
    "title": "Steelers bring back veteran Valdes-Scantling amid receiver injury woes",
    "source": "ESPN",
    "link": "https://www.espn.com/nfl/story/_/id/50232379/steelers-bring-back-marquez-valdes-scantling-amid-wr-injuries",
-   "published": "2026-10-21T17:48:37+00:00",
+   "published": "2026-10-21T18:06:54+00:00",
    "summary": "Injury story from ESPN. Full report at the original publisher.",
    "id": "e6db9e7aac"
+  },
+  {
+   "title": "Steelers Offense a One-Trick Pony? | Steelers Morning Rush",
+   "source": "Steelers Now",
+   "link": "https://steelersnow.com/steelers-offense-a-one-trick-pony-steelers-morning-rush/",
+   "published": "2026-10-21T17:07:00+00:00",
+   "summary": "Opinion story from Steelers Now. Full report at the original publisher.",
+   "id": "e89f2bb3b7"
+  },
+  {
+   "title": "\"Big Advantage For The Saints\": Steelers Could Have A Problem Heading To Paris",
+   "source": "SteelerNation",
+   "link": "https://www.steelernation.com/2026/10/21/steelers-big-advantage-saints-paris",
+   "published": "2026-10-21T17:02:19+00:00",
+   "summary": "News story from SteelerNation. Full report at the original publisher.",
+   "id": "4c1493811f"
   },
   {
    "title": "Patrick Graham \u2018Getting A Handle\u2019 On How To Run Steelers\u2019 Defense, Thinks Former GM",
@@ -471,14 +487,6 @@
    "id": "0dde437df9"
   },
   {
-   "title": "Steelers Kill 2 Birds With 1 Stone In Mike McCarthy Receiver Reunion Trade Pitch",
-   "source": "SteelerNation",
-   "link": "https://www.steelernation.com/2026/10/21/steelers-kill-mike-mccarthy-trade",
-   "published": "2026-10-21T13:53:47+00:00",
-   "summary": "Trade/roster move story from SteelerNation. Full report at the original publisher.",
-   "id": "5e0e310dea"
-  },
-  {
    "title": "Steelers sign wide receiver Marquez Valdes-Scantling",
    "source": "WTAE",
    "link": "https://www.wtae.com/article/pittsburgh-steelers-marquez-valdes-scantling/74204336",
@@ -543,6 +551,14 @@
    "published": "2026-10-21T12:15:56+00:00",
    "summary": "Opinion story from Steelers Depot. Full report at the original publisher.",
    "id": "d7577e1135"
+  },
+  {
+   "title": "Steelers have more than international travel to worry about against the Saints",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/21/steelers-have-more-than-international-travel-to-worry-about-against-the-saints/",
+   "published": "2026-10-21T12:15:47+00:00",
+   "summary": "News story from Steel City Underground. Full report at the original publisher.",
+   "id": "dd96e02d3b"
   },
   {
    "title": "Beat Writers Debate What Role Marquez Valdes-Scantling Will Play, And When",
@@ -672,15 +688,6 @@
    "published": "2026-10-21T01:00:24+00:00",
    "summary": "Game story from Steelers Depot. Full report at the original publisher.",
    "id": "fa2e64fe0f"
-  },
-  {
-   "title": "Ramsey's Leadership & 'One-of-One' Play Inspire Steelers",
-   "source": "Audacy",
-   "link": "https://www.audacy.com/937thefan/sports/pittsburgh-steelers/ramsey-s-leadership-one-of-one-play-inspire-steelers",
-   "published": "2026-10-21T00:58:00+00:00",
-   "via": "Google News",
-   "summary": "News story from Audacy. Full report at the original publisher.",
-   "id": "8e5cd6c4e3"
   },
   {
    "title": "Aaron Rodgers Reportedly Has \u2018Favorite\u2019 WR Trade Target",
@@ -862,14 +869,6 @@
    "id": "f752100d36"
   },
   {
-   "title": "Buccaneers Fan Offers Reward For Lost Hat",
-   "source": "Steelers Now",
-   "link": "https://steelersnow.com/buccaneers-fan-offers-reward-for-lost-hat/",
-   "published": "2026-10-20T17:38:54+00:00",
-   "summary": "News story from Steelers Now. Full report at the original publisher.",
-   "id": "40deca7da2"
-  },
-  {
    "title": "Steelers Week 6 grades in win over Buccaneers",
    "source": "Behind the Steel Curtain",
    "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176607/steelers-week-6-grades-in-win-over-buccaneers-germie-bernard-dk-metcalf-jalen-ramsey",
@@ -926,6 +925,14 @@
    "published": "2026-10-20T14:49:51+00:00",
    "summary": "News story from Steelers.com (official). Full report at the original publisher.",
    "id": "38796afb44"
+  },
+  {
+   "title": "Steelers Surprises: Unexpected heroes emerge in overtime comeback against Buccaneers",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/20/steelers-surprises-unexpected-heroes-emerge-in-overtime-comeback-against-buccaneers/",
+   "published": "2026-10-20T14:49:26+00:00",
+   "summary": "News story from Steel City Underground. Full report at the original publisher.",
+   "id": "5f3153e761"
   },
   {
    "title": "Week 7 odds: Steelers open as slight favorites vs. Saints",
@@ -1015,6 +1022,14 @@
    "published": "2026-10-20T12:00:00+00:00",
    "summary": "Opinion story from Pittsburgh Post-Gazette. Full report at the original publisher.",
    "id": "c170b3e653"
+  },
+  {
+   "title": "Plays of the Game: Germie Bernard scores first NFL touchdown to lift Steelers past Buccaneers",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/20/plays-of-the-game-germie-bernard-scores-first-nfl-touchdown-to-lift-steelers-past-buccaneers/",
+   "published": "2026-10-20T11:47:58+00:00",
+   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
+   "id": "ff47dfcfd1"
   },
   {
    "title": "4 Steelers standouts from their overtime victory over the Buccaneers",
@@ -1309,31 +1324,7 @@
    "published": "2026-10-19T15:50:00+00:00",
    "summary": "Injury story from Steelers.com (official). Full report at the original publisher.",
    "id": "afbc7852c4"
-  },
-  {
-   "title": "The Steelers are heading to Paris in 3 days as protests continue, and one player says what he\u2019s seen online \u201clooks crazy out there\u201d",
-   "source": "PennLive (Nick Farabaugh)",
-   "link": "https://www.pennlive.com/steelers/2026/10/the-steelers-are-heading-to-paris-in-3-days-as-protests-continue-and-one-player-says-what-hes-seen-online-looks-crazy-out-there.html",
-   "published": "2026-10-19T15:49:27+00:00",
-   "summary": "News story from PennLive (Nick Farabaugh). Full report at the original publisher.",
-   "id": "562a4a4600"
-  },
-  {
-   "title": "Christopher Carter\u2019s Steelers and Pitt chat transcript: 10.19.26",
-   "source": "Pittsburgh Post-Gazette",
-   "link": "https://www.post-gazette.com/sports/steelers/2026/10/19/steelers-live-chat-aaron-rodgers/stories/202610190029",
-   "published": "2026-10-19T15:30:00+00:00",
-   "summary": "News story from Pittsburgh Post-Gazette. Full report at the original publisher.",
-   "id": "4d1cdc5c0b"
-  },
-  {
-   "title": "4 Colts trade candidates the Steelers could poach after Ballard firing",
-   "source": "Still Curtain",
-   "link": "https://stillcurtain.com/4-indianapolis-colts-trade-candidates-pittsburgh-steelers-could-poach-chris-ballard-firing-01m5a7n7aspa?utm_source=RSS",
-   "published": "2026-10-19T15:00:02+00:00",
-   "summary": "Trade/roster move story from Still Curtain. Full report at the original publisher.",
-   "id": "2726676a07"
   }
  ],
- "dropped_bad_links": 0
+ "dropped_bad_links": 1
 }
