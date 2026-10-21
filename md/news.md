@@ -1,9 +1,9 @@
 # Steelers News
 
-_Generated 2026-10-21T13:38:16+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T13:37:45+00:00._
+_Generated 2026-10-21T13:49:00+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T13:48:31+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
-- [Steelers bring back veteran Valdes-Scantling amid receiver injury woes](https://www.espn.com/nfl/story/_/id/50232379/steelers-bring-back-marquez-valdes-scantling-amid-wr-injuries): ESPN, 2026-10-21 13:50 UTC
+- [Steelers bring back veteran Valdes-Scantling amid receiver injury woes](https://www.espn.com/nfl/story/_/id/50232379/steelers-bring-back-marquez-valdes-scantling-amid-wr-injuries): ESPN, 2026-10-21 14:39 UTC
 - [Watch: Jaylen Warren Does It All For The Steelers](https://steelersdepot.com/2026/10/watch-jaylen-warren-does-it-all-for-the-steelers/): Steelers Depot, 2026-10-21 13:30 UTC
 - [NFL to Bolster Security for Steelers-Saints Game in Paris](https://steelersnow.com/nfl-to-bolster-security-for-steelers-saints-game-in-paris/): Steelers Now, 2026-10-21 13:25 UTC
 - [Patrick Graham Lays Out His Fundamentals For Steelers’ Run Defense After Recent Success](https://steelersdepot.com/2026/10/patrick-graham-lays-out-his-fundamentals-for-steelers-run-defense-after-recent-success/): Steelers Depot, 2026-10-21 13:00 UTC
@@ -30,10 +30,12 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Saints vs. Steelers Play-by-Play - Week 7 - Oct. 25, 2026](https://www.neworleanssaints.com/game-day/2026/reg-week7/steelers-at-saints/play-by-play): New Orleans Saints | NewOrleansSaints.com, 2026-10-21 08:59 UTC
 - [Moving to left tackle is hard. Just ask the Steelers’ Troy Fautanu.](https://www.post-gazette.com/sports/steelers/2026/10/21/troy-fautanu-move-to-left-tackle-offensive-line/stories/202610210004): Pittsburgh Post-Gazette, 2026-10-21 08:00 UTC
 - [Steelers’ Belief In Their Massive Rookie Class Is Paying Early Dividends](https://www.timesleaderonline.com/sports/local-sports/2026/10/steelers-belief-in-their-massive-rookie-class-is-paying-early-dividends/): Martins Ferry Times Leader, 2026-10-21 06:56 UTC
+- [French connection: New Orleans and Paris' shared history in spotlight before Saints-Steelers game](https://www.kvue.com/article/syndication/associatedpress/french-connection-new-orleans-and-paris-shared-history-in-spotlight-before-saints-steelers-game/616-1ee9e435-30ef-4ba3-aac8-7c7dba7e2f77): KVUE, 2026-10-21 05:55 UTC
 - [Wide receiver-needy Steelers bring back veteran Marquez Valdes-Scantling](https://www.washingtonpost.com/sports/nfl/2026/10/20/pittsburgh-steelers/495d684a-ccd2-11f1-ac04-9f58578a68b4_story.html): The Washington Post, 2026-10-21 05:04 UTC
 - [Steelers' Ben Roethlisberger Exposes 1 Critical Issue With Pittsburgh's Offense](https://www.steelernation.com/2026/10/20/steelers-ben-roethlisberger-critical-offense): SteelerNation, 2026-10-21 01:11 UTC
 - [Depot After Dark: 49ers Pass Steelers For MNF Wins, Arth’s Son Scores TD, Steelers-Saints Promo](https://steelersdepot.com/2026/10/depot-after-dark-49ers-pass-steelers-for-mnf-wins-arths-son-scores-td-steelers-saints-promo/): Steelers Depot, 2026-10-21 01:00 UTC
 - [Ramsey's Leadership & 'One-of-One' Play Inspire Steelers](https://www.audacy.com/937thefan/sports/pittsburgh-steelers/ramsey-s-leadership-one-of-one-play-inspire-steelers): Audacy, 2026-10-21 00:58 UTC
+- [Aaron Rodgers Reportedly Has ‘Favorite’ WR Trade Target](https://heavy.com/sports/nfl/pittsburgh-steelers/aaron-rodgers-favorite-wr-trade-target/): Heavy.com, 2026-10-21 00:14 UTC
 - [One of Aaron Rodgers' favorite wide receivers returns to Pittsburgh](https://www.jsonline.com/story/sports/nfl/packers/2026/10/20/marquez-valdes-scantling-reunites-aaron-rodgers-pittsburgh-steelers/92352151007/): Milwaukee Journal Sentinel, 2026-10-20 23:35 UTC
 - [‘Dude Is A Problem’: Maxx Crosby Showers ‘Very Underrated’ Nick Herbig With Praise](https://steelersdepot.com/2026/10/dude-is-a-problem-maxx-crosby-showers-very-underrated-nick-herbig-with-praise/): Steelers Depot, 2026-10-20 23:30 UTC
 - [Cardinals Take Close Look at Ex-Steelers Punter](https://steelersnow.com/cardinals-take-close-look-at-ex-steelers-punter/): Steelers Now, 2026-10-20 23:15 UTC
@@ -50,6 +52,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [‘Not Ruling Out Surgery’: Kaboly Shares Michael Pittman Jr. Update, Names Trade Options To Replace Him](https://steelersdepot.com/2026/10/not-ruling-out-surgery-kaboly-shares-michael-pittman-jr-update-names-trade-options-to-replace-him/): Steelers Depot, 2026-10-20 21:45 UTC
 - [Steelers Throw Stunning Lineup Curveball As DeShon Elliott Will Have To Fight For His Spot](https://www.steelernation.com/2026/10/20/steelers-stunning-deshon-elliott-fight): SteelerNation, 2026-10-20 21:35 UTC
 - [Listen: The Terrible Take (Episode 2,056)](https://steelersdepot.com/2026/10/listen-the-terrible-take-episode-2056/): Steelers Depot, 2026-10-20 21:30 UTC
+- [Steelers Have Obvious Solution to Third Down Struggles](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-obvious-solution-third-down-struggles): All Steelers (Sports Illustrated), 2026-10-20 21:30 UTC
 - [Steelers Power Rankings Roundup: Where Pittsburgh Landed After Week 6](https://sportsnetpittsburgh.com/pittsburgh-steelers/news/steelers-power-rankings-roundup-week-7/8f57dda2564ee24d46d173c8): SportsNet Pittsburgh, 2026-10-20 21:29 UTC
 - [Cam Heyward Once Again Elected to Esteemed Post for Steelers](https://steelersnow.com/cam-heyward-once-again-elected-to-esteemed-post-for-steelers/): Steelers Now, 2026-10-20 21:29 UTC
 - [NFL says heightened security measures will be in place for the Steelers-Saints game in Paris](https://triblive.com/sports/nfl-says-heightened-security-measures-will-be-in-place-for-the-steelers-saints-game-in-paris/): TribLive, 2026-10-20 21:02 UTC
@@ -150,8 +153,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Plays of the Game: Jamel Dean’s interception sets up Steelers’ late lead](https://www.steelcityunderground.com/2026/10/19/plays-of-the-game-jamel-deans-interception-sets-up-steelers-late-lead/): Steel City Underground, 2026-10-19 11:40 UTC
 - [‘He’s accepted the challenge’: Germie Bernard rewards Steelers’ faith in rookie wide receiver](https://triblive.com/sports/hes-accepted-the-challenge-germie-bernard-rewards-steelers-faith-in-rookie-wide-receiver/): TribLive, 2026-10-19 10:01 UTC
 - [Steelers fans have fresh Aaron Rodgers concerns despite comeback win](https://stillcurtain.com/pittsburgh-steelers-fans-have-fresh-aaron-rodgers-concerns-despite-comeback-win-01m58h04pa3e?utm_source=RSS): Still Curtain, 2026-10-19 10:00 UTC
-- [NFL Wake-up Call: Week 6 smashed narratives and showed how little we know](https://www.nytimes.com/athletic/7703754/2026/10/19/nfl-week-6-takeaways-winners-losers/): The Athletic, 2026-10-19 09:30 UTC
-- [Steelers’ Mike McCarthy explains baffling late-game coaching decisions, clock management issues in win](https://www.pennlive.com/steelers/2026/10/steelers-mike-mccarthy-explains-baffling-late-game-coaching-decisions-clock-management-issues-in-win.html): PennLive (Nick Farabaugh), 2026-10-19 08:55 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
