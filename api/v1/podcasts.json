@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-21T15:38:41+00:00",
- "data_updated": "2026-10-21T15:38:24+00:00",
- "count": 125,
+ "generated": "2026-10-21T15:49:42+00:00",
+ "data_updated": "2026-10-21T15:49:25+00:00",
+ "count": 127,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -124,11 +124,11 @@
    }
   },
   {
-   "id": "7968be70b4f37758",
+   "id": "c3fd84790c2e3deb",
    "type": "podcast_episode",
    "title": "DK's Daily Shot of Steelers: Let ‘em all loose!",
    "show": "DK Pittsburgh Sports",
-   "url": "https://podcasts.apple.com/us/podcast/id1072021022",
+   "url": "https://podcasts.apple.com/us/podcast/dks-daily-shot-of-steelers-let-em-all-loose/id1072021022?i=1000797403367",
    "published": "2026-10-21T05:37:00+00:00",
    "summary": "Podcast episode from DK Pittsburgh Sports.",
    "source": {
@@ -137,11 +137,24 @@
    }
   },
   {
-   "id": "8583a21dcd2cf379",
+   "id": "d998db5a5a129e9a",
+   "type": "podcast_episode",
+   "title": "Scout’s Eye with Matt Williamson: All the Rodgersesque things",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://podcasts.apple.com/us/podcast/scouts-eye-with-matt-williamson-all-the/id1072021022?i=1000797398522",
+   "published": "2026-10-21T05:34:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
+    "url": null
+   }
+  },
+  {
+   "id": "de4083b2562d02eb",
    "type": "podcast_episode",
    "title": "Paris Under Pressure: Steelers Prepare for NFL First During Unrest Abroad",
    "show": "Steelers Breakdown (PennLive, Nick Farabaugh)",
-   "url": "http://www.pennlive.com/steelers/",
+   "url": "https://podcasts.apple.com/us/podcast/paris-under-pressure-steelers-prepare-for-nfl-first/id1277196913?i=1000797352171",
    "published": "2026-10-21T00:03:00+00:00",
    "summary": "Podcast episode from Steelers Breakdown (PennLive, Nick Farabaugh).",
    "source": {
@@ -215,11 +228,24 @@
    }
   },
   {
-   "id": "11a59ca4a17822e2",
+   "id": "c6b6c798d18d8be6",
+   "type": "podcast_episode",
+   "title": "DK's Double Shot of Steelers: Off OUI go!",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://podcasts.apple.com/us/podcast/dks-double-shot-of-steelers-off-oui-go/id1072021022?i=1000797337026",
+   "published": "2026-10-20T22:01:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
+    "url": null
+   }
+  },
+  {
+   "id": "b6718c99f764a2d9",
    "type": "podcast_episode",
    "title": "How The Steelers Survived Three Quarters Of Stalled Offense Ep 144",
    "show": "Footbahlin with Ben Roethlisberger",
-   "url": "https://footbahlinwithben.buzzsprout.com",
+   "url": "https://podcasts.apple.com/us/podcast/how-the-steelers-survived-three-quarters-of/id1648793385?i=1000797333266",
    "published": "2026-10-20T22:00:00+00:00",
    "summary": "Podcast episode from Footbahlin with Ben Roethlisberger.",
    "source": {
@@ -254,11 +280,11 @@
    }
   },
   {
-   "id": "b6c8885fad11e18e",
+   "id": "7b2055f73c775a81",
    "type": "podcast_episode",
    "title": "The Terrible Take - Episode 2056 - October 20, 2026",
    "show": "The Terrible Podcast (Steelers Depot)",
-   "url": "https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2056-october-20-2026/id405990739?i=1000797326238",
+   "url": "https://podcasts.apple.com/us/podcast/id405990739",
    "published": "2026-10-20T21:00:00+00:00",
    "summary": "Podcast episode from The Terrible Podcast (Steelers Depot).",
    "source": {
@@ -280,11 +306,11 @@
    }
   },
   {
-   "id": "28bc10f4e7b5c335",
+   "id": "27beb0111ffa1a1a",
    "type": "podcast_episode",
    "title": "Steelers Crazy #300 - Saints Vs Steelers In Paris",
    "show": "The Sick Podcast - Steelers Crazy",
-   "url": "https://anchor.fm/the-sick-podcast---steelers-crazy",
+   "url": "https://podcasts.apple.com/us/podcast/steelers-crazy-300-saints-vs-steelers-in-paris/id1640291008?i=1000797311768",
    "published": "2026-10-20T19:12:00+00:00",
    "summary": "Podcast episode from The Sick Podcast - Steelers Crazy.",
    "source": {

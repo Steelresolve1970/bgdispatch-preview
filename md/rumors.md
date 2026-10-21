@@ -1,6 +1,6 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-21T15:38:41+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T15:38:35+00:00._
+_Generated 2026-10-21T15:49:42+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T15:49:36+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
 - **Rumor** · tier: Aggregator / other · consensus: 3 source(s), top tier National insider
@@ -11,6 +11,8 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Aaron Rodgers Reportedly Eyes Buccaneers WR As Potential Trade Target For The Steelers](https://wisportsheroics.com/aaron-rodgers-eyeing-chris-godwin-steelers/): Wisconsin Sports Heroics, first seen 2026-10-21 13:38 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 10 source(s), top tier National insider
   [First Call: Steelers’ WR trade speculation; Najee Harris may be out in New York; big hockey win for RMU at Penn State](https://triblive.com/sports/first-call-steelers-wr-trade-speculation-najee-harris-may-be-out-in-new-york-big-hockey-win-for-rmu-at-penn-state/): TribLIVE.com, first seen 2026-10-21 11:10 UTC
+- **Rumor** · tier: Beat writer / team · consensus: 10 source(s), top tier National insider
+  [First Call: Steelers’ WR trade speculation; Najee Harris out in New York; big hockey win for RMU at Penn State](https://triblive.com/sports/first-call-steelers-wr-trade-speculation-najee-harris-may-be-out-in-new-york-big-hockey-win-for-rmu-at-penn-state/): TribLive, first seen 2026-10-21 15:49 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 2 source(s), top tier Aggregator / other
   [Trade Rumors: 49ers, Mack, Godwin, Bucs, Steelers, Bills, Bennett, Rams](https://www.yardbarker.com/nfl/articles/trade_rumors_49ers_mack_godwin_bucs_steelers_bills_bennett_rams/s1_14819_44453789): Yardbarker, first seen 2026-10-21 04:38 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 2 source(s), top tier Aggregator / other
