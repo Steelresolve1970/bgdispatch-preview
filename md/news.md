@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-21T02:16:03+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T02:15:34+00:00._
+_Generated 2026-10-21T02:26:47+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T02:26:16+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Steelers bring back veteran Valdes-Scantling amid receiver injury woes](https://www.espn.com/nfl/story/_/id/50232379/steelers-bring-back-marquez-valdes-scantling-amid-wr-injuries): ESPN, 2026-10-21 02:11 UTC
