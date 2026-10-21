@@ -1,8 +1,11 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-21T17:13:34+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T17:13:11+00:00._
+_Generated 2026-10-21T17:24:26+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T17:24:09+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Video: [Steelers vs. Saints Week 7 Preview | Aaron Rodgers Problem Brewing](https://www.youtube.com/watch?v=B0agqGjSVpU): Still Curtain Podcast, 2026-10-21 17:20 UTC
+- Video: [The rookie Germie Bernard got his first NFL TD at the perfect time! 🔥👏#germiebernard #steelers](https://www.youtube.com/shorts/VoBCAmwhJqs): Not Just Football with Cam Heyward, 2026-10-21 17:11 UTC
+- Video: [Steelers Offense a One-Trick Pony? | Steelers Morning Rush](https://www.youtube.com/watch?v=-zQt3m3PEa0): Steelers Now, 2026-10-21 17:05 UTC
 - Podcast: [The Terrible Podcast — Steelers Vs. Buccaneers All-22 Review, Valdes-Scantling Return, Monday Presser Recaps, & More](https://podcasts.apple.com/us/podcast/id405990739): The Terrible Podcast (Steelers Depot), 2026-10-21 16:37 UTC
 - Video: [AFC DEFENSIVE PLAYER OF THE WEEK: JALEN RAMSEY](https://www.youtube.com/shorts/Wlg6JLl9cbY): Pittsburgh Steelers (official), 2026-10-21 16:09 UTC
 - Video: [8 on the move 🌪️ 📺: #PITvsNO 10/25 at 9:30 AM ET on NFLN](https://www.youtube.com/shorts/DAK6nmsyqNE): Pittsburgh Steelers (official), 2026-10-21 15:47 UTC
@@ -130,7 +133,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Jalen Ramsey Clarifies Comments | Steelers Practice Report](https://www.youtube.com/watch?v=bRDSxlq5FRQ): Steelers Now, 2026-10-16 19:59 UTC
 - Video: [Aaron Rodgers Bonds with Unheralded WRs | Steelers Sights & Sounds](https://www.youtube.com/watch?v=DypVLdv5nY0): Steelers Now, 2026-10-16 18:41 UTC
 - Video: [Is Kaden Wetjen on Short Leash? The Grand Finale with Jack Hillgrove | THE PITTSBURGH FOOTBALL SHOW](https://www.youtube.com/watch?v=bbQu6HyTAh4): Steelers Now, 2026-10-16 18:21 UTC
-- Video: [Trouble in Paradise? Inside Steelers-Buccaneers with Nick Farabaugh | THE PITTSBURGH FOOTBALL SHOW](https://www.youtube.com/watch?v=6s5qtvsRYeY): Steelers Now, 2026-10-16 17:40 UTC
 - Podcast: [Trouble in Paradise? Inside Steelers-Buccaneers with Nick Farabaugh | THE PITTSBURGH FOOTBALL SHOW](https://podcasts.apple.com/us/podcast/trouble-in-paradise-inside-steelers-buccaneers-with/id1700240934?i=1000796704169): Steelers Afternoon Drive, 2026-10-16 17:40 UTC
 
 ---
