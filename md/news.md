@@ -1,15 +1,16 @@
 # Steelers News
 
-_Generated 2026-10-21T18:51:48+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T18:50:58+00:00._
+_Generated 2026-10-21T19:03:39+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T19:02:52+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Steelers' Chris Godwin Trade Idea Runs Into Huge Financial Problem](https://www.steelernation.com/2026/10/21/steelers-chris-godwin-huge-problem): SteelerNation, 2026-10-21 18:52 UTC
 - [Saints Head Coach Kellen Moore Opens Up About What He Learned Under Mike McCarthy](https://steelersdepot.com/2026/10/saints-head-coach-kellen-moore-opens-up-about-what-he-learned-under-mike-mccarthy/): Steelers Depot, 2026-10-21 18:45 UTC
 - [‘Can Be A Big-Time Pro Bowl Tackle’: Mark Schlereth Was Wowed Watching Max Iheanachor](https://steelersdepot.com/2026/10/can-be-a-big-time-pro-bowl-tackle-mark-schlereth-was-wowed-watching-max-iheanachor/): Steelers Depot, 2026-10-21 18:30 UTC
 - [Aaron Rodgers Thinks Steelers Have ‘One Of The Smartest Offensive Lines He’s Worked With,’ Former Player Says](https://steelersdepot.com/2026/10/aaron-rodgers-thinks-steelers-have-one-of-the-smartest-offensive-lines-hes-worked-with-relays-former-player/): Steelers Depot, 2026-10-21 18:00 UTC
 - [3 WRs Steelers Can Trade Day 3 Draft Picks For](https://www.si.com/nfl/steelers/onsi/3-wide-receivers-pittsburgh-steelers-trade-day-3-draft-picks): All Steelers (Sports Illustrated), 2026-10-21 18:00 UTC
 - [NFL surges ahead with Saints-Steelers in Paris for their ‘let them eat cake’ moment](https://sports.yahoo.com/articles/nfl-surges-ahead-saints-steelers-180000530.html): Yahoo Sports, 2026-10-21 18:00 UTC
 - [Colin Cowherd Suggests NFL Intentionally Manipulated Start Of Steelers’ 2026 Schedule](https://steelersdepot.com/2026/10/colin-cowherd-suggests-nfl-intentionally-manipulated-start-of-steelers-2026-schedule/): Steelers Depot, 2026-10-21 17:50 UTC
-- [Roger Goodell is comfortable with security for the NFL's Paris game between the Steelers and Saints](https://www.kvue.com/article/syndication/associatedpress/roger-goodell-is-comfortable-with-security-for-the-nfls-paris-game-between-the-steelers-and-saints/616-285b05ed-f9dd-4084-b5f9-6a3069df135f): KVUE, 2026-10-21 17:42 UTC
+- [Roger Goodell is comfortable with security for the NFL's Paris game between the Steelers and Saints](https://www.10tv.com/article/syndication/associatedpress/roger-goodell-is-comfortable-with-security-for-the-nfls-paris-game-between-the-steelers-and-saints/616-285b05ed-f9dd-4084-b5f9-6a3069df135f): 10TV, 2026-10-21 17:42 UTC
 - [Steelers Get Important Message From Roger Goodell About Paris Game Safety](https://www.steelernation.com/2026/10/21/steelers-important-roger-goodell-paris): SteelerNation, 2026-10-21 17:40 UTC
 - [A new wide receiver trade rumor is picking up steam after the Steelers got an up-close look during recent matchup](https://atozsports.com/nfl/pittsburgh-steelers-news/steelers-wr-trade-rumors-chris-godwin-emerges-as-target-after-bucs-game/): A to Z Sports, 2026-10-21 17:26 UTC
 - [Steelers Could Turn To New WR Marquez Valdes-Scantling For Help Sooner Than Expected](https://www.steelernation.com/2026/10/21/steelers-new-marquez-valdes-scantling): SteelerNation, 2026-10-21 17:21 UTC
@@ -26,7 +27,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [The Terrible Podcast — Steelers Vs. Buccaneers All-22 Review, Valdes-Scantling Return, Monday Pressers Recap & More](https://steelersdepot.com/2026/10/the-terrible-podcast-steelers-vs-buccaneers-all-22-review-valdes-scantling-return-monday-pressers-recap-more/): Steelers Depot, 2026-10-21 16:46 UTC
 - [Game Preview: Steelers vs. Saints | 2026 NFL Week 7](https://www.neworleanssaints.com/news/pittsburgh-steelers-vs-new-orleans-saints-game-preview-2026-nfl-season-week-7-series-history-stats-connections): New Orleans Saints | NewOrleansSaints.com, 2026-10-21 16:39 UTC
 - [Steelers vs. Saints: How to Watch, Listen, and Stream Games 10/25/2026](https://www.neworleanssaints.com/news/pittsburgh-steelers-vs-new-orleans-saints-game-watch-listen-stream-tv-channel-radio-10-25-2026): New Orleans Saints | NewOrleansSaints.com, 2026-10-21 16:39 UTC
-- [Steelers' Jalen Ramsey Earns NFL Honor for Dominant Performance vs. Buccaneers](https://sportsnetpittsburgh.com/pittsburgh-steelers/news/steelers-jalen-ramsey-afc-defensive-player-week-buccaneers/d5f46f16f4d32e4a538f1e14): SportsNet Pittsburgh, 2026-10-21 16:38 UTC
 - [Steelers news: Zach Frazier has had tremendous start to season](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176640/steelers-news-zach-frazier-has-had-tremendous-start-to-season): Behind the Steel Curtain, 2026-10-21 16:33 UTC
 - [NFL Insider Explains Why League 'Never' Considered Moving Steelers-Saints Game Out of Paris](https://sportsnetpittsburgh.com/pittsburgh-steelers/news/nfl-insider-league-moving-steelers-saints-game-paris/78765ef42d0fe13592e4f099): SportsNet Pittsburgh, 2026-10-21 16:33 UTC
 - [Germie Bernard Gets Honest About His Critical Sunday Mistake](https://steelersdepot.com/2026/10/germie-bernard-gets-honest-about-his-critical-sunday-mistake/): Steelers Depot, 2026-10-21 16:30 UTC
@@ -50,7 +50,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers Can Now Target Former Ravens Wide Receiver In Potential Surprising Move](https://www.steelernation.com/2026/10/21/steelers-now-target-ravens): SteelerNation, 2026-10-21 14:58 UTC
 - [DB’s Steelers Film Room: Jamel Dean Saves the Day in Tampa](https://steelersnow.com/dbs-steelers-film-room-jamel-dean-saves-the-day-in-tampa/): Steelers Now, 2026-10-21 14:57 UTC
 - [Direct Betting Platforms Explained: How Steelers Fans Can Identify Reliable Websites](https://www.steelernation.com/2026/10/21/steelers-direct-betting-platforms-explained): SteelerNation, 2026-10-21 14:57 UTC
-- [Top 5 Sportsbooks With The Most Football Markets For Steelers Fans](https://www.steelernation.com/2026/10/21/steelers-sportsbooks-most-football-markets): SteelerNation, 2026-10-21 14:48 UTC
 - [T.J. Watt’s wife has one big question before Steelers’ historic Paris game](https://www.cleveland.com/news/2026/10/tj-watts-wife-has-one-big-question-before-steelers-historic-paris-game.html): Cleveland.com, 2026-10-21 14:48 UTC
 - [Ex-Steelers’ George Pickens Could Get Traded Because of Joey Porter Jr.: Analyst](https://heavy.com/sports/nfl/pittsburgh-steelers/george-pickens-trade-rumors-joey-porter-cowboys-nfl-news/): Heavy.com, 2026-10-21 14:43 UTC
 - [Battista: NFL is 'all systems go' for Week 7 Steelers-Saints game in Paris | 'GMFB'](https://www.nfl.com/videos/battista-nfl-is-all-systems-go-for-week-7-steelers-saints-game-in-paris-gmfb): NFL.com, 2026-10-21 14:37 UTC
@@ -59,6 +58,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [‘It Doesn’t Usually Happen’: Todd Haley Explains What Separates Germie Bernard From Most Young WRs](https://steelersdepot.com/2026/10/it-doesnt-usually-happen-todd-haley-explains-what-separates-germie-bernard-from-most-young-wrs/): Steelers Depot, 2026-10-21 14:00 UTC
 - [Gerry Dulac’s Steelers chat transcript: 10.21.26](https://www.post-gazette.com/sports/steelers/2026/10/21/nfl-paris-game-steelers-saints/stories/202610210043): Pittsburgh Post-Gazette, 2026-10-21 14:00 UTC
 - [Former Steelers RB Opens Up on Near-Death Experience Amid Jalen Hurts Controversy](https://steelersnow.com/former-steelers-rb-opens-up-on-near-death-experience-amid-jalen-hurts-controversy/): Steelers Now, 2026-10-21 13:54 UTC
+- [Steelers sign wide receiver Marquez Valdes-Scantling](https://www.wtae.com/article/pittsburgh-steelers-marquez-valdes-scantling/74204336): WTAE, 2026-10-21 13:46 UTC
 - [Watch: Jaylen Warren Does It All For The Steelers](https://steelersdepot.com/2026/10/watch-jaylen-warren-does-it-all-for-the-steelers/): Steelers Depot, 2026-10-21 13:30 UTC
 - [NFL to Bolster Security for Steelers-Saints Game in Paris](https://steelersnow.com/nfl-to-bolster-security-for-steelers-saints-game-in-paris/): Steelers Now, 2026-10-21 13:25 UTC
 - [Patrick Graham Lays Out His Fundamentals For Steelers’ Run Defense After Recent Success](https://steelersdepot.com/2026/10/patrick-graham-lays-out-his-fundamentals-for-steelers-run-defense-after-recent-success/): Steelers Depot, 2026-10-21 13:00 UTC
@@ -80,7 +80,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers Daily News & Links: Bill Cowher Pays Tribute to College Coach; Aaron Rodgers Gives Special Gift to Jalon Daniels](https://steelersnow.com/steelers-daily-bill-cowher-pays-tribute-to-college-coach-aaron-rodgers-gives-special-gift-to-jalon-daniels/): Steelers Now, 2026-10-21 09:33 UTC
 - [Saints vs. Steelers Play-by-Play - Week 7 - Oct. 25, 2026](https://www.neworleanssaints.com/game-day/2026/reg-week7/steelers-at-saints/play-by-play): New Orleans Saints | NewOrleansSaints.com, 2026-10-21 08:59 UTC
 - [Moving to left tackle is hard. Just ask the Steelers’ Troy Fautanu.](https://www.post-gazette.com/sports/steelers/2026/10/21/troy-fautanu-move-to-left-tackle-offensive-line/stories/202610210004): Pittsburgh Post-Gazette, 2026-10-21 08:00 UTC
-- [One of Aaron Rodgers' favorite wide receivers returns to Pittsburgh](https://www.jsonline.com/story/sports/nfl/packers/2026/10/20/marquez-valdes-scantling-reunites-aaron-rodgers-pittsburgh-steelers/92352151007/): Milwaukee Journal Sentinel, 2026-10-20 23:35 UTC
+- [One of Aaron Rodgers' favorite wide receivers returns to Pittsburgh](https://www.usatoday.com/story/sports/nfl/packers/2026/10/20/marquez-valdes-scantling-reunites-aaron-rodgers-pittsburgh-steelers/92352151007/): Milwaukee Journal Sentinel, 2026-10-20 23:35 UTC
 - [Cardinals Take Close Look at Ex-Steelers Punter](https://steelersnow.com/cardinals-take-close-look-at-ex-steelers-punter/): Steelers Now, 2026-10-20 23:15 UTC
 - [Steelers-Browns Game Not Flexed to Prime Time](https://steelersnow.com/steelers-browns-game-not-flexed-to-prime-time/): Steelers Now, 2026-10-20 23:07 UTC
 - [AFC Team Shows Interest in Former Steelers Wide Receiver](https://steelersnow.com/afc-team-shows-interest-in-former-steelers-wide-receiver/): Steelers Now, 2026-10-20 23:00 UTC
