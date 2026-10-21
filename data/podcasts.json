@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-21T14:43:28.524721+00:00",
+ "generated": "2026-10-21T14:54:16.900355+00:00",
  "date_et": "2026-10-21",
  "days": 5,
  "display_days": 2,
- "count": 133,
+ "count": 134,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -90,10 +90,10 @@
    "show": "Steel City Underground",
    "kind": "podcast",
    "url": "https://feeds.feedburner.com/steelcityunderground",
-   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 45,
    "week": 1,
-   "latest": null
+   "latest": "2026-10-19T19:40:55+00:00"
   },
   {
    "show": "Steel City Underground",
@@ -110,7 +110,7 @@
    "url": "https://feeds.megaphone.fm/RRTET7764502074",
    "status": "ok",
    "episodes": 1483,
-   "week": 10,
+   "week": 11,
    "latest": "2026-10-20T22:21:00+00:00"
   },
   {
@@ -286,7 +286,7 @@
    "title": "Let's Ride: Know Your Steelers Enemy, Week 7 vs. the Saints",
    "show": "Steel Curtain Network (BTSC)",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/lets-ride-know-your-steelers-enemy-week-7-vs-the-saints/id905962218?i=1000797404571",
+   "link": "https://podcasts.apple.com/us/podcast/id905962218",
    "published": "2026-10-21T08:00:00+00:00",
    "summary": "Podcast episode from Steel Curtain Network (BTSC)."
   },
@@ -310,7 +310,7 @@
    "title": "DK's Daily Shot of Steelers: Let \u2018em all loose!",
    "show": "DK Pittsburgh Sports",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/id1072021022",
+   "link": "https://podcasts.apple.com/us/podcast/dks-daily-shot-of-steelers-let-em-all-loose/id1072021022?i=1000797403367",
    "published": "2026-10-21T05:37:00+00:00",
    "summary": "Podcast episode from DK Pittsburgh Sports."
   },
@@ -318,7 +318,7 @@
    "title": "Scout\u2019s Eye with Matt Williamson: All the Rodgersesque things",
    "show": "DK Pittsburgh Sports",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/id1072021022",
+   "link": "https://podcasts.apple.com/us/podcast/scouts-eye-with-matt-williamson-all-the/id1072021022?i=1000797398522",
    "published": "2026-10-21T05:34:00+00:00",
    "summary": "Podcast episode from DK Pittsburgh Sports."
   },
@@ -326,7 +326,7 @@
    "title": "The Scho Bro Show: The familiarity of the Steelers unfamiliar win",
    "show": "Steel Curtain Network (BTSC)",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/the-scho-bro-show-the-familiarity-of/id905962218?i=1000797367767",
+   "link": "https://podcasts.apple.com/us/podcast/id905962218",
    "published": "2026-10-21T02:55:00+00:00",
    "summary": "Podcast episode from Steel Curtain Network (BTSC)."
   },
@@ -371,6 +371,14 @@
    "summary": "Video from Steelers Now."
   },
   {
+   "title": "Should Steelers Still Seek WR Help? | Steelers Afternoon Drive",
+   "show": "Steelers Afternoon Drive",
+   "kind": "podcast",
+   "link": "https://podcasts.apple.com/us/podcast/should-steelers-still-seek-wr-help-steelers-afternoon/id1700240934?i=1000797337923",
+   "published": "2026-10-20T22:21:00+00:00",
+   "summary": "Podcast episode from Steelers Afternoon Drive."
+  },
+  {
    "title": "Every Boz field goal but with every field goal it gets faster \ud83d\udcfa:#PITvsNO 10/25 at 9:30AM ET on NFLN",
    "show": "Pittsburgh Steelers (official)",
    "kind": "video",
@@ -382,7 +390,7 @@
    "title": "DK's Double Shot of Steelers: Off OUI go!",
    "show": "DK Pittsburgh Sports",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/id1072021022",
+   "link": "https://podcasts.apple.com/us/podcast/dks-double-shot-of-steelers-off-oui-go/id1072021022?i=1000797337026",
    "published": "2026-10-20T22:01:00+00:00",
    "summary": "Podcast episode from DK Pittsburgh Sports."
   },
