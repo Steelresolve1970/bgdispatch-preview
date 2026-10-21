@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T04:15:08.354190+00:00",
+ "generated": "2026-10-21T04:26:37.731390+00:00",
  "date_et": "2026-10-21",
  "days": 5,
  "display_days": 2,
@@ -18,10 +18,10 @@
    "show": "Locked On Steelers",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7JorgD8nGLtvvMy1ogFetg",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 8,
-   "latest": null
+   "latest": "2026-10-20T22:54:40+00:00"
   },
   {
    "show": "The Terrible Podcast (Steelers Depot)",
@@ -243,7 +243,7 @@
    "show": "The Christian Kuntz Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKKBJcOGsYmwAATQv-xQYeA",
-   "status": "error: HTTP Error 500: Internal Server Error",
+   "status": "error: HTTP Error 404: Not Found",
    "episodes": 0,
    "week": 0,
    "latest": null

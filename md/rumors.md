@@ -1,6 +1,6 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-21T04:15:23+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T04:15:18+00:00._
+_Generated 2026-10-21T04:26:54+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T04:26:48+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
@@ -25,6 +25,8 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Latest update on injured Steelers wide receiver could mean Pittsburgh has no choice but to make a trade before the deadline](https://www.yardbarker.com/nfl/articles/latest_update_on_injured_steelers_wide_receiver_could_mean_pittsburgh_has_no_choice_but_to_make_a_trade_before_the_deadline/s1_17313_44451738): Yardbarker, first seen 2026-10-20 17:32 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 10 source(s), top tier National insider
   [Latest update on injured Steelers wide receiver could mean Pittsburgh has no choice but to make a trade before the deadline](https://atozsports.com/nfl/pittsburgh-steelers-news/michael-pittman-jr-could-miss-rest-of-season-wr-trade-deadline-rumors/): A to Z Sports, first seen 2026-10-20 21:02 UTC
+- **Rumor** · tier: Aggregator / other · consensus: 10 source(s), top tier National insider
+  [Latest update on injured Steelers wide receiver could mean Pittsburgh has no choice but to make a trade before the deadline](https://atozsports.com/nfl/pittsburgh-steelers-news/michael-pittman-jr-could-miss-rest-of-season-wr-trade-deadline-rumors/): A to Z Sports, first seen 2026-10-21 04:26 UTC
 - **Rumor** · tier: Fan blog · consensus: 2 source(s), top tier Fan blog
   [Reports: Giants Release Ex-Steelers RB Najee Harris](https://steelersdepot.com/2026/10/reports-giants-release-ex-steelers-rb-najee-harris/): Steelers Depot, first seen 2026-10-20 15:15 UTC
 - **Rumor** · tier: Fan blog · consensus: 10 source(s), top tier National insider
