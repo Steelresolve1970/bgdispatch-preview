@@ -1,8 +1,9 @@
 # Steelers News
 
-_Generated 2026-10-21T22:30:15+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T22:29:46+00:00._
+_Generated 2026-10-21T22:41:08+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T22:40:37+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Steelers' Cameron Heyward Reveals How 1 Teammate Hit The "Rookie Wall" Hard](https://www.steelernation.com/2026/10/21/steelers-cameron-heyward-reveals-rookie-wall): SteelerNation, 2026-10-21 22:30 UTC
 - [Steelers prepare days ahead of NFL’s first-ever game in Paris](https://www.wpxi.com/sports/nfl/pittsburgh-steelers/steelers-prepare-days-ahead-nfls-first-ever-game-paris/DVNSDVKNLZCWNOTOAQ45GDOULI/): WPXI, 2026-10-21 22:08 UTC
 - [Steelers Afternoon Drive: Can MVS Play Right Away?](https://steelersnow.com/steelers-afternoon-drive-can-mvs-play-right-away/): Steelers Now, 2026-10-21 22:06 UTC
 - [Steelers OLB Pops Up on Injury Report Ahead of Saints Game](https://steelersnow.com/steelers-olb-pops-up-on-injury-report-ahead-of-saints-game/): Steelers Now, 2026-10-21 21:56 UTC
@@ -11,6 +12,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Injury Hampers Steelers RB Before Saints Game](https://steelersnow.com/injury-hampers-steelers-rb-before-saints-game/): Steelers Now, 2026-10-21 21:47 UTC
 - [Wednesday’s Saints vs. Steelers Injury Report: Cesar Ruiz did not practice](https://sports.yahoo.com/articles/wednesday-saints-vs-steelers-injury-214312529.html): Yahoo Sports, 2026-10-21 21:43 UTC
 - [Saints’ Week 7 Wednesday Injury Report: QB Tyler Shough Practices In Full, Two Others DNP](https://steelersdepot.com/2026/10/saints-week-7-wednesday-injury-report-qb-tyler-shough-practices-in-full-two-others-dnp/): Steelers Depot, 2026-10-21 21:43 UTC
+- [Saints Wednesday Injury Report: 2026 Week 7 vs. Pittsburgh Steelers](https://www.neworleanssaints.com/news/injury-report-pittsburgh-steelers-vs-new-orleans-saints-2026-nfl-week-7-wednesday): New Orleans Saints | NewOrleansSaints.com, 2026-10-21 21:40 UTC
 - [Steelers Get Another Promising Sign of DeShon Elliott Return](https://steelersnow.com/steelers-get-another-promising-sign-of-deshon-elliott-return/): Steelers Now, 2026-10-21 21:37 UTC
 - [DeShon Elliott full participant in Steelers practice](https://www.behindthesteelcurtain.com/pittsburgh-steelers-injuries/176659/deshon-elliott-full-participant-in-steelers-practice-injury-report-week-7-saints-paris-game-roster-news): Behind the Steel Curtain, 2026-10-21 21:30 UTC
 - [Listen: The Terrible Take (Episode 2,057)](https://steelersdepot.com/2026/10/listen-the-terrible-take-episode-2057/): Steelers Depot, 2026-10-21 21:30 UTC
@@ -26,7 +28,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers release veteran safety Rayshawn Jenkins](https://triblive.com/sports/steelers-release-veteran-safety-rayshawn-jenkins/): TribLive, 2026-10-21 20:26 UTC
 - [Steelers' Germie Bernard's Mistake Brought A Strong Response On Sideline: "What The F*** Are You Doing?"](https://www.steelernation.com/2026/10/21/steelers-germie-bernards-strong-doing): SteelerNation, 2026-10-21 20:21 UTC
 - [Mike McCarthy Reacts To Steelers Signing Marquez Valdes-Scantling, Discusses Potential Role](https://steelersdepot.com/2026/10/mike-mccarthy-reacts-to-steelers-signing-marquez-valdes-scantling-discusses-potential-role/): Steelers Depot, 2026-10-21 20:20 UTC
-- [Steelers release S Rayshawn Jenkins](https://sports.yahoo.com/articles/steelers-release-rayshawn-jenkins-201649818.html): Yahoo Sports, 2026-10-21 20:16 UTC
+- [Steelers release S Rayshawn Jenkins](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-release-s-rayshawn-jenkins): ProFootballTalk (NBC), 2026-10-21 20:16 UTC
 - [McCarthy said Steelers prepared, confident for Sunday](https://www.audacy.com/937thefan/sports/pittsburgh-steelers/mccarthy-said-steelers-prepared-confident-for-sunday): Audacy, 2026-10-21 20:15 UTC
 - [Steelers officially release veteran safety](https://www.wkbn.com/sports/pittsburgh-steelers/steelers-officially-release-veteran-safety-2/): WKBN.com, 2026-10-21 20:11 UTC
 - [Steelers Sights & Sounds: A Look at WR Marquez Valdes-Scantling](https://steelersnow.com/steelers-sights-sounds-a-look-at-wr-marquez-valdes-scantling/): Steelers Now, 2026-10-21 20:08 UTC
@@ -53,11 +55,9 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Jalen Ramsey's DPOW honor shows Steelers have found his best role](https://stillcurtain.com/jalen-ramsey-defensive-player-week-honor-shows-pittsburgh-steelers-have-found-his-best-role?utm_source=RSS): Still Curtain, 2026-10-21 17:19 UTC
 - [‘Aaron Rodgers Has Proven No One Wrong’: Cris Carter Not Impressed With Steelers QB](https://steelersdepot.com/2026/10/aaron-rodgers-has-proven-no-one-wrong-cris-carter-not-impressed-with-steelers-qb/): Steelers Depot, 2026-10-21 17:15 UTC
 - [Steelers Offense a One-Trick Pony? | Steelers Morning Rush](https://steelersnow.com/steelers-offense-a-one-trick-pony-steelers-morning-rush/): Steelers Now, 2026-10-21 17:07 UTC
-- [NFL Paris Game On: Goodell Confident in Security](https://www.audacy.com/937thefan/sports/pittsburgh-steelers/nfl-paris-game-on-goodell-confident-in-security): Audacy, 2026-10-21 17:04 UTC
 - ["Big Advantage For The Saints": Steelers Could Have A Problem Heading To Paris](https://www.steelernation.com/2026/10/21/steelers-big-advantage-saints-paris): SteelerNation, 2026-10-21 17:02 UTC
 - [Patrick Graham ‘Getting A Handle’ On How To Run Steelers’ Defense, Thinks Former GM](https://steelersdepot.com/2026/10/patrick-graham-getting-a-handle-on-how-to-run-steelers-defense-thinks-former-gm/): Steelers Depot, 2026-10-21 17:00 UTC
 - [Steelers CB Jalen Ramsey named AFC Defensive Player of the Week](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176643/steelers-cb-jalen-ramsey-named-afc-defensive-player-of-the-week): Behind the Steel Curtain, 2026-10-21 17:00 UTC
-- [Kool-Aid McKinstry, Quincy Riley, Devaugh Vele, Justin Reid, Isaiah Stalbird press conference | Saints vs. Steelers 2026 NFL Week 7](https://www.neworleanssaints.com/video/kool-aid-mckinstry-quincy-riley-devaugh-vele-justin-reid-isaiah-stalbird-press-conference-saints-vs-steelers-2026-nfl-week-7-october-21-2026): New Orleans Saints | NewOrleansSaints.com, 2026-10-21 16:59 UTC
 - [Mickey Loomis on Saints roster, Paris game | Saints vs. Steelers 2026 NFL Week 7](https://www.neworleanssaints.com/video/mickey-loomis-interview-saints-vs-steelers-2026-nfl-week-7-october-21-2026): New Orleans Saints | NewOrleansSaints.com, 2026-10-21 16:53 UTC
 - [The Terrible Podcast — Steelers Vs. Buccaneers All-22 Review, Valdes-Scantling Return, Monday Pressers Recap & More](https://steelersdepot.com/2026/10/the-terrible-podcast-steelers-vs-buccaneers-all-22-review-valdes-scantling-return-monday-pressers-recap-more/): Steelers Depot, 2026-10-21 16:46 UTC
 - [Steelers vs. Saints: How to Watch, Listen, and Stream Games 10/25/2026](https://www.neworleanssaints.com/news/pittsburgh-steelers-vs-new-orleans-saints-game-watch-listen-stream-tv-channel-radio-10-25-2026): New Orleans Saints | NewOrleansSaints.com, 2026-10-21 16:39 UTC
@@ -66,7 +66,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [NFL Insider Explains Why League 'Never' Considered Moving Steelers-Saints Game Out of Paris](https://sportsnetpittsburgh.com/pittsburgh-steelers/news/nfl-insider-league-moving-steelers-saints-game-paris/78765ef42d0fe13592e4f099): SportsNet Pittsburgh, 2026-10-21 16:33 UTC
 - [Germie Bernard Gets Honest About His Critical Sunday Mistake](https://steelersdepot.com/2026/10/germie-bernard-gets-honest-about-his-critical-sunday-mistake/): Steelers Depot, 2026-10-21 16:30 UTC
 - [Jalen Ramsey Named AFC Defensive Player of the Week](https://steelersnow.com/jalen-ramsey-named-afc-defensive-player-of-the-week/): Steelers Now, 2026-10-21 16:23 UTC
-- [Steelers' Jalen Ramsey Draws Intriguing Extension Talk From Arthur Moats After Dominant Tampa Bay Win](https://www.steelernation.com/2026/10/21/steelers-jalen-ramsey-intriguing-extension): SteelerNation, 2026-10-21 16:21 UTC
 - [Saints need to show they can manage lead against Steelers](https://www.louisianasports.net/2026/10/21/saints-need-to-show-they-can-manage-lead-against-steelers/latest-stories/): Louisiana Sports, 2026-10-21 16:10 UTC
 - [Jalen Ramsey Takes Home NFL Honor After Outstanding Week Six Performance](https://steelersdepot.com/2026/10/jalen-ramsey-takes-home-nfl-honor-after-outstanding-week-six-performance/): Steelers Depot, 2026-10-21 16:04 UTC
 - [Former NFL OL Says Steelers Are Better Than Expected: ‘Can Find Ways To Win’](https://steelersdepot.com/2026/10/former-nfl-ol-says-steelers-are-better-than-expected-can-find-ways-to-win/): Steelers Depot, 2026-10-21 16:00 UTC
@@ -78,7 +77,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers aren't going anywhere with Aaron Rodgers as QB1 despite 4-2 record](https://stillcurtain.com/pittsburgh-steelers-aren-t-going-anywhere-with-aaron-rodgers-as-qb1-despite-4-2-record-01m5bgs7rdb6?utm_source=RSS): Still Curtain, 2026-10-21 15:00 UTC
 - [Steelers Must Avoid This Veteran WR Trade Target](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-must-avoid-veteran-trade-target-chris-godwin): All Steelers (Sports Illustrated), 2026-10-21 15:00 UTC
 - [DB’s Steelers Film Room: Jamel Dean Saves the Day in Tampa](https://steelersnow.com/dbs-steelers-film-room-jamel-dean-saves-the-day-in-tampa/): Steelers Now, 2026-10-21 14:57 UTC
-- [Ex-Steelers’ George Pickens Could Get Traded Because of Joey Porter Jr.: Analyst](https://heavy.com/sports/nfl/pittsburgh-steelers/george-pickens-trade-rumors-joey-porter-cowboys-nfl-news/): Heavy.com, 2026-10-21 14:43 UTC
+- [T.J. Watt’s wife has one big question before Steelers’ historic Paris game](https://www.cleveland.com/news/2026/10/tj-watts-wife-has-one-big-question-before-steelers-historic-paris-game.html): Cleveland.com, 2026-10-21 14:48 UTC
 - [Battista: NFL is 'all systems go' for Week 7 Steelers-Saints game in Paris | 'GMFB'](https://www.nfl.com/videos/battista-nfl-is-all-systems-go-for-week-7-steelers-saints-game-in-paris-gmfb): NFL.com, 2026-10-21 14:37 UTC
 - [Steelers film study: Keeanu Benton turned in his best performance of the season against the Buccaneers](https://www.post-gazette.com/sports/steelers/2026/10/21/steelers-film-study-keeanu-benton/stories/202610210005): Pittsburgh Post-Gazette, 2026-10-21 14:06 UTC
 - [Steelers quietly catch a major break with the latest Jordyn Tyson update](https://stillcurtain.com/pittsburgh-steelers-quietly-catch-major-break-latest-jordyn-tyson-update-01m5faqwx8mz?utm_source=RSS): Still Curtain, 2026-10-21 14:01 UTC
@@ -118,6 +117,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Week 7 odds: Steelers open as slight favorites vs. Saints](https://www.behindthesteelcurtain.com/pittsburgh-steelers-odds/176592/week-7-odds-steelers-open-as-slight-favorites-vs-saints): Behind the Steel Curtain, 2026-10-20 14:30 UTC
 - [Steelers at Saints in Paris: How to watch/listen to the game](https://www.steelers.com/news/steelers-at-saints-in-paris-how-to-watch-listen-to-the-game): Steelers.com (official), 2026-10-20 14:30 UTC
 - [Steelers’ dream 2027 quarterback class is already losing its shine](https://stillcurtain.com/pittsburgh-steelers-dream-2027-quarterback-class-is-already-losing-its-shine-01m5b6pz8naq?utm_source=RSS): Still Curtain, 2026-10-20 14:00 UTC
+- [NFL Paris 2026: New Orleans Saints vs Pittsburgh Steelers game 'all systems go' despite riots in French capital](https://www.skysports.com/nfl/news/13601317/nfl-paris-2026-new-orleans-saints-vs-pittsburgh-steelers-game-all-systems-go-despite-riots-in-french-capital): Sky Sports, 2026-10-20 13:47 UTC
 - [Mark Madden: Steelers fans should embrace comeback win, not nitpick Mike McCarthy’s mistakes](https://triblive.com/sports/mark-madden-steelers-fans-should-embrace-comeback-win-not-nitpick-mike-mccarthys-mistakes/): TribLive, 2026-10-20 13:46 UTC
 - [Steelers news: NFL not relocating Paris game](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176594/steelers-news-nfl-not-relocating-paris-game): Behind the Steel Curtain, 2026-10-20 13:40 UTC
 - [Steelers signing Marquez Valdes-Scantling could make things even worse](https://stillcurtain.com/pittsburgh-steelers-signing-marquez-valdes-scantling-could-make-offense-worse-01m5cmdzgrz1?utm_source=RSS): Still Curtain, 2026-10-20 13:01 UTC

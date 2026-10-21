@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "rumors",
  "description": "Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).",
- "generated": "2026-10-21T22:30:15+00:00",
- "data_updated": "2026-10-21T22:30:10+00:00",
- "count": 62,
+ "generated": "2026-10-21T22:41:08+00:00",
+ "data_updated": "2026-10-21T22:41:01+00:00",
+ "count": 63,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -19,6 +19,70 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/rumors",
  "items": [
+  {
+   "id": "88ec15922e1e",
+   "type": "rumor",
+   "title": "Gerry Dulac Shuts Down Steelers Trade Rumors After Marquez Valdes-Scantling Signing",
+   "summary": "Trade/roster move story from Gridiron Heroics. Full report at the original publisher.",
+   "url": "https://gridironheroics.com/gerry-dulac-shuts-down-steelers-trade-rumors-after-marquez-valdes-scantling-signing/",
+   "source": {
+    "name": "Gridiron Heroics",
+    "url": null,
+    "reliability_tier": "Aggregator / other",
+    "reliability_score": 1
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-21T22:41:01+00:00",
+   "updated": "2026-10-21T22:41:01+00:00",
+   "published": "2026-10-21T22:32:28+00:00",
+   "people": [],
+   "consensus": {
+    "cluster_id": "f0317db1080a",
+    "independent_sources": 12,
+    "sources": [
+     "A to Z Sports",
+     "All Steelers (Sports Illustrated)",
+     "Audacy",
+     "Beaver County Radio",
+     "Gridiron Heroics",
+     "NBC Sports",
+     "Sports Illustrated",
+     "Steelers Depot",
+     "Still Curtain",
+     "TribLIVE.com",
+     "TribLive",
+     "Yardbarker"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "a47989cc3ca8",
+     "fac5ee1b7992",
+     "00eb03c92b11",
+     "c774b8995598",
+     "1b9cf10893b1",
+     "2ffbfc23c5b6",
+     "2289e7e73871",
+     "8517ea310aff",
+     "084a41627d7f",
+     "80328d8900e5",
+     "dc4e7eea9511",
+     "d9ea387e2e1d",
+     "c096101038f6",
+     "47b303529098",
+     "d4ce4b6994a9",
+     "903d04baad12",
+     "a2fc6f6f5226",
+     "44f0c20355e3",
+     "cea338c8f16a",
+     "8cb28a915183",
+     "7562897ee621",
+     "67e645182b72",
+     "f0317db1080a"
+    ]
+   }
+  },
   {
    "id": "8646fc49f8e0",
    "type": "rumor",
@@ -68,12 +132,13 @@
    "people": [],
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 11,
+    "independent_sources": 12,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
      "Audacy",
      "Beaver County Radio",
+     "Gridiron Heroics",
      "NBC Sports",
      "Sports Illustrated",
      "Steelers Depot",
@@ -85,6 +150,7 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "88ec15922e1e",
      "fac5ee1b7992",
      "00eb03c92b11",
      "c774b8995598",
@@ -159,12 +225,13 @@
    "people": [],
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 11,
+    "independent_sources": 12,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
      "Audacy",
      "Beaver County Radio",
+     "Gridiron Heroics",
      "NBC Sports",
      "Sports Illustrated",
      "Steelers Depot",
@@ -176,6 +243,7 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "88ec15922e1e",
      "a47989cc3ca8",
      "00eb03c92b11",
      "c774b8995598",
@@ -221,12 +289,13 @@
    "people": [],
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 11,
+    "independent_sources": 12,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
      "Audacy",
      "Beaver County Radio",
+     "Gridiron Heroics",
      "NBC Sports",
      "Sports Illustrated",
      "Steelers Depot",
@@ -238,6 +307,7 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "88ec15922e1e",
      "a47989cc3ca8",
      "fac5ee1b7992",
      "c774b8995598",
@@ -462,12 +532,13 @@
    ],
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 11,
+    "independent_sources": 12,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
      "Audacy",
      "Beaver County Radio",
+     "Gridiron Heroics",
      "NBC Sports",
      "Sports Illustrated",
      "Steelers Depot",
@@ -479,6 +550,7 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "88ec15922e1e",
      "a47989cc3ca8",
      "fac5ee1b7992",
      "00eb03c92b11",
@@ -529,12 +601,13 @@
    ],
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 11,
+    "independent_sources": 12,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
      "Audacy",
      "Beaver County Radio",
+     "Gridiron Heroics",
      "NBC Sports",
      "Sports Illustrated",
      "Steelers Depot",
@@ -546,6 +619,7 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "88ec15922e1e",
      "a47989cc3ca8",
      "fac5ee1b7992",
      "00eb03c92b11",
@@ -788,12 +862,13 @@
    ],
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 11,
+    "independent_sources": 12,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
      "Audacy",
      "Beaver County Radio",
+     "Gridiron Heroics",
      "NBC Sports",
      "Sports Illustrated",
      "Steelers Depot",
@@ -805,6 +880,7 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "88ec15922e1e",
      "a47989cc3ca8",
      "fac5ee1b7992",
      "00eb03c92b11",
@@ -852,12 +928,13 @@
    ],
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 11,
+    "independent_sources": 12,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
      "Audacy",
      "Beaver County Radio",
+     "Gridiron Heroics",
      "NBC Sports",
      "Sports Illustrated",
      "Steelers Depot",
@@ -869,6 +946,7 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "88ec15922e1e",
      "a47989cc3ca8",
      "fac5ee1b7992",
      "00eb03c92b11",
@@ -914,12 +992,13 @@
    "people": [],
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 11,
+    "independent_sources": 12,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
      "Audacy",
      "Beaver County Radio",
+     "Gridiron Heroics",
      "NBC Sports",
      "Sports Illustrated",
      "Steelers Depot",
@@ -931,6 +1010,7 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "88ec15922e1e",
      "a47989cc3ca8",
      "fac5ee1b7992",
      "00eb03c92b11",
@@ -1133,12 +1213,13 @@
    "people": [],
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 11,
+    "independent_sources": 12,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
      "Audacy",
      "Beaver County Radio",
+     "Gridiron Heroics",
      "NBC Sports",
      "Sports Illustrated",
      "Steelers Depot",
@@ -1150,6 +1231,7 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "88ec15922e1e",
      "a47989cc3ca8",
      "fac5ee1b7992",
      "00eb03c92b11",
@@ -1195,12 +1277,13 @@
    "people": [],
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 11,
+    "independent_sources": 12,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
      "Audacy",
      "Beaver County Radio",
+     "Gridiron Heroics",
      "NBC Sports",
      "Sports Illustrated",
      "Steelers Depot",
@@ -1212,6 +1295,7 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "88ec15922e1e",
      "a47989cc3ca8",
      "fac5ee1b7992",
      "00eb03c92b11",
@@ -1257,12 +1341,13 @@
    "people": [],
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 11,
+    "independent_sources": 12,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
      "Audacy",
      "Beaver County Radio",
+     "Gridiron Heroics",
      "NBC Sports",
      "Sports Illustrated",
      "Steelers Depot",
@@ -1274,6 +1359,7 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "88ec15922e1e",
      "a47989cc3ca8",
      "fac5ee1b7992",
      "00eb03c92b11",
@@ -1319,12 +1405,13 @@
    "people": [],
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 11,
+    "independent_sources": 12,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
      "Audacy",
      "Beaver County Radio",
+     "Gridiron Heroics",
      "NBC Sports",
      "Sports Illustrated",
      "Steelers Depot",
@@ -1336,6 +1423,7 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "88ec15922e1e",
      "a47989cc3ca8",
      "fac5ee1b7992",
      "00eb03c92b11",
@@ -1383,12 +1471,13 @@
    ],
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 11,
+    "independent_sources": 12,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
      "Audacy",
      "Beaver County Radio",
+     "Gridiron Heroics",
      "NBC Sports",
      "Sports Illustrated",
      "Steelers Depot",
@@ -1400,6 +1489,7 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "88ec15922e1e",
      "a47989cc3ca8",
      "fac5ee1b7992",
      "00eb03c92b11",
@@ -1445,12 +1535,13 @@
    "people": [],
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 11,
+    "independent_sources": 12,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
      "Audacy",
      "Beaver County Radio",
+     "Gridiron Heroics",
      "NBC Sports",
      "Sports Illustrated",
      "Steelers Depot",
@@ -1462,6 +1553,7 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "88ec15922e1e",
      "a47989cc3ca8",
      "fac5ee1b7992",
      "00eb03c92b11",
@@ -1507,12 +1599,13 @@
    "people": [],
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 11,
+    "independent_sources": 12,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
      "Audacy",
      "Beaver County Radio",
+     "Gridiron Heroics",
      "NBC Sports",
      "Sports Illustrated",
      "Steelers Depot",
@@ -1524,6 +1617,7 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "88ec15922e1e",
      "a47989cc3ca8",
      "fac5ee1b7992",
      "00eb03c92b11",
@@ -1571,12 +1665,13 @@
    ],
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 11,
+    "independent_sources": 12,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
      "Audacy",
      "Beaver County Radio",
+     "Gridiron Heroics",
      "NBC Sports",
      "Sports Illustrated",
      "Steelers Depot",
@@ -1588,6 +1683,7 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "88ec15922e1e",
      "a47989cc3ca8",
      "fac5ee1b7992",
      "00eb03c92b11",
@@ -1662,12 +1758,13 @@
    "people": [],
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 11,
+    "independent_sources": 12,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
      "Audacy",
      "Beaver County Radio",
+     "Gridiron Heroics",
      "NBC Sports",
      "Sports Illustrated",
      "Steelers Depot",
@@ -1679,6 +1776,7 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "88ec15922e1e",
      "a47989cc3ca8",
      "fac5ee1b7992",
      "00eb03c92b11",
@@ -1728,12 +1826,13 @@
    ],
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 11,
+    "independent_sources": 12,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
      "Audacy",
      "Beaver County Radio",
+     "Gridiron Heroics",
      "NBC Sports",
      "Sports Illustrated",
      "Steelers Depot",
@@ -1745,6 +1844,7 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "88ec15922e1e",
      "a47989cc3ca8",
      "fac5ee1b7992",
      "00eb03c92b11",
@@ -1797,12 +1897,13 @@
    ],
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 11,
+    "independent_sources": 12,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
      "Audacy",
      "Beaver County Radio",
+     "Gridiron Heroics",
      "NBC Sports",
      "Sports Illustrated",
      "Steelers Depot",
@@ -1814,6 +1915,7 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "88ec15922e1e",
      "a47989cc3ca8",
      "fac5ee1b7992",
      "00eb03c92b11",
@@ -1859,12 +1961,13 @@
    "people": [],
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 11,
+    "independent_sources": 12,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
      "Audacy",
      "Beaver County Radio",
+     "Gridiron Heroics",
      "NBC Sports",
      "Sports Illustrated",
      "Steelers Depot",
@@ -1876,6 +1979,7 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "88ec15922e1e",
      "a47989cc3ca8",
      "fac5ee1b7992",
      "00eb03c92b11",
@@ -1921,12 +2025,13 @@
    "people": [],
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 11,
+    "independent_sources": 12,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
      "Audacy",
      "Beaver County Radio",
+     "Gridiron Heroics",
      "NBC Sports",
      "Sports Illustrated",
      "Steelers Depot",
@@ -1938,6 +2043,7 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "88ec15922e1e",
      "a47989cc3ca8",
      "fac5ee1b7992",
      "00eb03c92b11",
@@ -2453,12 +2559,13 @@
    "people": [],
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 11,
+    "independent_sources": 12,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
      "Audacy",
      "Beaver County Radio",
+     "Gridiron Heroics",
      "NBC Sports",
      "Sports Illustrated",
      "Steelers Depot",
@@ -2470,6 +2577,7 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "88ec15922e1e",
      "a47989cc3ca8",
      "fac5ee1b7992",
      "00eb03c92b11",
@@ -2546,12 +2654,13 @@
    "people": [],
    "consensus": {
     "cluster_id": "f0317db1080a",
-    "independent_sources": 11,
+    "independent_sources": 12,
     "sources": [
      "A to Z Sports",
      "All Steelers (Sports Illustrated)",
      "Audacy",
      "Beaver County Radio",
+     "Gridiron Heroics",
      "NBC Sports",
      "Sports Illustrated",
      "Steelers Depot",
@@ -2563,6 +2672,7 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "88ec15922e1e",
      "a47989cc3ca8",
      "fac5ee1b7992",
      "00eb03c92b11",
