@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-21T00:45:38+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T00:45:17+00:00._
+_Generated 2026-10-21T00:56:29+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T00:56:12+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [Paris Under Pressure: Steelers Prepare for NFL First During Unrest Abroad](http://www.pennlive.com/steelers/): Steelers Breakdown (PennLive, Nick Farabaugh), 2026-10-21 00:03 UTC
