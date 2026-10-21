@@ -1,10 +1,12 @@
 # Steelers News
 
-_Generated 2026-10-21T09:03:39+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T09:03:08+00:00._
+_Generated 2026-10-21T09:49:21+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T09:48:44+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [What Role Will Steelers Have For DeShon Elliott When He Returns?](https://steelersdepot.com/2026/10/what-role-will-steelers-have-for-deshon-elliott-when-he-returns/): Steelers Depot, 2026-10-21 09:00 UTC
+- [Saints vs. Steelers Play-by-Play - Week 7 - Oct. 25, 2026](https://www.neworleanssaints.com/game-day/2026/reg-week7/steelers-at-saints/play-by-play): New Orleans Saints | NewOrleansSaints.com, 2026-10-21 08:59 UTC
 - [Moving to left tackle is hard. Just ask the Steelers’ Troy Fautanu.](https://www.post-gazette.com/sports/steelers/2026/10/21/troy-fautanu-move-to-left-tackle-offensive-line/stories/202610210004): Pittsburgh Post-Gazette, 2026-10-21 08:00 UTC
-- [Steelers’ Belief In Their Massive Rookie Class Is Paying Early Dividends](https://www.timesleaderonline.com/sports/local-sports/2026/10/steelers-belief-in-their-massive-rookie-class-is-paying-early-dividends/): www.timesleaderonline.com, 2026-10-21 06:38 UTC
+- [Wide receiver-needy Steelers bring back veteran Marquez Valdes-Scantling](https://www.washingtonpost.com/sports/nfl/2026/10/20/pittsburgh-steelers/495d684a-ccd2-11f1-ac04-9f58578a68b4_story.html): The Washington Post, 2026-10-21 05:04 UTC
 - [NFL Adds Security for Steelers-Saints Game at Stade de France](https://rg.org/news/football/nfl-heightened-security-steelers-saints-paris): RG.org, 2026-10-21 04:17 UTC
 - [Steelers bring back veteran Valdes-Scantling amid receiver injury woes](https://www.espn.com/nfl/story/_/id/50232379/steelers-bring-back-marquez-valdes-scantling-amid-wr-injuries): ESPN, 2026-10-21 02:11 UTC
 - [The best soccer/NFL crossover jerseys as PSG unveil kit for Steelers vs. Saints in Paris](https://www.espn.com/soccer/story/_/id/50225836/the-best-soccer-nfl-crossover-jerseys-psg-kit-pittsburgh-steelers-new-orleans-saints-paris-game): ESPN, 2026-10-21 01:48 UTC
@@ -26,7 +28,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers Afternoon Drive: Should Steelers Still Seeking WR Help?](https://steelersnow.com/steelers-afternoon-drive-should-steelers-still-seeking-wr-help/): Steelers Now, 2026-10-20 22:23 UTC
 - [The NFL says it's "confident" with security plans for the Steelers-Saints game in Paris](https://www.cbsnews.com/pittsburgh/news/nfl-confident-security-plans-steelers-saints-game-paris/): CBS News, 2026-10-20 22:23 UTC
 - [Watch: The Depot 180 — October 20 — Episode 628](https://steelersdepot.com/2026/10/watch-the-depot-180-october-20-episode-628/): Steelers Depot, 2026-10-20 22:15 UTC
-- [Wide receiver-needy Steelers bring back veteran Marquez Valdes-Scantling](https://www.bozemandailychronicle.com/wire/sports/wide-receiver-needy-steelers-bring-back-veteran-marquez-valdes-scantling/article_291be89b-99ee-57d4-9b0f-621f344ee6b9.html): Bozeman Daily Chronicle, 2026-10-20 22:04 UTC
 - [‘Not Ruling Out Surgery’: Kaboly Shares Michael Pittman Jr. Update, Names Trade Options To Replace Him](https://steelersdepot.com/2026/10/not-ruling-out-surgery-kaboly-shares-michael-pittman-jr-update-names-trade-options-to-replace-him/): Steelers Depot, 2026-10-20 21:45 UTC
 - [Steelers Throw Stunning Lineup Curveball As DeShon Elliott Will Have To Fight For His Spot](https://www.steelernation.com/2026/10/20/steelers-stunning-deshon-elliott-fight): SteelerNation, 2026-10-20 21:35 UTC
 - [Listen: The Terrible Take (Episode 2,056)](https://steelersdepot.com/2026/10/listen-the-terrible-take-episode-2056/): Steelers Depot, 2026-10-20 21:30 UTC
@@ -51,6 +52,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Cam Heyward Proposes Revamp To Roughing-The-Passer Rule](https://steelersdepot.com/2026/10/cam-heyward-proposes-revamp-to-roughing-the-passer-rule/): Steelers Depot, 2026-10-20 19:30 UTC
 - [Report Detailed Exactly What Steelers Are Looking For At The Trade Deadline](https://www.steelernation.com/2026/10/20/steelers-detailed-exactly-deadline): SteelerNation, 2026-10-20 19:07 UTC
 - [Chris Long Says He’ll ‘Walk Across America’ If Steelers Play In Super Bowl This Season](https://steelersdepot.com/2026/10/chris-long-says-hell-walk-across-america-if-steelers-play-in-super-bowl-this-season/): Steelers Depot, 2026-10-20 19:00 UTC
+- [NFL Paris game still on despite France riots, league says](https://www.newsnationnow.com/us-news/sports/nfl-paris-game-france-riots-pittsburgh-steelers-new-orleans-saints/): NewsNation, 2026-10-20 18:38 UTC
 - [History Favors Steelers Making The Playoffs](https://steelersdepot.com/2026/10/history-favors-steelers-making-the-playoffs/): Steelers Depot, 2026-10-20 18:30 UTC
 - [Steelers' Ben Skowronek's Injury May Have Been The Result Of Foul Play From The Colts](https://www.steelernation.com/2026/10/20/steelers-ben-skowronek-foul-colts): SteelerNation, 2026-10-20 18:21 UTC
 - [Gabriel Rubio Had No Idea Steelers Would Draft Him, Reveals Two Teams That Wanted To Sign Him](https://steelersdepot.com/2026/10/gabriel-rubio-had-no-idea-steelers-would-draft-him-reveals-two-teams-that-wanted-to-sign-him/): Steelers Depot, 2026-10-20 18:15 UTC
@@ -64,7 +66,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Where Do Steelers Stand In Week 7 Power Rankings?](https://steelersdepot.com/2026/10/where-do-steelers-stand-in-week-7-power-rankings-2/): Steelers Depot, 2026-10-20 16:30 UTC
 - [Brian Thomas Jr "Needs To Be" Traded To The Steelers Immediately After Bizarre Week 6](https://www.steelernation.com/2026/10/20/steelers-immediately-brian-thomas-jr): SteelerNation, 2026-10-20 16:25 UTC
 - [Former Steelers running back arrested on domestic assault charge](https://www.audacy.com/937thefan/sports/pittsburgh-steelers/cordarrelle-patterson): Audacy, 2026-10-20 16:21 UTC
-- [New Data Shows Mike McCarthy Has Reversed Mike Tomlin’s Most Criticized Philosophy](https://steelersdepot.com/2026/10/new-data-shows-mike-mccarthy-has-reversed-mike-tomlins-most-criticized-philosophy/): Steelers Depot, 2026-10-20 16:15 UTC
 - [Steelers Coach Says Hold Not a Factor in Chris Boswell Miss](https://steelersnow.com/steelers-coach-says-hold-not-a-factor-in-chris-boswell-miss/): Steelers Now, 2026-10-20 16:09 UTC
 - [Details Released on Former Steelers Running Back’s Domestic Assault Charge](https://steelersnow.com/details-released-on-former-steelers-running-backs-domestic-assault-charge/): Steelers Now, 2026-10-20 16:02 UTC
 - [Steelers Rookie WR Quickly Joining Rookie of the Year Mix](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-rookie-germie-bernard-quickly-joining-rookie-year-mix): All Steelers (Sports Illustrated), 2026-10-20 16:00 UTC
@@ -85,7 +86,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers news: NFL not relocating Paris game](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176594/steelers-news-nfl-not-relocating-paris-game): Behind the Steel Curtain, 2026-10-20 13:40 UTC
 - [Steelers signing Marquez Valdes-Scantling could make things even worse](https://stillcurtain.com/pittsburgh-steelers-signing-marquez-valdes-scantling-could-make-offense-worse-01m5cmdzgrz1?utm_source=RSS): Still Curtain, 2026-10-20 13:01 UTC
 - [Steelers should call the Giants after the surprise Cam Skattebo benching](https://stillcurtain.com/pittsburgh-steelers-should-call-the-giants-after-the-surprise-cam-skattebo-benching-01m5arkwgky1?utm_source=RSS): Still Curtain, 2026-10-20 13:00 UTC
-- [Pittsburgh Steelers 2026 NFL Playoff Simulator](https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/pittsburgh-steelers-season-projections/): The New York Times, 2026-10-20 12:48 UTC
 - [Marquez Valdes-Scantling Signing Might Mean Good News for Steelers](https://www.si.com/nfl/steelers/onsi/marquez-valdes-scantling-signing-might-good-news-pittsburgh-steelers): All Steelers (Sports Illustrated), 2026-10-20 12:37 UTC
 - [The shorthanded Steelers are bringing back veteran receiver Marquez Valdes-Scantling](https://www.post-gazette.com/sports/steelers/2026/10/20/steelers-sign-mvs/stories/202610200032): Pittsburgh Post-Gazette, 2026-10-20 12:13 UTC
 - [Buccaneers just showed Steelers why Drew Allar should be Aaron Rodgers' backup](https://stillcurtain.com/buccaneers-just-showed-pittsburgh-steelers-why-drew-allar-should-be-aaron-rodgers-backup-01m5agyy802f?utm_source=RSS): Still Curtain, 2026-10-20 12:00 UTC

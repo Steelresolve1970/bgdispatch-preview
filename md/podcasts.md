@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-21T09:03:39+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T09:03:22+00:00._
+_Generated 2026-10-21T09:49:21+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T09:48:58+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [Let's Ride: Know Your Steelers Enemy, Week 7 vs. the Saints](https://podcasts.apple.com/us/podcast/id905962218): Steel Curtain Network (BTSC), 2026-10-21 08:00 UTC
