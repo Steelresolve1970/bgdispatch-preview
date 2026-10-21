@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-21T20:41:54+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T20:41:39+00:00._
+_Generated 2026-10-21T20:52:57+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T20:52:40+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [♾️](https://www.youtube.com/shorts/bazY7Ly8iU4): Pittsburgh Steelers (official), 2026-10-21 20:11 UTC

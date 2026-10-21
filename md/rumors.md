@@ -1,8 +1,10 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-21T20:41:54+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T20:41:49+00:00._
+_Generated 2026-10-21T20:52:57+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T20:52:51+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
+- **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
+  [Steelers' Omar Khan Gets Strong Warning About Dangerous Trade Deadline Strategy](https://www.steelernation.com/2026/10/21/steelers-omar-khan-strong-warning): SteelerNation, first seen 2026-10-21 20:52 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 10 source(s), top tier National insider
   [A new wide receiver trade rumor is picking up steam after the Steelers got an up-close look during recent matchup](https://atozsports.com/nfl/pittsburgh-steelers-news/steelers-wr-trade-rumors-chris-godwin-emerges-as-target-after-bucs-game/): A to Z Sports, first seen 2026-10-21 17:35 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 10 source(s), top tier National insider
