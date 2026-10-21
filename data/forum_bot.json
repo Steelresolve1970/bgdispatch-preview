@@ -1,11 +1,35 @@
 {
- "generated": "2026-10-21T03:47:28.875045+00:00",
+ "generated": "2026-10-21T04:03:37.774153+00:00",
  "bot": {
   "name": "Dispatch Desk",
   "bot": true,
   "about": "Posts automatically. Opens game threads, daily topics and polls. Not a person."
  },
  "topics": [
+  {
+   "id": "daily-2026-10-21",
+   "kind": "Daily discussion",
+   "cat": "Depth Chart & Roster",
+   "pinned": false,
+   "created": "2026-10-21T08:00:00-04:00",
+   "title": "Daily Discussion (Oct 21): Spotlight Focuses on Saints Before Game vs. Pittsburgh Steelers in Paris",
+   "body": "Today's top headline comes from roundtable.io. Read it at the link, then tell us: does it change how you see this team?",
+   "links": [
+    {
+     "label": "Read at roundtable.io \u2192",
+     "href": "https://roundtable.io/sports/nfl/saints/news/spotlight-focuses-on-saints-before-game-vs-pittsburgh-steelers-in-paris",
+     "external": true
+    },
+    {
+     "label": "All news",
+     "href": "#/"
+    }
+   ],
+   "author": "Dispatch Desk",
+   "bot": true,
+   "replies": 0,
+   "views": null
+  },
   {
    "id": "daily-2026-10-20",
    "kind": "Daily discussion",

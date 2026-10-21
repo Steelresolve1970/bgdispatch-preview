@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T03:47:33.906851+00:00",
+ "generated": "2026-10-21T04:03:43.320867+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -1054,18 +1054,14 @@
    "status_link": null,
    "first_seen": "2026-10-19T21:43:48.997226+00:00",
    "consensus": {
-    "cluster_id": "d7826af8a2b8",
-    "independent_sources": 2,
+    "cluster_id": "e44e8dd7936e",
+    "independent_sources": 1,
     "sources": [
-     "ClutchPoints",
-     "Yahoo Sports"
+     "ClutchPoints"
     ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": [
-     "1d875174f96b",
-     "d7826af8a2b8"
-    ]
+    "highest_tier": "Aggregator / other",
+    "highest_tier_score": 1,
+    "related_ids": []
    },
    "updated": "2026-10-19T21:43:48.997226+00:00"
   },
@@ -1449,19 +1445,16 @@
    "status_link": null,
    "first_seen": "2026-10-18T04:34:04.958633+00:00",
    "consensus": {
-    "cluster_id": "3eaa303e1bfb",
-    "independent_sources": 3,
+    "cluster_id": "e518dab1fe84",
+    "independent_sources": 2,
     "sources": [
      "Athlon Sports",
-     "Still Curtain",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "e518dab1fe84",
-     "c46605b46d29",
-     "3eaa303e1bfb"
+     "e518dab1fe84"
     ]
    },
    "updated": "2026-10-18T04:34:04.958633+00:00"
@@ -1481,426 +1474,19 @@
    "status_link": null,
    "first_seen": "2026-10-18T12:06:09.039356+00:00",
    "consensus": {
-    "cluster_id": "3eaa303e1bfb",
-    "independent_sources": 3,
+    "cluster_id": "e518dab1fe84",
+    "independent_sources": 2,
     "sources": [
      "Athlon Sports",
-     "Still Curtain",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "8f4df61a2c0d",
-     "c46605b46d29",
-     "3eaa303e1bfb"
+     "8f4df61a2c0d"
     ]
    },
    "updated": "2026-10-18T12:06:09.039356+00:00"
-  },
-  {
-   "id": "43d4a76b13c9",
-   "title": "Beat Writer Explains How Steelers Will Be \u2018Active\u2019 At Trade Deadline",
-   "source": "Steelers Depot",
-   "link": "https://steelersdepot.com/2026/10/beat-writer-explains-how-steelers-will-be-active-at-trade-deadline/",
-   "published": "2026-10-16T22:35:11+00:00",
-   "summary": "Rumor-style report from Steelers Depot on a Steelers roster move. Full details at the source.",
-   "tier": "Fan blog",
-   "tier_score": 2,
-   "subjects": [],
-   "status": "Rumor",
-   "status_note": null,
-   "status_link": null,
-   "first_seen": "2026-10-18T04:34:04.958633+00:00",
-   "consensus": {
-    "cluster_id": "601fa2aecd5d",
-    "independent_sources": 1,
-    "sources": [
-     "Steelers Depot"
-    ],
-    "highest_tier": "Fan blog",
-    "highest_tier_score": 2,
-    "related_ids": [
-     "601fa2aecd5d"
-    ]
-   },
-   "updated": "2026-10-18T04:34:04.958633+00:00"
-  },
-  {
-   "id": "1d875174f96b",
-   "title": "1 player Steelers must trade before 2026 NFL trade deadline",
-   "source": "ClutchPoints",
-   "link": "https://clutchpoints.com/nfl/pittsburgh-steelers/1-player-steelers-must-trade-before-2026-nfl-trade-deadline",
-   "published": "2026-10-16T21:55:13+00:00",
-   "summary": "Rumor-style report from ClutchPoints on a Steelers roster move. Full details at the source.",
-   "tier": "Aggregator / other",
-   "tier_score": 1,
-   "subjects": [],
-   "status": "Rumor",
-   "status_note": null,
-   "status_link": null,
-   "first_seen": "2026-10-18T04:34:04.958633+00:00",
-   "consensus": {
-    "cluster_id": "d7826af8a2b8",
-    "independent_sources": 2,
-    "sources": [
-     "ClutchPoints",
-     "Yahoo Sports"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": [
-     "e44e8dd7936e",
-     "d7826af8a2b8"
-    ]
-   },
-   "updated": "2026-10-18T04:34:04.958633+00:00"
-  },
-  {
-   "id": "601fa2aecd5d",
-   "title": "Will Steelers Be Active Shoppers Before Trade Deadline?",
-   "source": "Steelers Depot",
-   "link": "https://steelersdepot.com/2026/10/will-steelers-be-active-shoppers-before-trade-deadline/",
-   "published": "2026-10-16T20:19:38+00:00",
-   "summary": "Rumor-style report from Steelers Depot on a Steelers roster move. Full details at the source.",
-   "tier": "Fan blog",
-   "tier_score": 2,
-   "subjects": [],
-   "status": "Rumor",
-   "status_note": null,
-   "status_link": null,
-   "first_seen": "2026-10-18T04:34:04.958633+00:00",
-   "consensus": {
-    "cluster_id": "601fa2aecd5d",
-    "independent_sources": 1,
-    "sources": [
-     "Steelers Depot"
-    ],
-    "highest_tier": "Fan blog",
-    "highest_tier_score": 2,
-    "related_ids": [
-     "43d4a76b13c9"
-    ]
-   },
-   "updated": "2026-10-18T04:34:04.958633+00:00"
-  },
-  {
-   "id": "d7826af8a2b8",
-   "title": "1 player Steelers must trade before 2026 NFL trade deadline",
-   "source": "Yahoo Sports",
-   "link": "https://sports.yahoo.com/articles/1-player-steelers-must-trade-172241457.html",
-   "published": "2026-10-16T17:22:41+00:00",
-   "summary": "Rumor-style report from Yahoo Sports on a Steelers roster move. Full details at the source.",
-   "tier": "National insider",
-   "tier_score": 4,
-   "subjects": [],
-   "status": "Rumor",
-   "status_note": null,
-   "status_link": null,
-   "first_seen": "2026-10-18T08:06:56.237738+00:00",
-   "consensus": {
-    "cluster_id": "d7826af8a2b8",
-    "independent_sources": 2,
-    "sources": [
-     "ClutchPoints",
-     "Yahoo Sports"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": [
-     "e44e8dd7936e",
-     "1d875174f96b"
-    ]
-   },
-   "updated": "2026-10-18T08:06:56.237738+00:00"
-  },
-  {
-   "id": "5166a3f90bb0",
-   "title": "Steelers have perfect trade candidate as NFL quarterback injuries pile up",
-   "source": "Yahoo Sports",
-   "link": "https://sports.yahoo.com/articles/steelers-perfect-trade-candidate-nfl-171602560.html",
-   "published": "2026-10-16T17:16:02+00:00",
-   "summary": "Rumor-style report from Yahoo Sports on a Steelers roster move. Full details at the source.",
-   "tier": "National insider",
-   "tier_score": 4,
-   "subjects": [],
-   "status": "Rumor",
-   "status_note": null,
-   "status_link": null,
-   "first_seen": "2026-10-18T04:34:04.958633+00:00",
-   "consensus": {
-    "cluster_id": "5166a3f90bb0",
-    "independent_sources": 1,
-    "sources": [
-     "Yahoo Sports"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": []
-   },
-   "updated": "2026-10-18T04:34:04.958633+00:00"
-  },
-  {
-   "id": "f8467377df93",
-   "title": "Steelers Learn Important Detail About Omar Khan's Trade Deadline Strategy",
-   "source": "Steeler Nation",
-   "link": "https://www.steelernation.com/2026/10/16/steelers-important-omar-khan-strategy",
-   "published": "2026-10-16T12:33:58+00:00",
-   "summary": "Rumor-style report from Steeler Nation on a Steelers roster move. Full details at the source.",
-   "tier": "Fan blog",
-   "tier_score": 2,
-   "subjects": [],
-   "status": "Rumor",
-   "status_note": null,
-   "status_link": null,
-   "first_seen": "2026-10-18T04:34:04.958633+00:00",
-   "consensus": {
-    "cluster_id": "f8467377df93",
-    "independent_sources": 1,
-    "sources": [
-     "Steeler Nation"
-    ],
-    "highest_tier": "Fan blog",
-    "highest_tier_score": 2,
-    "related_ids": []
-   },
-   "updated": "2026-10-18T04:34:04.958633+00:00"
-  },
-  {
-   "id": "0f1cf282df95",
-   "title": "3 cornerback trades the Steelers could make at NFL deadline",
-   "source": "AOL.ca",
-   "link": "https://www.aol.ca/articles/3-cornerback-trades-steelers-could-120357000.html",
-   "published": "2026-10-16T12:03:57+00:00",
-   "summary": "Rumor-style report from AOL.ca on a Steelers roster move. Full details at the source.",
-   "tier": "Aggregator / other",
-   "tier_score": 1,
-   "subjects": [],
-   "status": "Rumor",
-   "status_note": null,
-   "status_link": null,
-   "first_seen": "2026-10-20T05:48:26.480307+00:00",
-   "consensus": {
-    "cluster_id": "ff1a493d5cec",
-    "independent_sources": 2,
-    "sources": [
-     "AOL.ca",
-     "AOL.co.uk"
-    ],
-    "highest_tier": "Aggregator / other",
-    "highest_tier_score": 1,
-    "related_ids": [
-     "ff1a493d5cec"
-    ]
-   },
-   "updated": "2026-10-20T05:48:26.480307+00:00"
-  },
-  {
-   "id": "ff1a493d5cec",
-   "title": "3 cornerback trades the Steelers could make at NFL deadline",
-   "source": "AOL.co.uk",
-   "link": "https://www.aol.co.uk/articles/3-cornerback-trades-steelers-could-120357000.html",
-   "published": "2026-10-16T12:03:57+00:00",
-   "summary": "Rumor-style report from AOL.co.uk on a Steelers roster move. Full details at the source.",
-   "tier": "Aggregator / other",
-   "tier_score": 1,
-   "subjects": [],
-   "status": "Rumor",
-   "status_note": null,
-   "status_link": null,
-   "first_seen": "2026-10-21T02:15:58.548313+00:00",
-   "consensus": {
-    "cluster_id": "ff1a493d5cec",
-    "independent_sources": 2,
-    "sources": [
-     "AOL.ca",
-     "AOL.co.uk"
-    ],
-    "highest_tier": "Aggregator / other",
-    "highest_tier_score": 1,
-    "related_ids": [
-     "0f1cf282df95"
-    ]
-   },
-   "updated": "2026-10-21T02:15:58.548313+00:00"
-  },
-  {
-   "id": "c46605b46d29",
-   "title": "Brian Thomas Jr. headlines 7 WR trade targets Steelers can't afford to ignore",
-   "source": "Still Curtain",
-   "link": "https://stillcurtain.com/brian-thomas-jr-headlines-7-wr-trade-targets-pittsburgh-steelers-can-t-afford-to-ignore-01m4rnfq23x6?utm_source=RSS",
-   "published": "2026-10-16T12:00:01+00:00",
-   "summary": "Trade/roster move story from Still Curtain. Full report at the original publisher.",
-   "tier": "Fan blog",
-   "tier_score": 2,
-   "subjects": [
-    "Brian Thomas Jr."
-   ],
-   "status": "Rumor",
-   "status_note": null,
-   "status_link": null,
-   "first_seen": "2026-10-18T04:34:04.958633+00:00",
-   "consensus": {
-    "cluster_id": "3eaa303e1bfb",
-    "independent_sources": 3,
-    "sources": [
-     "Athlon Sports",
-     "Still Curtain",
-     "Yahoo Sports"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": [
-     "8f4df61a2c0d",
-     "e518dab1fe84",
-     "3eaa303e1bfb"
-    ]
-   },
-   "updated": "2026-10-18T04:34:04.958633+00:00"
-  },
-  {
-   "id": "3eaa303e1bfb",
-   "title": "Brian Thomas Jr. headlines 7 WR trade targets Steelers can't afford to ignore",
-   "source": "Still Curtain",
-   "link": "https://stillcurtain.com/brian-thomas-jr-headlines-7-wr-trade-targets-pittsburgh-steelers-can-t-afford-to-ignore-01m4rnfq23x6",
-   "published": "2026-10-16T12:00:01+00:00",
-   "summary": "Rumor-style report from Still Curtain on a Steelers roster move. Full details at the source.",
-   "tier": "Fan blog",
-   "tier_score": 2,
-   "subjects": [
-    "Brian Thomas Jr."
-   ],
-   "status": "Rumor",
-   "status_note": null,
-   "status_link": null,
-   "first_seen": "2026-10-19T17:56:36.682233+00:00",
-   "consensus": {
-    "cluster_id": "3eaa303e1bfb",
-    "independent_sources": 3,
-    "sources": [
-     "Athlon Sports",
-     "Still Curtain",
-     "Yahoo Sports"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": [
-     "8f4df61a2c0d",
-     "e518dab1fe84",
-     "c46605b46d29"
-    ]
-   },
-   "updated": "2026-10-19T17:56:36.682233+00:00"
-  },
-  {
-   "id": "b4555f2b0773",
-   "title": "No One Knows What Steelers Trade Deadline Plans Are",
-   "source": "Yahoo Sports",
-   "link": "https://sports.yahoo.com/articles/no-one-knows-steelers-trade-110008508.html",
-   "published": "2026-10-16T11:00:08+00:00",
-   "summary": "Rumor-style report from Yahoo Sports on a Steelers roster move. Full details at the source.",
-   "tier": "National insider",
-   "tier_score": 4,
-   "subjects": [],
-   "status": "Rumor",
-   "status_note": null,
-   "status_link": null,
-   "first_seen": "2026-10-19T17:56:36.682233+00:00",
-   "consensus": {
-    "cluster_id": "fd9f5d7b81c7",
-    "independent_sources": 2,
-    "sources": [
-     "Sports Illustrated",
-     "Yahoo Sports"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": [
-     "fd9f5d7b81c7"
-    ]
-   },
-   "updated": "2026-10-19T17:56:36.682233+00:00"
-  },
-  {
-   "id": "fd9f5d7b81c7",
-   "title": "No One Knows What Steelers Trade Deadline Plans Are",
-   "source": "Sports Illustrated",
-   "link": "https://www.si.com/nfl/steelers/onsi/no-one-knows-what-pittsburgh-steelers-trade-deadline-plans",
-   "published": "2026-10-16T11:00:06+00:00",
-   "summary": "Rumor-style report from Sports Illustrated on a Steelers roster move. Full details at the source.",
-   "tier": "National insider",
-   "tier_score": 4,
-   "subjects": [],
-   "status": "Rumor",
-   "status_note": null,
-   "status_link": null,
-   "first_seen": "2026-10-18T04:34:04.958633+00:00",
-   "consensus": {
-    "cluster_id": "fd9f5d7b81c7",
-    "independent_sources": 2,
-    "sources": [
-     "Sports Illustrated",
-     "Yahoo Sports"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": [
-     "b4555f2b0773"
-    ]
-   },
-   "updated": "2026-10-18T04:34:04.958633+00:00"
-  },
-  {
-   "id": "cb7079ab8e2e",
-   "title": "3 safety trades the Steelers could make at NFL deadline",
-   "source": "AOL.ca",
-   "link": "https://www.aol.ca/articles/3-safety-trades-steelers-could-100751000.html",
-   "published": "2026-10-16T10:07:51+00:00",
-   "summary": "Rumor-style report from AOL.ca on a Steelers roster move. Full details at the source.",
-   "tier": "Aggregator / other",
-   "tier_score": 1,
-   "subjects": [],
-   "status": "Rumor",
-   "status_note": null,
-   "status_link": null,
-   "first_seen": "2026-10-20T06:09:34.424368+00:00",
-   "consensus": {
-    "cluster_id": "cb7079ab8e2e",
-    "independent_sources": 1,
-    "sources": [
-     "AOL.ca"
-    ],
-    "highest_tier": "Aggregator / other",
-    "highest_tier_score": 1,
-    "related_ids": []
-   },
-   "updated": "2026-10-20T06:09:34.424368+00:00"
-  },
-  {
-   "id": "570a8bcd5357",
-   "title": "Steelers coach is already on the hot seat (and the writing is on the wall)",
-   "source": "Still Curtain",
-   "link": "https://stillcurtain.com/pittsburgh-steelers-coach-is-already-on-the-hot-seat-and-the-writing-is-on-the-wall-01m4x9aza3tm?utm_source=RSS",
-   "published": "2026-10-16T10:00:00+00:00",
-   "summary": "News story from Still Curtain. Full report at the original publisher.",
-   "tier": "Fan blog",
-   "tier_score": 2,
-   "subjects": [],
-   "status": "Rumor",
-   "status_note": null,
-   "status_link": null,
-   "first_seen": "2026-10-18T04:34:04.958633+00:00",
-   "consensus": {
-    "cluster_id": "570a8bcd5357",
-    "independent_sources": 1,
-    "sources": [
-     "Still Curtain"
-    ],
-    "highest_tier": "Fan blog",
-    "highest_tier_score": 2,
-    "related_ids": []
-   },
-   "updated": "2026-10-18T04:34:04.958633+00:00"
   }
  ],
  "method": "Shows rumors from the last 5 US Eastern days; older rumors are removed. Rumor = headline with rumor wording (reports, sources, could, interest, target, trade talks...) plus a roster topic. Status flips to Confirmed/Denied when a later headline names the same person with confirm/deny wording. Automated keyword matching, so it can be wrong; every item links to the source."

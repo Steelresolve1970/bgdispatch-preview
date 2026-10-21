@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-21T03:47:39+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T03:46:23+00:00._
+_Generated 2026-10-21T04:03:48+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T04:02:23+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Spotlight Focuses on Saints Before Game vs. Pittsburgh Steelers in Paris](https://roundtable.io/sports/nfl/saints/news/spotlight-focuses-on-saints-before-game-vs-pittsburgh-steelers-in-paris): roundtable.io, 2026-10-21 03:33 UTC
@@ -18,6 +18,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers-Browns Game Not Flexed to Prime Time](https://steelersnow.com/steelers-browns-game-not-flexed-to-prime-time/): Steelers Now, 2026-10-20 23:07 UTC
 - [AFC Team Shows Interest in Former Steelers Wide Receiver](https://steelersnow.com/afc-team-shows-interest-in-former-steelers-wide-receiver/): Steelers Now, 2026-10-20 23:00 UTC
 - [‘This Is Not What We Do’: Roethlisberger Shares Take On McCarthy’s Late-Game Decisions](https://steelersdepot.com/2026/10/this-is-not-what-we-do-roethlisberger-shares-take-on-mccarthys-late-game-decisions/): Steelers Depot, 2026-10-20 23:00 UTC
+- [Steelers sign veteran receiver Marquez Valdes-Scantling to practice squad](https://triblive.com/sports/steelers-sign-veteran-receiver-marquez-valdes-scantling-to-practice-squad/): TribLive, 2026-10-20 22:57 UTC
 - [Could Steelers Snatch Pro Bowl WR From Latest Opponent?](https://steelersnow.com/could-steelers-snatch-pro-bowl-wr-from-latest-opponent/): Steelers Now, 2026-10-20 22:54 UTC
 - [Former Steelers Coach Reveals Important Truth About NFL Halftime Adjustments](https://www.steelernation.com/2026/10/20/steelers-important-halftime-adjustments): SteelerNation, 2026-10-20 22:44 UTC
 - [Orlovsky Explains One Area Where Steelers’ Offense Shows ‘Uptick In Creativity’](https://steelersdepot.com/2026/10/orlovsky-explains-one-area-where-steelers-offense-shows-uptick-in-creativity/): Steelers Depot, 2026-10-20 22:30 UTC
@@ -88,7 +89,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Keionte Scott Developing into Bucs’ Swiss-Army Knife](https://www.buccaneers.com/news/keionte-scott-developing-bucs-swiss-army-knife): Tampa Bay Buccaneers, 2026-10-20 12:02 UTC
 - [Buccaneers just showed Steelers why Drew Allar should be Aaron Rodgers' backup](https://stillcurtain.com/buccaneers-just-showed-pittsburgh-steelers-why-drew-allar-should-be-aaron-rodgers-backup-01m5agyy802f?utm_source=RSS): Still Curtain, 2026-10-20 12:00 UTC
 - [Steelers Week 6 grades: Nick Herbig and the defensive line delivered at Tampa Bay](https://www.post-gazette.com/sports/steelers/2026/10/20/steelers-player-grades-buccaneers/stories/202610200027): Pittsburgh Post-Gazette, 2026-10-20 12:00 UTC
-- [NFL Paris game still on despite France riots, league says](https://www.newsnationnow.com/us-news/sports/nfl-paris-game-france-riots-pittsburgh-steelers-new-orleans-saints/): NewsNation, 2026-10-20 11:38 UTC
 - [4 Steelers standouts from their overtime victory over the Buccaneers](https://stillcurtain.com/4-pittsburgh-steelers-standouts-from-their-overtime-victory-over-the-buccaneers-01m5b8avetkk?utm_source=RSS): Still Curtain, 2026-10-20 11:00 UTC
 - [Steelers' Jalen Ramsey Is Not the Same Player Anymore - And That's Great News](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-jalen-ramsey-not-same-player-anymore-great-news): All Steelers (Sports Illustrated), 2026-10-20 11:00 UTC
 - [First Call: Steelers reportedly signing Marquez Valdes-Scantling; a theory on Chris Boswell’s FG miss dismissed](https://triblive.com/sports/first-call-steelers-reportedly-signing-marquez-valdes-scantling-a-theory-on-chris-boswells-fg-miss-dismissed/): TribLive, 2026-10-20 10:08 UTC
