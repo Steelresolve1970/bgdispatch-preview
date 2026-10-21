@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-21T19:57:35.937498+00:00",
- "count": 149,
+ "generated": "2026-10-21T20:08:20.546058+00:00",
+ "count": 150,
  "sources": [
   {
    "source": "Steelers Depot",
@@ -29,8 +29,8 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
-   "steelers_items": 0
+   "status": "ok",
+   "steelers_items": 24
   },
   {
    "source": "Still Curtain",
@@ -72,7 +72,7 @@
    "source": "Yahoo Sports",
    "url": "https://sports.yahoo.com/nfl/rss/",
    "status": "ok",
-   "steelers_items": 2
+   "steelers_items": 1
   },
   {
    "source": "Google News",
@@ -84,7 +84,7 @@
    "source": "PennLive (Nick Farabaugh)",
    "url": "https://www.pennlive.com/arc/outboundfeeds/rss/author/nfarabaugh/?outputType=xml",
    "status": "ok",
-   "steelers_items": 22
+   "steelers_items": 23
   },
   {
    "source": "Steelers.com (official)",
@@ -106,6 +106,30 @@
   }
  ],
  "items": [
+  {
+   "title": "\"It's A Lot\": Steelers' Troy Fautanu Gets Honest About Move To Left Tackle",
+   "source": "SteelerNation",
+   "link": "https://www.steelernation.com/2026/10/21/steelers-troy-fautanu-honest-tackle",
+   "published": "2026-10-21T20:02:44+00:00",
+   "summary": "News story from SteelerNation. Full report at the original publisher.",
+   "id": "a5a6419057"
+  },
+  {
+   "title": "Steelers finally make the Rayshawn Jenkins move fans wanted weeks ago",
+   "source": "Still Curtain",
+   "link": "https://stillcurtain.com/pittsburgh-steelers-finally-make-rayshawn-jenkins-roster-move-fans-wanted-01m5fq7m94f8?utm_source=RSS",
+   "published": "2026-10-21T20:00:02+00:00",
+   "summary": "News story from Still Curtain. Full report at the original publisher.",
+   "id": "b7f2765699"
+  },
+  {
+   "title": "Pittsburgh Steelers move on from former hard-hitting Jaguars safety",
+   "source": "PennLive (Nick Farabaugh)",
+   "link": "https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-move-on-from-former-hard-hitting-jaguars-safety.html",
+   "published": "2026-10-21T20:00:01+00:00",
+   "summary": "News story from PennLive (Nick Farabaugh). Full report at the original publisher.",
+   "id": "500cd44c3e"
+  },
   {
    "title": "Giants cut ties with former Steelers first round running back",
    "source": "PennLive (Nick Farabaugh)",
@@ -230,14 +254,6 @@
    "id": "559a975969"
   },
   {
-   "title": "NFL surges ahead with Saints-Steelers in Paris for their \u2018let them eat cake\u2019 moment",
-   "source": "Yahoo Sports",
-   "link": "https://sports.yahoo.com/articles/nfl-surges-ahead-saints-steelers-180000530.html",
-   "published": "2026-10-21T18:00:00+00:00",
-   "summary": "News story from Yahoo Sports. Full report at the original publisher.",
-   "id": "5efcc5724c"
-  },
-  {
    "title": "Colin Cowherd Suggests NFL Intentionally Manipulated Start Of Steelers\u2019 2026 Schedule",
    "source": "Steelers Depot",
    "link": "https://steelersdepot.com/2026/10/colin-cowherd-suggests-nfl-intentionally-manipulated-start-of-steelers-2026-schedule/",
@@ -252,15 +268,6 @@
    "published": "2026-10-21T17:40:33+00:00",
    "summary": "Game story from SteelerNation. Full report at the original publisher.",
    "id": "194369a753"
-  },
-  {
-   "title": "A new wide receiver trade rumor is picking up steam after the Steelers got an up-close look during recent matchup",
-   "source": "A to Z Sports",
-   "link": "https://atozsports.com/nfl/pittsburgh-steelers-news/steelers-wr-trade-rumors-chris-godwin-emerges-as-target-after-bucs-game/",
-   "published": "2026-10-21T17:26:53+00:00",
-   "via": "Google News",
-   "summary": "Trade/roster move story from A to Z Sports. Full report at the original publisher.",
-   "id": "00eb03c92b"
   },
   {
    "title": "Steelers Could Turn To New WR Marquez Valdes-Scantling For Help Sooner Than Expected",
@@ -387,6 +394,15 @@
    "published": "2026-10-21T16:33:46+00:00",
    "summary": "News story from Behind the Steel Curtain. Full report at the original publisher.",
    "id": "68e057aeaf"
+  },
+  {
+   "title": "NFL Insider Explains Why League 'Never' Considered Moving Steelers-Saints Game Out of Paris",
+   "source": "SportsNet Pittsburgh",
+   "link": "https://sportsnetpittsburgh.com/pittsburgh-steelers/news/nfl-insider-league-moving-steelers-saints-game-paris/78765ef42d0fe13592e4f099",
+   "published": "2026-10-21T16:33:03+00:00",
+   "via": "Google News",
+   "summary": "Game story from SportsNet Pittsburgh. Full report at the original publisher.",
+   "id": "6fd78fdc4a"
   },
   {
    "title": "Germie Bernard Gets Honest About His Critical Sunday Mistake",
@@ -536,14 +552,6 @@
    "id": "bb96c631b7"
   },
   {
-   "title": "Steelers Can Now Target Former Ravens Wide Receiver In Potential Surprising Move",
-   "source": "SteelerNation",
-   "link": "https://www.steelernation.com/2026/10/21/steelers-now-target-ravens",
-   "published": "2026-10-21T14:58:36+00:00",
-   "summary": "News story from SteelerNation. Full report at the original publisher.",
-   "id": "9ed2978f4a"
-  },
-  {
    "title": "DB\u2019s Steelers Film Room: Jamel Dean Saves the Day in Tampa",
    "source": "Steelers Now",
    "link": "https://steelersnow.com/dbs-steelers-film-room-jamel-dean-saves-the-day-in-tampa/",
@@ -674,6 +682,14 @@
    "published": "2026-10-21T12:15:56+00:00",
    "summary": "Opinion story from Steelers Depot. Full report at the original publisher.",
    "id": "d7577e1135"
+  },
+  {
+   "title": "Steelers have more than international travel to worry about against the Saints",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/21/steelers-have-more-than-international-travel-to-worry-about-against-the-saints/",
+   "published": "2026-10-21T12:15:47+00:00",
+   "summary": "News story from Steel City Underground. Full report at the original publisher.",
+   "id": "dd96e02d3b"
   },
   {
    "title": "Beat Writers Debate What Role Marquez Valdes-Scantling Will Play, And When",
@@ -838,15 +854,6 @@
    "id": "742ddb75b5"
   },
   {
-   "title": "Steelers Have Obvious Solution to Third Down Struggles",
-   "source": "All Steelers (Sports Illustrated)",
-   "link": "https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-obvious-solution-third-down-struggles",
-   "published": "2026-10-20T21:30:00+00:00",
-   "summary": "News story from All Steelers (Sports Illustrated). Full report at the original publisher.",
-   "via": "Google News",
-   "id": "d95045be6a"
-  },
-  {
    "title": "Cam Heyward Once Again Elected to Esteemed Post for Steelers",
    "source": "Steelers Now",
    "link": "https://steelersnow.com/cam-heyward-once-again-elected-to-esteemed-post-for-steelers/",
@@ -969,6 +976,14 @@
    "id": "38796afb44"
   },
   {
+   "title": "Steelers Surprises: Unexpected heroes emerge in overtime comeback against Buccaneers",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/20/steelers-surprises-unexpected-heroes-emerge-in-overtime-comeback-against-buccaneers/",
+   "published": "2026-10-20T14:49:26+00:00",
+   "summary": "News story from Steel City Underground. Full report at the original publisher.",
+   "id": "5f3153e761"
+  },
+  {
    "title": "Week 7 odds: Steelers open as slight favorites vs. Saints",
    "source": "Behind the Steel Curtain",
    "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-odds/176592/week-7-odds-steelers-open-as-slight-favorites-vs-saints",
@@ -991,6 +1006,15 @@
    "published": "2026-10-20T14:00:02+00:00",
    "summary": "News story from Still Curtain. Full report at the original publisher.",
    "id": "8b2fc04a4e"
+  },
+  {
+   "title": "NFL Paris 2026: New Orleans Saints vs Pittsburgh Steelers game 'all systems go' despite riots in French capital",
+   "source": "Sky Sports",
+   "link": "https://www.skysports.com/nfl/news/13601317/nfl-paris-2026-new-orleans-saints-vs-pittsburgh-steelers-game-all-systems-go-despite-riots-in-french-capital",
+   "published": "2026-10-20T13:47:38+00:00",
+   "via": "Google News",
+   "summary": "Game story from Sky Sports. Full report at the original publisher.",
+   "id": "4d57d7896c"
   },
   {
    "title": "Mark Madden: Steelers fans should embrace comeback win, not nitpick Mike McCarthy\u2019s mistakes",
@@ -1056,6 +1080,14 @@
    "published": "2026-10-20T12:00:00+00:00",
    "summary": "Opinion story from Pittsburgh Post-Gazette. Full report at the original publisher.",
    "id": "c170b3e653"
+  },
+  {
+   "title": "Plays of the Game: Germie Bernard scores first NFL touchdown to lift Steelers past Buccaneers",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/20/plays-of-the-game-germie-bernard-scores-first-nfl-touchdown-to-lift-steelers-past-buccaneers/",
+   "published": "2026-10-20T11:47:58+00:00",
+   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
+   "id": "ff47dfcfd1"
   },
   {
    "title": "4 Steelers standouts from their overtime victory over the Buccaneers",
@@ -1300,32 +1332,7 @@
    "published": "2026-10-19T16:30:00+00:00",
    "summary": "News story from Pittsburgh Post-Gazette. Full report at the original publisher.",
    "id": "cb5e385ab9"
-  },
-  {
-   "title": "Pittsburgh Steelers lose key cornerback to hamstring injury",
-   "source": "PennLive (Nick Farabaugh)",
-   "link": "https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-lose-key-cornerback-to-injury.html",
-   "published": "2026-10-19T16:16:25+00:00",
-   "summary": "Injury story from PennLive (Nick Farabaugh). Full report at the original publisher.",
-   "id": "26d8e29a34"
-  },
-  {
-   "title": "Steelers\u2019 winning ways are hiding a troubling Chris Boswell problem",
-   "source": "Still Curtain",
-   "link": "https://stillcurtain.com/pittsburgh-steelers-winning-ways-hiding-troubling-chris-boswell-problem-01m5a2ekha59?utm_source=RSS",
-   "published": "2026-10-19T16:00:02+00:00",
-   "summary": "Game story from Still Curtain. Full report at the original publisher.",
-   "id": "50609f1d4f"
-  },
-  {
-   "title": "Where Steelers Stand in AFC North After Huge Comeback Win",
-   "source": "All Steelers (Sports Illustrated)",
-   "link": "https://www.si.com/nfl/steelers/onsi/where-pittsburgh-steelers-stand-afc-north-huge-comeback-win",
-   "published": "2026-10-19T16:00:00+00:00",
-   "summary": "Game story from All Steelers (Sports Illustrated). Full report at the original publisher.",
-   "via": "Google News",
-   "id": "21f0831b23"
   }
  ],
- "dropped_bad_links": 1
+ "dropped_bad_links": 0
 }
