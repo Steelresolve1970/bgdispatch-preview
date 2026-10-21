@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-21T04:26:54+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T04:26:37+00:00._
+_Generated 2026-10-21T04:38:35+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T04:38:19+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [The Scho Bro Show: The familiarity of the Steelers unfamiliar win](https://podcasts.apple.com/us/podcast/id905962218): Steel Curtain Network (BTSC), 2026-10-21 02:55 UTC
@@ -137,7 +137,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [DK's Daily Shot of Steelers: Ten things I'd like to see](https://podcasts.apple.com/us/podcast/dks-daily-shot-of-steelers-ten-things-id-like-to-see/id1072021022?i=1000796623164): DK Pittsburgh Sports, 2026-10-16 05:08 UTC
 - Podcast: [Scout’s Eye with Matt Williamson: Tougher than they look](https://podcasts.apple.com/us/podcast/scouts-eye-with-matt-williamson-tougher-than-they-look/id1072021022?i=1000796607010): DK Pittsburgh Sports, 2026-10-16 05:06 UTC
 - Video: [Steelers Need Mike McCarthy to Overcome Lack of Separation of WRs DK Metcalf, Germie Bernard](https://www.youtube.com/watch?v=N1WprZaEpWI): Locked On Steelers, 2026-10-16 05:00 UTC
-- Podcast: [Steelers Need Mike McCarthy to Overcome Lack of Separation of WRs DK Metcalf, Germie Bernard](https://podcasts.apple.com/us/podcast/steelers-need-mike-mccarthy-to-overcome-lack-of/id1140522532?i=1000796596907): Locked On Steelers, 2026-10-16 04:30 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

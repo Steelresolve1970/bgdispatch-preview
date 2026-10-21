@@ -1,8 +1,10 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-21T04:26:54+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T04:26:48+00:00._
+_Generated 2026-10-21T04:38:35+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T04:38:29+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
+- **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
+  [Trade Rumors: 49ers, Mack, Godwin, Bucs, Steelers, Bills, Bennett, Rams](https://www.yardbarker.com/nfl/articles/trade_rumors_49ers_mack_godwin_bucs_steelers_bills_bennett_rams/s1_14819_44453789): Yardbarker, first seen 2026-10-21 04:38 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [Aaron Rodgers Reportedly Has ‘Favorite’ WR Trade Target](https://heavy.com/sports/nfl/pittsburgh-steelers/aaron-rodgers-favorite-wr-trade-target/): Heavy.com, first seen 2026-10-21 00:34 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog

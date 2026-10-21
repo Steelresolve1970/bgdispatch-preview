@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-21T04:26:37.731390+00:00",
+ "generated": "2026-10-21T04:38:19.070096+00:00",
  "date_et": "2026-10-21",
  "days": 5,
  "display_days": 2,
- "count": 135,
+ "count": 134,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -11,17 +11,17 @@
    "url": "https://rss.pdrl.fm/cd1f3b/feeds.simplecast.com/y_l5uReM",
    "status": "ok",
    "episodes": 500,
-   "week": 4,
+   "week": 3,
    "latest": "2026-10-20T06:00:00+00:00"
   },
   {
    "show": "Locked On Steelers",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7JorgD8nGLtvvMy1ogFetg",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 8,
-   "latest": "2026-10-20T22:54:40+00:00"
+   "latest": null
   },
   {
    "show": "The Terrible Podcast (Steelers Depot)",
@@ -90,19 +90,19 @@
    "show": "Steel City Underground",
    "kind": "podcast",
    "url": "https://feeds.feedburner.com/steelcityunderground",
-   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 45,
    "week": 1,
-   "latest": null
+   "latest": "2026-10-19T19:40:55+00:00"
   },
   {
    "show": "Steel City Underground",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDcNNAMkYr-DzH6_XL-0p8Q",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 1,
-   "latest": "2026-10-19T20:01:57+00:00"
+   "latest": null
   },
   {
    "show": "Steelers Afternoon Drive",
@@ -216,10 +216,10 @@
    "show": "Not Just Football with Cam Heyward",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8hodyaoiw297aspKf9QVDA",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 6,
-   "latest": "2026-10-20T16:00:08+00:00"
+   "latest": null
   },
   {
    "show": "Footbahlin with Ben Roethlisberger",
@@ -1321,14 +1321,6 @@
    "link": "https://www.youtube.com/watch?v=N1WprZaEpWI",
    "published": "2026-10-16T05:00:10+00:00",
    "summary": "Video from Locked On Steelers."
-  },
-  {
-   "title": "Steelers Need Mike McCarthy to Overcome Lack of Separation of WRs DK Metcalf, Germie Bernard",
-   "show": "Locked On Steelers",
-   "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/steelers-need-mike-mccarthy-to-overcome-lack-of/id1140522532?i=1000796596907",
-   "published": "2026-10-16T04:30:00+00:00",
-   "summary": "Podcast episode from Locked On Steelers."
   }
  ],
  "yt_channels": [
