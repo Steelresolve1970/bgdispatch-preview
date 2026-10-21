@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-21T01:19:17.075898+00:00",
+ "last_run": "2026-10-21T01:30:48.288586+00:00",
  "results": [
   {
    "fetcher": "apply_grade_edits.py",
@@ -10,7 +10,7 @@
   {
    "fetcher": "fetch_news.py",
    "ok": true,
-   "seconds": 9.0,
+   "seconds": 2.0,
    "last_line": "news: 150 ticker: 30"
   },
   {
@@ -34,20 +34,20 @@
   {
    "fetcher": "fetch_insiders.py",
    "ok": true,
-   "seconds": 1.5,
+   "seconds": 2.0,
    "last_line": "sidebar: 6 full feed: 36"
   },
   {
    "fetcher": "fetch_film.py",
    "ok": true,
-   "seconds": 35.0,
+   "seconds": 36.5,
    "last_line": "  Week 1 vs Falcons (W 20-13): 4   {'Steelers Depot Film Room (Alex Kozora)': 1, \"Derrick Bell \u2013 DB's Film Room (Steelers Now)\": 1, 'Steelers Almighty': 1, 'Steelers Depot (YouTube)': 1}"
   },
   {
    "fetcher": "fetch_podcasts.py",
    "ok": true,
-   "seconds": 21.5,
-   "last_line": "episodes past 5 days: 135 | embed-fallback channels: 1 | post-game: 0"
+   "seconds": 20.5,
+   "last_line": "episodes past 5 days: 135 | embed-fallback channels: 0 | post-game: 0"
   },
   {
    "fetcher": "fetch_featured.py",
@@ -113,7 +113,7 @@
    "fetcher": "fetch_hub.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "injuries 16 practice 0 opp NO"
+   "last_line": "hub fresh (<30 min); skipped"
   },
   {
    "fetcher": "fetch_matchup.py",
@@ -173,13 +173,13 @@
    "fetcher": "fetch_quotes.py",
    "ok": true,
    "seconds": 1.0,
-   "last_line": "quotes: 8 kept from 123 articles"
+   "last_line": "quotes: 7 kept from 125 articles"
   },
   {
    "fetcher": "build_machine.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "machine layer: {'news': 150, 'rumors': 55, 'injuries': 16, 'depth-chart': 28, 'schedule': 17, 'stats': 62, 'grades': 40, 'college': 20, 'insiders': 36, 'podcasts': 135, 'film': 18, 'draft': 521} md 13 feeds 5 jsonld 14"
+   "last_line": "machine layer: {'news': 150, 'rumors': 55, 'injuries': 16, 'depth-chart': 28, 'schedule': 17, 'stats': 62, 'grades': 40, 'college': 20, 'insiders': 36, 'podcasts': 135, 'film': 17, 'draft': 521} md 13 feeds 5 jsonld 14"
   }
  ]
 }
