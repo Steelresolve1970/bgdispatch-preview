@@ -1,8 +1,10 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-21T17:24:26+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T17:24:21+00:00._
+_Generated 2026-10-21T17:35:22+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T17:35:05+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
+- **Rumor** · tier: Aggregator / other · consensus: 10 source(s), top tier National insider
+  [A new wide receiver trade rumor is picking up steam after the Steelers got an up-close look during recent matchup](https://atozsports.com/nfl/pittsburgh-steelers-news/steelers-wr-trade-rumors-chris-godwin-emerges-as-target-after-bucs-game/): A to Z Sports, first seen 2026-10-21 17:35 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 4 source(s), top tier National insider
   [Steelers Must Avoid This Veteran WR Trade Target](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-must-avoid-veteran-trade-target-chris-godwin): All Steelers (Sports Illustrated), first seen 2026-10-21 15:05 UTC
 - **Rumor** · tier: National insider · consensus: 4 source(s), top tier National insider
