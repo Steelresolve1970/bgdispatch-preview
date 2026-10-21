@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-21T10:07:15+00:00",
- "data_updated": "2026-10-21T10:06:58+00:00",
- "count": 132,
+ "generated": "2026-10-21T11:11:02+00:00",
+ "data_updated": "2026-10-21T11:10:45+00:00",
+ "count": 128,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -267,11 +267,11 @@
    }
   },
   {
-   "id": "28bc10f4e7b5c335",
+   "id": "27beb0111ffa1a1a",
    "type": "podcast_episode",
    "title": "Steelers Crazy #300 - Saints Vs Steelers In Paris",
    "show": "The Sick Podcast - Steelers Crazy",
-   "url": "https://anchor.fm/the-sick-podcast---steelers-crazy",
+   "url": "https://podcasts.apple.com/us/podcast/steelers-crazy-300-saints-vs-steelers-in-paris/id1640291008?i=1000797311768",
    "published": "2026-10-20T19:12:00+00:00",
    "summary": "Podcast episode from The Sick Podcast - Steelers Crazy.",
    "source": {
@@ -536,19 +536,6 @@
    "summary": "Podcast episode from DK Pittsburgh Sports.",
    "source": {
     "name": "DK Pittsburgh Sports",
-    "url": null
-   }
-  },
-  {
-   "id": "819f85e70c4b2c6e",
-   "type": "podcast_episode",
-   "title": "Steelers' Mike McCarthy Must Lean More on Jaylen Warren, Under Center Offense to Fix 3rd Down Issues",
-   "show": "Locked On Steelers",
-   "url": "https://podcasts.apple.com/us/podcast/steelers-mike-mccarthy-must-lean-more-on-jaylen-warren/id1140522532?i=1000797209848",
-   "published": "2026-10-20T06:00:00+00:00",
-   "summary": "Podcast episode from Locked On Steelers.",
-   "source": {
-    "name": "Locked On Steelers",
     "url": null
    }
   },
@@ -1060,19 +1047,6 @@
    }
   },
   {
-   "id": "83de535e6f907522",
-   "type": "podcast_episode",
-   "title": "Steelers WRs Germie Bernard, DK Metcalf Find Chemistry w/Aaron Rodgers in Time to Beat Buccaneers",
-   "show": "Locked On Steelers",
-   "url": "https://podcasts.apple.com/us/podcast/steelers-wrs-germie-bernard-dk-metcalf-find-chemistry/id1140522532?i=1000797007681",
-   "published": "2026-10-19T04:00:00+00:00",
-   "summary": "Podcast episode from Locked On Steelers.",
-   "source": {
-    "name": "Locked On Steelers",
-    "url": null
-   }
-  },
-  {
    "id": "740f79f0a71fed1a",
    "type": "video",
    "title": "Germie Bernard, Jamel Dean & DK Metcalf on win at Buccaneers | Press Pass | Pittsburgh Steelers",
@@ -1134,19 +1108,6 @@
    "summary": "Podcast episode from Steelers Afternoon Drive.",
    "source": {
     "name": "Steelers Afternoon Drive",
-    "url": null
-   }
-  },
-  {
-   "id": "5d4c52c7d10bc6d0",
-   "type": "podcast_episode",
-   "title": "STEELERS SQUAD SHOW: McCarthy ROLLS Ankle, Steelers Big COMEBACK Leads To 1st Road Win In OT",
-   "show": "Locked On Steelers",
-   "url": "https://podcasts.apple.com/us/podcast/steelers-squad-show-mccarthy-rolls-ankle-steelers-big/id1140522532?i=1000796979708",
-   "published": "2026-10-18T22:38:37+00:00",
-   "summary": "Podcast episode from Locked On Steelers.",
-   "source": {
-    "name": "Locked On Steelers",
     "url": null
    }
   },
@@ -1719,19 +1680,6 @@
    "summary": "Podcast episode from SNR Drive.",
    "source": {
     "name": "SNR Drive",
-    "url": null
-   }
-  },
-  {
-   "id": "4fd9fe3bbef29c88",
-   "type": "podcast_episode",
-   "title": "Steelers WR Outlook: Who Replaces Roman Wilson?",
-   "show": "All Steelers Talk",
-   "url": "https://podcasts.apple.com/us/podcast/steelers-wr-outlook-who-replaces-roman-wilson/id1627248534?i=1000796645773",
-   "published": "2026-10-16T10:27:00+00:00",
-   "summary": "Podcast episode from All Steelers Talk.",
-   "source": {
-    "name": "All Steelers Talk",
     "url": null
    }
   }
