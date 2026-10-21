@@ -1,6 +1,6 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-21T15:27:44+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T15:27:38+00:00._
+_Generated 2026-10-21T15:38:41+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T15:38:35+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
 - **Rumor** · tier: Aggregator / other · consensus: 3 source(s), top tier National insider
@@ -19,6 +19,8 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Aaron Rodgers Reportedly Has ‘Favorite’ WR Trade Target](https://heavy.com/sports/nfl/pittsburgh-steelers/aaron-rodgers-favorite-wr-trade-target/): Heavy.com, first seen 2026-10-21 00:34 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Steelers Rumors: Could Davante Adams Be a Trade Target?](https://www.chatsports.com/pittsburgh-steelers/a/steelers-rumors-could-davante-adams-be-trade-target-53435): Chat Sports, first seen 2026-10-21 00:05 UTC
+- **Rumor** · tier: Fan blog · consensus: 2 source(s), top tier Fan blog
+  [Steelers Linked To A Slew Of All-Pros With Trade Deadline Quickly Approaching](https://www.steelernation.com/2026/10/20/steelers-trade-deadline-quickly): Steeler Nation, first seen 2026-10-21 15:38 UTC
 - **Rumor** · tier: Fan blog · consensus: 2 source(s), top tier Fan blog
   [Steelers Linked To A Slew Of All-Pros With Trade Deadline Quickly Approaching](https://www.steelernation.com/2026/10/20/steelers-trade-deadline-quickly): SteelerNation, first seen 2026-10-20 23:11 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 10 source(s), top tier National insider

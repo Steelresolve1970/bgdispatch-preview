@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T15:27:38.683593+00:00",
+ "generated": "2026-10-21T15:38:35.917774+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -313,6 +313,37 @@
    "updated": "2026-10-21T00:05:28.420577+00:00"
   },
   {
+   "id": "39cb62c3b9ca",
+   "title": "Steelers Linked To A Slew Of All-Pros With Trade Deadline Quickly Approaching",
+   "source": "Steeler Nation",
+   "link": "https://www.steelernation.com/2026/10/20/steelers-trade-deadline-quickly",
+   "published": "2026-10-20T23:14:22+00:00",
+   "summary": "Rumor-style report from Steeler Nation on a Steelers roster move. Full details at the source.",
+   "tier": "Fan blog",
+   "tier_score": 2,
+   "subjects": [],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-21T15:38:35.917774+00:00",
+   "consensus": {
+    "cluster_id": "05c9cabecb81",
+    "independent_sources": 2,
+    "sources": [
+     "Steeler Nation",
+     "SteelerNation"
+    ],
+    "highest_tier": "Fan blog",
+    "highest_tier_score": 2,
+    "related_ids": [
+     "33136c96597c",
+     "290cc538b506",
+     "05c9cabecb81"
+    ]
+   },
+   "updated": "2026-10-21T15:38:35.917774+00:00"
+  },
+  {
    "id": "33136c96597c",
    "title": "Steelers Linked To A Slew Of All-Pros With Trade Deadline Quickly Approaching",
    "source": "SteelerNation",
@@ -336,6 +367,7 @@
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
     "related_ids": [
+     "39cb62c3b9ca",
      "290cc538b506",
      "05c9cabecb81"
     ]
@@ -1467,6 +1499,7 @@
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
     "related_ids": [
+     "39cb62c3b9ca",
      "33136c96597c",
      "05c9cabecb81"
     ]
@@ -1497,6 +1530,7 @@
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
     "related_ids": [
+     "39cb62c3b9ca",
      "33136c96597c",
      "290cc538b506"
     ]
