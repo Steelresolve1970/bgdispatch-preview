@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-21T03:24:33+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T03:23:18+00:00._
+_Generated 2026-10-21T03:36:02+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T03:34:46+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Wide receiver-needy Steelers bring back veteran Marquez Valdes-Scantling](https://www.washingtonpost.com/sports/nfl/2026/10/20/pittsburgh-steelers/495d684a-ccd2-11f1-ac04-9f58578a68b4_story.html): The Washington Post, 2026-10-21 02:42 UTC
@@ -17,6 +17,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers-Browns Game Not Flexed to Prime Time](https://steelersnow.com/steelers-browns-game-not-flexed-to-prime-time/): Steelers Now, 2026-10-20 23:07 UTC
 - [AFC Team Shows Interest in Former Steelers Wide Receiver](https://steelersnow.com/afc-team-shows-interest-in-former-steelers-wide-receiver/): Steelers Now, 2026-10-20 23:00 UTC
 - [‘This Is Not What We Do’: Roethlisberger Shares Take On McCarthy’s Late-Game Decisions](https://steelersdepot.com/2026/10/this-is-not-what-we-do-roethlisberger-shares-take-on-mccarthys-late-game-decisions/): Steelers Depot, 2026-10-20 23:00 UTC
+- [Steelers sign veteran receiver Marquez Valdes-Scantling to practice squad](https://triblive.com/sports/steelers-sign-veteran-receiver-marquez-valdes-scantling-to-practice-squad/): TribLive, 2026-10-20 22:57 UTC
 - [Could Steelers Snatch Pro Bowl WR From Latest Opponent?](https://steelersnow.com/could-steelers-snatch-pro-bowl-wr-from-latest-opponent/): Steelers Now, 2026-10-20 22:54 UTC
 - [Former Steelers Coach Reveals Important Truth About NFL Halftime Adjustments](https://www.steelernation.com/2026/10/20/steelers-important-halftime-adjustments): SteelerNation, 2026-10-20 22:44 UTC
 - [Orlovsky Explains One Area Where Steelers’ Offense Shows ‘Uptick In Creativity’](https://steelersdepot.com/2026/10/orlovsky-explains-one-area-where-steelers-offense-shows-uptick-in-creativity/): Steelers Depot, 2026-10-20 22:30 UTC
@@ -34,6 +35,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [NFL: Pittsburgh Steelers at Buffalo Bills](https://lufkindailynews.com/news_reuters/sports/nfl-pittsburgh-steelers-at-buffalo-bills/image_7d372a4a-5cfc-50a0-a6ac-a536365a3948.html): The Lufkin Daily News, 2026-10-20 20:47 UTC
 - [‘Exactly What He’s Made For’: Chris Simms Calls Germie Bernard His ‘Rookie Of The Week’](https://steelersdepot.com/2026/10/exactly-what-hes-made-for-chris-simms-calls-germie-bernard-his-rookie-of-the-week/): Steelers Depot, 2026-10-20 20:45 UTC
 - [Steelers Player’s Wife Questions Making Trip to Paris](https://steelersnow.com/steelers-players-wife-questions-making-trip-to-paris/): Steelers Now, 2026-10-20 20:33 UTC
+- [Looking at Saints-Steelers history leading into historic Paris matchup](https://saintswire.usatoday.com/story/sports/nfl/saints/2026/10/20/saints-steelers-history-record-nfl-paris-game/92349529007/): Saints Wire, 2026-10-20 20:33 UTC
 - [‘It Confuses, Confounds, Flabbergasts’: Trai Essex Frustrated With Steelers’ Week 6 Usage Of Jaylen Warren](https://steelersdepot.com/2026/10/it-confuses-confounds-flabbergasts-trai-essex-frustrated-with-steelers-week-6-usage-of-jaylen-warren/): Steelers Depot, 2026-10-20 20:30 UTC
 - [Steelers Week 7 power rankings roundup: Starting to believe yet?](https://www.behindthesteelcurtain.com/pittsburgh-steelers-power-rankings/176618/steelers-week-7-power-rankings-roundup-starting-to-believe-yet): Behind the Steel Curtain, 2026-10-20 20:27 UTC
 - [Pittsburgh Steelers sign wide receiver with Aaron Rodgers ties](https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-sign-wide-receiver-with-aaron-rodgers-ties.html): PennLive (Nick Farabaugh), 2026-10-20 20:18 UTC
@@ -151,8 +153,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [The NFL says the Steelers’ game in Paris is still on despite civil unrest](https://www.post-gazette.com/sports/steelers/2026/10/18/nfl-steelers-saints-game-paris-civil-unrest-france/stories/202610180091): Pittsburgh Post-Gazette, 2026-10-19 01:14 UTC
 - [From the Press Room: Steelers at Buccaneers](https://www.steelers.com/news/from-the-press-room-steelers-at-buccaneers): Steelers.com (official), 2026-10-19 00:40 UTC
 - [Steelers rookie Germie Bernard makes up for an early mistake by catching the OT winner](https://www.post-gazette.com/sports/steelers/2026/10/18/germie-bernard-overtime-touchdown-steelers/stories/202610180076): Pittsburgh Post-Gazette, 2026-10-19 00:18 UTC
-- [Steelers kicker Chris Boswell breaks franchise record for career field goals](https://triblive.com/sports/steelers-kicker-chris-boswell-breaks-franchise-record-for-career-field-goals/): TribLive, 2026-10-19 00:13 UTC
-- [‘He’s from Pittsburgh, so he toughed it out’: Steelers coach Mike McCarthy misses halftime with foot injury](https://triblive.com/sports/hes-from-pittsburgh-so-he-toughed-it-out-steelers-coach-mike-mccarthy-misses-halftime-with-foot-injury/): TribLive, 2026-10-18 23:53 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
