@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-21T17:46:14+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T17:45:57+00:00._
+_Generated 2026-10-21T17:56:57+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T17:56:40+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Steelers vs. Saints Week 7 Preview | Aaron Rodgers Problem Brewing](https://www.youtube.com/watch?v=B0agqGjSVpU): Still Curtain Podcast, 2026-10-21 17:20 UTC

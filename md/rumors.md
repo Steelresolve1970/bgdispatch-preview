@@ -1,10 +1,12 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-21T17:46:14+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T17:46:08+00:00._
+_Generated 2026-10-21T17:56:57+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T17:56:51+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
 - **Rumor** · tier: Aggregator / other · consensus: 10 source(s), top tier National insider
   [A new wide receiver trade rumor is picking up steam after the Steelers got an up-close look during recent matchup](https://atozsports.com/nfl/pittsburgh-steelers-news/steelers-wr-trade-rumors-chris-godwin-emerges-as-target-after-bucs-game/): A to Z Sports, first seen 2026-10-21 17:35 UTC
+- **Rumor** · tier: Aggregator / other · consensus: 10 source(s), top tier National insider
+  [A new wide receiver trade rumor is picking up steam after the Steelers got an up-close look during recent matchup](https://atozsports.com/nfl/pittsburgh-steelers-news/steelers-wr-trade-rumors-chris-godwin-emerges-as-target-after-bucs-game/): A to Z Sports, first seen 2026-10-21 17:56 UTC
 - **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
   [Fantasy Football Players Need To Target Steelers WR Germie Bernard On The Trade Block](https://www.si.com/onsi/fantasy/trade-analysis/fantasy-football-players-need-to-target-steelers-wr-germie-bernard-on-the-trade-block): Sports Illustrated, first seen 2026-10-21 17:46 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 4 source(s), top tier National insider
