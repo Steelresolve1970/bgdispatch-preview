@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-21T07:10:45+00:00",
- "data_updated": "2026-10-21T07:10:15+00:00",
- "count": 133,
+ "generated": "2026-10-21T08:06:16+00:00",
+ "data_updated": "2026-10-21T08:05:59+00:00",
+ "count": 132,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -19,6 +19,19 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/podcasts",
  "items": [
+  {
+   "id": "dd3008860aec9a40",
+   "type": "podcast_episode",
+   "title": "Let's Ride: Know Your Steelers Enemy, Week 7 vs. the Saints",
+   "show": "Steel Curtain Network (BTSC)",
+   "url": "https://podcasts.apple.com/us/podcast/id905962218",
+   "published": "2026-10-21T08:00:00+00:00",
+   "summary": "Podcast episode from Steel Curtain Network (BTSC).",
+   "source": {
+    "name": "Steel Curtain Network (BTSC)",
+    "url": null
+   }
+  },
   {
    "id": "de43ec30bf5951dd",
    "type": "video",
@@ -48,26 +61,13 @@
   {
    "id": "7968be70b4f37758",
    "type": "podcast_episode",
-   "title": "Scout’s Eye with Matt Williamson: All the Rodgersesque things",
+   "title": "DK's Daily Shot of Steelers: Let ‘em all loose!",
    "show": "DK Pittsburgh Sports",
    "url": "https://podcasts.apple.com/us/podcast/id1072021022",
-   "published": "2026-10-21T05:34:00+00:00",
+   "published": "2026-10-21T05:37:00+00:00",
    "summary": "Podcast episode from DK Pittsburgh Sports.",
    "source": {
     "name": "DK Pittsburgh Sports",
-    "url": null
-   }
-  },
-  {
-   "id": "dd3008860aec9a40",
-   "type": "podcast_episode",
-   "title": "The Scho Bro Show: The familiarity of the Steelers unfamiliar win",
-   "show": "Steel Curtain Network (BTSC)",
-   "url": "https://podcasts.apple.com/us/podcast/id905962218",
-   "published": "2026-10-21T02:55:00+00:00",
-   "summary": "Podcast episode from Steel Curtain Network (BTSC).",
-   "source": {
-    "name": "Steel Curtain Network (BTSC)",
     "url": null
    }
   },
@@ -1732,19 +1732,6 @@
    "summary": "Podcast episode from The Arthur Moats Experience.",
    "source": {
     "name": "The Arthur Moats Experience",
-    "url": null
-   }
-  },
-  {
-   "id": "ac38d1c81a73c1f1",
-   "type": "podcast_episode",
-   "title": "Let's Ride: Steelers Keys to Victory vs. the Buccaneers, Week 6",
-   "show": "Steel Curtain Network (BTSC)",
-   "url": "https://podcasts.apple.com/us/podcast/lets-ride-steelers-keys-to-victory-vs-the-buccaneers-week-6/id905962218?i=1000796621954",
-   "published": "2026-10-16T08:00:00+00:00",
-   "summary": "Podcast episode from Steel Curtain Network (BTSC).",
-   "source": {
-    "name": "Steel Curtain Network (BTSC)",
     "url": null
    }
   }

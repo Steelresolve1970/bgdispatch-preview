@@ -1,12 +1,12 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-21T07:10:45+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T07:10:15+00:00._
+_Generated 2026-10-21T08:06:16+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T08:05:59+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Podcast: [Let's Ride: Know Your Steelers Enemy, Week 7 vs. the Saints](https://podcasts.apple.com/us/podcast/id905962218): Steel Curtain Network (BTSC), 2026-10-21 08:00 UTC
 - Video: [Steelers' Chameleon Defensive Scheme w/Patrick Graham Aids Weekly Adjustments | DeShon Elliott Back?](https://www.youtube.com/watch?v=2tQov8n-Txw): Locked On Steelers, 2026-10-21 06:00 UTC
 - Podcast: [Steelers' Chameleon Defensive Scheme w/Patrick Graham Aids Weekly Adjustments | DeShon Elliott Back?](https://lockedonpodcasts.com/podcasts/locked-on-steelers/): Locked On Steelers, 2026-10-21 06:00 UTC
-- Podcast: [Scout’s Eye with Matt Williamson: All the Rodgersesque things](https://podcasts.apple.com/us/podcast/id1072021022): DK Pittsburgh Sports, 2026-10-21 05:34 UTC
-- Podcast: [The Scho Bro Show: The familiarity of the Steelers unfamiliar win](https://podcasts.apple.com/us/podcast/id905962218): Steel Curtain Network (BTSC), 2026-10-21 02:55 UTC
+- Podcast: [DK's Daily Shot of Steelers: Let ‘em all loose!](https://podcasts.apple.com/us/podcast/id1072021022): DK Pittsburgh Sports, 2026-10-21 05:37 UTC
 - Podcast: [Paris Under Pressure: Steelers Prepare for NFL First During Unrest Abroad](http://www.pennlive.com/steelers/): Steelers Breakdown (PennLive, Nick Farabaugh), 2026-10-21 00:03 UTC
 - Video: [Poetry in motion 📺: #PITvsNO 10/25 at 9:30 AM ET on NFLN](https://www.youtube.com/shorts/bVYdjuYYbHw): Pittsburgh Steelers (official), 2026-10-20 23:33 UTC
 - Video: [Steelers Vs Saints Thoughts & Predictions | SNR Drive (Oct.20) | Pittsburgh Steelers](https://www.youtube.com/watch?v=PKD5RscDaPI): Pittsburgh Steelers (official), 2026-10-20 23:00 UTC
@@ -135,7 +135,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Elandon Roberts on Returning to the Steelers, Super Bowl Memories & More! | Not Just Football](https://www.youtube.com/watch?v=AE8wB5uMrH4): Not Just Football with Cam Heyward, 2026-10-16 10:00 UTC
 - Podcast: [Elandon Roberts on Returning to the Steelers, Super Bowl Memories & More! | Not Just Football](https://podcasts.apple.com/us/podcast/elandon-roberts-on-returning-to-the-steelers-super/id1633134223?i=1000796640774): Not Just Football with Cam Heyward, 2026-10-16 10:00 UTC
 - Podcast: [NFL Week 6 Predictions/Pittsburgh Steelers](https://arthurmoats55.libsyn.com/the_arthur_moats_experience__ep_778__live___steelers_gabriel_rubio_nfl_week_6_predictions_mp3): The Arthur Moats Experience, 2026-10-16 09:52 UTC
-- Podcast: [Let's Ride: Steelers Keys to Victory vs. the Buccaneers, Week 6](https://podcasts.apple.com/us/podcast/lets-ride-steelers-keys-to-victory-vs-the-buccaneers-week-6/id905962218?i=1000796621954): Steel Curtain Network (BTSC), 2026-10-16 08:00 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
