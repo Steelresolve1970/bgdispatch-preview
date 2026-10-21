@@ -1,17 +1,17 @@
 {
- "last_run": "2026-10-21T14:54:34.130947+00:00",
+ "last_run": "2026-10-21T15:05:53.724267+00:00",
  "results": [
   {
    "fetcher": "apply_grade_edits.py",
    "ok": true,
-   "seconds": 1.0,
+   "seconds": 1.5,
    "last_line": "no grade edits"
   },
   {
    "fetcher": "fetch_news.py",
    "ok": true,
-   "seconds": 2.0,
-   "last_line": "news: 150 ticker: 30"
+   "seconds": 7.0,
+   "last_line": "news: 149 ticker: 30"
   },
   {
    "fetcher": "fetch_schedule.py",
@@ -28,7 +28,7 @@
   {
    "fetcher": "build_boxscores.py",
    "ok": true,
-   "seconds": 2.0,
+   "seconds": 2.5,
    "last_line": "boxscores 6"
   },
   {
@@ -40,14 +40,14 @@
   {
    "fetcher": "fetch_film.py",
    "ok": true,
-   "seconds": 3.0,
+   "seconds": 3.5,
    "last_line": "  Week 1 vs Falcons (W 20-13): 4   {'Steelers Depot Film Room (Alex Kozora)': 1, \"Derrick Bell \u2013 DB's Film Room (Steelers Now)\": 1, 'Steelers Almighty': 1, 'Steelers Depot (YouTube)': 1}"
   },
   {
    "fetcher": "fetch_podcasts.py",
    "ok": true,
    "seconds": 5.5,
-   "last_line": "episodes past 5 days: 134 | embed-fallback channels: 0 | post-game: 0"
+   "last_line": "episodes past 5 days: 132 | embed-fallback channels: 0 | post-game: 0"
   },
   {
    "fetcher": "fetch_featured.py",
@@ -94,8 +94,8 @@
   {
    "fetcher": "fetch_college.py",
    "ok": true,
-   "seconds": 0.5,
-   "last_line": "college tracker fresh; skipped"
+   "seconds": 20.5,
+   "last_line": "needs 5 players 20 with news 18"
   },
   {
    "fetcher": "fetch_draft_hub.py",
@@ -118,7 +118,7 @@
   {
    "fetcher": "fetch_matchup.py",
    "ok": true,
-   "seconds": 0.5,
+   "seconds": 7.5,
    "last_line": "matchup: 2026_07_PIT_NO keys 3 picks 0"
   },
   {
@@ -142,8 +142,8 @@
   {
    "fetcher": "fetch_rumors.py",
    "ok": true,
-   "seconds": 2.5,
-   "last_line": "rumors 51 {'Rumor': 50, 'Confirmed': 0, 'Denied': 1}"
+   "seconds": 3.0,
+   "last_line": "rumors 52 {'Rumor': 51, 'Confirmed': 0, 'Denied': 1}"
   },
   {
    "fetcher": "fetch_pickem.py",
@@ -172,14 +172,14 @@
   {
    "fetcher": "fetch_quotes.py",
    "ok": true,
-   "seconds": 1.5,
-   "last_line": "quotes: 7 kept from 130 articles"
+   "seconds": 1.0,
+   "last_line": "quotes: 6 kept from 129 articles"
   },
   {
    "fetcher": "build_machine.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "machine layer: {'news': 150, 'rumors': 51, 'injuries': 16, 'depth-chart': 28, 'schedule': 17, 'stats': 62, 'grades': 40, 'college': 20, 'insiders': 30, 'podcasts': 132, 'film': 20, 'draft': 521} md 13 feeds 5 jsonld 14"
+   "last_line": "machine layer: {'news': 149, 'rumors': 52, 'injuries': 16, 'depth-chart': 28, 'schedule': 17, 'stats': 62, 'grades': 40, 'college': 20, 'insiders': 30, 'podcasts': 127, 'film': 21, 'draft': 521} md 13 feeds 5 jsonld 14"
   }
  ]
 }

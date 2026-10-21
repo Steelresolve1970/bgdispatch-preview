@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "rumors",
  "description": "Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).",
- "generated": "2026-10-21T14:54:33+00:00",
- "data_updated": "2026-10-21T14:54:27+00:00",
- "count": 51,
+ "generated": "2026-10-21T15:05:53+00:00",
+ "data_updated": "2026-10-21T15:05:47+00:00",
+ "count": 52,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -19,6 +19,40 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/rumors",
  "items": [
+  {
+   "id": "bb96c631b70b",
+   "type": "rumor",
+   "title": "Steelers Must Avoid This Veteran WR Trade Target",
+   "summary": "Trade/roster move story from All Steelers (Sports Illustrated). Full report at the original publisher.",
+   "url": "https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-must-avoid-veteran-trade-target-chris-godwin",
+   "source": {
+    "name": "All Steelers (Sports Illustrated)",
+    "url": null,
+    "reliability_tier": "Aggregator / other",
+    "reliability_score": 1
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-21T15:05:47+00:00",
+   "updated": "2026-10-21T15:05:47+00:00",
+   "published": "2026-10-21T15:00:01+00:00",
+   "people": [],
+   "consensus": {
+    "cluster_id": "7484671f5438",
+    "independent_sources": 3,
+    "sources": [
+     "All Steelers (Sports Illustrated)",
+     "Heavy.com",
+     "Yahoo Sports"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "76a89e5c6bed",
+     "7484671f5438"
+    ]
+   }
+  },
   {
    "id": "794b3684899f",
    "type": "rumor",
@@ -1572,14 +1606,16 @@
    "people": [],
    "consensus": {
     "cluster_id": "7484671f5438",
-    "independent_sources": 2,
+    "independent_sources": 3,
     "sources": [
+     "All Steelers (Sports Illustrated)",
      "Heavy.com",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "bb96c631b70b",
      "7484671f5438"
     ]
    }
@@ -1633,14 +1669,16 @@
    "people": [],
    "consensus": {
     "cluster_id": "7484671f5438",
-    "independent_sources": 2,
+    "independent_sources": 3,
     "sources": [
+     "All Steelers (Sports Illustrated)",
      "Heavy.com",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "bb96c631b70b",
      "76a89e5c6bed"
     ]
    }

@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-21T14:54:33+00:00",
- "data_updated": "2026-10-21T14:54:16+00:00",
- "count": 132,
+ "generated": "2026-10-21T15:05:53+00:00",
+ "data_updated": "2026-10-21T15:05:09+00:00",
+ "count": 127,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -22,13 +22,26 @@
   {
    "id": "7d533777079a5528",
    "type": "podcast_episode",
-   "title": "Time to Believe in One Steelers Player",
+   "title": "Steelers Big Plans at QB and WR",
    "show": "All Steelers Talk",
    "url": "https://podcasts.apple.com/us/podcast/id1627248534",
-   "published": "2026-10-21T12:18:00+00:00",
+   "published": "2026-10-21T15:00:00+00:00",
    "summary": "Podcast episode from All Steelers Talk.",
    "source": {
     "name": "All Steelers Talk",
+    "url": null
+   }
+  },
+  {
+   "id": "ca9f456cd0005326",
+   "type": "video",
+   "title": "You already know the vibes 🙌",
+   "show": "Pittsburgh Steelers (official)",
+   "url": "https://www.youtube.com/shorts/HdzKsylahSs",
+   "published": "2026-10-21T14:49:13+00:00",
+   "summary": "Video from Pittsburgh Steelers (official).",
+   "source": {
+    "name": "Pittsburgh Steelers (official)",
     "url": null
    }
   },
@@ -111,25 +124,12 @@
    }
   },
   {
-   "id": "c3fd84790c2e3deb",
+   "id": "7968be70b4f37758",
    "type": "podcast_episode",
    "title": "DK's Daily Shot of Steelers: Let ‘em all loose!",
    "show": "DK Pittsburgh Sports",
-   "url": "https://podcasts.apple.com/us/podcast/dks-daily-shot-of-steelers-let-em-all-loose/id1072021022?i=1000797403367",
+   "url": "https://podcasts.apple.com/us/podcast/id1072021022",
    "published": "2026-10-21T05:37:00+00:00",
-   "summary": "Podcast episode from DK Pittsburgh Sports.",
-   "source": {
-    "name": "DK Pittsburgh Sports",
-    "url": null
-   }
-  },
-  {
-   "id": "d998db5a5a129e9a",
-   "type": "podcast_episode",
-   "title": "Scout’s Eye with Matt Williamson: All the Rodgersesque things",
-   "show": "DK Pittsburgh Sports",
-   "url": "https://podcasts.apple.com/us/podcast/scouts-eye-with-matt-williamson-all-the/id1072021022?i=1000797398522",
-   "published": "2026-10-21T05:34:00+00:00",
    "summary": "Podcast episode from DK Pittsburgh Sports.",
    "source": {
     "name": "DK Pittsburgh Sports",
@@ -202,19 +202,6 @@
    }
   },
   {
-   "id": "6a3f309de443b251",
-   "type": "podcast_episode",
-   "title": "Should Steelers Still Seek WR Help? | Steelers Afternoon Drive",
-   "show": "Steelers Afternoon Drive",
-   "url": "https://podcasts.apple.com/us/podcast/should-steelers-still-seek-wr-help-steelers-afternoon/id1700240934?i=1000797337923",
-   "published": "2026-10-20T22:21:00+00:00",
-   "summary": "Podcast episode from Steelers Afternoon Drive.",
-   "source": {
-    "name": "Steelers Afternoon Drive",
-    "url": null
-   }
-  },
-  {
    "id": "d1d377e95886fdd5",
    "type": "video",
    "title": "Every Boz field goal but with every field goal it gets faster 📺:#PITvsNO 10/25 at 9:30AM ET on NFLN",
@@ -224,19 +211,6 @@
    "summary": "Video from Pittsburgh Steelers (official).",
    "source": {
     "name": "Pittsburgh Steelers (official)",
-    "url": null
-   }
-  },
-  {
-   "id": "c6b6c798d18d8be6",
-   "type": "podcast_episode",
-   "title": "DK's Double Shot of Steelers: Off OUI go!",
-   "show": "DK Pittsburgh Sports",
-   "url": "https://podcasts.apple.com/us/podcast/dks-double-shot-of-steelers-off-oui-go/id1072021022?i=1000797337026",
-   "published": "2026-10-20T22:01:00+00:00",
-   "summary": "Podcast episode from DK Pittsburgh Sports.",
-   "source": {
-    "name": "DK Pittsburgh Sports",
     "url": null
    }
   },
@@ -306,11 +280,11 @@
    }
   },
   {
-   "id": "27beb0111ffa1a1a",
+   "id": "28bc10f4e7b5c335",
    "type": "podcast_episode",
    "title": "Steelers Crazy #300 - Saints Vs Steelers In Paris",
    "show": "The Sick Podcast - Steelers Crazy",
-   "url": "https://podcasts.apple.com/us/podcast/steelers-crazy-300-saints-vs-steelers-in-paris/id1640291008?i=1000797311768",
+   "url": "https://anchor.fm/the-sick-podcast---steelers-crazy",
    "published": "2026-10-20T19:12:00+00:00",
    "summary": "Podcast episode from The Sick Podcast - Steelers Crazy.",
    "source": {
@@ -1151,19 +1125,6 @@
    }
   },
   {
-   "id": "06c1ed9e990dbaa8",
-   "type": "video",
-   "title": "Walk off 🙌",
-   "show": "Pittsburgh Steelers (official)",
-   "url": "https://www.youtube.com/shorts/2QLYY5in1-0",
-   "published": "2026-10-19T00:05:17+00:00",
-   "summary": "Video from Pittsburgh Steelers (official).",
-   "source": {
-    "name": "Pittsburgh Steelers (official)",
-    "url": null
-   }
-  },
-  {
    "id": "a6fe4fb8af85ebca",
    "type": "podcast_episode",
    "title": "Steelers Now Postgame: Steelers 26, Buccaneers 19",
@@ -1706,32 +1667,6 @@
    "summary": "Podcast episode from The Terrible Podcast (Steelers Depot).",
    "source": {
     "name": "The Terrible Podcast (Steelers Depot)",
-    "url": null
-   }
-  },
-  {
-   "id": "0f508ef7b8d5eb4a",
-   "type": "podcast_episode",
-   "title": "Hour 2: Ed Troupe / Around the Shield",
-   "show": "Steelers Blitz",
-   "url": "https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr2-101626-mp3",
-   "published": "2026-10-16T15:00:00+00:00",
-   "summary": "Podcast episode from Steelers Blitz.",
-   "source": {
-    "name": "Steelers Blitz",
-    "url": null
-   }
-  },
-  {
-   "id": "af0ab971677c289e",
-   "type": "podcast_episode",
-   "title": "Drive10.16.26Hr2: Week 6 Preview",
-   "show": "SNR Drive",
-   "url": "https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-16-26hr2-mp3",
-   "published": "2026-10-16T15:00:00+00:00",
-   "summary": "Podcast episode from SNR Drive.",
-   "source": {
-    "name": "SNR Drive",
     "url": null
    }
   }

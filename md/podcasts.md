@@ -1,31 +1,29 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-21T14:54:33+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T14:54:16+00:00._
+_Generated 2026-10-21T15:05:53+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T15:05:09+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
-- Podcast: [Time to Believe in One Steelers Player](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-21 12:18 UTC
+- Podcast: [Steelers Big Plans at QB and WR](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-21 15:00 UTC
+- Video: [You already know the vibes 🙌](https://www.youtube.com/shorts/HdzKsylahSs): Pittsburgh Steelers (official), 2026-10-21 14:49 UTC
 - Video: [Germie Bernard's First NFL Touchdown, Rookie Wall, Paris Preview & More! | Not Just Football](https://www.youtube.com/watch?v=gYn6X7Mzibw): Not Just Football with Cam Heyward, 2026-10-21 10:00 UTC
 - Podcast: [Germie Bernard's First NFL Touchdown, Rookie Wall, Paris Preview & More! | Not Just Football](https://www.youtube.com/@NotJustFootballwithCamHeyward): Not Just Football with Cam Heyward, 2026-10-21 10:00 UTC
 - Podcast: [Pittsburgh Steelers Gabriel Rubio Interview](https://arthurmoats55.libsyn.com/gabriel_rubio_yttmp3): The Arthur Moats Experience, 2026-10-21 09:52 UTC
 - Podcast: [Let's Ride: Know Your Steelers Enemy, Week 7 vs. the Saints](https://podcasts.apple.com/us/podcast/id905962218): Steel Curtain Network (BTSC), 2026-10-21 08:00 UTC
 - Video: [Steelers' Chameleon Defensive Scheme w/Patrick Graham Aids Weekly Adjustments | DeShon Elliott Back?](https://www.youtube.com/watch?v=2tQov8n-Txw): Locked On Steelers, 2026-10-21 06:00 UTC
 - Podcast: [Steelers' Chameleon Defensive Scheme w/Patrick Graham Aids Weekly Adjustments | DeShon Elliott Back?](https://lockedonpodcasts.com/podcasts/locked-on-steelers/): Locked On Steelers, 2026-10-21 06:00 UTC
-- Podcast: [DK's Daily Shot of Steelers: Let ‘em all loose!](https://podcasts.apple.com/us/podcast/dks-daily-shot-of-steelers-let-em-all-loose/id1072021022?i=1000797403367): DK Pittsburgh Sports, 2026-10-21 05:37 UTC
-- Podcast: [Scout’s Eye with Matt Williamson: All the Rodgersesque things](https://podcasts.apple.com/us/podcast/scouts-eye-with-matt-williamson-all-the/id1072021022?i=1000797398522): DK Pittsburgh Sports, 2026-10-21 05:34 UTC
+- Podcast: [DK's Daily Shot of Steelers: Let ‘em all loose!](https://podcasts.apple.com/us/podcast/id1072021022): DK Pittsburgh Sports, 2026-10-21 05:37 UTC
 - Podcast: [Paris Under Pressure: Steelers Prepare for NFL First During Unrest Abroad](http://www.pennlive.com/steelers/): Steelers Breakdown (PennLive, Nick Farabaugh), 2026-10-21 00:03 UTC
 - Video: [Poetry in motion 📺: #PITvsNO 10/25 at 9:30 AM ET on NFLN](https://www.youtube.com/shorts/bVYdjuYYbHw): Pittsburgh Steelers (official), 2026-10-20 23:33 UTC
 - Video: [Steelers Vs Saints Thoughts & Predictions | SNR Drive (Oct.20) | Pittsburgh Steelers](https://www.youtube.com/watch?v=PKD5RscDaPI): Pittsburgh Steelers (official), 2026-10-20 23:00 UTC
 - Video: [STEELERS SQUAD SHOW: Winning Ugly Won’t Fly in Paris! Steelers/Saints Preview!](https://www.youtube.com/watch?v=Es_bukL78yk): Locked On Steelers, 2026-10-20 22:54 UTC
 - Video: [Should Steelers Still Seek WR Help? | Steelers Afternoon Drive](https://www.youtube.com/watch?v=Bp2zQ4eZjX8): Steelers Now, 2026-10-20 22:21 UTC
-- Podcast: [Should Steelers Still Seek WR Help? | Steelers Afternoon Drive](https://podcasts.apple.com/us/podcast/should-steelers-still-seek-wr-help-steelers-afternoon/id1700240934?i=1000797337923): Steelers Afternoon Drive, 2026-10-20 22:21 UTC
 - Video: [Every Boz field goal but with every field goal it gets faster 📺:#PITvsNO 10/25 at 9:30AM ET on NFLN](https://www.youtube.com/shorts/2W3Ld83xwfw): Pittsburgh Steelers (official), 2026-10-20 22:13 UTC
-- Podcast: [DK's Double Shot of Steelers: Off OUI go!](https://podcasts.apple.com/us/podcast/dks-double-shot-of-steelers-off-oui-go/id1072021022?i=1000797337026): DK Pittsburgh Sports, 2026-10-20 22:01 UTC
 - Podcast: [How The Steelers Survived Three Quarters Of Stalled Offense Ep 144](https://footbahlinwithben.buzzsprout.com): Footbahlin with Ben Roethlisberger, 2026-10-20 22:00 UTC
 - Video: [Aaron Rodgers, Steelers QBs Zip It Around In the Rain](https://www.youtube.com/watch?v=wGbvT-xgteI): Steelers Now, 2026-10-20 21:40 UTC
 - Video: [The Steelers Need to Run the Ball on Third Down More Often 🚨 #steelers #nfl](https://www.youtube.com/shorts/nyEwZLT3nXM): Locked On Steelers, 2026-10-20 21:29 UTC
 - Podcast: [The Terrible Take - Episode 2056 - October 20, 2026](https://podcasts.apple.com/us/podcast/id405990739): The Terrible Podcast (Steelers Depot), 2026-10-20 21:00 UTC
 - Podcast: [Drive10.20.26Hr1: Scouting the Saints](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-20-26hr1-mp3): SNR Drive, 2026-10-20 20:00 UTC
-- Podcast: [Steelers Crazy #300 - Saints Vs Steelers In Paris](https://podcasts.apple.com/us/podcast/steelers-crazy-300-saints-vs-steelers-in-paris/id1640291008?i=1000797311768): The Sick Podcast - Steelers Crazy, 2026-10-20 19:12 UTC
+- Podcast: [Steelers Crazy #300 - Saints Vs Steelers In Paris](https://anchor.fm/the-sick-podcast---steelers-crazy): The Sick Podcast - Steelers Crazy, 2026-10-20 19:12 UTC
 - Podcast: [Drive10.20.26Hr2: Week Seven Power Rankings](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-20-26hr2-mp3): SNR Drive, 2026-10-20 19:00 UTC
 - Video: [Is the Steelers pass defense actually fine without Joey Porter Jr? #steelers #nfl](https://www.youtube.com/shorts/I8qkYpoHneg): Still Curtain Podcast, 2026-10-20 18:15 UTC
 - Video: [That crowd pop 💥 📺: #PITvsNO 10/25 at 9:30 AM ET on NFLN](https://www.youtube.com/shorts/OlJTbqdizjI): Pittsburgh Steelers (official), 2026-10-20 18:07 UTC
@@ -90,7 +88,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Germie Bernard, Jamel Dean & DK Metcalf on win at Buccaneers | Press Pass | Pittsburgh Steelers](https://www.youtube.com/watch?v=vxAoEcjl98k): Pittsburgh Steelers (official), 2026-10-19 01:22 UTC
 - Video: [Best fans in the world 🖤💛](https://www.youtube.com/shorts/mSgT-K71CjI): Pittsburgh Steelers (official), 2026-10-19 01:02 UTC
 - Podcast: [Scout’s Eye with Matt Williamson: Late domination](https://podcasts.apple.com/us/podcast/scouts-eye-with-matt-williamson-late-domination/id1072021022?i=1000796990242): DK Pittsburgh Sports, 2026-10-19 00:14 UTC
-- Video: [Walk off 🙌](https://www.youtube.com/shorts/2QLYY5in1-0): Pittsburgh Steelers (official), 2026-10-19 00:05 UTC
 - Podcast: [Steelers Now Postgame: Steelers 26, Buccaneers 19](https://podcasts.apple.com/us/podcast/steelers-now-postgame-steelers-26-buccaneers-19/id1700240934?i=1000796980106): Steelers Afternoon Drive, 2026-10-18 22:41 UTC
 - Podcast: [STEELERS SQUAD SHOW: McCarthy ROLLS Ankle, Steelers Big COMEBACK Leads To 1st Road Win In OT](https://podcasts.apple.com/us/podcast/steelers-squad-show-mccarthy-rolls-ankle-steelers-big/id1140522532?i=1000796979708): Locked On Steelers, 2026-10-18 22:38 UTC
 - Podcast: [Steelers Beat Bucs in OT! WILD GAME](https://podcasts.apple.com/us/podcast/steelers-beat-bucs-in-ot-wild-game/id1627248534?i=1000796978945): All Steelers Talk, 2026-10-18 22:23 UTC
@@ -133,8 +130,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Drive10.16.26Hr1: 5 Star Friday](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-16-26hr1-mp3): SNR Drive, 2026-10-16 16:00 UTC
 - Podcast: [Black & Gold Blueprint: Buccaneers Preview Featuring Special Guest Jay Hostetler](https://podcasts.apple.com/us/podcast/black-gold-blueprint-buccaneers-preview-featuring-special/id905962218?i=1000796685619): Steel Curtain Network (BTSC), 2026-10-16 15:30 UTC
 - Podcast: [The Terrible Podcast — Steelers Vs Buccaneers Game Preview, Trade Possibility, Injury Report, Week 6 Picks, And More](https://podcasts.apple.com/us/podcast/the-terrible-podcast-steelers-vs-buccaneers-game/id405990739?i=1000796683883): The Terrible Podcast (Steelers Depot), 2026-10-16 15:14 UTC
-- Podcast: [Hour 2: Ed Troupe / Around the Shield](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr2-101626-mp3): Steelers Blitz, 2026-10-16 15:00 UTC
-- Podcast: [Drive10.16.26Hr2: Week 6 Preview](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-16-26hr2-mp3): SNR Drive, 2026-10-16 15:00 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T14:54:08.654562+00:00",
+ "generated": "2026-10-21T15:05:00.740241+00:00",
  "game": {
   "label": "at Tampa Bay Buccaneers (Oct 18)",
   "opponent": "Tampa Bay Buccaneers",
@@ -49,7 +49,7 @@
    "url": "https://steelersnow.com/feed/",
    "status": "ok",
    "feed_items": 15,
-   "in_window": 0
+   "in_window": 1
   },
   {
    "creator": "Merril Hoge \u2013 Steelers Playbook (official)",
@@ -213,6 +213,14 @@
   }
  ],
  "items": [
+  {
+   "title": "DB\u2019s Steelers Film Room: Jamel Dean Saves the Day in Tampa",
+   "creator": "Steelers Now",
+   "link": "https://steelersnow.com/dbs-steelers-film-room-jamel-dean-saves-the-day-in-tampa/",
+   "published": "2026-10-21T14:57:35+00:00",
+   "summary": "Film breakdown by Steelers Now of at Tampa Bay Buccaneers (Oct 18).",
+   "game": "at Tampa Bay Buccaneers (Oct 18)"
+  },
   {
    "title": "Steelers' COACHING Grades vs Bucs",
    "creator": "Steelers Almighty",
@@ -381,8 +389,17 @@
    "week": "Week 6",
    "opponent": "Tampa Bay Buccaneers",
    "kickoff": "2026-10-18T17:00:00+00:00",
-   "count": 19,
+   "count": 20,
    "items": [
+    {
+     "title": "DB\u2019s Steelers Film Room: Jamel Dean Saves the Day in Tampa",
+     "creator": "Steelers Now",
+     "link": "https://steelersnow.com/dbs-steelers-film-room-jamel-dean-saves-the-day-in-tampa/",
+     "published": "2026-10-21T14:57:35+00:00",
+     "gid": "2026_06_PIT_TB",
+     "source": "rss",
+     "summary": "Film breakdown by Steelers Now of Week 6 at Buccaneers (W 26-19)."
+    },
     {
      "title": "Steelers' COACHING Grades vs Bucs",
      "creator": "Steelers Almighty",
@@ -874,5 +891,5 @@
    ]
   }
  ],
- "count": 19
+ "count": 20
 }
