@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-21T05:54:13+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T05:53:57+00:00._
+_Generated 2026-10-21T06:05:56+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T06:05:40+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Podcast: [Steelers' Chameleon Defensive Scheme w/Patrick Graham Aids Weekly Adjustments | DeShon Elliott Back?](https://lockedonpodcasts.com/podcasts/locked-on-steelers/): Locked On Steelers, 2026-10-21 06:00 UTC
 - Podcast: [The Scho Bro Show: The familiarity of the Steelers unfamiliar win](https://podcasts.apple.com/us/podcast/id905962218): Steel Curtain Network (BTSC), 2026-10-21 02:55 UTC
 - Podcast: [Paris Under Pressure: Steelers Prepare for NFL First During Unrest Abroad](http://www.pennlive.com/steelers/): Steelers Breakdown (PennLive, Nick Farabaugh), 2026-10-21 00:03 UTC
 - Video: [Poetry in motion 📺: #PITvsNO 10/25 at 9:30 AM ET on NFLN](https://www.youtube.com/shorts/bVYdjuYYbHw): Pittsburgh Steelers (official), 2026-10-20 23:33 UTC
