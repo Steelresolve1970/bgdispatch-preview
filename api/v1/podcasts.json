@@ -2,8 +2,8 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-21T09:49:21+00:00",
- "data_updated": "2026-10-21T09:48:58+00:00",
+ "generated": "2026-10-21T10:07:15+00:00",
+ "data_updated": "2026-10-21T10:06:58+00:00",
  "count": 132,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
@@ -19,6 +19,45 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/podcasts",
  "items": [
+  {
+   "id": "daa865dcc7855a50",
+   "type": "video",
+   "title": "Germie Bernard's First NFL Touchdown, Rookie Wall, Paris Preview & More! | Not Just Football",
+   "show": "Not Just Football with Cam Heyward",
+   "url": "https://www.youtube.com/watch?v=gYn6X7Mzibw",
+   "published": "2026-10-21T10:00:32+00:00",
+   "summary": "Video from Not Just Football with Cam Heyward.",
+   "source": {
+    "name": "Not Just Football with Cam Heyward",
+    "url": null
+   }
+  },
+  {
+   "id": "2ed6132323e2d6f6",
+   "type": "podcast_episode",
+   "title": "Germie Bernard's First NFL Touchdown, Rookie Wall, Paris Preview & More! | Not Just Football",
+   "show": "Not Just Football with Cam Heyward",
+   "url": "https://www.youtube.com/@NotJustFootballwithCamHeyward",
+   "published": "2026-10-21T10:00:00+00:00",
+   "summary": "Podcast episode from Not Just Football with Cam Heyward.",
+   "source": {
+    "name": "Not Just Football with Cam Heyward",
+    "url": null
+   }
+  },
+  {
+   "id": "5a420176feb30b9f",
+   "type": "podcast_episode",
+   "title": "Pittsburgh Steelers Gabriel Rubio Interview",
+   "show": "The Arthur Moats Experience",
+   "url": "https://arthurmoats55.libsyn.com/gabriel_rubio_yttmp3",
+   "published": "2026-10-21T09:52:00+00:00",
+   "summary": "Podcast episode from The Arthur Moats Experience.",
+   "source": {
+    "name": "The Arthur Moats Experience",
+    "url": null
+   }
+  },
   {
    "id": "dd3008860aec9a40",
    "type": "podcast_episode",
@@ -1693,45 +1732,6 @@
    "summary": "Podcast episode from All Steelers Talk.",
    "source": {
     "name": "All Steelers Talk",
-    "url": null
-   }
-  },
-  {
-   "id": "0e43bfa198ef7821",
-   "type": "video",
-   "title": "Elandon Roberts on Returning to the Steelers, Super Bowl Memories & More! | Not Just Football",
-   "show": "Not Just Football with Cam Heyward",
-   "url": "https://www.youtube.com/watch?v=AE8wB5uMrH4",
-   "published": "2026-10-16T10:00:01+00:00",
-   "summary": "Video from Not Just Football with Cam Heyward.",
-   "source": {
-    "name": "Not Just Football with Cam Heyward",
-    "url": null
-   }
-  },
-  {
-   "id": "9942f56b442b54e2",
-   "type": "podcast_episode",
-   "title": "Elandon Roberts on Returning to the Steelers, Super Bowl Memories & More! | Not Just Football",
-   "show": "Not Just Football with Cam Heyward",
-   "url": "https://podcasts.apple.com/us/podcast/elandon-roberts-on-returning-to-the-steelers-super/id1633134223?i=1000796640774",
-   "published": "2026-10-16T10:00:00+00:00",
-   "summary": "Podcast episode from Not Just Football with Cam Heyward.",
-   "source": {
-    "name": "Not Just Football with Cam Heyward",
-    "url": null
-   }
-  },
-  {
-   "id": "c2cfaf313d0bce9a",
-   "type": "podcast_episode",
-   "title": "NFL Week 6 Predictions/Pittsburgh Steelers",
-   "show": "The Arthur Moats Experience",
-   "url": "https://arthurmoats55.libsyn.com/the_arthur_moats_experience__ep_778__live___steelers_gabriel_rubio_nfl_week_6_predictions_mp3",
-   "published": "2026-10-16T09:52:00+00:00",
-   "summary": "Podcast episode from The Arthur Moats Experience.",
-   "source": {
-    "name": "The Arthur Moats Experience",
     "url": null
    }
   }

@@ -1,8 +1,11 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-21T09:49:21+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T09:48:58+00:00._
+_Generated 2026-10-21T10:07:15+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T10:06:58+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Video: [Germie Bernard's First NFL Touchdown, Rookie Wall, Paris Preview & More! | Not Just Football](https://www.youtube.com/watch?v=gYn6X7Mzibw): Not Just Football with Cam Heyward, 2026-10-21 10:00 UTC
+- Podcast: [Germie Bernard's First NFL Touchdown, Rookie Wall, Paris Preview & More! | Not Just Football](https://www.youtube.com/@NotJustFootballwithCamHeyward): Not Just Football with Cam Heyward, 2026-10-21 10:00 UTC
+- Podcast: [Pittsburgh Steelers Gabriel Rubio Interview](https://arthurmoats55.libsyn.com/gabriel_rubio_yttmp3): The Arthur Moats Experience, 2026-10-21 09:52 UTC
 - Podcast: [Let's Ride: Know Your Steelers Enemy, Week 7 vs. the Saints](https://podcasts.apple.com/us/podcast/id905962218): Steel Curtain Network (BTSC), 2026-10-21 08:00 UTC
 - Video: [Steelers' Chameleon Defensive Scheme w/Patrick Graham Aids Weekly Adjustments | DeShon Elliott Back?](https://www.youtube.com/watch?v=2tQov8n-Txw): Locked On Steelers, 2026-10-21 06:00 UTC
 - Podcast: [Steelers' Chameleon Defensive Scheme w/Patrick Graham Aids Weekly Adjustments | DeShon Elliott Back?](https://lockedonpodcasts.com/podcasts/locked-on-steelers/): Locked On Steelers, 2026-10-21 06:00 UTC
@@ -132,9 +135,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Steelers Film Expert Issues a WARNING About T.J. Watt — And Reveals the Key to Beating Tampa Bay](https://podcasts.apple.com/us/podcast/steelers-film-expert-issues-a-warning-about-t-j/id1623192893?i=1000796678598): The Steel City Insider (Jim Wexell, 247Sports), 2026-10-16 14:23 UTC
 - Podcast: [Drive10.16.26Missi: Missi Matthews on Bucs Clash](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-16missi-mp3): SNR Drive, 2026-10-16 14:01 UTC
 - Podcast: [Steelers WR Outlook: Who Replaces Roman Wilson?](https://podcasts.apple.com/us/podcast/steelers-wr-outlook-who-replaces-roman-wilson/id1627248534?i=1000796645773): All Steelers Talk, 2026-10-16 10:27 UTC
-- Video: [Elandon Roberts on Returning to the Steelers, Super Bowl Memories & More! | Not Just Football](https://www.youtube.com/watch?v=AE8wB5uMrH4): Not Just Football with Cam Heyward, 2026-10-16 10:00 UTC
-- Podcast: [Elandon Roberts on Returning to the Steelers, Super Bowl Memories & More! | Not Just Football](https://podcasts.apple.com/us/podcast/elandon-roberts-on-returning-to-the-steelers-super/id1633134223?i=1000796640774): Not Just Football with Cam Heyward, 2026-10-16 10:00 UTC
-- Podcast: [NFL Week 6 Predictions/Pittsburgh Steelers](https://arthurmoats55.libsyn.com/the_arthur_moats_experience__ep_778__live___steelers_gabriel_rubio_nfl_week_6_predictions_mp3): The Arthur Moats Experience, 2026-10-16 09:52 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

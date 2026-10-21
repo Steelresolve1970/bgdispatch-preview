@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T09:48:44.527579+00:00",
+ "generated": "2026-10-21T10:06:45.599845+00:00",
  "count": 150,
  "sources": [
   {
@@ -29,7 +29,7 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "error: <urlopen error _ssl.c:1012: The handshake operation timed out>",
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
    "steelers_items": 0
   },
   {
@@ -84,7 +84,7 @@
    "source": "PennLive (Nick Farabaugh)",
    "url": "https://www.pennlive.com/arc/outboundfeeds/rss/author/nfarabaugh/?outputType=xml",
    "status": "ok",
-   "steelers_items": 22
+   "steelers_items": 23
   },
   {
    "source": "Steelers.com (official)",
@@ -106,6 +106,46 @@
   }
  ],
  "items": [
+  {
+   "title": "Why the NFL refused to move the Steelers-Saints game out of Paris despite civil unrest in the city",
+   "source": "PennLive (Nick Farabaugh)",
+   "link": "https://www.pennlive.com/steelers/2026/10/why-the-nfl-refused-to-move-the-steelers-saints-game-out-of-paris-despite-civil-unrest-in-the-city.html",
+   "published": "2026-10-21T10:00:01+00:00",
+   "summary": "Game story from PennLive (Nick Farabaugh). Full report at the original publisher.",
+   "id": "2cc20dd7eb"
+  },
+  {
+   "title": "Steelers\u2019 Mike McCarthy named one of best new coaches",
+   "source": "Behind the Steel Curtain",
+   "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176627/steelers-mike-mccarthy-named-one-of-best-new-coaches",
+   "published": "2026-10-21T10:00:00+00:00",
+   "summary": "News story from Behind the Steel Curtain. Full report at the original publisher.",
+   "id": "b065c2468e"
+  },
+  {
+   "title": "\u2018It\u2019s Groundhog Day\u2019: Kyle Hamilton Tired Of Answering For Ravens\u2019 Record Of Blown Leads",
+   "source": "Steelers Depot",
+   "link": "https://steelersdepot.com/2026/10/its-groundhog-day-kyle-hamilton-tired-of-answering-for-ravens-record-of-blown-leads/",
+   "published": "2026-10-21T09:40:51+00:00",
+   "summary": "News story from Steelers Depot. Full report at the original publisher.",
+   "id": "ab58f983fc"
+  },
+  {
+   "title": "Steelers Daily News & Links: Bill Cowher Pays Tribute to College Coach; Aaron Rodgers Gives Special Gift to Jalon Daniels",
+   "source": "Steelers Now",
+   "link": "https://steelersnow.com/steelers-daily-bill-cowher-pays-tribute-to-college-coach-aaron-rodgers-gives-special-gift-to-jalon-daniels/",
+   "published": "2026-10-21T09:33:55+00:00",
+   "summary": "News story from Steelers Now. Full report at the original publisher.",
+   "id": "d9d8f1116b"
+  },
+  {
+   "title": "Inside an NFL headset: The technology, chaos and split-second conversations behind every play",
+   "source": "The Athletic",
+   "link": "https://www.nytimes.com/athletic/interactive/how-nfl-headsets-work-technology-coach-player-communications/",
+   "published": "2026-10-21T09:30:38+00:00",
+   "summary": "News story from The Athletic. Full report at the original publisher.",
+   "id": "5072618be6"
+  },
   {
    "title": "What Role Will Steelers Have For DeShon Elliott When He Returns?",
    "source": "Steelers Depot",
@@ -599,14 +639,6 @@
    "id": "bbb2492a6a"
   },
   {
-   "title": "Where Do Steelers Stand In Week 7 Power Rankings?",
-   "source": "Steelers Depot",
-   "link": "https://steelersdepot.com/2026/10/where-do-steelers-stand-in-week-7-power-rankings-2/",
-   "published": "2026-10-20T16:30:38+00:00",
-   "summary": "Opinion story from Steelers Depot. Full report at the original publisher.",
-   "id": "3ca3f6f82c"
-  },
-  {
    "title": "Brian Thomas Jr \"Needs To Be\" Traded To The Steelers Immediately After Bizarre Week 6",
    "source": "SteelerNation",
    "link": "https://www.steelernation.com/2026/10/20/steelers-immediately-brian-thomas-jr",
@@ -730,14 +762,6 @@
    "id": "c7e06dc551"
   },
   {
-   "title": "Pittsburgh Steelers 2026 Schedule, Week-By-Week Analysis",
-   "source": "Steelers Now",
-   "link": "https://steelersnow.com/pittsburgh-steelers-2026-schedule/",
-   "published": "2026-10-20T14:27:14+00:00",
-   "summary": "News story from Steelers Now. Full report at the original publisher.",
-   "id": "0e1dcde23f"
-  },
-  {
    "title": "Steelers\u2019 dream 2027 quarterback class is already losing its shine",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/pittsburgh-steelers-dream-2027-quarterback-class-is-already-losing-its-shine-01m5b6pz8naq?utm_source=RSS",
@@ -785,6 +809,15 @@
    "published": "2026-10-20T13:00:00+00:00",
    "summary": "Opinion story from Still Curtain. Full report at the original publisher.",
    "id": "31262c8e23"
+  },
+  {
+   "title": "Pittsburgh Steelers 2026 NFL Playoff Simulator",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/pittsburgh-steelers-season-projections/",
+   "published": "2026-10-20T12:48:31+00:00",
+   "via": "Google News",
+   "summary": "News story from The New York Times. Full report at the original publisher.",
+   "id": "1b7071e728"
   },
   {
    "title": "Marquez Valdes-Scantling Signing Might Mean Good News for Steelers",
@@ -1162,14 +1195,6 @@
    "id": "2726676a07"
   },
   {
-   "title": "Jalen Ramsey is the glue to the Steelers\u2019 defense",
-   "source": "Behind the Steel Curtain",
-   "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176552/jalen-ramsey-is-the-glue-to-the-steelers-defense",
-   "published": "2026-10-19T15:00:00+00:00",
-   "summary": "News story from Behind the Steel Curtain. Full report at the original publisher.",
-   "id": "5702a236bc"
-  },
-  {
    "title": "Steelers' Germie Bernard Sets New Aaron Rodgers Record",
    "source": "All Steelers (Sports Illustrated)",
    "link": "https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-germie-bernard-sets-new-aaron-rodgers-record",
@@ -1305,30 +1330,6 @@
    "published": "2026-10-19T00:18:48+00:00",
    "summary": "Game story from Pittsburgh Post-Gazette. Full report at the original publisher.",
    "id": "900fd35cba"
-  },
-  {
-   "title": "Steelers kicker Chris Boswell breaks franchise record for career field goals",
-   "source": "TribLive",
-   "link": "https://triblive.com/sports/steelers-kicker-chris-boswell-breaks-franchise-record-for-career-field-goals/",
-   "published": "2026-10-19T00:13:59+00:00",
-   "summary": "News story from TribLive. Full report at the original publisher.",
-   "id": "69918b0a63"
-  },
-  {
-   "title": "\u2018He\u2019s from Pittsburgh, so he toughed it out\u2019: Steelers coach Mike McCarthy misses halftime with foot injury",
-   "source": "TribLive",
-   "link": "https://triblive.com/sports/hes-from-pittsburgh-so-he-toughed-it-out-steelers-coach-mike-mccarthy-misses-halftime-with-foot-injury/",
-   "published": "2026-10-18T23:53:36+00:00",
-   "summary": "Injury story from TribLive. Full report at the original publisher.",
-   "id": "52c275a199"
-  },
-  {
-   "title": "Batko's Quick 6: Steelers at Buccaneers",
-   "source": "Steelers.com (official)",
-   "link": "https://www.steelers.com/news/batko-s-quick-6-steelers-at-buccaneers",
-   "published": "2026-10-18T23:40:37+00:00",
-   "summary": "News story from Steelers.com (official). Full report at the original publisher.",
-   "id": "d0cdbf5e83"
   }
  ],
  "dropped_bad_links": 0
