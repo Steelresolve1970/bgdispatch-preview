@@ -2,8 +2,8 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-21T20:52:57+00:00",
- "data_updated": "2026-10-21T20:52:40+00:00",
+ "generated": "2026-10-21T21:03:49+00:00",
+ "data_updated": "2026-10-21T21:03:33+00:00",
  "count": 129,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
@@ -19,6 +19,32 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/podcasts",
  "items": [
+  {
+   "id": "7b2055f73c775a81",
+   "type": "podcast_episode",
+   "title": "The Terrible Take - Episode 2057 - October 21, 2026",
+   "show": "The Terrible Podcast (Steelers Depot)",
+   "url": "https://podcasts.apple.com/us/podcast/id405990739",
+   "published": "2026-10-21T21:00:00+00:00",
+   "summary": "Podcast episode from The Terrible Podcast (Steelers Depot).",
+   "source": {
+    "name": "The Terrible Podcast (Steelers Depot)",
+    "url": null
+   }
+  },
+  {
+   "id": "88083be8a08caa05",
+   "type": "video",
+   "title": "Cause for Concern? Steelers OT Max Iheanachor Has Taped Hand",
+   "show": "Steelers Now",
+   "url": "https://www.youtube.com/watch?v=8BuJm27H0WQ",
+   "published": "2026-10-21T20:46:29+00:00",
+   "summary": "Video from Steelers Now.",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   }
+  },
   {
    "id": "ea01e41b53d6907e",
    "type": "video",
@@ -94,19 +120,6 @@
    "summary": "Video from Steelers Now.",
    "source": {
     "name": "Steelers Now",
-    "url": null
-   }
-  },
-  {
-   "id": "7b2055f73c775a81",
-   "type": "podcast_episode",
-   "title": "The Terrible Podcast — Steelers Vs. Buccaneers All-22 Review, Valdes-Scantling Return, Monday Presser Recaps, & More",
-   "show": "The Terrible Podcast (Steelers Depot)",
-   "url": "https://podcasts.apple.com/us/podcast/id405990739",
-   "published": "2026-10-21T16:37:00+00:00",
-   "summary": "Podcast episode from The Terrible Podcast (Steelers Depot).",
-   "source": {
-    "name": "The Terrible Podcast (Steelers Depot)",
     "url": null
    }
   },
@@ -1680,19 +1693,6 @@
    "summary": "Podcast episode from All Steelers Talk.",
    "source": {
     "name": "All Steelers Talk",
-    "url": null
-   }
-  },
-  {
-   "id": "1ae846a2ebfa0a9b",
-   "type": "podcast_episode",
-   "title": "The Terrible Take - Episode 2052 - October 16, 2026",
-   "show": "The Terrible Podcast (Steelers Depot)",
-   "url": "https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2052-october-16-2026/id405990739?i=1000796726979",
-   "published": "2026-10-16T21:00:00+00:00",
-   "summary": "Podcast episode from The Terrible Podcast (Steelers Depot).",
-   "source": {
-    "name": "The Terrible Podcast (Steelers Depot)",
     "url": null
    }
   }

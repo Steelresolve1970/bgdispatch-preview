@@ -1,6 +1,6 @@
 # NFL Insider Posts (last 3 days)
 
-_Generated 2026-10-21T20:52:57+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T20:52:26+00:00._
+_Generated 2026-10-21T21:03:49+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T21:03:22+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/insiders.json_
 
 - [Christopher Carter (Locked On) on Bluesky](https://bsky.app/profile/cartercritiques.bsky.social/post/3myfzg5owo324), 2026-10-21 20:46 UTC: @cartercritiques.bsky.social posted about the Steelers, a signing.

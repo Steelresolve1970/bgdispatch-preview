@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-21T20:52:22.679008+00:00",
- "count": 149,
+ "generated": "2026-10-21T21:03:18.887089+00:00",
+ "count": 150,
  "sources": [
   {
    "source": "Steelers Depot",
@@ -29,8 +29,8 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "ok",
-   "steelers_items": 24
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "steelers_items": 0
   },
   {
    "source": "Still Curtain",
@@ -107,21 +107,20 @@
  ],
  "items": [
   {
+   "title": "Yahya Black Reveals His Weight In Mic\u2019d Up Moment Against Buccaneers",
+   "source": "Steelers Depot",
+   "link": "https://steelersdepot.com/2026/10/yahya-black-reveals-his-weight-in-micd-up-moment-against-buccaneers/",
+   "published": "2026-10-21T20:57:51+00:00",
+   "summary": "News story from Steelers Depot. Full report at the original publisher.",
+   "id": "f0f7c7122a"
+  },
+  {
    "title": "Steelers' Omar Khan Gets Strong Warning About Dangerous Trade Deadline Strategy",
    "source": "SteelerNation",
    "link": "https://www.steelernation.com/2026/10/21/steelers-omar-khan-strong-warning",
    "published": "2026-10-21T20:43:51+00:00",
    "summary": "Trade/roster move story from SteelerNation. Full report at the original publisher.",
    "id": "28359084a1"
-  },
-  {
-   "title": "Steelers Release Veteran Safety Before Paris Game In Latest Shake-Up to Secondary",
-   "source": "SportsNet Pittsburgh",
-   "link": "https://sportsnetpittsburgh.com/pittsburgh-steelers/news/steelers-release-veteran-safety-secondary/4e1e5f39b789fcd2719d5836",
-   "published": "2026-10-21T20:39:15+00:00",
-   "via": "Google News",
-   "summary": "Trade/roster move story from SportsNet Pittsburgh. Full report at the original publisher.",
-   "id": "0db95d9406"
   },
   {
    "title": "Rookie Report Card: Steelers Vs Buccaneers (Week 6)",
@@ -171,6 +170,15 @@
    "via": "Google News",
    "summary": "News story from Audacy. Full report at the original publisher.",
    "id": "81505e843c"
+  },
+  {
+   "title": "Steelers officially release veteran safety",
+   "source": "WKBN.com",
+   "link": "https://www.wkbn.com/sports/pittsburgh-steelers/steelers-officially-release-veteran-safety-2/",
+   "published": "2026-10-21T20:11:51+00:00",
+   "via": "Google News",
+   "summary": "Trade/roster move story from WKBN.com. Full report at the original publisher.",
+   "id": "a64526732c"
   },
   {
    "title": "Steelers Sights & Sounds: A Look at WR Marquez Valdes-Scantling",
@@ -716,22 +724,6 @@
    "id": "27c9ea19ea"
   },
   {
-   "title": "\u2018Makes You Have Fun:\u2019 Germie Bernard Explains Why He Loves Playing With Aaron Rodgers",
-   "source": "Steelers Depot",
-   "link": "https://steelersdepot.com/2026/10/makes-you-have-fun-germie-bernard-explains-why-he-loves-playing-with-aaron-rodgers/",
-   "published": "2026-10-21T12:15:56+00:00",
-   "summary": "Opinion story from Steelers Depot. Full report at the original publisher.",
-   "id": "d7577e1135"
-  },
-  {
-   "title": "Steelers have more than international travel to worry about against the Saints",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/21/steelers-have-more-than-international-travel-to-worry-about-against-the-saints/",
-   "published": "2026-10-21T12:15:47+00:00",
-   "summary": "News story from Steel City Underground. Full report at the original publisher.",
-   "id": "dd96e02d3b"
-  },
-  {
    "title": "Germie Bernard is making Steelers forget all about the Makai Lemon debacle",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/germie-bernard-is-making-pittsburgh-steelers-forget-all-about-the-makai-lemon-debacle-01m5a5vwkehr?utm_source=RSS",
@@ -984,14 +976,6 @@
    "id": "38796afb44"
   },
   {
-   "title": "Steelers Surprises: Unexpected heroes emerge in overtime comeback against Buccaneers",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/20/steelers-surprises-unexpected-heroes-emerge-in-overtime-comeback-against-buccaneers/",
-   "published": "2026-10-20T14:49:26+00:00",
-   "summary": "News story from Steel City Underground. Full report at the original publisher.",
-   "id": "5f3153e761"
-  },
-  {
    "title": "Week 7 odds: Steelers open as slight favorites vs. Saints",
    "source": "Behind the Steel Curtain",
    "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-odds/176592/week-7-odds-steelers-open-as-slight-favorites-vs-saints",
@@ -1014,6 +998,15 @@
    "published": "2026-10-20T14:00:02+00:00",
    "summary": "News story from Still Curtain. Full report at the original publisher.",
    "id": "8b2fc04a4e"
+  },
+  {
+   "title": "NFL Paris 2026: New Orleans Saints vs Pittsburgh Steelers game 'all systems go' despite riots in French capital",
+   "source": "Sky Sports",
+   "link": "https://www.skysports.com/nfl/news/13601317/nfl-paris-2026-new-orleans-saints-vs-pittsburgh-steelers-game-all-systems-go-despite-riots-in-french-capital",
+   "published": "2026-10-20T13:47:38+00:00",
+   "via": "Google News",
+   "summary": "Game story from Sky Sports. Full report at the original publisher.",
+   "id": "4d57d7896c"
   },
   {
    "title": "Mark Madden: Steelers fans should embrace comeback win, not nitpick Mike McCarthy\u2019s mistakes",
@@ -1079,14 +1072,6 @@
    "published": "2026-10-20T12:00:00+00:00",
    "summary": "Opinion story from Pittsburgh Post-Gazette. Full report at the original publisher.",
    "id": "c170b3e653"
-  },
-  {
-   "title": "Plays of the Game: Germie Bernard scores first NFL touchdown to lift Steelers past Buccaneers",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/20/plays-of-the-game-germie-bernard-scores-first-nfl-touchdown-to-lift-steelers-past-buccaneers/",
-   "published": "2026-10-20T11:47:58+00:00",
-   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
-   "id": "ff47dfcfd1"
   },
   {
    "title": "4 Steelers standouts from their overtime victory over the Buccaneers",
@@ -1323,7 +1308,31 @@
    "via": "Google News",
    "summary": "News story from CBS News. Full report at the original publisher.",
    "id": "5604340c18"
+  },
+  {
+   "title": "The Steelers finally unleashed their blitzes \u2014 and Jalen Ramsey \u2014 at Tampa Bay",
+   "source": "Pittsburgh Post-Gazette",
+   "link": "https://www.post-gazette.com/sports/steelers/2026/10/19/steelers-blitz-jalen-ramsey/stories/202610190025",
+   "published": "2026-10-19T16:30:00+00:00",
+   "summary": "News story from Pittsburgh Post-Gazette. Full report at the original publisher.",
+   "id": "cb5e385ab9"
+  },
+  {
+   "title": "Pittsburgh Steelers lose key cornerback to hamstring injury",
+   "source": "PennLive (Nick Farabaugh)",
+   "link": "https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-lose-key-cornerback-to-injury.html",
+   "published": "2026-10-19T16:16:25+00:00",
+   "summary": "Injury story from PennLive (Nick Farabaugh). Full report at the original publisher.",
+   "id": "26d8e29a34"
+  },
+  {
+   "title": "Steelers\u2019 winning ways are hiding a troubling Chris Boswell problem",
+   "source": "Still Curtain",
+   "link": "https://stillcurtain.com/pittsburgh-steelers-winning-ways-hiding-troubling-chris-boswell-problem-01m5a2ekha59?utm_source=RSS",
+   "published": "2026-10-19T16:00:02+00:00",
+   "summary": "Game story from Still Curtain. Full report at the original publisher.",
+   "id": "50609f1d4f"
   }
  ],
- "dropped_bad_links": 1
+ "dropped_bad_links": 0
 }
