@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-21T06:05:40.428333+00:00",
+ "generated": "2026-10-21T07:10:15.069457+00:00",
  "date_et": "2026-10-21",
  "days": 5,
  "display_days": 2,
- "count": 132,
+ "count": 134,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -18,10 +18,10 @@
    "show": "Locked On Steelers",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7JorgD8nGLtvvMy1ogFetg",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
-   "week": 7,
-   "latest": null
+   "status": "ok",
+   "episodes": 15,
+   "week": 8,
+   "latest": "2026-10-21T06:00:06+00:00"
   },
   {
    "show": "The Terrible Podcast (Steelers Depot)",
@@ -46,9 +46,9 @@
    "kind": "podcast",
    "url": "https://feeds.simplecast.com/OkvCKc09",
    "status": "ok",
-   "episodes": 1002,
-   "week": 10,
-   "latest": "2026-10-20T22:01:00+00:00"
+   "episodes": 1000,
+   "week": 11,
+   "latest": "2026-10-21T05:34:00+00:00"
   },
   {
    "show": "Steelers Blitz",
@@ -81,28 +81,28 @@
    "show": "Still Curtain Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxjSNPLcRAVzDKOjhRwo-hQ",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 2,
-   "latest": null
+   "latest": "2026-10-20T18:15:06+00:00"
   },
   {
    "show": "Steel City Underground",
    "kind": "podcast",
    "url": "https://feeds.feedburner.com/steelcityunderground",
-   "status": "ok",
-   "episodes": 45,
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "episodes": 0,
    "week": 1,
-   "latest": "2026-10-19T19:40:55+00:00"
+   "latest": null
   },
   {
    "show": "Steel City Underground",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDcNNAMkYr-DzH6_XL-0p8Q",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 1,
-   "latest": null
+   "latest": "2026-10-19T20:01:57+00:00"
   },
   {
    "show": "Steelers Afternoon Drive",
@@ -153,10 +153,10 @@
    "show": "Steelers Now",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp1iAMIfmmgWewzJ07_Y7oA",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 15,
-   "latest": null
+   "latest": "2026-10-20T22:21:36+00:00"
   },
   {
    "show": "The Steel City Insider (Jim Wexell, 247Sports)",
@@ -189,7 +189,7 @@
    "show": "Nick Farabaugh on PennLive",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5yvng1eSgffmybUM-51fTw",
-   "status": "error: HTTP Error 404: Not Found",
+   "status": "ok",
    "episodes": 0,
    "week": 0,
    "latest": null
@@ -198,10 +198,10 @@
    "show": "Pittsburgh Steelers (official)",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChaRXjMDs4ppKfnTPE6Z89w",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 15,
-   "latest": null
+   "latest": "2026-10-20T23:33:43+00:00"
   },
   {
    "show": "Not Just Football with Cam Heyward",
@@ -216,10 +216,10 @@
    "show": "Not Just Football with Cam Heyward",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8hodyaoiw297aspKf9QVDA",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 6,
-   "latest": null
+   "latest": "2026-10-20T16:00:08+00:00"
   },
   {
    "show": "Footbahlin with Ben Roethlisberger",
@@ -253,10 +253,26 @@
   {
    "title": "Steelers' Chameleon Defensive Scheme w/Patrick Graham Aids Weekly Adjustments | DeShon Elliott Back?",
    "show": "Locked On Steelers",
+   "kind": "video",
+   "link": "https://www.youtube.com/watch?v=2tQov8n-Txw",
+   "published": "2026-10-21T06:00:06+00:00",
+   "summary": "Video from Locked On Steelers."
+  },
+  {
+   "title": "Steelers' Chameleon Defensive Scheme w/Patrick Graham Aids Weekly Adjustments | DeShon Elliott Back?",
+   "show": "Locked On Steelers",
    "kind": "podcast",
    "link": "https://lockedonpodcasts.com/podcasts/locked-on-steelers/",
    "published": "2026-10-21T06:00:00+00:00",
    "summary": "Podcast episode from Locked On Steelers."
+  },
+  {
+   "title": "Scout\u2019s Eye with Matt Williamson: All the Rodgersesque things",
+   "show": "DK Pittsburgh Sports",
+   "kind": "podcast",
+   "link": "https://podcasts.apple.com/us/podcast/id1072021022",
+   "published": "2026-10-21T05:34:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports."
   },
   {
    "title": "The Scho Bro Show: The familiarity of the Steelers unfamiliar win",

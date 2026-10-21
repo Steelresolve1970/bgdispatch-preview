@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-21T06:05:56+00:00",
- "data_updated": "2026-10-21T06:05:40+00:00",
- "count": 132,
+ "generated": "2026-10-21T07:10:45+00:00",
+ "data_updated": "2026-10-21T07:10:15+00:00",
+ "count": 133,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -20,6 +20,19 @@
  "html": "https://blackandgolddispatch.com/#/podcasts",
  "items": [
   {
+   "id": "de43ec30bf5951dd",
+   "type": "video",
+   "title": "Steelers' Chameleon Defensive Scheme w/Patrick Graham Aids Weekly Adjustments | DeShon Elliott Back?",
+   "show": "Locked On Steelers",
+   "url": "https://www.youtube.com/watch?v=2tQov8n-Txw",
+   "published": "2026-10-21T06:00:06+00:00",
+   "summary": "Video from Locked On Steelers.",
+   "source": {
+    "name": "Locked On Steelers",
+    "url": null
+   }
+  },
+  {
    "id": "50327394adeb9940",
    "type": "podcast_episode",
    "title": "Steelers' Chameleon Defensive Scheme w/Patrick Graham Aids Weekly Adjustments | DeShon Elliott Back?",
@@ -29,6 +42,19 @@
    "summary": "Podcast episode from Locked On Steelers.",
    "source": {
     "name": "Locked On Steelers",
+    "url": null
+   }
+  },
+  {
+   "id": "7968be70b4f37758",
+   "type": "podcast_episode",
+   "title": "Scout’s Eye with Matt Williamson: All the Rodgersesque things",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://podcasts.apple.com/us/podcast/id1072021022",
+   "published": "2026-10-21T05:34:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
     "url": null
    }
   },
@@ -120,19 +146,6 @@
    "summary": "Video from Pittsburgh Steelers (official).",
    "source": {
     "name": "Pittsburgh Steelers (official)",
-    "url": null
-   }
-  },
-  {
-   "id": "7968be70b4f37758",
-   "type": "podcast_episode",
-   "title": "DK's Double Shot of Steelers: Off OUI go!",
-   "show": "DK Pittsburgh Sports",
-   "url": "https://podcasts.apple.com/us/podcast/id1072021022",
-   "published": "2026-10-20T22:01:00+00:00",
-   "summary": "Podcast episode from DK Pittsburgh Sports.",
-   "source": {
-    "name": "DK Pittsburgh Sports",
     "url": null
    }
   },
