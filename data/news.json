@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T21:35:46.654759+00:00",
+ "generated": "2026-10-21T21:46:37.434521+00:00",
  "count": 150,
  "sources": [
   {
@@ -29,8 +29,8 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
-   "steelers_items": 0
+   "status": "ok",
+   "steelers_items": 24
   },
   {
    "source": "Still Curtain",
@@ -72,7 +72,7 @@
    "source": "Yahoo Sports",
    "url": "https://sports.yahoo.com/nfl/rss/",
    "status": "ok",
-   "steelers_items": 1
+   "steelers_items": 2
   },
   {
    "source": "Google News",
@@ -106,6 +106,22 @@
   }
  ],
  "items": [
+  {
+   "title": "Saints\u2019 Week 7 Wednesday Injury Report: QB Tyler Shough Practices In Full, Two Others DNP",
+   "source": "Steelers Depot",
+   "link": "https://steelersdepot.com/2026/10/saints-week-7-wednesday-injury-report-qb-tyler-shough-practices-in-full-two-others-dnp/",
+   "published": "2026-10-21T21:43:03+00:00",
+   "summary": "Injury story from Steelers Depot. Full report at the original publisher.",
+   "id": "e4f12f851a"
+  },
+  {
+   "title": "Steelers Get Another Promising Sign of DeShon Elliott Return",
+   "source": "Steelers Now",
+   "link": "https://steelersnow.com/steelers-get-another-promising-sign-of-deshon-elliott-return/",
+   "published": "2026-10-21T21:37:33+00:00",
+   "summary": "Trade/roster move story from Steelers Now. Full report at the original publisher.",
+   "id": "6f57904e35"
+  },
   {
    "title": "DeShon Elliott full participant in Steelers practice",
    "source": "Behind the Steel Curtain",
@@ -194,6 +210,14 @@
    "published": "2026-10-21T20:27:53+00:00",
    "summary": "Injury story from Steelers Now. Full report at the original publisher.",
    "id": "fc0259e836"
+  },
+  {
+   "title": "Steelers release veteran safety Rayshawn Jenkins",
+   "source": "TribLive",
+   "link": "https://triblive.com/sports/steelers-release-veteran-safety-rayshawn-jenkins/",
+   "published": "2026-10-21T20:26:35+00:00",
+   "summary": "Trade/roster move story from TribLive. Full report at the original publisher.",
+   "id": "a7468b981c"
   },
   {
    "title": "Steelers' Germie Bernard's Mistake Brought A Strong Response On Sideline: \"What The F*** Are You Doing?\"",
@@ -319,14 +343,6 @@
    "id": "bfaee7a530"
   },
   {
-   "title": "Steelers Release Veteran Safety Rayshawn Jenkins",
-   "source": "Steelers Depot",
-   "link": "https://steelersdepot.com/2026/10/steelers-release-veteran-safety-rayshawn-jenkins/",
-   "published": "2026-10-21T19:15:33+00:00",
-   "summary": "Trade/roster move story from Steelers Depot. Full report at the original publisher.",
-   "id": "413faf4f7f"
-  },
-  {
    "title": "Ramsey wins AFC Defensive Player of the Week",
    "source": "Steelers.com (official)",
    "link": "https://www.steelers.com/news/ramsey-wins-afc-defensive-player-of-the-week",
@@ -374,6 +390,14 @@
    "via": "Google News",
    "summary": "Game story from myMotherLode.com. Full report at the original publisher.",
    "id": "23d8b0f1db"
+  },
+  {
+   "title": "Roger Goodell is comfortable with security for the NFL\u2019s Paris game between the Steelers and Saints",
+   "source": "TribLive",
+   "link": "https://triblive.com/sports/roger-goodell-is-comfortable-with-security-for-the-nfls-paris-game-between-the-steelers-and-saints/",
+   "published": "2026-10-21T18:16:46+00:00",
+   "summary": "Game story from TribLive. Full report at the original publisher.",
+   "id": "70ce1777bf"
   },
   {
    "title": "Aaron Rodgers Thinks Steelers Have \u2018One Of The Smartest Offensive Lines He\u2019s Worked With,\u2019 Former Player Says",
@@ -439,6 +463,15 @@
    "published": "2026-10-21T17:07:00+00:00",
    "summary": "Opinion story from Steelers Now. Full report at the original publisher.",
    "id": "e89f2bb3b7"
+  },
+  {
+   "title": "NFL Paris Game On: Goodell Confident in Security",
+   "source": "Audacy",
+   "link": "https://www.audacy.com/937thefan/sports/pittsburgh-steelers/nfl-paris-game-on-goodell-confident-in-security",
+   "published": "2026-10-21T17:04:00+00:00",
+   "via": "Google News",
+   "summary": "Game story from Audacy. Full report at the original publisher.",
+   "id": "349de42bf6"
   },
   {
    "title": "\"Big Advantage For The Saints\": Steelers Could Have A Problem Heading To Paris",
@@ -607,14 +640,6 @@
    "id": "db06ba0a98"
   },
   {
-   "title": "\u2018A Hill They\u2019re Willing To Die On\u2019: Tomlin Credits Rooney Family For In-Season Negotiation Rule",
-   "source": "Steelers Depot",
-   "link": "https://steelersdepot.com/2026/10/a-hill-theyre-willing-to-die-on-tomlin-credits-rooney-family-for-in-season-negotiation-rule/",
-   "published": "2026-10-21T15:15:57+00:00",
-   "summary": "News story from Steelers Depot. Full report at the original publisher.",
-   "id": "f20157e73e"
-  },
-  {
    "title": "Saints Will Be Without Key Playmaker vs. Steelers",
    "source": "Steelers Now",
    "link": "https://steelersnow.com/saints-will-be-without-key-playmaker-vs-steelers/",
@@ -655,15 +680,6 @@
    "via": "Google News",
    "summary": "Game story from Cleveland.com. Full report at the original publisher.",
    "id": "6d7177ca7d"
-  },
-  {
-   "title": "Ex-Steelers\u2019 George Pickens Could Get Traded Because of Joey Porter Jr.: Analyst",
-   "source": "Heavy.com",
-   "link": "https://heavy.com/sports/nfl/pittsburgh-steelers/george-pickens-trade-rumors-joey-porter-cowboys-nfl-news/",
-   "published": "2026-10-21T14:43:05+00:00",
-   "via": "Google News",
-   "summary": "Trade/roster move story from Heavy.com. Full report at the original publisher.",
-   "id": "02a9743f62"
   },
   {
    "title": "Battista: NFL is 'all systems go' for Week 7 Steelers-Saints game in Paris | 'GMFB'",
@@ -738,6 +754,14 @@
    "published": "2026-10-21T13:00:00+00:00",
    "summary": "News story from Steelers.com (official). Full report at the original publisher.",
    "id": "27c9ea19ea"
+  },
+  {
+   "title": "Steelers have more than international travel to worry about against the Saints",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/21/steelers-have-more-than-international-travel-to-worry-about-against-the-saints/",
+   "published": "2026-10-21T12:15:47+00:00",
+   "summary": "News story from Steel City Underground. Full report at the original publisher.",
+   "id": "dd96e02d3b"
   },
   {
    "title": "Germie Bernard is making Steelers forget all about the Makai Lemon debacle",
@@ -862,14 +886,6 @@
    "id": "47df9d0a12"
   },
   {
-   "title": "Could Steelers Snatch Pro Bowl WR From Latest Opponent?",
-   "source": "Steelers Now",
-   "link": "https://steelersnow.com/could-steelers-snatch-pro-bowl-wr-from-latest-opponent/",
-   "published": "2026-10-20T22:54:18+00:00",
-   "summary": "Opinion story from Steelers Now. Full report at the original publisher.",
-   "id": "e9db192162"
-  },
-  {
    "title": "WATCH: SNR Drive (All Episodes from Week of October 19)",
    "source": "Steelers.com (official)",
    "link": "https://www.steelers.com/news/watch-snr-drive-all-episodes-from-week-of-october-19",
@@ -984,6 +1000,14 @@
    "id": "38796afb44"
   },
   {
+   "title": "Steelers Surprises: Unexpected heroes emerge in overtime comeback against Buccaneers",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/20/steelers-surprises-unexpected-heroes-emerge-in-overtime-comeback-against-buccaneers/",
+   "published": "2026-10-20T14:49:26+00:00",
+   "summary": "News story from Steel City Underground. Full report at the original publisher.",
+   "id": "5f3153e761"
+  },
+  {
    "title": "Week 7 odds: Steelers open as slight favorites vs. Saints",
    "source": "Behind the Steel Curtain",
    "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-odds/176592/week-7-odds-steelers-open-as-slight-favorites-vs-saints",
@@ -1080,6 +1104,14 @@
    "published": "2026-10-20T12:00:00+00:00",
    "summary": "Opinion story from Pittsburgh Post-Gazette. Full report at the original publisher.",
    "id": "c170b3e653"
+  },
+  {
+   "title": "Plays of the Game: Germie Bernard scores first NFL touchdown to lift Steelers past Buccaneers",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/20/plays-of-the-game-germie-bernard-scores-first-nfl-touchdown-to-lift-steelers-past-buccaneers/",
+   "published": "2026-10-20T11:47:58+00:00",
+   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
+   "id": "ff47dfcfd1"
   },
   {
    "title": "4 Steelers standouts from their overtime victory over the Buccaneers",
@@ -1299,39 +1331,6 @@
    "published": "2026-10-19T18:42:37+00:00",
    "summary": "News story from The Athletic. Full report at the original publisher.",
    "id": "b4d4d3d979"
-  },
-  {
-   "title": "Pittsburgh Steelers players address upcoming trip to Paris amid France unrest, violence",
-   "source": "CBS News",
-   "link": "https://www.cbsnews.com/pittsburgh/news/pittsburgh-steelers-paris-france-violence-unrest-protests/",
-   "published": "2026-10-19T16:34:00+00:00",
-   "via": "Google News",
-   "summary": "News story from CBS News. Full report at the original publisher.",
-   "id": "5604340c18"
-  },
-  {
-   "title": "The Steelers finally unleashed their blitzes \u2014 and Jalen Ramsey \u2014 at Tampa Bay",
-   "source": "Pittsburgh Post-Gazette",
-   "link": "https://www.post-gazette.com/sports/steelers/2026/10/19/steelers-blitz-jalen-ramsey/stories/202610190025",
-   "published": "2026-10-19T16:30:00+00:00",
-   "summary": "News story from Pittsburgh Post-Gazette. Full report at the original publisher.",
-   "id": "cb5e385ab9"
-  },
-  {
-   "title": "Pittsburgh Steelers lose key cornerback to hamstring injury",
-   "source": "PennLive (Nick Farabaugh)",
-   "link": "https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-lose-key-cornerback-to-injury.html",
-   "published": "2026-10-19T16:16:25+00:00",
-   "summary": "Injury story from PennLive (Nick Farabaugh). Full report at the original publisher.",
-   "id": "26d8e29a34"
-  },
-  {
-   "title": "Steelers\u2019 winning ways are hiding a troubling Chris Boswell problem",
-   "source": "Still Curtain",
-   "link": "https://stillcurtain.com/pittsburgh-steelers-winning-ways-hiding-troubling-chris-boswell-problem-01m5a2ekha59?utm_source=RSS",
-   "published": "2026-10-19T16:00:02+00:00",
-   "summary": "Game story from Still Curtain. Full report at the original publisher.",
-   "id": "50609f1d4f"
   }
  ],
  "dropped_bad_links": 0

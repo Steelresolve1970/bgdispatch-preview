@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-21T21:36:20+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T21:36:03+00:00._
+_Generated 2026-10-21T21:47:06+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T21:46:50+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [The Terrible Take - Episode 2057 - October 21, 2026](https://podcasts.apple.com/us/podcast/id405990739): The Terrible Podcast (Steelers Depot), 2026-10-21 21:00 UTC
