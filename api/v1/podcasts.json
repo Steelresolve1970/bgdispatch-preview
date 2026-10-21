@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-20T23:33:41+00:00",
- "data_updated": "2026-10-20T23:33:08+00:00",
- "count": 135,
+ "generated": "2026-10-21T00:05:33+00:00",
+ "data_updated": "2026-10-21T00:05:10+00:00",
+ "count": 134,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -19,6 +19,19 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/podcasts",
  "items": [
+  {
+   "id": "c1d918a1cf684b09",
+   "type": "video",
+   "title": "Poetry in motion 📺: #PITvsNO 10/25 at 9:30 AM ET on NFLN",
+   "show": "Pittsburgh Steelers (official)",
+   "url": "https://www.youtube.com/shorts/bVYdjuYYbHw",
+   "published": "2026-10-20T23:33:43+00:00",
+   "summary": "Video from Pittsburgh Steelers (official).",
+   "source": {
+    "name": "Pittsburgh Steelers (official)",
+    "url": null
+   }
+  },
   {
    "id": "d0bcbdac7e802219",
    "type": "video",
@@ -1021,19 +1034,6 @@
    }
   },
   {
-   "id": "f46ad77a9bbb266c",
-   "type": "video",
-   "title": "O H I O 🙌",
-   "show": "Pittsburgh Steelers (official)",
-   "url": "https://www.youtube.com/shorts/hAyLCs34L9o",
-   "published": "2026-10-18T23:39:15+00:00",
-   "summary": "Video from Pittsburgh Steelers (official).",
-   "source": {
-    "name": "Pittsburgh Steelers (official)",
-    "url": null
-   }
-  },
-  {
    "id": "a6fe4fb8af85ebca",
    "type": "podcast_episode",
    "title": "Steelers Now Postgame: Steelers 26, Buccaneers 19",
@@ -1758,19 +1758,6 @@
    "summary": "Podcast episode from Steel City Blitz.",
    "source": {
     "name": "Steel City Blitz",
-    "url": null
-   }
-  },
-  {
-   "id": "dce626d9ecb938f5",
-   "type": "podcast_episode",
-   "title": "Steelers Preview: Previewing Steelers vs. Buccaneers, Week 6",
-   "show": "Steel Curtain Network (BTSC)",
-   "url": "https://podcasts.apple.com/us/podcast/steelers-preview-previewing-steelers-vs-buccaneers-week-6/id905962218?i=1000796570410",
-   "published": "2026-10-16T00:00:00+00:00",
-   "summary": "Podcast episode from Steel Curtain Network (BTSC).",
-   "source": {
-    "name": "Steel Curtain Network (BTSC)",
     "url": null
    }
   }
