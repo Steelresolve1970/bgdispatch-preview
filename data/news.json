@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T05:41:11.407498+00:00",
+ "generated": "2026-10-21T05:52:49.697250+00:00",
  "count": 150,
  "sources": [
   {
@@ -29,8 +29,8 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
-   "steelers_items": 0
+   "status": "ok",
+   "steelers_items": 24
   },
   {
    "source": "Still Curtain",
@@ -95,8 +95,8 @@
   {
    "source": "All Steelers (Sports Illustrated)",
    "url": "https://news.google.com/rss/search?q=site:si.com/nfl/steelers&hl=en-US&gl=US&ceid=US:en",
-   "status": "ok",
-   "steelers_items": 30
+   "status": "error: HTTP Error 503: Service Unavailable",
+   "steelers_items": 0
   },
   {
    "source": "ProFootballTalk (NBC)",
@@ -114,6 +114,15 @@
    "via": "Google News",
    "summary": "News story from The Intelligencer. Full report at the original publisher.",
    "id": "c1fef30ada"
+  },
+  {
+   "title": "Wide receiver-needy Steelers bring back veteran Marquez Valdes-Scantling",
+   "source": "The Washington Post",
+   "link": "https://www.washingtonpost.com/sports/nfl/2026/10/20/pittsburgh-steelers/495d684a-ccd2-11f1-ac04-9f58578a68b4_story.html",
+   "published": "2026-10-21T05:04:57+00:00",
+   "via": "Google News",
+   "summary": "News story from The Washington Post. Full report at the original publisher.",
+   "id": "391d0214a7"
   },
   {
    "title": "NFL Adds Security for Steelers-Saints Game at Stade de France",
@@ -287,15 +296,6 @@
    "published": "2026-10-20T22:15:20+00:00",
    "summary": "News story from Steelers Depot. Full report at the original publisher.",
    "id": "e98f5f7b4d"
-  },
-  {
-   "title": "Wide receiver-needy Steelers bring back veteran Marquez Valdes-Scantling",
-   "source": "Bozeman Daily Chronicle",
-   "link": "https://www.bozemandailychronicle.com/wire/sports/wide-receiver-needy-steelers-bring-back-veteran-marquez-valdes-scantling/article_291be89b-99ee-57d4-9b0f-621f344ee6b9.html",
-   "published": "2026-10-20T22:04:10+00:00",
-   "via": "Google News",
-   "summary": "News story from Bozeman Daily Chronicle. Full report at the original publisher.",
-   "id": "285171283c"
   },
   {
    "title": "\u2018Not Ruling Out Surgery\u2019: Kaboly Shares Michael Pittman Jr. Update, Names Trade Options To Replace Him",
@@ -623,15 +623,6 @@
    "id": "843a08d961"
   },
   {
-   "title": "Steelers Rookie WR Quickly Joining Rookie of the Year Mix",
-   "source": "All Steelers (Sports Illustrated)",
-   "link": "https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-rookie-germie-bernard-quickly-joining-rookie-year-mix",
-   "published": "2026-10-20T16:00:03+00:00",
-   "summary": "News story from All Steelers (Sports Illustrated). Full report at the original publisher.",
-   "via": "Google News",
-   "id": "3dc35dfa5c"
-  },
-  {
    "title": "Steelers should cash in on Mason Rudolph if the Eagles come calling",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/pittsburgh-steelers-should-cash-in-mason-rudolph-trade-philadelphia-eagles-01m5b9frwbv6?utm_source=RSS",
@@ -687,6 +678,14 @@
    "published": "2026-10-20T14:49:51+00:00",
    "summary": "News story from Steelers.com (official). Full report at the original publisher.",
    "id": "38796afb44"
+  },
+  {
+   "title": "Steelers Surprises: Unexpected heroes emerge in overtime comeback against Buccaneers",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/20/steelers-surprises-unexpected-heroes-emerge-in-overtime-comeback-against-buccaneers/",
+   "published": "2026-10-20T14:49:26+00:00",
+   "summary": "News story from Steel City Underground. Full report at the original publisher.",
+   "id": "5f3153e761"
   },
   {
    "title": "Stars & Skulls Grades for Steelers-Buccaneers | Locked On",
@@ -779,15 +778,6 @@
    "id": "1b7071e728"
   },
   {
-   "title": "Marquez Valdes-Scantling Signing Might Mean Good News for Steelers",
-   "source": "All Steelers (Sports Illustrated)",
-   "link": "https://www.si.com/nfl/steelers/onsi/marquez-valdes-scantling-signing-might-good-news-pittsburgh-steelers",
-   "published": "2026-10-20T12:37:08+00:00",
-   "summary": "Trade/roster move story from All Steelers (Sports Illustrated). Full report at the original publisher.",
-   "via": "Google News",
-   "id": "d4ce4b6994"
-  },
-  {
    "title": "The shorthanded Steelers are bringing back veteran receiver Marquez Valdes-Scantling",
    "source": "Pittsburgh Post-Gazette",
    "link": "https://www.post-gazette.com/sports/steelers/2026/10/20/steelers-sign-mvs/stories/202610200032",
@@ -812,21 +802,20 @@
    "id": "c170b3e653"
   },
   {
+   "title": "Plays of the Game: Germie Bernard scores first NFL touchdown to lift Steelers past Buccaneers",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/20/plays-of-the-game-germie-bernard-scores-first-nfl-touchdown-to-lift-steelers-past-buccaneers/",
+   "published": "2026-10-20T11:47:58+00:00",
+   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
+   "id": "ff47dfcfd1"
+  },
+  {
    "title": "4 Steelers standouts from their overtime victory over the Buccaneers",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/4-pittsburgh-steelers-standouts-from-their-overtime-victory-over-the-buccaneers-01m5b8avetkk?utm_source=RSS",
    "published": "2026-10-20T11:00:04+00:00",
    "summary": "News story from Still Curtain. Full report at the original publisher.",
    "id": "710f8fe7c1"
-  },
-  {
-   "title": "Steelers' Jalen Ramsey Is Not the Same Player Anymore - And That's Great News",
-   "source": "All Steelers (Sports Illustrated)",
-   "link": "https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-jalen-ramsey-not-same-player-anymore-great-news",
-   "published": "2026-10-20T11:00:04+00:00",
-   "summary": "News story from All Steelers (Sports Illustrated). Full report at the original publisher.",
-   "via": "Google News",
-   "id": "4407a08f01"
   },
   {
    "title": "First Call: Steelers reportedly signing Marquez Valdes-Scantling; a theory on Chris Boswell\u2019s FG miss dismissed",
@@ -1030,15 +1019,6 @@
    "id": "1bd65c4add"
   },
   {
-   "title": "Steelers' Paris Plan: Travel Arrangements, NFL's Statement",
-   "source": "All Steelers (Sports Illustrated)",
-   "link": "https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-paris-plan-travel-arrangements-nfl-statement",
-   "published": "2026-10-19T20:00:01+00:00",
-   "summary": "News story from All Steelers (Sports Illustrated). Full report at the original publisher.",
-   "via": "Google News",
-   "id": "97cd5de9c0"
-  },
-  {
    "title": "\u2018I don\u2019t live in fear\u2019: Pittsburgh Steelers fans press on with plans for Paris game despite protests",
    "source": "TribLive",
    "link": "https://triblive.com/sports/steelers/i-dont-live-in-fear-pittsburgh-steelers-fans-press-on-with-plans-for-paris-game-despite-protests/",
@@ -1053,15 +1033,6 @@
    "published": "2026-10-19T19:07:23+00:00",
    "summary": "News story from PennLive (Nick Farabaugh). Full report at the original publisher.",
    "id": "3f9b6d2551"
-  },
-  {
-   "title": "Steelers' Most Important Defenders Emerge in Week 6 Victory",
-   "source": "All Steelers (Sports Illustrated)",
-   "link": "https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-most-important-defenders-emerge-week-6-victory",
-   "published": "2026-10-19T19:00:02+00:00",
-   "summary": "News story from All Steelers (Sports Illustrated). Full report at the original publisher.",
-   "via": "Google News",
-   "id": "65e19b122e"
   },
   {
    "title": "Watch: Steelers coach Mike McCarthy previews Week 7 matchup with Saints",
@@ -1111,15 +1082,6 @@
    "published": "2026-10-19T16:00:02+00:00",
    "summary": "Game story from Still Curtain. Full report at the original publisher.",
    "id": "50609f1d4f"
-  },
-  {
-   "title": "Where Steelers Stand in AFC North After Huge Comeback Win",
-   "source": "All Steelers (Sports Illustrated)",
-   "link": "https://www.si.com/nfl/steelers/onsi/where-pittsburgh-steelers-stand-afc-north-huge-comeback-win",
-   "published": "2026-10-19T16:00:00+00:00",
-   "summary": "Game story from All Steelers (Sports Illustrated). Full report at the original publisher.",
-   "via": "Google News",
-   "id": "21f0831b23"
   },
   {
    "title": "Fans turned out for Steelers international watch parties",
@@ -1178,6 +1140,14 @@
    "id": "da4c5f3a6a"
   },
   {
+   "title": "Steelers Takeaways: Second-half comeback saves Pittsburgh in overtime win over Buccaneers",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/19/steelers-takeaways-second-half-comeback-saves-pittsburgh-in-overtime-win-over-buccaneers/",
+   "published": "2026-10-19T13:14:03+00:00",
+   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
+   "id": "dfe2de4202"
+  },
+  {
    "title": "Germie Bernard's growing connection with Aaron Rodgers has Steelers buzzing",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/germie-bernard-growing-connection-aaron-rodgers-pittsburgh-steelers-buzzing-01m59441d0x6?utm_source=RSS",
@@ -1200,6 +1170,14 @@
    "published": "2026-10-19T12:00:03+00:00",
    "summary": "News story from Still Curtain. Full report at the original publisher.",
    "id": "f1094d0f3b"
+  },
+  {
+   "title": "Plays of the Game: Jamel Dean\u2019s interception sets up Steelers\u2019 late lead",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/19/plays-of-the-game-jamel-deans-interception-sets-up-steelers-late-lead/",
+   "published": "2026-10-19T11:40:57+00:00",
+   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
+   "id": "c1a0198967"
   },
   {
    "title": "\u2018He\u2019s accepted the challenge\u2019: Germie Bernard rewards Steelers\u2019 faith in rookie wide receiver",
@@ -1328,6 +1306,23 @@
    "published": "2026-10-18T22:45:10+00:00",
    "summary": "News story from Pittsburgh Post-Gazette. Full report at the original publisher.",
    "id": "c9ed8693cf"
+  },
+  {
+   "title": "Ramsey is Steelers Player of the Week",
+   "source": "Steelers.com (official)",
+   "link": "https://www.steelers.com/news/ramsey-is-steelers-player-of-the-week",
+   "published": "2026-10-18T22:27:00+00:00",
+   "summary": "News story from Steelers.com (official). Full report at the original publisher.",
+   "id": "c0975a7da2"
+  },
+  {
+   "title": "Pittsburgh Steelers' top plays vs. Tampa Bay Buccaneers | Week 6",
+   "source": "NFL.com",
+   "link": "https://www.nfl.com/videos/steelers-top-plays-vs-buccaneers-week-6-x2393",
+   "published": "2026-10-18T22:18:51+00:00",
+   "via": "Google News",
+   "summary": "Game story from NFL.com. Full report at the original publisher.",
+   "id": "2622939c96"
   }
  ],
  "dropped_bad_links": 0
