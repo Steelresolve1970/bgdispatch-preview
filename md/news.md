@@ -1,8 +1,9 @@
 # Steelers News
 
-_Generated 2026-10-21T20:30:49+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T20:30:00+00:00._
+_Generated 2026-10-21T20:41:54+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T20:41:21+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Rookie Report Card: Steelers Vs Buccaneers (Week 6)](https://steelersdepot.com/2026/10/rookie-report-card-steelers-vs-buccaneers-week-6/): Steelers Depot, 2026-10-21 20:30 UTC
 - [Steelers Rookie Tackle Max Iheanachor Dealing with Hand Injury](https://steelersnow.com/steelers-rookie-tackle-max-iheanachor-dealing-with-hand-injury/): Steelers Now, 2026-10-21 20:27 UTC
 - [Steelers' Germie Bernard's Mistake Brought A Strong Response On Sideline: "What The F*** Are You Doing?"](https://www.steelernation.com/2026/10/21/steelers-germie-bernards-strong-doing): SteelerNation, 2026-10-21 20:21 UTC
 - [Mike McCarthy Reacts To Steelers Signing Marquez Valdes-Scantling, Discusses Potential Role](https://steelersdepot.com/2026/10/mike-mccarthy-reacts-to-steelers-signing-marquez-valdes-scantling-discusses-potential-role/): Steelers Depot, 2026-10-21 20:20 UTC
@@ -37,6 +38,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - ["Big Advantage For The Saints": Steelers Could Have A Problem Heading To Paris](https://www.steelernation.com/2026/10/21/steelers-big-advantage-saints-paris): SteelerNation, 2026-10-21 17:02 UTC
 - [Patrick Graham ‘Getting A Handle’ On How To Run Steelers’ Defense, Thinks Former GM](https://steelersdepot.com/2026/10/patrick-graham-getting-a-handle-on-how-to-run-steelers-defense-thinks-former-gm/): Steelers Depot, 2026-10-21 17:00 UTC
 - [Steelers CB Jalen Ramsey named AFC Defensive Player of the Week](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176643/steelers-cb-jalen-ramsey-named-afc-defensive-player-of-the-week): Behind the Steel Curtain, 2026-10-21 17:00 UTC
+- [Steelers Have Very Odd Roster Construction They Will Have to Address Soon](https://athlonsports.com/nfl/pittsburgh-steelers/steelers-have-very-odd-roster-construction-they-will-have-to-address-soon): Athlon Sports, 2026-10-21 17:00 UTC
 - [Kool-Aid McKinstry, Quincy Riley, Devaugh Vele, Justin Reid, Isaiah Stalbird press conference | Saints vs. Steelers 2026 NFL Week 7](https://www.neworleanssaints.com/video/kool-aid-mckinstry-quincy-riley-devaugh-vele-justin-reid-isaiah-stalbird-press-conference-saints-vs-steelers-2026-nfl-week-7-october-21-2026): New Orleans Saints | NewOrleansSaints.com, 2026-10-21 16:59 UTC
 - [Mickey Loomis on Saints roster, Paris game | Saints vs. Steelers 2026 NFL Week 7](https://www.neworleanssaints.com/video/mickey-loomis-interview-saints-vs-steelers-2026-nfl-week-7-october-21-2026): New Orleans Saints | NewOrleansSaints.com, 2026-10-21 16:53 UTC
 - [The Terrible Podcast — Steelers Vs. Buccaneers All-22 Review, Valdes-Scantling Return, Monday Pressers Recap & More](https://steelersdepot.com/2026/10/the-terrible-podcast-steelers-vs-buccaneers-all-22-review-valdes-scantling-return-monday-pressers-recap-more/): Steelers Depot, 2026-10-21 16:46 UTC
@@ -63,7 +65,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers Must Avoid This Veteran WR Trade Target](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-must-avoid-veteran-trade-target-chris-godwin): All Steelers (Sports Illustrated), 2026-10-21 15:00 UTC
 - [DB’s Steelers Film Room: Jamel Dean Saves the Day in Tampa](https://steelersnow.com/dbs-steelers-film-room-jamel-dean-saves-the-day-in-tampa/): Steelers Now, 2026-10-21 14:57 UTC
 - [T.J. Watt’s wife has one big question before Steelers’ historic Paris game](https://www.cleveland.com/news/2026/10/tj-watts-wife-has-one-big-question-before-steelers-historic-paris-game.html): Cleveland.com, 2026-10-21 14:48 UTC
-- [Ex-Steelers’ George Pickens Could Get Traded Because of Joey Porter Jr.: Analyst](https://heavy.com/sports/nfl/pittsburgh-steelers/george-pickens-trade-rumors-joey-porter-cowboys-nfl-news/): Heavy.com, 2026-10-21 14:43 UTC
 - [Battista: NFL is 'all systems go' for Week 7 Steelers-Saints game in Paris | 'GMFB'](https://www.nfl.com/videos/battista-nfl-is-all-systems-go-for-week-7-steelers-saints-game-in-paris-gmfb): NFL.com, 2026-10-21 14:37 UTC
 - [Steelers film study: Keeanu Benton turned in his best performance of the season against the Buccaneers](https://www.post-gazette.com/sports/steelers/2026/10/21/steelers-film-study-keeanu-benton/stories/202610210005): Pittsburgh Post-Gazette, 2026-10-21 14:06 UTC
 - [Steelers quietly catch a major break with the latest Jordyn Tyson update](https://stillcurtain.com/pittsburgh-steelers-quietly-catch-major-break-latest-jordyn-tyson-update-01m5faqwx8mz?utm_source=RSS): Still Curtain, 2026-10-21 14:01 UTC
@@ -77,7 +78,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers Can Shut Down This Trade Idea](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-shut-down-this-trade-idea-cornerback): All Steelers (Sports Illustrated), 2026-10-21 13:00 UTC
 - [Stade de France: An iconic arena](https://www.steelers.com/news/stade-de-france-an-iconic-arena): Steelers.com (official), 2026-10-21 13:00 UTC
 - [‘Makes You Have Fun:’ Germie Bernard Explains Why He Loves Playing With Aaron Rodgers](https://steelersdepot.com/2026/10/makes-you-have-fun-germie-bernard-explains-why-he-loves-playing-with-aaron-rodgers/): Steelers Depot, 2026-10-21 12:15 UTC
-- [Beat Writers Debate What Role Marquez Valdes-Scantling Will Play, And When](https://steelersdepot.com/2026/10/beat-writers-debate-what-role-marquez-valdes-scantling-will-play-and-when/): Steelers Depot, 2026-10-21 12:00 UTC
 - [Germie Bernard is making Steelers forget all about the Makai Lemon debacle](https://stillcurtain.com/germie-bernard-is-making-pittsburgh-steelers-forget-all-about-the-makai-lemon-debacle-01m5a5vwkehr?utm_source=RSS): Still Curtain, 2026-10-21 12:00 UTC
 - [Steelers cornerbacks are giving fans a reason to move on from Joey Porter Jr.](https://stillcurtain.com/pittsburgh-steelers-cornerbacks-are-giving-fans-a-reason-to-move-on-from-joey-porter-jr-01m5d5gawsq8?utm_source=RSS): Still Curtain, 2026-10-21 11:00 UTC
 - [Tim Benz: Usage of Jalen Ramsey, Germie Bernard, Rico Dowdle among the lessons learned from Steelers’ latest win](https://triblive.com/sports/tim-benz-usage-of-jalen-ramsey-germie-bernard-rico-dowdle-among-the-lessons-learned-from-steelers-latest-win/): TribLive, 2026-10-21 10:16 UTC

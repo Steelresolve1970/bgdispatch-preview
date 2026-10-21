@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T20:30:32.616660+00:00",
+ "generated": "2026-10-21T20:41:39.247682+00:00",
  "date_et": "2026-10-21",
  "days": 5,
  "display_days": 2,
@@ -90,10 +90,10 @@
    "show": "Steel City Underground",
    "kind": "podcast",
    "url": "https://feeds.feedburner.com/steelcityunderground",
-   "status": "ok",
-   "episodes": 45,
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "episodes": 0,
    "week": 1,
-   "latest": "2026-10-19T19:40:55+00:00"
+   "latest": null
   },
   {
    "show": "Steel City Underground",
@@ -207,10 +207,10 @@
    "show": "Not Just Football with Cam Heyward",
    "kind": "podcast",
    "url": "https://feeds.megaphone.fm/VMP7932485726",
-   "status": "error: <urlopen error timed out>",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 211,
    "week": 1,
-   "latest": null
+   "latest": "2026-10-21T10:00:00+00:00"
   },
   {
    "show": "Not Just Football with Cam Heyward",
@@ -225,10 +225,10 @@
    "show": "Footbahlin with Ben Roethlisberger",
    "kind": "podcast",
    "url": "https://rss.buzzsprout.com/2062616.rss",
-   "status": "error: <urlopen error timed out>",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 145,
    "week": 1,
-   "latest": null
+   "latest": "2026-10-20T22:00:00+00:00"
   },
   {
    "show": "The Christian Kuntz Podcast",
@@ -966,7 +966,7 @@
    "title": "Steelers INSIDER Jim Wexell Reveals Why Aaron Rodgers\u2019 Comeback Win Changes EVERYTHING #Steelers",
    "show": "The Steel City Insider (Jim Wexell, 247Sports)",
    "kind": "podcast",
-   "link": "https://247sports.com/nfl/pittsburgh-steelers/",
+   "link": "https://podcasts.apple.com/us/podcast/steelers-insider-jim-wexell-reveals-why-aaron-rodgers/id1623192893?i=1000797086130",
    "published": "2026-10-19T14:01:09+00:00",
    "summary": "Podcast episode from The Steel City Insider (Jim Wexell, 247Sports)."
   },
