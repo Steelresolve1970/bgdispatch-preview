@@ -1,10 +1,10 @@
 {
- "last_run": "2026-10-21T23:35:27.545226+00:00",
+ "last_run": "2026-10-21T23:46:29.782062+00:00",
  "results": [
   {
    "fetcher": "apply_grade_edits.py",
    "ok": true,
-   "seconds": 1.0,
+   "seconds": 0.5,
    "last_line": "no grade edits"
   },
   {
@@ -35,19 +35,19 @@
    "fetcher": "fetch_insiders.py",
    "ok": true,
    "seconds": 1.5,
-   "last_line": "sidebar: 6 full feed: 25"
+   "last_line": "sidebar: 6 full feed: 24"
   },
   {
    "fetcher": "fetch_film.py",
    "ok": true,
-   "seconds": 33.5,
+   "seconds": 10.0,
    "last_line": "  Week 1 vs Falcons (W 20-13): 4   {'Steelers Depot Film Room (Alex Kozora)': 1, \"Derrick Bell \u2013 DB's Film Room (Steelers Now)\": 1, 'Steelers Almighty': 1, 'Steelers Depot (YouTube)': 1}"
   },
   {
    "fetcher": "fetch_podcasts.py",
    "ok": true,
-   "seconds": 21.0,
-   "last_line": "episodes past 5 days: 128 | embed-fallback channels: 1 | post-game: 0"
+   "seconds": 13.5,
+   "last_line": "episodes past 5 days: 129 | embed-fallback channels: 0 | post-game: 0"
   },
   {
    "fetcher": "fetch_featured.py",
@@ -58,7 +58,7 @@
   {
    "fetcher": "fetch_grades.py",
    "ok": true,
-   "seconds": 1.0,
+   "seconds": 0.5,
    "last_line": "weeks 6 ballot players 40 season players 51"
   },
   {
@@ -124,7 +124,7 @@
   {
    "fetcher": "fetch_depth.py",
    "ok": true,
-   "seconds": 3.0,
+   "seconds": 2.5,
    "last_line": "depth units [('Offense', '3WR 1TE', 12), ('Defense', 'Base 3-4 D', 12), ('Special teams', 'Special Teams', 6)]"
   },
   {
@@ -172,14 +172,14 @@
   {
    "fetcher": "fetch_quotes.py",
    "ok": true,
-   "seconds": 1.0,
+   "seconds": 0.5,
    "last_line": "quotes: 8 kept from 133 articles"
   },
   {
    "fetcher": "build_machine.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "machine layer: {'news': 150, 'rumors': 64, 'injuries': 16, 'depth-chart': 28, 'schedule': 17, 'stats': 62, 'grades': 40, 'college': 20, 'insiders': 25, 'podcasts': 126, 'film': 22, 'draft': 521} md 13 feeds 5 jsonld 14"
+   "last_line": "machine layer: {'news': 150, 'rumors': 64, 'injuries': 16, 'depth-chart': 28, 'schedule': 17, 'stats': 62, 'grades': 40, 'college': 20, 'insiders': 24, 'podcasts': 127, 'film': 23, 'draft': 521} md 13 feeds 5 jsonld 14"
   }
  ]
 }

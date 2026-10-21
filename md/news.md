@@ -1,12 +1,11 @@
 # Steelers News
 
-_Generated 2026-10-21T23:35:27+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T23:34:11+00:00._
+_Generated 2026-10-21T23:46:29+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T23:45:46+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Germie Bernard Opens Up on What It’s Like Playing with Aaron Rodgers](https://steelersnow.com/germie-bernard-opens-up-on-what-its-like-playing-with-aaron-rodgers/): Steelers Now, 2026-10-21 23:33 UTC
 - [Steelers' Troy Fautanu And Max Iheanachor Face Serious Warning Signs After Bucs Game](https://www.steelernation.com/2026/10/21/steelers-troy-fautanu-max-iheanachor-warning): SteelerNation, 2026-10-21 23:32 UTC
 - [Steelers Get Encouraging Update On Safety DeShon Elliott Ahead Of Return](https://www.steelernation.com/2026/10/21/steelers-safety-deshon-elliott-return): SteelerNation, 2026-10-21 23:14 UTC
-- [French TikTokers tour Pittsburgh ahead of Steelers game in Paris](https://www.wtae.com/article/french-tiktokers-pittsburgh/74209803): WTAE, 2026-10-21 23:11 UTC
 - [Buccaneers Lineman Was Left Stunned After Steelers' Yahya Black Revealed True Weight](https://sportsnetpittsburgh.com/pittsburgh-steelers/news/steelers-yahya-black-weight-tristan-wirfs-buccaneers/c7396411c03ce135bc77702a): SportsNet Pittsburgh, 2026-10-21 23:09 UTC
 - [Marquez Valdes-Scantling is back for a reunion and hopes to bolster an injured Steelers receiver room](https://www.post-gazette.com/sports/steelers/2026/10/21/marquez-valdes-scantling-aaron-rodgers-mike-mccarthy-steelers/stories/202610210044): Pittsburgh Post-Gazette, 2026-10-21 23:07 UTC
 - [Injury Emerges for Steelers Defensive Lineman](https://steelersnow.com/injury-emerges-for-steelers-defensive-lineman/): Steelers Now, 2026-10-21 23:07 UTC
@@ -21,7 +20,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Elliott returns to full practice, full injury report](https://www.audacy.com/937thefan/sports/pittsburgh-steelers/elliott-returns-to-full-practice-full-injury-report): Audacy, 2026-10-21 21:54 UTC
 - [Steelers Veteran Cornerback Misses Practice With Injury](https://steelersnow.com/steelers-veteran-cornerback-misses-practice-with-injury/): Steelers Now, 2026-10-21 21:53 UTC
 - [Injury Hampers Steelers RB Before Saints Game](https://steelersnow.com/injury-hampers-steelers-rb-before-saints-game/): Steelers Now, 2026-10-21 21:47 UTC
-- [Steelers Week 7 Wednesday Injury Report: Full Report and Analysis](https://athlonsports.com/nfl/pittsburgh-steelers/steelers-week-7-wednesday-injury-report-full-report-and-analysis): Athlon Sports, 2026-10-21 21:46 UTC
 - [Chris Hoke talks about trip to Paris ahead of Steelers-Saints game](https://www.cbsnews.com/pittsburgh/video/chris-hoke-talks-about-trip-to-paris-ahead-of-steelers-saints-game/): CBS News, 2026-10-21 21:46 UTC
 - [Wednesday’s Saints vs. Steelers Injury Report: Cesar Ruiz did not practice](https://sports.yahoo.com/articles/wednesday-saints-vs-steelers-injury-214312529.html): Yahoo Sports, 2026-10-21 21:43 UTC
 - [Saints’ Week 7 Wednesday Injury Report: QB Tyler Shough Practices In Full, Two Others DNP](https://steelersdepot.com/2026/10/saints-week-7-wednesday-injury-report-qb-tyler-shough-practices-in-full-two-others-dnp/): Steelers Depot, 2026-10-21 21:43 UTC
@@ -89,9 +87,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers aren't going anywhere with Aaron Rodgers as QB1 despite 4-2 record](https://stillcurtain.com/pittsburgh-steelers-aren-t-going-anywhere-with-aaron-rodgers-as-qb1-despite-4-2-record-01m5bgs7rdb6?utm_source=RSS): Still Curtain, 2026-10-21 15:00 UTC
 - [Steelers Must Avoid This Veteran WR Trade Target](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-must-avoid-veteran-trade-target-chris-godwin): All Steelers (Sports Illustrated), 2026-10-21 15:00 UTC
 - [DB’s Steelers Film Room: Jamel Dean Saves the Day in Tampa](https://steelersnow.com/dbs-steelers-film-room-jamel-dean-saves-the-day-in-tampa/): Steelers Now, 2026-10-21 14:57 UTC
-- [T.J. Watt’s wife has one big question before Steelers’ historic Paris game](https://www.cleveland.com/news/2026/10/tj-watts-wife-has-one-big-question-before-steelers-historic-paris-game.html): Cleveland.com, 2026-10-21 14:48 UTC
-- [Ex-Steelers’ George Pickens Could Get Traded Because of Joey Porter Jr.: Analyst](https://heavy.com/sports/nfl/pittsburgh-steelers/george-pickens-trade-rumors-joey-porter-cowboys-nfl-news/): Heavy.com, 2026-10-21 14:43 UTC
-- [Battista: NFL is 'all systems go' for Week 7 Steelers-Saints game in Paris | 'GMFB'](https://www.nfl.com/videos/battista-nfl-is-all-systems-go-for-week-7-steelers-saints-game-in-paris-gmfb): NFL.com, 2026-10-21 14:37 UTC
 - [Steelers film study: Keeanu Benton turned in his best performance of the season against the Buccaneers](https://www.post-gazette.com/sports/steelers/2026/10/21/steelers-film-study-keeanu-benton/stories/202610210005): Pittsburgh Post-Gazette, 2026-10-21 14:06 UTC
 - [Steelers quietly catch a major break with the latest Jordyn Tyson update](https://stillcurtain.com/pittsburgh-steelers-quietly-catch-major-break-latest-jordyn-tyson-update-01m5faqwx8mz?utm_source=RSS): Still Curtain, 2026-10-21 14:01 UTC
 - [Gerry Dulac’s Steelers chat transcript: 10.21.26](https://www.post-gazette.com/sports/steelers/2026/10/21/nfl-paris-game-steelers-saints/stories/202610210043): Pittsburgh Post-Gazette, 2026-10-21 14:00 UTC
@@ -153,6 +148,11 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers’ travel plans give Saints a 4-day head start in Paris](https://triblive.com/sports/steelers-travel-plans-give-saints-a-4-day-headstart-in-paris/): TribLive, 2026-10-20 00:08 UTC
 - [Following the leader, a re-kick and the gist of run defense](https://www.steelers.com/news/following-the-leader-a-re-kick-and-the-gist-of-run-defense): Steelers.com (official), 2026-10-20 00:00 UTC
 - [Playmaking Jalen Ramsey has maybe his best game with Steelers in win vs. Bucs](https://triblive.com/sports/playmaking-jalen-ramsey-has-maybe-his-best-game-with-steelers-in-win-vs-bucs/): TribLive, 2026-10-19 21:22 UTC
+- [The protests in France are a ‘continuing conversation’ for the Steelers before their game in Paris](https://www.post-gazette.com/sports/steelers/2026/10/19/steelers-paris-game-france-protests/stories/202610190026): Pittsburgh Post-Gazette, 2026-10-19 21:21 UTC
+- ['It goes a long way'](https://www.steelers.com/news/it-goes-a-long-way): Steelers.com (official), 2026-10-19 21:00 UTC
+- [The Steelers are heading to Paris for an NFL game as France faces civil unrest — here’s what the team is doing to prepare](https://www.pennlive.com/steelers/2026/10/the-steelers-are-heading-to-paris-for-an-nfl-game-as-france-faces-civil-unrest-heres-what-the-team-is-doing-to-prepare.html): PennLive (Nick Farabaugh), 2026-10-19 20:03 UTC
+- [Steelers fans expecting a bolder Mike McCarthy are learning a painful lesson](https://stillcurtain.com/pittsburgh-steelers-fans-expecting-bolder-mike-mccarthy-learning-painful-lesson-01m5ag1p2tyd?utm_source=RSS): Still Curtain, 2026-10-19 20:00 UTC
+- [Steelers' Paris Plan: Travel Arrangements, NFL's Statement](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-paris-plan-travel-arrangements-nfl-statement): All Steelers (Sports Illustrated), 2026-10-19 20:00 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

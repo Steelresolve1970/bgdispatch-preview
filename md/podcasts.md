@@ -1,8 +1,10 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-21T23:35:27+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T23:35:10+00:00._
+_Generated 2026-10-21T23:46:29+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T23:46:14+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Video: [Getting DK Metcalf Going? | Steelers Practice Report](https://www.youtube.com/watch?v=tOh3UND3O0A): Steelers Now, 2026-10-21 23:25 UTC
+- Video: [Steelers Night Shift: Week 7 vs. New Orleans Saints](https://www.youtube.com/watch?v=1gauqdYWUL8): Steelers Now, 2026-10-21 23:07 UTC
 - Video: [Sights & Sounds: Week 6 Win at Tampa Bay Buccaneers | Pittsburgh Steelers](https://www.youtube.com/watch?v=Trzxzx_RfSs): Pittsburgh Steelers (official), 2026-10-21 23:00 UTC
 - Video: [Coach Mike McCarthy Press Conference (October 21) | Pittsburgh Steelers](https://www.youtube.com/watch?v=2BEQkzVwsWQ): Pittsburgh Steelers (official), 2026-10-21 22:25 UTC
 - Podcast: [DK’s Double Shot of Steelers: Almost Paris!](https://podcasts.apple.com/us/podcast/id1072021022): DK Pittsburgh Sports, 2026-10-21 22:10 UTC
@@ -124,7 +126,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [The Terrible Take - Episode 2053 - October 17, 2026](https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2053-october-17-2026/id405990739?i=1000796840142): The Terrible Podcast (Steelers Depot), 2026-10-17 21:00 UTC
 - Video: [Which Steelers Are Fantasy Must-Plays in Week 6? | THE PITTSBURGH FOOTBALL SHOW](https://www.youtube.com/watch?v=QLTI3E_BS94): Steelers Now, 2026-10-17 15:48 UTC
 - Podcast: [State of the Steelers: Can The Steelers Fix Its Road Woes in Tampa Bay?](https://podcasts.apple.com/us/podcast/state-of-the-steelers-can-the-steelers-fix-its-road/id905962218?i=1000796815256): Steel Curtain Network (BTSC), 2026-10-17 15:09 UTC
-- Video: [Burgh Bets with Bob Konarski: NFL and CFB Picks and Props for Week 6 | THE PITTSBURGH FOOTBALL SHOW](https://www.youtube.com/watch?v=Z7xvi-201f4): Steelers Now, 2026-10-17 13:45 UTC
 - Podcast: [Steel City Insider: Previewing Steelers vs. Buccaneers, with Jon Ledyard](https://podcasts.apple.com/us/podcast/steel-city-insider-previewing-steelers-vs-buccaneers/id905962218?i=1000796781684): Steel Curtain Network (BTSC), 2026-10-17 08:00 UTC
 - Podcast: [🔥 JAYLEN WARREN ON FIRE! CAN THE STEELERS SINK TAMPA BAY? | SF7P EPISODE 211 ⚫🟡](https://podcasters.spotify.com/pod/show/steelersfor7podcast/episodes/JAYLEN-WARREN-ON-FIRE--CAN-THE-STEELERS-SINK-TAMPA-BAY---SF7P-EPISODE-211-e3qkqod): Steelers for 7 Podcast, 2026-10-17 04:46 UTC
 - Podcast: [The Homies: Gridiron Grind & AFC North Week 6 Matchups](https://podcasts.apple.com/us/podcast/the-homies-gridiron-grind-afc-north-week-6-matchups/id905962218?i=1000796754318): Steel Curtain Network (BTSC), 2026-10-17 02:15 UTC

@@ -1,7 +1,7 @@
 {
  "api_version": "1",
  "name": "Black & Gold Dispatch data API",
- "generated": "2026-10-21T23:35:27+00:00",
+ "generated": "2026-10-21T23:46:29+00:00",
  "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "openapi": "https://blackandgolddispatch.com/api/v1/openapi.json",
@@ -19,7 +19,7 @@
    "markdown": "https://blackandgolddispatch.com/md/news.md",
    "description": "Steelers headlines from beat writers, national outlets and blogs, with our one-line summaries and links to the publisher.",
    "count": 150,
-   "data_updated": "2026-10-21T23:34:11+00:00"
+   "data_updated": "2026-10-21T23:45:46+00:00"
   },
   {
    "name": "rumors",
@@ -27,7 +27,7 @@
    "markdown": "https://blackandgolddispatch.com/md/rumors.md",
    "description": "Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).",
    "count": 64,
-   "data_updated": "2026-10-21T23:35:21+00:00"
+   "data_updated": "2026-10-21T23:46:24+00:00"
   },
   {
    "name": "injuries",
@@ -43,7 +43,7 @@
    "markdown": "https://blackandgolddispatch.com/md/depth-chart.md",
    "description": "Steelers depth chart by unit and position, 1st/2nd/3rd string with injury tags (nflverse, CC-BY 4.0).",
    "count": 28,
-   "data_updated": "2026-10-21T23:35:17+00:00"
+   "data_updated": "2026-10-21T23:46:20+00:00"
   },
   {
    "name": "schedule",
@@ -51,7 +51,7 @@
    "markdown": "https://blackandgolddispatch.com/md/schedule.md",
    "description": "Steelers season schedule and results (nflverse, CC-BY 4.0).",
    "count": 17,
-   "data_updated": "2026-10-21T23:34:11+00:00"
+   "data_updated": "2026-10-21T23:45:46+00:00"
   },
   {
    "name": "stats",
@@ -82,24 +82,24 @@
    "url": "https://blackandgolddispatch.com/api/v1/insiders.json",
    "markdown": "https://blackandgolddispatch.com/md/insiders.md",
    "description": "Last 3 days of public posts from NFL insiders and Steelers beat writers (links only).",
-   "count": 25,
-   "data_updated": "2026-10-21T23:34:14+00:00"
+   "count": 24,
+   "data_updated": "2026-10-21T23:45:49+00:00"
   },
   {
    "name": "podcasts",
    "url": "https://blackandgolddispatch.com/api/v1/podcasts.json",
    "markdown": "https://blackandgolddispatch.com/md/podcasts.md",
    "description": "Today's Steelers podcast episodes and YouTube videos (links).",
-   "count": 126,
-   "data_updated": "2026-10-21T23:35:10+00:00"
+   "count": 127,
+   "data_updated": "2026-10-21T23:46:14+00:00"
   },
   {
    "name": "film",
    "url": "https://blackandgolddispatch.com/api/v1/film.json",
    "markdown": "https://blackandgolddispatch.com/md/film.md",
    "description": "Film breakdowns of the last game and previews of the next game (links).",
-   "count": 22,
-   "data_updated": "2026-10-21T23:34:16+00:00"
+   "count": 23,
+   "data_updated": "2026-10-21T23:45:50+00:00"
   },
   {
    "name": "draft",
@@ -107,7 +107,7 @@
    "markdown": "https://blackandgolddispatch.com/md/draft.md",
    "description": "Steelers draft hub: top prospects per need with our estimated chance each is available at the Steelers' projected picks, published analyst grades of the last class (letter + link), and every past Steelers pick (nflverse, CC-BY 4.0).",
    "count": 521,
-   "data_updated": "2026-10-21T23:35:15+00:00"
+   "data_updated": "2026-10-21T23:46:18+00:00"
   }
  ]
 }
