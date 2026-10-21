@@ -1,17 +1,19 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-21T13:27:22+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T13:27:16+00:00._
+_Generated 2026-10-21T13:38:16+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T13:38:09+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
-- **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
+- **Rumor** · tier: National insider · consensus: 3 source(s), top tier National insider
   [Aaron Rodgers reportedly eyes Buccaneers WR as potential trade target for the Steelers](https://sports.yahoo.com/articles/aaron-rodgers-reportedly-eyes-buccaneers-114842350.html): Yahoo Sports, first seen 2026-10-21 13:05 UTC
+- **Rumor** · tier: Aggregator / other · consensus: 3 source(s), top tier National insider
+  [Aaron Rodgers Reportedly Eyes Buccaneers WR As Potential Trade Target For The Steelers](https://wisportsheroics.com/aaron-rodgers-eyeing-chris-godwin-steelers/): Wisconsin Sports Heroics, first seen 2026-10-21 13:38 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 10 source(s), top tier National insider
   [First Call: Steelers’ WR trade speculation; Najee Harris may be out in New York; big hockey win for RMU at Penn State](https://triblive.com/sports/first-call-steelers-wr-trade-speculation-najee-harris-may-be-out-in-new-york-big-hockey-win-for-rmu-at-penn-state/): TribLIVE.com, first seen 2026-10-21 11:10 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 2 source(s), top tier Aggregator / other
   [Trade Rumors: 49ers, Mack, Godwin, Bucs, Steelers, Bills, Bennett, Rams](https://www.yardbarker.com/nfl/articles/trade_rumors_49ers_mack_godwin_bucs_steelers_bills_bennett_rams/s1_14819_44453789): Yardbarker, first seen 2026-10-21 04:38 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 2 source(s), top tier Aggregator / other
   [Trade Rumors: 49ers, Mack, Godwin, Bucs, Steelers, Bills, Bennett, Rams](https://www.profootballrumors.com/2026/10/trade-rumors-49ers-mack-godwin-buccaneers-steelers-bills-bennett-rams): ProFootballRumors.com, first seen 2026-10-21 04:50 UTC
-- **Rumor** · tier: Aggregator / other · consensus: 2 source(s), top tier National insider
+- **Rumor** · tier: Aggregator / other · consensus: 3 source(s), top tier National insider
   [Aaron Rodgers Reportedly Has ‘Favorite’ WR Trade Target](https://heavy.com/sports/nfl/pittsburgh-steelers/aaron-rodgers-favorite-wr-trade-target/): Heavy.com, first seen 2026-10-21 00:34 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Steelers Rumors: Could Davante Adams Be a Trade Target?](https://www.chatsports.com/pittsburgh-steelers/a/steelers-rumors-could-davante-adams-be-trade-target-53435): Chat Sports, first seen 2026-10-21 00:05 UTC

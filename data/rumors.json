@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T13:27:16.424027+00:00",
+ "generated": "2026-10-21T13:38:09.841908+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -61,18 +61,51 @@
    "first_seen": "2026-10-21T13:05:41.045260+00:00",
    "consensus": {
     "cluster_id": "14ffc5da6c16",
-    "independent_sources": 2,
+    "independent_sources": 3,
     "sources": [
      "Heavy.com",
+     "Wisconsin Sports Heroics",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "173465376593",
      "14ffc5da6c16"
     ]
    },
    "updated": "2026-10-21T13:05:41.045260+00:00"
+  },
+  {
+   "id": "173465376593",
+   "title": "Aaron Rodgers Reportedly Eyes Buccaneers WR As Potential Trade Target For The Steelers",
+   "source": "Wisconsin Sports Heroics",
+   "link": "https://wisportsheroics.com/aaron-rodgers-eyeing-chris-godwin-steelers/",
+   "published": "2026-10-21T11:48:42+00:00",
+   "summary": "Rumor-style report from Wisconsin Sports Heroics on a Steelers roster move. Full details at the source.",
+   "tier": "Aggregator / other",
+   "tier_score": 1,
+   "subjects": [],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-21T13:38:09.841908+00:00",
+   "consensus": {
+    "cluster_id": "14ffc5da6c16",
+    "independent_sources": 3,
+    "sources": [
+     "Heavy.com",
+     "Wisconsin Sports Heroics",
+     "Yahoo Sports"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "794b3684899f",
+     "14ffc5da6c16"
+    ]
+   },
+   "updated": "2026-10-21T13:38:09.841908+00:00"
   },
   {
    "id": "c774b8995598",
@@ -207,15 +240,17 @@
    "first_seen": "2026-10-21T00:34:42.545004+00:00",
    "consensus": {
     "cluster_id": "14ffc5da6c16",
-    "independent_sources": 2,
+    "independent_sources": 3,
     "sources": [
      "Heavy.com",
+     "Wisconsin Sports Heroics",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "794b3684899f"
+     "794b3684899f",
+     "173465376593"
     ]
    },
    "updated": "2026-10-21T00:34:42.545004+00:00"
