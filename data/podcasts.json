@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T14:10:17.453118+00:00",
+ "generated": "2026-10-21T14:21:14.545791+00:00",
  "date_et": "2026-10-21",
  "days": 5,
  "display_days": 2,
@@ -90,10 +90,10 @@
    "show": "Steel City Underground",
    "kind": "podcast",
    "url": "https://feeds.feedburner.com/steelcityunderground",
-   "status": "ok",
-   "episodes": 45,
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "episodes": 0,
    "week": 1,
-   "latest": "2026-10-19T19:40:55+00:00"
+   "latest": null
   },
   {
    "show": "Steel City Underground",
@@ -438,7 +438,7 @@
    "title": "Steelers Crazy #300 - Saints Vs Steelers In Paris",
    "show": "The Sick Podcast - Steelers Crazy",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/steelers-crazy-300-saints-vs-steelers-in-paris/id1640291008?i=1000797311768",
+   "link": "https://anchor.fm/the-sick-podcast---steelers-crazy",
    "published": "2026-10-20T19:12:00+00:00",
    "summary": "Podcast episode from The Sick Podcast - Steelers Crazy."
   },

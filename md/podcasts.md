@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-21T14:10:34+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T14:10:17+00:00._
+_Generated 2026-10-21T14:21:59+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T14:21:14+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [Time to Believe in One Steelers Player](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-21 12:18 UTC
@@ -22,7 +22,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [The Steelers Need to Run the Ball on Third Down More Often 🚨 #steelers #nfl](https://www.youtube.com/shorts/nyEwZLT3nXM): Locked On Steelers, 2026-10-20 21:29 UTC
 - Podcast: [The Terrible Take - Episode 2056 - October 20, 2026](https://podcasts.apple.com/us/podcast/id405990739): The Terrible Podcast (Steelers Depot), 2026-10-20 21:00 UTC
 - Podcast: [Drive10.20.26Hr1: Scouting the Saints](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-20-26hr1-mp3): SNR Drive, 2026-10-20 20:00 UTC
-- Podcast: [Steelers Crazy #300 - Saints Vs Steelers In Paris](https://podcasts.apple.com/us/podcast/steelers-crazy-300-saints-vs-steelers-in-paris/id1640291008?i=1000797311768): The Sick Podcast - Steelers Crazy, 2026-10-20 19:12 UTC
+- Podcast: [Steelers Crazy #300 - Saints Vs Steelers In Paris](https://anchor.fm/the-sick-podcast---steelers-crazy): The Sick Podcast - Steelers Crazy, 2026-10-20 19:12 UTC
 - Podcast: [Drive10.20.26Hr2: Week Seven Power Rankings](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-20-26hr2-mp3): SNR Drive, 2026-10-20 19:00 UTC
 - Video: [Is the Steelers pass defense actually fine without Joey Porter Jr? #steelers #nfl](https://www.youtube.com/shorts/I8qkYpoHneg): Still Curtain Podcast, 2026-10-20 18:15 UTC
 - Video: [That crowd pop 💥 📺: #PITvsNO 10/25 at 9:30 AM ET on NFLN](https://www.youtube.com/shorts/OlJTbqdizjI): Pittsburgh Steelers (official), 2026-10-20 18:07 UTC

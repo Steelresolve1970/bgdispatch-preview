@@ -2,8 +2,8 @@
  "api_version": "1",
  "dataset": "draft",
  "description": "Steelers draft hub: top prospects per need with our estimated chance each is available at the Steelers' projected picks, published analyst grades of the last class (letter + link), and every past Steelers pick (nflverse, CC-BY 4.0).",
- "generated": "2026-10-21T14:10:34+00:00",
- "data_updated": "2026-10-21T14:10:22+00:00",
+ "generated": "2026-10-21T14:21:59+00:00",
+ "data_updated": "2026-10-21T14:21:41+00:00",
  "count": 521,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
@@ -57,7 +57,7 @@
    "position": "QB",
    "school": "Oklahoma State",
    "our_board_rank": 4,
-   "our_grade": 93.5,
+   "our_grade": 94.0,
    "chance_available": [
     {
      "round": 1,
@@ -86,7 +86,7 @@
    "position": "QB",
    "school": "Texas",
    "our_board_rank": 7,
-   "our_grade": 92.3,
+   "our_grade": 92.6,
    "chance_available": [
     {
      "round": 1,
@@ -115,7 +115,7 @@
    "position": "QB",
    "school": "Oregon",
    "our_board_rank": 10,
-   "our_grade": 91.0,
+   "our_grade": 91.3,
    "chance_available": [
     {
      "round": 1,
@@ -144,7 +144,7 @@
    "position": "QB",
    "school": "Ole Miss",
    "our_board_rank": 31,
-   "our_grade": 85.6,
+   "our_grade": 85.9,
    "chance_available": [
     {
      "round": 1,
@@ -173,7 +173,7 @@
    "position": "QB",
    "school": "Georgia",
    "our_board_rank": 40,
-   "our_grade": 83.9,
+   "our_grade": 84.2,
    "chance_available": [
     {
      "round": 1,
@@ -202,7 +202,7 @@
    "position": "QB",
    "school": "South Carolina",
    "our_board_rank": 51,
-   "our_grade": 81.0,
+   "our_grade": 81.3,
    "chance_available": [
     {
      "round": 1,
@@ -231,7 +231,7 @@
    "position": "CB",
    "school": "Notre Dame",
    "our_board_rank": 8,
-   "our_grade": 92.3,
+   "our_grade": 92.6,
    "chance_available": [
     {
      "round": 1,
@@ -259,13 +259,13 @@
    "name": "Ellis Robinson IV",
    "position": "CB",
    "school": "Georgia",
-   "our_board_rank": 11,
-   "our_grade": 90.6,
+   "our_board_rank": 12,
+   "our_grade": 90.9,
    "chance_available": [
     {
      "round": 1,
      "pick": 22,
-     "percent": 8
+     "percent": 11
     },
     {
      "round": 2,
@@ -288,13 +288,13 @@
    "name": "Kelley Jones",
    "position": "CB",
    "school": "Mississippi State",
-   "our_board_rank": 23,
-   "our_grade": 86.7,
+   "our_board_rank": 22,
+   "our_grade": 87.0,
    "chance_available": [
     {
      "round": 1,
      "pick": 22,
-     "percent": 55
+     "percent": 52
     },
     {
      "round": 2,
@@ -318,7 +318,7 @@
    "position": "CB",
    "school": "Clemson",
    "our_board_rank": 27,
-   "our_grade": 86.0,
+   "our_grade": 86.3,
    "chance_available": [
     {
      "round": 1,
@@ -347,7 +347,7 @@
    "position": "CB",
    "school": "Oklahoma",
    "our_board_rank": 39,
-   "our_grade": 84.0,
+   "our_grade": 84.3,
    "chance_available": [
     {
      "round": 1,
@@ -376,7 +376,7 @@
    "position": "CB",
    "school": "Alabama",
    "our_board_rank": 44,
-   "our_grade": 83.4,
+   "our_grade": 83.7,
    "chance_available": [
     {
      "round": 1,
@@ -405,7 +405,7 @@
    "position": "S",
    "school": "Georgia",
    "our_board_rank": 14,
-   "our_grade": 89.5,
+   "our_grade": 89.8,
    "chance_available": [
     {
      "round": 1,
@@ -434,7 +434,7 @@
    "position": "S",
    "school": "Notre Dame",
    "our_board_rank": 42,
-   "our_grade": 83.7,
+   "our_grade": 83.9,
    "chance_available": [
     {
      "round": 1,
@@ -462,8 +462,8 @@
    "name": "Jelani McDonald",
    "position": "S",
    "school": "Texas",
-   "our_board_rank": 73,
-   "our_grade": 78.8,
+   "our_board_rank": 72,
+   "our_grade": 79.6,
    "chance_available": [
     {
      "round": 1,
@@ -473,7 +473,7 @@
     {
      "round": 2,
      "pick": 54,
-     "percent": 75
+     "percent": 74
     }
    ],
    "estimate": true,
@@ -492,7 +492,7 @@
    "position": "S",
    "school": "Ohio State",
    "our_board_rank": 102,
-   "our_grade": 77.1,
+   "our_grade": 77.9,
    "chance_available": [
     {
      "round": 1,
@@ -521,7 +521,7 @@
    "position": "S",
    "school": "Oregon",
    "our_board_rank": 114,
-   "our_grade": 76.7,
+   "our_grade": 77.5,
    "chance_available": [
     {
      "round": 1,
@@ -550,7 +550,7 @@
    "position": "S",
    "school": "California",
    "our_board_rank": 119,
-   "our_grade": 76.6,
+   "our_grade": 77.4,
    "chance_available": [
     {
      "round": 1,
@@ -578,8 +578,8 @@
    "name": "Kamari Wilson",
    "position": "S",
    "school": "West Virginia",
-   "our_board_rank": 143,
-   "our_grade": 75.9,
+   "our_board_rank": 138,
+   "our_grade": 76.6,
    "chance_available": [
     {
      "round": 1,
@@ -589,7 +589,7 @@
     {
      "round": 2,
      "pick": 54,
-     "percent": 96
+     "percent": 95
     }
    ],
    "estimate": true,
@@ -607,8 +607,8 @@
    "name": "Jordan Castell",
    "position": "S",
    "school": "Kentucky",
-   "our_board_rank": 152,
-   "our_grade": 75.6,
+   "our_board_rank": 148,
+   "our_grade": 76.3,
    "chance_available": [
     {
      "round": 1,
@@ -636,8 +636,8 @@
    "name": "Keon Sabb",
    "position": "S",
    "school": "Alabama",
-   "our_board_rank": 164,
-   "our_grade": 75.2,
+   "our_board_rank": 166,
+   "our_grade": 75.9,
    "chance_available": [
     {
      "round": 1,
@@ -666,7 +666,7 @@
    "position": "LB",
    "school": "Georgia",
    "our_board_rank": 25,
-   "our_grade": 86.3,
+   "our_grade": 86.6,
    "chance_available": [
     {
      "round": 1,
@@ -695,7 +695,7 @@
    "position": "LB",
    "school": "Clemson",
    "our_board_rank": 26,
-   "our_grade": 86.3,
+   "our_grade": 86.6,
    "chance_available": [
     {
      "round": 1,
@@ -723,8 +723,8 @@
    "name": "Suntarine Perkins",
    "position": "LB",
    "school": "Ole Miss",
-   "our_board_rank": 92,
-   "our_grade": 77.6,
+   "our_board_rank": 91,
+   "our_grade": 78.4,
    "chance_available": [
     {
      "round": 1,
@@ -734,7 +734,7 @@
     {
      "round": 2,
      "pick": 54,
-     "percent": 87
+     "percent": 86
     }
    ],
    "estimate": true,
@@ -752,8 +752,8 @@
    "name": "Raylen Wilson",
    "position": "LB",
    "school": "Georgia",
-   "our_board_rank": 104,
-   "our_grade": 77.1,
+   "our_board_rank": 105,
+   "our_grade": 77.8,
    "chance_available": [
     {
      "round": 1,
@@ -763,7 +763,7 @@
     {
      "round": 2,
      "pick": 54,
-     "percent": 90
+     "percent": 91
     }
    ],
    "estimate": true,
@@ -782,7 +782,7 @@
    "position": "LB",
    "school": "Florida",
    "our_board_rank": 120,
-   "our_grade": 76.6,
+   "our_grade": 77.4,
    "chance_available": [
     {
      "round": 1,
@@ -810,8 +810,8 @@
    "name": "Rasheem Biles",
    "position": "LB",
    "school": "Texas",
-   "our_board_rank": 132,
-   "our_grade": 76.2,
+   "our_board_rank": 130,
+   "our_grade": 76.9,
    "chance_available": [
     {
      "round": 1,
@@ -840,7 +840,7 @@
    "position": "WR",
    "school": "Ohio State",
    "our_board_rank": 3,
-   "our_grade": 94.0,
+   "our_grade": 94.4,
    "chance_available": [
     {
      "round": 1,
@@ -868,13 +868,13 @@
    "name": "Cam Coleman",
    "position": "WR",
    "school": "Texas",
-   "our_board_rank": 12,
-   "our_grade": 90.5,
+   "our_board_rank": 11,
+   "our_grade": 91.0,
    "chance_available": [
     {
      "round": 1,
      "pick": 22,
-     "percent": 11
+     "percent": 8
     },
     {
      "round": 2,
@@ -898,7 +898,7 @@
    "position": "WR",
    "school": "Indiana",
    "our_board_rank": 16,
-   "our_grade": 89.2,
+   "our_grade": 89.5,
    "chance_available": [
     {
      "round": 1,
@@ -926,13 +926,13 @@
    "name": "Ryan Coleman-Williams",
    "position": "WR",
    "school": "Alabama",
-   "our_board_rank": 22,
+   "our_board_rank": 23,
    "our_grade": 87.0,
    "chance_available": [
     {
      "round": 1,
      "pick": 22,
-     "percent": 52
+     "percent": 55
     },
     {
      "round": 2,
@@ -956,7 +956,7 @@
    "position": "WR",
    "school": "Indiana",
    "our_board_rank": 28,
-   "our_grade": 86.0,
+   "our_grade": 86.3,
    "chance_available": [
     {
      "round": 1,
@@ -985,7 +985,7 @@
    "position": "WR",
    "school": "Rutgers",
    "our_board_rank": 47,
-   "our_grade": 82.4,
+   "our_grade": 82.7,
    "chance_available": [
     {
      "round": 1,
@@ -1014,7 +1014,7 @@
    "position": "WR",
    "school": "Florida State",
    "our_board_rank": 49,
-   "our_grade": 82.4,
+   "our_grade": 82.7,
    "chance_available": [
     {
      "round": 1,
@@ -1035,25 +1035,25 @@
    }
   },
   {
-   "id": "5553697617e667a3",
+   "id": "c8bf415f1d30180c",
    "type": "draft_prospect",
    "need": "Wide receiver",
    "need_rank": 5,
-   "name": "Ryan Wingo",
+   "name": "Shazz Preston",
    "position": "WR",
-   "school": "Texas",
-   "our_board_rank": 71,
-   "our_grade": 78.9,
+   "school": "Indiana",
+   "our_board_rank": 74,
+   "our_grade": 79.2,
    "chance_available": [
     {
      "round": 1,
      "pick": 22,
-     "percent": 97
+     "percent": 98
     },
     {
      "round": 2,
      "pick": 54,
-     "percent": 76
+     "percent": 78
     }
    ],
    "estimate": true,
@@ -1064,15 +1064,15 @@
    }
   },
   {
-   "id": "c8bf415f1d30180c",
+   "id": "5553697617e667a3",
    "type": "draft_prospect",
    "need": "Wide receiver",
    "need_rank": 5,
-   "name": "Shazz Preston",
+   "name": "Ryan Wingo",
    "position": "WR",
-   "school": "Indiana",
+   "school": "Texas",
    "our_board_rank": 76,
-   "our_grade": 78.3,
+   "our_grade": 79.1,
    "chance_available": [
     {
      "round": 1,
