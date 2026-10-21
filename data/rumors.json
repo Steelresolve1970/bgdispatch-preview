@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T04:38:29.893913+00:00",
+ "generated": "2026-10-21T04:50:18.049577+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -58,16 +58,48 @@
    "status_link": null,
    "first_seen": "2026-10-21T04:38:29.893913+00:00",
    "consensus": {
-    "cluster_id": "455b1e42b8b0",
-    "independent_sources": 1,
+    "cluster_id": "c1595a5a26b6",
+    "independent_sources": 2,
     "sources": [
+     "ProFootballRumors.com",
      "Yardbarker"
     ],
     "highest_tier": "Aggregator / other",
     "highest_tier_score": 1,
-    "related_ids": []
+    "related_ids": [
+     "c1595a5a26b6"
+    ]
    },
    "updated": "2026-10-21T04:38:29.893913+00:00"
+  },
+  {
+   "id": "c1595a5a26b6",
+   "title": "Trade Rumors: 49ers, Mack, Godwin, Bucs, Steelers, Bills, Bennett, Rams",
+   "source": "ProFootballRumors.com",
+   "link": "https://www.profootballrumors.com/2026/10/trade-rumors-49ers-mack-godwin-buccaneers-steelers-bills-bennett-rams",
+   "published": "2026-10-21T04:02:01+00:00",
+   "summary": "Rumor-style report from ProFootballRumors.com on a Steelers roster move. Full details at the source.",
+   "tier": "Aggregator / other",
+   "tier_score": 1,
+   "subjects": [],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-21T04:50:18.049577+00:00",
+   "consensus": {
+    "cluster_id": "c1595a5a26b6",
+    "independent_sources": 2,
+    "sources": [
+     "ProFootballRumors.com",
+     "Yardbarker"
+    ],
+    "highest_tier": "Aggregator / other",
+    "highest_tier_score": 1,
+    "related_ids": [
+     "455b1e42b8b0"
+    ]
+   },
+   "updated": "2026-10-21T04:50:18.049577+00:00"
   },
   {
    "id": "14ffc5da6c16",
