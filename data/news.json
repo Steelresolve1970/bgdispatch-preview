@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T03:34:46.625381+00:00",
+ "generated": "2026-10-21T03:46:23.395470+00:00",
  "count": 150,
  "sources": [
   {
@@ -29,8 +29,8 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "ok",
-   "steelers_items": 24
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "steelers_items": 0
   },
   {
    "source": "Still Curtain",
@@ -106,6 +106,15 @@
   }
  ],
  "items": [
+  {
+   "title": "Spotlight Focuses on Saints Before Game vs. Pittsburgh Steelers in Paris",
+   "source": "roundtable.io",
+   "link": "https://roundtable.io/sports/nfl/saints/news/spotlight-focuses-on-saints-before-game-vs-pittsburgh-steelers-in-paris",
+   "published": "2026-10-21T03:33:03+00:00",
+   "via": "Google News",
+   "summary": "Game story from roundtable.io. Full report at the original publisher.",
+   "id": "42b340da1d"
+  },
   {
    "title": "Wide receiver-needy Steelers bring back veteran Marquez Valdes-Scantling",
    "source": "The Washington Post",
@@ -221,14 +230,6 @@
    "published": "2026-10-20T23:00:12+00:00",
    "summary": "Game story from Steelers Depot. Full report at the original publisher.",
    "id": "9356b7ca3c"
-  },
-  {
-   "title": "Steelers sign veteran receiver Marquez Valdes-Scantling to practice squad",
-   "source": "TribLive",
-   "link": "https://triblive.com/sports/steelers-sign-veteran-receiver-marquez-valdes-scantling-to-practice-squad/",
-   "published": "2026-10-20T22:57:29+00:00",
-   "summary": "Injury story from TribLive. Full report at the original publisher.",
-   "id": "47df9d0a12"
   },
   {
    "title": "Could Steelers Snatch Pro Bowl WR From Latest Opponent?",
@@ -368,15 +369,6 @@
    "published": "2026-10-20T20:33:43+00:00",
    "summary": "News story from Steelers Now. Full report at the original publisher.",
    "id": "d783650d95"
-  },
-  {
-   "title": "Looking at Saints-Steelers history leading into historic Paris matchup",
-   "source": "Saints Wire",
-   "link": "https://saintswire.usatoday.com/story/sports/nfl/saints/2026/10/20/saints-steelers-history-record-nfl-paris-game/92349529007/",
-   "published": "2026-10-20T20:33:00+00:00",
-   "via": "Google News",
-   "summary": "News story from Saints Wire. Full report at the original publisher.",
-   "id": "d4828d8b63"
   },
   {
    "title": "\u2018It Confuses, Confounds, Flabbergasts\u2019: Trai Essex Frustrated With Steelers\u2019 Week 6 Usage Of Jaylen Warren",
@@ -680,14 +672,6 @@
    "id": "38796afb44"
   },
   {
-   "title": "Steelers Surprises: Unexpected heroes emerge in overtime comeback against Buccaneers",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/20/steelers-surprises-unexpected-heroes-emerge-in-overtime-comeback-against-buccaneers/",
-   "published": "2026-10-20T14:49:26+00:00",
-   "summary": "News story from Steel City Underground. Full report at the original publisher.",
-   "id": "5f3153e761"
-  },
-  {
    "title": "Stars & Skulls Grades for Steelers-Buccaneers | Locked On",
    "source": "Steelers Now",
    "link": "https://steelersnow.com/stars-skulls-grades-for-steelers-buccaneers-locked-on/",
@@ -818,14 +802,6 @@
    "published": "2026-10-20T12:00:00+00:00",
    "summary": "Opinion story from Pittsburgh Post-Gazette. Full report at the original publisher.",
    "id": "c170b3e653"
-  },
-  {
-   "title": "Plays of the Game: Germie Bernard scores first NFL touchdown to lift Steelers past Buccaneers",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/20/plays-of-the-game-germie-bernard-scores-first-nfl-touchdown-to-lift-steelers-past-buccaneers/",
-   "published": "2026-10-20T11:47:58+00:00",
-   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
-   "id": "ff47dfcfd1"
   },
   {
    "title": "NFL Paris game still on despite France riots, league says",
@@ -1203,14 +1179,6 @@
    "id": "da4c5f3a6a"
   },
   {
-   "title": "Steelers Takeaways: Second-half comeback saves Pittsburgh in overtime win over Buccaneers",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/19/steelers-takeaways-second-half-comeback-saves-pittsburgh-in-overtime-win-over-buccaneers/",
-   "published": "2026-10-19T13:14:03+00:00",
-   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
-   "id": "dfe2de4202"
-  },
-  {
    "title": "Germie Bernard's growing connection with Aaron Rodgers has Steelers buzzing",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/germie-bernard-growing-connection-aaron-rodgers-pittsburgh-steelers-buzzing-01m59441d0x6?utm_source=RSS",
@@ -1233,14 +1201,6 @@
    "published": "2026-10-19T12:00:03+00:00",
    "summary": "News story from Still Curtain. Full report at the original publisher.",
    "id": "f1094d0f3b"
-  },
-  {
-   "title": "Plays of the Game: Jamel Dean\u2019s interception sets up Steelers\u2019 late lead",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/19/plays-of-the-game-jamel-deans-interception-sets-up-steelers-late-lead/",
-   "published": "2026-10-19T11:40:57+00:00",
-   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
-   "id": "c1a0198967"
   },
   {
    "title": "\u2018He\u2019s accepted the challenge\u2019: Germie Bernard rewards Steelers\u2019 faith in rookie wide receiver",
@@ -1329,6 +1289,46 @@
    "published": "2026-10-19T00:18:48+00:00",
    "summary": "Game story from Pittsburgh Post-Gazette. Full report at the original publisher.",
    "id": "900fd35cba"
+  },
+  {
+   "title": "Steelers kicker Chris Boswell breaks franchise record for career field goals",
+   "source": "TribLive",
+   "link": "https://triblive.com/sports/steelers-kicker-chris-boswell-breaks-franchise-record-for-career-field-goals/",
+   "published": "2026-10-19T00:13:59+00:00",
+   "summary": "News story from TribLive. Full report at the original publisher.",
+   "id": "69918b0a63"
+  },
+  {
+   "title": "\u2018He\u2019s from Pittsburgh, so he toughed it out\u2019: Steelers coach Mike McCarthy misses halftime with foot injury",
+   "source": "TribLive",
+   "link": "https://triblive.com/sports/hes-from-pittsburgh-so-he-toughed-it-out-steelers-coach-mike-mccarthy-misses-halftime-with-foot-injury/",
+   "published": "2026-10-18T23:53:36+00:00",
+   "summary": "Injury story from TribLive. Full report at the original publisher.",
+   "id": "52c275a199"
+  },
+  {
+   "title": "Batko's Quick 6: Steelers at Buccaneers",
+   "source": "Steelers.com (official)",
+   "link": "https://www.steelers.com/news/batko-s-quick-6-steelers-at-buccaneers",
+   "published": "2026-10-18T23:40:37+00:00",
+   "summary": "News story from Steelers.com (official). Full report at the original publisher.",
+   "id": "d0cdbf5e83"
+  },
+  {
+   "title": "Steelers report card: Germie Bernard and DK Metcalf step up in the win over the Buccaneers",
+   "source": "Pittsburgh Post-Gazette",
+   "link": "https://www.post-gazette.com/sports/steelers/2026/10/18/steelers-report-card-buccaneers-week6/stories/202610180077",
+   "published": "2026-10-18T23:17:59+00:00",
+   "summary": "Game story from Pittsburgh Post-Gazette. Full report at the original publisher.",
+   "id": "7c1e0b724b"
+  },
+  {
+   "title": "Noah Hiles: Mike McCarthy got bailed out by his Steelers players in Tampa",
+   "source": "Pittsburgh Post-Gazette",
+   "link": "https://www.post-gazette.com/sports/steelers/2026/10/18/mike-mccarthy-steelers-buccaneers/stories/202610180078",
+   "published": "2026-10-18T22:45:10+00:00",
+   "summary": "News story from Pittsburgh Post-Gazette. Full report at the original publisher.",
+   "id": "c9ed8693cf"
   }
  ],
  "dropped_bad_links": 0
