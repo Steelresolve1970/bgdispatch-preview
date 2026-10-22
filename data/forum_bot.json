@@ -1,11 +1,35 @@
 {
- "generated": "2026-10-22T03:49:21.523183+00:00",
+ "generated": "2026-10-22T04:01:02.374222+00:00",
  "bot": {
   "name": "Dispatch Desk",
   "bot": true,
   "about": "Posts automatically. Opens game threads, daily topics and polls. Not a person."
  },
  "topics": [
+  {
+   "id": "daily-2026-10-22",
+   "kind": "Daily discussion",
+   "cat": "Depth Chart & Roster",
+   "pinned": false,
+   "created": "2026-10-22T08:00:00-04:00",
+   "title": "Daily Discussion (Oct 22): Steelers Hope MVS Offers Immediate Help Amid Injuries",
+   "body": "Today's top headline comes from Audacy. Read it at the link, then tell us: does it change how you see this team?",
+   "links": [
+    {
+     "label": "Read at Audacy \u2192",
+     "href": "https://www.audacy.com/937thefan/sports/pittsburgh-steelers/steelers-hope-mvs-offers-immediate-help-amid-injuries",
+     "external": true
+    },
+    {
+     "label": "All news",
+     "href": "#/"
+    }
+   ],
+   "author": "Dispatch Desk",
+   "bot": true,
+   "replies": 0,
+   "views": null
+  },
   {
    "id": "daily-2026-10-21",
    "kind": "Daily discussion",

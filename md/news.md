@@ -1,21 +1,26 @@
 # Steelers News
 
-_Generated 2026-10-22T03:49:31+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T03:48:01+00:00._
+_Generated 2026-10-22T04:01:12+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T03:59:43+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Steelers Hope MVS Offers Immediate Help Amid Injuries](https://www.audacy.com/937thefan/sports/pittsburgh-steelers/steelers-hope-mvs-offers-immediate-help-amid-injuries): Audacy, 2026-10-22 03:14 UTC
 - [Steelers’ Roster Move Makes $41M Pro Bowler Top Trade Candidate](https://heavy.com/sports/nfl/pittsburgh-steelers/steelers-patrick-queen-trade-candidate-elandon-roberts/): Heavy.com, 2026-10-22 02:29 UTC
 - [Can The New Orleans Saints Beat Aaron Rodgers And Pittsburgh Steelers In Paris?](https://sports.ndtv.com/us/nfl/can-the-new-orleans-saints-beat-aaron-rodgers-and-pittsburgh-steelers-in-paris-12217920): NDTV Sports, 2026-10-22 02:26 UTC
+- [Steelers DB Jalen Ramey named AFC Defensive Player of the Week](https://triblive.com/sports/steelers-db-jalen-ramey-named-afc-defensive-player-of-the-week/): TribLive, 2026-10-22 02:13 UTC
+- [Newly signed Steelers receiver Marquez Valdes-Scantling might contribute quickly](https://triblive.com/sports/newly-signed-steelers-receiver-marquez-valdes-scantling-might-contribute-quickly/): TribLive, 2026-10-22 02:02 UTC
 - [Mike Tomlin explains why 'business was over' for Joey Porter Jr., Steelers after Week 1](https://www.dallasnews.com/sports/cowboys/article/mike-tomlin-joey-porter-jr-cowboys-steelers-trade-22488319.php): Dallas News, 2026-10-22 01:43 UTC
 - [Pittsburgh Steelers’ Defense Keeps Changing, and That’s the Point](https://athlonsports.com/nfl/pittsburgh-steelers/pittsburgh-steelers-defense-patrick-graham-new-orleans-saints): Athlon Sports, 2026-10-22 01:16 UTC
 - [Steelers Insider Claims Offense Faces Massive Disadvantages Playing Essentially 10-On-11](https://www.steelernation.com/2026/10/21/steelers-offense-massive-disadvantages): SteelerNation, 2026-10-22 01:04 UTC
 - [Depot After Dark: Taylor’s Son Models Game After Steelers Greats, Steelers’ NFLPA Reps, Saints WR Won’t Practice](https://steelersdepot.com/2026/10/depot-after-dark-taylors-son-models-game-after-steelers-greats-steelers-nflpa-reps-saints-wr-wont-practice/): Steelers Depot, 2026-10-22 01:00 UTC
+- [Groin injury limits Steelers LB Alex Highsmith; 4 teammates sit out practice](https://triblive.com/sports/groin-injury-limits-steelers-lb-alex-highsmith-4-others-s/): TribLive, 2026-10-22 00:59 UTC
+- [With Dowdle healthy, McCarthy sees more possibilities for Steelers’ running backs](https://triblive.com/sports/with-dowdle-healthy-mccarthy-sees-more-possibilities-for-steelers-running-backs/): TribLive, 2026-10-22 00:50 UTC
 - [Steelers Night Shift: Week 7 vs. New Orleans Saints](https://steelersnow.com/steelers-night-shift-week-7-vs-new-orleans-saints/): Steelers Now, 2026-10-22 00:34 UTC
 - [Aaron Rodgers, Steelers rolling into historic Paris clash vs. Saints](https://www.tri-cityherald.com/sports/article317724447.html): Tri-City Herald, 2026-10-22 00:03 UTC
 - [‘He’s Worse At This Point’: Former Browns HC ‘Disappointed’ With Early Returns From Rodgers, McCarthy](https://steelersdepot.com/2026/10/hes-worse-at-this-point-former-browns-hc-disappointed-with-early-returns-from-rodgers-mccarthy/): Steelers Depot, 2026-10-22 00:00 UTC
 - [Germie Bernard Opens Up on What It’s Like Playing with Aaron Rodgers](https://steelersnow.com/germie-bernard-opens-up-on-what-its-like-playing-with-aaron-rodgers/): Steelers Now, 2026-10-21 23:33 UTC
 - [Steelers' Troy Fautanu And Max Iheanachor Face Serious Warning Signs After Bucs Game](https://www.steelernation.com/2026/10/21/steelers-troy-fautanu-max-iheanachor-warning): SteelerNation, 2026-10-21 23:32 UTC
 - [Steelers Get Encouraging Update On Safety DeShon Elliott Ahead Of Return](https://www.steelernation.com/2026/10/21/steelers-safety-deshon-elliott-return): SteelerNation, 2026-10-21 23:14 UTC
+- [Buccaneers Lineman Was Left Stunned After Steelers' Yahya Black Revealed True Weight](https://sportsnetpittsburgh.com/pittsburgh-steelers/news/steelers-yahya-black-weight-tristan-wirfs-buccaneers/c7396411c03ce135bc77702a): SportsNet Pittsburgh, 2026-10-21 23:09 UTC
 - [Marquez Valdes-Scantling is back for a reunion and hopes to bolster an injured Steelers receiver room](https://www.post-gazette.com/sports/steelers/2026/10/21/marquez-valdes-scantling-aaron-rodgers-mike-mccarthy-steelers/stories/202610210044): Pittsburgh Post-Gazette, 2026-10-21 23:07 UTC
 - [Injury Emerges for Steelers Defensive Lineman](https://steelersnow.com/injury-emerges-for-steelers-defensive-lineman/): Steelers Now, 2026-10-21 23:07 UTC
 - [Week 7 Blog: On a mission](https://www.steelers.com/news/week-7-blog-the-stacking-has-begun): Steelers.com (official), 2026-10-21 23:01 UTC
@@ -26,7 +31,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers prepare days ahead of NFL’s first-ever game in Paris](https://www.wpxi.com/sports/nfl/pittsburgh-steelers/steelers-prepare-days-ahead-nfls-first-ever-game-paris/DVNSDVKNLZCWNOTOAQ45GDOULI/): WPXI, 2026-10-21 22:08 UTC
 - [Steelers Afternoon Drive: Can MVS Play Right Away?](https://steelersnow.com/steelers-afternoon-drive-can-mvs-play-right-away/): Steelers Now, 2026-10-21 22:06 UTC
 - [Steelers OLB Pops Up on Injury Report Ahead of Saints Game](https://steelersnow.com/steelers-olb-pops-up-on-injury-report-ahead-of-saints-game/): Steelers Now, 2026-10-21 21:56 UTC
-- [Elliott returns to full practice, full injury report](https://www.audacy.com/937thefan/sports/pittsburgh-steelers/elliott-returns-to-full-practice-full-injury-report): Audacy, 2026-10-21 21:54 UTC
 - [Steelers Veteran Cornerback Misses Practice With Injury](https://steelersnow.com/steelers-veteran-cornerback-misses-practice-with-injury/): Steelers Now, 2026-10-21 21:53 UTC
 - [Injury Hampers Steelers RB Before Saints Game](https://steelersnow.com/injury-hampers-steelers-rb-before-saints-game/): Steelers Now, 2026-10-21 21:47 UTC
 - [Saints’ Week 7 Wednesday Injury Report: QB Tyler Shough Practices In Full, Two Others DNP](https://steelersdepot.com/2026/10/saints-week-7-wednesday-injury-report-qb-tyler-shough-practices-in-full-two-others-dnp/): Steelers Depot, 2026-10-21 21:43 UTC
@@ -39,6 +43,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [‘Go As Late As Humanly Possible’: J.J. Watt Prefers Steelers’ Paris Travel Plan Over The Saints’](https://steelersdepot.com/2026/10/go-as-late-as-humanly-possible-j-j-watt-prefers-steelers-paris-travel-plan-over-the-saints/): Steelers Depot, 2026-10-21 21:15 UTC
 - [Yahya Black Reveals His Weight In Mic’d Up Moment Against Buccaneers](https://steelersdepot.com/2026/10/yahya-black-reveals-his-weight-in-micd-up-moment-against-buccaneers/): Steelers Depot, 2026-10-21 20:57 UTC
 - [Steelers' Omar Khan Gets Strong Warning About Dangerous Trade Deadline Strategy](https://www.steelernation.com/2026/10/21/steelers-omar-khan-strong-warning): SteelerNation, 2026-10-21 20:43 UTC
+- [Steelers Release Veteran Safety Before Paris Game In Latest Shake-Up to Secondary](https://sportsnetpittsburgh.com/pittsburgh-steelers/news/steelers-release-veteran-safety-secondary/4e1e5f39b789fcd2719d5836): SportsNet Pittsburgh, 2026-10-21 20:39 UTC
 - [Rookie Report Card: Steelers Vs Buccaneers (Week 6)](https://steelersdepot.com/2026/10/rookie-report-card-steelers-vs-buccaneers-week-6/): Steelers Depot, 2026-10-21 20:30 UTC
 - [Steelers Rookie Tackle Max Iheanachor Dealing with Hand Injury](https://steelersnow.com/steelers-rookie-tackle-max-iheanachor-dealing-with-hand-injury/): Steelers Now, 2026-10-21 20:27 UTC
 - [Steelers release veteran safety Rayshawn Jenkins](https://triblive.com/sports/steelers-release-veteran-safety-rayshawn-jenkins/): TribLive, 2026-10-21 20:26 UTC
@@ -80,7 +85,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers news: Zach Frazier has had tremendous start to season](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176640/steelers-news-zach-frazier-has-had-tremendous-start-to-season): Behind the Steel Curtain, 2026-10-21 16:33 UTC
 - [Germie Bernard Gets Honest About His Critical Sunday Mistake](https://steelersdepot.com/2026/10/germie-bernard-gets-honest-about-his-critical-sunday-mistake/): Steelers Depot, 2026-10-21 16:30 UTC
 - [Jalen Ramsey Named AFC Defensive Player of the Week](https://steelersnow.com/jalen-ramsey-named-afc-defensive-player-of-the-week/): Steelers Now, 2026-10-21 16:23 UTC
-- [Saints need to show they can manage lead against Steelers](https://www.louisianasports.net/2026/10/21/saints-need-to-show-they-can-manage-lead-against-steelers/latest-stories/): Louisiana Sports, 2026-10-21 16:10 UTC
 - [AFC North power rankings deliver a brutal Week 7 reality check for Ravens](https://stillcurtain.com/afc-north-power-rankings-pittsburgh-steelers-deliver-week-7-reality-check-baltimore-ravens-01m5fg61kdyg?utm_source=RSS): Still Curtain, 2026-10-21 16:00 UTC
 - [The best soccer/NFL crossover jerseys as PSG unveil kit for Steelers vs. Saints in Paris](https://www.espn.com/soccer/story/_/id/50225836/the-best-soccer-nfl-crossover-jerseys-psg-kit-pittsburgh-steelers-new-orleans-saints-paris-game): ESPN, 2026-10-21 15:51 UTC
 - [T.J. Watt’s wife calls out NFL for Paris game](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176634/t-j-watts-wife-calls-out-nfl-for-paris-game-pittsburgh-steelers-new-orleans-saints): Behind the Steel Curtain, 2026-10-21 15:36 UTC
@@ -104,6 +108,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Moving to left tackle is hard. Just ask the Steelers’ Troy Fautanu.](https://www.post-gazette.com/sports/steelers/2026/10/21/troy-fautanu-move-to-left-tackle-offensive-line/stories/202610210004): Pittsburgh Post-Gazette, 2026-10-21 08:00 UTC
 - [Steelers sign veteran receiver Marquez Valdes-Scantling to practice squad](https://triblive.com/sports/steelers-sign-veteran-receiver-marquez-valdes-scantling-to-practice-squad/): TribLive, 2026-10-20 22:57 UTC
 - [WATCH: SNR Drive (All Episodes from Week of October 19)](https://www.steelers.com/news/watch-snr-drive-all-episodes-from-week-of-october-19): Steelers.com (official), 2026-10-20 22:00 UTC
+- [Steelers Have Obvious Solution to Third Down Struggles](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-obvious-solution-third-down-struggles): All Steelers (Sports Illustrated), 2026-10-20 21:30 UTC
 - [NFL says heightened security measures will be in place for the Steelers-Saints game in Paris](https://triblive.com/sports/nfl-says-heightened-security-measures-will-be-in-place-for-the-steelers-saints-game-in-paris/): TribLive, 2026-10-20 21:02 UTC
 - [Germie Bernard's breakout couldn't come at a better time for the Steelers](https://stillcurtain.com/germie-bernard-s-breakout-couldn-t-come-at-a-better-time-for-the-pittsburgh-steelers-01m5d1ktrp4d?utm_source=RSS): Still Curtain, 2026-10-20 21:00 UTC
 - [Steelers Week 7 power rankings roundup: Starting to believe yet?](https://www.behindthesteelcurtain.com/pittsburgh-steelers-power-rankings/176618/steelers-week-7-power-rankings-roundup-starting-to-believe-yet): Behind the Steel Curtain, 2026-10-20 20:27 UTC
@@ -148,10 +153,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Playmaking Jalen Ramsey has maybe his best game with Steelers in win vs. Bucs](https://triblive.com/sports/playmaking-jalen-ramsey-has-maybe-his-best-game-with-steelers-in-win-vs-bucs/): TribLive, 2026-10-19 21:22 UTC
 - [The protests in France are a ‘continuing conversation’ for the Steelers before their game in Paris](https://www.post-gazette.com/sports/steelers/2026/10/19/steelers-paris-game-france-protests/stories/202610190026): Pittsburgh Post-Gazette, 2026-10-19 21:21 UTC
 - ['It goes a long way'](https://www.steelers.com/news/it-goes-a-long-way): Steelers.com (official), 2026-10-19 21:00 UTC
-- [The Steelers are heading to Paris for an NFL game as France faces civil unrest — here’s what the team is doing to prepare](https://www.pennlive.com/steelers/2026/10/the-steelers-are-heading-to-paris-for-an-nfl-game-as-france-faces-civil-unrest-heres-what-the-team-is-doing-to-prepare.html): PennLive (Nick Farabaugh), 2026-10-19 20:03 UTC
-- [Steelers fans expecting a bolder Mike McCarthy are learning a painful lesson](https://stillcurtain.com/pittsburgh-steelers-fans-expecting-bolder-mike-mccarthy-learning-painful-lesson-01m5ag1p2tyd?utm_source=RSS): Still Curtain, 2026-10-19 20:00 UTC
-- [Steelers' Paris Plan: Travel Arrangements, NFL's Statement](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-paris-plan-travel-arrangements-nfl-statement): All Steelers (Sports Illustrated), 2026-10-19 20:00 UTC
-- [‘I don’t live in fear’: Pittsburgh Steelers fans press on with plans for Paris game despite protests](https://triblive.com/sports/steelers/i-dont-live-in-fear-pittsburgh-steelers-fans-press-on-with-plans-for-paris-game-despite-protests/): TribLive, 2026-10-19 19:37 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

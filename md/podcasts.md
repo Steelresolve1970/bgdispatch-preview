@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-22T03:49:31+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T03:49:15+00:00._
+_Generated 2026-10-22T04:01:12+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T04:00:56+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [Yinz Steel Believe: Are the Steelers Good Enough to Be Buyers at the Trade Deadline?](https://podcasts.apple.com/us/podcast/id905962218): Steel Curtain Network (BTSC), 2026-10-22 02:45 UTC
