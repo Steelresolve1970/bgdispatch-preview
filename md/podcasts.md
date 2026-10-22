@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-22T21:56:57+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T21:56:39+00:00._
+_Generated 2026-10-22T22:07:43+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T22:07:27+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Podcast: [Saints and Steelers Set for Historic Paris Showdown: Key Matchups and Predictions](https://podcasts.apple.com/us/podcast/id1072021022): DK Pittsburgh Sports, 2026-10-22 22:04 UTC
 - Podcast: [T.J. Watt Injured Before Paris Game | Steelers Need New DT](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-22 21:30 UTC
 - Podcast: [The Terrible Take - Episode 2058 - October 22, 2026](https://podcasts.apple.com/us/podcast/id405990739): The Terrible Podcast (Steelers Depot), 2026-10-22 21:00 UTC
 - Podcast: [NFL Week 7 Predictions/Pittsburgh Steelers](https://arthurmoats55.libsyn.com/dctm_game_picks_week_7_player_of_the_game_headlinesmp3): The Arthur Moats Experience, 2026-10-22 20:00 UTC

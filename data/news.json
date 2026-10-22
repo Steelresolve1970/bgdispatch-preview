@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T21:56:25.521362+00:00",
+ "generated": "2026-10-22T22:07:12.249369+00:00",
  "count": 150,
  "sources": [
   {
@@ -29,8 +29,8 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
-   "steelers_items": 0
+   "status": "ok",
+   "steelers_items": 24
   },
   {
    "source": "Still Curtain",
@@ -48,7 +48,7 @@
    "source": "TribLive",
    "url": "https://triblive.com/category/sports/steelers/feed/",
    "status": "ok",
-   "steelers_items": 22
+   "steelers_items": 23
   },
   {
    "source": "The Athletic",
@@ -110,9 +110,25 @@
    "title": "Steelers fan event at Bastille bar canceled amid civil unrest in Paris",
    "source": "ESPN",
    "link": "https://www.espn.com/nfl/story/_/id/50250407/steelers-fan-event-paris-canceled-amid-civil-unrest",
-   "published": "2026-10-22T21:57:39+00:00",
+   "published": "2026-10-22T23:04:28+00:00",
    "summary": "News story from ESPN. Full report at the original publisher.",
    "id": "59bc9f1e4f"
+  },
+  {
+   "title": "Steelers Afternoon Drive: Nu Leader on D-Line?",
+   "source": "Steelers Now",
+   "link": "https://steelersnow.com/steelers-afternoon-drive-nu-leader-on-d-line/",
+   "published": "2026-10-22T22:06:08+00:00",
+   "summary": "Opinion story from Steelers Now. Full report at the original publisher.",
+   "id": "d9d5e495aa"
+  },
+  {
+   "title": "Gregg Rosenthal Sees Germie Bernard As \u20181A\u2019 WR, DK Metcalf As \u20181B\u2019",
+   "source": "Steelers Depot",
+   "link": "https://steelersdepot.com/2026/10/gregg-rosenthal-sees-germie-bernard-as-1a-wr-dk-metcalf-as-1b/",
+   "published": "2026-10-22T22:00:05+00:00",
+   "summary": "News story from Steelers Depot. Full report at the original publisher.",
+   "id": "c09fe93bb2"
   },
   {
    "title": "Steelers QB Aaron Rodgers Took Over Play Call Duties During Comeback Win",
@@ -121,6 +137,15 @@
    "published": "2026-10-22T21:50:19+00:00",
    "summary": "Game story from SteelerNation. Full report at the original publisher.",
    "id": "0cb53163ff"
+  },
+  {
+   "title": "French quarters: Saints feel at home in Paris and face Steelers in historic game",
+   "source": "WDSU",
+   "link": "https://www.wdsu.com/article/french-quarters-saints-feel-at-home-in-paris-and-face-steelers-in-historic-game/74222589",
+   "published": "2026-10-22T21:42:00+00:00",
+   "via": "Google News",
+   "summary": "Game story from WDSU. Full report at the original publisher.",
+   "id": "572f34fe55"
   },
   {
    "title": "NFL-Steelers scrap Paris fan event as Saints game proceeds despite protests",
@@ -220,28 +245,12 @@
    "id": "4da11744ae"
   },
   {
-   "title": "Steelers fan event in Paris canceled following recent civil unrest in capital",
-   "source": "TribLive",
-   "link": "https://triblive.com/sports/steelers-fan-event-in-paris-canceled-following-recent-civil-unrest-in-capital/",
-   "published": "2026-10-22T20:22:32+00:00",
-   "summary": "Game story from TribLive. Full report at the original publisher.",
-   "id": "e2d0fcac60"
-  },
-  {
    "title": "Steelers Injury Central: 2 Ruled Out, SJD on IR, T.J. Watt Limited",
    "source": "Steelers Now",
    "link": "https://steelersnow.com/pittsburgh-steelers-injury-updates/",
    "published": "2026-10-22T20:11:23+00:00",
    "summary": "Injury story from Steelers Now. Full report at the original publisher.",
    "id": "535145f81b"
-  },
-  {
-   "title": "Steelers WR Ben Skowronek, CB Brandin Echols won\u2019t play vs. Saints in Paris",
-   "source": "TribLive",
-   "link": "https://triblive.com/sports/steelers-wr-ben-skowronek-cb-brandin-echols-wont-play-vs-saints-in-paris/",
-   "published": "2026-10-22T20:10:08+00:00",
-   "summary": "Game story from TribLive. Full report at the original publisher.",
-   "id": "cd1b19ecfa"
   },
   {
    "title": "Beat Writer Identifies \u2018Odd Man Out\u2019 With DeShon Elliott\u2019s Expected Return",
@@ -310,15 +319,6 @@
    "id": "15bc0f4a33"
   },
   {
-   "title": "Saints Thursday Injury Report: 2026 Week 7 vs. Pittsburgh Steelers",
-   "source": "New Orleans Saints | NewOrleansSaints.com",
-   "link": "https://www.neworleanssaints.com/news/saints-thursday-injury-report-2026-week-7-vs-pittsburgh-steelers",
-   "published": "2026-10-22T19:24:27+00:00",
-   "via": "Google News",
-   "summary": "Injury story from New Orleans Saints | NewOrleansSaints.com. Full report at the original publisher.",
-   "id": "967dc40e86"
-  },
-  {
    "title": "2 more out for Sunday, Elliott practices full again",
    "source": "Audacy",
    "link": "https://www.audacy.com/937thefan/sports/pittsburgh-steelers/2-more-out-for-sunday-elliott-practices-full-again",
@@ -359,6 +359,15 @@
    "published": "2026-10-22T19:15:41+00:00",
    "summary": "News story from Steelers Depot. Full report at the original publisher.",
    "id": "5e14e2ed24"
+  },
+  {
+   "title": "Amid unrest, Steelers cancel fan event in Paris",
+   "source": "The State",
+   "link": "https://www.thestate.com/sports/nfl/article317737300.html",
+   "published": "2026-10-22T19:14:00+00:00",
+   "via": "Google News",
+   "summary": "News story from The State. Full report at the original publisher.",
+   "id": "58820234bd"
   },
   {
    "title": "Steelers\u2019 Week Seven Thursday Injury Report: Two Players Already Ruled Out For Saints Game",
@@ -425,6 +434,15 @@
    "id": "c5793a40e1"
   },
   {
+   "title": "Steelers fan event in Paris canceled as \"precautionary measure\" after riots",
+   "source": "CBS News",
+   "link": "https://www.cbsnews.com/pittsburgh/news/steelers-fan-event-paris-canceled/",
+   "published": "2026-10-22T18:11:05+00:00",
+   "via": "Google News",
+   "summary": "News story from CBS News. Full report at the original publisher.",
+   "id": "b0bcea2235"
+  },
+  {
    "title": "Steelers-Jets Blockbuster Trade Idea Reunites Aaron Rodgers With $130M WR",
    "source": "Heavy.com",
    "link": "https://heavy.com/sports/nfl/pittsburgh-steelers/steelers-garrett-wilson-aaron-rodgers-jets-trade-idea/",
@@ -459,14 +477,6 @@
    "via": "Google News",
    "summary": "Game story from Raiders.com. Full report at the original publisher.",
    "id": "995aec66c3"
-  },
-  {
-   "title": "Steelers place DL Sebastian Joseph-Day on injured reserve",
-   "source": "TribLive",
-   "link": "https://triblive.com/sports/steelers-place-dl-sebastian-joseph-day-on-injured-reserve/",
-   "published": "2026-10-22T17:30:33+00:00",
-   "summary": "Injury story from TribLive. Full report at the original publisher.",
-   "id": "cd887e1578"
   },
   {
    "title": "Pittsburgh Steelers 2026 Week 7 Depth Chart",
@@ -624,6 +634,14 @@
    "id": "193b03cb0c"
   },
   {
+   "title": "Steelers Place DL Sebastian Joseph-Day On Injured Reserve",
+   "source": "Steelers Depot",
+   "link": "https://steelersdepot.com/2026/10/steelers-place-dl-sebastian-joseph-day-on-injured-reserve/",
+   "published": "2026-10-22T15:51:22+00:00",
+   "summary": "Injury story from Steelers Depot. Full report at the original publisher.",
+   "id": "b2c9e53d85"
+  },
+  {
    "title": "Steelers place Joseph-Day on Reserve/Injured List",
    "source": "Steelers.com (official)",
    "link": "https://www.steelers.com/news/steelers-place-joseph-day-on-reserve-injured-list",
@@ -754,6 +772,14 @@
    "id": "99c6534be5"
   },
   {
+   "title": "Steelers finding new ways to win as young players step into bigger roles",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/22/steelers-finding-new-ways-to-win-as-young-players-step-into-bigger-roles/",
+   "published": "2026-10-22T13:41:16+00:00",
+   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
+   "id": "d606ad8113"
+  },
+  {
    "title": "Saints Could Have One Big Advantage over Steelers",
    "source": "Steelers Now",
    "link": "https://steelersnow.com/saints-could-have-one-big-advantage-over-steelers/",
@@ -787,14 +813,6 @@
    "id": "82455b205a"
   },
   {
-   "title": "Analyst Proposes Steelers Trade For Veteran Defender",
-   "source": "Steelers Depot",
-   "link": "https://steelersdepot.com/2026/10/analyst-proposes-steelers-trade-for-veteran-defender/",
-   "published": "2026-10-22T12:30:03+00:00",
-   "summary": "Trade/roster move story from Steelers Depot. Full report at the original publisher.",
-   "id": "bfa00f37b9"
-  },
-  {
    "title": "Patrick Graham is seeing what Steelers hoped for from Keeanu Benton this season",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/patrick-graham-is-seeing-what-pittsburgh-steelers-hoped-for-from-keeanu-benton-this-season-01m5g4cb88bn?utm_source=RSS",
@@ -809,14 +827,6 @@
    "published": "2026-10-22T12:00:00+00:00",
    "summary": "Opinion story from Behind the Steel Curtain. Full report at the original publisher.",
    "id": "4f40bad1f6"
-  },
-  {
-   "title": "Steelers Daily News & Links: Germie Bernard Got Cussed Out by Teammate; Playing in Paris Bad Look for NFL?",
-   "source": "Steelers Now",
-   "link": "https://steelersnow.com/steelers-daily-germie-bernard-got-cussed-out-by-teammate-playing-in-paris-bad-look-for-nfl/",
-   "published": "2026-10-22T11:49:34+00:00",
-   "summary": "Opinion story from Steelers Now. Full report at the original publisher.",
-   "id": "3e055aae2d"
   },
   {
    "title": "Ex-Steelers coach reveals how Browns threw away a potential dynasty in 2018",
@@ -881,6 +891,15 @@
    "published": "2026-10-22T08:00:00+00:00",
    "summary": "News story from Pittsburgh Post-Gazette. Full report at the original publisher.",
    "id": "42e1fd3201"
+  },
+  {
+   "title": "New Orleans Saints vs. Pittsburgh Steelers Fantasy Football Matchup Breakdown For Week 7",
+   "source": "FantasyLife",
+   "link": "https://www.fantasylife.com/articles/fantasy/new-orleans-saints-vs-pittsburgh-steelers-fantasy-football-match",
+   "published": "2026-10-22T08:00:00+00:00",
+   "via": "Google News",
+   "summary": "Game story from FantasyLife. Full report at the original publisher.",
+   "id": "95b9477cd5"
   },
   {
    "title": "Another Pittsburgh Steelers defensive lineman goes down with injury",
@@ -990,15 +1009,6 @@
    "id": "a7468b981c"
   },
   {
-   "title": "Steelers officially release veteran safety",
-   "source": "WKBN.com",
-   "link": "https://www.wkbn.com/sports/pittsburgh-steelers/steelers-officially-release-veteran-safety-2/",
-   "published": "2026-10-21T20:11:51+00:00",
-   "via": "Google News",
-   "summary": "Trade/roster move story from WKBN.com. Full report at the original publisher.",
-   "id": "a64526732c"
-  },
-  {
    "title": "Steelers finally make the Rayshawn Jenkins move fans wanted weeks ago",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/pittsburgh-steelers-finally-make-rayshawn-jenkins-roster-move-fans-wanted-01m5fq7m94f8?utm_source=RSS",
@@ -1078,15 +1088,6 @@
    "published": "2026-10-21T17:00:00+00:00",
    "summary": "News story from Behind the Steel Curtain. Full report at the original publisher.",
    "id": "0735134a93"
-  },
-  {
-   "title": "Steelers vs. Saints: How to Watch, Listen, and Stream Games 10/25/2026",
-   "source": "New Orleans Saints | NewOrleansSaints.com",
-   "link": "https://www.neworleanssaints.com/news/pittsburgh-steelers-vs-new-orleans-saints-game-watch-listen-stream-tv-channel-radio-10-25-2026",
-   "published": "2026-10-21T16:39:36+00:00",
-   "via": "Google News",
-   "summary": "Game story from New Orleans Saints | NewOrleansSaints.com. Full report at the original publisher.",
-   "id": "501df1b8aa"
   },
   {
    "title": "Steelers news: Zach Frazier has had tremendous start to season",
@@ -1193,6 +1194,14 @@
    "published": "2026-10-21T13:00:00+00:00",
    "summary": "News story from Steelers.com (official). Full report at the original publisher.",
    "id": "27c9ea19ea"
+  },
+  {
+   "title": "Steelers have more than international travel to worry about against the Saints",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/21/steelers-have-more-than-international-travel-to-worry-about-against-the-saints/",
+   "published": "2026-10-21T12:15:47+00:00",
+   "summary": "News story from Steel City Underground. Full report at the original publisher.",
+   "id": "dd96e02d3b"
   },
   {
    "title": "Germie Bernard is making Steelers forget all about the Makai Lemon debacle",
@@ -1305,15 +1314,6 @@
    "published": "2026-10-20T20:00:38+00:00",
    "summary": "Trade/roster move story from Steelers.com (official). Full report at the original publisher.",
    "id": "c28a1cb63a"
-  },
-  {
-   "title": "Former Steelers running back arrested on domestic assault charge",
-   "source": "Audacy",
-   "link": "https://www.audacy.com/937thefan/sports/pittsburgh-steelers/cordarrelle-patterson",
-   "published": "2026-10-20T16:21:00+00:00",
-   "via": "Google News",
-   "summary": "News story from Audacy. Full report at the original publisher.",
-   "id": "39e19a1835"
   },
   {
    "title": "Steelers Rookie WR Quickly Joining Rookie of the Year Mix",
