@@ -1,10 +1,10 @@
 {
- "last_run": "2026-10-22T20:11:26.397506+00:00",
+ "last_run": "2026-10-22T20:30:31.839869+00:00",
  "results": [
   {
    "fetcher": "apply_grade_edits.py",
    "ok": true,
-   "seconds": 1.5,
+   "seconds": 1.0,
    "last_line": "no grade edits"
   },
   {
@@ -28,19 +28,19 @@
   {
    "fetcher": "build_boxscores.py",
    "ok": true,
-   "seconds": 3.0,
+   "seconds": 2.0,
    "last_line": "boxscores 6"
   },
   {
    "fetcher": "fetch_insiders.py",
    "ok": true,
-   "seconds": 2.0,
+   "seconds": 1.5,
    "last_line": "sidebar: 6 full feed: 20"
   },
   {
    "fetcher": "fetch_film.py",
    "ok": true,
-   "seconds": 4.0,
+   "seconds": 3.5,
    "last_line": "  Week 1 vs Falcons (W 20-13): 4   {'Steelers Depot Film Room (Alex Kozora)': 1, \"Derrick Bell \u2013 DB's Film Room (Steelers Now)\": 1, 'Steelers Almighty': 1, 'Steelers Depot (YouTube)': 1}"
   },
   {
@@ -76,7 +76,7 @@
   {
    "fetcher": "fetch_draft.py",
    "ok": true,
-   "seconds": 46.5,
+   "seconds": 0.5,
    "last_line": "cfbd calls by month (draft only): {'2026-10': 14}"
   },
   {
@@ -113,7 +113,7 @@
    "fetcher": "fetch_hub.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "injuries 10 practice 12 opp NO"
+   "last_line": "hub fresh (<30 min); skipped"
   },
   {
    "fetcher": "fetch_matchup.py",
