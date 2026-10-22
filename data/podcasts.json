@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T22:07:27.189625+00:00",
+ "generated": "2026-10-22T22:18:21.137055+00:00",
  "date_et": "2026-10-22",
  "days": 5,
  "display_days": 2,
@@ -90,10 +90,10 @@
    "show": "Steel City Underground",
    "kind": "podcast",
    "url": "https://feeds.feedburner.com/steelcityunderground",
-   "status": "ok",
-   "episodes": 45,
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "episodes": 0,
    "week": 2,
-   "latest": "2026-10-22T16:20:16+00:00"
+   "latest": null
   },
   {
    "show": "Steel City Underground",
@@ -156,7 +156,7 @@
    "status": "ok",
    "episodes": 15,
    "week": 15,
-   "latest": "2026-10-22T19:56:15+00:00"
+   "latest": "2026-10-22T22:05:57+00:00"
   },
   {
    "show": "The Steel City Insider (Jim Wexell, 247Sports)",
@@ -250,6 +250,14 @@
   }
  ],
  "items": [
+  {
+   "title": "Nu Leader on D-Line? | Steelers Afternoon Drive",
+   "show": "Steelers Now",
+   "kind": "video",
+   "link": "https://www.youtube.com/watch?v=lnaN5WeNfUQ",
+   "published": "2026-10-22T22:05:57+00:00",
+   "summary": "Video from Steelers Now."
+  },
   {
    "title": "Saints and Steelers Set for Historic Paris Showdown: Key Matchups and Predictions",
    "show": "DK Pittsburgh Sports",
@@ -1257,14 +1265,6 @@
    "link": "https://podcasts.apple.com/us/podcast/steelers-insider-jim-wexell-reveals-why-aaron-rodgers/id1623192893?i=1000797086130",
    "published": "2026-10-19T14:01:09+00:00",
    "summary": "Podcast episode from The Steel City Insider (Jim Wexell, 247Sports)."
-  },
-  {
-   "title": "Still Celebrating Sloppy Steelers Win? | Steelers Morning Rush",
-   "show": "Steelers Now",
-   "kind": "video",
-   "link": "https://www.youtube.com/watch?v=R9OMTs6bo3I",
-   "published": "2026-10-19T13:59:22+00:00",
-   "summary": "Video from Steelers Now."
   },
   {
    "title": "Still Celebrating Sloppy Steelers Win? | Steelers Morning Rush",
