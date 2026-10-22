@@ -1,8 +1,10 @@
 # Steelers News
 
-_Generated 2026-10-21T23:58:04+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-21T23:56:53+00:00._
+_Generated 2026-10-22T00:09:50+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T00:08:24+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Aaron Rodgers, Steelers rolling into historic Paris clash vs. Saints](https://www.star-telegram.com/sports/article317724447.html): Fort Worth Star-Telegram, 2026-10-22 00:03 UTC
+- [‘He’s Worse At This Point’: Former Browns HC ‘Disappointed’ With Early Returns From Rodgers, McCarthy](https://steelersdepot.com/2026/10/hes-worse-at-this-point-former-browns-hc-disappointed-with-early-returns-from-rodgers-mccarthy/): Steelers Depot, 2026-10-22 00:00 UTC
 - [Germie Bernard Opens Up on What It’s Like Playing with Aaron Rodgers](https://steelersnow.com/germie-bernard-opens-up-on-what-its-like-playing-with-aaron-rodgers/): Steelers Now, 2026-10-21 23:33 UTC
 - [Steelers' Troy Fautanu And Max Iheanachor Face Serious Warning Signs After Bucs Game](https://www.steelernation.com/2026/10/21/steelers-troy-fautanu-max-iheanachor-warning): SteelerNation, 2026-10-21 23:32 UTC
 - [Steelers Get Encouraging Update On Safety DeShon Elliott Ahead Of Return](https://www.steelernation.com/2026/10/21/steelers-safety-deshon-elliott-return): SteelerNation, 2026-10-21 23:14 UTC
@@ -65,7 +67,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Jalen Ramsey's DPOW honor shows Steelers have found his best role](https://stillcurtain.com/jalen-ramsey-defensive-player-week-honor-shows-pittsburgh-steelers-have-found-his-best-role?utm_source=RSS): Still Curtain, 2026-10-21 17:19 UTC
 - [‘Aaron Rodgers Has Proven No One Wrong’: Cris Carter Not Impressed With Steelers QB](https://steelersdepot.com/2026/10/aaron-rodgers-has-proven-no-one-wrong-cris-carter-not-impressed-with-steelers-qb/): Steelers Depot, 2026-10-21 17:15 UTC
 - [Steelers Offense a One-Trick Pony? | Steelers Morning Rush](https://steelersnow.com/steelers-offense-a-one-trick-pony-steelers-morning-rush/): Steelers Now, 2026-10-21 17:07 UTC
-- [NFL Paris Game On: Goodell Confident in Security](https://www.audacy.com/937thefan/sports/pittsburgh-steelers/nfl-paris-game-on-goodell-confident-in-security): Audacy, 2026-10-21 17:04 UTC
 - [Patrick Graham ‘Getting A Handle’ On How To Run Steelers’ Defense, Thinks Former GM](https://steelersdepot.com/2026/10/patrick-graham-getting-a-handle-on-how-to-run-steelers-defense-thinks-former-gm/): Steelers Depot, 2026-10-21 17:00 UTC
 - [Steelers CB Jalen Ramsey named AFC Defensive Player of the Week](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176643/steelers-cb-jalen-ramsey-named-afc-defensive-player-of-the-week): Behind the Steel Curtain, 2026-10-21 17:00 UTC
 - [Kool-Aid McKinstry, Quincy Riley, Devaugh Vele, Justin Reid, Isaiah Stalbird press conference | Saints vs. Steelers 2026 NFL Week 7](https://www.neworleanssaints.com/video/kool-aid-mckinstry-quincy-riley-devaugh-vele-justin-reid-isaiah-stalbird-press-conference-saints-vs-steelers-2026-nfl-week-7-october-21-2026): New Orleans Saints | NewOrleansSaints.com, 2026-10-21 16:59 UTC
@@ -79,7 +80,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Jalen Ramsey Named AFC Defensive Player of the Week](https://steelersnow.com/jalen-ramsey-named-afc-defensive-player-of-the-week/): Steelers Now, 2026-10-21 16:23 UTC
 - [Saints need to show they can manage lead against Steelers](https://www.louisianasports.net/2026/10/21/saints-need-to-show-they-can-manage-lead-against-steelers/latest-stories/): Louisiana Sports, 2026-10-21 16:10 UTC
 - [Jalen Ramsey Takes Home NFL Honor After Outstanding Week Six Performance](https://steelersdepot.com/2026/10/jalen-ramsey-takes-home-nfl-honor-after-outstanding-week-six-performance/): Steelers Depot, 2026-10-21 16:04 UTC
-- [Former NFL OL Says Steelers Are Better Than Expected: ‘Can Find Ways To Win’](https://steelersdepot.com/2026/10/former-nfl-ol-says-steelers-are-better-than-expected-can-find-ways-to-win/): Steelers Depot, 2026-10-21 16:00 UTC
 - [AFC North power rankings deliver a brutal Week 7 reality check for Ravens](https://stillcurtain.com/afc-north-power-rankings-pittsburgh-steelers-deliver-week-7-reality-check-baltimore-ravens-01m5fg61kdyg?utm_source=RSS): Still Curtain, 2026-10-21 16:00 UTC
 - [The best soccer/NFL crossover jerseys as PSG unveil kit for Steelers vs. Saints in Paris](https://www.espn.com/soccer/story/_/id/50225836/the-best-soccer-nfl-crossover-jerseys-psg-kit-pittsburgh-steelers-new-orleans-saints-paris-game): ESPN, 2026-10-21 15:51 UTC
 - [T.J. Watt’s wife calls out NFL for Paris game](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176634/t-j-watts-wife-calls-out-nfl-for-paris-game-pittsburgh-steelers-new-orleans-saints): Behind the Steel Curtain, 2026-10-21 15:36 UTC
