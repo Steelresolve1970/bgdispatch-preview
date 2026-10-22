@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T23:09:11.326139+00:00",
+ "generated": "2026-10-22T23:20:49.380768+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -567,18 +567,51 @@
    "first_seen": "2026-10-22T18:10:35.603011+00:00",
    "consensus": {
     "cluster_id": "28359084a15f",
-    "independent_sources": 2,
+    "independent_sources": 3,
     "sources": [
+     "Steeler Nation",
      "SteelerNation",
      "Yardbarker"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
     "related_ids": [
+     "de85e8c040f7",
      "28359084a15f"
     ]
    },
    "updated": "2026-10-22T18:10:35.603011+00:00"
+  },
+  {
+   "id": "de85e8c040f7",
+   "title": "Steelers' Omar Khan Gets Strong Warning About Dangerous Trade Deadline Strategy",
+   "source": "Steeler Nation",
+   "link": "https://www.steelernation.com/2026/10/21/steelers-omar-khan-strong-warning",
+   "published": "2026-10-21T20:44:51+00:00",
+   "summary": "Rumor-style report from Steeler Nation on a Steelers roster move. Full details at the source.",
+   "tier": "Fan blog",
+   "tier_score": 2,
+   "subjects": [],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-22T23:20:49.380768+00:00",
+   "consensus": {
+    "cluster_id": "28359084a15f",
+    "independent_sources": 3,
+    "sources": [
+     "Steeler Nation",
+     "SteelerNation",
+     "Yardbarker"
+    ],
+    "highest_tier": "Fan blog",
+    "highest_tier_score": 2,
+    "related_ids": [
+     "d6fcab7af69e",
+     "28359084a15f"
+    ]
+   },
+   "updated": "2026-10-22T23:20:49.380768+00:00"
   },
   {
    "id": "28359084a15f",
@@ -596,15 +629,17 @@
    "first_seen": "2026-10-21T20:52:51.041805+00:00",
    "consensus": {
     "cluster_id": "28359084a15f",
-    "independent_sources": 2,
+    "independent_sources": 3,
     "sources": [
+     "Steeler Nation",
      "SteelerNation",
      "Yardbarker"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
     "related_ids": [
-     "d6fcab7af69e"
+     "d6fcab7af69e",
+     "de85e8c040f7"
     ]
    },
    "updated": "2026-10-21T20:52:51.041805+00:00"

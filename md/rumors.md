@@ -1,6 +1,6 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-22T23:09:16+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T23:09:11+00:00._
+_Generated 2026-10-22T23:20:55+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T23:20:49+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
 - **Rumor** · tier: Aggregator / other · consensus: 2 source(s), top tier Aggregator / other
@@ -33,9 +33,11 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Steelers Rumors: Latest NFL Trade Intel on Jessie Bates and Derwin James](https://www.chatsports.com/pittsburgh-steelers/a/steelers-rumors-latest-nfl-trade-intel-jessie-bates-and-derwin-james-53472): Chat Sports, first seen 2026-10-21 22:30 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 11 source(s), top tier National insider
   [Elliott returns to full practice, full injury report](https://www.audacy.com/937thefan/sports/pittsburgh-steelers/elliott-returns-to-full-practice-full-injury-report): Audacy, first seen 2026-10-21 22:08 UTC
-- **Rumor** · tier: Aggregator / other · consensus: 2 source(s), top tier Fan blog
+- **Rumor** · tier: Aggregator / other · consensus: 3 source(s), top tier Fan blog
   [Steelers' Omar Khan Gets Strong Warning About Dangerous Trade Deadline Strategy](https://www.yardbarker.com/nfl/articles/steelers_omar_khan_gets_strong_warning_about_dangerous_trade_deadline_strategy/s1_17101_44456959): Yardbarker, first seen 2026-10-22 18:10 UTC
-- **Rumor** · tier: Fan blog · consensus: 2 source(s), top tier Fan blog
+- **Rumor** · tier: Fan blog · consensus: 3 source(s), top tier Fan blog
+  [Steelers' Omar Khan Gets Strong Warning About Dangerous Trade Deadline Strategy](https://www.steelernation.com/2026/10/21/steelers-omar-khan-strong-warning): Steeler Nation, first seen 2026-10-22 23:20 UTC
+- **Rumor** · tier: Fan blog · consensus: 3 source(s), top tier Fan blog
   [Steelers' Omar Khan Gets Strong Warning About Dangerous Trade Deadline Strategy](https://www.steelernation.com/2026/10/21/steelers-omar-khan-strong-warning): SteelerNation, first seen 2026-10-21 20:52 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [A new wide receiver trade rumor is picking up steam after the Steelers got an up-close look during recent matchup](https://atozsports.com/nfl/pittsburgh-steelers-news/steelers-wr-trade-rumors-chris-godwin-emerges-as-target-after-bucs-game/): A to Z Sports, first seen 2026-10-21 17:35 UTC

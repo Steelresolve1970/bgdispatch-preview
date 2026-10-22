@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-22T23:09:16+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T23:09:00+00:00._
+_Generated 2026-10-22T23:20:55+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T23:20:38+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Steelers' DeShon Elliott Set to Return from IR, Join Jaquan Brisker, Robert Spears-Jennings in Paris](https://www.youtube.com/shorts/KsowgIWMjcA): Locked On Steelers, 2026-10-22 22:14 UTC
