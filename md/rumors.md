@@ -1,8 +1,10 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-22T21:45:59+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T21:45:54+00:00._
+_Generated 2026-10-22T21:56:57+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T21:56:50+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
+- **Rumor** · tier: Aggregator / other · consensus: 2 source(s), top tier Aggregator / other
+  [Pittsburgh Steelers Named in Massive $76 Million Trade Rumor](https://www.yardbarker.com/nfl/articles/pittsburgh_steelers_named_in_massive_76_million_trade_rumor/s1_17355_44461459): Yardbarker, first seen 2026-10-22 21:56 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Steelers should try to pry Riq Woolen away from Eagles before trade deadline](https://stillcurtain.com/pittsburgh-steelers-should-try-to-pry-riq-woolen-away-from-eagles-before-trade-deadline-01m5j1m4rt6x?utm_source=RSS): Still Curtain, first seen 2026-10-22 21:08 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
@@ -79,7 +81,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Report Detailed Exactly What Steelers Are Looking For At The Trade Deadline](https://www.steelernation.com/2026/10/20/steelers-detailed-exactly-deadline): Steeler Nation, first seen 2026-10-21 14:10 UTC
 - **Rumor** · tier: Fan blog · consensus: 2 source(s), top tier Fan blog
   [Report Detailed Exactly What Steelers Are Looking For At The Trade Deadline](https://www.steelernation.com/2026/10/20/steelers-detailed-exactly-deadline): SteelerNation, first seen 2026-10-20 19:27 UTC
-- **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
+- **Rumor** · tier: Aggregator / other · consensus: 2 source(s), top tier Aggregator / other
   [Steelers’ $12 Million Playmaker Named Trade Candidate After Strong Week 6](https://heavy.com/sports/nfl/pittsburgh-steelers/steelers-rico-dowdle-trade-candidate-jaylen-warren/): Heavy.com, first seen 2026-10-20 17:54 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 2 source(s), top tier Aggregator / other
   [Latest update on injured Steelers wide receiver could mean Pittsburgh has no choice but to make a trade before the deadline](https://www.yardbarker.com/nfl/articles/latest_update_on_injured_steelers_wide_receiver_could_mean_pittsburgh_has_no_choice_but_to_make_a_trade_before_the_deadline/s1_17313_44451738): Yardbarker, first seen 2026-10-20 17:32 UTC

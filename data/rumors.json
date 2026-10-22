@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T21:45:54.059938+00:00",
+ "generated": "2026-10-22T21:56:50.616815+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -43,6 +43,35 @@
   ]
  },
  "rumors": [
+  {
+   "id": "70c4e90ce6da",
+   "title": "Pittsburgh Steelers Named in Massive $76 Million Trade Rumor",
+   "source": "Yardbarker",
+   "link": "https://www.yardbarker.com/nfl/articles/pittsburgh_steelers_named_in_massive_76_million_trade_rumor/s1_17355_44461459",
+   "published": "2026-10-22T21:51:22+00:00",
+   "summary": "Rumor-style report from Yardbarker on a Steelers roster move. Full details at the source.",
+   "tier": "Aggregator / other",
+   "tier_score": 1,
+   "subjects": [],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-22T21:56:50.616815+00:00",
+   "consensus": {
+    "cluster_id": "37218d1efc30",
+    "independent_sources": 2,
+    "sources": [
+     "Heavy.com",
+     "Yardbarker"
+    ],
+    "highest_tier": "Aggregator / other",
+    "highest_tier_score": 1,
+    "related_ids": [
+     "37218d1efc30"
+    ]
+   },
+   "updated": "2026-10-22T21:56:50.616815+00:00"
+  },
   {
    "id": "3aef731fbd3a",
    "title": "Steelers should try to pry Riq Woolen away from Eagles before trade deadline",
@@ -1395,13 +1424,16 @@
    "first_seen": "2026-10-20T17:54:13.304376+00:00",
    "consensus": {
     "cluster_id": "37218d1efc30",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
-     "Heavy.com"
+     "Heavy.com",
+     "Yardbarker"
     ],
     "highest_tier": "Aggregator / other",
     "highest_tier_score": 1,
-    "related_ids": []
+    "related_ids": [
+     "70c4e90ce6da"
+    ]
    },
    "updated": "2026-10-20T17:54:13.304376+00:00"
   },
