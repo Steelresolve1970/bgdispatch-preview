@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "rumors",
  "description": "Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).",
- "generated": "2026-10-22T18:10:54+00:00",
- "data_updated": "2026-10-22T18:10:35+00:00",
- "count": 67,
+ "generated": "2026-10-22T18:21:43+00:00",
+ "data_updated": "2026-10-22T18:21:36+00:00",
+ "count": 68,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -69,14 +69,49 @@
    "published": "2026-10-22T11:00:04+00:00",
    "people": [],
    "consensus": {
-    "cluster_id": "3513cc219acc",
-    "independent_sources": 1,
+    "cluster_id": "ff40cab5aa4a",
+    "independent_sources": 2,
     "sources": [
+     "All Steelers (Sports Illustrated)",
      "Sports Illustrated"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
-    "related_ids": []
+    "related_ids": [
+     "ff40cab5aa4a"
+    ]
+   }
+  },
+  {
+   "id": "ff40cab5aa4a",
+   "type": "rumor",
+   "title": "Ranking Steelers Top Trade Needs And Their Best Targets",
+   "summary": "Trade/roster move story from All Steelers (Sports Illustrated). Full report at the original publisher.",
+   "url": "https://www.si.com/nfl/steelers/onsi/ranking-pittsburgh-steelers-top-trade-needs-best-targets",
+   "source": {
+    "name": "All Steelers (Sports Illustrated)",
+    "url": null,
+    "reliability_tier": "Aggregator / other",
+    "reliability_score": 1
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-22T18:21:36+00:00",
+   "updated": "2026-10-22T18:21:36+00:00",
+   "published": "2026-10-22T11:00:04+00:00",
+   "people": [],
+   "consensus": {
+    "cluster_id": "ff40cab5aa4a",
+    "independent_sources": 2,
+    "sources": [
+     "All Steelers (Sports Illustrated)",
+     "Sports Illustrated"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "3513cc219acc"
+    ]
    }
   },
   {

@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T18:10:35.603011+00:00",
+ "generated": "2026-10-22T18:21:36.135518+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -86,16 +86,48 @@
    "status_link": null,
    "first_seen": "2026-10-22T18:10:35.603011+00:00",
    "consensus": {
-    "cluster_id": "3513cc219acc",
-    "independent_sources": 1,
+    "cluster_id": "ff40cab5aa4a",
+    "independent_sources": 2,
     "sources": [
+     "All Steelers (Sports Illustrated)",
      "Sports Illustrated"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
-    "related_ids": []
+    "related_ids": [
+     "ff40cab5aa4a"
+    ]
    },
    "updated": "2026-10-22T18:10:35.603011+00:00"
+  },
+  {
+   "id": "ff40cab5aa4a",
+   "title": "Ranking Steelers Top Trade Needs And Their Best Targets",
+   "source": "All Steelers (Sports Illustrated)",
+   "link": "https://www.si.com/nfl/steelers/onsi/ranking-pittsburgh-steelers-top-trade-needs-best-targets",
+   "published": "2026-10-22T11:00:04+00:00",
+   "summary": "Trade/roster move story from All Steelers (Sports Illustrated). Full report at the original publisher.",
+   "tier": "Aggregator / other",
+   "tier_score": 1,
+   "subjects": [],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-22T18:21:36.135518+00:00",
+   "consensus": {
+    "cluster_id": "ff40cab5aa4a",
+    "independent_sources": 2,
+    "sources": [
+     "All Steelers (Sports Illustrated)",
+     "Sports Illustrated"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "3513cc219acc"
+    ]
+   },
+   "updated": "2026-10-22T18:21:36.135518+00:00"
   },
   {
    "id": "c6dd11f8b979",

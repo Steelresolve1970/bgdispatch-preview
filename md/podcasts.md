@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-22T18:10:54+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T18:10:01+00:00._
+_Generated 2026-10-22T18:21:43+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T18:21:24+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Can the Steelers keep their winning streak alive in Paris?](https://www.youtube.com/watch?v=4UG7gRw1LHg): Steel City Underground, 2026-10-22 16:28 UTC
@@ -10,6 +10,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [DT Gabriel Rubio Readying to Step Up | Steelers Sights & Sounds](https://www.youtube.com/watch?v=5RLMieeKer4): Steelers Now, 2026-10-22 16:04 UTC
 - Video: [What are these Steelers bringing with them on their trip to Paris this week? 🇫🇷🏈#nfl #paris](https://www.youtube.com/shorts/ZmJFxJEy3Fw): Not Just Football with Cam Heyward, 2026-10-22 15:53 UTC
 - Podcast: [Steelers Chalk Talk: What's hot and what's not so far for the 2026 Steelers](https://podcasts.apple.com/us/podcast/steelers-chalk-talk-whats-hot-and-whats-not-so-far/id905962218?i=1000797637392): Steel Curtain Network (BTSC), 2026-10-22 15:30 UTC
+- Podcast: [Should Steelers Make Super Bowl-Level Trade?](https://podcasts.apple.com/us/podcast/should-steelers-make-super-bowl-level-trade/id1627248534?i=1000797637387): All Steelers Talk, 2026-10-22 15:30 UTC
 - Video: [What’s the Plan for the Steelers at Receiver 🤔 #steelers #nfl](https://www.youtube.com/shorts/ECKKbc8MiAE): Locked On Steelers, 2026-10-22 15:03 UTC
 - Podcast: [Hour 1: Deep Dive Into Saints Preview](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-102226-mp3): Steelers Blitz, 2026-10-22 15:00 UTC
 - Video: [Heath highlights loading... 📺: #PITvsNO 10/25 at 9:30 AM ET on NFLN](https://www.youtube.com/shorts/9H3pszq95nk): Pittsburgh Steelers (official), 2026-10-22 14:23 UTC
@@ -17,6 +18,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Hour 2: Ed Troup and Around the Shield](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr2-102226-mp3): Steelers Blitz, 2026-10-22 14:00 UTC
 - Video: [STEELERS SQUAD SHOW: Offense MUST Improve as Jaylen Warren, Aaron Rodgers Prepare for Saints & Paris](https://www.youtube.com/watch?v=Es_bukL78yk): Locked On Steelers, 2026-10-22 13:02 UTC
 - Video: [Pat Freiermuth, Rico Dowdle & Marquez Valdes-Scantling (October 21) | Pittsburgh Steelers](https://www.youtube.com/watch?v=K8LljUenfns): Pittsburgh Steelers (official), 2026-10-22 13:00 UTC
+- Podcast: [Steelers' Nick Herbig Decision Could Have Better Timing](https://podcasts.apple.com/us/podcast/steelers-nick-herbig-decision-could-have-better-timing/id1627248534?i=1000797615128): All Steelers Talk, 2026-10-22 12:28 UTC
 - Podcast: [Gennings Dunker on Aaron Rodgers, Iowa Football & His NFL Journey | The Christian Kuntz Podcast](https://podcasters.spotify.com/pod/show/christian-kuntz/episodes/Gennings-Dunker-on-Aaron-Rodgers--Iowa-Football--His-NFL-Journey--The-Christian-Kuntz-Podcast-e3qrlsm): The Christian Kuntz Podcast, 2026-10-22 09:00 UTC
 - Podcast: [Pittsburgh Standard Time: Steelers fans shouldn’t feel bad about the win in Tampa Bay](https://podcasts.apple.com/us/podcast/pittsburgh-standard-time-steelers-fans-shouldnt-feel/id905962218?i=1000797583027): Steel Curtain Network (BTSC), 2026-10-22 08:00 UTC
 - Video: [Steelers vs. Saints Week 7 Preview | Aaron Rodgers Problem Brewing](https://www.youtube.com/watch?v=B0agqGjSVpU): Still Curtain Podcast, 2026-10-22 06:58 UTC
@@ -33,7 +35,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [DK’s Double Shot of Steelers: Almost Paris!](https://podcasts.apple.com/us/podcast/dks-double-shot-of-steelers-almost-paris/id1072021022?i=1000797519495): DK Pittsburgh Sports, 2026-10-21 22:10 UTC
 - Video: [Can MVS Play Right Away? | Steelers Afternoon Drive](https://www.youtube.com/watch?v=HGSOYSj-8n0): Steelers Now, 2026-10-21 22:04 UTC
 - Podcast: [Can MVS Play Right Away? | Steelers Afternoon Drive](https://podcasts.apple.com/us/podcast/can-mvs-play-right-away-steelers-afternoon-drive/id1700240934?i=1000797512443): Steelers Afternoon Drive, 2026-10-21 22:03 UTC
-- Podcast: [Steelers Release Veteran DB | Chris Godwin Trade?](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-21 21:45 UTC
+- Podcast: [Steelers Release Veteran DB | Chris Godwin Trade?](https://podcasts.apple.com/us/podcast/steelers-release-veteran-db-chris-godwin-trade/id1627248534?i=1000797510053): All Steelers Talk, 2026-10-21 21:45 UTC
 - Podcast: [The Terrible Take - Episode 2057 - October 21, 2026](https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2057-october-21-2026/id405990739?i=1000797504059): The Terrible Podcast (Steelers Depot), 2026-10-21 21:00 UTC
 - Video: [Cause for Concern? Steelers OT Max Iheanachor Has Taped Hand](https://www.youtube.com/watch?v=8BuJm27H0WQ): Steelers Now, 2026-10-21 20:46 UTC
 - Video: [♾️](https://www.youtube.com/shorts/bazY7Ly8iU4): Pittsburgh Steelers (official), 2026-10-21 20:11 UTC
@@ -47,6 +49,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [8 on the move 🌪️ 📺: #PITvsNO 10/25 at 9:30 AM ET on NFLN](https://www.youtube.com/shorts/DAK6nmsyqNE): Pittsburgh Steelers (official), 2026-10-21 15:47 UTC
 - Podcast: [The Steelers Fix: Dream Scenario Trades for the Steelers before the Deadline](https://podcasts.apple.com/us/podcast/the-steelers-fix-dream-scenario-trades-for-the/id905962218?i=1000797463527): Steel Curtain Network (BTSC), 2026-10-21 15:30 UTC
 - Podcast: [Hour 1: Sticking it to the Saints](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-102126-mp3): Steelers Blitz, 2026-10-21 15:00 UTC
+- Podcast: [Steelers Big Plans at QB and WR](https://podcasts.apple.com/us/podcast/steelers-big-plans-at-qb-and-wr/id1627248534?i=1000797452829): All Steelers Talk, 2026-10-21 15:00 UTC
 - Video: [You already know the vibes 🙌](https://www.youtube.com/shorts/HdzKsylahSs): Pittsburgh Steelers (official), 2026-10-21 14:49 UTC
 - Podcast: [Hour 2: Power Rankings](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr2-102126-mp3): Steelers Blitz, 2026-10-21 14:00 UTC
 - Podcast: [Time to Believe in One Steelers Player](https://podcasts.apple.com/us/podcast/time-to-believe-in-one-steelers-player/id1627248534?i=1000797435986): All Steelers Talk, 2026-10-21 12:18 UTC
@@ -72,7 +75,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Steelers Not Done With WR Moves?](https://podcasts.apple.com/us/podcast/steelers-not-done-with-wr-moves/id1627248534?i=1000797329590): All Steelers Talk, 2026-10-20 21:17 UTC
 - Podcast: [The Terrible Take - Episode 2056 - October 20, 2026](https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2056-october-20-2026/id405990739?i=1000797326238): The Terrible Podcast (Steelers Depot), 2026-10-20 21:00 UTC
 - Podcast: [Drive10.20.26Hr1: Scouting the Saints](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-20-26hr1-mp3): SNR Drive, 2026-10-20 20:00 UTC
-- Podcast: [Steelers Crazy #300 - Saints Vs Steelers In Paris](https://anchor.fm/the-sick-podcast---steelers-crazy): The Sick Podcast - Steelers Crazy, 2026-10-20 19:12 UTC
+- Podcast: [Steelers Crazy #300 - Saints Vs Steelers In Paris](https://podcasts.apple.com/us/podcast/steelers-crazy-300-saints-vs-steelers-in-paris/id1640291008?i=1000797311768): The Sick Podcast - Steelers Crazy, 2026-10-20 19:12 UTC
 - Podcast: [Drive10.20.26Hr2: Week Seven Power Rankings](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-20-26hr2-mp3): SNR Drive, 2026-10-20 19:00 UTC
 - Video: [Is the Steelers pass defense actually fine without Joey Porter Jr? #steelers #nfl](https://www.youtube.com/shorts/I8qkYpoHneg): Still Curtain Podcast, 2026-10-20 18:15 UTC
 - Video: [That crowd pop 💥 📺: #PITvsNO 10/25 at 9:30 AM ET on NFLN](https://www.youtube.com/shorts/OlJTbqdizjI): Pittsburgh Steelers (official), 2026-10-20 18:07 UTC
@@ -119,7 +122,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Hour 1: A Takeover in Tampa](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-101926-mp3): Steelers Blitz, 2026-10-19 16:00 UTC
 - Video: [Steelers ILB Payton Wilson Reveals Major Change in Defense’s Approach](https://www.youtube.com/watch?v=2u8S2Cd3QIU): Steelers Now, 2026-10-19 15:37 UTC
 - Podcast: [Hour 2: Brian Batko Break Down and Around the Shield](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/hour-2-brian-batko-break-down-and-around-the-shield): Steelers Blitz, 2026-10-19 15:00 UTC
-- Podcast: [Steelers INSIDER Jim Wexell Reveals Why Aaron Rodgers’ Comeback Win Changes EVERYTHING #Steelers](https://247sports.com/nfl/pittsburgh-steelers/): The Steel City Insider (Jim Wexell, 247Sports), 2026-10-19 14:01 UTC
+- Podcast: [Steelers INSIDER Jim Wexell Reveals Why Aaron Rodgers’ Comeback Win Changes EVERYTHING #Steelers](https://podcasts.apple.com/us/podcast/steelers-insider-jim-wexell-reveals-why-aaron-rodgers/id1623192893?i=1000797086130): The Steel City Insider (Jim Wexell, 247Sports), 2026-10-19 14:01 UTC
 - Video: [Still Celebrating Sloppy Steelers Win? | Steelers Morning Rush](https://www.youtube.com/watch?v=R9OMTs6bo3I): Steelers Now, 2026-10-19 13:59 UTC
 - Podcast: [Still Celebrating Sloppy Steelers Win? | Steelers Morning Rush](https://podcasts.apple.com/us/podcast/still-celebrating-sloppy-steelers-win-steelers-morning/id1700240934?i=1000797088259): Steelers Afternoon Drive, 2026-10-19 13:59 UTC
 - Podcast: [Steelers Calling for WR Trade - But There Are Rules](https://podcasts.apple.com/us/podcast/steelers-calling-for-wr-trade-but-there-are-rules/id1627248534?i=1000797073700): All Steelers Talk, 2026-10-19 12:26 UTC

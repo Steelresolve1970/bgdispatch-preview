@@ -1,9 +1,12 @@
 # Steelers News
 
-_Generated 2026-10-22T18:10:54+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T18:09:27+00:00._
+_Generated 2026-10-22T18:21:43+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T18:21:10+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Steelers fan event at Bastille bar canceled amid civil unrest in Paris](https://www.espn.com/nfl/story/_/id/50250407/steelers-fan-event-paris-canceled-amid-civil-unrest): ESPN, 2026-10-22 18:53 UTC
+- [Christian Kuntz Reveals What NFL is Telling Steelers About Paris](https://www.si.com/nfl/steelers/onsi/christian-kuntz-reveals-what-nfl-telling-pittsburgh-steelers-paris): All Steelers (Sports Illustrated), 2026-10-22 18:18 UTC
+- [‘We’ve Got This In The Bag’: Vince Williams Has Utmost Confidence In Steelers Against Saints](https://steelersdepot.com/2026/10/weve-got-this-in-the-bag-vince-williams-has-utmost-confidence-in-steelers-against-saints/): Steelers Depot, 2026-10-22 18:15 UTC
+- [Steelers fan event in Paris canceled as "precautionary measure" after riots](https://www.cbsnews.com/pittsburgh/news/steelers-fan-event-paris-canceled/): CBS News, 2026-10-22 18:11 UTC
 - [Steelers fans leave Pittsburgh for Paris as first-ever NFL game in the city nears](https://www.wtae.com/article/yinzers-paris-steelers-game-from-pittsburgh/74218502): WTAE, 2026-10-22 17:51 UTC
 - [Steelers Set To Land Bargain Trade Deal With Former Patrick Graham Defender](https://www.steelernation.com/2026/10/22/steelers-bargain-trade-patrick-graham): SteelerNation, 2026-10-22 17:48 UTC
 - ['We finally busted our way through': Raiders dethrone Pittsburgh in 1976 AFC title game | Thrilling Moments](https://www.raiders.com/video/look-back-raiders-dethrone-pittsburgh-1976-afc-title-game-thrilling-moments): Raiders.com, 2026-10-22 17:31 UTC
@@ -24,13 +27,11 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers Sights & Sounds: DT Gabriel Rubio Readying to Step Up](https://steelersnow.com/steelers-sights-sounds-dt-gabriel-rubio-readying-to-step-up/): Steelers Now, 2026-10-22 16:14 UTC
 - [Steelers Make Quick Move As Veteran Defender Hits Injured Reserve](https://www.steelernation.com/2026/10/22/steelers-quick-move-injured-reserve): SteelerNation, 2026-10-22 16:08 UTC
 - [Steelers Get Bad News on Sebastian Joseph-Day](https://steelersnow.com/steelers-get-bad-news-on-sebastian-joseph-day/): Steelers Now, 2026-10-22 16:02 UTC
-- [Preparing the field for Sunday’s NFL game in Paris began months ago at an Italian farm near Milan](https://www.bozemandailychronicle.com/wire/sports/preparing-the-field-for-sunday-s-nfl-game-in-paris-began-months-ago-at-an/article_0a7e87ac-c052-5504-b44c-19f1f568aeb6.html): Bozeman Daily Chronicle, 2026-10-22 16:01 UTC
 - [Steelers could see their playoff odds change dramatically in Week 7](https://stillcurtain.com/pittsburgh-steelers-could-see-playoff-odds-change-dramatically-week-7-01m5hxbbsg5h?utm_source=RSS): Still Curtain, 2026-10-22 16:00 UTC
 - [Steelers news: Jalen Ramsey looks to continue fantastic start](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176693/steelers-news-jalen-ramsey-looks-to-continue-fantastic-start): Behind the Steel Curtain, 2026-10-22 16:00 UTC
 - [Steelers Defensive Lineman Reveals Eye-Opening Weight](https://steelersnow.com/steelers-defensive-lineman-reveals-eye-opening-weight/): Steelers Now, 2026-10-22 16:00 UTC
-- [Steelers put Sebastian Joseph-Day on injured reserve](https://sports.yahoo.com/articles/steelers-put-sebastian-joseph-day-155924967.html): Yahoo Sports, 2026-10-22 15:59 UTC
+- [Steelers put Sebastian Joseph-Day on injured reserve](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-put-sebastian-joseph-day-on-injured-reserve): ProFootballTalk (NBC), 2026-10-22 15:59 UTC
 - [Steelers place DE Sebastian Joseph-Day on IR](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176702/steelers-place-de-sebastian-joseph-day-on-ir-sebastian-joseph-day): Behind the Steel Curtain, 2026-10-22 15:56 UTC
-- [Steelers place another defensive lineman on IR](https://sports.yahoo.com/articles/steelers-place-another-defensive-lineman-155657558.html): Yahoo Sports, 2026-10-22 15:56 UTC
 - [Steelers Place DL Sebastian Joseph-Day On Injured Reserve](https://steelersdepot.com/2026/10/steelers-place-dl-sebastian-joseph-day-on-injured-reserve/): Steelers Depot, 2026-10-22 15:51 UTC
 - [Steelers place Joseph-Day on Reserve/Injured List](https://www.steelers.com/news/steelers-place-joseph-day-on-reserve-injured-list): Steelers.com (official), 2026-10-22 15:45 UTC
 - [Steelers Face Major Hurdle In Pursuit Of Several Intriguing WR Targets](https://www.steelernation.com/2026/10/22/steelers-major-hurdle-intriguing): SteelerNation, 2026-10-22 15:36 UTC
@@ -69,6 +70,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers Daily News & Links: Germie Bernard Got Cussed Out by Teammate; Playing in Paris Bad Look for NFL?](https://steelersnow.com/steelers-daily-germie-bernard-got-cussed-out-by-teammate-playing-in-paris-bad-look-for-nfl/): Steelers Now, 2026-10-22 11:49 UTC
 - [‘A Beautiful Example:’ Mike Tomlin Reveals What He Loves Most About Cam Heyward](https://steelersdepot.com/2026/10/a-beautiful-example-mike-tomlin-reveals-what-he-loves-most-about-cam-heyward/): Steelers Depot, 2026-10-22 11:15 UTC
 - [Steelers Stock Watch 2026 – S DeShon Elliott](https://steelersdepot.com/2026/10/steelers-stock-watch-2026-s-deshon-elliott-2/): Steelers Depot, 2026-10-22 11:00 UTC
+- [Ranking Steelers Top Trade Needs And Their Best Targets](https://www.si.com/nfl/steelers/onsi/ranking-pittsburgh-steelers-top-trade-needs-best-targets): All Steelers (Sports Illustrated), 2026-10-22 11:00 UTC
 - [Ex-Steelers coach reveals how Browns threw away a potential dynasty in 2018](https://stillcurtain.com/ex-pittsburgh-steelers-coach-reveals-how-browns-threw-away-a-potential-dynasty-in-2018-01m5f4xrg900?utm_source=RSS): Still Curtain, 2026-10-22 11:00 UTC
 - [Two more key Pittsburgh Steelers players pop up with injuries](https://www.pennlive.com/steelers/2026/10/two-more-key-pittsburgh-steelers-players-pop-up-with-injuries.html): PennLive (Nick Farabaugh), 2026-10-22 11:00 UTC
 - [‘Can Be That Dude’: Vince Williams Sees Superstar Potential In Payton Wilson](https://steelersdepot.com/2026/10/can-be-that-dude-vince-williams-sees-superstar-potential-in-payton-wilson/): Steelers Depot, 2026-10-22 10:30 UTC
@@ -94,7 +96,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Groin injury limits Steelers LB Alex Highsmith; 4 teammates sit out practice](https://triblive.com/sports/groin-injury-limits-steelers-lb-alex-highsmith-4-others-s/): TribLive, 2026-10-22 00:59 UTC
 - [With Dowdle healthy, McCarthy sees more possibilities for Steelers’ running backs](https://triblive.com/sports/with-dowdle-healthy-mccarthy-sees-more-possibilities-for-steelers-running-backs/): TribLive, 2026-10-22 00:50 UTC
 - [Steelers Night Shift: Week 7 vs. New Orleans Saints](https://steelersnow.com/steelers-night-shift-week-7-vs-new-orleans-saints/): Steelers Now, 2026-10-22 00:34 UTC
-- [‘He’s Worse At This Point’: Former Browns HC ‘Disappointed’ With Early Returns From Rodgers, McCarthy](https://steelersdepot.com/2026/10/hes-worse-at-this-point-former-browns-hc-disappointed-with-early-returns-from-rodgers-mccarthy/): Steelers Depot, 2026-10-22 00:00 UTC
 - [Germie Bernard Opens Up on What It’s Like Playing with Aaron Rodgers](https://steelersnow.com/germie-bernard-opens-up-on-what-its-like-playing-with-aaron-rodgers/): Steelers Now, 2026-10-21 23:33 UTC
 - [Marquez Valdes-Scantling is back for a reunion and hopes to bolster an injured Steelers receiver room](https://www.post-gazette.com/sports/steelers/2026/10/21/marquez-valdes-scantling-aaron-rodgers-mike-mccarthy-steelers/stories/202610210044): Pittsburgh Post-Gazette, 2026-10-21 23:07 UTC
 - [Injury Emerges for Steelers Defensive Lineman](https://steelersnow.com/injury-emerges-for-steelers-defensive-lineman/): Steelers Now, 2026-10-21 23:07 UTC
@@ -152,7 +153,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [NFL will proceed with plans for Steelers-Saints game in Paris despite unrest](https://www.nytimes.com/athletic/7708509/2026/10/20/nfl-paris-steelers-saints-security/): The Athletic, 2026-10-20 20:03 UTC
 - [Steelers sign Valdes-Scantling](https://www.steelers.com/news/steelers-sign-valdes-scantling): Steelers.com (official), 2026-10-20 20:00 UTC
 - [Former Steelers running back arrested on domestic assault charge](https://www.audacy.com/937thefan/sports/pittsburgh-steelers/cordarrelle-patterson): Audacy, 2026-10-20 16:21 UTC
-- [Steelers Rookie WR Quickly Joining Rookie of the Year Mix](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-rookie-germie-bernard-quickly-joining-rookie-year-mix): All Steelers (Sports Illustrated), 2026-10-20 16:00 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

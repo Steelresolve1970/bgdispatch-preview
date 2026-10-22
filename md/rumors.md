@@ -1,12 +1,14 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-22T18:10:54+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T18:10:35+00:00._
+_Generated 2026-10-22T18:21:43+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T18:21:36+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [ESPN projects a NFL Trade Deadline deal between the Steelers and Raiders](https://www.steelcurtainnetwork.com/espn-projects-a-nfl-trade-deadline-deal-between-the-steelers-and-raiders/): Steel Curtain Network, first seen 2026-10-22 18:10 UTC
-- **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
+- **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
   [Ranking Steelers Top Trade Needs And Their Best Targets](https://www.si.com/nfl/steelers/onsi/ranking-pittsburgh-steelers-top-trade-needs-best-targets): Sports Illustrated, first seen 2026-10-22 18:10 UTC
+- **Rumor** · tier: Aggregator / other · consensus: 2 source(s), top tier National insider
+  [Ranking Steelers Top Trade Needs And Their Best Targets](https://www.si.com/nfl/steelers/onsi/ranking-pittsburgh-steelers-top-trade-needs-best-targets): All Steelers (Sports Illustrated), first seen 2026-10-22 18:21 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [Steelers face tough decisions on T.J. Watt, Alex Highsmith as NFL trade deadline looms](https://www.usatoday.com/story/sports/nfl/steelers/2026/10/22/steelers-nfl-trade-deadline-tj-watt-alex-highsmith-patrick-queen/92364449007/): USA Today, first seen 2026-10-22 18:10 UTC
 - **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
