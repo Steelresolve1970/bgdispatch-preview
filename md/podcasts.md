@@ -1,16 +1,18 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-22T04:12:57+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T04:12:41+00:00._
+_Generated 2026-10-22T04:24:37+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T04:24:20+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [Yinz Steel Believe: Are the Steelers Good Enough to Be Buyers at the Trade Deadline?](https://podcasts.apple.com/us/podcast/id905962218): Steel Curtain Network (BTSC), 2026-10-22 02:45 UTC
 - Podcast: [STEELERS SQUAD SHOW: Offense MUST Improve as Jaylen Warren, Aaron Rodgers Prepare for Saints & Paris](https://lockedonpodcasts.com/podcasts/locked-on-steelers/): Locked On Steelers, 2026-10-22 01:33 UTC
+- Podcast: [Steelers Night Shift: Week 7 vs. New Orleans Saints](https://podcasts.apple.com/us/podcast/steelers-night-shift-week-7-vs-new-orleans-saints/id1700240934?i=1000797530079): Steelers Afternoon Drive, 2026-10-22 00:37 UTC
 - Video: [Getting DK Metcalf Going? | Steelers Practice Report](https://www.youtube.com/watch?v=tOh3UND3O0A): Steelers Now, 2026-10-21 23:25 UTC
 - Video: [Steelers Night Shift: Week 7 vs. New Orleans Saints](https://www.youtube.com/watch?v=1gauqdYWUL8): Steelers Now, 2026-10-21 23:07 UTC
 - Video: [Sights & Sounds: Week 6 Win at Tampa Bay Buccaneers | Pittsburgh Steelers](https://www.youtube.com/watch?v=Trzxzx_RfSs): Pittsburgh Steelers (official), 2026-10-21 23:00 UTC
 - Video: [Coach Mike McCarthy Press Conference (October 21) | Pittsburgh Steelers](https://www.youtube.com/watch?v=2BEQkzVwsWQ): Pittsburgh Steelers (official), 2026-10-21 22:25 UTC
 - Podcast: [DK’s Double Shot of Steelers: Almost Paris!](https://podcasts.apple.com/us/podcast/id1072021022): DK Pittsburgh Sports, 2026-10-21 22:10 UTC
 - Video: [Can MVS Play Right Away? | Steelers Afternoon Drive](https://www.youtube.com/watch?v=HGSOYSj-8n0): Steelers Now, 2026-10-21 22:04 UTC
+- Podcast: [Can MVS Play Right Away? | Steelers Afternoon Drive](https://podcasts.apple.com/us/podcast/can-mvs-play-right-away-steelers-afternoon-drive/id1700240934?i=1000797512443): Steelers Afternoon Drive, 2026-10-21 22:03 UTC
 - Podcast: [Steelers Release Veteran DB | Chris Godwin Trade?](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-21 21:45 UTC
 - Podcast: [The Terrible Take - Episode 2057 - October 21, 2026](https://podcasts.apple.com/us/podcast/id405990739): The Terrible Podcast (Steelers Depot), 2026-10-21 21:00 UTC
 - Video: [Cause for Concern? Steelers OT Max Iheanachor Has Taped Hand](https://www.youtube.com/watch?v=8BuJm27H0WQ): Steelers Now, 2026-10-21 20:46 UTC
@@ -19,6 +21,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Steelers vs. Saints Week 7 Preview | Aaron Rodgers Problem Brewing](https://redcircle.com/shows/62750d24-c3c9-4be8-919a-ff22b312fb19/episodes/713cf51f-6e13-4adb-977b-bd7b8f477ea3): Still Curtain Podcast, 2026-10-21 19:35 UTC
 - Video: [Steelers vs. Saints Week 7 Preview | Aaron Rodgers Problem Brewing](https://www.youtube.com/watch?v=B0agqGjSVpU): Still Curtain Podcast, 2026-10-21 17:20 UTC
 - Video: [The rookie Germie Bernard got his first NFL TD at the perfect time! 🔥👏#germiebernard #steelers](https://www.youtube.com/shorts/VoBCAmwhJqs): Not Just Football with Cam Heyward, 2026-10-21 17:11 UTC
+- Podcast: [Steelers Offense a One-Trick Pony? | Steelers Morning Rush](https://podcasts.apple.com/us/podcast/steelers-offense-a-one-trick-pony-steelers-morning-rush/id1700240934?i=1000797476047): Steelers Afternoon Drive, 2026-10-21 17:06 UTC
 - Video: [Steelers Offense a One-Trick Pony? | Steelers Morning Rush](https://www.youtube.com/watch?v=-zQt3m3PEa0): Steelers Now, 2026-10-21 17:05 UTC
 - Video: [AFC DEFENSIVE PLAYER OF THE WEEK: JALEN RAMSEY](https://www.youtube.com/shorts/Wlg6JLl9cbY): Pittsburgh Steelers (official), 2026-10-21 16:09 UTC
 - Video: [8 on the move 🌪️ 📺: #PITvsNO 10/25 at 9:30 AM ET on NFLN](https://www.youtube.com/shorts/DAK6nmsyqNE): Pittsburgh Steelers (official), 2026-10-21 15:47 UTC
