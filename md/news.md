@@ -1,9 +1,9 @@
 # Steelers News
 
-_Generated 2026-10-22T18:32:36+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T18:32:05+00:00._
+_Generated 2026-10-22T18:43:28+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T18:42:58+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
-- [Steelers fan event at Bastille bar canceled amid civil unrest in Paris](https://www.espn.com/nfl/story/_/id/50250407/steelers-fan-event-paris-canceled-amid-civil-unrest): ESPN, 2026-10-22 19:24 UTC
+- [Steelers fan event at Bastille bar canceled amid civil unrest in Paris](https://www.espn.com/nfl/story/_/id/50250407/steelers-fan-event-paris-canceled-amid-civil-unrest): ESPN, 2026-10-22 19:35 UTC
 - [Ask Alex: Steelers Mailbag](https://steelersdepot.com/2026/10/ask-alex-steelers-mailbag-557/): Steelers Depot, 2026-10-22 18:30 UTC
 - [Steelers' Mike McCarthy Has Intriguing Opportunity To Revive Justin Herbert's Career](https://www.steelernation.com/2026/10/22/steelers-mike-mccarthy-intriguing-justin-herbert): SteelerNation, 2026-10-22 18:26 UTC
 - [Christian Kuntz Reveals What NFL is Telling Steelers About Paris](https://www.si.com/nfl/steelers/onsi/christian-kuntz-reveals-what-nfl-telling-pittsburgh-steelers-paris): All Steelers (Sports Illustrated), 2026-10-22 18:18 UTC
@@ -16,7 +16,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers injury leaves Gabriel Rubio facing a golden NFL opportunity](https://stillcurtain.com/pittsburgh-steelers-sebastian-joseph-day-injury-leaves-gabriel-rubio-golden-nfl-opportunity-01m5j7djme4b?utm_source=RSS): Still Curtain, 2026-10-22 17:21 UTC
 - [Pittsburgh Steelers 2026 53-Man Roster, Practice Squad](https://steelersnow.com/pittsburgh-steelers-player-roster/): Steelers Now, 2026-10-22 17:13 UTC
 - [Kendre Miller, Kaden Elliss, Martin Emerson Jr., Spencer Rattler press conference | Saints vs. Steelers 2026 NFL Week 7](https://www.neworleanssaints.com/video/kendre-miller-kaden-elliss-martin-emerson-jr-spencer-rattler-press-conference-saints-vs-steelers-2026-nfl-week-7-october-22-2026): New Orleans Saints | NewOrleansSaints.com, 2026-10-22 17:09 UTC
-- [Steelers fan event in Paris canceled following recent civil unrest in capital](https://www.foxsports.com/articles/nfl/steelers-fan-event-in-paris-canceled-following-recent-civil-unrest-in-capital): FOX Sports, 2026-10-22 17:09 UTC
 - [Steelers Fans Find Out Referees Sabotaged Chris Boswell's Important Field Goal Attempt](https://www.steelernation.com/2026/10/22/steelers-sabotaged-chris-boswell-important): SteelerNation, 2026-10-22 17:03 UTC
 - [Steelers staffers began planning for their Paris trip — and its logistical obstacles — in June](https://www.post-gazette.com/sports/steelers/2026/10/22/steelers-paris-trip-planning/stories/202610220046): Pittsburgh Post-Gazette, 2026-10-22 17:00 UTC
 - [CBS Reveals Steelers-Browns Week 8 Broadcast Team](https://steelersdepot.com/2026/10/cbs-reveals-steelers-browns-week-8-broadcast-team/): Steelers Depot, 2026-10-22 16:57 UTC
@@ -58,6 +57,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [NFL cancels Steelers Fan House event in Paris](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-cancels-steelers-fan-house-event-in-paris): ProFootballTalk (NBC), 2026-10-22 13:43 UTC
 - [Saints Could Have One Big Advantage over Steelers](https://steelersnow.com/saints-could-have-one-big-advantage-over-steelers/): Steelers Now, 2026-10-22 13:30 UTC
 - [NFL Paris: Saints HC Moore demands consistency vs. Steelers](https://www.dazn.com/en-US/news/football/saints-steelers-kellen-moore-preparation-nfl-paris-game/yrizv2ofgb3u1o43m54z0bows): DAZN, 2026-10-22 13:30 UTC
+- [Five things to know about the New Orleans Saints for Thursday, October 22](https://www.neworleanssaints.com/news/five-things-to-know-about-the-new-orleans-saints-coordinators-availability-thursday-october-22): New Orleans Saints | NewOrleansSaints.com, 2026-10-22 13:16 UTC
 - [Morning Break: Saints begin practice in France, Martin Emerson Jr. earns NFC honors](https://www.neworleanssaints.com/news/morning-break-saints-begin-practice-in-france-martin-emerson-jr-earns-nfc-honors-new-orleans-news-headlines-10-22-2026): New Orleans Saints | NewOrleansSaints.com, 2026-10-22 13:01 UTC
 - [Germie Bernard Corrects One Misconception About DK Metcalf](https://steelersdepot.com/2026/10/germie-bernard-corrects-one-misconception-about-dk-metcalf/): Steelers Depot, 2026-10-22 13:00 UTC
 - [Steelers fans, unfazed by French unrest, find Paris to be far from terrible](https://www.post-gazette.com/sports/steelers/2026/10/22/steelers-game-fans-paris-protests-riots/stories/202610220044): Pittsburgh Post-Gazette, 2026-10-22 13:00 UTC
@@ -79,10 +79,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [U mad, bro?: Aging Penguins roster and Steelers’ clock management in Tampa have Pittsburgh fans grumbling](https://triblive.com/sports/u-mad-bro-aging-penguins-roster-and-steelers-clock-management-in-tampa-have-pittsburgh-fans-grumbling/): TribLive, 2026-10-22 09:59 UTC
 - [Saints HC Explains Why He Sees Early Travel As An Advantage Ahead Of Paris Game Vs Steelers](https://steelersdepot.com/2026/10/saints-hc-explains-why-early-travel-an-advantage-ahead-of-paris-game-vs-steelers/): Steelers Depot, 2026-10-22 09:40 UTC
 - [Whom could the Steelers target at the trade deadline? What's the 2027 QB plan? Mailbag](https://www.nytimes.com/athletic/7711597/2026/10/22/pittsburgh-steelers-trade-deadline-targets-future-qb/): The Athletic, 2026-10-22 09:30 UTC
-- [NFL trade-deadline buyers with most and least salary cap space available](https://www.nytimes.com/athletic/7711325/2026/10/22/nfl-trade-deadline-buyers-salary-cap-space/): The Athletic, 2026-10-22 09:30 UTC
-- [NFL trade deadline 2026 big board: 50 players who could be dealt before Nov. 10](https://www.nytimes.com/athletic/7664102/2026/10/22/nfl-trade-deadline-board-players-available/): The Athletic, 2026-10-22 09:30 UTC
 - [How Will Steelers Divide Snaps Between Asante Samuel Jr. And Daylen Everette?](https://steelersdepot.com/2026/10/how-will-steelers-divide-snaps-between-asante-samuel-jr-and-daylen-everette/): Steelers Depot, 2026-10-22 09:00 UTC
-- [NFL Week 7 ATS picks: Throw the NFC East's bad records (and the teams, too) in the trash](https://www.nytimes.com/athletic/7709332/2026/10/22/nfl-week-7-predictions-betting-picks/): The Athletic, 2026-10-22 09:00 UTC
 - [Gretchen’s table: A French tailgate for American football in Paris](https://www.post-gazette.com/life/recipes/2026/10/22/parisian-tailgate-steelers-paris-french-menu/stories/202610250003): Pittsburgh Post-Gazette, 2026-10-22 08:00 UTC
 - [New Orleans Saints vs. Pittsburgh Steelers Fantasy Football Matchup Breakdown For Week 7](https://www.fantasylife.com/articles/fantasy/new-orleans-saints-vs-pittsburgh-steelers-fantasy-football-match): FantasyLife, 2026-10-22 08:00 UTC
 - [Another Pittsburgh Steelers defensive lineman goes down with injury](https://www.pennlive.com/steelers/2026/10/another-pittsburgh-steelers-defensive-lineman-goes-down-with-injury.html): PennLive (Nick Farabaugh), 2026-10-22 04:22 UTC
@@ -153,6 +150,9 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers Rookie WR Quickly Joining Rookie of the Year Mix](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-rookie-germie-bernard-quickly-joining-rookie-year-mix): All Steelers (Sports Illustrated), 2026-10-20 16:00 UTC
 - [Steelers should cash in on Mason Rudolph if the Eagles come calling](https://stillcurtain.com/pittsburgh-steelers-should-cash-in-mason-rudolph-trade-philadelphia-eagles-01m5b9frwbv6?utm_source=RSS): Still Curtain, 2026-10-20 16:00 UTC
 - [NFL in Paris: League eyes big debut as Steelers-Saints game comes amid security concerns](https://triblive.com/sports/nfl-in-paris-league-eyes-big-debut-as-steelers-saints-game-comes-amid-security-concerns/): TribLive, 2026-10-20 15:56 UTC
+- [Former Steelers first-round pick's NFL career may be on life support](https://stillcurtain.com/former-pittsburgh-steelers-first-round-pick-najee-harris-nfl-career-life-support-01m5cx9yd8td?utm_source=RSS): Still Curtain, 2026-10-20 15:36 UTC
+- [Steelers’ dream 2027 quarterback class is already losing its shine](https://stillcurtain.com/pittsburgh-steelers-dream-2027-quarterback-class-is-already-losing-its-shine-01m5b6pz8naq?utm_source=RSS): Still Curtain, 2026-10-20 14:00 UTC
+- [Mark Madden: Steelers fans should embrace comeback win, not nitpick Mike McCarthy’s mistakes](https://triblive.com/sports/mark-madden-steelers-fans-should-embrace-comeback-win-not-nitpick-mike-mccarthys-mistakes/): TribLive, 2026-10-20 13:46 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

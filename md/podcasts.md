@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-22T18:32:36+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T18:32:19+00:00._
+_Generated 2026-10-22T18:43:28+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T18:43:11+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [TBT to when Fast Willie went off against the Saints 💨 📺: #PITvsNO 10/25 at 9:30 AM ET on NFLN](https://www.youtube.com/shorts/RR-n2vkYybA): Pittsburgh Steelers (official), 2026-10-22 18:23 UTC

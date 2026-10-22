@@ -1,10 +1,10 @@
 {
- "last_run": "2026-10-22T18:32:36.492177+00:00",
+ "last_run": "2026-10-22T18:43:28.562854+00:00",
  "results": [
   {
    "fetcher": "apply_grade_edits.py",
    "ok": true,
-   "seconds": 0.5,
+   "seconds": 1.0,
    "last_line": "no grade edits"
   },
   {
@@ -28,14 +28,14 @@
   {
    "fetcher": "build_boxscores.py",
    "ok": true,
-   "seconds": 2.5,
+   "seconds": 2.0,
    "last_line": "boxscores 6"
   },
   {
    "fetcher": "fetch_insiders.py",
    "ok": true,
    "seconds": 1.5,
-   "last_line": "sidebar: 6 full feed: 18"
+   "last_line": "sidebar: 6 full feed: 20"
   },
   {
    "fetcher": "fetch_film.py",
@@ -113,7 +113,7 @@
    "fetcher": "fetch_hub.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "hub fresh (<30 min); skipped"
+   "last_line": "injuries 10 practice 10 opp NO"
   },
   {
    "fetcher": "fetch_matchup.py",
@@ -172,14 +172,14 @@
   {
    "fetcher": "fetch_quotes.py",
    "ok": true,
-   "seconds": 1.5,
-   "last_line": "quotes: 11 kept from 132 articles"
+   "seconds": 1.0,
+   "last_line": "quotes: 11 kept from 135 articles"
   },
   {
    "fetcher": "build_machine.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "machine layer: {'news': 150, 'rumors': 68, 'injuries': 10, 'depth-chart': 28, 'schedule': 17, 'stats': 62, 'grades': 40, 'college': 20, 'insiders': 18, 'podcasts': 145, 'film': 22, 'draft': 521} md 13 feeds 5 jsonld 14"
+   "last_line": "machine layer: {'news': 150, 'rumors': 68, 'injuries': 10, 'depth-chart': 28, 'schedule': 17, 'stats': 62, 'grades': 40, 'college': 20, 'insiders': 20, 'podcasts': 145, 'film': 22, 'draft': 521} md 13 feeds 5 jsonld 14"
   }
  ]
 }
