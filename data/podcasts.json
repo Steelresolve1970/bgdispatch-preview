@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-22T22:51:34.480558+00:00",
+ "generated": "2026-10-22T23:09:00.046182+00:00",
  "date_et": "2026-10-22",
  "days": 5,
  "display_days": 2,
- "count": 150,
+ "count": 149,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -90,10 +90,10 @@
    "show": "Steel City Underground",
    "kind": "podcast",
    "url": "https://feeds.feedburner.com/steelcityunderground",
-   "status": "ok",
-   "episodes": 45,
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "episodes": 0,
    "week": 2,
-   "latest": "2026-10-22T16:20:16+00:00"
+   "latest": null
   },
   {
    "show": "Steel City Underground",
@@ -218,7 +218,7 @@
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8hodyaoiw297aspKf9QVDA",
    "status": "ok",
    "episodes": 15,
-   "week": 7,
+   "week": 6,
    "latest": "2026-10-22T15:53:52+00:00"
   },
   {
@@ -1441,14 +1441,6 @@
    "link": "https://podcasts.apple.com/us/podcast/dks-live-shot-of-steelers-pregame-vs-buccaneers/id1072021022?i=1000796861441",
    "published": "2026-10-18T01:37:00+00:00",
    "summary": "Podcast episode from DK Pittsburgh Sports."
-  },
-  {
-   "title": "E Robb didn\u2019t want to let his teammates down \ud83d\udc4f\ud83d\udca5#nfl #patriots #falcons",
-   "show": "Not Just Football with Cam Heyward",
-   "kind": "video",
-   "link": "https://www.youtube.com/shorts/bheCQdatp50",
-   "published": "2026-10-17T23:00:17+00:00",
-   "summary": "Video from Not Just Football with Cam Heyward."
   }
  ],
  "yt_channels": [],
