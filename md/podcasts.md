@@ -1,8 +1,10 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-22T00:21:43+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T00:21:26+00:00._
+_Generated 2026-10-22T03:37:44+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T03:37:19+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Podcast: [Yinz Steel Believe: Are the Steelers Good Enough to Be Buyers at the Trade Deadline?](https://podcasts.apple.com/us/podcast/id905962218): Steel Curtain Network (BTSC), 2026-10-22 02:45 UTC
+- Podcast: [STEELERS SQUAD SHOW: Offense MUST Improve as Jaylen Warren, Aaron Rodgers Prepare for Saints & Paris](https://lockedonpodcasts.com/podcasts/locked-on-steelers/): Locked On Steelers, 2026-10-22 01:33 UTC
 - Video: [Getting DK Metcalf Going? | Steelers Practice Report](https://www.youtube.com/watch?v=tOh3UND3O0A): Steelers Now, 2026-10-21 23:25 UTC
 - Video: [Steelers Night Shift: Week 7 vs. New Orleans Saints](https://www.youtube.com/watch?v=1gauqdYWUL8): Steelers Now, 2026-10-21 23:07 UTC
 - Video: [Sights & Sounds: Week 6 Win at Tampa Bay Buccaneers | Pittsburgh Steelers](https://www.youtube.com/watch?v=Trzxzx_RfSs): Pittsburgh Steelers (official), 2026-10-21 23:00 UTC
@@ -20,7 +22,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Steelers Offense a One-Trick Pony? | Steelers Morning Rush](https://www.youtube.com/watch?v=-zQt3m3PEa0): Steelers Now, 2026-10-21 17:05 UTC
 - Video: [AFC DEFENSIVE PLAYER OF THE WEEK: JALEN RAMSEY](https://www.youtube.com/shorts/Wlg6JLl9cbY): Pittsburgh Steelers (official), 2026-10-21 16:09 UTC
 - Video: [8 on the move 🌪️ 📺: #PITvsNO 10/25 at 9:30 AM ET on NFLN](https://www.youtube.com/shorts/DAK6nmsyqNE): Pittsburgh Steelers (official), 2026-10-21 15:47 UTC
-- Podcast: [The Steelers Fix: Dream Scenario Trades for the Steelers before the Deadline](https://podcasts.apple.com/us/podcast/id905962218): Steel Curtain Network (BTSC), 2026-10-21 15:30 UTC
 - Podcast: [Hour 1: Sticking it to the Saints](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-102126-mp3): Steelers Blitz, 2026-10-21 15:00 UTC
 - Video: [You already know the vibes 🙌](https://www.youtube.com/shorts/HdzKsylahSs): Pittsburgh Steelers (official), 2026-10-21 14:49 UTC
 - Podcast: [Hour 2: Power Rankings](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr2-102126-mp3): Steelers Blitz, 2026-10-21 14:00 UTC
@@ -128,8 +129,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [State of the Steelers: Can The Steelers Fix Its Road Woes in Tampa Bay?](https://podcasts.apple.com/us/podcast/state-of-the-steelers-can-the-steelers-fix-its-road/id905962218?i=1000796815256): Steel Curtain Network (BTSC), 2026-10-17 15:09 UTC
 - Podcast: [Steel City Insider: Previewing Steelers vs. Buccaneers, with Jon Ledyard](https://podcasts.apple.com/us/podcast/steel-city-insider-previewing-steelers-vs-buccaneers/id905962218?i=1000796781684): Steel Curtain Network (BTSC), 2026-10-17 08:00 UTC
 - Podcast: [🔥 JAYLEN WARREN ON FIRE! CAN THE STEELERS SINK TAMPA BAY? | SF7P EPISODE 211 ⚫🟡](https://podcasters.spotify.com/pod/show/steelersfor7podcast/episodes/JAYLEN-WARREN-ON-FIRE--CAN-THE-STEELERS-SINK-TAMPA-BAY---SF7P-EPISODE-211-e3qkqod): Steelers for 7 Podcast, 2026-10-17 04:46 UTC
-- Podcast: [The Homies: Gridiron Grind & AFC North Week 6 Matchups](https://podcasts.apple.com/us/podcast/the-homies-gridiron-grind-afc-north-week-6-matchups/id905962218?i=1000796754318): Steel Curtain Network (BTSC), 2026-10-17 02:15 UTC
-- Podcast: [Is Kaden Wetjen on a Short Leash? Grand Finale with Jack Hillgrove | THE PITTSBURGH FOOTBALL SHOW](https://podcasts.apple.com/us/podcast/is-kaden-wetjen-on-a-short-leash-grand-finale-with/id1700240934?i=1000796754627): Steelers Afternoon Drive, 2026-10-17 02:10 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

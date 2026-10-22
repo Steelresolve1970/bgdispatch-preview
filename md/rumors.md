@@ -1,8 +1,10 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-22T00:21:43+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T00:21:37+00:00._
+_Generated 2026-10-22T03:37:44+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T03:37:38+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
+- **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
+  [Steelers’ Roster Move Makes $41M Pro Bowler Top Trade Candidate](https://heavy.com/sports/nfl/pittsburgh-steelers/steelers-patrick-queen-trade-candidate-elandon-roberts/): Heavy.com, first seen 2026-10-22 03:37 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 13 source(s), top tier National insider
   [Gerry Dulac Shuts Down Steelers Trade Rumors After Marquez Valdes-Scantling Signing](https://gridironheroics.com/gerry-dulac-shuts-down-steelers-trade-rumors-after-marquez-valdes-scantling-signing/): Gridiron Heroics, first seen 2026-10-21 22:41 UTC
 - **Rumor** · tier: National insider · consensus: 13 source(s), top tier National insider
@@ -67,6 +69,8 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Latest update on injured Steelers wide receiver could mean Pittsburgh has no choice but to make a trade before the deadline](https://atozsports.com/nfl/pittsburgh-steelers-news/michael-pittman-jr-could-miss-rest-of-season-wr-trade-deadline-rumors/): A to Z Sports, first seen 2026-10-21 04:26 UTC
 - **Rumor** · tier: Fan blog · consensus: 13 source(s), top tier National insider
   [Reports: Giants Release Ex-Steelers RB Najee Harris](https://steelersdepot.com/2026/10/reports-giants-release-ex-steelers-rb-najee-harris/): Steelers Depot, first seen 2026-10-20 15:15 UTC
+- **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
+  [Colts' trade update could be great news for Steelers](https://sports.yahoo.com/articles/colts-trade-could-great-news-145024224.html): Yahoo Sports, first seen 2026-10-22 03:37 UTC
 - **Rumor** · tier: Fan blog · consensus: 13 source(s), top tier National insider
   [Steelers signing Marquez Valdes-Scantling could make things even worse](https://stillcurtain.com/pittsburgh-steelers-signing-marquez-valdes-scantling-could-make-offense-worse-01m5cmdzgrz1?utm_source=RSS): Still Curtain, first seen 2026-10-20 14:14 UTC
 - **Rumor** · tier: National insider · consensus: 13 source(s), top tier National insider

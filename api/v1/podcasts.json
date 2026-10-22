@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-22T00:21:43+00:00",
- "data_updated": "2026-10-22T00:21:26+00:00",
- "count": 127,
+ "generated": "2026-10-22T03:37:44+00:00",
+ "data_updated": "2026-10-22T03:37:19+00:00",
+ "count": 126,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -19,6 +19,32 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/podcasts",
  "items": [
+  {
+   "id": "dd3008860aec9a40",
+   "type": "podcast_episode",
+   "title": "Yinz Steel Believe: Are the Steelers Good Enough to Be Buyers at the Trade Deadline?",
+   "show": "Steel Curtain Network (BTSC)",
+   "url": "https://podcasts.apple.com/us/podcast/id905962218",
+   "published": "2026-10-22T02:45:00+00:00",
+   "summary": "Podcast episode from Steel Curtain Network (BTSC).",
+   "source": {
+    "name": "Steel Curtain Network (BTSC)",
+    "url": null
+   }
+  },
+  {
+   "id": "50327394adeb9940",
+   "type": "podcast_episode",
+   "title": "STEELERS SQUAD SHOW: Offense MUST Improve as Jaylen Warren, Aaron Rodgers Prepare for Saints & Paris",
+   "show": "Locked On Steelers",
+   "url": "https://lockedonpodcasts.com/podcasts/locked-on-steelers/",
+   "published": "2026-10-22T01:33:43+00:00",
+   "summary": "Podcast episode from Locked On Steelers.",
+   "source": {
+    "name": "Locked On Steelers",
+    "url": null
+   }
+  },
   {
    "id": "2ac4fdb2d6d8cc6b",
    "type": "video",
@@ -237,19 +263,6 @@
    "summary": "Video from Pittsburgh Steelers (official).",
    "source": {
     "name": "Pittsburgh Steelers (official)",
-    "url": null
-   }
-  },
-  {
-   "id": "dd3008860aec9a40",
-   "type": "podcast_episode",
-   "title": "The Steelers Fix: Dream Scenario Trades for the Steelers before the Deadline",
-   "show": "Steel Curtain Network (BTSC)",
-   "url": "https://podcasts.apple.com/us/podcast/id905962218",
-   "published": "2026-10-21T15:30:00+00:00",
-   "summary": "Podcast episode from Steel Curtain Network (BTSC).",
-   "source": {
-    "name": "Steel Curtain Network (BTSC)",
     "url": null
    }
   },
@@ -1641,32 +1654,6 @@
    "summary": "Podcast episode from Steelers for 7 Podcast.",
    "source": {
     "name": "Steelers for 7 Podcast",
-    "url": null
-   }
-  },
-  {
-   "id": "93cf49c1487f79e2",
-   "type": "podcast_episode",
-   "title": "The Homies: Gridiron Grind & AFC North Week 6 Matchups",
-   "show": "Steel Curtain Network (BTSC)",
-   "url": "https://podcasts.apple.com/us/podcast/the-homies-gridiron-grind-afc-north-week-6-matchups/id905962218?i=1000796754318",
-   "published": "2026-10-17T02:15:00+00:00",
-   "summary": "Podcast episode from Steel Curtain Network (BTSC).",
-   "source": {
-    "name": "Steel Curtain Network (BTSC)",
-    "url": null
-   }
-  },
-  {
-   "id": "65d3fbb4271a62ab",
-   "type": "podcast_episode",
-   "title": "Is Kaden Wetjen on a Short Leash? Grand Finale with Jack Hillgrove | THE PITTSBURGH FOOTBALL SHOW",
-   "show": "Steelers Afternoon Drive",
-   "url": "https://podcasts.apple.com/us/podcast/is-kaden-wetjen-on-a-short-leash-grand-finale-with/id1700240934?i=1000796754627",
-   "published": "2026-10-17T02:10:00+00:00",
-   "summary": "Podcast episode from Steelers Afternoon Drive.",
-   "source": {
-    "name": "Steelers Afternoon Drive",
     "url": null
    }
   }
