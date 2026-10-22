@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "draft",
  "description": "Steelers draft hub: top prospects per need with our estimated chance each is available at the Steelers' projected picks, published analyst grades of the last class (letter + link), and every past Steelers pick (nflverse, CC-BY 4.0).",
- "generated": "2026-10-22T19:16:04+00:00",
- "data_updated": "2026-10-22T19:15:53+00:00",
- "count": 521,
+ "generated": "2026-10-22T20:11:25+00:00",
+ "data_updated": "2026-10-22T20:11:14+00:00",
+ "count": 512,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -27,13 +27,13 @@
    "name": "Darian Mensah",
    "position": "QB",
    "school": "Miami",
-   "our_board_rank": 1,
-   "our_grade": 95.0,
+   "our_board_rank": 5,
+   "our_grade": 92.7,
    "chance_available": [
     {
      "round": 1,
      "pick": 22,
-     "percent": 0
+     "percent": 1
     },
     {
      "round": 2,
@@ -56,13 +56,13 @@
    "name": "Drew Mestemaker",
    "position": "QB",
    "school": "Oklahoma State",
-   "our_board_rank": 4,
-   "our_grade": 94.0,
+   "our_board_rank": 6,
+   "our_grade": 92.5,
    "chance_available": [
     {
      "round": 1,
      "pick": 22,
-     "percent": 0
+     "percent": 2
     },
     {
      "round": 2,
@@ -86,7 +86,7 @@
    "position": "QB",
    "school": "Texas",
    "our_board_rank": 7,
-   "our_grade": 92.6,
+   "our_grade": 91.4,
    "chance_available": [
     {
      "round": 1,
@@ -114,13 +114,13 @@
    "name": "Dante Moore",
    "position": "QB",
    "school": "Oregon",
-   "our_board_rank": 10,
-   "our_grade": 91.3,
+   "our_board_rank": 9,
+   "our_grade": 89.8,
    "chance_available": [
     {
      "round": 1,
      "pick": 22,
-     "percent": 9
+     "percent": 7
     },
     {
      "round": 2,
@@ -143,18 +143,18 @@
    "name": "Trinidad Chambliss",
    "position": "QB",
    "school": "Ole Miss",
-   "our_board_rank": 31,
-   "our_grade": 85.9,
+   "our_board_rank": 33,
+   "our_grade": 83.9,
    "chance_available": [
     {
      "round": 1,
      "pick": 22,
-     "percent": 72
+     "percent": 75
     },
     {
      "round": 2,
      "pick": 54,
-     "percent": 9
+     "percent": 12
     }
    ],
    "estimate": true,
@@ -172,18 +172,18 @@
    "name": "Gunner Stockton",
    "position": "QB",
    "school": "Georgia",
-   "our_board_rank": 40,
-   "our_grade": 84.2,
+   "our_board_rank": 39,
+   "our_grade": 82.2,
    "chance_available": [
     {
      "round": 1,
      "pick": 22,
-     "percent": 82
+     "percent": 81
     },
     {
      "round": 2,
      "pick": 54,
-     "percent": 25
+     "percent": 23
     }
    ],
    "estimate": true,
@@ -194,25 +194,25 @@
    }
   },
   {
-   "id": "9e31e0690308ddd0",
+   "id": "ae96c95de501ab29",
    "type": "draft_prospect",
    "need": "Quarterback",
    "need_rank": 1,
-   "name": "LaNorris Sellers",
+   "name": "Conner Weigman",
    "position": "QB",
-   "school": "South Carolina",
-   "our_board_rank": 51,
-   "our_grade": 81.3,
+   "school": "Houston",
+   "our_board_rank": 54,
+   "our_grade": 79.5,
    "chance_available": [
     {
      "round": 1,
      "pick": 22,
-     "percent": 89
+     "percent": 90
     },
     {
      "round": 2,
      "pick": 54,
-     "percent": 46
+     "percent": 51
     }
    ],
    "estimate": true,
@@ -230,13 +230,13 @@
    "name": "Leonard Moore",
    "position": "CB",
    "school": "Notre Dame",
-   "our_board_rank": 8,
-   "our_grade": 92.6,
+   "our_board_rank": 10,
+   "our_grade": 89.8,
    "chance_available": [
     {
      "round": 1,
      "pick": 22,
-     "percent": 2
+     "percent": 5
     },
     {
      "round": 2,
@@ -259,42 +259,13 @@
    "name": "Ellis Robinson IV",
    "position": "CB",
    "school": "Georgia",
-   "our_board_rank": 12,
-   "our_grade": 90.9,
+   "our_board_rank": 17,
+   "our_grade": 87.3,
    "chance_available": [
     {
      "round": 1,
      "pick": 22,
-     "percent": 11
-    },
-    {
-     "round": 2,
-     "pick": 54,
-     "percent": 0
-    }
-   ],
-   "estimate": true,
-   "method_url": "https://blackandgolddispatch.com/#/drafthub",
-   "source": {
-    "name": "Black & Gold Dispatch board (CollegeFootballData.com stats)",
-    "url": "https://blackandgolddispatch.com/#/drafthub"
-   }
-  },
-  {
-   "id": "3e9a09a10d58d10c",
-   "type": "draft_prospect",
-   "need": "Cornerback",
-   "need_rank": 2,
-   "name": "Kelley Jones",
-   "position": "CB",
-   "school": "Mississippi State",
-   "our_board_rank": 22,
-   "our_grade": 87.0,
-   "chance_available": [
-    {
-     "round": 1,
-     "pick": 22,
-     "percent": 52
+     "percent": 31
     },
     {
      "round": 2,
@@ -317,8 +288,37 @@
    "name": "Ashton Hampton",
    "position": "CB",
    "school": "Clemson",
+   "our_board_rank": 21,
+   "our_grade": 85.8,
+   "chance_available": [
+    {
+     "round": 1,
+     "pick": 22,
+     "percent": 48
+    },
+    {
+     "round": 2,
+     "pick": 54,
+     "percent": 0
+    }
+   ],
+   "estimate": true,
+   "method_url": "https://blackandgolddispatch.com/#/drafthub",
+   "source": {
+    "name": "Black & Gold Dispatch board (CollegeFootballData.com stats)",
+    "url": "https://blackandgolddispatch.com/#/drafthub"
+   }
+  },
+  {
+   "id": "3e9a09a10d58d10c",
+   "type": "draft_prospect",
+   "need": "Cornerback",
+   "need_rank": 2,
+   "name": "Kelley Jones",
+   "position": "CB",
+   "school": "Mississippi State",
    "our_board_rank": 27,
-   "our_grade": 86.3,
+   "our_grade": 84.7,
    "chance_available": [
     {
      "round": 1,
@@ -346,18 +346,18 @@
    "name": "Peyton Bowen",
    "position": "CB",
    "school": "Oklahoma",
-   "our_board_rank": 39,
-   "our_grade": 84.3,
+   "our_board_rank": 36,
+   "our_grade": 83.4,
    "chance_available": [
     {
      "round": 1,
      "pick": 22,
-     "percent": 87
+     "percent": 84
     },
     {
      "round": 2,
      "pick": 54,
-     "percent": 18
+     "percent": 12
     }
    ],
    "estimate": true,
@@ -375,18 +375,18 @@
    "name": "Zabien Brown",
    "position": "CB",
    "school": "Alabama",
-   "our_board_rank": 44,
-   "our_grade": 83.7,
+   "our_board_rank": 57,
+   "our_grade": 79.1,
    "chance_available": [
     {
      "round": 1,
      "pick": 22,
-     "percent": 90
+     "percent": 95
     },
     {
      "round": 2,
      "pick": 54,
-     "percent": 29
+     "percent": 57
     }
    ],
    "estimate": true,
@@ -404,13 +404,13 @@
    "name": "KJ Bolden",
    "position": "S",
    "school": "Georgia",
-   "our_board_rank": 14,
-   "our_grade": 89.8,
+   "our_board_rank": 13,
+   "our_grade": 88.5,
    "chance_available": [
     {
      "round": 1,
      "pick": 22,
-     "percent": 20
+     "percent": 16
     },
     {
      "round": 2,
@@ -433,18 +433,18 @@
    "name": "Brauntae Johnson",
    "position": "S",
    "school": "Notre Dame",
-   "our_board_rank": 42,
-   "our_grade": 83.9,
+   "our_board_rank": 41,
+   "our_grade": 81.7,
    "chance_available": [
     {
      "round": 1,
      "pick": 22,
-     "percent": 87
+     "percent": 86
     },
     {
      "round": 2,
      "pick": 54,
-     "percent": 26
+     "percent": 24
     }
    ],
    "estimate": true,
@@ -455,15 +455,160 @@
    }
   },
   {
-   "id": "6cc546a378b27398",
+   "id": "b94c5c27c808188f",
    "type": "draft_prospect",
    "need": "Safety",
    "need_rank": 3,
-   "name": "Jelani McDonald",
+   "name": "Kingston Lopa",
    "position": "S",
+   "school": "California",
+   "our_board_rank": 69,
+   "our_grade": 73.1,
+   "chance_available": [
+    {
+     "round": 1,
+     "pick": 22,
+     "percent": 96
+    },
+    {
+     "round": 2,
+     "pick": 54,
+     "percent": 72
+    }
+   ],
+   "estimate": true,
+   "method_url": "https://blackandgolddispatch.com/#/drafthub",
+   "source": {
+    "name": "Black & Gold Dispatch board (CollegeFootballData.com stats)",
+    "url": "https://blackandgolddispatch.com/#/drafthub"
+   }
+  },
+  {
+   "id": "065de367cb38fe80",
+   "type": "draft_prospect",
+   "need": "Safety",
+   "need_rank": 3,
+   "name": "Zach Lutmer",
+   "position": "S",
+   "school": "Iowa",
+   "our_board_rank": 70,
+   "our_grade": 73.1,
+   "chance_available": [
+    {
+     "round": 1,
+     "pick": 22,
+     "percent": 96
+    },
+    {
+     "round": 2,
+     "pick": 54,
+     "percent": 73
+    }
+   ],
+   "estimate": true,
+   "method_url": "https://blackandgolddispatch.com/#/drafthub",
+   "source": {
+    "name": "Black & Gold Dispatch board (CollegeFootballData.com stats)",
+    "url": "https://blackandgolddispatch.com/#/drafthub"
+   }
+  },
+  {
+   "id": "5a1f6a914b62f0a6",
+   "type": "draft_prospect",
+   "need": "Inside linebacker",
+   "need_rank": 4,
+   "name": "Sammy Brown",
+   "position": "LB",
+   "school": "Clemson",
+   "our_board_rank": 24,
+   "our_grade": 85.0,
+   "chance_available": [
+    {
+     "round": 1,
+     "pick": 22,
+     "percent": 58
+    },
+    {
+     "round": 2,
+     "pick": 54,
+     "percent": 1
+    }
+   ],
+   "estimate": true,
+   "method_url": "https://blackandgolddispatch.com/#/drafthub",
+   "source": {
+    "name": "Black & Gold Dispatch board (CollegeFootballData.com stats)",
+    "url": "https://blackandgolddispatch.com/#/drafthub"
+   }
+  },
+  {
+   "id": "d8a061af201b0204",
+   "type": "draft_prospect",
+   "need": "Inside linebacker",
+   "need_rank": 4,
+   "name": "Chris Cole",
+   "position": "LB",
+   "school": "Georgia",
+   "our_board_rank": 34,
+   "our_grade": 83.9,
+   "chance_available": [
+    {
+     "round": 1,
+     "pick": 22,
+     "percent": 79
+    },
+    {
+     "round": 2,
+     "pick": 54,
+     "percent": 11
+    }
+   ],
+   "estimate": true,
+   "method_url": "https://blackandgolddispatch.com/#/drafthub",
+   "source": {
+    "name": "Black & Gold Dispatch board (CollegeFootballData.com stats)",
+    "url": "https://blackandgolddispatch.com/#/drafthub"
+   }
+  },
+  {
+   "id": "6cb9433c1670bbfc",
+   "type": "draft_prospect",
+   "need": "Inside linebacker",
+   "need_rank": 4,
+   "name": "Rasheem Biles",
+   "position": "LB",
    "school": "Texas",
-   "our_board_rank": 72,
-   "our_grade": 79.6,
+   "our_board_rank": 68,
+   "our_grade": 74.9,
+   "chance_available": [
+    {
+     "round": 1,
+     "pick": 22,
+     "percent": 96
+    },
+    {
+     "round": 2,
+     "pick": 54,
+     "percent": 71
+    }
+   ],
+   "estimate": true,
+   "method_url": "https://blackandgolddispatch.com/#/drafthub",
+   "source": {
+    "name": "Black & Gold Dispatch board (CollegeFootballData.com stats)",
+    "url": "https://blackandgolddispatch.com/#/drafthub"
+   }
+  },
+  {
+   "id": "6647700009e7b7a9",
+   "type": "draft_prospect",
+   "need": "Inside linebacker",
+   "need_rank": 4,
+   "name": "Kyngstonn Viliamu-Asa",
+   "position": "LB",
+   "school": "Notre Dame",
+   "our_board_rank": 71,
+   "our_grade": 65.3,
    "chance_available": [
     {
      "round": 1,
@@ -484,354 +629,6 @@
    }
   },
   {
-   "id": "9853119e331c8b18",
-   "type": "draft_prospect",
-   "need": "Safety",
-   "need_rank": 3,
-   "name": "Earl Little Jr.",
-   "position": "S",
-   "school": "Ohio State",
-   "our_board_rank": 102,
-   "our_grade": 77.9,
-   "chance_available": [
-    {
-     "round": 1,
-     "pick": 22,
-     "percent": 98
-    },
-    {
-     "round": 2,
-     "pick": 54,
-     "percent": 90
-    }
-   ],
-   "estimate": true,
-   "method_url": "https://blackandgolddispatch.com/#/drafthub",
-   "source": {
-    "name": "Black & Gold Dispatch board (CollegeFootballData.com stats)",
-    "url": "https://blackandgolddispatch.com/#/drafthub"
-   }
-  },
-  {
-   "id": "4213f1f980a356a2",
-   "type": "draft_prospect",
-   "need": "Safety",
-   "need_rank": 3,
-   "name": "Koi Perich",
-   "position": "S",
-   "school": "Oregon",
-   "our_board_rank": 114,
-   "our_grade": 77.5,
-   "chance_available": [
-    {
-     "round": 1,
-     "pick": 22,
-     "percent": 99
-    },
-    {
-     "round": 2,
-     "pick": 54,
-     "percent": 93
-    }
-   ],
-   "estimate": true,
-   "method_url": "https://blackandgolddispatch.com/#/drafthub",
-   "source": {
-    "name": "Black & Gold Dispatch board (CollegeFootballData.com stats)",
-    "url": "https://blackandgolddispatch.com/#/drafthub"
-   }
-  },
-  {
-   "id": "b94c5c27c808188f",
-   "type": "draft_prospect",
-   "need": "Safety",
-   "need_rank": 3,
-   "name": "Kingston Lopa",
-   "position": "S",
-   "school": "California",
-   "our_board_rank": 119,
-   "our_grade": 77.4,
-   "chance_available": [
-    {
-     "round": 1,
-     "pick": 22,
-     "percent": 99
-    },
-    {
-     "round": 2,
-     "pick": 54,
-     "percent": 93
-    }
-   ],
-   "estimate": true,
-   "method_url": "https://blackandgolddispatch.com/#/drafthub",
-   "source": {
-    "name": "Black & Gold Dispatch board (CollegeFootballData.com stats)",
-    "url": "https://blackandgolddispatch.com/#/drafthub"
-   }
-  },
-  {
-   "id": "7cd487056b5a041d",
-   "type": "draft_prospect",
-   "need": "Safety",
-   "need_rank": 3,
-   "name": "Kamari Wilson",
-   "position": "S",
-   "school": "West Virginia",
-   "our_board_rank": 138,
-   "our_grade": 76.6,
-   "chance_available": [
-    {
-     "round": 1,
-     "pick": 22,
-     "percent": 99
-    },
-    {
-     "round": 2,
-     "pick": 54,
-     "percent": 95
-    }
-   ],
-   "estimate": true,
-   "method_url": "https://blackandgolddispatch.com/#/drafthub",
-   "source": {
-    "name": "Black & Gold Dispatch board (CollegeFootballData.com stats)",
-    "url": "https://blackandgolddispatch.com/#/drafthub"
-   }
-  },
-  {
-   "id": "7018da8f87a2c834",
-   "type": "draft_prospect",
-   "need": "Safety",
-   "need_rank": 3,
-   "name": "Jordan Castell",
-   "position": "S",
-   "school": "Kentucky",
-   "our_board_rank": 148,
-   "our_grade": 76.3,
-   "chance_available": [
-    {
-     "round": 1,
-     "pick": 22,
-     "percent": 99
-    },
-    {
-     "round": 2,
-     "pick": 54,
-     "percent": 96
-    }
-   ],
-   "estimate": true,
-   "method_url": "https://blackandgolddispatch.com/#/drafthub",
-   "source": {
-    "name": "Black & Gold Dispatch board (CollegeFootballData.com stats)",
-    "url": "https://blackandgolddispatch.com/#/drafthub"
-   }
-  },
-  {
-   "id": "01ef4e11afa34be1",
-   "type": "draft_prospect",
-   "need": "Safety",
-   "need_rank": 3,
-   "name": "Keon Sabb",
-   "position": "S",
-   "school": "Alabama",
-   "our_board_rank": 166,
-   "our_grade": 75.9,
-   "chance_available": [
-    {
-     "round": 1,
-     "pick": 22,
-     "percent": 99
-    },
-    {
-     "round": 2,
-     "pick": 54,
-     "percent": 97
-    }
-   ],
-   "estimate": true,
-   "method_url": "https://blackandgolddispatch.com/#/drafthub",
-   "source": {
-    "name": "Black & Gold Dispatch board (CollegeFootballData.com stats)",
-    "url": "https://blackandgolddispatch.com/#/drafthub"
-   }
-  },
-  {
-   "id": "d8a061af201b0204",
-   "type": "draft_prospect",
-   "need": "Inside linebacker",
-   "need_rank": 4,
-   "name": "Chris Cole",
-   "position": "LB",
-   "school": "Georgia",
-   "our_board_rank": 25,
-   "our_grade": 86.6,
-   "chance_available": [
-    {
-     "round": 1,
-     "pick": 22,
-     "percent": 61
-    },
-    {
-     "round": 2,
-     "pick": 54,
-     "percent": 1
-    }
-   ],
-   "estimate": true,
-   "method_url": "https://blackandgolddispatch.com/#/drafthub",
-   "source": {
-    "name": "Black & Gold Dispatch board (CollegeFootballData.com stats)",
-    "url": "https://blackandgolddispatch.com/#/drafthub"
-   }
-  },
-  {
-   "id": "5a1f6a914b62f0a6",
-   "type": "draft_prospect",
-   "need": "Inside linebacker",
-   "need_rank": 4,
-   "name": "Sammy Brown",
-   "position": "LB",
-   "school": "Clemson",
-   "our_board_rank": 26,
-   "our_grade": 86.6,
-   "chance_available": [
-    {
-     "round": 1,
-     "pick": 22,
-     "percent": 64
-    },
-    {
-     "round": 2,
-     "pick": 54,
-     "percent": 2
-    }
-   ],
-   "estimate": true,
-   "method_url": "https://blackandgolddispatch.com/#/drafthub",
-   "source": {
-    "name": "Black & Gold Dispatch board (CollegeFootballData.com stats)",
-    "url": "https://blackandgolddispatch.com/#/drafthub"
-   }
-  },
-  {
-   "id": "efd2a639723d467d",
-   "type": "draft_prospect",
-   "need": "Inside linebacker",
-   "need_rank": 4,
-   "name": "Suntarine Perkins",
-   "position": "LB",
-   "school": "Ole Miss",
-   "our_board_rank": 91,
-   "our_grade": 78.4,
-   "chance_available": [
-    {
-     "round": 1,
-     "pick": 22,
-     "percent": 98
-    },
-    {
-     "round": 2,
-     "pick": 54,
-     "percent": 86
-    }
-   ],
-   "estimate": true,
-   "method_url": "https://blackandgolddispatch.com/#/drafthub",
-   "source": {
-    "name": "Black & Gold Dispatch board (CollegeFootballData.com stats)",
-    "url": "https://blackandgolddispatch.com/#/drafthub"
-   }
-  },
-  {
-   "id": "017bf09db2f61b65",
-   "type": "draft_prospect",
-   "need": "Inside linebacker",
-   "need_rank": 4,
-   "name": "Raylen Wilson",
-   "position": "LB",
-   "school": "Georgia",
-   "our_board_rank": 105,
-   "our_grade": 77.8,
-   "chance_available": [
-    {
-     "round": 1,
-     "pick": 22,
-     "percent": 98
-    },
-    {
-     "round": 2,
-     "pick": 54,
-     "percent": 91
-    }
-   ],
-   "estimate": true,
-   "method_url": "https://blackandgolddispatch.com/#/drafthub",
-   "source": {
-    "name": "Black & Gold Dispatch board (CollegeFootballData.com stats)",
-    "url": "https://blackandgolddispatch.com/#/drafthub"
-   }
-  },
-  {
-   "id": "a2a21843d1b60869",
-   "type": "draft_prospect",
-   "need": "Inside linebacker",
-   "need_rank": 4,
-   "name": "Myles Graham",
-   "position": "LB",
-   "school": "Florida",
-   "our_board_rank": 120,
-   "our_grade": 77.4,
-   "chance_available": [
-    {
-     "round": 1,
-     "pick": 22,
-     "percent": 99
-    },
-    {
-     "round": 2,
-     "pick": 54,
-     "percent": 93
-    }
-   ],
-   "estimate": true,
-   "method_url": "https://blackandgolddispatch.com/#/drafthub",
-   "source": {
-    "name": "Black & Gold Dispatch board (CollegeFootballData.com stats)",
-    "url": "https://blackandgolddispatch.com/#/drafthub"
-   }
-  },
-  {
-   "id": "6cb9433c1670bbfc",
-   "type": "draft_prospect",
-   "need": "Inside linebacker",
-   "need_rank": 4,
-   "name": "Rasheem Biles",
-   "position": "LB",
-   "school": "Texas",
-   "our_board_rank": 130,
-   "our_grade": 76.9,
-   "chance_available": [
-    {
-     "round": 1,
-     "pick": 22,
-     "percent": 99
-    },
-    {
-     "round": 2,
-     "pick": 54,
-     "percent": 95
-    }
-   ],
-   "estimate": true,
-   "method_url": "https://blackandgolddispatch.com/#/drafthub",
-   "source": {
-    "name": "Black & Gold Dispatch board (CollegeFootballData.com stats)",
-    "url": "https://blackandgolddispatch.com/#/drafthub"
-   }
-  },
-  {
    "id": "836d415badac125e",
    "type": "draft_prospect",
    "need": "Wide receiver",
@@ -839,8 +636,8 @@
    "name": "Jeremiah Smith",
    "position": "WR",
    "school": "Ohio State",
-   "our_board_rank": 3,
-   "our_grade": 94.4,
+   "our_board_rank": 2,
+   "our_grade": 94.0,
    "chance_available": [
     {
      "round": 1,
@@ -868,13 +665,13 @@
    "name": "Cam Coleman",
    "position": "WR",
    "school": "Texas",
-   "our_board_rank": 11,
-   "our_grade": 91.0,
+   "our_board_rank": 12,
+   "our_grade": 88.7,
    "chance_available": [
     {
      "round": 1,
      "pick": 22,
-     "percent": 8
+     "percent": 11
     },
     {
      "round": 2,
@@ -897,13 +694,13 @@
    "name": "Charlie Becker",
    "position": "WR",
    "school": "Indiana",
-   "our_board_rank": 16,
-   "our_grade": 89.5,
+   "our_board_rank": 14,
+   "our_grade": 88.0,
    "chance_available": [
     {
      "round": 1,
      "pick": 22,
-     "percent": 27
+     "percent": 18
     },
     {
      "round": 2,
@@ -926,18 +723,18 @@
    "name": "Ryan Coleman-Williams",
    "position": "WR",
    "school": "Alabama",
-   "our_board_rank": 23,
-   "our_grade": 87.0,
+   "our_board_rank": 31,
+   "our_grade": 84.2,
    "chance_available": [
     {
      "round": 1,
      "pick": 22,
-     "percent": 55
+     "percent": 76
     },
     {
      "round": 2,
      "pick": 54,
-     "percent": 0
+     "percent": 5
     }
    ],
    "estimate": true,
@@ -955,18 +752,18 @@
    "name": "Nick Marsh",
    "position": "WR",
    "school": "Indiana",
-   "our_board_rank": 28,
-   "our_grade": 86.3,
+   "our_board_rank": 35,
+   "our_grade": 83.8,
    "chance_available": [
     {
      "round": 1,
      "pick": 22,
-     "percent": 70
+     "percent": 82
     },
     {
      "round": 2,
      "pick": 54,
-     "percent": 2
+     "percent": 10
     }
    ],
    "estimate": true,
@@ -984,18 +781,18 @@
    "name": "KJ Duff",
    "position": "WR",
    "school": "Rutgers",
-   "our_board_rank": 47,
-   "our_grade": 82.7,
+   "our_board_rank": 48,
+   "our_grade": 80.6,
    "chance_available": [
     {
      "round": 1,
      "pick": 22,
-     "percent": 92
+     "percent": 93
     },
     {
      "round": 2,
      "pick": 54,
-     "percent": 36
+     "percent": 38
     }
    ],
    "estimate": true,
@@ -1013,76 +810,18 @@
    "name": "Duce Robinson",
    "position": "WR",
    "school": "Florida State",
-   "our_board_rank": 49,
-   "our_grade": 82.7,
+   "our_board_rank": 55,
+   "our_grade": 79.3,
    "chance_available": [
     {
      "round": 1,
      "pick": 22,
-     "percent": 93
+     "percent": 95
     },
     {
      "round": 2,
      "pick": 54,
-     "percent": 40
-    }
-   ],
-   "estimate": true,
-   "method_url": "https://blackandgolddispatch.com/#/drafthub",
-   "source": {
-    "name": "Black & Gold Dispatch board (CollegeFootballData.com stats)",
-    "url": "https://blackandgolddispatch.com/#/drafthub"
-   }
-  },
-  {
-   "id": "c8bf415f1d30180c",
-   "type": "draft_prospect",
-   "need": "Wide receiver",
-   "need_rank": 5,
-   "name": "Shazz Preston",
-   "position": "WR",
-   "school": "Indiana",
-   "our_board_rank": 74,
-   "our_grade": 79.2,
-   "chance_available": [
-    {
-     "round": 1,
-     "pick": 22,
-     "percent": 98
-    },
-    {
-     "round": 2,
-     "pick": 54,
-     "percent": 78
-    }
-   ],
-   "estimate": true,
-   "method_url": "https://blackandgolddispatch.com/#/drafthub",
-   "source": {
-    "name": "Black & Gold Dispatch board (CollegeFootballData.com stats)",
-    "url": "https://blackandgolddispatch.com/#/drafthub"
-   }
-  },
-  {
-   "id": "5553697617e667a3",
-   "type": "draft_prospect",
-   "need": "Wide receiver",
-   "need_rank": 5,
-   "name": "Ryan Wingo",
-   "position": "WR",
-   "school": "Texas",
-   "our_board_rank": 76,
-   "our_grade": 79.1,
-   "chance_available": [
-    {
-     "round": 1,
-     "pick": 22,
-     "percent": 98
-    },
-    {
-     "round": 2,
-     "pick": 54,
-     "percent": 80
+     "percent": 53
     }
    ],
    "estimate": true,

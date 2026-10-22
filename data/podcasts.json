@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-22T19:15:47.875489+00:00",
+ "generated": "2026-10-22T20:10:22.852656+00:00",
  "date_et": "2026-10-22",
  "days": 5,
  "display_days": 2,
- "count": 146,
+ "count": 147,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -90,10 +90,10 @@
    "show": "Steel City Underground",
    "kind": "podcast",
    "url": "https://feeds.feedburner.com/steelcityunderground",
-   "status": "ok",
-   "episodes": 45,
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "episodes": 0,
    "week": 2,
-   "latest": "2026-10-22T16:20:16+00:00"
+   "latest": null
   },
   {
    "show": "Steel City Underground",
@@ -137,8 +137,8 @@
    "url": "https://rss.pdrl.fm/20d9c9/feeds.libsyn.com/183851/rss/?redirect=false",
    "status": "ok",
    "episodes": 100,
-   "week": 4,
-   "latest": "2026-10-21T09:52:00+00:00"
+   "week": 5,
+   "latest": "2026-10-22T20:00:00+00:00"
   },
   {
    "show": "All Steelers Talk",
@@ -156,7 +156,7 @@
    "status": "ok",
    "episodes": 15,
    "week": 15,
-   "latest": "2026-10-22T16:09:05+00:00"
+   "latest": "2026-10-22T19:56:15+00:00"
   },
   {
    "show": "The Steel City Insider (Jim Wexell, 247Sports)",
@@ -250,6 +250,22 @@
   }
  ],
  "items": [
+  {
+   "title": "NFL Week 7 Predictions/Pittsburgh Steelers",
+   "show": "The Arthur Moats Experience",
+   "kind": "podcast",
+   "link": "https://arthurmoats55.libsyn.com/dctm_game_picks_week_7_player_of_the_game_headlinesmp3",
+   "published": "2026-10-22T20:00:00+00:00",
+   "summary": "Podcast episode from The Arthur Moats Experience."
+  },
+  {
+   "title": "Bringing Vaunted Brand of Defense Overseas | Steelers Practice Report",
+   "show": "Steelers Now",
+   "kind": "video",
+   "link": "https://www.youtube.com/watch?v=e7UlYYFDvos",
+   "published": "2026-10-22T19:56:15+00:00",
+   "summary": "Video from Steelers Now."
+  },
   {
    "title": "The Depot Dive - Episode 119 - October 22, 2026",
    "show": "The Terrible Podcast (Steelers Depot)",
@@ -1241,14 +1257,6 @@
    "link": "https://podcasts.apple.com/us/podcast/steelers-calling-for-wr-trade-but-there-are-rules/id1627248534?i=1000797073700",
    "published": "2026-10-19T12:26:00+00:00",
    "summary": "Podcast episode from All Steelers Talk."
-  },
-  {
-   "title": "Steelers Now Postgame: Steelers 26, Buccaneers 19",
-   "show": "Steelers Now",
-   "kind": "video",
-   "link": "https://www.youtube.com/watch?v=KonkrbBsYjY",
-   "published": "2026-10-19T12:03:39+00:00",
-   "summary": "Video from Steelers Now."
   },
   {
    "title": "Pittsburgh Steelers Win Week 6 vs Buccaneers - [What Went Right/Wrong In Week 6]",

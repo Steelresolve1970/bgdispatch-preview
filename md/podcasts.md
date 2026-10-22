@@ -1,8 +1,10 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-22T19:16:04+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T19:15:47+00:00._
+_Generated 2026-10-22T20:11:25+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T20:10:22+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Podcast: [NFL Week 7 Predictions/Pittsburgh Steelers](https://arthurmoats55.libsyn.com/dctm_game_picks_week_7_player_of_the_game_headlinesmp3): The Arthur Moats Experience, 2026-10-22 20:00 UTC
+- Video: [Bringing Vaunted Brand of Defense Overseas | Steelers Practice Report](https://www.youtube.com/watch?v=e7UlYYFDvos): Steelers Now, 2026-10-22 19:56 UTC
 - Podcast: [The Depot Dive - Episode 119 - October 22, 2026](https://podcasts.apple.com/us/podcast/id405990739): The Terrible Podcast (Steelers Depot), 2026-10-22 19:15 UTC
 - Video: [Dermontti Dawson & Mel Blount checking in from Paris 🇫🇷](https://www.youtube.com/shorts/0otqWh1Uiu4): Pittsburgh Steelers (official), 2026-10-22 18:57 UTC
 - Video: [TBT to when Fast Willie went off against the Saints 💨 📺: #PITvsNO 10/25 at 9:30 AM ET on NFLN](https://www.youtube.com/shorts/RR-n2vkYybA): Pittsburgh Steelers (official), 2026-10-22 18:23 UTC
@@ -127,7 +129,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Still Celebrating Sloppy Steelers Win? | Steelers Morning Rush](https://www.youtube.com/watch?v=R9OMTs6bo3I): Steelers Now, 2026-10-19 13:59 UTC
 - Podcast: [Still Celebrating Sloppy Steelers Win? | Steelers Morning Rush](https://podcasts.apple.com/us/podcast/still-celebrating-sloppy-steelers-win-steelers-morning/id1700240934?i=1000797088259): Steelers Afternoon Drive, 2026-10-19 13:59 UTC
 - Podcast: [Steelers Calling for WR Trade - But There Are Rules](https://podcasts.apple.com/us/podcast/steelers-calling-for-wr-trade-but-there-are-rules/id1627248534?i=1000797073700): All Steelers Talk, 2026-10-19 12:26 UTC
-- Video: [Steelers Now Postgame: Steelers 26, Buccaneers 19](https://www.youtube.com/watch?v=KonkrbBsYjY): Steelers Now, 2026-10-19 12:03 UTC
 - Podcast: [Pittsburgh Steelers Win Week 6 vs Buccaneers - [What Went Right/Wrong In Week 6]](https://arthurmoats55.libsyn.com/panel_1018_ytmp3): The Arthur Moats Experience, 2026-10-19 09:52 UTC
 - Podcast: [Let's Ride: Winners and Losers after the Steelers 26-19 win over the Buccaneers](https://podcasts.apple.com/us/podcast/lets-ride-winners-and-losers-after-the-steelers-26-19/id905962218?i=1000797038152): Steel Curtain Network (BTSC), 2026-10-19 08:00 UTC
 - Podcast: [DK's Daily Shot of Steelers: The 1-2 catch!](https://podcasts.apple.com/us/podcast/dks-daily-shot-of-steelers-the-1-2-catch/id1072021022?i=1000797058459): DK Pittsburgh Sports, 2026-10-19 07:49 UTC
