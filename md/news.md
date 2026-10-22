@@ -1,9 +1,10 @@
 # Steelers News
 
-_Generated 2026-10-22T21:35:14+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T21:34:42+00:00._
+_Generated 2026-10-22T21:45:59+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T21:45:28+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Steelers fan event at Bastille bar canceled amid civil unrest in Paris](https://www.espn.com/nfl/story/_/id/50250407/steelers-fan-event-paris-canceled-amid-civil-unrest): ESPN, 2026-10-22 21:57 UTC
+- [NFL-Steelers scrap Paris fan event as Saints game proceeds despite protests](https://kfgo.com/2026/10/22/nfl-steelers-scrap-paris-fan-event-as-saints-game-proceeds-despite-protests/): The Mighty 790 KFGO, 2026-10-22 21:41 UTC
 - [Listen: The Terrible Take (Episode 2,058)](https://steelersdepot.com/2026/10/listen-the-terrible-take-episode-2058/): Steelers Depot, 2026-10-22 21:30 UTC
 - [Insider: Steelers Trying To "Apply Band-Aids" And Won't Trade For WR](https://www.steelernation.com/2026/10/22/steelers-new-wide-receivers-deadline): SteelerNation, 2026-10-22 21:23 UTC
 - [Week 7 Blog: Strictly business](https://www.steelers.com/news/week-7-blog-the-stacking-has-begun): Steelers.com (official), 2026-10-22 21:07 UTC
@@ -29,7 +30,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers’ T.J. Watt limited with calf injury](https://www.behindthesteelcurtain.com/pittsburgh-steelers-injuries/176712/steelers-tj-watt-limited-with-calf-injury-report-week-7-saints-practice-paris-availability): Behind the Steel Curtain, 2026-10-22 19:21 UTC
 - [Steelers Rule Out Veteran Cornerback vs. Saints](https://steelersnow.com/steelers-rule-out-veteran-cornerback-vs-saints/): Steelers Now, 2026-10-22 19:21 UTC
 - [T.J. Watt Injured Before Steelers’ Paris Game](https://www.si.com/nfl/steelers/onsi/tj-watt-injured-before-pittsburgh-steelers-paris-game): All Steelers (Sports Illustrated), 2026-10-22 19:17 UTC
-- [Fashion forward: Eyes on tunnel ‘fits’ when Saints and Steelers dress to impress for Paris game](https://mymotherlode.com/sports/nfl-general-news/11243315/fashion-forward-eyes-on-tunnel-fits-when-saints-and-steelers-dress-to-impress-for-paris-game.html): myMotherLode.com, 2026-10-22 19:16 UTC
 - [Watch: The Depot Dive (Episode 119)](https://steelersdepot.com/2026/10/watch-the-depot-dive-episode-119/): Steelers Depot, 2026-10-22 19:15 UTC
 - [Amid unrest, Steelers cancel fan event in Paris](https://www.thestate.com/sports/nfl/article317737300.html): The State, 2026-10-22 19:14 UTC
 - [Steelers’ Week Seven Thursday Injury Report: Two Players Already Ruled Out For Saints Game](https://steelersdepot.com/2026/10/steelers-week-seven-thursday-injury-report-two-players-already-ruled-out-for-saints-game/): Steelers Depot, 2026-10-22 19:13 UTC
@@ -39,7 +39,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [‘Better And Better Each Week:’ Chris Hoke Has High Praise For Rookie Daylen Everette](https://steelersdepot.com/2026/10/better-and-better-each-week-chris-hoke-has-high-praise-for-rookie-daylen-everette/): Steelers Depot, 2026-10-22 18:45 UTC
 - [Ask Alex: Steelers Mailbag](https://steelersdepot.com/2026/10/ask-alex-steelers-mailbag-557/): Steelers Depot, 2026-10-22 18:30 UTC
 - [Steelers' Mike McCarthy Has Intriguing Opportunity To Revive Justin Herbert's Career](https://www.steelernation.com/2026/10/22/steelers-mike-mccarthy-intriguing-justin-herbert): SteelerNation, 2026-10-22 18:26 UTC
-- [Christian Kuntz Reveals What NFL is Telling Steelers About Paris](https://www.si.com/nfl/steelers/onsi/christian-kuntz-reveals-what-nfl-telling-pittsburgh-steelers-paris): All Steelers (Sports Illustrated), 2026-10-22 18:18 UTC
 - [‘We’ve Got This In The Bag’: Vince Williams Has Utmost Confidence In Steelers Against Saints](https://steelersdepot.com/2026/10/weve-got-this-in-the-bag-vince-williams-has-utmost-confidence-in-steelers-against-saints/): Steelers Depot, 2026-10-22 18:15 UTC
 - [Steelers fan event in Paris canceled as "precautionary measure" after riots](https://www.cbsnews.com/pittsburgh/news/steelers-fan-event-paris-canceled/): CBS News, 2026-10-22 18:11 UTC
 - [Steelers-Jets Blockbuster Trade Idea Reunites Aaron Rodgers With $130M WR](https://heavy.com/sports/nfl/pittsburgh-steelers/steelers-garrett-wilson-aaron-rodgers-jets-trade-idea/): Heavy.com, 2026-10-22 18:01 UTC
@@ -153,6 +152,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Pittsburgh Steelers sign wide receiver with Aaron Rodgers ties](https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-sign-wide-receiver-with-aaron-rodgers-ties.html): PennLive (Nick Farabaugh), 2026-10-20 20:18 UTC
 - [NFL will proceed with plans for Steelers-Saints game in Paris despite unrest](https://www.nytimes.com/athletic/7708509/2026/10/20/nfl-paris-steelers-saints-security/): The Athletic, 2026-10-20 20:03 UTC
 - [Steelers sign Valdes-Scantling](https://www.steelers.com/news/steelers-sign-valdes-scantling): Steelers.com (official), 2026-10-20 20:00 UTC
+- [Steelers Rookie WR Quickly Joining Rookie of the Year Mix](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-rookie-germie-bernard-quickly-joining-rookie-year-mix): All Steelers (Sports Illustrated), 2026-10-20 16:00 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-22T21:35:14+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T21:34:56+00:00._
+_Generated 2026-10-22T21:45:59+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T21:45:42+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Podcast: [T.J. Watt Injured Before Paris Game | Steelers Need New DT](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-22 21:30 UTC
 - Podcast: [The Terrible Take - Episode 2058 - October 22, 2026](https://podcasts.apple.com/us/podcast/id405990739): The Terrible Podcast (Steelers Depot), 2026-10-22 21:00 UTC
 - Podcast: [NFL Week 7 Predictions/Pittsburgh Steelers](https://arthurmoats55.libsyn.com/dctm_game_picks_week_7_player_of_the_game_headlinesmp3): The Arthur Moats Experience, 2026-10-22 20:00 UTC
 - Video: [Bringing Vaunted Brand of Defense Overseas | Steelers Practice Report](https://www.youtube.com/watch?v=e7UlYYFDvos): Steelers Now, 2026-10-22 19:56 UTC
