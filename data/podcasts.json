@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T18:53:58.835051+00:00",
+ "generated": "2026-10-22T19:04:52.453649+00:00",
  "date_et": "2026-10-22",
  "days": 5,
  "display_days": 2,
@@ -90,10 +90,10 @@
    "show": "Steel City Underground",
    "kind": "podcast",
    "url": "https://feeds.feedburner.com/steelcityunderground",
-   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 45,
    "week": 2,
-   "latest": null
+   "latest": "2026-10-22T16:20:16+00:00"
   },
   {
    "show": "Steel City Underground",
@@ -201,7 +201,7 @@
    "status": "ok",
    "episodes": 15,
    "week": 15,
-   "latest": "2026-10-22T18:23:05+00:00"
+   "latest": "2026-10-22T18:57:57+00:00"
   },
   {
    "show": "Not Just Football with Cam Heyward",
@@ -250,6 +250,14 @@
   }
  ],
  "items": [
+  {
+   "title": "Dermontti Dawson & Mel Blount checking in from Paris \ud83c\uddeb\ud83c\uddf7",
+   "show": "Pittsburgh Steelers (official)",
+   "kind": "video",
+   "link": "https://www.youtube.com/shorts/0otqWh1Uiu4",
+   "published": "2026-10-22T18:57:57+00:00",
+   "summary": "Video from Pittsburgh Steelers (official)."
+  },
   {
    "title": "TBT to when Fast Willie went off against the Saints \ud83d\udca8 \ud83d\udcfa: #PITvsNO 10/25 at 9:30 AM ET on NFLN",
    "show": "Pittsburgh Steelers (official)",
@@ -921,14 +929,6 @@
    "link": "https://podcasts.apple.com/us/podcast/do-steelers-have-next-rookie-of-the-year/id1627248534?i=1000797276743",
    "published": "2026-10-20T15:00:00+00:00",
    "summary": "Podcast episode from All Steelers Talk."
-  },
-  {
-   "title": "Steelers Nation runs deep",
-   "show": "Pittsburgh Steelers (official)",
-   "kind": "video",
-   "link": "https://www.youtube.com/shorts/OaRNvHbX6UA",
-   "published": "2026-10-20T14:57:13+00:00",
-   "summary": "Video from Pittsburgh Steelers (official)."
   },
   {
    "title": "Why Did Steelers Sign MVS? | Steelers Morning Rush",

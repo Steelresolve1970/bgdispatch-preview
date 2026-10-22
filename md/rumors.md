@@ -1,6 +1,6 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-22T18:54:15+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T18:54:09+00:00._
+_Generated 2026-10-22T19:05:09+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T19:05:03+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
@@ -19,6 +19,8 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [NFL trade deadline 2026 big board: 50 players who could be dealt before Nov. 10](https://www.nytimes.com/athletic/7664102/2026/10/22/nfl-trade-deadline-board-players-available/): The Athletic, first seen 2026-10-22 18:10 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [Steelers’ Roster Move Makes $41M Pro Bowler Top Trade Candidate](https://heavy.com/sports/nfl/pittsburgh-steelers/steelers-patrick-queen-trade-candidate-elandon-roberts/): Heavy.com, first seen 2026-10-22 03:37 UTC
+- **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
+  [Steelers’ Roster Move Makes $41M Pro Bowler Top Trade Candidate](https://heavy.com/sports/nfl/pittsburgh-steelers/steelers-patrick-queen-trade-candidate-elandon-roberts/): Heavy.com, first seen 2026-10-22 19:05 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 11 source(s), top tier National insider
   [Gerry Dulac Shuts Down Steelers Trade Rumors After Marquez Valdes-Scantling Signing](https://gridironheroics.com/gerry-dulac-shuts-down-steelers-trade-rumors-after-marquez-valdes-scantling-signing/): Gridiron Heroics, first seen 2026-10-21 22:41 UTC
 - **Rumor** · tier: National insider · consensus: 11 source(s), top tier National insider

@@ -1,6 +1,6 @@
 # Steelers Film Room & Previews
 
-_Generated 2026-10-22T18:54:15+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T18:53:46+00:00._
+_Generated 2026-10-22T19:05:09+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T19:04:40+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/film.json_
 
 - Breakdown (at Tampa Bay Buccaneers (Oct 18)): [The Terrible Podcast — Steelers Vs Bucs All-22 Review, Valdes-Scantling Return, Monday Presser Recap](https://www.youtube.com/watch?v=dTb7GC3ZHUs): Steelers Depot (YouTube), 2026-10-21 16:52 UTC
