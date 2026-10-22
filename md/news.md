@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-22T22:41:06+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T22:40:36+00:00._
+_Generated 2026-10-22T22:51:50+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T22:51:20+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Steelers fan event at Bastille bar canceled amid civil unrest in Paris](https://www.espn.com/nfl/story/_/id/50250407/steelers-fan-event-paris-canceled-amid-civil-unrest): ESPN, 2026-10-22 23:04 UTC
@@ -16,7 +16,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Fittipaldo Explains Steelers’ Practice Schedule After Arriving In Paris](https://steelersdepot.com/2026/10/fittipaldo-explains-steelers-practice-schedule-after-arriving-in-paris/): Steelers Depot, 2026-10-22 21:00 UTC
 - [Steelers should try to pry Riq Woolen away from Eagles before trade deadline](https://stillcurtain.com/pittsburgh-steelers-should-try-to-pry-riq-woolen-away-from-eagles-before-trade-deadline-01m5j1m4rt6x?utm_source=RSS): Still Curtain, 2026-10-22 21:00 UTC
 - [Steelers Seriously Had A Tough Time Dealing With Danny Smith's Mind Games: "I Took Some Licks"](https://www.steelernation.com/2026/10/22/steelers-seriously-tough-danny-smith): SteelerNation, 2026-10-22 20:48 UTC
-- [Thursday’s Saints vs. Steelers Injury Report: C.J. Donaldson Full](https://sports.yahoo.com/articles/thursday-saints-vs-steelers-injury-204435917.html): Yahoo Sports, 2026-10-22 20:44 UTC
 - [Steelers’ Paris trip gets tougher with T.J. Watt limited and two more players out](https://stillcurtain.com/pittsburgh-steelers-saints-paris-injury-report-week-7-thursday?utm_source=RSS): Still Curtain, 2026-10-22 20:39 UTC
 - [The Steelers will turn to two rookie defensive linemen as Sebastian Joseph-Day heads to IR](https://www.post-gazette.com/sports/steelers/2026/10/22/steelers-injury-updates/stories/202610210074): Pittsburgh Post-Gazette, 2026-10-22 20:36 UTC
 - [Steelers QB Coach Notes One ‘Really Exciting’ Aspect Of Aaron Rodgers’ Game](https://steelersdepot.com/2026/10/steelers-qb-coach-notes-one-really-exciting-aspect-of-aaron-rodgers-game/): Steelers Depot, 2026-10-22 20:30 UTC
@@ -37,7 +36,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers Rule Out Veteran Cornerback vs. Saints](https://steelersnow.com/steelers-rule-out-veteran-cornerback-vs-saints/): Steelers Now, 2026-10-22 19:21 UTC
 - [T.J. Watt Pops Up on Steelers Injury Report Before Paris Trip](https://www.si.com/nfl/steelers/onsi/tj-watt-injured-before-pittsburgh-steelers-paris-game): All Steelers (Sports Illustrated), 2026-10-22 19:17 UTC
 - [Watch: The Depot Dive (Episode 119)](https://steelersdepot.com/2026/10/watch-the-depot-dive-episode-119/): Steelers Depot, 2026-10-22 19:15 UTC
-- [Amid unrest, Steelers cancel fan event in Paris](https://www.thestate.com/sports/nfl/article317737300.html): The State, 2026-10-22 19:14 UTC
 - [Steelers’ Week Seven Thursday Injury Report: Two Players Already Ruled Out For Saints Game](https://steelersdepot.com/2026/10/steelers-week-seven-thursday-injury-report-two-players-already-ruled-out-for-saints-game/): Steelers Depot, 2026-10-22 19:13 UTC
 - [What to know about Saints-Steelers NFL Paris game amid unrest, protests in city](https://www.nytimes.com/athletic/7714662/2026/10/22/nfl-saints-steelers-paris-protests/): The Athletic, 2026-10-22 19:12 UTC
 - [Week 7 Injury Report (Saints)](https://www.steelers.com/news/week-7-injury-report-saints): Steelers.com (official), 2026-10-22 19:10 UTC
@@ -48,8 +46,8 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [‘We’ve Got This In The Bag’: Vince Williams Has Utmost Confidence In Steelers Against Saints](https://steelersdepot.com/2026/10/weve-got-this-in-the-bag-vince-williams-has-utmost-confidence-in-steelers-against-saints/): Steelers Depot, 2026-10-22 18:15 UTC
 - [Steelers fan event in Paris canceled as "precautionary measure" after riots](https://www.cbsnews.com/pittsburgh/news/steelers-fan-event-paris-canceled/): CBS News, 2026-10-22 18:11 UTC
 - [Steelers-Jets Blockbuster Trade Idea Reunites Aaron Rodgers With $130M WR](https://heavy.com/sports/nfl/pittsburgh-steelers/steelers-garrett-wilson-aaron-rodgers-jets-trade-idea/): Heavy.com, 2026-10-22 18:01 UTC
+- [Steelers Set To Land Bargain Trade Deal With Former Patrick Graham Defender](https://www.steelernation.com/2026/10/22/steelers-bargain-trade-patrick-graham): Steeler Nation, 2026-10-22 17:54 UTC
 - [Steelers fans leave Pittsburgh for Paris as first-ever NFL game in the city nears](https://www.wtae.com/article/yinzers-paris-steelers-game-from-pittsburgh/74218502): WTAE, 2026-10-22 17:51 UTC
-- [Steelers Set To Land Bargain Trade Deal With Former Patrick Graham Defender](https://www.steelernation.com/2026/10/22/steelers-bargain-trade-patrick-graham): SteelerNation, 2026-10-22 17:48 UTC
 - ['We finally busted our way through': Raiders dethrone Pittsburgh in 1976 AFC title game | Thrilling Moments](https://www.raiders.com/video/look-back-raiders-dethrone-pittsburgh-1976-afc-title-game-thrilling-moments): Raiders.com, 2026-10-22 17:31 UTC
 - [Steelers place DL Sebastian Joseph-Day on injured reserve](https://triblive.com/sports/steelers-place-dl-sebastian-joseph-day-on-injured-reserve/): TribLive, 2026-10-22 17:30 UTC
 - [Pittsburgh Steelers 2026 Week 7 Depth Chart](https://steelersnow.com/pittsburgh-steelers-2025-depth-chart/): Steelers Now, 2026-10-22 17:23 UTC
@@ -69,7 +67,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers could see their playoff odds change dramatically in Week 7](https://stillcurtain.com/pittsburgh-steelers-could-see-playoff-odds-change-dramatically-week-7-01m5hxbbsg5h?utm_source=RSS): Still Curtain, 2026-10-22 16:00 UTC
 - [Steelers news: Jalen Ramsey looks to continue fantastic start](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176693/steelers-news-jalen-ramsey-looks-to-continue-fantastic-start): Behind the Steel Curtain, 2026-10-22 16:00 UTC
 - [Steelers Defensive Lineman Reveals Eye-Opening Weight](https://steelersnow.com/steelers-defensive-lineman-reveals-eye-opening-weight/): Steelers Now, 2026-10-22 16:00 UTC
-- [Steelers put Sebastian Joseph-Day on injured reserve](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-put-sebastian-joseph-day-on-injured-reserve): ProFootballTalk (NBC), 2026-10-22 15:59 UTC
 - [Steelers place DE Sebastian Joseph-Day on IR](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176702/steelers-place-de-sebastian-joseph-day-on-ir-sebastian-joseph-day): Behind the Steel Curtain, 2026-10-22 15:56 UTC
 - [Steelers place Joseph-Day on Reserve/Injured List](https://www.steelers.com/news/steelers-place-joseph-day-on-reserve-injured-list): Steelers.com (official), 2026-10-22 15:45 UTC
 - [Steelers fan event in Paris cancelled by NFL](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176694/steelers-fan-event-in-paris-cancelled-by-nfl): Behind the Steel Curtain, 2026-10-22 15:13 UTC
@@ -87,6 +84,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers have an obvious Chris Godwin Jr. trade opportunity they can't ignore](https://stillcurtain.com/pittsburgh-steelers-have-an-obvious-chris-godwin-jr-trade-opportunity-they-can-t-ignore-01m5fra9e66k?utm_source=RSS): Still Curtain, 2026-10-22 14:00 UTC
 - [Steelers Cancel Fan Event in Paris Amid Social Unrest](https://steelersnow.com/steelers-cancel-fan-event-in-paris-amid-social-unrest/): Steelers Now, 2026-10-22 13:45 UTC
 - [‘We Were Letting The Ref Have It’: Kuntz Explains Re-Kick On Boswell’s Critical 58-Yarder](https://steelersdepot.com/2026/10/we-were-letting-the-ref-have-it-kuntz-explains-re-kick-on-boswells-critical-58-yarder/): Steelers Depot, 2026-10-22 13:45 UTC
+- [Steelers finding new ways to win as young players step into bigger roles](https://www.steelcityunderground.com/2026/10/22/steelers-finding-new-ways-to-win-as-young-players-step-into-bigger-roles/): Steel City Underground, 2026-10-22 13:41 UTC
 - [Saints Could Have One Big Advantage over Steelers](https://steelersnow.com/saints-could-have-one-big-advantage-over-steelers/): Steelers Now, 2026-10-22 13:30 UTC
 - [Morning Break: Saints begin practice in France, Martin Emerson Jr. earns NFC honors](https://www.neworleanssaints.com/news/morning-break-saints-begin-practice-in-france-martin-emerson-jr-earns-nfc-honors-new-orleans-news-headlines-10-22-2026): New Orleans Saints | NewOrleansSaints.com, 2026-10-22 13:01 UTC
 - [Germie Bernard Corrects One Misconception About DK Metcalf](https://steelersdepot.com/2026/10/germie-bernard-corrects-one-misconception-about-dk-metcalf/): Steelers Depot, 2026-10-22 13:00 UTC
@@ -138,6 +136,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers Can Shut Down This Trade Idea](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-shut-down-this-trade-idea-cornerback): All Steelers (Sports Illustrated), 2026-10-21 13:00 UTC
 - [Steelers at Saints in Paris: How to watch/listen to the game](https://www.steelers.com/news/steelers-at-saints-in-paris-how-to-watch-listen-to-the-game): Steelers.com (official), 2026-10-21 13:00 UTC
 - [Stade de France: An iconic arena](https://www.steelers.com/news/stade-de-france-an-iconic-arena): Steelers.com (official), 2026-10-21 13:00 UTC
+- [Steelers have more than international travel to worry about against the Saints](https://www.steelcityunderground.com/2026/10/21/steelers-have-more-than-international-travel-to-worry-about-against-the-saints/): Steel City Underground, 2026-10-21 12:15 UTC
 - [Germie Bernard is making Steelers forget all about the Makai Lemon debacle](https://stillcurtain.com/germie-bernard-is-making-pittsburgh-steelers-forget-all-about-the-makai-lemon-debacle-01m5a5vwkehr?utm_source=RSS): Still Curtain, 2026-10-21 12:00 UTC
 - [Steelers cornerbacks are giving fans a reason to move on from Joey Porter Jr.](https://stillcurtain.com/pittsburgh-steelers-cornerbacks-are-giving-fans-a-reason-to-move-on-from-joey-porter-jr-01m5d5gawsq8?utm_source=RSS): Still Curtain, 2026-10-21 11:00 UTC
 - [Tim Benz: Usage of Jalen Ramsey, Germie Bernard, Rico Dowdle among the lessons learned from Steelers’ latest win](https://triblive.com/sports/tim-benz-usage-of-jalen-ramsey-germie-bernard-rico-dowdle-among-the-lessons-learned-from-steelers-latest-win/): TribLive, 2026-10-21 10:16 UTC
@@ -153,6 +152,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [NFL will proceed with plans for Steelers-Saints game in Paris despite unrest](https://www.nytimes.com/athletic/7708509/2026/10/20/nfl-paris-steelers-saints-security/): The Athletic, 2026-10-20 20:03 UTC
 - [Steelers sign Valdes-Scantling](https://www.steelers.com/news/steelers-sign-valdes-scantling): Steelers.com (official), 2026-10-20 20:00 UTC
 - [Steelers Rookie WR Quickly Joining Rookie of the Year Mix](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-rookie-germie-bernard-quickly-joining-rookie-year-mix): All Steelers (Sports Illustrated), 2026-10-20 16:00 UTC
+- [Steelers should cash in on Mason Rudolph if the Eagles come calling](https://stillcurtain.com/pittsburgh-steelers-should-cash-in-mason-rudolph-trade-philadelphia-eagles-01m5b9frwbv6?utm_source=RSS): Still Curtain, 2026-10-20 16:00 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
