@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-22T00:09:50+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T00:09:28+00:00._
+_Generated 2026-10-22T00:21:43+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T00:21:26+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Getting DK Metcalf Going? | Steelers Practice Report](https://www.youtube.com/watch?v=tOh3UND3O0A): Steelers Now, 2026-10-21 23:25 UTC

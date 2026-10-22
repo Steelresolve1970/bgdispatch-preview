@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-22T00:09:50+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T00:08:24+00:00._
+_Generated 2026-10-22T00:21:43+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T00:20:13+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Aaron Rodgers, Steelers rolling into historic Paris clash vs. Saints](https://www.star-telegram.com/sports/article317724447.html): Fort Worth Star-Telegram, 2026-10-22 00:03 UTC
@@ -75,7 +75,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers vs. Saints: How to Watch, Listen, and Stream Games 10/25/2026](https://www.neworleanssaints.com/news/pittsburgh-steelers-vs-new-orleans-saints-game-watch-listen-stream-tv-channel-radio-10-25-2026): New Orleans Saints | NewOrleansSaints.com, 2026-10-21 16:39 UTC
 - [Game Preview: Steelers vs. Saints | 2026 NFL Week 7](https://www.neworleanssaints.com/news/pittsburgh-steelers-vs-new-orleans-saints-game-preview-2026-nfl-season-week-7-series-history-stats-connections): New Orleans Saints | NewOrleansSaints.com, 2026-10-21 16:39 UTC
 - [Steelers news: Zach Frazier has had tremendous start to season](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176640/steelers-news-zach-frazier-has-had-tremendous-start-to-season): Behind the Steel Curtain, 2026-10-21 16:33 UTC
-- [NFL Insider Explains Why League 'Never' Considered Moving Steelers-Saints Game Out of Paris](https://sportsnetpittsburgh.com/pittsburgh-steelers/news/nfl-insider-league-moving-steelers-saints-game-paris/78765ef42d0fe13592e4f099): SportsNet Pittsburgh, 2026-10-21 16:33 UTC
 - [Germie Bernard Gets Honest About His Critical Sunday Mistake](https://steelersdepot.com/2026/10/germie-bernard-gets-honest-about-his-critical-sunday-mistake/): Steelers Depot, 2026-10-21 16:30 UTC
 - [Jalen Ramsey Named AFC Defensive Player of the Week](https://steelersnow.com/jalen-ramsey-named-afc-defensive-player-of-the-week/): Steelers Now, 2026-10-21 16:23 UTC
 - [Saints need to show they can manage lead against Steelers](https://www.louisianasports.net/2026/10/21/saints-need-to-show-they-can-manage-lead-against-steelers/latest-stories/): Louisiana Sports, 2026-10-21 16:10 UTC
@@ -153,6 +152,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [‘I don’t live in fear’: Pittsburgh Steelers fans press on with plans for Paris game despite protests](https://triblive.com/sports/steelers/i-dont-live-in-fear-pittsburgh-steelers-fans-press-on-with-plans-for-paris-game-despite-protests/): TribLive, 2026-10-19 19:37 UTC
 - [Aaron Rodgers bashes Buccaneers’ poor playing surface: ‘That’s not very safe’](https://www.pennlive.com/steelers/2026/10/aaron-rodgers-doesnt-hold-back-about-the-buccaneers-playing-surface-thats-not-very-safe.html): PennLive (Nick Farabaugh), 2026-10-19 19:07 UTC
 - [Steelers' Most Important Defenders Emerge in Week 6 Victory](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-most-important-defenders-emerge-week-6-victory): All Steelers (Sports Illustrated), 2026-10-19 19:00 UTC
+- [Watch: Steelers coach Mike McCarthy previews Week 7 matchup with Saints](https://triblive.com/sports/watch-steelers-coach-mike-mccarthy-previews-week-7-matchup-with-saints/): TribLive, 2026-10-19 19:00 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
