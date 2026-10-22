@@ -1,8 +1,10 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-22T20:58:08+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T20:58:03+00:00._
+_Generated 2026-10-22T21:09:00+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T21:08:55+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
+- **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
+  [Steelers should try to pry Riq Woolen away from Eagles before trade deadline](https://stillcurtain.com/pittsburgh-steelers-should-try-to-pry-riq-woolen-away-from-eagles-before-trade-deadline-01m5j1m4rt6x?utm_source=RSS): Still Curtain, first seen 2026-10-22 21:08 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [ESPN projects a NFL Trade Deadline deal between the Steelers and Raiders](https://www.steelcurtainnetwork.com/espn-projects-a-nfl-trade-deadline-deal-between-the-steelers-and-raiders/): Steel Curtain Network, first seen 2026-10-22 18:10 UTC
 - **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
