@@ -1,6 +1,6 @@
 # NFL Insider Posts (last 3 days)
 
-_Generated 2026-10-22T18:21:43+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T18:21:14+00:00._
+_Generated 2026-10-22T18:32:36+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T18:32:09+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/insiders.json_
 
 - [Christopher Carter (Locked On) on Bluesky](https://bsky.app/profile/cartercritiques.bsky.social/post/3myhri7mkcs2c), 2026-10-22 13:30 UTC: @cartercritiques.bsky.social posted about NFL news.

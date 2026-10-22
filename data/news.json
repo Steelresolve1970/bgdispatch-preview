@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T18:21:10.819348+00:00",
+ "generated": "2026-10-22T18:32:05.340556+00:00",
  "count": 150,
  "sources": [
   {
@@ -29,8 +29,8 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "ok",
-   "steelers_items": 24
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "steelers_items": 0
   },
   {
    "source": "Still Curtain",
@@ -110,9 +110,25 @@
    "title": "Steelers fan event at Bastille bar canceled amid civil unrest in Paris",
    "source": "ESPN",
    "link": "https://www.espn.com/nfl/story/_/id/50250407/steelers-fan-event-paris-canceled-amid-civil-unrest",
-   "published": "2026-10-22T18:53:27+00:00",
+   "published": "2026-10-22T19:24:48+00:00",
    "summary": "News story from ESPN. Full report at the original publisher.",
    "id": "59bc9f1e4f"
+  },
+  {
+   "title": "Ask Alex: Steelers Mailbag",
+   "source": "Steelers Depot",
+   "link": "https://steelersdepot.com/2026/10/ask-alex-steelers-mailbag-557/",
+   "published": "2026-10-22T18:30:04+00:00",
+   "summary": "News story from Steelers Depot. Full report at the original publisher.",
+   "id": "02bc26c682"
+  },
+  {
+   "title": "Steelers' Mike McCarthy Has Intriguing Opportunity To Revive Justin Herbert's Career",
+   "source": "SteelerNation",
+   "link": "https://www.steelernation.com/2026/10/22/steelers-mike-mccarthy-intriguing-justin-herbert",
+   "published": "2026-10-22T18:26:29+00:00",
+   "summary": "News story from SteelerNation. Full report at the original publisher.",
+   "id": "c5137555d1"
   },
   {
    "title": "Christian Kuntz Reveals What NFL is Telling Steelers About Paris",
@@ -181,15 +197,6 @@
    "published": "2026-10-22T17:21:05+00:00",
    "summary": "Injury story from Still Curtain. Full report at the original publisher.",
    "id": "5caf14e52c"
-  },
-  {
-   "title": "Steelers place DT Sebastian Joseph-Day on IR",
-   "source": "The Mighty 790 KFGO",
-   "link": "https://kfgo.com/2026/10/22/steelers-place-dt-sebastian-joseph-day-on-ir/",
-   "published": "2026-10-22T17:19:38+00:00",
-   "via": "Google News",
-   "summary": "Injury story from The Mighty 790 KFGO. Full report at the original publisher.",
-   "id": "62f44ce5a5"
   },
   {
    "title": "Pittsburgh Steelers 2026 53-Man Roster, Practice Squad",
@@ -511,14 +518,6 @@
    "id": "bb6d0cf357"
   },
   {
-   "title": "Steelers' Doneiko Slaughter Turns 2 Roster Cuts Into A Promising Special Teams Opportunity",
-   "source": "SteelerNation",
-   "link": "https://www.steelernation.com/2026/10/22/steelers-doneiko-slaughter-promising-special-teams",
-   "published": "2026-10-22T13:47:27+00:00",
-   "summary": "News story from SteelerNation. Full report at the original publisher.",
-   "id": "6e98b0598d"
-  },
-  {
    "title": "Steelers Cancel Fan Event in Paris Amid Social Unrest",
    "source": "Steelers Now",
    "link": "https://steelersnow.com/steelers-cancel-fan-event-in-paris-amid-social-unrest/",
@@ -541,14 +540,6 @@
    "published": "2026-10-22T13:43:51+00:00",
    "summary": "News story from ProFootballTalk (NBC). Full report at the original publisher.",
    "id": "de0b70c0f0"
-  },
-  {
-   "title": "Steelers finding new ways to win as young players step into bigger roles",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/22/steelers-finding-new-ways-to-win-as-young-players-step-into-bigger-roles/",
-   "published": "2026-10-22T13:41:16+00:00",
-   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
-   "id": "d606ad8113"
   },
   {
    "title": "Saints Could Have One Big Advantage over Steelers",
@@ -656,15 +647,6 @@
    "published": "2026-10-22T11:00:58+00:00",
    "summary": "News story from Steelers Depot. Full report at the original publisher.",
    "id": "560f0912df"
-  },
-  {
-   "title": "Ranking Steelers Top Trade Needs And Their Best Targets",
-   "source": "All Steelers (Sports Illustrated)",
-   "link": "https://www.si.com/nfl/steelers/onsi/ranking-pittsburgh-steelers-top-trade-needs-best-targets",
-   "published": "2026-10-22T11:00:04+00:00",
-   "summary": "Trade/roster move story from All Steelers (Sports Illustrated). Full report at the original publisher.",
-   "via": "Google News",
-   "id": "ff40cab5aa"
   },
   {
    "title": "Ex-Steelers coach reveals how Browns threw away a potential dynasty in 2018",
@@ -787,6 +769,15 @@
    "id": "42e1fd3201"
   },
   {
+   "title": "New Orleans Saints vs. Pittsburgh Steelers Fantasy Football Matchup Breakdown For Week 7",
+   "source": "FantasyLife",
+   "link": "https://www.fantasylife.com/articles/fantasy/new-orleans-saints-vs-pittsburgh-steelers-fantasy-football-match",
+   "published": "2026-10-22T08:00:00+00:00",
+   "via": "Google News",
+   "summary": "Game story from FantasyLife. Full report at the original publisher.",
+   "id": "95b9477cd5"
+  },
+  {
    "title": "Another Pittsburgh Steelers defensive lineman goes down with injury",
    "source": "PennLive (Nick Farabaugh)",
    "link": "https://www.pennlive.com/steelers/2026/10/another-pittsburgh-steelers-defensive-lineman-goes-down-with-injury.html",
@@ -835,14 +826,6 @@
    "via": "Google News",
    "summary": "Opinion story from Dallas News. Full report at the original publisher.",
    "id": "629c586511"
-  },
-  {
-   "title": "Depot After Dark: Taylor\u2019s Son Models Game After Steelers Greats, Steelers\u2019 NFLPA Reps, Saints WR Won\u2019t Practice",
-   "source": "Steelers Depot",
-   "link": "https://steelersdepot.com/2026/10/depot-after-dark-taylors-son-models-game-after-steelers-greats-steelers-nflpa-reps-saints-wr-wont-practice/",
-   "published": "2026-10-22T01:00:24+00:00",
-   "summary": "Injury story from Steelers Depot. Full report at the original publisher.",
-   "id": "5ec04cc594"
   },
   {
    "title": "Groin injury limits Steelers LB Alex Highsmith; 4 teammates sit out practice",
@@ -1198,14 +1181,6 @@
    "id": "c7e06dc551"
   },
   {
-   "title": "Steelers have more than international travel to worry about against the Saints",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/21/steelers-have-more-than-international-travel-to-worry-about-against-the-saints/",
-   "published": "2026-10-21T12:15:47+00:00",
-   "summary": "News story from Steel City Underground. Full report at the original publisher.",
-   "id": "dd96e02d3b"
-  },
-  {
    "title": "Germie Bernard is making Steelers forget all about the Makai Lemon debacle",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/germie-bernard-is-making-pittsburgh-steelers-forget-all-about-the-makai-lemon-debacle-01m5a5vwkehr?utm_source=RSS",
@@ -1333,6 +1308,31 @@
    "via": "Google News",
    "summary": "News story from Audacy. Full report at the original publisher.",
    "id": "39e19a1835"
+  },
+  {
+   "title": "Steelers Rookie WR Quickly Joining Rookie of the Year Mix",
+   "source": "All Steelers (Sports Illustrated)",
+   "link": "https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-rookie-germie-bernard-quickly-joining-rookie-year-mix",
+   "published": "2026-10-20T16:00:03+00:00",
+   "summary": "News story from All Steelers (Sports Illustrated). Full report at the original publisher.",
+   "via": "Google News",
+   "id": "3dc35dfa5c"
+  },
+  {
+   "title": "Steelers should cash in on Mason Rudolph if the Eagles come calling",
+   "source": "Still Curtain",
+   "link": "https://stillcurtain.com/pittsburgh-steelers-should-cash-in-mason-rudolph-trade-philadelphia-eagles-01m5b9frwbv6?utm_source=RSS",
+   "published": "2026-10-20T16:00:01+00:00",
+   "summary": "Opinion story from Still Curtain. Full report at the original publisher.",
+   "id": "0aef56f734"
+  },
+  {
+   "title": "NFL in Paris: League eyes big debut as Steelers-Saints game comes amid security concerns",
+   "source": "TribLive",
+   "link": "https://triblive.com/sports/nfl-in-paris-league-eyes-big-debut-as-steelers-saints-game-comes-amid-security-concerns/",
+   "published": "2026-10-20T15:56:05+00:00",
+   "summary": "Game story from TribLive. Full report at the original publisher.",
+   "id": "44038ee75b"
   }
  ],
  "dropped_bad_links": 0

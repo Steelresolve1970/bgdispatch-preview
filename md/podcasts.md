@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-22T18:21:43+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T18:21:24+00:00._
+_Generated 2026-10-22T18:32:36+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T18:32:19+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Video: [TBT to when Fast Willie went off against the Saints 💨 📺: #PITvsNO 10/25 at 9:30 AM ET on NFLN](https://www.youtube.com/shorts/RR-n2vkYybA): Pittsburgh Steelers (official), 2026-10-22 18:23 UTC
 - Video: [Can the Steelers keep their winning streak alive in Paris?](https://www.youtube.com/watch?v=4UG7gRw1LHg): Steel City Underground, 2026-10-22 16:28 UTC
 - Podcast: [Can the Steelers keep their winning streak alive in Paris?](https://www.steelcityunderground.com/podcast/2026/10/can-the-steelers-keep-their-winning-streak-alive-in-paris/): Steel City Underground, 2026-10-22 16:20 UTC
 - Video: [NFL Week 7 Preview & Picks: EVERY GAME!](https://www.youtube.com/watch?v=aRQGtQmDWRo&t=1440s): Check the Mic with Steve Palazzolo & Sam Monson, 2026-10-22 16:13 UTC
@@ -100,7 +101,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Steelers Raid Tampa! Mike McCarthy, Injury Updates & Next Stop Paris! | SF7P Ep. 212](https://podcasters.spotify.com/pod/show/steelersfor7podcast/episodes/Steelers-Raid-Tampa--Mike-McCarthy--Injury-Updates--Next-Stop-Paris---SF7P-Ep--212-e3qpdap): Steelers for 7 Podcast, 2026-10-20 05:11 UTC
 - Podcast: [Steelers Hangover: Trajectory Win! Steelers Beat Tampa Bay 26-19 in OT](https://podcasts.apple.com/us/podcast/steelers-hangover-trajectory-win-steelers-beat-tampa/id905962218?i=1000797185794): Steel Curtain Network (BTSC), 2026-10-20 02:14 UTC
 - Podcast: [Steelers Depot Youtube Live Stream Q & A Podcast - October 19, 2026](https://podcasts.apple.com/us/podcast/steelers-depot-youtube-live-stream-q-a-podcast/id405990739?i=1000797179113): The Terrible Podcast (Steelers Depot), 2026-10-20 01:07 UTC
-- Video: [ahoy.mp4](https://www.youtube.com/shorts/eJqO7AsgSnY): Pittsburgh Steelers (official), 2026-10-20 00:25 UTC
 - Video: [Why Steelers MUST RUN THE BALL to Fix their 3rd Down Failures | Mike McCarthy's Necessary Changes](https://www.youtube.com/shorts/mXiVHOzgvR4): Locked On Steelers, 2026-10-19 22:54 UTC
 - Video: [Will Bernard Breakout Blow Up WR Plans? | Steelers Afternoon Drive](https://www.youtube.com/watch?v=7KJmrLW9OyQ): Steelers Now, 2026-10-19 22:34 UTC
 - Podcast: [Will Bernard Breakout Blow Up WR Plans? | Steelers Afternoon Drive](https://podcasts.apple.com/us/podcast/will-bernard-breakout-blow-up-wr-plans-steelers-afternoon/id1700240934?i=1000797161882): Steelers Afternoon Drive, 2026-10-19 22:31 UTC
