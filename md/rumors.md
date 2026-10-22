@@ -1,8 +1,20 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-22T04:24:37+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T04:24:31+00:00._
+_Generated 2026-10-22T18:10:54+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T18:10:35+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
+- **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
+  [ESPN projects a NFL Trade Deadline deal between the Steelers and Raiders](https://www.steelcurtainnetwork.com/espn-projects-a-nfl-trade-deadline-deal-between-the-steelers-and-raiders/): Steel Curtain Network, first seen 2026-10-22 18:10 UTC
+- **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
+  [Ranking Steelers Top Trade Needs And Their Best Targets](https://www.si.com/nfl/steelers/onsi/ranking-pittsburgh-steelers-top-trade-needs-best-targets): Sports Illustrated, first seen 2026-10-22 18:10 UTC
+- **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
+  [Steelers face tough decisions on T.J. Watt, Alex Highsmith as NFL trade deadline looms](https://www.usatoday.com/story/sports/nfl/steelers/2026/10/22/steelers-nfl-trade-deadline-tj-watt-alex-highsmith-patrick-queen/92364449007/): USA Today, first seen 2026-10-22 18:10 UTC
+- **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
+  [Whom could the Steelers target at the trade deadline? What's the 2027 QB plan? Mailbag](https://www.nytimes.com/athletic/7711597/2026/10/22/pittsburgh-steelers-trade-deadline-targets-future-qb/): The Athletic, first seen 2026-10-22 18:10 UTC
+- **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
+  [Whom could the Steelers target at the trade deadline? What’s the 2027 QB plan? Mailbag](https://www.nytimes.com/athletic/7711597/2026/10/22/pittsburgh-steelers-trade-deadline-targets-future-qb/): The New York Times, first seen 2026-10-22 18:10 UTC
+- **Rumor** · tier: National insider · consensus: 3 source(s), top tier National insider
+  [NFL trade deadline 2026 big board: 50 players who could be dealt before Nov. 10](https://www.nytimes.com/athletic/7664102/2026/10/22/nfl-trade-deadline-board-players-available/): The Athletic, first seen 2026-10-22 18:10 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [Steelers’ Roster Move Makes $41M Pro Bowler Top Trade Candidate](https://heavy.com/sports/nfl/pittsburgh-steelers/steelers-patrick-queen-trade-candidate-elandon-roberts/): Heavy.com, first seen 2026-10-22 03:37 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 11 source(s), top tier National insider
@@ -13,13 +25,15 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Steelers Rumors: Latest NFL Trade Intel on Jessie Bates and Derwin James](https://www.chatsports.com/pittsburgh-steelers/a/steelers-rumors-latest-nfl-trade-intel-jessie-bates-and-derwin-james-53472): Chat Sports, first seen 2026-10-21 22:30 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 11 source(s), top tier National insider
   [Elliott returns to full practice, full injury report](https://www.audacy.com/937thefan/sports/pittsburgh-steelers/elliott-returns-to-full-practice-full-injury-report): Audacy, first seen 2026-10-21 22:08 UTC
-- **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
+- **Rumor** · tier: Aggregator / other · consensus: 2 source(s), top tier Fan blog
+  [Steelers' Omar Khan Gets Strong Warning About Dangerous Trade Deadline Strategy](https://www.yardbarker.com/nfl/articles/steelers_omar_khan_gets_strong_warning_about_dangerous_trade_deadline_strategy/s1_17101_44456959): Yardbarker, first seen 2026-10-22 18:10 UTC
+- **Rumor** · tier: Fan blog · consensus: 2 source(s), top tier Fan blog
   [Steelers' Omar Khan Gets Strong Warning About Dangerous Trade Deadline Strategy](https://www.steelernation.com/2026/10/21/steelers-omar-khan-strong-warning): SteelerNation, first seen 2026-10-21 20:52 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [A new wide receiver trade rumor is picking up steam after the Steelers got an up-close look during recent matchup](https://atozsports.com/nfl/pittsburgh-steelers-news/steelers-wr-trade-rumors-chris-godwin-emerges-as-target-after-bucs-game/): A to Z Sports, first seen 2026-10-21 17:35 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [A new wide receiver trade rumor is picking up steam after the Steelers got an up-close look during recent matchup](https://atozsports.com/nfl/pittsburgh-steelers-news/steelers-wr-trade-rumors-chris-godwin-emerges-as-target-after-bucs-game/): A to Z Sports, first seen 2026-10-21 17:56 UTC
-- **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
+- **Rumor** · tier: National insider · consensus: 3 source(s), top tier National insider
   [Fantasy Football Players Need To Target Steelers WR Germie Bernard On The Trade Block](https://www.si.com/onsi/fantasy/trade-analysis/fantasy-football-players-need-to-target-steelers-wr-germie-bernard-on-the-trade-block): Sports Illustrated, first seen 2026-10-21 17:46 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 4 source(s), top tier National insider
   [Steelers Must Avoid This Veteran WR Trade Target](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-must-avoid-veteran-trade-target-chris-godwin): All Steelers (Sports Illustrated), first seen 2026-10-21 15:05 UTC
@@ -72,6 +86,8 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 - **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
   [Colts' trade update could be great news for Steelers](https://sports.yahoo.com/articles/colts-trade-could-great-news-145024224.html): Yahoo Sports, first seen 2026-10-22 03:37 UTC
 - **Confirmed** · tier: Fan blog · consensus: 11 source(s), top tier National insider
+  [Steelers signing Marquez Valdes-Scantling could make things even worse](https://stillcurtain.com/pittsburgh-steelers-signing-marquez-valdes-scantling-could-make-offense-worse-01m5cmdzgrz1): Still Curtain, first seen 2026-10-22 18:10 UTC
+- **Confirmed** · tier: Fan blog · consensus: 11 source(s), top tier National insider
   [Steelers signing Marquez Valdes-Scantling could make things even worse](https://stillcurtain.com/pittsburgh-steelers-signing-marquez-valdes-scantling-could-make-offense-worse-01m5cmdzgrz1?utm_source=RSS): Still Curtain, first seen 2026-10-20 14:14 UTC
 - **Rumor** · tier: National insider · consensus: 11 source(s), top tier National insider
   [Marquez Valdes-Scantling Signing Might Mean Good News for Steelers](https://www.si.com/nfl/steelers/onsi/marquez-valdes-scantling-signing-might-good-news-pittsburgh-steelers): Sports Illustrated, first seen 2026-10-20 14:14 UTC
@@ -101,7 +117,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Former All-Pro Likely On Steelers' Radar With Trade Deadline Quickly Approaching](https://www.steelernation.com/2026/10/19/steelers-likely-quickly-approaching): SteelerNation, first seen 2026-10-19 19:47 UTC
 - **Rumor** · tier: National insider · consensus: 4 source(s), top tier National insider
   [Veteran Steelers QB Named Eagles Trade Target After Jalen Hurts News](https://sports.yahoo.com/articles/veteran-steelers-qb-named-eagles-183142596.html): Yahoo Sports, first seen 2026-10-19 21:10 UTC
-- **Rumor** · tier: Aggregator / other · consensus: 2 source(s), top tier National insider
+- **Rumor** · tier: Aggregator / other · consensus: 3 source(s), top tier National insider
   [3 players Steelers must target at 2026 NFL trade deadline](https://clutchpoints.com/nfl/pittsburgh-steelers/3-players-steelers-must-target-at-2026-nfl-trade-deadline): ClutchPoints, first seen 2026-10-19 21:43 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 4 source(s), top tier National insider
   [Veteran Steelers QB Named Eagles Trade Target After Jalen Hurts News](https://heavy.com/sports/nfl/pittsburgh-steelers/steelers-mason-rudolph-trade-target-eagles-jalen-hurts/): Heavy.com, first seen 2026-10-19 17:56 UTC

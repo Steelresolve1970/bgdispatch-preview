@@ -1,6 +1,6 @@
 # Steelers Depth Chart
 
-_Generated 2026-10-22T04:24:37+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T04:24:28+00:00._
+_Generated 2026-10-22T18:10:54+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T18:10:24+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/depth-chart.json_
 
 ### Offense (3WR 1TE)
@@ -8,12 +8,12 @@ _JSON: https://blackandgolddispatch.com/api/v1/depth-chart.json_
 | Pos | Starter | 2nd | 3rd | Others |
 |---|---|---|---|---|
 | QB | Aaron Rodgers | Mason Rudolph | Will Howard | Drew Allar |
-| RB | Jaylen Warren | Rico Dowdle (Questionable) | Travis Homer | Eli Heidenreich, Lew Nichols |
+| RB | Jaylen Warren | Rico Dowdle | Travis Homer | Eli Heidenreich, Lew Nichols |
 | FB | Riley Nowakowski |  |  |  |
 | WR | DK Metcalf | Kaden Wetjen | Cole Burgess (Injured Reserve) |  |
 | WR | Germie Bernard | Michael Pittman Jr. |  |  |
-| WR | Ben Skowronek (Out) | Roman Wilson (Out) |  |  |
-| TE | Darnell Washington | Pat Freiermuth (Questionable) | Robert Tonyan |  |
+| WR | Ben Skowronek | Roman Wilson (Injured Reserve) |  |  |
+| TE | Darnell Washington | Pat Freiermuth | Robert Tonyan |  |
 | LT | Troy Fautanu | Dylan Cook | Jack Driscoll (Injured Reserve) |  |
 | LG | Mason McCormick | Brock Hoffman | Gennings Dunker (Injured Reserve) |  |
 | C | Zach Frazier | Ryan McCollum |  |  |
@@ -25,17 +25,17 @@ _JSON: https://blackandgolddispatch.com/api/v1/depth-chart.json_
 | Pos | Starter | 2nd | 3rd | Others |
 |---|---|---|---|---|
 | LDE | Yahya Black | Gabriel Rubio | Derrick Harmon (Injured Reserve) |  |
-| NT | Keeanu Benton (Questionable) | Sebastian Joseph-Day |  |  |
+| NT | Keeanu Benton | Sebastian Joseph-Day |  |  |
 | RDE | Cameron Heyward | Kevin Jobity Jr. | Logan Lee (Injured Reserve) |  |
 | WLB | T.J. Watt | Nick Herbig |  |  |
 | LILB | Payton Wilson | Cole Holcomb |  |  |
 | RILB | Patrick Queen | Carson Bruener |  |  |
 | SLB | Alex Highsmith | Jack Sawyer |  |  |
 | LCB | Asante Samuel Jr. | Sean Murphy-Bunting | Terell Smith |  |
-| SS | Robert Spears-Jennings | DeShon Elliott (Out) |  |  |
-| FS | Jaquan Brisker | Rayshawn Jenkins |  |  |
-| RCB | Jamel Dean (Questionable) | Daylen Everette | Doneiko Slaughter | Daequan Hardy |
-| NB | Jalen Ramsey (Questionable) | Brandin Echols | Donte Kent (Physically Unable to Perform) |  |
+| SS | Robert Spears-Jennings | DeShon Elliott (Injured Reserve) |  |  |
+| FS | Jaquan Brisker |  |  |  |
+| RCB | Jamel Dean | Daylen Everette | Doneiko Slaughter | Daequan Hardy |
+| NB | Jalen Ramsey | Brandin Echols | Donte Kent (Physically Unable to Perform) |  |
 
 ### Special teams (Special Teams)
 
@@ -44,7 +44,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/depth-chart.json_
 | PK | Chris Boswell |  |  |  |
 | P | Cameron Johnston |  |  |  |
 | H | Cameron Johnston |  |  |  |
-| PR | Kaden Wetjen | Roman Wilson (Out) | Donte Kent (Physically Unable to Perform) |  |
+| PR | Kaden Wetjen | Roman Wilson (Injured Reserve) | Donte Kent (Physically Unable to Perform) |  |
 | KR | Kaden Wetjen | Eli Heidenreich | Donte Kent (Physically Unable to Perform) |  |
 | LS | Christian Kuntz |  |  |  |
 

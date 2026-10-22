@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-22T04:24:28.234445+00:00",
- "as_of": "2026-10-21T12:53:27Z",
+ "generated": "2026-10-22T18:10:24.594477+00:00",
+ "as_of": "2026-10-22T12:59:29Z",
  "units": [
   {
    "unit": "Offense",
@@ -55,7 +55,7 @@
        "name": "Rico Dowdle",
        "jersey": "13",
        "pos": "RB",
-       "injury": "Questionable",
+       "injury": null,
        "link": null
       },
       {
@@ -149,14 +149,14 @@
        "name": "Ben Skowronek",
        "jersey": "15",
        "pos": "WR",
-       "injury": "Out",
+       "injury": null,
        "link": null
       },
       {
        "name": "Roman Wilson",
        "jersey": "14",
        "pos": "WR",
-       "injury": "Out",
+       "injury": "Injured Reserve",
        "link": null
       }
      ]
@@ -176,7 +176,7 @@
        "name": "Pat Freiermuth",
        "jersey": "88",
        "pos": "TE",
-       "injury": "Questionable",
+       "injury": null,
        "link": null
       },
       {
@@ -343,7 +343,7 @@
        "name": "Keeanu Benton",
        "jersey": "95",
        "pos": "DL",
-       "injury": "Questionable",
+       "injury": null,
        "link": null
       },
       {
@@ -504,7 +504,7 @@
        "name": "DeShon Elliott",
        "jersey": "25",
        "pos": "DB",
-       "injury": "Out",
+       "injury": "Injured Reserve",
        "link": null
       }
      ]
@@ -519,13 +519,6 @@
        "pos": "DB",
        "injury": null,
        "link": null
-      },
-      {
-       "name": "Rayshawn Jenkins",
-       "jersey": "20",
-       "pos": "DB",
-       "injury": null,
-       "link": null
       }
      ]
     },
@@ -537,7 +530,7 @@
        "name": "Jamel Dean",
        "jersey": "35",
        "pos": "DB",
-       "injury": "Questionable",
+       "injury": null,
        "link": null
       },
       {
@@ -571,7 +564,7 @@
        "name": "Jalen Ramsey",
        "jersey": "5",
        "pos": "DB",
-       "injury": "Questionable",
+       "injury": null,
        "link": null
       },
       {
@@ -650,7 +643,7 @@
        "name": "Roman Wilson",
        "jersey": "14",
        "pos": "WR",
-       "injury": "Out",
+       "injury": "Injured Reserve",
        "link": null
       },
       {
@@ -707,5 +700,5 @@
  ],
  "source": "Data: nflverse (CC-BY 4.0)",
  "source_url": "https://github.com/nflverse/nflverse-data",
- "note": "Depth chart: nflverse (CC-BY 4.0), as of 2026-10-21T12:53:27Z. Injury tags from the official NFL injury report via nflverse."
+ "note": "Depth chart: nflverse (CC-BY 4.0), as of 2026-10-22T12:59:29Z. Injury tags from the official NFL injury report via nflverse."
 }

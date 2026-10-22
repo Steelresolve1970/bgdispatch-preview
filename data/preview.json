@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T23:56:58.611333+00:00",
+ "generated": "2026-10-22T18:09:33.075632+00:00",
  "game": {
   "label": "at New Orleans Saints (Oct 25)",
   "opponent": "New Orleans Saints",
@@ -71,8 +71,8 @@
    "creator": "Merril Hoge (personal)",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCL1UFebpPn1rsxK0yEwwbgA",
-   "status": "error: HTTP Error 404: Not Found",
-   "feed_items": 0,
+   "status": "ok",
+   "feed_items": 15,
    "in_window": 0
   },
   {
@@ -103,16 +103,16 @@
    "creator": "Steelers Almighty",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgIrOw8M4dNVs-WcMSaZUxA",
-   "status": "error: HTTP Error 404: Not Found",
-   "feed_items": 0,
+   "status": "ok",
+   "feed_items": 15,
    "in_window": 0
   },
   {
    "creator": "Steelers Now (Derrick Bell)",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp1iAMIfmmgWewzJ07_Y7oA",
-   "status": "error: HTTP Error 404: Not Found",
-   "feed_items": 0,
+   "status": "ok",
+   "feed_items": 15,
    "in_window": 0
   },
   {
@@ -127,9 +127,9 @@
    "creator": "Still Curtain",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxjSNPLcRAVzDKOjhRwo-hQ",
-   "status": "error: HTTP Error 404: Not Found",
-   "feed_items": 0,
-   "in_window": 0
+   "status": "ok",
+   "feed_items": 15,
+   "in_window": 1
   },
   {
    "creator": "Locked On Steelers",
@@ -137,7 +137,7 @@
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7JorgD8nGLtvvMy1ogFetg",
    "status": "ok",
    "feed_items": 15,
-   "in_window": 1
+   "in_window": 0
   },
   {
    "creator": "Steel Curtain Network (BTSC)",
@@ -159,8 +159,8 @@
    "creator": "Derrick Bell \u2013 DB's Film Room (Steelers Now)",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNsZFFKPF0bp85qzvJ8knbQ",
-   "status": "error: HTTP Error 404: Not Found",
-   "feed_items": 0,
+   "status": "ok",
+   "feed_items": 15,
    "in_window": 0
   },
   {
@@ -183,16 +183,16 @@
    "creator": "Baldy's Breakdowns",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHdXqjAWwGqEGfC1a9319Mw",
-   "status": "error: HTTP Error 404: Not Found",
-   "feed_items": 0,
+   "status": "ok",
+   "feed_items": 15,
    "in_window": 0
   },
   {
    "creator": "Brett Kollmann",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYzfVBuCfGz-oF3aOCGgO5g",
-   "status": "error: HTTP Error 404: Not Found",
-   "feed_items": 0,
+   "status": "ok",
+   "feed_items": 15,
    "in_window": 0
   },
   {
@@ -214,14 +214,28 @@
  ],
  "items": [
   {
-   "title": "STEELERS SQUAD SHOW: Winning Ugly Won\u2019t Fly in Paris! Steelers/Saints Preview!",
-   "creator": "Locked On Steelers",
-   "link": "https://www.youtube.com/watch?v=Es_bukL78yk",
-   "published": "2026-10-20T22:54:40+00:00",
-   "summary": "Preview by Locked On Steelers for at New Orleans Saints (Oct 25).",
+   "title": "Steelers vs. Saints Week 7 Preview | Aaron Rodgers Problem Brewing",
+   "creator": "Still Curtain",
+   "link": "https://www.youtube.com/watch?v=B0agqGjSVpU",
+   "published": "2026-10-22T06:58:28+00:00",
+   "summary": "Preview by Still Curtain for at New Orleans Saints (Oct 25).",
    "game": "at New Orleans Saints (Oct 25)"
   }
  ],
- "ctm": null,
+ "ctm": {
+  "show": "Check the Mic with Steve Palazzolo & Sam Monson",
+  "hosts": "Steve Palazzolo & Sam Monson",
+  "network": "The 33rd Team",
+  "title": "NFL Week 7 Preview & Picks: EVERY GAME!",
+  "published": "2026-10-22T16:13:00+00:00",
+  "link": "https://podcasts.apple.com/us/podcast/nfl-week-7-preview-picks-every-game/id1761398472?i=1000797642974",
+  "segment": "24:00",
+  "segment_seconds": 1440,
+  "steelers_only": false,
+  "summary": "Steve Palazzolo and Sam Monson's weekly every-game preview show; it includes the Steelers vs. Saints matchup. Steelers segment starts at 24:00.",
+  "note": "Check the Mic doesn't do a Steelers-only episode each week, so this is their most recent episode that covers the Steelers game.",
+  "youtube": "https://www.youtube.com/watch?v=aRQGtQmDWRo&t=1440s",
+  "embed": "https://www.youtube-nocookie.com/embed/aRQGtQmDWRo?start=1440"
+ },
  "count": 1
 }

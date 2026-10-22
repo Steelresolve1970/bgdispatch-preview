@@ -1,25 +1,19 @@
 # Steelers Injury Report
 
-_Generated 2026-10-22T04:24:37+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T04:12:48+00:00._
+_Generated 2026-10-22T18:10:54+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T18:10:10+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/injuries.json_
 
 | Player | Pos | Status | Injury | Est. return | Updated |
 |---|---|---|---|---|---|
-| [Ben Skowronek](https://www.nfl.com/injuries/) | WR | Out | Calf |  |  |
-| [DeShon Elliott](https://www.nfl.com/injuries/) | S | Out | Knee |  |  |
-| [Roman Wilson](https://www.nfl.com/injuries/) | WR | Out | Finger |  |  |
-| [Jalen Ramsey](https://www.nfl.com/injuries/) | CB | Questionable | Wrist |  |  |
-| [Jamel Dean](https://www.nfl.com/injuries/) | CB | Questionable | Ankle |  |  |
-| [Keeanu Benton](https://www.nfl.com/injuries/) | DT | Questionable | Ankle |  |  |
-| [Pat Freiermuth](https://www.nfl.com/injuries/) | TE | Questionable | Calf |  |  |
-| [Rico Dowdle](https://www.nfl.com/injuries/) | RB | Questionable | Toe |  |  |
 | [Cole Burgess](https://www.nfl.com/transactions/) | WR | Injured Reserve |  |  |  |
 | [Daequan Hardy](https://www.nfl.com/transactions/) | DB | Injured Reserve |  |  |  |
+| [DeShon Elliott](https://www.nfl.com/transactions/) | DB | Injured Reserve |  |  |  |
 | [Derrick Harmon](https://www.nfl.com/transactions/) | DL | Injured Reserve |  |  |  |
 | [Gennings Dunker](https://www.nfl.com/transactions/) | OL | Injured Reserve |  |  |  |
 | [Jack Driscoll](https://www.nfl.com/transactions/) | OL | Injured Reserve |  |  |  |
 | [Logan Lee](https://www.nfl.com/transactions/) | DL | Injured Reserve |  |  |  |
 | [Michael Pittman](https://www.nfl.com/transactions/) | WR | Injured Reserve |  |  |  |
+| [Roman Wilson](https://www.nfl.com/transactions/) | WR | Injured Reserve |  |  |  |
 | [Donte Kent](https://www.nfl.com/transactions/) | DB | Physically Unable to Perform |  |  |  |
 
 ---

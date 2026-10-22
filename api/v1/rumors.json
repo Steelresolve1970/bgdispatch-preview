@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "rumors",
  "description": "Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).",
- "generated": "2026-10-22T04:24:37+00:00",
- "data_updated": "2026-10-22T04:24:31+00:00",
- "count": 59,
+ "generated": "2026-10-22T18:10:54+00:00",
+ "data_updated": "2026-10-22T18:10:35+00:00",
+ "count": 67,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -19,6 +19,196 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/rumors",
  "items": [
+  {
+   "id": "a98ee9e3711c",
+   "type": "rumor",
+   "title": "ESPN projects a NFL Trade Deadline deal between the Steelers and Raiders",
+   "summary": "Trade/roster move story from Steel Curtain Network. Full report at the original publisher.",
+   "url": "https://www.steelcurtainnetwork.com/espn-projects-a-nfl-trade-deadline-deal-between-the-steelers-and-raiders/",
+   "source": {
+    "name": "Steel Curtain Network",
+    "url": null,
+    "reliability_tier": "Aggregator / other",
+    "reliability_score": 1
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-22T18:10:35+00:00",
+   "updated": "2026-10-22T18:10:35+00:00",
+   "published": "2026-10-22T18:01:33+00:00",
+   "people": [
+    "Trade Deadline"
+   ],
+   "consensus": {
+    "cluster_id": "a98ee9e3711c",
+    "independent_sources": 1,
+    "sources": [
+     "Steel Curtain Network"
+    ],
+    "highest_tier": "Aggregator / other",
+    "highest_tier_score": 1,
+    "related_ids": []
+   }
+  },
+  {
+   "id": "3513cc219acc",
+   "type": "rumor",
+   "title": "Ranking Steelers Top Trade Needs And Their Best Targets",
+   "summary": "Trade/roster move story from Sports Illustrated. Full report at the original publisher.",
+   "url": "https://www.si.com/nfl/steelers/onsi/ranking-pittsburgh-steelers-top-trade-needs-best-targets",
+   "source": {
+    "name": "Sports Illustrated",
+    "url": null,
+    "reliability_tier": "National insider",
+    "reliability_score": 4
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-22T18:10:35+00:00",
+   "updated": "2026-10-22T18:10:35+00:00",
+   "published": "2026-10-22T11:00:04+00:00",
+   "people": [],
+   "consensus": {
+    "cluster_id": "3513cc219acc",
+    "independent_sources": 1,
+    "sources": [
+     "Sports Illustrated"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": []
+   }
+  },
+  {
+   "id": "c6dd11f8b979",
+   "type": "rumor",
+   "title": "Steelers face tough decisions on T.J. Watt, Alex Highsmith as NFL trade deadline looms",
+   "summary": "Trade/roster move story from USA Today. Full report at the original publisher.",
+   "url": "https://www.usatoday.com/story/sports/nfl/steelers/2026/10/22/steelers-nfl-trade-deadline-tj-watt-alex-highsmith-patrick-queen/92364449007/",
+   "source": {
+    "name": "USA Today",
+    "url": null,
+    "reliability_tier": "Aggregator / other",
+    "reliability_score": 1
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-22T18:10:35+00:00",
+   "updated": "2026-10-22T18:10:35+00:00",
+   "published": "2026-10-22T09:46:00+00:00",
+   "people": [
+    "Alex Highsmith",
+    "T.J. Watt"
+   ],
+   "consensus": {
+    "cluster_id": "c6dd11f8b979",
+    "independent_sources": 1,
+    "sources": [
+     "USA Today"
+    ],
+    "highest_tier": "Aggregator / other",
+    "highest_tier_score": 1,
+    "related_ids": []
+   }
+  },
+  {
+   "id": "793524d428ea",
+   "type": "rumor",
+   "title": "Whom could the Steelers target at the trade deadline? What's the 2027 QB plan? Mailbag",
+   "summary": "Trade/roster move story from The Athletic. Full report at the original publisher.",
+   "url": "https://www.nytimes.com/athletic/7711597/2026/10/22/pittsburgh-steelers-trade-deadline-targets-future-qb/",
+   "source": {
+    "name": "The Athletic",
+    "url": null,
+    "reliability_tier": "National insider",
+    "reliability_score": 4
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-22T18:10:35+00:00",
+   "updated": "2026-10-22T18:10:35+00:00",
+   "published": "2026-10-22T09:30:52+00:00",
+   "people": [],
+   "consensus": {
+    "cluster_id": "503d87d8f6f8",
+    "independent_sources": 2,
+    "sources": [
+     "The Athletic",
+     "The New York Times"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "503d87d8f6f8"
+    ]
+   }
+  },
+  {
+   "id": "503d87d8f6f8",
+   "type": "rumor",
+   "title": "Whom could the Steelers target at the trade deadline? What’s the 2027 QB plan? Mailbag",
+   "summary": "Trade/roster move story from The New York Times. Full report at the original publisher.",
+   "url": "https://www.nytimes.com/athletic/7711597/2026/10/22/pittsburgh-steelers-trade-deadline-targets-future-qb/",
+   "source": {
+    "name": "The New York Times",
+    "url": null,
+    "reliability_tier": "National insider",
+    "reliability_score": 4
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-22T18:10:35+00:00",
+   "updated": "2026-10-22T18:10:35+00:00",
+   "published": "2026-10-22T09:30:52+00:00",
+   "people": [],
+   "consensus": {
+    "cluster_id": "503d87d8f6f8",
+    "independent_sources": 2,
+    "sources": [
+     "The Athletic",
+     "The New York Times"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "793524d428ea"
+    ]
+   }
+  },
+  {
+   "id": "7e976d566581",
+   "type": "rumor",
+   "title": "NFL trade deadline 2026 big board: 50 players who could be dealt before Nov. 10",
+   "summary": "Trade/roster move story from The Athletic. Full report at the original publisher.",
+   "url": "https://www.nytimes.com/athletic/7664102/2026/10/22/nfl-trade-deadline-board-players-available/",
+   "source": {
+    "name": "The Athletic",
+    "url": null,
+    "reliability_tier": "National insider",
+    "reliability_score": 4
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-22T18:10:35+00:00",
+   "updated": "2026-10-22T18:10:35+00:00",
+   "published": "2026-10-22T09:30:11+00:00",
+   "people": [],
+   "consensus": {
+    "cluster_id": "e44e8dd7936e",
+    "independent_sources": 3,
+    "sources": [
+     "ClutchPoints",
+     "Sports Illustrated",
+     "The Athletic"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "6023736ee2c7",
+     "e44e8dd7936e"
+    ]
+   }
+  },
   {
    "id": "c4d23a319ca9",
    "type": "rumor",
@@ -93,6 +283,7 @@
      "2289e7e73871",
      "8517ea310aff",
      "d9ea387e2e1d",
+     "792f91873354",
      "c096101038f6",
      "47b303529098",
      "d4ce4b6994a9",
@@ -150,6 +341,7 @@
      "2289e7e73871",
      "8517ea310aff",
      "d9ea387e2e1d",
+     "792f91873354",
      "c096101038f6",
      "47b303529098",
      "d4ce4b6994a9",
@@ -236,6 +428,7 @@
      "2289e7e73871",
      "8517ea310aff",
      "d9ea387e2e1d",
+     "792f91873354",
      "c096101038f6",
      "47b303529098",
      "d4ce4b6994a9",
@@ -245,6 +438,38 @@
      "cea338c8f16a",
      "8cb28a915183",
      "7562897ee621"
+    ]
+   }
+  },
+  {
+   "id": "d6fcab7af69e",
+   "type": "rumor",
+   "title": "Steelers' Omar Khan Gets Strong Warning About Dangerous Trade Deadline Strategy",
+   "summary": "Trade/roster move story from Yardbarker. Full report at the original publisher.",
+   "url": "https://www.yardbarker.com/nfl/articles/steelers_omar_khan_gets_strong_warning_about_dangerous_trade_deadline_strategy/s1_17101_44456959",
+   "source": {
+    "name": "Yardbarker",
+    "url": null,
+    "reliability_tier": "Aggregator / other",
+    "reliability_score": 1
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-22T18:10:35+00:00",
+   "updated": "2026-10-22T18:10:35+00:00",
+   "published": "2026-10-21T20:46:18+00:00",
+   "people": [],
+   "consensus": {
+    "cluster_id": "28359084a15f",
+    "independent_sources": 2,
+    "sources": [
+     "SteelerNation",
+     "Yardbarker"
+    ],
+    "highest_tier": "Fan blog",
+    "highest_tier_score": 2,
+    "related_ids": [
+     "28359084a15f"
     ]
    }
   },
@@ -268,13 +493,16 @@
    "people": [],
    "consensus": {
     "cluster_id": "28359084a15f",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
-     "SteelerNation"
+     "SteelerNation",
+     "Yardbarker"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "d6fcab7af69e"
+    ]
    }
   },
   {
@@ -359,14 +587,16 @@
    "people": [],
    "consensus": {
     "cluster_id": "e44e8dd7936e",
-    "independent_sources": 2,
+    "independent_sources": 3,
     "sources": [
      "ClutchPoints",
-     "Sports Illustrated"
+     "Sports Illustrated",
+     "The Athletic"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "7e976d566581",
      "e44e8dd7936e"
     ]
    }
@@ -563,6 +793,7 @@
      "2289e7e73871",
      "8517ea310aff",
      "d9ea387e2e1d",
+     "792f91873354",
      "c096101038f6",
      "47b303529098",
      "d4ce4b6994a9",
@@ -625,6 +856,7 @@
      "2289e7e73871",
      "8517ea310aff",
      "d9ea387e2e1d",
+     "792f91873354",
      "c096101038f6",
      "47b303529098",
      "d4ce4b6994a9",
@@ -879,6 +1111,7 @@
      "2289e7e73871",
      "8517ea310aff",
      "d9ea387e2e1d",
+     "792f91873354",
      "c096101038f6",
      "47b303529098",
      "d4ce4b6994a9",
@@ -938,6 +1171,7 @@
      "2ffbfc23c5b6",
      "8517ea310aff",
      "d9ea387e2e1d",
+     "792f91873354",
      "c096101038f6",
      "47b303529098",
      "d4ce4b6994a9",
@@ -995,6 +1229,7 @@
      "2ffbfc23c5b6",
      "2289e7e73871",
      "d9ea387e2e1d",
+     "792f91873354",
      "c096101038f6",
      "47b303529098",
      "d4ce4b6994a9",
@@ -1308,6 +1543,7 @@
      "2ffbfc23c5b6",
      "2289e7e73871",
      "8517ea310aff",
+     "792f91873354",
      "c096101038f6",
      "47b303529098",
      "d4ce4b6994a9",
@@ -1347,6 +1583,69 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": []
+   }
+  },
+  {
+   "id": "792f91873354",
+   "type": "rumor",
+   "title": "Steelers signing Marquez Valdes-Scantling could make things even worse",
+   "summary": "Trade/roster move story from Still Curtain. Full report at the original publisher.",
+   "url": "https://stillcurtain.com/pittsburgh-steelers-signing-marquez-valdes-scantling-could-make-offense-worse-01m5cmdzgrz1",
+   "source": {
+    "name": "Still Curtain",
+    "url": null,
+    "reliability_tier": "Fan blog",
+    "reliability_score": 2
+   },
+   "status": "Confirmed",
+   "status_evidence": {
+    "text": "TribLive: Newly signed Steelers receiver Marquez Valdes-Scantling might contribute quickly",
+    "url": "https://triblive.com/sports/newly-signed-steelers-receiver-marquez-valdes-scantling-might-contribute-quickly/"
+   },
+   "first_seen": "2026-10-22T18:10:35+00:00",
+   "updated": "2026-10-22T18:10:35+00:00",
+   "published": "2026-10-20T13:01:14+00:00",
+   "people": [
+    "Marquez Valdes-Scantling"
+   ],
+   "consensus": {
+    "cluster_id": "8cb28a915183",
+    "independent_sources": 11,
+    "sources": [
+     "All Steelers (Sports Illustrated)",
+     "Audacy",
+     "Beaver County Radio",
+     "Gridiron Heroics",
+     "NBC Sports",
+     "Sports Illustrated",
+     "Steelers Depot",
+     "Still Curtain",
+     "TribLIVE.com",
+     "TribLive",
+     "Yahoo Sports"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "88ec15922e1e",
+     "220ffc62c292",
+     "a47989cc3ca8",
+     "c774b8995598",
+     "1b9cf10893b1",
+     "2ffbfc23c5b6",
+     "2289e7e73871",
+     "8517ea310aff",
+     "d9ea387e2e1d",
+     "c096101038f6",
+     "47b303529098",
+     "d4ce4b6994a9",
+     "903d04baad12",
+     "a2fc6f6f5226",
+     "44f0c20355e3",
+     "cea338c8f16a",
+     "8cb28a915183",
+     "7562897ee621"
+    ]
    }
   },
   {
@@ -1400,6 +1699,7 @@
      "2289e7e73871",
      "8517ea310aff",
      "d9ea387e2e1d",
+     "792f91873354",
      "47b303529098",
      "d4ce4b6994a9",
      "903d04baad12",
@@ -1457,6 +1757,7 @@
      "2289e7e73871",
      "8517ea310aff",
      "d9ea387e2e1d",
+     "792f91873354",
      "c096101038f6",
      "d4ce4b6994a9",
      "903d04baad12",
@@ -1514,6 +1815,7 @@
      "2289e7e73871",
      "8517ea310aff",
      "d9ea387e2e1d",
+     "792f91873354",
      "c096101038f6",
      "47b303529098",
      "903d04baad12",
@@ -1576,6 +1878,7 @@
      "2289e7e73871",
      "8517ea310aff",
      "d9ea387e2e1d",
+     "792f91873354",
      "c096101038f6",
      "47b303529098",
      "d4ce4b6994a9",
@@ -1662,6 +1965,7 @@
      "2289e7e73871",
      "8517ea310aff",
      "d9ea387e2e1d",
+     "792f91873354",
      "c096101038f6",
      "47b303529098",
      "d4ce4b6994a9",
@@ -1726,6 +2030,7 @@
      "2289e7e73871",
      "8517ea310aff",
      "d9ea387e2e1d",
+     "792f91873354",
      "c096101038f6",
      "47b303529098",
      "d4ce4b6994a9",
@@ -1790,6 +2095,7 @@
      "2289e7e73871",
      "8517ea310aff",
      "d9ea387e2e1d",
+     "792f91873354",
      "c096101038f6",
      "47b303529098",
      "d4ce4b6994a9",
@@ -1847,6 +2153,7 @@
      "2289e7e73871",
      "8517ea310aff",
      "d9ea387e2e1d",
+     "792f91873354",
      "c096101038f6",
      "47b303529098",
      "d4ce4b6994a9",
@@ -1904,6 +2211,7 @@
      "2289e7e73871",
      "8517ea310aff",
      "d9ea387e2e1d",
+     "792f91873354",
      "c096101038f6",
      "47b303529098",
      "d4ce4b6994a9",
@@ -2097,14 +2405,16 @@
    "people": [],
    "consensus": {
     "cluster_id": "e44e8dd7936e",
-    "independent_sources": 2,
+    "independent_sources": 3,
     "sources": [
      "ClutchPoints",
-     "Sports Illustrated"
+     "Sports Illustrated",
+     "The Athletic"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "7e976d566581",
      "6023736ee2c7"
     ]
    }

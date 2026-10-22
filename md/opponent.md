@@ -1,6 +1,6 @@
 # Steelers Opponent Preview
 
-_Generated 2026-10-22T04:24:37+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T04:24:27+00:00._
+_Generated 2026-10-22T18:10:54+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T18:10:11+00:00._
 
 Week 7: Steelers at **New Orleans Saints** (NO 2-4), kickoff 2026-10-25 13:30 UTC, Stade de France.
 
@@ -18,6 +18,8 @@ Last 5: NO W 24-17 @ BAL L 35-27 vs LV L 45-24 vs ATL L 23-13 vs MIN W 34-27 @ N
 
 ## Pundit picks
 - Joe Jensen (Predictem): Steelers 26-19: https://www.predictem.com/nfl/steelers-vs-saints-prediction-picks-paris-week-7-odds/
+- Cappers Picks AI (Sports Cappers Picks): Steelers 27-20: https://www.capperspicks.com/free-picks/ai/pittsburgh-steelers-at-new-orleans-saints-pick-nfl-prediction-preview-odds-10-25-2026/
+- Jeff Hartman (Steel Curtain Network): Steelers 31-20: https://www.steelcurtainnetwork.com/2026-steelers-preview-week-7-vs-the-new-orleans-saints/
 
 ## Team stats (per game, NFL rank of 32)
 
@@ -50,13 +52,6 @@ Last 5: NO W 24-17 @ BAL L 35-27 vs LV L 45-24 vs ATL L 23-13 vs MIN W 34-27 @ N
 - Tackles: Pete Werner (LB) 45
 
 ## Saints injury report
-- Anfernee Jennings (LB): Out, Knee
-- Kaden Elliss (LB): Out, Calf
-- Alvin Kamara (RB): Questionable, Back
-- Chris Olave (WR): Questionable, Illness
-- Lorenzo Styles Jr. (CB): Questionable, Knee
-- Nathan Shepherd (DT): Questionable, Illness
-- Zach Wood (LS): Questionable, Calf
 - Bryan Bresee (DL): Injured Reserve
 - David Long (DB): Injured Reserve
 - Dillon Radunz (OL): Injured Reserve

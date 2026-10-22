@@ -2,8 +2,8 @@
  "api_version": "1",
  "dataset": "depth-chart",
  "description": "Steelers depth chart by unit and position, 1st/2nd/3rd string with injury tags (nflverse, CC-BY 4.0).",
- "generated": "2026-10-22T04:24:37+00:00",
- "data_updated": "2026-10-22T04:24:28+00:00",
+ "generated": "2026-10-22T18:10:54+00:00",
+ "data_updated": "2026-10-22T18:10:24+00:00",
  "count": 28,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
@@ -81,7 +81,7 @@
      "depth": 2,
      "name": "Rico Dowdle",
      "jersey": "13",
-     "injury_status": "Questionable",
+     "injury_status": null,
      "url": null
     },
     {
@@ -189,7 +189,7 @@
      "depth": 2,
      "name": "Pat Freiermuth",
      "jersey": "88",
-     "injury_status": "Questionable",
+     "injury_status": null,
      "url": null
     },
     {
@@ -413,7 +413,7 @@
      "depth": 1,
      "name": "Keeanu Benton",
      "jersey": "95",
-     "injury_status": "Questionable",
+     "injury_status": null,
      "url": null
     },
     {
@@ -637,7 +637,7 @@
      "depth": 2,
      "name": "DeShon Elliott",
      "jersey": "25",
-     "injury_status": "Out",
+     "injury_status": "Injured Reserve",
      "url": null
     }
    ],
@@ -661,13 +661,6 @@
      "jersey": "3",
      "injury_status": null,
      "url": null
-    },
-    {
-     "depth": 2,
-     "name": "Rayshawn Jenkins",
-     "jersey": "20",
-     "injury_status": null,
-     "url": null
     }
    ],
    "source": {
@@ -688,7 +681,7 @@
      "depth": 1,
      "name": "Jamel Dean",
      "jersey": "35",
-     "injury_status": "Questionable",
+     "injury_status": null,
      "url": null
     },
     {
@@ -731,7 +724,7 @@
      "depth": 1,
      "name": "Jalen Ramsey",
      "jersey": "5",
-     "injury_status": "Questionable",
+     "injury_status": null,
      "url": null
     },
     {
@@ -840,7 +833,7 @@
      "depth": 2,
      "name": "Roman Wilson",
      "jersey": "14",
-     "injury_status": "Out",
+     "injury_status": "Injured Reserve",
      "url": null
     },
     {

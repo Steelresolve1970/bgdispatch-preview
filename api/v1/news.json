@@ -2,8 +2,8 @@
  "api_version": "1",
  "dataset": "news",
  "description": "Steelers headlines from beat writers, national outlets and blogs, with our one-line summaries and links to the publisher.",
- "generated": "2026-10-22T04:24:37+00:00",
- "data_updated": "2026-10-22T04:23:10+00:00",
+ "generated": "2026-10-22T18:10:54+00:00",
+ "data_updated": "2026-10-22T18:09:27+00:00",
  "count": 150,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
@@ -20,6 +20,1059 @@
  "html": "https://blackandgolddispatch.com/#/",
  "items": [
   {
+   "id": "59bc9f1e4f6a1c99",
+   "type": "news",
+   "title": "Steelers fan event at Bastille bar canceled amid civil unrest in Paris",
+   "summary": "News story from ESPN. Full report at the original publisher.",
+   "url": "https://www.espn.com/nfl/story/_/id/50250407/steelers-fan-event-paris-canceled-amid-civil-unrest",
+   "source": {
+    "name": "ESPN",
+    "url": null
+   },
+   "published": "2026-10-22T18:53:27+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "69ec871d9267d9d6",
+   "type": "news",
+   "title": "Steelers fans leave Pittsburgh for Paris as first-ever NFL game in the city nears",
+   "summary": "Game story from WTAE. Full report at the original publisher.",
+   "url": "https://www.wtae.com/article/yinzers-paris-steelers-game-from-pittsburgh/74218502",
+   "source": {
+    "name": "WTAE",
+    "url": null
+   },
+   "published": "2026-10-22T17:51:00+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "337cc4d7e95694a3",
+   "type": "news",
+   "title": "Steelers Set To Land Bargain Trade Deal With Former Patrick Graham Defender",
+   "summary": "Trade/roster move story from SteelerNation. Full report at the original publisher.",
+   "url": "https://www.steelernation.com/2026/10/22/steelers-bargain-trade-patrick-graham",
+   "source": {
+    "name": "SteelerNation",
+    "url": null
+   },
+   "published": "2026-10-22T17:48:59+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "995aec66c37b94f7",
+   "type": "news",
+   "title": "'We finally busted our way through': Raiders dethrone Pittsburgh in 1976 AFC title game | Thrilling Moments",
+   "summary": "Game story from Raiders.com. Full report at the original publisher.",
+   "url": "https://www.raiders.com/video/look-back-raiders-dethrone-pittsburgh-1976-afc-title-game-thrilling-moments",
+   "source": {
+    "name": "Raiders.com",
+    "url": null
+   },
+   "published": "2026-10-22T17:31:42+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "77537b3d190268a7",
+   "type": "news",
+   "title": "Pittsburgh Steelers 2026 Week 7 Depth Chart",
+   "summary": "News story from Steelers Now. Full report at the original publisher.",
+   "url": "https://steelersnow.com/pittsburgh-steelers-2025-depth-chart/",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   },
+   "published": "2026-10-22T17:23:59+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "5caf14e52c33222d",
+   "type": "news",
+   "title": "Steelers injury leaves Gabriel Rubio facing a golden NFL opportunity",
+   "summary": "Injury story from Still Curtain. Full report at the original publisher.",
+   "url": "https://stillcurtain.com/pittsburgh-steelers-sebastian-joseph-day-injury-leaves-gabriel-rubio-golden-nfl-opportunity-01m5j7djme4b?utm_source=RSS",
+   "source": {
+    "name": "Still Curtain",
+    "url": null
+   },
+   "published": "2026-10-22T17:21:05+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "62f44ce5a5ce2060",
+   "type": "news",
+   "title": "Steelers place DT Sebastian Joseph-Day on IR",
+   "summary": "Injury story from The Mighty 790 KFGO. Full report at the original publisher.",
+   "url": "https://kfgo.com/2026/10/22/steelers-place-dt-sebastian-joseph-day-on-ir/",
+   "source": {
+    "name": "The Mighty 790 KFGO",
+    "url": null
+   },
+   "published": "2026-10-22T17:19:38+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "7e778483cefc29e7",
+   "type": "news",
+   "title": "Pittsburgh Steelers 2026 53-Man Roster, Practice Squad",
+   "summary": "Injury story from Steelers Now. Full report at the original publisher.",
+   "url": "https://steelersnow.com/pittsburgh-steelers-player-roster/",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   },
+   "published": "2026-10-22T17:13:04+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "02117f7fdb5c96e9",
+   "type": "news",
+   "title": "Kendre Miller, Kaden Elliss, Martin Emerson Jr., Spencer Rattler press conference | Saints vs. Steelers 2026 NFL Week 7",
+   "summary": "Game story from New Orleans Saints | NewOrleansSaints.com. Full report at the original publisher.",
+   "url": "https://www.neworleanssaints.com/video/kendre-miller-kaden-elliss-martin-emerson-jr-spencer-rattler-press-conference-saints-vs-steelers-2026-nfl-week-7-october-22-2026",
+   "source": {
+    "name": "New Orleans Saints | NewOrleansSaints.com",
+    "url": null
+   },
+   "published": "2026-10-22T17:09:49+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "049b865a0fd6b7a6",
+   "type": "news",
+   "title": "Steelers fan event in Paris canceled following recent civil unrest in capital",
+   "summary": "Game story from FOX Sports. Full report at the original publisher.",
+   "url": "https://www.foxsports.com/articles/nfl/steelers-fan-event-in-paris-canceled-following-recent-civil-unrest-in-capital",
+   "source": {
+    "name": "FOX Sports",
+    "url": null
+   },
+   "published": "2026-10-22T17:09:02+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "7933867e66b3be19",
+   "type": "news",
+   "title": "Steelers Fans Find Out Referees Sabotaged Chris Boswell's Important Field Goal Attempt",
+   "summary": "News story from SteelerNation. Full report at the original publisher.",
+   "url": "https://www.steelernation.com/2026/10/22/steelers-sabotaged-chris-boswell-important",
+   "source": {
+    "name": "SteelerNation",
+    "url": null
+   },
+   "published": "2026-10-22T17:03:30+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "ddb286f981cc3b51",
+   "type": "news",
+   "title": "Steelers staffers began planning for their Paris trip — and its logistical obstacles — in June",
+   "summary": "News story from Pittsburgh Post-Gazette. Full report at the original publisher.",
+   "url": "https://www.post-gazette.com/sports/steelers/2026/10/22/steelers-paris-trip-planning/stories/202610220046",
+   "source": {
+    "name": "Pittsburgh Post-Gazette",
+    "url": null
+   },
+   "published": "2026-10-22T17:00:00+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "0722549d69fb291f",
+   "type": "news",
+   "title": "CBS Reveals Steelers-Browns Week 8 Broadcast Team",
+   "summary": "News story from Steelers Depot. Full report at the original publisher.",
+   "url": "https://steelersdepot.com/2026/10/cbs-reveals-steelers-browns-week-8-broadcast-team/",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null
+   },
+   "published": "2026-10-22T16:57:22+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "71e60590a91c64fd",
+   "type": "news",
+   "title": "Phil Galiano, Doug Nussmeier, Brandon Staley press conference | Saints vs. Steelers 2026 NFL Week 7",
+   "summary": "Game story from New Orleans Saints | NewOrleansSaints.com. Full report at the original publisher.",
+   "url": "https://www.neworleanssaints.com/video/phil-galiano-doug-nussmeier-brandon-staley-press-conference-saints-vs-steelers-2026-nfl-week-7-october-21-20262",
+   "source": {
+    "name": "New Orleans Saints | NewOrleansSaints.com",
+    "url": null
+   },
+   "published": "2026-10-22T16:55:38+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "5a32540ef1e7400c",
+   "type": "news",
+   "title": "Steelers' DK Metcalf Earns Unusual Praise From Trai Essex For Blocking Through A Slow Start",
+   "summary": "News story from SteelerNation. Full report at the original publisher.",
+   "url": "https://www.steelernation.com/2026/10/22/steelers-dk-metcalf-unusual-praise",
+   "source": {
+    "name": "SteelerNation",
+    "url": null
+   },
+   "published": "2026-10-22T16:50:23+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "b46a321f467d7ed6",
+   "type": "news",
+   "title": "Steelers' Patrick Graham Reveals Key Focus For Pittsburgh's Defense In Week 7 Against New Orleans",
+   "summary": "News story from SteelerNation. Full report at the original publisher.",
+   "url": "https://www.steelernation.com/2026/10/22/steelers-patrick-graham-focus-new-orleans",
+   "source": {
+    "name": "SteelerNation",
+    "url": null
+   },
+   "published": "2026-10-22T16:48:06+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "deffea3f791602e4",
+   "type": "news",
+   "title": "Pittsburgh Steelers place DE Joseph-Day on Reserve/Injured List",
+   "summary": "Injury story from Audacy. Full report at the original publisher.",
+   "url": "https://www.audacy.com/937thefan/sports/pittsburgh-steelers/steelers-injured",
+   "source": {
+    "name": "Audacy",
+    "url": null
+   },
+   "published": "2026-10-22T16:19:00+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "b938a86db8214d93",
+   "type": "news",
+   "title": "Injury Bug Bites Steelers DL Hard | Steelers Morning Rush",
+   "summary": "Injury story from Steelers Now. Full report at the original publisher.",
+   "url": "https://steelersnow.com/injury-bug-bites-steelers-dl-hard-steelers-morning-rush/",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   },
+   "published": "2026-10-22T16:14:29+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "00d60ff1b106a170",
+   "type": "news",
+   "title": "Steelers Sights & Sounds: DT Gabriel Rubio Readying to Step Up",
+   "summary": "News story from Steelers Now. Full report at the original publisher.",
+   "url": "https://steelersnow.com/steelers-sights-sounds-dt-gabriel-rubio-readying-to-step-up/",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   },
+   "published": "2026-10-22T16:14:02+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "b3af1cd5cdb475c6",
+   "type": "news",
+   "title": "Steelers Make Quick Move As Veteran Defender Hits Injured Reserve",
+   "summary": "Injury story from SteelerNation. Full report at the original publisher.",
+   "url": "https://www.steelernation.com/2026/10/22/steelers-quick-move-injured-reserve",
+   "source": {
+    "name": "SteelerNation",
+    "url": null
+   },
+   "published": "2026-10-22T16:08:29+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "e8811d585d880ee8",
+   "type": "news",
+   "title": "Steelers Get Bad News on Sebastian Joseph-Day",
+   "summary": "News story from Steelers Now. Full report at the original publisher.",
+   "url": "https://steelersnow.com/steelers-get-bad-news-on-sebastian-joseph-day/",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   },
+   "published": "2026-10-22T16:02:09+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "72f74c142853da73",
+   "type": "news",
+   "title": "Preparing the field for Sunday’s NFL game in Paris began months ago at an Italian farm near Milan",
+   "summary": "Game story from Bozeman Daily Chronicle. Full report at the original publisher.",
+   "url": "https://www.bozemandailychronicle.com/wire/sports/preparing-the-field-for-sunday-s-nfl-game-in-paris-began-months-ago-at-an/article_0a7e87ac-c052-5504-b44c-19f1f568aeb6.html",
+   "source": {
+    "name": "Bozeman Daily Chronicle",
+    "url": null
+   },
+   "published": "2026-10-22T16:01:30+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "04a9eb5d2f21ce56",
+   "type": "news",
+   "title": "Steelers could see their playoff odds change dramatically in Week 7",
+   "summary": "News story from Still Curtain. Full report at the original publisher.",
+   "url": "https://stillcurtain.com/pittsburgh-steelers-could-see-playoff-odds-change-dramatically-week-7-01m5hxbbsg5h?utm_source=RSS",
+   "source": {
+    "name": "Still Curtain",
+    "url": null
+   },
+   "published": "2026-10-22T16:00:49+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "077ce1d78e08a36c",
+   "type": "news",
+   "title": "Steelers news: Jalen Ramsey looks to continue fantastic start",
+   "summary": "News story from Behind the Steel Curtain. Full report at the original publisher.",
+   "url": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176693/steelers-news-jalen-ramsey-looks-to-continue-fantastic-start",
+   "source": {
+    "name": "Behind the Steel Curtain",
+    "url": null
+   },
+   "published": "2026-10-22T16:00:00+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "fa88b5442465e206",
+   "type": "news",
+   "title": "Steelers Defensive Lineman Reveals Eye-Opening Weight",
+   "summary": "News story from Steelers Now. Full report at the original publisher.",
+   "url": "https://steelersnow.com/steelers-defensive-lineman-reveals-eye-opening-weight/",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   },
+   "published": "2026-10-22T16:00:00+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "95eec70bbc3ecdbd",
+   "type": "news",
+   "title": "Steelers put Sebastian Joseph-Day on injured reserve",
+   "summary": "Injury story from Yahoo Sports. Full report at the original publisher.",
+   "url": "https://sports.yahoo.com/articles/steelers-put-sebastian-joseph-day-155924967.html",
+   "source": {
+    "name": "Yahoo Sports",
+    "url": null
+   },
+   "published": "2026-10-22T15:59:24+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "193b03cb0cf156d4",
+   "type": "news",
+   "title": "Steelers place DE Sebastian Joseph-Day on IR",
+   "summary": "Injury story from Behind the Steel Curtain. Full report at the original publisher.",
+   "url": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176702/steelers-place-de-sebastian-joseph-day-on-ir-sebastian-joseph-day",
+   "source": {
+    "name": "Behind the Steel Curtain",
+    "url": null
+   },
+   "published": "2026-10-22T15:56:57+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "d7587a55b14a854d",
+   "type": "news",
+   "title": "Steelers place another defensive lineman on IR",
+   "summary": "Injury story from Yahoo Sports. Full report at the original publisher.",
+   "url": "https://sports.yahoo.com/articles/steelers-place-another-defensive-lineman-155657558.html",
+   "source": {
+    "name": "Yahoo Sports",
+    "url": null
+   },
+   "published": "2026-10-22T15:56:57+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "b2c9e53d850d6237",
+   "type": "news",
+   "title": "Steelers Place DL Sebastian Joseph-Day On Injured Reserve",
+   "summary": "Injury story from Steelers Depot. Full report at the original publisher.",
+   "url": "https://steelersdepot.com/2026/10/steelers-place-dl-sebastian-joseph-day-on-injured-reserve/",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null
+   },
+   "published": "2026-10-22T15:51:22+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "694834c0dbc25d1f",
+   "type": "news",
+   "title": "Steelers place Joseph-Day on Reserve/Injured List",
+   "summary": "Injury story from Steelers.com (official). Full report at the original publisher.",
+   "url": "https://www.steelers.com/news/steelers-place-joseph-day-on-reserve-injured-list",
+   "source": {
+    "name": "Steelers.com (official)",
+    "url": null
+   },
+   "published": "2026-10-22T15:45:03+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "6fd2b840fadecd98",
+   "type": "news",
+   "title": "Steelers Face Major Hurdle In Pursuit Of Several Intriguing WR Targets",
+   "summary": "News story from SteelerNation. Full report at the original publisher.",
+   "url": "https://www.steelernation.com/2026/10/22/steelers-major-hurdle-intriguing",
+   "source": {
+    "name": "SteelerNation",
+    "url": null
+   },
+   "published": "2026-10-22T15:36:15+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "3483063cd8e4558d",
+   "type": "news",
+   "title": "Steelers fan event in Paris cancelled by NFL",
+   "summary": "News story from Behind the Steel Curtain. Full report at the original publisher.",
+   "url": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176694/steelers-fan-event-in-paris-cancelled-by-nfl",
+   "source": {
+    "name": "Behind the Steel Curtain",
+    "url": null
+   },
+   "published": "2026-10-22T15:13:01+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "0dc5c35102125b71",
+   "type": "news",
+   "title": "Steelers Player Reveals What NFL Told Them About Safety Risk For Paris Game",
+   "summary": "Game story from Steelers Depot. Full report at the original publisher.",
+   "url": "https://steelersdepot.com/2026/10/steelers-player-reveals-what-nfl-told-them-about-safety-risk-for-paris-game/",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null
+   },
+   "published": "2026-10-22T15:00:15+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "d405f76bd068db63",
+   "type": "news",
+   "title": "Aggressive Vs. Reckless: Evaluating Steelers' Mike McCarthy’s Goal-Line Philosophy In Tight Games",
+   "summary": "Game story from SteelerNation. Full report at the original publisher.",
+   "url": "https://www.steelernation.com/2026/10/22/steelers-aggressive-reckless-evaluating",
+   "source": {
+    "name": "SteelerNation",
+    "url": null
+   },
+   "published": "2026-10-22T14:54:58+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "d4f097aa5431dd2c",
+   "type": "news",
+   "title": "Former NFL WR Calls Germie Bernard ‘The Most Pittsburgh-Like Receiver’ Steelers Have Had Since Hines Ward",
+   "summary": "News story from Steelers Depot. Full report at the original publisher.",
+   "url": "https://steelersdepot.com/2026/10/former-nfl-wr-calls-germie-bernard-the-most-pittsburgh-like-receiver-steelers-have-had-since-hines-ward/",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null
+   },
+   "published": "2026-10-22T14:45:54+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "969bc8b8498fe4ad",
+   "type": "news",
+   "title": "Steelers owner Art Rooney II says the NFL will have heightened security in Paris, but ‘they don’t seem to be concerned’",
+   "summary": "News story from Pittsburgh Post-Gazette. Full report at the original publisher.",
+   "url": "https://www.post-gazette.com/sports/steelers/2026/10/22/nfl-paris-game-protests-security-measures/stories/202610220043",
+   "source": {
+    "name": "Pittsburgh Post-Gazette",
+    "url": null
+   },
+   "published": "2026-10-22T14:41:14+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "12dc947fb818abbe",
+   "type": "news",
+   "title": "Can Home Field Advantage Really Change The Odds For The Pittsburgh Steelers?",
+   "summary": "Opinion story from SteelerNation. Full report at the original publisher.",
+   "url": "https://www.steelernation.com/2026/10/22/steelers-home-field-advantage-odds",
+   "source": {
+    "name": "SteelerNation",
+    "url": null
+   },
+   "published": "2026-10-22T14:40:59+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "4efdafcc36a8d670",
+   "type": "news",
+   "title": "Kyle Brandt reports live from Paris, France to preview Steelers-Saints",
+   "summary": "Game story from NFL.com. Full report at the original publisher.",
+   "url": "https://www.nfl.com/videos/kyle-brandt-reports-live-from-paris-france-to-preview-steelers-saints",
+   "source": {
+    "name": "NFL.com",
+    "url": null
+   },
+   "published": "2026-10-22T14:37:21+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "64b2a1f0ec2b720f",
+   "type": "news",
+   "title": "Rookie Gennings Dunker Details How He’s Improving While On Injured Reserve",
+   "summary": "Injury story from Steelers Depot. Full report at the original publisher.",
+   "url": "https://steelersdepot.com/2026/10/rookie-gennings-dunker-details-how-hes-improving-while-on-injured-reserve/",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null
+   },
+   "published": "2026-10-22T14:30:47+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "80c2c82e000c2c50",
+   "type": "news",
+   "title": "Ray Fittipaldo's Steelers chat transcript: 10.22.26",
+   "summary": "News story from Pittsburgh Post-Gazette. Full report at the original publisher.",
+   "url": "https://www.post-gazette.com/sports/steelers/2026/10/22/live-steelers-chat/stories/202610220045",
+   "source": {
+    "name": "Pittsburgh Post-Gazette",
+    "url": null
+   },
+   "published": "2026-10-22T14:30:00+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "4025480f974c9de6",
+   "type": "news",
+   "title": "Steelers' Mike McCarthy Expects Former Assistant Coach To Challenge Pittsburgh In Week 7",
+   "summary": "News story from SteelerNation. Full report at the original publisher.",
+   "url": "https://www.steelernation.com/2026/10/22/steelers-mike-mccarthy-coach-challenge",
+   "source": {
+    "name": "SteelerNation",
+    "url": null
+   },
+   "published": "2026-10-22T14:27:00+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "e4ed95e877a0f655",
+   "type": "news",
+   "title": "Study: Pittsburgh Steelers Are Creating An Impressive YAC Attack",
+   "summary": "News story from Steelers Depot. Full report at the original publisher.",
+   "url": "https://steelersdepot.com/2026/10/study-pittsburgh-is-creating-an-impressive-yac-attack/",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null
+   },
+   "published": "2026-10-22T14:15:58+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "ec5001550f009d9a",
+   "type": "news",
+   "title": "Steelers Rookie WR Germie Bernard Speaks out on Aaron Rodgers",
+   "summary": "News story from Heavy.com. Full report at the original publisher.",
+   "url": "https://heavy.com/sports/nfl/pittsburgh-steelers/aaron-rodgers-germie-bernard-nfl-news-heyward-podcast/",
+   "source": {
+    "name": "Heavy.com",
+    "url": null
+   },
+   "published": "2026-10-22T14:07:03+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "9f3b1919b428b1d4",
+   "type": "news",
+   "title": "Pittsburgh Steelers",
+   "summary": "News story from Oskaloosa Herald. Full report at the original publisher.",
+   "url": "https://www.oskaloosa.com/sports/agate/pittsburgh-steelers/article_56906d92-f714-5631-bbd5-e5910302163b.html",
+   "source": {
+    "name": "Oskaloosa Herald",
+    "url": null
+   },
+   "published": "2026-10-22T14:05:56+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "0a3147d895e0d5ca",
+   "type": "news",
+   "title": "Steelers See Launching Point For Offense From Finish In Tampa: ‘How We Want To Operate’",
+   "summary": "Opinion story from Steelers Depot. Full report at the original publisher.",
+   "url": "https://steelersdepot.com/2026/10/steelers-see-launching-point-for-offense-from-finish-in-tampa-how-we-want-to-operate/",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null
+   },
+   "published": "2026-10-22T14:00:23+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "129a2f063bac9db6",
+   "type": "news",
+   "title": "Matt's Stats: Week 7 vs. Saints",
+   "summary": "Game story from Steelers.com (official). Full report at the original publisher.",
+   "url": "https://www.steelers.com/news/matt-s-stats-week-7-vs-saints",
+   "source": {
+    "name": "Steelers.com (official)",
+    "url": null
+   },
+   "published": "2026-10-22T14:00:15+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "b0ee64d40f3b7a25",
+   "type": "news",
+   "title": "Aaron Rodgers Pried Marquez Valdes-Scantling Away From Chargers",
+   "summary": "News story from Steelers Now. Full report at the original publisher.",
+   "url": "https://steelersnow.com/aaron-rodgers-pried-marquez-valdes-scantling-away-from-chargers/",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   },
+   "published": "2026-10-22T14:00:00+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "bb6d0cf357641afe",
+   "type": "news",
+   "title": "Steelers have an obvious Chris Godwin Jr. trade opportunity they can't ignore",
+   "summary": "Trade/roster move story from Still Curtain. Full report at the original publisher.",
+   "url": "https://stillcurtain.com/pittsburgh-steelers-have-an-obvious-chris-godwin-jr-trade-opportunity-they-can-t-ignore-01m5fra9e66k?utm_source=RSS",
+   "source": {
+    "name": "Still Curtain",
+    "url": null
+   },
+   "published": "2026-10-22T14:00:00+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "6e98b0598d49a8f6",
+   "type": "news",
+   "title": "Steelers' Doneiko Slaughter Turns 2 Roster Cuts Into A Promising Special Teams Opportunity",
+   "summary": "News story from SteelerNation. Full report at the original publisher.",
+   "url": "https://www.steelernation.com/2026/10/22/steelers-doneiko-slaughter-promising-special-teams",
+   "source": {
+    "name": "SteelerNation",
+    "url": null
+   },
+   "published": "2026-10-22T13:47:27+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "24bafb122220d931",
+   "type": "news",
+   "title": "Steelers Cancel Fan Event in Paris Amid Social Unrest",
+   "summary": "News story from Steelers Now. Full report at the original publisher.",
+   "url": "https://steelersnow.com/steelers-cancel-fan-event-in-paris-amid-social-unrest/",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   },
+   "published": "2026-10-22T13:45:13+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "99c6534be570be5c",
+   "type": "news",
+   "title": "‘We Were Letting The Ref Have It’: Kuntz Explains Re-Kick On Boswell’s Critical 58-Yarder",
+   "summary": "News story from Steelers Depot. Full report at the original publisher.",
+   "url": "https://steelersdepot.com/2026/10/we-were-letting-the-ref-have-it-kuntz-explains-re-kick-on-boswells-critical-58-yarder/",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null
+   },
+   "published": "2026-10-22T13:45:11+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "de0b70c0f0d37bbf",
+   "type": "news",
+   "title": "NFL cancels Steelers Fan House event in Paris",
+   "summary": "News story from ProFootballTalk (NBC). Full report at the original publisher.",
+   "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-cancels-steelers-fan-house-event-in-paris",
+   "source": {
+    "name": "ProFootballTalk (NBC)",
+    "url": null
+   },
+   "published": "2026-10-22T13:43:51+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "d606ad811398c605",
+   "type": "news",
+   "title": "Steelers finding new ways to win as young players step into bigger roles",
+   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
+   "url": "https://www.steelcityunderground.com/2026/10/22/steelers-finding-new-ways-to-win-as-young-players-step-into-bigger-roles/",
+   "source": {
+    "name": "Steel City Underground",
+    "url": null
+   },
+   "published": "2026-10-22T13:41:16+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "bd2e7565edf3af8c",
+   "type": "news",
+   "title": "Saints Could Have One Big Advantage over Steelers",
+   "summary": "News story from Steelers Now. Full report at the original publisher.",
+   "url": "https://steelersnow.com/saints-could-have-one-big-advantage-over-steelers/",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   },
+   "published": "2026-10-22T13:30:49+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "34626efb31a58459",
+   "type": "news",
+   "title": "NFL Paris: Saints HC Moore demands consistency vs. Steelers",
+   "summary": "Game story from DAZN. Full report at the original publisher.",
+   "url": "https://www.dazn.com/en-US/news/football/saints-steelers-kellen-moore-preparation-nfl-paris-game/yrizv2ofgb3u1o43m54z0bows",
+   "source": {
+    "name": "DAZN",
+    "url": null
+   },
+   "published": "2026-10-22T13:30:44+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "30c4fde43a248fc6",
+   "type": "news",
+   "title": "Morning Break: Saints begin practice in France, Martin Emerson Jr. earns NFC honors",
+   "summary": "Injury story from New Orleans Saints | NewOrleansSaints.com. Full report at the original publisher.",
+   "url": "https://www.neworleanssaints.com/news/morning-break-saints-begin-practice-in-france-martin-emerson-jr-earns-nfc-honors-new-orleans-news-headlines-10-22-2026",
+   "source": {
+    "name": "New Orleans Saints | NewOrleansSaints.com",
+    "url": null
+   },
+   "published": "2026-10-22T13:01:45+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "e2165cdcf649550a",
+   "type": "news",
+   "title": "Germie Bernard Corrects One Misconception About DK Metcalf",
+   "summary": "News story from Steelers Depot. Full report at the original publisher.",
+   "url": "https://steelersdepot.com/2026/10/germie-bernard-corrects-one-misconception-about-dk-metcalf/",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null
+   },
+   "published": "2026-10-22T13:00:18+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "82455b205a8c2f5b",
+   "type": "news",
+   "title": "Steelers fans, unfazed by French unrest, find Paris to be far from terrible",
+   "summary": "News story from Pittsburgh Post-Gazette. Full report at the original publisher.",
+   "url": "https://www.post-gazette.com/sports/steelers/2026/10/22/steelers-game-fans-paris-protests-riots/stories/202610220044",
+   "source": {
+    "name": "Pittsburgh Post-Gazette",
+    "url": null
+   },
+   "published": "2026-10-22T13:00:00+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "455e11fe779f447b",
+   "type": "news",
+   "title": "Steelers' Mike Tomlin Explains Why Joey Porter Jr's Contract Talks Died At Week 1 Deadline",
+   "summary": "Trade/roster move story from Steeler Nation. Full report at the original publisher.",
+   "url": "https://www.steelernation.com/2026/10/22/steelers-mike-tomlin-joey-porter-deadline",
+   "source": {
+    "name": "Steeler Nation",
+    "url": null
+   },
+   "published": "2026-10-22T12:54:22+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "bfa00f37b9c2f8ae",
+   "type": "news",
+   "title": "Analyst Proposes Steelers Trade For Veteran Defender",
+   "summary": "Trade/roster move story from Steelers Depot. Full report at the original publisher.",
+   "url": "https://steelersdepot.com/2026/10/analyst-proposes-steelers-trade-for-veteran-defender/",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null
+   },
+   "published": "2026-10-22T12:30:03+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "f67124779746a7cd",
+   "type": "news",
+   "title": "Beat Writer Sees Only One Position For Which Steelers Would Make A Trade",
+   "summary": "Trade/roster move story from Steelers Depot. Full report at the original publisher.",
+   "url": "https://steelersdepot.com/2026/10/beat-writer-sees-only-one-position-for-which-steelers-would-make-trade/",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null
+   },
+   "published": "2026-10-22T12:00:58+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "215b7593c009bd19",
+   "type": "news",
+   "title": "Patrick Graham is seeing what Steelers hoped for from Keeanu Benton this season",
+   "summary": "News story from Still Curtain. Full report at the original publisher.",
+   "url": "https://stillcurtain.com/patrick-graham-is-seeing-what-pittsburgh-steelers-hoped-for-from-keeanu-benton-this-season-01m5g4cb88bn?utm_source=RSS",
+   "source": {
+    "name": "Still Curtain",
+    "url": null
+   },
+   "published": "2026-10-22T12:00:04+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "4f40bad1f6dde6b8",
+   "type": "news",
+   "title": "Are the young Steelers living up to their new money?",
+   "summary": "Opinion story from Behind the Steel Curtain. Full report at the original publisher.",
+   "url": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176663/are-the-young-steelers-living-up-to-their-new-money-nick-herbig-darnell-washington-keeanu-benton-contract-roster-extension-2023-draft-class",
+   "source": {
+    "name": "Behind the Steel Curtain",
+    "url": null
+   },
+   "published": "2026-10-22T12:00:00+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "3e055aae2d97a054",
+   "type": "news",
+   "title": "Steelers Daily News & Links: Germie Bernard Got Cussed Out by Teammate; Playing in Paris Bad Look for NFL?",
+   "summary": "Opinion story from Steelers Now. Full report at the original publisher.",
+   "url": "https://steelersnow.com/steelers-daily-germie-bernard-got-cussed-out-by-teammate-playing-in-paris-bad-look-for-nfl/",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   },
+   "published": "2026-10-22T11:49:34+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "c986c957158ec2e6",
+   "type": "news",
+   "title": "‘A Beautiful Example:’ Mike Tomlin Reveals What He Loves Most About Cam Heyward",
+   "summary": "News story from Steelers Depot. Full report at the original publisher.",
+   "url": "https://steelersdepot.com/2026/10/a-beautiful-example-mike-tomlin-reveals-what-he-loves-most-about-cam-heyward/",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null
+   },
+   "published": "2026-10-22T11:15:02+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "560f0912df7848f5",
+   "type": "news",
+   "title": "Steelers Stock Watch 2026 – S DeShon Elliott",
+   "summary": "News story from Steelers Depot. Full report at the original publisher.",
+   "url": "https://steelersdepot.com/2026/10/steelers-stock-watch-2026-s-deshon-elliott-2/",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null
+   },
+   "published": "2026-10-22T11:00:58+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "3f839f4eae2d1c74",
+   "type": "news",
+   "title": "Ex-Steelers coach reveals how Browns threw away a potential dynasty in 2018",
+   "summary": "Opinion story from Still Curtain. Full report at the original publisher.",
+   "url": "https://stillcurtain.com/ex-pittsburgh-steelers-coach-reveals-how-browns-threw-away-a-potential-dynasty-in-2018-01m5f4xrg900?utm_source=RSS",
+   "source": {
+    "name": "Still Curtain",
+    "url": null
+   },
+   "published": "2026-10-22T11:00:00+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "7edaa99b548a0221",
+   "type": "news",
+   "title": "Two more key Pittsburgh Steelers players pop up with injuries",
+   "summary": "Injury story from PennLive (Nick Farabaugh). Full report at the original publisher.",
+   "url": "https://www.pennlive.com/steelers/2026/10/two-more-key-pittsburgh-steelers-players-pop-up-with-injuries.html",
+   "source": {
+    "name": "PennLive (Nick Farabaugh)",
+    "url": null
+   },
+   "published": "2026-10-22T11:00:00+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "37321c63678e302b",
+   "type": "news",
+   "title": "‘Can Be That Dude’: Vince Williams Sees Superstar Potential In Payton Wilson",
+   "summary": "News story from Steelers Depot. Full report at the original publisher.",
+   "url": "https://steelersdepot.com/2026/10/can-be-that-dude-vince-williams-sees-superstar-potential-in-payton-wilson/",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null
+   },
+   "published": "2026-10-22T10:30:17+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "a751d369b6680916",
+   "type": "news",
+   "title": "Marquez Valdes-Scantling Expects ‘Fairly Quick’ Acclimation: ‘There’s A Lot Of Carryover’",
+   "summary": "News story from Steelers Depot. Full report at the original publisher.",
+   "url": "https://steelersdepot.com/2026/10/marquez-valdes-scantling-expects-fairly-quick-acclimation-theres-a-lot-of-carryover/",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null
+   },
+   "published": "2026-10-22T10:20:54+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "32a4c8ead4e6ab6d",
+   "type": "news",
+   "title": "Asked and Answered: Oct. 22",
+   "summary": "News story from Steelers.com (official). Full report at the original publisher.",
+   "url": "https://www.steelers.com/news/asked-and-answered-oct-22-x1552",
+   "source": {
+    "name": "Steelers.com (official)",
+    "url": null
+   },
+   "published": "2026-10-22T10:05:00+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "3bf23a91c1f054af",
+   "type": "news",
+   "title": "Steelers have every reason to be disappointed by the overhyped 2027 QB class",
+   "summary": "News story from Still Curtain. Full report at the original publisher.",
+   "url": "https://stillcurtain.com/pittsburgh-steelers-have-every-reason-to-be-disappointed-by-the-overhyped-2027-qb-class-01m5a2hawe92?utm_source=RSS",
+   "source": {
+    "name": "Still Curtain",
+    "url": null
+   },
+   "published": "2026-10-22T10:00:02+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "9df95cf69fc3408d",
+   "type": "news",
+   "title": "Roger Goodell says the NFL will play in Paris as planned, even as civil unrest continues to grip France",
+   "summary": "News story from PennLive (Nick Farabaugh). Full report at the original publisher.",
+   "url": "https://www.pennlive.com/steelers/2026/10/roger-goodell-says-the-nfl-will-play-in-paris-as-planned-even-as-civil-unrest-continues-to-grip-france.html",
+   "source": {
+    "name": "PennLive (Nick Farabaugh)",
+    "url": null
+   },
+   "published": "2026-10-22T10:00:00+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "b35dcd5b568bf1d5",
+   "type": "news",
+   "title": "U mad, bro?: Aging Penguins roster and Steelers’ clock management in Tampa have Pittsburgh fans grumbling",
+   "summary": "Opinion story from TribLive. Full report at the original publisher.",
+   "url": "https://triblive.com/sports/u-mad-bro-aging-penguins-roster-and-steelers-clock-management-in-tampa-have-pittsburgh-fans-grumbling/",
+   "source": {
+    "name": "TribLive",
+    "url": null
+   },
+   "published": "2026-10-22T09:59:01+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "2d340a5c61111012",
+   "type": "news",
+   "title": "Saints HC Explains Why He Sees Early Travel As An Advantage Ahead Of Paris Game Vs Steelers",
+   "summary": "Game story from Steelers Depot. Full report at the original publisher.",
+   "url": "https://steelersdepot.com/2026/10/saints-hc-explains-why-early-travel-an-advantage-ahead-of-paris-game-vs-steelers/",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null
+   },
+   "published": "2026-10-22T09:40:34+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "793524d428eaed27",
+   "type": "news",
+   "title": "Whom could the Steelers target at the trade deadline? What's the 2027 QB plan? Mailbag",
+   "summary": "Trade/roster move story from The Athletic. Full report at the original publisher.",
+   "url": "https://www.nytimes.com/athletic/7711597/2026/10/22/pittsburgh-steelers-trade-deadline-targets-future-qb/",
+   "source": {
+    "name": "The Athletic",
+    "url": null
+   },
+   "published": "2026-10-22T09:30:52+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "f50f1d1b7e96ad58",
+   "type": "news",
+   "title": "NFL trade-deadline buyers with most and least salary cap space available",
+   "summary": "Trade/roster move story from The Athletic. Full report at the original publisher.",
+   "url": "https://www.nytimes.com/athletic/7711325/2026/10/22/nfl-trade-deadline-buyers-salary-cap-space/",
+   "source": {
+    "name": "The Athletic",
+    "url": null
+   },
+   "published": "2026-10-22T09:30:50+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "7e976d5665813860",
+   "type": "news",
+   "title": "NFL trade deadline 2026 big board: 50 players who could be dealt before Nov. 10",
+   "summary": "Trade/roster move story from The Athletic. Full report at the original publisher.",
+   "url": "https://www.nytimes.com/athletic/7664102/2026/10/22/nfl-trade-deadline-board-players-available/",
+   "source": {
+    "name": "The Athletic",
+    "url": null
+   },
+   "published": "2026-10-22T09:30:11+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "7c75ca2d20633d8b",
+   "type": "news",
+   "title": "How Will Steelers Divide Snaps Between Asante Samuel Jr. And Daylen Everette?",
+   "summary": "Opinion story from Steelers Depot. Full report at the original publisher.",
+   "url": "https://steelersdepot.com/2026/10/how-will-steelers-divide-snaps-between-asante-samuel-jr-and-daylen-everette/",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null
+   },
+   "published": "2026-10-22T09:00:34+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "793a77402d3b4209",
+   "type": "news",
+   "title": "NFL Week 7 ATS picks: Throw the NFC East's bad records (and the teams, too) in the trash",
+   "summary": "News story from The Athletic. Full report at the original publisher.",
+   "url": "https://www.nytimes.com/athletic/7709332/2026/10/22/nfl-week-7-predictions-betting-picks/",
+   "source": {
+    "name": "The Athletic",
+    "url": null
+   },
+   "published": "2026-10-22T09:00:12+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "42e1fd3201e46d43",
+   "type": "news",
+   "title": "Gretchen’s table: A French tailgate for American football in Paris",
+   "summary": "News story from Pittsburgh Post-Gazette. Full report at the original publisher.",
+   "url": "https://www.post-gazette.com/life/recipes/2026/10/22/parisian-tailgate-steelers-paris-french-menu/stories/202610250003",
+   "source": {
+    "name": "Pittsburgh Post-Gazette",
+    "url": null
+   },
+   "published": "2026-10-22T08:00:00+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
    "id": "ceec840a53052142",
    "type": "news",
    "title": "Another Pittsburgh Steelers defensive lineman goes down with injury",
@@ -30,7 +1083,7 @@
     "url": null
    },
    "published": "2026-10-22T04:22:41+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "007379839908c265",
@@ -43,20 +1096,7 @@
     "url": null
    },
    "published": "2026-10-22T04:00:09+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "d53a71412191a7ec",
-   "type": "news",
-   "title": "Steelers Hope MVS Offers Immediate Help Amid Injuries",
-   "summary": "Injury story from Audacy. Full report at the original publisher.",
-   "url": "https://www.audacy.com/937thefan/sports/pittsburgh-steelers/steelers-hope-mvs-offers-immediate-help-amid-injuries",
-   "source": {
-    "name": "Audacy",
-    "url": null
-   },
-   "published": "2026-10-22T03:14:00+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "c4d23a319ca9c6cb",
@@ -69,25 +1109,12 @@
     "url": null
    },
    "published": "2026-10-22T02:29:00+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "009526d801646bd6",
-   "type": "news",
-   "title": "Can The New Orleans Saints Beat Aaron Rodgers And Pittsburgh Steelers In Paris?",
-   "summary": "Game story from NDTV Sports. Full report at the original publisher.",
-   "url": "https://sports.ndtv.com/us/nfl/can-the-new-orleans-saints-beat-aaron-rodgers-and-pittsburgh-steelers-in-paris-12217920",
-   "source": {
-    "name": "NDTV Sports",
-    "url": null
-   },
-   "published": "2026-10-22T02:26:28+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "1b9a61406f94f5ae",
    "type": "news",
-   "title": "Steelers DB Jalen Ramey named AFC Defensive Player of the Week",
+   "title": "Steelers DB Jalen Ramsey named AFC Defensive Player of the Week",
    "summary": "News story from TribLive. Full report at the original publisher.",
    "url": "https://triblive.com/sports/steelers-db-jalen-ramey-named-afc-defensive-player-of-the-week/",
    "source": {
@@ -95,7 +1122,7 @@
     "url": null
    },
    "published": "2026-10-22T02:13:04+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "de7029ae747b2a54",
@@ -108,7 +1135,7 @@
     "url": null
    },
    "published": "2026-10-22T02:02:42+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "629c58651151239f",
@@ -121,33 +1148,7 @@
     "url": null
    },
    "published": "2026-10-22T01:43:56+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "1bcccea7e3d61363",
-   "type": "news",
-   "title": "Pittsburgh Steelers’ Defense Keeps Changing, and That’s the Point",
-   "summary": "News story from Athlon Sports. Full report at the original publisher.",
-   "url": "https://athlonsports.com/nfl/pittsburgh-steelers/pittsburgh-steelers-defense-patrick-graham-new-orleans-saints",
-   "source": {
-    "name": "Athlon Sports",
-    "url": null
-   },
-   "published": "2026-10-22T01:16:00+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "39cb28a708e30022",
-   "type": "news",
-   "title": "Steelers Insider Claims Offense Faces Massive Disadvantages Playing Essentially 10-On-11",
-   "summary": "Trade/roster move story from SteelerNation. Full report at the original publisher.",
-   "url": "https://www.steelernation.com/2026/10/21/steelers-offense-massive-disadvantages",
-   "source": {
-    "name": "SteelerNation",
-    "url": null
-   },
-   "published": "2026-10-22T01:04:42+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "5ec04cc59490b06f",
@@ -160,7 +1161,7 @@
     "url": null
    },
    "published": "2026-10-22T01:00:24+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "4d1adfac3ba5a443",
@@ -173,7 +1174,7 @@
     "url": null
    },
    "published": "2026-10-22T00:59:11+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "5f1f229ac5636551",
@@ -186,7 +1187,7 @@
     "url": null
    },
    "published": "2026-10-22T00:50:34+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "be19db1c8c1b87f2",
@@ -199,20 +1200,7 @@
     "url": null
    },
    "published": "2026-10-22T00:34:50+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "6a358e321ca8cabd",
-   "type": "news",
-   "title": "Aaron Rodgers, Steelers rolling into historic Paris clash vs. Saints",
-   "summary": "Game story from Tri-City Herald. Full report at the original publisher.",
-   "url": "https://www.tri-cityherald.com/sports/article317724447.html",
-   "source": {
-    "name": "Tri-City Herald",
-    "url": null
-   },
-   "published": "2026-10-22T00:03:06+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "aaeb0dbac5a7f2bb",
@@ -225,7 +1213,7 @@
     "url": null
    },
    "published": "2026-10-22T00:00:39+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "ae072d49128b369d",
@@ -238,33 +1226,7 @@
     "url": null
    },
    "published": "2026-10-21T23:33:36+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "b8d77e41975fc347",
-   "type": "news",
-   "title": "Steelers' Troy Fautanu And Max Iheanachor Face Serious Warning Signs After Bucs Game",
-   "summary": "Trade/roster move story from SteelerNation. Full report at the original publisher.",
-   "url": "https://www.steelernation.com/2026/10/21/steelers-troy-fautanu-max-iheanachor-warning",
-   "source": {
-    "name": "SteelerNation",
-    "url": null
-   },
-   "published": "2026-10-21T23:32:24+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "a18a140bc67aa9a2",
-   "type": "news",
-   "title": "Steelers Get Encouraging Update On Safety DeShon Elliott Ahead Of Return",
-   "summary": "News story from SteelerNation. Full report at the original publisher.",
-   "url": "https://www.steelernation.com/2026/10/21/steelers-safety-deshon-elliott-return",
-   "source": {
-    "name": "SteelerNation",
-    "url": null
-   },
-   "published": "2026-10-21T23:14:06+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "de8ad3c092b8d777",
@@ -277,7 +1239,7 @@
     "url": null
    },
    "published": "2026-10-21T23:07:26+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "5bdf6950ef518cda",
@@ -290,7 +1252,7 @@
     "url": null
    },
    "published": "2026-10-21T23:07:08+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "38796afb448562a7",
@@ -303,20 +1265,7 @@
     "url": null
    },
    "published": "2026-10-21T23:01:00+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "faedff00be221983",
-   "type": "news",
-   "title": "Aaron Rodgers Steered Marquez Valdes-Scantling Away From Chargers Return",
-   "summary": "News story from Steelers Depot. Full report at the original publisher.",
-   "url": "https://steelersdepot.com/2026/10/aaron-rodgers-steered-marquez-valdes-scantling-away-from-chargers-return/",
-   "source": {
-    "name": "Steelers Depot",
-    "url": null
-   },
-   "published": "2026-10-21T23:00:55+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "246b096e91d3101e",
@@ -329,7 +1278,7 @@
     "url": null
    },
    "published": "2026-10-21T22:40:06+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "a70e1b74e4c68b4b",
@@ -342,33 +1291,7 @@
     "url": null
    },
    "published": "2026-10-21T22:34:53+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "6df594045912b13c",
-   "type": "news",
-   "title": "Steelers' Cameron Heyward Reveals How 1 Teammate Hit The \"Rookie Wall\" Hard",
-   "summary": "Opinion story from SteelerNation. Full report at the original publisher.",
-   "url": "https://www.steelernation.com/2026/10/21/steelers-cameron-heyward-reveals-rookie-wall",
-   "source": {
-    "name": "SteelerNation",
-    "url": null
-   },
-   "published": "2026-10-21T22:30:51+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "4b76b261dc009eca",
-   "type": "news",
-   "title": "Steelers prepare days ahead of NFL’s first-ever game in Paris",
-   "summary": "Game story from WPXI. Full report at the original publisher.",
-   "url": "https://www.wpxi.com/sports/nfl/pittsburgh-steelers/steelers-prepare-days-ahead-nfls-first-ever-game-paris/DVNSDVKNLZCWNOTOAQ45GDOULI/",
-   "source": {
-    "name": "WPXI",
-    "url": null
-   },
-   "published": "2026-10-21T22:08:37+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "7f74b103dc5b3947",
@@ -381,7 +1304,7 @@
     "url": null
    },
    "published": "2026-10-21T22:06:28+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "3ef58a18176340d8",
@@ -394,72 +1317,33 @@
     "url": null
    },
    "published": "2026-10-21T21:56:47+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
-   "id": "a47989cc3ca8562a",
+   "id": "cf7f4bdbf8b5ae8f",
    "type": "news",
-   "title": "Elliott returns to full practice, full injury report",
-   "summary": "Injury story from Audacy. Full report at the original publisher.",
-   "url": "https://www.audacy.com/937thefan/sports/pittsburgh-steelers/elliott-returns-to-full-practice-full-injury-report",
+   "title": "Steelers Starting OLB Suffers Groin Injury",
+   "summary": "Injury story from All Steelers (Sports Illustrated). Full report at the original publisher.",
+   "url": "https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-starting-alex-highsmith-suffers-groin-injury",
    "source": {
-    "name": "Audacy",
+    "name": "All Steelers (Sports Illustrated)",
     "url": null
    },
-   "published": "2026-10-21T21:54:00+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "published": "2026-10-21T21:51:20+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
-   "id": "cf032c681184ef45",
+   "id": "18b325c6ec518174",
    "type": "news",
-   "title": "Steelers Veteran Cornerback Misses Practice With Injury",
-   "summary": "Injury story from Steelers Now. Full report at the original publisher.",
-   "url": "https://steelersnow.com/steelers-veteran-cornerback-misses-practice-with-injury/",
+   "title": "Saints Wednesday Injury Report: 2026 Week 7 vs. Pittsburgh Steelers",
+   "summary": "Injury story from New Orleans Saints | NewOrleansSaints.com. Full report at the original publisher.",
+   "url": "https://www.neworleanssaints.com/news/injury-report-pittsburgh-steelers-vs-new-orleans-saints-2026-nfl-week-7-wednesday",
    "source": {
-    "name": "Steelers Now",
+    "name": "New Orleans Saints | NewOrleansSaints.com",
     "url": null
    },
-   "published": "2026-10-21T21:53:24+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "825a24751358040d",
-   "type": "news",
-   "title": "Injury Hampers Steelers RB Before Saints Game",
-   "summary": "Injury story from Steelers Now. Full report at the original publisher.",
-   "url": "https://steelersnow.com/injury-hampers-steelers-rb-before-saints-game/",
-   "source": {
-    "name": "Steelers Now",
-    "url": null
-   },
-   "published": "2026-10-21T21:47:32+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "e4f12f851afd3bc7",
-   "type": "news",
-   "title": "Saints’ Week 7 Wednesday Injury Report: QB Tyler Shough Practices In Full, Two Others DNP",
-   "summary": "Injury story from Steelers Depot. Full report at the original publisher.",
-   "url": "https://steelersdepot.com/2026/10/saints-week-7-wednesday-injury-report-qb-tyler-shough-practices-in-full-two-others-dnp/",
-   "source": {
-    "name": "Steelers Depot",
-    "url": null
-   },
-   "published": "2026-10-21T21:43:03+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "6f57904e35d541bb",
-   "type": "news",
-   "title": "Steelers Get Another Promising Sign of DeShon Elliott Return",
-   "summary": "Trade/roster move story from Steelers Now. Full report at the original publisher.",
-   "url": "https://steelersnow.com/steelers-get-another-promising-sign-of-deshon-elliott-return/",
-   "source": {
-    "name": "Steelers Now",
-    "url": null
-   },
-   "published": "2026-10-21T21:37:33+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "published": "2026-10-21T21:40:40+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "ce055ce50aec5ad5",
@@ -472,124 +1356,7 @@
     "url": null
    },
    "published": "2026-10-21T21:30:31+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "335253e9ea68a2d9",
-   "type": "news",
-   "title": "Listen: The Terrible Take (Episode 2,057)",
-   "summary": "News story from Steelers Depot. Full report at the original publisher.",
-   "url": "https://steelersdepot.com/2026/10/listen-the-terrible-take-episode-2057/",
-   "source": {
-    "name": "Steelers Depot",
-    "url": null
-   },
-   "published": "2026-10-21T21:30:24+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "8577c3aed5983f34",
-   "type": "news",
-   "title": "Steelers WR DK Metcalf Leads NFL in Key Receiving Stat",
-   "summary": "News story from Steelers Now. Full report at the original publisher.",
-   "url": "https://steelersnow.com/steelers-wr-dk-metcalf-leads-nfl-in-key-receiving-stat/",
-   "source": {
-    "name": "Steelers Now",
-    "url": null
-   },
-   "published": "2026-10-21T21:27:35+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "508b40f6a3134fdf",
-   "type": "news",
-   "title": "Steelers’ Week Seven Wednesday Injury Report: Team Deals With Multiple New Injuries",
-   "summary": "Injury story from Steelers Depot. Full report at the original publisher.",
-   "url": "https://steelersdepot.com/2026/10/steelers-week-seven-wednesday-injury-report-team-deals-with-multiple-new-injuries/",
-   "source": {
-    "name": "Steelers Depot",
-    "url": null
-   },
-   "published": "2026-10-21T21:25:10+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "9bb2c8fefeab272b",
-   "type": "news",
-   "title": "Steelers' Mike McCarthy Pushes Back On Revealing Question About Aaron Rodgers' Usage",
-   "summary": "News story from SteelerNation. Full report at the original publisher.",
-   "url": "https://www.steelernation.com/2026/10/21/steelers-mike-mccarthy-revealing-usage",
-   "source": {
-    "name": "SteelerNation",
-    "url": null
-   },
-   "published": "2026-10-21T21:17:30+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "b71928cf3c7c614f",
-   "type": "news",
-   "title": "‘Go As Late As Humanly Possible’: J.J. Watt Prefers Steelers’ Paris Travel Plan Over The Saints’",
-   "summary": "News story from Steelers Depot. Full report at the original publisher.",
-   "url": "https://steelersdepot.com/2026/10/go-as-late-as-humanly-possible-j-j-watt-prefers-steelers-paris-travel-plan-over-the-saints/",
-   "source": {
-    "name": "Steelers Depot",
-    "url": null
-   },
-   "published": "2026-10-21T21:15:04+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "f0f7c7122ada9fb5",
-   "type": "news",
-   "title": "Yahya Black Reveals His Weight In Mic’d Up Moment Against Buccaneers",
-   "summary": "News story from Steelers Depot. Full report at the original publisher.",
-   "url": "https://steelersdepot.com/2026/10/yahya-black-reveals-his-weight-in-micd-up-moment-against-buccaneers/",
-   "source": {
-    "name": "Steelers Depot",
-    "url": null
-   },
-   "published": "2026-10-21T20:57:51+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "28359084a15faa92",
-   "type": "news",
-   "title": "Steelers' Omar Khan Gets Strong Warning About Dangerous Trade Deadline Strategy",
-   "summary": "Trade/roster move story from SteelerNation. Full report at the original publisher.",
-   "url": "https://www.steelernation.com/2026/10/21/steelers-omar-khan-strong-warning",
-   "source": {
-    "name": "SteelerNation",
-    "url": null
-   },
-   "published": "2026-10-21T20:43:51+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "d2e5562e4ae0ba6d",
-   "type": "news",
-   "title": "Rookie Report Card: Steelers Vs Buccaneers (Week 6)",
-   "summary": "Game story from Steelers Depot. Full report at the original publisher.",
-   "url": "https://steelersdepot.com/2026/10/rookie-report-card-steelers-vs-buccaneers-week-6/",
-   "source": {
-    "name": "Steelers Depot",
-    "url": null
-   },
-   "published": "2026-10-21T20:30:35+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "fc0259e8362751e0",
-   "type": "news",
-   "title": "Steelers Rookie Tackle Max Iheanachor Dealing with Hand Injury",
-   "summary": "Injury story from Steelers Now. Full report at the original publisher.",
-   "url": "https://steelersnow.com/steelers-rookie-tackle-max-iheanachor-dealing-with-hand-injury/",
-   "source": {
-    "name": "Steelers Now",
-    "url": null
-   },
-   "published": "2026-10-21T20:27:53+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "a7468b981cd165ba",
@@ -602,59 +1369,7 @@
     "url": null
    },
    "published": "2026-10-21T20:26:35+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "413233594d4d5a99",
-   "type": "news",
-   "title": "Steelers' Germie Bernard's Mistake Brought A Strong Response On Sideline: \"What The F*** Are You Doing?\"",
-   "summary": "Opinion story from SteelerNation. Full report at the original publisher.",
-   "url": "https://www.steelernation.com/2026/10/21/steelers-germie-bernards-strong-doing",
-   "source": {
-    "name": "SteelerNation",
-    "url": null
-   },
-   "published": "2026-10-21T20:21:30+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "39e138b02112b68f",
-   "type": "news",
-   "title": "Mike McCarthy Reacts To Steelers Signing Marquez Valdes-Scantling, Discusses Potential Role",
-   "summary": "Trade/roster move story from Steelers Depot. Full report at the original publisher.",
-   "url": "https://steelersdepot.com/2026/10/mike-mccarthy-reacts-to-steelers-signing-marquez-valdes-scantling-discusses-potential-role/",
-   "source": {
-    "name": "Steelers Depot",
-    "url": null
-   },
-   "published": "2026-10-21T20:20:27+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "5c4940fd6dbeebfb",
-   "type": "news",
-   "title": "Steelers release S Rayshawn Jenkins",
-   "summary": "Trade/roster move story from ProFootballTalk (NBC). Full report at the original publisher.",
-   "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-release-s-rayshawn-jenkins",
-   "source": {
-    "name": "ProFootballTalk (NBC)",
-    "url": null
-   },
-   "published": "2026-10-21T20:16:49+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "81505e843cba03a9",
-   "type": "news",
-   "title": "McCarthy said Steelers prepared, confident for Sunday",
-   "summary": "News story from Audacy. Full report at the original publisher.",
-   "url": "https://www.audacy.com/937thefan/sports/pittsburgh-steelers/mccarthy-said-steelers-prepared-confident-for-sunday",
-   "source": {
-    "name": "Audacy",
-    "url": null
-   },
-   "published": "2026-10-21T20:15:00+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "a64526732c9cfa96",
@@ -667,33 +1382,7 @@
     "url": null
    },
    "published": "2026-10-21T20:11:51+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "4e161f0bf7391a06",
-   "type": "news",
-   "title": "Steelers Sights & Sounds: A Look at WR Marquez Valdes-Scantling",
-   "summary": "News story from Steelers Now. Full report at the original publisher.",
-   "url": "https://steelersnow.com/steelers-sights-sounds-a-look-at-wr-marquez-valdes-scantling/",
-   "source": {
-    "name": "Steelers Now",
-    "url": null
-   },
-   "published": "2026-10-21T20:08:56+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "a5a641905716439f",
-   "type": "news",
-   "title": "\"It's A Lot\": Steelers' Troy Fautanu Gets Honest About Move To Left Tackle",
-   "summary": "News story from SteelerNation. Full report at the original publisher.",
-   "url": "https://www.steelernation.com/2026/10/21/steelers-troy-fautanu-honest-tackle",
-   "source": {
-    "name": "SteelerNation",
-    "url": null
-   },
-   "published": "2026-10-21T20:02:44+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "b7f276569999bc57",
@@ -706,7 +1395,7 @@
     "url": null
    },
    "published": "2026-10-21T20:00:02+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "500cd44c3e74a05e",
@@ -719,7 +1408,7 @@
     "url": null
    },
    "published": "2026-10-21T20:00:01+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "43776160e19d5bd5",
@@ -732,7 +1421,7 @@
     "url": null
    },
    "published": "2026-10-21T20:00:00+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "d5dc31f16ff78804",
@@ -745,59 +1434,7 @@
     "url": null
    },
    "published": "2026-10-21T19:54:19+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "a5ad1208533abbf5",
-   "type": "news",
-   "title": "Vince Williams Thinks Asante Samuel Jr. Should Take ‘Back Seat’ To Rookie Daylen Everette",
-   "summary": "Opinion story from Steelers Depot. Full report at the original publisher.",
-   "url": "https://steelersdepot.com/2026/10/vince-williams-thinks-asante-samuel-jr-should-take-back-seat-to-rookie-daylen-everette/",
-   "source": {
-    "name": "Steelers Depot",
-    "url": null
-   },
-   "published": "2026-10-21T19:45:16+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "3f4dcc8727ea298d",
-   "type": "news",
-   "title": "Steelers release safety ahead of DeShon Elliott decision",
-   "summary": "Trade/roster move story from Audacy. Full report at the original publisher.",
-   "url": "https://www.audacy.com/937thefan/sports/pittsburgh-steelers/steelers-roster-2678121518",
-   "source": {
-    "name": "Audacy",
-    "url": null
-   },
-   "published": "2026-10-21T19:45:00+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "f6883b65cd64ca05",
-   "type": "news",
-   "title": "Steelers' Latest Move Abruptly Ends Time With Veteran Defensive Piece",
-   "summary": "News story from SteelerNation. Full report at the original publisher.",
-   "url": "https://www.steelernation.com/2026/10/21/steelers-latest-move-abruptly-ends",
-   "source": {
-    "name": "SteelerNation",
-    "url": null
-   },
-   "published": "2026-10-21T19:35:50+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "bfaee7a530c31fc6",
-   "type": "news",
-   "title": "Steelers Cut Ties with Struggling Safety",
-   "summary": "Trade/roster move story from Steelers Now. Full report at the original publisher.",
-   "url": "https://steelersnow.com/steelers-cut-ties-with-struggling-safety/",
-   "source": {
-    "name": "Steelers Now",
-    "url": null
-   },
-   "published": "2026-10-21T19:23:15+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "24aea4330aba6bc5",
@@ -810,7 +1447,20 @@
     "url": null
    },
    "published": "2026-10-21T19:21:15+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "3a49aa6ca192ab7d",
+   "type": "news",
+   "title": "Steelers Release Veteran Safety Before Paris Trip",
+   "summary": "Trade/roster move story from All Steelers (Sports Illustrated). Full report at the original publisher.",
+   "url": "https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-release-rayshawn-jenkings-paris-trip",
+   "source": {
+    "name": "All Steelers (Sports Illustrated)",
+    "url": null
+   },
+   "published": "2026-10-21T19:17:22+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "a83e1de5760ca26a",
@@ -823,7 +1473,7 @@
     "url": null
    },
    "published": "2026-10-21T19:03:00+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "ddebb1c98d23722b",
@@ -836,46 +1486,7 @@
     "url": null
    },
    "published": "2026-10-21T19:00:00+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "7e324214d78d9bed",
-   "type": "news",
-   "title": "Steelers' Chris Godwin Trade Idea Runs Into Huge Financial Problem",
-   "summary": "Trade/roster move story from SteelerNation. Full report at the original publisher.",
-   "url": "https://www.steelernation.com/2026/10/21/steelers-chris-godwin-huge-problem",
-   "source": {
-    "name": "SteelerNation",
-    "url": null
-   },
-   "published": "2026-10-21T18:52:16+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "c84217e4e8676371",
-   "type": "news",
-   "title": "Saints Head Coach Kellen Moore Opens Up About What He Learned Under Mike McCarthy",
-   "summary": "News story from Steelers Depot. Full report at the original publisher.",
-   "url": "https://steelersdepot.com/2026/10/saints-head-coach-kellen-moore-opens-up-about-what-he-learned-under-mike-mccarthy/",
-   "source": {
-    "name": "Steelers Depot",
-    "url": null
-   },
-   "published": "2026-10-21T18:45:06+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "fd3fe270627beb5c",
-   "type": "news",
-   "title": "‘Can Be A Big-Time Pro Bowl Tackle’: Mark Schlereth Was Wowed Watching Max Iheanachor",
-   "summary": "News story from Steelers Depot. Full report at the original publisher.",
-   "url": "https://steelersdepot.com/2026/10/can-be-a-big-time-pro-bowl-tackle-mark-schlereth-was-wowed-watching-max-iheanachor/",
-   "source": {
-    "name": "Steelers Depot",
-    "url": null
-   },
-   "published": "2026-10-21T18:30:23+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "70ce1777bf84bf1e",
@@ -888,20 +1499,7 @@
     "url": null
    },
    "published": "2026-10-21T18:16:46+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "5594954ecce29280",
-   "type": "news",
-   "title": "Aaron Rodgers Thinks Steelers Have ‘One Of The Smartest Offensive Lines He’s Worked With,’ Former Player Says",
-   "summary": "News story from Steelers Depot. Full report at the original publisher.",
-   "url": "https://steelersdepot.com/2026/10/aaron-rodgers-thinks-steelers-have-one-of-the-smartest-offensive-lines-hes-worked-with-relays-former-player/",
-   "source": {
-    "name": "Steelers Depot",
-    "url": null
-   },
-   "published": "2026-10-21T18:00:27+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "559a9759692e1a71",
@@ -914,20 +1512,7 @@
     "url": null
    },
    "published": "2026-10-21T18:00:03+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "7d80fd2abeda5b0f",
-   "type": "news",
-   "title": "Colin Cowherd Suggests NFL Intentionally Manipulated Start Of Steelers’ 2026 Schedule",
-   "summary": "News story from Steelers Depot. Full report at the original publisher.",
-   "url": "https://steelersdepot.com/2026/10/colin-cowherd-suggests-nfl-intentionally-manipulated-start-of-steelers-2026-schedule/",
-   "source": {
-    "name": "Steelers Depot",
-    "url": null
-   },
-   "published": "2026-10-21T17:50:31+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "aa1233eb5bfc2bbe",
@@ -940,46 +1525,7 @@
     "url": null
    },
    "published": "2026-10-21T17:19:52+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "36d3aa7887fb5e54",
-   "type": "news",
-   "title": "‘Aaron Rodgers Has Proven No One Wrong’: Cris Carter Not Impressed With Steelers QB",
-   "summary": "News story from Steelers Depot. Full report at the original publisher.",
-   "url": "https://steelersdepot.com/2026/10/aaron-rodgers-has-proven-no-one-wrong-cris-carter-not-impressed-with-steelers-qb/",
-   "source": {
-    "name": "Steelers Depot",
-    "url": null
-   },
-   "published": "2026-10-21T17:15:49+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "e89f2bb3b79659e8",
-   "type": "news",
-   "title": "Steelers Offense a One-Trick Pony? | Steelers Morning Rush",
-   "summary": "Opinion story from Steelers Now. Full report at the original publisher.",
-   "url": "https://steelersnow.com/steelers-offense-a-one-trick-pony-steelers-morning-rush/",
-   "source": {
-    "name": "Steelers Now",
-    "url": null
-   },
-   "published": "2026-10-21T17:07:00+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "a16450dbaaadd5c1",
-   "type": "news",
-   "title": "Patrick Graham ‘Getting A Handle’ On How To Run Steelers’ Defense, Thinks Former GM",
-   "summary": "Opinion story from Steelers Depot. Full report at the original publisher.",
-   "url": "https://steelersdepot.com/2026/10/patrick-graham-getting-a-handle-on-how-to-run-steelers-defense-thinks-former-gm/",
-   "source": {
-    "name": "Steelers Depot",
-    "url": null
-   },
-   "published": "2026-10-21T17:00:10+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "0735134a93d04123",
@@ -992,46 +1538,7 @@
     "url": null
    },
    "published": "2026-10-21T17:00:00+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "4e820f59025ae556",
-   "type": "news",
-   "title": "Kool-Aid McKinstry, Quincy Riley, Devaugh Vele, Justin Reid, Isaiah Stalbird press conference | Saints vs. Steelers 2026 NFL Week 7",
-   "summary": "Game story from New Orleans Saints | NewOrleansSaints.com. Full report at the original publisher.",
-   "url": "https://www.neworleanssaints.com/video/kool-aid-mckinstry-quincy-riley-devaugh-vele-justin-reid-isaiah-stalbird-press-conference-saints-vs-steelers-2026-nfl-week-7-october-21-2026",
-   "source": {
-    "name": "New Orleans Saints | NewOrleansSaints.com",
-    "url": null
-   },
-   "published": "2026-10-21T16:59:05+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "bf54383d85747408",
-   "type": "news",
-   "title": "Mickey Loomis on Saints roster, Paris game | Saints vs. Steelers 2026 NFL Week 7",
-   "summary": "Game story from New Orleans Saints | NewOrleansSaints.com. Full report at the original publisher.",
-   "url": "https://www.neworleanssaints.com/video/mickey-loomis-interview-saints-vs-steelers-2026-nfl-week-7-october-21-2026",
-   "source": {
-    "name": "New Orleans Saints | NewOrleansSaints.com",
-    "url": null
-   },
-   "published": "2026-10-21T16:53:44+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "2670ece13a6fe62e",
-   "type": "news",
-   "title": "The Terrible Podcast — Steelers Vs. Buccaneers All-22 Review, Valdes-Scantling Return, Monday Pressers Recap & More",
-   "summary": "Game story from Steelers Depot. Full report at the original publisher.",
-   "url": "https://steelersdepot.com/2026/10/the-terrible-podcast-steelers-vs-buccaneers-all-22-review-valdes-scantling-return-monday-pressers-recap-more/",
-   "source": {
-    "name": "Steelers Depot",
-    "url": null
-   },
-   "published": "2026-10-21T16:46:02+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "501df1b8aaf880dd",
@@ -1044,7 +1551,7 @@
     "url": null
    },
    "published": "2026-10-21T16:39:36+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "edbc8e59daa2a465",
@@ -1057,7 +1564,7 @@
     "url": null
    },
    "published": "2026-10-21T16:39:36+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "68e057aeafd5b11b",
@@ -1070,20 +1577,7 @@
     "url": null
    },
    "published": "2026-10-21T16:33:46+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "ee44178ca47e013c",
-   "type": "news",
-   "title": "Jalen Ramsey Named AFC Defensive Player of the Week",
-   "summary": "News story from Steelers Now. Full report at the original publisher.",
-   "url": "https://steelersnow.com/jalen-ramsey-named-afc-defensive-player-of-the-week/",
-   "source": {
-    "name": "Steelers Now",
-    "url": null
-   },
-   "published": "2026-10-21T16:23:49+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "856b95a76bfc274d",
@@ -1096,7 +1590,7 @@
     "url": null
    },
    "published": "2026-10-21T16:00:01+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "8fa78cac8e1b963f",
@@ -1109,7 +1603,7 @@
     "url": null
    },
    "published": "2026-10-21T15:51:22+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "db06ba0a98f9a081",
@@ -1122,20 +1616,7 @@
     "url": null
    },
    "published": "2026-10-21T15:36:42+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "3a299cf2249e8359",
-   "type": "news",
-   "title": "Saints Will Be Without Key Playmaker vs. Steelers",
-   "summary": "Game story from Steelers Now. Full report at the original publisher.",
-   "url": "https://steelersnow.com/saints-will-be-without-key-playmaker-vs-steelers/",
-   "source": {
-    "name": "Steelers Now",
-    "url": null
-   },
-   "published": "2026-10-21T15:08:19+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "6668b7a5b3efa75a",
@@ -1148,7 +1629,7 @@
     "url": null
    },
    "published": "2026-10-21T15:00:03+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "bb96c631b70b8fee",
@@ -1161,7 +1642,7 @@
     "url": null
    },
    "published": "2026-10-21T15:00:01+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "42c4beeb657d0b19",
@@ -1174,7 +1655,7 @@
     "url": null
    },
    "published": "2026-10-21T14:06:03+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "ba902b430459f834",
@@ -1187,7 +1668,7 @@
     "url": null
    },
    "published": "2026-10-21T14:01:37+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "1490807f3d94721d",
@@ -1200,7 +1681,7 @@
     "url": null
    },
    "published": "2026-10-21T14:00:00+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "f18129405cfca686",
@@ -1213,7 +1694,7 @@
     "url": null
    },
    "published": "2026-10-21T13:00:03+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "49a37a962ae4ea29",
@@ -1226,7 +1707,7 @@
     "url": null
    },
    "published": "2026-10-21T13:00:01+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "27c9ea19ea0342f9",
@@ -1239,7 +1720,20 @@
     "url": null
    },
    "published": "2026-10-21T13:00:00+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
+  },
+  {
+   "id": "c7e06dc551260450",
+   "type": "news",
+   "title": "Steelers at Saints in Paris: How to watch/listen to the game",
+   "summary": "Game story from Steelers.com (official). Full report at the original publisher.",
+   "url": "https://www.steelers.com/news/steelers-at-saints-in-paris-how-to-watch-listen-to-the-game",
+   "source": {
+    "name": "Steelers.com (official)",
+    "url": null
+   },
+   "published": "2026-10-21T13:00:00+00:00",
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "dd96e02d3b7b9af1",
@@ -1252,7 +1746,7 @@
     "url": null
    },
    "published": "2026-10-21T12:15:47+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "d62c97e3894c94c5",
@@ -1265,7 +1759,7 @@
     "url": null
    },
    "published": "2026-10-21T12:00:02+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "b1389e1537ae3a6b",
@@ -1278,7 +1772,7 @@
     "url": null
    },
    "published": "2026-10-21T11:00:04+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "b875732ff7f808b2",
@@ -1291,7 +1785,7 @@
     "url": null
    },
    "published": "2026-10-21T10:16:15+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "1b9cf10893b1b6c9",
@@ -1304,7 +1798,7 @@
     "url": null
    },
    "published": "2026-10-21T10:07:00+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "8e382a5d7f4515fe",
@@ -1317,7 +1811,7 @@
     "url": null
    },
    "published": "2026-10-21T10:00:03+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "2cc20dd7eb4945ed",
@@ -1330,7 +1824,7 @@
     "url": null
    },
    "published": "2026-10-21T10:00:01+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "b065c2468ea57b21",
@@ -1343,7 +1837,7 @@
     "url": null
    },
    "published": "2026-10-21T10:00:00+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "118b61d3bbfca660",
@@ -1356,7 +1850,7 @@
     "url": null
    },
    "published": "2026-10-21T08:00:00+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "47df9d0a12d2bb63",
@@ -1369,7 +1863,7 @@
     "url": null
    },
    "published": "2026-10-20T22:57:29+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "742ddb75b5e204da",
@@ -1382,20 +1876,7 @@
     "url": null
    },
    "published": "2026-10-20T22:00:00+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "d95045be6ac1865d",
-   "type": "news",
-   "title": "Steelers Have Obvious Solution to Third Down Struggles",
-   "summary": "News story from All Steelers (Sports Illustrated). Full report at the original publisher.",
-   "url": "https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-obvious-solution-third-down-struggles",
-   "source": {
-    "name": "All Steelers (Sports Illustrated)",
-    "url": null
-   },
-   "published": "2026-10-20T21:30:00+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "9efd134f8af6709c",
@@ -1408,7 +1889,7 @@
     "url": null
    },
    "published": "2026-10-20T21:02:51+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "257550f28ce86328",
@@ -1421,20 +1902,7 @@
     "url": null
    },
    "published": "2026-10-20T21:00:02+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "8dfe05ccf68f4241",
-   "type": "news",
-   "title": "Steelers Week 7 power rankings roundup: Starting to believe yet?",
-   "summary": "Opinion story from Behind the Steel Curtain. Full report at the original publisher.",
-   "url": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-power-rankings/176618/steelers-week-7-power-rankings-roundup-starting-to-believe-yet",
-   "source": {
-    "name": "Behind the Steel Curtain",
-    "url": null
-   },
-   "published": "2026-10-20T20:27:45+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "44041b0673479a87",
@@ -1447,7 +1915,7 @@
     "url": null
    },
    "published": "2026-10-20T20:18:36+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "db48f8eb3a866aa0",
@@ -1460,7 +1928,7 @@
     "url": null
    },
    "published": "2026-10-20T20:03:16+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "c28a1cb63a964705",
@@ -1473,20 +1941,7 @@
     "url": null
    },
    "published": "2026-10-20T20:00:38+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "edaadb5c3c26ac6f",
-   "type": "news",
-   "title": "Steelers Week 6 grades in win over Buccaneers",
-   "summary": "Game story from Behind the Steel Curtain. Full report at the original publisher.",
-   "url": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176607/steelers-week-6-grades-in-win-over-buccaneers-germie-bernard-dk-metcalf-jalen-ramsey",
-   "source": {
-    "name": "Behind the Steel Curtain",
-    "url": null
-   },
-   "published": "2026-10-20T17:01:36+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "39e19a1835fa6d2a",
@@ -1499,7 +1954,7 @@
     "url": null
    },
    "published": "2026-10-20T16:21:00+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   },
   {
    "id": "3dc35dfa5c11ba66",
@@ -1512,462 +1967,7 @@
     "url": null
    },
    "published": "2026-10-20T16:00:03+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "0aef56f734a28d4d",
-   "type": "news",
-   "title": "Steelers should cash in on Mason Rudolph if the Eagles come calling",
-   "summary": "Opinion story from Still Curtain. Full report at the original publisher.",
-   "url": "https://stillcurtain.com/pittsburgh-steelers-should-cash-in-mason-rudolph-trade-philadelphia-eagles-01m5b9frwbv6?utm_source=RSS",
-   "source": {
-    "name": "Still Curtain",
-    "url": null
-   },
-   "published": "2026-10-20T16:00:01+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "44038ee75b63c9fb",
-   "type": "news",
-   "title": "NFL in Paris: League eyes big debut as Steelers-Saints game comes amid security concerns",
-   "summary": "Game story from TribLive. Full report at the original publisher.",
-   "url": "https://triblive.com/sports/nfl-in-paris-league-eyes-big-debut-as-steelers-saints-game-comes-amid-security-concerns/",
-   "source": {
-    "name": "TribLive",
-    "url": null
-   },
-   "published": "2026-10-20T15:56:05+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "7e11e276689a7330",
-   "type": "news",
-   "title": "Former Steelers first-round pick's NFL career may be on life support",
-   "summary": "News story from Still Curtain. Full report at the original publisher.",
-   "url": "https://stillcurtain.com/former-pittsburgh-steelers-first-round-pick-najee-harris-nfl-career-life-support-01m5cx9yd8td?utm_source=RSS",
-   "source": {
-    "name": "Still Curtain",
-    "url": null
-   },
-   "published": "2026-10-20T15:36:31+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "5f3153e761e18dba",
-   "type": "news",
-   "title": "Steelers Surprises: Unexpected heroes emerge in overtime comeback against Buccaneers",
-   "summary": "News story from Steel City Underground. Full report at the original publisher.",
-   "url": "https://www.steelcityunderground.com/2026/10/20/steelers-surprises-unexpected-heroes-emerge-in-overtime-comeback-against-buccaneers/",
-   "source": {
-    "name": "Steel City Underground",
-    "url": null
-   },
-   "published": "2026-10-20T14:49:26+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "8ce1afc6bf1860f3",
-   "type": "news",
-   "title": "Week 7 odds: Steelers open as slight favorites vs. Saints",
-   "summary": "Game story from Behind the Steel Curtain. Full report at the original publisher.",
-   "url": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-odds/176592/week-7-odds-steelers-open-as-slight-favorites-vs-saints",
-   "source": {
-    "name": "Behind the Steel Curtain",
-    "url": null
-   },
-   "published": "2026-10-20T14:30:00+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "c7e06dc551260450",
-   "type": "news",
-   "title": "Steelers at Saints in Paris: How to watch/listen to the game",
-   "summary": "Game story from Steelers.com (official). Full report at the original publisher.",
-   "url": "https://www.steelers.com/news/steelers-at-saints-in-paris-how-to-watch-listen-to-the-game",
-   "source": {
-    "name": "Steelers.com (official)",
-    "url": null
-   },
-   "published": "2026-10-20T14:30:00+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "8b2fc04a4e1693a1",
-   "type": "news",
-   "title": "Steelers’ dream 2027 quarterback class is already losing its shine",
-   "summary": "News story from Still Curtain. Full report at the original publisher.",
-   "url": "https://stillcurtain.com/pittsburgh-steelers-dream-2027-quarterback-class-is-already-losing-its-shine-01m5b6pz8naq?utm_source=RSS",
-   "source": {
-    "name": "Still Curtain",
-    "url": null
-   },
-   "published": "2026-10-20T14:00:02+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "79e7bd731a6f7d49",
-   "type": "news",
-   "title": "Mark Madden: Steelers fans should embrace comeback win, not nitpick Mike McCarthy’s mistakes",
-   "summary": "Game story from TribLive. Full report at the original publisher.",
-   "url": "https://triblive.com/sports/mark-madden-steelers-fans-should-embrace-comeback-win-not-nitpick-mike-mccarthys-mistakes/",
-   "source": {
-    "name": "TribLive",
-    "url": null
-   },
-   "published": "2026-10-20T13:46:47+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "b633b87bc3970e1b",
-   "type": "news",
-   "title": "Steelers news: NFL not relocating Paris game",
-   "summary": "Game story from Behind the Steel Curtain. Full report at the original publisher.",
-   "url": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176594/steelers-news-nfl-not-relocating-paris-game",
-   "source": {
-    "name": "Behind the Steel Curtain",
-    "url": null
-   },
-   "published": "2026-10-20T13:40:11+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "c096101038f6ee01",
-   "type": "news",
-   "title": "Steelers signing Marquez Valdes-Scantling could make things even worse",
-   "summary": "Trade/roster move story from Still Curtain. Full report at the original publisher.",
-   "url": "https://stillcurtain.com/pittsburgh-steelers-signing-marquez-valdes-scantling-could-make-offense-worse-01m5cmdzgrz1?utm_source=RSS",
-   "source": {
-    "name": "Still Curtain",
-    "url": null
-   },
-   "published": "2026-10-20T13:01:13+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "31262c8e23aed95c",
-   "type": "news",
-   "title": "Steelers should call the Giants after the surprise Cam Skattebo benching",
-   "summary": "Opinion story from Still Curtain. Full report at the original publisher.",
-   "url": "https://stillcurtain.com/pittsburgh-steelers-should-call-the-giants-after-the-surprise-cam-skattebo-benching-01m5arkwgky1?utm_source=RSS",
-   "source": {
-    "name": "Still Curtain",
-    "url": null
-   },
-   "published": "2026-10-20T13:00:00+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "d4ce4b6994a931aa",
-   "type": "news",
-   "title": "Marquez Valdes-Scantling Signing Might Mean Good News for Steelers",
-   "summary": "Trade/roster move story from All Steelers (Sports Illustrated). Full report at the original publisher.",
-   "url": "https://www.si.com/nfl/steelers/onsi/marquez-valdes-scantling-signing-might-good-news-pittsburgh-steelers",
-   "source": {
-    "name": "All Steelers (Sports Illustrated)",
-    "url": null
-   },
-   "published": "2026-10-20T12:37:08+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "c15c80dc95e18d8b",
-   "type": "news",
-   "title": "The shorthanded Steelers are bringing back veteran receiver Marquez Valdes-Scantling",
-   "summary": "News story from Pittsburgh Post-Gazette. Full report at the original publisher.",
-   "url": "https://www.post-gazette.com/sports/steelers/2026/10/20/steelers-sign-mvs/stories/202610200032",
-   "source": {
-    "name": "Pittsburgh Post-Gazette",
-    "url": null
-   },
-   "published": "2026-10-20T12:13:00+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "9935b246d6ec4221",
-   "type": "news",
-   "title": "Buccaneers just showed Steelers why Drew Allar should be Aaron Rodgers' backup",
-   "summary": "Opinion story from Still Curtain. Full report at the original publisher.",
-   "url": "https://stillcurtain.com/buccaneers-just-showed-pittsburgh-steelers-why-drew-allar-should-be-aaron-rodgers-backup-01m5agyy802f?utm_source=RSS",
-   "source": {
-    "name": "Still Curtain",
-    "url": null
-   },
-   "published": "2026-10-20T12:00:04+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "c170b3e65326910d",
-   "type": "news",
-   "title": "Steelers Week 6 grades: Nick Herbig and the defensive line delivered at Tampa Bay",
-   "summary": "Opinion story from Pittsburgh Post-Gazette. Full report at the original publisher.",
-   "url": "https://www.post-gazette.com/sports/steelers/2026/10/20/steelers-player-grades-buccaneers/stories/202610200027",
-   "source": {
-    "name": "Pittsburgh Post-Gazette",
-    "url": null
-   },
-   "published": "2026-10-20T12:00:00+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "ff47dfcfd14f8010",
-   "type": "news",
-   "title": "Plays of the Game: Germie Bernard scores first NFL touchdown to lift Steelers past Buccaneers",
-   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
-   "url": "https://www.steelcityunderground.com/2026/10/20/plays-of-the-game-germie-bernard-scores-first-nfl-touchdown-to-lift-steelers-past-buccaneers/",
-   "source": {
-    "name": "Steel City Underground",
-    "url": null
-   },
-   "published": "2026-10-20T11:47:58+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "710f8fe7c1d70caa",
-   "type": "news",
-   "title": "4 Steelers standouts from their overtime victory over the Buccaneers",
-   "summary": "News story from Still Curtain. Full report at the original publisher.",
-   "url": "https://stillcurtain.com/4-pittsburgh-steelers-standouts-from-their-overtime-victory-over-the-buccaneers-01m5b8avetkk?utm_source=RSS",
-   "source": {
-    "name": "Still Curtain",
-    "url": null
-   },
-   "published": "2026-10-20T11:00:04+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "4407a08f010cd54a",
-   "type": "news",
-   "title": "Steelers' Jalen Ramsey Is Not the Same Player Anymore - And That's Great News",
-   "summary": "News story from All Steelers (Sports Illustrated). Full report at the original publisher.",
-   "url": "https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-jalen-ramsey-not-same-player-anymore-great-news",
-   "source": {
-    "name": "All Steelers (Sports Illustrated)",
-    "url": null
-   },
-   "published": "2026-10-20T11:00:04+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "44f0c20355e38be7",
-   "type": "news",
-   "title": "First Call: Steelers reportedly signing Marquez Valdes-Scantling; a theory on Chris Boswell’s FG miss dismissed",
-   "summary": "Trade/roster move story from TribLive. Full report at the original publisher.",
-   "url": "https://triblive.com/sports/first-call-steelers-reportedly-signing-marquez-valdes-scantling-a-theory-on-chris-boswells-fg-miss-dismissed/",
-   "source": {
-    "name": "TribLive",
-    "url": null
-   },
-   "published": "2026-10-20T10:08:44+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "3b4e645c6af02542",
-   "type": "news",
-   "title": "Asked and Answered: Oct. 20",
-   "summary": "News story from Steelers.com (official). Full report at the original publisher.",
-   "url": "https://www.steelers.com/news/asked-and-answered-oct-20-x3980",
-   "source": {
-    "name": "Steelers.com (official)",
-    "url": null
-   },
-   "published": "2026-10-20T10:05:00+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "0c5c474e6ad53c9a",
-   "type": "news",
-   "title": "Tim Benz: Aaron Rodgers says the quiet part out loud about ‘trajectory-altering’ Steelers win in Tampa",
-   "summary": "Game story from TribLive. Full report at the original publisher.",
-   "url": "https://triblive.com/sports/tim-benz-aaron-rodgers-says-the-quiet-part-out-loud-about-trajectory-altering-steelers-win-in-tampa/",
-   "source": {
-    "name": "TribLive",
-    "url": null
-   },
-   "published": "2026-10-20T10:01:00+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "e545533a8fe33f71",
-   "type": "news",
-   "title": "Cup of Joe (Starkey): Jalen Ramsey delivered a legendary Steelers performance",
-   "summary": "News story from TribLive. Full report at the original publisher.",
-   "url": "https://triblive.com/sports/cup-of-joe-starkey-jalen-ramsey-delivered-a-legendary-steelers-performance/",
-   "source": {
-    "name": "TribLive",
-    "url": null
-   },
-   "published": "2026-10-20T10:01:00+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "2c71bd0e86b90a3d",
-   "type": "news",
-   "title": "Steelers may have an unexpected Browns problem brewing in the AFC North",
-   "summary": "Game story from Still Curtain. Full report at the original publisher.",
-   "url": "https://stillcurtain.com/pittsburgh-steelers-may-have-an-unexpected-browns-problem-brewing-in-the-afc-north-01m5ajtxtv56?utm_source=RSS",
-   "source": {
-    "name": "Still Curtain",
-    "url": null
-   },
-   "published": "2026-10-20T10:00:00+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "01fe387f1b71b426",
-   "type": "news",
-   "title": "This French football podcaster is pumped to support the Steelers on his home turf",
-   "summary": "News story from Pittsburgh Post-Gazette. Full report at the original publisher.",
-   "url": "https://www.post-gazette.com/sports/steelers/2026/10/20/steelers-france-podcast-nfl-paris-game/stories/202610200007",
-   "source": {
-    "name": "Pittsburgh Post-Gazette",
-    "url": null
-   },
-   "published": "2026-10-20T10:00:00+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "a35597084d780be5",
-   "type": "news",
-   "title": "Week 7 NFL power rankings: Bears bounce back as Seahawks, Rams, Eagles continue free fall",
-   "summary": "News story from The Athletic. Full report at the original publisher.",
-   "url": "https://www.nytimes.com/athletic/7704974/2026/10/20/nfl-power-rankings-week-7-bears-seahawks-rams-eagles/",
-   "source": {
-    "name": "The Athletic",
-    "url": null
-   },
-   "published": "2026-10-20T09:30:12+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "482eb34a0e12d98b",
-   "type": "news",
-   "title": "25 players who found their best NFL chapter with the Steelers",
-   "summary": "News story from Still Curtain. Full report at the original publisher.",
-   "url": "https://stillcurtain.com/25-players-who-found-their-best-nfl-chapter-with-the-steelers?utm_source=RSS",
-   "source": {
-    "name": "Still Curtain",
-    "url": null
-   },
-   "published": "2026-10-20T09:00:00+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "7381ab7b5c96568f",
-   "type": "news",
-   "title": "Why Mike McCarthy and the Steelers must run the ball more often on third down",
-   "summary": "Opinion story from Pittsburgh Post-Gazette. Full report at the original publisher.",
-   "url": "https://www.post-gazette.com/sports/steelers/2026/10/20/steelers-third-down-struggles/stories/202610190030",
-   "source": {
-    "name": "Pittsburgh Post-Gazette",
-    "url": null
-   },
-   "published": "2026-10-20T08:00:00+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "737344824f5acccd",
-   "type": "news",
-   "title": "Steelers’ Mike McCarthy backs receivers ‘in the building,’ but open to adding outside help",
-   "summary": "News story from TribLive. Full report at the original publisher.",
-   "url": "https://triblive.com/sports/steelers-mike-mccarthy-backs-receivers-in-the-building-but-open-to-adding-help-from-outside/",
-   "source": {
-    "name": "TribLive",
-    "url": null
-   },
-   "published": "2026-10-20T01:09:57+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "910fdfa7ae0d7f4b",
-   "type": "news",
-   "title": "Steelers players aware of unrest in France, trusting of NFL to provide positive experience in Paris for game",
-   "summary": "Game story from TribLive. Full report at the original publisher.",
-   "url": "https://triblive.com/sports/steelers-players-aware-of-unrest-in-france-trusting-of-nfl-to-provide-positive-experience-in-paris-for-game/",
-   "source": {
-    "name": "TribLive",
-    "url": null
-   },
-   "published": "2026-10-20T00:53:32+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "5a11d67393c38884",
-   "type": "news",
-   "title": "Steelers, Aaron Rodgers to reunite with Marquez Valdes-Scantling: Source",
-   "summary": "News story from The Athletic. Full report at the original publisher.",
-   "url": "https://www.nytimes.com/athletic/7706229/2026/10/19/steelers-aaron-rodgers-marquez-valdes-scantling-signing/",
-   "source": {
-    "name": "The Athletic",
-    "url": null
-   },
-   "published": "2026-10-20T00:39:22+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "7888ec7da4a30285",
-   "type": "news",
-   "title": "Steelers’ travel plans give Saints a 4-day head start in Paris",
-   "summary": "News story from TribLive. Full report at the original publisher.",
-   "url": "https://triblive.com/sports/steelers-travel-plans-give-saints-a-4-day-headstart-in-paris/",
-   "source": {
-    "name": "TribLive",
-    "url": null
-   },
-   "published": "2026-10-20T00:08:25+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "cc16b0c9735f9c2d",
-   "type": "news",
-   "title": "Following the leader, a re-kick and the gist of run defense",
-   "summary": "Game story from Steelers.com (official). Full report at the original publisher.",
-   "url": "https://www.steelers.com/news/following-the-leader-a-re-kick-and-the-gist-of-run-defense",
-   "source": {
-    "name": "Steelers.com (official)",
-    "url": null
-   },
-   "published": "2026-10-20T00:00:00+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "d0817d28e5bb3785",
-   "type": "news",
-   "title": "Playmaking Jalen Ramsey has maybe his best game with Steelers in win vs. Bucs",
-   "summary": "Game story from TribLive. Full report at the original publisher.",
-   "url": "https://triblive.com/sports/playmaking-jalen-ramsey-has-maybe-his-best-game-with-steelers-in-win-vs-bucs/",
-   "source": {
-    "name": "TribLive",
-    "url": null
-   },
-   "published": "2026-10-19T21:22:22+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "172a5966cd07407e",
-   "type": "news",
-   "title": "The protests in France are a ‘continuing conversation’ for the Steelers before their game in Paris",
-   "summary": "Game story from Pittsburgh Post-Gazette. Full report at the original publisher.",
-   "url": "https://www.post-gazette.com/sports/steelers/2026/10/19/steelers-paris-game-france-protests/stories/202610190026",
-   "source": {
-    "name": "Pittsburgh Post-Gazette",
-    "url": null
-   },
-   "published": "2026-10-19T21:21:13+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
-  },
-  {
-   "id": "c312dc50816283b2",
-   "type": "news",
-   "title": "'It goes a long way'",
-   "summary": "News story from Steelers.com (official). Full report at the original publisher.",
-   "url": "https://www.steelers.com/news/it-goes-a-long-way",
-   "source": {
-    "name": "Steelers.com (official)",
-    "url": null
-   },
-   "published": "2026-10-19T21:00:33+00:00",
-   "retrieved": "2026-10-22T04:23:10+00:00"
+   "retrieved": "2026-10-22T18:09:27+00:00"
   }
  ]
 }

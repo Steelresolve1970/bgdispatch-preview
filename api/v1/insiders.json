@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "insiders",
  "description": "Last 3 days of public posts from NFL insiders and Steelers beat writers (links only).",
- "generated": "2026-10-22T04:24:37+00:00",
- "data_updated": "2026-10-22T04:23:14+00:00",
- "count": 25,
+ "generated": "2026-10-22T18:10:54+00:00",
+ "data_updated": "2026-10-22T18:09:31+00:00",
+ "count": 18,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -19,6 +19,39 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/insiders",
  "items": [
+  {
+   "id": "19fb555807f96027",
+   "type": "insider_post",
+   "author": "Christopher Carter (Locked On)",
+   "handle": "@cartercritiques.bsky.social",
+   "platform": "Bluesky",
+   "url": "https://bsky.app/profile/cartercritiques.bsky.social/post/3myhri7mkcs2c",
+   "published": "2026-10-22T13:30:00+00:00",
+   "topics": [],
+   "summary": "@cartercritiques.bsky.social posted about NFL news.",
+   "source": {
+    "name": "Bluesky",
+    "url": null
+   }
+  },
+  {
+   "id": "92e60e6410e65d94",
+   "type": "insider_post",
+   "author": "Christopher Carter (Locked On)",
+   "handle": "@cartercritiques.bsky.social",
+   "platform": "Bluesky",
+   "url": "https://bsky.app/profile/cartercritiques.bsky.social/post/3myhmhywdww2a",
+   "published": "2026-10-22T12:00:00+00:00",
+   "topics": [
+    "the Steelers",
+    "the game"
+   ],
+   "summary": "@cartercritiques.bsky.social posted about the Steelers, the game.",
+   "source": {
+    "name": "Bluesky",
+    "url": null
+   }
+  },
   {
    "id": "7ed3e07b3ca559ea",
    "type": "insider_post",
@@ -282,148 +315,6 @@
     "the game"
    ],
    "summary": "@rapsheet.bsky.social posted about the game.",
-   "source": {
-    "name": "Bluesky",
-    "url": null
-   }
-  },
-  {
-   "id": "04e1d909d9c9015d",
-   "type": "insider_post",
-   "author": "Ian Rapoport",
-   "handle": "@rapsheet.bsky.social",
-   "platform": "Bluesky",
-   "url": "https://bsky.app/profile/rapsheet.bsky.social/post/3myad5355bs2y",
-   "published": "2026-10-19T14:24:00+00:00",
-   "topics": [],
-   "summary": "@rapsheet.bsky.social posted about NFL news.",
-   "source": {
-    "name": "Bluesky",
-    "url": null
-   }
-  },
-  {
-   "id": "92004b207894c22c",
-   "type": "insider_post",
-   "author": "Ian Rapoport",
-   "handle": "@rapsheet.bsky.social",
-   "platform": "Bluesky",
-   "url": "https://bsky.app/profile/rapsheet.bsky.social/post/3myad42vuck2y",
-   "published": "2026-10-19T14:24:00+00:00",
-   "topics": [],
-   "summary": "@rapsheet.bsky.social posted about NFL news.",
-   "source": {
-    "name": "Bluesky",
-    "url": null
-   }
-  },
-  {
-   "id": "f787eb931938ac2f",
-   "type": "insider_post",
-   "author": "Ian Rapoport",
-   "handle": "@rapsheet.bsky.social",
-   "platform": "Bluesky",
-   "url": "https://bsky.app/profile/rapsheet.bsky.social/post/3myacy7yxrc2y",
-   "published": "2026-10-19T14:21:00+00:00",
-   "topics": [
-    "injuries"
-   ],
-   "summary": "@rapsheet.bsky.social posted about injuries.",
-   "source": {
-    "name": "Bluesky",
-    "url": null
-   }
-  },
-  {
-   "id": "605962a1a2c6251c",
-   "type": "insider_post",
-   "author": "Tom Pelissero",
-   "handle": "@tompelissero.bsky.social",
-   "platform": "Bluesky",
-   "url": "https://bsky.app/profile/tompelissero.bsky.social/post/3myabwl2hxk2u",
-   "published": "2026-10-19T14:03:00+00:00",
-   "topics": [],
-   "summary": "@tompelissero.bsky.social posted about NFL news.",
-   "source": {
-    "name": "Bluesky",
-    "url": null
-   }
-  },
-  {
-   "id": "4efe1c85cb002545",
-   "type": "insider_post",
-   "author": "Tom Pelissero",
-   "handle": "@tompelissero.bsky.social",
-   "platform": "Bluesky",
-   "url": "https://bsky.app/profile/tompelissero.bsky.social/post/3myabvz5vp22u",
-   "published": "2026-10-19T14:02:00+00:00",
-   "topics": [],
-   "summary": "@tompelissero.bsky.social posted about NFL news.",
-   "source": {
-    "name": "Bluesky",
-    "url": null
-   }
-  },
-  {
-   "id": "b0002d172265870c",
-   "type": "insider_post",
-   "author": "Ian Rapoport",
-   "handle": "@rapsheet.bsky.social",
-   "platform": "Bluesky",
-   "url": "https://bsky.app/profile/rapsheet.bsky.social/post/3myabt5hxxc24",
-   "published": "2026-10-19T14:01:00+00:00",
-   "topics": [],
-   "summary": "@rapsheet.bsky.social posted about NFL news.",
-   "source": {
-    "name": "Bluesky",
-    "url": null
-   }
-  },
-  {
-   "id": "e9bd28e3dda30fc4",
-   "type": "insider_post",
-   "author": "Tom Pelissero",
-   "handle": "@tompelissero.bsky.social",
-   "platform": "Bluesky",
-   "url": "https://bsky.app/profile/tompelissero.bsky.social/post/3myabule7e22u",
-   "published": "2026-10-19T14:01:00+00:00",
-   "topics": [],
-   "summary": "@tompelissero.bsky.social posted about NFL news.",
-   "source": {
-    "name": "Bluesky",
-    "url": null
-   }
-  },
-  {
-   "id": "8702ede071decba7",
-   "type": "insider_post",
-   "author": "Mike DeFabo (The Athletic)",
-   "handle": "@mikedefabo.bsky.social",
-   "platform": "Bluesky",
-   "url": "https://bsky.app/profile/mikedefabo.bsky.social/post/3myabmxxzoc23",
-   "published": "2026-10-19T13:57:00+00:00",
-   "topics": [
-    "the Steelers"
-   ],
-   "summary": "@mikedefabo.bsky.social posted about the Steelers.",
-   "source": {
-    "name": "Bluesky",
-    "url": null
-   }
-  },
-  {
-   "id": "70312197f49049ac",
-   "type": "insider_post",
-   "author": "Christopher Carter (Locked On)",
-   "handle": "@cartercritiques.bsky.social",
-   "platform": "Bluesky",
-   "url": "https://bsky.app/profile/cartercritiques.bsky.social/post/3mya32jg36y24",
-   "published": "2026-10-19T12:00:00+00:00",
-   "topics": [
-    "the Steelers",
-    "injuries"
-   ],
-   "summary": "@cartercritiques.bsky.social posted about the Steelers, injuries.",
    "source": {
     "name": "Bluesky",
     "url": null
