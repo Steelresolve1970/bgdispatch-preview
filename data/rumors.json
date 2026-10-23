@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T11:32:45.925289+00:00",
+ "generated": "2026-10-23T12:15:12.772405+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -43,6 +43,32 @@
   ]
  },
  "rumors": [
+  {
+   "id": "580bf5aa432e",
+   "title": "4 NFL bottom feeders could give Steelers a trade deadline advantage",
+   "source": "Still Curtain",
+   "link": "https://stillcurtain.com/4-nfl-bottom-feeders-could-give-pittsburgh-steelers-a-trade-deadline-advantage-01m5j23dryvq?utm_source=RSS",
+   "published": "2026-10-23T12:00:00+00:00",
+   "summary": "Trade/roster move story from Still Curtain. Full report at the original publisher.",
+   "tier": "Fan blog",
+   "tier_score": 2,
+   "subjects": [],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-23T12:15:12.772405+00:00",
+   "consensus": {
+    "cluster_id": "580bf5aa432e",
+    "independent_sources": 1,
+    "sources": [
+     "Still Curtain"
+    ],
+    "highest_tier": "Fan blog",
+    "highest_tier_score": 2,
+    "related_ids": []
+   },
+   "updated": "2026-10-23T12:15:12.772405+00:00"
+  },
   {
    "id": "7fd46e561838",
    "title": "4 wide receivers Steelers should target ahead of the NFL trade deadline",
@@ -115,16 +141,18 @@
    "status_link": null,
    "first_seen": "2026-10-23T10:05:24.966196+00:00",
    "consensus": {
-    "cluster_id": "d4ddd02fe987",
-    "independent_sources": 2,
+    "cluster_id": "f2f844c42164",
+    "independent_sources": 3,
     "sources": [
      "AOL.com",
+     "Carlisle Sentinel",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "d4ddd02fe987"
+     "d4ddd02fe987",
+     "f2f844c42164"
     ]
    },
    "updated": "2026-10-23T10:05:24.966196+00:00"
@@ -146,19 +174,54 @@
    "status_link": null,
    "first_seen": "2026-10-23T11:32:45.925289+00:00",
    "consensus": {
-    "cluster_id": "d4ddd02fe987",
-    "independent_sources": 2,
+    "cluster_id": "f2f844c42164",
+    "independent_sources": 3,
     "sources": [
      "AOL.com",
+     "Carlisle Sentinel",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "514b4160b9de"
+     "514b4160b9de",
+     "f2f844c42164"
     ]
    },
    "updated": "2026-10-23T11:32:45.925289+00:00"
+  },
+  {
+   "id": "f2f844c42164",
+   "title": "Steelers linked to trade for Troy Polamalu's nephew",
+   "source": "Carlisle Sentinel",
+   "link": "https://cumberlink.com/sports/professional/nfl/article_955b30d1-5360-53da-9487-2e6fa8ee1615.html",
+   "published": "2026-10-23T09:08:59+00:00",
+   "summary": "Rumor-style report from Carlisle Sentinel on a Steelers roster move. Full details at the source.",
+   "tier": "Aggregator / other",
+   "tier_score": 1,
+   "subjects": [
+    "Troy Polamalu's"
+   ],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-23T12:15:12.772405+00:00",
+   "consensus": {
+    "cluster_id": "f2f844c42164",
+    "independent_sources": 3,
+    "sources": [
+     "AOL.com",
+     "Carlisle Sentinel",
+     "Yahoo Sports"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "514b4160b9de",
+     "d4ddd02fe987"
+    ]
+   },
+   "updated": "2026-10-23T12:15:12.772405+00:00"
   },
   {
    "id": "46b9d884dd04",

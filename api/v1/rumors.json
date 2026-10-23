@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "rumors",
  "description": "Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).",
- "generated": "2026-10-23T11:32:51+00:00",
- "data_updated": "2026-10-23T11:32:45+00:00",
- "count": 75,
+ "generated": "2026-10-23T12:15:21+00:00",
+ "data_updated": "2026-10-23T12:15:12+00:00",
+ "count": 77,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -19,6 +19,35 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/rumors",
  "items": [
+  {
+   "id": "580bf5aa432e",
+   "type": "rumor",
+   "title": "4 NFL bottom feeders could give Steelers a trade deadline advantage",
+   "summary": "Trade/roster move story from Still Curtain. Full report at the original publisher.",
+   "url": "https://stillcurtain.com/4-nfl-bottom-feeders-could-give-pittsburgh-steelers-a-trade-deadline-advantage-01m5j23dryvq?utm_source=RSS",
+   "source": {
+    "name": "Still Curtain",
+    "url": null,
+    "reliability_tier": "Fan blog",
+    "reliability_score": 2
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-23T12:15:12+00:00",
+   "updated": "2026-10-23T12:15:12+00:00",
+   "published": "2026-10-23T12:00:00+00:00",
+   "people": [],
+   "consensus": {
+    "cluster_id": "580bf5aa432e",
+    "independent_sources": 1,
+    "sources": [
+     "Still Curtain"
+    ],
+    "highest_tier": "Fan blog",
+    "highest_tier_score": 2,
+    "related_ids": []
+   }
+  },
   {
    "id": "7fd46e561838",
    "type": "rumor",
@@ -101,16 +130,18 @@
     "Troy Polamalu's"
    ],
    "consensus": {
-    "cluster_id": "d4ddd02fe987",
-    "independent_sources": 2,
+    "cluster_id": "f2f844c42164",
+    "independent_sources": 3,
     "sources": [
      "AOL.com",
+     "Carlisle Sentinel",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "d4ddd02fe987"
+     "d4ddd02fe987",
+     "f2f844c42164"
     ]
    }
   },
@@ -135,16 +166,54 @@
     "Troy Polamalu's"
    ],
    "consensus": {
-    "cluster_id": "d4ddd02fe987",
-    "independent_sources": 2,
+    "cluster_id": "f2f844c42164",
+    "independent_sources": 3,
     "sources": [
      "AOL.com",
+     "Carlisle Sentinel",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "514b4160b9de"
+     "514b4160b9de",
+     "f2f844c42164"
+    ]
+   }
+  },
+  {
+   "id": "f2f844c42164",
+   "type": "rumor",
+   "title": "Steelers linked to trade for Troy Polamalu's nephew",
+   "summary": "Trade/roster move story from Carlisle Sentinel. Full report at the original publisher.",
+   "url": "https://cumberlink.com/sports/professional/nfl/article_955b30d1-5360-53da-9487-2e6fa8ee1615.html",
+   "source": {
+    "name": "Carlisle Sentinel",
+    "url": null,
+    "reliability_tier": "Aggregator / other",
+    "reliability_score": 1
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-23T12:15:12+00:00",
+   "updated": "2026-10-23T12:15:12+00:00",
+   "published": "2026-10-23T09:08:59+00:00",
+   "people": [
+    "Troy Polamalu's"
+   ],
+   "consensus": {
+    "cluster_id": "f2f844c42164",
+    "independent_sources": 3,
+    "sources": [
+     "AOL.com",
+     "Carlisle Sentinel",
+     "Yahoo Sports"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "514b4160b9de",
+     "d4ddd02fe987"
     ]
    }
   },
