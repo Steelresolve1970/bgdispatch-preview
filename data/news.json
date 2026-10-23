@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T19:24:31.625918+00:00",
+ "generated": "2026-10-23T20:09:47.223741+00:00",
  "count": 150,
  "sources": [
   {
@@ -29,8 +29,8 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
-   "steelers_items": 0
+   "status": "ok",
+   "steelers_items": 24
   },
   {
    "source": "Still Curtain",
@@ -60,7 +60,7 @@
    "source": "ESPN",
    "url": "https://www.espn.com/espn/rss/nfl/news",
    "status": "ok",
-   "steelers_items": 2
+   "steelers_items": 1
   },
   {
    "source": "CBS Sports",
@@ -107,12 +107,30 @@
  ],
  "items": [
   {
-   "title": "Steelers' Rodgers backs NFL on holding Paris game despite recent unrest",
-   "source": "ESPN",
-   "link": "https://www.espn.com/nfl/story/_/id/50256507/steelers-rodgers-backs-nfl-paris-game-recent-unrest",
-   "published": "2026-10-23T19:55:04+00:00",
-   "summary": "Game story from ESPN. Full report at the original publisher.",
-   "id": "7d5a3054f6"
+   "title": "NFL Analyst Says the 4-2 Steelers Lack the Firepower to Hold Off the Bengals in the AFC North",
+   "source": "Athlon Sports",
+   "link": "https://athlonsports.com/nfl/pittsburgh-steelers/steelers-firepower-bengals-afc-north-gagnon",
+   "published": "2026-10-23T19:51:55+00:00",
+   "via": "Google News",
+   "summary": "News story from Athlon Sports. Full report at the original publisher.",
+   "id": "98dc02087d"
+  },
+  {
+   "title": "Steelers' Mike McCarthy Detailed His Risky Paris Bet With Cleveland Waiting",
+   "source": "SteelerNation",
+   "link": "https://www.steelernation.com/2026/10/23/steelers-mike-mccarthy-risky-paris-cleveland",
+   "published": "2026-10-23T19:36:38+00:00",
+   "summary": "News story from SteelerNation. Full report at the original publisher.",
+   "id": "d7d600d8ff"
+  },
+  {
+   "title": "How to watch Steelers vs. Saints: TV channel and streaming options for October 25",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/athletic/7717416/2026/10/23/steelers-vs-saints-stream-how-to-watch-oct-25/",
+   "published": "2026-10-23T19:28:17+00:00",
+   "via": "Google News",
+   "summary": "Game story from The New York Times. Full report at the original publisher.",
+   "id": "e98a58aa46"
   },
   {
    "title": "Saints run game hopes to build on recent momentum against Steelers",
@@ -175,11 +193,11 @@
   },
   {
    "title": "Germie Bernard\u2019s production is here to stay for the Steelers",
-   "source": "Behind the Steel Curtain",
-   "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176721/germie-bernards-production-is-here-to-stay-for-the-steelers-aaron-rodgers",
+   "source": "Yahoo Sports",
+   "link": "https://sports.yahoo.com/articles/germie-bernard-production-stay-steelers-183000062.html",
    "published": "2026-10-23T18:30:00+00:00",
-   "summary": "News story from Behind the Steel Curtain. Full report at the original publisher.",
-   "id": "881bf3ff58"
+   "summary": "News story from Yahoo Sports. Full report at the original publisher.",
+   "id": "d905627c8b"
   },
   {
    "title": "Steelers Adding DeShon Elliott Gives Pittsburgh 1 Element The Team Has Been Missing Out On",
@@ -409,14 +427,6 @@
    "published": "2026-10-23T15:31:17+00:00",
    "summary": "News story from SteelerNation. Full report at the original publisher.",
    "id": "d45321ee87"
-  },
-  {
-   "title": "How to watch Steelers vs. Saints: TV channel and streaming options for October 25",
-   "source": "The Athletic",
-   "link": "https://www.nytimes.com/athletic/7717416/2026/10/23/steelers-vs-saints-stream-how-to-watch-oct-25/",
-   "published": "2026-10-23T15:26:07+00:00",
-   "summary": "Game story from The Athletic. Full report at the original publisher.",
-   "id": "e98a58aa46"
   },
   {
    "title": "Gabriel Rubio Acknowledges His \u2018Mistakes Are Blatant,\u2019 But Confidence \u2018Absolutely\u2019 Growing",
@@ -753,14 +763,6 @@
    "id": "30f4214345"
   },
   {
-   "title": "Steelers' Aaron Rodgers Takes Big Issue With Decision Made By Art Rooney II And Mike McCarthy",
-   "source": "SteelerNation",
-   "link": "https://www.steelernation.com/2026/10/23/steelers-aaron-rodgers-big-art-rooney",
-   "published": "2026-10-23T12:27:37+00:00",
-   "summary": "News story from SteelerNation. Full report at the original publisher.",
-   "id": "1e40a09b2e"
-  },
-  {
    "title": "Mike McCarthy Updates T.J. Watt\u2019s Injury Status",
    "source": "Steelers Now",
    "link": "https://steelersnow.com/mike-mccarthy-updates-t-j-watts-injury-status/",
@@ -775,6 +777,14 @@
    "published": "2026-10-23T12:08:51+00:00",
    "summary": "Opinion story from PennLive (Nick Farabaugh). Full report at the original publisher.",
    "id": "b6a691e9e3"
+  },
+  {
+   "title": "Steelers to Watch: Five players who could make the difference against the Saints",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/23/steelers-to-watch-five-players-who-could-make-the-difference-against-the-saints/",
+   "published": "2026-10-23T12:04:25+00:00",
+   "summary": "News story from Steel City Underground. Full report at the original publisher.",
+   "id": "79aa9e2ca3"
   },
   {
    "title": "4 NFL bottom feeders could give Steelers a trade deadline advantage",
@@ -924,15 +934,6 @@
    "id": "1b7071e728"
   },
   {
-   "title": "Pittsburgh Steelers focus on resting up ahead of flight into uneasy France",
-   "source": "WPXI",
-   "link": "https://www.wpxi.com/video/pittsburgh-steelers-focus-resting-up-ahead-flight-into-uneasy-france/4038af57-3f3c-4dc9-bf3a-e6c534e62235/",
-   "published": "2026-10-23T00:17:32+00:00",
-   "via": "Google News",
-   "summary": "News story from WPXI. Full report at the original publisher.",
-   "id": "cbee7f788e"
-  },
-  {
    "title": "Steelers cornerback Jamel Dean prepares for 3rd international game",
    "source": "TribLive",
    "link": "https://triblive.com/sports/steelers-cornerback-jamel-dean-prepares-for-3rd-international-game/",
@@ -1078,6 +1079,15 @@
    "id": "203418c5a5"
   },
   {
+   "title": "Christian Kuntz Reveals What NFL is Telling Steelers About Paris",
+   "source": "All Steelers (Sports Illustrated)",
+   "link": "https://www.si.com/nfl/steelers/onsi/christian-kuntz-reveals-what-nfl-telling-pittsburgh-steelers-paris",
+   "published": "2026-10-22T18:18:35+00:00",
+   "summary": "News story from All Steelers (Sports Illustrated). Full report at the original publisher.",
+   "via": "Google News",
+   "id": "d7720c0a83"
+  },
+  {
    "title": "Steelers place DL Sebastian Joseph-Day on injured reserve",
    "source": "TribLive",
    "link": "https://triblive.com/sports/steelers-place-dl-sebastian-joseph-day-on-injured-reserve/",
@@ -1118,6 +1128,14 @@
    "id": "077ce1d78e"
   },
   {
+   "title": "Steelers place DE Sebastian Joseph-Day on IR",
+   "source": "Behind the Steel Curtain",
+   "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176702/steelers-place-de-sebastian-joseph-day-on-ir-sebastian-joseph-day",
+   "published": "2026-10-22T15:56:57+00:00",
+   "summary": "Injury story from Behind the Steel Curtain. Full report at the original publisher.",
+   "id": "193b03cb0c"
+  },
+  {
    "title": "Steelers place Joseph-Day on Reserve/Injured List",
    "source": "Steelers.com (official)",
    "link": "https://www.steelers.com/news/steelers-place-joseph-day-on-reserve-injured-list",
@@ -1156,6 +1174,14 @@
    "published": "2026-10-22T14:00:00+00:00",
    "summary": "Trade/roster move story from Still Curtain. Full report at the original publisher.",
    "id": "bb6d0cf357"
+  },
+  {
+   "title": "Steelers finding new ways to win as young players step into bigger roles",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/22/steelers-finding-new-ways-to-win-as-young-players-step-into-bigger-roles/",
+   "published": "2026-10-22T13:41:16+00:00",
+   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
+   "id": "d606ad8113"
   },
   {
    "title": "Former Browns HC Slams Steelers' Mike McCarthy, Aaron Rodgers",
@@ -1301,32 +1327,6 @@
    "published": "2026-10-21T22:40:06+00:00",
    "summary": "News story from Steelers.com (official). Full report at the original publisher.",
    "id": "246b096e91"
-  },
-  {
-   "title": "DeShon Elliott takes a big step, but Steelers\u2019 defense gets two new injury concerns",
-   "source": "Still Curtain",
-   "link": "https://stillcurtain.com/deshon-elliott-takes-step-pittsburgh-steelers-defense-gets-new-injury-concerns?utm_source=RSS",
-   "published": "2026-10-21T22:34:53+00:00",
-   "summary": "Injury story from Still Curtain. Full report at the original publisher.",
-   "id": "a70e1b74e4"
-  },
-  {
-   "title": "Steelers Starting OLB Suffers Groin Injury",
-   "source": "All Steelers (Sports Illustrated)",
-   "link": "https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-starting-alex-highsmith-suffers-groin-injury",
-   "published": "2026-10-21T21:51:20+00:00",
-   "summary": "Injury story from All Steelers (Sports Illustrated). Full report at the original publisher.",
-   "via": "Google News",
-   "id": "cf7f4bdbf8"
-  },
-  {
-   "title": "Saints Wednesday Injury Report: 2026 Week 7 vs. Pittsburgh Steelers",
-   "source": "New Orleans Saints | NewOrleansSaints.com",
-   "link": "https://www.neworleanssaints.com/news/injury-report-pittsburgh-steelers-vs-new-orleans-saints-2026-nfl-week-7-wednesday",
-   "published": "2026-10-21T21:40:40+00:00",
-   "via": "Google News",
-   "summary": "Injury story from New Orleans Saints | NewOrleansSaints.com. Full report at the original publisher.",
-   "id": "18b325c6ec"
   }
  ],
  "dropped_bad_links": 0
