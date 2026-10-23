@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-23T21:20:36.125689+00:00",
+ "generated": "2026-10-23T21:32:30.520638+00:00",
  "date_et": "2026-10-23",
  "days": 5,
  "display_days": 2,
- "count": 176,
+ "count": 177,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -90,10 +90,10 @@
    "show": "Steel City Underground",
    "kind": "podcast",
    "url": "https://feeds.feedburner.com/steelcityunderground",
-   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 45,
    "week": 2,
-   "latest": null
+   "latest": "2026-10-22T16:20:16+00:00"
   },
   {
    "show": "Steel City Underground",
@@ -145,9 +145,9 @@
    "kind": "podcast",
    "url": "https://feeds.simplecast.com/TJlnaIkx",
    "status": "ok",
-   "episodes": 1833,
-   "week": 13,
-   "latest": "2026-10-23T12:32:00+00:00"
+   "episodes": 1834,
+   "week": 14,
+   "latest": "2026-10-23T21:12:00+00:00"
   },
   {
    "show": "Steelers Now",
@@ -250,6 +250,14 @@
   }
  ],
  "items": [
+  {
+   "title": "Steelers RB Injured | Aaron Rodgers Fires Back at Paris Trip",
+   "show": "All Steelers Talk",
+   "kind": "podcast",
+   "link": "https://podcasts.apple.com/us/podcast/id1627248534",
+   "published": "2026-10-23T21:12:00+00:00",
+   "summary": "Podcast episode from All Steelers Talk."
+  },
   {
    "title": "The Terrible Take - Episode 2059 - October 23, 2026",
    "show": "The Terrible Podcast (Steelers Depot)",

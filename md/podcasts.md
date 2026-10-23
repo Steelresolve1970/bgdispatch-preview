@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-23T21:20:52+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T21:20:36+00:00._
+_Generated 2026-10-23T21:32:48+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T21:32:30+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Podcast: [Steelers RB Injured | Aaron Rodgers Fires Back at Paris Trip](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-23 21:12 UTC
 - Podcast: [The Terrible Take - Episode 2059 - October 23, 2026](https://podcasts.apple.com/us/podcast/id405990739): The Terrible Podcast (Steelers Depot), 2026-10-23 21:00 UTC
 - Podcast: [Live Shot of Steelers: Game preview in Paris!](https://podcasts.apple.com/us/podcast/id1072021022): DK Pittsburgh Sports, 2026-10-23 20:39 UTC
 - Video: [Pittsburgh meets Paris 🤝🇫🇷](https://www.youtube.com/shorts/lH7u5sp1AWk): Pittsburgh Steelers (official), 2026-10-23 20:33 UTC
