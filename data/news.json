@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T09:04:42.134671+00:00",
+ "generated": "2026-10-23T10:05:00.238761+00:00",
  "count": 150,
  "sources": [
   {
@@ -29,8 +29,8 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "ok",
-   "steelers_items": 24
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "steelers_items": 0
   },
   {
    "source": "Still Curtain",
@@ -84,7 +84,7 @@
    "source": "PennLive (Nick Farabaugh)",
    "url": "https://www.pennlive.com/arc/outboundfeeds/rss/author/nfarabaugh/?outputType=xml",
    "status": "ok",
-   "steelers_items": 25
+   "steelers_items": 26
   },
   {
    "source": "Steelers.com (official)",
@@ -107,6 +107,55 @@
  ],
  "items": [
   {
+   "title": "Germie Bernard award watch: Steelers rookie is suddenly a real OROY threat",
+   "source": "Still Curtain",
+   "link": "https://stillcurtain.com/germie-bernard-award-watch-pittsburgh-steelers-rookie-is-suddenly-a-real-oroy-threat-01m5jc6d3jb7?utm_source=RSS",
+   "published": "2026-10-23T10:00:04+00:00",
+   "summary": "News story from Still Curtain. Full report at the original publisher.",
+   "id": "d585603cf3"
+  },
+  {
+   "title": "Mike McCarthy gives huge update on Steelers star T.J. Watt after going down with injury",
+   "source": "PennLive (Nick Farabaugh)",
+   "link": "https://www.pennlive.com/steelers/2026/10/mike-mccarthy-gives-huge-update-on-steelers-star-tj-watt-after-going-down-with-injury.html",
+   "published": "2026-10-23T09:57:12+00:00",
+   "summary": "Injury story from PennLive (Nick Farabaugh). Full report at the original publisher.",
+   "id": "95de87a6fa"
+  },
+  {
+   "title": "Steelers Cancel Friday Practice Ahead Of Paris Game Due To Inclement Weather",
+   "source": "Steelers Depot",
+   "link": "https://steelersdepot.com/2026/10/steelers-cancel-friday-practice-ahead-of-paris-game-due-to-inclement-weather/",
+   "published": "2026-10-23T09:37:37+00:00",
+   "summary": "Injury story from Steelers Depot. Full report at the original publisher.",
+   "id": "67322a67d1"
+  },
+  {
+   "title": "Are the Browns for real? Trade deadline plans for the Steelers, Ravens, Bengals",
+   "source": "The Athletic",
+   "link": "https://www.nytimes.com/athletic/7711772/2026/10/23/afc-north-trade-deadline-browns/",
+   "published": "2026-10-23T09:30:15+00:00",
+   "summary": "Trade/roster move story from The Athletic. Full report at the original publisher.",
+   "id": "920d43250f"
+  },
+  {
+   "title": "Steelers practice at Stade de France canceled because of bad weather in Paris",
+   "source": "New Haven Register",
+   "link": "https://www.nhregister.com/sports/article/steelers-practice-at-stade-de-france-canceled-22490460.php",
+   "published": "2026-10-23T09:26:33+00:00",
+   "via": "Google News",
+   "summary": "Injury story from New Haven Register. Full report at the original publisher.",
+   "id": "122dc11618"
+  },
+  {
+   "title": "Steelers Officially Arrive In Paris On Friday",
+   "source": "Steelers Depot",
+   "link": "https://steelersdepot.com/2026/10/steelers-officially-arrive-in-paris-on-friday/",
+   "published": "2026-10-23T09:23:07+00:00",
+   "summary": "News story from Steelers Depot. Full report at the original publisher.",
+   "id": "9234569257"
+  },
+  {
    "title": "Can Steelers Continue Strong Run Defense Until Derrick Harmon Returns?",
    "source": "Steelers Depot",
    "link": "https://steelersdepot.com/2026/10/can-steelers-continue-strong-run-defense-until-derrick-harmon-returns/",
@@ -116,12 +165,12 @@
   },
   {
    "title": "Steelers practice at Stade de France canceled because of bad weather",
-   "source": "Rutland Herald",
-   "link": "https://www.rutlandherald.com/sports/pro_national_sports/steelers-practice-at-stade-de-france-canceled-because-of-bad-weather/article_03913281-54aa-5ee0-bb12-e6b01d780f1b.html",
+   "source": "Bozeman Daily Chronicle",
+   "link": "https://www.bozemandailychronicle.com/wire/sports/steelers-practice-at-stade-de-france-canceled-because-of-bad-weather/article_00874cfc-73f3-521b-b0f1-9d7357cb52fa.html",
    "published": "2026-10-23T08:45:09+00:00",
    "via": "Google News",
-   "summary": "Injury story from Rutland Herald. Full report at the original publisher.",
-   "id": "ba5b145a4c"
+   "summary": "Injury story from Bozeman Daily Chronicle. Full report at the original publisher.",
+   "id": "2c66ade31e"
   },
   {
    "title": "Steelers fan event in Paris canceled as 'precautionary measure' after riots",
@@ -131,15 +180,6 @@
    "via": "Google News",
    "summary": "News story from WHP Harrisburg. Full report at the original publisher.",
    "id": "a0dc949941"
-  },
-  {
-   "title": "LIVE: Pittsburgh Steelers press conference ahead of NFL game vs New Orleans Saints in Paris",
-   "source": "www.swiowanewssource.com",
-   "link": "https://www.swiowanewssource.com/video_1917aa92-9b91-5ef4-b714-b586c282e9b9.html",
-   "published": "2026-10-23T08:30:12+00:00",
-   "via": "Google News",
-   "summary": "Game story from www.swiowanewssource.com. Full report at the original publisher.",
-   "id": "274584f799"
   },
   {
    "title": "Steelers fan event at Bastille bar canceled amid civil unrest in Paris",
@@ -214,15 +254,6 @@
    "published": "2026-10-23T00:00:00+00:00",
    "summary": "News story from Behind the Steel Curtain. Full report at the original publisher.",
    "id": "028dc6c137"
-  },
-  {
-   "title": "Pittsburgh couple travels to Paris to support the Steelers",
-   "source": "WTAE",
-   "link": "https://www.wtae.com/article/pittsburgh-steelers-fans-paris/74222101",
-   "published": "2026-10-22T23:59:00+00:00",
-   "via": "Google News",
-   "summary": "News story from WTAE. Full report at the original publisher.",
-   "id": "e02af4d151"
   },
   {
    "title": "Young Steelers DT Keeanu Benton happy to share knowledge with rookie duo",
@@ -729,6 +760,14 @@
    "id": "fa88b54424"
   },
   {
+   "title": "Steelers at Saints in Paris: How to watch/listen to the game",
+   "source": "Steelers.com (official)",
+   "link": "https://www.steelers.com/news/steelers-at-saints-in-paris-how-to-watch-listen-to-the-game",
+   "published": "2026-10-22T16:00:00+00:00",
+   "summary": "Game story from Steelers.com (official). Full report at the original publisher.",
+   "id": "c7e06dc551"
+  },
+  {
    "title": "Steelers place DE Sebastian Joseph-Day on IR",
    "source": "Behind the Steel Curtain",
    "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176702/steelers-place-de-sebastian-joseph-day-on-ir-sebastian-joseph-day",
@@ -751,22 +790,6 @@
    "published": "2026-10-22T15:13:01+00:00",
    "summary": "News story from Behind the Steel Curtain. Full report at the original publisher.",
    "id": "3483063cd8"
-  },
-  {
-   "title": "Steelers Player Reveals What NFL Told Them About Safety Risk For Paris Game",
-   "source": "Steelers Depot",
-   "link": "https://steelersdepot.com/2026/10/steelers-player-reveals-what-nfl-told-them-about-safety-risk-for-paris-game/",
-   "published": "2026-10-22T15:00:15+00:00",
-   "summary": "Game story from Steelers Depot. Full report at the original publisher.",
-   "id": "0dc5c35102"
-  },
-  {
-   "title": "Former NFL WR Calls Germie Bernard \u2018The Most Pittsburgh-Like Receiver\u2019 Steelers Have Had Since Hines Ward",
-   "source": "Steelers Depot",
-   "link": "https://steelersdepot.com/2026/10/former-nfl-wr-calls-germie-bernard-the-most-pittsburgh-like-receiver-steelers-have-had-since-hines-ward/",
-   "published": "2026-10-22T14:45:54+00:00",
-   "summary": "News story from Steelers Depot. Full report at the original publisher.",
-   "id": "d4f097aa54"
   },
   {
    "title": "Steelers owner Art Rooney II says the NFL will have heightened security in Paris, but \u2018they don\u2019t seem to be concerned\u2019",
@@ -816,14 +839,6 @@
    "published": "2026-10-22T14:00:00+00:00",
    "summary": "Trade/roster move story from Still Curtain. Full report at the original publisher.",
    "id": "bb6d0cf357"
-  },
-  {
-   "title": "Steelers finding new ways to win as young players step into bigger roles",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/22/steelers-finding-new-ways-to-win-as-young-players-step-into-bigger-roles/",
-   "published": "2026-10-22T13:41:16+00:00",
-   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
-   "id": "d606ad8113"
   },
   {
    "title": "Former Browns HC Slams Steelers' Mike McCarthy, Aaron Rodgers",
@@ -1203,28 +1218,12 @@
    "id": "49a37a962a"
   },
   {
-   "title": "Steelers at Saints in Paris: How to watch/listen to the game",
-   "source": "Steelers.com (official)",
-   "link": "https://www.steelers.com/news/steelers-at-saints-in-paris-how-to-watch-listen-to-the-game",
-   "published": "2026-10-21T13:00:00+00:00",
-   "summary": "Game story from Steelers.com (official). Full report at the original publisher.",
-   "id": "c7e06dc551"
-  },
-  {
    "title": "Stade de France: An iconic arena",
    "source": "Steelers.com (official)",
    "link": "https://www.steelers.com/news/stade-de-france-an-iconic-arena",
    "published": "2026-10-21T13:00:00+00:00",
    "summary": "News story from Steelers.com (official). Full report at the original publisher.",
    "id": "27c9ea19ea"
-  },
-  {
-   "title": "Steelers have more than international travel to worry about against the Saints",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/21/steelers-have-more-than-international-travel-to-worry-about-against-the-saints/",
-   "published": "2026-10-21T12:15:47+00:00",
-   "summary": "News story from Steel City Underground. Full report at the original publisher.",
-   "id": "dd96e02d3b"
   },
   {
    "title": "Germie Bernard is making Steelers forget all about the Makai Lemon debacle",
