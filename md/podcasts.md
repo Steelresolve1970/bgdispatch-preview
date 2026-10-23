@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-23T23:02:36+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T23:02:20+00:00._
+_Generated 2026-10-23T23:13:17+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T23:13:00+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Video: [Truly iconic 🤩](https://www.youtube.com/shorts/UsVOspTYIBQ): Pittsburgh Steelers (official), 2026-10-23 22:54 UTC
 - Video: [Saints Preview & Predictions | Steelers Afternoon Drive](https://www.youtube.com/watch?v=voEIPYX3YNw): Steelers Now, 2026-10-23 21:57 UTC
 - Video: [THE PITTSBURGH FOOTBALL SHOW, Episode 7, Oct. 23, 2026](https://www.youtube.com/watch?v=m3oM_Pej1Tk): Steelers Now, 2026-10-23 21:51 UTC
 - Podcast: [Steelers RB Injured | Aaron Rodgers Fires Back at Paris Trip](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-23 21:12 UTC
@@ -78,7 +79,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Steelers Night Shift: Week 7 vs. New Orleans Saints](https://podcasts.apple.com/us/podcast/steelers-night-shift-week-7-vs-new-orleans-saints/id1700240934?i=1000797530079): Steelers Afternoon Drive, 2026-10-22 00:37 UTC
 - Video: [Getting DK Metcalf Going? | Steelers Practice Report](https://www.youtube.com/watch?v=tOh3UND3O0A): Steelers Now, 2026-10-21 23:25 UTC
 - Video: [Sights & Sounds: Week 6 Win at Tampa Bay Buccaneers | Pittsburgh Steelers](https://www.youtube.com/watch?v=Trzxzx_RfSs): Pittsburgh Steelers (official), 2026-10-21 23:00 UTC
-- Video: [Coach Mike McCarthy Press Conference (October 21) | Pittsburgh Steelers](https://www.youtube.com/watch?v=2BEQkzVwsWQ): Pittsburgh Steelers (official), 2026-10-21 22:25 UTC
 - Podcast: [DK’s Double Shot of Steelers: Almost Paris!](https://podcasts.apple.com/us/podcast/dks-double-shot-of-steelers-almost-paris/id1072021022?i=1000797519495): DK Pittsburgh Sports, 2026-10-21 22:10 UTC
 - Video: [Can MVS Play Right Away? | Steelers Afternoon Drive](https://www.youtube.com/watch?v=HGSOYSj-8n0): Steelers Now, 2026-10-21 22:04 UTC
 - Podcast: [Can MVS Play Right Away? | Steelers Afternoon Drive](https://podcasts.apple.com/us/podcast/can-mvs-play-right-away-steelers-afternoon-drive/id1700240934?i=1000797512443): Steelers Afternoon Drive, 2026-10-21 22:03 UTC
