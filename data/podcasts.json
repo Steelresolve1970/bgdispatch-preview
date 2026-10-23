@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-23T17:58:02.448956+00:00",
+ "generated": "2026-10-23T18:12:58.516529+00:00",
  "date_et": "2026-10-23",
  "days": 5,
  "display_days": 2,
- "count": 168,
+ "count": 169,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -90,10 +90,10 @@
    "show": "Steel City Underground",
    "kind": "podcast",
    "url": "https://feeds.feedburner.com/steelcityunderground",
-   "status": "ok",
-   "episodes": 45,
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "episodes": 0,
    "week": 2,
-   "latest": "2026-10-22T16:20:16+00:00"
+   "latest": null
   },
   {
    "show": "Steel City Underground",
@@ -218,8 +218,8 @@
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8hodyaoiw297aspKf9QVDA",
    "status": "ok",
    "episodes": 15,
-   "week": 6,
-   "latest": "2026-10-22T15:53:52+00:00"
+   "week": 7,
+   "latest": "2026-10-23T18:00:06+00:00"
   },
   {
    "show": "Footbahlin with Ben Roethlisberger",
@@ -250,6 +250,14 @@
   }
  ],
  "items": [
+  {
+   "title": "The Steelers Play That Changed Elandon Roberts' Career",
+   "show": "Not Just Football with Cam Heyward",
+   "kind": "video",
+   "link": "https://www.youtube.com/watch?v=trO9lggiV-E",
+   "published": "2026-10-23T18:00:06+00:00",
+   "summary": "Video from Not Just Football with Cam Heyward."
+  },
   {
    "title": "Did Steelers Make Travel Mistake? Grand Finale with Jack Hillgrove | THE PITTSBURGH FOOTBALL SHOW",
    "show": "Steelers Now",
@@ -318,7 +326,7 @@
    "title": "Black & Gold Blueprint: Bucs Game Recap and New Orleans Saints Preview",
    "show": "Steel Curtain Network (BTSC)",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/id905962218",
+   "link": "https://podcasts.apple.com/us/podcast/black-gold-blueprint-bucs-game-recap-and-new-orleans/id905962218?i=1000797802785",
    "published": "2026-10-23T15:30:00+00:00",
    "summary": "Podcast episode from Steel Curtain Network (BTSC)."
   },
@@ -366,7 +374,7 @@
    "title": "Let's Ride: Steelers Keys to Victory vs. the Saints, Week 7",
    "show": "Steel Curtain Network (BTSC)",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/id905962218",
+   "link": "https://podcasts.apple.com/us/podcast/lets-ride-steelers-keys-to-victory-vs-the-saints-week-7/id905962218?i=1000797746960",
    "published": "2026-10-23T08:00:00+00:00",
    "summary": "Podcast episode from Steel Curtain Network (BTSC)."
   },
@@ -374,7 +382,7 @@
    "title": "DK's Daily Shot of Steelers: Je voudrais voir \u2026",
    "show": "DK Pittsburgh Sports",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/id1072021022",
+   "link": "https://podcasts.apple.com/us/podcast/dks-daily-shot-of-steelers-je-voudrais-voir/id1072021022?i=1000797748660",
    "published": "2026-10-23T06:27:00+00:00",
    "summary": "Podcast episode from DK Pittsburgh Sports."
   },
@@ -382,7 +390,7 @@
    "title": "Scout\u2019s Eye with Matt Williamson: No bad tactics",
    "show": "DK Pittsburgh Sports",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/id1072021022",
+   "link": "https://podcasts.apple.com/us/podcast/scouts-eye-with-matt-williamson-no-bad-tactics/id1072021022?i=1000797736650",
    "published": "2026-10-23T06:25:00+00:00",
    "summary": "Podcast episode from DK Pittsburgh Sports."
   },
@@ -398,7 +406,7 @@
    "title": "Steelers Rookie Class Answers Call, Ready to Carry Roster? | DeShon Elliott's Return Frees Up DBs",
    "show": "Locked On Steelers",
    "kind": "podcast",
-   "link": "https://lockedonpodcasts.com/podcasts/locked-on-steelers/",
+   "link": "https://podcasts.apple.com/us/podcast/steelers-rookie-class-answers-call-ready-to-carry-roster/id1140522532?i=1000797723898",
    "published": "2026-10-23T04:30:00+00:00",
    "summary": "Podcast episode from Locked On Steelers."
   },
@@ -438,7 +446,7 @@
    "title": "Steelers Preview: Previewing Steelers vs. Saints, Week 7",
    "show": "Steel Curtain Network (BTSC)",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/id905962218",
+   "link": "https://podcasts.apple.com/us/podcast/steelers-preview-previewing-steelers-vs-saints-week-7/id905962218?i=1000797698663",
    "published": "2026-10-23T00:00:00+00:00",
    "summary": "Podcast episode from Steel Curtain Network (BTSC)."
   },
@@ -462,7 +470,7 @@
    "title": "Saints and Steelers Set for Historic Paris Showdown: Key Matchups and Predictions",
    "show": "DK Pittsburgh Sports",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/id1072021022",
+   "link": "https://podcasts.apple.com/us/podcast/saints-and-steelers-set-for-historic-paris-showdown/id1072021022?i=1000797686669",
    "published": "2026-10-22T22:04:00+00:00",
    "summary": "Podcast episode from DK Pittsburgh Sports."
   },
@@ -486,7 +494,7 @@
    "title": "The Terrible Take - Episode 2058 - October 22, 2026",
    "show": "The Terrible Podcast (Steelers Depot)",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/id405990739",
+   "link": "https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2058-october-22-2026/id405990739?i=1000797677347",
    "published": "2026-10-22T21:00:00+00:00",
    "summary": "Podcast episode from The Terrible Podcast (Steelers Depot)."
   },
@@ -510,7 +518,7 @@
    "title": "The Depot Dive - Episode 119 - October 22, 2026",
    "show": "The Terrible Podcast (Steelers Depot)",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/id405990739",
+   "link": "https://podcasts.apple.com/us/podcast/the-depot-dive-episode-119-october-22-2026/id405990739?i=1000797665237",
    "published": "2026-10-22T19:15:00+00:00",
    "summary": "Podcast episode from The Terrible Podcast (Steelers Depot)."
   },

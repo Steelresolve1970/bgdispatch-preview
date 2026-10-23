@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-23T17:58:19+00:00",
- "data_updated": "2026-10-23T17:58:02+00:00",
- "count": 161,
+ "generated": "2026-10-23T18:13:16+00:00",
+ "data_updated": "2026-10-23T18:12:58+00:00",
+ "count": 168,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -19,6 +19,19 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/podcasts",
  "items": [
+  {
+   "id": "d36312a567edc00b",
+   "type": "video",
+   "title": "The Steelers Play That Changed Elandon Roberts' Career",
+   "show": "Not Just Football with Cam Heyward",
+   "url": "https://www.youtube.com/watch?v=trO9lggiV-E",
+   "published": "2026-10-23T18:00:06+00:00",
+   "summary": "Video from Not Just Football with Cam Heyward.",
+   "source": {
+    "name": "Not Just Football with Cam Heyward",
+    "url": null
+   }
+  },
   {
    "id": "10fc5ceca5904bf2",
    "type": "video",
@@ -124,11 +137,11 @@
    }
   },
   {
-   "id": "dd3008860aec9a40",
+   "id": "bf28fddd43933156",
    "type": "podcast_episode",
    "title": "Black & Gold Blueprint: Bucs Game Recap and New Orleans Saints Preview",
    "show": "Steel Curtain Network (BTSC)",
-   "url": "https://podcasts.apple.com/us/podcast/id905962218",
+   "url": "https://podcasts.apple.com/us/podcast/black-gold-blueprint-bucs-game-recap-and-new-orleans/id905962218?i=1000797802785",
    "published": "2026-10-23T15:30:00+00:00",
    "summary": "Podcast episode from Steel Curtain Network (BTSC).",
    "source": {
@@ -202,12 +215,38 @@
    }
   },
   {
-   "id": "7968be70b4f37758",
+   "id": "f2d20e7bf8d7c764",
+   "type": "podcast_episode",
+   "title": "Let's Ride: Steelers Keys to Victory vs. the Saints, Week 7",
+   "show": "Steel Curtain Network (BTSC)",
+   "url": "https://podcasts.apple.com/us/podcast/lets-ride-steelers-keys-to-victory-vs-the-saints-week-7/id905962218?i=1000797746960",
+   "published": "2026-10-23T08:00:00+00:00",
+   "summary": "Podcast episode from Steel Curtain Network (BTSC).",
+   "source": {
+    "name": "Steel Curtain Network (BTSC)",
+    "url": null
+   }
+  },
+  {
+   "id": "c1bd75060f291728",
    "type": "podcast_episode",
    "title": "DK's Daily Shot of Steelers: Je voudrais voir …",
    "show": "DK Pittsburgh Sports",
-   "url": "https://podcasts.apple.com/us/podcast/id1072021022",
+   "url": "https://podcasts.apple.com/us/podcast/dks-daily-shot-of-steelers-je-voudrais-voir/id1072021022?i=1000797748660",
    "published": "2026-10-23T06:27:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
+    "url": null
+   }
+  },
+  {
+   "id": "9cc4217ba95097ee",
+   "type": "podcast_episode",
+   "title": "Scout’s Eye with Matt Williamson: No bad tactics",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://podcasts.apple.com/us/podcast/scouts-eye-with-matt-williamson-no-bad-tactics/id1072021022?i=1000797736650",
+   "published": "2026-10-23T06:25:00+00:00",
    "summary": "Podcast episode from DK Pittsburgh Sports.",
    "source": {
     "name": "DK Pittsburgh Sports",
@@ -228,11 +267,11 @@
    }
   },
   {
-   "id": "50327394adeb9940",
+   "id": "9faba6d77583050d",
    "type": "podcast_episode",
    "title": "Steelers Rookie Class Answers Call, Ready to Carry Roster? | DeShon Elliott's Return Frees Up DBs",
    "show": "Locked On Steelers",
-   "url": "https://lockedonpodcasts.com/podcasts/locked-on-steelers/",
+   "url": "https://podcasts.apple.com/us/podcast/steelers-rookie-class-answers-call-ready-to-carry-roster/id1140522532?i=1000797723898",
    "published": "2026-10-23T04:30:00+00:00",
    "summary": "Podcast episode from Locked On Steelers.",
    "source": {
@@ -293,6 +332,19 @@
    }
   },
   {
+   "id": "30dbd572dd5561ae",
+   "type": "podcast_episode",
+   "title": "Steelers Preview: Previewing Steelers vs. Saints, Week 7",
+   "show": "Steel Curtain Network (BTSC)",
+   "url": "https://podcasts.apple.com/us/podcast/steelers-preview-previewing-steelers-vs-saints-week-7/id905962218?i=1000797698663",
+   "published": "2026-10-23T00:00:00+00:00",
+   "summary": "Podcast episode from Steel Curtain Network (BTSC).",
+   "source": {
+    "name": "Steel Curtain Network (BTSC)",
+    "url": null
+   }
+  },
+  {
    "id": "9222bc099cf336ef",
    "type": "video",
    "title": "Steelers' DeShon Elliott Set to Return from IR, Join Jaquan Brisker, Robert Spears-Jennings in Paris",
@@ -319,6 +371,19 @@
    }
   },
   {
+   "id": "8788ce33274fe34b",
+   "type": "podcast_episode",
+   "title": "Saints and Steelers Set for Historic Paris Showdown: Key Matchups and Predictions",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://podcasts.apple.com/us/podcast/saints-and-steelers-set-for-historic-paris-showdown/id1072021022?i=1000797686669",
+   "published": "2026-10-22T22:04:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
+    "url": null
+   }
+  },
+  {
    "id": "aebe83280244d13d",
    "type": "podcast_episode",
    "title": "Nu Leader on D-Line? | Steelers Afternoon Drive",
@@ -328,6 +393,19 @@
    "summary": "Podcast episode from Steelers Afternoon Drive.",
    "source": {
     "name": "Steelers Afternoon Drive",
+    "url": null
+   }
+  },
+  {
+   "id": "94ec8389d96b2c93",
+   "type": "podcast_episode",
+   "title": "The Terrible Take - Episode 2058 - October 22, 2026",
+   "show": "The Terrible Podcast (Steelers Depot)",
+   "url": "https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2058-october-22-2026/id405990739?i=1000797677347",
+   "published": "2026-10-22T21:00:00+00:00",
+   "summary": "Podcast episode from The Terrible Podcast (Steelers Depot).",
+   "source": {
+    "name": "The Terrible Podcast (Steelers Depot)",
     "url": null
    }
   },
@@ -354,6 +432,19 @@
    "summary": "Video from Steelers Now.",
    "source": {
     "name": "Steelers Now",
+    "url": null
+   }
+  },
+  {
+   "id": "810cac8c37723a74",
+   "type": "podcast_episode",
+   "title": "The Depot Dive - Episode 119 - October 22, 2026",
+   "show": "The Terrible Podcast (Steelers Depot)",
+   "url": "https://podcasts.apple.com/us/podcast/the-depot-dive-episode-119-october-22-2026/id405990739?i=1000797665237",
+   "published": "2026-10-22T19:15:00+00:00",
+   "summary": "Podcast episode from The Terrible Podcast (Steelers Depot).",
+   "source": {
+    "name": "The Terrible Podcast (Steelers Depot)",
     "url": null
    }
   },
