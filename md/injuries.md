@@ -1,6 +1,6 @@
 # Steelers Injury Report
 
-_Generated 2026-10-23T14:19:39+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T13:57:40+00:00._
+_Generated 2026-10-23T14:30:33+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T14:30:24+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/injuries.json_
 
 | Player | Pos | Status | Injury | Est. return | Updated |
@@ -16,6 +16,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/injuries.json_
 | [Logan Lee](https://www.nfl.com/transactions/) | DL | Injured Reserve |  |  |  |
 | [Michael Pittman](https://www.nfl.com/transactions/) | WR | Injured Reserve |  |  |  |
 | [Roman Wilson](https://www.nfl.com/transactions/) | WR | Injured Reserve |  |  |  |
+| [Sebastian Joseph-Day](https://www.nfl.com/transactions/) | DL | Injured Reserve |  |  |  |
 | [Donte Kent](https://www.nfl.com/transactions/) | DB | Physically Unable to Perform |  |  |  |
 
 ---
