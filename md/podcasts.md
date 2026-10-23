@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-23T03:20:39+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T03:20:24+00:00._
+_Generated 2026-10-23T03:32:11+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T03:31:55+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [TBT to when Fast Willie went off against the Saints 💨 📺: #PITvsNO 10/25 at 9:30 AM ET on NFLN](https://www.youtube.com/shorts/a3eiQLf6zSw): Pittsburgh Steelers (official), 2026-10-23 02:27 UTC
@@ -10,11 +10,13 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Steelers' DeShon Elliott Set to Return from IR, Join Jaquan Brisker, Robert Spears-Jennings in Paris](https://www.youtube.com/shorts/KsowgIWMjcA): Locked On Steelers, 2026-10-22 22:14 UTC
 - Video: [Nu Leader on D-Line? | Steelers Afternoon Drive](https://www.youtube.com/watch?v=lnaN5WeNfUQ): Steelers Now, 2026-10-22 22:05 UTC
 - Podcast: [Saints and Steelers Set for Historic Paris Showdown: Key Matchups and Predictions](https://podcasts.apple.com/us/podcast/id1072021022): DK Pittsburgh Sports, 2026-10-22 22:04 UTC
+- Podcast: [Nu Leader on D-Line? | Steelers Afternoon Drive](https://podcasts.apple.com/us/podcast/nu-leader-on-d-line-steelers-afternoon-drive/id1700240934?i=1000797686445): Steelers Afternoon Drive, 2026-10-22 22:03 UTC
 - Podcast: [T.J. Watt Injured Before Paris Game | Steelers Need New DT](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-22 21:30 UTC
 - Podcast: [The Terrible Take - Episode 2058 - October 22, 2026](https://podcasts.apple.com/us/podcast/id405990739): The Terrible Podcast (Steelers Depot), 2026-10-22 21:00 UTC
 - Podcast: [NFL Week 7 Predictions/Pittsburgh Steelers](https://arthurmoats55.libsyn.com/dctm_game_picks_week_7_player_of_the_game_headlinesmp3): The Arthur Moats Experience, 2026-10-22 20:00 UTC
 - Video: [Bringing Vaunted Brand of Defense Overseas | Steelers Practice Report](https://www.youtube.com/watch?v=e7UlYYFDvos): Steelers Now, 2026-10-22 19:56 UTC
 - Video: [Dermontti Dawson & Mel Blount checking in from Paris 🇫🇷](https://www.youtube.com/shorts/0otqWh1Uiu4): Pittsburgh Steelers (official), 2026-10-22 18:57 UTC
+- Podcast: [Injury Bug Bites Steelers DL | Steelers Morning Rush](https://podcasts.apple.com/us/podcast/injury-bug-bites-steelers-dl-steelers-morning-rush/id1700240934?i=1000797649650): Steelers Afternoon Drive, 2026-10-22 16:59 UTC
 - Video: [Can the Steelers keep their winning streak alive in Paris?](https://www.youtube.com/watch?v=4UG7gRw1LHg): Steel City Underground, 2026-10-22 16:28 UTC
 - Podcast: [Can the Steelers keep their winning streak alive in Paris?](https://www.steelcityunderground.com/podcast/2026/10/can-the-steelers-keep-their-winning-streak-alive-in-paris/): Steel City Underground, 2026-10-22 16:20 UTC
 - Podcast: [NFL Week 7 Preview & Picks: EVERY GAME!](https://podcasts.apple.com/us/podcast/nfl-week-7-preview-picks-every-game/id1761398472?i=1000797642974): Check the Mic with Steve Palazzolo & Sam Monson, 2026-10-22 16:13 UTC
