@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-23T18:13:16+00:00",
- "data_updated": "2026-10-23T18:12:58+00:00",
- "count": 168,
+ "generated": "2026-10-23T18:29:55+00:00",
+ "data_updated": "2026-10-23T18:29:37+00:00",
+ "count": 169,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -29,6 +29,19 @@
    "summary": "Video from Not Just Football with Cam Heyward.",
    "source": {
     "name": "Not Just Football with Cam Heyward",
+    "url": null
+   }
+  },
+  {
+   "id": "c810d01b7823c107",
+   "type": "video",
+   "title": "Benton, Dean, Washington & Rubio Press Conference (October 23) | Pittsburgh Steelers",
+   "show": "Pittsburgh Steelers (official)",
+   "url": "https://www.youtube.com/watch?v=wHQaj0ZAn9A",
+   "published": "2026-10-23T17:54:04+00:00",
+   "summary": "Video from Pittsburgh Steelers (official).",
+   "source": {
+    "name": "Pittsburgh Steelers (official)",
     "url": null
    }
   },
@@ -176,11 +189,11 @@
    }
   },
   {
-   "id": "d7d6f5e4fe6a87a4",
+   "id": "c3d08b3aee9a2a94",
    "type": "podcast_episode",
    "title": "Steelers Have NO EXCUSES Against the Saints… Here’s Why #Steelers #NFL",
    "show": "The Steel City Insider (Jim Wexell, 247Sports)",
-   "url": "https://247sports.com/nfl/pittsburgh-steelers/",
+   "url": "https://podcasts.apple.com/us/podcast/steelers-have-no-excuses-against-the-saints-heres-why/id1623192893?i=1000797784376",
    "published": "2026-10-23T13:22:17+00:00",
    "summary": "Podcast episode from The Steel City Insider (Jim Wexell, 247Sports).",
    "source": {
@@ -202,11 +215,11 @@
    }
   },
   {
-   "id": "7d533777079a5528",
+   "id": "4361ebf7f87496d5",
    "type": "podcast_episode",
    "title": "Steelers Travel Plans Keep Browns Game In Sight",
    "show": "All Steelers Talk",
-   "url": "https://podcasts.apple.com/us/podcast/id1627248534",
+   "url": "https://podcasts.apple.com/us/podcast/steelers-travel-plans-keep-browns-game-in-sight/id1627248534?i=1000797780125",
    "published": "2026-10-23T12:32:00+00:00",
    "summary": "Podcast episode from All Steelers Talk.",
    "source": {
@@ -393,6 +406,19 @@
    "summary": "Podcast episode from Steelers Afternoon Drive.",
    "source": {
     "name": "Steelers Afternoon Drive",
+    "url": null
+   }
+  },
+  {
+   "id": "dfe47c397088d81d",
+   "type": "podcast_episode",
+   "title": "T.J. Watt Injured Before Paris Game | Steelers Need New DT",
+   "show": "All Steelers Talk",
+   "url": "https://podcasts.apple.com/us/podcast/t-j-watt-injured-before-paris-game-steelers-need-new-dt/id1627248534?i=1000797682697",
+   "published": "2026-10-22T21:30:00+00:00",
+   "summary": "Podcast episode from All Steelers Talk.",
+   "source": {
+    "name": "All Steelers Talk",
     "url": null
    }
   },
@@ -1017,19 +1043,6 @@
    "summary": "Podcast episode from The Terrible Podcast (Steelers Depot).",
    "source": {
     "name": "The Terrible Podcast (Steelers Depot)",
-    "url": null
-   }
-  },
-  {
-   "id": "adf74be98dd4625c",
-   "type": "video",
-   "title": "AFC DEFENSIVE PLAYER OF THE WEEK: JALEN RAMSEY",
-   "show": "Pittsburgh Steelers (official)",
-   "url": "https://www.youtube.com/shorts/Wlg6JLl9cbY",
-   "published": "2026-10-21T16:09:12+00:00",
-   "summary": "Video from Pittsburgh Steelers (official).",
-   "source": {
-    "name": "Pittsburgh Steelers (official)",
     "url": null
    }
   },

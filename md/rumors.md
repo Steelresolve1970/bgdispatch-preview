@@ -1,6 +1,6 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-23T18:13:16+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T18:13:10+00:00._
+_Generated 2026-10-23T18:29:55+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T18:29:48+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
 - **Rumor** · tier: Aggregator / other · consensus: 7 source(s), top tier National insider
@@ -29,7 +29,9 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Steelers linked to trade for Troy Polamalu's nephew](https://www.aol.com/articles/steelers-linked-trade-troy-polamalus-090859000.html): AOL.com, first seen 2026-10-23 11:32 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 7 source(s), top tier National insider
   [Steelers linked to trade for Troy Polamalu's nephew](https://cumberlink.com/sports/professional/nfl/article_955b30d1-5360-53da-9487-2e6fa8ee1615.html): Carlisle Sentinel, first seen 2026-10-23 12:15 UTC
-- **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
+- **Rumor** · tier: Fan blog · consensus: 2 source(s), top tier Fan blog
+  [Steelers' Latest Defensive Line Injuries Make DeForest Buckner An Urgent Trade Target](https://www.steelernation.com/2026/10/22/steelers-deforest-buckner-urgent-trade): Steeler Nation, first seen 2026-10-23 18:29 UTC
+- **Rumor** · tier: Fan blog · consensus: 2 source(s), top tier Fan blog
   [Steelers' Latest Defensive Line Injuries Make DeForest Buckner An Urgent Trade Target](https://www.steelernation.com/2026/10/22/steelers-deforest-buckner-urgent-trade): SteelerNation, first seen 2026-10-23 00:00 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 2 source(s), top tier Aggregator / other
   [Pittsburgh Steelers Named in Massive $76 Million Trade Rumor](https://www.yardbarker.com/nfl/articles/pittsburgh_steelers_named_in_massive_76_million_trade_rumor/s1_17355_44461459): Yardbarker, first seen 2026-10-22 21:56 UTC

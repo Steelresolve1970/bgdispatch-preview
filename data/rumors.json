@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T18:13:10.096222+00:00",
+ "generated": "2026-10-23T18:29:48.990767+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -484,6 +484,35 @@
    "updated": "2026-10-23T12:15:12.772405+00:00"
   },
   {
+   "id": "81dabd419458",
+   "title": "Steelers' Latest Defensive Line Injuries Make DeForest Buckner An Urgent Trade Target",
+   "source": "Steeler Nation",
+   "link": "https://www.steelernation.com/2026/10/22/steelers-deforest-buckner-urgent-trade",
+   "published": "2026-10-22T23:35:01+00:00",
+   "summary": "Rumor-style report from Steeler Nation on a Steelers roster move. Full details at the source.",
+   "tier": "Fan blog",
+   "tier_score": 2,
+   "subjects": [],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-23T18:29:48.990767+00:00",
+   "consensus": {
+    "cluster_id": "46b9d884dd04",
+    "independent_sources": 2,
+    "sources": [
+     "Steeler Nation",
+     "SteelerNation"
+    ],
+    "highest_tier": "Fan blog",
+    "highest_tier_score": 2,
+    "related_ids": [
+     "46b9d884dd04"
+    ]
+   },
+   "updated": "2026-10-23T18:29:48.990767+00:00"
+  },
+  {
    "id": "46b9d884dd04",
    "title": "Steelers' Latest Defensive Line Injuries Make DeForest Buckner An Urgent Trade Target",
    "source": "SteelerNation",
@@ -499,13 +528,16 @@
    "first_seen": "2026-10-23T00:00:15.961766+00:00",
    "consensus": {
     "cluster_id": "46b9d884dd04",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
+     "Steeler Nation",
      "SteelerNation"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "81dabd419458"
+    ]
    },
    "updated": "2026-10-23T00:00:15.961766+00:00"
   },
