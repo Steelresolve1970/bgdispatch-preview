@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T01:46:10.092787+00:00",
+ "generated": "2026-10-23T01:57:25.972666+00:00",
  "game": {
   "label": "at Tampa Bay Buccaneers (Oct 18)",
   "opponent": "Tampa Bay Buccaneers",
@@ -87,48 +87,48 @@
    "creator": "Cover 1",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UClL6eJS1s8xmRoYRQbYgxQQ",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
    "creator": "Alex & the NFL",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsGr04a3SDjhPhsAe4xj4YQ",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
    "creator": "Steelers Almighty",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgIrOw8M4dNVs-WcMSaZUxA",
-   "status": "ok",
-   "feed_items": 15,
-   "in_window": 2
+   "status": "error: HTTP Error 500: Internal Server Error",
+   "feed_items": 0,
+   "in_window": 0
   },
   {
    "creator": "Steelers Now (Derrick Bell)",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp1iAMIfmmgWewzJ07_Y7oA",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
    "creator": "Steel City Underground",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDcNNAMkYr-DzH6_XL-0p8Q",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
    "creator": "Still Curtain",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxjSNPLcRAVzDKOjhRwo-hQ",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
@@ -143,8 +143,8 @@
    "creator": "Steel Curtain Network (BTSC)",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqZ9EXmGxrTBTOhg7qldDvA",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
@@ -159,9 +159,9 @@
    "creator": "Derrick Bell \u2013 DB's Film Room (Steelers Now)",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNsZFFKPF0bp85qzvJ8knbQ",
-   "status": "ok",
-   "feed_items": 15,
-   "in_window": 1
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
+   "in_window": 0
   },
   {
    "creator": "Steelers Depot (YouTube)",
@@ -191,8 +191,8 @@
    "creator": "Brett Kollmann",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYzfVBuCfGz-oF3aOCGgO5g",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
@@ -207,8 +207,8 @@
    "creator": "All_22_Films",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7Dbn36zT6XjfBh9YDLmGIg",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   }
  ],
@@ -235,16 +235,18 @@
    "creator": "Steelers Almighty",
    "link": "https://www.youtube.com/shorts/lKtukfSt-DA",
    "published": "2026-10-21T14:23:05+00:00",
-   "summary": "Film breakdown by Steelers Almighty of at Tampa Bay Buccaneers (Oct 18).",
-   "game": "at Tampa Bay Buccaneers (Oct 18)"
+   "gid": "2026_06_PIT_TB",
+   "source": "rss",
+   "summary": "Film breakdown by Steelers Almighty of Week 6 at Buccaneers (W 26-19)."
   },
   {
    "title": "Steelers' ST Grades vs Bucs",
    "creator": "Steelers Almighty",
    "link": "https://www.youtube.com/shorts/w_S8QFbmZHE",
    "published": "2026-10-21T11:24:15+00:00",
-   "summary": "Film breakdown by Steelers Almighty of at Tampa Bay Buccaneers (Oct 18).",
-   "game": "at Tampa Bay Buccaneers (Oct 18)"
+   "gid": "2026_06_PIT_TB",
+   "source": "rss",
+   "summary": "Film breakdown by Steelers Almighty of Week 6 at Buccaneers (W 26-19)."
   },
   {
    "title": "Steelers' DB Grades vs Bucs",
@@ -278,8 +280,9 @@
    "creator": "Derrick Bell \u2013 DB's Film Room (Steelers Now)",
    "link": "https://www.youtube.com/watch?v=e6yzGC2yM94",
    "published": "2026-10-20T16:00:29+00:00",
-   "summary": "Film breakdown by Derrick Bell \u2013 DB's Film Room (Steelers Now) of at Tampa Bay Buccaneers (Oct 18).",
-   "game": "at Tampa Bay Buccaneers (Oct 18)"
+   "gid": "2026_06_PIT_TB",
+   "source": "rss",
+   "summary": "Film breakdown by Derrick Bell \u2013 DB's Film Room (Steelers Now) of Week 6 at Buccaneers (W 26-19)."
   },
   {
    "title": "Film Room: An Absurdly Good Rep From Darnell Washington (That\u2019s Easy To Miss)",

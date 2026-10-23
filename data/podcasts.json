@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T01:46:46.702500+00:00",
+ "generated": "2026-10-23T01:58:30.606855+00:00",
  "date_et": "2026-10-22",
  "days": 5,
  "display_days": 2,
@@ -153,10 +153,10 @@
    "show": "Steelers Now",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp1iAMIfmmgWewzJ07_Y7oA",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 500: Internal Server Error",
+   "episodes": 0,
    "week": 15,
-   "latest": "2026-10-22T22:05:57+00:00"
+   "latest": null
   },
   {
    "show": "The Steel City Insider (Jim Wexell, 247Sports)",
@@ -198,10 +198,10 @@
    "show": "Pittsburgh Steelers (official)",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChaRXjMDs4ppKfnTPE6Z89w",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 15,
-   "latest": "2026-10-23T00:29:49+00:00"
+   "latest": null
   },
   {
    "show": "Not Just Football with Cam Heyward",
