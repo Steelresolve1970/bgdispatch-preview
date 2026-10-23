@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-23T05:18:39+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T05:17:12+00:00._
+_Generated 2026-10-23T05:30:08+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T05:28:51+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Pittsburgh Steelers’ Third-Down Problem Has an Obvious Paris Fix](https://athlonsports.com/nfl/pittsburgh-steelers/steelers-jaylen-warren-third-down-paris-saints): Athlon Sports, 2026-10-23 04:46 UTC
@@ -18,8 +18,8 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers' Latest Defensive Line Injuries Make DeForest Buckner An Urgent Trade Target](https://www.steelernation.com/2026/10/22/steelers-deforest-buckner-urgent-trade): SteelerNation, 2026-10-22 23:31 UTC
 - [Bucky Brooks Thinks ‘Explosive’ Saints Offense Could Give Steelers ‘Tough Time’ In Week 7](https://steelersdepot.com/2026/10/bucky-brooks-thinks-explosive-saints-offense-could-give-steelers-tough-time-in-week-7/): Steelers Depot, 2026-10-22 23:30 UTC
 - [Steelers Urged to Trade For Nephew of Pittsburgh Legend](https://steelersnow.com/steelers-urged-to-trade-for-nephew-of-pittsburgh-legend/): Steelers Now, 2026-10-22 23:25 UTC
-- [Steelers fans take over Tampa Bay's Raymond James Stadium -- Pittsburgh wins in OT, 26-19, improves to 4-2 on the 2026 season (Marlon Martin photos)](https://newpittsburghcourier.com/2026/10/22/steelers-fans-take-over-tampa-bays-raymond-james-stadium-pittsburgh-wins-in-ot-26-19-improves-to-4-2-on-the-2026-season-marlon-martin-photos/): New Pittsburgh Courier, 2026-10-22 23:18 UTC
 - [Pittsburgh Steelers lose key defensive tackle to triceps injury](https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-lose-key-defensive-tackle-to-triceps-injury.html): PennLive (Nick Farabaugh), 2026-10-22 23:16 UTC
+- [Steelers fans take over Tampa Bay's Raymond James Stadium -- Pittsburgh wins in OT, 26-19, improves to 4-2 on the 2026 season (Marlon Martin photos)](https://newpittsburghcourier.com/2026/10/22/steelers-fans-take-over-tampa-bays-raymond-james-stadium-pittsburgh-wins-in-ot-26-19-improves-to-4-2-on-the-2026-season-marlon-martin-photos/): New Pittsburgh Courier, 2026-10-22 23:05 UTC
 - [Week 7 Blog: Strictly business](https://www.steelers.com/news/week-7-blog-the-stacking-has-begun): Steelers.com (official), 2026-10-22 23:01 UTC
 - [Trai Essex Believes Zach Frazier Is ‘The Best Center’ In The NFL](https://steelersdepot.com/2026/10/trai-essex-believes-zach-frazier-is-the-best-center-in-the-nfl/): Steelers Depot, 2026-10-22 23:00 UTC
 - [Analyst No Longer Views DK Metcalf as Steelers WR1](https://steelersnow.com/analyst-no-longer-views-dk-metcalf-as-steelers-wr1/): Steelers Now, 2026-10-22 22:56 UTC
