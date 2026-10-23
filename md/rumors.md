@@ -1,6 +1,6 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-23T18:29:55+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T18:29:48+00:00._
+_Generated 2026-10-23T18:40:56+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T18:40:50+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
 - **Rumor** · tier: Aggregator / other · consensus: 7 source(s), top tier National insider
