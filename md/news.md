@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-23T00:23:56+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T00:22:26+00:00._
+_Generated 2026-10-23T00:35:39+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T00:34:10+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Pittsburgh Steelers focus on resting up ahead of flight into uneasy France](https://www.wpxi.com/video/pittsburgh-steelers-focus-resting-up-ahead-flight-into-uneasy-france/4038af57-3f3c-4dc9-bf3a-e6c534e62235/): WPXI, 2026-10-23 00:17 UTC
@@ -81,6 +81,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers NT Yahya Black Reveals Actual Weight, And It's Shocking](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-yahya-black-reveals-actual-weight-shocking): All Steelers (Sports Illustrated), 2026-10-22 14:51 UTC
 - [Former NFL WR Calls Germie Bernard ‘The Most Pittsburgh-Like Receiver’ Steelers Have Had Since Hines Ward](https://steelersdepot.com/2026/10/former-nfl-wr-calls-germie-bernard-the-most-pittsburgh-like-receiver-steelers-have-had-since-hines-ward/): Steelers Depot, 2026-10-22 14:45 UTC
 - [Steelers owner Art Rooney II says the NFL will have heightened security in Paris, but ‘they don’t seem to be concerned’](https://www.post-gazette.com/sports/steelers/2026/10/22/nfl-paris-game-protests-security-measures/stories/202610220043): Pittsburgh Post-Gazette, 2026-10-22 14:41 UTC
+- [Kyle Brandt reports live from Paris, France to preview Steelers-Saints](https://www.nfl.com/videos/kyle-brandt-reports-live-from-paris-france-to-preview-steelers-saints): NFL.com, 2026-10-22 14:37 UTC
 - [Rookie Gennings Dunker Details How He’s Improving While On Injured Reserve](https://steelersdepot.com/2026/10/rookie-gennings-dunker-details-how-hes-improving-while-on-injured-reserve/): Steelers Depot, 2026-10-22 14:30 UTC
 - [Ray Fittipaldo's Steelers chat transcript: 10.22.26](https://www.post-gazette.com/sports/steelers/2026/10/22/live-steelers-chat/stories/202610220045): Pittsburgh Post-Gazette, 2026-10-22 14:30 UTC
 - [Study: Pittsburgh Steelers Are Creating An Impressive YAC Attack](https://steelersdepot.com/2026/10/study-pittsburgh-is-creating-an-impressive-yac-attack/): Steelers Depot, 2026-10-22 14:15 UTC
@@ -126,7 +127,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [3 WRs Steelers Can Trade Day 3 Draft Picks For](https://www.si.com/nfl/steelers/onsi/3-wide-receivers-pittsburgh-steelers-trade-day-3-draft-picks): All Steelers (Sports Illustrated), 2026-10-21 18:00 UTC
 - [Jalen Ramsey's DPOW honor shows Steelers have found his best role](https://stillcurtain.com/jalen-ramsey-defensive-player-week-honor-shows-pittsburgh-steelers-have-found-his-best-role?utm_source=RSS): Still Curtain, 2026-10-21 17:19 UTC
 - [Steelers CB Jalen Ramsey named AFC Defensive Player of the Week](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176643/steelers-cb-jalen-ramsey-named-afc-defensive-player-of-the-week): Behind the Steel Curtain, 2026-10-21 17:00 UTC
-- [Steelers vs. Saints: How to Watch, Listen, and Stream Games 10/25/2026](https://www.neworleanssaints.com/news/pittsburgh-steelers-vs-new-orleans-saints-game-watch-listen-stream-tv-channel-radio-10-25-2026): New Orleans Saints | NewOrleansSaints.com, 2026-10-21 16:39 UTC
 - [Steelers news: Zach Frazier has had tremendous start to season](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176640/steelers-news-zach-frazier-has-had-tremendous-start-to-season): Behind the Steel Curtain, 2026-10-21 16:33 UTC
 - [AFC North power rankings deliver a brutal Week 7 reality check for Ravens](https://stillcurtain.com/afc-north-power-rankings-pittsburgh-steelers-deliver-week-7-reality-check-baltimore-ravens-01m5fg61kdyg?utm_source=RSS): Still Curtain, 2026-10-21 16:00 UTC
 - [The best soccer/NFL crossover jerseys as PSG unveil kit for Steelers vs. Saints in Paris](https://www.espn.com/soccer/story/_/id/50225836/the-best-soccer-nfl-crossover-jerseys-psg-kit-pittsburgh-steelers-new-orleans-saints-paris-game): ESPN, 2026-10-21 15:51 UTC

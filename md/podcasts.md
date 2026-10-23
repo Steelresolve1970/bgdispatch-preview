@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-23T00:23:56+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T00:23:39+00:00._
+_Generated 2026-10-23T00:35:39+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T00:35:23+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [Steelers Preview: Previewing Steelers vs. Saints, Week 7](https://podcasts.apple.com/us/podcast/id905962218): Steel Curtain Network (BTSC), 2026-10-23 00:00 UTC
