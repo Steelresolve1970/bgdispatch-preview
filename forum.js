@@ -149,16 +149,21 @@ const fmTag=n=>n?`<span class="fx-fm" title="One of the first 250 forum members"
 const roleTag=r=>r==='owner'?'<span class="fx-role">OWNER</span>':r==='mod'?'<span class="fx-role">MOD</span>':r==='bot'?'<span class="fx-role" title="Posted automatically by the Dispatch Desk">AUTO</span>':'';
 
 // ---------- header buttons ----------
-// One-time notice to signed-in members about the interim Terms of Use (Oct 23, 2026). Dismiss is remembered on the device.
-// Never allowed to break the forum: any error here is ignored.
-const TERMS_NOTE_KEY='bgd_terms_note_2026-10-23-interim';
-function termsNote(){try{let n=$('fx-terms-note');let seen=false;try{seen=localStorage.getItem(TERMS_NOTE_KEY)==='1';}catch(e){}
- if(!S.me||seen){if(n)n.remove();return;}if(n)return;const b=$('forum-body');if(!b||!b.parentNode)return;
- n=document.createElement('div');n.id='fx-terms-note';n.setAttribute('role','note');
- n.style.cssText='background:#fff;color:#111;border-left:4px solid #FFB612;border-radius:8px;padding:12px 14px;margin:0 0 14px;box-shadow:0 1px 3px #0001';
- n.innerHTML='<p style="margin:0 0 8px">We\'ve updated our Terms of Use (interim terms, effective Oct 23, 2026). <a href="/legal/terms.html">Read the Terms</a>. By continuing to use your account you agree to the updated terms.</p><button type="button" class="fx-btn ghost sm">Got it</button>';
- n.querySelector('button').onclick=()=>{try{localStorage.setItem(TERMS_NOTE_KEY,'1');}catch(e){}n.remove();};
- b.parentNode.insertBefore(n,b);}catch(e){}}
+// One-time notice about the interim Terms of Use (Oct 23, 2026) for members who joined before the new terms went live.
+// The server decides who needs it (me.terms_notice); "I've read the updated terms" is saved on the account (POST me/terms-ack),
+// so it stops on every device. Shown at the top of every page once signed in. Never allowed to break sign-in or the forum.
+const TERMS_VER='2026-10-23-interim';
+function termsNote(){try{let n=$('fx-terms-note');
+ if(!S.me||!S.me.terms_notice){if(n)n.remove();return;}if(n)return;
+ const m=document.querySelector('body>main.wrap')||document.querySelector('main');if(!m)return;
+ n=document.createElement('div');n.id='fx-terms-note';n.setAttribute('role','region');n.setAttribute('aria-label','Updated Terms of Use');
+ n.style.cssText='background:#fff;color:#111;border-left:4px solid #FFB612;border-radius:8px;padding:12px 14px;margin:12px 0 14px;box-shadow:0 1px 3px #0001';
+ n.innerHTML='<p style="margin:0 0 10px">We\'ve updated our Terms of Use (interim terms, effective Oct 23, 2026). Please read the <a href="/legal/terms">Terms</a>.</p><button type="button" class="fx-btn sm">I\'ve read the updated terms</button> <p class="fx-terms-err" style="display:none;margin:6px 0 0;color:#b00020;font-size:.9rem" aria-live="polite"></p>';
+ const btn=n.querySelector('button'),er=n.querySelector('.fx-terms-err');
+ btn.onclick=async()=>{try{btn.disabled=true;er.textContent='';er.style.display='none';const d=await api('me/terms-ack',{body:{version:TERMS_VER},timeout:15000});
+  if(d.ok){if(S.me)S.me.terms_notice=false;n.remove();}else{btn.disabled=false;er.textContent=d.error||'Something went wrong. Please try again.';er.style.display='block';}}
+  catch(e){btn.disabled=false;}};
+ m.insertBefore(n,m.firstChild);}catch(e){}}
 function head(){termsNote();const a=document.querySelector('.forum-actions');const badge=document.querySelector('.forum-head .badge');
  if(S.api&&badge)badge.remove();if(!a)return;
  if(!S.api){a.innerHTML='';return;}
