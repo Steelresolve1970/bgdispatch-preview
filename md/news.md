@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-23T04:06:53+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T04:05:33+00:00._
+_Generated 2026-10-23T04:18:36+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T04:17:08+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Steelers fan event at Bastille bar canceled amid civil unrest in Paris](https://www.espn.com/nfl/story/_/id/50250407/steelers-fan-event-paris-canceled-amid-civil-unrest): ESPN, 2026-10-23 04:29 UTC
@@ -23,6 +23,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Paris protests force Steelers to cancel fan event ahead of historic NFL game](https://www.cbssports.com/nfl/news/steelers-cancel-paris-fan-event-amid-protests-saints-game/): CBS Sports, 2026-10-22 22:50 UTC
 - [Steelers superstar pass rusher T.J. Watt goes down with calf injury](https://www.pennlive.com/steelers/2026/10/steelers-superstar-pass-rusher-tj-watt-goes-down-with-calf-injury.html): PennLive (Nick Farabaugh), 2026-10-22 22:33 UTC
 - [Steelers Afternoon Drive: Nu Leader on D-Line?](https://steelersnow.com/steelers-afternoon-drive-nu-leader-on-d-line/): Steelers Now, 2026-10-22 22:06 UTC
+- [Beat Writer Identifies ‘Odd Man Out’ With DeShon Elliott’s Expected Return](https://steelersdepot.com/2026/10/beat-writer-identifies-odd-man-out-with-deshon-elliotts-expected-return/): Steelers Depot, 2026-10-22 22:03 UTC
 - [Gregg Rosenthal Sees Germie Bernard As ‘1A’ WR, DK Metcalf As ‘1B’](https://steelersdepot.com/2026/10/gregg-rosenthal-sees-germie-bernard-as-1a-wr-dk-metcalf-as-1b/): Steelers Depot, 2026-10-22 22:00 UTC
 - [Steelers QB Aaron Rodgers Took Over Play Call Duties During Comeback Win](https://www.steelernation.com/2026/10/22/steelers-germie-bernard-detailed-aaron-rodgers): SteelerNation, 2026-10-22 21:50 UTC
 - [Listen: The Terrible Take (Episode 2,058)](https://steelersdepot.com/2026/10/listen-the-terrible-take-episode-2058/): Steelers Depot, 2026-10-22 21:30 UTC
@@ -38,8 +39,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers Injury Central: 2 Ruled Out, SJD on IR, T.J. Watt Limited](https://steelersnow.com/pittsburgh-steelers-injury-updates/): Steelers Now, 2026-10-22 20:11 UTC
 - [Steelers WR Ben Skowronek, CB Brandin Echols won’t play vs. Saints in Paris](https://triblive.com/sports/steelers-wr-ben-skowronek-cb-brandin-echols-wont-play-vs-saints-in-paris/): TribLive, 2026-10-22 20:10 UTC
 - [Paris protests raise security concerns ahead of Steelers-Saints game](https://www.axios.com/local/pittsburgh/2026/10/22/steelers-saints-paris-game-protests-security): Axios, 2026-10-22 20:00 UTC
-- [Beat Writer Identifies ‘Odd Man Out’ With DeShon Elliott’s Expected Return](https://steelersdepot.com/2026/10/beat-writer-identifies-odd-man-out-with-deshon-elliotts-expected-return/): Steelers Depot, 2026-10-22 20:00 UTC
-- [Amid unrest, Steelers cancel fan event in Paris](https://kfgo.com/2026/10/22/amid-unrest-steelers-cancel-fan-event-in-paris/): The Mighty 790 KFGO, 2026-10-22 19:55 UTC
 - [Steelers' Mike McCarthy Facing Massive Decision On Coach's Future After Troubling Start](https://www.steelernation.com/2026/10/22/steelers-mike-mccarthy-massive-decision): SteelerNation, 2026-10-22 19:45 UTC
 - [Despite security concerns, NFL plans to stage Paris game amid French protests](https://www.nbcnews.com/sports/nfl/nfl-paris-game-saints-steelers-france-protests-rcna605068): NBC News, 2026-10-22 19:39 UTC
 - [Saints’ Week 7 Thursday Injury Report: Backup QB Added To Report, Daniel Carlson Remains Out Of Practice](https://steelersdepot.com/2026/10/saints-week-7-thursday-injury-report-backup-qb-added-to-report-daniel-carlson-remains-out-of-practice/): Steelers Depot, 2026-10-22 19:35 UTC
@@ -68,6 +67,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Kendre Miller, Kaden Elliss, Martin Emerson Jr., Spencer Rattler press conference | Saints vs. Steelers 2026 NFL Week 7](https://www.neworleanssaints.com/video/kendre-miller-kaden-elliss-martin-emerson-jr-spencer-rattler-press-conference-saints-vs-steelers-2026-nfl-week-7-october-22-2026): New Orleans Saints | NewOrleansSaints.com, 2026-10-22 17:09 UTC
 - [Steelers staffers began planning for their Paris trip — and its logistical obstacles — in June](https://www.post-gazette.com/sports/steelers/2026/10/22/steelers-paris-trip-planning/stories/202610220046): Pittsburgh Post-Gazette, 2026-10-22 17:00 UTC
 - [CBS Reveals Steelers-Browns Week 8 Broadcast Team](https://steelersdepot.com/2026/10/cbs-reveals-steelers-browns-week-8-broadcast-team/): Steelers Depot, 2026-10-22 16:57 UTC
+- [Ryan Wright, Julian Blackmon, Jonas Sanker, Pete Werner, Taliese Fuaga press conference | Saints vs. Steelers 2026 NFL Week 7](https://www.neworleanssaints.com/video/ryan-wright-julian-blackmon-jonas-sanker-pete-werner-taliese-fuaga-press-conference-saints-vs-steelers-2026-nfl-week-7): New Orleans Saints | NewOrleansSaints.com, 2026-10-22 16:57 UTC
 - [Phil Galiano, Doug Nussmeier, Brandon Staley press conference | Saints vs. Steelers 2026 NFL Week 7](https://www.neworleanssaints.com/video/phil-galiano-doug-nussmeier-brandon-staley-press-conference-saints-vs-steelers-2026-nfl-week-7-october-21-20262): New Orleans Saints | NewOrleansSaints.com, 2026-10-22 16:55 UTC
 - [Pittsburgh Steelers place DE Joseph-Day on Reserve/Injured List](https://www.audacy.com/937thefan/sports/pittsburgh-steelers/steelers-injured): Audacy, 2026-10-22 16:19 UTC
 - [Injury Bug Bites Steelers DL Hard | Steelers Morning Rush](https://steelersnow.com/injury-bug-bites-steelers-dl-hard-steelers-morning-rush/): Steelers Now, 2026-10-22 16:14 UTC
