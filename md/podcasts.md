@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-23T20:34:50+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T20:34:33+00:00._
+_Generated 2026-10-23T20:45:38+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T20:45:20+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Podcast: [Live Shot of Steelers: Game preview in Paris!](https://podcasts.apple.com/us/podcast/id1072021022): DK Pittsburgh Sports, 2026-10-23 20:39 UTC
 - Video: [The Steelers Play That Changed Elandon Roberts' Career](https://www.youtube.com/watch?v=trO9lggiV-E): Not Just Football with Cam Heyward, 2026-10-23 18:00 UTC
 - Video: [Benton, Dean, Washington & Rubio Press Conference (October 23) | Pittsburgh Steelers](https://www.youtube.com/watch?v=wHQaj0ZAn9A): Pittsburgh Steelers (official), 2026-10-23 17:54 UTC
 - Podcast: [Did Steelers Make Travel Mistake? Grand Finale with Jack Hillgrove | THE PITTSBURGH FOOTBALL SHOW](https://podcasts.apple.com/us/podcast/did-steelers-make-travel-mistake-grand-finale-with/id1700240934?i=1000797823156): Steelers Afternoon Drive, 2026-10-23 17:34 UTC
