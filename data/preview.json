@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T01:57:25.972666+00:00",
+ "generated": "2026-10-23T02:32:31.585832+00:00",
  "game": {
   "label": "at New Orleans Saints (Oct 25)",
   "opponent": "New Orleans Saints",
@@ -56,7 +56,7 @@
    "mode": "official",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChaRXjMDs4ppKfnTPE6Z89w",
    "status": "ok",
-   "feed_items": 15,
+   "feed_items": 14,
    "in_window": 0
   },
   {
@@ -87,7 +87,7 @@
    "creator": "Cover 1",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UClL6eJS1s8xmRoYRQbYgxQQ",
-   "status": "error: HTTP Error 404: Not Found",
+   "status": "error: HTTP Error 500: Internal Server Error",
    "feed_items": 0,
    "in_window": 0
   },
@@ -103,7 +103,7 @@
    "creator": "Steelers Almighty",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgIrOw8M4dNVs-WcMSaZUxA",
-   "status": "error: HTTP Error 500: Internal Server Error",
+   "status": "error: HTTP Error 404: Not Found",
    "feed_items": 0,
    "in_window": 0
   },
@@ -127,16 +127,16 @@
    "creator": "Still Curtain",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxjSNPLcRAVzDKOjhRwo-hQ",
-   "status": "error: HTTP Error 404: Not Found",
-   "feed_items": 0,
-   "in_window": 0
+   "status": "ok",
+   "feed_items": 15,
+   "in_window": 1
   },
   {
    "creator": "Locked On Steelers",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7JorgD8nGLtvvMy1ogFetg",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
@@ -151,16 +151,16 @@
    "creator": "Arthur Moats Experience",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFPpVnzIt33ZPQglYd7MOqQ",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
    "creator": "Derrick Bell \u2013 DB's Film Room (Steelers Now)",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNsZFFKPF0bp85qzvJ8knbQ",
-   "status": "error: HTTP Error 404: Not Found",
-   "feed_items": 0,
+   "status": "ok",
+   "feed_items": 15,
    "in_window": 0
   },
   {
@@ -176,23 +176,23 @@
    "mode": "official-yt",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChaRXjMDs4ppKfnTPE6Z89w",
    "status": "ok",
-   "feed_items": 15,
+   "feed_items": 14,
    "in_window": 0
   },
   {
    "creator": "Baldy's Breakdowns",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHdXqjAWwGqEGfC1a9319Mw",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
    "creator": "Brett Kollmann",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYzfVBuCfGz-oF3aOCGgO5g",
-   "status": "error: HTTP Error 404: Not Found",
-   "feed_items": 0,
+   "status": "ok",
+   "feed_items": 15,
    "in_window": 0
   },
   {
@@ -212,7 +212,16 @@
    "in_window": 0
   }
  ],
- "items": [],
+ "items": [
+  {
+   "title": "Steelers vs. Saints Week 7 Preview | Aaron Rodgers Problem Brewing",
+   "creator": "Still Curtain",
+   "link": "https://www.youtube.com/watch?v=B0agqGjSVpU",
+   "published": "2026-10-22T06:58:28+00:00",
+   "summary": "Preview by Still Curtain for at New Orleans Saints (Oct 25).",
+   "game": "at New Orleans Saints (Oct 25)"
+  }
+ ],
  "ctm": {
   "show": "Check the Mic with Steve Palazzolo & Sam Monson",
   "hosts": "Steve Palazzolo & Sam Monson",
@@ -228,5 +237,5 @@
   "youtube": null,
   "embed": null
  },
- "count": 0
+ "count": 1
 }

@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-23T02:21:50.675019+00:00",
+ "generated": "2026-10-23T02:33:42.983603+00:00",
  "date_et": "2026-10-22",
  "days": 5,
  "display_days": 2,
- "count": 149,
+ "count": 147,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -18,7 +18,7 @@
    "show": "Locked On Steelers",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7JorgD8nGLtvvMy1ogFetg",
-   "status": "error: HTTP Error 500: Internal Server Error",
+   "status": "error: HTTP Error 404: Not Found",
    "episodes": 0,
    "week": 11,
    "latest": null
@@ -38,7 +38,7 @@
    "url": "https://feeds.megaphone.fm/btsc-steelers",
    "status": "ok",
    "episodes": 4998,
-   "week": 17,
+   "week": 16,
    "latest": "2026-10-23T00:00:00+00:00"
   },
   {
@@ -198,10 +198,10 @@
    "show": "Pittsburgh Steelers (official)",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChaRXjMDs4ppKfnTPE6Z89w",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
-   "week": 15,
-   "latest": null
+   "status": "ok",
+   "episodes": 14,
+   "week": 14,
+   "latest": "2026-10-23T00:29:49+00:00"
   },
   {
    "show": "Not Just Football with Cam Heyward",
@@ -216,10 +216,10 @@
    "show": "Not Just Football with Cam Heyward",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8hodyaoiw297aspKf9QVDA",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 6,
-   "latest": "2026-10-22T15:53:52+00:00"
+   "latest": null
   },
   {
    "show": "Footbahlin with Ben Roethlisberger",
@@ -336,14 +336,6 @@
    "kind": "video",
    "link": "https://www.youtube.com/shorts/0otqWh1Uiu4",
    "published": "2026-10-22T18:57:57+00:00",
-   "summary": "Video from Pittsburgh Steelers (official)."
-  },
-  {
-   "title": "TBT to when Fast Willie went off against the Saints \ud83d\udca8 \ud83d\udcfa: #PITvsNO 10/25 at 9:30 AM ET on NFLN",
-   "show": "Pittsburgh Steelers (official)",
-   "kind": "video",
-   "link": "https://www.youtube.com/shorts/RR-n2vkYybA",
-   "published": "2026-10-22T18:23:05+00:00",
    "summary": "Video from Pittsburgh Steelers (official)."
   },
   {
@@ -1432,14 +1424,6 @@
    "kind": "podcast",
    "link": "https://podcasts.apple.com/us/podcast/last-minute-thoughts-black-and-bold-week-6-vs-tampa-bay/id905962218?i=1000796897704",
    "published": "2026-10-18T08:00:00+00:00",
-   "summary": "Podcast episode from Steel Curtain Network (BTSC)."
-  },
-  {
-   "title": "The Steelers Q&A: Getting off the coaster in Week 6",
-   "show": "Steel Curtain Network (BTSC)",
-   "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/the-steelers-q-a-getting-off-the-coaster-in-week-6/id905962218?i=1000796865157",
-   "published": "2026-10-18T02:30:00+00:00",
    "summary": "Podcast episode from Steel Curtain Network (BTSC)."
   }
  ],
