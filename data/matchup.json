@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T15:03:09.249133+00:00",
+ "generated": "2026-10-23T15:18:30.287582+00:00",
  "game_id": "2026_07_PIT_NO",
  "game": {
   "id": "401873011",
@@ -278,7 +278,7 @@
   }
  ],
  "picks": {
-  "checked": "2026-10-23T11:08:43.147663+00:00",
+  "checked": "2026-10-23T15:18:30.628415+00:00",
   "items": [
    {
     "name": "Eric Moody",
@@ -301,6 +301,16 @@
     "team": "Pittsburgh Steelers"
    },
    {
+    "name": "Tina Howell",
+    "winner": "NO",
+    "score": "31-27",
+    "outlet": "Yahoo Sports",
+    "link": "https://sports.yahoo.com/articles/saints-vs-steelers-prediction-bonjour-130000064.html",
+    "published": "2026-10-23T13:00:00+00:00",
+    "kind": "article",
+    "team": "New Orleans Saints"
+   },
+   {
     "name": "Joe Jensen",
     "winner": "PIT",
     "score": "26-19",
@@ -317,16 +327,6 @@
     "outlet": "Sports Cappers Picks",
     "link": "https://www.capperspicks.com/free-picks/ai/pittsburgh-steelers-at-new-orleans-saints-pick-nfl-prediction-preview-odds-10-25-2026/",
     "published": "2026-10-22T07:40:10+00:00",
-    "kind": "article",
-    "team": "Pittsburgh Steelers"
-   },
-   {
-    "name": "Jeff Hartman",
-    "winner": "PIT",
-    "score": "31-20",
-    "outlet": "Steel Curtain Network",
-    "link": "https://www.steelcurtainnetwork.com/2026-steelers-preview-week-7-vs-the-new-orleans-saints/",
-    "published": "2026-10-22T15:04:28+00:00",
     "kind": "article",
     "team": "Pittsburgh Steelers"
    }
@@ -390,6 +390,25 @@
     "published": "2026-10-23T10:00:00+00:00",
     "kind": "article",
     "team": "Pittsburgh Steelers"
+   },
+   {
+    "name": "Tina Howell",
+    "winner": "NO",
+    "score": "31-27",
+    "outlet": "Yahoo Sports",
+    "link": "https://sports.yahoo.com/articles/saints-vs-steelers-prediction-bonjour-130000064.html",
+    "published": "2026-10-23T13:00:00+00:00",
+    "kind": "article",
+    "team": "New Orleans Saints"
+   },
+   {
+    "name": "Tina Howell",
+    "winner": "NO",
+    "score": "31-27",
+    "outlet": "Canal Street Chronicles",
+    "link": "https://www.canalstreetchronicles.com/new-orleans-saints-odds/116898/saints-vs-steelers-predictions-week-7-picks",
+    "published": "2026-10-23T13:00:00+00:00",
+    "kind": "article"
    }
   ],
   "cbs_consensus": {
@@ -397,7 +416,7 @@
    "link": "https://www.cbssports.com/nfl/picks/experts/straight-up/7/",
    "link_only": true
   },
-  "searched": 68
+  "searched": 67
  },
  "source": "Data: nflverse (CC-BY 4.0)",
  "source_url": "https://github.com/nflverse/nflverse-data",

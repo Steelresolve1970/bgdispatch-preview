@@ -2,8 +2,8 @@
  "api_version": "1",
  "dataset": "news",
  "description": "Steelers headlines from beat writers, national outlets and blogs, with our one-line summaries and links to the publisher.",
- "generated": "2026-10-23T15:03:19+00:00",
- "data_updated": "2026-10-23T15:02:43+00:00",
+ "generated": "2026-10-23T15:19:03+00:00",
+ "data_updated": "2026-10-23T15:17:59+00:00",
  "count": 150,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
@@ -20,6 +20,19 @@
  "html": "https://blackandgolddispatch.com/#/",
  "items": [
   {
+   "id": "ee8f87b68425fe18",
+   "type": "news",
+   "title": "Gabriel Rubio Acknowledges His ‘Mistakes Are Blatant,’ But Confidence ‘Absolutely’ Growing",
+   "summary": "Game story from Steelers Depot. Full report at the original publisher.",
+   "url": "https://steelersdepot.com/2026/10/gabriel-rubio-acknowledges-his-mistakes-are-blatant-but-confidence-absolutely-growing/",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null
+   },
+   "published": "2026-10-23T15:15:40+00:00",
+   "retrieved": "2026-10-23T15:17:59+00:00"
+  },
+  {
    "id": "7d5a3054f6606b97",
    "type": "news",
    "title": "Steelers' Rodgers backs NFL on holding Paris game despite recent unrest",
@@ -30,7 +43,33 @@
     "url": null
    },
    "published": "2026-10-23T15:10:44+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
+  },
+  {
+   "id": "431f3510293b9c4e",
+   "type": "news",
+   "title": "Steelers' Aaron Rodgers Breaks Silence While Bashing The NFL For Jalen Hurts' Scary Situation",
+   "summary": "News story from SteelerNation. Full report at the original publisher.",
+   "url": "https://www.steelernation.com/2026/10/23/steelers-aaron-rodgers-jalen-hurts-scary",
+   "source": {
+    "name": "SteelerNation",
+    "url": null
+   },
+   "published": "2026-10-23T15:05:23+00:00",
+   "retrieved": "2026-10-23T15:17:59+00:00"
+  },
+  {
+   "id": "7066e432d461d3cb",
+   "type": "news",
+   "title": "Aaron Rodgers Is Annoyed with Steelers’ Travel Schedule to Paris",
+   "summary": "News story from Steelers Now. Full report at the original publisher.",
+   "url": "https://steelersnow.com/aaron-rodgers-is-annoyed-with-steelers-travel-schedule-to-paris/",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   },
+   "published": "2026-10-23T15:05:18+00:00",
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "3116b64722287460",
@@ -43,7 +82,7 @@
     "url": null
    },
    "published": "2026-10-23T15:00:36+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "9842ca9512b36c10",
@@ -56,7 +95,7 @@
     "url": null
    },
    "published": "2026-10-23T15:00:00+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "f978e46571fc1901",
@@ -69,7 +108,7 @@
     "url": null
    },
    "published": "2026-10-23T14:49:32+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "bd27254f7f7e95a9",
@@ -82,7 +121,7 @@
     "url": null
    },
    "published": "2026-10-23T14:47:38+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "139760d7b37baab5",
@@ -95,7 +134,7 @@
     "url": null
    },
    "published": "2026-10-23T14:45:50+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "b2edcc39e936edd6",
@@ -108,7 +147,7 @@
     "url": null
    },
    "published": "2026-10-23T14:45:03+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "56cef46f68b22136",
@@ -121,7 +160,7 @@
     "url": null
    },
    "published": "2026-10-23T14:30:43+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "dc1430056fd355a6",
@@ -134,7 +173,7 @@
     "url": null
    },
    "published": "2026-10-23T14:15:48+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "ac8006813a4e9d94",
@@ -146,8 +185,8 @@
     "name": "RG.org",
     "url": null
    },
-   "published": "2026-10-23T14:15:00+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "published": "2026-10-23T14:15:43+00:00",
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "51012801210c51d1",
@@ -160,7 +199,7 @@
     "url": null
    },
    "published": "2026-10-23T14:12:33+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "1e4e781c85b4bcc1",
@@ -173,7 +212,7 @@
     "url": null
    },
    "published": "2026-10-23T14:04:19+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "62aed44ce108ade5",
@@ -186,7 +225,7 @@
     "url": null
    },
    "published": "2026-10-23T14:00:50+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "6bb6ecd84f349b77",
@@ -199,7 +238,7 @@
     "url": null
    },
    "published": "2026-10-23T14:00:37+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "595924af2d840d1c",
@@ -212,7 +251,7 @@
     "url": null
    },
    "published": "2026-10-23T14:00:00+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "d178c4f6cd50b2db",
@@ -225,7 +264,7 @@
     "url": null
    },
    "published": "2026-10-23T14:00:00+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "e7f62c7ea3a0d77e",
@@ -238,7 +277,7 @@
     "url": null
    },
    "published": "2026-10-23T14:00:00+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "483583b121589b78",
@@ -251,7 +290,7 @@
     "url": null
    },
    "published": "2026-10-23T13:58:00+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "2e3cfa4d11b5c79e",
@@ -264,7 +303,7 @@
     "url": null
    },
    "published": "2026-10-23T13:45:09+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "585ba7008c39dd06",
@@ -277,7 +316,7 @@
     "url": null
    },
    "published": "2026-10-23T13:45:00+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "c74a51a62bd856cd",
@@ -290,7 +329,7 @@
     "url": null
    },
    "published": "2026-10-23T13:30:10+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "32e8a2575060d351",
@@ -303,7 +342,7 @@
     "url": null
    },
    "published": "2026-10-23T13:30:03+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "300edc121937a455",
@@ -316,7 +355,7 @@
     "url": null
    },
    "published": "2026-10-23T13:28:54+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "203418c5a5911f8a",
@@ -329,7 +368,7 @@
     "url": null
    },
    "published": "2026-10-23T13:24:00+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "3e782f3c4f9234b8",
@@ -342,7 +381,7 @@
     "url": null
    },
    "published": "2026-10-23T13:22:47+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "87b8875646632c1c",
@@ -355,7 +394,7 @@
     "url": null
    },
    "published": "2026-10-23T13:16:02+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "e54b6b7ef14b9f52",
@@ -368,7 +407,7 @@
     "url": null
    },
    "published": "2026-10-23T13:15:45+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "9f076c85b37da493",
@@ -381,7 +420,7 @@
     "url": null
    },
    "published": "2026-10-23T13:09:59+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "844da0cb72f4c71c",
@@ -394,7 +433,7 @@
     "url": null
    },
    "published": "2026-10-23T13:08:54+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "979abe03eb8d2218",
@@ -407,7 +446,7 @@
     "url": null
    },
    "published": "2026-10-23T13:07:30+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "d0351d1bf61fb80e",
@@ -420,7 +459,7 @@
     "url": null
    },
    "published": "2026-10-23T13:00:50+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "0eae8598afd6b286",
@@ -433,7 +472,7 @@
     "url": null
    },
    "published": "2026-10-23T13:00:44+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "0c07d2bb594c3c13",
@@ -446,7 +485,7 @@
     "url": null
    },
    "published": "2026-10-23T13:00:41+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "3cb7de7a15482869",
@@ -459,7 +498,7 @@
     "url": null
    },
    "published": "2026-10-23T13:00:26+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "7756ab800a362998",
@@ -472,7 +511,7 @@
     "url": null
    },
    "published": "2026-10-23T13:00:00+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "84527a539346404d",
@@ -485,7 +524,7 @@
     "url": null
    },
    "published": "2026-10-23T12:41:21+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "9b99b2e0f52c05c3",
@@ -498,7 +537,7 @@
     "url": null
    },
    "published": "2026-10-23T12:35:49+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "708a2a96619e1726",
@@ -511,7 +550,7 @@
     "url": null
    },
    "published": "2026-10-23T12:30:34+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "5de6ba4f34e09467",
@@ -524,7 +563,7 @@
     "url": null
    },
    "published": "2026-10-23T12:30:00+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "30f4214345411598",
@@ -537,7 +576,7 @@
     "url": null
    },
    "published": "2026-10-23T12:29:04+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "1e40a09b2e782f67",
@@ -550,7 +589,7 @@
     "url": null
    },
    "published": "2026-10-23T12:27:37+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "12a7de1f50ffea7c",
@@ -563,7 +602,7 @@
     "url": null
    },
    "published": "2026-10-23T12:25:29+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "6a6fce7487cb6275",
@@ -576,7 +615,7 @@
     "url": null
    },
    "published": "2026-10-23T12:15:58+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "b6a691e9e31dbef7",
@@ -589,7 +628,7 @@
     "url": null
    },
    "published": "2026-10-23T12:08:51+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "edf7d3cac9131497",
@@ -602,7 +641,20 @@
     "url": null
    },
    "published": "2026-10-23T12:06:19+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
+  },
+  {
+   "id": "79aa9e2ca3d66c1f",
+   "type": "news",
+   "title": "Steelers to Watch: Five players who could make the difference against the Saints",
+   "summary": "News story from Steel City Underground. Full report at the original publisher.",
+   "url": "https://www.steelcityunderground.com/2026/10/23/steelers-to-watch-five-players-who-could-make-the-difference-against-the-saints/",
+   "source": {
+    "name": "Steel City Underground",
+    "url": null
+   },
+   "published": "2026-10-23T12:04:25+00:00",
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "92ee3ff2d34d880f",
@@ -615,7 +667,7 @@
     "url": null
    },
    "published": "2026-10-23T12:00:23+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "580bf5aa432eb669",
@@ -628,7 +680,7 @@
     "url": null
    },
    "published": "2026-10-23T12:00:00+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "43776160e19d5bd5",
@@ -641,7 +693,7 @@
     "url": null
    },
    "published": "2026-10-23T11:55:00+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "d3d1e9386bf74128",
@@ -654,7 +706,7 @@
     "url": null
    },
    "published": "2026-10-23T11:50:38+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "bfcab7fa0cb347e6",
@@ -667,7 +719,7 @@
     "url": null
    },
    "published": "2026-10-23T11:45:00+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "14d0f3a803dc1a70",
@@ -680,7 +732,7 @@
     "url": null
    },
    "published": "2026-10-23T11:38:54+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "7849343b77947a4f",
@@ -693,7 +745,7 @@
     "url": null
    },
    "published": "2026-10-23T11:00:53+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "7fd46e561838fbf2",
@@ -706,7 +758,7 @@
     "url": null
    },
    "published": "2026-10-23T11:00:04+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "a04e12cbcb8105f5",
@@ -719,7 +771,7 @@
     "url": null
    },
    "published": "2026-10-23T10:50:47+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "77ab46cb0756e518",
@@ -732,7 +784,7 @@
     "url": null
    },
    "published": "2026-10-23T10:32:06+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "ff812d2b2964e074",
@@ -745,7 +797,7 @@
     "url": null
    },
    "published": "2026-10-23T10:20:30+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "80ee63495b68ac67",
@@ -758,7 +810,7 @@
     "url": null
    },
    "published": "2026-10-23T10:10:43+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "cfe4f36ad42aa8ea",
@@ -771,7 +823,7 @@
     "url": null
    },
    "published": "2026-10-23T10:01:00+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "8da4b970e012eed2",
@@ -784,7 +836,7 @@
     "url": null
    },
    "published": "2026-10-23T10:01:00+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "d585603cf3e993e6",
@@ -797,7 +849,7 @@
     "url": null
    },
    "published": "2026-10-23T10:00:04+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "95de87a6fa4fa6a9",
@@ -810,7 +862,7 @@
     "url": null
    },
    "published": "2026-10-23T09:57:12+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "67322a67d1dc7c18",
@@ -823,7 +875,7 @@
     "url": null
    },
    "published": "2026-10-23T09:37:37+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "920d43250fcdb543",
@@ -836,7 +888,7 @@
     "url": null
    },
    "published": "2026-10-23T09:30:15+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "92345692570c5272",
@@ -849,7 +901,7 @@
     "url": null
    },
    "published": "2026-10-23T09:23:07+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "96c0482ff1babc6c",
@@ -862,7 +914,7 @@
     "url": null
    },
    "published": "2026-10-23T09:20:47+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "790f28eb8f93d72e",
@@ -875,7 +927,7 @@
     "url": null
    },
    "published": "2026-10-23T09:00:09+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "2c66ade31eb97726",
@@ -888,7 +940,7 @@
     "url": null
    },
    "published": "2026-10-23T08:45:09+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "f739060956c6837f",
@@ -901,7 +953,7 @@
     "url": null
    },
    "published": "2026-10-23T04:00:02+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "b572d4af79095c95",
@@ -914,7 +966,7 @@
     "url": null
    },
    "published": "2026-10-23T03:42:08+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "1b7071e7288f109a",
@@ -927,7 +979,7 @@
     "url": null
    },
    "published": "2026-10-23T03:28:33+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "5e15471030e51115",
@@ -940,20 +992,7 @@
     "url": null
    },
    "published": "2026-10-23T01:40:44+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
-  },
-  {
-   "id": "8e00268eb7959321",
-   "type": "news",
-   "title": "Depot After Dark: Highsmith And Wirfs Mic’d Up, Legends In Paris, Paris Field Prep",
-   "summary": "News story from Steelers Depot. Full report at the original publisher.",
-   "url": "https://steelersdepot.com/2026/10/depot-after-dark-highsmith-and-wirfs-micd-up-legends-in-paris-paris-field-prep/",
-   "source": {
-    "name": "Steelers Depot",
-    "url": null
-   },
-   "published": "2026-10-23T01:00:31+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "cbee7f788eb4e186",
@@ -966,7 +1005,7 @@
     "url": null
    },
    "published": "2026-10-23T00:17:32+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "98220d21d4066b6a",
@@ -979,7 +1018,7 @@
     "url": null
    },
    "published": "2026-10-23T00:02:53+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "028dc6c1373bcb14",
@@ -992,7 +1031,7 @@
     "url": null
    },
    "published": "2026-10-23T00:00:00+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "7a869a5ac6c79053",
@@ -1005,7 +1044,7 @@
     "url": null
    },
    "published": "2026-10-22T23:57:40+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "34e66fb3cf1ca778",
@@ -1018,7 +1057,7 @@
     "url": null
    },
    "published": "2026-10-22T23:55:09+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "46b9d884dd048fca",
@@ -1031,7 +1070,7 @@
     "url": null
    },
    "published": "2026-10-22T23:31:54+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "f384bd222f5519dd",
@@ -1044,7 +1083,7 @@
     "url": null
    },
    "published": "2026-10-22T23:25:40+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "dac8ce89208ffab2",
@@ -1057,7 +1096,7 @@
     "url": null
    },
    "published": "2026-10-22T23:16:11+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "38796afb448562a7",
@@ -1070,7 +1109,7 @@
     "url": null
    },
    "published": "2026-10-22T23:01:00+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "db34f71c94068e9b",
@@ -1083,7 +1122,7 @@
     "url": null
    },
    "published": "2026-10-22T22:56:32+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "c033c71f7e36749b",
@@ -1096,7 +1135,7 @@
     "url": null
    },
    "published": "2026-10-22T22:50:59+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "d792f0de33b72a66",
@@ -1109,7 +1148,7 @@
     "url": null
    },
    "published": "2026-10-22T22:33:37+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "12d6b704990a82ba",
@@ -1122,7 +1161,7 @@
     "url": null
    },
    "published": "2026-10-22T22:12:05+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "d9d5e495aa0edcf1",
@@ -1135,7 +1174,7 @@
     "url": null
    },
    "published": "2026-10-22T22:06:08+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "0cb53163ffbc1c6a",
@@ -1148,7 +1187,7 @@
     "url": null
    },
    "published": "2026-10-22T21:50:19+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "87e18a869c5d79e2",
@@ -1161,7 +1200,7 @@
     "url": null
    },
    "published": "2026-10-22T21:23:58+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "3aef731fbd3a0800",
@@ -1174,7 +1213,7 @@
     "url": null
    },
    "published": "2026-10-22T21:00:02+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "2265183f3671050e",
@@ -1187,7 +1226,7 @@
     "url": null
    },
    "published": "2026-10-22T20:48:07+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "ebd02b3a3d49ac63",
@@ -1200,7 +1239,7 @@
     "url": null
    },
    "published": "2026-10-22T20:39:51+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "048dffc7c8cd29a0",
@@ -1213,20 +1252,7 @@
     "url": null
    },
    "published": "2026-10-22T20:36:35+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
-  },
-  {
-   "id": "4da11744ae9de389",
-   "type": "news",
-   "title": "Steelers Under Fire For Questionable Handling Of Rookie Eli Heidenreich",
-   "summary": "Injury story from SteelerNation. Full report at the original publisher.",
-   "url": "https://www.steelernation.com/2026/10/22/steelers-handling-rookie-eli-heidenreich",
-   "source": {
-    "name": "SteelerNation",
-    "url": null
-   },
-   "published": "2026-10-22T20:26:47+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "e2d0fcac6080a01d",
@@ -1239,7 +1265,7 @@
     "url": null
    },
    "published": "2026-10-22T20:22:32+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "535145f81b3ef200",
@@ -1252,7 +1278,7 @@
     "url": null
    },
    "published": "2026-10-22T20:11:23+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "cd1b19ecfa37aef0",
@@ -1265,7 +1291,7 @@
     "url": null
    },
    "published": "2026-10-22T20:10:08+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "36657fcc381d3490",
@@ -1278,7 +1304,7 @@
     "url": null
    },
    "published": "2026-10-22T19:34:01+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "15bc0f4a33ccf6e1",
@@ -1291,7 +1317,7 @@
     "url": null
    },
    "published": "2026-10-22T19:26:44+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "a86757f107facd96",
@@ -1304,7 +1330,7 @@
     "url": null
    },
    "published": "2026-10-22T19:21:54+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "849802cb3e508282",
@@ -1317,7 +1343,7 @@
     "url": null
    },
    "published": "2026-10-22T19:21:26+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "95aeb09010ad951f",
@@ -1330,20 +1356,7 @@
     "url": null
    },
    "published": "2026-10-22T19:17:46+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
-  },
-  {
-   "id": "5d068962d3984db5",
-   "type": "news",
-   "title": "Christian Kuntz Reveals What NFL Told Steelers About Safety Risk in Paris",
-   "summary": "News story from Steelers Now. Full report at the original publisher.",
-   "url": "https://steelersnow.com/christian-kuntz-reveals-what-nfl-told-steelers-about-safety-risk-in-paris/",
-   "source": {
-    "name": "Steelers Now",
-    "url": null
-   },
-   "published": "2026-10-22T19:03:36+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "c5137555d1652443",
@@ -1356,7 +1369,7 @@
     "url": null
    },
    "published": "2026-10-22T18:34:22+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "995aec66c37b94f7",
@@ -1369,7 +1382,7 @@
     "url": null
    },
    "published": "2026-10-22T17:31:42+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "cd887e1578e4dfa3",
@@ -1382,7 +1395,7 @@
     "url": null
    },
    "published": "2026-10-22T17:30:33+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "5caf14e52c33222d",
@@ -1395,7 +1408,7 @@
     "url": null
    },
    "published": "2026-10-22T17:21:05+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "ddb286f981cc3b51",
@@ -1408,7 +1421,7 @@
     "url": null
    },
    "published": "2026-10-22T17:00:00+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "04a9eb5d2f21ce56",
@@ -1421,7 +1434,7 @@
     "url": null
    },
    "published": "2026-10-22T16:00:49+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "077ce1d78e08a36c",
@@ -1434,7 +1447,7 @@
     "url": null
    },
    "published": "2026-10-22T16:00:00+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "c7e06dc551260450",
@@ -1447,7 +1460,7 @@
     "url": null
    },
    "published": "2026-10-22T16:00:00+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "193b03cb0cf156d4",
@@ -1460,7 +1473,7 @@
     "url": null
    },
    "published": "2026-10-22T15:56:57+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "694834c0dbc25d1f",
@@ -1473,7 +1486,7 @@
     "url": null
    },
    "published": "2026-10-22T15:45:03+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "3483063cd8e4558d",
@@ -1486,7 +1499,7 @@
     "url": null
    },
    "published": "2026-10-22T15:13:01+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "969bc8b8498fe4ad",
@@ -1499,7 +1512,7 @@
     "url": null
    },
    "published": "2026-10-22T14:41:14+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "80c2c82e000c2c50",
@@ -1512,7 +1525,7 @@
     "url": null
    },
    "published": "2026-10-22T14:30:00+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "129a2f063bac9db6",
@@ -1525,7 +1538,7 @@
     "url": null
    },
    "published": "2026-10-22T14:00:15+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "bb6d0cf357641afe",
@@ -1538,7 +1551,20 @@
     "url": null
    },
    "published": "2026-10-22T14:00:00+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
+  },
+  {
+   "id": "d606ad811398c605",
+   "type": "news",
+   "title": "Steelers finding new ways to win as young players step into bigger roles",
+   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
+   "url": "https://www.steelcityunderground.com/2026/10/22/steelers-finding-new-ways-to-win-as-young-players-step-into-bigger-roles/",
+   "source": {
+    "name": "Steel City Underground",
+    "url": null
+   },
+   "published": "2026-10-22T13:41:16+00:00",
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "51f2dd78f155f07f",
@@ -1551,7 +1577,7 @@
     "url": null
    },
    "published": "2026-10-22T13:13:35+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "82455b205a8c2f5b",
@@ -1564,7 +1590,7 @@
     "url": null
    },
    "published": "2026-10-22T13:00:00+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "215b7593c009bd19",
@@ -1577,7 +1603,7 @@
     "url": null
    },
    "published": "2026-10-22T12:00:04+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "4f40bad1f6dde6b8",
@@ -1590,7 +1616,7 @@
     "url": null
    },
    "published": "2026-10-22T12:00:00+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "3f839f4eae2d1c74",
@@ -1603,7 +1629,7 @@
     "url": null
    },
    "published": "2026-10-22T11:00:00+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "7edaa99b548a0221",
@@ -1616,7 +1642,7 @@
     "url": null
    },
    "published": "2026-10-22T11:00:00+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "32a4c8ead4e6ab6d",
@@ -1629,7 +1655,7 @@
     "url": null
    },
    "published": "2026-10-22T10:05:00+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "3bf23a91c1f054af",
@@ -1642,7 +1668,7 @@
     "url": null
    },
    "published": "2026-10-22T10:00:02+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "9df95cf69fc3408d",
@@ -1655,7 +1681,7 @@
     "url": null
    },
    "published": "2026-10-22T10:00:00+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "b35dcd5b568bf1d5",
@@ -1668,7 +1694,7 @@
     "url": null
    },
    "published": "2026-10-22T09:59:01+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "793524d428eaed27",
@@ -1681,7 +1707,7 @@
     "url": null
    },
    "published": "2026-10-22T09:30:52+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "42e1fd3201e46d43",
@@ -1694,7 +1720,7 @@
     "url": null
    },
    "published": "2026-10-22T08:00:00+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "ceec840a53052142",
@@ -1707,7 +1733,7 @@
     "url": null
    },
    "published": "2026-10-22T04:22:41+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "1b9a61406f94f5ae",
@@ -1720,7 +1746,7 @@
     "url": null
    },
    "published": "2026-10-22T02:13:04+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "de7029ae747b2a54",
@@ -1733,7 +1759,7 @@
     "url": null
    },
    "published": "2026-10-22T02:02:42+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "629c58651151239f",
@@ -1746,7 +1772,7 @@
     "url": null
    },
    "published": "2026-10-22T01:43:56+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "4d1adfac3ba5a443",
@@ -1759,7 +1785,7 @@
     "url": null
    },
    "published": "2026-10-22T00:59:11+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "5f1f229ac5636551",
@@ -1772,7 +1798,7 @@
     "url": null
    },
    "published": "2026-10-22T00:50:34+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "de8ad3c092b8d777",
@@ -1785,7 +1811,7 @@
     "url": null
    },
    "published": "2026-10-21T23:07:26+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "246b096e91d3101e",
@@ -1798,7 +1824,7 @@
     "url": null
    },
    "published": "2026-10-21T22:40:06+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "a70e1b74e4c68b4b",
@@ -1811,7 +1837,7 @@
     "url": null
    },
    "published": "2026-10-21T22:34:53+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "cf7f4bdbf8b5ae8f",
@@ -1824,7 +1850,7 @@
     "url": null
    },
    "published": "2026-10-21T21:51:20+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "18b325c6ec518174",
@@ -1837,7 +1863,7 @@
     "url": null
    },
    "published": "2026-10-21T21:40:40+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "a7468b981cd165ba",
@@ -1850,7 +1876,7 @@
     "url": null
    },
    "published": "2026-10-21T20:26:35+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "a64526732c9cfa96",
@@ -1863,7 +1889,7 @@
     "url": null
    },
    "published": "2026-10-21T20:11:51+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "b7f276569999bc57",
@@ -1876,7 +1902,7 @@
     "url": null
    },
    "published": "2026-10-21T20:00:02+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "500cd44c3e74a05e",
@@ -1889,7 +1915,7 @@
     "url": null
    },
    "published": "2026-10-21T20:00:01+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "d5dc31f16ff78804",
@@ -1902,7 +1928,7 @@
     "url": null
    },
    "published": "2026-10-21T19:54:19+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "a83e1de5760ca26a",
@@ -1915,7 +1941,7 @@
     "url": null
    },
    "published": "2026-10-21T19:03:00+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "ddebb1c98d23722b",
@@ -1928,7 +1954,7 @@
     "url": null
    },
    "published": "2026-10-21T19:00:00+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   },
   {
    "id": "70ce1777bf84bf1e",
@@ -1941,33 +1967,7 @@
     "url": null
    },
    "published": "2026-10-21T18:16:46+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
-  },
-  {
-   "id": "559a9759692e1a71",
-   "type": "news",
-   "title": "3 WRs Steelers Can Trade Day 3 Draft Picks For",
-   "summary": "Trade/roster move story from All Steelers (Sports Illustrated). Full report at the original publisher.",
-   "url": "https://www.si.com/nfl/steelers/onsi/3-wide-receivers-pittsburgh-steelers-trade-day-3-draft-picks",
-   "source": {
-    "name": "All Steelers (Sports Illustrated)",
-    "url": null
-   },
-   "published": "2026-10-21T18:00:03+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
-  },
-  {
-   "id": "aa1233eb5bfc2bbe",
-   "type": "news",
-   "title": "Jalen Ramsey's DPOW honor shows Steelers have found his best role",
-   "summary": "Opinion story from Still Curtain. Full report at the original publisher.",
-   "url": "https://stillcurtain.com/jalen-ramsey-defensive-player-week-honor-shows-pittsburgh-steelers-have-found-his-best-role?utm_source=RSS",
-   "source": {
-    "name": "Still Curtain",
-    "url": null
-   },
-   "published": "2026-10-21T17:19:52+00:00",
-   "retrieved": "2026-10-23T15:02:43+00:00"
+   "retrieved": "2026-10-23T15:17:59+00:00"
   }
  ]
 }

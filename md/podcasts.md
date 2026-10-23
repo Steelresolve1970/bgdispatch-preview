@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-23T15:03:19+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T15:03:02+00:00._
+_Generated 2026-10-23T15:19:03+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T15:18:22+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Putting the boys to the test 🇫🇷](https://www.youtube.com/shorts/9u3UD3MnNGo): Pittsburgh Steelers (official), 2026-10-23 14:32 UTC

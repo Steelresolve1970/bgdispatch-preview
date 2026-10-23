@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "rumors",
  "description": "Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).",
- "generated": "2026-10-23T15:03:19+00:00",
- "data_updated": "2026-10-23T15:03:13+00:00",
- "count": 81,
+ "generated": "2026-10-23T15:19:03+00:00",
+ "data_updated": "2026-10-23T15:18:57+00:00",
+ "count": 83,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -19,6 +19,79 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/rumors",
  "items": [
+  {
+   "id": "1e04876fbc52",
+   "type": "rumor",
+   "title": "Steelers could be a dark horse trade destination for Jaguars' Brian Thomas Jr.",
+   "summary": "Trade/roster move story from Black and Teal. Full report at the original publisher.",
+   "url": "https://blackandteal.com/steelers-could-be-a-dark-horse-trade-destination-for-jaguars-brian-thomas-jr-trai-essex",
+   "source": {
+    "name": "Black and Teal",
+    "url": null,
+    "reliability_tier": "Aggregator / other",
+    "reliability_score": 1
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-23T15:18:57+00:00",
+   "updated": "2026-10-23T15:18:57+00:00",
+   "published": "2026-10-23T15:00:20+00:00",
+   "people": [
+    "Jaguars' Brian Thomas"
+   ],
+   "consensus": {
+    "cluster_id": "1e04876fbc52",
+    "independent_sources": 1,
+    "sources": [
+     "Black and Teal"
+    ],
+    "highest_tier": "Aggregator / other",
+    "highest_tier_score": 1,
+    "related_ids": []
+   }
+  },
+  {
+   "id": "75724089f665",
+   "type": "rumor",
+   "title": "Steelers Again Linked to Legend’s Nephew With Trade Deadline Approaching",
+   "summary": "Trade/roster move story from Athlon Sports. Full report at the original publisher.",
+   "url": "https://athlonsports.com/nfl/pittsburgh-steelers/steelers-again-linked-to-legends-nephew-with-trade-deadline-approaching",
+   "source": {
+    "name": "Athlon Sports",
+    "url": null,
+    "reliability_tier": "Aggregator / other",
+    "reliability_score": 1
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-23T15:18:57+00:00",
+   "updated": "2026-10-23T15:18:57+00:00",
+   "published": "2026-10-23T15:00:00+00:00",
+   "people": [],
+   "consensus": {
+    "cluster_id": "05c9cabecb81",
+    "independent_sources": 6,
+    "sources": [
+     "AOL.com",
+     "Athlon Sports",
+     "Carlisle Sentinel",
+     "Steeler Nation",
+     "SteelerNation",
+     "Yahoo Sports"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "514b4160b9de",
+     "d4ddd02fe987",
+     "f2f844c42164",
+     "39cb62c3b9ca",
+     "33136c96597c",
+     "290cc538b506",
+     "05c9cabecb81"
+    ]
+   }
+  },
   {
    "id": "c92a1295f98a",
    "type": "rumor",
@@ -225,18 +298,26 @@
     "Troy Polamalu's"
    ],
    "consensus": {
-    "cluster_id": "f2f844c42164",
-    "independent_sources": 3,
+    "cluster_id": "05c9cabecb81",
+    "independent_sources": 6,
     "sources": [
      "AOL.com",
+     "Athlon Sports",
      "Carlisle Sentinel",
+     "Steeler Nation",
+     "SteelerNation",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "75724089f665",
      "d4ddd02fe987",
-     "f2f844c42164"
+     "f2f844c42164",
+     "39cb62c3b9ca",
+     "33136c96597c",
+     "290cc538b506",
+     "05c9cabecb81"
     ]
    }
   },
@@ -261,18 +342,26 @@
     "Troy Polamalu's"
    ],
    "consensus": {
-    "cluster_id": "f2f844c42164",
-    "independent_sources": 3,
+    "cluster_id": "05c9cabecb81",
+    "independent_sources": 6,
     "sources": [
      "AOL.com",
+     "Athlon Sports",
      "Carlisle Sentinel",
+     "Steeler Nation",
+     "SteelerNation",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "75724089f665",
      "514b4160b9de",
-     "f2f844c42164"
+     "f2f844c42164",
+     "39cb62c3b9ca",
+     "33136c96597c",
+     "290cc538b506",
+     "05c9cabecb81"
     ]
    }
   },
@@ -297,18 +386,26 @@
     "Troy Polamalu's"
    ],
    "consensus": {
-    "cluster_id": "f2f844c42164",
-    "independent_sources": 3,
+    "cluster_id": "05c9cabecb81",
+    "independent_sources": 6,
     "sources": [
      "AOL.com",
+     "Athlon Sports",
      "Carlisle Sentinel",
+     "Steeler Nation",
+     "SteelerNation",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "75724089f665",
      "514b4160b9de",
-     "d4ddd02fe987"
+     "d4ddd02fe987",
+     "39cb62c3b9ca",
+     "33136c96597c",
+     "290cc538b506",
+     "05c9cabecb81"
     ]
    }
   },
@@ -1507,14 +1604,22 @@
    "people": [],
    "consensus": {
     "cluster_id": "05c9cabecb81",
-    "independent_sources": 2,
+    "independent_sources": 6,
     "sources": [
+     "AOL.com",
+     "Athlon Sports",
+     "Carlisle Sentinel",
      "Steeler Nation",
-     "SteelerNation"
+     "SteelerNation",
+     "Yahoo Sports"
     ],
-    "highest_tier": "Fan blog",
-    "highest_tier_score": 2,
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
     "related_ids": [
+     "75724089f665",
+     "514b4160b9de",
+     "d4ddd02fe987",
+     "f2f844c42164",
      "33136c96597c",
      "290cc538b506",
      "05c9cabecb81"
@@ -1541,14 +1646,22 @@
    "people": [],
    "consensus": {
     "cluster_id": "05c9cabecb81",
-    "independent_sources": 2,
+    "independent_sources": 6,
     "sources": [
+     "AOL.com",
+     "Athlon Sports",
+     "Carlisle Sentinel",
      "Steeler Nation",
-     "SteelerNation"
+     "SteelerNation",
+     "Yahoo Sports"
     ],
-    "highest_tier": "Fan blog",
-    "highest_tier_score": 2,
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
     "related_ids": [
+     "75724089f665",
+     "514b4160b9de",
+     "d4ddd02fe987",
+     "f2f844c42164",
      "39cb62c3b9ca",
      "290cc538b506",
      "05c9cabecb81"
@@ -2795,14 +2908,22 @@
    "people": [],
    "consensus": {
     "cluster_id": "05c9cabecb81",
-    "independent_sources": 2,
+    "independent_sources": 6,
     "sources": [
+     "AOL.com",
+     "Athlon Sports",
+     "Carlisle Sentinel",
      "Steeler Nation",
-     "SteelerNation"
+     "SteelerNation",
+     "Yahoo Sports"
     ],
-    "highest_tier": "Fan blog",
-    "highest_tier_score": 2,
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
     "related_ids": [
+     "75724089f665",
+     "514b4160b9de",
+     "d4ddd02fe987",
+     "f2f844c42164",
      "39cb62c3b9ca",
      "33136c96597c",
      "05c9cabecb81"
@@ -2829,14 +2950,22 @@
    "people": [],
    "consensus": {
     "cluster_id": "05c9cabecb81",
-    "independent_sources": 2,
+    "independent_sources": 6,
     "sources": [
+     "AOL.com",
+     "Athlon Sports",
+     "Carlisle Sentinel",
      "Steeler Nation",
-     "SteelerNation"
+     "SteelerNation",
+     "Yahoo Sports"
     ],
-    "highest_tier": "Fan blog",
-    "highest_tier_score": 2,
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
     "related_ids": [
+     "75724089f665",
+     "514b4160b9de",
+     "d4ddd02fe987",
+     "f2f844c42164",
      "39cb62c3b9ca",
      "33136c96597c",
      "290cc538b506"
