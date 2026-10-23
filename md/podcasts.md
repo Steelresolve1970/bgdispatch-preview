@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-23T21:32:48+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T21:32:30+00:00._
+_Generated 2026-10-23T21:43:39+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T21:43:22+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [Steelers RB Injured | Aaron Rodgers Fires Back at Paris Trip](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-23 21:12 UTC
