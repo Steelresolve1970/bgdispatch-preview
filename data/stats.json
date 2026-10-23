@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T04:43:18.665839+00:00",
+ "generated": "2026-10-23T07:46:26.686486+00:00",
  "season": 2026,
  "source": "Data: nflverse (CC-BY 4.0)",
  "source_url": "https://github.com/nflverse/nflverse-data",
@@ -17,7 +17,7 @@
    "label": "Pass TD",
    "key": "pass_td",
    "value": "12",
-   "rank": 4,
+   "rank": 5,
    "lower_is_better": false
   },
   {
@@ -65,7 +65,7 @@
    "label": "Yards allowed",
    "key": "yds_allowed",
    "value": "1,845",
-   "rank": 12,
+   "rank": 10,
    "lower_is_better": true
   },
   {
@@ -81,7 +81,7 @@
    "label": "Rush yards allowed",
    "key": "rush_yds_allowed",
    "value": "619",
-   "rank": 17,
+   "rank": 16,
    "lower_is_better": true
   },
   {
@@ -89,7 +89,7 @@
    "label": "Sacks",
    "key": "sacks",
    "value": "16",
-   "rank": 9,
+   "rank": 10,
    "lower_is_better": false
   },
   {
@@ -200,7 +200,7 @@
    "stats": {
     "Pass Yds": {
      "value": "1,487",
-     "rank": 8,
+     "rank": 9,
      "key": "pass_yds"
     },
     "YPA": {
@@ -210,7 +210,7 @@
     },
     "Pass TD": {
      "value": "12",
-     "rank": 4,
+     "rank": 5,
      "key": "pass_td"
     },
     "INT thrown": {
@@ -230,7 +230,7 @@
     },
     "Tackles": {
      "value": "1",
-     "rank": 894,
+     "rank": 896,
      "key": "tackles"
     }
    }
@@ -242,7 +242,7 @@
    "stats": {
     "Tackles": {
      "value": "15",
-     "rank": 287,
+     "rank": 291,
      "key": "tackles"
     },
     "Sacks": {
@@ -257,7 +257,7 @@
     },
     "PD": {
      "value": "2",
-     "rank": 122,
+     "rank": 124,
      "key": "pd"
     },
     "INT": {
@@ -284,27 +284,27 @@
    "stats": {
     "Rush Yds": {
      "value": "460",
-     "rank": 7,
+     "rank": 8,
      "key": "rush_yds"
     },
     "Rush TD": {
      "value": "1",
-     "rank": 36,
+     "rank": 37,
      "key": "rush_td"
     },
     "Rec": {
      "value": "21",
-     "rank": 63,
+     "rank": 68,
      "key": "rec"
     },
     "Rec Yds": {
      "value": "258",
-     "rank": 49,
+     "rank": 50,
      "key": "rec_yds"
     },
     "Rec TD": {
      "value": "1",
-     "rank": 68,
+     "rank": 71,
      "key": "rec_td"
     },
     "YAC": {
@@ -321,22 +321,22 @@
    "stats": {
     "Tackles": {
      "value": "20",
-     "rank": 207,
+     "rank": 210,
      "key": "tackles"
     },
     "Sacks": {
      "value": "1",
-     "rank": 108,
+     "rank": 111,
      "key": "sacks"
     },
     "TFL": {
      "value": "1",
-     "rank": 220,
+     "rank": 224,
      "key": "tfl"
     },
     "PD": {
      "value": "4",
-     "rank": 42,
+     "rank": 43,
      "key": "pd"
     },
     "FF": {
@@ -353,12 +353,12 @@
    "stats": {
     "Tackles": {
      "value": "35",
-     "rank": 65,
+     "rank": 66,
      "key": "tackles"
     },
     "Sacks": {
      "value": "2",
-     "rank": 54,
+     "rank": 55,
      "key": "sacks"
     },
     "TFL": {
@@ -368,7 +368,7 @@
     },
     "PD": {
      "value": "2",
-     "rank": 122,
+     "rank": 124,
      "key": "pd"
     },
     "FF": {
@@ -395,17 +395,17 @@
     },
     "Rec Yds": {
      "value": "318",
-     "rank": 30,
+     "rank": 31,
      "key": "rec_yds"
     },
     "Rec TD": {
      "value": "1",
-     "rank": 68,
+     "rank": 71,
      "key": "rec_td"
     },
     "YAC": {
      "value": "98",
-     "rank": 72,
+     "rank": 73,
      "key": "yac"
     }
    }
@@ -422,12 +422,12 @@
     },
     "Rec": {
      "value": "21",
-     "rank": 63,
+     "rank": 68,
      "key": "rec"
     },
     "Rec Yds": {
      "value": "180",
-     "rank": 89,
+     "rank": 91,
      "key": "rec_yds"
     },
     "Rec TD": {
@@ -454,7 +454,7 @@
     },
     "Rec Yds": {
      "value": "188",
-     "rank": 84,
+     "rank": 86,
      "key": "rec_yds"
     },
     "Rec TD": {
@@ -469,7 +469,7 @@
     },
     "Tackles": {
      "value": "1",
-     "rank": 894,
+     "rank": 896,
      "key": "tackles"
     }
    }
@@ -486,7 +486,7 @@
     },
     "Sacks": {
      "value": "1",
-     "rank": 108,
+     "rank": 111,
      "key": "sacks"
     },
     "TFL": {
@@ -496,7 +496,7 @@
     },
     "PD": {
      "value": "2",
-     "rank": 122,
+     "rank": 124,
      "key": "pd"
     },
     "FR": {
@@ -513,17 +513,17 @@
    "stats": {
     "Rec": {
      "value": "3",
-     "rank": 269,
+     "rank": 270,
      "key": "rec"
     },
     "Rec Yds": {
      "value": "32",
-     "rank": 260,
+     "rank": 261,
      "key": "rec_yds"
     },
     "Rec TD": {
      "value": "1",
-     "rank": 68,
+     "rank": 71,
      "key": "rec_td"
     },
     "YAC": {
@@ -550,17 +550,17 @@
     },
     "Rec": {
      "value": "24",
-     "rank": 44,
+     "rank": 46,
      "key": "rec"
     },
     "Rec Yds": {
      "value": "227",
-     "rank": 65,
+     "rank": 67,
      "key": "rec_yds"
     },
     "Rec TD": {
      "value": "1",
-     "rank": 68,
+     "rank": 71,
      "key": "rec_td"
     },
     "YAC": {
@@ -577,7 +577,7 @@
    "stats": {
     "Tackles": {
      "value": "18",
-     "rank": 231,
+     "rank": 235,
      "key": "tackles"
     },
     "PD": {
@@ -604,22 +604,22 @@
    "stats": {
     "Rush Yds": {
      "value": "77",
-     "rank": 75,
+     "rank": 76,
      "key": "rush_yds"
     },
     "Rec": {
      "value": "7",
-     "rank": 180,
+     "rank": 182,
      "key": "rec"
     },
     "Rec Yds": {
      "value": "37",
-     "rank": 247,
+     "rank": 248,
      "key": "rec_yds"
     },
     "YAC": {
      "value": "45",
-     "rank": 159,
+     "rank": 161,
      "key": "yac"
     }
    }
@@ -631,22 +631,22 @@
    "stats": {
     "Rec": {
      "value": "7",
-     "rank": 180,
+     "rank": 182,
      "key": "rec"
     },
     "Rec Yds": {
      "value": "89",
-     "rank": 157,
+     "rank": 158,
      "key": "rec_yds"
     },
     "YAC": {
      "value": "37",
-     "rank": 184,
+     "rank": 186,
      "key": "yac"
     },
     "Tackles": {
      "value": "1",
-     "rank": 894,
+     "rank": 896,
      "key": "tackles"
     }
    }
@@ -658,17 +658,17 @@
    "stats": {
     "Tackles": {
      "value": "37",
-     "rank": 57,
+     "rank": 59,
      "key": "tackles"
     },
     "TFL": {
      "value": "1",
-     "rank": 220,
+     "rank": 224,
      "key": "tfl"
     },
     "PD": {
      "value": "2",
-     "rank": 122,
+     "rank": 124,
      "key": "pd"
     },
     "INT": {
@@ -685,12 +685,12 @@
    "stats": {
     "Tackles": {
      "value": "10",
-     "rank": 439,
+     "rank": 441,
      "key": "tackles"
     },
     "Sacks": {
      "value": "3",
-     "rank": 28,
+     "rank": 29,
      "key": "sacks"
     },
     "TFL": {
@@ -712,12 +712,12 @@
    "stats": {
     "Rec": {
      "value": "15",
-     "rank": 93,
+     "rank": 94,
      "key": "rec"
     },
     "Rec Yds": {
      "value": "156",
-     "rank": 107,
+     "rank": 109,
      "key": "rec_yds"
     },
     "Rec TD": {
@@ -727,7 +727,7 @@
     },
     "YAC": {
      "value": "97",
-     "rank": 75,
+     "rank": 76,
      "key": "yac"
     }
    }
@@ -739,12 +739,12 @@
    "stats": {
     "Tackles": {
      "value": "15",
-     "rank": 287,
+     "rank": 291,
      "key": "tackles"
     },
     "Sacks": {
      "value": "2",
-     "rank": 54,
+     "rank": 55,
      "key": "sacks"
     },
     "TFL": {
@@ -766,17 +766,17 @@
    "stats": {
     "Tackles": {
      "value": "12",
-     "rank": 380,
+     "rank": 382,
      "key": "tackles"
     },
     "Sacks": {
      "value": "1.5",
-     "rank": 90,
+     "rank": 91,
      "key": "sacks"
     },
     "TFL": {
      "value": "1",
-     "rank": 220,
+     "rank": 224,
      "key": "tfl"
     },
     "FF": {
@@ -793,12 +793,12 @@
    "stats": {
     "Tackles": {
      "value": "10",
-     "rank": 439,
+     "rank": 441,
      "key": "tackles"
     },
     "TFL": {
      "value": "1",
-     "rank": 220,
+     "rank": 224,
      "key": "tfl"
     },
     "FR": {
@@ -815,7 +815,7 @@
    "stats": {
     "Tackles": {
      "value": "41",
-     "rank": 38,
+     "rank": 41,
      "key": "tackles"
     },
     "PD": {
@@ -837,17 +837,17 @@
    "stats": {
     "Tackles": {
      "value": "15",
-     "rank": 287,
+     "rank": 291,
      "key": "tackles"
     },
     "TFL": {
      "value": "2",
-     "rank": 121,
+     "rank": 123,
      "key": "tfl"
     },
     "PD": {
      "value": "2",
-     "rank": 122,
+     "rank": 124,
      "key": "pd"
     }
    }
@@ -859,12 +859,12 @@
    "stats": {
     "Tackles": {
      "value": "14",
-     "rank": 323,
+     "rank": 326,
      "key": "tackles"
     },
     "TFL": {
      "value": "1",
-     "rank": 220,
+     "rank": 224,
      "key": "tfl"
     },
     "PD": {
@@ -881,17 +881,17 @@
    "stats": {
     "Tackles": {
      "value": "14",
-     "rank": 323,
+     "rank": 326,
      "key": "tackles"
     },
     "Sacks": {
      "value": "1",
-     "rank": 108,
+     "rank": 111,
      "key": "sacks"
     },
     "TFL": {
      "value": "2",
-     "rank": 121,
+     "rank": 123,
      "key": "tfl"
     }
    }
@@ -903,7 +903,7 @@
    "stats": {
     "Tackles": {
      "value": "14",
-     "rank": 323,
+     "rank": 326,
      "key": "tackles"
     },
     "PD": {
@@ -925,12 +925,12 @@
    "stats": {
     "Tackles": {
      "value": "18",
-     "rank": 231,
+     "rank": 235,
      "key": "tackles"
     },
     "PD": {
      "value": "2",
-     "rank": 122,
+     "rank": 124,
      "key": "pd"
     },
     "INT": {
@@ -969,7 +969,7 @@
    "stats": {
     "Tackles": {
      "value": "20",
-     "rank": 207,
+     "rank": 210,
      "key": "tackles"
     },
     "PD": {
@@ -1008,7 +1008,7 @@
     },
     "Tackles": {
      "value": "2",
-     "rank": 811,
+     "rank": 812,
      "key": "tackles"
     }
    }
@@ -1025,7 +1025,7 @@
     },
     "Tackles": {
      "value": "3",
-     "rank": 748,
+     "rank": 751,
      "key": "tackles"
     }
    }
@@ -1037,7 +1037,7 @@
    "stats": {
     "Tackles": {
      "value": "1",
-     "rank": 894,
+     "rank": 896,
      "key": "tackles"
     }
    }
@@ -1061,7 +1061,7 @@
    "stats": {
     "Tackles": {
      "value": "16",
-     "rank": 267,
+     "rank": 269,
      "key": "tackles"
     }
    }
@@ -1073,7 +1073,7 @@
    "stats": {
     "Tackles": {
      "value": "7",
-     "rank": 534,
+     "rank": 538,
      "key": "tackles"
     }
    }
@@ -1085,7 +1085,7 @@
    "stats": {
     "Tackles": {
      "value": "6",
-     "rank": 584,
+     "rank": 588,
      "key": "tackles"
     }
    }
@@ -1097,7 +1097,7 @@
    "stats": {
     "Tackles": {
      "value": "4",
-     "rank": 695,
+     "rank": 699,
      "key": "tackles"
     }
    }
@@ -1109,7 +1109,7 @@
    "stats": {
     "Tackles": {
      "value": "4",
-     "rank": 695,
+     "rank": 699,
      "key": "tackles"
     }
    }
@@ -1121,7 +1121,7 @@
    "stats": {
     "Tackles": {
      "value": "2",
-     "rank": 811,
+     "rank": 812,
      "key": "tackles"
     }
    }
@@ -1133,7 +1133,7 @@
    "stats": {
     "Tackles": {
      "value": "4",
-     "rank": 695,
+     "rank": 699,
      "key": "tackles"
     }
    }
@@ -1145,7 +1145,7 @@
    "stats": {
     "Tackles": {
      "value": "4",
-     "rank": 695,
+     "rank": 699,
      "key": "tackles"
     }
    }
@@ -1157,7 +1157,7 @@
    "stats": {
     "Tackles": {
      "value": "1",
-     "rank": 894,
+     "rank": 896,
      "key": "tackles"
     }
    }
@@ -1167,6 +1167,6 @@
   "offense:passing": 61,
   "offense:rushing": 228,
   "offense:receiving": 385,
-  "defense": 1115
+  "defense": 1116
  }
 }

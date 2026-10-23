@@ -1,21 +1,21 @@
 # Steelers Team Stats
 
-_Generated 2026-10-23T07:35:58+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T04:43:18+00:00._
+_Generated 2026-10-23T07:46:46+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T07:46:26+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/stats.json_
 
 | Section | Stat | Value | NFL rank |
 |---|---|---|---|
 | Offense | Pass yards | 1,328 | 16 |
-| Offense | Pass TD | 12 | 4 |
+| Offense | Pass TD | 12 | 5 |
 | Offense | INTs thrown | 5 | 19 |
 | Offense | Rush yards | 595 | 17 |
 | Offense | Rush TD | 1 | 32 |
 | Offense | Fumbles lost | 2 | 7 |
 | Offense | Total yards | 1,923 | 20 |
-| Defense | Yards allowed | 1,845 | 12 |
+| Defense | Yards allowed | 1,845 | 10 |
 | Defense | Pass yards allowed | 1,226 | 11 |
-| Defense | Rush yards allowed | 619 | 17 |
-| Defense | Sacks | 16 | 9 |
+| Defense | Rush yards allowed | 619 | 16 |
+| Defense | Sacks | 16 | 10 |
 | Defense | Interceptions | 6 | 5 |
 | Defense | Forced fumbles | 7 | 7 |
 | Defense | Fumbles recovered | 4 | 9 |
