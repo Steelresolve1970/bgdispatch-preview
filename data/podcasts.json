@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-23T03:43:24.273807+00:00",
+ "generated": "2026-10-23T03:55:04.186774+00:00",
  "date_et": "2026-10-22",
  "days": 5,
  "display_days": 2,
- "count": 149,
+ "count": 151,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -110,7 +110,7 @@
    "url": "https://feeds.megaphone.fm/RRTET7764502074",
    "status": "ok",
    "episodes": 1488,
-   "week": 8,
+   "week": 10,
    "latest": "2026-10-22T22:03:00+00:00"
   },
   {
@@ -153,10 +153,10 @@
    "show": "Steelers Now",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp1iAMIfmmgWewzJ07_Y7oA",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 15,
-   "latest": "2026-10-22T22:05:57+00:00"
+   "latest": null
   },
   {
    "show": "The Steel City Insider (Jim Wexell, 247Sports)",
@@ -315,6 +315,14 @@
    "summary": "Podcast episode from DK Pittsburgh Sports."
   },
   {
+   "title": "Nu Leader on D-Line? | Steelers Afternoon Drive",
+   "show": "Steelers Afternoon Drive",
+   "kind": "podcast",
+   "link": "https://podcasts.apple.com/us/podcast/nu-leader-on-d-line-steelers-afternoon-drive/id1700240934?i=1000797686445",
+   "published": "2026-10-22T22:03:00+00:00",
+   "summary": "Podcast episode from Steelers Afternoon Drive."
+  },
+  {
    "title": "T.J. Watt Injured Before Paris Game | Steelers Need New DT",
    "show": "All Steelers Talk",
    "kind": "podcast",
@@ -361,6 +369,14 @@
    "link": "https://www.youtube.com/shorts/0otqWh1Uiu4",
    "published": "2026-10-22T18:57:57+00:00",
    "summary": "Video from Pittsburgh Steelers (official)."
+  },
+  {
+   "title": "Injury Bug Bites Steelers DL | Steelers Morning Rush",
+   "show": "Steelers Afternoon Drive",
+   "kind": "podcast",
+   "link": "https://podcasts.apple.com/us/podcast/injury-bug-bites-steelers-dl-steelers-morning-rush/id1700240934?i=1000797649650",
+   "published": "2026-10-22T16:59:00+00:00",
+   "summary": "Podcast episode from Steelers Afternoon Drive."
   },
   {
    "title": "Can the Steelers keep their winning streak alive in Paris?",
