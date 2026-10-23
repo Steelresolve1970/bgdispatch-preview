@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T23:32:26.047148+00:00",
+ "generated": "2026-10-22T23:59:57.339198+00:00",
  "date_et": "2026-10-22",
  "days": 5,
  "display_days": 2,
@@ -18,7 +18,7 @@
    "show": "Locked On Steelers",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7JorgD8nGLtvvMy1ogFetg",
-   "status": "error: HTTP Error 500: Internal Server Error",
+   "status": "error: HTTP Error 404: Not Found",
    "episodes": 0,
    "week": 11,
    "latest": null
@@ -90,10 +90,10 @@
    "show": "Steel City Underground",
    "kind": "podcast",
    "url": "https://feeds.feedburner.com/steelcityunderground",
-   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 45,
    "week": 2,
-   "latest": null
+   "latest": "2026-10-22T16:20:16+00:00"
   },
   {
    "show": "Steel City Underground",
