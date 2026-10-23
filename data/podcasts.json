@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-23T02:45:14.560623+00:00",
+ "generated": "2026-10-23T02:56:43.645453+00:00",
  "date_et": "2026-10-22",
  "days": 5,
  "display_days": 2,
- "count": 147,
+ "count": 148,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -99,7 +99,7 @@
    "show": "Steel City Underground",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDcNNAMkYr-DzH6_XL-0p8Q",
-   "status": "error: HTTP Error 404: Not Found",
+   "status": "error: HTTP Error 500: Internal Server Error",
    "episodes": 0,
    "week": 2,
    "latest": null
@@ -198,10 +198,10 @@
    "show": "Pittsburgh Steelers (official)",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChaRXjMDs4ppKfnTPE6Z89w",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
-   "week": 14,
-   "latest": null
+   "status": "ok",
+   "episodes": 15,
+   "week": 15,
+   "latest": "2026-10-23T02:27:31+00:00"
   },
   {
    "show": "Not Just Football with Cam Heyward",
@@ -243,13 +243,29 @@
    "show": "The Christian Kuntz Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKKBJcOGsYmwAATQv-xQYeA",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 0,
-   "latest": null
+   "latest": "2009-05-26T14:01:33+00:00"
   }
  ],
  "items": [
+  {
+   "title": "TBT to when Fast Willie went off against the Saints \ud83d\udca8 \ud83d\udcfa: #PITvsNO 10/25 at 9:30 AM ET on NFLN",
+   "show": "Pittsburgh Steelers (official)",
+   "kind": "video",
+   "link": "https://www.youtube.com/shorts/a3eiQLf6zSw",
+   "published": "2026-10-23T02:27:31+00:00",
+   "summary": "Video from Pittsburgh Steelers (official)."
+  },
+  {
+   "title": "Next stop: Paris \u2708\ufe0f",
+   "show": "Pittsburgh Steelers (official)",
+   "kind": "video",
+   "link": "https://www.youtube.com/shorts/ZS7mWo1x2-Y",
+   "published": "2026-10-23T02:24:51+00:00",
+   "summary": "Video from Pittsburgh Steelers (official)."
+  },
   {
    "title": "Bon voyage \ud83d\udc4b",
    "show": "Pittsburgh Steelers (official)",
@@ -939,14 +955,6 @@
    "summary": "Video from Still Curtain Podcast."
   },
   {
-   "title": "That crowd pop \ud83d\udca5 \ud83d\udcfa: #PITvsNO 10/25 at 9:30 AM ET on NFLN",
-   "show": "Pittsburgh Steelers (official)",
-   "kind": "video",
-   "link": "https://www.youtube.com/shorts/OlJTbqdizjI",
-   "published": "2026-10-20T18:07:45+00:00",
-   "summary": "Video from Pittsburgh Steelers (official)."
-  },
-  {
    "title": "Drive10.20.26AC: Around Campus",
    "show": "SNR Drive",
    "kind": "podcast",
@@ -1427,14 +1435,7 @@
    "summary": "Podcast episode from Steel Curtain Network (BTSC)."
   }
  ],
- "yt_channels": [
-  {
-   "show": "The Christian Kuntz Podcast",
-   "channel_id": "UCKKBJcOGsYmwAATQv-xQYeA",
-   "link": "https://www.youtube.com/channel/UCKKBJcOGsYmwAATQv-xQYeA",
-   "embed": "https://www.youtube-nocookie.com/embed/videoseries?list=UUKKBJcOGsYmwAATQv-xQYeA"
-  }
- ],
+ "yt_channels": [],
  "postgame": null,
  "directory": [
   {

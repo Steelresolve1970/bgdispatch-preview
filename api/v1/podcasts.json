@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-23T02:45:31+00:00",
- "data_updated": "2026-10-23T02:45:14+00:00",
- "count": 146,
+ "generated": "2026-10-23T02:57:00+00:00",
+ "data_updated": "2026-10-23T02:56:43+00:00",
+ "count": 147,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -19,6 +19,32 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/podcasts",
  "items": [
+  {
+   "id": "79ee87572ca2ae5c",
+   "type": "video",
+   "title": "TBT to when Fast Willie went off against the Saints 💨 📺: #PITvsNO 10/25 at 9:30 AM ET on NFLN",
+   "show": "Pittsburgh Steelers (official)",
+   "url": "https://www.youtube.com/shorts/a3eiQLf6zSw",
+   "published": "2026-10-23T02:27:31+00:00",
+   "summary": "Video from Pittsburgh Steelers (official).",
+   "source": {
+    "name": "Pittsburgh Steelers (official)",
+    "url": null
+   }
+  },
+  {
+   "id": "afb43cd24d53a8a2",
+   "type": "video",
+   "title": "Next stop: Paris ✈️",
+   "show": "Pittsburgh Steelers (official)",
+   "url": "https://www.youtube.com/shorts/ZS7mWo1x2-Y",
+   "published": "2026-10-23T02:24:51+00:00",
+   "summary": "Video from Pittsburgh Steelers (official).",
+   "source": {
+    "name": "Pittsburgh Steelers (official)",
+    "url": null
+   }
+  },
   {
    "id": "ff960fd20c41c65c",
    "type": "video",
@@ -1121,19 +1147,6 @@
    "summary": "Video from Still Curtain Podcast.",
    "source": {
     "name": "Still Curtain Podcast",
-    "url": null
-   }
-  },
-  {
-   "id": "94dd7c3daa77f925",
-   "type": "video",
-   "title": "That crowd pop 💥 📺: #PITvsNO 10/25 at 9:30 AM ET on NFLN",
-   "show": "Pittsburgh Steelers (official)",
-   "url": "https://www.youtube.com/shorts/OlJTbqdizjI",
-   "published": "2026-10-20T18:07:45+00:00",
-   "summary": "Video from Pittsburgh Steelers (official).",
-   "source": {
-    "name": "Pittsburgh Steelers (official)",
     "url": null
    }
   },
