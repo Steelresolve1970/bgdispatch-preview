@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T17:03:01.158233+00:00",
+ "generated": "2026-10-23T17:14:00.163432+00:00",
  "count": 150,
  "sources": [
   {
@@ -29,8 +29,8 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "ok",
-   "steelers_items": 24
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "steelers_items": 0
   },
   {
    "source": "Still Curtain",
@@ -113,6 +113,14 @@
    "published": "2026-10-23T17:41:28+00:00",
    "summary": "Game story from ESPN. Full report at the original publisher.",
    "id": "7d5a3054f6"
+  },
+  {
+   "title": "Steelers' Gabriel Rubio Suddenly Has A Bigger Role To Earn As Defensive Injuries Pile Up",
+   "source": "SteelerNation",
+   "link": "https://www.steelernation.com/2026/10/23/steelers-gabriel-rubio-suddenly-bigger",
+   "published": "2026-10-23T17:13:34+00:00",
+   "summary": "Injury story from SteelerNation. Full report at the original publisher.",
+   "id": "b80e485a9d"
   },
   {
    "title": "Aaron Rodgers Had An Unexpectedly Difficult Decision To Make After Buccaneers Game",
@@ -440,6 +448,15 @@
    "id": "e7f62c7ea3"
   },
   {
+   "title": "Steelers vs. Saints set for first NFL game in Paris | Black & Gold Primetime",
+   "source": "WTAE",
+   "link": "https://www.wtae.com/article/steelers-saints-paris/74229293",
+   "published": "2026-10-23T13:58:00+00:00",
+   "via": "Google News",
+   "summary": "Game story from WTAE. Full report at the original publisher.",
+   "id": "483583b121"
+  },
+  {
    "title": "T.J. Watt fine, Rico Dowdle questionable to play for Steelers vs. Saints",
    "source": "TribLive",
    "link": "https://triblive.com/sports/t-j-watt-fine-rico-dowdle-questionable-to-play-for-steelers-vs-saints/",
@@ -676,14 +693,6 @@
    "id": "edf7d3cac9"
   },
   {
-   "title": "Steelers to Watch: Five players who could make the difference against the Saints",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/23/steelers-to-watch-five-players-who-could-make-the-difference-against-the-saints/",
-   "published": "2026-10-23T12:04:25+00:00",
-   "summary": "News story from Steel City Underground. Full report at the original publisher.",
-   "id": "79aa9e2ca3"
-  },
-  {
    "title": "4 NFL bottom feeders could give Steelers a trade deadline advantage",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/4-nfl-bottom-feeders-could-give-pittsburgh-steelers-a-trade-deadline-advantage-01m5j23dryvq?utm_source=RSS",
@@ -758,6 +767,15 @@
    "id": "858f40c9af"
   },
   {
+   "title": "Steelers QB Aaron Rodgers backs NFL on holding game in Paris despite recent unrest",
+   "source": "Oskaloosa Herald",
+   "link": "https://www.oskaloosa.com/sports/national_sports/steelers-qb-aaron-rodgers-backs-nfl-on-holding-game-in-paris-despite-recent-unrest/article_4ce6543b-a8f4-5502-870a-d6074152bcf1.html",
+   "published": "2026-10-23T10:28:31+00:00",
+   "via": "Google News",
+   "summary": "Game story from Oskaloosa Herald. Full report at the original publisher.",
+   "id": "dbbeb5c29b"
+  },
+  {
    "title": "Wind storm in Paris compels Steelers to cancel outdoor practice after arriving in France",
    "source": "TribLive",
    "link": "https://triblive.com/sports/wind-storm-in-paris-compels-steelers-to-cancel-practice-after-arriving-in-france/",
@@ -812,6 +830,15 @@
    "published": "2026-10-23T09:30:15+00:00",
    "summary": "Trade/roster move story from The Athletic. Full report at the original publisher.",
    "id": "920d43250f"
+  },
+  {
+   "title": "Steelers practice at Stade de France canceled because of bad weather in Paris",
+   "source": "LancasterOnline",
+   "link": "https://lancasteronline.com/sports/nfl/steelers-practice-at-stade-de-france-canceled-because-of-bad-weather-in-paris/article_0ecf72f2-6a8f-5f4a-aac6-3f2531704b5d.html",
+   "published": "2026-10-23T09:20:47+00:00",
+   "via": "Google News",
+   "summary": "Injury story from LancasterOnline. Full report at the original publisher.",
+   "id": "96c0482ff1"
   },
   {
    "title": "Steelers practice at Stade de France canceled because of bad weather",
@@ -953,29 +980,12 @@
    "id": "d792f0de33"
   },
   {
-   "title": "Social media is not digging the Steelers' Paris travel plans ahead of their game in Paris | OutKick",
-   "source": "Fox News",
-   "link": "https://www.foxnews.com/outkick-sports/social-media-not-digging-steelers-paris-travel-plans-ahead-game-paris",
-   "published": "2026-10-22T22:12:05+00:00",
-   "via": "Google News",
-   "summary": "Game story from Fox News. Full report at the original publisher.",
-   "id": "12d6b70499"
-  },
-  {
    "title": "Steelers Afternoon Drive: Nu Leader on D-Line?",
    "source": "Steelers Now",
    "link": "https://steelersnow.com/steelers-afternoon-drive-nu-leader-on-d-line/",
    "published": "2026-10-22T22:06:08+00:00",
    "summary": "Opinion story from Steelers Now. Full report at the original publisher.",
    "id": "d9d5e495aa"
-  },
-  {
-   "title": "Steelers QB Aaron Rodgers Took Over Play Call Duties During Comeback Win",
-   "source": "SteelerNation",
-   "link": "https://www.steelernation.com/2026/10/22/steelers-germie-bernard-detailed-aaron-rodgers",
-   "published": "2026-10-22T21:50:19+00:00",
-   "summary": "Game story from SteelerNation. Full report at the original publisher.",
-   "id": "0cb53163ff"
   },
   {
    "title": "Steelers should try to pry Riq Woolen away from Eagles before trade deadline",
@@ -1057,15 +1067,6 @@
    "published": "2026-10-22T19:12:06+00:00",
    "summary": "Game story from The Athletic. Full report at the original publisher.",
    "id": "203418c5a5"
-  },
-  {
-   "title": "Steelers' Mike McCarthy Has Intriguing Opportunity To Revive Justin Herbert's Career",
-   "source": "Steeler Nation",
-   "link": "https://www.steelernation.com/2026/10/22/steelers-mike-mccarthy-intriguing-justin-herbert",
-   "published": "2026-10-22T18:34:22+00:00",
-   "via": "Google News",
-   "summary": "News story from Steeler Nation. Full report at the original publisher.",
-   "id": "c5137555d1"
   },
   {
    "title": "Steelers place DL Sebastian Joseph-Day on injured reserve",
@@ -1154,14 +1155,6 @@
    "published": "2026-10-22T14:00:00+00:00",
    "summary": "Trade/roster move story from Still Curtain. Full report at the original publisher.",
    "id": "bb6d0cf357"
-  },
-  {
-   "title": "Steelers finding new ways to win as young players step into bigger roles",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/22/steelers-finding-new-ways-to-win-as-young-players-step-into-bigger-roles/",
-   "published": "2026-10-22T13:41:16+00:00",
-   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
-   "id": "d606ad8113"
   },
   {
    "title": "Former Browns HC Slams Steelers' Mike McCarthy, Aaron Rodgers",
@@ -1324,6 +1317,15 @@
    "published": "2026-10-21T22:34:53+00:00",
    "summary": "Injury story from Still Curtain. Full report at the original publisher.",
    "id": "a70e1b74e4"
+  },
+  {
+   "title": "Steelers Starting OLB Suffers Groin Injury",
+   "source": "All Steelers (Sports Illustrated)",
+   "link": "https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-starting-alex-highsmith-suffers-groin-injury",
+   "published": "2026-10-21T21:51:20+00:00",
+   "summary": "Injury story from All Steelers (Sports Illustrated). Full report at the original publisher.",
+   "via": "Google News",
+   "id": "cf7f4bdbf8"
   }
  ],
  "dropped_bad_links": 0
