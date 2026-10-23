@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-23T07:57:21.983317+00:00",
+ "generated": "2026-10-23T09:05:00.320175+00:00",
  "date_et": "2026-10-23",
  "days": 5,
  "display_days": 2,
- "count": 154,
+ "count": 155,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -39,16 +39,16 @@
    "status": "ok",
    "episodes": 4998,
    "week": 16,
-   "latest": "2026-10-23T00:00:00+00:00"
+   "latest": "2026-10-23T08:00:00+00:00"
   },
   {
    "show": "DK Pittsburgh Sports",
    "kind": "podcast",
    "url": "https://feeds.simplecast.com/OkvCKc09",
    "status": "ok",
-   "episodes": 1001,
-   "week": 14,
-   "latest": "2026-10-23T06:25:00+00:00"
+   "episodes": 1002,
+   "week": 15,
+   "latest": "2026-10-23T06:27:00+00:00"
   },
   {
    "show": "Steelers Blitz",
@@ -90,10 +90,10 @@
    "show": "Steel City Underground",
    "kind": "podcast",
    "url": "https://feeds.feedburner.com/steelcityunderground",
-   "status": "ok",
-   "episodes": 45,
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "episodes": 0,
    "week": 2,
-   "latest": "2026-10-22T16:20:16+00:00"
+   "latest": null
   },
   {
    "show": "Steel City Underground",
@@ -250,6 +250,22 @@
   }
  ],
  "items": [
+  {
+   "title": "Let's Ride: Steelers Keys to Victory vs. the Saints, Week 7",
+   "show": "Steel Curtain Network (BTSC)",
+   "kind": "podcast",
+   "link": "https://podcasts.apple.com/us/podcast/id905962218",
+   "published": "2026-10-23T08:00:00+00:00",
+   "summary": "Podcast episode from Steel Curtain Network (BTSC)."
+  },
+  {
+   "title": "DK's Daily Shot of Steelers: Je voudrais voir \u2026",
+   "show": "DK Pittsburgh Sports",
+   "kind": "podcast",
+   "link": "https://podcasts.apple.com/us/podcast/id1072021022",
+   "published": "2026-10-23T06:27:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports."
+  },
   {
    "title": "Scout\u2019s Eye with Matt Williamson: No bad tactics",
    "show": "DK Pittsburgh Sports",
@@ -1473,14 +1489,6 @@
    "link": "https://podcasts.apple.com/us/podcast/steelers-vs-bucs-bold-predictions/id1627248534?i=1000796922691",
    "published": "2026-10-18T12:35:00+00:00",
    "summary": "Podcast episode from All Steelers Talk."
-  },
-  {
-   "title": "Last Minute Thoughts: Black and Bold, Week 6 vs. Tampa Bay",
-   "show": "Steel Curtain Network (BTSC)",
-   "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/last-minute-thoughts-black-and-bold-week-6-vs-tampa-bay/id905962218?i=1000796897704",
-   "published": "2026-10-18T08:00:00+00:00",
-   "summary": "Podcast episode from Steel Curtain Network (BTSC)."
   }
  ],
  "yt_channels": [],

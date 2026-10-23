@@ -1,6 +1,6 @@
 # Steelers Depth Chart
 
-_Generated 2026-10-23T07:57:44+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T07:57:29+00:00._
+_Generated 2026-10-23T09:05:17+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T09:05:07+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/depth-chart.json_
 
 ### Offense (3WR 1TE)
@@ -12,7 +12,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/depth-chart.json_
 | FB | Riley Nowakowski |  |  |  |
 | WR | DK Metcalf | Kaden Wetjen | Cole Burgess (Injured Reserve) |  |
 | WR | Germie Bernard | Michael Pittman Jr. |  |  |
-| WR | Ben Skowronek | Roman Wilson (Injured Reserve) |  |  |
+| WR | Ben Skowronek (Out) | Roman Wilson (Injured Reserve) |  |  |
 | TE | Darnell Washington | Pat Freiermuth | Robert Tonyan |  |
 | LT | Troy Fautanu | Dylan Cook | Jack Driscoll (Injured Reserve) |  |
 | LG | Mason McCormick | Brock Hoffman | Gennings Dunker (Injured Reserve) |  |
@@ -35,7 +35,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/depth-chart.json_
 | SS | Robert Spears-Jennings | DeShon Elliott (Injured Reserve) |  |  |
 | FS | Jaquan Brisker |  |  |  |
 | RCB | Jamel Dean | Daylen Everette | Doneiko Slaughter | Daequan Hardy |
-| NB | Jalen Ramsey | Brandin Echols | Donte Kent (Physically Unable to Perform) |  |
+| NB | Jalen Ramsey | Brandin Echols (Out) | Donte Kent (Physically Unable to Perform) |  |
 
 ### Special teams (Special Teams)
 

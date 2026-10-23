@@ -1,10 +1,12 @@
 # Steelers Injury Report
 
-_Generated 2026-10-23T07:57:44+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T07:35:48+00:00._
+_Generated 2026-10-23T09:05:17+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T09:05:06+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/injuries.json_
 
 | Player | Pos | Status | Injury | Est. return | Updated |
 |---|---|---|---|---|---|
+| [Ben Skowronek](https://www.nfl.com/injuries/) | WR | Out | Calf |  |  |
+| [Brandin Echols](https://www.nfl.com/injuries/) | CB | Out | Hamstring |  |  |
 | [Cole Burgess](https://www.nfl.com/transactions/) | WR | Injured Reserve |  |  |  |
 | [Daequan Hardy](https://www.nfl.com/transactions/) | DB | Injured Reserve |  |  |  |
 | [DeShon Elliott](https://www.nfl.com/transactions/) | DB | Injured Reserve |  |  |  |
