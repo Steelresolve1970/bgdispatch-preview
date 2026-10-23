@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-23T00:59:29+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T00:59:13+00:00._
+_Generated 2026-10-23T01:12:47+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T01:12:30+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Video: [Bon voyage 👋](https://www.youtube.com/shorts/GH5dW9k06g4): Pittsburgh Steelers (official), 2026-10-23 00:29 UTC
 - Podcast: [Steelers Preview: Previewing Steelers vs. Saints, Week 7](https://podcasts.apple.com/us/podcast/id905962218): Steel Curtain Network (BTSC), 2026-10-23 00:00 UTC
 - Video: [Steelers' DeShon Elliott Set to Return from IR, Join Jaquan Brisker, Robert Spears-Jennings in Paris](https://www.youtube.com/shorts/KsowgIWMjcA): Locked On Steelers, 2026-10-22 22:14 UTC
 - Video: [Nu Leader on D-Line? | Steelers Afternoon Drive](https://www.youtube.com/watch?v=lnaN5WeNfUQ): Steelers Now, 2026-10-22 22:05 UTC
@@ -91,7 +92,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [That crowd pop 💥 📺: #PITvsNO 10/25 at 9:30 AM ET on NFLN](https://www.youtube.com/shorts/OlJTbqdizjI): Pittsburgh Steelers (official), 2026-10-20 18:07 UTC
 - Podcast: [Drive10.20.26AC: Around Campus](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-20-26ac-mp3): SNR Drive, 2026-10-20 18:00 UTC
 - Podcast: [What We Know About The Steelers Following Week 6 - Steelers Gabriel Rubio Interview](https://arthurmoats55.libsyn.com/what_we_know_about_the_steelers_following_week_6_-_steelers_gabriel_rubiomp3): The Arthur Moats Experience, 2026-10-20 17:39 UTC
-- Video: [So nice he had to do it twice‼️ 📺: #PITvsNO 10/25 at 9:30 AM ET on NFLN](https://www.youtube.com/shorts/fuUj8eUqn4g): Pittsburgh Steelers (official), 2026-10-20 16:04 UTC
 - Video: [Just having Tom Brady was enough for them to think they had a chance 😮‍💨🔥#patriots #tombrady](https://www.youtube.com/shorts/YF0Yc1KkCzA): Not Just Football with Cam Heyward, 2026-10-20 16:00 UTC
 - Podcast: [G'Day Steelers Nation: It was a Steelers win, but OT was avoidable](https://podcasts.apple.com/us/podcast/gday-steelers-nation-it-was-a-steelers-win-but-ot/id905962218?i=1000797281766): Steel Curtain Network (BTSC), 2026-10-20 15:30 UTC
 - Podcast: [Hour 1: All Around Contributions from the Steelers](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-102026-mp3): Steelers Blitz, 2026-10-20 15:00 UTC

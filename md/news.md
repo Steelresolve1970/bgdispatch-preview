@@ -1,13 +1,14 @@
 # Steelers News
 
-_Generated 2026-10-23T00:59:29+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T00:58:00+00:00._
+_Generated 2026-10-23T01:12:47+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T01:12:00+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Steelers fan event at Bastille bar canceled amid civil unrest in Paris](https://www.espn.com/nfl/story/_/id/50250407/steelers-fan-event-paris-canceled-amid-civil-unrest): ESPN, 2026-10-23 01:55 UTC
+- [Depot After Dark: Highsmith And Wirfs Mic’d Up, Legends In Paris, Paris Field Prep](https://steelersdepot.com/2026/10/depot-after-dark-highsmith-and-wirfs-micd-up-legends-in-paris-paris-field-prep/): Steelers Depot, 2026-10-23 01:00 UTC
 - [Pittsburgh Steelers focus on resting up ahead of flight into uneasy France](https://www.wpxi.com/video/pittsburgh-steelers-focus-resting-up-ahead-flight-into-uneasy-france/4038af57-3f3c-4dc9-bf3a-e6c534e62235/): WPXI, 2026-10-23 00:17 UTC
 - [BTSC Thursday Night Football thread: Patriots at Bears](https://www.behindthesteelcurtain.com/pittsburgh-steelers-discussion/176751/btsc-thursday-night-football-thread-patriots-at-bears): Behind the Steel Curtain, 2026-10-23 00:00 UTC
 - [Pittsburgh couple travels to Paris to support the Steelers](https://www.wtae.com/article/pittsburgh-steelers-fans-paris/74222101): WTAE, 2026-10-22 23:59 UTC
 - [Steelers' Cameron Heyward Explains Why Aaron Rodgers' Pocket Movement Is Still A Nightmare For Defenses](https://www.steelernation.com/2026/10/22/steelers-cameron-heyward-aaron-rodgers-nightmare): SteelerNation, 2026-10-22 23:55 UTC
-- [Steelers fan event at Bastille bar canceled amid civil unrest in Paris](https://www.espn.com/nfl/story/_/id/50250407/steelers-fan-event-paris-canceled-amid-civil-unrest): ESPN, 2026-10-22 23:51 UTC
 - [Steelers' Latest Defensive Line Injuries Make DeForest Buckner An Urgent Trade Target](https://www.steelernation.com/2026/10/22/steelers-deforest-buckner-urgent-trade): SteelerNation, 2026-10-22 23:31 UTC
 - [Bucky Brooks Thinks ‘Explosive’ Saints Offense Could Give Steelers ‘Tough Time’ In Week 7](https://steelersdepot.com/2026/10/bucky-brooks-thinks-explosive-saints-offense-could-give-steelers-tough-time-in-week-7/): Steelers Depot, 2026-10-22 23:30 UTC
 - [Steelers Urged to Trade For Nephew of Pittsburgh Legend](https://steelersnow.com/steelers-urged-to-trade-for-nephew-of-pittsburgh-legend/): Steelers Now, 2026-10-22 23:25 UTC
@@ -86,7 +87,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Ray Fittipaldo's Steelers chat transcript: 10.22.26](https://www.post-gazette.com/sports/steelers/2026/10/22/live-steelers-chat/stories/202610220045): Pittsburgh Post-Gazette, 2026-10-22 14:30 UTC
 - [Study: Pittsburgh Steelers Are Creating An Impressive YAC Attack](https://steelersdepot.com/2026/10/study-pittsburgh-is-creating-an-impressive-yac-attack/): Steelers Depot, 2026-10-22 14:15 UTC
 - [Steelers Rookie WR Germie Bernard Speaks out on Aaron Rodgers](https://heavy.com/sports/nfl/pittsburgh-steelers/aaron-rodgers-germie-bernard-nfl-news-heyward-podcast/): Heavy.com, 2026-10-22 14:07 UTC
-- [Steelers See Launching Point For Offense From Finish In Tampa: ‘How We Want To Operate’](https://steelersdepot.com/2026/10/steelers-see-launching-point-for-offense-from-finish-in-tampa-how-we-want-to-operate/): Steelers Depot, 2026-10-22 14:00 UTC
 - [Matt's Stats: Week 7 vs. Saints](https://www.steelers.com/news/matt-s-stats-week-7-vs-saints): Steelers.com (official), 2026-10-22 14:00 UTC
 - [Aaron Rodgers Pried Marquez Valdes-Scantling Away From Chargers](https://steelersnow.com/aaron-rodgers-pried-marquez-valdes-scantling-away-from-chargers/): Steelers Now, 2026-10-22 14:00 UTC
 - [Steelers have an obvious Chris Godwin Jr. trade opportunity they can't ignore](https://stillcurtain.com/pittsburgh-steelers-have-an-obvious-chris-godwin-jr-trade-opportunity-they-can-t-ignore-01m5fra9e66k?utm_source=RSS): Still Curtain, 2026-10-22 14:00 UTC
