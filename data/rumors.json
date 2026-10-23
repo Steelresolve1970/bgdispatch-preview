@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T13:57:44.530957+00:00",
+ "generated": "2026-10-23T14:08:38.410844+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -43,6 +43,34 @@
   ]
  },
  "rumors": [
+  {
+   "id": "595924af2d84",
+   "title": "Steelers safety DeShon Elliott could return Sunday, a year removed from his gruesome injury",
+   "source": "Pittsburgh Post-Gazette",
+   "link": "https://www.post-gazette.com/sports/steelers/2026/10/23/will-deshon-elliott-play-sunday/stories/202610230028",
+   "published": "2026-10-23T14:00:00+00:00",
+   "summary": "Injury story from Pittsburgh Post-Gazette. Full report at the original publisher.",
+   "tier": "Beat writer / team",
+   "tier_score": 3,
+   "subjects": [
+    "DeShon Elliott"
+   ],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-23T14:08:38.410844+00:00",
+   "consensus": {
+    "cluster_id": "595924af2d84",
+    "independent_sources": 1,
+    "sources": [
+     "Pittsburgh Post-Gazette"
+    ],
+    "highest_tier": "Beat writer / team",
+    "highest_tier_score": 3,
+    "related_ids": []
+   },
+   "updated": "2026-10-23T14:08:38.410844+00:00"
+  },
   {
    "id": "3e782f3c4f92",
    "title": "Saints\u2019 Week 7 Friday Injury Report: Two Starters Questionable",
@@ -2682,6 +2710,36 @@
    "updated": "2026-10-19T17:56:36.682233+00:00"
   },
   {
+   "id": "ad0d88472a5e",
+   "title": "4 Colts trade candidates the Steelers could poach after Ballard firing",
+   "source": "Yahoo Sports",
+   "link": "https://sports.yahoo.com/articles/4-colts-trade-candidates-steelers-150004178.html",
+   "published": "2026-10-19T15:00:04+00:00",
+   "summary": "Rumor-style report from Yahoo Sports on a Steelers roster move. Full details at the source.",
+   "tier": "National insider",
+   "tier_score": 4,
+   "subjects": [],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-23T14:08:38.410844+00:00",
+   "consensus": {
+    "cluster_id": "9d210fc15717",
+    "independent_sources": 2,
+    "sources": [
+     "Still Curtain",
+     "Yahoo Sports"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "2726676a075e",
+     "9d210fc15717"
+    ]
+   },
+   "updated": "2026-10-23T14:08:38.410844+00:00"
+  },
+  {
    "id": "2726676a075e",
    "title": "4 Colts trade candidates the Steelers could poach after Ballard firing",
    "source": "Still Curtain",
@@ -2697,13 +2755,15 @@
    "first_seen": "2026-10-19T17:56:36.682233+00:00",
    "consensus": {
     "cluster_id": "9d210fc15717",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
-     "Still Curtain"
+     "Still Curtain",
+     "Yahoo Sports"
     ],
-    "highest_tier": "Fan blog",
-    "highest_tier_score": 2,
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
     "related_ids": [
+     "ad0d88472a5e",
      "9d210fc15717"
     ]
    },
@@ -2725,13 +2785,15 @@
    "first_seen": "2026-10-21T16:22:56.249208+00:00",
    "consensus": {
     "cluster_id": "9d210fc15717",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
-     "Still Curtain"
+     "Still Curtain",
+     "Yahoo Sports"
     ],
-    "highest_tier": "Fan blog",
-    "highest_tier_score": 2,
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
     "related_ids": [
+     "ad0d88472a5e",
      "2726676a075e"
     ]
    },
