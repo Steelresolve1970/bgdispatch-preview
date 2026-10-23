@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-23T01:58:48+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T01:57:21+00:00._
+_Generated 2026-10-23T02:10:26+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T02:09:10+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Steelers fan event at Bastille bar canceled amid civil unrest in Paris](https://www.espn.com/nfl/story/_/id/50250407/steelers-fan-event-paris-canceled-amid-civil-unrest): ESPN, 2026-10-23 02:09 UTC
@@ -89,7 +89,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Matt's Stats: Week 7 vs. Saints](https://www.steelers.com/news/matt-s-stats-week-7-vs-saints): Steelers.com (official), 2026-10-22 14:00 UTC
 - [Aaron Rodgers Pried Marquez Valdes-Scantling Away From Chargers](https://steelersnow.com/aaron-rodgers-pried-marquez-valdes-scantling-away-from-chargers/): Steelers Now, 2026-10-22 14:00 UTC
 - [Steelers have an obvious Chris Godwin Jr. trade opportunity they can't ignore](https://stillcurtain.com/pittsburgh-steelers-have-an-obvious-chris-godwin-jr-trade-opportunity-they-can-t-ignore-01m5fra9e66k?utm_source=RSS): Still Curtain, 2026-10-22 14:00 UTC
-- [Steelers finding new ways to win as young players step into bigger roles](https://www.steelcityunderground.com/2026/10/22/steelers-finding-new-ways-to-win-as-young-players-step-into-bigger-roles/): Steel City Underground, 2026-10-22 13:41 UTC
 - [Morning Break: Saints begin practice in France, Martin Emerson Jr. earns NFC honors](https://www.neworleanssaints.com/news/morning-break-saints-begin-practice-in-france-martin-emerson-jr-earns-nfc-honors-new-orleans-news-headlines-10-22-2026): New Orleans Saints | NewOrleansSaints.com, 2026-10-22 13:01 UTC
 - [Steelers fans, unfazed by French unrest, find Paris to be far from terrible](https://www.post-gazette.com/sports/steelers/2026/10/22/steelers-game-fans-paris-protests-riots/stories/202610220044): Pittsburgh Post-Gazette, 2026-10-22 13:00 UTC
 - [Patrick Graham is seeing what Steelers hoped for from Keeanu Benton this season](https://stillcurtain.com/patrick-graham-is-seeing-what-pittsburgh-steelers-hoped-for-from-keeanu-benton-this-season-01m5g4cb88bn?utm_source=RSS): Still Curtain, 2026-10-22 12:00 UTC
@@ -138,7 +137,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers Can Shut Down This Trade Idea](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-shut-down-this-trade-idea-cornerback): All Steelers (Sports Illustrated), 2026-10-21 13:00 UTC
 - [Steelers at Saints in Paris: How to watch/listen to the game](https://www.steelers.com/news/steelers-at-saints-in-paris-how-to-watch-listen-to-the-game): Steelers.com (official), 2026-10-21 13:00 UTC
 - [Stade de France: An iconic arena](https://www.steelers.com/news/stade-de-france-an-iconic-arena): Steelers.com (official), 2026-10-21 13:00 UTC
-- [Steelers have more than international travel to worry about against the Saints](https://www.steelcityunderground.com/2026/10/21/steelers-have-more-than-international-travel-to-worry-about-against-the-saints/): Steel City Underground, 2026-10-21 12:15 UTC
 - [Germie Bernard is making Steelers forget all about the Makai Lemon debacle](https://stillcurtain.com/germie-bernard-is-making-pittsburgh-steelers-forget-all-about-the-makai-lemon-debacle-01m5a5vwkehr?utm_source=RSS): Still Curtain, 2026-10-21 12:00 UTC
 - [Steelers cornerbacks are giving fans a reason to move on from Joey Porter Jr.](https://stillcurtain.com/pittsburgh-steelers-cornerbacks-are-giving-fans-a-reason-to-move-on-from-joey-porter-jr-01m5d5gawsq8?utm_source=RSS): Still Curtain, 2026-10-21 11:00 UTC
 - [Tim Benz: Usage of Jalen Ramsey, Germie Bernard, Rico Dowdle among the lessons learned from Steelers’ latest win](https://triblive.com/sports/tim-benz-usage-of-jalen-ramsey-germie-bernard-rico-dowdle-among-the-lessons-learned-from-steelers-latest-win/): TribLive, 2026-10-21 10:16 UTC
@@ -153,6 +151,8 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Pittsburgh Steelers sign wide receiver with Aaron Rodgers ties](https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-sign-wide-receiver-with-aaron-rodgers-ties.html): PennLive (Nick Farabaugh), 2026-10-20 20:18 UTC
 - [NFL will proceed with plans for Steelers-Saints game in Paris despite unrest](https://www.nytimes.com/athletic/7708509/2026/10/20/nfl-paris-steelers-saints-security/): The Athletic, 2026-10-20 20:03 UTC
 - [Steelers sign Valdes-Scantling](https://www.steelers.com/news/steelers-sign-valdes-scantling): Steelers.com (official), 2026-10-20 20:00 UTC
+- [Former Steelers running back arrested on domestic assault charge](https://www.audacy.com/937thefan/sports/pittsburgh-steelers/cordarrelle-patterson): Audacy, 2026-10-20 16:21 UTC
+- [Steelers Rookie WR Quickly Joining Rookie of the Year Mix](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-rookie-germie-bernard-quickly-joining-rookie-year-mix): All Steelers (Sports Illustrated), 2026-10-20 16:00 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

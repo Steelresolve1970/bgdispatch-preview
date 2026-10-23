@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T01:57:21.139646+00:00",
+ "generated": "2026-10-23T02:09:10.563230+00:00",
  "count": 150,
  "sources": [
   {
@@ -29,8 +29,8 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "ok",
-   "steelers_items": 24
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "steelers_items": 0
   },
   {
    "source": "Still Curtain",
@@ -812,14 +812,6 @@
    "id": "bb6d0cf357"
   },
   {
-   "title": "Steelers finding new ways to win as young players step into bigger roles",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/22/steelers-finding-new-ways-to-win-as-young-players-step-into-bigger-roles/",
-   "published": "2026-10-22T13:41:16+00:00",
-   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
-   "id": "d606ad8113"
-  },
-  {
    "title": "Morning Break: Saints begin practice in France, Martin Emerson Jr. earns NFC honors",
    "source": "New Orleans Saints | NewOrleansSaints.com",
    "link": "https://www.neworleanssaints.com/news/morning-break-saints-begin-practice-in-france-martin-emerson-jr-earns-nfc-honors-new-orleans-news-headlines-10-22-2026",
@@ -1212,14 +1204,6 @@
    "id": "27c9ea19ea"
   },
   {
-   "title": "Steelers have more than international travel to worry about against the Saints",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/21/steelers-have-more-than-international-travel-to-worry-about-against-the-saints/",
-   "published": "2026-10-21T12:15:47+00:00",
-   "summary": "News story from Steel City Underground. Full report at the original publisher.",
-   "id": "dd96e02d3b"
-  },
-  {
    "title": "Germie Bernard is making Steelers forget all about the Makai Lemon debacle",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/germie-bernard-is-making-pittsburgh-steelers-forget-all-about-the-makai-lemon-debacle-01m5a5vwkehr?utm_source=RSS",
@@ -1330,6 +1314,24 @@
    "published": "2026-10-20T20:00:38+00:00",
    "summary": "Trade/roster move story from Steelers.com (official). Full report at the original publisher.",
    "id": "c28a1cb63a"
+  },
+  {
+   "title": "Former Steelers running back arrested on domestic assault charge",
+   "source": "Audacy",
+   "link": "https://www.audacy.com/937thefan/sports/pittsburgh-steelers/cordarrelle-patterson",
+   "published": "2026-10-20T16:21:00+00:00",
+   "via": "Google News",
+   "summary": "News story from Audacy. Full report at the original publisher.",
+   "id": "39e19a1835"
+  },
+  {
+   "title": "Steelers Rookie WR Quickly Joining Rookie of the Year Mix",
+   "source": "All Steelers (Sports Illustrated)",
+   "link": "https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-rookie-germie-bernard-quickly-joining-rookie-year-mix",
+   "published": "2026-10-20T16:00:03+00:00",
+   "summary": "News story from All Steelers (Sports Illustrated). Full report at the original publisher.",
+   "via": "Google News",
+   "id": "3dc35dfa5c"
   }
  ],
  "dropped_bad_links": 0

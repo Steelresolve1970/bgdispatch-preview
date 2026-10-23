@@ -1,6 +1,6 @@
 # NFL Insider Posts (last 3 days)
 
-_Generated 2026-10-23T01:58:48+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T01:57:24+00:00._
+_Generated 2026-10-23T02:10:26+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T02:09:13+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/insiders.json_
 
 - [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3myioqvaz4k2s), 2026-10-22 22:13 UTC: @rapsheet.bsky.social posted about injuries.
@@ -18,7 +18,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/insiders.json_
 - [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mycx6272qc2h), 2026-10-20 15:28 UTC: @rapsheet.bsky.social posted about a roster move.
 - [Christopher Carter (Locked On) on Bluesky](https://bsky.app/profile/cartercritiques.bsky.social/post/3myctfgtdye2x), 2026-10-20 14:20 UTC: @cartercritiques.bsky.social posted about the Steelers.
 - [Christopher Carter (Locked On) on Bluesky](https://bsky.app/profile/cartercritiques.bsky.social/post/3myclknaf7k2b), 2026-10-20 12:00 UTC: @cartercritiques.bsky.social posted about the Steelers.
-- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mybk6azh3s2m), 2026-10-20 02:03 UTC: @rapsheet.bsky.social posted about injuries.
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
