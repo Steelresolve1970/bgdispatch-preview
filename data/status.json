@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-23T13:35:59.437819+00:00",
+ "last_run": "2026-10-23T13:46:55.694608+00:00",
  "results": [
   {
    "fetcher": "apply_grade_edits.py",
@@ -10,7 +10,7 @@
   {
    "fetcher": "fetch_news.py",
    "ok": true,
-   "seconds": 9.0,
+   "seconds": 10.5,
    "last_line": "news: 150 ticker: 30"
   },
   {
@@ -28,7 +28,7 @@
   {
    "fetcher": "build_boxscores.py",
    "ok": true,
-   "seconds": 2.5,
+   "seconds": 2.0,
    "last_line": "boxscores 6"
   },
   {
@@ -46,7 +46,7 @@
   {
    "fetcher": "fetch_podcasts.py",
    "ok": true,
-   "seconds": 6.0,
+   "seconds": 5.5,
    "last_line": "episodes past 5 days: 156 | embed-fallback channels: 0 | post-game: 0"
   },
   {
@@ -94,8 +94,8 @@
   {
    "fetcher": "fetch_college.py",
    "ok": true,
-   "seconds": 2.0,
-   "last_line": "needs 5 players 20 with news 18"
+   "seconds": 0.5,
+   "last_line": "college tracker fresh; skipped"
   },
   {
    "fetcher": "fetch_draft_hub.py",
