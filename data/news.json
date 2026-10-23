@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T16:40:59.945504+00:00",
+ "generated": "2026-10-23T16:52:10.096633+00:00",
  "count": 150,
  "sources": [
   {
@@ -29,8 +29,8 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
-   "steelers_items": 0
+   "status": "ok",
+   "steelers_items": 24
   },
   {
    "source": "Still Curtain",
@@ -72,7 +72,7 @@
    "source": "Yahoo Sports",
    "url": "https://sports.yahoo.com/nfl/rss/",
    "status": "ok",
-   "steelers_items": 1
+   "steelers_items": 2
   },
   {
    "source": "Google News",
@@ -110,9 +110,26 @@
    "title": "Steelers' Rodgers backs NFL on holding Paris game despite recent unrest",
    "source": "ESPN",
    "link": "https://www.espn.com/nfl/story/_/id/50256507/steelers-rodgers-backs-nfl-paris-game-recent-unrest",
-   "published": "2026-10-23T17:38:12+00:00",
+   "published": "2026-10-23T17:41:28+00:00",
    "summary": "Game story from ESPN. Full report at the original publisher.",
    "id": "7d5a3054f6"
+  },
+  {
+   "title": "Steelers vs. Saints: Three must-know storylines for NFL's first-ever Paris game",
+   "source": "NFL.com",
+   "link": "https://www.nfl.com/news/steelers-vs-saints-preview-week-7-paris-game?remove_header",
+   "published": "2026-10-23T16:46:54+00:00",
+   "via": "Google News",
+   "summary": "Game story from NFL.com. Full report at the original publisher.",
+   "id": "97d93df45e"
+  },
+  {
+   "title": "Fittipaldo: Steelers \u2018Very Excited\u2019 About Undrafted Rookie DL Kevin Jobity Jr.",
+   "source": "Steelers Depot",
+   "link": "https://steelersdepot.com/2026/10/fittipaldo-steelers-very-excited-for-undrafted-rookie-dl-kevin-jobity-jr/",
+   "published": "2026-10-23T16:45:02+00:00",
+   "summary": "Draft story from Steelers Depot. Full report at the original publisher.",
+   "id": "20b8f485da"
   },
   {
    "title": "The Steelers Shouldn\u2019t Be Playing in Paris | Steelers Morning Rush",
@@ -219,15 +236,6 @@
    "published": "2026-10-23T15:45:53+00:00",
    "summary": "News story from Steelers Depot. Full report at the original publisher.",
    "id": "fd402f76c3"
-  },
-  {
-   "title": "Colts QB Anthony Richardson facing marijuana charge",
-   "source": "Reuters",
-   "link": "https://www.reuters.com/sports/colts-qb-anthony-richardson-facing-marijuana-charge--flm-2026-10-23/",
-   "published": "2026-10-23T15:36:03+00:00",
-   "via": "Google News",
-   "summary": "News story from Reuters. Full report at the original publisher.",
-   "id": "81720ff1ab"
   },
   {
    "title": "Danny Stutsman, Daniel Carlson, Chris Rumph II, Noah Fant, Vernon Broughton press conference | Saints vs. Steelers 2026 NFL Week 7",
@@ -652,6 +660,14 @@
    "id": "edf7d3cac9"
   },
   {
+   "title": "Steelers to Watch: Five players who could make the difference against the Saints",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/23/steelers-to-watch-five-players-who-could-make-the-difference-against-the-saints/",
+   "published": "2026-10-23T12:04:25+00:00",
+   "summary": "News story from Steel City Underground. Full report at the original publisher.",
+   "id": "79aa9e2ca3"
+  },
+  {
    "title": "Steelers \u2018Owe It To The Players\u2019 To Try To Add Via Trade, Fittipaldo Says",
    "source": "Steelers Depot",
    "link": "https://steelersdepot.com/2026/10/steelers-owe-it-to-the-players-to-try-to-add-via-trade-fittipaldo-says/",
@@ -698,14 +714,6 @@
    "published": "2026-10-23T11:38:54+00:00",
    "summary": "Game story from PennLive (Nick Farabaugh). Full report at the original publisher.",
    "id": "14d0f3a803"
-  },
-  {
-   "title": "Steelers Stock Watch 2026 \u2013 S Robert Spears-Jennings",
-   "source": "Steelers Depot",
-   "link": "https://steelersdepot.com/2026/10/steelers-stock-watch-2026-s-robert-spears-jennings-4/",
-   "published": "2026-10-23T11:00:53+00:00",
-   "summary": "News story from Steelers Depot. Full report at the original publisher.",
-   "id": "7849343b77"
   },
   {
    "title": "4 wide receivers Steelers should target ahead of the NFL trade deadline",
@@ -1148,6 +1156,14 @@
    "id": "bb6d0cf357"
   },
   {
+   "title": "Steelers finding new ways to win as young players step into bigger roles",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/22/steelers-finding-new-ways-to-win-as-young-players-step-into-bigger-roles/",
+   "published": "2026-10-22T13:41:16+00:00",
+   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
+   "id": "d606ad8113"
+  },
+  {
    "title": "Former Browns HC Slams Steelers' Mike McCarthy, Aaron Rodgers",
    "source": "All Steelers (Sports Illustrated)",
    "link": "https://www.si.com/nfl/steelers/onsi/former-browns-eric-mangini-slams-pittsburgh-steelers-mike-mccarthy-aaron-rodgers",
@@ -1308,24 +1324,6 @@
    "published": "2026-10-21T22:34:53+00:00",
    "summary": "Injury story from Still Curtain. Full report at the original publisher.",
    "id": "a70e1b74e4"
-  },
-  {
-   "title": "Steelers Starting OLB Suffers Groin Injury",
-   "source": "All Steelers (Sports Illustrated)",
-   "link": "https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-starting-alex-highsmith-suffers-groin-injury",
-   "published": "2026-10-21T21:51:20+00:00",
-   "summary": "Injury story from All Steelers (Sports Illustrated). Full report at the original publisher.",
-   "via": "Google News",
-   "id": "cf7f4bdbf8"
-  },
-  {
-   "title": "Saints Wednesday Injury Report: 2026 Week 7 vs. Pittsburgh Steelers",
-   "source": "New Orleans Saints | NewOrleansSaints.com",
-   "link": "https://www.neworleanssaints.com/news/injury-report-pittsburgh-steelers-vs-new-orleans-saints-2026-nfl-week-7-wednesday",
-   "published": "2026-10-21T21:40:40+00:00",
-   "via": "Google News",
-   "summary": "Injury story from New Orleans Saints | NewOrleansSaints.com. Full report at the original publisher.",
-   "id": "18b325c6ec"
   }
  ],
  "dropped_bad_links": 0

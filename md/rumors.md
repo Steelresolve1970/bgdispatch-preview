@@ -1,10 +1,12 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-23T16:41:54+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T16:41:47+00:00._
+_Generated 2026-10-23T16:52:44+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T16:52:38+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
 - **Rumor** · tier: Aggregator / other · consensus: 7 source(s), top tier National insider
   [Steelers Again Linked to Legend’s Nephew With Trade Deadline Approaching](https://www.yardbarker.com/nfl/articles/steelers_again_linked_to_legends_nephew_with_trade_deadline_approaching/s1_17615_44464382): Yardbarker, first seen 2026-10-23 16:41 UTC
+- **Rumor** · tier: National insider · consensus: 3 source(s), top tier National insider
+  [Steelers bring back Aaron Rodgers’ former Packers target after Chargers release](https://sports.yahoo.com/articles/steelers-bring-back-aaron-rodgers-160000327.html): Yahoo Sports, first seen 2026-10-23 16:52 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [Steelers could be a dark horse trade destination for Jaguars' Brian Thomas Jr.](https://blackandteal.com/steelers-could-be-a-dark-horse-trade-destination-for-jaguars-brian-thomas-jr-trai-essex): Black and Teal, first seen 2026-10-23 15:18 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 7 source(s), top tier National insider

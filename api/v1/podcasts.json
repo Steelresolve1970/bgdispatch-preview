@@ -2,8 +2,8 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-23T16:41:54+00:00",
- "data_updated": "2026-10-23T16:41:34+00:00",
+ "generated": "2026-10-23T16:52:44+00:00",
+ "data_updated": "2026-10-23T16:52:27+00:00",
  "count": 161,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
@@ -19,6 +19,71 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/podcasts",
  "items": [
+  {
+   "id": "1b9e81dc0a3db20d",
+   "type": "video",
+   "title": "Smitty's Six Pack of Steelers-Saints Topics | THE PITTSBURGH FOOTBALL SHOW",
+   "show": "Steelers Now",
+   "url": "https://www.youtube.com/watch?v=n8h905SxKl0",
+   "published": "2026-10-23T16:49:44+00:00",
+   "summary": "Video from Steelers Now.",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   }
+  },
+  {
+   "id": "2214c23b451e1799",
+   "type": "video",
+   "title": "Boots on the Ground in Paris with Nick Farabaugh | THE PITTSBURGH FOOTBALL SHOW",
+   "show": "Steelers Now",
+   "url": "https://www.youtube.com/watch?v=hhdtzzAYxKk",
+   "published": "2026-10-23T16:43:07+00:00",
+   "summary": "Video from Steelers Now.",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   }
+  },
+  {
+   "id": "339f0740d125d3df",
+   "type": "video",
+   "title": "The Steelers Shouldn't Be Playing in Paris | Steelers Morning Rush",
+   "show": "Steelers Now",
+   "url": "https://www.youtube.com/watch?v=4r5GQlXNOCw",
+   "published": "2026-10-23T16:37:52+00:00",
+   "summary": "Video from Steelers Now.",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   }
+  },
+  {
+   "id": "3ae866ee18e43948",
+   "type": "video",
+   "title": "Santonio Holmes & Ryan Shazier live from Paris 🙌🇫🇷",
+   "show": "Pittsburgh Steelers (official)",
+   "url": "https://www.youtube.com/shorts/3_gyHud9pTc",
+   "published": "2026-10-23T16:32:06+00:00",
+   "summary": "Video from Pittsburgh Steelers (official).",
+   "source": {
+    "name": "Pittsburgh Steelers (official)",
+    "url": null
+   }
+  },
+  {
+   "id": "a761b78042c5fbbf",
+   "type": "video",
+   "title": "Freiermuth, Heyward, Metcalf, Queen, Watt & Warren Pressers (October 23) | Pittsburgh Steelers",
+   "show": "Pittsburgh Steelers (official)",
+   "url": "https://www.youtube.com/watch?v=3xkRPHfnAD0",
+   "published": "2026-10-23T16:30:00+00:00",
+   "summary": "Video from Pittsburgh Steelers (official).",
+   "source": {
+    "name": "Pittsburgh Steelers (official)",
+    "url": null
+   }
+  },
   {
    "id": "7b2055f73c775a81",
    "type": "podcast_episode",
@@ -865,19 +930,6 @@
    }
   },
   {
-   "id": "25e69eb1f5def1c5",
-   "type": "video",
-   "title": "8 on the move 🌪️ 📺: #PITvsNO 10/25 at 9:30 AM ET on NFLN",
-   "show": "Pittsburgh Steelers (official)",
-   "url": "https://www.youtube.com/shorts/DAK6nmsyqNE",
-   "published": "2026-10-21T15:47:31+00:00",
-   "summary": "Video from Pittsburgh Steelers (official).",
-   "source": {
-    "name": "Pittsburgh Steelers (official)",
-    "url": null
-   }
-  },
-  {
    "id": "69fe1a6db8244c33",
    "type": "podcast_episode",
    "title": "The Steelers Fix: Dream Scenario Trades for the Steelers before the Deadline",
@@ -913,19 +965,6 @@
    "summary": "Podcast episode from All Steelers Talk.",
    "source": {
     "name": "All Steelers Talk",
-    "url": null
-   }
-  },
-  {
-   "id": "ca9f456cd0005326",
-   "type": "video",
-   "title": "You already know the vibes 🙌",
-   "show": "Pittsburgh Steelers (official)",
-   "url": "https://www.youtube.com/shorts/HdzKsylahSs",
-   "published": "2026-10-21T14:49:13+00:00",
-   "summary": "Video from Pittsburgh Steelers (official).",
-   "source": {
-    "name": "Pittsburgh Steelers (official)",
     "url": null
    }
   },
@@ -1190,19 +1229,6 @@
    }
   },
   {
-   "id": "9e2616a59aa805e1",
-   "type": "video",
-   "title": "Aaron Rodgers, Steelers QBs Zip It Around In the Rain",
-   "show": "Steelers Now",
-   "url": "https://www.youtube.com/watch?v=wGbvT-xgteI",
-   "published": "2026-10-20T21:40:52+00:00",
-   "summary": "Video from Steelers Now.",
-   "source": {
-    "name": "Steelers Now",
-    "url": null
-   }
-  },
-  {
    "id": "6f5c98455f6f8d5a",
    "type": "video",
    "title": "The Steelers Need to Run the Ball on Third Down More Often 🚨 #steelers #nfl",
@@ -1398,19 +1424,6 @@
    }
   },
   {
-   "id": "372fa524cec8b7c1",
-   "type": "video",
-   "title": "Why Did Steelers Sign MVS? | Steelers Morning Rush",
-   "show": "Steelers Now",
-   "url": "https://www.youtube.com/watch?v=Y1a4toUay64",
-   "published": "2026-10-20T14:10:27+00:00",
-   "summary": "Video from Steelers Now.",
-   "source": {
-    "name": "Steelers Now",
-    "url": null
-   }
-  },
-  {
    "id": "037ac1b2147ac119",
    "type": "podcast_episode",
    "title": "Why Did Steelers Sign MVS? | Steelers Morning Rush",
@@ -1602,19 +1615,6 @@
    "summary": "Video from Locked On Steelers.",
    "source": {
     "name": "Locked On Steelers",
-    "url": null
-   }
-  },
-  {
-   "id": "10c5412234c910c2",
-   "type": "video",
-   "title": "Will Bernard Breakout Blow Up WR Plans? | Steelers Afternoon Drive",
-   "show": "Steelers Now",
-   "url": "https://www.youtube.com/watch?v=7KJmrLW9OyQ",
-   "published": "2026-10-19T22:34:51+00:00",
-   "summary": "Video from Steelers Now.",
-   "source": {
-    "name": "Steelers Now",
     "url": null
    }
   },
