@@ -1,49 +1,49 @@
 # Steelers Draft Central
 
-_Generated 2026-10-23T07:14:07+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T07:13:56+00:00._
+_Generated 2026-10-23T07:25:06+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T07:24:55+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/draft.json_
 
-Steelers projected picks: R1 #22, R2 #54
+Steelers projected picks: R1 #23, R2 #55
 
 ## Needs and top prospects
 
 ### 1. Quarterback
-- **Darian Mensah** (QB, Miami, our board #5): chance available R1 #22 1%, R2 #54 0%. 135/167, 1,764 pass yds, 18 TD, 1 INT; 15 rush, 85 yds, 2 TD
-- **Drew Mestemaker** (QB, Oklahoma State, our board #6): chance available R1 #22 2%, R2 #54 0%. 136/203, 1,940 pass yds, 16 TD, 6 INT; 21 rush, 142 yds, 2 TD
-- **Arch Manning** (QB, Texas, our board #7): chance available R1 #22 3%, R2 #54 0%. 107/167, 1,298 pass yds, 11 TD, 5 INT; 48 rush, 99 yds
-- **Dante Moore** (QB, Oregon, our board #9): chance available R1 #22 7%, R2 #54 0%. 69/99, 926 pass yds, 9 TD, 0 INT; 10 rush, -7 yds
-- **Trinidad Chambliss** (QB, Ole Miss, our board #33): chance available R1 #22 75%, R2 #54 12%. 1,676 pass yds, 14 TD, 4 INT this season
-- **Gunner Stockton** (QB, Georgia, our board #39): chance available R1 #22 81%, R2 #54 23%. 1,570 pass yds, 16 TD, 4 INT this season
-- **Conner Weigman** (QB, Houston, our board #54): chance available R1 #22 90%, R2 #54 51%. 1,770 pass yds, 20 TD, 2 INT this season
+- **Darian Mensah** (QB, Miami, our board #5): chance available R1 #23 1%, R2 #55 0%. 135/167, 1,764 pass yds, 18 TD, 1 INT; 15 rush, 85 yds, 2 TD
+- **Drew Mestemaker** (QB, Oklahoma State, our board #6): chance available R1 #23 1%, R2 #55 0%. 136/203, 1,940 pass yds, 16 TD, 6 INT; 21 rush, 142 yds, 2 TD
+- **Arch Manning** (QB, Texas, our board #7): chance available R1 #23 2%, R2 #55 0%. 107/167, 1,298 pass yds, 11 TD, 5 INT; 48 rush, 99 yds
+- **Dante Moore** (QB, Oregon, our board #9): chance available R1 #23 5%, R2 #55 0%. 69/99, 926 pass yds, 9 TD, 0 INT; 10 rush, -7 yds
+- **Trinidad Chambliss** (QB, Ole Miss, our board #33): chance available R1 #23 73%, R2 #55 11%. 1,676 pass yds, 14 TD, 4 INT this season
+- **Gunner Stockton** (QB, Georgia, our board #39): chance available R1 #23 80%, R2 #55 21%. 1,570 pass yds, 16 TD, 4 INT this season
+- **Conner Weigman** (QB, Houston, our board #54): chance available R1 #23 89%, R2 #55 49%. 1,770 pass yds, 20 TD, 2 INT this season
 
 ### 2. Cornerback
-- **Leonard Moore** (CB, Notre Dame, our board #10): chance available R1 #22 5%, R2 #54 0%. 13 tackles, 5 PD
-- **Ellis Robinson IV** (CB, Georgia, our board #17): chance available R1 #22 31%, R2 #54 0%. 13 tackles, 1 INT, 4 PD
-- **Ashton Hampton** (CB, Clemson, our board #21): chance available R1 #22 48%, R2 #54 0%. 19 tackles, 1 INT, 9 PD
-- **Kelley Jones** (CB, Mississippi State, our board #27): chance available R1 #22 68%, R2 #54 1%. 21 tackles, 6 PD
-- **Peyton Bowen** (CB, Oklahoma, our board #36): chance available R1 #22 84%, R2 #54 12%. 29 tackles, 2.5 TFL, 1 sacks, 1 INT, 5 PD
-- **Zabien Brown** (CB, Alabama, our board #57): chance available R1 #22 95%, R2 #54 57%. 19 tackles, 0 TFL, 0 sacks, 4 PD
+- **Leonard Moore** (CB, Notre Dame, our board #10): chance available R1 #23 4%, R2 #55 0%. 13 tackles, 5 PD
+- **Ellis Robinson IV** (CB, Georgia, our board #17): chance available R1 #23 27%, R2 #55 0%. 13 tackles, 1 INT, 4 PD
+- **Ashton Hampton** (CB, Clemson, our board #21): chance available R1 #23 44%, R2 #55 0%. 19 tackles, 1 INT, 9 PD
+- **Kelley Jones** (CB, Mississippi State, our board #27): chance available R1 #23 65%, R2 #55 1%. 21 tackles, 6 PD
+- **Peyton Bowen** (CB, Oklahoma, our board #36): chance available R1 #23 82%, R2 #55 11%. 29 tackles, 2.5 TFL, 1 sacks, 1 INT, 5 PD
+- **Zabien Brown** (CB, Alabama, our board #57): chance available R1 #23 95%, R2 #55 55%. 19 tackles, 0 TFL, 0 sacks, 4 PD
 
 ### 3. Safety
-- **KJ Bolden** (S, Georgia, our board #13): chance available R1 #22 16%, R2 #54 0%. 22 tackles, 0.5 sacks, 1 INT, 2 PD
-- **Brauntae Johnson** (S, Notre Dame, our board #41): chance available R1 #22 86%, R2 #54 24%. 1 tackles, 0 TFL, 0 sacks, 1 PD
-- **Kingston Lopa** (S, California, our board #69): chance available R1 #22 96%, R2 #54 72%. 27 tackles, 5 INT, 1 PD
-- **Zach Lutmer** (S, Iowa, our board #70): chance available R1 #22 96%, R2 #54 73%. 34 tackles, 4 PD
+- **KJ Bolden** (S, Georgia, our board #13): chance available R1 #23 14%, R2 #55 0%. 22 tackles, 0.5 sacks, 1 INT, 2 PD
+- **Brauntae Johnson** (S, Notre Dame, our board #41): chance available R1 #23 85%, R2 #55 23%. 1 tackles, 0 TFL, 0 sacks, 1 PD
+- **Kingston Lopa** (S, California, our board #69): chance available R1 #23 96%, R2 #55 70%. 27 tackles, 5 INT, 1 PD
+- **Zach Lutmer** (S, Iowa, our board #70): chance available R1 #23 96%, R2 #55 71%. 34 tackles, 4 PD
 
 ### 4. Inside linebacker
-- **Sammy Brown** (LB, Clemson, our board #24): chance available R1 #22 58%, R2 #54 1%. 40 tackles, 1 sack, 1 PD
-- **Chris Cole** (LB, Georgia, our board #34): chance available R1 #22 79%, R2 #54 11%. 40 tackles, 2.5 sacks, 3 PD, 2 FR
-- **Rasheem Biles** (LB, Texas, our board #68): chance available R1 #22 96%, R2 #54 71%. 49 tackles, 1 sack, 2 INT, 1 PD
-- **Kyngstonn Viliamu-Asa** (LB, Notre Dame, our board #71): chance available R1 #22 96%, R2 #54 74%. 13 tackles, 1 INT, 1 FR
+- **Sammy Brown** (LB, Clemson, our board #24): chance available R1 #23 55%, R2 #55 1%. 40 tackles, 1 sack, 1 PD
+- **Chris Cole** (LB, Georgia, our board #34): chance available R1 #23 77%, R2 #55 9%. 40 tackles, 2.5 sacks, 3 PD, 2 FR
+- **Rasheem Biles** (LB, Texas, our board #68): chance available R1 #23 95%, R2 #55 69%. 49 tackles, 1 sack, 2 INT, 1 PD
+- **Kyngstonn Viliamu-Asa** (LB, Notre Dame, our board #71): chance available R1 #23 96%, R2 #55 72%. 13 tackles, 1 INT, 1 FR
 
 ### 5. Wide receiver
-- **Jeremiah Smith** (WR, Ohio State, our board #2): chance available R1 #22 0%, R2 #54 0%. 52 rec, 984 yds, 12 TD; 2 rush, 7 yds
-- **Cam Coleman** (WR, Texas, our board #12): chance available R1 #22 11%, R2 #54 0%. 19 rec, 322 yds, 6 TD
-- **Charlie Becker** (WR, Indiana, our board #14): chance available R1 #22 18%, R2 #54 0%. 39 rec, 694 yds, 8 TD
-- **Ryan Coleman-Williams** (WR, Alabama, our board #31): chance available R1 #22 76%, R2 #54 5%. 23 catches, 415 yds, 4 TD
-- **Nick Marsh** (WR, Indiana, our board #35): chance available R1 #22 82%, R2 #54 10%. 32 catches, 585 yds, 7 TD
-- **KJ Duff** (WR, Rutgers, our board #48): chance available R1 #22 93%, R2 #54 38%. 42 catches, 741 yds, 9 TD
-- **Duce Robinson** (WR, Florida State, our board #55): chance available R1 #22 95%, R2 #54 53%. 22 catches, 407 yds, 4 TD
+- **Jeremiah Smith** (WR, Ohio State, our board #2): chance available R1 #23 0%, R2 #55 0%. 52 rec, 984 yds, 12 TD; 2 rush, 7 yds
+- **Cam Coleman** (WR, Texas, our board #12): chance available R1 #23 8%, R2 #55 0%. 19 rec, 322 yds, 6 TD
+- **Charlie Becker** (WR, Indiana, our board #14): chance available R1 #23 15%, R2 #55 0%. 39 rec, 694 yds, 8 TD
+- **Ryan Coleman-Williams** (WR, Alabama, our board #31): chance available R1 #23 74%, R2 #55 4%. 23 catches, 415 yds, 4 TD
+- **Nick Marsh** (WR, Indiana, our board #35): chance available R1 #23 81%, R2 #55 9%. 32 catches, 585 yds, 7 TD
+- **KJ Duff** (WR, Rutgers, our board #48): chance available R1 #23 92%, R2 #55 36%. 42 catches, 741 yds, 9 TD
+- **Duce Robinson** (WR, Florida State, our board #55): chance available R1 #23 94%, R2 #55 51%. 22 catches, 407 yds, 4 TD
 
 _Availability method (estimate): Estimate, not a prediction: a prospect's real draft slot ~ Normal(mean = our board rank, sd = (4 + 0.30*rank) * position factor).
 Chance he is still there at pick k = P(slot > k-1) = 1 - Phi((k - 0.5 - rank) / sd). Position factor widens the spread for positions
