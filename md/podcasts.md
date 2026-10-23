@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-23T22:05:17+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T22:05:01+00:00._
+_Generated 2026-10-23T22:16:04+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T22:15:47+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Video: [Saints Preview & Predictions | Steelers Afternoon Drive](https://www.youtube.com/watch?v=voEIPYX3YNw): Steelers Now, 2026-10-23 21:57 UTC
 - Video: [THE PITTSBURGH FOOTBALL SHOW, Episode 7, Oct. 23, 2026](https://www.youtube.com/watch?v=m3oM_Pej1Tk): Steelers Now, 2026-10-23 21:51 UTC
 - Podcast: [Steelers RB Injured | Aaron Rodgers Fires Back at Paris Trip](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-23 21:12 UTC
 - Podcast: [The Terrible Take - Episode 2059 - October 23, 2026](https://podcasts.apple.com/us/podcast/id405990739): The Terrible Podcast (Steelers Depot), 2026-10-23 21:00 UTC
@@ -88,7 +89,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Steelers vs. Saints Week 7 Preview | Aaron Rodgers Problem Brewing](https://redcircle.com/shows/62750d24-c3c9-4be8-919a-ff22b312fb19/episodes/713cf51f-6e13-4adb-977b-bd7b8f477ea3): Still Curtain Podcast, 2026-10-21 19:35 UTC
 - Video: [The rookie Germie Bernard got his first NFL TD at the perfect time! 🔥👏#germiebernard #steelers](https://www.youtube.com/shorts/VoBCAmwhJqs): Not Just Football with Cam Heyward, 2026-10-21 17:11 UTC
 - Podcast: [Steelers Offense a One-Trick Pony? | Steelers Morning Rush](https://podcasts.apple.com/us/podcast/steelers-offense-a-one-trick-pony-steelers-morning-rush/id1700240934?i=1000797476047): Steelers Afternoon Drive, 2026-10-21 17:06 UTC
-- Video: [Steelers Offense a One-Trick Pony? | Steelers Morning Rush](https://www.youtube.com/watch?v=-zQt3m3PEa0): Steelers Now, 2026-10-21 17:05 UTC
 - Video: [The Terrible Podcast — Steelers Vs Bucs All-22 Review, Valdes-Scantling Return, Monday Presser Recap](https://www.youtube.com/watch?v=dTb7GC3ZHUs): The Terrible Podcast (Steelers Depot), 2026-10-21 16:52 UTC
 - Podcast: [The Terrible Podcast — Steelers Vs. Buccaneers All-22 Review, Valdes-Scantling Return, Monday Presser Recaps, & More](https://podcasts.apple.com/us/podcast/the-terrible-podcast-steelers-vs-buccaneers-all-22/id405990739?i=1000797472358): The Terrible Podcast (Steelers Depot), 2026-10-21 16:37 UTC
 - Podcast: [The Steelers Fix: Dream Scenario Trades for the Steelers before the Deadline](https://podcasts.apple.com/us/podcast/the-steelers-fix-dream-scenario-trades-for-the/id905962218?i=1000797805895): Steel Curtain Network (BTSC), 2026-10-21 15:30 UTC
@@ -176,7 +176,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [STEELERS SQUAD SHOW: McCarthy ROLLS Ankle, Steelers Big COMEBACK Leads To 1st Road Win In OT](https://podcasts.apple.com/us/podcast/steelers-squad-show-mccarthy-rolls-ankle-steelers-big/id1140522532?i=1000796979708): Locked On Steelers, 2026-10-18 22:38 UTC
 - Podcast: [Steelers Beat Bucs in OT! WILD GAME](https://podcasts.apple.com/us/podcast/steelers-beat-bucs-in-ot-wild-game/id1627248534?i=1000796978945): All Steelers Talk, 2026-10-18 22:23 UTC
 - Podcast: [SCN Post-Game Show: The Jekyll and Hyde Steelers beat Tampa Bay in OT](https://podcasts.apple.com/us/podcast/scn-post-game-show-the-jekyll-and-hyde-steelers/id905962218?i=1000797805897): Steel Curtain Network (BTSC), 2026-10-18 22:17 UTC
-- Podcast: [DK’s Live Shot of Steelers: Postgame vs. Buccaneers](https://podcasts.apple.com/us/podcast/dks-live-shot-of-steelers-postgame-vs-buccaneers/id1072021022?i=1000796977662): DK Pittsburgh Sports, 2026-10-18 22:08 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
