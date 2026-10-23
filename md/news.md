@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-23T20:24:01+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T20:23:28+00:00._
+_Generated 2026-10-23T20:34:50+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T20:34:16+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Steelers' Mike McCarthy Has A Tempting Shortcut As Receiver Injuries Pile Up](https://www.steelernation.com/2026/10/23/steelers-mike-mccarthy-tempting-shortcut): SteelerNation, 2026-10-23 20:13 UTC
