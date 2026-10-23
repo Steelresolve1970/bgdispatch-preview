@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-23T04:32:00+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T04:30:30+00:00._
+_Generated 2026-10-23T04:43:32+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T04:42:15+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Steelers fan event at Bastille bar canceled amid civil unrest in Paris](https://www.espn.com/nfl/story/_/id/50250407/steelers-fan-event-paris-canceled-amid-civil-unrest): ESPN, 2026-10-23 04:29 UTC

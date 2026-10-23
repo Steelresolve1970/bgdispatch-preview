@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T01:35:33.194899+00:00",
+ "generated": "2026-10-23T04:43:19.168056+00:00",
  "season": 2026,
  "source": "Data: nflverse (CC-BY 4.0)",
  "source_url": "https://github.com/nflverse/nflverse-data",
@@ -162,7 +162,7 @@
    "lower_is_better": false,
    "min_note": "Min. 10 attempts per team game",
    "file": "player-ypa.json",
-   "count": 35
+   "count": 34
   },
   {
    "key": "pass_td",
@@ -189,7 +189,7 @@
    "lower_is_better": false,
    "min_note": "Min. 10 attempts per team game",
    "file": "player-passer_rtg.json",
-   "count": 35
+   "count": 34
   },
   {
    "key": "rush_yds",

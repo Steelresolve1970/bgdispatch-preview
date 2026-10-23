@@ -1,27 +1,27 @@
 {
- "generated": "2026-10-23T04:31:57.784232+00:00",
+ "generated": "2026-10-23T04:43:29.681062+00:00",
  "season": 2026,
  "week": 7,
  "games": [
   {
    "id": "401873010",
    "date": "2026-10-23T00:15Z",
-   "state": "pre",
-   "detail": "Thu 10/22 8:15 PM ET",
-   "completed": false,
+   "state": "post",
+   "detail": "Final",
+   "completed": true,
    "away": {
     "abbr": "NE",
     "name": "New England Patriots",
-    "score": null,
-    "winner": null,
-    "record": "4-2"
+    "score": "24",
+    "winner": false,
+    "record": "4-3"
    },
    "home": {
     "abbr": "CHI",
     "name": "Chicago Bears",
-    "score": null,
-    "winner": null,
-    "record": "4-2"
+    "score": "30",
+    "winner": true,
+    "record": "5-2"
    }
   },
   {
@@ -352,7 +352,7 @@
     "name": "Chicago Bears",
     "score": "31",
     "winner": true,
-    "record": "4-2"
+    "record": "5-2"
    },
    "home": {
     "abbr": "ATL",
@@ -422,7 +422,7 @@
     "name": "New England Patriots",
     "score": "26",
     "winner": true,
-    "record": "4-2"
+    "record": "4-3"
    }
   },
   {

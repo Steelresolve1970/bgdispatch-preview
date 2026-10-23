@@ -1,6 +1,6 @@
 # Steelers Opponent Preview
 
-_Generated 2026-10-23T04:32:00+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T04:31:51+00:00._
+_Generated 2026-10-23T04:43:32+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T04:43:23+00:00._
 
 Week 7: Steelers at **New Orleans Saints** (NO 2-4), kickoff 2026-10-25 13:30 UTC, Stade de France.
 
@@ -25,7 +25,7 @@ Last 5: NO W 24-17 @ BAL L 35-27 vs LV L 45-24 vs ATL L 23-13 vs MIN W 34-27 @ N
 
 | Group | Stat | PIT | NO |
 |---|---|---|---|
-| Offense | Points Per Game | 22.8 (17) | 25.3 (10) |
+| Offense | Points Per Game | 22.8 (18) | 25.3 (11) |
 | Offense | Total Yards | 320.5 (21) | 321.5 (20) |
 | Offense | Yards Passing | 221.3 (18) | 224.2 (17) |
 | Offense | Yards Rushing | 99.2 (20) | 97.3 (21) |

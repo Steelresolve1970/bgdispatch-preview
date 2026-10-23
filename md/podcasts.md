@@ -1,9 +1,10 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-23T04:32:00+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T04:31:44+00:00._
+_Generated 2026-10-23T04:43:32+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T04:43:16+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [Steelers Rookie Class Answers Call, Ready to Carry Roster? | DeShon Elliott's Return Frees Up DBs](https://lockedonpodcasts.com/podcasts/locked-on-steelers/): Locked On Steelers, 2026-10-23 04:30 UTC
+- Video: [Steelers Rookie Class Answers Call, Ready to Carry Roster? | DeShon Elliott's Return Frees Up DBs](https://www.youtube.com/watch?v=beELd1XoLY4): Locked On Steelers, 2026-10-23 03:56 UTC
 - Podcast: [SCB Steelers Podcast 495 - Buccin' a Trend](https://scblitz.podbean.com/e/scb-steelers-podcast-495-buccin-a-trend/): Steel City Blitz, 2026-10-23 03:37 UTC
 - Video: [TBT to when Fast Willie went off against the Saints 💨 📺: #PITvsNO 10/25 at 9:30 AM ET on NFLN](https://www.youtube.com/shorts/a3eiQLf6zSw): Pittsburgh Steelers (official), 2026-10-23 02:27 UTC
 - Video: [Next stop: Paris ✈️](https://www.youtube.com/shorts/ZS7mWo1x2-Y): Pittsburgh Steelers (official), 2026-10-23 02:24 UTC

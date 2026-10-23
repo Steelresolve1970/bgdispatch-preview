@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-23T04:30:31.236079+00:00",
+ "generated": "2026-10-23T04:42:16.136497+00:00",
  "season": 2026,
- "through": "2026-10-19",
- "games_counted": 93,
+ "through": "2026-10-22",
+ "games_counted": 94,
  "divisions": {
   "AFC East": [
    {
@@ -23,15 +23,15 @@
     "abbr": "NE",
     "name": "New England Patriots",
     "w": 4,
-    "l": 2,
+    "l": 3,
     "t": 0,
-    "pct": 0.667,
-    "pf": 136,
-    "pa": 113,
-    "diff": 23,
+    "pct": 0.571,
+    "pf": 160,
+    "pa": 143,
+    "diff": 17,
     "div": "2-0",
     "conf": "4-1",
-    "strk": "W3"
+    "strk": "L1"
    },
    {
     "abbr": "NYJ",
@@ -310,6 +310,20 @@
     "strk": "W5"
    },
    {
+    "abbr": "CHI",
+    "name": "Chicago Bears",
+    "w": 5,
+    "l": 2,
+    "t": 0,
+    "pct": 0.714,
+    "pf": 180,
+    "pa": 143,
+    "diff": 37,
+    "div": "0-2",
+    "conf": "3-2",
+    "strk": "W2"
+   },
+   {
     "abbr": "GB",
     "name": "Green Bay Packers",
     "w": 4,
@@ -322,20 +336,6 @@
     "div": "1-1",
     "conf": "3-2",
     "strk": "W3"
-   },
-   {
-    "abbr": "CHI",
-    "name": "Chicago Bears",
-    "w": 4,
-    "l": 2,
-    "t": 0,
-    "pct": 0.667,
-    "pf": 150,
-    "pa": 119,
-    "diff": 31,
-    "div": "0-2",
-    "conf": "3-2",
-    "strk": "W1"
    },
    {
     "abbr": "DET",
