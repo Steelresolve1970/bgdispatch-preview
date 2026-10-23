@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-23T04:18:36.513517+00:00",
+ "last_run": "2026-10-23T04:32:00.751893+00:00",
  "results": [
   {
    "fetcher": "apply_grade_edits.py",
@@ -10,7 +10,7 @@
   {
    "fetcher": "fetch_news.py",
    "ok": true,
-   "seconds": 2.0,
+   "seconds": 2.5,
    "last_line": "news: 150 ticker: 30"
   },
   {
@@ -40,19 +40,19 @@
   {
    "fetcher": "fetch_film.py",
    "ok": false,
-   "seconds": 47.5,
+   "seconds": 48.0,
    "last_line": "film: only 8/25 feeds answered; keeping previous data"
   },
   {
    "fetcher": "fetch_podcasts.py",
    "ok": true,
-   "seconds": 21.0,
-   "last_line": "episodes past 5 days: 151 | embed-fallback channels: 1 | post-game: 0"
+   "seconds": 22.0,
+   "last_line": "episodes past 5 days: 152 | embed-fallback channels: 1 | post-game: 0"
   },
   {
    "fetcher": "fetch_featured.py",
    "ok": true,
-   "seconds": 0.5,
+   "seconds": 1.0,
    "last_line": "preview New Orleans Saints Pittsburgh Steelers vs New Orleans Saints | 2026 Week 7 Game Preview"
   },
   {
@@ -173,13 +173,13 @@
    "fetcher": "fetch_quotes.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "quotes: 10 kept from 133 articles"
+   "last_line": "quotes: 10 kept from 132 articles"
   },
   {
    "fetcher": "build_machine.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "machine layer: {'news': 150, 'rumors': 71, 'injuries': 10, 'depth-chart': 28, 'schedule': 17, 'stats': 62, 'grades': 40, 'college': 20, 'insiders': 15, 'podcasts': 150, 'film': 21, 'draft': 512} md 13 feeds 5 jsonld 14"
+   "last_line": "machine layer: {'news': 150, 'rumors': 71, 'injuries': 10, 'depth-chart': 28, 'schedule': 17, 'stats': 62, 'grades': 40, 'college': 20, 'insiders': 15, 'podcasts': 151, 'film': 21, 'draft': 512} md 13 feeds 5 jsonld 14"
   }
  ]
 }
