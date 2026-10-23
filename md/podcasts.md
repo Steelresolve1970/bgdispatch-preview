@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-23T16:10:08+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T16:09:50+00:00._
+_Generated 2026-10-23T16:41:54+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T16:41:34+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Podcast: [The Terrible Podcast — Steelers Vs Saints Game Preview, Joseph-Day To IR, Week 7 Picks, And More](https://podcasts.apple.com/us/podcast/id405990739): The Terrible Podcast (Steelers Depot), 2026-10-23 16:13 UTC
 - Video: [Aaron Rodgers Press Conference (October 23) | Pittsburgh Steelers](https://www.youtube.com/watch?v=zPJEr9LZ9kE): Pittsburgh Steelers (official), 2026-10-23 16:00 UTC
 - Podcast: [Black & Gold Blueprint: Bucs Game Recap and New Orleans Saints Preview](https://podcasts.apple.com/us/podcast/id905962218): Steel Curtain Network (BTSC), 2026-10-23 15:30 UTC
 - Video: [Coach Mike McCarthy Press Conference (October 23) | Pittsburgh Steelers](https://www.youtube.com/watch?v=bGqnTI4FLLQ): Pittsburgh Steelers (official), 2026-10-23 15:26 UTC
@@ -20,7 +21,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Steelers' DeShon Elliott Set to Return from IR, Join Jaquan Brisker, Robert Spears-Jennings in Paris](https://www.youtube.com/shorts/KsowgIWMjcA): Locked On Steelers, 2026-10-22 22:14 UTC
 - Video: [Nu Leader on D-Line? | Steelers Afternoon Drive](https://www.youtube.com/watch?v=lnaN5WeNfUQ): Steelers Now, 2026-10-22 22:05 UTC
 - Podcast: [Nu Leader on D-Line? | Steelers Afternoon Drive](https://podcasts.apple.com/us/podcast/nu-leader-on-d-line-steelers-afternoon-drive/id1700240934?i=1000797686445): Steelers Afternoon Drive, 2026-10-22 22:03 UTC
-- Podcast: [The Terrible Take - Episode 2058 - October 22, 2026](https://podcasts.apple.com/us/podcast/id405990739): The Terrible Podcast (Steelers Depot), 2026-10-22 21:00 UTC
 - Podcast: [NFL Week 7 Predictions/Pittsburgh Steelers](https://arthurmoats55.libsyn.com/dctm_game_picks_week_7_player_of_the_game_headlinesmp3): The Arthur Moats Experience, 2026-10-22 20:00 UTC
 - Video: [Bringing Vaunted Brand of Defense Overseas | Steelers Practice Report](https://www.youtube.com/watch?v=e7UlYYFDvos): Steelers Now, 2026-10-22 19:56 UTC
 - Video: [Dermontti Dawson & Mel Blount checking in from Paris 🇫🇷](https://www.youtube.com/shorts/0otqWh1Uiu4): Pittsburgh Steelers (official), 2026-10-22 18:57 UTC

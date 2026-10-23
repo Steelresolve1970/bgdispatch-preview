@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T16:09:36.723614+00:00",
+ "generated": "2026-10-23T16:40:59.945504+00:00",
  "count": 150,
  "sources": [
   {
@@ -29,8 +29,8 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "ok",
-   "steelers_items": 24
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "steelers_items": 0
   },
   {
    "source": "Still Curtain",
@@ -110,9 +110,65 @@
    "title": "Steelers' Rodgers backs NFL on holding Paris game despite recent unrest",
    "source": "ESPN",
    "link": "https://www.espn.com/nfl/story/_/id/50256507/steelers-rodgers-backs-nfl-paris-game-recent-unrest",
-   "published": "2026-10-23T16:52:47+00:00",
+   "published": "2026-10-23T17:38:12+00:00",
    "summary": "Game story from ESPN. Full report at the original publisher.",
    "id": "7d5a3054f6"
+  },
+  {
+   "title": "The Steelers Shouldn\u2019t Be Playing in Paris | Steelers Morning Rush",
+   "source": "Steelers Now",
+   "link": "https://steelersnow.com/the-steelers-shouldnt-be-playing-in-paris-steelers-morning-rush/",
+   "published": "2026-10-23T16:39:14+00:00",
+   "summary": "Opinion story from Steelers Now. Full report at the original publisher.",
+   "id": "c0cce9e088"
+  },
+  {
+   "title": "Trump suggests NFL could have postponed Paris game as protests escalate in France",
+   "source": "The Athletic",
+   "link": "https://www.nytimes.com/athletic/7717489/2026/10/23/donald-trump-nfl-paris-protests-steelers-saints/",
+   "published": "2026-10-23T16:33:39+00:00",
+   "summary": "Game story from The Athletic. Full report at the original publisher.",
+   "id": "a09449799a"
+  },
+  {
+   "title": "Aaron Rodgers wishes the Steelers left for Paris sooner",
+   "source": "Behind the Steel Curtain",
+   "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176812/aaron-rodgers-wishes-the-steelers-left-for-paris-sooner",
+   "published": "2026-10-23T16:30:00+00:00",
+   "summary": "News story from Behind the Steel Curtain. Full report at the original publisher.",
+   "id": "b97dd9a16b"
+  },
+  {
+   "title": "The Terrible Podcast \u2014 Steelers Vs Saints Game Preview, Joseph-Day To IR, Week 7 Picks, And More",
+   "source": "Steelers Depot",
+   "link": "https://steelersdepot.com/2026/10/the-terrible-podcast-steelers-vs-saints-game-preview-joseph-day-to-ir-week-7-picks-and-more/",
+   "published": "2026-10-23T16:23:25+00:00",
+   "summary": "Injury story from Steelers Depot. Full report at the original publisher.",
+   "id": "b8a76c06ee"
+  },
+  {
+   "title": "Germie Bernard Has Already \u2018Shown More Chemistry\u2019 With Rodgers Than DK Metcalf, Says Kyle Brandt",
+   "source": "Steelers Depot",
+   "link": "https://steelersdepot.com/2026/10/germie-bernard-has-already-shown-more-chemistry-with-rodgers-than-dk-metcalf-kyle-brandt-says/",
+   "published": "2026-10-23T16:15:58+00:00",
+   "summary": "Opinion story from Steelers Depot. Full report at the original publisher.",
+   "id": "ebb4db28e9"
+  },
+  {
+   "title": "Steelers news: Defense pushing for top 5 status",
+   "source": "Behind the Steel Curtain",
+   "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176799/steelers-news-defense-pushing-for-top-5-status",
+   "published": "2026-10-23T16:08:11+00:00",
+   "summary": "Injury story from Behind the Steel Curtain. Full report at the original publisher.",
+   "id": "2bdb2db4e3"
+  },
+  {
+   "title": "Three Rivers Report: Steelers defense pushing for top 5 status",
+   "source": "Yahoo Sports",
+   "link": "https://sports.yahoo.com/articles/three-rivers-report-steelers-defense-160811589.html",
+   "published": "2026-10-23T16:08:11+00:00",
+   "summary": "Injury story from Yahoo Sports. Full report at the original publisher.",
+   "id": "926d686fc4"
   },
   {
    "title": "Steely Resolve: Jalen Ramsey Sewing Fabric of Steelers Defensive Tradition",
@@ -149,12 +205,12 @@
   },
   {
    "title": "Aaron Rodgers urges better funding for US women's flag football team",
-   "source": "The Winchester Star",
-   "link": "https://www.winchesterstar.com/associated_press/national_sports/aaron-rodgers-urges-better-funding-for-us-womens-flag-football-team/article_a45498f2-1d9f-51f1-b428-bef966b71be2.html",
+   "source": "Bozeman Daily Chronicle",
+   "link": "https://www.bozemandailychronicle.com/wire/sports/aaron-rodgers-urges-better-funding-for-us-womens-flag-football-team/article_b048a4bb-8b0a-5b4f-8bef-7f0dd4c18dc0.html",
    "published": "2026-10-23T15:47:37+00:00",
    "via": "Google News",
-   "summary": "News story from The Winchester Star. Full report at the original publisher.",
-   "id": "044c4c4e40"
+   "summary": "News story from Bozeman Daily Chronicle. Full report at the original publisher.",
+   "id": "63971913de"
   },
   {
    "title": "Darnell Washington Notes What \u2018Stands Out\u2019 Most About Rookie WR Germie Bernard",
@@ -163,6 +219,24 @@
    "published": "2026-10-23T15:45:53+00:00",
    "summary": "News story from Steelers Depot. Full report at the original publisher.",
    "id": "fd402f76c3"
+  },
+  {
+   "title": "Colts QB Anthony Richardson facing marijuana charge",
+   "source": "Reuters",
+   "link": "https://www.reuters.com/sports/colts-qb-anthony-richardson-facing-marijuana-charge--flm-2026-10-23/",
+   "published": "2026-10-23T15:36:03+00:00",
+   "via": "Google News",
+   "summary": "News story from Reuters. Full report at the original publisher.",
+   "id": "81720ff1ab"
+  },
+  {
+   "title": "Danny Stutsman, Daniel Carlson, Chris Rumph II, Noah Fant, Vernon Broughton press conference | Saints vs. Steelers 2026 NFL Week 7",
+   "source": "New Orleans Saints | NewOrleansSaints.com",
+   "link": "https://www.neworleanssaints.com/video/danny-stutsman-daniel-carlson-chris-rumph-ii-noah-fant-vernon-broughton-press-conference-saints-vs-steelers-2026-nfl-week-7-october-23-2026",
+   "published": "2026-10-23T15:32:35+00:00",
+   "via": "Google News",
+   "summary": "Game story from New Orleans Saints | NewOrleansSaints.com. Full report at the original publisher.",
+   "id": "16d5fae8c3"
   },
   {
    "title": "Paris Police Postpone Soccer Match Scheduled For Same Day As Steelers-Saints",
@@ -213,15 +287,6 @@
    "id": "7066e432d4"
   },
   {
-   "title": "If the Steelers want to lean on their rushing attack, this is the week to do it",
-   "source": "Steel Curtain Network",
-   "link": "https://www.steelcurtainnetwork.com/if-the-steelers-want-to-lean-on-their-rushing-attack-this-is-the-week-to-do-it/",
-   "published": "2026-10-23T15:04:10+00:00",
-   "via": "Google News",
-   "summary": "News story from Steel Curtain Network. Full report at the original publisher.",
-   "id": "86519ac682"
-  },
-  {
    "title": "Cowboys finally call out George Pickens' effort issue Steelers fans know too well",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/dallas-cowboys-call-out-george-pickens-effort-issue-pittsburgh-steelers-fans-know-01m5mhzf735f?utm_source=RSS",
@@ -236,14 +301,6 @@
    "published": "2026-10-23T15:00:00+00:00",
    "summary": "Opinion story from Pittsburgh Post-Gazette. Full report at the original publisher.",
    "id": "9842ca9512"
-  },
-  {
-   "title": "If Saints win/lose vs. Steelers",
-   "source": "Yahoo Sports",
-   "link": "https://sports.yahoo.com/articles/saints-win-lose-vs-steelers-150000101.html",
-   "published": "2026-10-23T15:00:00+00:00",
-   "summary": "Game story from Yahoo Sports. Full report at the original publisher.",
-   "id": "6d52358d87"
   },
   {
    "title": "Aaron Rodgers Opens Up on Safety Concerns in Paris",
@@ -276,6 +333,14 @@
    "published": "2026-10-23T14:45:03+00:00",
    "summary": "News story from Steelers Depot. Full report at the original publisher.",
    "id": "b2edcc39e9"
+  },
+  {
+   "title": "Steelers Paris notebook: Team is confident it is safe amid protests, unrest",
+   "source": "TribLive",
+   "link": "https://triblive.com/sports/steelers-paris-notebook-team-is-confident-it-is-safe-amidst-protests-unrest/",
+   "published": "2026-10-23T14:33:34+00:00",
+   "summary": "News story from TribLive. Full report at the original publisher.",
+   "id": "3db6deb565"
   },
   {
    "title": "Jaguars LT Anton Harrison Tore ACL, Out For Week 14 Against Steelers",
@@ -351,13 +416,12 @@
    "id": "e7f62c7ea3"
   },
   {
-   "title": "Steelers vs. Saints set for first NFL game in Paris | Black & Gold Primetime",
-   "source": "WTAE",
-   "link": "https://www.wtae.com/article/steelers-saints-paris/74229293",
-   "published": "2026-10-23T13:58:00+00:00",
-   "via": "Google News",
-   "summary": "Game story from WTAE. Full report at the original publisher.",
-   "id": "483583b121"
+   "title": "T.J. Watt fine, Rico Dowdle questionable to play for Steelers vs. Saints",
+   "source": "TribLive",
+   "link": "https://triblive.com/sports/t-j-watt-fine-rico-dowdle-questionable-to-play-for-steelers-vs-saints/",
+   "published": "2026-10-23T13:51:57+00:00",
+   "summary": "Injury story from TribLive. Full report at the original publisher.",
+   "id": "a87027a94f"
   },
   {
    "title": "\u2018Off To A Good Start\u2019: McCarthy, Rodgers Excited By Valdes-Scantling Reunion",
@@ -398,6 +462,14 @@
    "published": "2026-10-23T13:28:54+00:00",
    "summary": "Game story from SteelerNation. Full report at the original publisher.",
    "id": "300edc1219"
+  },
+  {
+   "title": "After full week of practice, all signs point to DeShon Elliott returning to action for Steelers",
+   "source": "TribLive",
+   "link": "https://triblive.com/sports/after-full-week-of-practice-all-signs-point-to-deshon-elliott-returning-to-action-for-steelers/",
+   "published": "2026-10-23T13:28:16+00:00",
+   "summary": "Injury story from TribLive. Full report at the original publisher.",
+   "id": "8953658802"
   },
   {
    "title": "Saints\u2019 Week 7 Friday Injury Report: Two Starters Questionable",
@@ -580,14 +652,6 @@
    "id": "edf7d3cac9"
   },
   {
-   "title": "Steelers to Watch: Five players who could make the difference against the Saints",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/23/steelers-to-watch-five-players-who-could-make-the-difference-against-the-saints/",
-   "published": "2026-10-23T12:04:25+00:00",
-   "summary": "News story from Steel City Underground. Full report at the original publisher.",
-   "id": "79aa9e2ca3"
-  },
-  {
    "title": "Steelers \u2018Owe It To The Players\u2019 To Try To Add Via Trade, Fittipaldo Says",
    "source": "Steelers Depot",
    "link": "https://steelersdepot.com/2026/10/steelers-owe-it-to-the-players-to-try-to-add-via-trade-fittipaldo-says/",
@@ -670,12 +734,20 @@
    "id": "77ab46cb07"
   },
   {
-   "title": "Germie Bernard \u2018Might Have Already Leapfrogged\u2019 Roman Wilson, Beat Writer Says",
-   "source": "Steelers Depot",
-   "link": "https://steelersdepot.com/2026/10/germie-bernard-might-have-already-leapfrogged-roman-wilson-beat-writer-says/",
-   "published": "2026-10-23T10:20:30+00:00",
-   "summary": "Game story from Steelers Depot. Full report at the original publisher.",
-   "id": "ff812d2b29"
+   "title": "Steelers 4 Downs: The analytics say team\u2019s defense is among league\u2019s best",
+   "source": "TribLive",
+   "link": "https://triblive.com/sports/steelers-4-downs-the-analytics-say-steelers-defense-is-among-leagues-best/",
+   "published": "2026-10-23T10:30:00+00:00",
+   "summary": "News story from TribLive. Full report at the original publisher.",
+   "id": "858f40c9af"
+  },
+  {
+   "title": "Wind storm in Paris compels Steelers to cancel outdoor practice after arriving in France",
+   "source": "TribLive",
+   "link": "https://triblive.com/sports/wind-storm-in-paris-compels-steelers-to-cancel-practice-after-arriving-in-france/",
+   "published": "2026-10-23T10:25:39+00:00",
+   "summary": "Injury story from TribLive. Full report at the original publisher.",
+   "id": "3640926ace"
   },
   {
    "title": "Steelers\u2019 Aaron Rodgers just said what he\u2019s thinking about the shocking Jalen Hurts blood clot controversy",
@@ -718,29 +790,12 @@
    "id": "95de87a6fa"
   },
   {
-   "title": "Steelers Cancel Friday Practice Ahead Of Paris Game Due To Inclement Weather",
-   "source": "Steelers Depot",
-   "link": "https://steelersdepot.com/2026/10/steelers-cancel-friday-practice-ahead-of-paris-game-due-to-inclement-weather/",
-   "published": "2026-10-23T09:37:37+00:00",
-   "summary": "Injury story from Steelers Depot. Full report at the original publisher.",
-   "id": "67322a67d1"
-  },
-  {
    "title": "Are the Browns for real? Trade deadline plans for the Steelers, Ravens, Bengals",
    "source": "The Athletic",
    "link": "https://www.nytimes.com/athletic/7711772/2026/10/23/afc-north-trade-deadline-browns/",
    "published": "2026-10-23T09:30:15+00:00",
    "summary": "Trade/roster move story from The Athletic. Full report at the original publisher.",
    "id": "920d43250f"
-  },
-  {
-   "title": "Steelers practice at Stade de France canceled because of bad weather in Paris",
-   "source": "LancasterOnline",
-   "link": "https://lancasteronline.com/sports/nfl/steelers-practice-at-stade-de-france-canceled-because-of-bad-weather-in-paris/article_0ecf72f2-6a8f-5f4a-aac6-3f2531704b5d.html",
-   "published": "2026-10-23T09:20:47+00:00",
-   "via": "Google News",
-   "summary": "Injury story from LancasterOnline. Full report at the original publisher.",
-   "id": "96c0482ff1"
   },
   {
    "title": "Steelers practice at Stade de France canceled because of bad weather",
@@ -802,11 +857,11 @@
    "id": "028dc6c137"
   },
   {
-   "title": "Young Steelers DT Keeanu Benton happy to share knowledge with rookie duo",
+   "title": "Steelers rookies Gabriel Rubio, Kevin Jobity Jr. eager to shore up defensive line thinned by injuries",
    "source": "TribLive",
    "link": "https://triblive.com/sports/young-steelers-dt-keeanu-benton-happy-to-share-knowledge-with-rookie-duo/",
    "published": "2026-10-22T23:57:40+00:00",
-   "summary": "News story from TribLive. Full report at the original publisher.",
+   "summary": "Injury story from TribLive. Full report at the original publisher.",
    "id": "7a869a5ac6"
   },
   {
@@ -971,14 +1026,6 @@
    "id": "36657fcc38"
   },
   {
-   "title": "T.J. Watt Unexpectedly Added to Steelers Injury Report",
-   "source": "Steelers Now",
-   "link": "https://steelersnow.com/t-j-watt-unexpectedly-added-to-steelers-injury-report/",
-   "published": "2026-10-22T19:26:44+00:00",
-   "summary": "Injury story from Steelers Now. Full report at the original publisher.",
-   "id": "15bc0f4a33"
-  },
-  {
    "title": "Steelers\u2019 T.J. Watt limited with calf injury",
    "source": "Behind the Steel Curtain",
    "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-injuries/176712/steelers-tj-watt-limited-with-calf-injury-report-week-7-saints-practice-paris-availability",
@@ -1069,14 +1116,6 @@
    "id": "694834c0db"
   },
   {
-   "title": "Steelers fan event in Paris cancelled by NFL",
-   "source": "Behind the Steel Curtain",
-   "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176694/steelers-fan-event-in-paris-cancelled-by-nfl",
-   "published": "2026-10-22T15:13:01+00:00",
-   "summary": "News story from Behind the Steel Curtain. Full report at the original publisher.",
-   "id": "3483063cd8"
-  },
-  {
    "title": "Steelers owner Art Rooney II says the NFL will have heightened security in Paris, but \u2018they don\u2019t seem to be concerned\u2019",
    "source": "Pittsburgh Post-Gazette",
    "link": "https://www.post-gazette.com/sports/steelers/2026/10/22/nfl-paris-game-protests-security-measures/stories/202610220043",
@@ -1109,14 +1148,6 @@
    "id": "bb6d0cf357"
   },
   {
-   "title": "Steelers finding new ways to win as young players step into bigger roles",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/22/steelers-finding-new-ways-to-win-as-young-players-step-into-bigger-roles/",
-   "published": "2026-10-22T13:41:16+00:00",
-   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
-   "id": "d606ad8113"
-  },
-  {
    "title": "Former Browns HC Slams Steelers' Mike McCarthy, Aaron Rodgers",
    "source": "All Steelers (Sports Illustrated)",
    "link": "https://www.si.com/nfl/steelers/onsi/former-browns-eric-mangini-slams-pittsburgh-steelers-mike-mccarthy-aaron-rodgers",
@@ -1140,14 +1171,6 @@
    "published": "2026-10-22T12:00:04+00:00",
    "summary": "News story from Still Curtain. Full report at the original publisher.",
    "id": "215b7593c0"
-  },
-  {
-   "title": "Are the young Steelers living up to their new money?",
-   "source": "Behind the Steel Curtain",
-   "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176663/are-the-young-steelers-living-up-to-their-new-money-nick-herbig-darnell-washington-keeanu-benton-contract-roster-extension-2023-draft-class",
-   "published": "2026-10-22T12:00:00+00:00",
-   "summary": "Opinion story from Behind the Steel Curtain. Full report at the original publisher.",
-   "id": "4f40bad1f6"
   },
   {
    "title": "Ex-Steelers coach reveals how Browns threw away a potential dynasty in 2018",
@@ -1303,31 +1326,6 @@
    "via": "Google News",
    "summary": "Injury story from New Orleans Saints | NewOrleansSaints.com. Full report at the original publisher.",
    "id": "18b325c6ec"
-  },
-  {
-   "title": "Steelers release veteran safety Rayshawn Jenkins",
-   "source": "TribLive",
-   "link": "https://triblive.com/sports/steelers-release-veteran-safety-rayshawn-jenkins/",
-   "published": "2026-10-21T20:26:35+00:00",
-   "summary": "Trade/roster move story from TribLive. Full report at the original publisher.",
-   "id": "a7468b981c"
-  },
-  {
-   "title": "Steelers officially release veteran safety",
-   "source": "WKBN.com",
-   "link": "https://www.wkbn.com/sports/pittsburgh-steelers/steelers-officially-release-veteran-safety-2/",
-   "published": "2026-10-21T20:11:51+00:00",
-   "via": "Google News",
-   "summary": "Trade/roster move story from WKBN.com. Full report at the original publisher.",
-   "id": "a64526732c"
-  },
-  {
-   "title": "Steelers finally make the Rayshawn Jenkins move fans wanted weeks ago",
-   "source": "Still Curtain",
-   "link": "https://stillcurtain.com/pittsburgh-steelers-finally-make-rayshawn-jenkins-roster-move-fans-wanted-01m5fq7m94f8?utm_source=RSS",
-   "published": "2026-10-21T20:00:02+00:00",
-   "summary": "News story from Still Curtain. Full report at the original publisher.",
-   "id": "b7f2765699"
   }
  ],
  "dropped_bad_links": 0

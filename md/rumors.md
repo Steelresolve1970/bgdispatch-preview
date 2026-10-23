@@ -1,11 +1,13 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-23T16:10:08+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T16:10:02+00:00._
+_Generated 2026-10-23T16:41:54+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T16:41:47+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
+- **Rumor** · tier: Aggregator / other · consensus: 7 source(s), top tier National insider
+  [Steelers Again Linked to Legend’s Nephew With Trade Deadline Approaching](https://www.yardbarker.com/nfl/articles/steelers_again_linked_to_legends_nephew_with_trade_deadline_approaching/s1_17615_44464382): Yardbarker, first seen 2026-10-23 16:41 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [Steelers could be a dark horse trade destination for Jaguars' Brian Thomas Jr.](https://blackandteal.com/steelers-could-be-a-dark-horse-trade-destination-for-jaguars-brian-thomas-jr-trai-essex): Black and Teal, first seen 2026-10-23 15:18 UTC
-- **Rumor** · tier: Aggregator / other · consensus: 6 source(s), top tier National insider
+- **Rumor** · tier: Aggregator / other · consensus: 7 source(s), top tier National insider
   [Steelers Again Linked to Legend’s Nephew With Trade Deadline Approaching](https://athlonsports.com/nfl/pittsburgh-steelers/steelers-again-linked-to-legends-nephew-with-trade-deadline-approaching): Athlon Sports, first seen 2026-10-23 15:18 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 2 source(s), top tier Fan blog
   [Saints vs. Steelers: Final Week 7 injury report updates key starters](https://saintswire.usatoday.com/story/sports/nfl/saints/2026/10/23/saints-injury-report-steelers-jordyn-tyson-nfl/92395091007/): Saints Wire, first seen 2026-10-23 14:41 UTC
@@ -19,11 +21,11 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [4 wide receivers Steelers should target ahead of the NFL trade deadline](https://stillcurtain.com/4-wide-receivers-pittsburgh-steelers-should-target-ahead-of-the-nfl-trade-deadline-01m5dnq2ch8t?utm_source=RSS): Still Curtain, first seen 2026-10-23 11:09 UTC
 - **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
   [Are the Browns for real? Trade deadline plans for the Steelers, Ravens, Bengals](https://www.nytimes.com/athletic/7711772/2026/10/23/afc-north-trade-deadline-browns/): The Athletic, first seen 2026-10-23 10:05 UTC
-- **Rumor** · tier: National insider · consensus: 6 source(s), top tier National insider
+- **Rumor** · tier: National insider · consensus: 7 source(s), top tier National insider
   [Steelers linked to trade for Troy Polamalu's nephew](https://sports.yahoo.com/articles/steelers-linked-trade-troy-polamalus-090859602.html): Yahoo Sports, first seen 2026-10-23 10:05 UTC
-- **Rumor** · tier: Aggregator / other · consensus: 6 source(s), top tier National insider
+- **Rumor** · tier: Aggregator / other · consensus: 7 source(s), top tier National insider
   [Steelers linked to trade for Troy Polamalu's nephew](https://www.aol.com/articles/steelers-linked-trade-troy-polamalus-090859000.html): AOL.com, first seen 2026-10-23 11:32 UTC
-- **Rumor** · tier: Aggregator / other · consensus: 6 source(s), top tier National insider
+- **Rumor** · tier: Aggregator / other · consensus: 7 source(s), top tier National insider
   [Steelers linked to trade for Troy Polamalu's nephew](https://cumberlink.com/sports/professional/nfl/article_955b30d1-5360-53da-9487-2e6fa8ee1615.html): Carlisle Sentinel, first seen 2026-10-23 12:15 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Steelers' Latest Defensive Line Injuries Make DeForest Buckner An Urgent Trade Target](https://www.steelernation.com/2026/10/22/steelers-deforest-buckner-urgent-trade): SteelerNation, first seen 2026-10-23 00:00 UTC
@@ -89,9 +91,9 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Aaron Rodgers Reportedly Has ‘Favorite’ WR Trade Target](https://heavy.com/sports/nfl/pittsburgh-steelers/aaron-rodgers-favorite-wr-trade-target/): Heavy.com, first seen 2026-10-21 00:34 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Steelers Rumors: Could Davante Adams Be a Trade Target?](https://www.chatsports.com/pittsburgh-steelers/a/steelers-rumors-could-davante-adams-be-trade-target-53435): Chat Sports, first seen 2026-10-21 00:05 UTC
-- **Rumor** · tier: Fan blog · consensus: 6 source(s), top tier National insider
+- **Rumor** · tier: Fan blog · consensus: 7 source(s), top tier National insider
   [Steelers Linked To A Slew Of All-Pros With Trade Deadline Quickly Approaching](https://www.steelernation.com/2026/10/20/steelers-trade-deadline-quickly): Steeler Nation, first seen 2026-10-21 15:38 UTC
-- **Rumor** · tier: Fan blog · consensus: 6 source(s), top tier National insider
+- **Rumor** · tier: Fan blog · consensus: 7 source(s), top tier National insider
   [Steelers Linked To A Slew Of All-Pros With Trade Deadline Quickly Approaching](https://www.steelernation.com/2026/10/20/steelers-trade-deadline-quickly): SteelerNation, first seen 2026-10-20 23:11 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 11 source(s), top tier National insider
   [Reports: Giants to release former Steelers running back Najee Harris](https://community.triblive.com/news/4166698): TribLIVE.com, first seen 2026-10-20 23:22 UTC
@@ -145,9 +147,9 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Steelers Trade Rumors: Pittsburgh Is Making Calls for Receiver Help — Could Mike McCarthy Turn to Dallas?](https://sportsnaut.com/nfl/steelers-trade-rumors-pittsburgh-is-making-calls-for-receiver-help-could-mike-mccarthy-turn-to-dallas): Sportsnaut, first seen 2026-10-20 00:50 UTC
 - **Rumor** · tier: Beat writer / team · consensus: 1 source(s), top tier Beat writer / team
   [Could Steelers Consider Kick Returner Change? Rising RB Earning Opportunity](https://steelersnow.com/could-steelers-consider-kick-returner-change-rising-rb-earning-opportunity/): Steelers Now, first seen 2026-10-19 21:21 UTC
-- **Rumor** · tier: Fan blog · consensus: 6 source(s), top tier National insider
+- **Rumor** · tier: Fan blog · consensus: 7 source(s), top tier National insider
   [Former All-Pro Likely On Steelers' Radar With Trade Deadline Quickly Approaching](https://www.steelernation.com/2026/10/19/steelers-likely-quickly-approaching): Steeler Nation, first seen 2026-10-20 15:48 UTC
-- **Rumor** · tier: Fan blog · consensus: 6 source(s), top tier National insider
+- **Rumor** · tier: Fan blog · consensus: 7 source(s), top tier National insider
   [Former All-Pro Likely On Steelers' Radar With Trade Deadline Quickly Approaching](https://www.steelernation.com/2026/10/19/steelers-likely-quickly-approaching): SteelerNation, first seen 2026-10-19 19:47 UTC
 - **Rumor** · tier: National insider · consensus: 4 source(s), top tier National insider
   [Veteran Steelers QB Named Eagles Trade Target After Jalen Hurts News](https://sports.yahoo.com/articles/veteran-steelers-qb-named-eagles-183142596.html): Yahoo Sports, first seen 2026-10-19 21:10 UTC

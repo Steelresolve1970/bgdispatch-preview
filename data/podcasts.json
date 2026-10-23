@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-23T16:09:50.304477+00:00",
+ "generated": "2026-10-23T16:41:34.447557+00:00",
  "date_et": "2026-10-23",
  "days": 5,
  "display_days": 2,
- "count": 167,
+ "count": 168,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -28,9 +28,9 @@
    "kind": "podcast",
    "url": "https://feeds.megaphone.fm/SDP4491208357",
    "status": "ok",
-   "episodes": 2313,
-   "week": 8,
-   "latest": "2026-10-22T21:00:00+00:00"
+   "episodes": 2314,
+   "week": 9,
+   "latest": "2026-10-23T16:13:00+00:00"
   },
   {
    "show": "Steel Curtain Network (BTSC)",
@@ -90,10 +90,10 @@
    "show": "Steel City Underground",
    "kind": "podcast",
    "url": "https://feeds.feedburner.com/steelcityunderground",
-   "status": "ok",
-   "episodes": 45,
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "episodes": 0,
    "week": 2,
-   "latest": "2026-10-22T16:20:16+00:00"
+   "latest": null
   },
   {
    "show": "Steel City Underground",
@@ -109,9 +109,9 @@
    "kind": "podcast",
    "url": "https://feeds.megaphone.fm/RRTET7764502074",
    "status": "ok",
-   "episodes": 1488,
+   "episodes": 1489,
    "week": 10,
-   "latest": "2026-10-22T22:03:00+00:00"
+   "latest": "2026-10-23T16:36:00+00:00"
   },
   {
    "show": "The Sick Podcast - Steelers Crazy",
@@ -250,6 +250,14 @@
   }
  ],
  "items": [
+  {
+   "title": "The Terrible Podcast \u2014 Steelers Vs Saints Game Preview, Joseph-Day To IR, Week 7 Picks, And More",
+   "show": "The Terrible Podcast (Steelers Depot)",
+   "kind": "podcast",
+   "link": "https://podcasts.apple.com/us/podcast/id405990739",
+   "published": "2026-10-23T16:13:00+00:00",
+   "summary": "Podcast episode from The Terrible Podcast (Steelers Depot)."
+  },
   {
    "title": "Aaron Rodgers Press Conference (October 23) | Pittsburgh Steelers",
    "show": "Pittsburgh Steelers (official)",
