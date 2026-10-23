@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-23T13:03:14+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T13:02:56+00:00._
+_Generated 2026-10-23T13:14:08+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T13:13:51+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [THE PITTSBURGH FOOTBALL SHOW, Episode 7, Oct. 23, 2026](https://www.youtube.com/watch?v=m3oM_Pej1Tk): Steelers Now, 2026-10-23 12:44 UTC
