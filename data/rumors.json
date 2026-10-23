@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T10:05:24.966196+00:00",
+ "generated": "2026-10-23T11:09:06.018743+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -43,6 +43,35 @@
   ]
  },
  "rumors": [
+  {
+   "id": "7fd46e561838",
+   "title": "4 wide receivers Steelers should target ahead of the NFL trade deadline",
+   "source": "Still Curtain",
+   "link": "https://stillcurtain.com/4-wide-receivers-pittsburgh-steelers-should-target-ahead-of-the-nfl-trade-deadline-01m5dnq2ch8t?utm_source=RSS",
+   "published": "2026-10-23T11:00:04+00:00",
+   "summary": "Trade/roster move story from Still Curtain. Full report at the original publisher.",
+   "tier": "Fan blog",
+   "tier_score": 2,
+   "subjects": [],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-23T11:09:06.018743+00:00",
+   "consensus": {
+    "cluster_id": "81f4fab5dfa3",
+    "independent_sources": 2,
+    "sources": [
+     "Still Curtain",
+     "Yahoo Sports"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "81f4fab5dfa3"
+    ]
+   },
+   "updated": "2026-10-23T11:09:06.018743+00:00"
+  },
   {
    "id": "920d43250fcd",
    "title": "Are the Browns for real? Trade deadline plans for the Steelers, Ravens, Bengals",
@@ -2683,13 +2712,16 @@
    "first_seen": "2026-10-19T17:56:36.682233+00:00",
    "consensus": {
     "cluster_id": "81f4fab5dfa3",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
+     "Still Curtain",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
-    "related_ids": []
+    "related_ids": [
+     "7fd46e561838"
+    ]
    },
    "updated": "2026-10-19T17:56:36.682233+00:00"
   }

@@ -1,8 +1,10 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-23T10:05:31+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T10:05:24+00:00._
+_Generated 2026-10-23T11:09:11+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T11:09:06+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
+- **Rumor** · tier: Fan blog · consensus: 2 source(s), top tier National insider
+  [4 wide receivers Steelers should target ahead of the NFL trade deadline](https://stillcurtain.com/4-wide-receivers-pittsburgh-steelers-should-target-ahead-of-the-nfl-trade-deadline-01m5dnq2ch8t?utm_source=RSS): Still Curtain, first seen 2026-10-23 11:09 UTC
 - **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
   [Are the Browns for real? Trade deadline plans for the Steelers, Ravens, Bengals](https://www.nytimes.com/athletic/7711772/2026/10/23/afc-north-trade-deadline-browns/): The Athletic, first seen 2026-10-23 10:05 UTC
 - **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
@@ -147,7 +149,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Steelers' win over the Buccaneers can't distract them from making a trade that suddenly looks very likely after Sunday](https://atozsports.com/nfl/pittsburgh-steelers-news/steelers-wr-rumors-brian-thomas-jr-jaguars-nfl-trade-deadline/): A to Z Sports, first seen 2026-10-19 21:43 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [Steelers ‘Calling Around’ WR Market Weeks Before NFL Trade Deadline: Report](https://heavy.com/sports/nfl/pittsburgh-steelers/nfl-trade-deadline-rumors-news-wide-receivers-pelissero/): Heavy.com, first seen 2026-10-19 17:56 UTC
-- **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
+- **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
   [3 wide receivers Steelers could acquire by the trade deadline](https://sports.yahoo.com/articles/3-wide-receivers-steelers-could-093102235.html): Yahoo Sports, first seen 2026-10-19 17:56 UTC
 
 ---

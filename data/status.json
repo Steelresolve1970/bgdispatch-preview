@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-23T10:05:31.922307+00:00",
+ "last_run": "2026-10-23T11:09:11.982697+00:00",
  "results": [
   {
    "fetcher": "apply_grade_edits.py",
@@ -10,7 +10,7 @@
   {
    "fetcher": "fetch_news.py",
    "ok": true,
-   "seconds": 9.0,
+   "seconds": 2.5,
    "last_line": "news: 150 ticker: 30"
   },
   {
@@ -34,7 +34,7 @@
   {
    "fetcher": "fetch_insiders.py",
    "ok": true,
-   "seconds": 1.5,
+   "seconds": 2.0,
    "last_line": "sidebar: 5 full feed: 15"
   },
   {
@@ -46,7 +46,7 @@
   {
    "fetcher": "fetch_podcasts.py",
    "ok": true,
-   "seconds": 5.5,
+   "seconds": 10.0,
    "last_line": "episodes past 5 days: 155 | embed-fallback channels: 0 | post-game: 0"
   },
   {
@@ -65,13 +65,13 @@
    "fetcher": "fetch_stats.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "stats fresh; skipped"
+   "last_line": "team stats 20 players 42 pools {'offense:passing': 61, 'offense:rushing': 228, 'offense:receiving': 385, 'defense': 1116}"
   },
   {
    "fetcher": "build_leaders.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "leaders fresh; skipped"
+   "last_line": "leaders team 20 player 18 sizes {'pass_yds': 45, 'ypa': 34, 'pass_td': 45, 'int_thrown': 45, 'passer_rtg': 34, 'rush_yds': 75, 'rush_td': 75, 'rec': 151, 'rec_yds': 151, 'rec_td': 151, 'yac': 151, 'tackles': 325, 'sacks': 264, 'tfl': 122, 'pd': 209, 'int': 103, 'ff': 144, 'fr': 102}"
   },
   {
    "fetcher": "fetch_draft.py",
@@ -118,8 +118,8 @@
   {
    "fetcher": "fetch_matchup.py",
    "ok": true,
-   "seconds": 0.5,
-   "last_line": "matchup: 2026_07_PIT_NO keys 3 picks 3"
+   "seconds": 19.0,
+   "last_line": "matchup: 2026_07_PIT_NO keys 3 picks 5"
   },
   {
    "fetcher": "fetch_depth.py",
@@ -143,7 +143,7 @@
    "fetcher": "fetch_rumors.py",
    "ok": true,
    "seconds": 2.5,
-   "last_line": "rumors 73 {'Rumor': 68, 'Confirmed': 4, 'Denied': 1}"
+   "last_line": "rumors 74 {'Rumor': 69, 'Confirmed': 4, 'Denied': 1}"
   },
   {
    "fetcher": "fetch_pickem.py",
@@ -172,14 +172,14 @@
   {
    "fetcher": "fetch_quotes.py",
    "ok": true,
-   "seconds": 2.0,
-   "last_line": "quotes: 10 kept from 131 articles"
+   "seconds": 1.0,
+   "last_line": "quotes: 10 kept from 133 articles"
   },
   {
    "fetcher": "build_machine.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "machine layer: {'news': 150, 'rumors': 73, 'injuries': 12, 'depth-chart': 28, 'schedule': 17, 'stats': 62, 'grades': 40, 'college': 20, 'insiders': 15, 'podcasts': 151, 'film': 23, 'draft': 512} md 13 feeds 5 jsonld 14"
+   "last_line": "machine layer: {'news': 150, 'rumors': 74, 'injuries': 12, 'depth-chart': 28, 'schedule': 17, 'stats': 62, 'grades': 40, 'college': 20, 'insiders': 15, 'podcasts': 151, 'film': 23, 'draft': 512} md 13 feeds 5 jsonld 14"
   }
  ]
 }
