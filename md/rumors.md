@@ -1,8 +1,10 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-23T13:14:08+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T13:14:02+00:00._
+_Generated 2026-10-23T13:25:01+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T13:24:55+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
+- **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
+  [Saints’ Week 7 Friday Injury Report: Two Starters Questionable](https://steelersdepot.com/2026/10/saints-week-7-friday-injury-report-two-starters-questionable/): Steelers Depot, first seen 2026-10-23 13:24 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [4 NFL bottom feeders could give Steelers a trade deadline advantage](https://stillcurtain.com/4-nfl-bottom-feeders-could-give-pittsburgh-steelers-a-trade-deadline-advantage-01m5j23dryvq?utm_source=RSS): Still Curtain, first seen 2026-10-23 12:15 UTC
 - **Rumor** · tier: Fan blog · consensus: 2 source(s), top tier National insider

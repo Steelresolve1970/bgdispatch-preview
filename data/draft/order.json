@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T07:24:44.407911+00:00",
+ "generated": "2026-10-23T13:24:47.721040+00:00",
  "rounds": 7,
  "total": 224,
  "note": "Projected 2027 order from current records (nflverse, CC-BY 4.0): worst record first, ties broken by easier strength of schedule so far, then point differential. Same order every round; playoff seeding, traded picks and compensatory picks are not included. Not official.",
@@ -1674,17 +1674,17 @@
  "needs": {
   "ARI": [
    "S",
-   "CB",
    "DL",
    "TE",
+   "CB",
    "QB"
   ],
   "ATL": [
    "CB",
    "S",
    "QB",
-   "OT",
-   "WR"
+   "TE",
+   "OT"
   ],
   "BAL": [
    "TE",
@@ -1708,11 +1708,11 @@
    "IOL"
   ],
   "CHI": [
-   "TE",
-   "RB",
+   "CB",
    "OT",
    "IOL",
-   "CB"
+   "TE",
+   "RB"
   ],
   "CIN": [
    "LB",
@@ -1743,11 +1743,11 @@
    "LB"
   ],
   "DET": [
-   "CB",
    "S",
+   "CB",
    "LB",
-   "RB",
-   "OT"
+   "WR",
+   "RB"
   ],
   "GB": [
    "RB",
@@ -1780,8 +1780,8 @@
   "KC": [
    "EDGE",
    "WR",
-   "TE",
    "LB",
+   "TE",
    "QB"
   ],
   "LV": [
@@ -1795,8 +1795,8 @@
    "QB",
    "IOL",
    "OT",
-   "RB",
-   "TE"
+   "TE",
+   "RB"
   ],
   "LA": [
    "EDGE",
@@ -1820,11 +1820,11 @@
    "QB"
   ],
   "NE": [
-   "LB",
-   "EDGE",
    "CB",
+   "RB",
+   "IOL",
    "S",
-   "RB"
+   "DL"
   ],
   "NO": [
    "DL",
@@ -1851,8 +1851,8 @@
    "EDGE",
    "WR",
    "QB",
-   "OT",
-   "S"
+   "S",
+   "RB"
   ],
   "PIT": [
    "QB",
@@ -1864,8 +1864,8 @@
   "SF": [
    "S",
    "WR",
-   "CB",
    "LB",
+   "CB",
    "EDGE"
   ],
   "SEA": [
