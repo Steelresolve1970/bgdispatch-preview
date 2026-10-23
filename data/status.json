@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-23T03:55:20.978451+00:00",
+ "last_run": "2026-10-23T04:06:54.429842+00:00",
  "results": [
   {
    "fetcher": "apply_grade_edits.py",
@@ -40,7 +40,7 @@
   {
    "fetcher": "fetch_film.py",
    "ok": false,
-   "seconds": 45.0,
+   "seconds": 39.5,
    "last_line": "film: only 9/25 feeds answered; keeping previous data"
   },
   {
@@ -52,7 +52,7 @@
   {
    "fetcher": "fetch_featured.py",
    "ok": true,
-   "seconds": 1.0,
+   "seconds": 0.5,
    "last_line": "preview New Orleans Saints Pittsburgh Steelers vs New Orleans Saints | 2026 Week 7 Game Preview"
   },
   {
@@ -107,13 +107,13 @@
    "fetcher": "fetch_forum_bot.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "bot topics 11 ['daily-2026-10-22', 'daily-2026-10-21', 'daily-2026-10-20', 'poll-2026-10-19', 'daily-2026-10-19']"
+   "last_line": "bot topics 12 ['daily-2026-10-23', 'daily-2026-10-22', 'daily-2026-10-21', 'daily-2026-10-20', 'poll-2026-10-19']"
   },
   {
    "fetcher": "fetch_hub.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "hub fresh (<30 min); skipped"
+   "last_line": "injuries 10 practice 15 opp NO"
   },
   {
    "fetcher": "fetch_matchup.py",
@@ -124,7 +124,7 @@
   {
    "fetcher": "fetch_depth.py",
    "ok": true,
-   "seconds": 2.5,
+   "seconds": 2.0,
    "last_line": "depth units [('Offense', '3WR 1TE', 12), ('Defense', 'Base 3-4 D', 12), ('Special teams', 'Special Teams', 6)]"
   },
   {
@@ -143,7 +143,7 @@
    "fetcher": "fetch_rumors.py",
    "ok": true,
    "seconds": 2.5,
-   "last_line": "rumors 73 {'Rumor': 68, 'Confirmed': 4, 'Denied': 1}"
+   "last_line": "rumors 71 {'Rumor': 66, 'Confirmed': 4, 'Denied': 1}"
   },
   {
    "fetcher": "fetch_pickem.py",
@@ -172,14 +172,14 @@
   {
    "fetcher": "fetch_quotes.py",
    "ok": true,
-   "seconds": 1.0,
-   "last_line": "quotes: 10 kept from 131 articles"
+   "seconds": 1.5,
+   "last_line": "quotes: 10 kept from 133 articles"
   },
   {
    "fetcher": "build_machine.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "machine layer: {'news': 150, 'rumors': 73, 'injuries': 10, 'depth-chart': 28, 'schedule': 17, 'stats': 62, 'grades': 40, 'college': 20, 'insiders': 15, 'podcasts': 150, 'film': 21, 'draft': 512} md 13 feeds 5 jsonld 14"
+   "last_line": "machine layer: {'news': 150, 'rumors': 71, 'injuries': 10, 'depth-chart': 28, 'schedule': 17, 'stats': 62, 'grades': 40, 'college': 20, 'insiders': 15, 'podcasts': 150, 'film': 21, 'draft': 512} md 13 feeds 5 jsonld 14"
   }
  ]
 }

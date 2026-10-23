@@ -1,6 +1,6 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-23T03:55:20+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T03:55:15+00:00._
+_Generated 2026-10-23T04:06:53+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T04:06:47+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
@@ -145,10 +145,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Steelers ‘Calling Around’ WR Market Weeks Before NFL Trade Deadline: Report](https://heavy.com/sports/nfl/pittsburgh-steelers/nfl-trade-deadline-rumors-news-wide-receivers-pelissero/): Heavy.com, first seen 2026-10-19 17:56 UTC
 - **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
   [3 wide receivers Steelers could acquire by the trade deadline](https://sports.yahoo.com/articles/3-wide-receivers-steelers-could-093102235.html): Yahoo Sports, first seen 2026-10-19 17:56 UTC
-- **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
-  [Pelissero: Steelers Have Been 'Calling Around' About Veteran Receivers Ahead Of Trade Deadline](https://steelersdepot.com/2026/10/pelissero-steelers-have-been-calling-around-on-veteran-receivers-ahead-of-trade-deadline/): Steelers Depot, first seen 2026-10-19 17:56 UTC
-- **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
-  [The Steelers could get a ton better, with one simple trade](https://sports.yahoo.com/videos/steelers-could-ton-better-one-214648839.html): Yahoo Sports, first seen 2026-10-19 17:56 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

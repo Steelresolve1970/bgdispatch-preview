@@ -1,11 +1,35 @@
 {
- "generated": "2026-10-23T03:55:09.988843+00:00",
+ "generated": "2026-10-23T04:06:43.442928+00:00",
  "bot": {
   "name": "Dispatch Desk",
   "bot": true,
   "about": "Posts automatically. Opens game threads, daily topics and polls. Not a person."
  },
  "topics": [
+  {
+   "id": "daily-2026-10-23",
+   "kind": "Daily discussion",
+   "cat": "Depth Chart & Roster",
+   "pinned": false,
+   "created": "2026-10-23T08:00:00-04:00",
+   "title": "Daily Discussion (Oct 23): Steelers fan event at Bastille bar canceled amid civil unrest in Paris",
+   "body": "Today's top headline comes from ESPN. Read it at the link, then tell us: does it change how you see this team?",
+   "links": [
+    {
+     "label": "Read at ESPN \u2192",
+     "href": "https://www.espn.com/nfl/story/_/id/50250407/steelers-fan-event-paris-canceled-amid-civil-unrest",
+     "external": true
+    },
+    {
+     "label": "All news",
+     "href": "#/"
+    }
+   ],
+   "author": "Dispatch Desk",
+   "bot": true,
+   "replies": 0,
+   "views": null
+  },
   {
    "id": "daily-2026-10-22",
    "kind": "Daily discussion",

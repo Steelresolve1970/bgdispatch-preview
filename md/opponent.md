@@ -1,6 +1,6 @@
 # Steelers Opponent Preview
 
-_Generated 2026-10-23T03:55:20+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T03:55:11+00:00._
+_Generated 2026-10-23T04:06:53+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T04:06:44+00:00._
 
 Week 7: Steelers at **New Orleans Saints** (NO 2-4), kickoff 2026-10-25 13:30 UTC, Stade de France.
 

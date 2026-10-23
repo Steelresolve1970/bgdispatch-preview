@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-23T03:55:20+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T03:55:04+00:00._
+_Generated 2026-10-23T04:06:53+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T04:06:38+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [SCB Steelers Podcast 495 - Buccin' a Trend](https://scblitz.podbean.com/e/scb-steelers-podcast-495-buccin-a-trend/): Steel City Blitz, 2026-10-23 03:37 UTC
