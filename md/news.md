@@ -1,12 +1,13 @@
 # Steelers News
 
-_Generated 2026-10-23T11:09:11+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T11:08:17+00:00._
+_Generated 2026-10-23T11:32:51+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T11:32:17+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Steelers Stock Watch 2026 – S Robert Spears-Jennings](https://steelersdepot.com/2026/10/steelers-stock-watch-2026-s-robert-spears-jennings-4/): Steelers Depot, 2026-10-23 11:00 UTC
 - [4 wide receivers Steelers should target ahead of the NFL trade deadline](https://stillcurtain.com/4-wide-receivers-pittsburgh-steelers-should-target-ahead-of-the-nfl-trade-deadline-01m5dnq2ch8t?utm_source=RSS): Still Curtain, 2026-10-23 11:00 UTC
 - [Steelers Cancel Paris Practice Due to Weather](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-cancel-paris-practice-due-weather): All Steelers (Sports Illustrated), 2026-10-23 10:50 UTC
-- [Steelers QB Aaron Rodgers backs NFL on holding game in Paris despite recent unrest](https://www.newstimes.com/sports/article/steelers-practice-at-stade-de-france-canceled-22490460.php): News-Times, 2026-10-23 10:28 UTC
+- [Pittsburgh Steelers Scrap Paris NFL Fan Event Amid Civil Unrest](https://www.huffpost.com/entry/pittsburgh-steelers-scrap-fan-event-paris_n_6adb36a3e4b027da9ae55e16): HuffPost, 2026-10-23 10:32 UTC
+- [Steelers QB Aaron Rodgers backs NFL on holding game in Paris despite recent unrest](https://www.greenwichtime.com/sports/article/steelers-practice-at-stade-de-france-canceled-22490460.php): Greenwich Time, 2026-10-23 10:24 UTC
 - [Germie Bernard ‘Might Have Already Leapfrogged’ Roman Wilson, Beat Writer Says](https://steelersdepot.com/2026/10/germie-bernard-might-have-already-leapfrogged-roman-wilson-beat-writer-says/): Steelers Depot, 2026-10-23 10:20 UTC
 - [Steelers’ Aaron Rodgers just said what he’s thinking about the shocking Jalen Hurts blood clot controversy](https://www.pennlive.com/steelers/2026/10/steelers-aaron-rodgers-just-said-what-hes-thinking-about-the-shocking-jalen-hurts-blood-clot-controversy.html): PennLive (Nick Farabaugh), 2026-10-23 10:10 UTC
 - [DK Metcalf has prime chance to spark Steelers offense in Paris vs. Saints](https://sports.yahoo.com/articles/dk-metcalf-prime-chance-spark-100620790.html): Yahoo Sports, 2026-10-23 10:06 UTC
@@ -108,8 +109,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Matt's Stats: Week 7 vs. Saints](https://www.steelers.com/news/matt-s-stats-week-7-vs-saints): Steelers.com (official), 2026-10-22 14:00 UTC
 - [Aaron Rodgers Pried Marquez Valdes-Scantling Away From Chargers](https://steelersnow.com/aaron-rodgers-pried-marquez-valdes-scantling-away-from-chargers/): Steelers Now, 2026-10-22 14:00 UTC
 - [Steelers have an obvious Chris Godwin Jr. trade opportunity they can't ignore](https://stillcurtain.com/pittsburgh-steelers-have-an-obvious-chris-godwin-jr-trade-opportunity-they-can-t-ignore-01m5fra9e66k?utm_source=RSS): Still Curtain, 2026-10-22 14:00 UTC
-- [Steelers finding new ways to win as young players step into bigger roles](https://www.steelcityunderground.com/2026/10/22/steelers-finding-new-ways-to-win-as-young-players-step-into-bigger-roles/): Steel City Underground, 2026-10-22 13:41 UTC
-- [Five things to know about the New Orleans Saints for Thursday, October 22](https://www.neworleanssaints.com/news/five-things-to-know-about-the-new-orleans-saints-coordinators-availability-thursday-october-22): New Orleans Saints | NewOrleansSaints.com, 2026-10-22 13:16 UTC
 - [Former Browns HC Slams Steelers' Mike McCarthy, Aaron Rodgers](https://www.si.com/nfl/steelers/onsi/former-browns-eric-mangini-slams-pittsburgh-steelers-mike-mccarthy-aaron-rodgers): All Steelers (Sports Illustrated), 2026-10-22 13:13 UTC
 - [Steelers fans, unfazed by French unrest, find Paris to be far from terrible](https://www.post-gazette.com/sports/steelers/2026/10/22/steelers-game-fans-paris-protests-riots/stories/202610220044): Pittsburgh Post-Gazette, 2026-10-22 13:00 UTC
 - [Patrick Graham is seeing what Steelers hoped for from Keeanu Benton this season](https://stillcurtain.com/patrick-graham-is-seeing-what-pittsburgh-steelers-hoped-for-from-keeanu-benton-this-season-01m5g4cb88bn?utm_source=RSS): Still Curtain, 2026-10-22 12:00 UTC
@@ -153,6 +152,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers quietly catch a major break with the latest Jordyn Tyson update](https://stillcurtain.com/pittsburgh-steelers-quietly-catch-major-break-latest-jordyn-tyson-update-01m5faqwx8mz?utm_source=RSS): Still Curtain, 2026-10-21 14:01 UTC
 - [Gerry Dulac’s Steelers chat transcript: 10.21.26](https://www.post-gazette.com/sports/steelers/2026/10/21/nfl-paris-game-steelers-saints/stories/202610210043): Pittsburgh Post-Gazette, 2026-10-21 14:00 UTC
 - [One Steelers stat shows Mike McCarthy is sabotaging Jaylen Warren's breakout](https://stillcurtain.com/one-pittsburgh-steelers-stat-shows-mike-mccarthy-is-sabotaging-jaylen-warren-s-breakout-01m5cdewzrxq?utm_source=RSS): Still Curtain, 2026-10-21 13:00 UTC
+- [Steelers Can Shut Down This Trade Idea](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-shut-down-this-trade-idea-cornerback): All Steelers (Sports Illustrated), 2026-10-21 13:00 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

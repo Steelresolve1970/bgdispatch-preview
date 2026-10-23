@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-23T11:09:11+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T11:08:36+00:00._
+_Generated 2026-10-23T11:32:51+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T11:32:35+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [Let's Ride: Steelers Keys to Victory vs. the Saints, Week 7](https://podcasts.apple.com/us/podcast/id905962218): Steel Curtain Network (BTSC), 2026-10-23 08:00 UTC

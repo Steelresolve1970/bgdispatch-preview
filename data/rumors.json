@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T11:09:06.018743+00:00",
+ "generated": "2026-10-23T11:32:45.925289+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -115,16 +115,50 @@
    "status_link": null,
    "first_seen": "2026-10-23T10:05:24.966196+00:00",
    "consensus": {
-    "cluster_id": "514b4160b9de",
-    "independent_sources": 1,
+    "cluster_id": "d4ddd02fe987",
+    "independent_sources": 2,
     "sources": [
+     "AOL.com",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
-    "related_ids": []
+    "related_ids": [
+     "d4ddd02fe987"
+    ]
    },
    "updated": "2026-10-23T10:05:24.966196+00:00"
+  },
+  {
+   "id": "d4ddd02fe987",
+   "title": "Steelers linked to trade for Troy Polamalu's nephew",
+   "source": "AOL.com",
+   "link": "https://www.aol.com/articles/steelers-linked-trade-troy-polamalus-090859000.html",
+   "published": "2026-10-23T09:08:59+00:00",
+   "summary": "Rumor-style report from AOL.com on a Steelers roster move. Full details at the source.",
+   "tier": "Aggregator / other",
+   "tier_score": 1,
+   "subjects": [
+    "Troy Polamalu's"
+   ],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-23T11:32:45.925289+00:00",
+   "consensus": {
+    "cluster_id": "d4ddd02fe987",
+    "independent_sources": 2,
+    "sources": [
+     "AOL.com",
+     "Yahoo Sports"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "514b4160b9de"
+    ]
+   },
+   "updated": "2026-10-23T11:32:45.925289+00:00"
   },
   {
    "id": "46b9d884dd04",
