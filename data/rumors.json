@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T14:30:28.098674+00:00",
+ "generated": "2026-10-23T14:41:24.118985+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -44,6 +44,35 @@
  },
  "rumors": [
   {
+   "id": "c92a1295f98a",
+   "title": "Saints vs. Steelers: Final Week 7 injury report updates key starters",
+   "source": "Saints Wire",
+   "link": "https://saintswire.usatoday.com/story/sports/nfl/saints/2026/10/23/saints-injury-report-steelers-jordyn-tyson-nfl/92395091007/",
+   "published": "2026-10-23T14:30:00+00:00",
+   "summary": "Injury story from Saints Wire. Full report at the original publisher.",
+   "tier": "Aggregator / other",
+   "tier_score": 1,
+   "subjects": [],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-23T14:41:24.118985+00:00",
+   "consensus": {
+    "cluster_id": "3e782f3c4f92",
+    "independent_sources": 2,
+    "sources": [
+     "Saints Wire",
+     "Steelers Depot"
+    ],
+    "highest_tier": "Fan blog",
+    "highest_tier_score": 2,
+    "related_ids": [
+     "3e782f3c4f92"
+    ]
+   },
+   "updated": "2026-10-23T14:41:24.118985+00:00"
+  },
+  {
    "id": "595924af2d84",
    "title": "Steelers safety DeShon Elliott could return Sunday, a year removed from his gruesome injury",
    "source": "Pittsburgh Post-Gazette",
@@ -87,13 +116,16 @@
    "first_seen": "2026-10-23T13:24:55.254010+00:00",
    "consensus": {
     "cluster_id": "3e782f3c4f92",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
+     "Saints Wire",
      "Steelers Depot"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "c92a1295f98a"
+    ]
    },
    "updated": "2026-10-23T13:24:55.254010+00:00"
   },
