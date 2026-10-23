@@ -149,7 +149,17 @@ const fmTag=n=>n?`<span class="fx-fm" title="One of the first 250 forum members"
 const roleTag=r=>r==='owner'?'<span class="fx-role">OWNER</span>':r==='mod'?'<span class="fx-role">MOD</span>':r==='bot'?'<span class="fx-role" title="Posted automatically by the Dispatch Desk">AUTO</span>':'';
 
 // ---------- header buttons ----------
-function head(){const a=document.querySelector('.forum-actions');const badge=document.querySelector('.forum-head .badge');
+// One-time notice to signed-in members about the interim Terms of Use (Oct 23, 2026). Dismiss is remembered on the device.
+// Never allowed to break the forum: any error here is ignored.
+const TERMS_NOTE_KEY='bgd_terms_note_2026-10-23-interim';
+function termsNote(){try{let n=$('fx-terms-note');let seen=false;try{seen=localStorage.getItem(TERMS_NOTE_KEY)==='1';}catch(e){}
+ if(!S.me||seen){if(n)n.remove();return;}if(n)return;const b=$('forum-body');if(!b||!b.parentNode)return;
+ n=document.createElement('div');n.id='fx-terms-note';n.setAttribute('role','note');
+ n.style.cssText='background:#fff;color:#111;border-left:4px solid #FFB612;border-radius:8px;padding:12px 14px;margin:0 0 14px;box-shadow:0 1px 3px #0001';
+ n.innerHTML='<p style="margin:0 0 8px">We\'ve updated our Terms of Use (interim terms, effective Oct 23, 2026). <a href="/legal/terms.html">Read the Terms</a>. By continuing to use your account you agree to the updated terms.</p><button type="button" class="fx-btn ghost sm">Got it</button>';
+ n.querySelector('button').onclick=()=>{try{localStorage.setItem(TERMS_NOTE_KEY,'1');}catch(e){}n.remove();};
+ b.parentNode.insertBefore(n,b);}catch(e){}}
+function head(){termsNote();const a=document.querySelector('.forum-actions');const badge=document.querySelector('.forum-head .badge');
  if(S.api&&badge)badge.remove();if(!a)return;
  if(!S.api){a.innerHTML='';return;}
  a.innerHTML=S.me?`<a class="fx-btn ghost sm" href="#/forum/me">${E(S.me.display_name)}</a> <a class="fx-btn sm" href="#/forum/new">+ New Thread</a>`
