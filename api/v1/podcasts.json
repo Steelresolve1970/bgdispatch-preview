@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-23T17:25:38+00:00",
- "data_updated": "2026-10-23T17:25:21+00:00",
- "count": 161,
+ "generated": "2026-10-23T17:36:44+00:00",
+ "data_updated": "2026-10-23T17:36:16+00:00",
+ "count": 163,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -19,6 +19,19 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/podcasts",
  "items": [
+  {
+   "id": "10fc5ceca5904bf2",
+   "type": "video",
+   "title": "Did Steelers Make Travel Mistake? Grand Finale with Jack Hillgrove | THE PITTSBURGH FOOTBALL SHOW",
+   "show": "Steelers Now",
+   "url": "https://www.youtube.com/watch?v=9EUA5__ujcU",
+   "published": "2026-10-23T17:23:24+00:00",
+   "summary": "Video from Steelers Now.",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   }
+  },
   {
    "id": "1b9e81dc0a3db20d",
    "type": "video",
@@ -215,11 +228,11 @@
    }
   },
   {
-   "id": "50327394adeb9940",
+   "id": "9faba6d77583050d",
    "type": "podcast_episode",
    "title": "Steelers Rookie Class Answers Call, Ready to Carry Roster? | DeShon Elliott's Return Frees Up DBs",
    "show": "Locked On Steelers",
-   "url": "https://lockedonpodcasts.com/podcasts/locked-on-steelers/",
+   "url": "https://podcasts.apple.com/us/podcast/steelers-rookie-class-answers-call-ready-to-carry-roster/id1140522532?i=1000797723898",
    "published": "2026-10-23T04:30:00+00:00",
    "summary": "Podcast episode from Locked On Steelers.",
    "source": {
@@ -319,6 +332,19 @@
    }
   },
   {
+   "id": "94ec8389d96b2c93",
+   "type": "podcast_episode",
+   "title": "The Terrible Take - Episode 2058 - October 22, 2026",
+   "show": "The Terrible Podcast (Steelers Depot)",
+   "url": "https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2058-october-22-2026/id405990739?i=1000797677347",
+   "published": "2026-10-22T21:00:00+00:00",
+   "summary": "Podcast episode from The Terrible Podcast (Steelers Depot).",
+   "source": {
+    "name": "The Terrible Podcast (Steelers Depot)",
+    "url": null
+   }
+  },
+  {
    "id": "7ca56e4e4cd1b43b",
    "type": "podcast_episode",
    "title": "NFL Week 7 Predictions/Pittsburgh Steelers",
@@ -341,6 +367,19 @@
    "summary": "Video from Steelers Now.",
    "source": {
     "name": "Steelers Now",
+    "url": null
+   }
+  },
+  {
+   "id": "810cac8c37723a74",
+   "type": "podcast_episode",
+   "title": "The Depot Dive - Episode 119 - October 22, 2026",
+   "show": "The Terrible Podcast (Steelers Depot)",
+   "url": "https://podcasts.apple.com/us/podcast/the-depot-dive-episode-119-october-22-2026/id405990739?i=1000797665237",
+   "published": "2026-10-22T19:15:00+00:00",
+   "summary": "Podcast episode from The Terrible Podcast (Steelers Depot).",
+   "source": {
+    "name": "The Terrible Podcast (Steelers Depot)",
     "url": null
    }
   },
@@ -1173,19 +1212,6 @@
    "summary": "Video from Steelers Almighty.",
    "source": {
     "name": "Steelers Almighty",
-    "url": null
-   }
-  },
-  {
-   "id": "3183b79152a0f2c7",
-   "type": "video",
-   "title": "Should Steelers Still Seek WR Help? | Steelers Afternoon Drive",
-   "show": "Steelers Now",
-   "url": "https://www.youtube.com/watch?v=Bp2zQ4eZjX8",
-   "published": "2026-10-20T22:21:36+00:00",
-   "summary": "Video from Steelers Now.",
-   "source": {
-    "name": "Steelers Now",
     "url": null
    }
   },

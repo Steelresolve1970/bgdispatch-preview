@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T17:25:21.002887+00:00",
+ "generated": "2026-10-23T17:36:16.784036+00:00",
  "date_et": "2026-10-23",
  "days": 5,
  "display_days": 2,
@@ -90,10 +90,10 @@
    "show": "Steel City Underground",
    "kind": "podcast",
    "url": "https://feeds.feedburner.com/steelcityunderground",
-   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 45,
    "week": 2,
-   "latest": null
+   "latest": "2026-10-22T16:20:16+00:00"
   },
   {
    "show": "Steel City Underground",
@@ -156,7 +156,7 @@
    "status": "ok",
    "episodes": 15,
    "week": 15,
-   "latest": "2026-10-23T16:49:44+00:00"
+   "latest": "2026-10-23T17:23:24+00:00"
   },
   {
    "show": "The Steel City Insider (Jim Wexell, 247Sports)",
@@ -250,6 +250,14 @@
   }
  ],
  "items": [
+  {
+   "title": "Did Steelers Make Travel Mistake? Grand Finale with Jack Hillgrove | THE PITTSBURGH FOOTBALL SHOW",
+   "show": "Steelers Now",
+   "kind": "video",
+   "link": "https://www.youtube.com/watch?v=9EUA5__ujcU",
+   "published": "2026-10-23T17:23:24+00:00",
+   "summary": "Video from Steelers Now."
+  },
   {
    "title": "Smitty's Six Pack of Steelers-Saints Topics | THE PITTSBURGH FOOTBALL SHOW",
    "show": "Steelers Now",
@@ -390,7 +398,7 @@
    "title": "Steelers Rookie Class Answers Call, Ready to Carry Roster? | DeShon Elliott's Return Frees Up DBs",
    "show": "Locked On Steelers",
    "kind": "podcast",
-   "link": "https://lockedonpodcasts.com/podcasts/locked-on-steelers/",
+   "link": "https://podcasts.apple.com/us/podcast/steelers-rookie-class-answers-call-ready-to-carry-roster/id1140522532?i=1000797723898",
    "published": "2026-10-23T04:30:00+00:00",
    "summary": "Podcast episode from Locked On Steelers."
   },
@@ -478,7 +486,7 @@
    "title": "The Terrible Take - Episode 2058 - October 22, 2026",
    "show": "The Terrible Podcast (Steelers Depot)",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/id405990739",
+   "link": "https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2058-october-22-2026/id405990739?i=1000797677347",
    "published": "2026-10-22T21:00:00+00:00",
    "summary": "Podcast episode from The Terrible Podcast (Steelers Depot)."
   },
@@ -502,7 +510,7 @@
    "title": "The Depot Dive - Episode 119 - October 22, 2026",
    "show": "The Terrible Podcast (Steelers Depot)",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/id405990739",
+   "link": "https://podcasts.apple.com/us/podcast/the-depot-dive-episode-119-october-22-2026/id405990739?i=1000797665237",
    "published": "2026-10-22T19:15:00+00:00",
    "summary": "Podcast episode from The Terrible Podcast (Steelers Depot)."
   },
@@ -1021,14 +1029,6 @@
    "published": "2026-10-20T23:30:36+00:00",
    "summary": "Video from Steelers Almighty.",
    "from_film": true
-  },
-  {
-   "title": "Should Steelers Still Seek WR Help? | Steelers Afternoon Drive",
-   "show": "Steelers Now",
-   "kind": "video",
-   "link": "https://www.youtube.com/watch?v=Bp2zQ4eZjX8",
-   "published": "2026-10-20T22:21:36+00:00",
-   "summary": "Video from Steelers Now."
   },
   {
    "title": "Should Steelers Still Seek WR Help? | Steelers Afternoon Drive",

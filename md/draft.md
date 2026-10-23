@@ -1,6 +1,6 @@
 # Steelers Draft Central
 
-_Generated 2026-10-23T17:25:38+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T17:25:26+00:00._
+_Generated 2026-10-23T17:36:44+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T17:36:21+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/draft.json_
 
 Steelers projected picks: R1 #23, R2 #55
