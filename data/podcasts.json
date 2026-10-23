@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T15:47:54.320928+00:00",
+ "generated": "2026-10-23T15:59:03.647990+00:00",
  "date_et": "2026-10-23",
  "days": 5,
  "display_days": 2,
@@ -37,7 +37,7 @@
    "kind": "podcast",
    "url": "https://feeds.megaphone.fm/btsc-steelers",
    "status": "ok",
-   "episodes": 4998,
+   "episodes": 600,
    "week": 17,
    "latest": "2026-10-23T15:30:00+00:00"
   },
@@ -90,10 +90,10 @@
    "show": "Steel City Underground",
    "kind": "podcast",
    "url": "https://feeds.feedburner.com/steelcityunderground",
-   "status": "ok",
-   "episodes": 45,
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "episodes": 0,
    "week": 2,
-   "latest": "2026-10-22T16:20:16+00:00"
+   "latest": null
   },
   {
    "show": "Steel City Underground",
@@ -422,7 +422,7 @@
    "title": "The Terrible Take - Episode 2058 - October 22, 2026",
    "show": "The Terrible Podcast (Steelers Depot)",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/id405990739",
+   "link": "https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2058-october-22-2026/id405990739?i=1000797677347",
    "published": "2026-10-22T21:00:00+00:00",
    "summary": "Podcast episode from The Terrible Podcast (Steelers Depot)."
   },
@@ -446,7 +446,7 @@
    "title": "The Depot Dive - Episode 119 - October 22, 2026",
    "show": "The Terrible Podcast (Steelers Depot)",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/id405990739",
+   "link": "https://podcasts.apple.com/us/podcast/the-depot-dive-episode-119-october-22-2026/id405990739?i=1000797665237",
    "published": "2026-10-22T19:15:00+00:00",
    "summary": "Podcast episode from The Terrible Podcast (Steelers Depot)."
   },
@@ -651,14 +651,6 @@
    "summary": "Podcast episode from DK Pittsburgh Sports."
   },
   {
-   "title": "Yinz Steel Believe: Are the Steelers Good Enough to Be Buyers at the Trade Deadline?",
-   "show": "Steel Curtain Network (BTSC)",
-   "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/yinz-steel-believe-are-the-steelers-good-enough-to-be/id905962218?i=1000797541308",
-   "published": "2026-10-22T02:45:00+00:00",
-   "summary": "Podcast episode from Steel Curtain Network (BTSC)."
-  },
-  {
    "title": "STEELERS SQUAD SHOW: Offense MUST Improve as Jaylen Warren, Aaron Rodgers Prepare for Saints & Paris",
    "show": "Locked On Steelers",
    "kind": "podcast",
@@ -858,6 +850,14 @@
    "link": "https://www.youtube.com/shorts/HdzKsylahSs",
    "published": "2026-10-21T14:49:13+00:00",
    "summary": "Video from Pittsburgh Steelers (official)."
+  },
+  {
+   "title": "Yinz Steel Believe: Are the Steelers Good Enough to Be Buyers at the Trade Deadline?",
+   "show": "Steel Curtain Network (BTSC)",
+   "kind": "podcast",
+   "link": "https://podcasts.apple.com/us/podcast/yinz-steel-believe-are-the-steelers-good-enough-to-be/id905962218?i=1000797541308",
+   "published": "2026-10-21T14:45:00+00:00",
+   "summary": "Podcast episode from Steel Curtain Network (BTSC)."
   },
   {
    "title": "Steelers' COACHING Grades vs Bucs",

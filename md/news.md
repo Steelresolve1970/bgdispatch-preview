@@ -1,8 +1,9 @@
 # Steelers News
 
-_Generated 2026-10-23T15:48:10+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T15:47:39+00:00._
+_Generated 2026-10-23T15:59:20+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T15:58:45+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Aaron Rodgers urges better funding for US women's flag football team](https://www.winchesterstar.com/associated_press/national_sports/aaron-rodgers-urges-better-funding-for-us-womens-flag-football-team/article_a45498f2-1d9f-51f1-b428-bef966b71be2.html): The Winchester Star, 2026-10-23 15:47 UTC
 - [Darnell Washington Notes What ‘Stands Out’ Most About Rookie WR Germie Bernard](https://steelersdepot.com/2026/10/darnell-washington-notes-what-stands-out-most-about-rookie-wr-germie-bernard/): Steelers Depot, 2026-10-23 15:45 UTC
 - [Paris Police Postpone Soccer Match Scheduled For Same Day As Steelers-Saints](https://steelersdepot.com/2026/10/paris-police-postpone-soccer-match-scheduled-for-same-day-as-steelers-saints/): Steelers Depot, 2026-10-23 15:32 UTC
 - [Aaron Rodgers Takes Shot At The NFL For Being Money Hungry Before Steelers' Matchup With Saints](https://www.steelernation.com/2026/10/23/steelers-aaron-rodgers-money-hungry): SteelerNation, 2026-10-23 15:31 UTC
@@ -87,6 +88,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Young Steelers DT Keeanu Benton happy to share knowledge with rookie duo](https://triblive.com/sports/young-steelers-dt-keeanu-benton-happy-to-share-knowledge-with-rookie-duo/): TribLive, 2026-10-22 23:57 UTC
 - [Steelers' Cameron Heyward Explains Why Aaron Rodgers' Pocket Movement Is Still A Nightmare For Defenses](https://www.steelernation.com/2026/10/22/steelers-cameron-heyward-aaron-rodgers-nightmare): SteelerNation, 2026-10-22 23:55 UTC
 - [Steelers' Latest Defensive Line Injuries Make DeForest Buckner An Urgent Trade Target](https://www.steelernation.com/2026/10/22/steelers-deforest-buckner-urgent-trade): SteelerNation, 2026-10-22 23:31 UTC
+- [Steelers at Saints in Paris: How to watch/listen to the game](https://www.steelers.com/news/steelers-at-saints-in-paris-how-to-watch-listen-to-the-game): Steelers.com (official), 2026-10-22 23:30 UTC
 - [Steelers Urged to Trade For Nephew of Pittsburgh Legend](https://steelersnow.com/steelers-urged-to-trade-for-nephew-of-pittsburgh-legend/): Steelers Now, 2026-10-22 23:25 UTC
 - [Pittsburgh Steelers lose key defensive tackle to triceps injury](https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-lose-key-defensive-tackle-to-triceps-injury.html): PennLive (Nick Farabaugh), 2026-10-22 23:16 UTC
 - [Week 7 Blog: Strictly business](https://www.steelers.com/news/week-7-blog-the-stacking-has-begun): Steelers.com (official), 2026-10-22 23:01 UTC
@@ -109,13 +111,11 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers Rule Out Veteran Cornerback vs. Saints](https://steelersnow.com/steelers-rule-out-veteran-cornerback-vs-saints/): Steelers Now, 2026-10-22 19:21 UTC
 - [T.J. Watt Pops Up on Steelers Injury Report Before Paris Trip](https://www.si.com/nfl/steelers/onsi/tj-watt-injured-before-pittsburgh-steelers-paris-game): All Steelers (Sports Illustrated), 2026-10-22 19:17 UTC
 - [Steelers' Mike McCarthy Has Intriguing Opportunity To Revive Justin Herbert's Career](https://www.steelernation.com/2026/10/22/steelers-mike-mccarthy-intriguing-justin-herbert): Steeler Nation, 2026-10-22 18:34 UTC
-- ['We finally busted our way through': Raiders dethrone Pittsburgh in 1976 AFC title game | Thrilling Moments](https://www.raiders.com/video/look-back-raiders-dethrone-pittsburgh-1976-afc-title-game-thrilling-moments): Raiders.com, 2026-10-22 17:31 UTC
 - [Steelers place DL Sebastian Joseph-Day on injured reserve](https://triblive.com/sports/steelers-place-dl-sebastian-joseph-day-on-injured-reserve/): TribLive, 2026-10-22 17:30 UTC
 - [Steelers injury leaves Gabriel Rubio facing a golden NFL opportunity](https://stillcurtain.com/pittsburgh-steelers-sebastian-joseph-day-injury-leaves-gabriel-rubio-golden-nfl-opportunity-01m5j7djme4b?utm_source=RSS): Still Curtain, 2026-10-22 17:21 UTC
 - [Steelers staffers began planning for their Paris trip — and its logistical obstacles — in June](https://www.post-gazette.com/sports/steelers/2026/10/22/steelers-paris-trip-planning/stories/202610220046): Pittsburgh Post-Gazette, 2026-10-22 17:00 UTC
 - [Steelers could see their playoff odds change dramatically in Week 7](https://stillcurtain.com/pittsburgh-steelers-could-see-playoff-odds-change-dramatically-week-7-01m5hxbbsg5h?utm_source=RSS): Still Curtain, 2026-10-22 16:00 UTC
 - [Steelers news: Jalen Ramsey looks to continue fantastic start](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176693/steelers-news-jalen-ramsey-looks-to-continue-fantastic-start): Behind the Steel Curtain, 2026-10-22 16:00 UTC
-- [Steelers at Saints in Paris: How to watch/listen to the game](https://www.steelers.com/news/steelers-at-saints-in-paris-how-to-watch-listen-to-the-game): Steelers.com (official), 2026-10-22 16:00 UTC
 - [Steelers place DE Sebastian Joseph-Day on IR](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176702/steelers-place-de-sebastian-joseph-day-on-ir-sebastian-joseph-day): Behind the Steel Curtain, 2026-10-22 15:56 UTC
 - [Steelers place Joseph-Day on Reserve/Injured List](https://www.steelers.com/news/steelers-place-joseph-day-on-reserve-injured-list): Steelers.com (official), 2026-10-22 15:45 UTC
 - [Steelers fan event in Paris cancelled by NFL](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176694/steelers-fan-event-in-paris-cancelled-by-nfl): Behind the Steel Curtain, 2026-10-22 15:13 UTC

@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-23T15:48:11.431152+00:00",
+ "last_run": "2026-10-23T15:59:21.068173+00:00",
  "results": [
   {
    "fetcher": "apply_grade_edits.py",
@@ -10,7 +10,7 @@
   {
    "fetcher": "fetch_news.py",
    "ok": true,
-   "seconds": 9.5,
+   "seconds": 9.0,
    "last_line": "news: 150 ticker: 30"
   },
   {
@@ -46,7 +46,7 @@
   {
    "fetcher": "fetch_podcasts.py",
    "ok": true,
-   "seconds": 6.0,
+   "seconds": 10.0,
    "last_line": "episodes past 5 days: 167 | embed-fallback channels: 0 | post-game: 0"
   },
   {
@@ -124,7 +124,7 @@
   {
    "fetcher": "fetch_depth.py",
    "ok": true,
-   "seconds": 3.0,
+   "seconds": 2.5,
    "last_line": "depth units [('Offense', '3WR 1TE', 12), ('Defense', 'Base 3-4 D', 12), ('Special teams', 'Special Teams', 6)]"
   },
   {
@@ -142,7 +142,7 @@
   {
    "fetcher": "fetch_rumors.py",
    "ok": true,
-   "seconds": 3.0,
+   "seconds": 2.5,
    "last_line": "rumors 83 {'Rumor': 78, 'Confirmed': 4, 'Denied': 1}"
   },
   {
@@ -172,14 +172,14 @@
   {
    "fetcher": "fetch_quotes.py",
    "ok": true,
-   "seconds": 0.5,
+   "seconds": 1.5,
    "last_line": "quotes: 7 kept from 132 articles"
   },
   {
    "fetcher": "build_machine.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "machine layer: {'news': 150, 'rumors': 83, 'injuries': 13, 'depth-chart': 28, 'schedule': 17, 'stats': 62, 'grades': 40, 'college': 20, 'insiders': 11, 'podcasts': 161, 'film': 11, 'draft': 512} md 13 feeds 5 jsonld 14"
+   "last_line": "machine layer: {'news': 150, 'rumors': 83, 'injuries': 13, 'depth-chart': 28, 'schedule': 17, 'stats': 62, 'grades': 40, 'college': 20, 'insiders': 11, 'podcasts': 162, 'film': 11, 'draft': 512} md 13 feeds 5 jsonld 14"
   }
  ]
 }
