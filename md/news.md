@@ -1,8 +1,9 @@
 # Steelers News
 
-_Generated 2026-10-23T04:43:32+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T04:42:15+00:00._
+_Generated 2026-10-23T04:55:14+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T04:53:44+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Pittsburgh Steelers’ Third-Down Problem Has an Obvious Paris Fix](https://athlonsports.com/nfl/pittsburgh-steelers/steelers-jaylen-warren-third-down-paris-saints): Athlon Sports, 2026-10-23 04:46 UTC
 - [Steelers fan event at Bastille bar canceled amid civil unrest in Paris](https://www.espn.com/nfl/story/_/id/50250407/steelers-fan-event-paris-canceled-amid-civil-unrest): ESPN, 2026-10-23 04:29 UTC
 - [Offensive Line Coach James Campen Offers Latest Evaluation Of Steelers’ Front Five](https://steelersdepot.com/2026/10/offensive-line-coach-james-campen-offers-latest-evaluation-of-steelers-front-five/): Steelers Depot, 2026-10-23 04:00 UTC
 - [Steelers climb AFC playoff standings after Bears defeat Patriots](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176779/steelers-climb-afc-playoff-standings-after-bears-defeat-patriots): Behind the Steel Curtain, 2026-10-23 03:42 UTC
@@ -60,7 +61,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [‘We’ve Got This In The Bag’: Vince Williams Has Utmost Confidence In Steelers Against Saints](https://steelersdepot.com/2026/10/weve-got-this-in-the-bag-vince-williams-has-utmost-confidence-in-steelers-against-saints/): Steelers Depot, 2026-10-22 18:15 UTC
 - [Steelers-Jets Blockbuster Trade Idea Reunites Aaron Rodgers With $130M WR](https://heavy.com/sports/nfl/pittsburgh-steelers/steelers-garrett-wilson-aaron-rodgers-jets-trade-idea/): Heavy.com, 2026-10-22 18:01 UTC
 - [Steelers Set To Land Bargain Trade Deal With Former Patrick Graham Defender](https://www.steelernation.com/2026/10/22/steelers-bargain-trade-patrick-graham): Steeler Nation, 2026-10-22 17:54 UTC
-- [Steelers fans leave Pittsburgh for Paris as first-ever NFL game in the city nears](https://www.wtae.com/article/yinzers-paris-steelers-game-from-pittsburgh/74218502): WTAE, 2026-10-22 17:51 UTC
 - ['We finally busted our way through': Raiders dethrone Pittsburgh in 1976 AFC title game | Thrilling Moments](https://www.raiders.com/video/look-back-raiders-dethrone-pittsburgh-1976-afc-title-game-thrilling-moments): Raiders.com, 2026-10-22 17:31 UTC
 - [Steelers place DL Sebastian Joseph-Day on injured reserve](https://triblive.com/sports/steelers-place-dl-sebastian-joseph-day-on-injured-reserve/): TribLive, 2026-10-22 17:30 UTC
 - [Pittsburgh Steelers 2026 Week 7 Depth Chart](https://steelersnow.com/pittsburgh-steelers-2025-depth-chart/): Steelers Now, 2026-10-22 17:23 UTC
@@ -149,10 +149,10 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Moving to left tackle is hard. Just ask the Steelers’ Troy Fautanu.](https://www.post-gazette.com/sports/steelers/2026/10/21/troy-fautanu-move-to-left-tackle-offensive-line/stories/202610210004): Pittsburgh Post-Gazette, 2026-10-21 08:00 UTC
 - [Steelers sign veteran receiver Marquez Valdes-Scantling to practice squad](https://triblive.com/sports/steelers-sign-veteran-receiver-marquez-valdes-scantling-to-practice-squad/): TribLive, 2026-10-20 22:57 UTC
 - [WATCH: SNR Drive (All Episodes from Week of October 19)](https://www.steelers.com/news/watch-snr-drive-all-episodes-from-week-of-october-19): Steelers.com (official), 2026-10-20 22:00 UTC
-- [Steelers Have Obvious Solution to Third Down Struggles](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-obvious-solution-third-down-struggles): All Steelers (Sports Illustrated), 2026-10-20 21:30 UTC
 - [NFL says heightened security measures will be in place for the Steelers-Saints game in Paris](https://triblive.com/sports/nfl-says-heightened-security-measures-will-be-in-place-for-the-steelers-saints-game-in-paris/): TribLive, 2026-10-20 21:02 UTC
 - [Germie Bernard's breakout couldn't come at a better time for the Steelers](https://stillcurtain.com/germie-bernard-s-breakout-couldn-t-come-at-a-better-time-for-the-pittsburgh-steelers-01m5d1ktrp4d?utm_source=RSS): Still Curtain, 2026-10-20 21:00 UTC
 - [Pittsburgh Steelers sign wide receiver with Aaron Rodgers ties](https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-sign-wide-receiver-with-aaron-rodgers-ties.html): PennLive (Nick Farabaugh), 2026-10-20 20:18 UTC
+- [NFL will proceed with plans for Steelers-Saints game in Paris despite unrest](https://www.nytimes.com/athletic/7708509/2026/10/20/nfl-paris-steelers-saints-security/): The Athletic, 2026-10-20 20:03 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
