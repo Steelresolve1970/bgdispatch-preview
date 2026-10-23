@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-23T01:35:30.458504+00:00",
+ "generated": "2026-10-23T01:46:46.702500+00:00",
  "date_et": "2026-10-22",
  "days": 5,
  "display_days": 2,
- "count": 150,
+ "count": 149,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -47,7 +47,7 @@
    "url": "https://feeds.simplecast.com/OkvCKc09",
    "status": "ok",
    "episodes": 1001,
-   "week": 14,
+   "week": 13,
    "latest": "2026-10-22T22:04:00+00:00"
   },
   {
@@ -99,10 +99,10 @@
    "show": "Steel City Underground",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDcNNAMkYr-DzH6_XL-0p8Q",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 2,
-   "latest": null
+   "latest": "2026-10-22T16:28:41+00:00"
   },
   {
    "show": "Steelers Afternoon Drive",
@@ -216,10 +216,10 @@
    "show": "Not Just Football with Cam Heyward",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8hodyaoiw297aspKf9QVDA",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 6,
-   "latest": null
+   "latest": "2026-10-22T15:53:52+00:00"
   },
   {
    "show": "Footbahlin with Ben Roethlisberger",
@@ -243,10 +243,10 @@
    "show": "The Christian Kuntz Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKKBJcOGsYmwAATQv-xQYeA",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 0,
-   "latest": null
+   "latest": "2009-05-26T14:01:33+00:00"
   }
  ],
  "items": [
@@ -1441,24 +1441,9 @@
    "link": "https://podcasts.apple.com/us/podcast/the-steelers-q-a-getting-off-the-coaster-in-week-6/id905962218?i=1000796865157",
    "published": "2026-10-18T02:30:00+00:00",
    "summary": "Podcast episode from Steel Curtain Network (BTSC)."
-  },
-  {
-   "title": "DK's Live Shot of Steelers: Pregame vs. Buccaneers",
-   "show": "DK Pittsburgh Sports",
-   "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/dks-live-shot-of-steelers-pregame-vs-buccaneers/id1072021022?i=1000796861441",
-   "published": "2026-10-18T01:37:00+00:00",
-   "summary": "Podcast episode from DK Pittsburgh Sports."
   }
  ],
- "yt_channels": [
-  {
-   "show": "The Christian Kuntz Podcast",
-   "channel_id": "UCKKBJcOGsYmwAATQv-xQYeA",
-   "link": "https://www.youtube.com/channel/UCKKBJcOGsYmwAATQv-xQYeA",
-   "embed": "https://www.youtube-nocookie.com/embed/videoseries?list=UUKKBJcOGsYmwAATQv-xQYeA"
-  }
- ],
+ "yt_channels": [],
  "postgame": null,
  "directory": [
   {
