@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-23T00:35:39+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T00:34:10+00:00._
+_Generated 2026-10-23T00:47:23+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T00:45:53+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Pittsburgh Steelers focus on resting up ahead of flight into uneasy France](https://www.wpxi.com/video/pittsburgh-steelers-focus-resting-up-ahead-flight-into-uneasy-france/4038af57-3f3c-4dc9-bf3a-e6c534e62235/): WPXI, 2026-10-23 00:17 UTC
@@ -51,12 +51,12 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Week 7 Injury Report (Saints)](https://www.steelers.com/news/week-7-injury-report-saints): Steelers.com (official), 2026-10-22 19:10 UTC
 - [Christian Kuntz Reveals What NFL Told Steelers About Safety Risk in Paris](https://steelersnow.com/christian-kuntz-reveals-what-nfl-told-steelers-about-safety-risk-in-paris/): Steelers Now, 2026-10-22 19:03 UTC
 - [‘Better And Better Each Week:’ Chris Hoke Has High Praise For Rookie Daylen Everette](https://steelersdepot.com/2026/10/better-and-better-each-week-chris-hoke-has-high-praise-for-rookie-daylen-everette/): Steelers Depot, 2026-10-22 18:45 UTC
-- [Steelers' Mike McCarthy Has Intriguing Opportunity To Revive Justin Herbert's Career](https://www.steelernation.com/2026/10/22/steelers-mike-mccarthy-intriguing-justin-herbert): Steeler Nation, 2026-10-22 18:34 UTC
 - [Ask Alex: Steelers Mailbag](https://steelersdepot.com/2026/10/ask-alex-steelers-mailbag-557/): Steelers Depot, 2026-10-22 18:30 UTC
+- [Steelers' Mike McCarthy Has Intriguing Opportunity To Revive Justin Herbert's Career](https://www.steelernation.com/2026/10/22/steelers-mike-mccarthy-intriguing-justin-herbert): SteelerNation, 2026-10-22 18:26 UTC
 - [‘We’ve Got This In The Bag’: Vince Williams Has Utmost Confidence In Steelers Against Saints](https://steelersdepot.com/2026/10/weve-got-this-in-the-bag-vince-williams-has-utmost-confidence-in-steelers-against-saints/): Steelers Depot, 2026-10-22 18:15 UTC
 - [Steelers-Jets Blockbuster Trade Idea Reunites Aaron Rodgers With $130M WR](https://heavy.com/sports/nfl/pittsburgh-steelers/steelers-garrett-wilson-aaron-rodgers-jets-trade-idea/): Heavy.com, 2026-10-22 18:01 UTC
+- [Steelers Set To Land Bargain Trade Deal With Former Patrick Graham Defender](https://www.steelernation.com/2026/10/22/steelers-bargain-trade-patrick-graham): Steeler Nation, 2026-10-22 17:54 UTC
 - [Steelers fans leave Pittsburgh for Paris as first-ever NFL game in the city nears](https://www.wtae.com/article/yinzers-paris-steelers-game-from-pittsburgh/74218502): WTAE, 2026-10-22 17:51 UTC
-- [Steelers Set To Land Bargain Trade Deal With Former Patrick Graham Defender](https://www.steelernation.com/2026/10/22/steelers-bargain-trade-patrick-graham): SteelerNation, 2026-10-22 17:48 UTC
 - ['We finally busted our way through': Raiders dethrone Pittsburgh in 1976 AFC title game | Thrilling Moments](https://www.raiders.com/video/look-back-raiders-dethrone-pittsburgh-1976-afc-title-game-thrilling-moments): Raiders.com, 2026-10-22 17:31 UTC
 - [Steelers place DL Sebastian Joseph-Day on injured reserve](https://triblive.com/sports/steelers-place-dl-sebastian-joseph-day-on-injured-reserve/): TribLive, 2026-10-22 17:30 UTC
 - [Pittsburgh Steelers 2026 Week 7 Depth Chart](https://steelersnow.com/pittsburgh-steelers-2025-depth-chart/): Steelers Now, 2026-10-22 17:23 UTC
