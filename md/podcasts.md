@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-23T21:54:26+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T21:54:09+00:00._
+_Generated 2026-10-23T22:05:17+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T22:05:01+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [THE PITTSBURGH FOOTBALL SHOW, Episode 7, Oct. 23, 2026](https://www.youtube.com/watch?v=m3oM_Pej1Tk): Steelers Now, 2026-10-23 21:51 UTC
@@ -177,9 +177,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Steelers Beat Bucs in OT! WILD GAME](https://podcasts.apple.com/us/podcast/steelers-beat-bucs-in-ot-wild-game/id1627248534?i=1000796978945): All Steelers Talk, 2026-10-18 22:23 UTC
 - Podcast: [SCN Post-Game Show: The Jekyll and Hyde Steelers beat Tampa Bay in OT](https://podcasts.apple.com/us/podcast/scn-post-game-show-the-jekyll-and-hyde-steelers/id905962218?i=1000797805897): Steel Curtain Network (BTSC), 2026-10-18 22:17 UTC
 - Podcast: [DK’s Live Shot of Steelers: Postgame vs. Buccaneers](https://podcasts.apple.com/us/podcast/dks-live-shot-of-steelers-postgame-vs-buccaneers/id1072021022?i=1000796977662): DK Pittsburgh Sports, 2026-10-18 22:08 UTC
-- Video: [Steelers vs Bucs Post Game Show LIVE | Not Just Football](https://www.youtube.com/watch?v=GGODe0hKQXk): Not Just Football with Cam Heyward, 2026-10-18 22:03 UTC
-- Podcast: [The Mike McCarthy Postgame Press Conference Recap: Steelers 26, Buccaneers 19](https://podcasts.apple.com/us/podcast/the-mike-mccarthy-postgame-press-conference-recap/id905962218?i=1000797805868): Steel Curtain Network (BTSC), 2026-10-18 22:00 UTC
-- Video: [STEELERS SQUAD SHOW: McCarthy ROLLS Ankle, Steelers Big COMEBACK Leads To 1st Road Win In OT](https://www.youtube.com/watch?v=oTfu6jvAWPA): Locked On Steelers, 2026-10-18 21:57 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
