@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-23T15:59:20+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T15:59:03+00:00._
+_Generated 2026-10-23T16:10:08+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T16:09:50+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Video: [Aaron Rodgers Press Conference (October 23) | Pittsburgh Steelers](https://www.youtube.com/watch?v=zPJEr9LZ9kE): Pittsburgh Steelers (official), 2026-10-23 16:00 UTC
 - Podcast: [Black & Gold Blueprint: Bucs Game Recap and New Orleans Saints Preview](https://podcasts.apple.com/us/podcast/id905962218): Steel Curtain Network (BTSC), 2026-10-23 15:30 UTC
 - Video: [Coach Mike McCarthy Press Conference (October 23) | Pittsburgh Steelers](https://www.youtube.com/watch?v=bGqnTI4FLLQ): Pittsburgh Steelers (official), 2026-10-23 15:26 UTC
 - Video: [Putting the boys to the test 🇫🇷](https://www.youtube.com/shorts/9u3UD3MnNGo): Pittsburgh Steelers (official), 2026-10-23 14:32 UTC
@@ -19,10 +20,9 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Steelers' DeShon Elliott Set to Return from IR, Join Jaquan Brisker, Robert Spears-Jennings in Paris](https://www.youtube.com/shorts/KsowgIWMjcA): Locked On Steelers, 2026-10-22 22:14 UTC
 - Video: [Nu Leader on D-Line? | Steelers Afternoon Drive](https://www.youtube.com/watch?v=lnaN5WeNfUQ): Steelers Now, 2026-10-22 22:05 UTC
 - Podcast: [Nu Leader on D-Line? | Steelers Afternoon Drive](https://podcasts.apple.com/us/podcast/nu-leader-on-d-line-steelers-afternoon-drive/id1700240934?i=1000797686445): Steelers Afternoon Drive, 2026-10-22 22:03 UTC
-- Podcast: [The Terrible Take - Episode 2058 - October 22, 2026](https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2058-october-22-2026/id405990739?i=1000797677347): The Terrible Podcast (Steelers Depot), 2026-10-22 21:00 UTC
+- Podcast: [The Terrible Take - Episode 2058 - October 22, 2026](https://podcasts.apple.com/us/podcast/id405990739): The Terrible Podcast (Steelers Depot), 2026-10-22 21:00 UTC
 - Podcast: [NFL Week 7 Predictions/Pittsburgh Steelers](https://arthurmoats55.libsyn.com/dctm_game_picks_week_7_player_of_the_game_headlinesmp3): The Arthur Moats Experience, 2026-10-22 20:00 UTC
 - Video: [Bringing Vaunted Brand of Defense Overseas | Steelers Practice Report](https://www.youtube.com/watch?v=e7UlYYFDvos): Steelers Now, 2026-10-22 19:56 UTC
-- Podcast: [The Depot Dive - Episode 119 - October 22, 2026](https://podcasts.apple.com/us/podcast/the-depot-dive-episode-119-october-22-2026/id405990739?i=1000797665237): The Terrible Podcast (Steelers Depot), 2026-10-22 19:15 UTC
 - Video: [Dermontti Dawson & Mel Blount checking in from Paris 🇫🇷](https://www.youtube.com/shorts/0otqWh1Uiu4): Pittsburgh Steelers (official), 2026-10-22 18:57 UTC
 - Podcast: [Injury Bug Bites Steelers DL | Steelers Morning Rush](https://podcasts.apple.com/us/podcast/injury-bug-bites-steelers-dl-steelers-morning-rush/id1700240934?i=1000797649650): Steelers Afternoon Drive, 2026-10-22 16:59 UTC
 - Video: [Can the Steelers keep their winning streak alive in Paris?](https://www.youtube.com/watch?v=4UG7gRw1LHg): Steel City Underground, 2026-10-22 16:28 UTC
@@ -88,7 +88,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Scout’s Eye with Matt Williamson: All the Rodgersesque things](https://podcasts.apple.com/us/podcast/scouts-eye-with-matt-williamson-all-the/id1072021022?i=1000797398522): DK Pittsburgh Sports, 2026-10-21 05:34 UTC
 - Podcast: [The Scho Bro Show: The familiarity of the Steelers unfamiliar win](https://podcasts.apple.com/us/podcast/the-scho-bro-show-the-familiarity-of/id905962218?i=1000797367767): Steel Curtain Network (BTSC), 2026-10-21 02:55 UTC
 - Podcast: [Paris Under Pressure: Steelers Prepare for NFL First During Unrest Abroad](https://podcasts.apple.com/us/podcast/paris-under-pressure-steelers-prepare-for-nfl-first/id1277196913?i=1000797352171): Steelers Breakdown (PennLive, Nick Farabaugh), 2026-10-21 00:03 UTC
-- Video: [Poetry in motion 📺: #PITvsNO 10/25 at 9:30 AM ET on NFLN](https://www.youtube.com/shorts/bVYdjuYYbHw): Pittsburgh Steelers (official), 2026-10-20 23:33 UTC
 - Video: [Steelers' DB Grades vs Bucs](https://www.youtube.com/shorts/7HH8tM4vmec): Steelers Almighty, 2026-10-20 23:30 UTC
 - Video: [Should Steelers Still Seek WR Help? | Steelers Afternoon Drive](https://www.youtube.com/watch?v=Bp2zQ4eZjX8): Steelers Now, 2026-10-20 22:21 UTC
 - Podcast: [Should Steelers Still Seek WR Help? | Steelers Afternoon Drive](https://podcasts.apple.com/us/podcast/should-steelers-still-seek-wr-help-steelers-afternoon/id1700240934?i=1000797337923): Steelers Afternoon Drive, 2026-10-20 22:21 UTC

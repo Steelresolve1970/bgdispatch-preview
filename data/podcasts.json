@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T15:59:03.647990+00:00",
+ "generated": "2026-10-23T16:09:50.304477+00:00",
  "date_et": "2026-10-23",
  "days": 5,
  "display_days": 2,
@@ -90,10 +90,10 @@
    "show": "Steel City Underground",
    "kind": "podcast",
    "url": "https://feeds.feedburner.com/steelcityunderground",
-   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 45,
    "week": 2,
-   "latest": null
+   "latest": "2026-10-22T16:20:16+00:00"
   },
   {
    "show": "Steel City Underground",
@@ -201,7 +201,7 @@
    "status": "ok",
    "episodes": 15,
    "week": 15,
-   "latest": "2026-10-23T15:26:17+00:00"
+   "latest": "2026-10-23T16:00:03+00:00"
   },
   {
    "show": "Not Just Football with Cam Heyward",
@@ -250,6 +250,14 @@
   }
  ],
  "items": [
+  {
+   "title": "Aaron Rodgers Press Conference (October 23) | Pittsburgh Steelers",
+   "show": "Pittsburgh Steelers (official)",
+   "kind": "video",
+   "link": "https://www.youtube.com/watch?v=zPJEr9LZ9kE",
+   "published": "2026-10-23T16:00:03+00:00",
+   "summary": "Video from Pittsburgh Steelers (official)."
+  },
   {
    "title": "Black & Gold Blueprint: Bucs Game Recap and New Orleans Saints Preview",
    "show": "Steel Curtain Network (BTSC)",
@@ -422,7 +430,7 @@
    "title": "The Terrible Take - Episode 2058 - October 22, 2026",
    "show": "The Terrible Podcast (Steelers Depot)",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2058-october-22-2026/id405990739?i=1000797677347",
+   "link": "https://podcasts.apple.com/us/podcast/id405990739",
    "published": "2026-10-22T21:00:00+00:00",
    "summary": "Podcast episode from The Terrible Podcast (Steelers Depot)."
   },
@@ -446,7 +454,7 @@
    "title": "The Depot Dive - Episode 119 - October 22, 2026",
    "show": "The Terrible Podcast (Steelers Depot)",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/the-depot-dive-episode-119-october-22-2026/id405990739?i=1000797665237",
+   "link": "https://podcasts.apple.com/us/podcast/id405990739",
    "published": "2026-10-22T19:15:00+00:00",
    "summary": "Podcast episode from The Terrible Podcast (Steelers Depot)."
   },
@@ -972,14 +980,6 @@
    "link": "https://podcasts.apple.com/us/podcast/paris-under-pressure-steelers-prepare-for-nfl-first/id1277196913?i=1000797352171",
    "published": "2026-10-21T00:03:00+00:00",
    "summary": "Podcast episode from Steelers Breakdown (PennLive, Nick Farabaugh)."
-  },
-  {
-   "title": "Poetry in motion \ud83d\udcfa: #PITvsNO 10/25 at 9:30 AM ET on NFLN",
-   "show": "Pittsburgh Steelers (official)",
-   "kind": "video",
-   "link": "https://www.youtube.com/shorts/bVYdjuYYbHw",
-   "published": "2026-10-20T23:33:43+00:00",
-   "summary": "Video from Pittsburgh Steelers (official)."
   },
   {
    "title": "Steelers' DB Grades vs Bucs",
