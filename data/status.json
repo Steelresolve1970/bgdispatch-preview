@@ -1,16 +1,16 @@
 {
- "last_run": "2026-10-23T00:00:22.421933+00:00",
+ "last_run": "2026-10-23T00:12:12.617861+00:00",
  "results": [
   {
    "fetcher": "apply_grade_edits.py",
    "ok": true,
-   "seconds": 0.5,
+   "seconds": 1.0,
    "last_line": "no grade edits"
   },
   {
    "fetcher": "fetch_news.py",
    "ok": true,
-   "seconds": 3.5,
+   "seconds": 3.0,
    "last_line": "news: 150 ticker: 30"
   },
   {
@@ -47,7 +47,7 @@
    "fetcher": "fetch_podcasts.py",
    "ok": true,
    "seconds": 22.0,
-   "last_line": "episodes past 5 days: 149 | embed-fallback channels: 1 | post-game: 0"
+   "last_line": "episodes past 5 days: 150 | embed-fallback channels: 1 | post-game: 0"
   },
   {
    "fetcher": "fetch_featured.py",
@@ -82,7 +82,7 @@
   {
    "fetcher": "build_comps.py",
    "ok": true,
-   "seconds": 1.0,
+   "seconds": 0.5,
    "last_line": "comps 71 staff 58 pool 229"
   },
   {
@@ -112,8 +112,8 @@
   {
    "fetcher": "fetch_hub.py",
    "ok": true,
-   "seconds": 1.0,
-   "last_line": "injuries 10 practice 15 opp NO"
+   "seconds": 0.5,
+   "last_line": "hub fresh (<30 min); skipped"
   },
   {
    "fetcher": "fetch_matchup.py",
@@ -124,14 +124,14 @@
   {
    "fetcher": "fetch_depth.py",
    "ok": true,
-   "seconds": 3.0,
+   "seconds": 2.5,
    "last_line": "depth units [('Offense', '3WR 1TE', 12), ('Defense', 'Base 3-4 D', 12), ('Special teams', 'Special Teams', 6)]"
   },
   {
    "fetcher": "build_roster.py",
    "ok": true,
-   "seconds": 7.0,
-   "last_line": "roster {'Active roster': 53, 'Practice squad': 18, 'Reserve / IR': 10} {'no_draft_row': 0, 'no_stats': 18, 'no_snaps': 15}"
+   "seconds": 0.5,
+   "last_line": "roster unchanged today; skip"
   },
   {
    "fetcher": "fetch_player_socials.py",
@@ -179,7 +179,7 @@
    "fetcher": "build_machine.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "machine layer: {'news': 150, 'rumors': 73, 'injuries': 10, 'depth-chart': 28, 'schedule': 17, 'stats': 62, 'grades': 40, 'college': 20, 'insiders': 17, 'podcasts': 148, 'film': 23, 'draft': 512} md 13 feeds 5 jsonld 14"
+   "last_line": "machine layer: {'news': 150, 'rumors': 73, 'injuries': 10, 'depth-chart': 28, 'schedule': 17, 'stats': 62, 'grades': 40, 'college': 20, 'insiders': 17, 'podcasts': 149, 'film': 23, 'draft': 512} md 13 feeds 5 jsonld 14"
   }
  ]
 }

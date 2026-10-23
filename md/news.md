@@ -1,8 +1,9 @@
 # Steelers News
 
-_Generated 2026-10-23T00:00:21+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T23:58:42+00:00._
+_Generated 2026-10-23T00:12:12+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T00:10:40+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [BTSC Thursday Night Football thread: Patriots at Bears](https://www.behindthesteelcurtain.com/pittsburgh-steelers-discussion/176751/btsc-thursday-night-football-thread-patriots-at-bears): Behind the Steel Curtain, 2026-10-23 00:00 UTC
 - [Steelers' Cameron Heyward Explains Why Aaron Rodgers' Pocket Movement Is Still A Nightmare For Defenses](https://www.steelernation.com/2026/10/22/steelers-cameron-heyward-aaron-rodgers-nightmare): SteelerNation, 2026-10-22 23:55 UTC
 - [Steelers fan event at Bastille bar canceled amid civil unrest in Paris](https://www.espn.com/nfl/story/_/id/50250407/steelers-fan-event-paris-canceled-amid-civil-unrest): ESPN, 2026-10-22 23:51 UTC
 - [Steelers' Latest Defensive Line Injuries Make DeForest Buckner An Urgent Trade Target](https://www.steelernation.com/2026/10/22/steelers-deforest-buckner-urgent-trade): SteelerNation, 2026-10-22 23:31 UTC
@@ -129,7 +130,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers news: Zach Frazier has had tremendous start to season](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176640/steelers-news-zach-frazier-has-had-tremendous-start-to-season): Behind the Steel Curtain, 2026-10-21 16:33 UTC
 - [AFC North power rankings deliver a brutal Week 7 reality check for Ravens](https://stillcurtain.com/afc-north-power-rankings-pittsburgh-steelers-deliver-week-7-reality-check-baltimore-ravens-01m5fg61kdyg?utm_source=RSS): Still Curtain, 2026-10-21 16:00 UTC
 - [The best soccer/NFL crossover jerseys as PSG unveil kit for Steelers vs. Saints in Paris](https://www.espn.com/soccer/story/_/id/50225836/the-best-soccer-nfl-crossover-jerseys-psg-kit-pittsburgh-steelers-new-orleans-saints-paris-game): ESPN, 2026-10-21 15:51 UTC
-- [T.J. Watt’s wife calls out NFL for Paris game](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176634/t-j-watts-wife-calls-out-nfl-for-paris-game-pittsburgh-steelers-new-orleans-saints): Behind the Steel Curtain, 2026-10-21 15:36 UTC
 - [Steelers aren't going anywhere with Aaron Rodgers as QB1 despite 4-2 record](https://stillcurtain.com/pittsburgh-steelers-aren-t-going-anywhere-with-aaron-rodgers-as-qb1-despite-4-2-record-01m5bgs7rdb6?utm_source=RSS): Still Curtain, 2026-10-21 15:00 UTC
 - [Steelers Must Avoid This Veteran WR Trade Target](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-must-avoid-veteran-trade-target-chris-godwin): All Steelers (Sports Illustrated), 2026-10-21 15:00 UTC
 - [Steelers film study: Keeanu Benton turned in his best performance of the season against the Buccaneers](https://www.post-gazette.com/sports/steelers/2026/10/21/steelers-film-study-keeanu-benton/stories/202610210005): Pittsburgh Post-Gazette, 2026-10-21 14:06 UTC

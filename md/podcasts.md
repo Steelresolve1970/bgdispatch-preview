@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-23T00:00:21+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-22T23:59:57+00:00._
+_Generated 2026-10-23T00:12:12+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T00:11:55+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Podcast: [Steelers Preview: Previewing Steelers vs. Saints, Week 7](https://podcasts.apple.com/us/podcast/id905962218): Steel Curtain Network (BTSC), 2026-10-23 00:00 UTC
 - Video: [Steelers' DeShon Elliott Set to Return from IR, Join Jaquan Brisker, Robert Spears-Jennings in Paris](https://www.youtube.com/shorts/KsowgIWMjcA): Locked On Steelers, 2026-10-22 22:14 UTC
 - Video: [Nu Leader on D-Line? | Steelers Afternoon Drive](https://www.youtube.com/watch?v=lnaN5WeNfUQ): Steelers Now, 2026-10-22 22:05 UTC
 - Podcast: [Saints and Steelers Set for Historic Paris Showdown: Key Matchups and Predictions](https://podcasts.apple.com/us/podcast/id1072021022): DK Pittsburgh Sports, 2026-10-22 22:04 UTC
