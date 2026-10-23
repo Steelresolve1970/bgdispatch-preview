@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-23T16:52:44+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T16:52:27+00:00._
+_Generated 2026-10-23T17:03:37+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T17:03:20+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Smitty's Six Pack of Steelers-Saints Topics | THE PITTSBURGH FOOTBALL SHOW](https://www.youtube.com/watch?v=n8h905SxKl0): Steelers Now, 2026-10-23 16:49 UTC

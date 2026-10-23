@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T16:52:38.787518+00:00",
+ "generated": "2026-10-23T17:03:31.734177+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -2742,16 +2742,48 @@
    "status_link": null,
    "first_seen": "2026-10-20T00:50:36.617557+00:00",
    "consensus": {
-    "cluster_id": "9aa76112a419",
-    "independent_sources": 1,
+    "cluster_id": "bbda2514018c",
+    "independent_sources": 2,
     "sources": [
-     "Sportsnaut"
+     "Sportsnaut",
+     "Yahoo Sports"
     ],
-    "highest_tier": "Aggregator / other",
-    "highest_tier_score": 1,
-    "related_ids": []
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "bbda2514018c"
+    ]
    },
    "updated": "2026-10-20T00:50:36.617557+00:00"
+  },
+  {
+   "id": "bbda2514018c",
+   "title": "Steelers Trade Rumors: Pittsburgh Is Making Calls for Receiver Help \u2014 Could Mike McCarthy Turn to Dallas?",
+   "source": "Yahoo Sports",
+   "link": "https://sports.yahoo.com/articles/steelers-trade-rumors-pittsburgh-making-004115203.html",
+   "published": "2026-10-20T00:41:00+00:00",
+   "summary": "Rumor-style report from Yahoo Sports on a Steelers roster move. Full details at the source.",
+   "tier": "National insider",
+   "tier_score": 4,
+   "subjects": [],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-23T17:03:31.734177+00:00",
+   "consensus": {
+    "cluster_id": "bbda2514018c",
+    "independent_sources": 2,
+    "sources": [
+     "Sportsnaut",
+     "Yahoo Sports"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "9aa76112a419"
+    ]
+   },
+   "updated": "2026-10-23T17:03:31.734177+00:00"
   },
   {
    "id": "f8d094ca1f62",

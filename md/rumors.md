@@ -1,6 +1,6 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-23T16:52:44+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T16:52:38+00:00._
+_Generated 2026-10-23T17:03:37+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T17:03:31+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
 - **Rumor** · tier: Aggregator / other · consensus: 7 source(s), top tier National insider
@@ -145,8 +145,10 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Report: MVS to sign with Steelers’ practice squad](https://www.nbcsports.com/fantasy/football/player-news/2026-10-19/report-mvs-to-sign-with-steelers-practice-squad): NBC Sports, first seen 2026-10-20 01:01 UTC
 - **Rumor** · tier: Fan blog · consensus: 11 source(s), top tier National insider
   [Report: Steelers Signing WR Marquez Valdes-Scantling](https://steelersdepot.com/2026/10/report-steelers-signing-wr-marquez-valdes-scantling-2/): Steelers Depot, first seen 2026-10-20 00:50 UTC
-- **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
+- **Rumor** · tier: Aggregator / other · consensus: 2 source(s), top tier National insider
   [Steelers Trade Rumors: Pittsburgh Is Making Calls for Receiver Help — Could Mike McCarthy Turn to Dallas?](https://sportsnaut.com/nfl/steelers-trade-rumors-pittsburgh-is-making-calls-for-receiver-help-could-mike-mccarthy-turn-to-dallas): Sportsnaut, first seen 2026-10-20 00:50 UTC
+- **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
+  [Steelers Trade Rumors: Pittsburgh Is Making Calls for Receiver Help — Could Mike McCarthy Turn to Dallas?](https://sports.yahoo.com/articles/steelers-trade-rumors-pittsburgh-making-004115203.html): Yahoo Sports, first seen 2026-10-23 17:03 UTC
 - **Rumor** · tier: Beat writer / team · consensus: 1 source(s), top tier Beat writer / team
   [Could Steelers Consider Kick Returner Change? Rising RB Earning Opportunity](https://steelersnow.com/could-steelers-consider-kick-returner-change-rising-rb-earning-opportunity/): Steelers Now, first seen 2026-10-19 21:21 UTC
 - **Rumor** · tier: Fan blog · consensus: 7 source(s), top tier National insider
