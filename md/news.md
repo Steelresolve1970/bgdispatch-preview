@@ -1,9 +1,13 @@
 # Steelers News
 
-_Generated 2026-10-23T22:16:04+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T22:15:31+00:00._
+_Generated 2026-10-23T22:26:53+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T22:26:18+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [The best soccer/NFL crossover jerseys as PSG unveil kit for Steelers vs. Saints in Paris](https://www.espn.com/soccer/story/_/id/50225836/the-best-soccer-nfl-crossover-jerseys-psg-kit-pittsburgh-steelers-new-orleans-saints-paris-game): ESPN, 2026-10-23 22:23 UTC
+- [Steelers Insider Reveals Important Regret After Releasing Veteran Defender](https://www.steelernation.com/2026/10/23/steelers-insider-important-regret): SteelerNation, 2026-10-23 22:21 UTC
+- [Steelers fan in Paris says she doesn't feel "unsafe" amid unrest](https://www.cbsnews.com/pittsburgh/news/steelers-fans-paris-france-nfl-game-protests/): CBS News, 2026-10-23 22:15 UTC
+- [Watch: The Depot 180 — October 23 — Episode 629](https://steelersdepot.com/2026/10/watch-the-depot-180-october-23-episode-629/): Steelers Depot, 2026-10-23 22:15 UTC
+- [Pittsburgh Steelers fan in Paris says she doesn't feel "unsafe" amid unrest](https://www.cbsnews.com/pittsburgh/video/pittsburgh-steelers-fan-in-paris-says-she-doesnt-feel-unsafe-amid-unrest/): CBS News, 2026-10-23 22:09 UTC
 - [Future Steelers Opponent Loses Starter For Season](https://steelersnow.com/future-steelers-opponent-loses-starter-for-season/): Steelers Now, 2026-10-23 22:06 UTC
 - [Steelers Afternoon Drive: Saints Preview & Predictions](https://steelersnow.com/steelers-afternoon-drive-saints-preview-predictions/): Steelers Now, 2026-10-23 22:00 UTC
 - [How The National Media Is Picking Steelers Vs Saints](https://steelersdepot.com/2026/10/how-the-national-media-is-picking-steelers-vs-saints/): Steelers Depot, 2026-10-23 22:00 UTC
@@ -16,7 +20,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers' Mike McCarthy Makes Eye-Opening Revelation About Aaron Rodgers' Lingering Jets Injury](https://www.steelernation.com/2026/10/23/steelers-mike-mccarthy-eye-opening-jets): SteelerNation, 2026-10-23 21:15 UTC
 - [An Alex Highsmith trade would be a short-sighted move for the Steelers](https://stillcurtain.com/an-alex-highsmith-trade-would-be-a-short-sighted-move-for-the-pittsburgh-steelers-01m5mwg1rt2e?utm_source=RSS): Still Curtain, 2026-10-23 21:02 UTC
 - [Steelers arrive in Paris for Sunday's game against Saints](https://www.cbsnews.com/pittsburgh/news/steelers-arrive-in-paris-saints-game/): CBS News, 2026-10-23 21:02 UTC
-- [4 Key Steelers Matchups in Week 7 vs. Saints](https://athlonsports.com/nfl/pittsburgh-steelers/4-key-steelers-matchups-in-week-7-vs-saints): Athlon Sports, 2026-10-23 21:00 UTC
 - [Steelers' Paris Trip Gets Off To An Awkward Start As Mike McCarthy Questions His Own Call](https://www.steelernation.com/2026/10/23/steelers-paris-awkward-mike-mccarthy): SteelerNation, 2026-10-23 20:47 UTC
 - [Steelers' Mike McCarthy Has A Tempting Shortcut As Receiver Injuries Pile Up](https://www.steelernation.com/2026/10/23/steelers-mike-mccarthy-tempting-shortcut): SteelerNation, 2026-10-23 20:13 UTC
 - [Steelers' Mike McCarthy Detailed His Risky Paris Bet With Cleveland Waiting](https://www.steelernation.com/2026/10/23/steelers-mike-mccarthy-risky-paris-cleveland): SteelerNation, 2026-10-23 19:36 UTC
@@ -39,7 +42,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers’ Week Seven Friday Injury Report: T.J. Watt Good To Go, Two Other Players Questionable](https://steelersdepot.com/2026/10/steelers-week-seven-friday-injury-report-t-j-watt-good-to-go-two-other-players-questionable/): Steelers Depot, 2026-10-23 17:07 UTC
 - [Aaron Rodgers Had An Unexpectedly Difficult Decision To Make After Buccaneers Game](https://steelersdepot.com/2026/10/aaron-rodgers-had-an-unexpectedly-difficult-decision-to-make-after-buccaneers-game/): Steelers Depot, 2026-10-23 17:00 UTC
 - [Steelers face another setback in France as team forced to cancel second event, this time because of weather](https://www.foxnews.com/outkick-sports/steelers-face-setback-france-team-forced-cancel-second-event-weather): Fox News, 2026-10-23 16:57 UTC
-- [Saints Defender Name Drops Players As He is Confident Heading Into Clash With Steelers](https://www.steelernation.com/2026/10/23/steelers-saints-confident-clash): SteelerNation, 2026-10-23 16:53 UTC
 - [Steelers vs. Saints: Three must-know storylines for NFL's first-ever Paris game](https://www.nfl.com/news/steelers-vs-saints-preview-week-7-paris-game): NFL.com, 2026-10-23 16:46 UTC
 - [Fittipaldo: Steelers ‘Very Excited’ About Undrafted Rookie DL Kevin Jobity Jr.](https://steelersdepot.com/2026/10/fittipaldo-steelers-very-excited-for-undrafted-rookie-dl-kevin-jobity-jr/): Steelers Depot, 2026-10-23 16:45 UTC
 - [The Steelers Shouldn’t Be Playing in Paris | Steelers Morning Rush](https://steelersnow.com/the-steelers-shouldnt-be-playing-in-paris-steelers-morning-rush/): Steelers Now, 2026-10-23 16:39 UTC
@@ -72,13 +74,11 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers' Paris game gets even more unpredictable after weather shakeup](https://stillcurtain.com/pittsburgh-steelers-paris-unpredictable-weather-shakeup-01m5mes3qpbj?utm_source=RSS): Still Curtain, 2026-10-23 14:00 UTC
 - [Saints Confident They Can Match Steelers’ ‘Physical Brand’ Of Football: ‘We Have Matchups Across The Board’](https://steelersdepot.com/2026/10/saints-confident-they-can-match-steelers-physical-brand-of-football-we-have-matchups-across-the-board/): Steelers Depot, 2026-10-23 14:00 UTC
 - [Steelers safety DeShon Elliott could return Sunday, a year removed from his gruesome injury](https://www.post-gazette.com/sports/steelers/2026/10/23/will-deshon-elliott-play-sunday/stories/202610230028): Pittsburgh Post-Gazette, 2026-10-23 14:00 UTC
-- [Our Defense vs. Their Offense: Pittsburgh Steelers](https://www.canalstreetchronicles.com/new-orleans-saints-discussion/116873/our-defense-vs-their-offense-saints-pittsburgh-steelers-paris-nfl-week-7): Canal Street Chronicles, 2026-10-23 14:00 UTC
 - [Rest, recover and represent Pittsburgh](https://www.steelers.com/news/rest-recover-and-represent-pittsburgh): Steelers.com (official), 2026-10-23 14:00 UTC
 - [Steelers vs. Saints set for first NFL game in Paris | Black & Gold Primetime](https://www.wtae.com/article/steelers-saints-paris/74229293): WTAE, 2026-10-23 13:58 UTC
 - [T.J. Watt fine, Rico Dowdle questionable to play for Steelers vs. Saints](https://triblive.com/sports/t-j-watt-fine-rico-dowdle-questionable-to-play-for-steelers-vs-saints/): TribLive, 2026-10-23 13:51 UTC
 - [‘Off To A Good Start’: McCarthy, Rodgers Excited By Valdes-Scantling Reunion](https://steelersdepot.com/2026/10/off-to-a-good-start-mccarthy-rodgers-excited-by-valdes-scantling-reunion/): Steelers Depot, 2026-10-23 13:45 UTC
 - [A big deal to play in Paris](https://www.steelers.com/news/a-big-deal-to-play-in-paris): Steelers.com (official), 2026-10-23 13:45 UTC
-- [Saints Offense Scouting Report: Where Pittsburgh Should Be Worried Most](https://steelersdepot.com/2026/10/saints-offense-scouting-report-where-pittsburgh-should-be-worried-most/): Steelers Depot, 2026-10-23 13:30 UTC
 - [Daily News & Links: Steelers-Saints Picks; Steelers Arrive in Paris](https://steelersnow.com/daily-news-links-steelers-saints-picks-steelers-arrive-in-paris/): Steelers Now, 2026-10-23 13:30 UTC
 - [After full week of practice, all signs point to DeShon Elliott returning to action for Steelers](https://triblive.com/sports/after-full-week-of-practice-all-signs-point-to-deshon-elliott-returning-to-action-for-steelers/): TribLive, 2026-10-23 13:28 UTC
 - [Five things to know about the New Orleans Saints for Friday, October 23](https://www.neworleanssaints.com/news/five-things-to-know-about-the-new-orleans-saints-steelers-matchup-week-7-friday-october-23): New Orleans Saints | NewOrleansSaints.com, 2026-10-23 13:16 UTC

@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-23T22:16:04.582454+00:00",
+ "last_run": "2026-10-23T22:26:53.619463+00:00",
  "results": [
   {
    "fetcher": "apply_grade_edits.py",
@@ -40,14 +40,14 @@
   {
    "fetcher": "fetch_film.py",
    "ok": true,
-   "seconds": 4.0,
+   "seconds": 5.5,
    "last_line": "  Week 1 vs Falcons (W 20-13): 2   {'Steelers Depot Film Room (Alex Kozora)': 1, \"Derrick Bell \u2013 DB's Film Room (Steelers Now)\": 1}"
   },
   {
    "fetcher": "fetch_podcasts.py",
    "ok": true,
    "seconds": 7.0,
-   "last_line": "episodes past 5 days: 173 | embed-fallback channels: 0 | post-game: 0"
+   "last_line": "episodes past 5 days: 171 | embed-fallback channels: 0 | post-game: 0"
   },
   {
    "fetcher": "fetch_featured.py",
@@ -113,7 +113,7 @@
    "fetcher": "fetch_hub.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "hub fresh (<30 min); skipped"
+   "last_line": "injuries 13 practice 13 opp NO"
   },
   {
    "fetcher": "fetch_matchup.py",
@@ -179,7 +179,7 @@
    "fetcher": "build_machine.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "machine layer: {'news': 150, 'rumors': 88, 'injuries': 13, 'depth-chart': 28, 'schedule': 17, 'stats': 62, 'grades': 40, 'college': 20, 'insiders': 12, 'podcasts': 173, 'film': 15, 'draft': 512} md 13 feeds 5 jsonld 14"
+   "last_line": "machine layer: {'news': 150, 'rumors': 88, 'injuries': 13, 'depth-chart': 28, 'schedule': 17, 'stats': 62, 'grades': 40, 'college': 20, 'insiders': 12, 'podcasts': 171, 'film': 15, 'draft': 512} md 13 feeds 5 jsonld 14"
   }
  ]
 }
