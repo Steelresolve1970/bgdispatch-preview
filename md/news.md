@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-23T02:57:00+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T02:55:46+00:00._
+_Generated 2026-10-23T03:08:38+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T03:07:14+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Steelers fan event at Bastille bar canceled amid civil unrest in Paris](https://www.espn.com/nfl/story/_/id/50250407/steelers-fan-event-paris-canceled-amid-civil-unrest): ESPN, 2026-10-23 02:09 UTC
@@ -43,6 +43,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Saints’ Week 7 Thursday Injury Report: Backup QB Added To Report, Daniel Carlson Remains Out Of Practice](https://steelersdepot.com/2026/10/saints-week-7-thursday-injury-report-backup-qb-added-to-report-daniel-carlson-remains-out-of-practice/): Steelers Depot, 2026-10-22 19:35 UTC
 - [Steelers Will Be Without Key Wide Receiver vs. Saints](https://steelersnow.com/steelers-will-be-without-key-wide-receiver-vs-saints/): Steelers Now, 2026-10-22 19:34 UTC
 - [T.J. Watt Unexpectedly Added to Steelers Injury Report](https://steelersnow.com/t-j-watt-unexpectedly-added-to-steelers-injury-report/): Steelers Now, 2026-10-22 19:26 UTC
+- [2 more out for Sunday, Elliott practices full again](https://www.audacy.com/937thefan/sports/pittsburgh-steelers/2-more-out-for-sunday-elliott-practices-full-again): Audacy, 2026-10-22 19:23 UTC
 - [Steelers’ T.J. Watt limited with calf injury](https://www.behindthesteelcurtain.com/pittsburgh-steelers-injuries/176712/steelers-tj-watt-limited-with-calf-injury-report-week-7-saints-practice-paris-availability): Behind the Steel Curtain, 2026-10-22 19:21 UTC
 - [Steelers Rule Out Veteran Cornerback vs. Saints](https://steelersnow.com/steelers-rule-out-veteran-cornerback-vs-saints/): Steelers Now, 2026-10-22 19:21 UTC
 - [T.J. Watt Pops Up on Steelers Injury Report Before Paris Trip](https://www.si.com/nfl/steelers/onsi/tj-watt-injured-before-pittsburgh-steelers-paris-game): All Steelers (Sports Illustrated), 2026-10-22 19:17 UTC
@@ -66,7 +67,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Kendre Miller, Kaden Elliss, Martin Emerson Jr., Spencer Rattler press conference | Saints vs. Steelers 2026 NFL Week 7](https://www.neworleanssaints.com/video/kendre-miller-kaden-elliss-martin-emerson-jr-spencer-rattler-press-conference-saints-vs-steelers-2026-nfl-week-7-october-22-2026): New Orleans Saints | NewOrleansSaints.com, 2026-10-22 17:09 UTC
 - [Steelers staffers began planning for their Paris trip — and its logistical obstacles — in June](https://www.post-gazette.com/sports/steelers/2026/10/22/steelers-paris-trip-planning/stories/202610220046): Pittsburgh Post-Gazette, 2026-10-22 17:00 UTC
 - [CBS Reveals Steelers-Browns Week 8 Broadcast Team](https://steelersdepot.com/2026/10/cbs-reveals-steelers-browns-week-8-broadcast-team/): Steelers Depot, 2026-10-22 16:57 UTC
-- [Ryan Wright, Julian Blackmon, Jonas Sanker, Pete Werner, Taliese Fuaga press conference | Saints vs. Steelers 2026 NFL Week 7](https://www.neworleanssaints.com/video/ryan-wright-julian-blackmon-jonas-sanker-pete-werner-taliese-fuaga-press-conference-saints-vs-steelers-2026-nfl-week-7): New Orleans Saints | NewOrleansSaints.com, 2026-10-22 16:57 UTC
 - [Phil Galiano, Doug Nussmeier, Brandon Staley press conference | Saints vs. Steelers 2026 NFL Week 7](https://www.neworleanssaints.com/video/phil-galiano-doug-nussmeier-brandon-staley-press-conference-saints-vs-steelers-2026-nfl-week-7-october-21-20262): New Orleans Saints | NewOrleansSaints.com, 2026-10-22 16:55 UTC
 - [Pittsburgh Steelers place DE Joseph-Day on Reserve/Injured List](https://www.audacy.com/937thefan/sports/pittsburgh-steelers/steelers-injured): Audacy, 2026-10-22 16:19 UTC
 - [Injury Bug Bites Steelers DL Hard | Steelers Morning Rush](https://steelersnow.com/injury-bug-bites-steelers-dl-hard-steelers-morning-rush/): Steelers Now, 2026-10-22 16:14 UTC
