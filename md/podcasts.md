@@ -1,13 +1,13 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-23T15:19:03+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T15:18:22+00:00._
+_Generated 2026-10-23T15:37:05+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T15:36:47+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Podcast: [Black & Gold Blueprint: Bucs Game Recap and New Orleans Saints Preview](https://podcasts.apple.com/us/podcast/id905962218): Steel Curtain Network (BTSC), 2026-10-23 15:30 UTC
 - Video: [Putting the boys to the test 🇫🇷](https://www.youtube.com/shorts/9u3UD3MnNGo): Pittsburgh Steelers (official), 2026-10-23 14:32 UTC
 - Podcast: [Steelers Have NO EXCUSES Against the Saints… Here’s Why #Steelers #NFL](https://247sports.com/nfl/pittsburgh-steelers/): The Steel City Insider (Jim Wexell, 247Sports), 2026-10-23 13:22 UTC
 - Video: [THE PITTSBURGH FOOTBALL SHOW, Episode 7, Oct. 23, 2026](https://www.youtube.com/watch?v=m3oM_Pej1Tk): Steelers Now, 2026-10-23 12:44 UTC
 - Podcast: [Steelers Travel Plans Keep Browns Game In Sight](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-23 12:32 UTC
-- Podcast: [Let's Ride: Steelers Keys to Victory vs. the Saints, Week 7](https://podcasts.apple.com/us/podcast/id905962218): Steel Curtain Network (BTSC), 2026-10-23 08:00 UTC
 - Podcast: [DK's Daily Shot of Steelers: Je voudrais voir …](https://podcasts.apple.com/us/podcast/id1072021022): DK Pittsburgh Sports, 2026-10-23 06:27 UTC
 - Video: [Steelers Rookie Class Answers Call, Ready to Carry Roster? | DeShon Elliott's Return Frees Up DBs](https://www.youtube.com/watch?v=beELd1XoLY4): Locked On Steelers, 2026-10-23 05:00 UTC
 - Podcast: [Steelers Rookie Class Answers Call, Ready to Carry Roster? | DeShon Elliott's Return Frees Up DBs](https://lockedonpodcasts.com/podcasts/locked-on-steelers/): Locked On Steelers, 2026-10-23 04:30 UTC
