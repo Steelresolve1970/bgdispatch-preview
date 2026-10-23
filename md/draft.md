@@ -1,6 +1,6 @@
 # Steelers Draft Central
 
-_Generated 2026-10-23T01:12:47+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T01:12:36+00:00._
+_Generated 2026-10-23T01:24:22+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T01:24:10+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/draft.json_
 
 Steelers projected picks: R1 #22, R2 #54
@@ -27,14 +27,14 @@ Steelers projected picks: R1 #22, R2 #54
 ### 3. Safety
 - **KJ Bolden** (S, Georgia, our board #13): chance available R1 #22 16%, R2 #54 0%. 22 tackles, 0.5 sacks, 1 INT, 2 PD
 - **Brauntae Johnson** (S, Notre Dame, our board #41): chance available R1 #22 86%, R2 #54 24%. 1 tackles, 0 TFL, 0 sacks, 1 PD
-- **Kingston Lopa** (S, California, our board #69): chance available R1 #22 96%, R2 #54 72%. 31 tackles, 1 TFL, 0 sacks, 5 INT, 1 PD
-- **Zach Lutmer** (S, Iowa, our board #70): chance available R1 #22 96%, R2 #54 73%. 34 tackles, 0.5 TFL, 0 sacks, 4 PD
+- **Kingston Lopa** (S, California, our board #69): chance available R1 #22 96%, R2 #54 72%. 27 tackles, 5 INT, 1 PD
+- **Zach Lutmer** (S, Iowa, our board #70): chance available R1 #22 96%, R2 #54 73%. 34 tackles, 4 PD
 
 ### 4. Inside linebacker
 - **Sammy Brown** (LB, Clemson, our board #24): chance available R1 #22 58%, R2 #54 1%. 40 tackles, 1 sack, 1 PD
 - **Chris Cole** (LB, Georgia, our board #34): chance available R1 #22 79%, R2 #54 11%. 40 tackles, 2.5 sacks, 3 PD, 2 FR
-- **Rasheem Biles** (LB, Texas, our board #68): chance available R1 #22 96%, R2 #54 71%. 49 tackles, 4.5 TFL, 1 sacks, 2 INT, 1 PD
-- **Kyngstonn Viliamu-Asa** (LB, Notre Dame, our board #71): chance available R1 #22 96%, R2 #54 74%. 15 tackles, 1.5 TFL, 0 sacks, 1 INT
+- **Rasheem Biles** (LB, Texas, our board #68): chance available R1 #22 96%, R2 #54 71%. 49 tackles, 1 sack, 2 INT, 1 PD
+- **Kyngstonn Viliamu-Asa** (LB, Notre Dame, our board #71): chance available R1 #22 96%, R2 #54 74%. 13 tackles, 1 INT, 1 FR
 
 ### 5. Wide receiver
 - **Jeremiah Smith** (WR, Ohio State, our board #2): chance available R1 #22 0%, R2 #54 0%. 52 rec, 984 yds, 12 TD; 2 rush, 7 yds

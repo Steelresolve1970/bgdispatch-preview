@@ -1,9 +1,9 @@
 # Steelers News
 
-_Generated 2026-10-23T01:12:47+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T01:12:00+00:00._
+_Generated 2026-10-23T01:24:22+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T01:23:01+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
-- [Steelers fan event at Bastille bar canceled amid civil unrest in Paris](https://www.espn.com/nfl/story/_/id/50250407/steelers-fan-event-paris-canceled-amid-civil-unrest): ESPN, 2026-10-23 01:55 UTC
+- [Steelers fan event at Bastille bar canceled amid civil unrest in Paris](https://www.espn.com/nfl/story/_/id/50250407/steelers-fan-event-paris-canceled-amid-civil-unrest): ESPN, 2026-10-23 02:09 UTC
 - [Depot After Dark: Highsmith And Wirfs Mic’d Up, Legends In Paris, Paris Field Prep](https://steelersdepot.com/2026/10/depot-after-dark-highsmith-and-wirfs-micd-up-legends-in-paris-paris-field-prep/): Steelers Depot, 2026-10-23 01:00 UTC
 - [Pittsburgh Steelers focus on resting up ahead of flight into uneasy France](https://www.wpxi.com/video/pittsburgh-steelers-focus-resting-up-ahead-flight-into-uneasy-france/4038af57-3f3c-4dc9-bf3a-e6c534e62235/): WPXI, 2026-10-23 00:17 UTC
 - [BTSC Thursday Night Football thread: Patriots at Bears](https://www.behindthesteelcurtain.com/pittsburgh-steelers-discussion/176751/btsc-thursday-night-football-thread-patriots-at-bears): Behind the Steel Curtain, 2026-10-23 00:00 UTC
