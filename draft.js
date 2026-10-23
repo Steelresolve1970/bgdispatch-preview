@@ -1,4 +1,4 @@
-// Mock Draft Simulator v2 — our own 2027 big board (data/draft/board.json), projected 7-round order + CPU team needs (data/draft/order.json).
+// Mock Draft Simulator v2 (Oct 23, 2026: board back to 500+ prospects so 7 rounds always finish; an early end is now explained) — our own 2027 big board (data/draft/board.json), projected 7-round order + CPU team needs (data/draft/order.json).
 (function(){
 const COMPS_=new Proxy({},{get:(o,k)=>(window.COMPS||{})[k]});
 const E=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -27,13 +27,13 @@ function cpuPick(s){const nd=needs(s.owner),have=mine(s.owner).map(x=>x.player.p
 function take(s,p){S.avail=S.avail.filter(x=>x!==p);s.player=p;S.cur++;}
 function snap(){return{cur:S.cur,avail:[...S.avail],slots:S.slots.map(s=>({...s}))};}
 function step(){clearTimeout(S.timer);clearTimeout(S.watch);if(S.paused){render();return;}
- try{while(S.cur<S.slots.length&&!isUser(S.slots[S.cur])){const s=S.slots[S.cur],p=cpuPick(s)||S.avail[0];if(!p){S.slots=S.slots.slice(0,S.cur);break;}take(s,p);
+ try{while(S.cur<S.slots.length&&!isUser(S.slots[S.cur])){const s=S.slots[S.cur],p=cpuPick(s)||S.avail[0];if(!p){S.short=S.cur;S.slots=S.slots.slice(0,S.cur);break;}take(s,p);
   if(S.speed>0&&S.cur<S.slots.length){S.phase='cpu';render();S.timer=setTimeout(step,S.speed);S.watch=setTimeout(stallCheck,Math.max(4000,S.speed*10));return;}}
  S.phase=S.cur>=S.slots.length?'done':'user';if(S.phase==='user')S.tab='board';render();}catch(err){console.warn('mock draft step',err);S.stalled=true;try{render();}catch(e2){showFinish();}}}
 // Safety net: if the CPU stops picking for any reason, offer a Finish draft button.
 let lastCur=-1;function stallCheck(){if(S.phase==='cpu'&&!S.paused&&S.cur===lastCur){S.stalled=true;render();}lastCur=S.cur;if(S.phase==='cpu')S.watch=setTimeout(stallCheck,Math.max(4000,S.speed*10));}
 function finishDraft(){clearTimeout(S.timer);clearTimeout(S.watch);S.paused=false;S.stalled=false;S.card=null;S.trade=null;
- while(S.cur<S.slots.length){const s=S.slots[S.cur];const p=cpuPick(s)||S.avail[0];if(!p){S.slots=S.slots.slice(0,S.cur);break;}take(s,p);}S.phase='done';render();}
+ while(S.cur<S.slots.length){const s=S.slots[S.cur];const p=cpuPick(s)||S.avail[0];if(!p){S.short=S.cur;S.slots=S.slots.slice(0,S.cur);break;}take(s,p);}S.phase='done';render();}
 function showFinish(){const e=el();if(e&&!e.querySelector('.dr-finish'))e.insertAdjacentHTML('afterbegin','<p class="box"><b>The draft got stuck.</b> <button class="btn dr-finish" type="button">Finish draft</button></p>');}
 const LET=x=>x>=1.2?'A+':x>=0.7?'A':x>=0.4?'A-':x>=0.2?'B+':x>=0?'B':x>=-0.25?'B-':x>=-0.5?'C+':x>=-0.8?'C':x>=-1.2?'C-':x>=-1.7?'D':'F';
 // Value vs our board (scaled so a 10-spot reach in round 1 counts more than in round 6) + need fit.
@@ -88,7 +88,7 @@ function tickerHTML(){const lo=Math.max(0,S.cur-40),hi=Math.min(S.slots.length,S
 function logHTML(){let h='',r=0;S.slots.forEach((s,i)=>{if(!s.player&&i>=S.cur+40)return;if(s.round!==r){r=s.round;h+=`<li class="dr-rd">Round ${r}</li>`;}
  h+=`<li class="${isUser(s)?'mine':''}${i===S.cur?' now':''}"><b>${s.overall}.</b> ${tm(s.owner)}${s.owner!==s.team?` <small>(via ${E(s.team)})</small>`:''} ${s.player?(S.phase==='done'?`<span class="dr-row"><span class="dr-nm dr-lg"><button type="button" class="dr-pk" data-o="${s.overall}">${E(s.player.name)}</button> <small>${s.player.pos}, ${E(s.player.school)}</small></span><span class="dr-grade sm">${pickGrade(s)}</span></span>`:`— <button type="button" class="dr-pk" data-o="${s.overall}">${E(s.player.name)}</button> <small>${s.player.pos}, ${E(s.player.school)}</small>`):i===S.cur?'— on the clock':''}</li>`;});return`<ol class="dr-log full">${h}</ol>`;}
 function summaryHTML(){const all=[...new Set(S.slots.map(s=>s.owner))].sort((a,b)=>S.teams.includes(b)-S.teams.includes(a)||a.localeCompare(b));
- return`<div class="ballot-head"><p class="kind">Draft complete</p><h2>Your 2027 draft</h2><p>${S.rounds} round${S.rounds>1?'s':''} · <b>Dispatch Draft Desk grades</b>: where you picked vs. our board, plus need fit</p></div>
+ return`<div class="ballot-head"><p class="kind">Draft complete</p><h2>Your 2027 draft</h2><p>${S.rounds} round${S.rounds>1?'s':''} · <b>Dispatch Draft Desk grades</b>: where you picked vs. our board, plus need fit</p>${S.short?`<p class="fine" role="status">Our board ran out of prospects after pick #${S.short}, so the draft ended early.</p>`:''}</div>
  ${S.teams.map(a=>`<div class="box"><h2>${E(TN(a))} <span class="dr-grade" title="Dispatch Draft Desk grade">${teamGrade(a)||'–'}</span></h2><p class="fine dr-desk">Dispatch Draft Desk grade</p>${mine(a).map(s=>`<div class="dr-mine"><div class="dr-row"><span class="dr-nm"><b>R${s.round} #${s.overall} <button type="button" class="dr-pk" data-o="${s.overall}">${E(s.player.name)}</button></b> <small>${s.player.pos}, ${E(s.player.school)}</small></span><span class="dr-grade sm">${pickGrade(s)}</span></div><div class="dr-sub"><small>${meta(s.player)} · our board #${s.player.rank}</small><br><small>${window.PCard&&PCard.forty?PCard.forty(s.player.name):''}</small>${COMPS_[s.player.name]?`<br><small>Plays like ${E(COMPS_[s.player.name].name)} (our comparison)</small>`:''}</div></div>`).join('')||'<p class="fine">No picks.</p>'}</div>`).join('')}
  <div class="box"><h2>Share</h2><textarea class="dr-share" readonly rows="6">${E(shareText())}</textarea><p><button class="btn dr-copy" type="button">Copy text</button> <button class="btn dr-img" type="button">Download image</button> <button class="btn ghost dr-reset" type="button">Draft again</button></p><p><button class="btn dr-forum" type="button">Post to Forum</button> <small class="fine">Optional: share your picks in Fan Mock Drafts.</small></p></div>
  <div class="box"><h2>Every team's grade <small>· Dispatch Draft Desk</small></h2><p class="fine">Every pick graded A+ to F: where he went vs. our board rank (reaches cost more early), plus fit with that team's needs. Tap a team to see each pick.</p><div class="dr-allg">${all.map(a=>`<details${S.teams.includes(a)?' open':''} class="${S.teams.includes(a)?'mine':''}"><summary>${tm(a)} <b>${E(TN(a))}</b> <span class="dr-grade sm">${teamGrade(a)||'–'}</span></summary>${mine(a).map(s=>`<p class="dr-pg dr-row"><span class="dr-nm">R${s.round} #${s.overall} <button type="button" class="dr-pk" data-o="${s.overall}">${E(s.player.name)}</button> <small>${s.player.pos} · board #${s.player.rank}</small></span><span class="dr-grade sm">${pickGrade(s)}</span></p>`).join('')}</details>`).join('')}</div></div>`;}
@@ -109,7 +109,7 @@ function render(){const e=el();if(!e||!S.board)return;const ae=document.activeEl
  const tk=e.querySelector('.dr-ticker'),nw=tk&&tk.querySelector('.now');if(tk&&nw){tk.scrollLeft=(S.tkCur===S.cur&&S.tkPos!=null)?S.tkPos:nw.offsetLeft-tk.clientWidth/2;S.tkCur=S.cur;S.tkPos=tk.scrollLeft;tk.addEventListener('scroll',()=>{S.tkPos=tk.scrollLeft;},{passive:true});}
  if(qf){const q=e.querySelector('.dr-q');q.focus();q.setSelectionRange(cp,cp);}}
 function start(){S.seed=(Date.now()%100000)+7;S.avail=[...S.board.prospects];S.slots=S.order.picks.filter(p=>p.round<=S.rounds).map(p=>({...p,owner:p.team,player:null}));
- S.cur=0;S.stalled=false;S.hist=[];S.trade=null;S.card=null;S.paused=false;S.q='';S.filter='All';S.school='';step();}
+ S.cur=0;S.short=0;S.stalled=false;S.hist=[];S.trade=null;S.card=null;S.paused=false;S.q='';S.filter='All';S.school='';step();}
 function userTake(rank){const p=S.avail.find(x=>x.rank==rank);if(!p||S.phase!=='user')return;S.hist.push(snap());take(S.slots[S.cur],p);S.card=null;S.trade=null;step();}
 document.addEventListener('click',ev=>{const e=el();if(!e||!e.contains(ev.target))return;const t=ev.target.closest('button,a.dr-how,.dr-modal');if(!t)return;const c=t.classList;
  if(c.contains('dr-how')){ev.preventDefault();const b=e.querySelector('.dr-howbox');b.hidden=!b.hidden;}
