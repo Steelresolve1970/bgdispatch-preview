@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-23T23:13:17.474318+00:00",
+ "last_run": "2026-10-23T23:24:03.659541+00:00",
  "results": [
   {
    "fetcher": "apply_grade_edits.py",
@@ -40,13 +40,13 @@
   {
    "fetcher": "fetch_film.py",
    "ok": true,
-   "seconds": 6.0,
+   "seconds": 4.0,
    "last_line": "  Week 1 vs Falcons (W 20-13): 2   {'Steelers Depot Film Room (Alex Kozora)': 1, \"Derrick Bell \u2013 DB's Film Room (Steelers Now)\": 1}"
   },
   {
    "fetcher": "fetch_podcasts.py",
    "ok": true,
-   "seconds": 7.0,
+   "seconds": 6.5,
    "last_line": "episodes past 5 days: 169 | embed-fallback channels: 0 | post-game: 0"
   },
   {

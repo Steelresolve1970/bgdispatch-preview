@@ -1,9 +1,10 @@
 # Steelers News
 
-_Generated 2026-10-23T23:13:17+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T23:12:41+00:00._
+_Generated 2026-10-23T23:24:03+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T23:23:30+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [The best soccer/NFL crossover jerseys as PSG unveil kit for Steelers vs. Saints in Paris](https://www.espn.com/soccer/story/_/id/50225836/the-best-soccer-nfl-crossover-jerseys-psg-kit-pittsburgh-steelers-new-orleans-saints-paris-game): ESPN, 2026-10-23 23:43 UTC
+- [Steelers Rookie Germie Bernard Reveals Impressive Trait After Costly Mistake In Week 6](https://www.steelernation.com/2026/10/23/steelers-rookie-germie-bernard-impressive): SteelerNation, 2026-10-23 23:13 UTC
 - [Pittsburgh woman travels to Paris to visit family and cheer on Steelers](https://www.wtae.com/article/pittsburgh-steelers-paris-terrible-towel/74234068): WTAE, 2026-10-23 22:57 UTC
 - [‘That Plane Ride Sucked:’ Several Steelers Unhappy With Team’s Travel Plan, Says Former Teammate](https://steelersdepot.com/2026/10/that-plane-ride-sucked-several-steelers-unhappy-with-teams-travel-plan-says-former-teammate/): Steelers Depot, 2026-10-23 22:51 UTC
 - [Friday Night Happy Hour: European vacation edition](https://www.behindthesteelcurtain.com/pittsburgh-steelers-discussion/176771/friday-night-happy-hour-european-vacation-edition): Behind the Steel Curtain, 2026-10-23 22:30 UTC
@@ -42,7 +43,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Soccer Match in Paris on Sunday Postponed at Request of Police](https://steelersnow.com/soccer-match-in-paris-on-sunday-postponed-at-request-of-police/): Steelers Now, 2026-10-23 17:35 UTC
 - [Noah Hiles: My journey to find an NFL bar in Paris](https://www.post-gazette.com/sports/steelers/2026/10/23/steelers-bars-in-paris-france/stories/202610240007): Pittsburgh Post-Gazette, 2026-10-23 17:30 UTC
 - [Steelers on a short ‘business trip’ to beat Saints, not to sightsee in Paris](https://triblive.com/sports/steelers-on-a-short-business-trip-to-beat-saints-not-to-sightsee-in-paris/): TribLive, 2026-10-23 17:22 UTC
-- [Steelers' Gabriel Rubio Suddenly Has A Bigger Role To Earn As Defensive Injuries Pile Up](https://www.steelernation.com/2026/10/23/steelers-gabriel-rubio-suddenly-bigger): SteelerNation, 2026-10-23 17:13 UTC
 - [Steelers’ Week Seven Friday Injury Report: T.J. Watt Good To Go, Two Other Players Questionable](https://steelersdepot.com/2026/10/steelers-week-seven-friday-injury-report-t-j-watt-good-to-go-two-other-players-questionable/): Steelers Depot, 2026-10-23 17:07 UTC
 - [Aaron Rodgers Had An Unexpectedly Difficult Decision To Make After Buccaneers Game](https://steelersdepot.com/2026/10/aaron-rodgers-had-an-unexpectedly-difficult-decision-to-make-after-buccaneers-game/): Steelers Depot, 2026-10-23 17:00 UTC
 - [Steelers face another setback in France as team forced to cancel second event, this time because of weather](https://www.foxnews.com/outkick-sports/steelers-face-setback-france-team-forced-cancel-second-event-weather): Fox News, 2026-10-23 16:57 UTC
