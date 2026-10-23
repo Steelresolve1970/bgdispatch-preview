@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-23T03:31:55.553461+00:00",
+ "generated": "2026-10-23T03:43:24.273807+00:00",
  "date_et": "2026-10-22",
  "days": 5,
  "display_days": 2,
- "count": 150,
+ "count": 149,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -81,10 +81,10 @@
    "show": "Still Curtain Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxjSNPLcRAVzDKOjhRwo-hQ",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 3,
-   "latest": "2026-10-22T06:58:28+00:00"
+   "latest": null
   },
   {
    "show": "Steel City Underground",
@@ -110,7 +110,7 @@
    "url": "https://feeds.megaphone.fm/RRTET7764502074",
    "status": "ok",
    "episodes": 1488,
-   "week": 10,
+   "week": 8,
    "latest": "2026-10-22T22:03:00+00:00"
   },
   {
@@ -153,10 +153,10 @@
    "show": "Steelers Now",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp1iAMIfmmgWewzJ07_Y7oA",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 15,
-   "latest": null
+   "latest": "2026-10-22T22:05:57+00:00"
   },
   {
    "show": "The Steel City Insider (Jim Wexell, 247Sports)",
@@ -173,8 +173,8 @@
    "url": "https://feed.podbean.com/scblitz/feed.xml",
    "status": "ok",
    "episodes": 20,
-   "week": 0,
-   "latest": "2026-10-16T03:32:42+00:00"
+   "week": 1,
+   "latest": "2026-10-23T03:37:50+00:00"
   },
   {
    "show": "Steelers Breakdown (PennLive, Nick Farabaugh)",
@@ -189,7 +189,7 @@
    "show": "Nick Farabaugh on PennLive",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5yvng1eSgffmybUM-51fTw",
-   "status": "error: HTTP Error 404: Not Found",
+   "status": "ok",
    "episodes": 0,
    "week": 0,
    "latest": null
@@ -243,13 +243,21 @@
    "show": "The Christian Kuntz Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKKBJcOGsYmwAATQv-xQYeA",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 0,
-   "latest": "2009-05-26T14:01:33+00:00"
+   "latest": null
   }
  ],
  "items": [
+  {
+   "title": "SCB Steelers Podcast 495 - Buccin' a Trend",
+   "show": "Steel City Blitz",
+   "kind": "podcast",
+   "link": "https://scblitz.podbean.com/e/scb-steelers-podcast-495-buccin-a-trend/",
+   "published": "2026-10-23T03:37:50+00:00",
+   "summary": "Podcast episode from Steel City Blitz."
+  },
   {
    "title": "TBT to when Fast Willie went off against the Saints \ud83d\udca8 \ud83d\udcfa: #PITvsNO 10/25 at 9:30 AM ET on NFLN",
    "show": "Pittsburgh Steelers (official)",
@@ -307,14 +315,6 @@
    "summary": "Podcast episode from DK Pittsburgh Sports."
   },
   {
-   "title": "Nu Leader on D-Line? | Steelers Afternoon Drive",
-   "show": "Steelers Afternoon Drive",
-   "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/nu-leader-on-d-line-steelers-afternoon-drive/id1700240934?i=1000797686445",
-   "published": "2026-10-22T22:03:00+00:00",
-   "summary": "Podcast episode from Steelers Afternoon Drive."
-  },
-  {
    "title": "T.J. Watt Injured Before Paris Game | Steelers Need New DT",
    "show": "All Steelers Talk",
    "kind": "podcast",
@@ -361,14 +361,6 @@
    "link": "https://www.youtube.com/shorts/0otqWh1Uiu4",
    "published": "2026-10-22T18:57:57+00:00",
    "summary": "Video from Pittsburgh Steelers (official)."
-  },
-  {
-   "title": "Injury Bug Bites Steelers DL | Steelers Morning Rush",
-   "show": "Steelers Afternoon Drive",
-   "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/injury-bug-bites-steelers-dl-steelers-morning-rush/id1700240934?i=1000797649650",
-   "published": "2026-10-22T16:59:00+00:00",
-   "summary": "Podcast episode from Steelers Afternoon Drive."
   },
   {
    "title": "Can the Steelers keep their winning streak alive in Paris?",
@@ -1451,7 +1443,14 @@
    "summary": "Podcast episode from Steel Curtain Network (BTSC)."
   }
  ],
- "yt_channels": [],
+ "yt_channels": [
+  {
+   "show": "The Christian Kuntz Podcast",
+   "channel_id": "UCKKBJcOGsYmwAATQv-xQYeA",
+   "link": "https://www.youtube.com/channel/UCKKBJcOGsYmwAATQv-xQYeA",
+   "embed": "https://www.youtube-nocookie.com/embed/videoseries?list=UUKKBJcOGsYmwAATQv-xQYeA"
+  }
+ ],
  "postgame": null,
  "directory": [
   {
