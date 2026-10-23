@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-23T00:47:23+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T00:45:53+00:00._
+_Generated 2026-10-23T00:59:29+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T00:58:00+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Pittsburgh Steelers focus on resting up ahead of flight into uneasy France](https://www.wpxi.com/video/pittsburgh-steelers-focus-resting-up-ahead-flight-into-uneasy-france/4038af57-3f3c-4dc9-bf3a-e6c534e62235/): WPXI, 2026-10-23 00:17 UTC
