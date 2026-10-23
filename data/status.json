@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-23T18:51:47.172568+00:00",
+ "last_run": "2026-10-23T19:03:01.867326+00:00",
  "results": [
   {
    "fetcher": "apply_grade_edits.py",
@@ -28,7 +28,7 @@
   {
    "fetcher": "build_boxscores.py",
    "ok": true,
-   "seconds": 2.0,
+   "seconds": 2.5,
    "last_line": "boxscores 6"
   },
   {
@@ -52,8 +52,8 @@
   {
    "fetcher": "fetch_featured.py",
    "ok": true,
-   "seconds": 1.0,
-   "last_line": "preview New Orleans Saints Pittsburgh Steelers vs New Orleans Saints | 2026 Week 7 Game Preview"
+   "seconds": 2.0,
+   "last_line": "preview New Orleans Saints NFL Week 7 Preview & Picks: EVERY GAME!"
   },
   {
    "fetcher": "fetch_grades.py",
@@ -112,8 +112,8 @@
   {
    "fetcher": "fetch_hub.py",
    "ok": true,
-   "seconds": 0.5,
-   "last_line": "hub fresh (<30 min); skipped"
+   "seconds": 1.0,
+   "last_line": "injuries 13 practice 15 opp NO"
   },
   {
    "fetcher": "fetch_matchup.py",
@@ -142,7 +142,7 @@
   {
    "fetcher": "fetch_rumors.py",
    "ok": true,
-   "seconds": 2.5,
+   "seconds": 24.0,
    "last_line": "rumors 87 {'Rumor': 82, 'Confirmed': 4, 'Denied': 1}"
   },
   {
@@ -172,7 +172,7 @@
   {
    "fetcher": "fetch_quotes.py",
    "ok": true,
-   "seconds": 0.5,
+   "seconds": 1.5,
    "last_line": "quotes: 7 kept from 128 articles"
   },
   {
