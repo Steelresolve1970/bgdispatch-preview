@@ -1,9 +1,10 @@
 # Steelers News
 
-_Generated 2026-10-23T19:14:09+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T19:13:40+00:00._
+_Generated 2026-10-23T19:25:24+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T19:24:31+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Steelers' Rodgers backs NFL on holding Paris game despite recent unrest](https://www.espn.com/nfl/story/_/id/50256507/steelers-rodgers-backs-nfl-paris-game-recent-unrest): ESPN, 2026-10-23 19:55 UTC
+- [Saints run game hopes to build on recent momentum against Steelers](https://saintswire.usatoday.com/story/sports/nfl/saints/2026/10/23/saints-steelers-preview-alvin-kamara-kendre-miller-nfl/92399827007/): Saints Wire, 2026-10-23 19:10 UTC
 - [Steelers Make Critical Schedule Change Before Paris Trip To Help Players Recover](https://www.steelernation.com/2026/10/23/steelers-critical-schedule-change-paris): SteelerNation, 2026-10-23 19:04 UTC
 - [Carney: Four Key Matchups In Steelers-Saints](https://steelersdepot.com/2026/10/carney-four-key-matchups-in-steelers-saints/): Steelers Depot, 2026-10-23 19:00 UTC
 - [5 Thoughts Ahead of Steelers Week 7 vs. Saints](https://athlonsports.com/nfl/pittsburgh-steelers/5-thoughts-ahead-of-steelers-week-7-vs-saints): Athlon Sports, 2026-10-23 19:00 UTC
@@ -18,7 +19,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Noah Hiles: My journey to find an NFL bar in Paris](https://www.post-gazette.com/sports/steelers/2026/10/23/steelers-bars-in-paris-france/stories/202610240007): Pittsburgh Post-Gazette, 2026-10-23 17:30 UTC
 - [Steelers' Gabriel Rubio Suddenly Has A Bigger Role To Earn As Defensive Injuries Pile Up](https://www.steelernation.com/2026/10/23/steelers-gabriel-rubio-suddenly-bigger): SteelerNation, 2026-10-23 17:13 UTC
 - [Steelers’ Week Seven Friday Injury Report: T.J. Watt Good To Go, Two Other Players Questionable](https://steelersdepot.com/2026/10/steelers-week-seven-friday-injury-report-t-j-watt-good-to-go-two-other-players-questionable/): Steelers Depot, 2026-10-23 17:07 UTC
-- [Trump expresses concern about NFL game and civil unrest in Paris](https://www.bozemandailychronicle.com/wire/sports/trump-expresses-concern-about-nfl-game-and-civil-unrest-in-paris/article_04238e41-d3f5-5976-b1e8-775da8b0164f.html): Bozeman Daily Chronicle, 2026-10-23 17:01 UTC
 - [Aaron Rodgers Had An Unexpectedly Difficult Decision To Make After Buccaneers Game](https://steelersdepot.com/2026/10/aaron-rodgers-had-an-unexpectedly-difficult-decision-to-make-after-buccaneers-game/): Steelers Depot, 2026-10-23 17:00 UTC
 - [Steelers face another setback in France as team forced to cancel second event, this time because of weather](https://www.foxnews.com/outkick-sports/steelers-face-setback-france-team-forced-cancel-second-event-weather): Fox News, 2026-10-23 16:57 UTC
 - [Saints Defender Name Drops Players As He is Confident Heading Into Clash With Steelers](https://www.steelernation.com/2026/10/23/steelers-saints-confident-clash): SteelerNation, 2026-10-23 16:53 UTC
@@ -91,6 +91,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers Cancel Friday Practice in Paris](https://steelersnow.com/steelers-cancel-friday-practice-in-paris/): Steelers Now, 2026-10-23 11:45 UTC
 - [Pittsburgh Steelers rule out two players for Paris game, including feisty cornerback](https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-rule-out-two-players-for-paris-game-including-feisty-cornerback.html): PennLive (Nick Farabaugh), 2026-10-23 11:38 UTC
 - [4 wide receivers Steelers should target ahead of the NFL trade deadline](https://stillcurtain.com/4-wide-receivers-pittsburgh-steelers-should-target-ahead-of-the-nfl-trade-deadline-01m5dnq2ch8t?utm_source=RSS): Still Curtain, 2026-10-23 11:00 UTC
+- [Steelers Cancel Paris Practice Due to Weather](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-cancel-paris-practice-due-weather): All Steelers (Sports Illustrated), 2026-10-23 10:50 UTC
 - [Pittsburgh Steelers Scrap Paris NFL Fan Event Amid Civil Unrest](https://www.huffpost.com/entry/pittsburgh-steelers-scrap-fan-event-paris_n_6adb36a3e4b027da9ae55e16): HuffPost, 2026-10-23 10:32 UTC
 - [Steelers 4 Downs: The analytics say team’s defense is among league’s best](https://triblive.com/sports/steelers-4-downs-the-analytics-say-steelers-defense-is-among-leagues-best/): TribLive, 2026-10-23 10:30 UTC
 - [Wind storm in Paris compels Steelers to cancel outdoor practice after arriving in France](https://triblive.com/sports/wind-storm-in-paris-compels-steelers-to-cancel-practice-after-arriving-in-france/): TribLive, 2026-10-23 10:25 UTC
