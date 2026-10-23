@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-23T17:47:29+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T17:47:13+00:00._
+_Generated 2026-10-23T17:58:19+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T17:58:02+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Did Steelers Make Travel Mistake? Grand Finale with Jack Hillgrove | THE PITTSBURGH FOOTBALL SHOW](https://www.youtube.com/watch?v=9EUA5__ujcU): Steelers Now, 2026-10-23 17:23 UTC
@@ -11,13 +11,12 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Freiermuth, Heyward, Metcalf, Queen, Watt & Warren Pressers (October 23) | Pittsburgh Steelers](https://www.youtube.com/watch?v=3xkRPHfnAD0): Pittsburgh Steelers (official), 2026-10-23 16:30 UTC
 - Podcast: [The Terrible Podcast — Steelers Vs Saints Game Preview, Joseph-Day To IR, Week 7 Picks, And More](https://podcasts.apple.com/us/podcast/id405990739): The Terrible Podcast (Steelers Depot), 2026-10-23 16:13 UTC
 - Video: [Aaron Rodgers Press Conference (October 23) | Pittsburgh Steelers](https://www.youtube.com/watch?v=zPJEr9LZ9kE): Pittsburgh Steelers (official), 2026-10-23 16:00 UTC
-- Podcast: [Black & Gold Blueprint: Bucs Game Recap and New Orleans Saints Preview](https://podcasts.apple.com/us/podcast/black-gold-blueprint-bucs-game-recap-and-new-orleans/id905962218?i=1000797802785): Steel Curtain Network (BTSC), 2026-10-23 15:30 UTC
+- Podcast: [Black & Gold Blueprint: Bucs Game Recap and New Orleans Saints Preview](https://podcasts.apple.com/us/podcast/id905962218): Steel Curtain Network (BTSC), 2026-10-23 15:30 UTC
 - Video: [Coach Mike McCarthy Press Conference (October 23) | Pittsburgh Steelers](https://www.youtube.com/watch?v=bGqnTI4FLLQ): Pittsburgh Steelers (official), 2026-10-23 15:26 UTC
 - Video: [Putting the boys to the test 🇫🇷](https://www.youtube.com/shorts/9u3UD3MnNGo): Pittsburgh Steelers (official), 2026-10-23 14:32 UTC
 - Podcast: [Steelers Have NO EXCUSES Against the Saints… Here’s Why #Steelers #NFL](https://247sports.com/nfl/pittsburgh-steelers/): The Steel City Insider (Jim Wexell, 247Sports), 2026-10-23 13:22 UTC
 - Video: [THE PITTSBURGH FOOTBALL SHOW, Episode 7, Oct. 23, 2026](https://www.youtube.com/watch?v=m3oM_Pej1Tk): Steelers Now, 2026-10-23 12:44 UTC
 - Podcast: [Steelers Travel Plans Keep Browns Game In Sight](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-23 12:32 UTC
-- Podcast: [Let's Ride: Steelers Keys to Victory vs. the Saints, Week 7](https://podcasts.apple.com/us/podcast/lets-ride-steelers-keys-to-victory-vs-the-saints-week-7/id905962218?i=1000797746960): Steel Curtain Network (BTSC), 2026-10-23 08:00 UTC
 - Podcast: [DK's Daily Shot of Steelers: Je voudrais voir …](https://podcasts.apple.com/us/podcast/id1072021022): DK Pittsburgh Sports, 2026-10-23 06:27 UTC
 - Video: [Steelers Rookie Class Answers Call, Ready to Carry Roster? | DeShon Elliott's Return Frees Up DBs](https://www.youtube.com/watch?v=beELd1XoLY4): Locked On Steelers, 2026-10-23 05:00 UTC
 - Podcast: [Steelers Rookie Class Answers Call, Ready to Carry Roster? | DeShon Elliott's Return Frees Up DBs](https://lockedonpodcasts.com/podcasts/locked-on-steelers/): Locked On Steelers, 2026-10-23 04:30 UTC
@@ -25,7 +24,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [TBT to when Fast Willie went off against the Saints 💨 📺: #PITvsNO 10/25 at 9:30 AM ET on NFLN](https://www.youtube.com/shorts/a3eiQLf6zSw): Pittsburgh Steelers (official), 2026-10-23 02:27 UTC
 - Video: [Next stop: Paris ✈️](https://www.youtube.com/shorts/ZS7mWo1x2-Y): Pittsburgh Steelers (official), 2026-10-23 02:24 UTC
 - Video: [Bon voyage 👋](https://www.youtube.com/shorts/GH5dW9k06g4): Pittsburgh Steelers (official), 2026-10-23 00:29 UTC
-- Podcast: [Steelers Preview: Previewing Steelers vs. Saints, Week 7](https://podcasts.apple.com/us/podcast/steelers-preview-previewing-steelers-vs-saints-week-7/id905962218?i=1000797698663): Steel Curtain Network (BTSC), 2026-10-23 00:00 UTC
 - Video: [Steelers' DeShon Elliott Set to Return from IR, Join Jaquan Brisker, Robert Spears-Jennings in Paris](https://www.youtube.com/shorts/KsowgIWMjcA): Locked On Steelers, 2026-10-22 22:14 UTC
 - Video: [Nu Leader on D-Line? | Steelers Afternoon Drive](https://www.youtube.com/watch?v=lnaN5WeNfUQ): Steelers Now, 2026-10-22 22:05 UTC
 - Podcast: [Nu Leader on D-Line? | Steelers Afternoon Drive](https://podcasts.apple.com/us/podcast/nu-leader-on-d-line-steelers-afternoon-drive/id1700240934?i=1000797686445): Steelers Afternoon Drive, 2026-10-22 22:03 UTC

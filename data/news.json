@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T17:47:00.593982+00:00",
+ "generated": "2026-10-23T17:57:50.640435+00:00",
  "count": 150,
  "sources": [
   {
@@ -29,8 +29,8 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "ok",
-   "steelers_items": 24
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "steelers_items": 0
   },
   {
    "source": "Still Curtain",
@@ -102,7 +102,7 @@
    "source": "ProFootballTalk (NBC)",
    "url": "https://profootballtalk.nbcsports.com/feed/",
    "status": "ok",
-   "steelers_items": 2
+   "steelers_items": 1
   }
  ],
  "items": [
@@ -110,9 +110,26 @@
    "title": "Steelers' Rodgers backs NFL on holding Paris game despite recent unrest",
    "source": "ESPN",
    "link": "https://www.espn.com/nfl/story/_/id/50256507/steelers-rodgers-backs-nfl-paris-game-recent-unrest",
-   "published": "2026-10-23T18:13:40+00:00",
+   "published": "2026-10-23T18:52:04+00:00",
    "summary": "Game story from ESPN. Full report at the original publisher.",
    "id": "7d5a3054f6"
+  },
+  {
+   "title": "The Pittsburgh Football Show, Episode 7, Oct. 23, 2026",
+   "source": "Steelers Now",
+   "link": "https://steelersnow.com/the-pittsburgh-football-show-episode-7-oct-23-2026/",
+   "published": "2026-10-23T17:56:27+00:00",
+   "summary": "Opinion story from Steelers Now. Full report at the original publisher.",
+   "id": "65ad34b109"
+  },
+  {
+   "title": "New Orleans Saints Injury Report Updated for Pittsburgh Steelers",
+   "source": "roundtable.io",
+   "link": "https://roundtable.io/sports/nfl/saints/news/new-orleans-saints-injury-report-updated-for-pittsburgh-steelers",
+   "published": "2026-10-23T17:48:15+00:00",
+   "via": "Google News",
+   "summary": "Injury story from roundtable.io. Full report at the original publisher.",
+   "id": "cdd87b8049"
   },
   {
    "title": "\u2018As Many Times As We Can:\u2019 Saints Hope For Paris Sack-Fest On Aaron Rodgers",
@@ -137,6 +154,15 @@
    "published": "2026-10-23T17:30:31+00:00",
    "summary": "News story from Pittsburgh Post-Gazette. Full report at the original publisher.",
    "id": "e733a30d22"
+  },
+  {
+   "title": "Aaron Rodgers urges better funding for US women's flag football team",
+   "source": "GazetteXtra",
+   "link": "http://www.gazettextra.com/sports/aaron-rodgers-urges-better-funding-for-us-womens-flag-football-team/article_c8d5aab4-9f3a-523f-9cee-61ae953ca485.html",
+   "published": "2026-10-23T17:18:14+00:00",
+   "via": "Google News",
+   "summary": "News story from GazetteXtra. Full report at the original publisher.",
+   "id": "a4328d96d2"
   },
   {
    "title": "Steelers' Gabriel Rubio Suddenly Has A Bigger Role To Earn As Defensive Injuries Pile Up",
@@ -276,15 +302,6 @@
    "via": "Google News",
    "summary": "News story from Audacy. Full report at the original publisher.",
    "id": "88d409d994"
-  },
-  {
-   "title": "Aaron Rodgers urges better funding for US women's flag football team",
-   "source": "Bozeman Daily Chronicle",
-   "link": "https://www.bozemandailychronicle.com/wire/sports/aaron-rodgers-urges-better-funding-for-us-womens-flag-football-team/article_b048a4bb-8b0a-5b4f-8bef-7f0dd4c18dc0.html",
-   "published": "2026-10-23T15:47:37+00:00",
-   "via": "Google News",
-   "summary": "News story from Bozeman Daily Chronicle. Full report at the original publisher.",
-   "id": "63971913de"
   },
   {
    "title": "Darnell Washington Notes What \u2018Stands Out\u2019 Most About Rookie WR Germie Bernard",
@@ -728,22 +745,6 @@
    "id": "b6a691e9e3"
   },
   {
-   "title": "Steelers don't expect T.J. Watt's calf injury to affect Sunday availability",
-   "source": "ProFootballTalk (NBC)",
-   "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-dont-expect-t-j-watts-calf-injury-to-affect-sunday-availability",
-   "published": "2026-10-23T12:06:19+00:00",
-   "summary": "Injury story from ProFootballTalk (NBC). Full report at the original publisher.",
-   "id": "edf7d3cac9"
-  },
-  {
-   "title": "Steelers to Watch: Five players who could make the difference against the Saints",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/23/steelers-to-watch-five-players-who-could-make-the-difference-against-the-saints/",
-   "published": "2026-10-23T12:04:25+00:00",
-   "summary": "News story from Steel City Underground. Full report at the original publisher.",
-   "id": "79aa9e2ca3"
-  },
-  {
    "title": "4 NFL bottom feeders could give Steelers a trade deadline advantage",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/4-nfl-bottom-feeders-could-give-pittsburgh-steelers-a-trade-deadline-advantage-01m5j23dryvq?utm_source=RSS",
@@ -818,15 +819,6 @@
    "id": "858f40c9af"
   },
   {
-   "title": "Steelers QB Aaron Rodgers backs NFL on holding game in Paris despite recent unrest",
-   "source": "Oskaloosa Herald",
-   "link": "https://www.oskaloosa.com/sports/national_sports/steelers-qb-aaron-rodgers-backs-nfl-on-holding-game-in-paris-despite-recent-unrest/article_4ce6543b-a8f4-5502-870a-d6074152bcf1.html",
-   "published": "2026-10-23T10:28:31+00:00",
-   "via": "Google News",
-   "summary": "Game story from Oskaloosa Herald. Full report at the original publisher.",
-   "id": "dbbeb5c29b"
-  },
-  {
    "title": "Wind storm in Paris compels Steelers to cancel outdoor practice after arriving in France",
    "source": "TribLive",
    "link": "https://triblive.com/sports/wind-storm-in-paris-compels-steelers-to-cancel-practice-after-arriving-in-france/",
@@ -881,15 +873,6 @@
    "published": "2026-10-23T09:30:15+00:00",
    "summary": "Trade/roster move story from The Athletic. Full report at the original publisher.",
    "id": "920d43250f"
-  },
-  {
-   "title": "Steelers practice at Stade de France canceled because of bad weather in Paris",
-   "source": "LancasterOnline",
-   "link": "https://lancasteronline.com/sports/nfl/steelers-practice-at-stade-de-france-canceled-because-of-bad-weather-in-paris/article_0ecf72f2-6a8f-5f4a-aac6-3f2531704b5d.html",
-   "published": "2026-10-23T09:20:47+00:00",
-   "via": "Google News",
-   "summary": "Injury story from LancasterOnline. Full report at the original publisher.",
-   "id": "96c0482ff1"
   },
   {
    "title": "Steelers practice at Stade de France canceled because of bad weather",
@@ -1071,14 +1054,6 @@
    "id": "e2d0fcac60"
   },
   {
-   "title": "Steelers Injury Central: 2 Ruled Out, SJD on IR, T.J. Watt Limited",
-   "source": "Steelers Now",
-   "link": "https://steelersnow.com/pittsburgh-steelers-injury-updates/",
-   "published": "2026-10-22T20:11:23+00:00",
-   "summary": "Injury story from Steelers Now. Full report at the original publisher.",
-   "id": "535145f81b"
-  },
-  {
    "title": "Steelers WR Ben Skowronek, CB Brandin Echols won\u2019t play vs. Saints in Paris",
    "source": "TribLive",
    "link": "https://triblive.com/sports/steelers-wr-ben-skowronek-cb-brandin-echols-wont-play-vs-saints-in-paris/",
@@ -1110,15 +1085,6 @@
    "published": "2026-10-22T19:12:06+00:00",
    "summary": "Game story from The Athletic. Full report at the original publisher.",
    "id": "203418c5a5"
-  },
-  {
-   "title": "Christian Kuntz Reveals What NFL is Telling Steelers About Paris",
-   "source": "All Steelers (Sports Illustrated)",
-   "link": "https://www.si.com/nfl/steelers/onsi/christian-kuntz-reveals-what-nfl-telling-pittsburgh-steelers-paris",
-   "published": "2026-10-22T18:18:35+00:00",
-   "summary": "News story from All Steelers (Sports Illustrated). Full report at the original publisher.",
-   "via": "Google News",
-   "id": "d7720c0a83"
   },
   {
    "title": "Steelers place DL Sebastian Joseph-Day on injured reserve",
@@ -1207,14 +1173,6 @@
    "published": "2026-10-22T14:00:00+00:00",
    "summary": "Trade/roster move story from Still Curtain. Full report at the original publisher.",
    "id": "bb6d0cf357"
-  },
-  {
-   "title": "Steelers finding new ways to win as young players step into bigger roles",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/22/steelers-finding-new-ways-to-win-as-young-players-step-into-bigger-roles/",
-   "published": "2026-10-22T13:41:16+00:00",
-   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
-   "id": "d606ad8113"
   },
   {
    "title": "Former Browns HC Slams Steelers' Mike McCarthy, Aaron Rodgers",
@@ -1328,6 +1286,46 @@
    "published": "2026-10-22T02:02:42+00:00",
    "summary": "Trade/roster move story from TribLive. Full report at the original publisher.",
    "id": "de7029ae74"
+  },
+  {
+   "title": "Groin injury limits Steelers LB Alex Highsmith; 4 teammates sit out practice",
+   "source": "TribLive",
+   "link": "https://triblive.com/sports/groin-injury-limits-steelers-lb-alex-highsmith-4-others-s/",
+   "published": "2026-10-22T00:59:11+00:00",
+   "summary": "Injury story from TribLive. Full report at the original publisher.",
+   "id": "4d1adfac3b"
+  },
+  {
+   "title": "With Dowdle healthy, McCarthy sees more possibilities for Steelers\u2019 running backs",
+   "source": "TribLive",
+   "link": "https://triblive.com/sports/with-dowdle-healthy-mccarthy-sees-more-possibilities-for-steelers-running-backs/",
+   "published": "2026-10-22T00:50:34+00:00",
+   "summary": "News story from TribLive. Full report at the original publisher.",
+   "id": "5f1f229ac5"
+  },
+  {
+   "title": "Marquez Valdes-Scantling is back for a reunion and hopes to bolster an injured Steelers receiver room",
+   "source": "Pittsburgh Post-Gazette",
+   "link": "https://www.post-gazette.com/sports/steelers/2026/10/21/marquez-valdes-scantling-aaron-rodgers-mike-mccarthy-steelers/stories/202610210044",
+   "published": "2026-10-21T23:07:26+00:00",
+   "summary": "Injury story from Pittsburgh Post-Gazette. Full report at the original publisher.",
+   "id": "de8ad3c092"
+  },
+  {
+   "title": "Ready to fly",
+   "source": "Steelers.com (official)",
+   "link": "https://www.steelers.com/news/ready-to-fly",
+   "published": "2026-10-21T22:40:06+00:00",
+   "summary": "News story from Steelers.com (official). Full report at the original publisher.",
+   "id": "246b096e91"
+  },
+  {
+   "title": "DeShon Elliott takes a big step, but Steelers\u2019 defense gets two new injury concerns",
+   "source": "Still Curtain",
+   "link": "https://stillcurtain.com/deshon-elliott-takes-step-pittsburgh-steelers-defense-gets-new-injury-concerns?utm_source=RSS",
+   "published": "2026-10-21T22:34:53+00:00",
+   "summary": "Injury story from Still Curtain. Full report at the original publisher.",
+   "id": "a70e1b74e4"
   }
  ],
  "dropped_bad_links": 0
