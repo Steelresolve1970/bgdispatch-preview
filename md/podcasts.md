@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-23T07:02:53+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T07:02:37+00:00._
+_Generated 2026-10-23T07:14:07+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T07:13:51+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [Scout’s Eye with Matt Williamson: No bad tactics](https://podcasts.apple.com/us/podcast/id1072021022): DK Pittsburgh Sports, 2026-10-23 06:25 UTC
