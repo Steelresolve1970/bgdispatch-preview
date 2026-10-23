@@ -1,9 +1,10 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-23T12:50:53+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T12:50:38+00:00._
+_Generated 2026-10-23T13:03:14+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-23T13:02:56+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [THE PITTSBURGH FOOTBALL SHOW, Episode 7, Oct. 23, 2026](https://www.youtube.com/watch?v=m3oM_Pej1Tk): Steelers Now, 2026-10-23 12:44 UTC
+- Podcast: [Steelers Travel Plans Keep Browns Game In Sight](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-23 12:32 UTC
 - Podcast: [Let's Ride: Steelers Keys to Victory vs. the Saints, Week 7](https://podcasts.apple.com/us/podcast/id905962218): Steel Curtain Network (BTSC), 2026-10-23 08:00 UTC
 - Podcast: [DK's Daily Shot of Steelers: Je voudrais voir …](https://podcasts.apple.com/us/podcast/id1072021022): DK Pittsburgh Sports, 2026-10-23 06:27 UTC
 - Video: [Steelers Rookie Class Answers Call, Ready to Carry Roster? | DeShon Elliott's Return Frees Up DBs](https://www.youtube.com/watch?v=beELd1XoLY4): Locked On Steelers, 2026-10-23 05:00 UTC
@@ -15,7 +16,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Steelers' DeShon Elliott Set to Return from IR, Join Jaquan Brisker, Robert Spears-Jennings in Paris](https://www.youtube.com/shorts/KsowgIWMjcA): Locked On Steelers, 2026-10-22 22:14 UTC
 - Video: [Nu Leader on D-Line? | Steelers Afternoon Drive](https://www.youtube.com/watch?v=lnaN5WeNfUQ): Steelers Now, 2026-10-22 22:05 UTC
 - Podcast: [Nu Leader on D-Line? | Steelers Afternoon Drive](https://podcasts.apple.com/us/podcast/nu-leader-on-d-line-steelers-afternoon-drive/id1700240934?i=1000797686445): Steelers Afternoon Drive, 2026-10-22 22:03 UTC
-- Podcast: [T.J. Watt Injured Before Paris Game | Steelers Need New DT](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-22 21:30 UTC
 - Podcast: [The Terrible Take - Episode 2058 - October 22, 2026](https://podcasts.apple.com/us/podcast/id405990739): The Terrible Podcast (Steelers Depot), 2026-10-22 21:00 UTC
 - Podcast: [NFL Week 7 Predictions/Pittsburgh Steelers](https://arthurmoats55.libsyn.com/dctm_game_picks_week_7_player_of_the_game_headlinesmp3): The Arthur Moats Experience, 2026-10-22 20:00 UTC
 - Video: [Bringing Vaunted Brand of Defense Overseas | Steelers Practice Report](https://www.youtube.com/watch?v=e7UlYYFDvos): Steelers Now, 2026-10-22 19:56 UTC
