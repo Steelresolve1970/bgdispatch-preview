@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-23T06:17:01.195325+00:00",
+ "last_run": "2026-10-23T06:28:50.883614+00:00",
  "results": [
   {
    "fetcher": "apply_grade_edits.py",
@@ -34,7 +34,7 @@
   {
    "fetcher": "fetch_insiders.py",
    "ok": true,
-   "seconds": 1.0,
+   "seconds": 1.5,
    "last_line": "sidebar: 5 full feed: 15"
   },
   {
@@ -46,7 +46,7 @@
   {
    "fetcher": "fetch_podcasts.py",
    "ok": true,
-   "seconds": 21.5,
+   "seconds": 21.0,
    "last_line": "episodes past 5 days: 153 | embed-fallback channels: 1 | post-game: 0"
   },
   {
@@ -113,18 +113,18 @@
    "fetcher": "fetch_hub.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "hub fresh (<30 min); skipped"
+   "last_line": "injuries 10 practice 15 opp NO"
   },
   {
    "fetcher": "fetch_matchup.py",
    "ok": true,
-   "seconds": 0.5,
+   "seconds": 7.0,
    "last_line": "matchup: 2026_07_PIT_NO keys 3 picks 3"
   },
   {
    "fetcher": "fetch_depth.py",
    "ok": true,
-   "seconds": 2.0,
+   "seconds": 2.5,
    "last_line": "depth units [('Offense', '3WR 1TE', 12), ('Defense', 'Base 3-4 D', 12), ('Special teams', 'Special Teams', 6)]"
   },
   {
@@ -173,7 +173,7 @@
    "fetcher": "fetch_quotes.py",
    "ok": true,
    "seconds": 1.0,
-   "last_line": "quotes: 10 kept from 132 articles"
+   "last_line": "quotes: 10 kept from 135 articles"
   },
   {
    "fetcher": "build_machine.py",
