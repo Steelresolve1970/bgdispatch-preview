@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "film",
  "description": "Film breakdowns of the last game and previews of the next game (links).",
- "generated": "2026-10-23T13:25:01+00:00",
- "data_updated": "2026-10-23T13:24:35+00:00",
- "count": 25,
+ "generated": "2026-10-23T13:35:58+00:00",
+ "data_updated": "2026-10-23T13:35:31+00:00",
+ "count": 27,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -139,7 +139,7 @@
    "creator": "Alex Kozora (Steelers Depot)",
    "url": "https://steelersdepot.com/2026/10/film-room-an-absurdly-good-rep-from-darnell-washington-thats-easy-to-miss/",
    "published": "2026-10-20T16:00:22+00:00",
-   "summary": "Film breakdown by Alex Kozora (Steelers Depot) of at Tampa Bay Buccaneers (Oct 18).",
+   "summary": "Film breakdown by Alex Kozora (Steelers Depot) of Week 6 at Buccaneers (W 26-19).",
    "source": {
     "name": "Alex Kozora (Steelers Depot)",
     "url": null
@@ -310,6 +310,34 @@
    "summary": "Film breakdown by Behind the Steel Curtain of Week 6 at Buccaneers (W 26-19).",
    "source": {
     "name": "Behind the Steel Curtain",
+    "url": null
+   }
+  },
+  {
+   "id": "c74a51a62bd856cd",
+   "type": "film_preview",
+   "game": "at New Orleans Saints (Oct 25)",
+   "title": "Saints Offense Scouting Report: Where Pittsburgh Should Be Worried Most",
+   "creator": "Alex Kozora (Steelers Depot)",
+   "url": "https://steelersdepot.com/2026/10/saints-offense-scouting-report-where-pittsburgh-should-be-worried-most/",
+   "published": "2026-10-23T13:30:10+00:00",
+   "summary": "Preview by Alex Kozora (Steelers Depot) for at New Orleans Saints (Oct 25).",
+   "source": {
+    "name": "Alex Kozora (Steelers Depot)",
+    "url": null
+   }
+  },
+  {
+   "id": "7e8de41623e9dc05",
+   "type": "film_preview",
+   "game": "at New Orleans Saints (Oct 25)",
+   "title": "Steelers Keys to Victory vs. the Saints, Week 7 | Let's Ride",
+   "creator": "Steel Curtain Network (BTSC)",
+   "url": "https://www.youtube.com/watch?v=X5XbLf_39yo",
+   "published": "2026-10-23T13:21:58+00:00",
+   "summary": "Preview by Steel Curtain Network (BTSC) for at New Orleans Saints (Oct 25).",
+   "source": {
+    "name": "Steel Curtain Network (BTSC)",
     "url": null
    }
   },
