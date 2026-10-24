@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-24T19:51:44+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T19:51:28+00:00._
+_Generated 2026-10-24T20:02:43+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T20:02:25+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Elandon Roberts wants to win another one so he can enjoy it more this time 🏆🔥#nfl #patriots](https://www.youtube.com/shorts/XWo-am2_97g): Not Just Football with Cam Heyward, 2026-10-24 19:25 UTC
@@ -153,8 +153,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Steelers Battling Over Trade | What's Different About This Team?](https://podcasts.apple.com/us/podcast/steelers-battling-over-trade-whats-different-about/id1627248534?i=1000797154912): All Steelers Talk, 2026-10-19 21:35 UTC
 - Podcast: [The Terrible Take - Episode 2055 - October 19, 2026](https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2055-october-19-2026/id405990739?i=1000797151151): The Terrible Podcast (Steelers Depot), 2026-10-19 21:00 UTC
 - Podcast: [Drive10.19.26Hr2: Around the NFL - Week Six](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-19-26hr2-mp3): SNR Drive, 2026-10-19 21:00 UTC
-- Video: [Steelers Save Their Best for Last in Overtime Win in Tampa](https://www.youtube.com/watch?v=WwJom70LMfs): Steel City Underground, 2026-10-19 20:01 UTC
-- Podcast: [Drive10.19.26Kinger: Rob King on Bucs Win](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-19-26king-mp3): SNR Drive, 2026-10-19 20:00 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
