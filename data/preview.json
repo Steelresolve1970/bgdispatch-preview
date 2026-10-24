@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T00:33:12.839436+00:00",
+ "generated": "2026-10-24T00:44:00.659935+00:00",
  "game": {
   "label": "at New Orleans Saints (Oct 25)",
   "opponent": "New Orleans Saints",
@@ -71,8 +71,8 @@
    "creator": "Merril Hoge (personal)",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCL1UFebpPn1rsxK0yEwwbgA",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
@@ -111,9 +111,9 @@
    "creator": "Steelers Now (Derrick Bell)",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp1iAMIfmmgWewzJ07_Y7oA",
-   "status": "ok",
-   "feed_items": 15,
-   "in_window": 1
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
+   "in_window": 0
   },
   {
    "creator": "Steel City Underground",
@@ -151,25 +151,25 @@
    "creator": "Arthur Moats Experience",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFPpVnzIt33ZPQglYd7MOqQ",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
    "creator": "Derrick Bell \u2013 DB's Film Room (Steelers Now)",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNsZFFKPF0bp85qzvJ8knbQ",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
    "creator": "Steelers Depot (YouTube)",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFqbkq2BzNY3iQ_FPveqVhw",
-   "status": "ok",
-   "feed_items": 15,
-   "in_window": 1
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
+   "in_window": 0
   },
   {
    "creator": "Pittsburgh Steelers (official)",
@@ -183,24 +183,24 @@
    "creator": "Baldy's Breakdowns",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHdXqjAWwGqEGfC1a9319Mw",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
    "creator": "Brett Kollmann",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYzfVBuCfGz-oF3aOCGgO5g",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 500: Internal Server Error",
+   "feed_items": 0,
    "in_window": 0
   },
   {
    "creator": "The QB School (JT O'Sullivan)",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGfxHp2yuimtLsFaq1r7aIQ",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
@@ -222,27 +222,11 @@
    "game": "at New Orleans Saints (Oct 25)"
   },
   {
-   "title": "Saints Preview & Predictions | Steelers Afternoon Drive",
-   "creator": "Steelers Now (Derrick Bell)",
-   "link": "https://www.youtube.com/watch?v=voEIPYX3YNw",
-   "published": "2026-10-23T21:57:14+00:00",
-   "summary": "Preview by Steelers Now (Derrick Bell) for at New Orleans Saints (Oct 25).",
-   "game": "at New Orleans Saints (Oct 25)"
-  },
-  {
    "title": "Steelers Need to Fan the Flames vs the Saints in Paris? | Scouting Report Week 7",
    "creator": "Steelers Almighty",
    "link": "https://www.youtube.com/watch?v=qbm-DUnLP_c",
    "published": "2026-10-23T18:20:15+00:00",
    "summary": "Preview by Steelers Almighty for at New Orleans Saints (Oct 25).",
-   "game": "at New Orleans Saints (Oct 25)"
-  },
-  {
-   "title": "The Terrible Podcast \u2014 Steelers Vs Saints Game Preview, Joseph-Day To IR, Week 7 Picks, And More",
-   "creator": "Steelers Depot (YouTube)",
-   "link": "https://www.youtube.com/watch?v=KSUKvtclF40",
-   "published": "2026-10-23T16:24:26+00:00",
-   "summary": "Preview by Steelers Depot (YouTube) for at New Orleans Saints (Oct 25).",
    "game": "at New Orleans Saints (Oct 25)"
   },
   {
@@ -309,5 +293,5 @@
   "youtube": null,
   "embed": null
  },
- "count": 10
+ "count": 8
 }
