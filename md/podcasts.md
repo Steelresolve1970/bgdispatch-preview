@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-24T18:46:52+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T18:46:33+00:00._
+_Generated 2026-10-24T18:57:38+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T18:57:21+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Steelers fans encounter police getting ready for protesters](https://www.youtube.com/shorts/lxzhbaIZNu8): Nick Farabaugh on PennLive, 2026-10-24 18:08 UTC
