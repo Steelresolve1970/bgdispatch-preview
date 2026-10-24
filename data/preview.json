@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T02:18:10.937321+00:00",
+ "generated": "2026-10-24T02:29:37.560443+00:00",
  "game": {
   "label": "at New Orleans Saints (Oct 25)",
   "opponent": "New Orleans Saints",
@@ -71,8 +71,8 @@
    "creator": "Merril Hoge (personal)",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCL1UFebpPn1rsxK0yEwwbgA",
-   "status": "error: HTTP Error 404: Not Found",
-   "feed_items": 0,
+   "status": "ok",
+   "feed_items": 15,
    "in_window": 0
   },
   {
@@ -111,9 +111,9 @@
    "creator": "Steelers Now (Derrick Bell)",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp1iAMIfmmgWewzJ07_Y7oA",
-   "status": "ok",
-   "feed_items": 15,
-   "in_window": 1
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
+   "in_window": 0
   },
   {
    "creator": "Steel City Underground",
@@ -127,9 +127,9 @@
    "creator": "Still Curtain",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxjSNPLcRAVzDKOjhRwo-hQ",
-   "status": "ok",
-   "feed_items": 15,
-   "in_window": 1
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
+   "in_window": 0
   },
   {
    "creator": "Locked On Steelers",
@@ -159,8 +159,8 @@
    "creator": "Derrick Bell \u2013 DB's Film Room (Steelers Now)",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNsZFFKPF0bp85qzvJ8knbQ",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
@@ -199,8 +199,8 @@
    "creator": "The QB School (JT O'Sullivan)",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGfxHp2yuimtLsFaq1r7aIQ",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
@@ -219,14 +219,6 @@
    "link": "https://steelersnow.com/steelers-afternoon-drive-saints-preview-predictions/",
    "published": "2026-10-23T22:00:44+00:00",
    "summary": "Preview by Steelers Now for at New Orleans Saints (Oct 25).",
-   "game": "at New Orleans Saints (Oct 25)"
-  },
-  {
-   "title": "Saints Preview & Predictions | Steelers Afternoon Drive",
-   "creator": "Steelers Now (Derrick Bell)",
-   "link": "https://www.youtube.com/watch?v=voEIPYX3YNw",
-   "published": "2026-10-23T21:57:14+00:00",
-   "summary": "Preview by Steelers Now (Derrick Bell) for at New Orleans Saints (Oct 25).",
    "game": "at New Orleans Saints (Oct 25)"
   },
   {
@@ -284,14 +276,6 @@
    "published": "2026-10-23T10:13:16+00:00",
    "summary": "Preview by Steel Curtain Network (BTSC) for at New Orleans Saints (Oct 25).",
    "game": "at New Orleans Saints (Oct 25)"
-  },
-  {
-   "title": "Steelers vs. Saints Week 7 Preview | Aaron Rodgers Problem Brewing",
-   "creator": "Still Curtain",
-   "link": "https://www.youtube.com/watch?v=B0agqGjSVpU",
-   "published": "2026-10-22T06:58:28+00:00",
-   "summary": "Preview by Still Curtain for at New Orleans Saints (Oct 25).",
-   "game": "at New Orleans Saints (Oct 25)"
   }
  ],
  "ctm": {
@@ -309,5 +293,5 @@
   "youtube": null,
   "embed": null
  },
- "count": 10
+ "count": 8
 }
