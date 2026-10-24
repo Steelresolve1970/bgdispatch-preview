@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-24T17:41:47+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T17:41:11+00:00._
+_Generated 2026-10-24T17:52:33+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T17:52:01+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Steelers Get Horrifying News Ahead Of Crucial 2027 Offseason](https://www.steelernation.com/2026/10/24/steelers-horrifying-news-crucial-2027): SteelerNation, 2026-10-24 17:24 UTC
@@ -79,7 +79,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers Rookie Germie Bernard Reveals Impressive Trait After Costly Mistake In Week 6](https://www.steelernation.com/2026/10/23/steelers-rookie-germie-bernard-impressive): SteelerNation, 2026-10-23 23:13 UTC
 - [Friday Night Happy Hour: European vacation edition](https://www.behindthesteelcurtain.com/pittsburgh-steelers-discussion/176771/friday-night-happy-hour-european-vacation-edition): Behind the Steel Curtain, 2026-10-23 22:30 UTC
 - [Steelers Insider Reveals Important Regret After Releasing Veteran Defender](https://www.steelernation.com/2026/10/23/steelers-insider-important-regret): SteelerNation, 2026-10-23 22:21 UTC
-- [Pittsburgh Steelers fan in Paris says she doesn't feel "unsafe" amid unrest](https://www.cbsnews.com/pittsburgh/video/pittsburgh-steelers-fan-in-paris-says-she-doesnt-feel-unsafe-amid-unrest/): CBS News, 2026-10-23 22:09 UTC
+- [Steelers fan in Paris says she doesn't feel "unsafe" amid unrest](https://www.cbsnews.com/pittsburgh/news/steelers-fans-paris-france-nfl-game-protests/): CBS News, 2026-10-23 22:15 UTC
 - [Future Steelers Opponent Loses Starter For Season](https://steelersnow.com/future-steelers-opponent-loses-starter-for-season/): Steelers Now, 2026-10-23 22:06 UTC
 - [Steelers Afternoon Drive: Saints Preview & Predictions](https://steelersnow.com/steelers-afternoon-drive-saints-preview-predictions/): Steelers Now, 2026-10-23 22:00 UTC
 - [Steelers get T.J. Watt relief with DeShon Elliott's return still in doubt](https://stillcurtain.com/pittsburgh-steelers-saints-injury-report-week-7-friday?utm_source=RSS): Still Curtain, 2026-10-23 22:00 UTC
@@ -102,7 +102,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers news: Defense pushing for top 5 status](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176799/steelers-news-defense-pushing-for-top-5-status): Behind the Steel Curtain, 2026-10-23 16:08 UTC
 - [Steely Resolve: Jalen Ramsey Sewing Fabric of Steelers Defensive Tradition](https://steelersnow.com/steely-resolve-jalen-ramsey-sewing-fabric-of-steelers-defensive-tradition/): Steelers Now, 2026-10-23 16:05 UTC
 - [Steelers Jaylen Warren could expose Saints' biggest weakness in Paris showdown](https://stillcurtain.com/pittsburgh-steelers-jaylen-warren-could-expose-saints-biggest-weakness-in-paris-showdown-01m5cztg7dnw?utm_source=RSS): Still Curtain, 2026-10-23 16:00 UTC
-- [Pittsburgh Steelers 2026 NFL Playoff Simulator](https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/pittsburgh-steelers-season-projections/): The New York Times, 2026-10-23 15:48 UTC
 - [Aaron Rodgers Is Annoyed with Steelers’ Travel Schedule to Paris](https://steelersnow.com/aaron-rodgers-is-annoyed-with-steelers-travel-schedule-to-paris/): Steelers Now, 2026-10-23 15:05 UTC
 - [Cowboys finally call out George Pickens' effort issue Steelers fans know too well](https://stillcurtain.com/dallas-cowboys-call-out-george-pickens-effort-issue-pittsburgh-steelers-fans-know-01m5mhzf735f?utm_source=RSS): Still Curtain, 2026-10-23 15:00 UTC
 - [The Steelers are excited to ‘showcase’ NFL football — and themselves — in France](https://www.post-gazette.com/sports/steelers/2026/10/23/nfl-game-paris-steelers-saints/stories/202610230029): Pittsburgh Post-Gazette, 2026-10-23 15:00 UTC
@@ -153,6 +152,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers injury leaves Gabriel Rubio facing a golden NFL opportunity](https://stillcurtain.com/pittsburgh-steelers-sebastian-joseph-day-injury-leaves-gabriel-rubio-golden-nfl-opportunity-01m5j7djme4b?utm_source=RSS): Still Curtain, 2026-10-22 17:21 UTC
 - [Steelers staffers began planning for their Paris trip — and its logistical obstacles — in June](https://www.post-gazette.com/sports/steelers/2026/10/22/steelers-paris-trip-planning/stories/202610220046): Pittsburgh Post-Gazette, 2026-10-22 17:00 UTC
 - [Steelers could see their playoff odds change dramatically in Week 7](https://stillcurtain.com/pittsburgh-steelers-could-see-playoff-odds-change-dramatically-week-7-01m5hxbbsg5h?utm_source=RSS): Still Curtain, 2026-10-22 16:00 UTC
+- [Steelers place Joseph-Day on Reserve/Injured List](https://www.steelers.com/news/steelers-place-joseph-day-on-reserve-injured-list): Steelers.com (official), 2026-10-22 15:45 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-24T17:41:47+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T17:41:28+00:00._
+_Generated 2026-10-24T17:52:33+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T17:52:17+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Are European Games a Fantasy Wasteland? with Jorden Hill | THE PITTSBURGH FOOTBALL SHOW](https://www.youtube.com/watch?v=Tn1BFHCBCMg): Steelers Now, 2026-10-24 16:29 UTC
