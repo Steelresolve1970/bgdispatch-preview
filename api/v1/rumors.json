@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "rumors",
  "description": "Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).",
- "generated": "2026-10-24T18:57:38+00:00",
- "data_updated": "2026-10-24T18:57:32+00:00",
- "count": 49,
+ "generated": "2026-10-24T19:08:28+00:00",
+ "data_updated": "2026-10-24T19:08:22+00:00",
+ "count": 50,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -19,6 +19,35 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/rumors",
  "items": [
+  {
+   "id": "3d83594dea4b",
+   "type": "rumor",
+   "title": "Steelers Rumors: Should Pittsburgh Trade Patrick Queen to Cowboys?",
+   "summary": "Trade/roster move story from Chat Sports. Full report at the original publisher.",
+   "url": "https://www.chatsports.com/pittsburgh-steelers/a/steelers-rumors-should-pittsburgh-trade-patrick-queen-cowboys-53601",
+   "source": {
+    "name": "Chat Sports",
+    "url": null,
+    "reliability_tier": "Fan blog",
+    "reliability_score": 2
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-24T19:08:22+00:00",
+   "updated": "2026-10-24T19:08:22+00:00",
+   "published": "2026-10-24T18:55:18+00:00",
+   "people": [],
+   "consensus": {
+    "cluster_id": "3d83594dea4b",
+    "independent_sources": 1,
+    "sources": [
+     "Chat Sports"
+    ],
+    "highest_tier": "Fan blog",
+    "highest_tier_score": 2,
+    "related_ids": []
+   }
+  },
   {
    "id": "0a800b57b9a0",
    "type": "rumor",
@@ -126,9 +155,10 @@
    "people": [],
    "consensus": {
     "cluster_id": "14ffc5da6c16",
-    "independent_sources": 2,
+    "independent_sources": 3,
     "sources": [
      "Heavy.com",
+     "Wisconsin Sports Heroics",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
@@ -136,6 +166,7 @@
     "related_ids": [
      "85d6f65ebcd2",
      "794b3684899f",
+     "173465376593",
      "14ffc5da6c16"
     ]
    }
@@ -162,9 +193,10 @@
    ],
    "consensus": {
     "cluster_id": "14ffc5da6c16",
-    "independent_sources": 2,
+    "independent_sources": 3,
     "sources": [
      "Heavy.com",
+     "Wisconsin Sports Heroics",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
@@ -172,6 +204,7 @@
     "related_ids": [
      "5d585445ee02",
      "794b3684899f",
+     "173465376593",
      "14ffc5da6c16"
     ]
    }
@@ -990,9 +1023,10 @@
    ],
    "consensus": {
     "cluster_id": "14ffc5da6c16",
-    "independent_sources": 2,
+    "independent_sources": 3,
     "sources": [
      "Heavy.com",
+     "Wisconsin Sports Heroics",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
@@ -1000,6 +1034,7 @@
     "related_ids": [
      "5d585445ee02",
      "85d6f65ebcd2",
+     "173465376593",
      "14ffc5da6c16"
     ]
    }
@@ -1107,9 +1142,10 @@
    "people": [],
    "consensus": {
     "cluster_id": "14ffc5da6c16",
-    "independent_sources": 2,
+    "independent_sources": 3,
     "sources": [
      "Heavy.com",
+     "Wisconsin Sports Heroics",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
@@ -1117,7 +1153,8 @@
     "related_ids": [
      "5d585445ee02",
      "85d6f65ebcd2",
-     "794b3684899f"
+     "794b3684899f",
+     "173465376593"
     ]
    }
   },
