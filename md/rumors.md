@@ -1,8 +1,10 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-24T21:07:39+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T21:07:32+00:00._
+_Generated 2026-10-24T21:18:28+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T21:18:21+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
+- **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
+  [Steelers Have 3 Trade Targets That No One Talks About](https://www.steelernation.com/2026/10/24/steelers-trade-targets-no-one-talks-about): SteelerNation, first seen 2026-10-24 21:18 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Steelers Rumors: Should Pittsburgh Trade Patrick Queen to Cowboys?](https://www.chatsports.com/pittsburgh-steelers/a/steelers-rumors-should-pittsburgh-trade-patrick-queen-cowboys-53601): Chat Sports, first seen 2026-10-24 19:08 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
