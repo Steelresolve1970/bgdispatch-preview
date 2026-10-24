@@ -1,10 +1,10 @@
 {
- "last_run": "2026-10-24T16:25:12.669560+00:00",
+ "last_run": "2026-10-24T16:36:10.894860+00:00",
  "results": [
   {
    "fetcher": "apply_grade_edits.py",
    "ok": true,
-   "seconds": 0.5,
+   "seconds": 1.0,
    "last_line": "no grade edits"
   },
   {
@@ -40,19 +40,19 @@
   {
    "fetcher": "fetch_film.py",
    "ok": true,
-   "seconds": 4.5,
+   "seconds": 4.0,
    "last_line": "  Week 1 vs Falcons (W 20-13): 2   {'Steelers Depot Film Room (Alex Kozora)': 1, \"Derrick Bell \u2013 DB's Film Room (Steelers Now)\": 1}"
   },
   {
    "fetcher": "fetch_podcasts.py",
    "ok": true,
-   "seconds": 19.0,
+   "seconds": 7.0,
    "last_line": "episodes past 5 days: 157 | embed-fallback channels: 0 | post-game: 0"
   },
   {
    "fetcher": "fetch_featured.py",
    "ok": true,
-   "seconds": 1.0,
+   "seconds": 11.0,
    "last_line": "preview New Orleans Saints Pittsburgh Steelers vs New Orleans Saints | 2026 Week 7 Game Preview"
   },
   {
@@ -143,7 +143,7 @@
    "fetcher": "fetch_rumors.py",
    "ok": true,
    "seconds": 3.0,
-   "last_line": "rumors 47 {'Rumor': 43, 'Confirmed': 4, 'Denied': 0}"
+   "last_line": "rumors 48 {'Rumor': 44, 'Confirmed': 4, 'Denied': 0}"
   },
   {
    "fetcher": "fetch_pickem.py",
@@ -173,13 +173,13 @@
    "fetcher": "fetch_quotes.py",
    "ok": true,
    "seconds": 1.5,
-   "last_line": "quotes: 7 kept from 133 articles"
+   "last_line": "quotes: 7 kept from 130 articles"
   },
   {
    "fetcher": "build_machine.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "machine layer: {'news': 150, 'rumors': 47, 'injuries': 14, 'depth-chart': 28, 'schedule': 17, 'stats': 62, 'grades': 40, 'college': 20, 'insiders': 11, 'podcasts': 157, 'film': 19, 'draft': 521} md 13 feeds 5 jsonld 14"
+   "last_line": "machine layer: {'news': 150, 'rumors': 48, 'injuries': 14, 'depth-chart': 28, 'schedule': 17, 'stats': 62, 'grades': 40, 'college': 20, 'insiders': 11, 'podcasts': 157, 'film': 19, 'draft': 521} md 13 feeds 5 jsonld 14"
   }
  ]
 }
