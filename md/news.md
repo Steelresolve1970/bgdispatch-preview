@@ -1,8 +1,9 @@
 # Steelers News
 
-_Generated 2026-10-24T11:13:37+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T11:13:05+00:00._
+_Generated 2026-10-24T11:38:06+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T11:37:35+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [The Steelers Can Set A Franchise First With A Win Sunday](https://steelersdepot.com/2026/10/the-steelers-can-set-a-franchise-first-with-a-win-sunday/): Steelers Depot, 2026-10-24 11:30 UTC
 - [NFL House in Paris closes ahead of street protests in French capital](https://www.timesunion.com/sports/article/nfl-house-in-paris-closes-ahead-of-street-22492242.php): Times Union, 2026-10-24 11:04 UTC
 - [Steelers vs. Saints picks: Still Curtain panel predicts an uphill battle](https://stillcurtain.com/pittsburgh-steelers-vs-saints-picks-still-curtain-panel-predicts-an-uphill-battle-01m5a27wa79q?utm_source=RSS): Still Curtain, 2026-10-24 11:00 UTC
 - [Hoke Praises Steelers’ Deployment Of Jalen Ramsey: ‘Exactly The Way He Should Be Used’](https://steelersdepot.com/2026/10/hoke-praises-steelers-deployment-of-jalen-ramsey-exactly-the-way-he-should-be-used/): Steelers Depot, 2026-10-24 11:00 UTC
@@ -71,10 +72,10 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Germie Bernard Has Already ‘Shown More Chemistry’ With Rodgers Than DK Metcalf, Says Kyle Brandt](https://steelersdepot.com/2026/10/germie-bernard-has-already-shown-more-chemistry-with-rodgers-than-dk-metcalf-kyle-brandt-says/): Steelers Depot, 2026-10-23 16:15 UTC
 - [Steelers news: Defense pushing for top 5 status](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176799/steelers-news-defense-pushing-for-top-5-status): Behind the Steel Curtain, 2026-10-23 16:08 UTC
 - [Steely Resolve: Jalen Ramsey Sewing Fabric of Steelers Defensive Tradition](https://steelersnow.com/steely-resolve-jalen-ramsey-sewing-fabric-of-steelers-defensive-tradition/): Steelers Now, 2026-10-23 16:05 UTC
-- [Four Questions With The Depot Crew: Previewing Week 7 Steelers-Saints Paris Matchup](https://steelersdepot.com/2026/10/four-questions-with-the-depot-crew-previewing-week-7-steelers-saints-paris-matchup/): Steelers Depot, 2026-10-23 16:00 UTC
 - [Steelers Jaylen Warren could expose Saints' biggest weakness in Paris showdown](https://stillcurtain.com/pittsburgh-steelers-jaylen-warren-could-expose-saints-biggest-weakness-in-paris-showdown-01m5cztg7dnw?utm_source=RSS): Still Curtain, 2026-10-23 16:00 UTC
 - [Rodgers would've like to have arrived early, but feels safe in Paris](https://www.audacy.com/937thefan/sports/pittsburgh-steelers/aaron-rodgers-paris): Audacy, 2026-10-23 15:57 UTC
 - [Pittsburgh Steelers 2026 NFL Playoff Simulator](https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/pittsburgh-steelers-season-projections/): The New York Times, 2026-10-23 15:48 UTC
+- [Danny Stutsman, Daniel Carlson, Chris Rumph II, Noah Fant, Vernon Broughton press conference | Saints vs. Steelers 2026 NFL Week 7](https://www.neworleanssaints.com/video/danny-stutsman-daniel-carlson-chris-rumph-ii-noah-fant-vernon-broughton-press-conference-saints-vs-steelers-2026-nfl-week-7-october-23-2026): New Orleans Saints | NewOrleansSaints.com, 2026-10-23 15:32 UTC
 - [How to watch Steelers vs. Saints: TV channel and streaming options for October 25](https://www.nytimes.com/athletic/7717416/2026/10/23/steelers-vs-saints-stream-how-to-watch-oct-25/): The Athletic, 2026-10-23 15:26 UTC
 - [Aaron Rodgers Is Annoyed with Steelers’ Travel Schedule to Paris](https://steelersnow.com/aaron-rodgers-is-annoyed-with-steelers-travel-schedule-to-paris/): Steelers Now, 2026-10-23 15:05 UTC
 - [Cowboys finally call out George Pickens' effort issue Steelers fans know too well](https://stillcurtain.com/dallas-cowboys-call-out-george-pickens-effort-issue-pittsburgh-steelers-fans-know-01m5mhzf735f?utm_source=RSS): Still Curtain, 2026-10-23 15:00 UTC
@@ -152,7 +153,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Asked and Answered: Oct. 22](https://www.steelers.com/news/asked-and-answered-oct-22-x1552): Steelers.com (official), 2026-10-22 10:05 UTC
 - [Steelers have every reason to be disappointed by the overhyped 2027 QB class](https://stillcurtain.com/pittsburgh-steelers-have-every-reason-to-be-disappointed-by-the-overhyped-2027-qb-class-01m5a2hawe92?utm_source=RSS): Still Curtain, 2026-10-22 10:00 UTC
 - [Roger Goodell says the NFL will play in Paris as planned, even as civil unrest continues to grip France](https://www.pennlive.com/steelers/2026/10/roger-goodell-says-the-nfl-will-play-in-paris-as-planned-even-as-civil-unrest-continues-to-grip-france.html): PennLive (Nick Farabaugh), 2026-10-22 10:00 UTC
-- [U mad, bro?: Aging Penguins roster and Steelers’ clock management in Tampa have Pittsburgh fans grumbling](https://triblive.com/sports/u-mad-bro-aging-penguins-roster-and-steelers-clock-management-in-tampa-have-pittsburgh-fans-grumbling/): TribLive, 2026-10-22 09:59 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
