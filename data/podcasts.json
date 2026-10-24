@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T01:44:47.953789+00:00",
+ "generated": "2026-10-24T01:56:21.246152+00:00",
  "date_et": "2026-10-23",
  "days": 5,
  "display_days": 2,
@@ -90,10 +90,10 @@
    "show": "Steel City Underground",
    "kind": "podcast",
    "url": "https://feeds.feedburner.com/steelcityunderground",
-   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 45,
    "week": 2,
-   "latest": null
+   "latest": "2026-10-22T16:20:16+00:00"
   },
   {
    "show": "Steel City Underground",
@@ -243,10 +243,10 @@
    "show": "The Christian Kuntz Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKKBJcOGsYmwAATQv-xQYeA",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 500: Internal Server Error",
+   "episodes": 0,
    "week": 0,
-   "latest": "2009-05-26T14:01:33+00:00"
+   "latest": null
   }
  ],
  "items": [
@@ -1606,7 +1606,14 @@
    "summary": "Podcast episode from Locked On Steelers."
   }
  ],
- "yt_channels": [],
+ "yt_channels": [
+  {
+   "show": "The Christian Kuntz Podcast",
+   "channel_id": "UCKKBJcOGsYmwAATQv-xQYeA",
+   "link": "https://www.youtube.com/channel/UCKKBJcOGsYmwAATQv-xQYeA",
+   "embed": "https://www.youtube-nocookie.com/embed/videoseries?list=UUKKBJcOGsYmwAATQv-xQYeA"
+  }
+ ],
  "postgame": null,
  "directory": [
   {
