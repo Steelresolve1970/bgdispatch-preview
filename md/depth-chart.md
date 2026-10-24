@@ -1,6 +1,6 @@
 # Steelers Depth Chart
 
-_Generated 2026-10-24T12:48:10+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T12:48:00+00:00._
+_Generated 2026-10-24T13:04:56+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T13:04:45+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/depth-chart.json_
 
 ### Offense (3WR 1TE)

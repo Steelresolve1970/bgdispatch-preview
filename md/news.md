@@ -1,8 +1,9 @@
 # Steelers News
 
-_Generated 2026-10-24T12:48:10+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T12:47:37+00:00._
+_Generated 2026-10-24T13:04:56+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T13:04:23+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Morning Break: Saints seek second straight win in historic Paris matchup](https://www.neworleanssaints.com/news/morning-break-saints-seek-second-straight-win-in-historic-paris-matchup-new-orleans-news-headlines-10-24-2026): New Orleans Saints | NewOrleansSaints.com, 2026-10-24 13:00 UTC
 - [The Steelers Have A Special Teams Evaluation Problem – And It’s Not A New One](https://steelersdepot.com/2026/10/the-steelers-have-a-special-teams-evaluation-problem-and-its-not-a-new-one/): Steelers Depot, 2026-10-24 12:45 UTC
 - [Several Steelers Legends Awaiting Hall Of Fame Get Devastating News](https://www.steelernation.com/2026/10/24/steelers-hall-of-fame-devastating-news): SteelerNation, 2026-10-24 12:20 UTC
 - [Steelers Vs Saints Preview: 5 Keys To Victory In Week 7](https://steelersdepot.com/2026/10/steelers-vs-saints-preview-5-keys-to-victory-in-week-7/): Steelers Depot, 2026-10-24 12:15 UTC
@@ -24,7 +25,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [What Are The Odds Steelers Run Record To 6-2 Going Into Bye Week?](https://steelersdepot.com/2026/10/what-are-the-odds-steelers-run-record-to-6-2-going-into-bye-week/): Steelers Depot, 2026-10-24 09:00 UTC
 - [Pittsburgh Steelers huge boost with injury news on three star players before Saints game](https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-huge-boost-with-injury-news-on-three-star-players-before-saints-game.html): PennLive (Nick Farabaugh), 2026-10-24 09:00 UTC
 - [As the Steelers play the first game in Paris, what is the NFL’s international endgame here?](https://www.post-gazette.com/sports/steelers/2026/10/24/nfl-international-games-future/stories/202610230034): Pittsburgh Post-Gazette, 2026-10-24 08:00 UTC
-- [Saints feel at home as they prepare for Steelers](https://www.tribtoday.com/sports/local-sports/2026/10/saints-feel-at-home-as-they-prepare-for-steelers/): Tribune Chronicle, 2026-10-24 07:27 UTC
+- [Saints, Steelers set for historic game in Paris](https://www.timesobserver.com/sports/local-sports/2026/10/saints-steelers-set-for-historic-game-in-paris/): Times Observer, 2026-10-24 06:32 UTC
 - [Germie Bernard Is Showing Off His Superpower](https://steelersdepot.com/2026/10/germie-bernard-is-showing-off-his-superpower/): Steelers Depot, 2026-10-24 04:00 UTC
 - [Depot After Dark: Steelers Test Their French, Freiermuth Potential Celebration, Players Guess French Words](https://steelersdepot.com/2026/10/depot-after-dark-steelers-test-their-french-freiermuth-potential-celebration-players-guess-french-words/): Steelers Depot, 2026-10-24 01:00 UTC
 - [Steelers' Bold Strategy May Just Be A Ticking Time Bomb That Will Explode Into More Injuries](https://www.steelernation.com/2026/10/23/steelers-bold-strategy-time-bomb): SteelerNation, 2026-10-24 00:54 UTC
@@ -93,6 +94,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers WR DK Metcalf done with playing overseas](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176800/steelers-wr-dk-metcalf-done-with-playing-overseas): Behind the Steel Curtain, 2026-10-23 14:04 UTC
 - [Steelers' Paris game gets even more unpredictable after weather shakeup](https://stillcurtain.com/pittsburgh-steelers-paris-unpredictable-weather-shakeup-01m5mes3qpbj?utm_source=RSS): Still Curtain, 2026-10-23 14:00 UTC
 - [Steelers safety DeShon Elliott could return Sunday, a year removed from his gruesome injury](https://www.post-gazette.com/sports/steelers/2026/10/23/will-deshon-elliott-play-sunday/stories/202610230028): Pittsburgh Post-Gazette, 2026-10-23 14:00 UTC
+- [Our Defense vs. Their Offense: Pittsburgh Steelers](https://www.canalstreetchronicles.com/new-orleans-saints-discussion/116873/our-defense-vs-their-offense-saints-pittsburgh-steelers-paris-nfl-week-7): Canal Street Chronicles, 2026-10-23 14:00 UTC
 - [Rest, recover and represent Pittsburgh](https://www.steelers.com/news/rest-recover-and-represent-pittsburgh): Steelers.com (official), 2026-10-23 14:00 UTC
 - [T.J. Watt fine, Rico Dowdle questionable to play for Steelers vs. Saints](https://triblive.com/sports/t-j-watt-fine-rico-dowdle-questionable-to-play-for-steelers-vs-saints/): TribLive, 2026-10-23 13:51 UTC
 - [A big deal to play in Paris](https://www.steelers.com/news/a-big-deal-to-play-in-paris): Steelers.com (official), 2026-10-23 13:45 UTC
@@ -137,6 +139,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers WR Ben Skowronek, CB Brandin Echols won’t play vs. Saints in Paris](https://triblive.com/sports/steelers-wr-ben-skowronek-cb-brandin-echols-wont-play-vs-saints-in-paris/): TribLive, 2026-10-22 20:10 UTC
 - [T.J. Watt Pops Up on Steelers Injury Report Before Paris Trip](https://www.si.com/nfl/steelers/onsi/tj-watt-injured-before-pittsburgh-steelers-paris-game): All Steelers (Sports Illustrated), 2026-10-22 19:17 UTC
 - [What to know about Saints-Steelers NFL Paris game amid unrest, protests in city](https://www.nytimes.com/athletic/7714662/2026/10/22/nfl-saints-steelers-paris-protests/): The Athletic, 2026-10-22 19:12 UTC
+- [Christian Kuntz Reveals What NFL is Telling Steelers About Paris](https://www.si.com/nfl/steelers/onsi/christian-kuntz-reveals-what-nfl-telling-pittsburgh-steelers-paris): All Steelers (Sports Illustrated), 2026-10-22 18:18 UTC
 - [Steelers injury leaves Gabriel Rubio facing a golden NFL opportunity](https://stillcurtain.com/pittsburgh-steelers-sebastian-joseph-day-injury-leaves-gabriel-rubio-golden-nfl-opportunity-01m5j7djme4b?utm_source=RSS): Still Curtain, 2026-10-22 17:21 UTC
 - [Steelers staffers began planning for their Paris trip — and its logistical obstacles — in June](https://www.post-gazette.com/sports/steelers/2026/10/22/steelers-paris-trip-planning/stories/202610220046): Pittsburgh Post-Gazette, 2026-10-22 17:00 UTC
 - [Steelers could see their playoff odds change dramatically in Week 7](https://stillcurtain.com/pittsburgh-steelers-could-see-playoff-odds-change-dramatically-week-7-01m5hxbbsg5h?utm_source=RSS): Still Curtain, 2026-10-22 16:00 UTC
@@ -150,9 +153,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers fans, unfazed by French unrest, find Paris to be far from terrible](https://www.post-gazette.com/sports/steelers/2026/10/22/steelers-game-fans-paris-protests-riots/stories/202610220044): Pittsburgh Post-Gazette, 2026-10-22 13:00 UTC
 - [Patrick Graham is seeing what Steelers hoped for from Keeanu Benton this season](https://stillcurtain.com/patrick-graham-is-seeing-what-pittsburgh-steelers-hoped-for-from-keeanu-benton-this-season-01m5g4cb88bn?utm_source=RSS): Still Curtain, 2026-10-22 12:00 UTC
 - [Ex-Steelers coach reveals how Browns threw away a potential dynasty in 2018](https://stillcurtain.com/ex-pittsburgh-steelers-coach-reveals-how-browns-threw-away-a-potential-dynasty-in-2018-01m5f4xrg900?utm_source=RSS): Still Curtain, 2026-10-22 11:00 UTC
-- [Two more key Pittsburgh Steelers players pop up with injuries](https://www.pennlive.com/steelers/2026/10/two-more-key-pittsburgh-steelers-players-pop-up-with-injuries.html): PennLive (Nick Farabaugh), 2026-10-22 11:00 UTC
-- [Asked and Answered: Oct. 22](https://www.steelers.com/news/asked-and-answered-oct-22-x1552): Steelers.com (official), 2026-10-22 10:05 UTC
-- [Steelers have every reason to be disappointed by the overhyped 2027 QB class](https://stillcurtain.com/pittsburgh-steelers-have-every-reason-to-be-disappointed-by-the-overhyped-2027-qb-class-01m5a2hawe92?utm_source=RSS): Still Curtain, 2026-10-22 10:00 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
