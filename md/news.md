@@ -1,8 +1,9 @@
 # Steelers News
 
-_Generated 2026-10-24T12:17:15+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T12:16:42+00:00._
+_Generated 2026-10-24T12:34:06+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T12:33:33+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Several Steelers Legends Awaiting Hall Of Fame Get Devastating News](https://www.steelernation.com/2026/10/24/steelers-hall-of-fame-devastating-news): SteelerNation, 2026-10-24 12:20 UTC
 - [Steelers Vs Saints Preview: 5 Keys To Victory In Week 7](https://steelersdepot.com/2026/10/steelers-vs-saints-preview-5-keys-to-victory-in-week-7/): Steelers Depot, 2026-10-24 12:15 UTC
 - [Steelers GameDay Cheat Sheet: Week 7 at New Orleans Saints](https://www.steelcityunderground.com/2026/10/24/steelers-gameday-cheat-sheet-week-7-at-new-orleans-saints/): Steel City Underground, 2026-10-24 12:05 UTC
 - [Troy Fautanu Explains Why Move Back To Left Tackle Even Harder Than Rookie Shift To Right](https://steelersdepot.com/2026/10/troy-fautanu-explains-why-move-back-to-left-tackle-even-harder-than-rookie-shift-to-right/): Steelers Depot, 2026-10-24 12:00 UTC
@@ -54,13 +55,11 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers arrive in Paris for Sunday's game against Saints](https://www.cbsnews.com/pittsburgh/news/steelers-arrive-in-paris-saints-game/): CBS News, 2026-10-23 21:02 UTC
 - [Steelers' Paris Trip Gets Off To An Awkward Start As Mike McCarthy Questions His Own Call](https://www.steelernation.com/2026/10/23/steelers-paris-awkward-mike-mccarthy): SteelerNation, 2026-10-23 20:47 UTC
 - [Steelers' Mike McCarthy Has A Tempting Shortcut As Receiver Injuries Pile Up](https://www.steelernation.com/2026/10/23/steelers-mike-mccarthy-tempting-shortcut): SteelerNation, 2026-10-23 20:13 UTC
-- [Photos: Michael Lewis, Donte Stallworth take on NFL Hail Mary challenge | Saints in Paris](https://www.neworleanssaints.com/photos/michael-lewis-donte-stallworth-nfl-hail-mary-challenge-saints-in-paris-photos-10-23-26): New Orleans Saints | NewOrleansSaints.com, 2026-10-23 19:53 UTC
 - [Steelers' Mike McCarthy Detailed His Risky Paris Bet With Cleveland Waiting](https://www.steelernation.com/2026/10/23/steelers-mike-mccarthy-risky-paris-cleveland): SteelerNation, 2026-10-23 19:36 UTC
 - [Steelers Make Critical Schedule Change Before Paris Trip To Help Players Recover](https://www.steelernation.com/2026/10/23/steelers-critical-schedule-change-paris): SteelerNation, 2026-10-23 19:04 UTC
 - [Carney: Four Key Matchups In Steelers-Saints](https://steelersdepot.com/2026/10/carney-four-key-matchups-in-steelers-saints/): Steelers Depot, 2026-10-23 19:00 UTC
 - [Saints Friday Injury Report: 2026 Week 7 vs. Pittsburgh Steelers](https://www.neworleanssaints.com/news/injury-report-pittsburgh-steelers-vs-new-orleans-saints-2026-nfl-week-7-friday): New Orleans Saints | NewOrleansSaints.com, 2026-10-23 18:45 UTC
 - [French-inspired brunch ideas and Pittsburgh restaurants to try for the Steelers game in Paris](https://triblive.com/sports/steelers/french-inspired-brunch-ideas-and-pittsburgh-restaurants-to-try-for-the-steelers-game-in-paris/): TribLive, 2026-10-23 18:43 UTC
-- [Steelers May Look Into Pro Bowler And Super Bowl Champion To Shore Up Defense](https://www.steelernation.com/2026/10/23/steelers-super-bowl-champion-shore): SteelerNation, 2026-10-23 18:38 UTC
 - [Prisco's Week 7 NFL picks: Lions edge Packers, Steelers top Saints in Paris](https://www.cbssports.com/nfl/news/priscos-week-7-nfl-picks-odds-expert-picks-upsets/): CBS Sports, 2026-10-23 18:34 UTC
 - [Germie Bernard’s production is here to stay for the Steelers](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176721/germie-bernards-production-is-here-to-stay-for-the-steelers-aaron-rodgers): Behind the Steel Curtain, 2026-10-23 18:30 UTC
 - [The Pittsburgh Football Show, Episode 7, Oct. 23, 2026](https://steelersnow.com/the-pittsburgh-football-show-episode-7-oct-23-2026/): Steelers Now, 2026-10-23 17:56 UTC
@@ -94,12 +93,12 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers WR DK Metcalf done with playing overseas](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176800/steelers-wr-dk-metcalf-done-with-playing-overseas): Behind the Steel Curtain, 2026-10-23 14:04 UTC
 - [Steelers' Paris game gets even more unpredictable after weather shakeup](https://stillcurtain.com/pittsburgh-steelers-paris-unpredictable-weather-shakeup-01m5mes3qpbj?utm_source=RSS): Still Curtain, 2026-10-23 14:00 UTC
 - [Steelers safety DeShon Elliott could return Sunday, a year removed from his gruesome injury](https://www.post-gazette.com/sports/steelers/2026/10/23/will-deshon-elliott-play-sunday/stories/202610230028): Pittsburgh Post-Gazette, 2026-10-23 14:00 UTC
+- [Our Defense vs. Their Offense: Pittsburgh Steelers](https://www.canalstreetchronicles.com/new-orleans-saints-discussion/116873/our-defense-vs-their-offense-saints-pittsburgh-steelers-paris-nfl-week-7): Canal Street Chronicles, 2026-10-23 14:00 UTC
 - [Rest, recover and represent Pittsburgh](https://www.steelers.com/news/rest-recover-and-represent-pittsburgh): Steelers.com (official), 2026-10-23 14:00 UTC
 - [T.J. Watt fine, Rico Dowdle questionable to play for Steelers vs. Saints](https://triblive.com/sports/t-j-watt-fine-rico-dowdle-questionable-to-play-for-steelers-vs-saints/): TribLive, 2026-10-23 13:51 UTC
 - [A big deal to play in Paris](https://www.steelers.com/news/a-big-deal-to-play-in-paris): Steelers.com (official), 2026-10-23 13:45 UTC
 - [Daily News & Links: Steelers-Saints Picks; Steelers Arrive in Paris](https://steelersnow.com/daily-news-links-steelers-saints-picks-steelers-arrive-in-paris/): Steelers Now, 2026-10-23 13:30 UTC
 - [After full week of practice, all signs point to DeShon Elliott returning to action for Steelers](https://triblive.com/sports/after-full-week-of-practice-all-signs-point-to-deshon-elliott-returning-to-action-for-steelers/): TribLive, 2026-10-23 13:28 UTC
-- [Five things to know about the New Orleans Saints for Friday, October 23](https://www.neworleanssaints.com/news/five-things-to-know-about-the-new-orleans-saints-steelers-matchup-week-7-friday-october-23): New Orleans Saints | NewOrleansSaints.com, 2026-10-23 13:16 UTC
 - [Steelers Get Good News on Alex Highsmith](https://steelersnow.com/steelers-get-good-news-on-alex-highsmith/): Steelers Now, 2026-10-23 13:09 UTC
 - [Steelers Could Be Without Key Offensive Weapon vs. Saints](https://steelersnow.com/steelers-could-be-without-key-offensive-weapon-vs-saints/): Steelers Now, 2026-10-23 13:00 UTC
 - [Steelers-Saints preview: What to expect from New Orleans’ offense, defense in Week 7](https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176734/steelers-saints-preview-what-to-expect-from-new-orleans-offense-defense-in-week-7): Behind the Steel Curtain, 2026-10-23 13:00 UTC
@@ -153,6 +152,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Patrick Graham is seeing what Steelers hoped for from Keeanu Benton this season](https://stillcurtain.com/patrick-graham-is-seeing-what-pittsburgh-steelers-hoped-for-from-keeanu-benton-this-season-01m5g4cb88bn?utm_source=RSS): Still Curtain, 2026-10-22 12:00 UTC
 - [Ex-Steelers coach reveals how Browns threw away a potential dynasty in 2018](https://stillcurtain.com/ex-pittsburgh-steelers-coach-reveals-how-browns-threw-away-a-potential-dynasty-in-2018-01m5f4xrg900?utm_source=RSS): Still Curtain, 2026-10-22 11:00 UTC
 - [Two more key Pittsburgh Steelers players pop up with injuries](https://www.pennlive.com/steelers/2026/10/two-more-key-pittsburgh-steelers-players-pop-up-with-injuries.html): PennLive (Nick Farabaugh), 2026-10-22 11:00 UTC
+- [Asked and Answered: Oct. 22](https://www.steelers.com/news/asked-and-answered-oct-22-x1552): Steelers.com (official), 2026-10-22 10:05 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

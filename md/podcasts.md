@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-24T12:17:15+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T12:16:56+00:00._
+_Generated 2026-10-24T12:34:06+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T12:33:49+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Truly iconic 🤩](https://www.youtube.com/shorts/UsVOspTYIBQ): Pittsburgh Steelers (official), 2026-10-23 22:54 UTC
@@ -165,7 +165,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Hour 2: Brian Batko Break Down and Around the Shield](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/hour-2-brian-batko-break-down-and-around-the-shield): Steelers Blitz, 2026-10-19 15:00 UTC
 - Podcast: [Steelers INSIDER Jim Wexell Reveals Why Aaron Rodgers’ Comeback Win Changes EVERYTHING #Steelers](https://podcasts.apple.com/us/podcast/steelers-insider-jim-wexell-reveals-why-aaron-rodgers/id1623192893?i=1000797086130): The Steel City Insider (Jim Wexell, 247Sports), 2026-10-19 14:01 UTC
 - Podcast: [Still Celebrating Sloppy Steelers Win? | Steelers Morning Rush](https://podcasts.apple.com/us/podcast/still-celebrating-sloppy-steelers-win-steelers-morning/id1700240934?i=1000797088259): Steelers Afternoon Drive, 2026-10-19 13:59 UTC
-- Podcast: [Steelers Calling for WR Trade - But There Are Rules](https://podcasts.apple.com/us/podcast/steelers-calling-for-wr-trade-but-there-are-rules/id1627248534?i=1000797073700): All Steelers Talk, 2026-10-19 12:26 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
