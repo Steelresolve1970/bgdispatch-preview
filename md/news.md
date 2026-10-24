@@ -1,8 +1,10 @@
 # Steelers News
 
-_Generated 2026-10-24T19:08:28+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T19:07:51+00:00._
+_Generated 2026-10-24T19:19:15+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T19:18:42+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Steelers Get Intriguing Unexpected Update On Top QB Target Ahead Of 2027 NFL Draft](https://www.steelernation.com/2026/10/24/steelers-intriguing-unexpected-update): SteelerNation, 2026-10-24 19:15 UTC
+- [Steelers activate S DeShon Elliott](https://sports.yahoo.com/articles/steelers-activate-deshon-elliott-190539337.html): Yahoo Sports, 2026-10-24 19:05 UTC
 - [‘You Just F—ed Us’: Joe Haden Reflects On Botched Pass Interference Call Against Saints](https://steelersdepot.com/2026/10/you-just-f-ed-us-joe-haden-reflects-on-botched-pass-interference-call-against-saints/): Steelers Depot, 2026-10-24 19:00 UTC
 - [NFL Analyst Says Steelers Would Only Move Alex Highsmith in a Player-for-Player Swap](https://athlonsports.com/nfl/pittsburgh-steelers/nfl-analyst-says-steelers-would-only-move-alex-highsmith-in-a-player-for-player-swap): Athlon Sports, 2026-10-24 19:00 UTC
 - [Steelers Forced To Make Important Brandon Smith Decision After Third Elevation](https://www.steelernation.com/2026/10/24/steelers-important-brandon-smith-decision): SteelerNation, 2026-10-24 18:33 UTC
@@ -48,6 +50,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Saints already have a troubling edge over Steelers ahead of Paris showdown](https://stillcurtain.com/saints-already-have-a-troubling-edge-over-pittsburgh-steelers-ahead-of-paris-showdown-01m5cr7j0wrj?utm_source=RSS): Still Curtain, 2026-10-24 14:00 UTC
 - [Mason McCormick Made a Massive Leadership Move to Help Steelers Rookie Bounce Back](https://athlonsports.com/nfl/pittsburgh-steelers/mason-mccormick-made-a-massive-leadership-move-to-help-steelers-rookie-bounce-back): Athlon Sports, 2026-10-24 14:00 UTC
 - [Steelers to Debut New Uniform Combination in Paris](https://steelersnow.com/steelers-to-debut-new-uniform-combination-in-paris/): Steelers Now, 2026-10-24 13:55 UTC
+- [Pittsburgh Steelers Named as Landing Spot for $92M WR in Blockbuster Move](https://heavy.com/sports/nfl/pittsburgh-steelers/landing-spot-calvin-ridley-blockbuster/): Heavy.com, 2026-10-24 13:45 UTC
 - [Steelers To Wear New Uniform Combination Against Saints](https://steelersdepot.com/2026/10/steelers-to-wear-new-uniform-combination-against-saints/): Steelers Depot, 2026-10-24 13:44 UTC
 - [Steelers Spin: When In Paris](https://steelersdepot.com/2026/10/steelers-spin-when-in-paris/): Steelers Depot, 2026-10-24 13:43 UTC
 - [Steelers' Omar Khan Faces Massive Pressure To Make Another Trade After Insider's Warning](https://www.steelernation.com/2026/10/24/steelers-omar-khan-massive-pressure): SteelerNation, 2026-10-24 13:39 UTC
@@ -65,7 +68,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Patrick Graham has perfect blueprint to erase Saints' rising star Tyler Shough](https://stillcurtain.com/pittsburgh-steelers-patrick-graham-has-perfect-blueprint-to-erase-saints-rising-star-tyler-shough-01m5mkb72fy1?utm_source=RSS): Still Curtain, 2026-10-24 12:00 UTC
 - [NFL Predictions: Will Steelers get back to feeding Jaylen Warren vs. Saints?](https://www.behindthesteelcurtain.com/pittsburgh-steelers-odds/176832/nfl-predictions-will-steelers-get-back-to-feeding-jaylen-warren-vs-saints): Behind the Steel Curtain, 2026-10-24 12:00 UTC
 - [Steelers in Paris: An 'incredible' time](https://www.steelers.com/news/steelers-in-paris-an-incredible-time): Steelers.com (official), 2026-10-24 12:00 UTC
-- [SCI Pipeline '26: Week 8](https://247sports.com/nfl/pittsburgh-steelers/article/steelers-pipeline26-week8-291664822/): 247Sports, 2026-10-24 11:58 UTC
 - [National Analyst Names Steelers’ Most Likely Trade Candidate](https://steelersdepot.com/2026/10/national-analyst-names-steelers-most-likely-trade-candidate/): Steelers Depot, 2026-10-24 11:45 UTC
 - [The Steelers Can Set A Franchise First With A Win Sunday](https://steelersdepot.com/2026/10/the-steelers-can-set-a-franchise-first-with-a-win-sunday/): Steelers Depot, 2026-10-24 11:30 UTC
 - [Steelers vs. Saints picks: Still Curtain panel predicts an uphill battle](https://stillcurtain.com/pittsburgh-steelers-vs-saints-picks-still-curtain-panel-predicts-an-uphill-battle-01m5a27wa79q?utm_source=RSS): Still Curtain, 2026-10-24 11:00 UTC
@@ -75,7 +77,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers have two obvious keys to taking down the Saints this week](https://stillcurtain.com/pittsburgh-steelers-have-two-obvious-keys-to-taking-down-the-saints-this-week-01m5hyt9dzh2?utm_source=RSS): Still Curtain, 2026-10-24 10:00 UTC
 - [Pittsburgh Steelers huge boost with injury news on three star players before Saints game](https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-huge-boost-with-injury-news-on-three-star-players-before-saints-game.html): PennLive (Nick Farabaugh), 2026-10-24 09:00 UTC
 - [As the Steelers play the first game in Paris, what is the NFL’s international endgame here?](https://www.post-gazette.com/sports/steelers/2026/10/24/nfl-international-games-future/stories/202610230034): Pittsburgh Post-Gazette, 2026-10-24 08:00 UTC
-- [Steelers' Bold Strategy May Just Be A Ticking Time Bomb That Will Explode Into More Injuries](https://www.steelernation.com/2026/10/23/steelers-bold-strategy-time-bomb): SteelerNation, 2026-10-24 00:54 UTC
 - [‘They’re everywhere’: Steelers Nation takes over Paris as fans turn City of Light into City of Black and Gold](https://triblive.com/sports/theyre-everywhere-steelers-nation-takes-over-paris-as-fans-turn-city-of-light-into-city-of-black-and-gold/): TribLive, 2026-10-24 00:05 UTC
 - [The NFL Report talks Paris matchup between the Pittsburgh Steelers and the New Orleans Saints](https://www.nfl.com/videos/the-nfl-report-talks-paris-matchup-between-the-steelers-and-the-saints): NFL.com, 2026-10-23 23:43 UTC
 - [The best soccer/NFL crossover jerseys as PSG unveil kit for Steelers vs. Saints in Paris](https://www.espn.com/soccer/story/_/id/50225836/the-best-soccer-nfl-crossover-jerseys-psg-kit-pittsburgh-steelers-new-orleans-saints-paris-game): ESPN, 2026-10-23 23:43 UTC
@@ -152,7 +153,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers staffers began planning for their Paris trip — and its logistical obstacles — in June](https://www.post-gazette.com/sports/steelers/2026/10/22/steelers-paris-trip-planning/stories/202610220046): Pittsburgh Post-Gazette, 2026-10-22 17:00 UTC
 - [Steelers could see their playoff odds change dramatically in Week 7](https://stillcurtain.com/pittsburgh-steelers-could-see-playoff-odds-change-dramatically-week-7-01m5hxbbsg5h?utm_source=RSS): Still Curtain, 2026-10-22 16:00 UTC
 - [Steelers place Joseph-Day on Reserve/Injured List](https://www.steelers.com/news/steelers-place-joseph-day-on-reserve-injured-list): Steelers.com (official), 2026-10-22 15:45 UTC
-- [Steelers owner Art Rooney II says the NFL will have heightened security in Paris, but ‘they don’t seem to be concerned’](https://www.post-gazette.com/sports/steelers/2026/10/22/nfl-paris-game-protests-security-measures/stories/202610220043): Pittsburgh Post-Gazette, 2026-10-22 14:41 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

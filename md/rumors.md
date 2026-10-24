@@ -1,12 +1,14 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-24T19:08:28+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T19:08:22+00:00._
+_Generated 2026-10-24T19:19:15+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T19:19:09+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Steelers Rumors: Should Pittsburgh Trade Patrick Queen to Cowboys?](https://www.chatsports.com/pittsburgh-steelers/a/steelers-rumors-should-pittsburgh-trade-patrick-queen-cowboys-53601): Chat Sports, first seen 2026-10-24 19:08 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Three Non-WR Positions The Steelers Could Trade For](https://steelersdepot.com/2026/10/three-non-wr-positions-the-steelers-could-trade-for/): Steelers Depot, first seen 2026-10-24 16:36 UTC
+- **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
+  [Report: Chiefs, Steelers show interest in Jaguars WR Brian Thomas Jr. ahead of trade deadline](https://bolavip.com/en/nfl/report-chiefs-steelers-show-interest-in-jaguars-wr-brian-thomas-jr-ahead-of-trade-deadline): Bolavip US, first seen 2026-10-24 19:19 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Steelers' Brian Thomas Jr Trade Buzz Takes A Huge Step Forward Ahead Of Week 7](https://www.steelernation.com/2026/10/24/steelers-brian-thomas-jr-huge-step): SteelerNation, first seen 2026-10-24 16:14 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog

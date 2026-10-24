@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-24T19:08:28+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T19:08:11+00:00._
+_Generated 2026-10-24T19:19:15+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T19:18:59+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Steelers fans encounter police getting ready for protesters](https://www.youtube.com/shorts/lxzhbaIZNu8): Nick Farabaugh on PennLive, 2026-10-24 18:08 UTC
@@ -9,6 +9,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Burgh Bets with Bob Konarski: NFL and CFB Picks and Props for Week 7 | THE PITTSBURGH FOOTBALL SHOW](https://www.youtube.com/watch?v=YwFPjIRVICM): Steelers Now, 2026-10-24 14:18 UTC
 - Video: [Steelers Insider featuring Mike McCarthy: Week 7 at Saints in Paris | Pittsburgh Steelers](https://www.youtube.com/watch?v=_vNjXJpcPiA): Pittsburgh Steelers (official), 2026-10-24 13:38 UTC
 - Video: [Truly iconic 🤩](https://www.youtube.com/shorts/UsVOspTYIBQ): Pittsburgh Steelers (official), 2026-10-23 22:54 UTC
+- Podcast: [Saints Preview & Predictions | Steelers Afternoon Drive](https://podcasts.apple.com/us/podcast/saints-preview-predictions-steelers-afternoon-drive/id1700240934?i=1000797851889): Steelers Afternoon Drive, 2026-10-23 21:59 UTC
 - Video: [Saints Preview & Predictions | Steelers Afternoon Drive](https://www.youtube.com/watch?v=voEIPYX3YNw): Steelers Now, 2026-10-23 21:57 UTC
 - Video: [THE PITTSBURGH FOOTBALL SHOW, Episode 7, Oct. 23, 2026](https://www.youtube.com/watch?v=m3oM_Pej1Tk): Steelers Now, 2026-10-23 21:51 UTC
 - Podcast: [Steelers RB Injured | Aaron Rodgers Fires Back at Paris Trip](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-23 21:12 UTC
@@ -157,7 +158,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [The Mike McCarthy Weekly Press Conference Recap: Week 6 vs. Buccaneers](https://podcasts.apple.com/us/podcast/the-mike-mccarthy-weekly-press-conference-recap-week/id905962218?i=1000797806028): Steel Curtain Network (BTSC), 2026-10-19 19:50 UTC
 - Podcast: [Steelers Save Their Best for Last in Overtime Win in Tampa](https://www.steelcityunderground.com/podcast/2026/10/steelers-save-their-best-for-last-in-overtime-win-in-tampa/): Steel City Underground, 2026-10-19 19:40 UTC
 - Podcast: [Only the Steelers Can Make Winning Look So Ugly | Illegal Hands to the Face](https://redcircle.com/shows/62750d24-c3c9-4be8-919a-ff22b312fb19/episodes/a9b49b24-c6aa-4e45-9d33-504a994fcfb4): Still Curtain Podcast, 2026-10-19 19:38 UTC
-- Video: [Steelers' QB Grades vs Bucs](https://www.youtube.com/shorts/fJ6q0C9RHys): Steelers Almighty, 2026-10-19 19:18 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
