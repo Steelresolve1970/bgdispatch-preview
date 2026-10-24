@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T13:04:50.006413+00:00",
+ "generated": "2026-10-24T15:04:16.303147+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -85,9 +85,10 @@
    "first_seen": "2026-10-24T10:08:05.155041+00:00",
    "consensus": {
     "cluster_id": "14ffc5da6c16",
-    "independent_sources": 2,
+    "independent_sources": 3,
     "sources": [
      "Heavy.com",
+     "Wisconsin Sports Heroics",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
@@ -95,6 +96,7 @@
     "related_ids": [
      "85d6f65ebcd2",
      "794b3684899f",
+     "173465376593",
      "14ffc5da6c16"
     ]
    },
@@ -118,9 +120,10 @@
    "first_seen": "2026-10-23T16:52:38.787518+00:00",
    "consensus": {
     "cluster_id": "14ffc5da6c16",
-    "independent_sources": 2,
+    "independent_sources": 3,
     "sources": [
      "Heavy.com",
+     "Wisconsin Sports Heroics",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
@@ -128,6 +131,7 @@
     "related_ids": [
      "5d585445ee02",
      "794b3684899f",
+     "173465376593",
      "14ffc5da6c16"
     ]
    },
@@ -756,16 +760,13 @@
    "first_seen": "2026-10-21T20:52:51.041805+00:00",
    "consensus": {
     "cluster_id": "28359084a15f",
-    "independent_sources": 2,
+    "independent_sources": 1,
     "sources": [
-     "Steeler Nation",
      "SteelerNation"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": [
-     "de85e8c040f7"
-    ]
+    "related_ids": []
    },
    "updated": "2026-10-21T20:52:51.041805+00:00"
   },
@@ -865,9 +866,10 @@
    "first_seen": "2026-10-21T13:05:41.045260+00:00",
    "consensus": {
     "cluster_id": "14ffc5da6c16",
-    "independent_sources": 2,
+    "independent_sources": 3,
     "sources": [
      "Heavy.com",
+     "Wisconsin Sports Heroics",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
@@ -875,6 +877,7 @@
     "related_ids": [
      "5d585445ee02",
      "85d6f65ebcd2",
+     "173465376593",
      "14ffc5da6c16"
     ]
    },
@@ -973,9 +976,10 @@
    "first_seen": "2026-10-21T00:34:42.545004+00:00",
    "consensus": {
     "cluster_id": "14ffc5da6c16",
-    "independent_sources": 2,
+    "independent_sources": 3,
     "sources": [
      "Heavy.com",
+     "Wisconsin Sports Heroics",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
@@ -983,7 +987,8 @@
     "related_ids": [
      "5d585445ee02",
      "85d6f65ebcd2",
-     "794b3684899f"
+     "794b3684899f",
+     "173465376593"
     ]
    },
    "updated": "2026-10-21T00:34:42.545004+00:00"
@@ -1089,16 +1094,13 @@
    "first_seen": "2026-10-20T19:27:54.888121+00:00",
    "consensus": {
     "cluster_id": "b54dd8fd8410",
-    "independent_sources": 2,
+    "independent_sources": 1,
     "sources": [
-     "Steeler Nation",
      "SteelerNation"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": [
-     "405f68f18baa"
-    ]
+    "related_ids": []
    },
    "updated": "2026-10-20T19:27:54.888121+00:00"
   },

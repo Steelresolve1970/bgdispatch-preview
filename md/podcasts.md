@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-24T13:04:56+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T13:04:38+00:00._
+_Generated 2026-10-24T15:04:23+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T15:04:02+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Video: [Steelers Insider featuring Mike McCarthy: Week 7 at Saints in Paris | Pittsburgh Steelers](https://www.youtube.com/watch?v=_vNjXJpcPiA): Pittsburgh Steelers (official), 2026-10-24 13:38 UTC
 - Video: [Truly iconic 🤩](https://www.youtube.com/shorts/UsVOspTYIBQ): Pittsburgh Steelers (official), 2026-10-23 22:54 UTC
 - Video: [Saints Preview & Predictions | Steelers Afternoon Drive](https://www.youtube.com/watch?v=voEIPYX3YNw): Steelers Now, 2026-10-23 21:57 UTC
 - Video: [THE PITTSBURGH FOOTBALL SHOW, Episode 7, Oct. 23, 2026](https://www.youtube.com/watch?v=m3oM_Pej1Tk): Steelers Now, 2026-10-23 21:51 UTC
@@ -78,7 +79,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [STEELERS SQUAD SHOW: Offense MUST Improve as Jaylen Warren, Aaron Rodgers Prepare for Saints & Paris](https://podcasts.apple.com/us/podcast/steelers-squad-show-offense-must-improve-as-jaylen/id1140522532?i=1000797534707): Locked On Steelers, 2026-10-22 01:33 UTC
 - Podcast: [Steelers Night Shift: Week 7 vs. New Orleans Saints](https://podcasts.apple.com/us/podcast/steelers-night-shift-week-7-vs-new-orleans-saints/id1700240934?i=1000797530079): Steelers Afternoon Drive, 2026-10-22 00:37 UTC
 - Video: [Getting DK Metcalf Going? | Steelers Practice Report](https://www.youtube.com/watch?v=tOh3UND3O0A): Steelers Now, 2026-10-21 23:25 UTC
-- Video: [Sights & Sounds: Week 6 Win at Tampa Bay Buccaneers | Pittsburgh Steelers](https://www.youtube.com/watch?v=Trzxzx_RfSs): Pittsburgh Steelers (official), 2026-10-21 23:00 UTC
 - Podcast: [DK’s Double Shot of Steelers: Almost Paris!](https://podcasts.apple.com/us/podcast/dks-double-shot-of-steelers-almost-paris/id1072021022?i=1000797519495): DK Pittsburgh Sports, 2026-10-21 22:10 UTC
 - Video: [Can MVS Play Right Away? | Steelers Afternoon Drive](https://www.youtube.com/watch?v=HGSOYSj-8n0): Steelers Now, 2026-10-21 22:04 UTC
 - Podcast: [Can MVS Play Right Away? | Steelers Afternoon Drive](https://podcasts.apple.com/us/podcast/can-mvs-play-right-away-steelers-afternoon-drive/id1700240934?i=1000797512443): Steelers Afternoon Drive, 2026-10-21 22:03 UTC
@@ -99,7 +99,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Time to Believe in One Steelers Player](https://podcasts.apple.com/us/podcast/time-to-believe-in-one-steelers-player/id1627248534?i=1000797435986): All Steelers Talk, 2026-10-21 12:18 UTC
 - Video: [Steelers' ST Grades vs Bucs](https://www.youtube.com/shorts/w_S8QFbmZHE): Steelers Almighty, 2026-10-21 11:24 UTC
 - Video: [Germie Bernard's First NFL Touchdown, Rookie Wall, Paris Preview & More! | Not Just Football](https://www.youtube.com/watch?v=gYn6X7Mzibw): Not Just Football with Cam Heyward, 2026-10-21 10:00 UTC
-- Podcast: [Germie Bernard's First NFL Touchdown, Rookie Wall, Paris Preview & More! | Not Just Football](https://podcasts.apple.com/us/podcast/germie-bernards-first-nfl-touchdown-rookie-wall-paris/id1633134223?i=1000797421041): Not Just Football with Cam Heyward, 2026-10-21 10:00 UTC
+- Podcast: [Germie Bernard's First NFL Touchdown, Rookie Wall, Paris Preview & More! | Not Just Football](https://www.youtube.com/@NotJustFootballwithCamHeyward): Not Just Football with Cam Heyward, 2026-10-21 10:00 UTC
 - Podcast: [Pittsburgh Steelers Gabriel Rubio Interview](https://arthurmoats55.libsyn.com/gabriel_rubio_yttmp3): The Arthur Moats Experience, 2026-10-21 09:52 UTC
 - Podcast: [Let's Ride: Know Your Steelers Enemy, Week 7 vs. the Saints](https://podcasts.apple.com/us/podcast/lets-ride-know-your-steelers-enemy-week-7-vs-the-saints/id905962218?i=1000797806026): Steel Curtain Network (BTSC), 2026-10-21 08:00 UTC
 - Video: [Steelers' Chameleon Defensive Scheme w/Patrick Graham Aids Weekly Adjustments | DeShon Elliott Back?](https://www.youtube.com/watch?v=2tQov8n-Txw): Locked On Steelers, 2026-10-21 06:00 UTC
@@ -163,8 +163,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Not many linebackers can do what he did with a Tom Brady pass 🤯🔥#patriots #tombrady #nfl](https://www.youtube.com/shorts/YKPK-rOYb1Q): Not Just Football with Cam Heyward, 2026-10-19 16:00 UTC
 - Podcast: [Hour 1: A Takeover in Tampa](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-101926-mp3): Steelers Blitz, 2026-10-19 16:00 UTC
 - Podcast: [Hour 2: Brian Batko Break Down and Around the Shield](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/hour-2-brian-batko-break-down-and-around-the-shield): Steelers Blitz, 2026-10-19 15:00 UTC
-- Podcast: [Steelers INSIDER Jim Wexell Reveals Why Aaron Rodgers’ Comeback Win Changes EVERYTHING #Steelers](https://podcasts.apple.com/us/podcast/steelers-insider-jim-wexell-reveals-why-aaron-rodgers/id1623192893?i=1000797086130): The Steel City Insider (Jim Wexell, 247Sports), 2026-10-19 14:01 UTC
-- Podcast: [Still Celebrating Sloppy Steelers Win? | Steelers Morning Rush](https://podcasts.apple.com/us/podcast/still-celebrating-sloppy-steelers-win-steelers-morning/id1700240934?i=1000797088259): Steelers Afternoon Drive, 2026-10-19 13:59 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

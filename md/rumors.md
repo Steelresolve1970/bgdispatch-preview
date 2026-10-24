@@ -1,13 +1,13 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-24T13:04:56+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T13:04:50+00:00._
+_Generated 2026-10-24T15:04:23+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T15:04:16+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [National Analyst Names Steelers Most Likely Trade Candidate](https://steelersdepot.com/2026/10/national-analyst-names-steelers-most-likely-trade-candidate/): Steelers Depot, first seen 2026-10-24 11:49 UTC
-- **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
+- **Rumor** · tier: National insider · consensus: 3 source(s), top tier National insider
   [Steelers’ Latest Trade Buzz Would Add Another Weapon for Aaron Rodgers](https://sports.yahoo.com/articles/steelers-latest-trade-buzz-add-184548332.html): Yahoo Sports, first seen 2026-10-24 10:08 UTC
-- **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
+- **Rumor** · tier: National insider · consensus: 3 source(s), top tier National insider
   [Steelers bring back Aaron Rodgers’ former Packers target after Chargers release](https://sports.yahoo.com/articles/steelers-bring-back-aaron-rodgers-160000327.html): Yahoo Sports, first seen 2026-10-23 16:52 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [Steelers could be a dark horse trade destination for Jaguars' Brian Thomas Jr.](https://blackandteal.com/steelers-could-be-a-dark-horse-trade-destination-for-jaguars-brian-thomas-jr-trai-essex): Black and Teal, first seen 2026-10-23 15:18 UTC
@@ -51,7 +51,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Steelers Rumors: Latest NFL Trade Intel on Jessie Bates and Derwin James](https://www.chatsports.com/pittsburgh-steelers/a/steelers-rumors-latest-nfl-trade-intel-jessie-bates-and-derwin-james-53472): Chat Sports, first seen 2026-10-21 22:30 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [Elliott returns to full practice, full injury report](https://www.audacy.com/937thefan/sports/pittsburgh-steelers/elliott-returns-to-full-practice-full-injury-report): Audacy, first seen 2026-10-21 22:08 UTC
-- **Rumor** · tier: Fan blog · consensus: 2 source(s), top tier Fan blog
+- **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Steelers' Omar Khan Gets Strong Warning About Dangerous Trade Deadline Strategy](https://www.steelernation.com/2026/10/21/steelers-omar-khan-strong-warning): SteelerNation, first seen 2026-10-21 20:52 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [A new wide receiver trade rumor is picking up steam after the Steelers got an up-close look during recent matchup](https://atozsports.com/nfl/pittsburgh-steelers-news/steelers-wr-trade-rumors-chris-godwin-emerges-as-target-after-bucs-game/): A to Z Sports, first seen 2026-10-21 17:35 UTC
@@ -59,13 +59,13 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Fantasy Football Players Need To Target Steelers WR Germie Bernard On The Trade Block](https://www.si.com/onsi/fantasy/trade-analysis/fantasy-football-players-need-to-target-steelers-wr-germie-bernard-on-the-trade-block): Sports Illustrated, first seen 2026-10-21 17:46 UTC
 - **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
   [Steelers Must Avoid This Veteran WR Trade Target](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-must-avoid-veteran-trade-target-chris-godwin): Sports Illustrated, first seen 2026-10-21 16:33 UTC
-- **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
+- **Rumor** · tier: National insider · consensus: 3 source(s), top tier National insider
   [Aaron Rodgers reportedly eyes Buccaneers WR as potential trade target for the Steelers](https://sports.yahoo.com/articles/aaron-rodgers-reportedly-eyes-buccaneers-114842350.html): Yahoo Sports, first seen 2026-10-21 13:05 UTC
 - **Rumor** · tier: Beat writer / team · consensus: 8 source(s), top tier National insider
   [First Call: Steelers’ WR trade speculation; Najee Harris out in New York; big hockey win for RMU at Penn State](https://triblive.com/sports/first-call-steelers-wr-trade-speculation-najee-harris-may-be-out-in-new-york-big-hockey-win-for-rmu-at-penn-state/): TribLive, first seen 2026-10-21 15:49 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [Trade Rumors: 49ers, Mack, Godwin, Bucs, Steelers, Bills, Bennett, Rams](https://www.profootballrumors.com/2026/10/trade-rumors-49ers-mack-godwin-buccaneers-steelers-bills-bennett-rams): ProFootballRumors.com, first seen 2026-10-21 04:50 UTC
-- **Rumor** · tier: Aggregator / other · consensus: 2 source(s), top tier National insider
+- **Rumor** · tier: Aggregator / other · consensus: 3 source(s), top tier National insider
   [Aaron Rodgers Reportedly Has ‘Favorite’ WR Trade Target](https://heavy.com/sports/nfl/pittsburgh-steelers/aaron-rodgers-favorite-wr-trade-target/): Heavy.com, first seen 2026-10-21 00:34 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Steelers Rumors: Could Davante Adams Be a Trade Target?](https://www.chatsports.com/pittsburgh-steelers/a/steelers-rumors-could-davante-adams-be-trade-target-53435): Chat Sports, first seen 2026-10-21 00:05 UTC
@@ -73,7 +73,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Steelers Linked To A Slew Of All-Pros With Trade Deadline Quickly Approaching](https://www.steelernation.com/2026/10/20/steelers-trade-deadline-quickly): SteelerNation, first seen 2026-10-20 23:11 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Steelers Linked To Intriguing Chris Godwin Jr Trade After Buccaneers Win](https://www.steelernation.com/2026/10/20/steelers-intriguing-chris-godwin-trade): SteelerNation, first seen 2026-10-20 20:00 UTC
-- **Rumor** · tier: Fan blog · consensus: 2 source(s), top tier Fan blog
+- **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Report Detailed Exactly What Steelers Are Looking For At The Trade Deadline](https://www.steelernation.com/2026/10/20/steelers-detailed-exactly-deadline): SteelerNation, first seen 2026-10-20 19:27 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 2 source(s), top tier Aggregator / other
   [Steelers’ $12 Million Playmaker Named Trade Candidate After Strong Week 6](https://heavy.com/sports/nfl/pittsburgh-steelers/steelers-rico-dowdle-trade-candidate-jaylen-warren/): Heavy.com, first seen 2026-10-20 17:54 UTC

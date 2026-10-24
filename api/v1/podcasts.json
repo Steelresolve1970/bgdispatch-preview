@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-24T13:04:56+00:00",
- "data_updated": "2026-10-24T13:04:38+00:00",
- "count": 162,
+ "generated": "2026-10-24T15:04:23+00:00",
+ "data_updated": "2026-10-24T15:04:02+00:00",
+ "count": 160,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -19,6 +19,19 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/podcasts",
  "items": [
+  {
+   "id": "a5788d99407472c3",
+   "type": "video",
+   "title": "Steelers Insider featuring Mike McCarthy: Week 7 at Saints in Paris | Pittsburgh Steelers",
+   "show": "Pittsburgh Steelers (official)",
+   "url": "https://www.youtube.com/watch?v=_vNjXJpcPiA",
+   "published": "2026-10-24T13:38:25+00:00",
+   "summary": "Video from Pittsburgh Steelers (official).",
+   "source": {
+    "name": "Pittsburgh Steelers (official)",
+    "url": null
+   }
+  },
   {
    "id": "a0703777a03a4c5a",
    "type": "video",
@@ -995,19 +1008,6 @@
    }
   },
   {
-   "id": "0e0dae5c67fc37dd",
-   "type": "video",
-   "title": "Sights & Sounds: Week 6 Win at Tampa Bay Buccaneers | Pittsburgh Steelers",
-   "show": "Pittsburgh Steelers (official)",
-   "url": "https://www.youtube.com/watch?v=Trzxzx_RfSs",
-   "published": "2026-10-21T23:00:10+00:00",
-   "summary": "Video from Pittsburgh Steelers (official).",
-   "source": {
-    "name": "Pittsburgh Steelers (official)",
-    "url": null
-   }
-  },
-  {
    "id": "058f32e1f64f7941",
    "type": "podcast_episode",
    "title": "DK’s Double Shot of Steelers: Almost Paris!",
@@ -1268,11 +1268,11 @@
    }
   },
   {
-   "id": "0b911ab61dc492c9",
+   "id": "2ed6132323e2d6f6",
    "type": "podcast_episode",
    "title": "Germie Bernard's First NFL Touchdown, Rookie Wall, Paris Preview & More! | Not Just Football",
    "show": "Not Just Football with Cam Heyward",
-   "url": "https://podcasts.apple.com/us/podcast/germie-bernards-first-nfl-touchdown-rookie-wall-paris/id1633134223?i=1000797421041",
+   "url": "https://www.youtube.com/@NotJustFootballwithCamHeyward",
    "published": "2026-10-21T10:00:00+00:00",
    "summary": "Podcast episode from Not Just Football with Cam Heyward.",
    "source": {
@@ -2096,32 +2096,6 @@
    "summary": "Podcast episode from Steelers Blitz.",
    "source": {
     "name": "Steelers Blitz",
-    "url": null
-   }
-  },
-  {
-   "id": "fe01a90b4885e246",
-   "type": "podcast_episode",
-   "title": "Steelers INSIDER Jim Wexell Reveals Why Aaron Rodgers’ Comeback Win Changes EVERYTHING #Steelers",
-   "show": "The Steel City Insider (Jim Wexell, 247Sports)",
-   "url": "https://podcasts.apple.com/us/podcast/steelers-insider-jim-wexell-reveals-why-aaron-rodgers/id1623192893?i=1000797086130",
-   "published": "2026-10-19T14:01:09+00:00",
-   "summary": "Podcast episode from The Steel City Insider (Jim Wexell, 247Sports).",
-   "source": {
-    "name": "The Steel City Insider (Jim Wexell, 247Sports)",
-    "url": null
-   }
-  },
-  {
-   "id": "bf13b9dd8d9eb53f",
-   "type": "podcast_episode",
-   "title": "Still Celebrating Sloppy Steelers Win? | Steelers Morning Rush",
-   "show": "Steelers Afternoon Drive",
-   "url": "https://podcasts.apple.com/us/podcast/still-celebrating-sloppy-steelers-win-steelers-morning/id1700240934?i=1000797088259",
-   "published": "2026-10-19T13:59:00+00:00",
-   "summary": "Podcast episode from Steelers Afternoon Drive.",
-   "source": {
-    "name": "Steelers Afternoon Drive",
     "url": null
    }
   }
