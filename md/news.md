@@ -1,8 +1,9 @@
 # Steelers News
 
-_Generated 2026-10-24T15:41:25+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T15:40:47+00:00._
+_Generated 2026-10-24T15:52:10+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T15:51:39+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Steelers Versus Saints: Week Seven Projected Inactive List](https://steelersdepot.com/2026/10/steelers-versus-saints-week-seven-projected-inactive-list/): Steelers Depot, 2026-10-24 15:41 UTC
 - [Steelers Vs Saints X Factor: WR Germie Bernard](https://steelersdepot.com/2026/10/steelers-vs-saints-x-factor-wr-germie-bernard/): Steelers Depot, 2026-10-24 15:30 UTC
 - [Noah Hiles: Why the Steelers missed a big opportunity by traveling to Paris this late](https://www.post-gazette.com/sports/steelers/2026/10/24/nfl-paris-game-steelers-travel/stories/202610240010): Pittsburgh Post-Gazette, 2026-10-24 15:00 UTC
 - [Steelers Elevate Receivers, Elliott Back for Paris](https://www.audacy.com/937thefan/sports/pittsburgh-steelers/steelers-elevate-receivers-elliott-back-for-paris): Audacy, 2026-10-24 14:59 UTC
@@ -61,7 +62,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [‘They’re everywhere’: Steelers Nation takes over Paris as fans turn City of Light into City of Black and Gold](https://triblive.com/sports/theyre-everywhere-steelers-nation-takes-over-paris-as-fans-turn-city-of-light-into-city-of-black-and-gold/): TribLive, 2026-10-24 00:05 UTC
 - [‘That Plane Ride Sucked:’ Several Steelers Unhappy With Team’s Travel Plan, Says Former Teammate](https://steelersdepot.com/2026/10/that-plane-ride-sucked-several-steelers-unhappy-with-teams-travel-plan-says-former-teammate/): Steelers Depot, 2026-10-24 00:04 UTC
 - [Steelers vs. Saints set for first NFL game in Paris | Black & Gold Primetime](https://www.wtae.com/article/steelers-saints-paris/74229293): WTAE, 2026-10-24 00:02 UTC
-- [Kaboly Explains Why Steelers Potentially Trading For WR Chris Godwin ‘Makes No Sense’](https://steelersdepot.com/2026/10/kaboly-explains-why-steelers-potentially-trading-for-wr-chris-godwin-makes-no-sense/): Steelers Depot, 2026-10-24 00:00 UTC
 - [The NFL Report talks Paris matchup between the Pittsburgh Steelers and the New Orleans Saints](https://www.nfl.com/videos/the-nfl-report-talks-paris-matchup-between-the-steelers-and-the-saints): NFL.com, 2026-10-23 23:43 UTC
 - [The best soccer/NFL crossover jerseys as PSG unveil kit for Steelers vs. Saints in Paris](https://www.espn.com/soccer/story/_/id/50225836/the-best-soccer-nfl-crossover-jerseys-psg-kit-pittsburgh-steelers-new-orleans-saints-paris-game): ESPN, 2026-10-23 23:43 UTC
 - [Steelers Rookie Germie Bernard Reveals Impressive Trait After Costly Mistake In Week 6](https://www.steelernation.com/2026/10/23/steelers-rookie-germie-bernard-impressive): SteelerNation, 2026-10-23 23:13 UTC
