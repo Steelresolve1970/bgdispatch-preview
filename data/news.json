@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T18:35:29.991657+00:00",
+ "generated": "2026-10-24T18:46:18.202377+00:00",
  "count": 150,
  "sources": [
   {
@@ -29,8 +29,8 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
-   "steelers_items": 0
+   "status": "ok",
+   "steelers_items": 24
   },
   {
    "source": "Still Curtain",
@@ -72,7 +72,7 @@
    "source": "Yahoo Sports",
    "url": "https://sports.yahoo.com/nfl/rss/",
    "status": "ok",
-   "steelers_items": 0
+   "steelers_items": 1
   },
   {
    "source": "Google News",
@@ -113,6 +113,14 @@
    "published": "2026-10-24T18:33:43+00:00",
    "summary": "News story from SteelerNation. Full report at the original publisher.",
    "id": "3d217bb416"
+  },
+  {
+   "title": "Pittsburgh Steelers vs. New Orleans Saints: How to watch the NFL international game, start time, where to stream and more",
+   "source": "Yahoo Sports",
+   "link": "https://sports.yahoo.com/nfl/article/pittsburgh-steelers-vs-new-orleans-saints-how-to-watch-the-nfl-international-game-start-time-where-to-stream-and-more-183000309.html",
+   "published": "2026-10-24T18:30:00+00:00",
+   "summary": "Game story from Yahoo Sports. Full report at the original publisher.",
+   "id": "46b36575b7"
   },
   {
    "title": "Steelers to Introduce New Addition to Uniform in Paris vs. Saints",
@@ -263,15 +271,6 @@
    "id": "46cab10ccb"
   },
   {
-   "title": "3 Make-or-Break Steelers in Week 7 vs. Saints",
-   "source": "Athlon Sports",
-   "link": "https://athlonsports.com/nfl/pittsburgh-steelers/3-make-or-break-steelers-in-week-7-vs-saints",
-   "published": "2026-10-24T16:00:00+00:00",
-   "via": "Google News",
-   "summary": "Game story from Athlon Sports. Full report at the original publisher.",
-   "id": "af7071e5d1"
-  },
-  {
    "title": "Steelers safety DeShon Elliott is expected to make his season debut against the Saints in Paris",
    "source": "Pittsburgh Post-Gazette",
    "link": "https://www.post-gazette.com/sports/steelers/2026/10/24/deshon-elliott-injury-update-steelers/stories/202610240043",
@@ -394,15 +393,6 @@
    "published": "2026-10-24T14:38:44+00:00",
    "summary": "Game story from Steelers Depot. Full report at the original publisher.",
    "id": "dfe3a4a9d9"
-  },
-  {
-   "title": "Steelers Get Starting Safety Back From IR",
-   "source": "All Steelers (Sports Illustrated)",
-   "link": "https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-starting-safety-deshon-elliott-back-injured-reserve",
-   "published": "2026-10-24T14:37:37+00:00",
-   "summary": "Injury story from All Steelers (Sports Illustrated). Full report at the original publisher.",
-   "via": "Google News",
-   "id": "1f0b767f0b"
   },
   {
    "title": "Steelers Activate Safety DeShon Elliott To 53-Man Roster In Boost To Pittsburgh\u2019s Secondary",
@@ -568,6 +558,14 @@
    "published": "2026-10-24T12:15:13+00:00",
    "summary": "Game story from Steelers Depot. Full report at the original publisher.",
    "id": "0a04910409"
+  },
+  {
+   "title": "Steelers GameDay Cheat Sheet: Week 7 at New Orleans Saints",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/24/steelers-gameday-cheat-sheet-week-7-at-new-orleans-saints/",
+   "published": "2026-10-24T12:05:57+00:00",
+   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
+   "id": "8695f97ba7"
   },
   {
    "title": "Troy Fautanu Explains Why Move Back To Left Tackle Even Harder Than Rookie Shift To Right",
@@ -1082,6 +1080,14 @@
    "id": "b6a691e9e3"
   },
   {
+   "title": "Steelers to Watch: Five players who could make the difference against the Saints",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/23/steelers-to-watch-five-players-who-could-make-the-difference-against-the-saints/",
+   "published": "2026-10-23T12:04:25+00:00",
+   "summary": "News story from Steel City Underground. Full report at the original publisher.",
+   "id": "79aa9e2ca3"
+  },
+  {
    "title": "4 NFL bottom feeders could give Steelers a trade deadline advantage",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/4-nfl-bottom-feeders-could-give-pittsburgh-steelers-a-trade-deadline-advantage-01m5j23dryvq?utm_source=RSS",
@@ -1322,14 +1328,6 @@
    "published": "2026-10-22T14:41:14+00:00",
    "summary": "News story from Pittsburgh Post-Gazette. Full report at the original publisher.",
    "id": "969bc8b849"
-  },
-  {
-   "title": "Ray Fittipaldo's Steelers chat transcript: 10.22.26",
-   "source": "Pittsburgh Post-Gazette",
-   "link": "https://www.post-gazette.com/sports/steelers/2026/10/22/live-steelers-chat/stories/202610220045",
-   "published": "2026-10-22T14:30:00+00:00",
-   "summary": "News story from Pittsburgh Post-Gazette. Full report at the original publisher.",
-   "id": "80c2c82e00"
   }
  ],
  "dropped_bad_links": 0
