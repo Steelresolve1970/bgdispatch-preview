@@ -1,6 +1,6 @@
 # Steelers Film Room & Previews
 
-_Generated 2026-10-24T20:56:49+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T20:56:20+00:00._
+_Generated 2026-10-24T21:07:39+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T21:07:09+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/film.json_
 
 - Breakdown (at Tampa Bay Buccaneers (Oct 18)): [DB’s Steelers Film Room: Jamel Dean Saves the Day in Tampa](https://steelersnow.com/dbs-steelers-film-room-jamel-dean-saves-the-day-in-tampa/): Steelers Now, 2026-10-21 14:57 UTC
@@ -18,7 +18,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/film.json_
 - Preview (at New Orleans Saints (Oct 25)): [The Terrible Podcast — Steelers Vs Saints Game Preview, Joseph-Day To IR, Week 7 Picks, And More](https://www.youtube.com/watch?v=KSUKvtclF40): Steelers Depot (YouTube), 2026-10-23 16:24 UTC
 - Preview (at New Orleans Saints (Oct 25)): [Saints Offense Scouting Report: Where Pittsburgh Should Be Worried Most](https://steelersdepot.com/2026/10/saints-offense-scouting-report-where-pittsburgh-should-be-worried-most/): Alex Kozora (Steelers Depot), 2026-10-23 13:30 UTC
 - Preview (at New Orleans Saints (Oct 25)): [Steelers Keys to Victory vs. the Saints, Week 7 | Let's Ride](https://www.youtube.com/watch?v=X5XbLf_39yo): Steel Curtain Network (BTSC), 2026-10-23 13:21 UTC
-- Preview (at New Orleans Saints (Oct 25)): [Steelers-Saints preview: What to expect from New Orleans’ offense, defense in Week 7](https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176734/steelers-saints-preview-what-to-expect-from-new-orleans-offense-defense-in-week-7): Behind the Steel Curtain, 2026-10-23 13:00 UTC
 - Preview (at New Orleans Saints (Oct 25)): [Saints Defense Scouting Report: Steelers Have Chance To Continue YAC Attack](https://steelersdepot.com/2026/10/saints-defense-scouting-report-steelers-have-chance-to-continue-yac-attack/): Alex Kozora (Steelers Depot), 2026-10-23 12:30 UTC
 - Preview (at New Orleans Saints (Oct 25)): [Steelers Preview: Previewing Steelers vs. Saints, Week 7](https://www.youtube.com/watch?v=sJ3ox8BKdMA): Steel Curtain Network (BTSC), 2026-10-23 10:13 UTC
 - Preview (at New Orleans Saints (Oct 25)): [Steelers vs. Saints Week 7 Preview | Aaron Rodgers Problem Brewing](https://www.youtube.com/watch?v=B0agqGjSVpU): Still Curtain, 2026-10-22 06:58 UTC
