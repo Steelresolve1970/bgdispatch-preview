@@ -1,13 +1,17 @@
 # Steelers News
 
-_Generated 2026-10-24T11:49:34+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T11:49:02+00:00._
+_Generated 2026-10-24T12:06:29+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T12:05:24+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Troy Fautanu Explains Why Move Back To Left Tackle Even Harder Than Rookie Shift To Right](https://steelersdepot.com/2026/10/troy-fautanu-explains-why-move-back-to-left-tackle-even-harder-than-rookie-shift-to-right/): Steelers Depot, 2026-10-24 12:00 UTC
+- [Patrick Graham has perfect blueprint to erase Saints' rising star Tyler Shough](https://stillcurtain.com/pittsburgh-steelers-patrick-graham-has-perfect-blueprint-to-erase-saints-rising-star-tyler-shough-01m5mkb72fy1?utm_source=RSS): Still Curtain, 2026-10-24 12:00 UTC
+- [Steelers in Paris: An 'incredible' time](https://www.steelers.com/news/steelers-in-paris-an-incredible-time): Steelers.com (official), 2026-10-24 12:00 UTC
+- [SCI Pipeline '26: Week 8](https://247sports.com/nfl/pittsburgh-steelers/article/steelers-pipeline26-week8-291664822/): 247Sports, 2026-10-24 11:58 UTC
 - [National Analyst Names Steelers Most Likely Trade Candidate](https://steelersdepot.com/2026/10/national-analyst-names-steelers-most-likely-trade-candidate/): Steelers Depot, 2026-10-24 11:45 UTC
 - [The Steelers Can Set A Franchise First With A Win Sunday](https://steelersdepot.com/2026/10/the-steelers-can-set-a-franchise-first-with-a-win-sunday/): Steelers Depot, 2026-10-24 11:30 UTC
-- [NFL House in Paris closes ahead of street protests in French capital](https://www.stamfordadvocate.com/sports/article/nfl-house-in-paris-closes-ahead-of-street-22492242.php): Stamford Advocate, 2026-10-24 11:07 UTC
 - [Steelers vs. Saints picks: Still Curtain panel predicts an uphill battle](https://stillcurtain.com/pittsburgh-steelers-vs-saints-picks-still-curtain-panel-predicts-an-uphill-battle-01m5a27wa79q?utm_source=RSS): Still Curtain, 2026-10-24 11:00 UTC
 - [Hoke Praises Steelers’ Deployment Of Jalen Ramsey: ‘Exactly The Way He Should Be Used’](https://steelersdepot.com/2026/10/hoke-praises-steelers-deployment-of-jalen-ramsey-exactly-the-way-he-should-be-used/): Steelers Depot, 2026-10-24 11:00 UTC
+- [NFL House in Paris closes ahead of street protests in French capital](https://www.bozemandailychronicle.com/wire/sports/nfl-house-in-paris-closes-ahead-of-street-protests-in-french-capital/article_80779afc-8dfd-56da-bfd1-13a9573f6a98.html): Bozeman Daily Chronicle, 2026-10-24 10:49 UTC
 - [NFL would cancel Paris game if unsafe due to protests, Steelers QB Aaron Rodgers says](https://www.france24.com/en/sport/20261024-nfl-would-cancel-paris-game-if-unsafe-due-to-protests-steelers-qb-aaron-rodgers-says): France 24, 2026-10-24 10:36 UTC
 - [Beat Writer Suggests Replacing Kaden Wetjen – With Eli Heidenreich](https://steelersdepot.com/2026/10/beat-writer-suggests-replacing-kaden-wetjen-with-eli-heidenreich/): Steelers Depot, 2026-10-24 10:00 UTC
 - [Steelers have two obvious keys to taking down the Saints this week](https://stillcurtain.com/pittsburgh-steelers-have-two-obvious-keys-to-taking-down-the-saints-this-week-01m5hyt9dzh2?utm_source=RSS): Still Curtain, 2026-10-24 10:00 UTC
@@ -69,7 +73,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Trump suggests NFL could have postponed Paris game as protests escalate in France](https://www.nytimes.com/athletic/7717489/2026/10/23/donald-trump-nfl-paris-protests-steelers-saints/): The Athletic, 2026-10-23 16:33 UTC
 - [Aaron Rodgers sounds annoyed with Steelers' travel plans for Paris: Why the QB is unhappy](https://www.cbssports.com/nfl/news/aaron-rodgers-steelers-travel-plans-nfl-paris-game-saints/): CBS Sports, 2026-10-23 16:32 UTC
 - [Aaron Rodgers wishes the Steelers left for Paris sooner](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176812/aaron-rodgers-wishes-the-steelers-left-for-paris-sooner): Behind the Steel Curtain, 2026-10-23 16:30 UTC
-- [The Terrible Podcast — Steelers Vs Saints Game Preview, Joseph-Day To IR, Week 7 Picks, And More](https://steelersdepot.com/2026/10/the-terrible-podcast-steelers-vs-saints-game-preview-joseph-day-to-ir-week-7-picks-and-more/): Steelers Depot, 2026-10-23 16:23 UTC
 - [Steelers news: Defense pushing for top 5 status](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176799/steelers-news-defense-pushing-for-top-5-status): Behind the Steel Curtain, 2026-10-23 16:08 UTC
 - [Steely Resolve: Jalen Ramsey Sewing Fabric of Steelers Defensive Tradition](https://steelersnow.com/steely-resolve-jalen-ramsey-sewing-fabric-of-steelers-defensive-tradition/): Steelers Now, 2026-10-23 16:05 UTC
 - [Steelers Jaylen Warren could expose Saints' biggest weakness in Paris showdown](https://stillcurtain.com/pittsburgh-steelers-jaylen-warren-could-expose-saints-biggest-weakness-in-paris-showdown-01m5cztg7dnw?utm_source=RSS): Still Curtain, 2026-10-23 16:00 UTC
@@ -150,9 +153,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Patrick Graham is seeing what Steelers hoped for from Keeanu Benton this season](https://stillcurtain.com/patrick-graham-is-seeing-what-pittsburgh-steelers-hoped-for-from-keeanu-benton-this-season-01m5g4cb88bn?utm_source=RSS): Still Curtain, 2026-10-22 12:00 UTC
 - [Ex-Steelers coach reveals how Browns threw away a potential dynasty in 2018](https://stillcurtain.com/ex-pittsburgh-steelers-coach-reveals-how-browns-threw-away-a-potential-dynasty-in-2018-01m5f4xrg900?utm_source=RSS): Still Curtain, 2026-10-22 11:00 UTC
 - [Two more key Pittsburgh Steelers players pop up with injuries](https://www.pennlive.com/steelers/2026/10/two-more-key-pittsburgh-steelers-players-pop-up-with-injuries.html): PennLive (Nick Farabaugh), 2026-10-22 11:00 UTC
-- [Asked and Answered: Oct. 22](https://www.steelers.com/news/asked-and-answered-oct-22-x1552): Steelers.com (official), 2026-10-22 10:05 UTC
-- [Steelers have every reason to be disappointed by the overhyped 2027 QB class](https://stillcurtain.com/pittsburgh-steelers-have-every-reason-to-be-disappointed-by-the-overhyped-2027-qb-class-01m5a2hawe92?utm_source=RSS): Still Curtain, 2026-10-22 10:00 UTC
-- [Roger Goodell says the NFL will play in Paris as planned, even as civil unrest continues to grip France](https://www.pennlive.com/steelers/2026/10/roger-goodell-says-the-nfl-will-play-in-paris-as-planned-even-as-civil-unrest-continues-to-grip-france.html): PennLive (Nick Farabaugh), 2026-10-22 10:00 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
