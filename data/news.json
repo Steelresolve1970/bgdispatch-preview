@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T16:13:29.923063+00:00",
+ "generated": "2026-10-24T16:24:26.332729+00:00",
  "count": 150,
  "sources": [
   {
@@ -29,8 +29,8 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
-   "steelers_items": 0
+   "status": "ok",
+   "steelers_items": 24
   },
   {
    "source": "Still Curtain",
@@ -107,6 +107,22 @@
  ],
  "items": [
   {
+   "title": "Steelers Give Aaron Rodgers Another Familiar Option",
+   "source": "Steelers Now",
+   "link": "https://steelersnow.com/steelers-give-aaron-rodgers-another-familiar-option/",
+   "published": "2026-10-24T16:24:11+00:00",
+   "summary": "News story from Steelers Now. Full report at the original publisher.",
+   "id": "571503dc26"
+  },
+  {
+   "title": "Steelers Add Experienced Wide Receiver for Saints Game",
+   "source": "Steelers Now",
+   "link": "https://steelersnow.com/steelers-add-experienced-wide-receiver-for-saints-game/",
+   "published": "2026-10-24T16:15:29+00:00",
+   "summary": "Game story from Steelers Now. Full report at the original publisher.",
+   "id": "a84c5968ef"
+  },
+  {
    "title": "Steelers' Brian Thomas Jr Trade Buzz Takes A Huge Step Forward Ahead Of Week 7",
    "source": "SteelerNation",
    "link": "https://www.steelernation.com/2026/10/24/steelers-brian-thomas-jr-huge-step",
@@ -116,12 +132,12 @@
   },
   {
    "title": "Steelers activate S DeShon Elliott from injured reserve",
-   "source": "Wichita Eagle",
-   "link": "https://www.kansas.com/sports/article317762593.html",
+   "source": "Lexington Herald Leader",
+   "link": "https://www.kentucky.com/sports/article317762593.html",
    "published": "2026-10-24T16:07:06+00:00",
    "via": "Google News",
-   "summary": "Injury story from Wichita Eagle. Full report at the original publisher.",
-   "id": "ac3f305e89"
+   "summary": "Injury story from Lexington Herald Leader. Full report at the original publisher.",
+   "id": "9e148bb7b5"
   },
   {
    "title": "Saints run defense must continue recent momentum facing Steelers",
@@ -419,6 +435,14 @@
    "published": "2026-10-24T12:15:13+00:00",
    "summary": "Game story from Steelers Depot. Full report at the original publisher.",
    "id": "0a04910409"
+  },
+  {
+   "title": "Steelers GameDay Cheat Sheet: Week 7 at New Orleans Saints",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/24/steelers-gameday-cheat-sheet-week-7-at-new-orleans-saints/",
+   "published": "2026-10-24T12:05:57+00:00",
+   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
+   "id": "8695f97ba7"
   },
   {
    "title": "Troy Fautanu Explains Why Move Back To Left Tackle Even Harder Than Rookie Shift To Right",
@@ -1025,14 +1049,6 @@
    "id": "7756ab800a"
   },
   {
-   "title": "Steelers Reveal DeShon Elliott\u2019s Status vs. Saints",
-   "source": "Steelers Now",
-   "link": "https://steelersnow.com/steelers-reveal-deshon-elliotts-status-vs-saints/",
-   "published": "2026-10-23T12:35:49+00:00",
-   "summary": "Injury story from Steelers Now. Full report at the original publisher.",
-   "id": "9b99b2e0f5"
-  },
-  {
    "title": "Aaron Rodgers says the NFL could play 16 international games in one week \u2014 and he\u2019d support it",
    "source": "Pittsburgh Post-Gazette",
    "link": "https://www.post-gazette.com/sports/steelers/2026/10/23/aaron-rodgers-nfl-international-games/stories/202610230030",
@@ -1049,20 +1065,20 @@
    "id": "30f4214345"
   },
   {
-   "title": "Mike McCarthy Updates T.J. Watt\u2019s Injury Status",
-   "source": "Steelers Now",
-   "link": "https://steelersnow.com/mike-mccarthy-updates-t-j-watts-injury-status/",
-   "published": "2026-10-23T12:25:29+00:00",
-   "summary": "Injury story from Steelers Now. Full report at the original publisher.",
-   "id": "12a7de1f50"
-  },
-  {
    "title": "Why the Steelers suddenly cancelled their Paris fan event just one day before it was supposed to happen",
    "source": "PennLive (Nick Farabaugh)",
    "link": "https://www.pennlive.com/steelers/2026/10/why-the-steelers-suddenly-cancelled-their-paris-fan-event-just-one-day-before-it-was-supposed-to-happen.html",
    "published": "2026-10-23T12:08:51+00:00",
    "summary": "Opinion story from PennLive (Nick Farabaugh). Full report at the original publisher.",
    "id": "b6a691e9e3"
+  },
+  {
+   "title": "Steelers to Watch: Five players who could make the difference against the Saints",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/23/steelers-to-watch-five-players-who-could-make-the-difference-against-the-saints/",
+   "published": "2026-10-23T12:04:25+00:00",
+   "summary": "News story from Steel City Underground. Full report at the original publisher.",
+   "id": "79aa9e2ca3"
   },
   {
    "title": "4 NFL bottom feeders could give Steelers a trade deadline advantage",
@@ -1313,22 +1329,6 @@
    "published": "2026-10-22T14:30:00+00:00",
    "summary": "News story from Pittsburgh Post-Gazette. Full report at the original publisher.",
    "id": "80c2c82e00"
-  },
-  {
-   "title": "Matt's Stats: Week 7 vs. Saints",
-   "source": "Steelers.com (official)",
-   "link": "https://www.steelers.com/news/matt-s-stats-week-7-vs-saints",
-   "published": "2026-10-22T14:00:15+00:00",
-   "summary": "Game story from Steelers.com (official). Full report at the original publisher.",
-   "id": "129a2f063b"
-  },
-  {
-   "title": "Steelers have an obvious Chris Godwin Jr. trade opportunity they can't ignore",
-   "source": "Still Curtain",
-   "link": "https://stillcurtain.com/pittsburgh-steelers-have-an-obvious-chris-godwin-jr-trade-opportunity-they-can-t-ignore-01m5fra9e66k?utm_source=RSS",
-   "published": "2026-10-22T14:00:00+00:00",
-   "summary": "Trade/roster move story from Still Curtain. Full report at the original publisher.",
-   "id": "bb6d0cf357"
   }
  ],
  "dropped_bad_links": 0
