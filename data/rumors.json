@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T18:14:06.116821+00:00",
+ "generated": "2026-10-24T18:24:59.576495+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -137,9 +137,10 @@
    "first_seen": "2026-10-24T10:08:05.155041+00:00",
    "consensus": {
     "cluster_id": "14ffc5da6c16",
-    "independent_sources": 2,
+    "independent_sources": 3,
     "sources": [
      "Heavy.com",
+     "Wisconsin Sports Heroics",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
@@ -147,6 +148,7 @@
     "related_ids": [
      "85d6f65ebcd2",
      "794b3684899f",
+     "173465376593",
      "14ffc5da6c16"
     ]
    },
@@ -170,9 +172,10 @@
    "first_seen": "2026-10-23T16:52:38.787518+00:00",
    "consensus": {
     "cluster_id": "14ffc5da6c16",
-    "independent_sources": 2,
+    "independent_sources": 3,
     "sources": [
      "Heavy.com",
+     "Wisconsin Sports Heroics",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
@@ -180,6 +183,7 @@
     "related_ids": [
      "5d585445ee02",
      "794b3684899f",
+     "173465376593",
      "14ffc5da6c16"
     ]
    },
@@ -918,9 +922,10 @@
    "first_seen": "2026-10-21T13:05:41.045260+00:00",
    "consensus": {
     "cluster_id": "14ffc5da6c16",
-    "independent_sources": 2,
+    "independent_sources": 3,
     "sources": [
      "Heavy.com",
+     "Wisconsin Sports Heroics",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
@@ -928,6 +933,7 @@
     "related_ids": [
      "5d585445ee02",
      "85d6f65ebcd2",
+     "173465376593",
      "14ffc5da6c16"
     ]
    },
@@ -1026,9 +1032,10 @@
    "first_seen": "2026-10-21T00:34:42.545004+00:00",
    "consensus": {
     "cluster_id": "14ffc5da6c16",
-    "independent_sources": 2,
+    "independent_sources": 3,
     "sources": [
      "Heavy.com",
+     "Wisconsin Sports Heroics",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
@@ -1036,7 +1043,8 @@
     "related_ids": [
      "5d585445ee02",
      "85d6f65ebcd2",
-     "794b3684899f"
+     "794b3684899f",
+     "173465376593"
     ]
    },
    "updated": "2026-10-21T00:34:42.545004+00:00"
@@ -1196,16 +1204,14 @@
    "status_link": null,
    "first_seen": "2026-10-20T21:02:33.218202+00:00",
    "consensus": {
-    "cluster_id": "dc4e7eea9511",
+    "cluster_id": "80328d8900e5",
     "independent_sources": 1,
     "sources": [
      "A to Z Sports"
     ],
     "highest_tier": "Aggregator / other",
     "highest_tier_score": 1,
-    "related_ids": [
-     "dc4e7eea9511"
-    ]
+    "related_ids": []
    },
    "updated": "2026-10-20T21:02:33.218202+00:00"
   },

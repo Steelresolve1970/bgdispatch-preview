@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-24T18:14:11+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T18:13:55+00:00._
+_Generated 2026-10-24T18:25:06+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T18:24:48+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Video: [Steelers fans encounter police getting ready for protesters](https://www.youtube.com/shorts/lxzhbaIZNu8): Nick Farabaugh on PennLive, 2026-10-24 18:08 UTC
 - Video: [Are European Games a Fantasy Wasteland? with Jorden Hill | THE PITTSBURGH FOOTBALL SHOW](https://www.youtube.com/watch?v=Tn1BFHCBCMg): Steelers Now, 2026-10-24 16:29 UTC
 - Video: [Tomorrow's kit 🥶](https://www.youtube.com/shorts/6GPAo6diW7s): Pittsburgh Steelers (official), 2026-10-24 14:24 UTC
 - Video: [Burgh Bets with Bob Konarski: NFL and CFB Picks and Props for Week 7 | THE PITTSBURGH FOOTBALL SHOW](https://www.youtube.com/watch?v=YwFPjIRVICM): Steelers Now, 2026-10-24 14:18 UTC
@@ -12,7 +13,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [THE PITTSBURGH FOOTBALL SHOW, Episode 7, Oct. 23, 2026](https://www.youtube.com/watch?v=m3oM_Pej1Tk): Steelers Now, 2026-10-23 21:51 UTC
 - Podcast: [Steelers RB Injured | Aaron Rodgers Fires Back at Paris Trip](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-23 21:12 UTC
 - Podcast: [The Terrible Take - Episode 2059 - October 23, 2026](https://podcasts.apple.com/us/podcast/id405990739): The Terrible Podcast (Steelers Depot), 2026-10-23 21:00 UTC
-- Podcast: [Live Shot of Steelers: Game preview in Paris!](https://podcasts.apple.com/us/podcast/live-shot-of-steelers-game-preview-in-paris/id1072021022?i=1000797842087): DK Pittsburgh Sports, 2026-10-23 20:39 UTC
+- Podcast: [Live Shot of Steelers: Game preview in Paris!](https://podcasts.apple.com/us/podcast/id1072021022): DK Pittsburgh Sports, 2026-10-23 20:39 UTC
 - Video: [Pittsburgh meets Paris 🤝🇫🇷](https://www.youtube.com/shorts/lH7u5sp1AWk): Pittsburgh Steelers (official), 2026-10-23 20:33 UTC
 - Video: [The Steelers Play That Changed Elandon Roberts' Career](https://www.youtube.com/watch?v=trO9lggiV-E): Not Just Football with Cam Heyward, 2026-10-23 18:00 UTC
 - Video: [Benton, Dean, Washington & Rubio Press Conference (October 23) | Pittsburgh Steelers](https://www.youtube.com/watch?v=wHQaj0ZAn9A): Pittsburgh Steelers (official), 2026-10-23 17:54 UTC
