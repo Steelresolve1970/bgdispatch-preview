@@ -1,8 +1,10 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-24T11:38:06+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T11:38:00+00:00._
+_Generated 2026-10-24T11:49:34+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T11:49:28+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
+- **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
+  [National Analyst Names Steelers Most Likely Trade Candidate](https://steelersdepot.com/2026/10/national-analyst-names-steelers-most-likely-trade-candidate/): Steelers Depot, first seen 2026-10-24 11:49 UTC
 - **Rumor** · tier: National insider · consensus: 3 source(s), top tier National insider
   [Steelers’ Latest Trade Buzz Would Add Another Weapon for Aaron Rodgers](https://sports.yahoo.com/articles/steelers-latest-trade-buzz-add-184548332.html): Yahoo Sports, first seen 2026-10-24 10:08 UTC
 - **Rumor** · tier: National insider · consensus: 3 source(s), top tier National insider
