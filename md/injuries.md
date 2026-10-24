@@ -1,15 +1,16 @@
 # Steelers Injury Report
 
-_Generated 2026-10-24T05:50:46+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T05:26:56+00:00._
+_Generated 2026-10-24T06:08:07+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T06:07:56+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/injuries.json_
 
 | Player | Pos | Status | Injury | Est. return | Updated |
 |---|---|---|---|---|---|
 | [Ben Skowronek](https://www.nfl.com/injuries/) | WR | Out | Calf |  |  |
 | [Brandin Echols](https://www.nfl.com/injuries/) | CB | Out | Hamstring |  |  |
+| [DeShon Elliott](https://www.nfl.com/injuries/) | S | Questionable | Knee |  |  |
+| [Rico Dowdle](https://www.nfl.com/injuries/) | RB | Questionable | Knee |  |  |
 | [Cole Burgess](https://www.nfl.com/transactions/) | WR | Injured Reserve |  |  |  |
 | [Daequan Hardy](https://www.nfl.com/transactions/) | DB | Injured Reserve |  |  |  |
-| [DeShon Elliott](https://www.nfl.com/transactions/) | DB | Injured Reserve |  |  |  |
 | [Derrick Harmon](https://www.nfl.com/transactions/) | DL | Injured Reserve |  |  |  |
 | [Gennings Dunker](https://www.nfl.com/transactions/) | OL | Injured Reserve |  |  |  |
 | [Jack Driscoll](https://www.nfl.com/transactions/) | OL | Injured Reserve |  |  |  |

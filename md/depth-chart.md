@@ -1,6 +1,6 @@
 # Steelers Depth Chart
 
-_Generated 2026-10-24T05:50:46+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T05:50:37+00:00._
+_Generated 2026-10-24T06:08:07+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T06:07:58+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/depth-chart.json_
 
 ### Offense (3WR 1TE)
@@ -8,7 +8,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/depth-chart.json_
 | Pos | Starter | 2nd | 3rd | Others |
 |---|---|---|---|---|
 | QB | Aaron Rodgers | Mason Rudolph | Will Howard | Drew Allar |
-| RB | Jaylen Warren | Rico Dowdle | Travis Homer | Eli Heidenreich, Lew Nichols |
+| RB | Jaylen Warren | Rico Dowdle (Questionable) | Travis Homer | Eli Heidenreich, Lew Nichols |
 | FB | Riley Nowakowski |  |  |  |
 | WR | DK Metcalf | Kaden Wetjen | Cole Burgess (Injured Reserve) |  |
 | WR | Germie Bernard | Michael Pittman Jr. |  |  |
@@ -32,7 +32,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/depth-chart.json_
 | RILB | Patrick Queen | Carson Bruener |  |  |
 | SLB | Alex Highsmith | Jack Sawyer |  |  |
 | LCB | Asante Samuel Jr. | Sean Murphy-Bunting | Terell Smith |  |
-| SS | Robert Spears-Jennings | DeShon Elliott (Injured Reserve) |  |  |
+| SS | Robert Spears-Jennings | DeShon Elliott (Questionable) |  |  |
 | FS | Jaquan Brisker |  |  |  |
 | RCB | Jamel Dean | Daylen Everette | Doneiko Slaughter | Daequan Hardy |
 | NB | Jalen Ramsey | Brandin Echols (Out) | Donte Kent (Physically Unable to Perform) |  |

@@ -1,6 +1,6 @@
 # Steelers Opponent Preview
 
-_Generated 2026-10-24T05:50:46+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T05:50:36+00:00._
+_Generated 2026-10-24T06:08:07+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T06:07:57+00:00._
 
 Week 7: Steelers at **New Orleans Saints** (NO 2-4), kickoff 2026-10-25 13:30 UTC, Stade de France.
 
@@ -54,6 +54,8 @@ Last 5: NO W 24-17 @ BAL L 35-27 vs LV L 45-24 vs ATL L 23-13 vs MIN W 34-27 @ N
 - Tackles: Pete Werner (LB) 45
 
 ## Saints injury report
+- Cesar Ruiz (G): Questionable, Knee
+- Nathan Shepherd (DT): Questionable, Illness
 - Bryan Bresee (DL): Injured Reserve
 - David Long (DB): Injured Reserve
 - Dillon Radunz (OL): Injured Reserve

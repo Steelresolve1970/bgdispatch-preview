@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T05:26:56.922705+00:00",
+ "generated": "2026-10-24T06:07:56.774166+00:00",
  "next_game": {
   "id": "401873011",
   "nflverse_id": "2026_07_PIT_NO",
@@ -49,6 +49,34 @@
    "link": "https://www.nfl.com/injuries/"
   },
   {
+   "name": "DeShon Elliott",
+   "pos": "S",
+   "jersey": "25",
+   "status": "Questionable",
+   "injury": "Knee",
+   "side": null,
+   "detail": null,
+   "return_date": null,
+   "date": null,
+   "practice": "Full Participation in Practice",
+   "week": 7,
+   "link": "https://www.nfl.com/injuries/"
+  },
+  {
+   "name": "Rico Dowdle",
+   "pos": "RB",
+   "jersey": "13",
+   "status": "Questionable",
+   "injury": "Knee",
+   "side": null,
+   "detail": null,
+   "return_date": null,
+   "date": null,
+   "practice": "Limited Participation in Practice",
+   "week": 7,
+   "link": "https://www.nfl.com/injuries/"
+  },
+  {
    "name": "Cole Burgess",
    "pos": "WR",
    "jersey": "85",
@@ -66,20 +94,6 @@
    "name": "Daequan Hardy",
    "pos": "DB",
    "jersey": "31",
-   "status": "Injured Reserve",
-   "injury": null,
-   "side": null,
-   "detail": null,
-   "return_date": null,
-   "date": null,
-   "practice": null,
-   "week": 7,
-   "link": "https://www.nfl.com/transactions/"
-  },
-  {
-   "name": "DeShon Elliott",
-   "pos": "DB",
-   "jersey": "25",
    "status": "Injured Reserve",
    "injury": null,
    "side": null,
@@ -263,12 +277,6 @@
    "source": "All Steelers (Sports Illustrated)",
    "link": "https://www.si.com/nfl/steelers/onsi/tj-watt-injured-before-pittsburgh-steelers-paris-game",
    "published": "2026-10-22T19:17:46+00:00"
-  },
-  {
-   "title": "Steelers Suddenly Place Veteran Defender on Injured Reserve",
-   "source": "Heavy.com",
-   "link": "https://heavy.com/sports/nfl/pittsburgh-steelers/sebastian-joseph-day-injured-reserve-nfl-news/",
-   "published": "2026-10-22T18:29:11+00:00"
   }
  ],
  "source": "Data: nflverse (CC-BY 4.0)",

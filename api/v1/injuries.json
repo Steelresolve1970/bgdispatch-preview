@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "injuries",
  "description": "Current Steelers injury designations from the official NFL injury report and reserve lists (nflverse, CC-BY 4.0): status and injury.",
- "generated": "2026-10-24T05:50:46+00:00",
- "data_updated": "2026-10-24T05:26:56+00:00",
- "count": 13,
+ "generated": "2026-10-24T06:08:07+00:00",
+ "data_updated": "2026-10-24T06:07:56+00:00",
+ "count": 14,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -58,6 +58,44 @@
    }
   },
   {
+   "id": "f4eea866ba545eac",
+   "type": "injury",
+   "player": "DeShon Elliott",
+   "position": "S",
+   "jersey": "25",
+   "status": "Questionable",
+   "injury": "Knee",
+   "side": null,
+   "detail": null,
+   "estimated_return": null,
+   "updated": null,
+   "url": "https://www.nfl.com/injuries/",
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
+   "id": "1dc16aee2c38cf6b",
+   "type": "injury",
+   "player": "Rico Dowdle",
+   "position": "RB",
+   "jersey": "13",
+   "status": "Questionable",
+   "injury": "Knee",
+   "side": null,
+   "detail": null,
+   "estimated_return": null,
+   "updated": null,
+   "url": "https://www.nfl.com/injuries/",
+   "source": {
+    "name": "nflverse (CC-BY 4.0)",
+    "url": "https://github.com/nflverse/nflverse-data",
+    "license": "CC-BY-4.0"
+   }
+  },
+  {
    "id": "100c70bcf1551cb4",
    "type": "injury",
    "player": "Cole Burgess",
@@ -82,25 +120,6 @@
    "player": "Daequan Hardy",
    "position": "DB",
    "jersey": "31",
-   "status": "Injured Reserve",
-   "injury": null,
-   "side": null,
-   "detail": null,
-   "estimated_return": null,
-   "updated": null,
-   "url": "https://www.nfl.com/transactions/",
-   "source": {
-    "name": "nflverse (CC-BY 4.0)",
-    "url": "https://github.com/nflverse/nflverse-data",
-    "license": "CC-BY-4.0"
-   }
-  },
-  {
-   "id": "f4eea866ba545eac",
-   "type": "injury",
-   "player": "DeShon Elliott",
-   "position": "DB",
-   "jersey": "25",
    "status": "Injured Reserve",
    "injury": null,
    "side": null,
