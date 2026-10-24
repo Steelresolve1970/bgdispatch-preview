@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T17:30:48.714452+00:00",
+ "generated": "2026-10-24T17:41:40.051585+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -660,14 +660,17 @@
    "status_link": null,
    "first_seen": "2026-10-22T18:10:35.603011+00:00",
    "consensus": {
-    "cluster_id": "7e976d566581",
-    "independent_sources": 1,
+    "cluster_id": "48f6b51885d4",
+    "independent_sources": 2,
     "sources": [
-     "The Athletic"
+     "The Athletic",
+     "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
-    "related_ids": []
+    "related_ids": [
+     "48f6b51885d4"
+    ]
    },
    "updated": "2026-10-22T18:10:35.603011+00:00"
   },
@@ -1455,6 +1458,35 @@
     "related_ids": []
    },
    "updated": "2026-10-20T15:05:08.821093+00:00"
+  },
+  {
+   "id": "48f6b51885d4",
+   "title": "3 Steelers players who could be sent packing before the NFL trade deadline",
+   "source": "Yahoo Sports",
+   "link": "https://sports.yahoo.com/articles/3-steelers-players-could-sent-110258390.html",
+   "published": "2026-10-20T11:02:58+00:00",
+   "summary": "Rumor-style report from Yahoo Sports on a Steelers roster move. Full details at the source.",
+   "tier": "National insider",
+   "tier_score": 4,
+   "subjects": [],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-24T17:41:40.051585+00:00",
+   "consensus": {
+    "cluster_id": "48f6b51885d4",
+    "independent_sources": 2,
+    "sources": [
+     "The Athletic",
+     "Yahoo Sports"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "7e976d566581"
+    ]
+   },
+   "updated": "2026-10-24T17:41:40.051585+00:00"
   },
   {
    "id": "a2fc6f6f5226",

@@ -1,6 +1,6 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-24T17:30:55+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T17:30:48+00:00._
+_Generated 2026-10-24T17:41:47+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T17:41:40+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
@@ -45,7 +45,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Steelers face tough decisions on T.J. Watt, Alex Highsmith as NFL trade deadline looms](https://www.usatoday.com/story/sports/nfl/steelers/2026/10/22/steelers-nfl-trade-deadline-tj-watt-alex-highsmith-patrick-queen/92364449007/): USA Today, first seen 2026-10-22 18:10 UTC
 - **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
   [Whom could the Steelers target at the trade deadline? What's the 2027 QB plan? Mailbag](https://www.nytimes.com/athletic/7711597/2026/10/22/pittsburgh-steelers-trade-deadline-targets-future-qb/): The Athletic, first seen 2026-10-22 18:10 UTC
-- **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
+- **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
   [NFL trade deadline 2026 big board: 50 players who could be dealt before Nov. 10](https://www.nytimes.com/athletic/7664102/2026/10/22/nfl-trade-deadline-board-players-available/): The Athletic, first seen 2026-10-22 18:10 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [Steelers’ Roster Move Makes $41M Pro Bowler Top Trade Candidate](https://heavy.com/sports/nfl/pittsburgh-steelers/steelers-patrick-queen-trade-candidate-elandon-roberts/): Heavy.com, first seen 2026-10-22 03:37 UTC
@@ -95,6 +95,8 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Report: Steelers signing wide receiver Marquez Valdes-Scantling to team's practice squad, marking return to Steelers](https://beavercountyradio.com/sports/report-steelers-signing-wide-receiver-marquez-valdes-scantling-to-teams-practice-squad-marking-return-to-steelers/): Beaver County Radio, first seen 2026-10-20 15:05 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [With Trade Deadline Approaching, Mike McCarthy Hints at Steelers’ Roster Expectations](https://athlonsports.com/nfl/pittsburgh-steelers/with-trade-deadline-approaching-mike-mccarthy-hints-at-steelers-roster-expectations): Athlon Sports, first seen 2026-10-20 15:05 UTC
+- **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
+  [3 Steelers players who could be sent packing before the NFL trade deadline](https://sports.yahoo.com/articles/3-steelers-players-could-sent-110258390.html): Yahoo Sports, first seen 2026-10-24 17:41 UTC
 - **Rumor** · tier: Fan blog · consensus: 8 source(s), top tier National insider
   [Report: Steelers Signing WR Marquez Valdes-Scantling](https://steelersdepot.com/2026/10/report-steelers-signing-wr-marquez-valdes-scantling-2/): Steelers Depot, first seen 2026-10-24 04:05 UTC
 - **Confirmed** · tier: Beat writer / team · consensus: 8 source(s), top tier National insider
