@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T16:46:25.174776+00:00",
+ "generated": "2026-10-24T16:57:22.222035+00:00",
  "count": 150,
  "sources": [
   {
@@ -29,8 +29,8 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "ok",
-   "steelers_items": 24
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "steelers_items": 0
   },
   {
    "source": "Still Curtain",
@@ -165,15 +165,6 @@
    "id": "ac3f305e89"
   },
   {
-   "title": "Saints run defense must continue recent momentum facing Steelers",
-   "source": "Saints Wire",
-   "link": "https://saintswire.usatoday.com/story/sports/nfl/saints/2026/10/24/saints-steelers-preview-matchups-nfl-week-7/92407544007/",
-   "published": "2026-10-24T16:07:00+00:00",
-   "via": "Google News",
-   "summary": "Opinion story from Saints Wire. Full report at the original publisher.",
-   "id": "10d78f2ee8"
-  },
-  {
    "title": "Steelers Spin: When In Paris",
    "source": "Steelers Depot",
    "link": "https://steelersdepot.com/2026/10/steelers-spin-when-in-paris/",
@@ -221,6 +212,15 @@
    "published": "2026-10-24T15:41:55+00:00",
    "summary": "News story from Steelers Depot. Full report at the original publisher.",
    "id": "7aead1649b"
+  },
+  {
+   "title": "How to watch Steelers vs. Saints: TV channel and streaming options for October 25",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/athletic/7717416/2026/10/23/steelers-vs-saints-stream-how-to-watch-oct-25/",
+   "published": "2026-10-24T15:34:00+00:00",
+   "via": "Google News",
+   "summary": "Game story from The New York Times. Full report at the original publisher.",
+   "id": "e98a58aa46"
   },
   {
    "title": "Steelers Vs Saints X Factor: WR Germie Bernard",
@@ -421,15 +421,6 @@
    "id": "ed9acded67"
   },
   {
-   "title": "How to watch Steelers vs. Saints: TV channel and streaming options for October 25",
-   "source": "The New York Times",
-   "link": "https://www.nytimes.com/athletic/7717416/2026/10/23/steelers-vs-saints-stream-how-to-watch-oct-25/",
-   "published": "2026-10-24T13:25:00+00:00",
-   "via": "Google News",
-   "summary": "Game story from The New York Times. Full report at the original publisher.",
-   "id": "e98a58aa46"
-  },
-  {
    "title": "Saints Make Roster Moves Ahead Of Steelers Game",
    "source": "Steelers Depot",
    "link": "https://steelersdepot.com/2026/10/saints-make-roster-moves-ahead-of-steelers-game/",
@@ -485,14 +476,6 @@
    "published": "2026-10-24T12:15:13+00:00",
    "summary": "Game story from Steelers Depot. Full report at the original publisher.",
    "id": "0a04910409"
-  },
-  {
-   "title": "Steelers GameDay Cheat Sheet: Week 7 at New Orleans Saints",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/24/steelers-gameday-cheat-sheet-week-7-at-new-orleans-saints/",
-   "published": "2026-10-24T12:05:57+00:00",
-   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
-   "id": "8695f97ba7"
   },
   {
    "title": "Troy Fautanu Explains Why Move Back To Left Tackle Even Harder Than Rookie Shift To Right",
@@ -1098,14 +1081,6 @@
    "id": "b6a691e9e3"
   },
   {
-   "title": "Steelers to Watch: Five players who could make the difference against the Saints",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/23/steelers-to-watch-five-players-who-could-make-the-difference-against-the-saints/",
-   "published": "2026-10-23T12:04:25+00:00",
-   "summary": "News story from Steel City Underground. Full report at the original publisher.",
-   "id": "79aa9e2ca3"
-  },
-  {
    "title": "4 NFL bottom feeders could give Steelers a trade deadline advantage",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/4-nfl-bottom-feeders-could-give-pittsburgh-steelers-a-trade-deadline-advantage-01m5j23dryvq?utm_source=RSS",
@@ -1330,6 +1305,30 @@
    "published": "2026-10-22T16:00:49+00:00",
    "summary": "News story from Still Curtain. Full report at the original publisher.",
    "id": "04a9eb5d2f"
+  },
+  {
+   "title": "Steelers place Joseph-Day on Reserve/Injured List",
+   "source": "Steelers.com (official)",
+   "link": "https://www.steelers.com/news/steelers-place-joseph-day-on-reserve-injured-list",
+   "published": "2026-10-22T15:45:03+00:00",
+   "summary": "Injury story from Steelers.com (official). Full report at the original publisher.",
+   "id": "694834c0db"
+  },
+  {
+   "title": "Steelers owner Art Rooney II says the NFL will have heightened security in Paris, but \u2018they don\u2019t seem to be concerned\u2019",
+   "source": "Pittsburgh Post-Gazette",
+   "link": "https://www.post-gazette.com/sports/steelers/2026/10/22/nfl-paris-game-protests-security-measures/stories/202610220043",
+   "published": "2026-10-22T14:41:14+00:00",
+   "summary": "News story from Pittsburgh Post-Gazette. Full report at the original publisher.",
+   "id": "969bc8b849"
+  },
+  {
+   "title": "Ray Fittipaldo's Steelers chat transcript: 10.22.26",
+   "source": "Pittsburgh Post-Gazette",
+   "link": "https://www.post-gazette.com/sports/steelers/2026/10/22/live-steelers-chat/stories/202610220045",
+   "published": "2026-10-22T14:30:00+00:00",
+   "summary": "News story from Pittsburgh Post-Gazette. Full report at the original publisher.",
+   "id": "80c2c82e00"
   }
  ],
  "dropped_bad_links": 0

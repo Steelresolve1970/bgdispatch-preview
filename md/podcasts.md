@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-24T16:47:00+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T16:46:42+00:00._
+_Generated 2026-10-24T16:57:55+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T16:57:38+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Are European Games a Fantasy Wasteland? with Jorden Hill | THE PITTSBURGH FOOTBALL SHOW](https://www.youtube.com/watch?v=Tn1BFHCBCMg): Steelers Now, 2026-10-24 16:29 UTC
@@ -159,7 +159,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Steelers' QB Grades vs Bucs](https://www.youtube.com/shorts/fJ6q0C9RHys): Steelers Almighty, 2026-10-19 19:18 UTC
 - Video: [Ugly Win in Tampa: Grading Every Steelers Unit After the OT Thriller | REPORT CARD | Week 6](https://www.youtube.com/watch?v=7rJt8I0UKLI): Steelers Almighty, 2026-10-19 18:00 UTC
 - Podcast: [Steel City Insider: Recapping the Steelers OT win over the Buccaneers](https://podcasts.apple.com/us/podcast/steel-city-insider-recapping-the-steelers-ot-win-over/id905962218?i=1000797805779): Steel Curtain Network (BTSC), 2026-10-19 17:40 UTC
-- Podcast: [The Terrible Podcast — Steelers-Buccaneers Game Recap, Injury Recap, Clock Management, WR Rumblings & More](https://podcasts.apple.com/us/podcast/the-terrible-podcast-steelers-buccaneers-game-recap/id405990739?i=1000797117064): The Terrible Podcast (Steelers Depot), 2026-10-19 16:55 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
