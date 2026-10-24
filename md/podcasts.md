@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-24T22:14:34+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T22:12:24+00:00._
+_Generated 2026-10-24T22:25:22+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T22:25:04+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [The Terrible Take - Episode 2060 - October 24, 2026](https://podcasts.apple.com/us/podcast/id405990739): The Terrible Podcast (Steelers Depot), 2026-10-24 21:00 UTC
@@ -147,7 +147,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Steelers' WR Grades vs Bucs](https://www.youtube.com/shorts/BPN3OhibZF4): Steelers Almighty, 2026-10-19 23:43 UTC
 - Video: [Why Steelers MUST RUN THE BALL to Fix their 3rd Down Failures | Mike McCarthy's Necessary Changes](https://www.youtube.com/shorts/mXiVHOzgvR4): Locked On Steelers, 2026-10-19 22:54 UTC
 - Podcast: [Will Bernard Breakout Blow Up WR Plans? | Steelers Afternoon Drive](https://podcasts.apple.com/us/podcast/will-bernard-breakout-blow-up-wr-plans-steelers-afternoon/id1700240934?i=1000797161882): Steelers Afternoon Drive, 2026-10-19 22:31 UTC
-- Podcast: [DK's Double Shot of Steelers: Credit to this defense](https://podcasts.apple.com/us/podcast/dks-double-shot-of-steelers-credit-to-this-defense/id1072021022?i=1000797161107): DK Pittsburgh Sports, 2026-10-19 22:15 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
