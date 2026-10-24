@@ -1,8 +1,9 @@
 # Steelers News
 
-_Generated 2026-10-24T19:30:05+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T19:29:30+00:00._
+_Generated 2026-10-24T19:40:56+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T19:40:23+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [NFL House in Paris closes ahead of Saints-Steelers game as unrest in city turns into chaos](https://nypost.com/2026/10/24/sports/nfl-house-in-paris-closes-ahead-of-saints-steelers-game-amid-riots/): New York Post, 2026-10-24 19:16 UTC
 - [Steelers Get Intriguing Unexpected Update On Top QB Target Ahead Of 2027 NFL Draft](https://www.steelernation.com/2026/10/24/steelers-intriguing-unexpected-update): SteelerNation, 2026-10-24 19:15 UTC
 - [Steelers activate S DeShon Elliott](https://sports.yahoo.com/articles/steelers-activate-deshon-elliott-190539337.html): Yahoo Sports, 2026-10-24 19:05 UTC
 - [‘You Just F—ed Us’: Joe Haden Reflects On Botched Pass Interference Call Against Saints](https://steelersdepot.com/2026/10/you-just-f-ed-us-joe-haden-reflects-on-botched-pass-interference-call-against-saints/): Steelers Depot, 2026-10-24 19:00 UTC
@@ -49,7 +50,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers vs. Saints Bold Predictions: Offense Puts on a Show](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-bold-predictions-offense-puts-show): All Steelers (Sports Illustrated), 2026-10-24 14:00 UTC
 - [Steelers keys to victory vs. Saints: Get Jaylen Warren the ball](https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176836/steelers-keys-to-victory-vs-saints-get-jaylen-warren-the-ball): Behind the Steel Curtain, 2026-10-24 14:00 UTC
 - [Saints already have a troubling edge over Steelers ahead of Paris showdown](https://stillcurtain.com/saints-already-have-a-troubling-edge-over-pittsburgh-steelers-ahead-of-paris-showdown-01m5cr7j0wrj?utm_source=RSS): Still Curtain, 2026-10-24 14:00 UTC
-- [Mason McCormick Made a Massive Leadership Move to Help Steelers Rookie Bounce Back](https://athlonsports.com/nfl/pittsburgh-steelers/mason-mccormick-made-a-massive-leadership-move-to-help-steelers-rookie-bounce-back): Athlon Sports, 2026-10-24 14:00 UTC
 - [Steelers to Debut New Uniform Combination in Paris](https://steelersnow.com/steelers-to-debut-new-uniform-combination-in-paris/): Steelers Now, 2026-10-24 13:55 UTC
 - [Pittsburgh Steelers Named as Landing Spot for $92M WR in Blockbuster Move](https://heavy.com/sports/nfl/pittsburgh-steelers/landing-spot-calvin-ridley-blockbuster/): Heavy.com, 2026-10-24 13:45 UTC
 - [Steelers To Wear New Uniform Combination Against Saints](https://steelersdepot.com/2026/10/steelers-to-wear-new-uniform-combination-against-saints/): Steelers Depot, 2026-10-24 13:44 UTC
