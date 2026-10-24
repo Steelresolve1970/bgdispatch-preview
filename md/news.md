@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-24T20:13:33+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T20:12:59+00:00._
+_Generated 2026-10-24T20:24:29+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T20:23:47+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Patrick Queen Fined For Hit In Week 6](https://steelersdepot.com/2026/10/patrick-queen-fined-for-hit-in-week-6/): Steelers Depot, 2026-10-24 20:09 UTC

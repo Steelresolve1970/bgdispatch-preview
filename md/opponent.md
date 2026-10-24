@@ -1,6 +1,6 @@
 # Steelers Opponent Preview
 
-_Generated 2026-10-24T20:13:33+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T20:13:22+00:00._
+_Generated 2026-10-24T20:24:29+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T20:24:09+00:00._
 
 Week 7: Steelers at **New Orleans Saints** (NO 2-4), kickoff 2026-10-25 13:30 UTC, Stade de France.
 
@@ -20,8 +20,8 @@ Last 5: NO W 24-17 @ BAL L 35-27 vs LV L 45-24 vs ATL L 23-13 vs MIN W 34-27 @ N
 - Eric Moody (ESPN): Saints 24-21: https://www.espn.com/nfl/story/_/id/50229521/week-7-picks-predictions-schedule-fantasy-odds-2026
 - Seth Walder (ESPN): Steelers 23-22: https://www.espn.com/nfl/story/_/id/50229521/week-7-picks-predictions-schedule-fantasy-odds-2026
 - Tina Howell (Yahoo Sports): Saints 31-27: https://sports.yahoo.com/articles/saints-vs-steelers-prediction-bonjour-130000064.html
+- Ryan Pawloski (Yahoo Sports): Saints 21-18: https://sports.yahoo.com/articles/steelers-vs-saints-picks-still-110006742.html
 - Joe Jensen (Predictem): Steelers 26-19: https://www.predictem.com/nfl/steelers-vs-saints-prediction-picks-paris-week-7-odds/
-- Cappers Picks AI (Sports Cappers Picks): Steelers 27-20: https://www.capperspicks.com/free-picks/ai/pittsburgh-steelers-at-new-orleans-saints-pick-nfl-prediction-preview-odds-10-25-2026/
 
 ## Team stats (per game, NFL rank of 32)
 

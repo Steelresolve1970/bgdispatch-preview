@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-24T20:13:33+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T20:13:16+00:00._
+_Generated 2026-10-24T20:24:29+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T20:24:03+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Video: [Here Oui Go! 🇫🇷 📺: #PITvsNO 10/25 at 9:30 AM ET on NFLN](https://www.youtube.com/shorts/pN7v-dGbPdo): Pittsburgh Steelers (official), 2026-10-24 20:10 UTC
 - Video: [Elandon Roberts wants to win another one so he can enjoy it more this time 🏆🔥#nfl #patriots](https://www.youtube.com/shorts/XWo-am2_97g): Not Just Football with Cam Heyward, 2026-10-24 19:25 UTC
 - Video: [Steelers fans encounter police getting ready for protesters](https://www.youtube.com/shorts/lxzhbaIZNu8): Nick Farabaugh on PennLive, 2026-10-24 18:08 UTC
 - Video: [Are European Games a Fantasy Wasteland? with Jorden Hill | THE PITTSBURGH FOOTBALL SHOW](https://www.youtube.com/watch?v=Tn1BFHCBCMg): Steelers Now, 2026-10-24 16:29 UTC
@@ -68,7 +69,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Should Steelers Make Super Bowl-Level Trade?](https://podcasts.apple.com/us/podcast/should-steelers-make-super-bowl-level-trade/id1627248534?i=1000797637387): All Steelers Talk, 2026-10-22 15:30 UTC
 - Video: [What’s the Plan for the Steelers at Receiver 🤔 #steelers #nfl](https://www.youtube.com/shorts/ECKKbc8MiAE): Locked On Steelers, 2026-10-22 15:03 UTC
 - Podcast: [Hour 1: Deep Dive Into Saints Preview](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-102226-mp3): Steelers Blitz, 2026-10-22 15:00 UTC
-- Video: [Heath highlights loading... 📺: #PITvsNO 10/25 at 9:30 AM ET on NFLN](https://www.youtube.com/shorts/9H3pszq95nk): Pittsburgh Steelers (official), 2026-10-22 14:23 UTC
 - Video: [Steelers Night Shift: Week 7 vs. New Orleans Saints](https://www.youtube.com/watch?v=1gauqdYWUL8): Steelers Now, 2026-10-22 14:14 UTC
 - Podcast: [Hour 2: Ed Troup and Around the Shield](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr2-102226-mp3): Steelers Blitz, 2026-10-22 14:00 UTC
 - Video: [STEELERS SQUAD SHOW: Offense MUST Improve as Jaylen Warren, Aaron Rodgers Prepare for Saints & Paris](https://www.youtube.com/watch?v=Es_bukL78yk): Locked On Steelers, 2026-10-22 13:02 UTC
