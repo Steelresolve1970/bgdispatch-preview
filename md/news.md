@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-24T02:07:51+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T02:06:54+00:00._
+_Generated 2026-10-24T02:19:09+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T02:18:05+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Saints know that beating Steelers is a big deal](https://www.altoonamirror.com/sports/local-sports/2026/10/saints-know-that-beating-steelers-is-a-big-deal/): Altoona Mirror, 2026-10-24 01:06 UTC
@@ -66,7 +66,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Rodgers would've like to have arrived early, but feels safe in Paris](https://www.audacy.com/937thefan/sports/pittsburgh-steelers/aaron-rodgers-paris): Audacy, 2026-10-23 15:57 UTC
 - [How to watch Steelers vs. Saints: TV channel and streaming options for October 25](https://www.nytimes.com/athletic/7717416/2026/10/23/steelers-vs-saints-stream-how-to-watch-oct-25/): The New York Times, 2026-10-23 15:48 UTC
 - [Darnell Washington Notes What ‘Stands Out’ Most About Rookie WR Germie Bernard](https://steelersdepot.com/2026/10/darnell-washington-notes-what-stands-out-most-about-rookie-wr-germie-bernard/): Steelers Depot, 2026-10-23 15:45 UTC
-- [Danny Stutsman, Daniel Carlson, Chris Rumph II, Noah Fant, Vernon Broughton press conference | Saints vs. Steelers 2026 NFL Week 7](https://www.neworleanssaints.com/video/danny-stutsman-daniel-carlson-chris-rumph-ii-noah-fant-vernon-broughton-press-conference-saints-vs-steelers-2026-nfl-week-7-october-23-2026): New Orleans Saints | NewOrleansSaints.com, 2026-10-23 15:32 UTC
 - [Paris Police Postpone Soccer Match Scheduled For Same Day As Steelers-Saints](https://steelersdepot.com/2026/10/paris-police-postpone-soccer-match-scheduled-for-same-day-as-steelers-saints/): Steelers Depot, 2026-10-23 15:32 UTC
 - ['GMFB' previews Steelers-Saints Week 7 matchup in France](https://www.nfl.com/videos/gmfb-previews-steelers-saints-week-7-matchup-in-france): NFL.com, 2026-10-23 15:27 UTC
 - [Gabriel Rubio Acknowledges His ‘Mistakes Are Blatant,’ But Confidence ‘Absolutely’ Growing](https://steelersdepot.com/2026/10/gabriel-rubio-acknowledges-his-mistakes-are-blatant-but-confidence-absolutely-growing/): Steelers Depot, 2026-10-23 15:15 UTC
@@ -82,6 +81,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers WR DK Metcalf done with playing overseas](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176800/steelers-wr-dk-metcalf-done-with-playing-overseas): Behind the Steel Curtain, 2026-10-23 14:04 UTC
 - [Steelers' Paris game gets even more unpredictable after weather shakeup](https://stillcurtain.com/pittsburgh-steelers-paris-unpredictable-weather-shakeup-01m5mes3qpbj?utm_source=RSS): Still Curtain, 2026-10-23 14:00 UTC
 - [Steelers safety DeShon Elliott could return Sunday, a year removed from his gruesome injury](https://www.post-gazette.com/sports/steelers/2026/10/23/will-deshon-elliott-play-sunday/stories/202610230028): Pittsburgh Post-Gazette, 2026-10-23 14:00 UTC
+- [Our Defense vs. Their Offense: Pittsburgh Steelers](https://www.canalstreetchronicles.com/new-orleans-saints-discussion/116873/our-defense-vs-their-offense-saints-pittsburgh-steelers-paris-nfl-week-7): Canal Street Chronicles, 2026-10-23 14:00 UTC
 - [Rest, recover and represent Pittsburgh](https://www.steelers.com/news/rest-recover-and-represent-pittsburgh): Steelers.com (official), 2026-10-23 14:00 UTC
 - [T.J. Watt fine, Rico Dowdle questionable to play for Steelers vs. Saints](https://triblive.com/sports/t-j-watt-fine-rico-dowdle-questionable-to-play-for-steelers-vs-saints/): TribLive, 2026-10-23 13:51 UTC
 - [A big deal to play in Paris](https://www.steelers.com/news/a-big-deal-to-play-in-paris): Steelers.com (official), 2026-10-23 13:45 UTC
