@@ -1,8 +1,10 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-24T15:04:23+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T15:04:02+00:00._
+_Generated 2026-10-24T15:41:25+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T15:41:06+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Video: [Tomorrow's kit 🥶](https://www.youtube.com/shorts/6GPAo6diW7s): Pittsburgh Steelers (official), 2026-10-24 14:24 UTC
+- Video: [Burgh Bets with Bob Konarski: NFL and CFB Picks and Props for Week 7 | THE PITTSBURGH FOOTBALL SHOW](https://www.youtube.com/watch?v=YwFPjIRVICM): Steelers Now, 2026-10-24 14:18 UTC
 - Video: [Steelers Insider featuring Mike McCarthy: Week 7 at Saints in Paris | Pittsburgh Steelers](https://www.youtube.com/watch?v=_vNjXJpcPiA): Pittsburgh Steelers (official), 2026-10-24 13:38 UTC
 - Video: [Truly iconic 🤩](https://www.youtube.com/shorts/UsVOspTYIBQ): Pittsburgh Steelers (official), 2026-10-23 22:54 UTC
 - Video: [Saints Preview & Predictions | Steelers Afternoon Drive](https://www.youtube.com/watch?v=voEIPYX3YNw): Steelers Now, 2026-10-23 21:57 UTC
@@ -66,7 +68,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Steelers Night Shift: Week 7 vs. New Orleans Saints](https://www.youtube.com/watch?v=1gauqdYWUL8): Steelers Now, 2026-10-22 14:14 UTC
 - Podcast: [Hour 2: Ed Troup and Around the Shield](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr2-102226-mp3): Steelers Blitz, 2026-10-22 14:00 UTC
 - Video: [STEELERS SQUAD SHOW: Offense MUST Improve as Jaylen Warren, Aaron Rodgers Prepare for Saints & Paris](https://www.youtube.com/watch?v=Es_bukL78yk): Locked On Steelers, 2026-10-22 13:02 UTC
-- Video: [Pat Freiermuth, Rico Dowdle & Marquez Valdes-Scantling (October 21) | Pittsburgh Steelers](https://www.youtube.com/watch?v=K8LljUenfns): Pittsburgh Steelers (official), 2026-10-22 13:00 UTC
 - Podcast: [Steelers' Nick Herbig Decision Could Have Better Timing](https://podcasts.apple.com/us/podcast/steelers-nick-herbig-decision-could-have-better-timing/id1627248534?i=1000797615128): All Steelers Talk, 2026-10-22 12:28 UTC
 - Podcast: [Gennings Dunker on Aaron Rodgers, Iowa Football & His NFL Journey | The Christian Kuntz Podcast](https://podcasters.spotify.com/pod/show/christian-kuntz/episodes/Gennings-Dunker-on-Aaron-Rodgers--Iowa-Football--His-NFL-Journey--The-Christian-Kuntz-Podcast-e3qrlsm): The Christian Kuntz Podcast, 2026-10-22 09:00 UTC
 - Podcast: [Pittsburgh Standard Time: Steelers fans shouldn’t feel bad about the win in Tampa Bay](https://podcasts.apple.com/us/podcast/pittsburgh-standard-time-steelers-fans-shouldnt-feel/id905962218?i=1000797805923): Steel Curtain Network (BTSC), 2026-10-22 08:00 UTC
@@ -85,7 +86,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Steelers Release Veteran DB | Chris Godwin Trade?](https://podcasts.apple.com/us/podcast/steelers-release-veteran-db-chris-godwin-trade/id1627248534?i=1000797510053): All Steelers Talk, 2026-10-21 21:45 UTC
 - Podcast: [The Terrible Take - Episode 2057 - October 21, 2026](https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2057-october-21-2026/id405990739?i=1000797504059): The Terrible Podcast (Steelers Depot), 2026-10-21 21:00 UTC
 - Video: [Cause for Concern? Steelers OT Max Iheanachor Has Taped Hand](https://www.youtube.com/watch?v=8BuJm27H0WQ): Steelers Now, 2026-10-21 20:46 UTC
-- Video: [WR Marquez Valdes-Scantling Back with Steelers | Steelers Sights & Sounds](https://www.youtube.com/watch?v=xL7r9S_Nzh4): Steelers Now, 2026-10-21 20:00 UTC
 - Podcast: [Steelers vs. Saints Week 7 Preview | Aaron Rodgers Problem Brewing](https://redcircle.com/shows/62750d24-c3c9-4be8-919a-ff22b312fb19/episodes/713cf51f-6e13-4adb-977b-bd7b8f477ea3): Still Curtain Podcast, 2026-10-21 19:35 UTC
 - Video: [The rookie Germie Bernard got his first NFL TD at the perfect time! 🔥👏#germiebernard #steelers](https://www.youtube.com/shorts/VoBCAmwhJqs): Not Just Football with Cam Heyward, 2026-10-21 17:11 UTC
 - Podcast: [Steelers Offense a One-Trick Pony? | Steelers Morning Rush](https://podcasts.apple.com/us/podcast/steelers-offense-a-one-trick-pony-steelers-morning-rush/id1700240934?i=1000797476047): Steelers Afternoon Drive, 2026-10-21 17:06 UTC
@@ -99,7 +99,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Time to Believe in One Steelers Player](https://podcasts.apple.com/us/podcast/time-to-believe-in-one-steelers-player/id1627248534?i=1000797435986): All Steelers Talk, 2026-10-21 12:18 UTC
 - Video: [Steelers' ST Grades vs Bucs](https://www.youtube.com/shorts/w_S8QFbmZHE): Steelers Almighty, 2026-10-21 11:24 UTC
 - Video: [Germie Bernard's First NFL Touchdown, Rookie Wall, Paris Preview & More! | Not Just Football](https://www.youtube.com/watch?v=gYn6X7Mzibw): Not Just Football with Cam Heyward, 2026-10-21 10:00 UTC
-- Podcast: [Germie Bernard's First NFL Touchdown, Rookie Wall, Paris Preview & More! | Not Just Football](https://www.youtube.com/@NotJustFootballwithCamHeyward): Not Just Football with Cam Heyward, 2026-10-21 10:00 UTC
+- Podcast: [Germie Bernard's First NFL Touchdown, Rookie Wall, Paris Preview & More! | Not Just Football](https://podcasts.apple.com/us/podcast/germie-bernards-first-nfl-touchdown-rookie-wall-paris/id1633134223?i=1000797421041): Not Just Football with Cam Heyward, 2026-10-21 10:00 UTC
 - Podcast: [Pittsburgh Steelers Gabriel Rubio Interview](https://arthurmoats55.libsyn.com/gabriel_rubio_yttmp3): The Arthur Moats Experience, 2026-10-21 09:52 UTC
 - Podcast: [Let's Ride: Know Your Steelers Enemy, Week 7 vs. the Saints](https://podcasts.apple.com/us/podcast/lets-ride-know-your-steelers-enemy-week-7-vs-the-saints/id905962218?i=1000797806026): Steel Curtain Network (BTSC), 2026-10-21 08:00 UTC
 - Video: [Steelers' Chameleon Defensive Scheme w/Patrick Graham Aids Weekly Adjustments | DeShon Elliott Back?](https://www.youtube.com/watch?v=2tQov8n-Txw): Locked On Steelers, 2026-10-21 06:00 UTC
@@ -162,7 +162,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [The Terrible Podcast — Steelers-Buccaneers Game Recap, Injury Recap, Clock Management, WR Rumblings & More](https://podcasts.apple.com/us/podcast/the-terrible-podcast-steelers-buccaneers-game-recap/id405990739?i=1000797117064): The Terrible Podcast (Steelers Depot), 2026-10-19 16:55 UTC
 - Video: [Not many linebackers can do what he did with a Tom Brady pass 🤯🔥#patriots #tombrady #nfl](https://www.youtube.com/shorts/YKPK-rOYb1Q): Not Just Football with Cam Heyward, 2026-10-19 16:00 UTC
 - Podcast: [Hour 1: A Takeover in Tampa](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-101926-mp3): Steelers Blitz, 2026-10-19 16:00 UTC
-- Podcast: [Hour 2: Brian Batko Break Down and Around the Shield](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/hour-2-brian-batko-break-down-and-around-the-shield): Steelers Blitz, 2026-10-19 15:00 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

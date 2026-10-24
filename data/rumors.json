@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T15:04:16.303147+00:00",
+ "generated": "2026-10-24T15:41:18.688307+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -85,10 +85,9 @@
    "first_seen": "2026-10-24T10:08:05.155041+00:00",
    "consensus": {
     "cluster_id": "14ffc5da6c16",
-    "independent_sources": 3,
+    "independent_sources": 2,
     "sources": [
      "Heavy.com",
-     "Wisconsin Sports Heroics",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
@@ -96,7 +95,6 @@
     "related_ids": [
      "85d6f65ebcd2",
      "794b3684899f",
-     "173465376593",
      "14ffc5da6c16"
     ]
    },
@@ -120,10 +118,9 @@
    "first_seen": "2026-10-23T16:52:38.787518+00:00",
    "consensus": {
     "cluster_id": "14ffc5da6c16",
-    "independent_sources": 3,
+    "independent_sources": 2,
     "sources": [
      "Heavy.com",
-     "Wisconsin Sports Heroics",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
@@ -131,7 +128,6 @@
     "related_ids": [
      "5d585445ee02",
      "794b3684899f",
-     "173465376593",
      "14ffc5da6c16"
     ]
    },
@@ -239,9 +235,9 @@
    "subjects": [
     "DeShon Elliott"
    ],
-   "status": "Rumor",
-   "status_note": null,
-   "status_link": null,
+   "status": "Confirmed",
+   "status_note": "NFLTradeRumors.co: Steelers Announce Three Moves, Activate S DeShon Elliott",
+   "status_link": "https://nfltraderumors.co/steelers-announce-three-moves-activate-s-deshon-elliott/",
    "first_seen": "2026-10-23T14:08:38.410844+00:00",
    "consensus": {
     "cluster_id": "595924af2d84",
@@ -253,7 +249,8 @@
     "highest_tier_score": 3,
     "related_ids": []
    },
-   "updated": "2026-10-23T14:08:38.410844+00:00"
+   "updated": "2026-10-24T15:41:18.688307+00:00",
+   "status_changed": "2026-10-24T15:41:18.688307+00:00"
   },
   {
    "id": "3e782f3c4f92",
@@ -866,10 +863,9 @@
    "first_seen": "2026-10-21T13:05:41.045260+00:00",
    "consensus": {
     "cluster_id": "14ffc5da6c16",
-    "independent_sources": 3,
+    "independent_sources": 2,
     "sources": [
      "Heavy.com",
-     "Wisconsin Sports Heroics",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
@@ -877,7 +873,6 @@
     "related_ids": [
      "5d585445ee02",
      "85d6f65ebcd2",
-     "173465376593",
      "14ffc5da6c16"
     ]
    },
@@ -976,10 +971,9 @@
    "first_seen": "2026-10-21T00:34:42.545004+00:00",
    "consensus": {
     "cluster_id": "14ffc5da6c16",
-    "independent_sources": 3,
+    "independent_sources": 2,
     "sources": [
      "Heavy.com",
-     "Wisconsin Sports Heroics",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
@@ -987,8 +981,7 @@
     "related_ids": [
      "5d585445ee02",
      "85d6f65ebcd2",
-     "794b3684899f",
-     "173465376593"
+     "794b3684899f"
     ]
    },
    "updated": "2026-10-21T00:34:42.545004+00:00"

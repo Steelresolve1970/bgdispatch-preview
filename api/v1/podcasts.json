@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-24T15:04:23+00:00",
- "data_updated": "2026-10-24T15:04:02+00:00",
- "count": 160,
+ "generated": "2026-10-24T15:41:25+00:00",
+ "data_updated": "2026-10-24T15:41:06+00:00",
+ "count": 159,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -19,6 +19,32 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/podcasts",
  "items": [
+  {
+   "id": "9eb890bb5c422395",
+   "type": "video",
+   "title": "Tomorrow's kit 🥶",
+   "show": "Pittsburgh Steelers (official)",
+   "url": "https://www.youtube.com/shorts/6GPAo6diW7s",
+   "published": "2026-10-24T14:24:36+00:00",
+   "summary": "Video from Pittsburgh Steelers (official).",
+   "source": {
+    "name": "Pittsburgh Steelers (official)",
+    "url": null
+   }
+  },
+  {
+   "id": "4287ec3a02440308",
+   "type": "video",
+   "title": "Burgh Bets with Bob Konarski: NFL and CFB Picks and Props for Week 7 | THE PITTSBURGH FOOTBALL SHOW",
+   "show": "Steelers Now",
+   "url": "https://www.youtube.com/watch?v=YwFPjIRVICM",
+   "published": "2026-10-24T14:18:18+00:00",
+   "summary": "Video from Steelers Now.",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   }
+  },
   {
    "id": "a5788d99407472c3",
    "type": "video",
@@ -839,19 +865,6 @@
    }
   },
   {
-   "id": "775d4aadfd8e64e2",
-   "type": "video",
-   "title": "Pat Freiermuth, Rico Dowdle & Marquez Valdes-Scantling (October 21) | Pittsburgh Steelers",
-   "show": "Pittsburgh Steelers (official)",
-   "url": "https://www.youtube.com/watch?v=K8LljUenfns",
-   "published": "2026-10-22T13:00:10+00:00",
-   "summary": "Video from Pittsburgh Steelers (official).",
-   "source": {
-    "name": "Pittsburgh Steelers (official)",
-    "url": null
-   }
-  },
-  {
    "id": "e5dc8d0030392da6",
    "type": "podcast_episode",
    "title": "Steelers' Nick Herbig Decision Could Have Better Timing",
@@ -1086,19 +1099,6 @@
    }
   },
   {
-   "id": "0a4b412e9a9d8bf9",
-   "type": "video",
-   "title": "WR Marquez Valdes-Scantling Back with Steelers | Steelers Sights & Sounds",
-   "show": "Steelers Now",
-   "url": "https://www.youtube.com/watch?v=xL7r9S_Nzh4",
-   "published": "2026-10-21T20:00:53+00:00",
-   "summary": "Video from Steelers Now.",
-   "source": {
-    "name": "Steelers Now",
-    "url": null
-   }
-  },
-  {
    "id": "240b317b1eb32ef3",
    "type": "podcast_episode",
    "title": "Steelers vs. Saints Week 7 Preview | Aaron Rodgers Problem Brewing",
@@ -1268,11 +1268,11 @@
    }
   },
   {
-   "id": "2ed6132323e2d6f6",
+   "id": "0b911ab61dc492c9",
    "type": "podcast_episode",
    "title": "Germie Bernard's First NFL Touchdown, Rookie Wall, Paris Preview & More! | Not Just Football",
    "show": "Not Just Football with Cam Heyward",
-   "url": "https://www.youtube.com/@NotJustFootballwithCamHeyward",
+   "url": "https://podcasts.apple.com/us/podcast/germie-bernards-first-nfl-touchdown-rookie-wall-paris/id1633134223?i=1000797421041",
    "published": "2026-10-21T10:00:00+00:00",
    "summary": "Podcast episode from Not Just Football with Cam Heyward.",
    "source": {
@@ -2080,19 +2080,6 @@
    "show": "Steelers Blitz",
    "url": "https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-101926-mp3",
    "published": "2026-10-19T16:00:00+00:00",
-   "summary": "Podcast episode from Steelers Blitz.",
-   "source": {
-    "name": "Steelers Blitz",
-    "url": null
-   }
-  },
-  {
-   "id": "1a0b4b3501d0e612",
-   "type": "podcast_episode",
-   "title": "Hour 2: Brian Batko Break Down and Around the Shield",
-   "show": "Steelers Blitz",
-   "url": "https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/hour-2-brian-batko-break-down-and-around-the-shield",
-   "published": "2026-10-19T15:00:00+00:00",
    "summary": "Podcast episode from Steelers Blitz.",
    "source": {
     "name": "Steelers Blitz",
