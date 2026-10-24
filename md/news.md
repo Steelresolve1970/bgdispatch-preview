@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-24T09:06:33+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T09:05:50+00:00._
+_Generated 2026-10-24T10:08:11+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T09:19:31+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [What Are The Odds Steelers Run Record To 6-2 Going Into Bye Week?](https://steelersdepot.com/2026/10/what-are-the-odds-steelers-run-record-to-6-2-going-into-bye-week/): Steelers Depot, 2026-10-24 09:00 UTC
@@ -94,6 +94,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [After full week of practice, all signs point to DeShon Elliott returning to action for Steelers](https://triblive.com/sports/after-full-week-of-practice-all-signs-point-to-deshon-elliott-returning-to-action-for-steelers/): TribLive, 2026-10-23 13:28 UTC
 - [Five things to know about the New Orleans Saints for Friday, October 23](https://www.neworleanssaints.com/news/five-things-to-know-about-the-new-orleans-saints-steelers-matchup-week-7-friday-october-23): New Orleans Saints | NewOrleansSaints.com, 2026-10-23 13:16 UTC
 - [Steelers Get Good News on Alex Highsmith](https://steelersnow.com/steelers-get-good-news-on-alex-highsmith/): Steelers Now, 2026-10-23 13:09 UTC
+- [Morning Break: Alvin Kamara carries momentum into Saints’ Paris matchup](https://www.neworleanssaints.com/news/morning-break-alvin-kamara-carries-momentum-into-saints-paris-matchup-new-orleans-news-headlines-10-23-2026): New Orleans Saints | NewOrleansSaints.com, 2026-10-23 13:09 UTC
 - [Steelers Could Be Without Key Offensive Weapon vs. Saints](https://steelersnow.com/steelers-could-be-without-key-offensive-weapon-vs-saints/): Steelers Now, 2026-10-23 13:00 UTC
 - [Steelers-Saints preview: What to expect from New Orleans’ offense, defense in Week 7](https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176734/steelers-saints-preview-what-to-expect-from-new-orleans-offense-defense-in-week-7): Behind the Steel Curtain, 2026-10-23 13:00 UTC
 - [Steelers Reveal DeShon Elliott’s Status vs. Saints](https://steelersnow.com/steelers-reveal-deshon-elliotts-status-vs-saints/): Steelers Now, 2026-10-23 12:35 UTC
@@ -113,7 +114,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers 4 Downs: The analytics say team’s defense is among league’s best](https://triblive.com/sports/steelers-4-downs-the-analytics-say-steelers-defense-is-among-leagues-best/): TribLive, 2026-10-23 10:30 UTC
 - [Wind storm in Paris compels Steelers to cancel outdoor practice after arriving in France](https://triblive.com/sports/wind-storm-in-paris-compels-steelers-to-cancel-practice-after-arriving-in-france/): TribLive, 2026-10-23 10:25 UTC
 - [Steelers’ Aaron Rodgers just said what he’s thinking about the shocking Jalen Hurts blood clot controversy](https://www.pennlive.com/steelers/2026/10/steelers-aaron-rodgers-just-said-what-hes-thinking-about-the-shocking-jalen-hurts-blood-clot-controversy.html): PennLive (Nick Farabaugh), 2026-10-23 10:10 UTC
-- [DK Metcalf has prime chance to spark Steelers offense in Paris vs. Saints](https://www.usatoday.com/story/sports/nfl/steelers/2026/10/23/steelers-dk-metcalf-stats-nfl-paris-saints/92382649007/): USA Today, 2026-10-23 10:06 UTC
 - [Football Footnotes: Matchup vs. Saints could allow Steelers’ offense to fix some obvious flaws](https://triblive.com/sports/football-footnotes-matchup-vs-saints-could-allow-steelers-offense-to-fix-some-obvious-flaws/): TribLive, 2026-10-23 10:01 UTC
 - [Scouting the Saints: Steelers rarely have met their opponent but will in France on Sunday](https://triblive.com/sports/scouting-the-saints-steelers-rarely-have-met-their-opponent-but-will-in-france-on-sunday/): TribLive, 2026-10-23 10:01 UTC
 - [Germie Bernard award watch: Steelers rookie is suddenly a real OROY threat](https://stillcurtain.com/germie-bernard-award-watch-pittsburgh-steelers-rookie-is-suddenly-a-real-oroy-threat-01m5jc6d3jb7?utm_source=RSS): Still Curtain, 2026-10-23 10:00 UTC

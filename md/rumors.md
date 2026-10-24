@@ -1,10 +1,10 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-24T09:06:33+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T09:06:26+00:00._
+_Generated 2026-10-24T10:08:11+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T10:08:05+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
-- **Rumor** · tier: Aggregator / other · consensus: 4 source(s), top tier National insider
-  [Steelers' Latest Trade Buzz Would Add Another Weapon For Aaron Rodgers](https://gridironheroics.com/steelers-trade-buzz-weapon-aaron-rodgers/): Gridiron Heroics, first seen 2026-10-23 19:25 UTC
+- **Rumor** · tier: National insider · consensus: 4 source(s), top tier National insider
+  [Steelers’ Latest Trade Buzz Would Add Another Weapon for Aaron Rodgers](https://sports.yahoo.com/articles/steelers-latest-trade-buzz-add-184548332.html): Yahoo Sports, first seen 2026-10-24 10:08 UTC
 - **Rumor** · tier: National insider · consensus: 4 source(s), top tier National insider
   [Steelers bring back Aaron Rodgers’ former Packers target after Chargers release](https://sports.yahoo.com/articles/steelers-bring-back-aaron-rodgers-160000327.html): Yahoo Sports, first seen 2026-10-23 16:52 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
