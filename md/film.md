@@ -1,6 +1,6 @@
 # Steelers Film Room & Previews
 
-_Generated 2026-10-24T01:03:11+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T00:44:00+00:00._
+_Generated 2026-10-24T01:22:14+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T01:20:56+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/film.json_
 
 - Breakdown (at Tampa Bay Buccaneers (Oct 18)): [DB’s Steelers Film Room: Jamel Dean Saves the Day in Tampa](https://steelersnow.com/dbs-steelers-film-room-jamel-dean-saves-the-day-in-tampa/): Steelers Now, 2026-10-21 14:57 UTC
@@ -11,11 +11,8 @@ _JSON: https://blackandgolddispatch.com/api/v1/film.json_
 - Preview (at New Orleans Saints (Oct 25)): [Steelers Afternoon Drive: Saints Preview & Predictions](https://steelersnow.com/steelers-afternoon-drive-saints-preview-predictions/): Steelers Now, 2026-10-23 22:00 UTC
 - Preview (at New Orleans Saints (Oct 25)): [Steelers Need to Fan the Flames vs the Saints in Paris? | Scouting Report Week 7](https://www.youtube.com/watch?v=qbm-DUnLP_c): Steelers Almighty, 2026-10-23 18:20 UTC
 - Preview (at New Orleans Saints (Oct 25)): [Saints Offense Scouting Report: Where Pittsburgh Should Be Worried Most](https://steelersdepot.com/2026/10/saints-offense-scouting-report-where-pittsburgh-should-be-worried-most/): Alex Kozora (Steelers Depot), 2026-10-23 13:30 UTC
-- Preview (at New Orleans Saints (Oct 25)): [Steelers Keys to Victory vs. the Saints, Week 7 | Let's Ride](https://www.youtube.com/watch?v=X5XbLf_39yo): Steel Curtain Network (BTSC), 2026-10-23 13:21 UTC
 - Preview (at New Orleans Saints (Oct 25)): [Steelers-Saints preview: What to expect from New Orleans’ offense, defense in Week 7](https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176734/steelers-saints-preview-what-to-expect-from-new-orleans-offense-defense-in-week-7): Behind the Steel Curtain, 2026-10-23 13:00 UTC
 - Preview (at New Orleans Saints (Oct 25)): [Saints Defense Scouting Report: Steelers Have Chance To Continue YAC Attack](https://steelersdepot.com/2026/10/saints-defense-scouting-report-steelers-have-chance-to-continue-yac-attack/): Alex Kozora (Steelers Depot), 2026-10-23 12:30 UTC
-- Preview (at New Orleans Saints (Oct 25)): [Steelers Preview: Previewing Steelers vs. Saints, Week 7](https://www.youtube.com/watch?v=sJ3ox8BKdMA): Steel Curtain Network (BTSC), 2026-10-23 10:13 UTC
-- Preview (at New Orleans Saints (Oct 25)): [Steelers vs. Saints Week 7 Preview | Aaron Rodgers Problem Brewing](https://www.youtube.com/watch?v=B0agqGjSVpU): Still Curtain, 2026-10-22 06:58 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

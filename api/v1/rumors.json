@@ -2,8 +2,8 @@
  "api_version": "1",
  "dataset": "rumors",
  "description": "Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).",
- "generated": "2026-10-24T01:03:11+00:00",
- "data_updated": "2026-10-24T01:03:04+00:00",
+ "generated": "2026-10-24T01:22:14+00:00",
+ "data_updated": "2026-10-24T01:22:07+00:00",
  "count": 55,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
@@ -146,10 +146,11 @@
    "people": [],
    "consensus": {
     "cluster_id": "05c9cabecb81",
-    "independent_sources": 4,
+    "independent_sources": 5,
     "sources": [
      "Athlon Sports",
      "Carlisle Sentinel",
+     "Steeler Nation",
      "SteelerNation",
      "Yahoo Sports"
     ],
@@ -158,6 +159,7 @@
     "related_ids": [
      "514b4160b9de",
      "f2f844c42164",
+     "39cb62c3b9ca",
      "33136c96597c",
      "05c9cabecb81"
     ]
@@ -370,10 +372,11 @@
    ],
    "consensus": {
     "cluster_id": "05c9cabecb81",
-    "independent_sources": 4,
+    "independent_sources": 5,
     "sources": [
      "Athlon Sports",
      "Carlisle Sentinel",
+     "Steeler Nation",
      "SteelerNation",
      "Yahoo Sports"
     ],
@@ -382,6 +385,7 @@
     "related_ids": [
      "75724089f665",
      "f2f844c42164",
+     "39cb62c3b9ca",
      "33136c96597c",
      "05c9cabecb81"
     ]
@@ -825,13 +829,16 @@
    "people": [],
    "consensus": {
     "cluster_id": "28359084a15f",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
+     "Steeler Nation",
      "SteelerNation"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "de85e8c040f7"
+    ]
    }
   },
   {
@@ -1142,10 +1149,11 @@
    "people": [],
    "consensus": {
     "cluster_id": "05c9cabecb81",
-    "independent_sources": 4,
+    "independent_sources": 5,
     "sources": [
      "Athlon Sports",
      "Carlisle Sentinel",
+     "Steeler Nation",
      "SteelerNation",
      "Yahoo Sports"
     ],
@@ -1155,6 +1163,7 @@
      "75724089f665",
      "514b4160b9de",
      "f2f844c42164",
+     "39cb62c3b9ca",
      "05c9cabecb81"
     ]
    }
@@ -1179,13 +1188,16 @@
    "people": [],
    "consensus": {
     "cluster_id": "dd1f84d92d9c",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
+     "Steeler Nation",
      "SteelerNation"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "d949037efd22"
+    ]
    }
   },
   {
@@ -1208,13 +1220,16 @@
    "people": [],
    "consensus": {
     "cluster_id": "b54dd8fd8410",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
+     "Steeler Nation",
      "SteelerNation"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "405f68f18baa"
+    ]
    }
   },
   {
@@ -1811,10 +1826,11 @@
    "people": [],
    "consensus": {
     "cluster_id": "05c9cabecb81",
-    "independent_sources": 4,
+    "independent_sources": 5,
     "sources": [
      "Athlon Sports",
      "Carlisle Sentinel",
+     "Steeler Nation",
      "SteelerNation",
      "Yahoo Sports"
     ],
@@ -1824,6 +1840,7 @@
      "75724089f665",
      "514b4160b9de",
      "f2f844c42164",
+     "39cb62c3b9ca",
      "33136c96597c"
     ]
    }
