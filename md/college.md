@@ -1,6 +1,6 @@
 # College Prospects at Steelers Needs
 
-_Generated 2026-10-24T23:08:36+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T21:07:25+00:00._
+_Generated 2026-10-24T23:19:21+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T21:07:25+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/college.json_
 
 ### Quarterback

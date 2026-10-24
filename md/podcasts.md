@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-24T23:08:36+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T23:08:17+00:00._
+_Generated 2026-10-24T23:19:21+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T23:19:04+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Video: [Steelers Insider featuring Mike McCarthy: Week 7 at Saints in Paris | Pittsburgh Steelers](https://www.youtube.com/watch?v=_vNjXJpcPiA): Pittsburgh Steelers (official), 2026-10-24 23:00 UTC
 - Podcast: [The Terrible Take - Episode 2060 - October 24, 2026](https://podcasts.apple.com/us/podcast/id405990739): The Terrible Podcast (Steelers Depot), 2026-10-24 21:00 UTC
 - Video: [Here Oui Go! 🇫🇷 📺: #PITvsNO 10/25 at 9:30 AM ET on NFLN](https://www.youtube.com/shorts/pN7v-dGbPdo): Pittsburgh Steelers (official), 2026-10-24 20:10 UTC
 - Video: [Elandon Roberts wants to win another one so he can enjoy it more this time 🏆🔥#nfl #patriots](https://www.youtube.com/shorts/XWo-am2_97g): Not Just Football with Cam Heyward, 2026-10-24 19:25 UTC
@@ -10,7 +11,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Are European Games a Fantasy Wasteland? with Jorden Hill | THE PITTSBURGH FOOTBALL SHOW](https://www.youtube.com/watch?v=Tn1BFHCBCMg): Steelers Now, 2026-10-24 16:29 UTC
 - Video: [Tomorrow's kit 🥶](https://www.youtube.com/shorts/6GPAo6diW7s): Pittsburgh Steelers (official), 2026-10-24 14:24 UTC
 - Video: [Burgh Bets with Bob Konarski: NFL and CFB Picks and Props for Week 7 | THE PITTSBURGH FOOTBALL SHOW](https://www.youtube.com/watch?v=YwFPjIRVICM): Steelers Now, 2026-10-24 14:18 UTC
-- Video: [Steelers Insider featuring Mike McCarthy: Week 7 at Saints in Paris | Pittsburgh Steelers](https://www.youtube.com/watch?v=_vNjXJpcPiA): Pittsburgh Steelers (official), 2026-10-24 13:38 UTC
 - Video: [Truly iconic 🤩](https://www.youtube.com/shorts/UsVOspTYIBQ): Pittsburgh Steelers (official), 2026-10-23 22:54 UTC
 - Podcast: [Saints Preview & Predictions | Steelers Afternoon Drive](https://podcasts.apple.com/us/podcast/saints-preview-predictions-steelers-afternoon-drive/id1700240934?i=1000797851889): Steelers Afternoon Drive, 2026-10-23 21:59 UTC
 - Video: [Saints Preview & Predictions | Steelers Afternoon Drive](https://www.youtube.com/watch?v=voEIPYX3YNw): Steelers Now, 2026-10-23 21:57 UTC
