@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T02:29:37.560443+00:00",
+ "generated": "2026-10-24T02:40:59.001484+00:00",
  "game": {
   "label": "at New Orleans Saints (Oct 25)",
   "opponent": "New Orleans Saints",
@@ -55,8 +55,8 @@
    "creator": "Merril Hoge \u2013 Steelers Playbook (official)",
    "mode": "official",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChaRXjMDs4ppKfnTPE6Z89w",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
@@ -87,8 +87,8 @@
    "creator": "Cover 1",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UClL6eJS1s8xmRoYRQbYgxQQ",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
@@ -143,16 +143,16 @@
    "creator": "Steel Curtain Network (BTSC)",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqZ9EXmGxrTBTOhg7qldDvA",
-   "status": "ok",
-   "feed_items": 15,
-   "in_window": 2
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
+   "in_window": 0
   },
   {
    "creator": "Arthur Moats Experience",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFPpVnzIt33ZPQglYd7MOqQ",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
@@ -167,24 +167,24 @@
    "creator": "Steelers Depot (YouTube)",
    "mode": "steelers",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFqbkq2BzNY3iQ_FPveqVhw",
-   "status": "ok",
-   "feed_items": 15,
-   "in_window": 1
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
+   "in_window": 0
   },
   {
    "creator": "Pittsburgh Steelers (official)",
    "mode": "official-yt",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChaRXjMDs4ppKfnTPE6Z89w",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 500: Internal Server Error",
+   "feed_items": 0,
    "in_window": 0
   },
   {
    "creator": "Baldy's Breakdowns",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHdXqjAWwGqEGfC1a9319Mw",
-   "status": "ok",
-   "feed_items": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "feed_items": 0,
    "in_window": 0
   },
   {
@@ -230,27 +230,11 @@
    "game": "at New Orleans Saints (Oct 25)"
   },
   {
-   "title": "The Terrible Podcast \u2014 Steelers Vs Saints Game Preview, Joseph-Day To IR, Week 7 Picks, And More",
-   "creator": "Steelers Depot (YouTube)",
-   "link": "https://www.youtube.com/watch?v=KSUKvtclF40",
-   "published": "2026-10-23T16:24:26+00:00",
-   "summary": "Preview by Steelers Depot (YouTube) for at New Orleans Saints (Oct 25).",
-   "game": "at New Orleans Saints (Oct 25)"
-  },
-  {
    "title": "Saints Offense Scouting Report: Where Pittsburgh Should Be Worried Most",
    "creator": "Alex Kozora (Steelers Depot)",
    "link": "https://steelersdepot.com/2026/10/saints-offense-scouting-report-where-pittsburgh-should-be-worried-most/",
    "published": "2026-10-23T13:30:10+00:00",
    "summary": "Preview by Alex Kozora (Steelers Depot) for at New Orleans Saints (Oct 25).",
-   "game": "at New Orleans Saints (Oct 25)"
-  },
-  {
-   "title": "Steelers Keys to Victory vs. the Saints, Week 7 | Let's Ride",
-   "creator": "Steel Curtain Network (BTSC)",
-   "link": "https://www.youtube.com/watch?v=X5XbLf_39yo",
-   "published": "2026-10-23T13:21:58+00:00",
-   "summary": "Preview by Steel Curtain Network (BTSC) for at New Orleans Saints (Oct 25).",
    "game": "at New Orleans Saints (Oct 25)"
   },
   {
@@ -267,14 +251,6 @@
    "link": "https://steelersdepot.com/2026/10/saints-defense-scouting-report-steelers-have-chance-to-continue-yac-attack/",
    "published": "2026-10-23T12:30:34+00:00",
    "summary": "Preview by Alex Kozora (Steelers Depot) for at New Orleans Saints (Oct 25).",
-   "game": "at New Orleans Saints (Oct 25)"
-  },
-  {
-   "title": "Steelers Preview: Previewing Steelers vs. Saints, Week 7",
-   "creator": "Steel Curtain Network (BTSC)",
-   "link": "https://www.youtube.com/watch?v=sJ3ox8BKdMA",
-   "published": "2026-10-23T10:13:16+00:00",
-   "summary": "Preview by Steel Curtain Network (BTSC) for at New Orleans Saints (Oct 25).",
    "game": "at New Orleans Saints (Oct 25)"
   }
  ],
@@ -293,5 +269,5 @@
   "youtube": null,
   "embed": null
  },
- "count": 8
+ "count": 5
 }
