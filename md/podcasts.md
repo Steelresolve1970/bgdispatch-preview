@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-24T20:02:43+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T20:02:25+00:00._
+_Generated 2026-10-24T20:13:33+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T20:13:16+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Elandon Roberts wants to win another one so he can enjoy it more this time 🏆🔥#nfl #patriots](https://www.youtube.com/shorts/XWo-am2_97g): Not Just Football with Cam Heyward, 2026-10-24 19:25 UTC
@@ -10,11 +10,12 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Burgh Bets with Bob Konarski: NFL and CFB Picks and Props for Week 7 | THE PITTSBURGH FOOTBALL SHOW](https://www.youtube.com/watch?v=YwFPjIRVICM): Steelers Now, 2026-10-24 14:18 UTC
 - Video: [Steelers Insider featuring Mike McCarthy: Week 7 at Saints in Paris | Pittsburgh Steelers](https://www.youtube.com/watch?v=_vNjXJpcPiA): Pittsburgh Steelers (official), 2026-10-24 13:38 UTC
 - Video: [Truly iconic 🤩](https://www.youtube.com/shorts/UsVOspTYIBQ): Pittsburgh Steelers (official), 2026-10-23 22:54 UTC
+- Podcast: [Saints Preview & Predictions | Steelers Afternoon Drive](https://podcasts.apple.com/us/podcast/saints-preview-predictions-steelers-afternoon-drive/id1700240934?i=1000797851889): Steelers Afternoon Drive, 2026-10-23 21:59 UTC
 - Video: [Saints Preview & Predictions | Steelers Afternoon Drive](https://www.youtube.com/watch?v=voEIPYX3YNw): Steelers Now, 2026-10-23 21:57 UTC
 - Video: [THE PITTSBURGH FOOTBALL SHOW, Episode 7, Oct. 23, 2026](https://www.youtube.com/watch?v=m3oM_Pej1Tk): Steelers Now, 2026-10-23 21:51 UTC
-- Podcast: [Steelers RB Injured | Aaron Rodgers Fires Back at Paris Trip](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-23 21:12 UTC
-- Podcast: [The Terrible Take - Episode 2059 - October 23, 2026](https://podcasts.apple.com/us/podcast/id405990739): The Terrible Podcast (Steelers Depot), 2026-10-23 21:00 UTC
-- Podcast: [Live Shot of Steelers: Game preview in Paris!](https://podcasts.apple.com/us/podcast/id1072021022): DK Pittsburgh Sports, 2026-10-23 20:39 UTC
+- Podcast: [Steelers RB Injured | Aaron Rodgers Fires Back at Paris Trip](https://podcasts.apple.com/us/podcast/steelers-rb-injured-aaron-rodgers-fires-back-at-paris-trip/id1627248534?i=1000797846180): All Steelers Talk, 2026-10-23 21:12 UTC
+- Podcast: [The Terrible Take - Episode 2059 - October 23, 2026](https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2059-october-23-2026/id405990739?i=1000797844228): The Terrible Podcast (Steelers Depot), 2026-10-23 21:00 UTC
+- Podcast: [Live Shot of Steelers: Game preview in Paris!](https://podcasts.apple.com/us/podcast/live-shot-of-steelers-game-preview-in-paris/id1072021022?i=1000797842087): DK Pittsburgh Sports, 2026-10-23 20:39 UTC
 - Video: [Pittsburgh meets Paris 🤝🇫🇷](https://www.youtube.com/shorts/lH7u5sp1AWk): Pittsburgh Steelers (official), 2026-10-23 20:33 UTC
 - Video: [The Steelers Play That Changed Elandon Roberts' Career](https://www.youtube.com/watch?v=trO9lggiV-E): Not Just Football with Cam Heyward, 2026-10-23 18:00 UTC
 - Video: [Benton, Dean, Washington & Rubio Press Conference (October 23) | Pittsburgh Steelers](https://www.youtube.com/watch?v=wHQaj0ZAn9A): Pittsburgh Steelers (official), 2026-10-23 17:54 UTC
