@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-24T10:08:11+00:00",
- "data_updated": "2026-10-24T10:07:52+00:00",
- "count": 149,
+ "generated": "2026-10-24T11:13:37+00:00",
+ "data_updated": "2026-10-24T11:13:21+00:00",
+ "count": 163,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -137,6 +137,19 @@
    }
   },
   {
+   "id": "168ba5b4befe436d",
+   "type": "podcast_episode",
+   "title": "Did Steelers Make Travel Mistake? Grand Finale with Jack Hillgrove | THE PITTSBURGH FOOTBALL SHOW",
+   "show": "Steelers Afternoon Drive",
+   "url": "https://podcasts.apple.com/us/podcast/did-steelers-make-travel-mistake-grand-finale-with/id1700240934?i=1000797823156",
+   "published": "2026-10-23T17:34:00+00:00",
+   "summary": "Podcast episode from Steelers Afternoon Drive.",
+   "source": {
+    "name": "Steelers Afternoon Drive",
+    "url": null
+   }
+  },
+  {
    "id": "10fc5ceca5904bf2",
    "type": "video",
    "title": "Did Steelers Make Travel Mistake? Grand Finale with Jack Hillgrove | THE PITTSBURGH FOOTBALL SHOW",
@@ -163,6 +176,32 @@
    }
   },
   {
+   "id": "27cf69d8e1c52b69",
+   "type": "podcast_episode",
+   "title": "Smitty's Six Pack of Steelers-Saints Topics | THE PITTSBURGH FOOTBALL SHOW",
+   "show": "Steelers Afternoon Drive",
+   "url": "https://podcasts.apple.com/us/podcast/smittys-six-pack-of-steelers-saints-topics/id1700240934?i=1000797816492",
+   "published": "2026-10-23T16:49:00+00:00",
+   "summary": "Podcast episode from Steelers Afternoon Drive.",
+   "source": {
+    "name": "Steelers Afternoon Drive",
+    "url": null
+   }
+  },
+  {
+   "id": "41087332c3059b49",
+   "type": "podcast_episode",
+   "title": "Boots on the Ground in Paris with Nick Farabaugh | THE PITTSBURGH FOOTBALL SHOW",
+   "show": "Steelers Afternoon Drive",
+   "url": "https://podcasts.apple.com/us/podcast/boots-on-the-ground-in-paris-with-nick/id1700240934?i=1000797816579",
+   "published": "2026-10-23T16:46:00+00:00",
+   "summary": "Podcast episode from Steelers Afternoon Drive.",
+   "source": {
+    "name": "Steelers Afternoon Drive",
+    "url": null
+   }
+  },
+  {
    "id": "2214c23b451e1799",
    "type": "video",
    "title": "Boots on the Ground in Paris with Nick Farabaugh | THE PITTSBURGH FOOTBALL SHOW",
@@ -176,6 +215,19 @@
    }
   },
   {
+   "id": "800ab6933fb252e6",
+   "type": "podcast_episode",
+   "title": "THE PITTSBURGH FOOTBALL SHOW, Episode 7, Oct. 23, 2026",
+   "show": "Steelers Afternoon Drive",
+   "url": "https://podcasts.apple.com/us/podcast/the-pittsburgh-football-show-episode-7-oct-23-2026/id1700240934?i=1000797816553",
+   "published": "2026-10-23T16:43:00+00:00",
+   "summary": "Podcast episode from Steelers Afternoon Drive.",
+   "source": {
+    "name": "Steelers Afternoon Drive",
+    "url": null
+   }
+  },
+  {
    "id": "339f0740d125d3df",
    "type": "video",
    "title": "The Steelers Shouldn't Be Playing in Paris | Steelers Morning Rush",
@@ -185,6 +237,19 @@
    "summary": "Video from Steelers Now.",
    "source": {
     "name": "Steelers Now",
+    "url": null
+   }
+  },
+  {
+   "id": "988e2bf2103a0305",
+   "type": "podcast_episode",
+   "title": "The Steelers Shouldn't Be Playing in Paris | Steelers Morning Rush",
+   "show": "Steelers Afternoon Drive",
+   "url": "https://podcasts.apple.com/us/podcast/the-steelers-shouldnt-be-playing-in-paris-steelers/id1700240934?i=1000797813600",
+   "published": "2026-10-23T16:36:00+00:00",
+   "summary": "Podcast episode from Steelers Afternoon Drive.",
+   "source": {
+    "name": "Steelers Afternoon Drive",
     "url": null
    }
   },
@@ -280,11 +345,11 @@
    }
   },
   {
-   "id": "d7d6f5e4fe6a87a4",
+   "id": "c3d08b3aee9a2a94",
    "type": "podcast_episode",
    "title": "Steelers Have NO EXCUSES Against the Saints… Here’s Why #Steelers #NFL",
    "show": "The Steel City Insider (Jim Wexell, 247Sports)",
-   "url": "https://247sports.com/nfl/pittsburgh-steelers/",
+   "url": "https://podcasts.apple.com/us/podcast/steelers-have-no-excuses-against-the-saints-heres-why/id1623192893?i=1000797784376",
    "published": "2026-10-23T13:22:17+00:00",
    "summary": "Podcast episode from The Steel City Insider (Jim Wexell, 247Sports).",
    "source": {
@@ -475,6 +540,19 @@
    }
   },
   {
+   "id": "aebe83280244d13d",
+   "type": "podcast_episode",
+   "title": "Nu Leader on D-Line? | Steelers Afternoon Drive",
+   "show": "Steelers Afternoon Drive",
+   "url": "https://podcasts.apple.com/us/podcast/nu-leader-on-d-line-steelers-afternoon-drive/id1700240934?i=1000797686445",
+   "published": "2026-10-22T22:03:00+00:00",
+   "summary": "Podcast episode from Steelers Afternoon Drive.",
+   "source": {
+    "name": "Steelers Afternoon Drive",
+    "url": null
+   }
+  },
+  {
    "id": "dfe47c397088d81d",
    "type": "podcast_episode",
    "title": "T.J. Watt Injured Before Paris Game | Steelers Need New DT",
@@ -549,6 +627,19 @@
    "summary": "Video from Pittsburgh Steelers (official).",
    "source": {
     "name": "Pittsburgh Steelers (official)",
+    "url": null
+   }
+  },
+  {
+   "id": "0a7dcf7e213bd854",
+   "type": "podcast_episode",
+   "title": "Injury Bug Bites Steelers DL | Steelers Morning Rush",
+   "show": "Steelers Afternoon Drive",
+   "url": "https://podcasts.apple.com/us/podcast/injury-bug-bites-steelers-dl-steelers-morning-rush/id1700240934?i=1000797649650",
+   "published": "2026-10-22T16:59:00+00:00",
+   "summary": "Podcast episode from Steelers Afternoon Drive.",
+   "source": {
+    "name": "Steelers Afternoon Drive",
     "url": null
    }
   },
@@ -878,6 +969,19 @@
    }
   },
   {
+   "id": "7e49184319db9139",
+   "type": "podcast_episode",
+   "title": "Steelers Night Shift: Week 7 vs. New Orleans Saints",
+   "show": "Steelers Afternoon Drive",
+   "url": "https://podcasts.apple.com/us/podcast/steelers-night-shift-week-7-vs-new-orleans-saints/id1700240934?i=1000797530079",
+   "published": "2026-10-22T00:37:00+00:00",
+   "summary": "Podcast episode from Steelers Afternoon Drive.",
+   "source": {
+    "name": "Steelers Afternoon Drive",
+    "url": null
+   }
+  },
+  {
    "id": "2ac4fdb2d6d8cc6b",
    "type": "video",
    "title": "Getting DK Metcalf Going? | Steelers Practice Report",
@@ -926,6 +1030,19 @@
    "summary": "Video from Steelers Now.",
    "source": {
     "name": "Steelers Now",
+    "url": null
+   }
+  },
+  {
+   "id": "6b4845c0a6677e3a",
+   "type": "podcast_episode",
+   "title": "Can MVS Play Right Away? | Steelers Afternoon Drive",
+   "show": "Steelers Afternoon Drive",
+   "url": "https://podcasts.apple.com/us/podcast/can-mvs-play-right-away-steelers-afternoon-drive/id1700240934?i=1000797512443",
+   "published": "2026-10-21T22:03:00+00:00",
+   "summary": "Podcast episode from Steelers Afternoon Drive.",
+   "source": {
+    "name": "Steelers Afternoon Drive",
     "url": null
    }
   },
@@ -1004,6 +1121,19 @@
    "summary": "Video from Not Just Football with Cam Heyward.",
    "source": {
     "name": "Not Just Football with Cam Heyward",
+    "url": null
+   }
+  },
+  {
+   "id": "8118137fe224ec3b",
+   "type": "podcast_episode",
+   "title": "Steelers Offense a One-Trick Pony? | Steelers Morning Rush",
+   "show": "Steelers Afternoon Drive",
+   "url": "https://podcasts.apple.com/us/podcast/steelers-offense-a-one-trick-pony-steelers-morning-rush/id1700240934?i=1000797476047",
+   "published": "2026-10-21T17:06:00+00:00",
+   "summary": "Podcast episode from Steelers Afternoon Drive.",
+   "source": {
+    "name": "Steelers Afternoon Drive",
     "url": null
    }
   },
@@ -1242,11 +1372,11 @@
    }
   },
   {
-   "id": "8583a21dcd2cf379",
+   "id": "de4083b2562d02eb",
    "type": "podcast_episode",
    "title": "Paris Under Pressure: Steelers Prepare for NFL First During Unrest Abroad",
    "show": "Steelers Breakdown (PennLive, Nick Farabaugh)",
-   "url": "http://www.pennlive.com/steelers/",
+   "url": "https://podcasts.apple.com/us/podcast/paris-under-pressure-steelers-prepare-for-nfl-first/id1277196913?i=1000797352171",
    "published": "2026-10-21T00:03:00+00:00",
    "summary": "Podcast episode from Steelers Breakdown (PennLive, Nick Farabaugh).",
    "source": {
@@ -1264,6 +1394,19 @@
    "summary": "Video from Steelers Almighty.",
    "source": {
     "name": "Steelers Almighty",
+    "url": null
+   }
+  },
+  {
+   "id": "6a3f309de443b251",
+   "type": "podcast_episode",
+   "title": "Should Steelers Still Seek WR Help? | Steelers Afternoon Drive",
+   "show": "Steelers Afternoon Drive",
+   "url": "https://podcasts.apple.com/us/podcast/should-steelers-still-seek-wr-help-steelers-afternoon/id1700240934?i=1000797337923",
+   "published": "2026-10-20T22:21:00+00:00",
+   "summary": "Podcast episode from Steelers Afternoon Drive.",
+   "source": {
+    "name": "Steelers Afternoon Drive",
     "url": null
    }
   },
@@ -1489,6 +1632,19 @@
    }
   },
   {
+   "id": "037ac1b2147ac119",
+   "type": "podcast_episode",
+   "title": "Why Did Steelers Sign MVS? | Steelers Morning Rush",
+   "show": "Steelers Afternoon Drive",
+   "url": "https://podcasts.apple.com/us/podcast/why-did-steelers-sign-mvs-steelers-morning-rush/id1700240934?i=1000797271263",
+   "published": "2026-10-20T14:10:00+00:00",
+   "summary": "Podcast episode from Steelers Afternoon Drive.",
+   "source": {
+    "name": "Steelers Afternoon Drive",
+    "url": null
+   }
+  },
+  {
    "id": "d484b183d5b88497",
    "type": "podcast_episode",
    "title": "Hour 2: Unc Still Got It + Just the Toe",
@@ -1667,6 +1823,19 @@
    "summary": "Video from Locked On Steelers.",
    "source": {
     "name": "Locked On Steelers",
+    "url": null
+   }
+  },
+  {
+   "id": "7d27e10f2ff422e1",
+   "type": "podcast_episode",
+   "title": "Will Bernard Breakout Blow Up WR Plans? | Steelers Afternoon Drive",
+   "show": "Steelers Afternoon Drive",
+   "url": "https://podcasts.apple.com/us/podcast/will-bernard-breakout-blow-up-wr-plans-steelers-afternoon/id1700240934?i=1000797161882",
+   "published": "2026-10-19T22:31:00+00:00",
+   "summary": "Podcast episode from Steelers Afternoon Drive.",
+   "source": {
+    "name": "Steelers Afternoon Drive",
     "url": null
    }
   },
@@ -1931,6 +2100,32 @@
    }
   },
   {
+   "id": "fe01a90b4885e246",
+   "type": "podcast_episode",
+   "title": "Steelers INSIDER Jim Wexell Reveals Why Aaron Rodgers’ Comeback Win Changes EVERYTHING #Steelers",
+   "show": "The Steel City Insider (Jim Wexell, 247Sports)",
+   "url": "https://podcasts.apple.com/us/podcast/steelers-insider-jim-wexell-reveals-why-aaron-rodgers/id1623192893?i=1000797086130",
+   "published": "2026-10-19T14:01:09+00:00",
+   "summary": "Podcast episode from The Steel City Insider (Jim Wexell, 247Sports).",
+   "source": {
+    "name": "The Steel City Insider (Jim Wexell, 247Sports)",
+    "url": null
+   }
+  },
+  {
+   "id": "bf13b9dd8d9eb53f",
+   "type": "podcast_episode",
+   "title": "Still Celebrating Sloppy Steelers Win? | Steelers Morning Rush",
+   "show": "Steelers Afternoon Drive",
+   "url": "https://podcasts.apple.com/us/podcast/still-celebrating-sloppy-steelers-win-steelers-morning/id1700240934?i=1000797088259",
+   "published": "2026-10-19T13:59:00+00:00",
+   "summary": "Podcast episode from Steelers Afternoon Drive.",
+   "source": {
+    "name": "Steelers Afternoon Drive",
+    "url": null
+   }
+  },
+  {
    "id": "2df6af2bfc3ec275",
    "type": "podcast_episode",
    "title": "Steelers Calling for WR Trade - But There Are Rules",
@@ -1940,19 +2135,6 @@
    "summary": "Podcast episode from All Steelers Talk.",
    "source": {
     "name": "All Steelers Talk",
-    "url": null
-   }
-  },
-  {
-   "id": "9bf0ad2961c507d3",
-   "type": "podcast_episode",
-   "title": "Pittsburgh Steelers Win Week 6 vs Buccaneers - [What Went Right/Wrong In Week 6]",
-   "show": "The Arthur Moats Experience",
-   "url": "https://arthurmoats55.libsyn.com/panel_1018_ytmp3",
-   "published": "2026-10-19T09:52:00+00:00",
-   "summary": "Podcast episode from The Arthur Moats Experience.",
-   "source": {
-    "name": "The Arthur Moats Experience",
     "url": null
    }
   }

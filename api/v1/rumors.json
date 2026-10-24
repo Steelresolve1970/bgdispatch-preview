@@ -2,8 +2,8 @@
  "api_version": "1",
  "dataset": "rumors",
  "description": "Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).",
- "generated": "2026-10-24T10:08:11+00:00",
- "data_updated": "2026-10-24T10:08:05+00:00",
+ "generated": "2026-10-24T11:13:37+00:00",
+ "data_updated": "2026-10-24T11:13:31+00:00",
  "count": 45,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
@@ -39,9 +39,8 @@
    "people": [],
    "consensus": {
     "cluster_id": "14ffc5da6c16",
-    "independent_sources": 4,
+    "independent_sources": 3,
     "sources": [
-     "Gridiron Heroics",
      "Heavy.com",
      "Wisconsin Sports Heroics",
      "Yahoo Sports"
@@ -49,7 +48,6 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "6563373fdb01",
      "85d6f65ebcd2",
      "794b3684899f",
      "173465376593",
@@ -79,9 +77,8 @@
    ],
    "consensus": {
     "cluster_id": "14ffc5da6c16",
-    "independent_sources": 4,
+    "independent_sources": 3,
     "sources": [
-     "Gridiron Heroics",
      "Heavy.com",
      "Wisconsin Sports Heroics",
      "Yahoo Sports"
@@ -89,7 +86,6 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "6563373fdb01",
      "5d585445ee02",
      "794b3684899f",
      "173465376593",
@@ -905,9 +901,8 @@
    ],
    "consensus": {
     "cluster_id": "14ffc5da6c16",
-    "independent_sources": 4,
+    "independent_sources": 3,
     "sources": [
-     "Gridiron Heroics",
      "Heavy.com",
      "Wisconsin Sports Heroics",
      "Yahoo Sports"
@@ -915,7 +910,6 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "6563373fdb01",
      "5d585445ee02",
      "85d6f65ebcd2",
      "173465376593",
@@ -1026,9 +1020,8 @@
    "people": [],
    "consensus": {
     "cluster_id": "14ffc5da6c16",
-    "independent_sources": 4,
+    "independent_sources": 3,
     "sources": [
-     "Gridiron Heroics",
      "Heavy.com",
      "Wisconsin Sports Heroics",
      "Yahoo Sports"
@@ -1036,7 +1029,6 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "6563373fdb01",
      "5d585445ee02",
      "85d6f65ebcd2",
      "794b3684899f",
