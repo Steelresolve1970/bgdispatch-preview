@@ -1,8 +1,9 @@
 # NFL Insider Posts (last 3 days)
 
-_Generated 2026-10-24T20:35:15+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T20:34:47+00:00._
+_Generated 2026-10-24T20:46:00+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T20:45:32+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/insiders.json_
 
+- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mynkng342c2r), 2026-10-24 20:43 UTC: @rapsheet.bsky.social posted about NFL news.
 - [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mynk35yt6k2r), 2026-10-24 20:33 UTC: @rapsheet.bsky.social posted about injuries.
 - [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3myngs237ys2r), 2026-10-24 19:34 UTC: @rapsheet.bsky.social posted about injuries.
 - [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3myl2fjoxh22j), 2026-10-23 20:47 UTC: @rapsheet.bsky.social posted about NFL news.
