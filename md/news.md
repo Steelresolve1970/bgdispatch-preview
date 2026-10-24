@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-24T19:19:15+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T19:18:42+00:00._
+_Generated 2026-10-24T19:30:05+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T19:29:30+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Steelers Get Intriguing Unexpected Update On Top QB Target Ahead Of 2027 NFL Draft](https://www.steelernation.com/2026/10/24/steelers-intriguing-unexpected-update): SteelerNation, 2026-10-24 19:15 UTC
@@ -16,6 +16,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Projecting Steelers’ Week 7 Inactives vs. Saints](https://athlonsports.com/nfl/pittsburgh-steelers/projecting-steelers-week-7-inactives-vs-saints): Athlon Sports, 2026-10-24 18:00 UTC
 - [Steelers Leave Run-Blasting LB on Bench vs. Saints](https://steelersnow.com/steelers-leave-run-blasting-lb-on-bench-vs-saints/): Steelers Now, 2026-10-24 17:54 UTC
 - [Saints vs. Steelers: Aaron Rodgers, Tyler Shough to duel in first-ever game in Paris](https://www.cbssports.com/nfl/news/steelers-vs-saints-how-to-watch-odds-preview-prediction/): CBS Sports, 2026-10-24 17:51 UTC
+- [NFL shutters Paris fan experience as protests overshadow first France game](https://www.theguardian.com/sport/2026/oct/24/nfl-paris-protests-saints-steelers-fan-events-closed): The Guardian, 2026-10-24 17:30 UTC
 - [Steelers Get Horrifying News Ahead Of Crucial 2027 Offseason](https://www.steelernation.com/2026/10/24/steelers-horrifying-news-crucial-2027): SteelerNation, 2026-10-24 17:24 UTC
 - [Steelers activate S DeShon Elliott from injured reserve](https://www.reuters.com/sports/steelers-activate-s-deshon-elliott-injured-reserve--flm-2026-10-24/): Reuters, 2026-10-24 17:11 UTC
 - [Fowler: Executives Believe Jaguars Will ‘Seriously’ Consider Trading WR Brian Thomas Jr.](https://steelersdepot.com/2026/10/fowler-executives-believe-jaguars-will-seriously-consider-trading-wr-brian-thomas-jr/): Steelers Depot, 2026-10-24 17:00 UTC
@@ -152,7 +153,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers injury leaves Gabriel Rubio facing a golden NFL opportunity](https://stillcurtain.com/pittsburgh-steelers-sebastian-joseph-day-injury-leaves-gabriel-rubio-golden-nfl-opportunity-01m5j7djme4b?utm_source=RSS): Still Curtain, 2026-10-22 17:21 UTC
 - [Steelers staffers began planning for their Paris trip — and its logistical obstacles — in June](https://www.post-gazette.com/sports/steelers/2026/10/22/steelers-paris-trip-planning/stories/202610220046): Pittsburgh Post-Gazette, 2026-10-22 17:00 UTC
 - [Steelers could see their playoff odds change dramatically in Week 7](https://stillcurtain.com/pittsburgh-steelers-could-see-playoff-odds-change-dramatically-week-7-01m5hxbbsg5h?utm_source=RSS): Still Curtain, 2026-10-22 16:00 UTC
-- [Steelers place Joseph-Day on Reserve/Injured List](https://www.steelers.com/news/steelers-place-joseph-day-on-reserve-injured-list): Steelers.com (official), 2026-10-22 15:45 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
