@@ -1,8 +1,9 @@
 # Steelers News
 
-_Generated 2026-10-24T23:40:59+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T23:40:26+00:00._
+_Generated 2026-10-24T23:52:56+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T23:52:15+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Steelers' Mike Tomlin Reveals Dan Rooney's Unconventional Contract Philosophy That Put Winning Ahead Of Stats](https://www.steelernation.com/2026/10/24/steelers-mike-tomlin-dan-rooney-unconventional): SteelerNation, 2026-10-24 23:45 UTC
 - [Pregame Week 7: Five Steelers Thoughts Ahead Of The Saints Game](https://steelersdepot.com/2026/10/pregame-week-7-five-steelers-thoughts-ahead-of-the-saints-game/): Steelers Depot, 2026-10-24 23:30 UTC
 - [Steelers vs. Saints: Week 7 game picks](https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176846/steelers-vs-saints-week-7-game-picks-aaron-rodgers-germie-bernard): Behind the Steel Curtain, 2026-10-24 23:05 UTC
 - [Steelers' Mike Tomlin Saw TJ Watt's Fierce Competitive Streak Before 2017 Draft And Avoided JJ Talk](https://www.steelernation.com/2026/10/21/steelers-mike-tomlin-tj-watt-fierce): SteelerNation, 2026-10-24 23:01 UTC
@@ -12,6 +13,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Listen: The Terrible Take (Episode 2,060)](https://steelersdepot.com/2026/10/listen-the-terrible-take-episode-2060/): Steelers Depot, 2026-10-24 21:30 UTC
 - [Saturday Night Open Thread: Un match a Paris](https://www.behindthesteelcurtain.com/pittsburgh-steelers-discussion/176824/saturday-night-open-thread-un-match-a-paris): Behind the Steel Curtain, 2026-10-24 21:30 UTC
 - [Steelers Have 3 Trade Targets That No One Talks About](https://www.steelernation.com/2026/10/24/steelers-trade-targets-no-one-talks-about): SteelerNation, 2026-10-24 21:08 UTC
+- [Steelers Halloween event returns to Acrisure Stadium](https://www.wpxi.com/news/local/steelers-halloween-event-returns-acrisure-stadium/BRJUNAOTDBFNVH6SKK3CVJK6UA/): WPXI, 2026-10-24 21:05 UTC
 - [Zach Frazier Offers High Praise For Max Iheanachor’s Quick Learning Curve](https://steelersdepot.com/2026/10/zach-frazier-offers-high-praise-for-max-iheanachors-quick-learning-curve/): Steelers Depot, 2026-10-24 21:00 UTC
 - [Steelers to debut new uniform combo in Paris game vs. Saints](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176842/steelers-to-debut-new-uniform-combo-in-paris-game-vs-saints): Behind the Steel Curtain, 2026-10-24 20:59 UTC
 - [Cup of Joe (Starkey): Steelers’ transformed offense will light up Paris](https://triblive.com/sports/cup-of-joe-starkey-steelers-transformed-offense-will-light-up-paris/): TribLive, 2026-10-24 20:46 UTC
@@ -19,7 +21,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers' Will Howard Gives Insider Knowledge To How Young Quarterbacks Work With New Coaching Staff](https://www.steelernation.com/2026/10/24/steelers-will-howard-insider-new): SteelerNation, 2026-10-24 20:37 UTC
 - [Patrick Queen Fined For Hit In Week 6](https://steelersdepot.com/2026/10/patrick-queen-fined-for-hit-in-week-6/): Steelers Depot, 2026-10-24 20:09 UTC
 - [‘That’s How I Want It:’ Roman Wilson Embraces Aaron Rodgers’ Tough Love](https://steelersdepot.com/2026/10/thats-how-i-want-it-roman-wilson-embraces-aaron-rodgers-tough-love/): Steelers Depot, 2026-10-24 20:00 UTC
-- [3 Key Steelers Stat Line Predictions in Week 7 vs. Saints](https://athlonsports.com/nfl/pittsburgh-steelers/3-key-steelers-stat-line-predictions-in-week-7-vs-saints): Athlon Sports, 2026-10-24 20:00 UTC
 - [Steelers' Honest Thoughts About Moving On From Joey Porter Jr Have Been Revealed](https://www.steelernation.com/2026/10/24/steelers-honest-joey-porter-jr-revealed): SteelerNation, 2026-10-24 19:59 UTC
 - [Saints, Steelers ready for historic game in Paris](https://www.observertoday.com/uncategorized/2026/10/saints-steelers-ready-for-historic-game-in-paris/): Observer Today, 2026-10-24 19:50 UTC
 - [Where to watch the Saints’ early Paris game in New Orleans](https://www.fox8live.com/2026/10/24/where-watch-saints-early-paris-game-new-orleans/): FOX 8 Live WVUE, 2026-10-24 19:22 UTC
@@ -29,6 +30,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [‘You Just F—ed Us’: Joe Haden Reflects On Botched Pass Interference Call Against Saints](https://steelersdepot.com/2026/10/you-just-f-ed-us-joe-haden-reflects-on-botched-pass-interference-call-against-saints/): Steelers Depot, 2026-10-24 19:00 UTC
 - [Steelers Forced To Make Important Brandon Smith Decision After Third Elevation](https://www.steelernation.com/2026/10/24/steelers-important-brandon-smith-decision): SteelerNation, 2026-10-24 18:33 UTC
 - [Steelers Could Absolutely Already Be On Track For Playoffs If They Hit Key Mark](https://www.steelernation.com/2026/10/24/steelers-absolutely-track-playoffs): SteelerNation, 2026-10-24 18:11 UTC
+- [Officials Missed Potential Game-Changing Penalty Call Against Browns In Steelers’ Week 4 Loss](https://steelersdepot.com/2026/10/officials-missed-potential-game-changing-penalty-call-against-browns-in-steelers-week-4-loss/): Steelers Depot, 2026-10-24 18:05 UTC
 - [Steelers must pull the trigger after emerging as landing spot for Brian Thomas Jr.](https://stillcurtain.com/pittsburgh-steelers-must-pull-the-trigger-after-emerging-as-landing-spot-for-brian-thomas-jr-01m5qcg4syns?utm_source=RSS): Still Curtain, 2026-10-24 18:04 UTC
 - [Beat Writer Names Prospect To ‘Circle’ For Steelers In 2027 Draft](https://steelersdepot.com/2026/10/beat-writer-names-prospect-to-circle-for-steelers-in-2027-draft/): Steelers Depot, 2026-10-24 18:00 UTC
 - [Steelers Leave Run-Blasting LB on Bench vs. Saints](https://steelersnow.com/steelers-leave-run-blasting-lb-on-bench-vs-saints/): Steelers Now, 2026-10-24 17:54 UTC
@@ -42,7 +44,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Three Non-WR Positions The Steelers Could Trade For](https://steelersdepot.com/2026/10/three-non-wr-positions-the-steelers-could-trade-for/): Steelers Depot, 2026-10-24 16:30 UTC
 - [Steelers Give Aaron Rodgers Another Familiar Option](https://steelersnow.com/steelers-give-aaron-rodgers-another-familiar-option/): Steelers Now, 2026-10-24 16:24 UTC
 - [Steelers Add Experienced Wide Receiver for Saints Game](https://steelersnow.com/steelers-add-experienced-wide-receiver-for-saints-game/): Steelers Now, 2026-10-24 16:15 UTC
-- [Steelers' Brian Thomas Jr Trade Buzz Takes A Huge Step Forward Ahead Of Week 7](https://www.steelernation.com/2026/10/24/steelers-brian-thomas-jr-huge-step): SteelerNation, 2026-10-24 16:07 UTC
 - [Saints run defense must continue recent momentum facing Steelers](https://saintswire.usatoday.com/story/sports/nfl/saints/2026/10/24/saints-steelers-preview-matchups-nfl-week-7/92407544007/): Saints Wire, 2026-10-24 16:07 UTC
 - [Aaron Rodgers raises concerns as Steelers face unusual challenge in Paris](https://stillcurtain.com/aaron-rodgers-raises-concerns-as-pittsburgh-steelers-face-unusual-challenge-in-paris-01m5p5azs07w?utm_source=RSS): Still Curtain, 2026-10-24 16:00 UTC
 - [Steelers safety DeShon Elliott is expected to make his season debut against the Saints in Paris](https://www.post-gazette.com/sports/steelers/2026/10/24/deshon-elliott-injury-update-steelers/stories/202610240043): Pittsburgh Post-Gazette, 2026-10-24 15:58 UTC
@@ -56,7 +57,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers Elevated Two WRs for Saints Game](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-elevate-two-wide-receivers-saints-game): All Steelers (Sports Illustrated), 2026-10-24 14:55 UTC
 - [Steelers rookie Riley Nowakowski backs his hometown Brewers in World Series — even in Paris](https://triblive.com/sports/steelers-rookie-riley-nowakowski-backs-his-hometown-brewers-in-world-series-even-in-paris/): TribLive, 2026-10-24 14:54 UTC
 - [Steelers to sport a new uniform combination in Paris](https://www.steelers.com/news/steelers-to-sport-a-new-uniform-combination-in-paris): Steelers.com (official), 2026-10-24 14:45 UTC
-- [Officials Missed Potential Game-Changing Penalty Call Against Browns In Steelers’ Week 4 Loss](https://steelersdepot.com/2026/10/officials-missed-potential-game-changing-penalty-call-against-browns-in-steelers-week-4-loss/): Steelers Depot, 2026-10-24 14:39 UTC
 - [Steelers Elevate Two Players Ahead Of Saints Game](https://steelersdepot.com/2026/10/steelers-elevate-two-players-ahead-of-saints-game/): Steelers Depot, 2026-10-24 14:38 UTC
 - [Steelers Activate Safety DeShon Elliott To 53-Man Roster In Boost To Pittsburgh’s Secondary](https://steelersdepot.com/2026/10/steelers-activate-safety-deshon-elliott-to-53-man-roster-in-boost-to-pittsburghs-secondary/): Steelers Depot, 2026-10-24 14:32 UTC
 - [Study: Pittsburgh Has A Three-And-Out Problem](https://steelersdepot.com/2026/10/study-pittsburgh-has-a-three-and-out-problem/): Steelers Depot, 2026-10-24 14:30 UTC
@@ -73,7 +73,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Morning Break: Saints seek second straight win in historic Paris matchup](https://www.neworleanssaints.com/news/morning-break-saints-seek-second-straight-win-in-historic-paris-matchup-new-orleans-news-headlines-10-24-2026): New Orleans Saints | NewOrleansSaints.com, 2026-10-24 13:07 UTC
 - [The NFL should relocate the Steelers-Saints game in Paris to London](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-nfl-should-relocate-the-steelers-saints-game-in-paris-to-london): ProFootballTalk (NBC), 2026-10-24 13:01 UTC
 - [Four-Down Territory: Run game will travel](https://www.steelers.com/news/four-down-territory-run-game-will-travel): Steelers.com (official), 2026-10-24 13:00 UTC
-- [Steelers GameDay Cheat Sheet: Week 7 at New Orleans Saints](https://www.steelcityunderground.com/2026/10/24/steelers-gameday-cheat-sheet-week-7-at-new-orleans-saints/): Steel City Underground, 2026-10-24 12:05 UTC
 - [Patrick Graham has perfect blueprint to erase Saints' rising star Tyler Shough](https://stillcurtain.com/pittsburgh-steelers-patrick-graham-has-perfect-blueprint-to-erase-saints-rising-star-tyler-shough-01m5mkb72fy1?utm_source=RSS): Still Curtain, 2026-10-24 12:00 UTC
 - [NFL Predictions: Will Steelers get back to feeding Jaylen Warren vs. Saints?](https://www.behindthesteelcurtain.com/pittsburgh-steelers-odds/176832/nfl-predictions-will-steelers-get-back-to-feeding-jaylen-warren-vs-saints): Behind the Steel Curtain, 2026-10-24 12:00 UTC
 - [Steelers in Paris: An 'incredible' time](https://www.steelers.com/news/steelers-in-paris-an-incredible-time): Steelers.com (official), 2026-10-24 12:00 UTC
@@ -125,7 +124,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Aaron Rodgers says the NFL could play 16 international games in one week — and he’d support it](https://www.post-gazette.com/sports/steelers/2026/10/23/aaron-rodgers-nfl-international-games/stories/202610230030): Pittsburgh Post-Gazette, 2026-10-23 12:30 UTC
 - [The surprising reason Aaron Rodgers isn’t concerned about the Steelers playing in Paris amid civil unrest](https://www.pennlive.com/steelers/2026/10/the-surprising-reason-aaron-rodgers-isnt-concerned-about-the-steelers-playing-in-paris-amid-civil-unrest.html): PennLive (Nick Farabaugh), 2026-10-23 12:29 UTC
 - [Why the Steelers suddenly cancelled their Paris fan event just one day before it was supposed to happen](https://www.pennlive.com/steelers/2026/10/why-the-steelers-suddenly-cancelled-their-paris-fan-event-just-one-day-before-it-was-supposed-to-happen.html): PennLive (Nick Farabaugh), 2026-10-23 12:08 UTC
-- [Steelers to Watch: Five players who could make the difference against the Saints](https://www.steelcityunderground.com/2026/10/23/steelers-to-watch-five-players-who-could-make-the-difference-against-the-saints/): Steel City Underground, 2026-10-23 12:04 UTC
 - [4 NFL bottom feeders could give Steelers a trade deadline advantage](https://stillcurtain.com/4-nfl-bottom-feeders-could-give-pittsburgh-steelers-a-trade-deadline-advantage-01m5j23dryvq?utm_source=RSS): Still Curtain, 2026-10-23 12:00 UTC
 - [Week 7 Injury Report (Saints)](https://www.steelers.com/news/week-7-injury-report-saints): Steelers.com (official), 2026-10-23 11:55 UTC
 - [Steelers make big changes to practice schedule in Paris](https://www.pennlive.com/steelers/2026/10/steelers-make-big-changes-to-practice-schedule-in-paris.html): PennLive (Nick Farabaugh), 2026-10-23 11:50 UTC
@@ -153,6 +151,8 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [T.J. Watt Pops Up on Steelers Injury Report Before Paris Trip](https://www.si.com/nfl/steelers/onsi/tj-watt-injured-before-pittsburgh-steelers-paris-game): All Steelers (Sports Illustrated), 2026-10-22 19:17 UTC
 - [Steelers injury leaves Gabriel Rubio facing a golden NFL opportunity](https://stillcurtain.com/pittsburgh-steelers-sebastian-joseph-day-injury-leaves-gabriel-rubio-golden-nfl-opportunity-01m5j7djme4b?utm_source=RSS): Still Curtain, 2026-10-22 17:21 UTC
 - [Steelers staffers began planning for their Paris trip — and its logistical obstacles — in June](https://www.post-gazette.com/sports/steelers/2026/10/22/steelers-paris-trip-planning/stories/202610220046): Pittsburgh Post-Gazette, 2026-10-22 17:00 UTC
+- [Steelers could see their playoff odds change dramatically in Week 7](https://stillcurtain.com/pittsburgh-steelers-could-see-playoff-odds-change-dramatically-week-7-01m5hxbbsg5h?utm_source=RSS): Still Curtain, 2026-10-22 16:00 UTC
+- [Steelers place Joseph-Day on Reserve/Injured List](https://www.steelers.com/news/steelers-place-joseph-day-on-reserve-injured-list): Steelers.com (official), 2026-10-22 15:45 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

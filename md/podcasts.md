@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-24T23:40:59+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T23:40:43+00:00._
+_Generated 2026-10-24T23:52:56+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T23:52:34+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Steelers Insider featuring Mike McCarthy: Week 7 at Saints in Paris | Pittsburgh Steelers](https://www.youtube.com/watch?v=_vNjXJpcPiA): Pittsburgh Steelers (official), 2026-10-24 23:00 UTC
@@ -144,7 +144,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Steelers Raid Tampa! Mike McCarthy, Injury Updates & Next Stop Paris! | SF7P Ep. 212](https://podcasters.spotify.com/pod/show/steelersfor7podcast/episodes/Steelers-Raid-Tampa--Mike-McCarthy--Injury-Updates--Next-Stop-Paris---SF7P-Ep--212-e3qpdap): Steelers for 7 Podcast, 2026-10-20 05:11 UTC
 - Podcast: [Steelers Hangover: Trajectory Win! Steelers Beat Tampa Bay 26-19 in OT](https://podcasts.apple.com/us/podcast/steelers-hangover-trajectory-win-steelers-beat-tampa/id905962218?i=1000797805867): Steel Curtain Network (BTSC), 2026-10-20 02:14 UTC
 - Podcast: [Steelers Depot Youtube Live Stream Q & A Podcast - October 19, 2026](https://podcasts.apple.com/us/podcast/steelers-depot-youtube-live-stream-q-a-podcast/id405990739?i=1000797179113): The Terrible Podcast (Steelers Depot), 2026-10-20 01:07 UTC
-- Video: [Steelers' WR Grades vs Bucs](https://www.youtube.com/shorts/BPN3OhibZF4): Steelers Almighty, 2026-10-19 23:43 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

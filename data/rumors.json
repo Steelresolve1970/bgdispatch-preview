@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T23:40:53.846935+00:00",
+ "generated": "2026-10-24T23:52:48.865816+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -165,13 +165,16 @@
    "first_seen": "2026-10-24T16:14:06.165557+00:00",
    "consensus": {
     "cluster_id": "cea2276892de",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
-     "SteelerNation"
+     "SteelerNation",
+     "Yardbarker"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "9ccb15529c9d"
+    ]
    },
    "updated": "2026-10-24T16:14:06.165557+00:00"
   },
