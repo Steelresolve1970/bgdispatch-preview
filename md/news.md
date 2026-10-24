@@ -1,8 +1,9 @@
 # Steelers News
 
-_Generated 2026-10-24T12:34:06+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T12:33:33+00:00._
+_Generated 2026-10-24T12:48:10+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T12:47:37+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [The Steelers Have A Special Teams Evaluation Problem – And It’s Not A New One](https://steelersdepot.com/2026/10/the-steelers-have-a-special-teams-evaluation-problem-and-its-not-a-new-one/): Steelers Depot, 2026-10-24 12:45 UTC
 - [Several Steelers Legends Awaiting Hall Of Fame Get Devastating News](https://www.steelernation.com/2026/10/24/steelers-hall-of-fame-devastating-news): SteelerNation, 2026-10-24 12:20 UTC
 - [Steelers Vs Saints Preview: 5 Keys To Victory In Week 7](https://steelersdepot.com/2026/10/steelers-vs-saints-preview-5-keys-to-victory-in-week-7/): Steelers Depot, 2026-10-24 12:15 UTC
 - [Steelers GameDay Cheat Sheet: Week 7 at New Orleans Saints](https://www.steelcityunderground.com/2026/10/24/steelers-gameday-cheat-sheet-week-7-at-new-orleans-saints/): Steel City Underground, 2026-10-24 12:05 UTC
@@ -68,7 +69,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Noah Hiles: My journey to find an NFL bar in Paris](https://www.post-gazette.com/sports/steelers/2026/10/23/steelers-bars-in-paris-france/stories/202610240007): Pittsburgh Post-Gazette, 2026-10-23 17:30 UTC
 - [Steelers on a short ‘business trip’ to beat Saints, not to sightsee in Paris](https://triblive.com/sports/steelers-on-a-short-business-trip-to-beat-saints-not-to-sightsee-in-paris/): TribLive, 2026-10-23 17:22 UTC
 - [Steelers’ Week Seven Friday Injury Report: T.J. Watt Good To Go, Two Other Players Questionable](https://steelersdepot.com/2026/10/steelers-week-seven-friday-injury-report-t-j-watt-good-to-go-two-other-players-questionable/): Steelers Depot, 2026-10-23 17:07 UTC
-- [Aaron Rodgers Had An Unexpectedly Difficult Decision To Make After Buccaneers Game](https://steelersdepot.com/2026/10/aaron-rodgers-had-an-unexpectedly-difficult-decision-to-make-after-buccaneers-game/): Steelers Depot, 2026-10-23 17:00 UTC
 - [Steelers face another setback in France as team forced to cancel second event, this time because of weather](https://www.foxnews.com/outkick-sports/steelers-face-setback-france-team-forced-cancel-second-event-weather): Fox News, 2026-10-23 16:57 UTC
 - [Steelers vs. Saints: Three must-know storylines for NFL's first-ever Paris game](https://www.nfl.com/news/steelers-vs-saints-preview-week-7-paris-game): NFL.com, 2026-10-23 16:46 UTC
 - [The Steelers Shouldn’t Be Playing in Paris | Steelers Morning Rush](https://steelersnow.com/the-steelers-shouldnt-be-playing-in-paris-steelers-morning-rush/): Steelers Now, 2026-10-23 16:39 UTC
@@ -93,7 +93,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers WR DK Metcalf done with playing overseas](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176800/steelers-wr-dk-metcalf-done-with-playing-overseas): Behind the Steel Curtain, 2026-10-23 14:04 UTC
 - [Steelers' Paris game gets even more unpredictable after weather shakeup](https://stillcurtain.com/pittsburgh-steelers-paris-unpredictable-weather-shakeup-01m5mes3qpbj?utm_source=RSS): Still Curtain, 2026-10-23 14:00 UTC
 - [Steelers safety DeShon Elliott could return Sunday, a year removed from his gruesome injury](https://www.post-gazette.com/sports/steelers/2026/10/23/will-deshon-elliott-play-sunday/stories/202610230028): Pittsburgh Post-Gazette, 2026-10-23 14:00 UTC
-- [Our Defense vs. Their Offense: Pittsburgh Steelers](https://www.canalstreetchronicles.com/new-orleans-saints-discussion/116873/our-defense-vs-their-offense-saints-pittsburgh-steelers-paris-nfl-week-7): Canal Street Chronicles, 2026-10-23 14:00 UTC
 - [Rest, recover and represent Pittsburgh](https://www.steelers.com/news/rest-recover-and-represent-pittsburgh): Steelers.com (official), 2026-10-23 14:00 UTC
 - [T.J. Watt fine, Rico Dowdle questionable to play for Steelers vs. Saints](https://triblive.com/sports/t-j-watt-fine-rico-dowdle-questionable-to-play-for-steelers-vs-saints/): TribLive, 2026-10-23 13:51 UTC
 - [A big deal to play in Paris](https://www.steelers.com/news/a-big-deal-to-play-in-paris): Steelers.com (official), 2026-10-23 13:45 UTC
@@ -153,6 +152,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Ex-Steelers coach reveals how Browns threw away a potential dynasty in 2018](https://stillcurtain.com/ex-pittsburgh-steelers-coach-reveals-how-browns-threw-away-a-potential-dynasty-in-2018-01m5f4xrg900?utm_source=RSS): Still Curtain, 2026-10-22 11:00 UTC
 - [Two more key Pittsburgh Steelers players pop up with injuries](https://www.pennlive.com/steelers/2026/10/two-more-key-pittsburgh-steelers-players-pop-up-with-injuries.html): PennLive (Nick Farabaugh), 2026-10-22 11:00 UTC
 - [Asked and Answered: Oct. 22](https://www.steelers.com/news/asked-and-answered-oct-22-x1552): Steelers.com (official), 2026-10-22 10:05 UTC
+- [Steelers have every reason to be disappointed by the overhyped 2027 QB class](https://stillcurtain.com/pittsburgh-steelers-have-every-reason-to-be-disappointed-by-the-overhyped-2027-qb-class-01m5a2hawe92?utm_source=RSS): Still Curtain, 2026-10-22 10:00 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
