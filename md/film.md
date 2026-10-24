@@ -1,6 +1,6 @@
 # Steelers Film Room & Previews
 
-_Generated 2026-10-24T22:36:12+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T22:35:43+00:00._
+_Generated 2026-10-24T22:47:00+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-24T22:46:30+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/film.json_
 
 - Breakdown (at Tampa Bay Buccaneers (Oct 18)): [DB’s Steelers Film Room: Jamel Dean Saves the Day in Tampa](https://steelersnow.com/dbs-steelers-film-room-jamel-dean-saves-the-day-in-tampa/): Steelers Now, 2026-10-21 14:57 UTC
