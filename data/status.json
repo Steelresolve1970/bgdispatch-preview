@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-24T17:08:46.655293+00:00",
+ "last_run": "2026-10-24T17:19:39.594900+00:00",
  "results": [
   {
    "fetcher": "apply_grade_edits.py",
@@ -10,7 +10,7 @@
   {
    "fetcher": "fetch_news.py",
    "ok": true,
-   "seconds": 3.5,
+   "seconds": 3.0,
    "last_line": "news: 150 ticker: 30"
   },
   {
@@ -113,7 +113,7 @@
    "fetcher": "fetch_hub.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "hub fresh (<30 min); skipped"
+   "last_line": "injuries 14 practice 9 opp NO"
   },
   {
    "fetcher": "fetch_matchup.py",
@@ -173,7 +173,7 @@
    "fetcher": "fetch_quotes.py",
    "ok": true,
    "seconds": 1.5,
-   "last_line": "quotes: 8 kept from 131 articles"
+   "last_line": "quotes: 8 kept from 130 articles"
   },
   {
    "fetcher": "build_machine.py",
