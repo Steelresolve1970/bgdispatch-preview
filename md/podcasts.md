@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-25T19:04:28+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T19:04:10+00:00._
+_Generated 2026-10-25T19:15:17+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T19:14:58+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Podcast: [Live Shot of Steelers: Postgame vs. Saints](https://podcasts.apple.com/us/podcast/id1072021022): DK Pittsburgh Sports, 2026-10-25 19:05 UTC
 - Video: [Steelers vs Saints Post Game Show IN PARIS LIVE | Not Just Football](https://www.youtube.com/watch?v=3cEWtad5nFI): Not Just Football with Cam Heyward, 2026-10-25 18:34 UTC
 - Video: [Oui did that‼️](https://www.youtube.com/shorts/gkYiQKTK4bE): Pittsburgh Steelers (official), 2026-10-25 18:13 UTC
 - Video: [DUB IN PARIS 🗣️](https://www.youtube.com/shorts/52EPBrMefCM): Pittsburgh Steelers (official), 2026-10-25 17:58 UTC
@@ -15,10 +16,9 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Showtime 🎬 📺: NFLN](https://www.youtube.com/shorts/Q07Pl7A_KYI): Pittsburgh Steelers (official), 2026-10-25 14:08 UTC
 - Video: [8️⃣0️⃣ IN THE BUILDING 📺: NFLN](https://www.youtube.com/shorts/ppYcRsmcywI): Pittsburgh Steelers (official), 2026-10-25 14:05 UTC
 - Video: [Arriving in style 😮‍💨](https://www.youtube.com/shorts/MpZ1TO0DJtg): Pittsburgh Steelers (official), 2026-10-25 12:17 UTC
-- Podcast: [The Terrible Take - Episode 2061 - October 25, 2026](https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2061-october-25-2026/id405990739?i=1000798014044): The Terrible Podcast (Steelers Depot), 2026-10-25 11:52 UTC
+- Podcast: [The Terrible Take - Episode 2061 - October 25, 2026](https://podcasts.apple.com/us/podcast/id405990739): The Terrible Podcast (Steelers Depot), 2026-10-25 11:52 UTC
 - Video: [📍Stade de France](https://www.youtube.com/shorts/GOAKRNi5pnI): Pittsburgh Steelers (official), 2026-10-25 11:11 UTC
 - Video: [Steelers Insider featuring Mike McCarthy: Week 7 at Saints in Paris | Pittsburgh Steelers](https://www.youtube.com/watch?v=_vNjXJpcPiA): Pittsburgh Steelers (official), 2026-10-24 23:00 UTC
-- Podcast: [The Terrible Take - Episode 2060 - October 24, 2026](https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2060-october-24-2026/id405990739?i=1000797953629): The Terrible Podcast (Steelers Depot), 2026-10-24 21:00 UTC
 - Video: [Here Oui Go! 🇫🇷 📺: #PITvsNO 10/25 at 9:30 AM ET on NFLN](https://www.youtube.com/shorts/pN7v-dGbPdo): Pittsburgh Steelers (official), 2026-10-24 20:10 UTC
 - Video: [Elandon Roberts wants to win another one so he can enjoy it more this time 🏆🔥#nfl #patriots](https://www.youtube.com/shorts/XWo-am2_97g): Not Just Football with Cam Heyward, 2026-10-24 19:25 UTC
 - Video: [Steelers fans encounter police getting ready for protesters](https://www.youtube.com/shorts/lxzhbaIZNu8): Nick Farabaugh on PennLive, 2026-10-24 18:08 UTC
@@ -124,7 +124,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [The Terrible Take - Episode 2056 - October 20, 2026](https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2056-october-20-2026/id405990739?i=1000797326238): The Terrible Podcast (Steelers Depot), 2026-10-20 21:00 UTC
 - Podcast: [Drive10.20.26Hr1: Scouting the Saints](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-20-26hr1-mp3): SNR Drive, 2026-10-20 20:00 UTC
 - Video: [Steelers' LB Grades vs Bucs](https://www.youtube.com/shorts/sxaS_1dQBHA): Steelers Almighty, 2026-10-20 19:52 UTC
-- Podcast: [Steelers Crazy #300 - Saints Vs Steelers In Paris](https://podcasts.apple.com/us/podcast/steelers-crazy-300-saints-vs-steelers-in-paris/id1640291008?i=1000797311768): The Sick Podcast - Steelers Crazy, 2026-10-20 19:12 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
