@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-25T03:19:11+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T03:18:51+00:00._
+_Generated 2026-10-25T03:31:04+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T03:30:46+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Steelers Insider featuring Mike McCarthy: Week 7 at Saints in Paris | Pittsburgh Steelers](https://www.youtube.com/watch?v=_vNjXJpcPiA): Pittsburgh Steelers (official), 2026-10-24 23:00 UTC

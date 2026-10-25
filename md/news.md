@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-25T03:19:11+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T03:17:36+00:00._
+_Generated 2026-10-25T03:31:04+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T03:29:24+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Prisco's Week 7 NFL picks: Lions edge Packers, Steelers top Saints in Paris](https://www.cbssports.com/nfl/news/priscos-week-7-nfl-picks-odds-expert-picks-upsets/): CBS Sports, 2026-10-25 03:00 UTC
@@ -33,7 +33,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Patrick Queen Fined For Hit In Week 6](https://steelersdepot.com/2026/10/patrick-queen-fined-for-hit-in-week-6/): Steelers Depot, 2026-10-24 20:09 UTC
 - [‘That’s How I Want It:’ Roman Wilson Embraces Aaron Rodgers’ Tough Love](https://steelersdepot.com/2026/10/thats-how-i-want-it-roman-wilson-embraces-aaron-rodgers-tough-love/): Steelers Depot, 2026-10-24 20:00 UTC
 - [Steelers' Honest Thoughts About Moving On From Joey Porter Jr Have Been Revealed](https://www.steelernation.com/2026/10/24/steelers-honest-joey-porter-jr-revealed): SteelerNation, 2026-10-24 19:59 UTC
-- [Where to watch the Saints’ early Paris game in New Orleans](https://www.fox8live.com/2026/10/24/where-watch-saints-early-paris-game-new-orleans/): FOX 8 Live WVUE, 2026-10-24 19:22 UTC
 - [NFL House in Paris closes ahead of Saints-Steelers game as unrest in city turns into chaos](https://nypost.com/2026/10/24/sports/nfl-house-in-paris-closes-ahead-of-saints-steelers-game-amid-riots/): New York Post, 2026-10-24 19:16 UTC
 - [Steelers Get Intriguing Unexpected Update On Top QB Target Ahead Of 2027 NFL Draft](https://www.steelernation.com/2026/10/24/steelers-intriguing-unexpected-update): SteelerNation, 2026-10-24 19:15 UTC
 - [Steelers activate S DeShon Elliott](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-activate-s-deshon-elliott): ProFootballTalk (NBC), 2026-10-24 19:05 UTC
@@ -81,6 +80,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Morning Break: Saints seek second straight win in historic Paris matchup](https://www.neworleanssaints.com/news/morning-break-saints-seek-second-straight-win-in-historic-paris-matchup-new-orleans-news-headlines-10-24-2026): New Orleans Saints | NewOrleansSaints.com, 2026-10-24 13:07 UTC
 - [The NFL should relocate the Steelers-Saints game in Paris to London](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-nfl-should-relocate-the-steelers-saints-game-in-paris-to-london): ProFootballTalk (NBC), 2026-10-24 13:01 UTC
 - [Four-Down Territory: Run game will travel](https://www.steelers.com/news/four-down-territory-run-game-will-travel): Steelers.com (official), 2026-10-24 13:00 UTC
+- [NFL House in Paris closes ahead of more protests](https://www.cbsnews.com/pittsburgh/news/nfl-house-closes-paris-protests/): CBS News, 2026-10-24 12:26 UTC
 - [Steelers GameDay Cheat Sheet: Week 7 at New Orleans Saints](https://www.steelcityunderground.com/2026/10/24/steelers-gameday-cheat-sheet-week-7-at-new-orleans-saints/): Steel City Underground, 2026-10-24 12:05 UTC
 - [Patrick Graham has perfect blueprint to erase Saints' rising star Tyler Shough](https://stillcurtain.com/pittsburgh-steelers-patrick-graham-has-perfect-blueprint-to-erase-saints-rising-star-tyler-shough-01m5mkb72fy1?utm_source=RSS): Still Curtain, 2026-10-24 12:00 UTC
 - [NFL Predictions: Will Steelers get back to feeding Jaylen Warren vs. Saints?](https://www.behindthesteelcurtain.com/pittsburgh-steelers-odds/176832/nfl-predictions-will-steelers-get-back-to-feeding-jaylen-warren-vs-saints): Behind the Steel Curtain, 2026-10-24 12:00 UTC
