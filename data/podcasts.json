@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T01:23:09.876400+00:00",
+ "generated": "2026-10-25T01:34:33.232390+00:00",
  "date_et": "2026-10-24",
  "days": 5,
  "display_days": 2,
@@ -90,10 +90,10 @@
    "show": "Steel City Underground",
    "kind": "podcast",
    "url": "https://feeds.feedburner.com/steelcityunderground",
-   "status": "ok",
-   "episodes": 45,
+   "status": "error: <urlopen error timed out>",
+   "episodes": 0,
    "week": 1,
-   "latest": "2026-10-22T16:20:16+00:00"
+   "latest": null
   },
   {
    "show": "Steel City Underground",
@@ -117,10 +117,10 @@
    "show": "The Sick Podcast - Steelers Crazy",
    "kind": "podcast",
    "url": "https://feeds.megaphone.fm/SICMED3686708365",
-   "status": "ok",
-   "episodes": 348,
+   "status": "error: <urlopen error timed out>",
+   "episodes": 0,
    "week": 1,
-   "latest": "2026-10-20T19:12:00+00:00"
+   "latest": null
   },
   {
    "show": "Steelers for 7 Podcast",
@@ -216,10 +216,10 @@
    "show": "Not Just Football with Cam Heyward",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8hodyaoiw297aspKf9QVDA",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 6,
-   "latest": "2026-10-24T19:25:13+00:00"
+   "latest": null
   },
   {
    "show": "Footbahlin with Ben Roethlisberger",
@@ -243,10 +243,10 @@
    "show": "The Christian Kuntz Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKKBJcOGsYmwAATQv-xQYeA",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 0,
-   "latest": "2009-05-26T14:01:33+00:00"
+   "latest": null
   }
  ],
  "items": [
@@ -1378,7 +1378,14 @@
    "summary": "Podcast episode from Steel Curtain Network (BTSC)."
   }
  ],
- "yt_channels": [],
+ "yt_channels": [
+  {
+   "show": "The Christian Kuntz Podcast",
+   "channel_id": "UCKKBJcOGsYmwAATQv-xQYeA",
+   "link": "https://www.youtube.com/channel/UCKKBJcOGsYmwAATQv-xQYeA",
+   "embed": "https://www.youtube-nocookie.com/embed/videoseries?list=UUKKBJcOGsYmwAATQv-xQYeA"
+  }
+ ],
  "postgame": null,
  "directory": [
   {
