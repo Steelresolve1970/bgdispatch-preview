@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T14:04:14.015668+00:00",
+ "generated": "2026-10-25T14:20:24.449430+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -251,15 +251,17 @@
    "status_link": null,
    "first_seen": "2026-10-23T16:52:38.787518+00:00",
    "consensus": {
-    "cluster_id": "794b3684899f",
-    "independent_sources": 1,
+    "cluster_id": "173465376593",
+    "independent_sources": 2,
     "sources": [
+     "Wisconsin Sports Heroics",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "794b3684899f"
+     "794b3684899f",
+     "173465376593"
     ]
    },
    "updated": "2026-10-23T16:52:38.787518+00:00"
@@ -451,16 +453,14 @@
    "status_link": null,
    "first_seen": "2026-10-23T11:09:06.018743+00:00",
    "consensus": {
-    "cluster_id": "5a0773cc79d1",
+    "cluster_id": "7fd46e561838",
     "independent_sources": 1,
     "sources": [
      "Still Curtain"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": [
-     "5a0773cc79d1"
-    ]
+    "related_ids": []
    },
    "updated": "2026-10-23T11:09:06.018743+00:00"
   },
@@ -789,14 +789,17 @@
    "status_link": null,
    "first_seen": "2026-10-21T23:23:49.000327+00:00",
    "consensus": {
-    "cluster_id": "220ffc62c292",
-    "independent_sources": 1,
+    "cluster_id": "88ec15922e1e",
+    "independent_sources": 2,
     "sources": [
+     "Gridiron Heroics",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
-    "related_ids": []
+    "related_ids": [
+     "88ec15922e1e"
+    ]
    },
    "updated": "2026-10-21T23:23:49.000327+00:00"
   },
@@ -973,15 +976,17 @@
    "status_link": null,
    "first_seen": "2026-10-21T13:05:41.045260+00:00",
    "consensus": {
-    "cluster_id": "794b3684899f",
-    "independent_sources": 1,
+    "cluster_id": "173465376593",
+    "independent_sources": 2,
     "sources": [
+     "Wisconsin Sports Heroics",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "85d6f65ebcd2"
+     "85d6f65ebcd2",
+     "173465376593"
     ]
    },
    "updated": "2026-10-21T13:05:41.045260+00:00"

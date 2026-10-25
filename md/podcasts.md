@@ -1,8 +1,10 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-25T14:04:20+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T13:37:12+00:00._
+_Generated 2026-10-25T14:20:31+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T14:20:04+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Video: [Showtime 🎬 📺: NFLN](https://www.youtube.com/shorts/Q07Pl7A_KYI): Pittsburgh Steelers (official), 2026-10-25 14:08 UTC
+- Video: [8️⃣0️⃣ IN THE BUILDING 📺: NFLN](https://www.youtube.com/shorts/ppYcRsmcywI): Pittsburgh Steelers (official), 2026-10-25 14:05 UTC
 - Video: [Arriving in style 😮‍💨](https://www.youtube.com/shorts/MpZ1TO0DJtg): Pittsburgh Steelers (official), 2026-10-25 12:17 UTC
 - Podcast: [The Terrible Take - Episode 2061 - October 25, 2026](https://podcasts.apple.com/us/podcast/id405990739): The Terrible Podcast (Steelers Depot), 2026-10-25 11:52 UTC
 - Video: [📍Stade de France](https://www.youtube.com/shorts/GOAKRNi5pnI): Pittsburgh Steelers (official), 2026-10-25 11:11 UTC
@@ -47,8 +49,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Steelers Rookie Class Answers Call, Ready to Carry Roster? | DeShon Elliott's Return Frees Up DBs](https://www.youtube.com/watch?v=beELd1XoLY4): Locked On Steelers, 2026-10-23 05:00 UTC
 - Podcast: [Steelers Rookie Class Answers Call, Ready to Carry Roster? | DeShon Elliott's Return Frees Up DBs](https://podcasts.apple.com/us/podcast/steelers-rookie-class-answers-call-ready-to-carry-roster/id1140522532?i=1000797723898): Locked On Steelers, 2026-10-23 04:30 UTC
 - Podcast: [SCB Steelers Podcast 495 - Buccin' a Trend](https://scblitz.podbean.com/e/scb-steelers-podcast-495-buccin-a-trend/): Steel City Blitz, 2026-10-23 03:37 UTC
-- Video: [TBT to when Fast Willie went off against the Saints 💨 📺: #PITvsNO 10/25 at 9:30 AM ET on NFLN](https://www.youtube.com/shorts/a3eiQLf6zSw): Pittsburgh Steelers (official), 2026-10-23 02:27 UTC
-- Video: [Next stop: Paris ✈️](https://www.youtube.com/shorts/ZS7mWo1x2-Y): Pittsburgh Steelers (official), 2026-10-23 02:24 UTC
 - Podcast: [Steelers Preview: Previewing Steelers vs. Saints, Week 7](https://podcasts.apple.com/us/podcast/steelers-preview-previewing-steelers-vs-saints-week-7/id905962218?i=1000797805996): Steel Curtain Network (BTSC), 2026-10-23 00:00 UTC
 - Video: [Steelers' DeShon Elliott Set to Return from IR, Join Jaquan Brisker, Robert Spears-Jennings in Paris](https://www.youtube.com/shorts/KsowgIWMjcA): Locked On Steelers, 2026-10-22 22:14 UTC
 - Video: [Nu Leader on D-Line? | Steelers Afternoon Drive](https://www.youtube.com/watch?v=lnaN5WeNfUQ): Steelers Now, 2026-10-22 22:05 UTC
@@ -130,8 +130,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [G'Day Steelers Nation: It was a Steelers win, but OT was avoidable](https://podcasts.apple.com/us/podcast/gday-steelers-nation-it-was-a-steelers-win-but-ot/id905962218?i=1000797805866): Steel Curtain Network (BTSC), 2026-10-20 15:30 UTC
 - Podcast: [Hour 1: All Around Contributions from the Steelers](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-102026-mp3): Steelers Blitz, 2026-10-20 15:00 UTC
 - Podcast: [Do Steelers Have Next Rookie of the Year?](https://podcasts.apple.com/us/podcast/do-steelers-have-next-rookie-of-the-year/id1627248534?i=1000797276743): All Steelers Talk, 2026-10-20 15:00 UTC
-- Podcast: [Why Did Steelers Sign MVS? | Steelers Morning Rush](https://podcasts.apple.com/us/podcast/why-did-steelers-sign-mvs-steelers-morning-rush/id1700240934?i=1000797271263): Steelers Afternoon Drive, 2026-10-20 14:10 UTC
-- Podcast: [Hour 2: Unc Still Got It + Just the Toe](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/hour-2-unc-still-got-it-just-the-toe): Steelers Blitz, 2026-10-20 14:00 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

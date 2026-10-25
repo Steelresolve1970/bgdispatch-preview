@@ -5,7 +5,7 @@
  "section": "Defense",
  "season": 2026,
  "lower_is_better": true,
- "generated": "2026-10-25T11:14:48.423342+00:00",
+ "generated": "2026-10-25T14:20:08.921510+00:00",
  "source": "Data: nflverse (CC-BY 4.0)",
  "source_url": "https://github.com/nflverse/nflverse-data",
  "columns": [
@@ -33,355 +33,355 @@
  "rows": [
   {
    "value": 1299,
+   "ypg": 259.8,
+   "name": "Minnesota Vikings",
    "gp": 5,
    "rank": 1,
-   "name": "Minnesota Vikings",
-   "pya": 866,
-   "ypg": 259.8,
    "pit": false,
+   "rya": 433,
    "team": "MIN",
-   "rya": 433
+   "pya": 866
   },
   {
    "value": 1424,
+   "ypg": 237.3,
+   "name": "Seattle Seahawks",
    "gp": 6,
    "rank": 2,
-   "name": "Seattle Seahawks",
-   "pya": 848,
-   "ypg": 237.3,
    "pit": false,
+   "rya": 576,
    "team": "SEA",
-   "rya": 576
+   "pya": 848
   },
   {
    "value": 1530,
+   "ypg": 306,
+   "name": "Kansas City Chiefs",
    "gp": 5,
    "rank": 3,
-   "name": "Kansas City Chiefs",
-   "pya": 1086,
-   "ypg": 306,
    "pit": false,
+   "rya": 444,
    "team": "KC",
-   "rya": 444
+   "pya": 1086
   },
   {
    "value": 1649,
+   "ypg": 329.8,
+   "name": "Miami Dolphins",
    "gp": 5,
    "rank": 4,
-   "name": "Miami Dolphins",
-   "pya": 1096,
-   "ypg": 329.8,
    "pit": false,
+   "rya": 553,
    "team": "MIA",
-   "rya": 553
+   "pya": 1096
   },
   {
    "value": 1721,
+   "ypg": 344.2,
+   "name": "Cincinnati Bengals",
    "gp": 5,
    "rank": 5,
-   "name": "Cincinnati Bengals",
-   "pya": 1106,
-   "ypg": 344.2,
    "pit": false,
+   "rya": 615,
    "team": "CIN",
-   "rya": 615
+   "pya": 1106
   },
   {
    "value": 1764,
+   "ypg": 294,
+   "name": "Los Angeles Rams",
    "gp": 6,
    "rank": 6,
-   "name": "Los Angeles Rams",
-   "pya": 1002,
-   "ypg": 294,
    "pit": false,
+   "rya": 762,
    "team": "LA",
-   "rya": 762
+   "pya": 1002
   },
   {
    "value": 1771,
+   "ypg": 354.2,
+   "name": "Carolina Panthers",
    "gp": 5,
    "rank": 7,
-   "name": "Carolina Panthers",
-   "pya": 1110,
-   "ypg": 354.2,
    "pit": false,
+   "rya": 661,
    "team": "CAR",
-   "rya": 661
+   "pya": 1110
   },
   {
    "value": 1797,
+   "ypg": 299.5,
+   "name": "Tampa Bay Buccaneers",
    "gp": 6,
    "rank": 8,
-   "name": "Tampa Bay Buccaneers",
-   "pya": 1344,
-   "ypg": 299.5,
    "pit": false,
+   "rya": 453,
    "team": "TB",
-   "rya": 453
+   "pya": 1344
   },
   {
    "value": 1800,
+   "ypg": 300,
+   "name": "San Francisco 49ers",
    "gp": 6,
    "rank": 9,
-   "name": "San Francisco 49ers",
-   "pya": 1259,
-   "ypg": 300,
    "pit": false,
+   "rya": 541,
    "team": "SF",
-   "rya": 541
+   "pya": 1259
   },
   {
    "value": 1845,
+   "ypg": 307.5,
+   "name": "Pittsburgh Steelers",
    "gp": 6,
    "rank": 10,
-   "name": "Pittsburgh Steelers",
-   "pya": 1226,
-   "ypg": 307.5,
    "pit": true,
+   "rya": 619,
    "team": "PIT",
-   "rya": 619
+   "pya": 1226
   },
   {
    "value": 1846,
+   "ypg": 307.7,
+   "name": "Green Bay Packers",
    "gp": 6,
    "rank": 11,
-   "name": "Green Bay Packers",
-   "pya": 1160,
-   "ypg": 307.7,
    "pit": false,
+   "rya": 686,
    "team": "GB",
-   "rya": 686
+   "pya": 1160
   },
   {
    "value": 1848,
+   "ypg": 308,
+   "name": "New York Jets",
    "gp": 6,
    "rank": 12,
-   "name": "New York Jets",
-   "pya": 1110,
-   "ypg": 308,
    "pit": false,
+   "rya": 738,
    "team": "NYJ",
-   "rya": 738
+   "pya": 1110
   },
   {
    "value": 1865,
+   "ypg": 310.8,
+   "name": "Baltimore Ravens",
    "gp": 6,
    "rank": 13,
-   "name": "Baltimore Ravens",
-   "pya": 1262,
-   "ypg": 310.8,
    "pit": false,
+   "rya": 603,
    "team": "BAL",
-   "rya": 603
+   "pya": 1262
   },
   {
    "value": 1905,
+   "ypg": 317.5,
+   "name": "Cleveland Browns",
    "gp": 6,
    "rank": 14,
-   "name": "Cleveland Browns",
-   "pya": 1231,
-   "ypg": 317.5,
    "pit": false,
+   "rya": 674,
    "team": "CLE",
-   "rya": 674
+   "pya": 1231
   },
   {
    "value": 1954,
+   "ypg": 325.7,
+   "name": "New York Giants",
    "gp": 6,
    "rank": 15,
-   "name": "New York Giants",
-   "pya": 1141,
-   "ypg": 325.7,
    "pit": false,
+   "rya": 813,
    "team": "NYG",
-   "rya": 813
+   "pya": 1141
   },
   {
    "value": 1974,
+   "ypg": 329,
+   "name": "Houston Texans",
    "gp": 6,
    "rank": 16,
-   "name": "Houston Texans",
-   "pya": 1476,
-   "ypg": 329,
    "pit": false,
+   "rya": 498,
    "team": "HOU",
-   "rya": 498
+   "pya": 1476
   },
   {
    "value": 1980,
+   "ypg": 330,
+   "name": "Los Angeles Chargers",
    "gp": 6,
    "rank": 17,
-   "name": "Los Angeles Chargers",
-   "pya": 1237,
-   "ypg": 330,
    "pit": false,
+   "rya": 743,
    "team": "LAC",
-   "rya": 743
+   "pya": 1237
   },
   {
    "value": 2011,
+   "ypg": 335.2,
+   "name": "Atlanta Falcons",
    "gp": 6,
    "rank": 18,
-   "name": "Atlanta Falcons",
-   "pya": 1512,
-   "ypg": 335.2,
    "pit": false,
+   "rya": 499,
    "team": "ATL",
-   "rya": 499
+   "pya": 1512
   },
   {
    "value": 2022,
+   "ypg": 404.4,
+   "name": "Detroit Lions",
    "gp": 5,
    "rank": 19,
-   "name": "Detroit Lions",
-   "pya": 1487,
-   "ypg": 404.4,
    "pit": false,
+   "rya": 535,
    "team": "DET",
-   "rya": 535
+   "pya": 1487
   },
   {
    "value": 2058,
+   "ypg": 343,
+   "name": "Tennessee Titans",
    "gp": 6,
    "rank": 20,
-   "name": "Tennessee Titans",
-   "pya": 1323,
-   "ypg": 343,
    "pit": false,
+   "rya": 735,
    "team": "TEN",
-   "rya": 735
+   "pya": 1323
   },
   {
    "value": 2076,
+   "ypg": 346,
+   "name": "Jacksonville Jaguars",
    "gp": 6,
    "rank": 21,
-   "name": "Jacksonville Jaguars",
-   "pya": 1643,
-   "ypg": 346,
    "pit": false,
+   "rya": 433,
    "team": "JAX",
-   "rya": 433
+   "pya": 1643
   },
   {
    "value": 2090,
+   "ypg": 348.3,
+   "name": "Denver Broncos",
    "gp": 6,
    "rank": 22,
-   "name": "Denver Broncos",
-   "pya": 1251,
-   "ypg": 348.3,
    "pit": false,
+   "rya": 839,
    "team": "DEN",
-   "rya": 839
+   "pya": 1251
   },
   {
    "value": 2103,
+   "ypg": 350.5,
+   "name": "Arizona Cardinals",
    "gp": 6,
    "rank": 23,
-   "name": "Arizona Cardinals",
-   "pya": 1378,
-   "ypg": 350.5,
    "pit": false,
+   "rya": 725,
    "team": "ARI",
-   "rya": 725
+   "pya": 1378
   },
   {
    "value": 2107,
+   "ypg": 351.2,
+   "name": "Indianapolis Colts",
    "gp": 6,
    "rank": 24,
-   "name": "Indianapolis Colts",
-   "pya": 1372,
-   "ypg": 351.2,
    "pit": false,
+   "rya": 735,
    "team": "IND",
-   "rya": 735
+   "pya": 1372
   },
   {
    "value": 2127,
+   "ypg": 354.5,
+   "name": "Washington Commanders",
    "gp": 6,
    "rank": 25,
-   "name": "Washington Commanders",
-   "pya": 1524,
-   "ypg": 354.5,
    "pit": false,
+   "rya": 603,
    "team": "WAS",
-   "rya": 603
+   "pya": 1524
   },
   {
    "value": 2183,
+   "ypg": 363.8,
+   "name": "Philadelphia Eagles",
    "gp": 6,
    "rank": 26,
-   "name": "Philadelphia Eagles",
-   "pya": 1467,
-   "ypg": 363.8,
    "pit": false,
+   "rya": 716,
    "team": "PHI",
-   "rya": 716
+   "pya": 1467
   },
   {
    "value": 2194,
+   "ypg": 313.4,
+   "name": "Chicago Bears",
    "gp": 7,
    "rank": 27,
-   "name": "Chicago Bears",
-   "pya": 1581,
-   "ypg": 313.4,
    "pit": false,
+   "rya": 613,
    "team": "CHI",
-   "rya": 613
+   "pya": 1581
   },
   {
    "value": 2210,
+   "ypg": 315.7,
+   "name": "New England Patriots",
    "gp": 7,
    "rank": 28,
-   "name": "New England Patriots",
-   "pya": 1543,
-   "ypg": 315.7,
    "pit": false,
+   "rya": 667,
    "team": "NE",
-   "rya": 667
+   "pya": 1543
   },
   {
    "value": 2230,
+   "ypg": 371.7,
+   "name": "Las Vegas Raiders",
    "gp": 6,
    "rank": 29,
-   "name": "Las Vegas Raiders",
-   "pya": 1424,
-   "ypg": 371.7,
    "pit": false,
+   "rya": 806,
    "team": "LV",
-   "rya": 806
+   "pya": 1424
   },
   {
    "value": 2266,
+   "ypg": 377.7,
+   "name": "New Orleans Saints",
    "gp": 6,
    "rank": 30,
-   "name": "New Orleans Saints",
-   "pya": 1438,
-   "ypg": 377.7,
    "pit": false,
+   "rya": 828,
    "team": "NO",
-   "rya": 828
+   "pya": 1438
   },
   {
    "value": 2295,
+   "ypg": 382.5,
+   "name": "Dallas Cowboys",
    "gp": 6,
    "rank": 31,
-   "name": "Dallas Cowboys",
-   "pya": 1396,
-   "ypg": 382.5,
    "pit": false,
+   "rya": 899,
    "team": "DAL",
-   "rya": 899
+   "pya": 1396
   },
   {
    "value": 2321,
+   "ypg": 386.8,
+   "name": "Buffalo Bills",
    "gp": 6,
    "rank": 32,
-   "name": "Buffalo Bills",
-   "pya": 1715,
-   "ypg": 386.8,
    "pit": false,
+   "rya": 606,
    "team": "BUF",
-   "rya": 606
+   "pya": 1715
   }
  ]
 }

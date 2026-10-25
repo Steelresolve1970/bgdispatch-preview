@@ -1,8 +1,14 @@
 # NFL Insider Posts (last 3 days)
 
-_Generated 2026-10-25T14:04:20+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T13:34:40+00:00._
+_Generated 2026-10-25T14:20:31+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T14:19:52+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/insiders.json_
 
+- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mypec2tn3c22), 2026-10-25 13:55 UTC: @rapsheet.bsky.social posted about injuries.
+- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mypeaycaz222), 2026-10-25 13:54 UTC: @rapsheet.bsky.social posted about injuries.
+- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mypea4h4fs22), 2026-10-25 13:54 UTC: @rapsheet.bsky.social posted about injuries.
+- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mype73wrfc22), 2026-10-25 13:53 UTC: @rapsheet.bsky.social posted about the game.
+- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mype5iivgc22), 2026-10-25 13:52 UTC: @rapsheet.bsky.social posted about injuries.
+- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mype4o5oys22), 2026-10-25 13:52 UTC: @rapsheet.bsky.social posted about injuries.
 - [Christopher Carter (Locked On) on Bluesky](https://bsky.app/profile/cartercritiques.bsky.social/post/3mypcuvi2iz2q), 2026-10-25 13:29 UTC: @cartercritiques.bsky.social posted about the Steelers, the game.
 - [Christopher Carter (Locked On) on Bluesky](https://bsky.app/profile/cartercritiques.bsky.social/post/3mypajj3z5x2k), 2026-10-25 12:47 UTC: @cartercritiques.bsky.social posted about the Steelers, the game.
 - [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3myo73hkutc2w), 2026-10-25 02:49 UTC: @rapsheet.bsky.social posted about a signing.

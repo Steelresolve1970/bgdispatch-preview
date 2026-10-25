@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-25T14:04:20+00:00",
- "data_updated": "2026-10-25T13:37:12+00:00",
- "count": 129,
+ "generated": "2026-10-25T14:20:31+00:00",
+ "data_updated": "2026-10-25T14:20:04+00:00",
+ "count": 127,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -19,6 +19,32 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/podcasts",
  "items": [
+  {
+   "id": "de9b3640faedb87d",
+   "type": "video",
+   "title": "Showtime 🎬 📺: NFLN",
+   "show": "Pittsburgh Steelers (official)",
+   "url": "https://www.youtube.com/shorts/Q07Pl7A_KYI",
+   "published": "2026-10-25T14:08:19+00:00",
+   "summary": "Video from Pittsburgh Steelers (official).",
+   "source": {
+    "name": "Pittsburgh Steelers (official)",
+    "url": null
+   }
+  },
+  {
+   "id": "08c9fe5d7d771af5",
+   "type": "video",
+   "title": "8️⃣0️⃣ IN THE BUILDING 📺: NFLN",
+   "show": "Pittsburgh Steelers (official)",
+   "url": "https://www.youtube.com/shorts/ppYcRsmcywI",
+   "published": "2026-10-25T14:05:34+00:00",
+   "summary": "Video from Pittsburgh Steelers (official).",
+   "source": {
+    "name": "Pittsburgh Steelers (official)",
+    "url": null
+   }
+  },
   {
    "id": "3981c2e6ac34d61c",
    "type": "video",
@@ -588,32 +614,6 @@
    "summary": "Podcast episode from Steel City Blitz.",
    "source": {
     "name": "Steel City Blitz",
-    "url": null
-   }
-  },
-  {
-   "id": "79ee87572ca2ae5c",
-   "type": "video",
-   "title": "TBT to when Fast Willie went off against the Saints 💨 📺: #PITvsNO 10/25 at 9:30 AM ET on NFLN",
-   "show": "Pittsburgh Steelers (official)",
-   "url": "https://www.youtube.com/shorts/a3eiQLf6zSw",
-   "published": "2026-10-23T02:27:31+00:00",
-   "summary": "Video from Pittsburgh Steelers (official).",
-   "source": {
-    "name": "Pittsburgh Steelers (official)",
-    "url": null
-   }
-  },
-  {
-   "id": "afb43cd24d53a8a2",
-   "type": "video",
-   "title": "Next stop: Paris ✈️",
-   "show": "Pittsburgh Steelers (official)",
-   "url": "https://www.youtube.com/shorts/ZS7mWo1x2-Y",
-   "published": "2026-10-23T02:24:51+00:00",
-   "summary": "Video from Pittsburgh Steelers (official).",
-   "source": {
-    "name": "Pittsburgh Steelers (official)",
     "url": null
    }
   },
@@ -1667,32 +1667,6 @@
    "summary": "Podcast episode from All Steelers Talk.",
    "source": {
     "name": "All Steelers Talk",
-    "url": null
-   }
-  },
-  {
-   "id": "037ac1b2147ac119",
-   "type": "podcast_episode",
-   "title": "Why Did Steelers Sign MVS? | Steelers Morning Rush",
-   "show": "Steelers Afternoon Drive",
-   "url": "https://podcasts.apple.com/us/podcast/why-did-steelers-sign-mvs-steelers-morning-rush/id1700240934?i=1000797271263",
-   "published": "2026-10-20T14:10:00+00:00",
-   "summary": "Podcast episode from Steelers Afternoon Drive.",
-   "source": {
-    "name": "Steelers Afternoon Drive",
-    "url": null
-   }
-  },
-  {
-   "id": "d484b183d5b88497",
-   "type": "podcast_episode",
-   "title": "Hour 2: Unc Still Got It + Just the Toe",
-   "show": "Steelers Blitz",
-   "url": "https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/hour-2-unc-still-got-it-just-the-toe",
-   "published": "2026-10-20T14:00:00+00:00",
-   "summary": "Podcast episode from Steelers Blitz.",
-   "source": {
-    "name": "Steelers Blitz",
     "url": null
    }
   }
