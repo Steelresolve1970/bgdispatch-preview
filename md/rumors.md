@@ -1,6 +1,6 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-25T17:00:20+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T17:00:13+00:00._
+_Generated 2026-10-25T17:11:18+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T17:11:12+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
@@ -17,7 +17,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [National Analyst Names Steelers Most Likely Trade Candidate](https://steelersdepot.com/2026/10/national-analyst-names-steelers-most-likely-trade-candidate/): Steelers Depot, first seen 2026-10-24 11:49 UTC
 - **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
   [Steelers’ Latest Trade Buzz Would Add Another Weapon for Aaron Rodgers](https://sports.yahoo.com/articles/steelers-latest-trade-buzz-add-184548332.html): Yahoo Sports, first seen 2026-10-24 10:08 UTC
-- **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
+- **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
   [Steelers bring back Aaron Rodgers’ former Packers target after Chargers release](https://sports.yahoo.com/articles/steelers-bring-back-aaron-rodgers-160000327.html): Yahoo Sports, first seen 2026-10-23 16:52 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [Steelers could be a dark horse trade destination for Jaguars' Brian Thomas Jr.](https://blackandteal.com/steelers-could-be-a-dark-horse-trade-destination-for-jaguars-brian-thomas-jr-trai-essex): Black and Teal, first seen 2026-10-23 15:18 UTC
@@ -37,7 +37,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Are the Browns for real? Trade deadline plans for the Steelers, Ravens, Bengals](https://www.nytimes.com/athletic/7711772/2026/10/23/afc-north-trade-deadline-browns/): The Athletic, first seen 2026-10-23 10:05 UTC
 - **Rumor** · tier: National insider · consensus: 3 source(s), top tier National insider
   [Steelers linked to trade for Troy Polamalu's nephew](https://sports.yahoo.com/articles/steelers-linked-trade-troy-polamalus-090859602.html): Yahoo Sports, first seen 2026-10-23 10:05 UTC
-- **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
+- **Rumor** · tier: Fan blog · consensus: 2 source(s), top tier Fan blog
   [Steelers' Latest Defensive Line Injuries Make DeForest Buckner An Urgent Trade Target](https://www.steelernation.com/2026/10/22/steelers-deforest-buckner-urgent-trade): SteelerNation, first seen 2026-10-23 00:00 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [Pittsburgh Steelers Named in Massive $76 Million Trade Rumor](https://www.yardbarker.com/nfl/articles/pittsburgh_steelers_named_in_massive_76_million_trade_rumor/s1_17355_44461459): Yardbarker, first seen 2026-10-22 21:56 UTC
@@ -69,7 +69,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Fantasy Football Players Need To Target Steelers WR Germie Bernard On The Trade Block](https://www.si.com/onsi/fantasy/trade-analysis/fantasy-football-players-need-to-target-steelers-wr-germie-bernard-on-the-trade-block): Sports Illustrated, first seen 2026-10-21 17:46 UTC
 - **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
   [Steelers Must Avoid This Veteran WR Trade Target](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-must-avoid-veteran-trade-target-chris-godwin): Sports Illustrated, first seen 2026-10-21 16:33 UTC
-- **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
+- **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
   [Aaron Rodgers reportedly eyes Buccaneers WR as potential trade target for the Steelers](https://sports.yahoo.com/articles/aaron-rodgers-reportedly-eyes-buccaneers-114842350.html): Yahoo Sports, first seen 2026-10-21 13:05 UTC
 - **Rumor** · tier: Beat writer / team · consensus: 2 source(s), top tier Beat writer / team
   [First Call: Steelers’ WR trade speculation; Najee Harris out in New York; big hockey win for RMU at Penn State](https://triblive.com/sports/first-call-steelers-wr-trade-speculation-najee-harris-may-be-out-in-new-york-big-hockey-win-for-rmu-at-penn-state/): TribLive, first seen 2026-10-21 15:49 UTC
