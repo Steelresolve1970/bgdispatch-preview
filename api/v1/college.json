@@ -2,8 +2,8 @@
  "api_version": "1",
  "dataset": "college",
  "description": "College prospects at the Steelers' top needs with last-game and season stats (CollegeFootballData.com) and recent headlines.",
- "generated": "2026-10-25T11:15:06+00:00",
- "data_updated": "2026-10-25T11:14:51+00:00",
+ "generated": "2026-10-25T12:06:07+00:00",
+ "data_updated": "2026-10-25T12:05:54+00:00",
  "count": 20,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
@@ -28,27 +28,12 @@
    "position": "QB",
    "school": "Miami",
    "our_board_rank": 7,
-   "last_game": {
-    "date": "2026-10-17",
-    "opponent": "Florida State",
-    "atVs": "vs",
-    "result": "W",
-    "score": "43-35",
-    "line": "23/34, 326 pass yds, 3 TD, 1 INT; 3 rush, 6 yds",
-    "link": "https://collegefootballdata.com",
-    "days_ago": 1
-   },
-   "season_line": "135/167, 1,764 pass yds, 18 TD, 1 INT; 15 rush, 85 yds, 2 TD",
-   "stats_summary": "Darian threw for 326 yards and 3 TD with 1 pick in a win vs. Florida State. Through 6 games he's at 1,764 yards, 18 TD and 1 INT (80.8% completions).",
-   "stats_found": true,
-   "stats_url": "https://collegefootballdata.com",
+   "last_game": null,
+   "season_line": null,
+   "stats_summary": null,
+   "stats_found": false,
+   "stats_url": null,
    "headlines": [
-    {
-     "title": "Pitt is shredded by No. 1 Miami as Darian Mensah, Malachi Toney prove too much to handle",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPV0FZV0c2MkVIY21rbDBYQ255dWU2M2xIdEYxd3ljZ2dtV25qcWdhRjJMMzNwOGlOWjgyYTBoQUIxMnhTa2tRSHlWQlBpdGlJX0F6Y1l0cUNhOUxJaHNNRk83N2xWUmJaZXZzMlRQQXRBeDlLemZ4NjV4bkVYOXNPNmdVWkp5Z0hzVkp1ZVVXRTNBMWppaHlTMC1haVA0RjNmX3FBSFZn?oc=5",
-     "source": "Pittsburgh Post-Gazette",
-     "published": "2026-10-25T10:07:49+00:00"
-    },
     {
      "title": "The Best QB in the 2027 NFL Draft Class? It Sure Looks Like Miami’s Darian Mensah",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaDNaT0xjRXpXVUg4WHJ5RWlqNWI1b2tCcG84QklGVHBoSk9lU3dDdXB0cUFvbWZpdDB1bzhlTnBvODRVQWhSd0lyUnJydDlPVFhHMkVpTi12R1BmOWJCVl9zNTRMX3RTTUhWejdpa19RNDFncXZxUnM5NnZ3WWZYcURFTC1HUkRfWHNXSXUxdEw?oc=5",
@@ -60,6 +45,12 @@
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQWtWUG5jZi1INlhrWE1BU0tlbGdVOW1nelhCZXVkTUtCb3dOb2I4YW9ZSlVzUGQ5QWh0QlFOdzBDUXh2bmlyZXpLN0pzR2pfVHBtQ0dTUTY3WnBrcVRrcmt0Z2xUcFZrZHNaN2lFeW9tOE9SaG13WTFYR196SkFsTjRvdm5nRTEyNUpZZ3c5elQzV3BiNUxReW03RXM2VHBtMXc?oc=5",
      "source": "Canes Warning",
      "published": "2026-10-24T23:50:00+00:00"
+    },
+    {
+     "title": "VIDEO: Darian Mensah postgame press conference following win over Pittsburgh",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNUxSYnkyaUpVS0dWa3VWWUVSa0xHTy02NjZmc3d1R19WNzVKTjB1QlA4eGFOWWw5elhWTVByczFHck1jYl85Q0lzT01EQzV6ZkNrTmhRYXZ2VXJ2dGRadmRJR3NiVkVuS2hUdUhTWHJBRjFXeDRYTmJBSVltUEZKUDRySVVsT0ZPZGIzb1kwZ0R5empXUTRQUHI2TVlOLTVfZU1RamVqQy0tT1YwaEZkSURmT25Odzg4X2VqM25yRFBqRjFoWkhOaHpSN0tFSmtYNUhhYkRTTm1vWmhTbW5YZnZfUFlhaEM2dkRVZA?oc=5",
+     "source": "247Sports",
+     "published": "2026-10-24T20:48:01+00:00"
     }
    ],
    "source": {
@@ -75,20 +66,11 @@
    "position": "QB",
    "school": "Oklahoma State",
    "our_board_rank": 9,
-   "last_game": {
-    "date": "2026-10-17",
-    "opponent": "Houston",
-    "atVs": "@",
-    "result": "L",
-    "score": "32-35",
-    "line": "22/34, 365 pass yds, 3 TD, 1 INT; 6 rush, 34 yds",
-    "link": "https://collegefootballdata.com",
-    "days_ago": 1
-   },
-   "season_line": "136/203, 1,940 pass yds, 16 TD, 6 INT; 21 rush, 142 yds, 2 TD",
-   "stats_summary": "Drew threw for 365 yards and 3 TD with 1 pick in a loss at Houston. Through 6 games he's at 1,940 yards, 16 TD and 6 INT (67.0% completions).",
-   "stats_found": true,
-   "stats_url": "https://collegefootballdata.com",
+   "last_game": null,
+   "season_line": null,
+   "stats_summary": null,
+   "stats_found": false,
+   "stats_url": null,
    "headlines": [
     {
      "title": "Drew Mestemaker praises Caleb Hawkins' versatility after OSU football win vs Colorado",
@@ -122,21 +104,18 @@
    "position": "QB",
    "school": "Texas",
    "our_board_rank": 10,
-   "last_game": {
-    "date": "2026-10-17",
-    "opponent": "Florida",
-    "atVs": "vs",
-    "result": "L",
-    "score": "24-27",
-    "line": "14/20, 173 pass yds, 1 TD, 0 INT",
-    "link": "https://collegefootballdata.com",
-    "days_ago": 1
-   },
-   "season_line": "107/167, 1,298 pass yds, 11 TD, 5 INT; 48 rush, 99 yds",
-   "stats_summary": "Arch threw for 173 yards and 1 TD without a pick in a loss vs. Florida. Through 6 games he's at 1,298 yards, 11 TD and 5 INT (64.1% completions).",
-   "stats_found": true,
-   "stats_url": "https://collegefootballdata.com",
+   "last_game": null,
+   "season_line": null,
+   "stats_summary": null,
+   "stats_found": false,
+   "stats_url": null,
    "headlines": [
+    {
+     "title": "Texas asked Arch Manning to do less and stumbled on a successful formula",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUkJFMjhsMy1TNkx2NzFFclpGVkJBRW1icWhMZEctekdTSDNhbUxXQ2R5WjVNaVN5R0xZYmozT1JYczZaMTNfUEc5bkVGQ2hnLWRUbmRxX1hMMmhIRmJLbmtnaTR0UFdXWENydUEzRzNTbl8zd09saFNQMUM3M2swUzNCbFd0ek1icEZEcFlxbzhKWGpTQ2xF?oc=5",
+     "source": "The New York Times",
+     "published": "2026-10-25T11:13:25+00:00"
+    },
     {
      "title": "Arch Manning struck a powerful pose. Texas saved season, in a dramatic way",
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMHRQSHk1eHp5emxvSGpnVmZweWE4eWMtenhDNTh2YjdmVkF0RVZicGkyZVlSTFhKQ01xQ1czbEFsVmZCNmFZdzRXa21UMkxENDhZa001WmZTN3NsOVlNSEVWVUFFd3RsaW0tN1h1Tk1JQmJFS29QVHJTNHpxc3dhejl2WE9tYkZEa2dyTHhSX3hQR2FhbDlVejVSTFVFSlNXZzZHTWYyV1R2Y3dXbW95eklsNTRuWFpCaWk5elZscDhtMm9maW9qY0JrbmhJYmF5Umc?oc=5",
@@ -148,12 +127,6 @@
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdkM2OThjZXZWb3Q0eVl4SjlSLUJsTU43NW9MRXd3bjUzZGFOU3ZSTUNhd1BqMFRfM1R4MVNSeXd5M2lRT3ltVFJnUnF3SkFhNzNzRHhhbURwb3JWMzBUT3lfY2RGNGppNUxyLWFUd0hFUUtJc01aSG85ell3NUlxWC1ycDgxaU43?oc=5",
      "source": "Yahoo Sports",
      "published": "2026-10-25T08:40:00+00:00"
-    },
-    {
-     "title": "Texas football: Arch Manning closes out headline-heavy week with Ole Miss win",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdVV2S3pseEFZdUMyOW1XMXhNMGxCT0E1RFFpRjJsV3BDVkROeGlYSmRvUVNpQy04cmlwbFpRNGE0eG5JUTUtenpscW9KTjU1Q0M1dUpQOE5uZUppc2xZanY2MkRlMzhzak5VSUJHOVE5Y3dtV3R0OHZrVElwVTJTaFVlTDR1Zm12d0N3Um0wTkRLMDRXUVpTUXNXV1V6SHdKM0Jjb2JoMTNYc05QMlZBaGZPa256Zw?oc=5",
-     "source": "Austin American-Statesman",
-     "published": "2026-10-25T06:26:36+00:00"
     }
    ],
    "source": {
@@ -169,20 +142,11 @@
    "position": "QB",
    "school": "Oregon",
    "our_board_rank": 15,
-   "last_game": {
-    "date": "2026-09-26",
-    "opponent": "USC",
-    "atVs": "@",
-    "result": "W",
-    "score": "41-27",
-    "line": "8/10, 77 pass yds, 0 TD, 0 INT; 1 rush, 10 yds",
-    "link": "https://collegefootballdata.com",
-    "days_ago": 22
-   },
-   "season_line": "69/99, 926 pass yds, 9 TD, 0 INT; 10 rush, -7 yds",
-   "stats_summary": "No stats logged last week (bye or didn't play). In his most recent game (2026-09-26), Dante threw for 77 yards, no TD, without a pick in a win at USC. Through 4 games he's at 926 yards, 9 TD and 0 INT (69.7% completions).",
-   "stats_found": true,
-   "stats_url": "https://collegefootballdata.com",
+   "last_game": null,
+   "season_line": null,
+   "stats_summary": null,
+   "stats_found": false,
+   "stats_url": null,
    "headlines": [
     {
      "title": "Dante Moore's injury has done Oregon one massive favor for the future",
@@ -216,20 +180,11 @@
    "position": "CB",
    "school": "Notre Dame",
    "our_board_rank": 3,
-   "last_game": {
-    "date": "2026-10-17",
-    "opponent": "BYU",
-    "atVs": "@",
-    "result": "L",
-    "score": "24-28",
-    "line": "5 tackles, 1 PD",
-    "link": "https://collegefootballdata.com",
-    "days_ago": 1
-   },
-   "season_line": "13 tackles, 5 PD",
-   "stats_summary": "Leonard made 5 tackles with 1 pass breakup in a loss at BYU. Season: 13 tackles, 5 PD in 5 games.",
-   "stats_found": true,
-   "stats_url": "https://collegefootballdata.com",
+   "last_game": null,
+   "season_line": null,
+   "stats_summary": null,
+   "stats_found": false,
+   "stats_url": null,
    "headlines": [
     {
      "title": "NFL Draft Analyst Says Leonard Moore Is the Best Non-Receiver in the Class and a Titans Fit",
@@ -263,20 +218,11 @@
    "position": "CB",
    "school": "Georgia",
    "our_board_rank": 12,
-   "last_game": {
-    "date": "2026-10-17",
-    "opponent": "Auburn",
-    "atVs": "vs",
-    "result": "L",
-    "score": "24-27",
-    "line": "0 tackles, 1 PD",
-    "link": "https://collegefootballdata.com",
-    "days_ago": 1
-   },
-   "season_line": "13 tackles, 1 INT, 4 PD",
-   "stats_summary": "Ellis made 0 tackles with 1 pass breakup in a loss vs. Auburn. Season: 13 tackles, 1 INT, 4 PD in 6 games.",
-   "stats_found": true,
-   "stats_url": "https://collegefootballdata.com",
+   "last_game": null,
+   "season_line": null,
+   "stats_summary": null,
+   "stats_found": false,
+   "stats_url": null,
    "headlines": [
     {
      "title": "2027 NFL Draft Prospect Preview: CB Ellis Robinson IV, Georgia",
@@ -298,20 +244,11 @@
    "position": "CB",
    "school": "Mississippi State",
    "our_board_rank": 20,
-   "last_game": {
-    "date": "2026-10-17",
-    "opponent": "LSU",
-    "atVs": "@",
-    "result": "L",
-    "score": "0-31",
-    "line": "4 tackles",
-    "link": "https://collegefootballdata.com",
-    "days_ago": 1
-   },
-   "season_line": "21 tackles, 6 PD",
-   "stats_summary": "Kelley made 4 tackles in a loss at LSU. Season: 21 tackles, 6 PD in 6 games.",
-   "stats_found": true,
-   "stats_url": "https://collegefootballdata.com",
+   "last_game": null,
+   "season_line": null,
+   "stats_summary": null,
+   "stats_found": false,
+   "stats_url": null,
    "headlines": [
     {
      "title": "FEATURE: A Yellow Sign, 1,000 Times and One Bulldog: The Story of Kelley Jones’s biggest fan",
@@ -345,20 +282,11 @@
    "position": "CB",
    "school": "Clemson",
    "our_board_rank": 21,
-   "last_game": {
-    "date": "2026-10-17",
-    "opponent": "Charleston Southern",
-    "atVs": "vs",
-    "result": "W",
-    "score": "37-0",
-    "line": "4 tackles",
-    "link": "https://collegefootballdata.com",
-    "days_ago": 1
-   },
-   "season_line": "19 tackles, 1 INT, 9 PD",
-   "stats_summary": "Ashton made 4 tackles in a win vs. Charleston Southern. Season: 19 tackles, 1 INT, 9 PD in 6 games.",
-   "stats_found": true,
-   "stats_url": "https://collegefootballdata.com",
+   "last_game": null,
+   "season_line": null,
+   "stats_summary": null,
+   "stats_found": false,
+   "stats_url": null,
    "headlines": [
     {
      "title": "Cornerback Ashton Hampton is Limited",
@@ -392,20 +320,11 @@
    "position": "S",
    "school": "Georgia",
    "our_board_rank": 27,
-   "last_game": {
-    "date": "2026-10-10",
-    "opponent": "Alabama",
-    "atVs": "@",
-    "result": "W",
-    "score": "20-17",
-    "line": "7 tackles, 0.5 sacks, 1 PD",
-    "link": "https://collegefootballdata.com",
-    "days_ago": 8
-   },
-   "season_line": "22 tackles, 0.5 sacks, 1 INT, 2 PD",
-   "stats_summary": "KJ made 7 tackles with 0.5 sacks, 1 pass breakup in a win at Alabama. Season: 22 tackles, 0.5 sacks, 1 INT, 2 PD in 6 games.",
-   "stats_found": true,
-   "stats_url": "https://collegefootballdata.com",
+   "last_game": null,
+   "season_line": null,
+   "stats_summary": null,
+   "stats_found": false,
+   "stats_url": null,
    "headlines": [
     {
      "title": "Kirby Smart leaves Georgia fans guessing with latest KJ Bolden update",
@@ -443,7 +362,7 @@
    "season_line": null,
    "stats_summary": null,
    "stats_found": false,
-   "stats_url": "https://collegefootballdata.com",
+   "stats_url": null,
    "headlines": [
     {
      "title": "Brauntae Johnson, Jason Onye injured in Notre Dame's victory",
@@ -465,20 +384,11 @@
    "position": "S",
    "school": "Texas",
    "our_board_rank": 48,
-   "last_game": {
-    "date": "2026-10-17",
-    "opponent": "Florida",
-    "atVs": "vs",
-    "result": "L",
-    "score": "24-27",
-    "line": "9 tackles, 1 PD",
-    "link": "https://collegefootballdata.com",
-    "days_ago": 1
-   },
-   "season_line": "42 tackles, 2 PD",
-   "stats_summary": "Jelani made 9 tackles with 1 pass breakup in a loss vs. Florida. Season: 42 tackles, 2 PD in 6 games.",
-   "stats_found": true,
-   "stats_url": "https://collegefootballdata.com",
+   "last_game": null,
+   "season_line": null,
+   "stats_summary": null,
+   "stats_found": false,
+   "stats_url": null,
    "headlines": [
     {
      "title": "College Football 2027 NFL Draft Stock Up Week 7: Jelani McDonald, Amare Thomas & More",
@@ -500,20 +410,11 @@
    "position": "S",
    "school": "Ohio State",
    "our_board_rank": 54,
-   "last_game": {
-    "date": "2026-10-17",
-    "opponent": "Indiana",
-    "atVs": "@",
-    "result": "W",
-    "score": "19-15",
-    "line": "8 tackles, 1 PD, 1 FR",
-    "link": "https://collegefootballdata.com",
-    "days_ago": 1
-   },
-   "season_line": "38 tackles, 4 PD, 1 FR",
-   "stats_summary": "Earl made 8 tackles with 1 pass breakup in a win at Indiana. Season: 38 tackles, 4 PD in 7 games.",
-   "stats_found": true,
-   "stats_url": "https://collegefootballdata.com",
+   "last_game": null,
+   "season_line": null,
+   "stats_summary": null,
+   "stats_found": false,
+   "stats_url": null,
    "headlines": [
     {
      "title": "Chris Henry Jr., Jay Timmons and Earl Little Jr. Are Pro Football Focus’ Highest-Graded Ohio State Players Against Indiana",
@@ -535,20 +436,11 @@
    "position": "LB",
    "school": "Georgia",
    "our_board_rank": 19,
-   "last_game": {
-    "date": "2026-10-17",
-    "opponent": "Auburn",
-    "atVs": "vs",
-    "result": "L",
-    "score": "24-27",
-    "line": "10 tackles",
-    "link": "https://collegefootballdata.com",
-    "days_ago": 1
-   },
-   "season_line": "40 tackles, 2.5 sacks, 3 PD, 2 FR",
-   "stats_summary": "Chris made 10 tackles in a loss vs. Auburn. Season: 40 tackles, 2.5 sacks, 3 PD in 7 games.",
-   "stats_found": true,
-   "stats_url": "https://collegefootballdata.com",
+   "last_game": null,
+   "season_line": null,
+   "stats_summary": null,
+   "stats_found": false,
+   "stats_url": null,
    "headlines": [
     {
      "title": "NFL Draft Analyst Says Chris Cole in Mike Macdonald's Seahawks Defense Would Be Unfair",
@@ -582,28 +474,12 @@
    "position": "LB",
    "school": "Notre Dame",
    "our_board_rank": 29,
-   "last_game": {
-    "date": "2026-10-03",
-    "opponent": "North Carolina",
-    "atVs": "@",
-    "result": "W",
-    "score": "37-26",
-    "line": "3 tackles, 1 INT",
-    "link": "https://collegefootballdata.com",
-    "days_ago": 14
-   },
-   "season_line": "13 tackles, 1 INT, 1 FR",
-   "stats_summary": "No stats logged last week (bye or didn't play). In his most recent game (2026-10-03), Kyngstonn made 3 tackles with 1 interception in a win at North Carolina. Season: 13 tackles, 1 INT in 4 games.",
-   "stats_found": true,
-   "stats_url": "https://collegefootballdata.com",
-   "headlines": [
-    {
-     "title": "Notre Dame's Kyngstonn Viliamu-Asa Prepares to Return ‘Six Weeks Ahead of Schedule’",
-     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNcjJmN0k2b00xbmxPeE5mWFBXT2ZtRlE5OG42ck1BajctTWp1ellnci13WVVSRk5DQnNtOFByQjVKMDBJbk80UjB2VGJZTVlCenBid0JFem00THcxTXVXbERMX0tVLWg4S3FsS2tYdUpMWjZPQk9WTEhqRjVsMS1fN1hodlJIUFFpcDJXbEhDY1c4NDl0MnU3VC15N1d1M1I2eml4S1ppTFUwSlo5ekQxRWhxQTRkZVQ0VkdqaTBfSTNPcTZsWm5RZGpYSnBXb0dPNFNXQ2JXZnJSbHJFNFVMZWN1LUMzdG54VmtEaWYtSjhWWUxFTUE?oc=5",
-     "source": "247Sports",
-     "published": "2026-10-22T14:01:00+00:00"
-    }
-   ],
+   "last_game": null,
+   "season_line": null,
+   "stats_summary": null,
+   "stats_found": false,
+   "stats_url": null,
+   "headlines": [],
    "source": {
     "name": "CollegeFootballData.com stats + Black & Gold Dispatch board + Google News headlines",
     "url": "https://collegefootballdata.com"
@@ -617,20 +493,11 @@
    "position": "LB",
    "school": "Georgia",
    "our_board_rank": 43,
-   "last_game": {
-    "date": "2026-10-17",
-    "opponent": "Auburn",
-    "atVs": "vs",
-    "result": "L",
-    "score": "24-27",
-    "line": "10 tackles, 1 sack",
-    "link": "https://collegefootballdata.com",
-    "days_ago": 2
-   },
-   "season_line": "43 tackles, 4 sacks",
-   "stats_summary": "Raylen made 10 tackles with 1 sack in a loss vs. Auburn. Season: 43 tackles, 4 sacks in 6 games.",
-   "stats_found": true,
-   "stats_url": "https://collegefootballdata.com",
+   "last_game": null,
+   "season_line": null,
+   "stats_summary": null,
+   "stats_found": false,
+   "stats_url": null,
    "headlines": [],
    "source": {
     "name": "CollegeFootballData.com stats + Black & Gold Dispatch board + Google News headlines",
@@ -645,20 +512,11 @@
    "position": "LB",
    "school": "Clemson",
    "our_board_rank": 45,
-   "last_game": {
-    "date": "2026-10-17",
-    "opponent": "Charleston Southern",
-    "atVs": "vs",
-    "result": "W",
-    "score": "37-0",
-    "line": "1 tackle",
-    "link": "https://collegefootballdata.com",
-    "days_ago": 1
-   },
-   "season_line": "40 tackles, 1 sack, 1 PD",
-   "stats_summary": "Sammy made 1 tackle in a win vs. Charleston Southern. Season: 40 tackles, 1 sack, 1 PD in 6 games.",
-   "stats_found": true,
-   "stats_url": "https://collegefootballdata.com",
+   "last_game": null,
+   "season_line": null,
+   "stats_summary": null,
+   "stats_found": false,
+   "stats_url": null,
    "headlines": [
     {
      "title": "Sammy Brown: Clemson Football Linebacker - News, Stats, Bio & More",
@@ -680,20 +538,11 @@
    "position": "WR",
    "school": "Ohio State",
    "our_board_rank": 1,
-   "last_game": {
-    "date": "2026-10-17",
-    "opponent": "Indiana",
-    "atVs": "@",
-    "result": "W",
-    "score": "19-15",
-    "line": "4 rec, 68 yds, 1 TD; 1 rush, 2 yds",
-    "link": "https://collegefootballdata.com",
-    "days_ago": 1
-   },
-   "season_line": "52 rec, 984 yds, 12 TD; 2 rush, 7 yds",
-   "stats_summary": "Jeremiah caught 4 passes for 68 yards and 1 TD in a win at Indiana. Season: 52 catches, 984 yards (141 per game), 12 TD.",
-   "stats_found": true,
-   "stats_url": "https://collegefootballdata.com",
+   "last_game": null,
+   "season_line": null,
+   "stats_summary": null,
+   "stats_found": false,
+   "stats_url": null,
    "headlines": [
     {
      "title": "College football midseason All-America teams: Jeremiah Smith, Colin Simmons lead first-half stars - The Athletic",
@@ -727,20 +576,11 @@
    "position": "WR",
    "school": "Texas",
    "our_board_rank": 8,
-   "last_game": {
-    "date": "2026-10-17",
-    "opponent": "Florida",
-    "atVs": "vs",
-    "result": "L",
-    "score": "24-27",
-    "line": "3 rec, 18 yds, 1 TD",
-    "link": "https://collegefootballdata.com",
-    "days_ago": 1
-   },
-   "season_line": "19 rec, 322 yds, 6 TD",
-   "stats_summary": "Cam caught 3 passes for 18 yards and 1 TD in a loss vs. Florida. Season: 19 catches, 322 yards (54 per game), 6 TD.",
-   "stats_found": true,
-   "stats_url": "https://collegefootballdata.com",
+   "last_game": null,
+   "season_line": null,
+   "stats_summary": null,
+   "stats_found": false,
+   "stats_url": null,
    "headlines": [
     {
      "title": "Steve Sarkisian on injuries to Trevor Goosby, Cam Coleman: ‘Neither of them look very good’",
@@ -774,20 +614,11 @@
    "position": "WR",
    "school": "Indiana",
    "our_board_rank": 16,
-   "last_game": {
-    "date": "2026-10-17",
-    "opponent": "Ohio State",
-    "atVs": "vs",
-    "result": "L",
-    "score": "15-19",
-    "line": "9 rec, 165 yds, 0 TD",
-    "link": "https://collegefootballdata.com",
-    "days_ago": 1
-   },
-   "season_line": "39 rec, 694 yds, 8 TD",
-   "stats_summary": "Charlie caught 9 passes for 165 yards in a loss vs. Ohio State. Season: 39 catches, 694 yards (99 per game), 8 TD.",
-   "stats_found": true,
-   "stats_url": "https://collegefootballdata.com",
+   "last_game": null,
+   "season_line": null,
+   "stats_summary": null,
+   "stats_found": false,
+   "stats_url": null,
    "headlines": [
     {
      "title": "Charlie Becker Prepares for Big House Challenge and Reflects on Apology to Ryan Day",
@@ -825,7 +656,7 @@
    "season_line": null,
    "stats_summary": null,
    "stats_found": false,
-   "stats_url": "https://collegefootballdata.com",
+   "stats_url": null,
    "headlines": [
     {
      "title": "Ryan Coleman-Williams news another hurdle for Alabama's struggling offense",

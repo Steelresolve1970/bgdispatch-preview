@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-25T11:15:06+00:00",
- "data_updated": "2026-10-25T11:14:45+00:00",
- "count": 132,
+ "generated": "2026-10-25T12:06:07+00:00",
+ "data_updated": "2026-10-25T12:05:17+00:00",
+ "count": 131,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -20,6 +20,32 @@
  "html": "https://blackandgolddispatch.com/#/podcasts",
  "items": [
   {
+   "id": "7b2055f73c775a81",
+   "type": "podcast_episode",
+   "title": "The Terrible Take - Episode 2061 - October 25, 2026",
+   "show": "The Terrible Podcast (Steelers Depot)",
+   "url": "https://podcasts.apple.com/us/podcast/id405990739",
+   "published": "2026-10-25T11:52:00+00:00",
+   "summary": "Podcast episode from The Terrible Podcast (Steelers Depot).",
+   "source": {
+    "name": "The Terrible Podcast (Steelers Depot)",
+    "url": null
+   }
+  },
+  {
+   "id": "30e00634619cb3a9",
+   "type": "video",
+   "title": "📍Stade de France",
+   "show": "Pittsburgh Steelers (official)",
+   "url": "https://www.youtube.com/shorts/GOAKRNi5pnI",
+   "published": "2026-10-25T11:11:37+00:00",
+   "summary": "Video from Pittsburgh Steelers (official).",
+   "source": {
+    "name": "Pittsburgh Steelers (official)",
+    "url": null
+   }
+  },
+  {
    "id": "a5788d99407472c3",
    "type": "video",
    "title": "Steelers Insider featuring Mike McCarthy: Week 7 at Saints in Paris | Pittsburgh Steelers",
@@ -29,19 +55,6 @@
    "summary": "Video from Pittsburgh Steelers (official).",
    "source": {
     "name": "Pittsburgh Steelers (official)",
-    "url": null
-   }
-  },
-  {
-   "id": "7b2055f73c775a81",
-   "type": "podcast_episode",
-   "title": "The Terrible Take - Episode 2060 - October 24, 2026",
-   "show": "The Terrible Podcast (Steelers Depot)",
-   "url": "https://podcasts.apple.com/us/podcast/id405990739",
-   "published": "2026-10-24T21:00:00+00:00",
-   "summary": "Podcast episode from The Terrible Podcast (Steelers Depot).",
-   "source": {
-    "name": "The Terrible Podcast (Steelers Depot)",
     "url": null
    }
   },
@@ -731,19 +744,6 @@
    "summary": "Podcast episode from The Terrible Podcast (Steelers Depot).",
    "source": {
     "name": "The Terrible Podcast (Steelers Depot)",
-    "url": null
-   }
-  },
-  {
-   "id": "5c8f8da47fe6f087",
-   "type": "video",
-   "title": "Dermontti Dawson & Mel Blount checking in from Paris 🇫🇷",
-   "show": "Pittsburgh Steelers (official)",
-   "url": "https://www.youtube.com/shorts/0otqWh1Uiu4",
-   "published": "2026-10-22T18:57:57+00:00",
-   "summary": "Video from Pittsburgh Steelers (official).",
-   "source": {
-    "name": "Pittsburgh Steelers (official)",
     "url": null
    }
   },
@@ -1719,19 +1719,6 @@
    "summary": "Podcast episode from All Steelers Talk.",
    "source": {
     "name": "All Steelers Talk",
-    "url": null
-   }
-  },
-  {
-   "id": "27d99e186b44dfc6",
-   "type": "video",
-   "title": "Steelers' OL Grades vs Bucs",
-   "show": "Steelers Almighty",
-   "url": "https://www.youtube.com/shorts/XnzAiZ2rG18",
-   "published": "2026-10-20T11:27:49+00:00",
-   "summary": "Video from Steelers Almighty.",
-   "source": {
-    "name": "Steelers Almighty",
     "url": null
    }
   }
