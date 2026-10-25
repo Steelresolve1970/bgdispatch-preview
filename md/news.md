@@ -1,8 +1,9 @@
 # Steelers News
 
-_Generated 2026-10-25T04:53:17+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T04:51:41+00:00._
+_Generated 2026-10-25T05:05:06+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T05:03:31+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Steelers vs New Orleans Saints Gameday: Injury Updates, Depth Charts, TV Info, Betting Lines, More](https://steelersnow.com/steelers-vs-new-orleans-saints-gameday-injury-updates-depth-charts-tv-info-betting-lines-more/): Steelers Now, 2026-10-25 04:52 UTC
 - [How to stream and watch Steelers vs. Saints in Paris: Halftime show and protest details](https://www.nytimes.com/athletic/7718115/2026/10/25/steelers-saints-paris-france-nfl-protests-tv/): The Athletic, 2026-10-25 04:01 UTC
 - [Steelers Vs Saints Prediction](https://steelersdepot.com/2026/10/steelers-vs-saints-prediction-2/): Steelers Depot, 2026-10-25 04:00 UTC
 - [++!【LIVE@STREAMS】TV!] Pittsburgh Steelers VS New Orleans Saints Live free streams NFL October, 25, 2026](https://www.fctokyo.co.jp/en/panorama/back_sb.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3BhcnQyLXRlY2guZ2l0aHViLmlvL09iYWRkby94c20ueG1sIi8+PC9rcnBhbm8+&id=video-livestreamstv-pittsburgh-ste-fgwbtwb6): FC東京オフィシャルホームページ, 2026-10-25 03:32 UTC
@@ -105,7 +106,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [French-inspired brunch ideas and Pittsburgh restaurants to try for the Steelers game in Paris](https://triblive.com/sports/steelers/french-inspired-brunch-ideas-and-pittsburgh-restaurants-to-try-for-the-steelers-game-in-paris/): TribLive, 2026-10-23 18:43 UTC
 - [Germie Bernard’s production is here to stay for the Steelers](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176721/germie-bernards-production-is-here-to-stay-for-the-steelers-aaron-rodgers): Behind the Steel Curtain, 2026-10-23 18:30 UTC
 - [The Pittsburgh Football Show, Episode 7, Oct. 23, 2026](https://steelersnow.com/the-pittsburgh-football-show-episode-7-oct-23-2026/): Steelers Now, 2026-10-23 17:56 UTC
-- [Soccer Match in Paris on Sunday Postponed at Request of Police](https://steelersnow.com/soccer-match-in-paris-on-sunday-postponed-at-request-of-police/): Steelers Now, 2026-10-23 17:35 UTC
 - [Noah Hiles: My journey to find an NFL bar in Paris](https://www.post-gazette.com/sports/steelers/2026/10/23/steelers-bars-in-paris-france/stories/202610240007): Pittsburgh Post-Gazette, 2026-10-23 17:30 UTC
 - [Steelers on a short ‘business trip’ to beat Saints, not to sightsee in Paris](https://triblive.com/sports/steelers-on-a-short-business-trip-to-beat-saints-not-to-sightsee-in-paris/): TribLive, 2026-10-23 17:22 UTC
 - [Steelers vs. Saints: Three must-know storylines for NFL's first-ever Paris game](https://www.nfl.com/news/steelers-vs-saints-preview-week-7-paris-game): NFL.com, 2026-10-23 16:46 UTC
