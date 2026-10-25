@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "film",
  "description": "Film breakdowns of the last game and previews of the next game (links).",
- "generated": "2026-10-25T01:57:58+00:00",
- "data_updated": "2026-10-25T01:56:46+00:00",
- "count": 15,
+ "generated": "2026-10-25T02:08:50+00:00",
+ "data_updated": "2026-10-25T02:08:18+00:00",
+ "count": 18,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -160,6 +160,20 @@
    }
   },
   {
+   "id": "da749e55e729339f",
+   "type": "film_preview",
+   "game": "at New Orleans Saints (Oct 25)",
+   "title": "Saints Preview & Predictions | Steelers Afternoon Drive",
+   "creator": "Steelers Now (Derrick Bell)",
+   "url": "https://www.youtube.com/watch?v=voEIPYX3YNw",
+   "published": "2026-10-23T21:57:14+00:00",
+   "summary": "Preview by Steelers Now (Derrick Bell) for at New Orleans Saints (Oct 25).",
+   "source": {
+    "name": "Steelers Now (Derrick Bell)",
+    "url": null
+   }
+  },
+  {
    "id": "0769722b49e8a052",
    "type": "film_preview",
    "game": "at New Orleans Saints (Oct 25)",
@@ -170,6 +184,20 @@
    "summary": "Preview by Steelers Almighty for at New Orleans Saints (Oct 25).",
    "source": {
     "name": "Steelers Almighty",
+    "url": null
+   }
+  },
+  {
+   "id": "f4e6384d51be6052",
+   "type": "film_preview",
+   "game": "at New Orleans Saints (Oct 25)",
+   "title": "The Terrible Podcast — Steelers Vs Saints Game Preview, Joseph-Day To IR, Week 7 Picks, And More",
+   "creator": "Steelers Depot (YouTube)",
+   "url": "https://www.youtube.com/watch?v=KSUKvtclF40",
+   "published": "2026-10-23T16:24:26+00:00",
+   "summary": "Preview by Steelers Depot (YouTube) for at New Orleans Saints (Oct 25).",
+   "source": {
+    "name": "Steelers Depot (YouTube)",
     "url": null
    }
   },
@@ -226,6 +254,20 @@
    "summary": "Preview by Steel Curtain Network (BTSC) for at New Orleans Saints (Oct 25).",
    "source": {
     "name": "Steel Curtain Network (BTSC)",
+    "url": null
+   }
+  },
+  {
+   "id": "701ca8615fab1301",
+   "type": "film_preview",
+   "game": "at New Orleans Saints (Oct 25)",
+   "title": "Steelers vs. Saints Week 7 Preview | Aaron Rodgers Problem Brewing",
+   "creator": "Still Curtain",
+   "url": "https://www.youtube.com/watch?v=B0agqGjSVpU",
+   "published": "2026-10-22T06:58:28+00:00",
+   "summary": "Preview by Still Curtain for at New Orleans Saints (Oct 25).",
+   "source": {
+    "name": "Still Curtain",
     "url": null
    }
   }
