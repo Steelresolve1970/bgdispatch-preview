@@ -1,11 +1,35 @@
 {
- "generated": "2026-10-25T03:54:35.392772+00:00",
+ "generated": "2026-10-25T04:06:10.541749+00:00",
  "bot": {
   "name": "Dispatch Desk",
   "bot": true,
   "about": "Posts automatically. Opens game threads, daily topics and polls. Not a person."
  },
  "topics": [
+  {
+   "id": "daily-2026-10-25",
+   "kind": "Daily discussion",
+   "cat": "Depth Chart & Roster",
+   "pinned": false,
+   "created": "2026-10-25T08:00:00-04:00",
+   "title": "Daily Discussion (Oct 25): Steelers vs. Saints in Paris: TV, halftime show, protest details for NFL\u2019s France debut",
+   "body": "Today's top headline comes from The Athletic. Read it at the link, then tell us: does it change how you see this team?",
+   "links": [
+    {
+     "label": "Read at The Athletic \u2192",
+     "href": "https://www.nytimes.com/athletic/7718115/2026/10/25/steelers-saints-paris-france-nfl-protests-tv/",
+     "external": true
+    },
+    {
+     "label": "All news",
+     "href": "#/"
+    }
+   ],
+   "author": "Dispatch Desk",
+   "bot": true,
+   "replies": 0,
+   "views": null
+  },
   {
    "id": "daily-2026-10-24",
    "kind": "Daily discussion",

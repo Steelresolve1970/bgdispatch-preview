@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "rumors",
  "description": "Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).",
- "generated": "2026-10-25T03:54:46+00:00",
- "data_updated": "2026-10-25T03:54:40+00:00",
- "count": 52,
+ "generated": "2026-10-25T04:06:23+00:00",
+ "data_updated": "2026-10-25T04:06:16+00:00",
+ "count": 36,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -219,21 +219,14 @@
    "published": "2026-10-23T18:45:48+00:00",
    "people": [],
    "consensus": {
-    "cluster_id": "14ffc5da6c16",
-    "independent_sources": 3,
+    "cluster_id": "5d585445ee02",
+    "independent_sources": 1,
     "sources": [
-     "Heavy.com",
-     "Wisconsin Sports Heroics",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
-    "related_ids": [
-     "85d6f65ebcd2",
-     "794b3684899f",
-     "173465376593",
-     "14ffc5da6c16"
-    ]
+    "related_ids": []
    }
   },
   {
@@ -257,20 +250,17 @@
     "Aaron Rodgers"
    ],
    "consensus": {
-    "cluster_id": "14ffc5da6c16",
-    "independent_sources": 3,
+    "cluster_id": "173465376593",
+    "independent_sources": 2,
     "sources": [
-     "Heavy.com",
      "Wisconsin Sports Heroics",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "5d585445ee02",
      "794b3684899f",
-     "173465376593",
-     "14ffc5da6c16"
+     "173465376593"
     ]
    }
   },
@@ -324,20 +314,18 @@
    "published": "2026-10-23T15:00:00+00:00",
    "people": [],
    "consensus": {
-    "cluster_id": "33136c96597c",
-    "independent_sources": 4,
+    "cluster_id": "f2f844c42164",
+    "independent_sources": 3,
     "sources": [
      "Athlon Sports",
      "Carlisle Sentinel",
-     "SteelerNation",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
      "514b4160b9de",
-     "f2f844c42164",
-     "33136c96597c"
+     "f2f844c42164"
     ]
    }
   },
@@ -547,20 +535,18 @@
     "Troy Polamalu's"
    ],
    "consensus": {
-    "cluster_id": "33136c96597c",
-    "independent_sources": 4,
+    "cluster_id": "f2f844c42164",
+    "independent_sources": 3,
     "sources": [
      "Athlon Sports",
      "Carlisle Sentinel",
-     "SteelerNation",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
      "75724089f665",
-     "f2f844c42164",
-     "33136c96597c"
+     "f2f844c42164"
     ]
    }
   },
@@ -612,17 +598,14 @@
    "published": "2026-10-22T21:51:22+00:00",
    "people": [],
    "consensus": {
-    "cluster_id": "37218d1efc30",
-    "independent_sources": 2,
+    "cluster_id": "70c4e90ce6da",
+    "independent_sources": 1,
     "sources": [
-     "Heavy.com",
      "Yardbarker"
     ],
     "highest_tier": "Aggregator / other",
     "highest_tier_score": 1,
-    "related_ids": [
-     "37218d1efc30"
-    ]
+    "related_ids": []
    }
   },
   {
@@ -799,17 +782,14 @@
    "published": "2026-10-22T09:30:11+00:00",
    "people": [],
    "consensus": {
-    "cluster_id": "48f6b51885d4",
-    "independent_sources": 2,
+    "cluster_id": "7e976d566581",
+    "independent_sources": 1,
     "sources": [
-     "The Athletic",
-     "Yahoo Sports"
+     "The Athletic"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
-    "related_ids": [
-     "48f6b51885d4"
-    ]
+    "related_ids": []
    }
   },
   {
@@ -862,33 +842,16 @@
    "published": "2026-10-21T22:32:28+00:00",
    "people": [],
    "consensus": {
-    "cluster_id": "44f0c20355e3",
-    "independent_sources": 8,
+    "cluster_id": "88ec15922e1e",
+    "independent_sources": 2,
     "sources": [
-     "Beaver County Radio",
      "Gridiron Heroics",
-     "Sports Illustrated",
-     "Steelers Depot",
-     "Still Curtain",
-     "TribLIVE.com",
-     "TribLive",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "88ec15922e1e",
-     "c774b8995598",
-     "1b9cf10893b1",
-     "8517ea310aff",
-     "d9ea387e2e1d",
-     "792f91873354",
-     "c096101038f6",
-     "47b303529098",
-     "903d04baad12",
-     "a2fc6f6f5226",
-     "cea338c8f16a",
-     "44f0c20355e3"
+     "88ec15922e1e"
     ]
    }
   },
@@ -1090,20 +1053,17 @@
     "Aaron Rodgers"
    ],
    "consensus": {
-    "cluster_id": "14ffc5da6c16",
-    "independent_sources": 3,
+    "cluster_id": "173465376593",
+    "independent_sources": 2,
     "sources": [
-     "Heavy.com",
      "Wisconsin Sports Heroics",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "5d585445ee02",
      "85d6f65ebcd2",
-     "173465376593",
-     "14ffc5da6c16"
+     "173465376593"
     ]
    }
   },
@@ -1131,33 +1091,16 @@
     "Penn State"
    ],
    "consensus": {
-    "cluster_id": "44f0c20355e3",
-    "independent_sources": 8,
+    "cluster_id": "1b9cf10893b1",
+    "independent_sources": 2,
     "sources": [
-     "Beaver County Radio",
-     "Gridiron Heroics",
-     "Sports Illustrated",
-     "Steelers Depot",
-     "Still Curtain",
      "TribLIVE.com",
-     "TribLive",
-     "Yahoo Sports"
+     "TribLive"
     ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
+    "highest_tier": "Beat writer / team",
+    "highest_tier_score": 3,
     "related_ids": [
-     "220ffc62c292",
-     "88ec15922e1e",
-     "c774b8995598",
-     "8517ea310aff",
-     "d9ea387e2e1d",
-     "792f91873354",
-     "c096101038f6",
-     "47b303529098",
-     "903d04baad12",
-     "a2fc6f6f5226",
-     "cea338c8f16a",
-     "44f0c20355e3"
+     "c774b8995598"
     ]
    }
   },
@@ -1188,629 +1131,6 @@
     "highest_tier": "Aggregator / other",
     "highest_tier_score": 1,
     "related_ids": []
-   }
-  },
-  {
-   "id": "14ffc5da6c16",
-   "type": "rumor",
-   "title": "Aaron Rodgers Reportedly Has ‘Favorite’ WR Trade Target",
-   "summary": "Trade/roster move story from Heavy.com. Full report at the original publisher.",
-   "url": "https://heavy.com/sports/nfl/pittsburgh-steelers/aaron-rodgers-favorite-wr-trade-target/",
-   "source": {
-    "name": "Heavy.com",
-    "url": null,
-    "reliability_tier": "Aggregator / other",
-    "reliability_score": 1
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-21T00:34:42+00:00",
-   "updated": "2026-10-21T00:34:42+00:00",
-   "published": "2026-10-20T23:46:20+00:00",
-   "people": [],
-   "consensus": {
-    "cluster_id": "14ffc5da6c16",
-    "independent_sources": 3,
-    "sources": [
-     "Heavy.com",
-     "Wisconsin Sports Heroics",
-     "Yahoo Sports"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": [
-     "5d585445ee02",
-     "85d6f65ebcd2",
-     "794b3684899f",
-     "173465376593"
-    ]
-   }
-  },
-  {
-   "id": "eee585604789",
-   "type": "rumor",
-   "title": "Steelers Rumors: Could Davante Adams Be a Trade Target?",
-   "summary": "Trade/roster move story from Chat Sports. Full report at the original publisher.",
-   "url": "https://www.chatsports.com/pittsburgh-steelers/a/steelers-rumors-could-davante-adams-be-trade-target-53435",
-   "source": {
-    "name": "Chat Sports",
-    "url": null,
-    "reliability_tier": "Fan blog",
-    "reliability_score": 2
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-21T00:05:28+00:00",
-   "updated": "2026-10-21T00:05:28+00:00",
-   "published": "2026-10-20T23:45:07+00:00",
-   "people": [],
-   "consensus": {
-    "cluster_id": "eee585604789",
-    "independent_sources": 1,
-    "sources": [
-     "Chat Sports"
-    ],
-    "highest_tier": "Fan blog",
-    "highest_tier_score": 2,
-    "related_ids": []
-   }
-  },
-  {
-   "id": "33136c96597c",
-   "type": "rumor",
-   "title": "Steelers Linked To A Slew Of All-Pros With Trade Deadline Quickly Approaching",
-   "summary": "Trade/roster move story from SteelerNation. Full report at the original publisher.",
-   "url": "https://www.steelernation.com/2026/10/20/steelers-trade-deadline-quickly",
-   "source": {
-    "name": "SteelerNation",
-    "url": null,
-    "reliability_tier": "Fan blog",
-    "reliability_score": 2
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-20T23:11:37+00:00",
-   "updated": "2026-10-20T23:11:37+00:00",
-   "published": "2026-10-20T23:08:59+00:00",
-   "people": [],
-   "consensus": {
-    "cluster_id": "33136c96597c",
-    "independent_sources": 4,
-    "sources": [
-     "Athlon Sports",
-     "Carlisle Sentinel",
-     "SteelerNation",
-     "Yahoo Sports"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": [
-     "75724089f665",
-     "514b4160b9de",
-     "f2f844c42164"
-    ]
-   }
-  },
-  {
-   "id": "dd1f84d92d9c",
-   "type": "rumor",
-   "title": "Steelers Linked To Intriguing Chris Godwin Jr Trade After Buccaneers Win",
-   "summary": "Trade/roster move story from SteelerNation. Full report at the original publisher.",
-   "url": "https://www.steelernation.com/2026/10/20/steelers-intriguing-chris-godwin-trade",
-   "source": {
-    "name": "SteelerNation",
-    "url": null,
-    "reliability_tier": "Fan blog",
-    "reliability_score": 2
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-20T20:00:06+00:00",
-   "updated": "2026-10-20T20:00:06+00:00",
-   "published": "2026-10-20T19:57:56+00:00",
-   "people": [],
-   "consensus": {
-    "cluster_id": "dd1f84d92d9c",
-    "independent_sources": 1,
-    "sources": [
-     "SteelerNation"
-    ],
-    "highest_tier": "Fan blog",
-    "highest_tier_score": 2,
-    "related_ids": []
-   }
-  },
-  {
-   "id": "b54dd8fd8410",
-   "type": "rumor",
-   "title": "Report Detailed Exactly What Steelers Are Looking For At The Trade Deadline",
-   "summary": "Trade/roster move story from SteelerNation. Full report at the original publisher.",
-   "url": "https://www.steelernation.com/2026/10/20/steelers-detailed-exactly-deadline",
-   "source": {
-    "name": "SteelerNation",
-    "url": null,
-    "reliability_tier": "Fan blog",
-    "reliability_score": 2
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-20T19:27:54+00:00",
-   "updated": "2026-10-20T19:27:54+00:00",
-   "published": "2026-10-20T19:07:17+00:00",
-   "people": [],
-   "consensus": {
-    "cluster_id": "b54dd8fd8410",
-    "independent_sources": 1,
-    "sources": [
-     "SteelerNation"
-    ],
-    "highest_tier": "Fan blog",
-    "highest_tier_score": 2,
-    "related_ids": []
-   }
-  },
-  {
-   "id": "37218d1efc30",
-   "type": "rumor",
-   "title": "Steelers’ $12 Million Playmaker Named Trade Candidate After Strong Week 6",
-   "summary": "Trade/roster move story from Heavy.com. Full report at the original publisher.",
-   "url": "https://heavy.com/sports/nfl/pittsburgh-steelers/steelers-rico-dowdle-trade-candidate-jaylen-warren/",
-   "source": {
-    "name": "Heavy.com",
-    "url": null,
-    "reliability_tier": "Aggregator / other",
-    "reliability_score": 1
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-20T17:54:13+00:00",
-   "updated": "2026-10-20T17:54:13+00:00",
-   "published": "2026-10-20T17:50:18+00:00",
-   "people": [],
-   "consensus": {
-    "cluster_id": "37218d1efc30",
-    "independent_sources": 2,
-    "sources": [
-     "Heavy.com",
-     "Yardbarker"
-    ],
-    "highest_tier": "Aggregator / other",
-    "highest_tier_score": 1,
-    "related_ids": [
-     "70c4e90ce6da"
-    ]
-   }
-  },
-  {
-   "id": "80328d8900e5",
-   "type": "rumor",
-   "title": "Latest update on injured Steelers wide receiver could mean Pittsburgh has no choice but to make a trade before the deadline",
-   "summary": "Injury story from A to Z Sports. Full report at the original publisher.",
-   "url": "https://atozsports.com/nfl/pittsburgh-steelers-news/michael-pittman-jr-could-miss-rest-of-season-wr-trade-deadline-rumors/",
-   "source": {
-    "name": "A to Z Sports",
-    "url": null,
-    "reliability_tier": "Aggregator / other",
-    "reliability_score": 1
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-20T21:02:33+00:00",
-   "updated": "2026-10-20T21:02:33+00:00",
-   "published": "2026-10-20T17:11:05+00:00",
-   "people": [],
-   "consensus": {
-    "cluster_id": "dc4e7eea9511",
-    "independent_sources": 1,
-    "sources": [
-     "A to Z Sports"
-    ],
-    "highest_tier": "Aggregator / other",
-    "highest_tier_score": 1,
-    "related_ids": [
-     "dc4e7eea9511"
-    ]
-   }
-  },
-  {
-   "id": "d9ea387e2e1d",
-   "type": "rumor",
-   "title": "Reports: Giants Release Ex-Steelers RB Najee Harris",
-   "summary": "Trade/roster move story from Steelers Depot. Full report at the original publisher.",
-   "url": "https://steelersdepot.com/2026/10/reports-giants-release-ex-steelers-rb-najee-harris/",
-   "source": {
-    "name": "Steelers Depot",
-    "url": null,
-    "reliability_tier": "Fan blog",
-    "reliability_score": 2
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-20T15:15:55+00:00",
-   "updated": "2026-10-20T15:15:55+00:00",
-   "published": "2026-10-20T15:12:49+00:00",
-   "people": [],
-   "consensus": {
-    "cluster_id": "44f0c20355e3",
-    "independent_sources": 8,
-    "sources": [
-     "Beaver County Radio",
-     "Gridiron Heroics",
-     "Sports Illustrated",
-     "Steelers Depot",
-     "Still Curtain",
-     "TribLIVE.com",
-     "TribLive",
-     "Yahoo Sports"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": [
-     "220ffc62c292",
-     "88ec15922e1e",
-     "c774b8995598",
-     "1b9cf10893b1",
-     "8517ea310aff",
-     "792f91873354",
-     "c096101038f6",
-     "47b303529098",
-     "903d04baad12",
-     "a2fc6f6f5226",
-     "cea338c8f16a",
-     "44f0c20355e3"
-    ]
-   }
-  },
-  {
-   "id": "dcc924941cad",
-   "type": "rumor",
-   "title": "Colts' trade update could be great news for Steelers",
-   "summary": "Trade/roster move story from Yahoo Sports. Full report at the original publisher.",
-   "url": "https://sports.yahoo.com/articles/colts-trade-could-great-news-145024224.html",
-   "source": {
-    "name": "Yahoo Sports",
-    "url": null,
-    "reliability_tier": "National insider",
-    "reliability_score": 4
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-22T03:37:38+00:00",
-   "updated": "2026-10-22T03:37:38+00:00",
-   "published": "2026-10-20T14:50:24+00:00",
-   "people": [],
-   "consensus": {
-    "cluster_id": "dcc924941cad",
-    "independent_sources": 1,
-    "sources": [
-     "Yahoo Sports"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": []
-   }
-  },
-  {
-   "id": "c096101038f6",
-   "type": "rumor",
-   "title": "Steelers signing Marquez Valdes-Scantling could make things even worse",
-   "summary": "Trade/roster move story from Still Curtain. Full report at the original publisher.",
-   "url": "https://stillcurtain.com/pittsburgh-steelers-signing-marquez-valdes-scantling-could-make-offense-worse-01m5cmdzgrz1?utm_source=RSS",
-   "source": {
-    "name": "Still Curtain",
-    "url": null,
-    "reliability_tier": "Fan blog",
-    "reliability_score": 2
-   },
-   "status": "Confirmed",
-   "status_evidence": {
-    "text": "TribLive: Newly signed Steelers receiver Marquez Valdes-Scantling might contribute quickly",
-    "url": "https://triblive.com/sports/newly-signed-steelers-receiver-marquez-valdes-scantling-might-contribute-quickly/"
-   },
-   "first_seen": "2026-10-20T14:14:03+00:00",
-   "updated": "2026-10-22T04:01:07+00:00",
-   "published": "2026-10-20T13:01:13+00:00",
-   "people": [
-    "Marquez Valdes-Scantling"
-   ],
-   "consensus": {
-    "cluster_id": "44f0c20355e3",
-    "independent_sources": 8,
-    "sources": [
-     "Beaver County Radio",
-     "Gridiron Heroics",
-     "Sports Illustrated",
-     "Steelers Depot",
-     "Still Curtain",
-     "TribLIVE.com",
-     "TribLive",
-     "Yahoo Sports"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": [
-     "220ffc62c292",
-     "88ec15922e1e",
-     "c774b8995598",
-     "1b9cf10893b1",
-     "8517ea310aff",
-     "d9ea387e2e1d",
-     "792f91873354",
-     "47b303529098",
-     "903d04baad12",
-     "a2fc6f6f5226",
-     "cea338c8f16a",
-     "44f0c20355e3"
-    ]
-   }
-  },
-  {
-   "id": "47b303529098",
-   "type": "rumor",
-   "title": "Marquez Valdes-Scantling Signing Might Mean Good News for Steelers",
-   "summary": "Trade/roster move story from Sports Illustrated. Full report at the original publisher.",
-   "url": "https://www.si.com/nfl/steelers/onsi/marquez-valdes-scantling-signing-might-good-news-pittsburgh-steelers",
-   "source": {
-    "name": "Sports Illustrated",
-    "url": null,
-    "reliability_tier": "National insider",
-    "reliability_score": 4
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-20T14:14:03+00:00",
-   "updated": "2026-10-20T14:14:03+00:00",
-   "published": "2026-10-20T12:37:08+00:00",
-   "people": [],
-   "consensus": {
-    "cluster_id": "44f0c20355e3",
-    "independent_sources": 8,
-    "sources": [
-     "Beaver County Radio",
-     "Gridiron Heroics",
-     "Sports Illustrated",
-     "Steelers Depot",
-     "Still Curtain",
-     "TribLIVE.com",
-     "TribLive",
-     "Yahoo Sports"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": [
-     "220ffc62c292",
-     "88ec15922e1e",
-     "c774b8995598",
-     "1b9cf10893b1",
-     "8517ea310aff",
-     "d9ea387e2e1d",
-     "792f91873354",
-     "c096101038f6",
-     "903d04baad12",
-     "a2fc6f6f5226",
-     "cea338c8f16a",
-     "44f0c20355e3"
-    ]
-   }
-  },
-  {
-   "id": "903d04baad12",
-   "type": "rumor",
-   "title": "Report: Steelers signing wide receiver Marquez Valdes-Scantling to team's practice squad, marking return to Steelers",
-   "summary": "Injury story from Beaver County Radio. Full report at the original publisher.",
-   "url": "https://beavercountyradio.com/sports/report-steelers-signing-wide-receiver-marquez-valdes-scantling-to-teams-practice-squad-marking-return-to-steelers/",
-   "source": {
-    "name": "Beaver County Radio",
-    "url": null,
-    "reliability_tier": "Aggregator / other",
-    "reliability_score": 1
-   },
-   "status": "Confirmed",
-   "status_evidence": {
-    "text": "TribLive: Newly signed Steelers receiver Marquez Valdes-Scantling might contribute quickly",
-    "url": "https://triblive.com/sports/newly-signed-steelers-receiver-marquez-valdes-scantling-might-contribute-quickly/"
-   },
-   "first_seen": "2026-10-20T15:05:08+00:00",
-   "updated": "2026-10-22T04:01:07+00:00",
-   "published": "2026-10-20T12:12:56+00:00",
-   "people": [
-    "Marquez Valdes-Scantling"
-   ],
-   "consensus": {
-    "cluster_id": "44f0c20355e3",
-    "independent_sources": 8,
-    "sources": [
-     "Beaver County Radio",
-     "Gridiron Heroics",
-     "Sports Illustrated",
-     "Steelers Depot",
-     "Still Curtain",
-     "TribLIVE.com",
-     "TribLive",
-     "Yahoo Sports"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": [
-     "220ffc62c292",
-     "88ec15922e1e",
-     "c774b8995598",
-     "1b9cf10893b1",
-     "8517ea310aff",
-     "d9ea387e2e1d",
-     "792f91873354",
-     "c096101038f6",
-     "47b303529098",
-     "a2fc6f6f5226",
-     "cea338c8f16a",
-     "44f0c20355e3"
-    ]
-   }
-  },
-  {
-   "id": "1f538a3ad310",
-   "type": "rumor",
-   "title": "With Trade Deadline Approaching, Mike McCarthy Hints at Steelers’ Roster Expectations",
-   "summary": "Trade/roster move story from Athlon Sports. Full report at the original publisher.",
-   "url": "https://athlonsports.com/nfl/pittsburgh-steelers/with-trade-deadline-approaching-mike-mccarthy-hints-at-steelers-roster-expectations",
-   "source": {
-    "name": "Athlon Sports",
-    "url": null,
-    "reliability_tier": "Aggregator / other",
-    "reliability_score": 1
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-20T15:05:08+00:00",
-   "updated": "2026-10-20T15:05:08+00:00",
-   "published": "2026-10-20T12:00:00+00:00",
-   "people": [],
-   "consensus": {
-    "cluster_id": "1f538a3ad310",
-    "independent_sources": 1,
-    "sources": [
-     "Athlon Sports"
-    ],
-    "highest_tier": "Aggregator / other",
-    "highest_tier_score": 1,
-    "related_ids": []
-   }
-  },
-  {
-   "id": "48f6b51885d4",
-   "type": "rumor",
-   "title": "3 Steelers players who could be sent packing before the NFL trade deadline",
-   "summary": "Trade/roster move story from Yahoo Sports. Full report at the original publisher.",
-   "url": "https://sports.yahoo.com/articles/3-steelers-players-could-sent-110258390.html",
-   "source": {
-    "name": "Yahoo Sports",
-    "url": null,
-    "reliability_tier": "National insider",
-    "reliability_score": 4
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-24T17:41:40+00:00",
-   "updated": "2026-10-24T17:41:40+00:00",
-   "published": "2026-10-20T11:02:58+00:00",
-   "people": [],
-   "consensus": {
-    "cluster_id": "48f6b51885d4",
-    "independent_sources": 2,
-    "sources": [
-     "The Athletic",
-     "Yahoo Sports"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": [
-     "7e976d566581"
-    ]
-   }
-  },
-  {
-   "id": "a2fc6f6f5226",
-   "type": "rumor",
-   "title": "Report: Steelers Signing WR Marquez Valdes-Scantling",
-   "summary": "Trade/roster move story from Steelers Depot. Full report at the original publisher.",
-   "url": "https://steelersdepot.com/2026/10/report-steelers-signing-wr-marquez-valdes-scantling-2/",
-   "source": {
-    "name": "Steelers Depot",
-    "url": null,
-    "reliability_tier": "Fan blog",
-    "reliability_score": 2
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-24T04:05:48+00:00",
-   "updated": "2026-10-24T04:05:48+00:00",
-   "published": "2026-10-20T10:20:45+00:00",
-   "people": [],
-   "consensus": {
-    "cluster_id": "44f0c20355e3",
-    "independent_sources": 8,
-    "sources": [
-     "Beaver County Radio",
-     "Gridiron Heroics",
-     "Sports Illustrated",
-     "Steelers Depot",
-     "Still Curtain",
-     "TribLIVE.com",
-     "TribLive",
-     "Yahoo Sports"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": [
-     "220ffc62c292",
-     "88ec15922e1e",
-     "c774b8995598",
-     "1b9cf10893b1",
-     "8517ea310aff",
-     "d9ea387e2e1d",
-     "792f91873354",
-     "c096101038f6",
-     "47b303529098",
-     "903d04baad12",
-     "cea338c8f16a",
-     "44f0c20355e3"
-    ]
-   }
-  },
-  {
-   "id": "44f0c20355e3",
-   "type": "rumor",
-   "title": "First Call: Steelers reportedly signing Marquez Valdes-Scantling; a theory on Chris Boswell’s FG miss dismissed",
-   "summary": "Trade/roster move story from TribLive. Full report at the original publisher.",
-   "url": "https://triblive.com/sports/first-call-steelers-reportedly-signing-marquez-valdes-scantling-a-theory-on-chris-boswells-fg-miss-dismissed/",
-   "source": {
-    "name": "TribLive",
-    "url": null,
-    "reliability_tier": "Beat writer / team",
-    "reliability_score": 3
-   },
-   "status": "Confirmed",
-   "status_evidence": {
-    "text": "TribLive: Newly signed Steelers receiver Marquez Valdes-Scantling might contribute quickly",
-    "url": "https://triblive.com/sports/newly-signed-steelers-receiver-marquez-valdes-scantling-might-contribute-quickly/"
-   },
-   "first_seen": "2026-10-20T15:26:41+00:00",
-   "updated": "2026-10-22T04:01:07+00:00",
-   "published": "2026-10-20T10:08:44+00:00",
-   "people": [
-    "Chris Boswell",
-    "First Call",
-    "Marquez Valdes-Scantling"
-   ],
-   "consensus": {
-    "cluster_id": "44f0c20355e3",
-    "independent_sources": 8,
-    "sources": [
-     "Beaver County Radio",
-     "Gridiron Heroics",
-     "Sports Illustrated",
-     "Steelers Depot",
-     "Still Curtain",
-     "TribLIVE.com",
-     "TribLive",
-     "Yahoo Sports"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": [
-     "220ffc62c292",
-     "88ec15922e1e",
-     "c774b8995598",
-     "1b9cf10893b1",
-     "8517ea310aff",
-     "d9ea387e2e1d",
-     "792f91873354",
-     "c096101038f6",
-     "47b303529098",
-     "903d04baad12",
-     "a2fc6f6f5226",
-     "cea338c8f16a"
-    ]
    }
   }
  ]
