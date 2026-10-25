@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T17:47:17.330040+00:00",
+ "generated": "2026-10-25T17:54:27.826202+00:00",
  "season": 2026,
  "games": [
   {
@@ -61,6 +61,16 @@
    "result": "W",
    "score": "26-19",
    "label": "at Tampa Bay Buccaneers"
+  },
+  {
+   "id": "2026_07_PIT_NO",
+   "week": "Week 7",
+   "date": "2026-10-25T13:30Z",
+   "opponent": "New Orleans Saints",
+   "home": false,
+   "result": "W",
+   "score": "16-10",
+   "label": "at New Orleans Saints"
   }
  ],
  "source": "Data: nflverse (CC-BY 4.0)",
