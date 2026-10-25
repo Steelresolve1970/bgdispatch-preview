@@ -1,8 +1,10 @@
 # NFL Insider Posts (last 3 days)
 
-_Generated 2026-10-25T20:05:03+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T19:25:36+00:00._
+_Generated 2026-10-25T20:49:09+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T20:48:35+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/insiders.json_
 
+- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mypyvbdplk2g), 2026-10-25 20:03 UTC: @rapsheet.bsky.social posted about NFL news.
+- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mypxu6s3js2s), 2026-10-25 19:45 UTC: @rapsheet.bsky.social posted about NFL news.
 - [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mypwoijuis2z), 2026-10-25 19:24 UTC: @rapsheet.bsky.social posted about injuries.
 - [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mypubq5zb22s), 2026-10-25 18:41 UTC: @rapsheet.bsky.social posted about NFL news.
 - [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mypt7pqci22s), 2026-10-25 18:22 UTC: @rapsheet.bsky.social posted about injuries.
@@ -31,7 +33,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/insiders.json_
 - [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3myl2fjoxh22j), 2026-10-23 20:47 UTC: @rapsheet.bsky.social posted about NFL news.
 - [Christopher Carter (Locked On) on Bluesky](https://bsky.app/profile/cartercritiques.bsky.social/post/3myk4xptzao2z), 2026-10-23 12:00 UTC: @cartercritiques.bsky.social posted about the Steelers, the game.
 - [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3myioqvaz4k2s), 2026-10-22 22:13 UTC: @rapsheet.bsky.social posted about injuries.
-- [Christopher Carter (Locked On) on Bluesky](https://bsky.app/profile/cartercritiques.bsky.social/post/3myijopkp7v2i), 2026-10-22 20:43 UTC: @cartercritiques.bsky.social posted about the Steelers, injuries.
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

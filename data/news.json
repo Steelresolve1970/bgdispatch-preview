@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T19:36:51.723496+00:00",
+ "generated": "2026-10-25T20:48:31.503624+00:00",
  "count": 150,
  "sources": [
   {
@@ -29,8 +29,8 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
-   "steelers_items": 0
+   "status": "ok",
+   "steelers_items": 24
   },
   {
    "source": "Still Curtain",
@@ -66,13 +66,13 @@
    "source": "CBS Sports",
    "url": "https://www.cbssports.com/rss/headlines/nfl/",
    "status": "ok",
-   "steelers_items": 4
+   "steelers_items": 2
   },
   {
    "source": "Yahoo Sports",
    "url": "https://sports.yahoo.com/nfl/rss/",
    "status": "ok",
-   "steelers_items": 1
+   "steelers_items": 0
   },
   {
    "source": "Google News",
@@ -84,7 +84,7 @@
    "source": "PennLive (Nick Farabaugh)",
    "url": "https://www.pennlive.com/arc/outboundfeeds/rss/author/nfarabaugh/?outputType=xml",
    "status": "ok",
-   "steelers_items": 28
+   "steelers_items": 27
   },
   {
    "source": "Steelers.com (official)",
@@ -102,10 +102,34 @@
    "source": "ProFootballTalk (NBC)",
    "url": "https://profootballtalk.nbcsports.com/feed/",
    "status": "ok",
-   "steelers_items": 2
+   "steelers_items": 1
   }
  ],
  "items": [
+  {
+   "title": "Our reporters make sense of Sunday's games: Steelers win NFL's first game in France",
+   "source": "ESPN",
+   "link": "https://www.espn.com/nfl/story/_/id/50239544/week-7-sunday-games-takeaways-questions-2026",
+   "published": "2026-10-25T21:37:36+00:00",
+   "summary": "Game story from ESPN. Full report at the original publisher.",
+   "id": "1896ac9af9"
+  },
+  {
+   "title": "AFC North Week 7 Standings: Ravens\u2019 Second-Half Choke Job Tightens Division Race",
+   "source": "Steelers Depot",
+   "link": "https://steelersdepot.com/2026/10/afc-north-week-7-standings-ravens-second-half-choke-job-tightens-division-race/",
+   "published": "2026-10-25T20:45:56+00:00",
+   "summary": "News story from Steelers Depot. Full report at the original publisher.",
+   "id": "cc56827edf"
+  },
+  {
+   "title": "Steelers Open As Favorites In Browns Rematch",
+   "source": "Steelers Depot",
+   "link": "https://steelersdepot.com/2026/10/steelers-open-as-favorites-in-browns-rematch/",
+   "published": "2026-10-25T20:27:30+00:00",
+   "summary": "News story from Steelers Depot. Full report at the original publisher.",
+   "id": "2f2681eccb"
+  },
   {
    "title": "Rodgers now alone with 3rd-most TD passes as Steelers win 1st Paris game",
    "source": "ESPN",
@@ -115,12 +139,69 @@
    "id": "c9f0fc8234"
   },
   {
-   "title": "Our reporters make sense of Sunday's games: Steelers win NFL's first game in France",
-   "source": "ESPN",
-   "link": "https://www.espn.com/nfl/story/_/id/50239544/week-7-sunday-games-takeaways-questions-2026",
-   "published": "2026-10-25T20:00:36+00:00",
-   "summary": "Game story from ESPN. Full report at the original publisher.",
-   "id": "1896ac9af9"
+   "title": "Noah Hiles: The Steelers \u2014 and their fans \u2014 made the first Paris game a win for the NFL",
+   "source": "Pittsburgh Post-Gazette",
+   "link": "https://www.post-gazette.com/sports/steelers/2026/10/25/steelers-saints-paris-game/stories/202610250085",
+   "published": "2026-10-25T20:15:48+00:00",
+   "summary": "Game story from Pittsburgh Post-Gazette. Full report at the original publisher.",
+   "id": "767ff7857d"
+  },
+  {
+   "title": "Steelers' Aaron Rodgers Takes Blame For Pre-Snap Failure: \"I Totally Spaced Out\"",
+   "source": "SteelerNation",
+   "link": "https://www.steelernation.com/2026/10/25/steelers-aaron-rodgers-blame-failure",
+   "published": "2026-10-25T20:15:41+00:00",
+   "summary": "News story from SteelerNation. Full report at the original publisher.",
+   "id": "63675968c2"
+  },
+  {
+   "title": "Kurt Warner Addresses Major Gaffe During Steelers Win vs. Saints",
+   "source": "Steelers Now",
+   "link": "https://steelersnow.com/kurt-warner-addresses-major-gaffe-during-steelers-win-vs-saints/",
+   "published": "2026-10-25T20:14:02+00:00",
+   "summary": "Game story from Steelers Now. Full report at the original publisher.",
+   "id": "2a33140485"
+  },
+  {
+   "title": "Protests in France Did Not Overshadow Steelers-Saints Game: \u2018It\u2019s a Beautiful Country\u2019",
+   "source": "Steelers Now",
+   "link": "https://steelersnow.com/protests-in-france-did-not-overshadow-steelers-saints-game-its-a-beautiful-country/",
+   "published": "2026-10-25T20:08:04+00:00",
+   "summary": "Game story from Steelers Now. Full report at the original publisher.",
+   "id": "445123cab3"
+  },
+  {
+   "title": "Batko's Quick 6: Steelers vs. Saints",
+   "source": "Steelers.com (official)",
+   "link": "https://www.steelers.com/news/batko-s-quick-6-steelers-vs-saints",
+   "published": "2026-10-25T20:00:09+00:00",
+   "summary": "Game story from Steelers.com (official). Full report at the original publisher.",
+   "id": "b46a87e14f"
+  },
+  {
+   "title": "\u2018Played A Really Good Game\u2019: Saints LB Describes One \u2018Advantage\u2019 Aaron Rodgers Had On Sunday",
+   "source": "Steelers Depot",
+   "link": "https://steelersdepot.com/2026/10/played-a-really-good-game-saints-lb-describes-one-advantage-aaron-rodgers-had-on-sunday/",
+   "published": "2026-10-25T19:45:00+00:00",
+   "summary": "Game story from Steelers Depot. Full report at the original publisher.",
+   "id": "06d828925b"
+  },
+  {
+   "title": "Kurt Warner Addresses Controversial Comment Towards The Steelers During Paris Broadcast",
+   "source": "SteelerNation",
+   "link": "https://www.steelernation.com/2026/10/25/steelers-kurt-warner-controversial-paris",
+   "published": "2026-10-25T19:41:54+00:00",
+   "summary": "News story from SteelerNation. Full report at the original publisher.",
+   "id": "bf0b99aa52"
+  },
+  {
+   "title": "Saints rush for just 18 yards in 16-10 loss to Steelers to spoil their Paris week",
+   "source": "Bozeman Daily Chronicle",
+   "link": "https://www.bozemandailychronicle.com/wire/sports/saints-rush-for-just-18-yards-in-16-10-loss-to-steelers-to-spoil-their/article_1be69f82-b308-50fd-9cb5-a18e0e324e09.html",
+   "published": "2026-10-25T19:34:07+00:00",
+   "via": "Google News",
+   "summary": "Game story from Bozeman Daily Chronicle. Full report at the original publisher.",
+   "id": "90687e3282"
   },
   {
    "title": "\u2018Go Be Y\u2019all\u2019: Patrick Queen Explains How Elandon Roberts Motivated Steelers ILBs",
@@ -169,15 +250,6 @@
    "published": "2026-10-25T19:05:17+00:00",
    "summary": "News story from SteelerNation. Full report at the original publisher.",
    "id": "1a1dcf9c7c"
-  },
-  {
-   "title": "Aaron Rodgers Shades Steelers Coaches in New Video, Reportedly Called Some Plays in Win vs. Saints",
-   "source": "Bleacher Report",
-   "link": "https://bleacherreport.com/articles/25520168-aaron-rodgers-shades-steelers-coaches-new-video-reportedly-called-some-plays-win-vs-saints",
-   "published": "2026-10-25T18:45:00+00:00",
-   "via": "Google News",
-   "summary": "Game story from Bleacher Report. Full report at the original publisher.",
-   "id": "5a6d9de5e6"
   },
   {
    "title": "Steelers' Jaylen Warren Reveals Important Weakness Pittsburgh Exploited Against Saints",
@@ -251,15 +323,6 @@
    "published": "2026-10-25T18:13:32+00:00",
    "summary": "News story from SteelerNation. Full report at the original publisher.",
    "id": "7a99d69e44"
-  },
-  {
-   "title": "Aaron Rodgers, Steelers topple Saints in Paris",
-   "source": "Reuters",
-   "link": "https://www.reuters.com/sports/nfl/aaron-rodgers-steelers-topple-saints-paris--flm-2026-10-25/",
-   "published": "2026-10-25T18:10:22+00:00",
-   "via": "Google News",
-   "summary": "News story from Reuters. Full report at the original publisher.",
-   "id": "7a74321344"
   },
   {
    "title": "Steelers use strong run game to beat Saints in Paris, win third in a row",
@@ -352,6 +415,15 @@
    "id": "bda8221c6e"
   },
   {
+   "title": "Pittsburgh Steelers @ New Orleans Saints | Week Seven NFL highlights",
+   "source": "Sky Sports",
+   "link": "https://www.skysports.com/nfl/video/13603694/pittsburgh-steelers-at-new-orleans-saints-week-seven-nfl-highlights",
+   "published": "2026-10-25T17:29:14+00:00",
+   "via": "Google News",
+   "summary": "News story from Sky Sports. Full report at the original publisher.",
+   "id": "f027f3143b"
+  },
+  {
    "title": "Mike McCarthy Bashes Steelers' Offense For Critical Issue In Win Over Saints",
    "source": "SteelerNation",
    "link": "https://www.steelernation.com/2026/10/25/steelers-mike-mccarthy-critical-saints",
@@ -417,15 +489,6 @@
    "id": "414adb14e2"
   },
   {
-   "title": "Saints fall to Steelers in NFL\u2019s first game in Paris",
-   "source": "WWLTV.com",
-   "link": "https://www.wwltv.com/article/sports/football/saints-fall-to-steelers-in-nfls-first-game-in-paris-sports-football-travel-france/289-60d232e2-1435-446d-b578-34214dbe760a",
-   "published": "2026-10-25T16:54:00+00:00",
-   "via": "Google News",
-   "summary": "Game story from WWLTV.com. Full report at the original publisher.",
-   "id": "aff587cd99"
-  },
-  {
    "title": "7 winners (and 3 losers) from Steelers' bully-ball Paris win over the Saints",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/7-winners-3-losers-pittsburgh-steelers-bully-ball-paris-win-new-orleans-saints-01m5spsvdhj5?utm_source=RSS",
@@ -466,21 +529,21 @@
    "id": "8171f716cf"
   },
   {
+   "title": "Steelers beat Saints in NFL's first-ever game in Paris, 16-10",
+   "source": "CBS News",
+   "link": "https://www.cbsnews.com/pittsburgh/news/steelers-beat-saints-in-nfl-paris-game/",
+   "published": "2026-10-25T16:45:00+00:00",
+   "via": "Google News",
+   "summary": "Game story from CBS News. Full report at the original publisher.",
+   "id": "f8880d444b"
+  },
+  {
    "title": "Warren, Steelers Stiff-Arm Saints for 16-10 Paris Win",
    "source": "Steelers Now",
    "link": "https://steelersnow.com/warren-steelers-stiff-arm-saints-for-16-10-paris-win/",
    "published": "2026-10-25T16:39:57+00:00",
    "summary": "Game story from Steelers Now. Full report at the original publisher.",
    "id": "2550922883"
-  },
-  {
-   "title": "Pittsburgh Steelers running back Rico Dowdle dances his way to a 16-yard gain",
-   "source": "NFL.com",
-   "link": "https://www.nfl.com/videos/rico-dowdle-dances-his-way-to-a-16-yard-gain",
-   "published": "2026-10-25T16:37:04+00:00",
-   "via": "Google News",
-   "summary": "News story from NFL.com. Full report at the original publisher.",
-   "id": "0b9a841e2f"
   },
   {
    "title": "Steelers vs. Saints Takeaways: Pittsburgh's Getting Dangerous",
@@ -499,15 +562,6 @@
    "via": "Google News",
    "summary": "Game story from New Orleans Saints | NewOrleansSaints.com. Full report at the original publisher.",
    "id": "e47ef4387b"
-  },
-  {
-   "title": "Saints vs. Steelers Paris Game Recap - Week 7 - Oct. 25, 2026",
-   "source": "New Orleans Saints | NewOrleansSaints.com",
-   "link": "https://www.neworleanssaints.com/game-day/2026/reg-week7/steelers-at-saints/recap",
-   "published": "2026-10-25T16:36:16+00:00",
-   "via": "Google News",
-   "summary": "Game story from New Orleans Saints | NewOrleansSaints.com. Full report at the original publisher.",
-   "id": "76a85eecd3"
   },
   {
    "title": "Jaylen Warren and the Steelers run over the Saints in Paris",
@@ -540,6 +594,24 @@
    "published": "2026-10-25T16:34:10+00:00",
    "summary": "Game story from Steelers Depot. Full report at the original publisher.",
    "id": "340b3ef9b4"
+  },
+  {
+   "title": "Pittsburgh Steelers linebacker Patrick Queen sacks New Orleans Saints quarterback Tyler Shough for an 8-yard loss",
+   "source": "NFL.com",
+   "link": "https://www.nfl.com/videos/patrick-queen-sacks-tyler-shough-for-an-8-yard-loss",
+   "published": "2026-10-25T16:32:07+00:00",
+   "via": "Google News",
+   "summary": "Game story from NFL.com. Full report at the original publisher.",
+   "id": "47df01ca26"
+  },
+  {
+   "title": "Boswell's 39-yard FG boosts Steelers' lead to 16-10",
+   "source": "NFL.com",
+   "link": "https://www.nfl.com/videos/boswell-s-39-yard-fg-boosts-steelers-lead-to-16-10",
+   "published": "2026-10-25T16:06:56+00:00",
+   "via": "Google News",
+   "summary": "News story from NFL.com. Full report at the original publisher.",
+   "id": "60d72166cf"
   },
   {
    "title": "Pittsburgh Steelers quarterback Brandon Smith goes to ground for a 20-yard reception",
@@ -577,24 +649,6 @@
    "id": "af5a619214"
   },
   {
-   "title": "Payton Wilson's fingertip catch results in red-zone INT against Tyler Shough",
-   "source": "NFL.com",
-   "link": "https://www.nfl.com/videos/payton-wilson-s-fingertip-catch-results-in-red-zone-int-against-tyler-shough",
-   "published": "2026-10-25T15:46:08+00:00",
-   "via": "Google News",
-   "summary": "News story from NFL.com. Full report at the original publisher.",
-   "id": "11c48195a2"
-  },
-  {
-   "title": "\ud835\ude86\ud835\ude70\ud835\ude83\ud835\ude72\ud835\ude77 New Orleans Saints vs. Pittsburgh Steelers \ud835\udc0b\ud835\udc08\ud835\udc15\ud835\udc04 \uff33\uff54\uff52\uff45\uff41\uff4d \uff26\uff52\uff45\uff45 \uff2f\uff2e \uff34\uff56 \uff23\uff48\uff41\uff4e\uff4e\uff45\uff4c!NFL",
-   "source": "Jackson County Pilot",
-   "link": "https://www.jacksoncountypilot.com/articles/%F0%9D%9A%86%F0%9D%99%B0%F0%9D%9A%83%F0%9D%99%B2%F0%9D%99%B7-new-orleans-saints-vs-pittsburgh-steelers-%F0%9D%90%8B%F0%9D%90%88%F0%9D%90%95%F0%9D%90%84-%EF%BD%93%EF%BD%94%EF%BD%92%EF%BD%85%EF%BD%81-4/",
-   "published": "2026-10-25T15:16:50+00:00",
-   "via": "Google News",
-   "summary": "Game story from Jackson County Pilot. Full report at the original publisher.",
-   "id": "514f64f426"
-  },
-  {
    "title": "Aaron Rodgers Breaks NFL Record vs. Saints",
    "source": "Steelers Now",
    "link": "https://steelersnow.com/aaron-rodgers-breaks-nfl-record-vs-saints/",
@@ -603,21 +657,13 @@
    "id": "34beaaf858"
   },
   {
-   "title": "Steelers kick last-second field goal to take 13-10 lead over Saints at halftime in Paris",
-   "source": "ProFootballTalk (NBC)",
-   "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-kick-last-second-field-goal-to-take-13-10-lead-over-saints-at-halftime-in-paris",
-   "published": "2026-10-25T15:06:21+00:00",
-   "summary": "News story from ProFootballTalk (NBC). Full report at the original publisher.",
-   "id": "b779e8a709"
-  },
-  {
-   "title": "Jamel Dean's 'Peanut Punch' induces a fumble from Shough near the pylon",
+   "title": "Can't-Miss Play: Darnell Washington Mosses Saints defender on Rodgers' 4-yard TD pass in Paris",
    "source": "NFL.com",
-   "link": "https://www.nfl.com/videos/jamel-dean-s-peanut-punch-induces-a-fumble-from-shough-near-the-pylon",
-   "published": "2026-10-25T15:04:35+00:00",
+   "link": "https://www.nfl.com/videos/can-t-miss-play-darnell-washington-mosses-saints-defender-on-rodgers-4-yard-td-pass-in-paris",
+   "published": "2026-10-25T14:52:43+00:00",
    "via": "Google News",
    "summary": "News story from NFL.com. Full report at the original publisher.",
-   "id": "9278c7e620"
+   "id": "1e4bd4523b"
   },
   {
    "title": "Can't-Miss Play: Rodgers' 51-yard deep ball to DK Metcalf wows the crowd in Paris",
@@ -653,15 +699,6 @@
    "id": "8f10c77d63"
   },
   {
-   "title": "T.J. Watt boosts his 2026 sack total to 5.5 via takedown of Shough in Paris",
-   "source": "NFL.com",
-   "link": "https://www.nfl.com/videos/t-j-watt-boosts-his-2026-sack-total-to-5-5-via-takedown-of-shough-in-paris",
-   "published": "2026-10-25T14:38:56+00:00",
-   "via": "Google News",
-   "summary": "News story from NFL.com. Full report at the original publisher.",
-   "id": "1527c6ff6f"
-  },
-  {
    "title": "Aaron Rodgers Surpasses Peyton Manning On NFL Touchdown Leaderboard",
    "source": "Steelers Depot",
    "link": "https://steelersdepot.com/2026/10/aaron-rodgers-surpasses-peyton-manning-on-nfl-touchdown-leaderboard/",
@@ -687,13 +724,22 @@
    "id": "7d90cb133c"
   },
   {
-   "title": "Aaron Rodgers, Steelers QBs coordinate suits, flat caps before game in France",
-   "source": "USA Today",
-   "link": "https://www.usatoday.com/story/sports/nfl/steelers/2026/10/25/steelers-aaron-rodgers-qbs-dress-up-for-first-nfl-game-in-france-vs-saints/92429674007/",
-   "published": "2026-10-25T14:22:00+00:00",
+   "title": "\ud835\ude86\ud835\ude70\ud835\ude83\ud835\ude72\ud835\ude77 Pittsburgh Steelers vs. New Orleans Saints \ud835\udc0b\ud835\udc08\ud835\udc15\ud835\udc04 \uff33\uff54\uff52\uff45\uff41\uff4d \uff26\uff52\uff45\uff45 \uff2f\uff2e \uff34\uff56 \uff23\uff48\uff41\uff4e\uff4e\uff45\uff4c!NFL",
+   "source": "Jackson County Pilot",
+   "link": "https://www.jacksoncountypilot.com/articles/%F0%9D%9A%86%F0%9D%99%B0%F0%9D%9A%83%F0%9D%99%B2%F0%9D%99%B7-steelers-vs-saints-%F0%9D%90%8B%F0%9D%90%88%F0%9D%90%95%F0%9D%90%84-%EF%BD%93%EF%BD%94/",
+   "published": "2026-10-25T14:21:39+00:00",
    "via": "Google News",
-   "summary": "Game story from USA Today. Full report at the original publisher.",
-   "id": "d2c80d4714"
+   "summary": "Game story from Jackson County Pilot. Full report at the original publisher.",
+   "id": "ba56bb201a"
+  },
+  {
+   "title": "New Orleans Saints vs. Pittsburgh Steelers: Live update",
+   "source": "WDSU",
+   "link": "https://www.wdsu.com/article/new-orleans-saints-steelers-paris-game-score/74240367",
+   "published": "2026-10-25T14:03:00+00:00",
+   "via": "Google News",
+   "summary": "Game story from WDSU. Full report at the original publisher.",
+   "id": "4bb02abd9a"
   },
   {
    "title": "Chris Boswell's 28-yard FG marks NFL's first-ever score in Paris, France",
@@ -703,6 +749,15 @@
    "via": "Google News",
    "summary": "News story from NFL.com. Full report at the original publisher.",
    "id": "73c93d13da"
+  },
+  {
+   "title": "Jaylen Warren's 29-yard run gets Steelers into Saints' territory on opening drive in Paris",
+   "source": "NFL.com",
+   "link": "https://www.nfl.com/videos/jaylen-warren-s-29-yard-run-gets-steelers-into-saints-territory-on-opening-drive-in-paris",
+   "published": "2026-10-25T13:51:26+00:00",
+   "via": "Google News",
+   "summary": "News story from NFL.com. Full report at the original publisher.",
+   "id": "8f5926a679"
   },
   {
    "title": "Steelers vs. Saints: Week 7 game chat",
@@ -810,6 +865,15 @@
    "id": "bca586aa86"
   },
   {
+   "title": "How to Watch Steelers vs. Saints: TV Channel, Live Stream, Time - October 25, 2026",
+   "source": "FOX Sports",
+   "link": "https://www.foxsports.com/stories/nfl/how-to-watch-steelers-vs-saints-tv-channel-live-stream-time-october-25-2026",
+   "published": "2026-10-25T12:00:43+00:00",
+   "via": "Google News",
+   "summary": "Game story from FOX Sports. Full report at the original publisher.",
+   "id": "49cb4ef43b"
+  },
+  {
    "title": "Steelers vs. Saints tailgate thread",
    "source": "Behind the Steel Curtain",
    "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-discussion/176758/steelers-vs-saints-tailgate-thread",
@@ -834,28 +898,12 @@
    "id": "5fc33810de"
   },
   {
-   "title": "Listen: The Terrible Take (Episode 2,061)",
-   "source": "Steelers Depot",
-   "link": "https://steelersdepot.com/2026/10/listen-the-terrible-take-episode-2061/",
-   "published": "2026-10-25T11:53:54+00:00",
-   "summary": "News story from Steelers Depot. Full report at the original publisher.",
-   "id": "48042dad86"
-  },
-  {
-   "title": "Saints vs. Steelers prediction: Aaron Rodgers, Tyler Shough to duel in first-ever game in Paris",
-   "source": "CBS Sports",
-   "link": "https://www.cbssports.com/nfl/news/steelers-vs-saints-how-to-watch-odds-preview-prediction/",
-   "published": "2026-10-25T11:40:23+00:00",
-   "summary": "Game story from CBS Sports. Full report at the original publisher.",
-   "id": "80a32a755e"
-  },
-  {
-   "title": "Hoge \u2018Impressed\u2019 With Strides In Steelers\u2019 Run Defense But Warns Saints \u2018Gonna Be A Test\u2019",
-   "source": "Steelers Depot",
-   "link": "https://steelersdepot.com/2026/10/hoge-impressed-with-strides-in-steelers-run-defense-but-warns-saints-gonna-be-a-test/",
-   "published": "2026-10-25T11:00:00+00:00",
-   "summary": "News story from Steelers Depot. Full report at the original publisher.",
-   "id": "1c62529a45"
+   "title": "SCU Week in Review \u2013 October 25th",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/25/scu-week-in-review-october-25th-2/",
+   "published": "2026-10-25T10:40:18+00:00",
+   "summary": "News story from Steel City Underground. Full report at the original publisher.",
+   "id": "1fad850306"
   },
   {
    "title": "Steelers and Saints play in NFL\u2019s first Paris game\u2014Here\u2019s how to watch for free",
@@ -865,14 +913,6 @@
    "via": "Google News",
    "summary": "Game story from New York Post. Full report at the original publisher.",
    "id": "1e69937666"
-  },
-  {
-   "title": "2026 NFL Week 7 Picks & Predictions: Dave Bryan & Alex Kozora",
-   "source": "Steelers Depot",
-   "link": "https://steelersdepot.com/2026/10/2026-nfl-week-7-picks-predictions-dave-bryan-alex-kozora/",
-   "published": "2026-10-25T10:15:37+00:00",
-   "summary": "News story from Steelers Depot. Full report at the original publisher.",
-   "id": "b6531e9c36"
   },
   {
    "title": "Asked and Answered: Oct. 25",
@@ -889,15 +929,6 @@
    "published": "2026-10-25T10:00:00+00:00",
    "summary": "Game story from Behind the Steel Curtain. Full report at the original publisher.",
    "id": "391e0e80db"
-  },
-  {
-   "title": "Steelers vs. Bucs Full Game Highlights | Tampa Bay Falls 26-19 (OT)",
-   "source": "Tampa Bay Buccaneers",
-   "link": "https://www.buccaneers.com/video/full-game-highlights-steelers-bucs-loss-score-26-19-week-6",
-   "published": "2026-10-25T09:34:38+00:00",
-   "via": "Google News",
-   "summary": "Game story from Tampa Bay Buccaneers. Full report at the original publisher.",
-   "id": "755dae39d0"
   },
   {
    "title": "How to watch today's Pittsburgh Steelers vs. New Orleans Saints international game being played in Paris",
@@ -958,30 +989,6 @@
    "id": "f203859bc0"
   },
   {
-   "title": "Prisco's Week 7 NFL picks: Lions edge Packers, Steelers top Saints in Paris",
-   "source": "CBS Sports",
-   "link": "https://www.cbssports.com/nfl/news/priscos-week-7-nfl-picks-odds-expert-picks-upsets/",
-   "published": "2026-10-25T03:00:51+00:00",
-   "summary": "News story from CBS Sports. Full report at the original publisher.",
-   "id": "2a8721a5c2"
-  },
-  {
-   "title": "Steelers Injury Central: Elliott Makes Return, One Questionable vs. Saints",
-   "source": "Steelers Now",
-   "link": "https://steelersnow.com/pittsburgh-steelers-injury-updates/",
-   "published": "2026-10-25T02:16:23+00:00",
-   "summary": "Injury story from Steelers Now. Full report at the original publisher.",
-   "id": "535145f81b"
-  },
-  {
-   "title": "Pittsburgh Steelers 2026 53-Man Roster, Practice Squad",
-   "source": "Steelers Now",
-   "link": "https://steelersnow.com/pittsburgh-steelers-player-roster/",
-   "published": "2026-10-25T02:02:40+00:00",
-   "summary": "Injury story from Steelers Now. Full report at the original publisher.",
-   "id": "7e778483ce"
-  },
-  {
    "title": "Pittsburgh Steelers add two wide receivers before Saints game after injuries pile up",
    "source": "PennLive (Nick Farabaugh)",
    "link": "https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-add-two-wide-receivers-before-saints-game-after-injuries-pile-up.html",
@@ -1006,28 +1013,12 @@
    "id": "612bcbe549"
   },
   {
-   "title": "Steelers' Mike Tomlin Reveals Dan Rooney's Unconventional Contract Philosophy That Put Winning Ahead Of Stats",
-   "source": "SteelerNation",
-   "link": "https://www.steelernation.com/2026/10/24/steelers-mike-tomlin-dan-rooney-unconventional",
-   "published": "2026-10-24T23:45:46+00:00",
-   "summary": "Trade/roster move story from SteelerNation. Full report at the original publisher.",
-   "id": "5e9c82cc29"
-  },
-  {
    "title": "Steelers vs. Saints: Week 7 game picks",
    "source": "Behind the Steel Curtain",
    "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176846/steelers-vs-saints-week-7-game-picks-aaron-rodgers-germie-bernard",
    "published": "2026-10-24T23:05:44+00:00",
    "summary": "Game story from Behind the Steel Curtain. Full report at the original publisher.",
    "id": "9ab491ca28"
-  },
-  {
-   "title": "Steelers' Mike Tomlin Saw TJ Watt's Fierce Competitive Streak Before 2017 Draft And Avoided JJ Talk",
-   "source": "SteelerNation",
-   "link": "https://www.steelernation.com/2026/10/21/steelers-mike-tomlin-tj-watt-fierce",
-   "published": "2026-10-24T23:01:46+00:00",
-   "summary": "Draft story from SteelerNation. Full report at the original publisher.",
-   "id": "29a90ca739"
   },
   {
    "title": "Saturday Night Open Thread: Un match a Paris",
@@ -1169,6 +1160,14 @@
    "id": "35ded3e0a4"
   },
   {
+   "title": "Steelers GameDay Cheat Sheet: Week 7 at New Orleans Saints",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/24/steelers-gameday-cheat-sheet-week-7-at-new-orleans-saints/",
+   "published": "2026-10-24T12:05:57+00:00",
+   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
+   "id": "8695f97ba7"
+  },
+  {
    "title": "Patrick Graham has perfect blueprint to erase Saints' rising star Tyler Shough",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/pittsburgh-steelers-patrick-graham-has-perfect-blueprint-to-erase-saints-rising-star-tyler-shough-01m5mkb72fy1?utm_source=RSS",
@@ -1250,6 +1249,15 @@
    "id": "27f045aa8c"
   },
   {
+   "title": "Saints Friday Injury Report: 2026 Week 7 vs. Pittsburgh Steelers",
+   "source": "New Orleans Saints | NewOrleansSaints.com",
+   "link": "https://www.neworleanssaints.com/news/injury-report-pittsburgh-steelers-vs-new-orleans-saints-2026-nfl-week-7-friday",
+   "published": "2026-10-23T18:45:36+00:00",
+   "via": "Google News",
+   "summary": "Injury story from New Orleans Saints | NewOrleansSaints.com. Full report at the original publisher.",
+   "id": "c872b2d3d2"
+  },
+  {
    "title": "French-inspired brunch ideas and Pittsburgh restaurants to try for the Steelers game in Paris",
    "source": "TribLive",
    "link": "https://triblive.com/sports/steelers/french-inspired-brunch-ideas-and-pittsburgh-restaurants-to-try-for-the-steelers-game-in-paris/",
@@ -1328,14 +1336,6 @@
    "published": "2026-10-23T14:00:50+00:00",
    "summary": "Game story from Still Curtain. Full report at the original publisher.",
    "id": "62aed44ce1"
-  },
-  {
-   "title": "Steelers safety DeShon Elliott could return Sunday, a year removed from his gruesome injury",
-   "source": "Pittsburgh Post-Gazette",
-   "link": "https://www.post-gazette.com/sports/steelers/2026/10/23/will-deshon-elliott-play-sunday/stories/202610230028",
-   "published": "2026-10-23T14:00:00+00:00",
-   "summary": "Injury story from Pittsburgh Post-Gazette. Full report at the original publisher.",
-   "id": "595924af2d"
   }
  ],
  "dropped_bad_links": 0

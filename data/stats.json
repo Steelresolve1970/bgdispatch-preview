@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T17:26:03.184924+00:00",
+ "generated": "2026-10-25T20:48:51.469414+00:00",
  "season": 2026,
  "source": "Data: nflverse (CC-BY 4.0)",
  "source_url": "https://github.com/nflverse/nflverse-data",
@@ -136,24 +136,24 @@
    "section": "Scoring",
    "label": "Points scored",
    "key": "points_scored",
-   "value": "137",
-   "rank": 17,
+   "value": "153",
+   "rank": 10,
    "lower_is_better": false
   },
   {
    "section": "Scoring",
    "label": "Points per game",
    "key": "ppg",
-   "value": "22.8",
-   "rank": 18,
+   "value": "21.9",
+   "rank": 21,
    "lower_is_better": false
   },
   {
    "section": "Scoring",
    "label": "Points allowed",
    "key": "points_allowed",
-   "value": "128",
-   "rank": 12,
+   "value": "138",
+   "rank": 16,
    "lower_is_better": true
   },
   {
