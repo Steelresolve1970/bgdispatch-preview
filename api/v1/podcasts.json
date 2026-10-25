@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-25T16:02:37+00:00",
- "data_updated": "2026-10-25T16:02:17+00:00",
- "count": 125,
+ "generated": "2026-10-25T16:49:28+00:00",
+ "data_updated": "2026-10-25T16:19:14+00:00",
+ "count": 122,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -19,6 +19,19 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/podcasts",
  "items": [
+  {
+   "id": "77bb254b6aaaca51",
+   "type": "video",
+   "title": "Picked by Payton‼️ 📺: NFLN",
+   "show": "Pittsburgh Steelers (official)",
+   "url": "https://www.youtube.com/shorts/ra_a1PpysFo",
+   "published": "2026-10-25T15:42:25+00:00",
+   "summary": "Video from Pittsburgh Steelers (official).",
+   "source": {
+    "name": "Pittsburgh Steelers (official)",
+    "url": null
+   }
+  },
   {
    "id": "d09a6caf9b15697d",
    "type": "video",
@@ -497,19 +510,6 @@
    "summary": "Podcast episode from Steel Curtain Network (BTSC).",
    "source": {
     "name": "Steel Curtain Network (BTSC)",
-    "url": null
-   }
-  },
-  {
-   "id": "8ddfcf3f9bc2fb7d",
-   "type": "video",
-   "title": "Coach Mike McCarthy Press Conference (October 23) | Pittsburgh Steelers",
-   "show": "Pittsburgh Steelers (official)",
-   "url": "https://www.youtube.com/watch?v=bGqnTI4FLLQ",
-   "published": "2026-10-23T15:26:17+00:00",
-   "summary": "Video from Pittsburgh Steelers (official).",
-   "source": {
-    "name": "Pittsburgh Steelers (official)",
     "url": null
    }
   },
@@ -1602,45 +1602,6 @@
    "summary": "Podcast episode from The Arthur Moats Experience.",
    "source": {
     "name": "The Arthur Moats Experience",
-    "url": null
-   }
-  },
-  {
-   "id": "7c69a125952c430c",
-   "type": "video",
-   "title": "Just having Tom Brady was enough for them to think they had a chance 😮‍💨🔥#patriots #tombrady",
-   "show": "Not Just Football with Cam Heyward",
-   "url": "https://www.youtube.com/shorts/YF0Yc1KkCzA",
-   "published": "2026-10-20T16:00:08+00:00",
-   "summary": "Video from Not Just Football with Cam Heyward.",
-   "source": {
-    "name": "Not Just Football with Cam Heyward",
-    "url": null
-   }
-  },
-  {
-   "id": "260114de27f770ca",
-   "type": "video",
-   "title": "Steelers' DL Grades vs Bucs",
-   "show": "Steelers Almighty",
-   "url": "https://www.youtube.com/shorts/WgQOVchjdTg",
-   "published": "2026-10-20T15:33:04+00:00",
-   "summary": "Video from Steelers Almighty.",
-   "source": {
-    "name": "Steelers Almighty",
-    "url": null
-   }
-  },
-  {
-   "id": "d4a15b319326da43",
-   "type": "podcast_episode",
-   "title": "G'Day Steelers Nation: It was a Steelers win, but OT was avoidable",
-   "show": "Steel Curtain Network (BTSC)",
-   "url": "https://podcasts.apple.com/us/podcast/gday-steelers-nation-it-was-a-steelers-win-but-ot/id905962218?i=1000797805866",
-   "published": "2026-10-20T15:30:00+00:00",
-   "summary": "Podcast episode from Steel Curtain Network (BTSC).",
-   "source": {
-    "name": "Steel Curtain Network (BTSC)",
     "url": null
    }
   }
