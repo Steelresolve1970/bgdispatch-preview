@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-25T01:46:28+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T01:45:07+00:00._
+_Generated 2026-10-25T01:57:58+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T01:56:41+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Pittsburgh Steelers add two wide receivers before Saints game after injuries pile up](https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-add-two-wide-receivers-before-saints-game-after-injuries-pile-up.html): PennLive (Nick Farabaugh), 2026-10-25 01:13 UTC
@@ -62,6 +62,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers rookie Riley Nowakowski backs his hometown Brewers in World Series — even in Paris](https://triblive.com/sports/steelers-rookie-riley-nowakowski-backs-his-hometown-brewers-in-world-series-even-in-paris/): TribLive, 2026-10-24 14:54 UTC
 - [Steelers to sport a new uniform combination in Paris](https://www.steelers.com/news/steelers-to-sport-a-new-uniform-combination-in-paris): Steelers.com (official), 2026-10-24 14:45 UTC
 - [Steelers Elevate Two Players Ahead Of Saints Game](https://steelersdepot.com/2026/10/steelers-elevate-two-players-ahead-of-saints-game/): Steelers Depot, 2026-10-24 14:38 UTC
+- [Steelers Get Starting Safety Back From IR](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-starting-safety-deshon-elliott-back-injured-reserve): All Steelers (Sports Illustrated), 2026-10-24 14:37 UTC
 - [Steelers Activate Safety DeShon Elliott To 53-Man Roster In Boost To Pittsburgh’s Secondary](https://steelersdepot.com/2026/10/steelers-activate-safety-deshon-elliott-to-53-man-roster-in-boost-to-pittsburghs-secondary/): Steelers Depot, 2026-10-24 14:32 UTC
 - [Steelers make roster move ahead of Saints game](https://www.steelers.com/news/steelers-make-roster-move-ahead-of-saints-game): Steelers.com (official), 2026-10-24 14:30 UTC
 - [Study: Pittsburgh Has A Three-And-Out Problem](https://steelersdepot.com/2026/10/study-pittsburgh-has-a-three-and-out-problem/): Steelers Depot, 2026-10-24 14:30 UTC
@@ -112,8 +113,8 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers news: Defense pushing for top 5 status](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176799/steelers-news-defense-pushing-for-top-5-status): Behind the Steel Curtain, 2026-10-23 16:08 UTC
 - [Steely Resolve: Jalen Ramsey Sewing Fabric of Steelers Defensive Tradition](https://steelersnow.com/steely-resolve-jalen-ramsey-sewing-fabric-of-steelers-defensive-tradition/): Steelers Now, 2026-10-23 16:05 UTC
 - [Steelers Jaylen Warren could expose Saints' biggest weakness in Paris showdown](https://stillcurtain.com/pittsburgh-steelers-jaylen-warren-could-expose-saints-biggest-weakness-in-paris-showdown-01m5cztg7dnw?utm_source=RSS): Still Curtain, 2026-10-23 16:00 UTC
+- [How to watch Steelers vs. Saints: TV channel and streaming options for October 25](https://www.nytimes.com/athletic/7717416/2026/10/23/steelers-vs-saints-stream-how-to-watch-oct-25/): The New York Times, 2026-10-23 15:48 UTC
 - [Pittsburgh Steelers 2026 NFL Playoff Simulator](https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/pittsburgh-steelers-season-projections/): The New York Times, 2026-10-23 15:48 UTC
-- [How to watch Steelers vs. Saints: TV channel and streaming options for October 25](https://www.nytimes.com/athletic/7717416/2026/10/23/steelers-vs-saints-stream-how-to-watch-oct-25/): The Athletic, 2026-10-23 15:26 UTC
 - [Aaron Rodgers Is Annoyed with Steelers’ Travel Schedule to Paris](https://steelersnow.com/aaron-rodgers-is-annoyed-with-steelers-travel-schedule-to-paris/): Steelers Now, 2026-10-23 15:05 UTC
 - [Cowboys finally call out George Pickens' effort issue Steelers fans know too well](https://stillcurtain.com/dallas-cowboys-call-out-george-pickens-effort-issue-pittsburgh-steelers-fans-know-01m5mhzf735f?utm_source=RSS): Still Curtain, 2026-10-23 15:00 UTC
 - [The Steelers are excited to ‘showcase’ NFL football — and themselves — in France](https://www.post-gazette.com/sports/steelers/2026/10/23/nfl-game-paris-steelers-saints/stories/202610230029): Pittsburgh Post-Gazette, 2026-10-23 15:00 UTC
@@ -126,6 +127,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [T.J. Watt fine, Rico Dowdle questionable to play for Steelers vs. Saints](https://triblive.com/sports/t-j-watt-fine-rico-dowdle-questionable-to-play-for-steelers-vs-saints/): TribLive, 2026-10-23 13:51 UTC
 - [A big deal to play in Paris](https://www.steelers.com/news/a-big-deal-to-play-in-paris): Steelers.com (official), 2026-10-23 13:45 UTC
 - [After full week of practice, all signs point to DeShon Elliott returning to action for Steelers](https://triblive.com/sports/after-full-week-of-practice-all-signs-point-to-deshon-elliott-returning-to-action-for-steelers/): TribLive, 2026-10-23 13:28 UTC
+- [Steelers Give Positive T.J. Watt Update Before Saints Game](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-positive-tj-watt-update-saints-game): All Steelers (Sports Illustrated), 2026-10-23 12:31 UTC
 - [Aaron Rodgers says the NFL could play 16 international games in one week — and he’d support it](https://www.post-gazette.com/sports/steelers/2026/10/23/aaron-rodgers-nfl-international-games/stories/202610230030): Pittsburgh Post-Gazette, 2026-10-23 12:30 UTC
 - [The surprising reason Aaron Rodgers isn’t concerned about the Steelers playing in Paris amid civil unrest](https://www.pennlive.com/steelers/2026/10/the-surprising-reason-aaron-rodgers-isnt-concerned-about-the-steelers-playing-in-paris-amid-civil-unrest.html): PennLive (Nick Farabaugh), 2026-10-23 12:29 UTC
 - [Why the Steelers suddenly cancelled their Paris fan event just one day before it was supposed to happen](https://www.pennlive.com/steelers/2026/10/why-the-steelers-suddenly-cancelled-their-paris-fan-event-just-one-day-before-it-was-supposed-to-happen.html): PennLive (Nick Farabaugh), 2026-10-23 12:08 UTC
@@ -151,8 +153,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers superstar pass rusher T.J. Watt goes down with calf injury](https://www.pennlive.com/steelers/2026/10/steelers-superstar-pass-rusher-tj-watt-goes-down-with-calf-injury.html): PennLive (Nick Farabaugh), 2026-10-22 22:33 UTC
 - [Steelers should try to pry Riq Woolen away from Eagles before trade deadline](https://stillcurtain.com/pittsburgh-steelers-should-try-to-pry-riq-woolen-away-from-eagles-before-trade-deadline-01m5j1m4rt6x?utm_source=RSS): Still Curtain, 2026-10-22 21:00 UTC
 - [Steelers’ Paris trip gets tougher with T.J. Watt limited and two more players out](https://stillcurtain.com/pittsburgh-steelers-saints-paris-injury-report-week-7-thursday?utm_source=RSS): Still Curtain, 2026-10-22 20:39 UTC
-- [The Steelers will turn to two rookie defensive linemen as Sebastian Joseph-Day heads to IR](https://www.post-gazette.com/sports/steelers/2026/10/22/steelers-injury-updates/stories/202610210074): Pittsburgh Post-Gazette, 2026-10-22 20:36 UTC
-- [Steelers fan event in Paris canceled following recent civil unrest in capital](https://triblive.com/sports/steelers-fan-event-in-paris-canceled-following-recent-civil-unrest-in-capital/): TribLive, 2026-10-22 20:22 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
