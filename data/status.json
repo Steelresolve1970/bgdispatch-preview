@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-25T06:22:08.096539+00:00",
+ "last_run": "2026-10-25T06:50:18.653374+00:00",
  "results": [
   {
    "fetcher": "apply_grade_edits.py",
@@ -10,7 +10,7 @@
   {
    "fetcher": "fetch_news.py",
    "ok": true,
-   "seconds": 3.5,
+   "seconds": 3.0,
    "last_line": "news: 150 ticker: 30"
   },
   {
@@ -28,7 +28,7 @@
   {
    "fetcher": "build_boxscores.py",
    "ok": true,
-   "seconds": 2.5,
+   "seconds": 3.0,
    "last_line": "boxscores 6"
   },
   {
@@ -40,7 +40,7 @@
   {
    "fetcher": "fetch_film.py",
    "ok": false,
-   "seconds": 50.0,
+   "seconds": 49.5,
    "last_line": "film: only 7/25 feeds answered; keeping previous data"
   },
   {
@@ -113,7 +113,7 @@
    "fetcher": "fetch_hub.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "injuries 14 practice 10 opp NO"
+   "last_line": "hub fresh (<30 min); skipped"
   },
   {
    "fetcher": "fetch_matchup.py",
@@ -124,7 +124,7 @@
   {
    "fetcher": "fetch_depth.py",
    "ok": true,
-   "seconds": 3.0,
+   "seconds": 2.5,
    "last_line": "depth units [('Offense', '3WR 1TE', 12), ('Defense', 'Base 3-4 D', 12), ('Special teams', 'Special Teams', 6)]"
   },
   {
@@ -172,7 +172,7 @@
   {
    "fetcher": "fetch_quotes.py",
    "ok": true,
-   "seconds": 1.5,
+   "seconds": 1.0,
    "last_line": "quotes: 6 kept from 127 articles"
   },
   {
