@@ -1,8 +1,11 @@
 # Steelers News
 
-_Generated 2026-10-25T01:01:19+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T01:00:18+00:00._
+_Generated 2026-10-25T01:12:23+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T01:11:34+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Steelers Scout Potential First-Round QB Matchup | Week 8 2027 NFL Draft Scout](https://steelersnow.com/steelers-scout-potential-first-round-qb-matchup-week-8-2027-nfl-draft-scout/): Steelers Now, 2026-10-25 01:06 UTC
+- [Pittsburgh Steelers get huge boost with return of standout safety](https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-get-huge-boost-with-return-of-standout-safety.html): PennLive (Nick Farabaugh), 2026-10-25 01:00 UTC
+- [Depot After Dark: Steelers Visit PSG, Lamar Out For Ravens, Scouting Top 2027 QBs](https://steelersdepot.com/2026/10/depot-after-dark-steelers-visit-psg-lamar-out-for-ravens-steelers-legends-tour-paris/): Steelers Depot, 2026-10-25 01:00 UTC
 - [After another day of Paris protests, NFL is on track to stage Steelers-Saints at Stade de France](https://sports.yahoo.com/articles/another-day-paris-protests-nfl-004759516.html): Yahoo Sports, 2026-10-25 00:47 UTC
 - [Former Steelers Head Coach Mike Tomlin Detailed Exactly What Made Hines Ward So Different](https://www.steelernation.com/2026/10/24/steelers-mike-tomlin-detailed-hines-ward): SteelerNation, 2026-10-25 00:23 UTC
 - [Steelers' Mike Tomlin Reveals Dan Rooney's Unconventional Contract Philosophy That Put Winning Ahead Of Stats](https://www.steelernation.com/2026/10/24/steelers-mike-tomlin-dan-rooney-unconventional): SteelerNation, 2026-10-24 23:45 UTC
@@ -61,6 +64,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers to sport a new uniform combination in Paris](https://www.steelers.com/news/steelers-to-sport-a-new-uniform-combination-in-paris): Steelers.com (official), 2026-10-24 14:45 UTC
 - [Steelers Elevate Two Players Ahead Of Saints Game](https://steelersdepot.com/2026/10/steelers-elevate-two-players-ahead-of-saints-game/): Steelers Depot, 2026-10-24 14:38 UTC
 - [Steelers Activate Safety DeShon Elliott To 53-Man Roster In Boost To Pittsburgh’s Secondary](https://steelersdepot.com/2026/10/steelers-activate-safety-deshon-elliott-to-53-man-roster-in-boost-to-pittsburghs-secondary/): Steelers Depot, 2026-10-24 14:32 UTC
+- [Steelers make roster move ahead of Saints game](https://www.steelers.com/news/steelers-make-roster-move-ahead-of-saints-game): Steelers.com (official), 2026-10-24 14:30 UTC
 - [Study: Pittsburgh Has A Three-And-Out Problem](https://steelersdepot.com/2026/10/study-pittsburgh-has-a-three-and-out-problem/): Steelers Depot, 2026-10-24 14:30 UTC
 - [What to know about Saints-Steelers NFL Paris game amid unrest, protests in city](https://www.nytimes.com/athletic/7714662/2026/10/24/nfl-saints-steelers-paris-protests/): The Athletic, 2026-10-24 14:25 UTC
 - [Steelers vs. Saints Bold Predictions: Offense Puts on a Show](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-bold-predictions-offense-puts-show): All Steelers (Sports Illustrated), 2026-10-24 14:00 UTC
@@ -71,7 +75,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers To Wear New Uniform Combination Against Saints](https://steelersdepot.com/2026/10/steelers-to-wear-new-uniform-combination-against-saints/): Steelers Depot, 2026-10-24 13:44 UTC
 - [Steelers Spin: When In Paris](https://steelersdepot.com/2026/10/steelers-spin-when-in-paris/): Steelers Depot, 2026-10-24 13:43 UTC
 - [Germie Bernard Could Be A Long-Term Answer To Pittsburgh’s Wide Receiver Woes](https://steelersdepot.com/2026/10/germie-bernard-could-be-a-long-term-answer-to-pittsburghs-wide-receiver-woes/): Steelers Depot, 2026-10-24 13:30 UTC
-- [Saints Make Roster Moves Ahead Of Steelers Game](https://steelersdepot.com/2026/10/saints-make-roster-moves-ahead-of-steelers-game/): Steelers Depot, 2026-10-24 13:14 UTC
 - [Morning Break: Saints seek second straight win in historic Paris matchup](https://www.neworleanssaints.com/news/morning-break-saints-seek-second-straight-win-in-historic-paris-matchup-new-orleans-news-headlines-10-24-2026): New Orleans Saints | NewOrleansSaints.com, 2026-10-24 13:07 UTC
 - [The NFL should relocate the Steelers-Saints game in Paris to London](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/the-nfl-should-relocate-the-steelers-saints-game-in-paris-to-london): ProFootballTalk (NBC), 2026-10-24 13:01 UTC
 - [Four-Down Territory: Run game will travel](https://www.steelers.com/news/four-down-territory-run-game-will-travel): Steelers.com (official), 2026-10-24 13:00 UTC
@@ -117,7 +120,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Aaron Rodgers Is Annoyed with Steelers’ Travel Schedule to Paris](https://steelersnow.com/aaron-rodgers-is-annoyed-with-steelers-travel-schedule-to-paris/): Steelers Now, 2026-10-23 15:05 UTC
 - [Cowboys finally call out George Pickens' effort issue Steelers fans know too well](https://stillcurtain.com/dallas-cowboys-call-out-george-pickens-effort-issue-pittsburgh-steelers-fans-know-01m5mhzf735f?utm_source=RSS): Still Curtain, 2026-10-23 15:00 UTC
 - [The Steelers are excited to ‘showcase’ NFL football — and themselves — in France](https://www.post-gazette.com/sports/steelers/2026/10/23/nfl-game-paris-steelers-saints/stories/202610230029): Pittsburgh Post-Gazette, 2026-10-23 15:00 UTC
-- [Aaron Rodgers Opens Up on Safety Concerns in Paris](https://steelersnow.com/aaron-rodgers-opens-up-on-safety-concerns-in-paris/): Steelers Now, 2026-10-23 14:49 UTC
 - ['Would have been nice one time to come over on a Monday': Steelers race to acclimate to Paris](https://www.nytimes.com/athletic/7717102/2026/10/23/steelers-paris-travel-saints/): The Athletic, 2026-10-23 14:47 UTC
 - [Steelers Paris notebook: Team is confident it is safe amid protests, unrest](https://triblive.com/sports/steelers-paris-notebook-team-is-confident-it-is-safe-amidst-protests-unrest/): TribLive, 2026-10-23 14:33 UTC
 - [Steelers at Saints in Paris: How to watch/listen to the game](https://www.steelers.com/news/steelers-at-saints-in-paris-how-to-watch-listen-to-the-game): Steelers.com (official), 2026-10-23 14:30 UTC
@@ -151,8 +153,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Week 7 Blog: Strictly business](https://www.steelers.com/news/week-7-blog-the-stacking-has-begun): Steelers.com (official), 2026-10-22 23:01 UTC
 - [Steelers superstar pass rusher T.J. Watt goes down with calf injury](https://www.pennlive.com/steelers/2026/10/steelers-superstar-pass-rusher-tj-watt-goes-down-with-calf-injury.html): PennLive (Nick Farabaugh), 2026-10-22 22:33 UTC
 - [Steelers should try to pry Riq Woolen away from Eagles before trade deadline](https://stillcurtain.com/pittsburgh-steelers-should-try-to-pry-riq-woolen-away-from-eagles-before-trade-deadline-01m5j1m4rt6x?utm_source=RSS): Still Curtain, 2026-10-22 21:00 UTC
-- [Steelers’ Paris trip gets tougher with T.J. Watt limited and two more players out](https://stillcurtain.com/pittsburgh-steelers-saints-paris-injury-report-week-7-thursday?utm_source=RSS): Still Curtain, 2026-10-22 20:39 UTC
-- [The Steelers will turn to two rookie defensive linemen as Sebastian Joseph-Day heads to IR](https://www.post-gazette.com/sports/steelers/2026/10/22/steelers-injury-updates/stories/202610210074): Pittsburgh Post-Gazette, 2026-10-22 20:36 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
