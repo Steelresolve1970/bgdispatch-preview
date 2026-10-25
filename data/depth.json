@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-25T07:02:57.330432+00:00",
- "as_of": "2026-10-24T11:57:56Z",
+ "generated": "2026-10-25T07:16:17.689675+00:00",
+ "as_of": "2026-10-25T06:01:49Z",
  "units": [
   {
    "unit": "Offense",
@@ -113,10 +113,10 @@
        "link": null
       },
       {
-       "name": "Cole Burgess",
-       "jersey": "85",
+       "name": "Michael Pittman Jr.",
+       "jersey": "11",
        "pos": "WR",
-       "injury": "Injured Reserve",
+       "injury": null,
        "link": null
       }
      ]
@@ -133,10 +133,17 @@
        "link": null
       },
       {
-       "name": "Michael Pittman Jr.",
-       "jersey": "11",
+       "name": "Brandon Smith",
+       "jersey": "87",
        "pos": "WR",
        "injury": null,
+       "link": null
+      },
+      {
+       "name": "Roman Wilson",
+       "jersey": "14",
+       "pos": "WR",
+       "injury": "Injured Reserve",
        "link": null
       }
      ]
@@ -153,8 +160,15 @@
        "link": null
       },
       {
-       "name": "Roman Wilson",
-       "jersey": "14",
+       "name": "Brandon Johnson",
+       "jersey": "89",
+       "pos": "WR",
+       "injury": null,
+       "link": null
+      },
+      {
+       "name": "Cole Burgess",
+       "jersey": "85",
        "pos": "WR",
        "injury": "Injured Reserve",
        "link": null
@@ -494,17 +508,17 @@
      "label": "Strong Safety",
      "players": [
       {
-       "name": "Robert Spears-Jennings",
-       "jersey": "28",
-       "pos": "DB",
-       "injury": null,
-       "link": null
-      },
-      {
        "name": "DeShon Elliott",
        "jersey": "25",
        "pos": "DB",
        "injury": "Questionable",
+       "link": null
+      },
+      {
+       "name": "Robert Spears-Jennings",
+       "jersey": "28",
+       "pos": "DB",
+       "injury": null,
        "link": null
       }
      ]
@@ -700,5 +714,5 @@
  ],
  "source": "Data: nflverse (CC-BY 4.0)",
  "source_url": "https://github.com/nflverse/nflverse-data",
- "note": "Depth chart: nflverse (CC-BY 4.0), as of 2026-10-24T11:57:56Z. Injury tags from the official NFL injury report via nflverse."
+ "note": "Depth chart: nflverse (CC-BY 4.0), as of 2026-10-25T06:01:49Z. Injury tags from the official NFL injury report via nflverse."
 }

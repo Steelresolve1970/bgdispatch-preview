@@ -1,6 +1,6 @@
 # Steelers Player Grades (Heat Map)
 
-_Generated 2026-10-25T07:03:07+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T17:00:00+00:00._
+_Generated 2026-10-25T07:16:34+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-18T17:00:00+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/grades.json_
 
 Week 6: at Tampa Bay Buccaneers (26-19). Grade = stats grade (box score, see GRADES.md) until a player has 25 fan votes, then fan grade.
@@ -26,14 +26,14 @@ Week 6: at Tampa Bay Buccaneers (26-19). Grade = stats grade (box score, see GRA
 | Jaquan Brisker | SS | 6.8 | stats | 7 tkl |
 | Cameron Heyward | DT | 6.6 | stats | 3 tkl |
 | Chris Boswell | K | 6.6 | stats | 1 tkl; FG 4/5, XP 2/2 |
-| Brock Hoffman | C | 6.5 | editor | 79 offensive snaps (100%); line: 5 sacks allowed, 4.0 yds/carry, 5 team penalties |
+| Brock Hoffman | G | 6.5 | editor | 79 offensive snaps (100%); line: 5 sacks allowed, 4.0 yds/carry, 5 team penalties |
 | Max Iheanachor | T | 6.4 | editor | 79 offensive snaps (100%); line: 5 sacks allowed, 4.0 yds/carry, 5 team penalties |
 | Cameron Johnston | P | 6.4 | stats | 5 punts, 48.2 avg |
 | Patrick Queen | ILB | 6.3 | stats | 3 tkl |
 | Asante Samuel Jr. | CB | 6.3 | stats | 5 tkl |
 | Jack Sawyer | OLB | 6.2 | stats | 2 tkl, 1 TFL |
 | Pat Freiermuth | TE | 5.9 | stats | 2 rec, 11 yds |
-| Sebastian Joseph-Day | DE | 5.8 | stats | 2 tkl |
+| Sebastian Joseph-Day | DT | 5.8 | stats | 2 tkl |
 | Alex Highsmith | OLB | 5.8 | stats | 2 tkl |
 | T.J. Watt | OLB | 5.8 | stats | 2 tkl |
 | Robert Spears-Jennings | FS | 5.8 | stats | 2 tkl |
