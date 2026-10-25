@@ -1,10 +1,10 @@
 # Steelers Opponent Preview
 
-_Generated 2026-10-25T21:08:44+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T21:08:32+00:00._
+_Generated 2026-10-25T23:06:31+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T23:06:12+00:00._
 
-Week 8: Steelers vs **Cleveland Browns** (CLE 4-2), kickoff 2026-11-01 18:00 UTC, Acrisure Stadium.
+Week 8: Steelers vs **Cleveland Browns** (CLE 5-2), kickoff 2026-11-01 18:00 UTC, Acrisure Stadium.
 
-Last 5: CLE W 23-19 @ TB W 21-18 vs CAR W 27-24 vs PIT L 17-12 @ NYJ W 13-10 vs BAL; PIT W 30-27 vs CIN L 27-24 @ CLE W 34-22 vs IND W 26-19 @ TB W 16-10 @ NO
+Last 5: CLE W 21-18 vs CAR W 27-24 vs PIT L 17-12 @ NYJ W 13-10 vs BAL W 27-24 @ TEN; PIT W 30-27 vs CIN L 27-24 @ CLE W 34-22 vs IND W 26-19 @ TB W 16-10 @ NO
 
 ## 3 keys to a Steelers win
 1. **Get after the quarterback**: The Steelers average 2.67 sacks a game (9th) and the Browns have allowed 4.00 (32nd). Early pressure can force mistakes.
@@ -23,7 +23,7 @@ Picks not posted yet; experts usually post Wednesday through Saturday.
 
 | Group | Stat | PIT | CLE |
 |---|---|---|---|
-| Offense | Points Per Game | 21.9 (21) | 17.7 (28) |
+| Offense | Points Per Game | 21.9 (22) | 19.0 (27) |
 | Offense | Total Yards | 320.5 (21) | 267.5 (29) |
 | Offense | Yards Passing | 221.3 (18) | 173.5 (25) |
 | Offense | Yards Rushing | 99.2 (20) | 94.0 (24) |
@@ -31,7 +31,7 @@ Picks not posted yet; experts usually post Wednesday through Saturday.
 | Offense | Yards Per Carry | 4.58 (8) | 3.64 (26) |
 | Offense | Sacks Allowed Per Game | 3.17 (28) | 4.0 (32) |
 | Offense | Turnovers Per Game | 1.17 (14) | 1.17 (14) |
-| Defense | Points Allowed Per Game | 19.7 (5) | 20.3 (6) |
+| Defense | Points Allowed Per Game | 19.7 (4) | 20.9 (12) |
 | Defense | Yards Allowed | 307.5 (7) | 317.5 (13) |
 | Defense | Pass Yards Allowed | 204.3 (7) | 205.2 (8) |
 | Defense | Rush Yards Allowed | 103.2 (14) | 112.3 (17) |

@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-25T21:08:44+00:00",
- "data_updated": "2026-10-25T21:08:24+00:00",
- "count": 120,
+ "generated": "2026-10-25T23:06:31+00:00",
+ "data_updated": "2026-10-25T23:06:04+00:00",
+ "count": 117,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -20,9 +20,48 @@
  "html": "https://blackandgolddispatch.com/#/podcasts",
  "items": [
   {
+   "id": "50327394adeb9940",
+   "type": "podcast_episode",
+   "title": "STEELERS SQUAD SHOW: Warren Runs OVER Saints & Defense DISMANTLES Saints Run Game in PARIS, 16-10",
+   "show": "Locked On Steelers",
+   "url": "https://lockedonpodcasts.com/podcasts/locked-on-steelers/",
+   "published": "2026-10-25T22:09:56+00:00",
+   "summary": "Podcast episode from Locked On Steelers.",
+   "source": {
+    "name": "Locked On Steelers",
+    "url": null
+   }
+  },
+  {
+   "id": "1d568f54c4703dc1",
+   "type": "video",
+   "title": "Steelers' Jaylen Warren, Rico Dowdle a Dynamic Duo in 16-10 Win vs Saints | Patrick Graham is Right",
+   "show": "Locked On Steelers",
+   "url": "https://www.youtube.com/watch?v=HfPpglcWbEE",
+   "published": "2026-10-25T22:00:06+00:00",
+   "summary": "Video from Locked On Steelers.",
+   "source": {
+    "name": "Locked On Steelers",
+    "url": null
+   }
+  },
+  {
+   "id": "60f2049f7a46164b",
+   "type": "video",
+   "title": "Queen, Watt, Metcalf, Warren & McCormick on win vs Saints | Press Pass | Pittsburgh Steelers",
+   "show": "Pittsburgh Steelers (official)",
+   "url": "https://www.youtube.com/watch?v=tzkmruuTbic",
+   "published": "2026-10-25T21:14:09+00:00",
+   "summary": "Video from Pittsburgh Steelers (official).",
+   "source": {
+    "name": "Pittsburgh Steelers (official)",
+    "url": null
+   }
+  },
+  {
    "id": "12648091f1e06a42",
    "type": "video",
-   "title": "Coach McCarthy & Players Postgame Press Conference (Week 7 at Saints)",
+   "title": "Coach McCarthy, Payton Wilson & Aaron Rodgers Postgame Press Conference (Week 7 at Saints)",
    "show": "Pittsburgh Steelers (official)",
    "url": "https://www.youtube.com/watch?v=AZSrBqY3onk",
    "published": "2026-10-25T19:48:27+00:00",
@@ -59,11 +98,11 @@
    }
   },
   {
-   "id": "913af5aa494dfbcf",
+   "id": "7968be70b4f37758",
    "type": "podcast_episode",
    "title": "Live Shot of Steelers: Postgame vs. Saints",
    "show": "DK Pittsburgh Sports",
-   "url": "https://podcasts.apple.com/us/podcast/live-shot-of-steelers-postgame-vs-saints/id1072021022?i=1000798056594",
+   "url": "https://podcasts.apple.com/us/podcast/id1072021022",
    "published": "2026-10-25T19:05:00+00:00",
    "summary": "Podcast episode from DK Pittsburgh Sports.",
    "source": {
@@ -419,19 +458,6 @@
    "summary": "Podcast episode from DK Pittsburgh Sports.",
    "source": {
     "name": "DK Pittsburgh Sports",
-    "url": null
-   }
-  },
-  {
-   "id": "0690adeb79910bfb",
-   "type": "video",
-   "title": "Pittsburgh meets Paris 🤝🇫🇷",
-   "show": "Pittsburgh Steelers (official)",
-   "url": "https://www.youtube.com/shorts/lH7u5sp1AWk",
-   "published": "2026-10-23T20:33:16+00:00",
-   "summary": "Video from Pittsburgh Steelers (official).",
-   "source": {
-    "name": "Pittsburgh Steelers (official)",
     "url": null
    }
   },
@@ -1114,7 +1140,7 @@
   {
    "id": "49f2b5175ccf8998",
    "type": "video",
-   "title": "STEELERS SQUAD SHOW: Steelers RUN all over Saints and Paris for 16-10 win",
+   "title": "STEELERS SQUAD SHOW: Warren Runs OVER Saints & Defense DISMANTLES Saints Run Game in PARIS, 16-10",
    "show": "Locked On Steelers",
    "url": "https://www.youtube.com/watch?v=dnrjjelOSeU",
    "published": "2026-10-22T01:39:59+00:00",
@@ -1511,71 +1537,6 @@
    "summary": "Video from Steelers Almighty.",
    "source": {
     "name": "Steelers Almighty",
-    "url": null
-   }
-  },
-  {
-   "id": "6a3f309de443b251",
-   "type": "podcast_episode",
-   "title": "Should Steelers Still Seek WR Help? | Steelers Afternoon Drive",
-   "show": "Steelers Afternoon Drive",
-   "url": "https://podcasts.apple.com/us/podcast/should-steelers-still-seek-wr-help-steelers-afternoon/id1700240934?i=1000797337923",
-   "published": "2026-10-20T22:21:00+00:00",
-   "summary": "Podcast episode from Steelers Afternoon Drive.",
-   "source": {
-    "name": "Steelers Afternoon Drive",
-    "url": null
-   }
-  },
-  {
-   "id": "c6b6c798d18d8be6",
-   "type": "podcast_episode",
-   "title": "DK's Double Shot of Steelers: Off OUI go!",
-   "show": "DK Pittsburgh Sports",
-   "url": "https://podcasts.apple.com/us/podcast/dks-double-shot-of-steelers-off-oui-go/id1072021022?i=1000797337026",
-   "published": "2026-10-20T22:01:00+00:00",
-   "summary": "Podcast episode from DK Pittsburgh Sports.",
-   "source": {
-    "name": "DK Pittsburgh Sports",
-    "url": null
-   }
-  },
-  {
-   "id": "b6718c99f764a2d9",
-   "type": "podcast_episode",
-   "title": "How The Steelers Survived Three Quarters Of Stalled Offense Ep 144",
-   "show": "Footbahlin with Ben Roethlisberger",
-   "url": "https://podcasts.apple.com/us/podcast/how-the-steelers-survived-three-quarters-of/id1648793385?i=1000797333266",
-   "published": "2026-10-20T22:00:00+00:00",
-   "summary": "Podcast episode from Footbahlin with Ben Roethlisberger.",
-   "source": {
-    "name": "Footbahlin with Ben Roethlisberger",
-    "url": null
-   }
-  },
-  {
-   "id": "6f5c98455f6f8d5a",
-   "type": "video",
-   "title": "The Steelers Need to Run the Ball on Third Down More Often 🚨 #steelers #nfl",
-   "show": "Locked On Steelers",
-   "url": "https://www.youtube.com/shorts/nyEwZLT3nXM",
-   "published": "2026-10-20T21:29:44+00:00",
-   "summary": "Video from Locked On Steelers.",
-   "source": {
-    "name": "Locked On Steelers",
-    "url": null
-   }
-  },
-  {
-   "id": "94e8226bebf7decb",
-   "type": "podcast_episode",
-   "title": "Steelers Not Done With WR Moves?",
-   "show": "All Steelers Talk",
-   "url": "https://podcasts.apple.com/us/podcast/steelers-not-done-with-wr-moves/id1627248534?i=1000797329590",
-   "published": "2026-10-20T21:17:00+00:00",
-   "summary": "Podcast episode from All Steelers Talk.",
-   "source": {
-    "name": "All Steelers Talk",
     "url": null
    }
   }

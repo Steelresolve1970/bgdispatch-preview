@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T21:08:37.047423+00:00",
+ "generated": "2026-10-25T23:06:25.423508+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -583,13 +583,16 @@
    "first_seen": "2026-10-23T00:00:15.961766+00:00",
    "consensus": {
     "cluster_id": "46b9d884dd04",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
+     "Steeler Nation",
      "SteelerNation"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "81dabd419458"
+    ]
    },
    "updated": "2026-10-23T00:00:15.961766+00:00"
   },
@@ -747,7 +750,7 @@
    "status_link": null,
    "first_seen": "2026-10-22T18:10:35.603011+00:00",
    "consensus": {
-    "cluster_id": "503d87d8f6f8",
+    "cluster_id": "793524d428ea",
     "independent_sources": 2,
     "sources": [
      "The Athletic",
@@ -1052,16 +1055,13 @@
    "first_seen": "2026-10-21T15:49:36.477025+00:00",
    "consensus": {
     "cluster_id": "1b9cf10893b1",
-    "independent_sources": 2,
+    "independent_sources": 1,
     "sources": [
-     "TribLIVE.com",
      "TribLive"
     ],
     "highest_tier": "Beat writer / team",
     "highest_tier_score": 3,
-    "related_ids": [
-     "c774b8995598"
-    ]
+    "related_ids": []
    },
    "updated": "2026-10-21T15:49:36.477025+00:00"
   },
