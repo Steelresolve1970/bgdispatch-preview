@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-25T02:08:32.084874+00:00",
+ "generated": "2026-10-25T02:19:54.385041+00:00",
  "date_et": "2026-10-24",
  "days": 5,
  "display_days": 2,
- "count": 140,
+ "count": 139,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -38,7 +38,7 @@
    "url": "https://feeds.megaphone.fm/btsc-steelers",
    "status": "ok",
    "episodes": 8212,
-   "week": 12,
+   "week": 11,
    "latest": "2026-10-23T15:30:00+00:00"
   },
   {
@@ -216,10 +216,10 @@
    "show": "Not Just Football with Cam Heyward",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8hodyaoiw297aspKf9QVDA",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 6,
-   "latest": "2026-10-24T19:25:13+00:00"
+   "latest": null
   },
   {
    "show": "Footbahlin with Ben Roethlisberger",
@@ -1368,14 +1368,6 @@
    "link": "https://podcasters.spotify.com/pod/show/steelersfor7podcast/episodes/Steelers-Raid-Tampa--Mike-McCarthy--Injury-Updates--Next-Stop-Paris---SF7P-Ep--212-e3qpdap",
    "published": "2026-10-20T05:11:45+00:00",
    "summary": "Podcast episode from Steelers for 7 Podcast."
-  },
-  {
-   "title": "Steelers Hangover: Trajectory Win! Steelers Beat Tampa Bay 26-19 in OT",
-   "show": "Steel Curtain Network (BTSC)",
-   "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/steelers-hangover-trajectory-win-steelers-beat-tampa/id905962218?i=1000797805867",
-   "published": "2026-10-20T02:14:00+00:00",
-   "summary": "Podcast episode from Steel Curtain Network (BTSC)."
   }
  ],
  "yt_channels": [],

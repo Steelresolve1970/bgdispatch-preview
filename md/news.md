@@ -1,8 +1,9 @@
 # Steelers News
 
-_Generated 2026-10-25T02:08:50+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T02:08:12+00:00._
+_Generated 2026-10-25T02:20:10+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T02:19:04+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Steelers Injury Central: Elliott Makes Return, One Questionable vs. Saints](https://steelersnow.com/pittsburgh-steelers-injury-updates/): Steelers Now, 2026-10-25 02:16 UTC
 - [Pittsburgh Steelers 2026 53-Man Roster, Practice Squad](https://steelersnow.com/pittsburgh-steelers-player-roster/): Steelers Now, 2026-10-25 02:02 UTC
 - [Steelers Vs. Saints Week 7: Game Time, Line, Weather, Injuries, TV, & Radio Schedule](https://steelersdepot.com/2026/10/steelers-vs-saints-2026-week-seven-game-time-line-weather-injuries-tv-radio-schedule/): Steelers Depot, 2026-10-25 02:00 UTC
 - [Pittsburgh Steelers 2026 Week 7 Depth Chart](https://steelersnow.com/pittsburgh-steelers-2025-depth-chart/): Steelers Now, 2026-10-25 02:00 UTC
@@ -107,7 +108,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Noah Hiles: My journey to find an NFL bar in Paris](https://www.post-gazette.com/sports/steelers/2026/10/23/steelers-bars-in-paris-france/stories/202610240007): Pittsburgh Post-Gazette, 2026-10-23 17:30 UTC
 - [Steelers on a short ‘business trip’ to beat Saints, not to sightsee in Paris](https://triblive.com/sports/steelers-on-a-short-business-trip-to-beat-saints-not-to-sightsee-in-paris/): TribLive, 2026-10-23 17:22 UTC
 - [Steelers vs. Saints: Three must-know storylines for NFL's first-ever Paris game](https://www.nfl.com/news/steelers-vs-saints-preview-week-7-paris-game): NFL.com, 2026-10-23 16:46 UTC
-- [The Steelers Shouldn’t Be Playing in Paris | Steelers Morning Rush](https://steelersnow.com/the-steelers-shouldnt-be-playing-in-paris-steelers-morning-rush/): Steelers Now, 2026-10-23 16:39 UTC
 - [Trump suggests NFL could have postponed Paris game as protests escalate in France](https://www.nytimes.com/athletic/7717489/2026/10/23/donald-trump-nfl-paris-protests-steelers-saints/): The Athletic, 2026-10-23 16:33 UTC
 - [Aaron Rodgers sounds annoyed with Steelers' travel plans for Paris: Why the QB is unhappy](https://www.cbssports.com/nfl/news/aaron-rodgers-steelers-travel-plans-nfl-paris-game-saints/): CBS Sports, 2026-10-23 16:32 UTC
 - [Aaron Rodgers wishes the Steelers left for Paris sooner](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176812/aaron-rodgers-wishes-the-steelers-left-for-paris-sooner): Behind the Steel Curtain, 2026-10-23 16:30 UTC
