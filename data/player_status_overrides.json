@@ -1,0 +1,12 @@
+{
+  "_help": "Owner overrides for player injury status. Each entry here wins over the automatic NFL injury report on the Depth Chart, Injury Tracker and data feeds. To undo one, delete its entry from \"players\" (keep the {} brackets), save, and the next update (within about 10-30 minutes) goes back to the automatic status. Names match with or without Jr./Sr./II/III.",
+  "players": {
+    "Michael Pittman Jr.": {
+      "status": "Out",
+      "injury": "Foot",
+      "detail": "Injured reserve",
+      "link": "https://www.steelers.com/news/steelers-inactives-for-week-7-at-saints",
+      "note": "Owner request Oct 25, 2026 (Week 7 at Saints). Steelers.com: on the Reserve/Injured list; placed on IR Oct 10 with a left foot injury."
+    }
+  }
+}

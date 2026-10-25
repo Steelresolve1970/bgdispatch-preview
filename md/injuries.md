@@ -1,12 +1,13 @@
 # Steelers Injury Report
 
-_Generated 2026-10-25T12:58:14+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T12:58:02+00:00._
+_Generated 2026-10-25T12:59:35+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T12:58:02+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/injuries.json_
 
 | Player | Pos | Status | Injury | Est. return | Updated |
 |---|---|---|---|---|---|
 | [Ben Skowronek](https://www.nfl.com/injuries/) | WR | Out | Calf |  |  |
 | [Brandin Echols](https://www.nfl.com/injuries/) | CB | Out | Hamstring |  |  |
+| [Michael Pittman](https://www.steelers.com/news/steelers-inactives-for-week-7-at-saints) | WR | Out | Foot |  |  |
 | [DeShon Elliott](https://www.nfl.com/injuries/) | S | Questionable | Knee |  |  |
 | [Rico Dowdle](https://www.nfl.com/injuries/) | RB | Questionable | Knee |  |  |
 | [Cole Burgess](https://www.nfl.com/transactions/) | WR | Injured Reserve |  |  |  |
@@ -15,7 +16,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/injuries.json_
 | [Gennings Dunker](https://www.nfl.com/transactions/) | OL | Injured Reserve |  |  |  |
 | [Jack Driscoll](https://www.nfl.com/transactions/) | OL | Injured Reserve |  |  |  |
 | [Logan Lee](https://www.nfl.com/transactions/) | DL | Injured Reserve |  |  |  |
-| [Michael Pittman](https://www.nfl.com/transactions/) | WR | Injured Reserve |  |  |  |
 | [Roman Wilson](https://www.nfl.com/transactions/) | WR | Injured Reserve |  |  |  |
 | [Sebastian Joseph-Day](https://www.nfl.com/transactions/) | DL | Injured Reserve |  |  |  |
 | [Donte Kent](https://www.nfl.com/transactions/) | DB | Physically Unable to Perform |  |  |  |

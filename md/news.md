@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-25T12:58:14+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T12:20:23+00:00._
+_Generated 2026-10-25T12:59:35+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T12:20:23+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [The best soccer/NFL crossover jerseys as PSG unveil kit for Steelers vs. Saints in Paris](https://www.espn.com/soccer/story/_/id/50225836/the-best-soccer-nfl-crossover-jerseys-psg-kit-pittsburgh-steelers-new-orleans-saints-paris-game): ESPN, 2026-10-25 12:41 UTC

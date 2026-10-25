@@ -1,6 +1,6 @@
 # Steelers Depth Chart
 
-_Generated 2026-10-25T12:58:14+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T12:58:03+00:00._
+_Generated 2026-10-25T12:59:35+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T12:59:24+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/depth-chart.json_
 
 ### Offense (3WR 1TE)
@@ -10,7 +10,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/depth-chart.json_
 | QB | Aaron Rodgers | Mason Rudolph | Will Howard | Drew Allar |
 | RB | Jaylen Warren | Rico Dowdle (Questionable) | Travis Homer | Eli Heidenreich, Lew Nichols |
 | FB | Riley Nowakowski |  |  |  |
-| WR | DK Metcalf | Kaden Wetjen | Michael Pittman Jr. |  |
+| WR | DK Metcalf | Kaden Wetjen | Michael Pittman Jr. (Out) |  |
 | WR | Germie Bernard | Brandon Smith | Roman Wilson (Injured Reserve) |  |
 | WR | Ben Skowronek (Out) | Brandon Johnson | Cole Burgess (Injured Reserve) |  |
 | TE | Darnell Washington | Pat Freiermuth | Robert Tonyan |  |
