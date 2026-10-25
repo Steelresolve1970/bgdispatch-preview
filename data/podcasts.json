@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T04:17:52.431427+00:00",
+ "generated": "2026-10-25T04:29:28.536440+00:00",
  "date_et": "2026-10-25",
  "days": 5,
  "display_days": 2,
@@ -81,10 +81,10 @@
    "show": "Still Curtain Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxjSNPLcRAVzDKOjhRwo-hQ",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 3,
-   "latest": null
+   "latest": "2026-10-22T06:58:28+00:00"
   },
   {
    "show": "Steel City Underground",
@@ -189,7 +189,7 @@
    "show": "Nick Farabaugh on PennLive",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5yvng1eSgffmybUM-51fTw",
-   "status": "error: HTTP Error 500: Internal Server Error",
+   "status": "error: HTTP Error 404: Not Found",
    "episodes": 0,
    "week": 1,
    "latest": null

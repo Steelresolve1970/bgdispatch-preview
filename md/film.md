@@ -1,6 +1,6 @@
 # Steelers Film Room & Previews
 
-_Generated 2026-10-25T04:18:08+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T03:17:41+00:00._
+_Generated 2026-10-25T04:29:53+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T04:28:28+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/film.json_
 
 - Breakdown (at Tampa Bay Buccaneers (Oct 18)): [DB’s Steelers Film Room: Jamel Dean Saves the Day in Tampa](https://steelersnow.com/dbs-steelers-film-room-jamel-dean-saves-the-day-in-tampa/): Steelers Now, 2026-10-21 14:57 UTC
@@ -10,10 +10,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/film.json_
 - Breakdown (at Tampa Bay Buccaneers (Oct 18)): [Film Room: Jalen Ramsey Calls Game To Beat Buccaneers](https://steelersdepot.com/2026/10/film-room-jalen-ramsey-calls-game-to-beat-buccaneers/): Alex Kozora (Steelers Depot), 2026-10-19 12:30 UTC
 - Preview (at New Orleans Saints (Oct 25)): [Steelers keys to victory vs. Saints: Get Jaylen Warren the ball](https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176836/steelers-keys-to-victory-vs-saints-get-jaylen-warren-the-ball): Behind the Steel Curtain, 2026-10-24 14:00 UTC
 - Preview (at New Orleans Saints (Oct 25)): [Steelers have two obvious keys to taking down the Saints this week](https://stillcurtain.com/pittsburgh-steelers-have-two-obvious-keys-to-taking-down-the-saints-this-week-01m5hyt9dzh2?utm_source=RSS): Still Curtain (Tommy Jaggi All-22), 2026-10-24 10:00 UTC
-- Preview (at New Orleans Saints (Oct 25)): [Tyler Talks Steelers Vs Saints Week 7 Game Preview](https://www.youtube.com/shorts/Mwqf1jbyCtk): Arthur Moats Experience, 2026-10-24 09:52 UTC
-- Preview (at New Orleans Saints (Oct 25)): [What To Watch For In Steelers vs Saints Week 7](https://www.youtube.com/watch?v=MIDs_7cmjCk): Arthur Moats Experience, 2026-10-24 09:52 UTC
 - Preview (at New Orleans Saints (Oct 25)): [Steelers Afternoon Drive: Saints Preview & Predictions](https://steelersnow.com/steelers-afternoon-drive-saints-preview-predictions/): Steelers Now, 2026-10-23 22:00 UTC
-- Preview (at New Orleans Saints (Oct 25)): [Steelers Need to Fan the Flames vs the Saints in Paris? | Scouting Report Week 7](https://www.youtube.com/watch?v=qbm-DUnLP_c): Steelers Almighty, 2026-10-23 18:20 UTC
 - Preview (at New Orleans Saints (Oct 25)): [Saints Offense Scouting Report: Where Pittsburgh Should Be Worried Most](https://steelersdepot.com/2026/10/saints-offense-scouting-report-where-pittsburgh-should-be-worried-most/): Alex Kozora (Steelers Depot), 2026-10-23 13:30 UTC
 - Preview (at New Orleans Saints (Oct 25)): [Saints Defense Scouting Report: Steelers Have Chance To Continue YAC Attack](https://steelersdepot.com/2026/10/saints-defense-scouting-report-steelers-have-chance-to-continue-yac-attack/): Alex Kozora (Steelers Depot), 2026-10-23 12:30 UTC
 
