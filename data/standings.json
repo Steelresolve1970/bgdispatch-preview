@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-25T19:14:44.540577+00:00",
+ "generated": "2026-10-25T19:25:33.067762+00:00",
  "season": 2026,
- "through": "2026-10-22",
- "games_counted": 94,
+ "through": "2026-10-25",
+ "games_counted": 95,
  "divisions": {
   "AFC East": [
    {
@@ -64,6 +64,20 @@
   ],
   "AFC North": [
    {
+    "abbr": "PIT",
+    "name": "Pittsburgh Steelers",
+    "w": 5,
+    "l": 2,
+    "t": 0,
+    "pct": 0.714,
+    "pf": 153,
+    "pa": 138,
+    "diff": 15,
+    "div": "1-1",
+    "conf": "2-2",
+    "strk": "W3"
+   },
+   {
     "abbr": "CLE",
     "name": "Cleveland Browns",
     "w": 4,
@@ -76,20 +90,6 @@
     "div": "2-0",
     "conf": "2-2",
     "strk": "W1"
-   },
-   {
-    "abbr": "PIT",
-    "name": "Pittsburgh Steelers",
-    "w": 4,
-    "l": 2,
-    "t": 0,
-    "pct": 0.667,
-    "pf": 137,
-    "pa": 128,
-    "diff": 9,
-    "div": "1-1",
-    "conf": "2-2",
-    "strk": "W2"
    },
    {
     "abbr": "BAL",
@@ -385,15 +385,15 @@
     "abbr": "NO",
     "name": "New Orleans Saints",
     "w": 2,
-    "l": 4,
+    "l": 5,
     "t": 0,
-    "pct": 0.333,
-    "pf": 152,
-    "pa": 178,
-    "diff": -26,
+    "pct": 0.286,
+    "pf": 162,
+    "pa": 194,
+    "diff": -32,
     "div": "0-1",
     "conf": "1-3",
-    "strk": "W1"
+    "strk": "L1"
    },
    {
     "abbr": "TB",

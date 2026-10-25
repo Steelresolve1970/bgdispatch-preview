@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T19:15:13.573647+00:00",
+ "generated": "2026-10-25T19:26:03.097263+00:00",
  "season": 2026,
  "week": 7,
  "games": [
@@ -27,22 +27,22 @@
   {
    "id": "401873011",
    "date": "2026-10-25T13:30Z",
-   "state": "pre",
-   "detail": "Sun 10/25 9:30 AM ET",
-   "completed": false,
+   "state": "post",
+   "detail": "Final",
+   "completed": true,
    "away": {
     "abbr": "PIT",
     "name": "Pittsburgh Steelers",
-    "score": null,
-    "winner": null,
-    "record": "4-2"
+    "score": "16",
+    "winner": true,
+    "record": "5-2"
    },
    "home": {
     "abbr": "NO",
     "name": "New Orleans Saints",
-    "score": null,
-    "winner": null,
-    "record": "2-4"
+    "score": "10",
+    "winner": false,
+    "record": "2-5"
    }
   },
   {
@@ -436,7 +436,7 @@
     "name": "New Orleans Saints",
     "score": "34",
     "winner": true,
-    "record": "2-4"
+    "record": "2-5"
    },
    "home": {
     "abbr": "NYG",
@@ -478,7 +478,7 @@
     "name": "Pittsburgh Steelers",
     "score": "26",
     "winner": true,
-    "record": "4-2"
+    "record": "5-2"
    },
    "home": {
     "abbr": "TB",

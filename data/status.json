@@ -1,10 +1,10 @@
 {
- "last_run": "2026-10-25T19:15:17.541936+00:00",
+ "last_run": "2026-10-25T19:26:07.566900+00:00",
  "results": [
   {
    "fetcher": "apply_grade_edits.py",
    "ok": true,
-   "seconds": 0.5,
+   "seconds": 1.0,
    "last_line": "no grade edits"
   },
   {
@@ -23,19 +23,19 @@
    "fetcher": "fetch_standings.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "standings 2026 games 94 through 2026-10-22"
+   "last_line": "standings 2026 games 95 through 2026-10-25"
   },
   {
    "fetcher": "build_boxscores.py",
    "ok": true,
-   "seconds": 2.0,
+   "seconds": 2.5,
    "last_line": "boxscores 7"
   },
   {
    "fetcher": "fetch_insiders.py",
    "ok": true,
    "seconds": 2.0,
-   "last_line": "sidebar: 4 full feed: 28"
+   "last_line": "sidebar: 4 full feed: 29"
   },
   {
    "fetcher": "fetch_film.py",
@@ -59,7 +59,7 @@
    "fetcher": "fetch_grades.py",
    "ok": true,
    "seconds": 1.0,
-   "last_line": "weeks 7 ballot players 33 season players 51"
+   "last_line": "weeks 7 ballot players 8 season players 51"
   },
   {
    "fetcher": "fetch_stats.py",
@@ -112,8 +112,8 @@
   {
    "fetcher": "fetch_hub.py",
    "ok": true,
-   "seconds": 0.5,
-   "last_line": "hub fresh (<30 min); skipped"
+   "seconds": 1.0,
+   "last_line": "injuries 14 practice 2 opp CLE"
   },
   {
    "fetcher": "fetch_matchup.py",
@@ -124,7 +124,7 @@
   {
    "fetcher": "fetch_depth.py",
    "ok": true,
-   "seconds": 3.0,
+   "seconds": 2.5,
    "last_line": "depth units [('Offense', '3WR 1TE', 12), ('Defense', 'Base 3-4 D', 12), ('Special teams', 'Special Teams', 6)]"
   },
   {
@@ -142,7 +142,7 @@
   {
    "fetcher": "fetch_rumors.py",
    "ok": true,
-   "seconds": 2.5,
+   "seconds": 3.0,
    "last_line": "rumors 37 {'Rumor': 36, 'Confirmed': 1, 'Denied': 0}"
   },
   {
@@ -161,7 +161,7 @@
    "fetcher": "fetch_digest.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "digest news 5 pods 3 leader Jaylen Warren"
+   "last_line": "digest news 5 pods 3 leader None"
   },
   {
    "fetcher": "fetch_live.py",
@@ -172,14 +172,14 @@
   {
    "fetcher": "fetch_quotes.py",
    "ok": true,
-   "seconds": 1.5,
+   "seconds": 2.0,
    "last_line": "quotes: 6 kept from 137 articles"
   },
   {
    "fetcher": "build_machine.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "machine layer: {'news': 150, 'rumors': 37, 'injuries': 14, 'depth-chart': 28, 'schedule': 17, 'stats': 62, 'grades': 33, 'college': 20, 'insiders': 28, 'podcasts': 121, 'film': 0, 'draft': 521} md 13 feeds 5 jsonld 14"
+   "last_line": "machine layer: {'news': 150, 'rumors': 37, 'injuries': 14, 'depth-chart': 28, 'schedule': 17, 'stats': 62, 'grades': 8, 'college': 20, 'insiders': 29, 'podcasts': 122, 'film': 0, 'draft': 521} md 13 feeds 5 jsonld 14"
   }
  ]
 }

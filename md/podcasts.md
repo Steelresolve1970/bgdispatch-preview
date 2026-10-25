@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-25T19:15:17+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T19:14:58+00:00._
+_Generated 2026-10-25T19:26:07+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T19:25:47+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [Live Shot of Steelers: Postgame vs. Saints](https://podcasts.apple.com/us/podcast/id1072021022): DK Pittsburgh Sports, 2026-10-25 19:05 UTC
@@ -16,9 +16,10 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Showtime 🎬 📺: NFLN](https://www.youtube.com/shorts/Q07Pl7A_KYI): Pittsburgh Steelers (official), 2026-10-25 14:08 UTC
 - Video: [8️⃣0️⃣ IN THE BUILDING 📺: NFLN](https://www.youtube.com/shorts/ppYcRsmcywI): Pittsburgh Steelers (official), 2026-10-25 14:05 UTC
 - Video: [Arriving in style 😮‍💨](https://www.youtube.com/shorts/MpZ1TO0DJtg): Pittsburgh Steelers (official), 2026-10-25 12:17 UTC
-- Podcast: [The Terrible Take - Episode 2061 - October 25, 2026](https://podcasts.apple.com/us/podcast/id405990739): The Terrible Podcast (Steelers Depot), 2026-10-25 11:52 UTC
+- Podcast: [The Terrible Take - Episode 2061 - October 25, 2026](https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2061-october-25-2026/id405990739?i=1000798014044): The Terrible Podcast (Steelers Depot), 2026-10-25 11:52 UTC
 - Video: [📍Stade de France](https://www.youtube.com/shorts/GOAKRNi5pnI): Pittsburgh Steelers (official), 2026-10-25 11:11 UTC
 - Video: [Steelers Insider featuring Mike McCarthy: Week 7 at Saints in Paris | Pittsburgh Steelers](https://www.youtube.com/watch?v=_vNjXJpcPiA): Pittsburgh Steelers (official), 2026-10-24 23:00 UTC
+- Podcast: [The Terrible Take - Episode 2060 - October 24, 2026](https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2060-october-24-2026/id405990739?i=1000797953629): The Terrible Podcast (Steelers Depot), 2026-10-24 21:00 UTC
 - Video: [Here Oui Go! 🇫🇷 📺: #PITvsNO 10/25 at 9:30 AM ET on NFLN](https://www.youtube.com/shorts/pN7v-dGbPdo): Pittsburgh Steelers (official), 2026-10-24 20:10 UTC
 - Video: [Elandon Roberts wants to win another one so he can enjoy it more this time 🏆🔥#nfl #patriots](https://www.youtube.com/shorts/XWo-am2_97g): Not Just Football with Cam Heyward, 2026-10-24 19:25 UTC
 - Video: [Steelers fans encounter police getting ready for protesters](https://www.youtube.com/shorts/lxzhbaIZNu8): Nick Farabaugh on PennLive, 2026-10-24 18:08 UTC
