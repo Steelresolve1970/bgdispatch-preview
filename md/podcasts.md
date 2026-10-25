@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-25T13:09:14+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T13:08:46+00:00._
+_Generated 2026-10-25T14:04:20+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T13:37:12+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Arriving in style 😮‍💨](https://www.youtube.com/shorts/MpZ1TO0DJtg): Pittsburgh Steelers (official), 2026-10-25 12:17 UTC
@@ -62,7 +62,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Injury Bug Bites Steelers DL | Steelers Morning Rush](https://podcasts.apple.com/us/podcast/injury-bug-bites-steelers-dl-steelers-morning-rush/id1700240934?i=1000797649650): Steelers Afternoon Drive, 2026-10-22 16:59 UTC
 - Video: [Can the Steelers keep their winning streak alive in Paris?](https://www.youtube.com/watch?v=4UG7gRw1LHg): Steel City Underground, 2026-10-22 16:28 UTC
 - Podcast: [Can the Steelers keep their winning streak alive in Paris?](https://www.steelcityunderground.com/podcast/2026/10/can-the-steelers-keep-their-winning-streak-alive-in-paris/): Steel City Underground, 2026-10-22 16:20 UTC
-- Podcast: [NFL Week 7 Preview & Picks: EVERY GAME!](https://podcasts.apple.com/us/podcast/nfl-week-7-preview-picks-every-game/id1761398472?i=1000797642974): Check the Mic with Steve Palazzolo & Sam Monson, 2026-10-22 16:13 UTC
 - Video: [Injury Bug Bites Steelers DL | Steelers Morning Rush](https://www.youtube.com/watch?v=--tsBSvc3b4): Steelers Now, 2026-10-22 16:09 UTC
 - Video: [DT Gabriel Rubio Readying to Step Up | Steelers Sights & Sounds](https://www.youtube.com/watch?v=5RLMieeKer4): Steelers Now, 2026-10-22 16:04 UTC
 - Video: [What are these Steelers bringing with them on their trip to Paris this week? 🇫🇷🏈#nfl #paris](https://www.youtube.com/shorts/ZmJFxJEy3Fw): Not Just Football with Cam Heyward, 2026-10-22 15:53 UTC
