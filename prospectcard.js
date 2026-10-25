@@ -27,7 +27,7 @@ function hlHTML(n){const h=(X[n]||{}).highlight;return h?`<a class="btn pc-hl" h
 let META={};
 function statsHTML(p,short){p=p||{};const q=get(p.name)||p,k=q.stats,l=q.line,th=META.stats_through;
  const thru=th?`Stats through ${E(th.label)}`:'';const src=' · CollegeFootballData.com';
- if(k==='2026'&&l)return short?`${E(l)}${th?` <span class="pc-thru">(thru ${E(th.label)})</span>`:''}`:`<p><b>2026 season:</b> ${E(l)}</p><p class="fine pc-thru">${thru}${src}</p>`;
+ if(k==='2026'&&l)return short?`${E(l)}${th?` <span class="pc-thru">· thru ${E((String(th.label).match(/\(([^)]*)\)/)||[,th.label])[1])}</span>`:''}`:`<p><b>2026 season:</b> ${E(l)}</p><p class="fine pc-thru">${thru}${src}</p>`;
  if(k==='2025'&&l)return short?`${E(l)} <span class="pc-thru">(2025; no 2026 stats yet)</span>`:`<p><b>2025 season:</b> ${E(l)} <small>(no 2026 stats recorded yet)</small></p>${th?`<p class="fine pc-thru">2026 checked through ${E(th.label)}${src}</p>`:''}`;
  if(q.pos==='OT'||q.pos==='IOL'||k==='line')return short?'No box-score stats for linemen':`<p><b>2026 season:</b> No box-score stats for linemen.</p>`;
  if(k===undefined&&l&&l!=='None')return short?E(l):`<p><b>2026 season:</b> ${E(l)}</p>`;
