@@ -19,19 +19,37 @@ const SUF=/^(jr\.?|sr\.?|ii|iii|iv|v)$/i;
 function lbl(n,w){const ch=Math.max(3,Math.floor((w-8)/6.6));if(n.length<=ch)return n;const p=n.split(' ').filter(x=>!SUF.test(x));let l=p[p.length-1]||n;if(l.length<=ch)return l;return l.slice(0,Math.max(3,ch-1))+'.';}
 const GSRC={editor:'Editor grade',fan:'Fan grade',stats:'Stats grade',mixed:'Stats + fan',awaiting:'Awaiting fan votes'}; // white text on the darkest blues and reds
 
-// ---------- Ballot ----------
-function renderBallot(){const el=document.getElementById('grades-body');const b=G.ballot;if(!el||!b)return;
- const closes=b.voting_closes?fmtD(b.voting_closes,{weekday:'short',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})+' ET':'TBD';
- const by={};b.players.forEach(p=>(by[p.group]=by[p.group]||[]).push(p));
- const n=Object.keys(G.picks).length;
- el.innerHTML=`<div class="ballot-head"><p class="kind">Week ${b.week} ballot</p><h2>${GE(b.game)} · ${GE(b.score)}</h2>
-  <p>Rate every player who played, 1 (awful) to 10 (elite). One ballot per fan. Voting closes at next kickoff: <b>${closes}</b>.</p>
-  <p class="fine light">Players from nflverse weekly stats (CC-BY 4.0); offensive line from the active roster (linemen don't appear in box-score stats).</p></div>
-  ${b.groups.filter(g=>by[g]).map(g=>`<section class="pos-group"><h3>${GROUPS[g]}</h3>${by[g].map(p=>{const v=G.picks[p.name];
-   return`<div class="gplayer"><div class="gp-top"><span><b>${GE(p.name)}</b> <small>${GE(p.pos)}</small></span><span class="gp-val ${v?'':'unset'}">${v?v+'/10':'Not rated'}</span></div>
-   <div class="scale" role="radiogroup" aria-label="Grade ${GE(p.name)}">${[1,2,3,4,5,6,7,8,9,10].map(i=>`<button type="button" role="radio" aria-checked="${v===i}" class="${v===i?'on':''}" data-p="${GE(p.name)}" data-v="${i}" style="${v===i?`background:${heat(2.4+i*0.66)};color:${cold(2.4+i*0.66)?'#fff':'#111'}`:''}">${i}</button>`).join('')}</div></div>`}).join('')}</section>`).join('')}
-  <div class="submit-bar"><span><b>${n}/${b.players.length}</b> rated<br><small>Sign in to vote · mockup, ballots aren't saved yet</small></span><button class="btn" type="button" disabled title="Voting not live yet">Submit ballot</button></div>`;}
-document.addEventListener('click',e=>{const t=e.target.closest('.scale button');if(t){G.picks[t.dataset.p]=+t.dataset.v;const y=scrollY;renderBallot();scrollTo(0,y);}
+// ---------- Ballot (live: same Grade the Team poll as the forum, saved through /api/grades/*) ----------
+// Picks are keyed by the poll's item keys (team:overall, p:<gsis_id>, ...). One grade per item per account, never overwritten.
+const GAPI=(p,body)=>fetch('/api/'+p,{method:body?'POST':'GET',credentials:'same-origin',cache:'no-store',headers:body?{'x-bgd':'1','content-type':'application/json'}:{'x-bgd':'1'},body:body?JSON.stringify(body):undefined})
+ .then(r=>r.json().catch(()=>({ok:false,error:r.status>=500?'The site had a problem saving that. Please try again in a minute.':'Something went wrong. Please try again.'})))
+ .catch(()=>({ok:false,error:'Network problem. Check your connection and try again.',net:true}));
+async function loadLiveBallot(){const d=await GAPI('grades/ballot');const old=G.live&&G.live.ballot&&G.live.ballot.game_id;G.live=d&&d.ok?d:{ok:false,error:d&&d.error};
+ const b=G.live.ballot;if(!b||b.game_id!==old)G.picks={};else(G.live.mine||[]).forEach(x=>delete G.picks[x.item]);renderBallot();}
+const nextGrade=()=>`sessionStorage.setItem('bgd_next','grades')`;   // forum sign-in sends them back to #/grades
+function renderBallot(msg){const el=document.getElementById('grades-body');if(!el)return;const d=G.live;
+ if(!d){el.innerHTML='<p class="empty">Loading ballot…</p>';return;}
+ if(!d.ok){el.innerHTML=`<div class="ballot-head"><p class="kind">Grade the Team</p><h2>Fan ballot</h2><p>Signed-in fans grade every player who played, 1 (awful) to 10 (elite).</p><p><a class="btn" href="#/forum/grade">Open the fan ballot</a></p></div>`;return;}
+ const b=d.ballot;if(!b){el.innerHTML=`<div class="ballot-head"><p class="kind">Grade the Team</p><h2>No game to grade yet</h2><p>Grading opens at the final whistle.</p></div>`;return;}
+ const me=d.me,mine={};(d.mine||[]).forEach(x=>mine[x.item]=x.grade);const av=(d.averages&&d.averages.items)||{};const voters=(d.averages&&d.averages.voters)||0;
+ const can=b.open&&!!me;const n=Object.keys(G.picks).length,done=Object.keys(mine).length,total=b.items.length;
+ const closes=b.closes?fmtD(b.closes,{weekday:'short',month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})+' ET':'';
+ const gate=!me&&b.open?`<p class="ballot-gate"><a class="btn" href="#/forum/signin" onclick="${nextGrade(b.game_id)}">Sign in to grade</a> <a class="btn ghost" href="#/forum/join" onclick="${nextGrade(b.game_id)}">Join free</a></p><p>Grading is free. Sign in (or join), and you come right back to this ballot.</p>`:'';
+ el.innerHTML=`<div class="ballot-head"><p class="kind">${b.week?'Week '+b.week+' ballot':'Ballot'}</p><h2>${GE(b.label)}</h2>
+  <p>${b.open?`Tap a number from 1 (awful) to 10 (elite) for each player you want to grade, then tap <b>Submit</b>. Open until <b>${closes}</b>.`:b.final_at?'Grading has closed for this game.':'Grading opens at the final whistle.'} ${voters} fan${voters===1?'':'s'} graded so far. Each grade can be cast once.</p>
+  ${me?`<p class="fine">Signed in as <b>${GE(me.display_name||me.username)}</b>${done?` · you've graded ${done} of ${total}`:''}</p>`:''}${gate}
+  ${!b.players_ready?'<p class="fine">Player grades appear here once the game\'s stats post (usually by the next morning). You can grade the team and coaches now and come back for the players.</p>':''}</div>
+  ${['Team','Offense','Defense'].map(g=>{const it=b.items.filter(i=>i.group===g);if(!it.length)return'';return`<section class="pos-group"><h3>${g==='Team'?'Team &amp; coaches':g}</h3>${it.map(i=>{const had=mine[i.key],v=had||G.picks[i.key],a=av[i.key],off=!can||!!had;
+   return`<div class="gplayer${had?' graded':''}"><div class="gp-top"><span><b>${GE(i.label)}</b> <small>${i.pos?GE(i.pos)+' · ':''}${a?`Fans ${a.avg.toFixed(1)} (${a.n})`:'No fan grades yet'}</small></span><span class="gp-val ${v?'':'unset'}">${had?'Your grade '+had:v?v+'/10':'Not rated'}</span></div>
+   <div class="scale" role="radiogroup" aria-label="Grade ${GE(i.label)}">${[1,2,3,4,5,6,7,8,9,10].map(x=>`<button type="button" role="radio" aria-checked="${v===x}" class="${v===x?'on':''}" data-k="${GE(i.key)}" data-v="${x}" ${off?'disabled':''} style="${v===x?`background:${heat(2.4+x*0.66)};color:${cold(2.4+x*0.66)?'#fff':'#111'}`:''}">${x}</button>`).join('')}</div></div>`}).join('')}</section>`}).join('')}
+  ${can?`<div class="submit-bar"><span><b>${n}</b> new grade${n===1?'':'s'} ready${done?` · ${done} already counted`:''}<br><small>${msg?GE(msg):n?'Tap Submit to count them.':'Tap a number to grade a player.'}</small></span><button class="btn" type="button" id="ballot-submit" ${n&&!G.busy?'':'disabled'}>${G.busy?'Saving…':n?`Submit ${n} grade${n>1?'s':''}`:'Submit grades'}</button></div>`
+   :!me&&b.open?`<div class="submit-bar"><span>Sign in to grade<br><small>Your grades count toward the fan heat map.</small></span><a class="btn" href="#/forum/signin" onclick="${nextGrade(b.game_id)}">Sign in</a></div>`:''}`;}
+async function submitBallot(){const d=G.live;if(!d||!d.ballot||G.busy)return;const n=Object.keys(G.picks).length;if(!n)return;G.busy=true;renderBallot();
+ const r=await GAPI('grades/vote',{game_id:d.ballot.game_id,grades:G.picks});G.busy=false;
+ if(!r.ok){renderBallot(r.error||'That did not save. Please try again.');return;}
+ const y=scrollY;await loadLiveBallot();scrollTo(0,y);renderBallot(`Thanks! ${r.saved} grade${r.saved===1?'':'s'} counted.${r.skipped?' '+r.skipped+' were already graded.':''}`);}
+document.addEventListener('click',e=>{const t=e.target.closest('#grades-body .scale button');if(t&&!t.disabled){const k=t.dataset.k,v=+t.dataset.v;if(G.picks[k]===v)delete G.picks[k];else G.picks[k]=v;const y=scrollY;renderBallot();scrollTo(0,y);return;}
+ if(e.target.closest('#ballot-submit')){submitBallot();return;}
  if(e.target.closest('.ed-btn,.ed-modal'))return;
  const tl=e.target.closest('.tile');if(tl){G.sel=tl.dataset.name;renderHeat();document.getElementById('hm-detail')?.scrollIntoView({block:'nearest'});}
  const tg=e.target.closest('.toggle button');if(tg&&tg.dataset.hv){G.view=tg.dataset.hv;renderHeat();return;}if(tg){G.mode=tg.dataset.mode;G.sel=null;renderHeat();}});
@@ -97,9 +115,9 @@ async function setWeek(n,push){const ok=G.idx&&G.idx.find(w=>w.week===n);if(!ok)
 function weekPicker(){if(!G.idx||G.mode==='season')return'';return`<div class="hm-weeks" role="group" aria-label="Choose a game week"><span class="hm-weeks-lbl">Pick a game:</span>${G.idx.map(w=>`<button type="button" data-wk="${w.week}" class="${G.week&&G.week.week===w.week?'on':''}" aria-pressed="${G.week&&G.week.week===w.week}">${GE(wkLabel(w))}<small>${GE(w.score)}</small></button>`).join('')}</div>`;}
 document.addEventListener('click',e=>{const b=e.target.closest('.hm-weeks button[data-wk]');if(b)setWeek(+b.dataset.wk,true);});
 addEventListener('hashchange',()=>{const n=qWeek();if(n&&G.week&&n!==G.week.week)setWeek(n,false);});
-async function loadGrades(){try{G.ballot=await gj('data/grades/ballot.json');G.wkCache={};try{G.idx=(await gj('data/grades/index.json')).weeks;}catch(e){G.idx=null;}const qw=qWeek();const start=(G.idx&&qw&&G.idx.find(w=>w.week===qw))?qw:G.ballot.week;G.week=G.wkCache[start]=await gj(`data/grades/week-${start}.json`);G.ballotWeek=G.ballot.week===start?G.week:await gj(`data/grades/week-${G.ballot.week}.json`);G.season=await gj('data/grades/season.json');renderBallot();renderHeat();}catch(e){}}
+async function loadGrades(){loadLiveBallot();try{G.ballot=await gj('data/grades/ballot.json');G.wkCache={};try{G.idx=(await gj('data/grades/index.json')).weeks;}catch(e){G.idx=null;}const qw=qWeek();const start=(G.idx&&qw&&G.idx.find(w=>w.week===qw))?qw:G.ballot.week;G.week=G.wkCache[start]=await gj(`data/grades/week-${start}.json`);G.ballotWeek=G.ballot.week===start?G.week:await gj(`data/grades/week-${G.ballot.week}.json`);G.season=await gj('data/grades/season.json');renderHeat();}catch(e){}}
 loadGrades();
-document.addEventListener('route',e=>{if(e.detail==='heatmap'){requestAnimationFrame(renderHeat);renderBallot();}});
+document.addEventListener('route',e=>{if(e.detail==='heatmap'){requestAnimationFrame(renderHeat);loadLiveBallot();}});
 let rz;addEventListener('resize',()=>{clearTimeout(rz);rz=setTimeout(renderHeat,200);});
 
 // ---------- Owner Editor mode (UI toggle only; real security = private GitHub repo issues) ----------

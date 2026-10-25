@@ -1,8 +1,11 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-25T16:49:28+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T16:19:14+00:00._
+_Generated 2026-10-25T17:00:20+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T17:00:01+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Video: [DAT WAY‼️ 📺: NFLN](https://www.youtube.com/shorts/JM9lq50O3vc): Pittsburgh Steelers (official), 2026-10-25 16:35 UTC
+- Video: [Steelers Now Postgame: Steelers 16, Saints 10](https://www.youtube.com/watch?v=Jo2AvG_tHS4): Steelers Now, 2026-10-25 16:34 UTC
+- Video: [Steelers vs Saints Post Game Show IN PARIS LIVE | Not Just Football](https://www.youtube.com/watch?v=3cEWtad5nFI): Not Just Football with Cam Heyward, 2026-10-25 16:33 UTC
 - Video: [Picked by Payton‼️ 📺: NFLN](https://www.youtube.com/shorts/ra_a1PpysFo): Pittsburgh Steelers (official), 2026-10-25 15:42 UTC
 - Video: [HAPPY NATIONAL TE DAY DARNELL 😤 📺: NFLN](https://www.youtube.com/shorts/hrO-Nsseh4A): Pittsburgh Steelers (official), 2026-10-25 14:52 UTC
 - Video: [Showtime 🎬 📺: NFLN](https://www.youtube.com/shorts/Q07Pl7A_KYI): Pittsburgh Steelers (official), 2026-10-25 14:08 UTC
@@ -39,7 +42,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Santonio Holmes & Ryan Shazier live from Paris 🙌🇫🇷](https://www.youtube.com/shorts/3_gyHud9pTc): Pittsburgh Steelers (official), 2026-10-23 16:32 UTC
 - Video: [Freiermuth, Heyward, Metcalf, Queen, Watt & Warren Pressers (October 23) | Pittsburgh Steelers](https://www.youtube.com/watch?v=3xkRPHfnAD0): Pittsburgh Steelers (official), 2026-10-23 16:30 UTC
 - Podcast: [The Terrible Podcast — Steelers Vs Saints Game Preview, Joseph-Day To IR, Week 7 Picks, And More](https://podcasts.apple.com/us/podcast/the-terrible-podcast-steelers-vs-saints-game-preview/id405990739?i=1000797810229): The Terrible Podcast (Steelers Depot), 2026-10-23 16:13 UTC
-- Video: [Aaron Rodgers Press Conference (October 23) | Pittsburgh Steelers](https://www.youtube.com/watch?v=zPJEr9LZ9kE): Pittsburgh Steelers (official), 2026-10-23 16:00 UTC
 - Podcast: [Black & Gold Blueprint: Bucs Game Recap and New Orleans Saints Preview](https://podcasts.apple.com/us/podcast/black-gold-blueprint-bucs-game-recap-and-new-orleans/id905962218?i=1000797805954): Steel Curtain Network (BTSC), 2026-10-23 15:30 UTC
 - Podcast: [Steelers Have NO EXCUSES Against the Saints… Here’s Why #Steelers #NFL](https://podcasts.apple.com/us/podcast/steelers-have-no-excuses-against-the-saints-heres-why/id1623192893?i=1000797784376): The Steel City Insider (Jim Wexell, 247Sports), 2026-10-23 13:22 UTC
 - Podcast: [Steelers Travel Plans Keep Browns Game In Sight](https://podcasts.apple.com/us/podcast/steelers-travel-plans-keep-browns-game-in-sight/id1627248534?i=1000797780125): All Steelers Talk, 2026-10-23 12:32 UTC
@@ -81,11 +83,11 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [DK's Daily Shot of Steelers: Bienvenue à Paris!](https://podcasts.apple.com/us/podcast/dks-daily-shot-of-steelers-bienvenue-%C3%A0-paris/id1072021022?i=1000797584822): DK Pittsburgh Sports, 2026-10-22 05:18 UTC
 - Podcast: [Scout’s Eye with Matt Williamson: Concerning, but correctable](https://podcasts.apple.com/us/podcast/scouts-eye-with-matt-williamson-concerning-but/id1072021022?i=1000797568611): DK Pittsburgh Sports, 2026-10-22 05:15 UTC
 - Podcast: [Yinz Steel Believe: Are the Steelers Good Enough to Be Buyers at the Trade Deadline?](https://podcasts.apple.com/us/podcast/yinz-steel-believe-are-the-steelers-good-enough-to-be/id905962218?i=1000797805983): Steel Curtain Network (BTSC), 2026-10-22 02:45 UTC
+- Video: [STEELERS SQUAD SHOW: Steelers RUN all over Saints and Paris for 16-10 win](https://www.youtube.com/watch?v=dnrjjelOSeU): Locked On Steelers, 2026-10-22 01:39 UTC
 - Podcast: [STEELERS SQUAD SHOW: Offense MUST Improve as Jaylen Warren, Aaron Rodgers Prepare for Saints & Paris](https://podcasts.apple.com/us/podcast/steelers-squad-show-offense-must-improve-as-jaylen/id1140522532?i=1000797534707): Locked On Steelers, 2026-10-22 01:33 UTC
 - Podcast: [Steelers Night Shift: Week 7 vs. New Orleans Saints](https://podcasts.apple.com/us/podcast/steelers-night-shift-week-7-vs-new-orleans-saints/id1700240934?i=1000797530079): Steelers Afternoon Drive, 2026-10-22 00:37 UTC
 - Video: [Getting DK Metcalf Going? | Steelers Practice Report](https://www.youtube.com/watch?v=tOh3UND3O0A): Steelers Now, 2026-10-21 23:25 UTC
 - Podcast: [DK’s Double Shot of Steelers: Almost Paris!](https://podcasts.apple.com/us/podcast/dks-double-shot-of-steelers-almost-paris/id1072021022?i=1000797519495): DK Pittsburgh Sports, 2026-10-21 22:10 UTC
-- Video: [Can MVS Play Right Away? | Steelers Afternoon Drive](https://www.youtube.com/watch?v=HGSOYSj-8n0): Steelers Now, 2026-10-21 22:04 UTC
 - Podcast: [Can MVS Play Right Away? | Steelers Afternoon Drive](https://podcasts.apple.com/us/podcast/can-mvs-play-right-away-steelers-afternoon-drive/id1700240934?i=1000797512443): Steelers Afternoon Drive, 2026-10-21 22:03 UTC
 - Podcast: [Steelers Release Veteran DB | Chris Godwin Trade?](https://podcasts.apple.com/us/podcast/steelers-release-veteran-db-chris-godwin-trade/id1627248534?i=1000797510053): All Steelers Talk, 2026-10-21 21:45 UTC
 - Podcast: [The Terrible Take - Episode 2057 - October 21, 2026](https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2057-october-21-2026/id405990739?i=1000797504059): The Terrible Podcast (Steelers Depot), 2026-10-21 21:00 UTC

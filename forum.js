@@ -267,7 +267,7 @@ function wireDob(){const dd=$('f-bd'),yy=$('f-by'),mm=$('f-bm'),er=$('f-berr');i
 async function fmLeft(){const b=$('fx-fmleft');if(!b)return;const d=await api('founding');if(!d.ok||!b.isConnected||!(d.total>0))return;
  b.innerHTML=d.left>0?`<b>${d.left} of ${d.total}</b> Founding Member spots left. The first ${d.total} forum members get a permanent Founding Member badge next to their name.`:`All ${d.total} Founding Member spots have been claimed. Thanks for joining!`;b.hidden=false;}
 function goNext(){const n=sessionStorage.getItem('bgd_next')||'';sessionStorage.removeItem('bgd_next');
- location.hash=n==='mock'?'#/forum/new?mock=1':n==='new'?'#/forum/new':n.startsWith('new:')?'#/forum/new?cat='+encodeURIComponent(n.slice(4)):n.startsWith('grade')?'#/forum/'+n.replace(':','/'):n.startsWith('thread')?'#/forum/'+n.replace(':','/'):n==='pickem'||n==='trivia'?'#/forum/'+n:n==='live'?'#/live':'#/forum';}
+ location.hash=n==='grades'?'#/grades':n==='mock'?'#/forum/new?mock=1':n==='new'?'#/forum/new':n.startsWith('new:')?'#/forum/new?cat='+encodeURIComponent(n.slice(4)):n.startsWith('grade')?'#/forum/'+n.replace(':','/'):n.startsWith('thread')?'#/forum/'+n.replace(':','/'):n==='pickem'||n==='trivia'?'#/forum/'+n:n==='live'?'#/live':'#/forum';}
 function needSignIn(next){sessionStorage.setItem('bgd_next',next);location.hash='#/forum/join';}
 
 async function claimView(el,tok){
@@ -413,15 +413,25 @@ async function gradeView(el,gid){el.innerHTML='<p class="empty">Loading ballot�
  S.me=d.me;const b=d.ballot,mine={};d.mine.forEach(x=>mine[x.item]=x.grade);const av=d.averages.items;
  const groups=['Team','Offense','Defense'];const done=Object.keys(mine).length;
  el.innerHTML=`<p><a class="back" href="#/forum/gameday">← Game Day</a></p><div class="fx-grade"><h2 style="margin:0">Grade the Team</h2><p style="margin:4px 0"><b>${E(b.label)}</b></p>
- <p class="fine">${b.open?`Open until ${E(etTime(b.closes))}`:b.final_at?'Grading has closed for this game.':'Grading opens at the final whistle.'} · ${d.averages.voters} fan${d.averages.voters===1?'':'s'} have graded so far. Slide 1 (awful) to 10 (elite). Only the sliders you move are counted, and each grade can be cast once.</p>
+ <p class="fine">${b.open?`Open until ${E(etTime(b.closes))}`:b.final_at?'Grading has closed for this game.':'Grading opens at the final whistle.'} · ${d.averages.voters} fan${d.averages.voters===1?'':'s'} have graded so far. Tap or slide each bar, 1 (awful) to 10 (elite). Only the players you tap or slide are counted, and each grade can be cast once.</p>
  ${!b.players_ready?'<p class="box">Player grades appear here once the game\'s stats post (usually by the next morning). You can grade the team and coaches now and come back for the players.</p>':''}
  ${!S.me&&b.open?`<a class="fx-btn" href="#/forum/join" onclick="sessionStorage.setItem('bgd_next','grade:${E(b.game_id)}')" style="width:100%">Join free to vote</a>`:''}</div>
  <form id="fx-ballot">${groups.map(g=>{const it=b.items.filter(i=>i.group===g);if(!it.length)return'';return`<div class="fx-grade"><h3 style="margin:0 0 4px">${g}</h3>${it.map(i=>{const v=mine[i.key];const a=av[i.key];
   return`<div class="fx-gi${v?' done set':''}" data-k="${E(i.key)}"><span class="l"><b>${E(i.label)}</b><small>${i.pos?E(i.pos)+' · ':''}${i.ours!=null?'Our grade '+Number(i.ours).toFixed(1)+' · ':''}${a?`Fans ${a.avg.toFixed(1)} (${a.n})`:'No fan grades yet'}${v?' · your grade '+v:''}</small></span><output>${v||'–'}</output>
   <input type="range" min="1" max="10" step="1" value="${v||6}" aria-label="Grade ${E(i.label)} from 1 to 10" ${v||!b.open||!S.me?'disabled':''}></div>`;}).join('')}</div>`;}).join('')}
- ${b.open&&S.me?`<div class="fx-sum"><span id="fx-cnt">${done?done+' already graded':'Move a slider to grade'}</span><button class="fx-btn" type="submit" id="fx-sub" disabled>Submit grades</button></div>`:''}</form>`;
+ ${b.open&&S.me?`<div class="fx-sum"><span id="fx-cnt">${done?done+' already graded':'Tap or slide a bar to grade'}</span><button class="fx-btn" type="submit" id="fx-sub" disabled>Submit grades</button></div>`:''}</form>`;
  const f=$('fx-ballot');const touched={};const upd=()=>{const n=Object.keys(touched).length;const s=$('fx-sub');if(s){s.disabled=!n;s.textContent=n?`Submit ${n} grade${n>1?'s':''}`:'Submit grades';}};
- f.querySelectorAll('input[type=range]').forEach(r=>{const row=r.closest('.fx-gi');r.addEventListener('input',()=>{touched[row.dataset.k]=+r.value;row.classList.add('set');row.querySelector('output').textContent=r.value;upd();});});
+ // A grade counts as soon as the fan drags OR taps a slider, even at its starting 6 (iPhone/iPad Safari fires no 'input' for a tap,
+ // and doesn't move the thumb when you tap the track, so a tap jumps the slider to the tapped spot). A vertical swipe is a scroll, not a grade.
+ f.querySelectorAll('input[type=range]').forEach(r=>{const row=r.closest('.fx-gi');const mark=()=>{if(r.disabled)return;touched[row.dataset.k]=+r.value;row.classList.add('set');row.querySelector('output').textContent=r.value;upd();};
+  const at=x=>{const rc=r.getBoundingClientRect();return Math.max(1,Math.min(10,Math.round(1+(x-rc.left-12)/Math.max(1,rc.width-24)*9)));};let sx=null,sy=null,moved=false,inp=false;
+  r.addEventListener('input',()=>{inp=true;mark();});r.addEventListener('change',mark);
+  r.addEventListener('touchstart',e=>{const t=e.touches[0];sx=t.clientX;sy=t.clientY;moved=false;inp=false;},{passive:true});
+  r.addEventListener('touchmove',e=>{const t=e.touches[0];if(sx!=null&&Math.abs(t.clientX-sx)>6)moved=true;},{passive:true});
+  r.addEventListener('touchend',e=>{if(sx==null)return;const t=e.changedTouches[0];const dx=Math.abs(t.clientX-sx),dy=Math.abs(t.clientY-sy);sx=null;
+   if(dy>14&&dy>dx)return;if(!moved&&!inp&&dx<=6)r.value=at(t.clientX);mark();});
+  r.addEventListener('pointerup',e=>{if(e.pointerType!=='touch')mark();});
+  r.addEventListener('keyup',e=>{if(/Arrow|Home|End|Page| |Enter/.test(e.key))mark();});});
  f.onsubmit=async e=>{e.preventDefault();const s=$('fx-sub');s.disabled=true;const r=await api('grades/vote',{body:{game_id:b.game_id,grades:touched}});
   if(!r.ok){toast(r.error);s.disabled=false;return;}toast(`Thanks! ${r.saved} grade${r.saved===1?'':'s'} counted.${r.skipped?' '+r.skipped+' were already graded.':''}`);gradeView(el,b.game_id);};}
 

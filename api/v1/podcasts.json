@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-25T16:49:28+00:00",
- "data_updated": "2026-10-25T16:19:14+00:00",
- "count": 122,
+ "generated": "2026-10-25T17:00:20+00:00",
+ "data_updated": "2026-10-25T17:00:01+00:00",
+ "count": 124,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -19,6 +19,45 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/podcasts",
  "items": [
+  {
+   "id": "f300cf12e0fa67ca",
+   "type": "video",
+   "title": "DAT WAY‼️ 📺: NFLN",
+   "show": "Pittsburgh Steelers (official)",
+   "url": "https://www.youtube.com/shorts/JM9lq50O3vc",
+   "published": "2026-10-25T16:35:26+00:00",
+   "summary": "Video from Pittsburgh Steelers (official).",
+   "source": {
+    "name": "Pittsburgh Steelers (official)",
+    "url": null
+   }
+  },
+  {
+   "id": "731922d6a7729ff1",
+   "type": "video",
+   "title": "Steelers Now Postgame: Steelers 16, Saints 10",
+   "show": "Steelers Now",
+   "url": "https://www.youtube.com/watch?v=Jo2AvG_tHS4",
+   "published": "2026-10-25T16:34:33+00:00",
+   "summary": "Video from Steelers Now.",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   }
+  },
+  {
+   "id": "39bf3b619904b8a6",
+   "type": "video",
+   "title": "Steelers vs Saints Post Game Show IN PARIS LIVE | Not Just Football",
+   "show": "Not Just Football with Cam Heyward",
+   "url": "https://www.youtube.com/watch?v=3cEWtad5nFI",
+   "published": "2026-10-25T16:33:12+00:00",
+   "summary": "Video from Not Just Football with Cam Heyward.",
+   "source": {
+    "name": "Not Just Football with Cam Heyward",
+    "url": null
+   }
+  },
   {
    "id": "77bb254b6aaaca51",
    "type": "video",
@@ -484,19 +523,6 @@
    "summary": "Podcast episode from The Terrible Podcast (Steelers Depot).",
    "source": {
     "name": "The Terrible Podcast (Steelers Depot)",
-    "url": null
-   }
-  },
-  {
-   "id": "855f186e8a5ec7ce",
-   "type": "video",
-   "title": "Aaron Rodgers Press Conference (October 23) | Pittsburgh Steelers",
-   "show": "Pittsburgh Steelers (official)",
-   "url": "https://www.youtube.com/watch?v=zPJEr9LZ9kE",
-   "published": "2026-10-23T16:00:03+00:00",
-   "summary": "Video from Pittsburgh Steelers (official).",
-   "source": {
-    "name": "Pittsburgh Steelers (official)",
     "url": null
    }
   },
@@ -1034,6 +1060,19 @@
    }
   },
   {
+   "id": "49f2b5175ccf8998",
+   "type": "video",
+   "title": "STEELERS SQUAD SHOW: Steelers RUN all over Saints and Paris for 16-10 win",
+   "show": "Locked On Steelers",
+   "url": "https://www.youtube.com/watch?v=dnrjjelOSeU",
+   "published": "2026-10-22T01:39:59+00:00",
+   "summary": "Video from Locked On Steelers.",
+   "source": {
+    "name": "Locked On Steelers",
+    "url": null
+   }
+  },
+  {
    "id": "7c00b90a2de55c62",
    "type": "podcast_episode",
    "title": "STEELERS SQUAD SHOW: Offense MUST Improve as Jaylen Warren, Aaron Rodgers Prepare for Saints & Paris",
@@ -1082,19 +1121,6 @@
    "summary": "Podcast episode from DK Pittsburgh Sports.",
    "source": {
     "name": "DK Pittsburgh Sports",
-    "url": null
-   }
-  },
-  {
-   "id": "8e28991f1295f2bb",
-   "type": "video",
-   "title": "Can MVS Play Right Away? | Steelers Afternoon Drive",
-   "show": "Steelers Now",
-   "url": "https://www.youtube.com/watch?v=HGSOYSj-8n0",
-   "published": "2026-10-21T22:04:51+00:00",
-   "summary": "Video from Steelers Now.",
-   "source": {
-    "name": "Steelers Now",
     "url": null
    }
   },
