@@ -1,28 +1,28 @@
 {
- "generated": "2026-10-25T17:26:08.708153+00:00",
- "game_id": "2026_07_PIT_NO",
+ "generated": "2026-10-25T17:36:59.919164+00:00",
+ "game_id": "2026_08_CLE_PIT",
  "game": {
-  "id": "401873011",
-  "nflverse_id": "2026_07_PIT_NO",
-  "date": "2026-10-25T13:30Z",
-  "week": "Week 7",
-  "week_num": 7,
-  "home": false,
-  "opponent": "New Orleans Saints",
-  "opp_abbr": "NO",
+  "id": "401873027",
+  "nflverse_id": "2026_08_CLE_PIT",
+  "date": "2026-11-01T18:00Z",
+  "week": "Week 8",
+  "week_num": 8,
+  "home": true,
+  "opponent": "Cleveland Browns",
+  "opp_abbr": "CLE",
   "status": "STATUS_SCHEDULED",
   "completed": false,
   "result": null,
   "score": null,
   "pit_score": "",
   "opp_score": "",
-  "venue": "Stade de France",
+  "venue": "Acrisure Stadium",
   "tv": null,
   "season_type": "REG"
  },
- "opp": "NO",
- "opp_name": "New Orleans Saints",
- "opp_nick": "Saints",
+ "opp": "CLE",
+ "opp_name": "Cleveland Browns",
+ "opp_nick": "Browns",
  "games_played": {
   "PIT": 6,
   "opp": 6
@@ -37,8 +37,8 @@
    "group": "Offense",
    "pit": 22.8,
    "pit_rank": 18,
-   "opp": 25.3,
-   "opp_rank": 11
+   "opp": 17.7,
+   "opp_rank": 28
   },
   {
    "label": "Total Yards",
@@ -48,8 +48,8 @@
    "group": "Offense",
    "pit": 320.5,
    "pit_rank": 21,
-   "opp": 321.5,
-   "opp_rank": 20
+   "opp": 267.5,
+   "opp_rank": 29
   },
   {
    "label": "Yards Passing",
@@ -59,8 +59,8 @@
    "group": "Offense",
    "pit": 221.3,
    "pit_rank": 18,
-   "opp": 224.2,
-   "opp_rank": 17
+   "opp": 173.5,
+   "opp_rank": 25
   },
   {
    "label": "Yards Rushing",
@@ -70,8 +70,8 @@
    "group": "Offense",
    "pit": 99.2,
    "pit_rank": 20,
-   "opp": 97.3,
-   "opp_rank": 21
+   "opp": 94.0,
+   "opp_rank": 24
   },
   {
    "label": "Points Allowed Per Game",
@@ -81,8 +81,8 @@
    "group": "Defense",
    "pit": 21.3,
    "pit_rank": 12,
-   "opp": 29.7,
-   "opp_rank": 31
+   "opp": 20.3,
+   "opp_rank": 5
   },
   {
    "label": "Yards Allowed",
@@ -92,8 +92,8 @@
    "group": "Defense",
    "pit": 307.5,
    "pit_rank": 7,
-   "opp": 377.7,
-   "opp_rank": 29
+   "opp": 317.5,
+   "opp_rank": 13
   },
   {
    "label": "Pass Yards Allowed",
@@ -103,8 +103,8 @@
    "group": "Defense",
    "pit": 204.3,
    "pit_rank": 7,
-   "opp": 239.7,
-   "opp_rank": 25
+   "opp": 205.2,
+   "opp_rank": 8
   },
   {
    "label": "Rush Yards Allowed",
@@ -114,8 +114,8 @@
    "group": "Defense",
    "pit": 103.2,
    "pit_rank": 14,
-   "opp": 138.0,
-   "opp_rank": 30
+   "opp": 112.3,
+   "opp_rank": 17
   },
   {
    "label": "Yards Per Play",
@@ -125,8 +125,8 @@
    "group": "Offense",
    "pit": 5.01,
    "pit_rank": 21,
-   "opp": 4.8,
-   "opp_rank": 23
+   "opp": 4.53,
+   "opp_rank": 29
   },
   {
    "label": "Yards Per Carry",
@@ -136,8 +136,8 @@
    "group": "Offense",
    "pit": 4.58,
    "pit_rank": 8,
-   "opp": 3.79,
-   "opp_rank": 21
+   "opp": 3.64,
+   "opp_rank": 26
   },
   {
    "label": "Sacks Allowed Per Game",
@@ -147,8 +147,8 @@
    "group": "Offense",
    "pit": 3.17,
    "pit_rank": 28,
-   "opp": 2.17,
-   "opp_rank": 13
+   "opp": 4.0,
+   "opp_rank": 32
   },
   {
    "label": "Turnovers Per Game",
@@ -158,8 +158,8 @@
    "group": "Offense",
    "pit": 1.17,
    "pit_rank": 14,
-   "opp": 2.0,
-   "opp_rank": 28
+   "opp": 1.17,
+   "opp_rank": 14
   },
   {
    "label": "Yards Per Play Allowed",
@@ -169,8 +169,8 @@
    "group": "Defense",
    "pit": 4.99,
    "pit_rank": 8,
-   "opp": 5.84,
-   "opp_rank": 27
+   "opp": 5.03,
+   "opp_rank": 10
   },
   {
    "label": "Yards Per Carry Allowed",
@@ -180,8 +180,8 @@
    "group": "Defense",
    "pit": 4.05,
    "pit_rank": 18,
-   "opp": 4.79,
-   "opp_rank": 28
+   "opp": 4.38,
+   "opp_rank": 22
   },
   {
    "label": "Sacks Per Game",
@@ -191,8 +191,8 @@
    "group": "Defense",
    "pit": 2.67,
    "pit_rank": 9,
-   "opp": 2.5,
-   "opp_rank": 12
+   "opp": 3.17,
+   "opp_rank": 4
   },
   {
    "label": "Takeaways Per Game",
@@ -202,8 +202,8 @@
    "group": "Defense",
    "pit": 1.67,
    "pit_rank": 5,
-   "opp": 1.5,
-   "opp_rank": 10
+   "opp": 1.17,
+   "opp_rank": 19
   },
   {
    "label": "Turnover Margin",
@@ -213,8 +213,8 @@
    "group": "Other",
    "pit": 3.0,
    "pit_rank": 9,
-   "opp": -3.0,
-   "opp_rank": 22
+   "opp": 0.0,
+   "opp_rank": 17
   },
   {
    "label": "Penalty Yards Per Game",
@@ -224,227 +224,69 @@
    "group": "Other",
    "pit": 51.7,
    "pit_rank": 8,
-   "opp": 44.3,
-   "opp_rank": 2
+   "opp": 62.0,
+   "opp_rank": 16
   }
  ],
  "keys": [
   {
-   "id": "ball",
-   "title": "Win the turnover battle",
-   "why": "Pittsburgh takes the ball away 1.67 times a game (5th); the Saints give it away 2.00 times (28th). Extra possessions could decide it.",
+   "id": "rush_qb",
+   "title": "Get after the quarterback",
+   "why": "The Steelers average 2.67 sacks a game (9th) and the Browns have allowed 4.00 (32nd). Early pressure can force mistakes.",
    "score": 56
   },
   {
    "id": "protect",
    "title": "Keep the quarterback clean",
-   "why": "The Saints average 2.50 sacks a game (12th); Pittsburgh allows 3.17 (28th). Quick throws and solid protection matter.",
-   "score": 45
+   "why": "The Browns average 3.17 sacks a game (4th); Pittsburgh allows 3.17 (28th). Quick throws and solid protection matter.",
+   "score": 53
   },
   {
-   "id": "run",
-   "title": "Lean on the run game",
-   "why": "Pittsburgh runs for 99.2 yards a game (20th), and the Saints give up 138.0 on the ground (30th). Staying with the run keeps the offense on schedule.",
-   "score": 43
+   "id": "ball",
+   "title": "Win the turnover battle",
+   "why": "Pittsburgh takes the ball away 1.67 times a game (5th); the Browns give it away 1.17 times (14th). Extra possessions could decide it.",
+   "score": 42
   }
  ],
  "matchups": [
   {
-   "score": 30.333333333333336,
-   "title": "Jaylen Warren vs. the Saints' run defense",
+   "score": 23.833333333333336,
+   "title": "Jaylen Warren vs. the Browns' run defense",
    "why": "Jaylen Warren carries the Steelers' ground game into a run defense that has had its problems.",
    "stats": [
     "Jaylen Warren: 84 carries, 460 yds (5.5 per carry)",
-    "NO allows 138.0 rush yds/game (30th), 4.79 per carry"
+    "CLE allows 112.3 rush yds/game (17th), 4.38 per carry"
    ]
   },
   {
-   "score": 25.53333333333333,
-   "title": "Chris Olave vs. the Steelers' secondary",
-   "why": "Chris Olave is the Saints' go-to target; slowing him down is job one for the back end.",
+   "score": 21.5,
+   "title": "T.J. Watt vs. the Browns' pass protection",
+   "why": "If Watt wins his matchups, the Browns offense stalls.",
    "stats": [
-    "Chris Olave: 43 catches, 580 yds, 2 TD (2nd in rec yds among WR/TE)",
-    "PIT allows 204.3 pass yds/game (7th)"
+    "T.J. Watt: 4.5 sacks (8th in NFL)",
+    "CLE allows 4.00 sacks/game (32nd)"
    ]
   },
   {
-   "score": 23.5,
-   "title": "Chase Young vs. the Steelers' offensive line",
-   "why": "Chase Young is the Saints' top pass rusher; Pittsburgh's line has to keep him away from the quarterback.",
+   "score": 19.0,
+   "title": "Mason Graham vs. the Steelers' offensive line",
+   "why": "Mason Graham is the Browns' top pass rusher; Pittsburgh's line has to keep him away from the quarterback.",
    "stats": [
-    "Chase Young: 5.5 sacks (3rd in NFL), 9 QB hits",
+    "Mason Graham: 4 sacks (10th in NFL), 5 QB hits",
     "PIT allows 3.17 sacks/game (28th)"
    ]
   }
  ],
  "picks": {
-  "checked": "2026-10-25T14:04:01.664902+00:00",
-  "items": [
-   {
-    "name": "Eric Moody",
-    "winner": "NO",
-    "score": "24-21",
-    "outlet": "ESPN",
-    "link": "https://www.espn.com/nfl/story/_/id/50229521/week-7-picks-predictions-schedule-fantasy-odds-2026",
-    "published": "2026-10-23T10:00:00+00:00",
-    "kind": "article",
-    "team": "New Orleans Saints"
-   },
-   {
-    "name": "Seth Walder",
-    "winner": "PIT",
-    "score": "23-22",
-    "outlet": "ESPN",
-    "link": "https://www.espn.com/nfl/story/_/id/50229521/week-7-picks-predictions-schedule-fantasy-odds-2026",
-    "published": "2026-10-23T10:00:00+00:00",
-    "kind": "article",
-    "team": "Pittsburgh Steelers"
-   },
-   {
-    "name": "Tina Howell",
-    "winner": "NO",
-    "score": "31-27",
-    "outlet": "Yahoo Sports",
-    "link": "https://sports.yahoo.com/articles/saints-vs-steelers-prediction-bonjour-130000064.html",
-    "published": "2026-10-23T13:00:00+00:00",
-    "kind": "article",
-    "team": "New Orleans Saints"
-   },
-   {
-    "name": "Ryan Pawloski",
-    "winner": "NO",
-    "score": "21-18",
-    "outlet": "Yahoo Sports",
-    "link": "https://sports.yahoo.com/articles/steelers-vs-saints-picks-still-110006742.html",
-    "published": "2026-10-24T11:00:06+00:00",
-    "kind": "article",
-    "team": "New Orleans Saints"
-   },
-   {
-    "name": "Joe Jensen",
-    "winner": "PIT",
-    "score": "26-19",
-    "outlet": "Predictem",
-    "link": "https://www.predictem.com/nfl/steelers-vs-saints-prediction-picks-paris-week-7-odds/",
-    "published": "2026-10-21T13:37:42+00:00",
-    "kind": "article",
-    "team": "Pittsburgh Steelers"
-   }
-  ],
-  "items_all": [
-   {
-    "name": "Joe Jensen",
-    "winner": "PIT",
-    "score": "26-19",
-    "outlet": "Predictem",
-    "link": "https://www.predictem.com/nfl/steelers-vs-saints-prediction-picks-paris-week-7-odds/",
-    "published": "2026-10-21T13:37:42+00:00",
-    "kind": "article",
-    "team": "Pittsburgh Steelers"
-   },
-   {
-    "name": "Jeff Hartman",
-    "winner": "PIT",
-    "score": "31-20",
-    "outlet": "Steel Curtain Network",
-    "link": "https://www.steelcurtainnetwork.com/2026-steelers-preview-week-7-vs-the-new-orleans-saints/",
-    "published": "2026-10-22T15:04:28+00:00",
-    "kind": "article",
-    "team": "Pittsburgh Steelers"
-   },
-   {
-    "name": "Cappers Picks AI",
-    "winner": "PIT",
-    "score": "27-20",
-    "outlet": "Sports Cappers Picks",
-    "link": "https://www.capperspicks.com/free-picks/ai/pittsburgh-steelers-at-new-orleans-saints-pick-nfl-prediction-preview-odds-10-25-2026/",
-    "published": "2026-10-22T07:40:10+00:00",
-    "kind": "article",
-    "team": "Pittsburgh Steelers"
-   },
-   {
-    "name": "Maldonado Maldonado",
-    "winner": "PIT",
-    "score": "27-20",
-    "outlet": "ESPN",
-    "link": "https://www.espn.com/nfl/story/_/id/50229521/week-7-picks-predictions-schedule-fantasy-odds-2026",
-    "published": "2026-10-23T10:00:00+00:00",
-    "kind": "article"
-   },
-   {
-    "name": "Eric Moody",
-    "winner": "NO",
-    "score": "24-21",
-    "outlet": "ESPN",
-    "link": "https://www.espn.com/nfl/story/_/id/50229521/week-7-picks-predictions-schedule-fantasy-odds-2026",
-    "published": "2026-10-23T10:00:00+00:00",
-    "kind": "article",
-    "team": "New Orleans Saints"
-   },
-   {
-    "name": "Seth Walder",
-    "winner": "PIT",
-    "score": "23-22",
-    "outlet": "ESPN",
-    "link": "https://www.espn.com/nfl/story/_/id/50229521/week-7-picks-predictions-schedule-fantasy-odds-2026",
-    "published": "2026-10-23T10:00:00+00:00",
-    "kind": "article",
-    "team": "Pittsburgh Steelers"
-   },
-   {
-    "name": "Tina Howell",
-    "winner": "NO",
-    "score": "31-27",
-    "outlet": "Yahoo Sports",
-    "link": "https://sports.yahoo.com/articles/saints-vs-steelers-prediction-bonjour-130000064.html",
-    "published": "2026-10-23T13:00:00+00:00",
-    "kind": "article",
-    "team": "New Orleans Saints"
-   },
-   {
-    "name": "Tina Howell",
-    "winner": "NO",
-    "score": "31-27",
-    "outlet": "Canal Street Chronicles",
-    "link": "https://www.canalstreetchronicles.com/new-orleans-saints-odds/116898/saints-vs-steelers-predictions-week-7-picks",
-    "published": "2026-10-23T13:00:00+00:00",
-    "kind": "article"
-   },
-   {
-    "name": "Ryan Pawloski",
-    "winner": "NO",
-    "score": "21-18",
-    "outlet": "Still Curtain",
-    "link": "https://stillcurtain.com/pittsburgh-steelers-vs-saints-picks-still-curtain-panel-predicts-an-uphill-battle-01m5a27wa79q",
-    "published": "2026-10-24T11:00:02+00:00",
-    "kind": "article"
-   },
-   {
-    "name": "Ryan Pawloski",
-    "winner": "NO",
-    "score": "21-18",
-    "outlet": "Yahoo Sports",
-    "link": "https://sports.yahoo.com/articles/steelers-vs-saints-picks-still-110006742.html",
-    "published": "2026-10-24T11:00:06+00:00",
-    "kind": "article",
-    "team": "New Orleans Saints"
-   },
-   {
-    "name": "Andrew Hughes",
-    "winner": "PIT",
-    "score": "5-0",
-    "outlet": "Yahoo Sports",
-    "link": "https://sports.yahoo.com/articles/nfl-experts-steelers-over-saints-091500654.html",
-    "published": "2026-10-25T09:15:00+00:00",
-    "kind": "article"
-   }
-  ],
+  "checked": "2026-10-25T17:35:57.384775+00:00",
+  "items": [],
+  "items_all": [],
   "cbs_consensus": {
    "outlet": "CBS Sports experts",
-   "link": "https://www.cbssports.com/nfl/picks/experts/straight-up/7/",
+   "link": "https://www.cbssports.com/nfl/picks/experts/straight-up/8/",
    "link_only": true
   },
-  "searched": 68
+  "searched": 0
  },
  "source": "Data: nflverse (CC-BY 4.0)",
  "source_url": "https://github.com/nflverse/nflverse-data",

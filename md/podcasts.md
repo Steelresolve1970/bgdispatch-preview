@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-25T17:26:21+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T17:26:00+00:00._
+_Generated 2026-10-25T17:37:09+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T17:36:52+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [DAT WAY‼️ 📺: NFLN](https://www.youtube.com/shorts/JM9lq50O3vc): Pittsburgh Steelers (official), 2026-10-25 16:35 UTC
