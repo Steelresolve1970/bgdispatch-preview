@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-25T20:49:09+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T20:48:48+00:00._
+_Generated 2026-10-25T21:08:44+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T21:08:24+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Coach McCarthy & Players Postgame Press Conference (Week 7 at Saints)](https://www.youtube.com/watch?v=AZSrBqY3onk): Pittsburgh Steelers (official), 2026-10-25 19:48 UTC
@@ -123,7 +123,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [How The Steelers Survived Three Quarters Of Stalled Offense Ep 144](https://podcasts.apple.com/us/podcast/how-the-steelers-survived-three-quarters-of/id1648793385?i=1000797333266): Footbahlin with Ben Roethlisberger, 2026-10-20 22:00 UTC
 - Video: [The Steelers Need to Run the Ball on Third Down More Often 🚨 #steelers #nfl](https://www.youtube.com/shorts/nyEwZLT3nXM): Locked On Steelers, 2026-10-20 21:29 UTC
 - Podcast: [Steelers Not Done With WR Moves?](https://podcasts.apple.com/us/podcast/steelers-not-done-with-wr-moves/id1627248534?i=1000797329590): All Steelers Talk, 2026-10-20 21:17 UTC
-- Podcast: [The Terrible Take - Episode 2056 - October 20, 2026](https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2056-october-20-2026/id405990739?i=1000797326238): The Terrible Podcast (Steelers Depot), 2026-10-20 21:00 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

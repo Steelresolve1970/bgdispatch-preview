@@ -1,17 +1,22 @@
 # Steelers News
 
-_Generated 2026-10-25T20:49:09+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T20:48:31+00:00._
+_Generated 2026-10-25T21:08:44+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T21:08:04+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
-- [Our reporters make sense of Sunday's games: Steelers win NFL's first game in France](https://www.espn.com/nfl/story/_/id/50239544/week-7-sunday-games-takeaways-questions-2026): ESPN, 2026-10-25 21:37 UTC
+- [Steelers' Cameron Heyward Knows One Painful Chance Slipped Away In Paris](https://www.steelernation.com/2026/10/25/steelers-cameron-heyward-painful-chance-paris): SteelerNation, 2026-10-25 21:04 UTC
+- [‘Definitely An Advantage’: McCarthy Gives ‘Credit’ To Steelers’ Fan Support In Paris](https://steelersdepot.com/2026/10/definitely-an-advantage-mccarthy-gives-credit-to-steelers-fan-support-in-paris/): Steelers Depot, 2026-10-25 21:00 UTC
+- [Steelers notebook: Payton Wilson, Patrick Queen step up with huge plays](https://www.post-gazette.com/sports/steelers/2026/10/25/payton-wilson-patrick-queen-nfl-steelers-paris-france/stories/202610250083): Pittsburgh Post-Gazette, 2026-10-25 20:48 UTC
 - [AFC North Week 7 Standings: Ravens’ Second-Half Choke Job Tightens Division Race](https://steelersdepot.com/2026/10/afc-north-week-7-standings-ravens-second-half-choke-job-tightens-division-race/): Steelers Depot, 2026-10-25 20:45 UTC
+- [Steelers win in Paris, but Rodgers says work remains](https://www.lehighvalleylive.com/sports/2026/10/steelers-won-in-paris-but-aaron-rodgers-saw-a-problem.html): lehighvalleylive, 2026-10-25 20:32 UTC
 - [Steelers Open As Favorites In Browns Rematch](https://steelersdepot.com/2026/10/steelers-open-as-favorites-in-browns-rematch/): Steelers Depot, 2026-10-25 20:27 UTC
+- [Aaron Rodgers risks Pittsburgh Steelers wrath after admission on international games](https://www.aol.com/articles/aaron-rodgers-risks-pittsburgh-steelers-202407000.html): AOL.com, 2026-10-25 20:24 UTC
 - [Rodgers now alone with 3rd-most TD passes as Steelers win 1st Paris game](https://www.espn.com/nfl/story/_/id/50277960/rodgers-throws-historic-td-pass-steelers-win-1st-paris-game): ESPN, 2026-10-25 20:23 UTC
 - [Noah Hiles: The Steelers — and their fans — made the first Paris game a win for the NFL](https://www.post-gazette.com/sports/steelers/2026/10/25/steelers-saints-paris-game/stories/202610250085): Pittsburgh Post-Gazette, 2026-10-25 20:15 UTC
 - [Steelers' Aaron Rodgers Takes Blame For Pre-Snap Failure: "I Totally Spaced Out"](https://www.steelernation.com/2026/10/25/steelers-aaron-rodgers-blame-failure): SteelerNation, 2026-10-25 20:15 UTC
 - [Kurt Warner Addresses Major Gaffe During Steelers Win vs. Saints](https://steelersnow.com/kurt-warner-addresses-major-gaffe-during-steelers-win-vs-saints/): Steelers Now, 2026-10-25 20:14 UTC
 - [Protests in France Did Not Overshadow Steelers-Saints Game: ‘It’s a Beautiful Country’](https://steelersnow.com/protests-in-france-did-not-overshadow-steelers-saints-game-its-a-beautiful-country/): Steelers Now, 2026-10-25 20:08 UTC
 - [Batko's Quick 6: Steelers vs. Saints](https://www.steelers.com/news/batko-s-quick-6-steelers-vs-saints): Steelers.com (official), 2026-10-25 20:00 UTC
+- [Paris game played in festive atmosphere after fresh demonstrations](https://www.reuters.com/sports/paris-game-set-kick-off-calm-atmosphere-after-fresh-demonstrations-2026-10-25/): Reuters, 2026-10-25 19:54 UTC
 - [‘Played A Really Good Game’: Saints LB Describes One ‘Advantage’ Aaron Rodgers Had On Sunday](https://steelersdepot.com/2026/10/played-a-really-good-game-saints-lb-describes-one-advantage-aaron-rodgers-had-on-sunday/): Steelers Depot, 2026-10-25 19:45 UTC
 - [Kurt Warner Addresses Controversial Comment Towards The Steelers During Paris Broadcast](https://www.steelernation.com/2026/10/25/steelers-kurt-warner-controversial-paris): SteelerNation, 2026-10-25 19:41 UTC
 - [Saints rush for just 18 yards in 16-10 loss to Steelers to spoil their Paris week](https://www.bozemandailychronicle.com/wire/sports/saints-rush-for-just-18-yards-in-16-10-loss-to-steelers-to-spoil-their/article_1be69f82-b308-50fd-9cb5-a18e0e324e09.html): Bozeman Daily Chronicle, 2026-10-25 19:34 UTC
@@ -25,11 +30,11 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Howe It Happened: Steelers LB Payton Wilson Picks Off Saints, Finally Shows Coverage Potential](https://steelersnow.com/howe-it-happened-steelers-lb-payton-wilson-picks-off-saints-finally-shows-coverage-potential/): Steelers Now, 2026-10-25 18:39 UTC
 - [‘That Was the Goal’: Steelers Knew They Could Run All Over Saints](https://steelersnow.com/that-was-the-goal-steelers-knew-they-could-run-all-over-saints/): Steelers Now, 2026-10-25 18:34 UTC
 - [Steelers' Aaron Rodgers Takes Polarizing Jab Directly At The NFL And Roger Goodell](https://www.steelernation.com/2026/10/25/steelers-aaron-rodgers-polarizing-jab): SteelerNation, 2026-10-25 18:29 UTC
-- [Paris NFL game set to kick off in calm atmosphere after fresh demonstrations](https://www.reuters.com/sports/paris-game-set-kick-off-calm-atmosphere-after-fresh-demonstrations-2026-10-25/): Reuters, 2026-10-25 18:25 UTC
 - [Steelers Vs Saints Winners And Losers](https://steelersdepot.com/2026/10/steelers-vs-saints-winners-and-losers-2/): Steelers Depot, 2026-10-25 18:23 UTC
 - [Tom’s Ten Takes – Steelers Vs. Saints](https://steelersdepot.com/2026/10/toms-ten-takes-steelers-vs-saints-2/): Steelers Depot, 2026-10-25 18:20 UTC
 - [Kurt Warner says quiet part out loud about Steelers' shot at contending](https://stillcurtain.com/kurt-warner-says-quiet-part-out-loud-pittsburgh-steelers-shot-contending-01m5symaqwxk?utm_source=RSS): Still Curtain, 2026-10-25 18:14 UTC
 - [Steelers Finally See Impressive RB Duo Deliver Like It Did In Training Camp](https://www.steelernation.com/2026/10/25/steelers-impressive-duo-deliver): SteelerNation, 2026-10-25 18:13 UTC
+- [Aaron Rodgers, Steelers topple Saints in Paris](https://www.reuters.com/sports/nfl/aaron-rodgers-steelers-topple-saints-paris--flm-2026-10-25/): Reuters, 2026-10-25 18:10 UTC
 - [Steelers use strong run game to beat Saints in Paris, win third in a row](https://www.nytimes.com/athletic/7723123/2026/10/25/steelers-saints-paris-nfl-week-7-result-takeaways/): The New York Times, 2026-10-25 18:02 UTC
 - [Aaron Rodgers Calls On NFL To Make ‘Mandate’ For International Games](https://steelersdepot.com/2026/10/aaron-rodgers-calls-on-nfl-to-make-mandate-for-international-games/): Steelers Depot, 2026-10-25 18:00 UTC
 - [DB’s Steelers Dudes & Duds: Queen Balls Out; Fautanu Struggles](https://steelersnow.com/dbs-steelers-dudes-duds-queen-balls-out-fautanu-struggles/): Steelers Now, 2026-10-25 17:58 UTC
@@ -55,11 +60,8 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [The surging Steelers smother the Saints in Paris to earn their third straight win](https://www.post-gazette.com/sports/steelers/2026/10/25/steelers-saints-nfl-paris-game/stories/202610250082): Pittsburgh Post-Gazette, 2026-10-25 16:49 UTC
 - [Steelers punish Saints on the ground, win 16-10 in Paris](https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176867/steelers-punish-saints-on-the-ground-win-16-10-in-paris): Behind the Steel Curtain, 2026-10-25 16:48 UTC
 - [The Steelers’ brand of football might not be aesthetically pleasing, but it works. Here’s why | Farabaugh](https://www.pennlive.com/steelers/2026/10/the-steelers-brand-of-football-might-not-be-aesthetically-pleasing-but-it-works-heres-whyfarabaugh.html): PennLive (Nick Farabaugh), 2026-10-25 16:45 UTC
-- [Steelers beat Saints in NFL's first-ever game in Paris, 16-10](https://www.cbsnews.com/pittsburgh/news/steelers-beat-saints-in-nfl-paris-game/): CBS News, 2026-10-25 16:45 UTC
 - [Warren, Steelers Stiff-Arm Saints for 16-10 Paris Win](https://steelersnow.com/warren-steelers-stiff-arm-saints-for-16-10-paris-win/): Steelers Now, 2026-10-25 16:39 UTC
 - [Steelers vs. Saints Takeaways: Pittsburgh's Getting Dangerous](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-saints-takeaways-getting-dangerous): All Steelers (Sports Illustrated), 2026-10-25 16:36 UTC
-- [Game Recap: Pittsburgh Steelers 16, New Orleans Saints 10 | 2026 NFL Week 7](https://www.neworleanssaints.com/news/2026-nfl-week-7-pittsburgh-steelers-vs-new-orleans-saints-game-recap): New Orleans Saints | NewOrleansSaints.com, 2026-10-25 16:36 UTC
-- [Jaylen Warren and the Steelers run over the Saints in Paris](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jaylen-warren-and-the-steelers-run-over-the-saints-in-paris): ProFootballTalk (NBC), 2026-10-25 16:35 UTC
 - [Behind Jaylen Warren’s strong performance, Steelers top Saints in Paris for 3rd straight win](https://triblive.com/sports/behind-jaylen-warrens-strong-performance-steelers-top-saints-in-paris-for-3rd-straight-win/): TribLive, 2026-10-25 16:35 UTC
 - [Steelers beat Saints, 16-10, in Paris](https://www.steelers.com/news/steelers-beat-saints-16-10-in-paris): Steelers.com (official), 2026-10-25 16:35 UTC
 - [Recap: Steelers Leave Paris Happy With Win Over Saints, Advance To 5-2](https://steelersdepot.com/2026/10/recap-steelers-leave-paris-happy-with-win-over-saints-advance-to-5-2/): Steelers Depot, 2026-10-25 16:34 UTC
@@ -93,7 +95,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [2026 Week 7 Steelers Vs Saints Live Update And Discussion Thread – First Half](https://steelersdepot.com/2026/10/2026-week-7-steelers-vs-saints-live-update-and-discussion-thread-first-half/): Steelers Depot, 2026-10-25 12:30 UTC
 - [Steelers Get Good News on Rico Dowdle](https://steelersnow.com/steelers-get-good-news-on-rico-dowdle-2/): Steelers Now, 2026-10-25 12:27 UTC
 - [Steelers rookie Kevin Jobity Jr. active vs. Saints, makes NFL debut in Paris](https://triblive.com/sports/steelers-rookie-dl-kevin-jobity-jr-makes-nfl-debut-in-paris/): TribLive, 2026-10-25 12:19 UTC
-- [Steelers Vs Saints: Inactives For Week 7](https://steelersdepot.com/2026/10/steelers-vs-saints-inactives-for-week-7/): Steelers Depot, 2026-10-25 12:09 UTC
 - [Pittsburgh Steelers share dapper arrival photos before historic Saints game in Paris](https://www.wtae.com/article/pittsburgh-steelers-saints-paris-game-day-fits/74240535): WTAE, 2026-10-25 12:05 UTC
 - [How to Watch Steelers vs. Saints: TV Channel, Live Stream, Time - October 25, 2026](https://www.foxsports.com/stories/nfl/how-to-watch-steelers-vs-saints-tv-channel-live-stream-time-october-25-2026): FOX Sports, 2026-10-25 12:00 UTC
 - [Steelers vs. Saints tailgate thread](https://www.behindthesteelcurtain.com/pittsburgh-steelers-discussion/176758/steelers-vs-saints-tailgate-thread): Behind the Steel Curtain, 2026-10-25 12:00 UTC
@@ -112,7 +113,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [How to stream and watch Steelers vs. Saints in Paris: Halftime show and protest details](https://www.nytimes.com/athletic/7718115/2026/10/25/steelers-saints-paris-france-nfl-protests-tv/): The Athletic, 2026-10-25 04:01 UTC
 - [Pittsburgh Steelers add two wide receivers before Saints game after injuries pile up](https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-add-two-wide-receivers-before-saints-game-after-injuries-pile-up.html): PennLive (Nick Farabaugh), 2026-10-25 01:13 UTC
 - [Pittsburgh Steelers get huge boost with return of standout safety](https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-get-huge-boost-with-return-of-standout-safety.html): PennLive (Nick Farabaugh), 2026-10-25 01:00 UTC
-- [Former Steelers Head Coach Mike Tomlin Detailed Exactly What Made Hines Ward So Different](https://www.steelernation.com/2026/10/24/steelers-mike-tomlin-detailed-hines-ward): SteelerNation, 2026-10-25 00:23 UTC
 - [Steelers vs. Saints: Week 7 game picks](https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176846/steelers-vs-saints-week-7-game-picks-aaron-rodgers-germie-bernard): Behind the Steel Curtain, 2026-10-24 23:05 UTC
 - [Saturday Night Open Thread: Un match a Paris](https://www.behindthesteelcurtain.com/pittsburgh-steelers-discussion/176824/saturday-night-open-thread-un-match-a-paris): Behind the Steel Curtain, 2026-10-24 21:30 UTC
 - [Cup of Joe (Starkey): Steelers’ transformed offense will light up Paris](https://triblive.com/sports/cup-of-joe-starkey-steelers-transformed-offense-will-light-up-paris/): TribLive, 2026-10-24 20:46 UTC
@@ -142,7 +142,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [‘They’re everywhere’: Steelers Nation takes over Paris as fans turn City of Light into City of Black and Gold](https://triblive.com/sports/theyre-everywhere-steelers-nation-takes-over-paris-as-fans-turn-city-of-light-into-city-of-black-and-gold/): TribLive, 2026-10-24 00:05 UTC
 - [Steelers get T.J. Watt relief with DeShon Elliott's return still in doubt](https://stillcurtain.com/pittsburgh-steelers-saints-injury-report-week-7-friday?utm_source=RSS): Still Curtain, 2026-10-23 22:00 UTC
 - [An Alex Highsmith trade would be a short-sighted move for the Steelers](https://stillcurtain.com/an-alex-highsmith-trade-would-be-a-short-sighted-move-for-the-pittsburgh-steelers-01m5mwg1rt2e?utm_source=RSS): Still Curtain, 2026-10-23 21:02 UTC
-- [Saints Friday Injury Report: 2026 Week 7 vs. Pittsburgh Steelers](https://www.neworleanssaints.com/news/injury-report-pittsburgh-steelers-vs-new-orleans-saints-2026-nfl-week-7-friday): New Orleans Saints | NewOrleansSaints.com, 2026-10-23 18:45 UTC
 - [French-inspired brunch ideas and Pittsburgh restaurants to try for the Steelers game in Paris](https://triblive.com/sports/steelers/french-inspired-brunch-ideas-and-pittsburgh-restaurants-to-try-for-the-steelers-game-in-paris/): TribLive, 2026-10-23 18:43 UTC
 - [Noah Hiles: My journey to find an NFL bar in Paris](https://www.post-gazette.com/sports/steelers/2026/10/23/steelers-bars-in-paris-france/stories/202610240007): Pittsburgh Post-Gazette, 2026-10-23 17:30 UTC
 - [Steelers on a short ‘business trip’ to beat Saints, not to sightsee in Paris](https://triblive.com/sports/steelers-on-a-short-business-trip-to-beat-saints-not-to-sightsee-in-paris/): TribLive, 2026-10-23 17:22 UTC
@@ -153,6 +152,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - ['Would have been nice one time to come over on a Monday': Steelers race to acclimate to Paris](https://www.nytimes.com/athletic/7717102/2026/10/23/steelers-paris-travel-saints/): The Athletic, 2026-10-23 14:47 UTC
 - [Steelers Paris notebook: Team is confident it is safe amid protests, unrest](https://triblive.com/sports/steelers-paris-notebook-team-is-confident-it-is-safe-amidst-protests-unrest/): TribLive, 2026-10-23 14:33 UTC
 - [Steelers' Paris game gets even more unpredictable after weather shakeup](https://stillcurtain.com/pittsburgh-steelers-paris-unpredictable-weather-shakeup-01m5mes3qpbj?utm_source=RSS): Still Curtain, 2026-10-23 14:00 UTC
+- [Steelers safety DeShon Elliott could return Sunday, a year removed from his gruesome injury](https://www.post-gazette.com/sports/steelers/2026/10/23/will-deshon-elliott-play-sunday/stories/202610230028): Pittsburgh Post-Gazette, 2026-10-23 14:00 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
