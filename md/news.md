@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-25T00:26:35+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T00:25:08+00:00._
+_Generated 2026-10-25T00:38:15+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T00:36:50+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Former Steelers Head Coach Mike Tomlin Detailed Exactly What Made Hines Ward So Different](https://www.steelernation.com/2026/10/24/steelers-mike-tomlin-detailed-hines-ward): SteelerNation, 2026-10-25 00:23 UTC

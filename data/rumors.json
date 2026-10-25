@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T00:26:30.447868+00:00",
+ "generated": "2026-10-25T00:38:08.553041+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -901,13 +901,16 @@
    "first_seen": "2026-10-21T20:52:51.041805+00:00",
    "consensus": {
     "cluster_id": "28359084a15f",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
-     "SteelerNation"
+     "SteelerNation",
+     "Yardbarker"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "d6fcab7af69e"
+    ]
    },
    "updated": "2026-10-21T20:52:51.041805+00:00"
   },
@@ -1289,14 +1292,16 @@
    "status_link": null,
    "first_seen": "2026-10-20T21:02:33.218202+00:00",
    "consensus": {
-    "cluster_id": "80328d8900e5",
+    "cluster_id": "dc4e7eea9511",
     "independent_sources": 1,
     "sources": [
      "A to Z Sports"
     ],
     "highest_tier": "Aggregator / other",
     "highest_tier_score": 1,
-    "related_ids": []
+    "related_ids": [
+     "dc4e7eea9511"
+    ]
    },
    "updated": "2026-10-20T21:02:33.218202+00:00"
   },
