@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-25T03:42:40.281434+00:00",
+ "last_run": "2026-10-25T03:54:46.881807+00:00",
  "results": [
   {
    "fetcher": "apply_grade_edits.py",
@@ -10,7 +10,7 @@
   {
    "fetcher": "fetch_news.py",
    "ok": true,
-   "seconds": 3.0,
+   "seconds": 3.5,
    "last_line": "news: 150 ticker: 30"
   },
   {
@@ -40,13 +40,13 @@
   {
    "fetcher": "fetch_film.py",
    "ok": false,
-   "seconds": 35.5,
-   "last_line": "film: only 12/25 feeds answered; keeping previous data"
+   "seconds": 47.0,
+   "last_line": "film: only 9/25 feeds answered; keeping previous data"
   },
   {
    "fetcher": "fetch_podcasts.py",
    "ok": true,
-   "seconds": 22.5,
+   "seconds": 43.0,
    "last_line": "episodes past 5 days: 139 | embed-fallback channels: 1 | post-game: 0"
   },
   {
@@ -113,7 +113,7 @@
    "fetcher": "fetch_hub.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "hub fresh (<30 min); skipped"
+   "last_line": "injuries 14 practice 10 opp NO"
   },
   {
    "fetcher": "fetch_matchup.py",
@@ -142,7 +142,7 @@
   {
    "fetcher": "fetch_rumors.py",
    "ok": true,
-   "seconds": 3.0,
+   "seconds": 2.5,
    "last_line": "rumors 52 {'Rumor': 48, 'Confirmed': 4, 'Denied': 0}"
   },
   {
