@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-25T16:59:50.386210+00:00",
+ "generated": "2026-10-25T17:10:49.530846+00:00",
  "game": {
-  "label": "at Tampa Bay Buccaneers (Oct 18)",
-  "opponent": "Tampa Bay Buccaneers",
-  "kickoff": "2026-10-18T17:00:00+00:00"
+  "label": "at New Orleans Saints (Oct 25)",
+  "opponent": "New Orleans Saints",
+  "kickoff": "2026-10-25T13:30:00+00:00"
  },
  "window": {
-  "start": "2026-10-18T20:30:00+00:00",
+  "start": "2026-10-25T17:00:00+00:00",
   "end": "2026-11-01T18:00:00+00:00",
   "note": "last game end (kickoff + 3.5h est.) until next kickoff"
  },
@@ -161,7 +161,7 @@
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNsZFFKPF0bp85qzvJ8knbQ",
    "status": "ok",
    "feed_items": 15,
-   "in_window": 1
+   "in_window": 0
   },
   {
    "creator": "Steelers Depot (YouTube)",
@@ -169,7 +169,7 @@
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFqbkq2BzNY3iQ_FPveqVhw",
    "status": "ok",
    "feed_items": 15,
-   "in_window": 1
+   "in_window": 0
   },
   {
    "creator": "Pittsburgh Steelers (official)",
@@ -212,58 +212,17 @@
    "in_window": 0
   }
  ],
- "items": [
-  {
-   "title": "DB\u2019s Steelers Film Room: Jamel Dean Saves the Day in Tampa",
-   "creator": "Steelers Now",
-   "link": "https://steelersnow.com/dbs-steelers-film-room-jamel-dean-saves-the-day-in-tampa/",
-   "published": "2026-10-21T14:57:35+00:00",
-   "gid": "2026_06_PIT_TB",
-   "source": "rss",
-   "summary": "Film breakdown by Steelers Now of Week 6 at Buccaneers (W 26-19).",
-   "vetting": "article with a film-breakdown title"
-  },
-  {
-   "title": "Film Room: Jamel Dean SAVES Steelers in Tampa Homecoming",
-   "creator": "Derrick Bell \u2013 DB's Film Room (Steelers Now)",
-   "link": "https://www.youtube.com/watch?v=e6yzGC2yM94",
-   "published": "2026-10-20T16:00:29+00:00",
-   "summary": "Film breakdown by Derrick Bell \u2013 DB's Film Room (Steelers Now) of at Tampa Bay Buccaneers (Oct 18).",
-   "game": "at Tampa Bay Buccaneers (Oct 18)",
-   "vetting": "film title"
-  },
-  {
-   "title": "Film Room: An Absurdly Good Rep From Darnell Washington (That\u2019s Easy To Miss)",
-   "creator": "Alex Kozora (Steelers Depot)",
-   "link": "https://steelersdepot.com/2026/10/film-room-an-absurdly-good-rep-from-darnell-washington-thats-easy-to-miss/",
-   "published": "2026-10-20T16:00:22+00:00",
-   "gid": "2026_06_PIT_TB",
-   "source": "rss",
-   "summary": "Film breakdown by Alex Kozora (Steelers Depot) of Week 6 at Buccaneers (W 26-19).",
-   "vetting": "article with a film-breakdown title"
-  },
-  {
-   "title": "Bunch of Highs, Bunch of Lows for Steelers' O-Line vs Bucs | All-22 Film",
-   "creator": "Steelers Almighty",
-   "link": "https://www.youtube.com/watch?v=vxeOQ2ipoFs",
-   "published": "2026-10-20T11:22:08+00:00",
-   "gid": "2026_06_PIT_TB",
-   "source": "rss",
-   "summary": "Film breakdown by Steelers Almighty of Week 6 at Buccaneers (W 26-19).",
-   "vetting": "film title + description confirms tape"
-  },
-  {
-   "title": "Film Room: Jalen Ramsey Calls Game To Beat Buccaneers",
-   "creator": "Alex Kozora (Steelers Depot)",
-   "link": "https://steelersdepot.com/2026/10/film-room-jalen-ramsey-calls-game-to-beat-buccaneers/",
-   "published": "2026-10-19T12:30:09+00:00",
-   "gid": "2026_06_PIT_TB",
-   "source": "rss",
-   "summary": "Film breakdown by Alex Kozora (Steelers Depot) of Week 6 at Buccaneers (W 26-19).",
-   "vetting": "article with a film-breakdown title"
-  }
- ],
+ "items": [],
  "games": [
+  {
+   "gid": "2026_07_PIT_NO",
+   "label": "Week 7 at Saints",
+   "week": "Week 7",
+   "opponent": "New Orleans Saints",
+   "kickoff": "2026-10-25T13:30:00+00:00",
+   "count": 0,
+   "items": []
+  },
   {
    "gid": "2026_06_PIT_TB",
    "label": "Week 6 at Buccaneers (W 26-19)",
@@ -507,5 +466,5 @@
    ]
   }
  ],
- "count": 5
+ "count": 0
 }

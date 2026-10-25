@@ -1,0 +1,606 @@
+{
+ "week": 7,
+ "event_id": "401873011",
+ "game": "at New Orleans Saints",
+ "date": "2026-10-25T13:30Z",
+ "score": "16-10",
+ "sample": false,
+ "grade_source": "stats grade until a player has 25+ fan votes, then fan grade",
+ "min_votes": 25,
+ "trim": 0.1,
+ "voting_closes": null,
+ "source_note": "Players from the ESPN box score (event 401873011), built before nflverse posted the final. Offensive line joins when snap counts publish.",
+ "players": [
+  {
+   "name": "Aaron Rodgers",
+   "pos": "QB",
+   "group": "QB",
+   "votes": 0,
+   "fan_avg": null,
+   "stats_grade": 5.9,
+   "stats_line": "19/30, 212 yds, 1 TD, 0 INT; 3 rush, 6 yds",
+   "stats_terms": [
+    "7.1 yds/att +0.2",
+    "1 pass TD +0.6",
+    "3 sacks taken -0.6",
+    "6 rush yds +0.1"
+   ],
+   "involvement": 36.0,
+   "avg": 5.9,
+   "source": "stats",
+   "gsis_id": "00-0023459",
+   "shown": true
+  },
+  {
+   "name": "Jaylen Warren",
+   "pos": "RB",
+   "group": "RB",
+   "votes": 0,
+   "fan_avg": null,
+   "stats_grade": 8.5,
+   "stats_line": "18 rush, 101 yds; 3 rec, 36 yds",
+   "stats_terms": [
+    "101 rush yds +2.5",
+    "36 rec yds +0.9",
+    "3 of 4 targets +0.2"
+   ],
+   "involvement": 22.0,
+   "avg": 8.5,
+   "source": "stats",
+   "gsis_id": "00-0037228",
+   "shown": true
+  },
+  {
+   "name": "Rico Dowdle",
+   "pos": "RB",
+   "group": "RB",
+   "votes": 0,
+   "fan_avg": null,
+   "stats_grade": 8.0,
+   "stats_line": "9 rush, 41 yds; 6 rec, 45 yds",
+   "stats_terms": [
+    "41 rush yds +1.0",
+    "45 rec yds +1.1",
+    "6 of 6 targets +0.6"
+   ],
+   "involvement": 15.0,
+   "avg": 8.0,
+   "source": "stats",
+   "gsis_id": "00-0036139",
+   "shown": true
+  },
+  {
+   "name": "Travis Homer",
+   "pos": "RB",
+   "group": "RB",
+   "votes": 0,
+   "fan_avg": null,
+   "stats_grade": 6.0,
+   "stats_line": "3 tkl",
+   "stats_terms": [
+    "3 tackles +0.4"
+   ],
+   "involvement": 3.0,
+   "avg": 6.0,
+   "source": "stats",
+   "gsis_id": "00-0035594",
+   "shown": true
+  },
+  {
+   "name": "Brandon Smith",
+   "pos": "WR",
+   "group": "WR",
+   "votes": 0,
+   "fan_avg": null,
+   "stats_grade": 6.3,
+   "stats_line": "2 rec, 24 yds",
+   "stats_terms": [
+    "24 rec yds +0.6",
+    "2 of 2 targets +0.2"
+   ],
+   "involvement": 2.0,
+   "avg": 6.3,
+   "source": "stats",
+   "gsis_id": "00-0036775",
+   "shown": true
+  },
+  {
+   "name": "DK Metcalf",
+   "pos": "WR",
+   "group": "WR",
+   "votes": 0,
+   "fan_avg": null,
+   "stats_grade": 6.7,
+   "stats_line": "2 rec, 56 yds",
+   "stats_terms": [
+    "56 rec yds +1.4",
+    "2 of 6 targets -0.2"
+   ],
+   "involvement": 6.0,
+   "avg": 6.7,
+   "source": "stats",
+   "gsis_id": "00-0035640",
+   "shown": true
+  },
+  {
+   "name": "Germie Bernard",
+   "pos": "WR",
+   "group": "WR",
+   "votes": 0,
+   "fan_avg": null,
+   "stats_grade": 6.3,
+   "stats_line": "3 rec, 27 yds",
+   "stats_terms": [
+    "27 rec yds +0.7",
+    "3 of 5 targets +0.1"
+   ],
+   "involvement": 5.0,
+   "avg": 6.3,
+   "source": "stats",
+   "gsis_id": "00-0041489",
+   "shown": true
+  },
+  {
+   "name": "Darnell Washington",
+   "pos": "TE",
+   "group": "TE",
+   "votes": 0,
+   "fan_avg": null,
+   "stats_grade": 6.3,
+   "stats_line": "1 rec, 4 yds, 1 TD",
+   "stats_terms": [
+    "4 rec yds +0.1",
+    "1 rec TD +0.6",
+    "1 of 1 targets +0.1"
+   ],
+   "involvement": 1.0,
+   "avg": 6.3,
+   "source": "stats",
+   "gsis_id": "00-0038558",
+   "shown": true
+  },
+  {
+   "name": "Pat Freiermuth",
+   "pos": "TE",
+   "group": "TE",
+   "votes": 0,
+   "fan_avg": null,
+   "stats_grade": 6.0,
+   "stats_line": "2 rec, 20 yds",
+   "stats_terms": [
+    "20 rec yds +0.5"
+   ],
+   "involvement": 4.0,
+   "avg": 6.0,
+   "source": "stats",
+   "gsis_id": "00-0036894",
+   "shown": true
+  },
+  {
+   "name": "Cameron Heyward",
+   "pos": "DT",
+   "group": "DL",
+   "votes": 0,
+   "fan_avg": null,
+   "stats_grade": 6.2,
+   "stats_line": "2 tkl, 1 PD",
+   "stats_terms": [
+    "2 tackles +0.3",
+    "1 PD +0.4"
+   ],
+   "involvement": 3.0,
+   "avg": 6.2,
+   "source": "stats",
+   "gsis_id": "00-0027969",
+   "shown": true
+  },
+  {
+   "name": "Gabriel Rubio",
+   "pos": "DE",
+   "group": "DL",
+   "votes": 0,
+   "fan_avg": null,
+   "stats_grade": 5.8,
+   "stats_line": "2 tkl",
+   "stats_terms": [
+    "2 tackles +0.3"
+   ],
+   "involvement": 2.0,
+   "avg": 5.8,
+   "source": "stats",
+   "gsis_id": null,
+   "shown": true
+  },
+  {
+   "name": "Keeanu Benton",
+   "pos": "DT",
+   "group": "DL",
+   "votes": 0,
+   "fan_avg": null,
+   "stats_grade": 7.2,
+   "stats_line": "4 tkl, 2 TFL, 1 PD",
+   "stats_terms": [
+    "4 tackles +0.6",
+    "2 TFL +0.8",
+    "1 PD +0.4"
+   ],
+   "involvement": 5.0,
+   "avg": 7.2,
+   "source": "stats",
+   "gsis_id": "00-0039110",
+   "shown": true
+  },
+  {
+   "name": "Yahya Black",
+   "pos": "DT",
+   "group": "DL",
+   "votes": 0,
+   "fan_avg": null,
+   "stats_grade": 6.5,
+   "stats_line": "1 tkl, 1 TFL, 1 PD",
+   "stats_terms": [
+    "1 tackles +0.1",
+    "1 TFL +0.4",
+    "1 PD +0.4"
+   ],
+   "involvement": 2.0,
+   "avg": 6.5,
+   "source": "stats",
+   "gsis_id": "00-0040188",
+   "shown": true
+  },
+  {
+   "name": "Alex Highsmith",
+   "pos": "OLB",
+   "group": "LB",
+   "votes": 0,
+   "fan_avg": null,
+   "stats_grade": 6.1,
+   "stats_line": "2 tkl",
+   "stats_terms": [
+    "2 tackles +0.3",
+    "1 QB hits +0.3"
+   ],
+   "involvement": 3.0,
+   "avg": 6.1,
+   "source": "stats",
+   "gsis_id": "00-0036333",
+   "shown": true
+  },
+  {
+   "name": "Carson Bruener",
+   "pos": "ILB",
+   "group": "LB",
+   "votes": 0,
+   "fan_avg": null,
+   "stats_grade": 5.7,
+   "stats_line": "1 tkl",
+   "stats_terms": [
+    "1 tackles +0.1"
+   ],
+   "involvement": 1.0,
+   "avg": 5.7,
+   "source": "stats",
+   "gsis_id": "00-0040231",
+   "shown": true
+  },
+  {
+   "name": "Cole Holcomb",
+   "pos": "ILB",
+   "group": "LB",
+   "votes": 0,
+   "fan_avg": null,
+   "stats_grade": 5.7,
+   "stats_line": "1 tkl",
+   "stats_terms": [
+    "1 tackles +0.1"
+   ],
+   "involvement": 1.0,
+   "avg": 5.7,
+   "source": "stats",
+   "gsis_id": "00-0035286",
+   "shown": true
+  },
+  {
+   "name": "Jack Sawyer",
+   "pos": "OLB",
+   "group": "LB",
+   "votes": 0,
+   "fan_avg": null,
+   "stats_grade": 6.1,
+   "stats_line": "1 tkl, 1 TFL",
+   "stats_terms": [
+    "1 tackles +0.1",
+    "1 TFL +0.4"
+   ],
+   "involvement": 1.0,
+   "avg": 6.1,
+   "source": "stats",
+   "gsis_id": "00-0040160",
+   "shown": true
+  },
+  {
+   "name": "Nick Herbig",
+   "pos": "OLB",
+   "group": "LB",
+   "votes": 0,
+   "fan_avg": null,
+   "stats_grade": 6.1,
+   "stats_line": "2 tkl",
+   "stats_terms": [
+    "2 tackles +0.3",
+    "1 QB hits +0.3"
+   ],
+   "involvement": 3.0,
+   "avg": 6.1,
+   "source": "stats",
+   "gsis_id": "00-0038577",
+   "shown": true
+  },
+  {
+   "name": "Patrick Queen",
+   "pos": "ILB",
+   "group": "LB",
+   "votes": 0,
+   "fan_avg": null,
+   "stats_grade": 8.5,
+   "stats_line": "10 tkl, 1 sack, 1 TFL, 1 PD",
+   "stats_terms": [
+    "10 tackles +1.5",
+    "1 sacks +1.0",
+    "1 TFL +0.4",
+    "1 PD +0.4",
+    "1 QB hits +0.3"
+   ],
+   "involvement": 12.0,
+   "avg": 8.5,
+   "source": "stats",
+   "gsis_id": "00-0036323",
+   "shown": true
+  },
+  {
+   "name": "Payton Wilson",
+   "pos": "ILB",
+   "group": "LB",
+   "votes": 0,
+   "fan_avg": null,
+   "stats_grade": 8.0,
+   "stats_line": "6 tkl, 1 PD; 1 INT",
+   "stats_terms": [
+    "6 tackles +0.9",
+    "1 PD +0.4",
+    "1 INT +1.5"
+   ],
+   "involvement": 8.0,
+   "avg": 8.0,
+   "source": "stats",
+   "gsis_id": "00-0039741",
+   "shown": true
+  },
+  {
+   "name": "T.J. Watt",
+   "pos": "OLB",
+   "group": "LB",
+   "votes": 0,
+   "fan_avg": null,
+   "stats_grade": 7.7,
+   "stats_line": "2 tkl, 1 sack, 1 TFL",
+   "stats_terms": [
+    "2 tackles +0.3",
+    "1 sacks +1.0",
+    "1 TFL +0.4",
+    "2 QB hits +0.6"
+   ],
+   "involvement": 4.0,
+   "avg": 7.7,
+   "source": "stats",
+   "gsis_id": "00-0033886",
+   "shown": true
+  },
+  {
+   "name": "Asante Samuel Jr.",
+   "pos": "CB",
+   "group": "DB",
+   "votes": 0,
+   "fan_avg": null,
+   "stats_grade": 6.6,
+   "stats_line": "7 tkl",
+   "stats_terms": [
+    "7 tackles +1.1"
+   ],
+   "involvement": 7.0,
+   "avg": 6.6,
+   "source": "stats",
+   "gsis_id": "00-0036617",
+   "shown": true
+  },
+  {
+   "name": "Daylen Everette",
+   "pos": "CB",
+   "group": "DB",
+   "votes": 0,
+   "fan_avg": null,
+   "stats_grade": 5.7,
+   "stats_line": "1 tkl",
+   "stats_terms": [
+    "1 tackles +0.1"
+   ],
+   "involvement": 1.0,
+   "avg": 5.7,
+   "source": "stats",
+   "gsis_id": "00-0041393",
+   "shown": true
+  },
+  {
+   "name": "DeShon Elliott",
+   "pos": "SS",
+   "group": "DB",
+   "votes": 0,
+   "fan_avg": null,
+   "stats_grade": 5.7,
+   "stats_line": "1 tkl",
+   "stats_terms": [
+    "1 tackles +0.1"
+   ],
+   "involvement": 1.0,
+   "avg": 5.7,
+   "source": "stats",
+   "gsis_id": "00-0034277",
+   "shown": true
+  },
+  {
+   "name": "Doneiko Slaughter",
+   "pos": "CB",
+   "group": "DB",
+   "votes": 0,
+   "fan_avg": null,
+   "stats_grade": 5.7,
+   "stats_line": "1 tkl",
+   "stats_terms": [
+    "1 tackles +0.1"
+   ],
+   "involvement": 1.0,
+   "avg": 5.7,
+   "source": "stats",
+   "gsis_id": "00-0040341",
+   "shown": true
+  },
+  {
+   "name": "Jalen Ramsey",
+   "pos": "CB",
+   "group": "DB",
+   "votes": 0,
+   "fan_avg": null,
+   "stats_grade": 6.6,
+   "stats_line": "7 tkl",
+   "stats_terms": [
+    "7 tackles +1.1"
+   ],
+   "involvement": 7.0,
+   "avg": 6.6,
+   "source": "stats",
+   "gsis_id": "00-0033055",
+   "shown": true
+  },
+  {
+   "name": "Jamel Dean",
+   "pos": "CB",
+   "group": "DB",
+   "votes": 0,
+   "fan_avg": null,
+   "stats_grade": 6.6,
+   "stats_line": "7 tkl",
+   "stats_terms": [
+    "7 tackles +1.1"
+   ],
+   "involvement": 7.0,
+   "avg": 6.6,
+   "source": "stats",
+   "gsis_id": "00-0035699",
+   "shown": true
+  },
+  {
+   "name": "Jaquan Brisker",
+   "pos": "SS",
+   "group": "DB",
+   "votes": 0,
+   "fan_avg": null,
+   "stats_grade": 6.0,
+   "stats_line": "3 tkl",
+   "stats_terms": [
+    "3 tackles +0.4"
+   ],
+   "involvement": 3.0,
+   "avg": 6.0,
+   "source": "stats",
+   "gsis_id": "00-0038135",
+   "shown": true
+  },
+  {
+   "name": "Robert Spears-Jennings",
+   "pos": "FS",
+   "group": "DB",
+   "votes": 0,
+   "fan_avg": null,
+   "stats_grade": 6.0,
+   "stats_line": "3 tkl",
+   "stats_terms": [
+    "3 tackles +0.4"
+   ],
+   "involvement": 3.0,
+   "avg": 6.0,
+   "source": "stats",
+   "gsis_id": "00-0041401",
+   "shown": true
+  },
+  {
+   "name": "Cameron Johnston",
+   "pos": "P",
+   "group": "ST",
+   "votes": 0,
+   "fan_avg": null,
+   "stats_grade": 5.7,
+   "stats_line": "2 punts, 44.5 avg",
+   "stats_terms": [
+    "44.5 avg, 1 inside 20 +0.2"
+   ],
+   "involvement": 2.0,
+   "avg": 5.7,
+   "source": "stats",
+   "gsis_id": "00-0033729",
+   "shown": true
+  },
+  {
+   "name": "Chris Boswell",
+   "pos": "K",
+   "group": "ST",
+   "votes": 0,
+   "fan_avg": null,
+   "stats_grade": 6.7,
+   "stats_line": "FG 3/3, XP 1/1",
+   "stats_terms": [
+    "FG 3/3, XP 1/1 +1.2"
+   ],
+   "involvement": 4.0,
+   "avg": 6.7,
+   "source": "stats",
+   "gsis_id": "00-0031136",
+   "shown": true
+  },
+  {
+   "name": "Kaden Wetjen",
+   "pos": "KR/PR",
+   "group": "ST",
+   "primary_pos": "WR",
+   "role": "KR/PR",
+   "votes": 0,
+   "fan_avg": null,
+   "stats_grade": 6.5,
+   "stats_line": "2 KR, 60 yds; 1 PR, 13 yds",
+   "stats_terms": [
+    "KR yds vs avg +0.6",
+    "PR yds vs avg +0.3"
+   ],
+   "involvement": 3.0,
+   "avg": 6.5,
+   "source": "stats",
+   "gsis_id": "00-0041397",
+   "shown": true
+  },
+  {
+   "name": "Lew Nichols",
+   "pos": "RET",
+   "group": "ST",
+   "votes": 0,
+   "fan_avg": null,
+   "stats_grade": 5.5,
+   "stats_line": "1 KR, 22 yds",
+   "stats_terms": [],
+   "involvement": 1.0,
+   "avg": 5.5,
+   "source": "stats",
+   "gsis_id": null,
+   "shown": true
+  }
+ ]
+}
