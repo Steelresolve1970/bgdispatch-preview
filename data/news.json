@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T01:11:34.311707+00:00",
+ "generated": "2026-10-25T01:22:45.928690+00:00",
  "count": 150,
  "sources": [
   {
@@ -29,8 +29,8 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "ok",
-   "steelers_items": 24
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "steelers_items": 0
   },
   {
    "source": "Still Curtain",
@@ -84,7 +84,7 @@
    "source": "PennLive (Nick Farabaugh)",
    "url": "https://www.pennlive.com/arc/outboundfeeds/rss/author/nfarabaugh/?outputType=xml",
    "status": "ok",
-   "steelers_items": 28
+   "steelers_items": 29
   },
   {
    "source": "Steelers.com (official)",
@@ -106,6 +106,14 @@
   }
  ],
  "items": [
+  {
+   "title": "Pittsburgh Steelers add two wide receivers before Saints game after injuries pile up",
+   "source": "PennLive (Nick Farabaugh)",
+   "link": "https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-add-two-wide-receivers-before-saints-game-after-injuries-pile-up.html",
+   "published": "2026-10-25T01:13:39+00:00",
+   "summary": "Injury story from PennLive (Nick Farabaugh). Full report at the original publisher.",
+   "id": "e6d44b69cc"
+  },
   {
    "title": "Steelers Scout Potential First-Round QB Matchup | Week 8 2027 NFL Draft Scout",
    "source": "Steelers Now",
@@ -285,15 +293,6 @@
    "id": "546d683b6b"
   },
   {
-   "title": "3 Key Steelers Stat Line Predictions in Week 7 vs. Saints",
-   "source": "Athlon Sports",
-   "link": "https://athlonsports.com/nfl/pittsburgh-steelers/3-key-steelers-stat-line-predictions-in-week-7-vs-saints",
-   "published": "2026-10-24T20:00:00+00:00",
-   "via": "Google News",
-   "summary": "Game story from Athlon Sports. Full report at the original publisher.",
-   "id": "816f9986a9"
-  },
-  {
    "title": "Steelers' Honest Thoughts About Moving On From Joey Porter Jr Have Been Revealed",
    "source": "SteelerNation",
    "link": "https://www.steelernation.com/2026/10/24/steelers-honest-joey-porter-jr-revealed",
@@ -407,15 +406,6 @@
    "published": "2026-10-24T17:51:52+00:00",
    "summary": "Game story from CBS Sports. Full report at the original publisher.",
    "id": "80a32a755e"
-  },
-  {
-   "title": "NFL shutters Paris fan experience as protests overshadow first France game",
-   "source": "The Guardian",
-   "link": "https://www.theguardian.com/sport/2026/oct/24/nfl-paris-protests-saints-steelers-fan-events-closed",
-   "published": "2026-10-24T17:30:00+00:00",
-   "via": "Google News",
-   "summary": "Game story from The Guardian. Full report at the original publisher.",
-   "id": "a221915a7c"
   },
   {
    "title": "Despite protests, Steelers fans enjoy Paris sights ahead of game against Saints",
@@ -722,23 +712,6 @@
    "id": "35ded3e0a4"
   },
   {
-   "title": "NFL House in Paris closes ahead of more protests",
-   "source": "CBS News",
-   "link": "https://www.cbsnews.com/pittsburgh/news/nfl-house-closes-paris-protests/",
-   "published": "2026-10-24T12:26:08+00:00",
-   "via": "Google News",
-   "summary": "News story from CBS News. Full report at the original publisher.",
-   "id": "82ea6940f6"
-  },
-  {
-   "title": "Steelers GameDay Cheat Sheet: Week 7 at New Orleans Saints",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/24/steelers-gameday-cheat-sheet-week-7-at-new-orleans-saints/",
-   "published": "2026-10-24T12:05:57+00:00",
-   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
-   "id": "8695f97ba7"
-  },
-  {
    "title": "Patrick Graham has perfect blueprint to erase Saints' rising star Tyler Shough",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/pittsburgh-steelers-patrick-graham-has-perfect-blueprint-to-erase-saints-rising-star-tyler-shough-01m5mkb72fy1?utm_source=RSS",
@@ -819,15 +792,6 @@
    "published": "2026-10-24T00:05:35+00:00",
    "summary": "News story from TribLive. Full report at the original publisher.",
    "id": "62cdf88758"
-  },
-  {
-   "title": "The NFL Report talks Paris matchup between the Pittsburgh Steelers and the New Orleans Saints",
-   "source": "NFL.com",
-   "link": "https://www.nfl.com/videos/the-nfl-report-talks-paris-matchup-between-the-steelers-and-the-saints",
-   "published": "2026-10-23T23:43:47+00:00",
-   "via": "Google News",
-   "summary": "News story from NFL.com. Full report at the original publisher.",
-   "id": "2510bb0861"
   },
   {
    "title": "The best soccer/NFL crossover jerseys as PSG unveil kit for Steelers vs. Saints in Paris",
@@ -1163,14 +1127,6 @@
    "id": "b6a691e9e3"
   },
   {
-   "title": "Steelers to Watch: Five players who could make the difference against the Saints",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/23/steelers-to-watch-five-players-who-could-make-the-difference-against-the-saints/",
-   "published": "2026-10-23T12:04:25+00:00",
-   "summary": "News story from Steel City Underground. Full report at the original publisher.",
-   "id": "79aa9e2ca3"
-  },
-  {
    "title": "4 NFL bottom feeders could give Steelers a trade deadline advantage",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/4-nfl-bottom-feeders-could-give-pittsburgh-steelers-a-trade-deadline-advantage-01m5j23dryvq?utm_source=RSS",
@@ -1330,6 +1286,47 @@
    "published": "2026-10-22T21:00:02+00:00",
    "summary": "Trade/roster move story from Still Curtain. Full report at the original publisher.",
    "id": "3aef731fbd"
+  },
+  {
+   "title": "Steelers\u2019 Paris trip gets tougher with T.J. Watt limited and two more players out",
+   "source": "Still Curtain",
+   "link": "https://stillcurtain.com/pittsburgh-steelers-saints-paris-injury-report-week-7-thursday?utm_source=RSS",
+   "published": "2026-10-22T20:39:51+00:00",
+   "summary": "News story from Still Curtain. Full report at the original publisher.",
+   "id": "ebd02b3a3d"
+  },
+  {
+   "title": "The Steelers will turn to two rookie defensive linemen as Sebastian Joseph-Day heads to IR",
+   "source": "Pittsburgh Post-Gazette",
+   "link": "https://www.post-gazette.com/sports/steelers/2026/10/22/steelers-injury-updates/stories/202610210074",
+   "published": "2026-10-22T20:36:35+00:00",
+   "summary": "Injury story from Pittsburgh Post-Gazette. Full report at the original publisher.",
+   "id": "048dffc7c8"
+  },
+  {
+   "title": "Steelers fan event in Paris canceled following recent civil unrest in capital",
+   "source": "TribLive",
+   "link": "https://triblive.com/sports/steelers-fan-event-in-paris-canceled-following-recent-civil-unrest-in-capital/",
+   "published": "2026-10-22T20:22:32+00:00",
+   "summary": "Game story from TribLive. Full report at the original publisher.",
+   "id": "e2d0fcac60"
+  },
+  {
+   "title": "Steelers WR Ben Skowronek, CB Brandin Echols won\u2019t play vs. Saints in Paris",
+   "source": "TribLive",
+   "link": "https://triblive.com/sports/steelers-wr-ben-skowronek-cb-brandin-echols-wont-play-vs-saints-in-paris/",
+   "published": "2026-10-22T20:10:08+00:00",
+   "summary": "Game story from TribLive. Full report at the original publisher.",
+   "id": "cd1b19ecfa"
+  },
+  {
+   "title": "T.J. Watt Pops Up on Steelers Injury Report Before Paris Trip",
+   "source": "All Steelers (Sports Illustrated)",
+   "link": "https://www.si.com/nfl/steelers/onsi/tj-watt-injured-before-pittsburgh-steelers-paris-game",
+   "published": "2026-10-22T19:17:46+00:00",
+   "summary": "Injury story from All Steelers (Sports Illustrated). Full report at the original publisher.",
+   "via": "Google News",
+   "id": "95aeb09010"
   }
  ],
  "dropped_bad_links": 0
