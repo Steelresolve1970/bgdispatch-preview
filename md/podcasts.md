@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-25T05:05:06+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T05:04:48+00:00._
+_Generated 2026-10-25T05:16:42+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T05:16:25+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Steelers Insider featuring Mike McCarthy: Week 7 at Saints in Paris | Pittsburgh Steelers](https://www.youtube.com/watch?v=_vNjXJpcPiA): Pittsburgh Steelers (official), 2026-10-24 23:00 UTC
@@ -141,7 +141,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [DK's Daily Shot of Steelers: The great Jalen Ramsey](https://podcasts.apple.com/us/podcast/dks-daily-shot-of-steelers-the-great-jalen-ramsey/id1072021022?i=1000797237233): DK Pittsburgh Sports, 2026-10-20 06:05 UTC
 - Podcast: [Scout’s Eye with Matt Williamson: That's winning defense](https://podcasts.apple.com/us/podcast/scouts-eye-with-matt-williamson-thats-winning-defense/id1072021022?i=1000797213910): DK Pittsburgh Sports, 2026-10-20 06:02 UTC
 - Podcast: [Steelers' Mike McCarthy Must Lean More on Jaylen Warren, Under Center Offense to Fix 3rd Down Issues](https://podcasts.apple.com/us/podcast/steelers-mike-mccarthy-must-lean-more-on-jaylen-warren/id1140522532?i=1000797209848): Locked On Steelers, 2026-10-20 06:00 UTC
-- Podcast: [Steelers Raid Tampa! Mike McCarthy, Injury Updates & Next Stop Paris! | SF7P Ep. 212](https://podcasters.spotify.com/pod/show/steelersfor7podcast/episodes/Steelers-Raid-Tampa--Mike-McCarthy--Injury-Updates--Next-Stop-Paris---SF7P-Ep--212-e3qpdap): Steelers for 7 Podcast, 2026-10-20 05:11 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

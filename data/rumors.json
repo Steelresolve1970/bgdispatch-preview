@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T05:04:59.312255+00:00",
+ "generated": "2026-10-25T05:16:36.065567+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -590,14 +590,16 @@
    "status_link": null,
    "first_seen": "2026-10-22T21:08:55.462806+00:00",
    "consensus": {
-    "cluster_id": "3aef731fbd3a",
+    "cluster_id": "2ddf0b128c02",
     "independent_sources": 1,
     "sources": [
      "Still Curtain"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "2ddf0b128c02"
+    ]
    },
    "updated": "2026-10-22T21:08:55.462806+00:00"
   },
