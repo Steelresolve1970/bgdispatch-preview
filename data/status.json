@@ -1,16 +1,16 @@
 {
- "last_run": "2026-10-25T05:32:21.457971+00:00",
+ "last_run": "2026-10-25T05:54:47.708078+00:00",
  "results": [
   {
    "fetcher": "apply_grade_edits.py",
    "ok": true,
-   "seconds": 1.0,
+   "seconds": 0.5,
    "last_line": "no grade edits"
   },
   {
    "fetcher": "fetch_news.py",
    "ok": true,
-   "seconds": 10.0,
+   "seconds": 3.0,
    "last_line": "news: 150 ticker: 30"
   },
   {
@@ -28,7 +28,7 @@
   {
    "fetcher": "build_boxscores.py",
    "ok": true,
-   "seconds": 3.0,
+   "seconds": 2.0,
    "last_line": "boxscores 6"
   },
   {
@@ -40,13 +40,13 @@
   {
    "fetcher": "fetch_film.py",
    "ok": false,
-   "seconds": 50.0,
-   "last_line": "film: only 7/25 feeds answered; keeping previous data"
+   "seconds": 41.0,
+   "last_line": "film: only 9/25 feeds answered; keeping previous data"
   },
   {
    "fetcher": "fetch_podcasts.py",
    "ok": true,
-   "seconds": 23.0,
+   "seconds": 23.5,
    "last_line": "episodes past 5 days: 138 | embed-fallback channels: 1 | post-game: 0"
   },
   {
@@ -106,14 +106,14 @@
   {
    "fetcher": "fetch_forum_bot.py",
    "ok": true,
-   "seconds": 0.5,
+   "seconds": 0.0,
    "last_line": "bot topics 15 ['daily-2026-10-25', 'daily-2026-10-24', 'pregame-401873011', 'daily-2026-10-23', 'daily-2026-10-22']"
   },
   {
    "fetcher": "fetch_hub.py",
    "ok": true,
-   "seconds": 0.5,
-   "last_line": "hub fresh (<30 min); skipped"
+   "seconds": 1.0,
+   "last_line": "injuries 14 practice 10 opp NO"
   },
   {
    "fetcher": "fetch_matchup.py",
@@ -124,7 +124,7 @@
   {
    "fetcher": "fetch_depth.py",
    "ok": true,
-   "seconds": 3.5,
+   "seconds": 2.5,
    "last_line": "depth units [('Offense', '3WR 1TE', 12), ('Defense', 'Base 3-4 D', 12), ('Special teams', 'Special Teams', 6)]"
   },
   {
@@ -142,7 +142,7 @@
   {
    "fetcher": "fetch_rumors.py",
    "ok": true,
-   "seconds": 3.0,
+   "seconds": 2.5,
    "last_line": "rumors 36 {'Rumor': 35, 'Confirmed': 1, 'Denied': 0}"
   },
   {
@@ -154,7 +154,7 @@
   {
    "fetcher": "fetch_history.py",
    "ok": true,
-   "seconds": 0.5,
+   "seconds": 622.6,
    "last_line": "history fresh; skipped"
   },
   {
@@ -172,8 +172,8 @@
   {
    "fetcher": "fetch_quotes.py",
    "ok": true,
-   "seconds": 2.0,
-   "last_line": "quotes: 6 kept from 125 articles"
+   "seconds": 1.5,
+   "last_line": "quotes: 6 kept from 127 articles"
   },
   {
    "fetcher": "build_machine.py",
