@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-25T01:34:50+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T01:33:42+00:00._
+_Generated 2026-10-25T01:46:28+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T01:45:07+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Pittsburgh Steelers add two wide receivers before Saints game after injuries pile up](https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-add-two-wide-receivers-before-saints-game-after-injuries-pile-up.html): PennLive (Nick Farabaugh), 2026-10-25 01:13 UTC
@@ -15,7 +15,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers' Mike Tomlin Saw TJ Watt's Fierce Competitive Streak Before 2017 Draft And Avoided JJ Talk](https://www.steelernation.com/2026/10/21/steelers-mike-tomlin-tj-watt-fierce): SteelerNation, 2026-10-24 23:01 UTC
 - [The Cowboys Are Already Riding the George Pickens Rollercoaster](https://steelersnow.com/the-cowboys-are-already-riding-the-george-pickens-rollercoaster/): Steelers Now, 2026-10-24 22:21 UTC
 - [Mike Tomlin Explains Unique Trait That Drives T.J. Watt’s Greatness](https://steelersdepot.com/2026/10/mike-tomlin-explains-unique-trait-that-drives-tj-watts-greatness/): Steelers Depot, 2026-10-24 22:00 UTC
-- [Bold Predictions for Steelers in Week 7 vs. Saints](https://athlonsports.com/nfl/pittsburgh-steelers/bold-predictions-for-steelers-in-week-7-vs-saints): Athlon Sports, 2026-10-24 21:53 UTC
 - [Listen: The Terrible Take (Episode 2,060)](https://steelersdepot.com/2026/10/listen-the-terrible-take-episode-2060/): Steelers Depot, 2026-10-24 21:30 UTC
 - [Saturday Night Open Thread: Un match a Paris](https://www.behindthesteelcurtain.com/pittsburgh-steelers-discussion/176824/saturday-night-open-thread-un-match-a-paris): Behind the Steel Curtain, 2026-10-24 21:30 UTC
 - [Steelers Have 3 Trade Targets That No One Talks About](https://www.steelernation.com/2026/10/24/steelers-trade-targets-no-one-talks-about): SteelerNation, 2026-10-24 21:08 UTC
@@ -26,6 +25,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers' Will Howard Gives Insider Knowledge To How Young Quarterbacks Work With New Coaching Staff](https://www.steelernation.com/2026/10/24/steelers-will-howard-insider-new): SteelerNation, 2026-10-24 20:37 UTC
 - [Patrick Queen Fined For Hit In Week 6](https://steelersdepot.com/2026/10/patrick-queen-fined-for-hit-in-week-6/): Steelers Depot, 2026-10-24 20:09 UTC
 - [‘That’s How I Want It:’ Roman Wilson Embraces Aaron Rodgers’ Tough Love](https://steelersdepot.com/2026/10/thats-how-i-want-it-roman-wilson-embraces-aaron-rodgers-tough-love/): Steelers Depot, 2026-10-24 20:00 UTC
+- [3 Key Steelers Stat Line Predictions in Week 7 vs. Saints](https://athlonsports.com/nfl/pittsburgh-steelers/3-key-steelers-stat-line-predictions-in-week-7-vs-saints): Athlon Sports, 2026-10-24 20:00 UTC
 - [Steelers' Honest Thoughts About Moving On From Joey Porter Jr Have Been Revealed](https://www.steelernation.com/2026/10/24/steelers-honest-joey-porter-jr-revealed): SteelerNation, 2026-10-24 19:59 UTC
 - [Saints, Steelers ready for historic game in Paris](https://www.observertoday.com/uncategorized/2026/10/saints-steelers-ready-for-historic-game-in-paris/): Observer Today, 2026-10-24 19:50 UTC
 - [Where to watch the Saints’ early Paris game in New Orleans](https://www.fox8live.com/2026/10/24/where-watch-saints-early-paris-game-new-orleans/): FOX 8 Live WVUE, 2026-10-24 19:22 UTC
