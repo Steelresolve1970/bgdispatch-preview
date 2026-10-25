@@ -1,9 +1,9 @@
 # Steelers Schedule & Results
 
-_Generated 2026-10-25T17:48:03+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T17:47:16+00:00._
+_Generated 2026-10-25T17:59:48+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T17:59:14+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/schedule.json_
 
-Record: **4-2**
+Record: **5-2**
 
 | Week | Kickoff (UTC) | Opponent | Result |
 |---|---|---|---|
@@ -13,7 +13,7 @@ Record: **4-2**
 | Week 4 | 2026-10-02 00:15 UTC | at Cleveland Browns | L 24-27 |
 | Week 5 | 2026-10-11 17:00 UTC | vs Indianapolis Colts | W 34-22 |
 | Week 6 | 2026-10-18 17:00 UTC | at Tampa Bay Buccaneers | W 26-19 |
-| Week 7 | 2026-10-25 13:30 UTC | at New Orleans Saints | TV:  |
+| Week 7 | 2026-10-25 13:30 UTC | at New Orleans Saints | W 16-10 |
 | Week 8 | 2026-11-01 18:00 UTC | vs Cleveland Browns | TV:  |
 | Week 10 | 2026-11-16 01:20 UTC | at Cincinnati Bengals | TV:  |
 | Week 11 | 2026-11-22 21:25 UTC | at Philadelphia Eagles | TV:  |

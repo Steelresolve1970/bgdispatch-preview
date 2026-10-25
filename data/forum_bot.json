@@ -1,11 +1,38 @@
 {
- "generated": "2026-10-25T17:47:37.834975+00:00",
+ "generated": "2026-10-25T17:59:36.515936+00:00",
  "bot": {
   "name": "Dispatch Desk",
   "bot": true,
   "about": "Posts automatically. Opens game threads, daily topics and polls. Not a person."
  },
  "topics": [
+  {
+   "id": "postgame-401873011",
+   "kind": "Postgame",
+   "cat": "Game Day",
+   "pinned": false,
+   "created": "2026-10-25T17:00:00+00:00",
+   "title": "Postgame Thread: Steelers 16-10 win at New Orleans Saints",
+   "body": "Final: Steelers 16-10 (win). Who stood out, what went wrong, what changes this week? Grade every player on the ballot; the heat map shows stats grades until each player gets 25 fan votes.",
+   "links": [
+    {
+     "label": "Grade the players",
+     "href": "#/grades"
+    },
+    {
+     "label": "Heat Map",
+     "href": "#/heatmap"
+    },
+    {
+     "label": "Film Room",
+     "href": "#/film"
+    }
+   ],
+   "author": "Dispatch Desk",
+   "bot": true,
+   "replies": 0,
+   "views": null
+  },
   {
    "id": "daily-2026-10-25",
    "kind": "Daily discussion",
