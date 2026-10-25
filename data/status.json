@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-25T12:58:14.691066+00:00",
+ "last_run": "2026-10-25T13:09:14.752773+00:00",
  "results": [
   {
    "fetcher": "apply_grade_edits.py",
@@ -28,31 +28,31 @@
   {
    "fetcher": "build_boxscores.py",
    "ok": true,
-   "seconds": 2.0,
+   "seconds": 2.5,
    "last_line": "boxscores 6"
   },
   {
    "fetcher": "fetch_insiders.py",
    "ok": true,
    "seconds": 2.0,
-   "last_line": "sidebar: 4 full feed: 13"
+   "last_line": "sidebar: 4 full feed: 14"
   },
   {
    "fetcher": "fetch_film.py",
    "ok": true,
-   "seconds": 3.0,
+   "seconds": 3.5,
    "last_line": "  Week 1 vs Falcons (W 20-13): 2   {'Steelers Depot Film Room (Alex Kozora)': 1, \"Derrick Bell \u2013 DB's Film Room (Steelers Now)\": 1}"
   },
   {
    "fetcher": "fetch_podcasts.py",
    "ok": true,
-   "seconds": 7.7,
+   "seconds": 7.5,
    "last_line": "episodes past 5 days: 131 | embed-fallback channels: 0 | post-game: 0"
   },
   {
    "fetcher": "fetch_featured.py",
    "ok": true,
-   "seconds": 1.0,
+   "seconds": 11.0,
    "last_line": "preview New Orleans Saints Pittsburgh Steelers vs New Orleans Saints | 2026 Week 7 Game Preview"
   },
   {
@@ -113,7 +113,7 @@
    "fetcher": "fetch_hub.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "injuries 14 practice 8 opp NO"
+   "last_line": "hub fresh (<30 min); skipped"
   },
   {
    "fetcher": "fetch_matchup.py",
@@ -124,7 +124,7 @@
   {
    "fetcher": "fetch_depth.py",
    "ok": true,
-   "seconds": 3.5,
+   "seconds": 3.0,
    "last_line": "depth units [('Offense', '3WR 1TE', 12), ('Defense', 'Base 3-4 D', 12), ('Special teams', 'Special Teams', 6)]"
   },
   {
@@ -173,13 +173,13 @@
    "fetcher": "fetch_quotes.py",
    "ok": true,
    "seconds": 2.0,
-   "last_line": "quotes: 5 kept from 136 articles"
+   "last_line": "quotes: 5 kept from 137 articles"
   },
   {
    "fetcher": "build_machine.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "machine layer: {'news': 150, 'rumors': 36, 'injuries': 14, 'depth-chart': 28, 'schedule': 17, 'stats': 62, 'grades': 40, 'college': 20, 'insiders': 13, 'podcasts': 130, 'film': 18, 'draft': 521} md 13 feeds 5 jsonld 14"
+   "last_line": "machine layer: {'news': 150, 'rumors': 36, 'injuries': 14, 'depth-chart': 28, 'schedule': 17, 'stats': 62, 'grades': 40, 'college': 20, 'insiders': 14, 'podcasts': 130, 'film': 17, 'draft': 521} md 13 feeds 5 jsonld 14"
   }
  ]
 }
