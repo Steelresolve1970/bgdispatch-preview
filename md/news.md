@@ -1,8 +1,9 @@
 # Steelers News
 
-_Generated 2026-10-25T00:14:52+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T00:14:09+00:00._
+_Generated 2026-10-25T00:26:35+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T00:25:08+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Former Steelers Head Coach Mike Tomlin Detailed Exactly What Made Hines Ward So Different](https://www.steelernation.com/2026/10/24/steelers-mike-tomlin-detailed-hines-ward): SteelerNation, 2026-10-25 00:23 UTC
 - [Steelers' Mike Tomlin Reveals Dan Rooney's Unconventional Contract Philosophy That Put Winning Ahead Of Stats](https://www.steelernation.com/2026/10/24/steelers-mike-tomlin-dan-rooney-unconventional): SteelerNation, 2026-10-24 23:45 UTC
 - [Pregame Week 7: Five Steelers Thoughts Ahead Of The Saints Game](https://steelersdepot.com/2026/10/pregame-week-7-five-steelers-thoughts-ahead-of-the-saints-game/): Steelers Depot, 2026-10-24 23:30 UTC
 - [Steelers vs. Saints: Week 7 game picks](https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176846/steelers-vs-saints-week-7-game-picks-aaron-rodgers-germie-bernard): Behind the Steel Curtain, 2026-10-24 23:05 UTC
@@ -41,7 +42,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers activate S DeShon Elliott from injured reserve](https://www.reuters.com/sports/steelers-activate-s-deshon-elliott-injured-reserve--flm-2026-10-24/): Reuters, 2026-10-24 17:11 UTC
 - [Fowler: Executives Believe Jaguars Will ‘Seriously’ Consider Trading WR Brian Thomas Jr.](https://steelersdepot.com/2026/10/fowler-executives-believe-jaguars-will-seriously-consider-trading-wr-brian-thomas-jr/): Steelers Depot, 2026-10-24 17:00 UTC
 - [Steelers Return Must Wait for Marquez Valdes-Scantling](https://steelersnow.com/steelers-return-must-wait-for-marquez-valdes-scantling/): Steelers Now, 2026-10-24 16:57 UTC
-- [Steelers Great Maurkice Pouncey Reveals Trouble Young Linemen Have Faced In Recent Years](https://www.steelernation.com/2026/10/24/steelers-great-maurkice-pouncey-trouble): SteelerNation, 2026-10-24 16:42 UTC
 - [Three Non-WR Positions The Steelers Could Trade For](https://steelersdepot.com/2026/10/three-non-wr-positions-the-steelers-could-trade-for/): Steelers Depot, 2026-10-24 16:30 UTC
 - [Steelers Give Aaron Rodgers Another Familiar Option](https://steelersnow.com/steelers-give-aaron-rodgers-another-familiar-option/): Steelers Now, 2026-10-24 16:24 UTC
 - [Steelers Add Experienced Wide Receiver for Saints Game](https://steelersnow.com/steelers-add-experienced-wide-receiver-for-saints-game/): Steelers Now, 2026-10-24 16:15 UTC
