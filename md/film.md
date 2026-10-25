@@ -1,6 +1,6 @@
 # Steelers Film Room & Previews
 
-_Generated 2026-10-25T02:43:49+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T02:42:26+00:00._
+_Generated 2026-10-25T02:55:40+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T02:54:12+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/film.json_
 
 - Breakdown (at Tampa Bay Buccaneers (Oct 18)): [DB’s Steelers Film Room: Jamel Dean Saves the Day in Tampa](https://steelersnow.com/dbs-steelers-film-room-jamel-dean-saves-the-day-in-tampa/): Steelers Now, 2026-10-21 14:57 UTC
@@ -14,7 +14,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/film.json_
 - Preview (at New Orleans Saints (Oct 25)): [What To Watch For In Steelers vs Saints Week 7](https://www.youtube.com/watch?v=MIDs_7cmjCk): Arthur Moats Experience, 2026-10-24 09:52 UTC
 - Preview (at New Orleans Saints (Oct 25)): [Steelers Afternoon Drive: Saints Preview & Predictions](https://steelersnow.com/steelers-afternoon-drive-saints-preview-predictions/): Steelers Now, 2026-10-23 22:00 UTC
 - Preview (at New Orleans Saints (Oct 25)): [Saints Preview & Predictions | Steelers Afternoon Drive](https://www.youtube.com/watch?v=voEIPYX3YNw): Steelers Now (Derrick Bell), 2026-10-23 21:57 UTC
-- Preview (at New Orleans Saints (Oct 25)): [Steelers Need to Fan the Flames vs the Saints in Paris? | Scouting Report Week 7](https://www.youtube.com/watch?v=qbm-DUnLP_c): Steelers Almighty, 2026-10-23 18:20 UTC
+- Preview (at New Orleans Saints (Oct 25)): [The Terrible Podcast — Steelers Vs Saints Game Preview, Joseph-Day To IR, Week 7 Picks, And More](https://www.youtube.com/watch?v=KSUKvtclF40): Steelers Depot (YouTube), 2026-10-23 16:24 UTC
 - Preview (at New Orleans Saints (Oct 25)): [Saints Offense Scouting Report: Where Pittsburgh Should Be Worried Most](https://steelersdepot.com/2026/10/saints-offense-scouting-report-where-pittsburgh-should-be-worried-most/): Alex Kozora (Steelers Depot), 2026-10-23 13:30 UTC
 - Preview (at New Orleans Saints (Oct 25)): [Saints Defense Scouting Report: Steelers Have Chance To Continue YAC Attack](https://steelersdepot.com/2026/10/saints-defense-scouting-report-steelers-have-chance-to-continue-yac-attack/): Alex Kozora (Steelers Depot), 2026-10-23 12:30 UTC
 
