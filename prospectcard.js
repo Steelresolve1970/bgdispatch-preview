@@ -23,6 +23,15 @@ let X={};const xready=fetch(BGD_url('data/draft/prospect_extras.json'),{cache:'n
 function fortyHTML(n){const f=(X[n]||{}).forty;if(!f)return`<span class="pc-40"><b>40:</b> TBD (combine Feb 2027)</span>`;
  return`<span class="pc-40"><b>40:</b> ${E(f.time)} <small>(${f.kind==='verified'?'verified':'projected'}, per <a href="${E(f.url)}" target="_blank" rel="noopener">${E(f.source)}</a>)</small></span>`;}
 function hlHTML(n){const h=(X[n]||{}).highlight;return h?`<a class="btn pc-hl" href="${E(h.url)}" target="_blank" rel="noopener" title="${E(h.title)} (${E(h.channel)}, YouTube)" aria-label="Watch highlights of ${E(n)} on YouTube (opens a new tab)">Watch highlights</a>`:'';}
+// Season stat line (Oct 25, 2026): says which season and "Stats through Week N (date)"; never shows old numbers silently.
+let META={};
+function statsHTML(p,short){p=p||{};const q=get(p.name)||p,k=q.stats,l=q.line,th=META.stats_through;
+ const thru=th?`Stats through ${E(th.label)}`:'';const src=' · CollegeFootballData.com';
+ if(k==='2026'&&l)return short?`${E(l)}${th?` <span class="pc-thru">(thru ${E(th.label)})</span>`:''}`:`<p><b>2026 season:</b> ${E(l)}</p><p class="fine pc-thru">${thru}${src}</p>`;
+ if(k==='2025'&&l)return short?`${E(l)} <span class="pc-thru">(2025; no 2026 stats yet)</span>`:`<p><b>2025 season:</b> ${E(l)} <small>(no 2026 stats recorded yet)</small></p>${th?`<p class="fine pc-thru">2026 checked through ${E(th.label)}${src}</p>`:''}`;
+ if(q.pos==='OT'||q.pos==='IOL'||k==='line')return short?'No box-score stats for linemen':`<p><b>2026 season:</b> No box-score stats for linemen.</p>`;
+ if(k===undefined&&l&&l!=='None')return short?E(l):`<p><b>2026 season:</b> ${E(l)}</p>`;
+ return short?'Stats not available':`<p><b>2026 season:</b> Stats not available from CollegeFootballData.com${th?` (checked through ${E(th.label)})`:''}.</p>`;}
 const meta=p=>[p.pos,p.school,p.cls,p.height,p.weight?p.weight+' lb':''].filter(Boolean).map(E).join(' · ');
 function html(p,o){o=o||{};const t=p.parts||{},sc=scout(p),why=scoutReason(p);
  return`<div class="dr-modal" role="dialog" aria-label="${E(p.name)}"><div class="dr-card"><button class="dr-x" type="button" aria-label="Close">✕</button>
@@ -30,7 +39,7 @@ function html(p,o){o=o||{};const t=p.parts||{},sc=scout(p),why=scoutReason(p);
  ${o.top||''}
  <p class="pc-xrow">${fortyHTML(p.name)} ${hlHTML(p.name)}</p>
  <p class="dr-g">Our grade <b>${p.grade}</b>${p.stars?` · ${p.stars}★ recruit`:''}${p.transfer?` · transfer`:''}${p.anchor?' · Steelers watch list':''}</p>
- ${p.line&&p.line!=='None'?`<p><b>2026 season:</b> ${E(p.line)}</p>`:''}
+ ${statsHTML(p)}
  ${why?`<p><b>Our scouts:</b> ${E(why)}</p>`:''}
  <div class="dr-sc"><div><b>Strengths</b><ul>${sc.g.map(x=>`<li>${E(x)}</li>`).join('')||'<li>Well-rounded profile in our data</li>'}</ul></div><div><b>Concerns</b><ul>${sc.c.map(x=>`<li>${E(x)}</li>`).join('')||'<li>No major red flags in our data</li>'}</ul></div></div>
  ${window.compHTML?compHTML(p.name):''}
@@ -38,7 +47,7 @@ function html(p,o){o=o||{};const t=p.parts||{},sc=scout(p),why=scoutReason(p);
  <table class="dr-parts"><tr><th>Prod.</th><th>Pedigree</th><th>Sched.</th><th>Team</th><th>Class</th><th>Size</th></tr><tr><td>${t.production??'–'}/45</td><td>${t.pedigree??'–'}/22</td><td>${t.schedule??'–'}/12</td><td>${t.team??'–'}/6</td><td>${t.cls??'–'}/5</td><td>${t.size??'–'}/5</td></tr></table>
  <p class="fine">Our own formula from CollegeFootballData.com stats plus our staff tier; strengths, concerns and comparison are our own read. Fan opinion, not a scouting report.</p>
  ${o.bottom||''}</div></div>`;}
-let B=null;const ready=Promise.all([fetch(BGD_url('data/draft/board.json'),{cache:'no-store'}).then(r=>r.json()).then(j=>{B={};(j.prospects||[]).forEach(p=>{B[p.name]=p;});return B;}).catch(()=>{B={};}),xready]).then(a=>a[0]);
+let B=null;const ready=Promise.all([fetch(BGD_url('data/draft/board.json'),{cache:'no-store'}).then(r=>r.json()).then(j=>{META={stats_through:j.stats_through,stats_fetched:j.stats_fetched};B={};(j.prospects||[]).forEach(p=>{B[p.name]=p;});return B;}).catch(()=>{B={};}),xready]).then(a=>a[0]);
 const get=n=>B&&B[n];
 const size=n=>{const p=get(n);return p?[p.height,p.weight?p.weight+' lb':''].filter(Boolean).join(', '):'';};
 let host=null,last=null;
@@ -49,5 +58,5 @@ document.addEventListener('click',e=>{if(host&&host.contains(e.target)){if(e.tar
  const t=e.target.closest('[data-pc]');if(t){e.preventDefault();ready.then(()=>open(t.dataset.pc));}});
 document.addEventListener('keydown',e=>{if(e.key==='Escape'&&host)close();});
 window.addEventListener('hashchange',close);
-window.PCard={meta,html,open,close,get,size,ready,xready,forty:fortyHTML,hl:hlHTML};
+window.PCard={meta,html,open,close,get,size,ready,xready,forty:fortyHTML,hl:hlHTML,stats:statsHTML,setMeta:j=>{if(j&&j.stats_through)META={stats_through:j.stats_through,stats_fetched:j.stats_fetched};}};
 })();

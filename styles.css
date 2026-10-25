@@ -755,3 +755,6 @@ figure.eg{margin:8px 0}
 .ballot-gate{display:flex;gap:10px;flex-wrap:wrap;margin:10px 0 4px!important}.ballot-gate .btn{min-height:46px;display:inline-flex;align-items:center}
 .scale button{min-height:40px}.scale button[disabled]{cursor:default;opacity:.55}.gplayer.graded{opacity:.8}.gplayer.graded .gp-val{font-size:14px}
 .submit-bar .btn{min-height:46px}.submit-bar .btn[disabled]{opacity:.5;cursor:default}
+
+/* Prospect card "Stats through" line (Oct 25, 2026) */
+.pc-thru{opacity:.8;font-size:.85em}
