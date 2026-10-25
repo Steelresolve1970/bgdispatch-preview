@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T02:31:42.540110+00:00",
+ "generated": "2026-10-25T02:43:32.277162+00:00",
  "date_et": "2026-10-24",
  "days": 5,
  "display_days": 2,
@@ -81,28 +81,28 @@
    "show": "Still Curtain Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxjSNPLcRAVzDKOjhRwo-hQ",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 3,
-   "latest": "2026-10-22T06:58:28+00:00"
+   "latest": null
   },
   {
    "show": "Steel City Underground",
    "kind": "podcast",
    "url": "https://feeds.feedburner.com/steelcityunderground",
-   "status": "error: <urlopen error timed out>",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 45,
    "week": 1,
-   "latest": null
+   "latest": "2026-10-22T16:20:16+00:00"
   },
   {
    "show": "Steel City Underground",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDcNNAMkYr-DzH6_XL-0p8Q",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 1,
-   "latest": null
+   "latest": "2026-10-22T16:28:41+00:00"
   },
   {
    "show": "Steelers Afternoon Drive",
@@ -216,10 +216,10 @@
    "show": "Not Just Football with Cam Heyward",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8hodyaoiw297aspKf9QVDA",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 6,
-   "latest": "2026-10-24T19:25:13+00:00"
+   "latest": null
   },
   {
    "show": "Footbahlin with Ben Roethlisberger",
