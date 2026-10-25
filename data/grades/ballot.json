@@ -1,9 +1,9 @@
 {
- "week": 6,
- "game": "at Tampa Bay Buccaneers",
- "date": "2026-10-18T17:00Z",
- "score": "26-19",
- "voting_closes": "2026-10-25T13:30Z",
+ "week": 7,
+ "game": "at New Orleans Saints",
+ "date": "2026-10-25T13:30Z",
+ "score": "16-10",
+ "voting_closes": "2026-11-01T18:00Z",
  "groups": [
   "QB",
   "RB",
@@ -27,18 +27,8 @@
    "group": "RB"
   },
   {
-   "name": "Lew Nichols III",
-   "pos": "RB",
-   "group": "RB"
-  },
-  {
    "name": "Rico Dowdle",
    "pos": "RB",
-   "group": "RB"
-  },
-  {
-   "name": "Riley Nowakowski",
-   "pos": "FB",
    "group": "RB"
   },
   {
@@ -72,43 +62,8 @@
    "group": "TE"
   },
   {
-   "name": "Robert Tonyan",
-   "pos": "TE",
-   "group": "TE"
-  },
-  {
-   "name": "Brock Hoffman",
-   "pos": "G",
-   "group": "OL"
-  },
-  {
-   "name": "Mason McCormick",
-   "pos": "G",
-   "group": "OL"
-  },
-  {
-   "name": "Max Iheanachor",
-   "pos": "T",
-   "group": "OL"
-  },
-  {
-   "name": "Troy Fautanu",
-   "pos": "T",
-   "group": "OL"
-  },
-  {
-   "name": "Zach Frazier",
-   "pos": "C",
-   "group": "OL"
-  },
-  {
    "name": "Cameron Heyward",
    "pos": "DT",
-   "group": "DL"
-  },
-  {
-   "name": "Gabe Rubio",
-   "pos": "DE",
    "group": "DL"
   },
   {
@@ -118,11 +73,6 @@
   },
   {
    "name": "Keeanu Benton",
-   "pos": "DT",
-   "group": "DL"
-  },
-  {
-   "name": "Sebastian Joseph-Day",
    "pos": "DT",
    "group": "DL"
   },
@@ -138,6 +88,11 @@
   },
   {
    "name": "Carson Bruener",
+   "pos": "ILB",
+   "group": "LB"
+  },
+  {
+   "name": "Cole Holcomb",
    "pos": "ILB",
    "group": "LB"
   },
@@ -174,6 +129,11 @@
   {
    "name": "Daylen Everette",
    "pos": "CB",
+   "group": "DB"
+  },
+  {
+   "name": "DeShon Elliott",
+   "pos": "SS",
    "group": "DB"
   },
   {
@@ -214,6 +174,11 @@
   {
    "name": "Kaden Wetjen",
    "pos": "KR/PR",
+   "group": "ST"
+  },
+  {
+   "name": "Lew Nichols",
+   "pos": "RET",
    "group": "ST"
   }
  ]
