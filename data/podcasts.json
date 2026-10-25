@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-25T14:20:04.888781+00:00",
+ "generated": "2026-10-25T16:02:17.495647+00:00",
  "date_et": "2026-10-25",
  "days": 5,
  "display_days": 2,
- "count": 128,
+ "count": 126,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -27,19 +27,19 @@
    "show": "The Terrible Podcast (Steelers Depot)",
    "kind": "podcast",
    "url": "https://feeds.megaphone.fm/SDP4491208357",
-   "status": "ok",
-   "episodes": 2317,
+   "status": "error: The read operation timed out",
+   "episodes": 0,
    "week": 9,
-   "latest": "2026-10-25T11:52:00+00:00"
+   "latest": null
   },
   {
    "show": "Steel Curtain Network (BTSC)",
    "kind": "podcast",
    "url": "https://feeds.megaphone.fm/btsc-steelers",
-   "status": "ok",
-   "episodes": 8212,
+   "status": "error: The read operation timed out",
+   "episodes": 0,
    "week": 10,
-   "latest": "2026-10-23T15:30:00+00:00"
+   "latest": null
   },
   {
    "show": "DK Pittsburgh Sports",
@@ -56,7 +56,7 @@
    "url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/979efa78-cb51-451a-bdb0-aea000005d8f/ebb5298b-6620-41b6-b498-aea000005d9d/podcast.rss",
    "status": "ok",
    "episodes": 1954,
-   "week": 5,
+   "week": 4,
    "latest": "2026-10-22T15:00:00+00:00"
   },
   {
@@ -90,10 +90,10 @@
    "show": "Steel City Underground",
    "kind": "podcast",
    "url": "https://feeds.feedburner.com/steelcityunderground",
-   "status": "ok",
-   "episodes": 45,
+   "status": "error: <urlopen error _ssl.c:1012: The handshake operation timed out>",
+   "episodes": 0,
    "week": 1,
-   "latest": "2026-10-22T16:20:16+00:00"
+   "latest": null
   },
   {
    "show": "Steel City Underground",
@@ -146,7 +146,7 @@
    "url": "https://feeds.simplecast.com/TJlnaIkx",
    "status": "ok",
    "episodes": 1834,
-   "week": 10,
+   "week": 9,
    "latest": "2026-10-23T21:12:00+00:00"
   },
   {
@@ -201,7 +201,7 @@
    "status": "ok",
    "episodes": 15,
    "week": 15,
-   "latest": "2026-10-25T14:08:19+00:00"
+   "latest": "2026-10-25T14:52:02+00:00"
   },
   {
    "show": "Not Just Football with Cam Heyward",
@@ -250,6 +250,14 @@
   }
  ],
  "items": [
+  {
+   "title": "HAPPY NATIONAL TE DAY DARNELL \ud83d\ude24 \ud83d\udcfa: NFLN",
+   "show": "Pittsburgh Steelers (official)",
+   "kind": "video",
+   "link": "https://www.youtube.com/shorts/hrO-Nsseh4A",
+   "published": "2026-10-25T14:52:02+00:00",
+   "summary": "Video from Pittsburgh Steelers (official)."
+  },
   {
    "title": "Showtime \ud83c\udfac \ud83d\udcfa: NFLN",
    "show": "Pittsburgh Steelers (official)",
@@ -552,14 +560,6 @@
    "kind": "video",
    "link": "https://www.youtube.com/watch?v=bGqnTI4FLLQ",
    "published": "2026-10-23T15:26:17+00:00",
-   "summary": "Video from Pittsburgh Steelers (official)."
-  },
-  {
-   "title": "Putting the boys to the test \ud83c\uddeb\ud83c\uddf7",
-   "show": "Pittsburgh Steelers (official)",
-   "kind": "video",
-   "link": "https://www.youtube.com/shorts/9u3UD3MnNGo",
-   "published": "2026-10-23T14:32:40+00:00",
    "summary": "Video from Pittsburgh Steelers (official)."
   },
   {
@@ -1263,22 +1263,6 @@
    "link": "https://podcasts.apple.com/us/podcast/gday-steelers-nation-it-was-a-steelers-win-but-ot/id905962218?i=1000797805866",
    "published": "2026-10-20T15:30:00+00:00",
    "summary": "Podcast episode from Steel Curtain Network (BTSC)."
-  },
-  {
-   "title": "Hour 1: All Around Contributions from the Steelers",
-   "show": "Steelers Blitz",
-   "kind": "podcast",
-   "link": "https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-102026-mp3",
-   "published": "2026-10-20T15:00:00+00:00",
-   "summary": "Podcast episode from Steelers Blitz."
-  },
-  {
-   "title": "Do Steelers Have Next Rookie of the Year?",
-   "show": "All Steelers Talk",
-   "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/do-steelers-have-next-rookie-of-the-year/id1627248534?i=1000797276743",
-   "published": "2026-10-20T15:00:00+00:00",
-   "summary": "Podcast episode from All Steelers Talk."
   }
  ],
  "yt_channels": [],

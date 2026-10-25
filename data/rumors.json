@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T14:20:24.449430+00:00",
+ "generated": "2026-10-25T16:02:30.576692+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -453,14 +453,16 @@
    "status_link": null,
    "first_seen": "2026-10-23T11:09:06.018743+00:00",
    "consensus": {
-    "cluster_id": "7fd46e561838",
+    "cluster_id": "5a0773cc79d1",
     "independent_sources": 1,
     "sources": [
      "Still Curtain"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "5a0773cc79d1"
+    ]
    },
    "updated": "2026-10-23T11:09:06.018743+00:00"
   },
@@ -789,17 +791,14 @@
    "status_link": null,
    "first_seen": "2026-10-21T23:23:49.000327+00:00",
    "consensus": {
-    "cluster_id": "88ec15922e1e",
-    "independent_sources": 2,
+    "cluster_id": "220ffc62c292",
+    "independent_sources": 1,
     "sources": [
-     "Gridiron Heroics",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
-    "related_ids": [
-     "88ec15922e1e"
-    ]
+    "related_ids": []
    },
    "updated": "2026-10-21T23:23:49.000327+00:00"
   },

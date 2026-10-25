@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-25T14:20:31+00:00",
- "data_updated": "2026-10-25T14:20:04+00:00",
- "count": 127,
+ "generated": "2026-10-25T16:02:37+00:00",
+ "data_updated": "2026-10-25T16:02:17+00:00",
+ "count": 125,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -19,6 +19,19 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/podcasts",
  "items": [
+  {
+   "id": "d09a6caf9b15697d",
+   "type": "video",
+   "title": "HAPPY NATIONAL TE DAY DARNELL 😤 📺: NFLN",
+   "show": "Pittsburgh Steelers (official)",
+   "url": "https://www.youtube.com/shorts/hrO-Nsseh4A",
+   "published": "2026-10-25T14:52:02+00:00",
+   "summary": "Video from Pittsburgh Steelers (official).",
+   "source": {
+    "name": "Pittsburgh Steelers (official)",
+    "url": null
+   }
+  },
   {
    "id": "de9b3640faedb87d",
    "type": "video",
@@ -494,19 +507,6 @@
    "show": "Pittsburgh Steelers (official)",
    "url": "https://www.youtube.com/watch?v=bGqnTI4FLLQ",
    "published": "2026-10-23T15:26:17+00:00",
-   "summary": "Video from Pittsburgh Steelers (official).",
-   "source": {
-    "name": "Pittsburgh Steelers (official)",
-    "url": null
-   }
-  },
-  {
-   "id": "055b48f3345ba69b",
-   "type": "video",
-   "title": "Putting the boys to the test 🇫🇷",
-   "show": "Pittsburgh Steelers (official)",
-   "url": "https://www.youtube.com/shorts/9u3UD3MnNGo",
-   "published": "2026-10-23T14:32:40+00:00",
    "summary": "Video from Pittsburgh Steelers (official).",
    "source": {
     "name": "Pittsburgh Steelers (official)",
@@ -1641,32 +1641,6 @@
    "summary": "Podcast episode from Steel Curtain Network (BTSC).",
    "source": {
     "name": "Steel Curtain Network (BTSC)",
-    "url": null
-   }
-  },
-  {
-   "id": "bdef180e9ac81daa",
-   "type": "podcast_episode",
-   "title": "Hour 1: All Around Contributions from the Steelers",
-   "show": "Steelers Blitz",
-   "url": "https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-102026-mp3",
-   "published": "2026-10-20T15:00:00+00:00",
-   "summary": "Podcast episode from Steelers Blitz.",
-   "source": {
-    "name": "Steelers Blitz",
-    "url": null
-   }
-  },
-  {
-   "id": "b003ee2b9fd45581",
-   "type": "podcast_episode",
-   "title": "Do Steelers Have Next Rookie of the Year?",
-   "show": "All Steelers Talk",
-   "url": "https://podcasts.apple.com/us/podcast/do-steelers-have-next-rookie-of-the-year/id1627248534?i=1000797276743",
-   "published": "2026-10-20T15:00:00+00:00",
-   "summary": "Podcast episode from All Steelers Talk.",
-   "source": {
-    "name": "All Steelers Talk",
     "url": null
    }
   }

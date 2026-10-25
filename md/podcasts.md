@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-25T14:20:31+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T14:20:04+00:00._
+_Generated 2026-10-25T16:02:37+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T16:02:17+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Video: [HAPPY NATIONAL TE DAY DARNELL 😤 📺: NFLN](https://www.youtube.com/shorts/hrO-Nsseh4A): Pittsburgh Steelers (official), 2026-10-25 14:52 UTC
 - Video: [Showtime 🎬 📺: NFLN](https://www.youtube.com/shorts/Q07Pl7A_KYI): Pittsburgh Steelers (official), 2026-10-25 14:08 UTC
 - Video: [8️⃣0️⃣ IN THE BUILDING 📺: NFLN](https://www.youtube.com/shorts/ppYcRsmcywI): Pittsburgh Steelers (official), 2026-10-25 14:05 UTC
 - Video: [Arriving in style 😮‍💨](https://www.youtube.com/shorts/MpZ1TO0DJtg): Pittsburgh Steelers (official), 2026-10-25 12:17 UTC
@@ -40,7 +41,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Aaron Rodgers Press Conference (October 23) | Pittsburgh Steelers](https://www.youtube.com/watch?v=zPJEr9LZ9kE): Pittsburgh Steelers (official), 2026-10-23 16:00 UTC
 - Podcast: [Black & Gold Blueprint: Bucs Game Recap and New Orleans Saints Preview](https://podcasts.apple.com/us/podcast/black-gold-blueprint-bucs-game-recap-and-new-orleans/id905962218?i=1000797805954): Steel Curtain Network (BTSC), 2026-10-23 15:30 UTC
 - Video: [Coach Mike McCarthy Press Conference (October 23) | Pittsburgh Steelers](https://www.youtube.com/watch?v=bGqnTI4FLLQ): Pittsburgh Steelers (official), 2026-10-23 15:26 UTC
-- Video: [Putting the boys to the test 🇫🇷](https://www.youtube.com/shorts/9u3UD3MnNGo): Pittsburgh Steelers (official), 2026-10-23 14:32 UTC
 - Podcast: [Steelers Have NO EXCUSES Against the Saints… Here’s Why #Steelers #NFL](https://podcasts.apple.com/us/podcast/steelers-have-no-excuses-against-the-saints-heres-why/id1623192893?i=1000797784376): The Steel City Insider (Jim Wexell, 247Sports), 2026-10-23 13:22 UTC
 - Podcast: [Steelers Travel Plans Keep Browns Game In Sight](https://podcasts.apple.com/us/podcast/steelers-travel-plans-keep-browns-game-in-sight/id1627248534?i=1000797780125): All Steelers Talk, 2026-10-23 12:32 UTC
 - Podcast: [Let's Ride: Steelers Keys to Victory vs. the Saints, Week 7](https://podcasts.apple.com/us/podcast/lets-ride-steelers-keys-to-victory-vs-the-saints-week-7/id905962218?i=1000797805953): Steel Curtain Network (BTSC), 2026-10-23 08:00 UTC
@@ -128,8 +128,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Just having Tom Brady was enough for them to think they had a chance 😮‍💨🔥#patriots #tombrady](https://www.youtube.com/shorts/YF0Yc1KkCzA): Not Just Football with Cam Heyward, 2026-10-20 16:00 UTC
 - Video: [Steelers' DL Grades vs Bucs](https://www.youtube.com/shorts/WgQOVchjdTg): Steelers Almighty, 2026-10-20 15:33 UTC
 - Podcast: [G'Day Steelers Nation: It was a Steelers win, but OT was avoidable](https://podcasts.apple.com/us/podcast/gday-steelers-nation-it-was-a-steelers-win-but-ot/id905962218?i=1000797805866): Steel Curtain Network (BTSC), 2026-10-20 15:30 UTC
-- Podcast: [Hour 1: All Around Contributions from the Steelers](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-102026-mp3): Steelers Blitz, 2026-10-20 15:00 UTC
-- Podcast: [Do Steelers Have Next Rookie of the Year?](https://podcasts.apple.com/us/podcast/do-steelers-have-next-rookie-of-the-year/id1627248534?i=1000797276743): All Steelers Talk, 2026-10-20 15:00 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

@@ -2,8 +2,8 @@
  "api_version": "1",
  "dataset": "news",
  "description": "Steelers headlines from beat writers, national outlets and blogs, with our one-line summaries and links to the publisher.",
- "generated": "2026-10-25T14:20:31+00:00",
- "data_updated": "2026-10-25T14:19:48+00:00",
+ "generated": "2026-10-25T16:02:37+00:00",
+ "data_updated": "2026-10-25T15:08:55+00:00",
  "count": 150,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
@@ -20,17 +20,134 @@
  "html": "https://blackandgolddispatch.com/#/",
  "items": [
   {
-   "id": "b1b9b0e0bc0e7f80",
+   "id": "6dbe9c713dbd56ba",
    "type": "news",
-   "title": "Live*Free*𝚆𝙰𝚃𝙲𝙷 New Orleans Saints vs. Pittsburgh Steelers 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ!NFL",
-   "summary": "Game story from Jackson County Pilot. Full report at the original publisher.",
-   "url": "https://www.jacksoncountypilot.com/articles/livefree%F0%9D%9A%86%F0%9D%99%B0%F0%9D%9A%83%F0%9D%99%B2%F0%9D%99%B7-new-orleans-saints-vs-pittsburgh-steelers-%F0%9D%90%8B%F0%9D%90%88%F0%9D%90%95%F0%9D%90%84-%EF%BD%93%EF%BD%94%EF%BD%92%EF%BD%85/",
+   "title": "Halftime Update: Pittsburgh Steelers 13, New Orleans Saints 10 | 2026 NFL Week 7",
+   "summary": "News story from New Orleans Saints | NewOrleansSaints.com. Full report at the original publisher.",
+   "url": "https://www.neworleanssaints.com/news/2026-nfl-week-7-pittsburgh-steelers-vs-new-orleans-saints-halftime-update",
    "source": {
-    "name": "Jackson County Pilot",
+    "name": "New Orleans Saints | NewOrleansSaints.com",
     "url": null
    },
-   "published": "2026-10-25T14:01:35+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "published": "2026-10-25T15:06:15+00:00",
+   "retrieved": "2026-10-25T15:08:55+00:00"
+  },
+  {
+   "id": "9278c7e6208a57a2",
+   "type": "news",
+   "title": "Jamel Dean's 'Peanut Punch' induces a fumble from Shough near the pylon",
+   "summary": "News story from NFL.com. Full report at the original publisher.",
+   "url": "https://www.nfl.com/videos/jamel-dean-s-peanut-punch-induces-a-fumble-from-shough-near-the-pylon",
+   "source": {
+    "name": "NFL.com",
+    "url": null
+   },
+   "published": "2026-10-25T15:04:35+00:00",
+   "retrieved": "2026-10-25T15:08:55+00:00"
+  },
+  {
+   "id": "1e4bd4523b0d44f4",
+   "type": "news",
+   "title": "Can't-Miss Play: Darnell Washington Mosses Saints defender on Rodgers' 4-yard TD pass in Paris",
+   "summary": "News story from NFL.com. Full report at the original publisher.",
+   "url": "https://www.nfl.com/videos/can-t-miss-play-darnell-washington-mosses-saints-defender-on-rodgers-4-yard-td-pass-in-paris",
+   "source": {
+    "name": "NFL.com",
+    "url": null
+   },
+   "published": "2026-10-25T14:52:43+00:00",
+   "retrieved": "2026-10-25T15:08:55+00:00"
+  },
+  {
+   "id": "3e9db508fe392d67",
+   "type": "news",
+   "title": "Aaron Rodgers passes Peyton Manning on all-time touchdowns list",
+   "summary": "News story from Behind the Steel Curtain. Full report at the original publisher.",
+   "url": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176864/aaron-rodgers-passes-peyton-manning-on-all-time-touchdowns-list",
+   "source": {
+    "name": "Behind the Steel Curtain",
+    "url": null
+   },
+   "published": "2026-10-25T14:46:50+00:00",
+   "retrieved": "2026-10-25T15:08:55+00:00"
+  },
+  {
+   "id": "645b05cab74e9eb1",
+   "type": "news",
+   "title": "Rodgers now 3rd all time in passing TDs",
+   "summary": "News story from Steelers.com (official). Full report at the original publisher.",
+   "url": "https://www.steelers.com/news/rodgers-now-3rd-all-time-in-passing-tds",
+   "source": {
+    "name": "Steelers.com (official)",
+    "url": null
+   },
+   "published": "2026-10-25T14:45:00+00:00",
+   "retrieved": "2026-10-25T15:08:55+00:00"
+  },
+  {
+   "id": "8f10c77d63e7dcc1",
+   "type": "news",
+   "title": "Steelers' Aaron Rodgers makes history during NFL's first game in Paris",
+   "summary": "Game story from CBS Sports. Full report at the original publisher.",
+   "url": "https://www.cbssports.com/nfl/news/steelers-aaron-rodgers-makes-history-nfls-first-game-in-paris/",
+   "source": {
+    "name": "CBS Sports",
+    "url": null
+   },
+   "published": "2026-10-25T14:43:38+00:00",
+   "retrieved": "2026-10-25T15:08:55+00:00"
+  },
+  {
+   "id": "1527c6ff6f02e16f",
+   "type": "news",
+   "title": "T.J. Watt boosts his 2026 sack total to 5.5 via takedown of Shough in Paris",
+   "summary": "News story from NFL.com. Full report at the original publisher.",
+   "url": "https://www.nfl.com/videos/t-j-watt-boosts-his-2026-sack-total-to-5-5-via-takedown-of-shough-in-paris",
+   "source": {
+    "name": "NFL.com",
+    "url": null
+   },
+   "published": "2026-10-25T14:38:56+00:00",
+   "retrieved": "2026-10-25T15:08:55+00:00"
+  },
+  {
+   "id": "fcf86a30df9016b6",
+   "type": "news",
+   "title": "Aaron Rodgers Surpasses Peyton Manning On NFL Touchdown Leaderboard",
+   "summary": "News story from Steelers Depot. Full report at the original publisher.",
+   "url": "https://steelersdepot.com/2026/10/aaron-rodgers-surpasses-peyton-manning-on-nfl-touchdown-leaderboard/",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null
+   },
+   "published": "2026-10-25T14:35:43+00:00",
+   "retrieved": "2026-10-25T15:08:55+00:00"
+  },
+  {
+   "id": "19bac195ba07dc8c",
+   "type": "news",
+   "title": "Aaron Rodgers Surpasses Peyton Manning for Major NFL Record",
+   "summary": "News story from Steelers Now. Full report at the original publisher.",
+   "url": "https://steelersnow.com/aaron-rodgers-surpasses-peyton-manning-for-major-nfl-record/",
+   "source": {
+    "name": "Steelers Now",
+    "url": null
+   },
+   "published": "2026-10-25T14:32:19+00:00",
+   "retrieved": "2026-10-25T15:08:55+00:00"
+  },
+  {
+   "id": "4bb02abd9affb3b2",
+   "type": "news",
+   "title": "New Orleans Saints vs. Pittsburgh Steelers: Live update",
+   "summary": "Game story from WDSU. Full report at the original publisher.",
+   "url": "https://www.wdsu.com/article/new-orleans-saints-steelers-paris-game-score/74240367",
+   "source": {
+    "name": "WDSU",
+    "url": null
+   },
+   "published": "2026-10-25T14:03:00+00:00",
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "73c93d13da3a9a15",
@@ -43,7 +160,7 @@
     "url": null
    },
    "published": "2026-10-25T13:52:55+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "f203859bc0cc48cc",
@@ -56,7 +173,7 @@
     "url": null
    },
    "published": "2026-10-25T13:46:51+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "344f806fb89c4212",
@@ -69,7 +186,7 @@
     "url": null
    },
    "published": "2026-10-25T13:40:58+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "e7ac42a635731042",
@@ -82,7 +199,7 @@
     "url": null
    },
    "published": "2026-10-25T13:29:00+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "b57862ce403ac7db",
@@ -95,7 +212,7 @@
     "url": null
    },
    "published": "2026-10-25T13:27:56+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "abf705d4af8bb17e",
@@ -108,20 +225,7 @@
     "url": null
    },
    "published": "2026-10-25T13:23:26+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
-  },
-  {
-   "id": "a4fd1d9b608b7b69",
-   "type": "news",
-   "title": "Aaron Rodgers, Steelers QBs coordinate suits, flat caps before game in France",
-   "summary": "Game story from Yahoo Sports. Full report at the original publisher.",
-   "url": "https://sports.yahoo.com/articles/aaron-rodgers-steelers-qbs-coordinate-132255386.html",
-   "source": {
-    "name": "Yahoo Sports",
-    "url": null
-   },
-   "published": "2026-10-25T13:22:55+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "9c7aeea995f4fcec",
@@ -134,7 +238,7 @@
     "url": null
    },
    "published": "2026-10-25T13:15:00+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "fc27798bf4925b80",
@@ -147,20 +251,7 @@
     "url": null
    },
    "published": "2026-10-25T13:14:00+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
-  },
-  {
-   "id": "3d8c5890ffafa824",
-   "type": "news",
-   "title": "Steelers vs. Saints: NFL Week 7 in Paris discussion",
-   "summary": "Game story from Yahoo Sports. Full report at the original publisher.",
-   "url": "https://sports.yahoo.com/articles/steelers-vs-saints-nfl-week-131100006.html",
-   "source": {
-    "name": "Yahoo Sports",
-    "url": null
-   },
-   "published": "2026-10-25T13:11:00+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "5348c7cc60da27a4",
@@ -173,12 +264,12 @@
     "url": null
    },
    "published": "2026-10-25T13:04:34+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "38d70b504d43527b",
    "type": "news",
-   "title": "Live updates: Steelers lead Saints early in Paris",
+   "title": "Live updates: Steelers hold small lead over Saints at halftime in Paris",
    "summary": "News story from PennLive (Nick Farabaugh). Full report at the original publisher.",
    "url": "https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-at-new-orleans-saints-nfl-week-7-live-updates.html",
    "source": {
@@ -186,33 +277,7 @@
     "url": null
    },
    "published": "2026-10-25T13:04:07+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
-  },
-  {
-   "id": "7d90cb133c36823a",
-   "type": "news",
-   "title": "Steelers new uniforms: Pittsburgh mixes, matches for NFL game in France",
-   "summary": "Game story from USA Today. Full report at the original publisher.",
-   "url": "https://www.usatoday.com/story/sports/nfl/steelers/2026/10/25/steelers-uniforms-france-saints-black-pants/92429518007/",
-   "source": {
-    "name": "USA Today",
-    "url": null
-   },
-   "published": "2026-10-25T13:03:58+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
-  },
-  {
-   "id": "2c9ac506367a0c69",
-   "type": "news",
-   "title": "NFL Paris 2026 LIVE: Updates, result, highlights from New Orleans Saints against Pittsburgh Steelers at Stade de France",
-   "summary": "News story from Sky Sports. Full report at the original publisher.",
-   "url": "https://www.skysports.com/nfl/live-blog/13603492/nfl-paris-2026-live-updates-result-highlights-from-new-orleans-saints-against-pittsburgh-steelers-at-stade-de-france",
-   "source": {
-    "name": "Sky Sports",
-    "url": null
-   },
-   "published": "2026-10-25T13:00:00+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "151d6b2f97778e8d",
@@ -225,7 +290,7 @@
     "url": null
    },
    "published": "2026-10-25T12:59:46+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "d9c4c8c45cf6ba40",
@@ -238,7 +303,7 @@
     "url": null
    },
    "published": "2026-10-25T12:51:54+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "2d1ce7e4a8475cf6",
@@ -251,7 +316,7 @@
     "url": null
    },
    "published": "2026-10-25T12:51:20+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "cacea14143539537",
@@ -264,7 +329,7 @@
     "url": null
    },
    "published": "2026-10-25T12:49:33+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "6729fca22a218934",
@@ -277,7 +342,7 @@
     "url": null
    },
    "published": "2026-10-25T12:30:52+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "7b84fcfe81abc657",
@@ -290,7 +355,7 @@
     "url": null
    },
    "published": "2026-10-25T12:28:00+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "aaa8b9ec36eff71e",
@@ -303,7 +368,7 @@
     "url": null
    },
    "published": "2026-10-25T12:27:01+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "c38b4fe6b50e93aa",
@@ -316,7 +381,20 @@
     "url": null
    },
    "published": "2026-10-25T12:20:32+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
+  },
+  {
+   "id": "3740c75a9f2df1af",
+   "type": "news",
+   "title": "Team announce inactive players for Saints vs. Steelers in Paris",
+   "summary": "Game story from Saints Wire. Full report at the original publisher.",
+   "url": "https://saintswire.usatoday.com/story/sports/nfl/saints/2026/10/25/saints-steelers-inactive-players-nfl-paris-game/92429287007/",
+   "source": {
+    "name": "Saints Wire",
+    "url": null
+   },
+   "published": "2026-10-25T12:11:34+00:00",
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "9d487240440ce12d",
@@ -329,7 +407,7 @@
     "url": null
    },
    "published": "2026-10-25T12:09:30+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "8524862486e7e8b4",
@@ -342,7 +420,7 @@
     "url": null
    },
    "published": "2026-10-25T12:04:41+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "486032436d549d3d",
@@ -355,7 +433,7 @@
     "url": null
    },
    "published": "2026-10-25T12:01:07+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "49cb4ef43ba630f7",
@@ -368,7 +446,7 @@
     "url": null
    },
    "published": "2026-10-25T12:00:43+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "b75dd10cbb9e65bd",
@@ -381,7 +459,7 @@
     "url": null
    },
    "published": "2026-10-25T12:00:00+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "85eead549e47658e",
@@ -394,7 +472,7 @@
     "url": null
    },
    "published": "2026-10-25T12:00:00+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "5fc33810deef94a4",
@@ -407,7 +485,7 @@
     "url": null
    },
    "published": "2026-10-25T12:00:00+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "f35eba5c193251a0",
@@ -420,7 +498,7 @@
     "url": null
    },
    "published": "2026-10-25T11:56:17+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "48042dad8623a802",
@@ -433,7 +511,7 @@
     "url": null
    },
    "published": "2026-10-25T11:53:54+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "bca586aa864274fc",
@@ -446,7 +524,7 @@
     "url": null
    },
    "published": "2026-10-25T11:48:00+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "80a32a755ec9d21f",
@@ -459,7 +537,7 @@
     "url": null
    },
    "published": "2026-10-25T11:40:23+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "f5c4681b7cd104ba",
@@ -472,7 +550,7 @@
     "url": null
    },
    "published": "2026-10-25T11:16:57+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "15299c13d27983fb",
@@ -485,7 +563,7 @@
     "url": null
    },
    "published": "2026-10-25T11:01:17+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "1c62529a4533eb97",
@@ -498,7 +576,7 @@
     "url": null
    },
    "published": "2026-10-25T11:00:00+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "1fad850306ef2f08",
@@ -511,20 +589,7 @@
     "url": null
    },
    "published": "2026-10-25T10:40:18+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
-  },
-  {
-   "id": "4bb02abd9affb3b2",
-   "type": "news",
-   "title": "Countdown to Kickoff: New Orleans Saints ready for historic game against Steelers in Paris",
-   "summary": "Game story from WDSU. Full report at the original publisher.",
-   "url": "https://www.wdsu.com/article/new-orleans-saints-steelers-paris-game-score/74240367",
-   "source": {
-    "name": "WDSU",
-    "url": null
-   },
-   "published": "2026-10-25T10:39:00+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "1e699376669d9e01",
@@ -537,7 +602,7 @@
     "url": null
    },
    "published": "2026-10-25T10:30:00+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "b6531e9c3610a3b2",
@@ -550,7 +615,7 @@
     "url": null
    },
    "published": "2026-10-25T10:15:37+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "711f58947bdf0cb9",
@@ -563,7 +628,7 @@
     "url": null
    },
    "published": "2026-10-25T10:05:00+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "29572147eed35b3c",
@@ -576,7 +641,7 @@
     "url": null
    },
    "published": "2026-10-25T10:00:18+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "391e0e80db5cdeef",
@@ -589,7 +654,7 @@
     "url": null
    },
    "published": "2026-10-25T10:00:00+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "c16b37bcbd913ce7",
@@ -602,7 +667,7 @@
     "url": null
    },
    "published": "2026-10-25T09:30:00+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "9c07579fecbe7642",
@@ -615,7 +680,7 @@
     "url": null
    },
    "published": "2026-10-25T09:00:36+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "c7e06dc551260450",
@@ -628,7 +693,7 @@
     "url": null
    },
    "published": "2026-10-25T09:00:00+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "132712034fc3d060",
@@ -641,7 +706,7 @@
     "url": null
    },
    "published": "2026-10-25T08:00:00+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "53a4a2ecaae15865",
@@ -654,20 +719,7 @@
     "url": null
    },
    "published": "2026-10-25T08:00:00+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
-  },
-  {
-   "id": "8f33fdc4581969b9",
-   "type": "news",
-   "title": "Pittsburgh Steelers Wearing New Uniform Combination During Sunday’s Game In Paris",
-   "summary": "Game story from SportsLogos.Net News. Full report at the original publisher.",
-   "url": "https://news.sportslogos.net/2026/10/25/pittsburgh-steelers-wearing-new-uniform-combination-during-sundays-game-in-paris/football/",
-   "source": {
-    "name": "SportsLogos.Net News",
-    "url": null
-   },
-   "published": "2026-10-25T05:11:50+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "376d419bd0adbafa",
@@ -680,7 +732,7 @@
     "url": null
    },
    "published": "2026-10-25T04:52:03+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "da3c56266aa8f04b",
@@ -693,7 +745,7 @@
     "url": null
    },
    "published": "2026-10-25T04:00:14+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "2a8721a5c21db550",
@@ -706,7 +758,7 @@
     "url": null
    },
    "published": "2026-10-25T03:00:51+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "535145f81b3ef200",
@@ -719,7 +771,7 @@
     "url": null
    },
    "published": "2026-10-25T02:16:23+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "7e778483cefc29e7",
@@ -732,7 +784,7 @@
     "url": null
    },
    "published": "2026-10-25T02:02:40+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "0968817d0fa0568c",
@@ -745,7 +797,7 @@
     "url": null
    },
    "published": "2026-10-25T02:00:50+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "77537b3d190268a7",
@@ -758,7 +810,7 @@
     "url": null
    },
    "published": "2026-10-25T02:00:45+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "e6d44b69cc89a01e",
@@ -771,7 +823,7 @@
     "url": null
    },
    "published": "2026-10-25T01:13:39+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "715ad40c928b57a0",
@@ -784,7 +836,7 @@
     "url": null
    },
    "published": "2026-10-25T01:06:14+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "66f4d8ae3ab612fa",
@@ -797,7 +849,7 @@
     "url": null
    },
    "published": "2026-10-25T01:00:36+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "d511d309d5d5ca6e",
@@ -810,7 +862,7 @@
     "url": null
    },
    "published": "2026-10-25T01:00:09+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "8329f629da195474",
@@ -823,7 +875,7 @@
     "url": null
    },
    "published": "2026-10-25T00:47:59+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "612bcbe54942d31b",
@@ -836,7 +888,7 @@
     "url": null
    },
    "published": "2026-10-25T00:23:05+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "5e9c82cc2975ef90",
@@ -849,7 +901,7 @@
     "url": null
    },
    "published": "2026-10-24T23:45:46+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "51d8c6484b8ad843",
@@ -862,7 +914,7 @@
     "url": null
    },
    "published": "2026-10-24T23:30:34+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "9ab491ca288e6acd",
@@ -875,7 +927,7 @@
     "url": null
    },
    "published": "2026-10-24T23:05:44+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "29a90ca739c924b4",
@@ -888,7 +940,7 @@
     "url": null
    },
    "published": "2026-10-24T23:01:46+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "420ac74b84f103e9",
@@ -901,7 +953,7 @@
     "url": null
    },
    "published": "2026-10-24T22:21:02+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "d3fcc1a82269afd2",
@@ -914,7 +966,7 @@
     "url": null
    },
    "published": "2026-10-24T22:00:32+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "51789435eed14a85",
@@ -927,7 +979,7 @@
     "url": null
    },
    "published": "2026-10-24T21:30:42+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "8a666f3d1a3dc495",
@@ -940,7 +992,7 @@
     "url": null
    },
    "published": "2026-10-24T21:30:00+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "b3b86933a304ba29",
@@ -953,7 +1005,7 @@
     "url": null
    },
    "published": "2026-10-24T21:08:43+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "5a269cb5b59f0979",
@@ -966,7 +1018,7 @@
     "url": null
    },
    "published": "2026-10-24T21:00:07+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "84d9d9fbfc1eee3c",
@@ -979,7 +1031,7 @@
     "url": null
    },
    "published": "2026-10-24T20:59:35+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "66d1ff8e5c3d7333",
@@ -992,7 +1044,7 @@
     "url": null
    },
    "published": "2026-10-24T20:46:09+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "774ab4257f6c294d",
@@ -1005,7 +1057,7 @@
     "url": null
    },
    "published": "2026-10-24T20:37:11+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "b7134c9ba164fde5",
@@ -1018,7 +1070,7 @@
     "url": null
    },
    "published": "2026-10-24T20:09:52+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "546d683b6b2fdcf7",
@@ -1031,7 +1083,7 @@
     "url": null
    },
    "published": "2026-10-24T20:00:33+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "d70f88bfcdeaf72c",
@@ -1044,7 +1096,7 @@
     "url": null
    },
    "published": "2026-10-24T19:59:56+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "eb5ebaba5b7166d6",
@@ -1057,7 +1109,7 @@
     "url": null
    },
    "published": "2026-10-24T19:15:23+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "13e6a53a07250b30",
@@ -1070,7 +1122,7 @@
     "url": null
    },
    "published": "2026-10-24T19:00:53+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "3d217bb416938893",
@@ -1083,7 +1135,7 @@
     "url": null
    },
    "published": "2026-10-24T18:33:43+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "2e7a66a7ccfbb330",
@@ -1096,7 +1148,7 @@
     "url": null
    },
    "published": "2026-10-24T18:11:08+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "ca674512110ec001",
@@ -1109,7 +1161,7 @@
     "url": null
    },
    "published": "2026-10-24T18:05:57+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "a1153189236c171a",
@@ -1122,7 +1174,7 @@
     "url": null
    },
    "published": "2026-10-24T18:04:33+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "e607a7bfb6b6ec69",
@@ -1135,7 +1187,7 @@
     "url": null
    },
    "published": "2026-10-24T18:00:05+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "1137b39c6476eab7",
@@ -1148,7 +1200,7 @@
     "url": null
    },
    "published": "2026-10-24T17:54:05+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "c4587f8d40643245",
@@ -1161,7 +1213,7 @@
     "url": null
    },
    "published": "2026-10-24T17:25:04+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "d73aa03adc8e4468",
@@ -1174,20 +1226,7 @@
     "url": null
    },
    "published": "2026-10-24T17:24:52+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
-  },
-  {
-   "id": "4ca12f0a1bde23b0",
-   "type": "news",
-   "title": "Fowler: Executives Believe Jaguars Will ‘Seriously’ Consider Trading WR Brian Thomas Jr.",
-   "summary": "News story from Steelers Depot. Full report at the original publisher.",
-   "url": "https://steelersdepot.com/2026/10/fowler-executives-believe-jaguars-will-seriously-consider-trading-wr-brian-thomas-jr/",
-   "source": {
-    "name": "Steelers Depot",
-    "url": null
-   },
-   "published": "2026-10-24T17:00:10+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "7c9029109526f581",
@@ -1200,7 +1239,7 @@
     "url": null
    },
    "published": "2026-10-24T16:57:30+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "571503dc26cd9187",
@@ -1213,7 +1252,7 @@
     "url": null
    },
    "published": "2026-10-24T16:24:11+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "a84c5968efed57ef",
@@ -1226,7 +1265,7 @@
     "url": null
    },
    "published": "2026-10-24T16:15:29+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "46cab10ccbada54e",
@@ -1239,7 +1278,7 @@
     "url": null
    },
    "published": "2026-10-24T16:00:04+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "4adf6b3c3a18fe47",
@@ -1252,7 +1291,7 @@
     "url": null
    },
    "published": "2026-10-24T15:58:34+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "929daeced33afa2e",
@@ -1265,7 +1304,7 @@
     "url": null
    },
    "published": "2026-10-24T15:53:18+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "06d0137ee5a69b8a",
@@ -1278,7 +1317,7 @@
     "url": null
    },
    "published": "2026-10-24T15:05:42+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "da412f102a1825ba",
@@ -1291,7 +1330,7 @@
     "url": null
    },
    "published": "2026-10-24T15:00:49+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "f7f8b727db9c7ede",
@@ -1304,7 +1343,7 @@
     "url": null
    },
    "published": "2026-10-24T14:55:23+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "c30039c57160512a",
@@ -1317,7 +1356,7 @@
     "url": null
    },
    "published": "2026-10-24T14:54:26+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "5ba04600dcb2e281",
@@ -1330,7 +1369,7 @@
     "url": null
    },
    "published": "2026-10-24T14:45:00+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "1f0b767f0bececfa",
@@ -1343,7 +1382,7 @@
     "url": null
    },
    "published": "2026-10-24T14:37:37+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "2db4a813a5621e22",
@@ -1356,7 +1395,7 @@
     "url": null
    },
    "published": "2026-10-24T14:30:36+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "d83f083d26f4b8dd",
@@ -1369,7 +1408,7 @@
     "url": null
    },
    "published": "2026-10-24T14:25:06+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "e11232175b6895b1",
@@ -1382,7 +1421,7 @@
     "url": null
    },
    "published": "2026-10-24T14:00:03+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "3b870252fadacc25",
@@ -1395,7 +1434,7 @@
     "url": null
    },
    "published": "2026-10-24T14:00:00+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "097d95c554995404",
@@ -1408,20 +1447,7 @@
     "url": null
    },
    "published": "2026-10-24T14:00:00+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
-  },
-  {
-   "id": "1025a3998569e70d",
-   "type": "news",
-   "title": "Steelers to Debut New Uniform Combination in Paris",
-   "summary": "News story from Steelers Now. Full report at the original publisher.",
-   "url": "https://steelersnow.com/steelers-to-debut-new-uniform-combination-in-paris/",
-   "source": {
-    "name": "Steelers Now",
-    "url": null
-   },
-   "published": "2026-10-24T13:55:25+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "b42bbcb565e37824",
@@ -1434,7 +1460,7 @@
     "url": null
    },
    "published": "2026-10-24T13:45:32+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "d2450118aa2415cd",
@@ -1447,7 +1473,7 @@
     "url": null
    },
    "published": "2026-10-24T13:01:51+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "35ded3e0a47635e4",
@@ -1460,7 +1486,7 @@
     "url": null
    },
    "published": "2026-10-24T13:00:00+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "8695f97ba7ff6869",
@@ -1473,7 +1499,7 @@
     "url": null
    },
    "published": "2026-10-24T12:05:57+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "964901019b69d4dc",
@@ -1486,7 +1512,7 @@
     "url": null
    },
    "published": "2026-10-24T12:00:02+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "5e328d45efd7c005",
@@ -1499,7 +1525,7 @@
     "url": null
    },
    "published": "2026-10-24T12:00:00+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "cd43607e0a43f146",
@@ -1512,7 +1538,7 @@
     "url": null
    },
    "published": "2026-10-24T12:00:00+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "8f240a01f02ba979",
@@ -1525,7 +1551,7 @@
     "url": null
    },
    "published": "2026-10-24T11:00:02+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "bdbdd05509312ae4",
@@ -1538,7 +1564,7 @@
     "url": null
    },
    "published": "2026-10-24T11:00:01+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "8b8ab3066d68822d",
@@ -1551,7 +1577,7 @@
     "url": null
    },
    "published": "2026-10-24T10:00:00+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "88e0695bd17a05d9",
@@ -1564,7 +1590,7 @@
     "url": null
    },
    "published": "2026-10-24T09:00:50+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "da3ab463247bd72a",
@@ -1577,7 +1603,7 @@
     "url": null
    },
    "published": "2026-10-24T08:00:00+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "62cdf8875845363b",
@@ -1590,20 +1616,7 @@
     "url": null
    },
    "published": "2026-10-24T00:05:35+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
-  },
-  {
-   "id": "c11a4b58e39dd6f0",
-   "type": "news",
-   "title": "Friday Night Happy Hour: European vacation edition",
-   "summary": "News story from Behind the Steel Curtain. Full report at the original publisher.",
-   "url": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-discussion/176771/friday-night-happy-hour-european-vacation-edition",
-   "source": {
-    "name": "Behind the Steel Curtain",
-    "url": null
-   },
-   "published": "2026-10-23T22:30:00+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "b58e16cfe6374b5a",
@@ -1616,7 +1629,7 @@
     "url": null
    },
    "published": "2026-10-23T22:00:01+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "27f045aa8c747ccf",
@@ -1629,7 +1642,7 @@
     "url": null
    },
    "published": "2026-10-23T21:02:32+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "c872b2d3d28980ea",
@@ -1642,7 +1655,7 @@
     "url": null
    },
    "published": "2026-10-23T18:45:36+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "236f519987feb802",
@@ -1655,7 +1668,7 @@
     "url": null
    },
    "published": "2026-10-23T18:43:14+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "e733a30d2220bc5f",
@@ -1668,7 +1681,7 @@
     "url": null
    },
    "published": "2026-10-23T17:30:31+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "25cb6a16d0a729ca",
@@ -1681,7 +1694,7 @@
     "url": null
    },
    "published": "2026-10-23T17:22:00+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "a09449799a6b8b8f",
@@ -1694,7 +1707,7 @@
     "url": null
    },
    "published": "2026-10-23T16:33:39+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "ba029abab418f835",
@@ -1707,7 +1720,7 @@
     "url": null
    },
    "published": "2026-10-23T16:00:02+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "3116b64722287460",
@@ -1720,7 +1733,7 @@
     "url": null
    },
    "published": "2026-10-23T15:00:36+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "9842ca9512b36c10",
@@ -1733,7 +1746,7 @@
     "url": null
    },
    "published": "2026-10-23T15:00:00+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "bd27254f7f7e95a9",
@@ -1746,7 +1759,7 @@
     "url": null
    },
    "published": "2026-10-23T14:47:38+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "3db6deb56511c30a",
@@ -1759,7 +1772,7 @@
     "url": null
    },
    "published": "2026-10-23T14:33:34+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "62aed44ce108ade5",
@@ -1772,7 +1785,7 @@
     "url": null
    },
    "published": "2026-10-23T14:00:50+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "595924af2d840d1c",
@@ -1785,7 +1798,7 @@
     "url": null
    },
    "published": "2026-10-23T14:00:00+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "e7f62c7ea3a0d77e",
@@ -1798,7 +1811,7 @@
     "url": null
    },
    "published": "2026-10-23T14:00:00+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "a87027a94fb2adc4",
@@ -1811,7 +1824,7 @@
     "url": null
    },
    "published": "2026-10-23T13:51:57+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "585ba7008c39dd06",
@@ -1824,7 +1837,7 @@
     "url": null
    },
    "published": "2026-10-23T13:45:00+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "8953658802622699",
@@ -1837,7 +1850,7 @@
     "url": null
    },
    "published": "2026-10-23T13:28:16+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "9fa7cfbdfa210cf5",
@@ -1850,7 +1863,7 @@
     "url": null
    },
    "published": "2026-10-23T12:31:58+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "5de6ba4f34e09467",
@@ -1863,7 +1876,7 @@
     "url": null
    },
    "published": "2026-10-23T12:30:00+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "30f4214345411598",
@@ -1876,7 +1889,7 @@
     "url": null
    },
    "published": "2026-10-23T12:29:04+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "b6a691e9e31dbef7",
@@ -1889,7 +1902,7 @@
     "url": null
    },
    "published": "2026-10-23T12:08:51+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "79aa9e2ca3d66c1f",
@@ -1902,7 +1915,7 @@
     "url": null
    },
    "published": "2026-10-23T12:04:25+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "580bf5aa432eb669",
@@ -1915,7 +1928,7 @@
     "url": null
    },
    "published": "2026-10-23T12:00:00+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "43776160e19d5bd5",
@@ -1928,7 +1941,7 @@
     "url": null
    },
    "published": "2026-10-23T11:55:00+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "d3d1e9386bf74128",
@@ -1941,7 +1954,7 @@
     "url": null
    },
    "published": "2026-10-23T11:50:38+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   },
   {
    "id": "14d0f3a803dc1a70",
@@ -1954,20 +1967,7 @@
     "url": null
    },
    "published": "2026-10-23T11:38:54+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
-  },
-  {
-   "id": "7fd46e561838fbf2",
-   "type": "news",
-   "title": "4 wide receivers Steelers should target ahead of the NFL trade deadline",
-   "summary": "Trade/roster move story from Still Curtain. Full report at the original publisher.",
-   "url": "https://stillcurtain.com/4-wide-receivers-pittsburgh-steelers-should-target-ahead-of-the-nfl-trade-deadline-01m5dnq2ch8t?utm_source=RSS",
-   "source": {
-    "name": "Still Curtain",
-    "url": null
-   },
-   "published": "2026-10-23T11:00:04+00:00",
-   "retrieved": "2026-10-25T14:19:48+00:00"
+   "retrieved": "2026-10-25T15:08:55+00:00"
   }
  ]
 }

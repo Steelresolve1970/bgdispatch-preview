@@ -1,6 +1,6 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-25T14:20:31+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T14:20:24+00:00._
+_Generated 2026-10-25T16:02:37+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T16:02:30+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
@@ -55,7 +55,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [NFL trade deadline 2026 big board: 50 players who could be dealt before Nov. 10](https://www.nytimes.com/athletic/7664102/2026/10/22/nfl-trade-deadline-board-players-available/): The Athletic, first seen 2026-10-22 18:10 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [Steelers’ Roster Move Makes $41M Pro Bowler Top Trade Candidate](https://heavy.com/sports/nfl/pittsburgh-steelers/steelers-patrick-queen-trade-candidate-elandon-roberts/): Heavy.com, first seen 2026-10-22 03:37 UTC
-- **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
+- **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
   [Gerry Dulac Shuts Down Steelers Trade Rumors After Marquez Valdes-Scantling Signing](https://sports.yahoo.com/articles/gerry-dulac-shuts-down-steelers-223228013.html): Yahoo Sports, first seen 2026-10-21 23:23 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Steelers Rumors: Latest NFL Trade Intel on Jessie Bates and Derwin James](https://www.chatsports.com/pittsburgh-steelers/a/steelers-rumors-latest-nfl-trade-intel-jessie-bates-and-derwin-james-53472): Chat Sports, first seen 2026-10-21 22:30 UTC

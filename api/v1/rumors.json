@@ -2,8 +2,8 @@
  "api_version": "1",
  "dataset": "rumors",
  "description": "Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).",
- "generated": "2026-10-25T14:20:31+00:00",
- "data_updated": "2026-10-25T14:20:24+00:00",
+ "generated": "2026-10-25T16:02:37+00:00",
+ "data_updated": "2026-10-25T16:02:30+00:00",
  "count": 36,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
@@ -477,14 +477,16 @@
    "published": "2026-10-23T11:00:04+00:00",
    "people": [],
    "consensus": {
-    "cluster_id": "7fd46e561838",
+    "cluster_id": "5a0773cc79d1",
     "independent_sources": 1,
     "sources": [
      "Still Curtain"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "5a0773cc79d1"
+    ]
    }
   },
   {
@@ -849,17 +851,14 @@
    "published": "2026-10-21T22:32:28+00:00",
    "people": [],
    "consensus": {
-    "cluster_id": "88ec15922e1e",
-    "independent_sources": 2,
+    "cluster_id": "220ffc62c292",
+    "independent_sources": 1,
     "sources": [
-     "Gridiron Heroics",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
-    "related_ids": [
-     "88ec15922e1e"
-    ]
+    "related_ids": []
    }
   },
   {
