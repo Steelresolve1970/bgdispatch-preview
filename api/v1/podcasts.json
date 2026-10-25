@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-25T18:53:36+00:00",
- "data_updated": "2026-10-25T18:53:15+00:00",
- "count": 124,
+ "generated": "2026-10-25T19:04:28+00:00",
+ "data_updated": "2026-10-25T19:04:10+00:00",
+ "count": 122,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -19,6 +19,45 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/podcasts",
  "items": [
+  {
+   "id": "39bf3b619904b8a6",
+   "type": "video",
+   "title": "Steelers vs Saints Post Game Show IN PARIS LIVE | Not Just Football",
+   "show": "Not Just Football with Cam Heyward",
+   "url": "https://www.youtube.com/watch?v=3cEWtad5nFI",
+   "published": "2026-10-25T18:34:36+00:00",
+   "summary": "Video from Not Just Football with Cam Heyward.",
+   "source": {
+    "name": "Not Just Football with Cam Heyward",
+    "url": null
+   }
+  },
+  {
+   "id": "b7b63edd124535c3",
+   "type": "video",
+   "title": "Oui did that‼️",
+   "show": "Pittsburgh Steelers (official)",
+   "url": "https://www.youtube.com/shorts/gkYiQKTK4bE",
+   "published": "2026-10-25T18:13:00+00:00",
+   "summary": "Video from Pittsburgh Steelers (official).",
+   "source": {
+    "name": "Pittsburgh Steelers (official)",
+    "url": null
+   }
+  },
+  {
+   "id": "8745b9d1271dbb0f",
+   "type": "video",
+   "title": "DUB IN PARIS 🗣️",
+   "show": "Pittsburgh Steelers (official)",
+   "url": "https://www.youtube.com/shorts/52EPBrMefCM",
+   "published": "2026-10-25T17:58:53+00:00",
+   "summary": "Video from Pittsburgh Steelers (official).",
+   "source": {
+    "name": "Pittsburgh Steelers (official)",
+    "url": null
+   }
+  },
   {
    "id": "7d533777079a5528",
    "type": "podcast_episode",
@@ -55,19 +94,6 @@
    "summary": "Video from Steelers Now.",
    "source": {
     "name": "Steelers Now",
-    "url": null
-   }
-  },
-  {
-   "id": "39bf3b619904b8a6",
-   "type": "video",
-   "title": "Steelers vs Saints Post Game Show IN PARIS LIVE | Not Just Football",
-   "show": "Not Just Football with Cam Heyward",
-   "url": "https://www.youtube.com/watch?v=3cEWtad5nFI",
-   "published": "2026-10-25T16:33:12+00:00",
-   "summary": "Video from Not Just Football with Cam Heyward.",
-   "source": {
-    "name": "Not Just Football with Cam Heyward",
     "url": null
    }
   },
@@ -397,19 +423,6 @@
    }
   },
   {
-   "id": "c810d01b7823c107",
-   "type": "video",
-   "title": "Benton, Dean, Washington & Rubio Press Conference (October 23) | Pittsburgh Steelers",
-   "show": "Pittsburgh Steelers (official)",
-   "url": "https://www.youtube.com/watch?v=wHQaj0ZAn9A",
-   "published": "2026-10-23T17:54:04+00:00",
-   "summary": "Video from Pittsburgh Steelers (official).",
-   "source": {
-    "name": "Pittsburgh Steelers (official)",
-    "url": null
-   }
-  },
-  {
    "id": "168ba5b4befe436d",
    "type": "podcast_episode",
    "title": "Did Steelers Make Travel Mistake? Grand Finale with Jack Hillgrove | THE PITTSBURGH FOOTBALL SHOW",
@@ -523,19 +536,6 @@
    "summary": "Podcast episode from Steelers Afternoon Drive.",
    "source": {
     "name": "Steelers Afternoon Drive",
-    "url": null
-   }
-  },
-  {
-   "id": "3ae866ee18e43948",
-   "type": "video",
-   "title": "Santonio Holmes & Ryan Shazier live from Paris 🙌🇫🇷",
-   "show": "Pittsburgh Steelers (official)",
-   "url": "https://www.youtube.com/shorts/3_gyHud9pTc",
-   "published": "2026-10-23T16:32:06+00:00",
-   "summary": "Video from Pittsburgh Steelers (official).",
-   "source": {
-    "name": "Pittsburgh Steelers (official)",
     "url": null
    }
   },
@@ -1602,32 +1602,6 @@
    "summary": "Podcast episode from The Sick Podcast - Steelers Crazy.",
    "source": {
     "name": "The Sick Podcast - Steelers Crazy",
-    "url": null
-   }
-  },
-  {
-   "id": "7b7c64bc1fec71e7",
-   "type": "podcast_episode",
-   "title": "Drive10.20.26Hr2: Week Seven Power Rankings",
-   "show": "SNR Drive",
-   "url": "https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-20-26hr2-mp3",
-   "published": "2026-10-20T19:00:00+00:00",
-   "summary": "Podcast episode from SNR Drive.",
-   "source": {
-    "name": "SNR Drive",
-    "url": null
-   }
-  },
-  {
-   "id": "3b659b2067260392",
-   "type": "video",
-   "title": "Is the Steelers pass defense actually fine without Joey Porter Jr? #steelers #nfl",
-   "show": "Still Curtain Podcast",
-   "url": "https://www.youtube.com/shorts/I8qkYpoHneg",
-   "published": "2026-10-20T18:15:06+00:00",
-   "summary": "Video from Still Curtain Podcast.",
-   "source": {
-    "name": "Still Curtain Podcast",
     "url": null
    }
   }

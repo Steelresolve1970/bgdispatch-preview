@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "rumors",
  "description": "Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).",
- "generated": "2026-10-25T18:53:36+00:00",
- "data_updated": "2026-10-25T18:53:29+00:00",
- "count": 36,
+ "generated": "2026-10-25T19:04:28+00:00",
+ "data_updated": "2026-10-25T19:04:22+00:00",
+ "count": 37,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -19,6 +19,41 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/rumors",
  "items": [
+  {
+   "id": "5a6d9de5e61f",
+   "type": "rumor",
+   "title": "Aaron Rodgers Shades Steelers Coaches in New Video, Reportedly Called Some Plays in Win vs. Saints",
+   "summary": "Game story from Bleacher Report. Full report at the original publisher.",
+   "url": "https://bleacherreport.com/articles/25520168-aaron-rodgers-shades-steelers-coaches-new-video-reportedly-called-some-plays-win-vs-saints",
+   "source": {
+    "name": "Bleacher Report",
+    "url": null,
+    "reliability_tier": "Aggregator / other",
+    "reliability_score": 1
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-25T19:04:22+00:00",
+   "updated": "2026-10-25T19:04:22+00:00",
+   "published": "2026-10-25T18:45:00+00:00",
+   "people": [],
+   "consensus": {
+    "cluster_id": "173465376593",
+    "independent_sources": 3,
+    "sources": [
+     "Bleacher Report",
+     "Wisconsin Sports Heroics",
+     "Yahoo Sports"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "85d6f65ebcd2",
+     "794b3684899f",
+     "173465376593"
+    ]
+   }
+  },
   {
    "id": "b3b86933a304",
    "type": "rumor",
@@ -252,15 +287,19 @@
     "Aaron Rodgers"
    ],
    "consensus": {
-    "cluster_id": "794b3684899f",
-    "independent_sources": 1,
+    "cluster_id": "173465376593",
+    "independent_sources": 3,
     "sources": [
+     "Bleacher Report",
+     "Wisconsin Sports Heroics",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "794b3684899f"
+     "5a6d9de5e61f",
+     "794b3684899f",
+     "173465376593"
     ]
    }
   },
@@ -1056,15 +1095,19 @@
     "Aaron Rodgers"
    ],
    "consensus": {
-    "cluster_id": "794b3684899f",
-    "independent_sources": 1,
+    "cluster_id": "173465376593",
+    "independent_sources": 3,
     "sources": [
+     "Bleacher Report",
+     "Wisconsin Sports Heroics",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "85d6f65ebcd2"
+     "5a6d9de5e61f",
+     "85d6f65ebcd2",
+     "173465376593"
     ]
    }
   },

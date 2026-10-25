@@ -1,12 +1,14 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-25T18:53:36+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T18:53:15+00:00._
+_Generated 2026-10-25T19:04:28+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T19:04:10+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Video: [Steelers vs Saints Post Game Show IN PARIS LIVE | Not Just Football](https://www.youtube.com/watch?v=3cEWtad5nFI): Not Just Football with Cam Heyward, 2026-10-25 18:34 UTC
+- Video: [Oui did that‼️](https://www.youtube.com/shorts/gkYiQKTK4bE): Pittsburgh Steelers (official), 2026-10-25 18:13 UTC
+- Video: [DUB IN PARIS 🗣️](https://www.youtube.com/shorts/52EPBrMefCM): Pittsburgh Steelers (official), 2026-10-25 17:58 UTC
 - Podcast: [WINNERS! Steelers Are Getting Dangerous!](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-25 17:40 UTC
 - Video: [DAT WAY‼️ 📺: NFLN](https://www.youtube.com/shorts/JM9lq50O3vc): Pittsburgh Steelers (official), 2026-10-25 16:35 UTC
 - Video: [Steelers Now Postgame: Steelers 16, Saints 10](https://www.youtube.com/watch?v=Jo2AvG_tHS4): Steelers Now, 2026-10-25 16:34 UTC
-- Video: [Steelers vs Saints Post Game Show IN PARIS LIVE | Not Just Football](https://www.youtube.com/watch?v=3cEWtad5nFI): Not Just Football with Cam Heyward, 2026-10-25 16:33 UTC
 - Video: [Coach McCarthy & Players Postgame Press Conference (Week 7 at Saints)](https://www.youtube.com/watch?v=AZSrBqY3onk): Pittsburgh Steelers (official), 2026-10-25 16:22 UTC
 - Video: [Picked by Payton‼️ 📺: NFLN](https://www.youtube.com/shorts/ra_a1PpysFo): Pittsburgh Steelers (official), 2026-10-25 15:42 UTC
 - Video: [HAPPY NATIONAL TE DAY DARNELL 😤 📺: NFLN](https://www.youtube.com/shorts/hrO-Nsseh4A): Pittsburgh Steelers (official), 2026-10-25 14:52 UTC
@@ -32,7 +34,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Live Shot of Steelers: Game preview in Paris!](https://podcasts.apple.com/us/podcast/live-shot-of-steelers-game-preview-in-paris/id1072021022?i=1000797842087): DK Pittsburgh Sports, 2026-10-23 20:39 UTC
 - Video: [Pittsburgh meets Paris 🤝🇫🇷](https://www.youtube.com/shorts/lH7u5sp1AWk): Pittsburgh Steelers (official), 2026-10-23 20:33 UTC
 - Video: [The Steelers Play That Changed Elandon Roberts' Career](https://www.youtube.com/watch?v=trO9lggiV-E): Not Just Football with Cam Heyward, 2026-10-23 18:00 UTC
-- Video: [Benton, Dean, Washington & Rubio Press Conference (October 23) | Pittsburgh Steelers](https://www.youtube.com/watch?v=wHQaj0ZAn9A): Pittsburgh Steelers (official), 2026-10-23 17:54 UTC
 - Podcast: [Did Steelers Make Travel Mistake? Grand Finale with Jack Hillgrove | THE PITTSBURGH FOOTBALL SHOW](https://podcasts.apple.com/us/podcast/did-steelers-make-travel-mistake-grand-finale-with/id1700240934?i=1000797823156): Steelers Afternoon Drive, 2026-10-23 17:34 UTC
 - Video: [Did Steelers Make Travel Mistake? Grand Finale with Jack Hillgrove | THE PITTSBURGH FOOTBALL SHOW](https://www.youtube.com/watch?v=9EUA5__ujcU): Steelers Now, 2026-10-23 17:23 UTC
 - Video: [Smitty's Six Pack of Steelers-Saints Topics | THE PITTSBURGH FOOTBALL SHOW](https://www.youtube.com/watch?v=n8h905SxKl0): Steelers Now, 2026-10-23 16:49 UTC
@@ -42,7 +43,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [THE PITTSBURGH FOOTBALL SHOW, Episode 7, Oct. 23, 2026](https://podcasts.apple.com/us/podcast/the-pittsburgh-football-show-episode-7-oct-23-2026/id1700240934?i=1000797816553): Steelers Afternoon Drive, 2026-10-23 16:43 UTC
 - Video: [The Steelers Shouldn't Be Playing in Paris | Steelers Morning Rush](https://www.youtube.com/watch?v=4r5GQlXNOCw): Steelers Now, 2026-10-23 16:37 UTC
 - Podcast: [The Steelers Shouldn't Be Playing in Paris | Steelers Morning Rush](https://podcasts.apple.com/us/podcast/the-steelers-shouldnt-be-playing-in-paris-steelers/id1700240934?i=1000797813600): Steelers Afternoon Drive, 2026-10-23 16:36 UTC
-- Video: [Santonio Holmes & Ryan Shazier live from Paris 🙌🇫🇷](https://www.youtube.com/shorts/3_gyHud9pTc): Pittsburgh Steelers (official), 2026-10-23 16:32 UTC
 - Podcast: [The Terrible Podcast — Steelers Vs Saints Game Preview, Joseph-Day To IR, Week 7 Picks, And More](https://podcasts.apple.com/us/podcast/the-terrible-podcast-steelers-vs-saints-game-preview/id405990739?i=1000797810229): The Terrible Podcast (Steelers Depot), 2026-10-23 16:13 UTC
 - Podcast: [Black & Gold Blueprint: Bucs Game Recap and New Orleans Saints Preview](https://podcasts.apple.com/us/podcast/black-gold-blueprint-bucs-game-recap-and-new-orleans/id905962218?i=1000797805954): Steel Curtain Network (BTSC), 2026-10-23 15:30 UTC
 - Podcast: [Steelers Have NO EXCUSES Against the Saints… Here’s Why #Steelers #NFL](https://podcasts.apple.com/us/podcast/steelers-have-no-excuses-against-the-saints-heres-why/id1623192893?i=1000797784376): The Steel City Insider (Jim Wexell, 247Sports), 2026-10-23 13:22 UTC
@@ -125,8 +125,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Drive10.20.26Hr1: Scouting the Saints](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-20-26hr1-mp3): SNR Drive, 2026-10-20 20:00 UTC
 - Video: [Steelers' LB Grades vs Bucs](https://www.youtube.com/shorts/sxaS_1dQBHA): Steelers Almighty, 2026-10-20 19:52 UTC
 - Podcast: [Steelers Crazy #300 - Saints Vs Steelers In Paris](https://podcasts.apple.com/us/podcast/steelers-crazy-300-saints-vs-steelers-in-paris/id1640291008?i=1000797311768): The Sick Podcast - Steelers Crazy, 2026-10-20 19:12 UTC
-- Podcast: [Drive10.20.26Hr2: Week Seven Power Rankings](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-20-26hr2-mp3): SNR Drive, 2026-10-20 19:00 UTC
-- Video: [Is the Steelers pass defense actually fine without Joey Porter Jr? #steelers #nfl](https://www.youtube.com/shorts/I8qkYpoHneg): Still Curtain Podcast, 2026-10-20 18:15 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

@@ -1,8 +1,10 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-25T18:53:36+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T18:53:29+00:00._
+_Generated 2026-10-25T19:04:28+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T19:04:22+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
+- **Rumor** · tier: Aggregator / other · consensus: 3 source(s), top tier National insider
+  [Aaron Rodgers Shades Steelers Coaches in New Video, Reportedly Called Some Plays in Win vs. Saints](https://bleacherreport.com/articles/25520168-aaron-rodgers-shades-steelers-coaches-new-video-reportedly-called-some-plays-win-vs-saints): Bleacher Report, first seen 2026-10-25 19:04 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Steelers Have 3 Trade Targets That No One Talks About](https://www.steelernation.com/2026/10/24/steelers-trade-targets-no-one-talks-about): SteelerNation, first seen 2026-10-24 21:18 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
@@ -17,7 +19,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [National Analyst Names Steelers Most Likely Trade Candidate](https://steelersdepot.com/2026/10/national-analyst-names-steelers-most-likely-trade-candidate/): Steelers Depot, first seen 2026-10-24 11:49 UTC
 - **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
   [Steelers’ Latest Trade Buzz Would Add Another Weapon for Aaron Rodgers](https://sports.yahoo.com/articles/steelers-latest-trade-buzz-add-184548332.html): Yahoo Sports, first seen 2026-10-24 10:08 UTC
-- **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
+- **Rumor** · tier: National insider · consensus: 3 source(s), top tier National insider
   [Steelers bring back Aaron Rodgers’ former Packers target after Chargers release](https://sports.yahoo.com/articles/steelers-bring-back-aaron-rodgers-160000327.html): Yahoo Sports, first seen 2026-10-23 16:52 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [Steelers could be a dark horse trade destination for Jaguars' Brian Thomas Jr.](https://blackandteal.com/steelers-could-be-a-dark-horse-trade-destination-for-jaguars-brian-thomas-jr-trai-essex): Black and Teal, first seen 2026-10-23 15:18 UTC
@@ -69,7 +71,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Fantasy Football Players Need To Target Steelers WR Germie Bernard On The Trade Block](https://www.si.com/onsi/fantasy/trade-analysis/fantasy-football-players-need-to-target-steelers-wr-germie-bernard-on-the-trade-block): Sports Illustrated, first seen 2026-10-21 17:46 UTC
 - **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
   [Steelers Must Avoid This Veteran WR Trade Target](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-must-avoid-veteran-trade-target-chris-godwin): Sports Illustrated, first seen 2026-10-21 16:33 UTC
-- **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
+- **Rumor** · tier: National insider · consensus: 3 source(s), top tier National insider
   [Aaron Rodgers reportedly eyes Buccaneers WR as potential trade target for the Steelers](https://sports.yahoo.com/articles/aaron-rodgers-reportedly-eyes-buccaneers-114842350.html): Yahoo Sports, first seen 2026-10-21 13:05 UTC
 - **Rumor** · tier: Beat writer / team · consensus: 2 source(s), top tier Beat writer / team
   [First Call: Steelers’ WR trade speculation; Najee Harris out in New York; big hockey win for RMU at Penn State](https://triblive.com/sports/first-call-steelers-wr-trade-speculation-najee-harris-may-be-out-in-new-york-big-hockey-win-for-rmu-at-penn-state/): TribLive, first seen 2026-10-21 15:49 UTC
