@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-25T06:50:02.040320+00:00",
+ "generated": "2026-10-25T07:02:49.970208+00:00",
  "date_et": "2026-10-25",
  "days": 5,
  "display_days": 2,
- "count": 134,
+ "count": 133,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -18,10 +18,10 @@
    "show": "Locked On Steelers",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7JorgD8nGLtvvMy1ogFetg",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 7,
-   "latest": null
+   "latest": "2026-10-23T05:00:09+00:00"
   },
   {
    "show": "The Terrible Podcast (Steelers Depot)",
@@ -81,10 +81,10 @@
    "show": "Still Curtain Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxjSNPLcRAVzDKOjhRwo-hQ",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
-   "week": 3,
-   "latest": null
+   "status": "ok",
+   "episodes": 15,
+   "week": 2,
+   "latest": "2026-10-22T06:58:28+00:00"
   },
   {
    "show": "Steel City Underground",
@@ -99,10 +99,10 @@
    "show": "Steel City Underground",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDcNNAMkYr-DzH6_XL-0p8Q",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 1,
-   "latest": null
+   "latest": "2026-10-22T16:28:41+00:00"
   },
   {
    "show": "Steelers Afternoon Drive",
@@ -153,10 +153,10 @@
    "show": "Steelers Now",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp1iAMIfmmgWewzJ07_Y7oA",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 15,
-   "latest": null
+   "latest": "2026-10-24T16:29:28+00:00"
   },
   {
    "show": "The Steel City Insider (Jim Wexell, 247Sports)",
@@ -189,19 +189,19 @@
    "show": "Nick Farabaugh on PennLive",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5yvng1eSgffmybUM-51fTw",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 1,
    "week": 1,
-   "latest": null
+   "latest": "2026-10-24T18:08:40+00:00"
   },
   {
    "show": "Pittsburgh Steelers (official)",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChaRXjMDs4ppKfnTPE6Z89w",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 15,
-   "latest": null
+   "latest": "2026-10-24T23:00:09+00:00"
   },
   {
    "show": "Not Just Football with Cam Heyward",
@@ -216,10 +216,10 @@
    "show": "Not Just Football with Cam Heyward",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8hodyaoiw297aspKf9QVDA",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 6,
-   "latest": null
+   "latest": "2026-10-24T19:25:13+00:00"
   },
   {
    "show": "Footbahlin with Ben Roethlisberger",
@@ -243,10 +243,10 @@
    "show": "The Christian Kuntz Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKKBJcOGsYmwAATQv-xQYeA",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 0,
-   "latest": null
+   "latest": "2009-05-26T14:01:33+00:00"
   }
  ],
  "items": [
@@ -1320,24 +1320,9 @@
    "link": "https://podcasts.apple.com/us/podcast/here-we-go-the-steelers-show-rookies-are-a-part/id905962218?i=1000797805896",
    "published": "2026-10-20T08:00:00+00:00",
    "summary": "Podcast episode from Steel Curtain Network (BTSC)."
-  },
-  {
-   "title": "Only the Steelers Can Make Winning Look So Ugly | Illegal Hands to the Face",
-   "show": "Still Curtain Podcast",
-   "kind": "video",
-   "link": "https://www.youtube.com/watch?v=idEz7_-TZ68",
-   "published": "2026-10-20T06:54:43+00:00",
-   "summary": "Video from Still Curtain Podcast."
   }
  ],
- "yt_channels": [
-  {
-   "show": "The Christian Kuntz Podcast",
-   "channel_id": "UCKKBJcOGsYmwAATQv-xQYeA",
-   "link": "https://www.youtube.com/channel/UCKKBJcOGsYmwAATQv-xQYeA",
-   "embed": "https://www.youtube-nocookie.com/embed/videoseries?list=UUKKBJcOGsYmwAATQv-xQYeA"
-  }
- ],
+ "yt_channels": [],
  "postgame": null,
  "directory": [
   {
