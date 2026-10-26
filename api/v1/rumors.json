@@ -2,8 +2,8 @@
  "api_version": "1",
  "dataset": "rumors",
  "description": "Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).",
- "generated": "2026-10-26T02:41:54+00:00",
- "data_updated": "2026-10-26T02:41:48+00:00",
+ "generated": "2026-10-26T02:53:49+00:00",
+ "data_updated": "2026-10-26T02:53:43+00:00",
  "count": 37,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
@@ -38,19 +38,17 @@
    "published": "2026-10-25T18:45:00+00:00",
    "people": [],
    "consensus": {
-    "cluster_id": "173465376593",
-    "independent_sources": 3,
+    "cluster_id": "794b3684899f",
+    "independent_sources": 2,
     "sources": [
      "Bleacher Report",
-     "Wisconsin Sports Heroics",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
      "85d6f65ebcd2",
-     "794b3684899f",
-     "173465376593"
+     "794b3684899f"
     ]
    }
   },
@@ -74,16 +72,13 @@
    "people": [],
    "consensus": {
     "cluster_id": "b3b86933a304",
-    "independent_sources": 2,
+    "independent_sources": 1,
     "sources": [
-     "SteelerNation",
-     "Yardbarker"
+     "SteelerNation"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": [
-     "5585acb90f77"
-    ]
+    "related_ids": []
    }
   },
   {
@@ -290,19 +285,17 @@
     "Aaron Rodgers"
    ],
    "consensus": {
-    "cluster_id": "173465376593",
-    "independent_sources": 3,
+    "cluster_id": "794b3684899f",
+    "independent_sources": 2,
     "sources": [
      "Bleacher Report",
-     "Wisconsin Sports Heroics",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
      "5a6d9de5e61f",
-     "794b3684899f",
-     "173465376593"
+     "794b3684899f"
     ]
    }
   },
@@ -619,13 +612,16 @@
    "people": [],
    "consensus": {
     "cluster_id": "46b9d884dd04",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
+     "Steeler Nation",
      "SteelerNation"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "81dabd419458"
+    ]
    }
   },
   {
@@ -1007,17 +1003,14 @@
    "published": "2026-10-21T17:26:53+00:00",
    "people": [],
    "consensus": {
-    "cluster_id": "fac5ee1b7992",
-    "independent_sources": 2,
+    "cluster_id": "4249099cff4d",
+    "independent_sources": 1,
     "sources": [
-     "A to Z Sports",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
-    "related_ids": [
-     "fac5ee1b7992"
-    ]
+    "related_ids": []
    }
   },
   {
@@ -1102,19 +1095,17 @@
     "Aaron Rodgers"
    ],
    "consensus": {
-    "cluster_id": "173465376593",
-    "independent_sources": 3,
+    "cluster_id": "794b3684899f",
+    "independent_sources": 2,
     "sources": [
      "Bleacher Report",
-     "Wisconsin Sports Heroics",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
      "5a6d9de5e61f",
-     "85d6f65ebcd2",
-     "173465376593"
+     "85d6f65ebcd2"
     ]
    }
   },
@@ -1143,16 +1134,13 @@
    ],
    "consensus": {
     "cluster_id": "1b9cf10893b1",
-    "independent_sources": 2,
+    "independent_sources": 1,
     "sources": [
-     "TribLIVE.com",
      "TribLive"
     ],
     "highest_tier": "Beat writer / team",
     "highest_tier_score": 3,
-    "related_ids": [
-     "c774b8995598"
-    ]
+    "related_ids": []
    }
   },
   {
