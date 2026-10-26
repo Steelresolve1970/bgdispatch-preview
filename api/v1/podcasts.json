@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-26T11:07:09+00:00",
- "data_updated": "2026-10-26T11:06:50+00:00",
- "count": 108,
+ "generated": "2026-10-26T12:13:07+00:00",
+ "data_updated": "2026-10-26T11:21:02+00:00",
+ "count": 110,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -46,12 +46,25 @@
    }
   },
   {
-   "id": "7968be70b4f37758",
+   "id": "812e03d8e4fb4b41",
    "type": "podcast_episode",
    "title": "DK's Daily Shot of Steelers: Having fun yet?",
    "show": "DK Pittsburgh Sports",
-   "url": "https://podcasts.apple.com/us/podcast/id1072021022",
+   "url": "https://podcasts.apple.com/us/podcast/dks-daily-shot-of-steelers-having-fun-yet/id1072021022?i=1000798146008",
    "published": "2026-10-26T05:42:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
+    "url": null
+   }
+  },
+  {
+   "id": "279f2c4876e88841",
+   "type": "podcast_episode",
+   "title": "Scout’s Eye with Matt Williamson: Closer than it felt",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://podcasts.apple.com/us/podcast/scouts-eye-with-matt-williamson-closer-than-it-felt/id1072021022?i=1000798123487",
+   "published": "2026-10-26T05:40:00+00:00",
    "summary": "Podcast episode from DK Pittsburgh Sports.",
    "source": {
     "name": "DK Pittsburgh Sports",
@@ -159,6 +172,19 @@
    "summary": "Video from Steelers Now.",
    "source": {
     "name": "Steelers Now",
+    "url": null
+   }
+  },
+  {
+   "id": "913af5aa494dfbcf",
+   "type": "podcast_episode",
+   "title": "Live Shot of Steelers: Postgame vs. Saints",
+   "show": "DK Pittsburgh Sports",
+   "url": "https://podcasts.apple.com/us/podcast/live-shot-of-steelers-postgame-vs-saints/id1072021022?i=1000798056594",
+   "published": "2026-10-25T19:05:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports.",
+   "source": {
+    "name": "DK Pittsburgh Sports",
     "url": null
    }
   },

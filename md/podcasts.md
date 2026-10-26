@@ -1,11 +1,12 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-26T11:07:09+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T11:06:50+00:00._
+_Generated 2026-10-26T12:13:07+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T11:21:02+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [Pittsburgh Steelers Win 16-10 vs Saints - [What Went Right/Wrong In Week 7]](https://arthurmoats55.libsyn.com/panel_1025_ytmp3): The Arthur Moats Experience, 2026-10-26 09:52 UTC
 - Video: [STEELERS SQUAD SHOW: Warren Runs OVER Saints & Defense DISMANTLES Saints Run Game in PARIS, 16-10](https://www.youtube.com/watch?v=dnrjjelOSeU): Locked On Steelers, 2026-10-26 05:45 UTC
-- Podcast: [DK's Daily Shot of Steelers: Having fun yet?](https://podcasts.apple.com/us/podcast/id1072021022): DK Pittsburgh Sports, 2026-10-26 05:42 UTC
+- Podcast: [DK's Daily Shot of Steelers: Having fun yet?](https://podcasts.apple.com/us/podcast/dks-daily-shot-of-steelers-having-fun-yet/id1072021022?i=1000798146008): DK Pittsburgh Sports, 2026-10-26 05:42 UTC
+- Podcast: [Scout’s Eye with Matt Williamson: Closer than it felt](https://podcasts.apple.com/us/podcast/scouts-eye-with-matt-williamson-closer-than-it-felt/id1072021022?i=1000798123487): DK Pittsburgh Sports, 2026-10-26 05:40 UTC
 - Video: [Darnell takin over Paris 😤](https://www.youtube.com/shorts/Frs4q46PolI): Pittsburgh Steelers (official), 2026-10-25 23:09 UTC
 - Podcast: [STEELERS SQUAD SHOW: Warren Runs OVER Saints & Defense DISMANTLES Saints Run Game in PARIS, 16-10](https://podcasts.apple.com/us/podcast/steelers-squad-show-warren-runs-over-saints-defense/id1140522532?i=1000798075207): Locked On Steelers, 2026-10-25 22:09 UTC
 - Video: [Steelers' Jaylen Warren, Rico Dowdle a Dynamic Duo in 16-10 Win vs Saints | Patrick Graham is Right](https://www.youtube.com/watch?v=HfPpglcWbEE): Locked On Steelers, 2026-10-25 22:00 UTC
@@ -14,6 +15,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Coach McCarthy, Payton Wilson & Aaron Rodgers Postgame Press Conference (Week 7 at Saints)](https://www.youtube.com/watch?v=AZSrBqY3onk): Pittsburgh Steelers (official), 2026-10-25 19:48 UTC
 - Video: [Steelers vs Saints Post Game Show IN PARIS LIVE | Not Just Football](https://www.youtube.com/watch?v=Hqk9fZcumbs): Not Just Football with Cam Heyward, 2026-10-25 19:36 UTC
 - Video: [Steelers Now Postgame: Steelers 16, Saints 10](https://www.youtube.com/watch?v=Jo2AvG_tHS4): Steelers Now, 2026-10-25 19:32 UTC
+- Podcast: [Live Shot of Steelers: Postgame vs. Saints](https://podcasts.apple.com/us/podcast/live-shot-of-steelers-postgame-vs-saints/id1072021022?i=1000798056594): DK Pittsburgh Sports, 2026-10-25 19:05 UTC
 - Video: [Steelers vs Saints Post Game Show IN PARIS LIVE | Not Just Football](https://www.youtube.com/watch?v=3cEWtad5nFI): Not Just Football with Cam Heyward, 2026-10-25 18:34 UTC
 - Video: [Oui did that‼️](https://www.youtube.com/shorts/gkYiQKTK4bE): Pittsburgh Steelers (official), 2026-10-25 18:13 UTC
 - Video: [DUB IN PARIS 🗣️](https://www.youtube.com/shorts/52EPBrMefCM): Pittsburgh Steelers (official), 2026-10-25 17:58 UTC
