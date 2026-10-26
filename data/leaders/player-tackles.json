@@ -6,7 +6,7 @@
  "season": 2026,
  "lower_is_better": false,
  "min_note": "Min. 15 tackles",
- "generated": "2026-10-26T17:29:48.063764+00:00",
+ "generated": "2026-10-26T20:39:28.366553+00:00",
  "source": "Data: nflverse (CC-BY 4.0)",
  "source_url": "https://github.com/nflverse/nflverse-data",
  "columns": [
@@ -33,4480 +33,4480 @@
  ],
  "rows": [
   {
+   "sk": 1,
+   "pit": false,
+   "pd": 1,
    "pos": "LB",
-   "value": 84,
-   "rank": 1,
    "tfl": 4,
    "id": "00-0031898",
    "team": "DEN",
-   "sk": 1,
-   "name": "Alex Singleton",
-   "pit": false,
-   "pd": 1
+   "value": 84,
+   "rank": 1,
+   "name": "Alex Singleton"
   },
   {
+   "sk": 0.5,
+   "pit": false,
+   "pd": 3,
    "pos": "MLB",
-   "value": 70,
-   "rank": 2,
    "tfl": 3,
    "id": "00-0034815",
    "team": "SF",
-   "sk": 0.5,
-   "name": "Fred Warner",
-   "pit": false,
-   "pd": 3
+   "value": 70,
+   "rank": 2,
+   "name": "Fred Warner"
   },
   {
+   "sk": 3,
+   "pit": false,
+   "pd": 3,
    "pos": "LB",
-   "value": 68,
-   "rank": 3,
    "tfl": 3,
    "id": "00-0036994",
    "team": "SEA",
-   "sk": 3,
-   "name": "Ernest Jones",
-   "pit": false,
-   "pd": 3
-  },
-  {
-   "pos": "LB",
    "value": 68,
    "rank": 3,
+   "name": "Ernest Jones"
+  },
+  {
+   "sk": 1.5,
+   "pit": false,
+   "pd": 2,
+   "pos": "LB",
    "tfl": 4,
    "id": "00-0037615",
    "team": "LV",
-   "sk": 1.5,
-   "name": "Nakobe Dean",
-   "pit": false,
-   "pd": 2
-  },
-  {
-   "pos": "LB",
    "value": 68,
    "rank": 3,
+   "name": "Nakobe Dean"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 3,
+   "pos": "LB",
    "tfl": 1,
    "id": "00-0041479",
    "team": "TEN",
-   "sk": 0,
-   "name": "Anthony Hill Jr.",
-   "pit": false,
-   "pd": 3
+   "value": 68,
+   "rank": 3,
+   "name": "Anthony Hill Jr."
   },
   {
+   "sk": 1,
+   "pit": false,
+   "pd": 1,
    "pos": "LB",
-   "value": 62,
-   "rank": 6,
    "tfl": 3,
    "id": "00-0040579",
    "team": "CLE",
-   "sk": 1,
-   "name": "Carson Schwesinger",
-   "pit": false,
-   "pd": 1
+   "value": 62,
+   "rank": 6,
+   "name": "Carson Schwesinger"
   },
   {
+   "sk": 1,
+   "pit": false,
+   "pd": 3,
    "pos": "LB",
-   "value": 61,
-   "rank": 7,
    "tfl": 3,
    "id": "00-0041502",
    "team": "TB",
-   "sk": 1,
-   "name": "Josiah Trotter",
-   "pit": false,
-   "pd": 3
+   "value": 61,
+   "rank": 7,
+   "name": "Josiah Trotter"
   },
   {
+   "sk": 1,
+   "pit": false,
+   "pd": 6,
    "pos": "SAF",
-   "value": 60,
-   "rank": 8,
    "tfl": 2,
    "id": "00-0039813",
    "team": "GB",
-   "sk": 1,
-   "name": "Evan Williams",
-   "pit": false,
-   "pd": 6
-  },
-  {
-   "pos": "LB",
    "value": 60,
    "rank": 8,
+   "name": "Evan Williams"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 1,
+   "pos": "LB",
    "tfl": 3,
    "id": "00-0041522",
    "team": "MIA",
-   "sk": 0,
-   "name": "Jacob Rodriguez",
-   "pit": false,
-   "pd": 1
+   "value": 60,
+   "rank": 8,
+   "name": "Jacob Rodriguez"
   },
   {
+   "sk": 0,
+   "pit": false,
+   "pd": 1,
    "pos": "LB",
-   "value": 59,
-   "rank": 10,
    "tfl": 3,
    "id": "00-0036298",
    "team": "IND",
-   "sk": 0,
-   "name": "Akeem Davis-Gaither",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "LB",
    "value": 59,
    "rank": 10,
+   "name": "Akeem Davis-Gaither"
+  },
+  {
+   "sk": 1,
+   "pit": true,
+   "pd": 3,
+   "pos": "LB",
    "tfl": 6,
    "id": "00-0039741",
    "team": "PIT",
-   "sk": 1,
-   "name": "Payton Wilson",
-   "pit": true,
-   "pd": 3
+   "value": 59,
+   "rank": 10,
+   "name": "Payton Wilson"
   },
   {
+   "sk": 0,
+   "pit": false,
+   "pd": 2,
    "pos": "LB",
-   "value": 58,
-   "rank": 12,
    "tfl": 1,
    "id": "00-0035166",
    "team": "HOU",
-   "sk": 0,
-   "name": "Azeez Al-Shaair",
-   "pit": false,
-   "pd": 2
-  },
-  {
-   "pos": "LB",
    "value": 58,
    "rank": 12,
+   "name": "Azeez Al-Shaair"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 2,
+   "pos": "LB",
    "tfl": 3,
    "id": "00-0036621",
    "team": "KC",
-   "sk": 0,
-   "name": "Nick Bolton",
-   "pit": false,
-   "pd": 2
+   "value": 58,
+   "rank": 12,
+   "name": "Nick Bolton"
   },
   {
+   "sk": 2,
+   "pit": false,
+   "pd": 1,
    "pos": "ILB",
-   "value": 55,
-   "rank": 14,
    "tfl": 1,
    "id": "00-0034874",
    "team": "BAL",
-   "sk": 2,
-   "name": "Roquan Smith",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "SAF",
    "value": 55,
    "rank": 14,
+   "name": "Roquan Smith"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 3,
+   "pos": "SAF",
    "tfl": 1,
    "id": "00-0038123",
    "team": "NYJ",
-   "sk": 1,
-   "name": "Dane Belton",
-   "pit": false,
-   "pd": 3
-  },
-  {
-   "pos": "LB",
    "value": 55,
    "rank": 14,
+   "name": "Dane Belton"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 0,
+   "pos": "LB",
    "tfl": 1,
    "id": "00-0039018",
    "team": "DET",
-   "sk": 0,
-   "name": "Jack Campbell",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "LB",
    "value": 55,
    "rank": 14,
+   "name": "Jack Campbell"
+  },
+  {
+   "sk": 1.5,
+   "pit": false,
+   "pd": 4,
+   "pos": "LB",
    "tfl": 5,
    "id": "00-0041509",
    "team": "NYG",
-   "sk": 1.5,
-   "name": "Arvell Reese",
-   "pit": false,
-   "pd": 4
+   "value": 55,
+   "rank": 14,
+   "name": "Arvell Reese"
   },
   {
+   "sk": 2,
+   "pit": false,
+   "pd": 2,
    "pos": "LB",
-   "value": 53,
-   "rank": 18,
    "tfl": 4,
    "id": "00-0036927",
    "team": "NO",
-   "sk": 2,
-   "name": "Pete Werner",
-   "pit": false,
-   "pd": 2
+   "value": 53,
+   "rank": 18,
+   "name": "Pete Werner"
   },
   {
+   "sk": 4.5,
+   "pit": false,
+   "pd": 5,
    "pos": "LB",
-   "value": 52,
-   "rank": 19,
    "tfl": 6,
    "id": "00-0035276",
    "team": "MIN",
-   "sk": 4.5,
-   "name": "Blake Cashman",
-   "pit": false,
-   "pd": 5
-  },
-  {
-   "pos": "LB",
    "value": 52,
    "rank": 19,
+   "name": "Blake Cashman"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 1,
+   "pos": "LB",
    "tfl": 2,
    "id": "00-0036409",
    "team": "MIA",
-   "sk": 0,
-   "name": "Jordyn Brooks",
-   "pit": false,
-   "pd": 1
+   "value": 52,
+   "rank": 19,
+   "name": "Jordyn Brooks"
   },
   {
+   "sk": 0,
+   "pit": false,
+   "pd": 5,
    "pos": "SAF",
-   "value": 51,
-   "rank": 21,
    "tfl": 2,
    "id": "00-0036221",
    "team": "DEN",
-   "sk": 0,
-   "name": "Brandon Jones",
-   "pit": false,
-   "pd": 5
-  },
-  {
-   "pos": "LB",
    "value": 51,
    "rank": 21,
+   "name": "Brandon Jones"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 5,
+   "pos": "LB",
    "tfl": 5,
    "id": "00-0036500",
    "team": "NYJ",
-   "sk": 0,
-   "name": "Jamien Sherwood",
-   "pit": false,
-   "pd": 5
-  },
-  {
-   "pos": "LB",
    "value": 51,
    "rank": 21,
+   "name": "Jamien Sherwood"
+  },
+  {
+   "sk": 2,
+   "pit": false,
+   "pd": 0,
+   "pos": "LB",
    "tfl": 5,
    "id": "00-0037074",
    "team": "LV",
-   "sk": 2,
-   "name": "Quay Walker",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "LB",
    "value": 51,
    "rank": 21,
+   "name": "Quay Walker"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 1,
+   "pos": "LB",
    "tfl": 2,
    "id": "00-0037587",
    "team": "LA",
-   "sk": 0,
-   "name": "Nate Landman",
-   "pit": false,
-   "pd": 1
+   "value": 51,
+   "rank": 21,
+   "name": "Nate Landman"
   },
   {
+   "sk": 2,
+   "pit": false,
+   "pd": 2,
    "pos": "MLB",
-   "value": 50,
-   "rank": 25,
    "tfl": 3,
    "id": "00-0034673",
    "team": "NYG",
-   "sk": 2,
-   "name": "Tremaine Edmunds",
-   "pit": false,
-   "pd": 2
-  },
-  {
-   "pos": "LB",
    "value": 50,
    "rank": 25,
+   "name": "Tremaine Edmunds"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 1,
+   "pos": "LB",
    "tfl": 2,
    "id": "00-0036813",
    "team": "NE",
-   "sk": 1,
-   "name": "Christian Elliss",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "LB",
    "value": 50,
    "rank": 25,
+   "name": "Christian Elliss"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 1,
+   "pos": "LB",
    "tfl": 3,
    "id": "00-0040738",
    "team": "CIN",
-   "sk": 0,
-   "name": "Demetrius Knight Jr.",
-   "pit": false,
-   "pd": 1
+   "value": 50,
+   "rank": 25,
+   "name": "Demetrius Knight Jr."
   },
   {
+   "sk": 0,
+   "pit": false,
+   "pd": 0,
    "pos": "LB",
-   "value": 49,
-   "rank": 28,
    "tfl": 0,
    "id": "00-0034982",
    "team": "SF",
-   "sk": 0,
-   "name": "Dre Greenlaw",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "LB",
    "value": 49,
    "rank": 28,
+   "name": "Dre Greenlaw"
+  },
+  {
+   "sk": 0.5,
+   "pit": false,
+   "pd": 1,
+   "pos": "LB",
    "tfl": 1,
    "id": "00-0037596",
    "team": "ARI",
-   "sk": 0.5,
-   "name": "Jack Gibbens",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "SAF",
    "value": 49,
    "rank": 28,
+   "name": "Jack Gibbens"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 9,
+   "pos": "SAF",
    "tfl": 0,
    "id": "00-0037841",
    "team": "LA",
-   "sk": 0,
-   "name": "Quentin Lake",
-   "pit": false,
-   "pd": 9
-  },
-  {
-   "pos": "LB",
    "value": 49,
    "rank": 28,
+   "name": "Quentin Lake"
+  },
+  {
+   "sk": 1.5,
+   "pit": false,
+   "pd": 3,
+   "pos": "LB",
    "tfl": 4,
    "id": "00-0040157",
    "team": "CIN",
-   "sk": 1.5,
-   "name": "Barrett Carter",
-   "pit": false,
-   "pd": 3
+   "value": 49,
+   "rank": 28,
+   "name": "Barrett Carter"
   },
   {
+   "sk": 0,
+   "pit": false,
+   "pd": 4,
    "pos": "SAF",
-   "value": 48,
-   "rank": 32,
    "tfl": 7,
    "id": "00-0038038",
    "team": "BAL",
-   "sk": 0,
-   "name": "Kyle Hamilton",
-   "pit": false,
-   "pd": 4
+   "value": 48,
+   "rank": 32,
+   "name": "Kyle Hamilton"
   },
   {
+   "sk": 0,
+   "pit": false,
+   "pd": 1,
    "pos": "LB",
-   "value": 47,
-   "rank": 33,
    "tfl": 1,
    "id": "00-0035144",
    "team": "ARI",
-   "sk": 0,
-   "name": "Mack Wilson",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "LB",
    "value": 47,
    "rank": 33,
+   "name": "Mack Wilson"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 2,
+   "pos": "LB",
    "tfl": 5,
    "id": "00-0035262",
    "team": "KC",
-   "sk": 0,
-   "name": "Drue Tranquill",
-   "pit": false,
-   "pd": 2
-  },
-  {
-   "pos": "LB",
    "value": 47,
    "rank": 33,
+   "name": "Drue Tranquill"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 2,
+   "pos": "LB",
    "tfl": 5,
    "id": "00-0035680",
    "team": "CLE",
-   "sk": 1,
-   "name": "Quincy Williams",
-   "pit": false,
-   "pd": 2
-  },
-  {
-   "pos": "LB",
    "value": 47,
    "rank": 33,
+   "name": "Quincy Williams"
+  },
+  {
+   "sk": 1,
+   "pit": true,
+   "pd": 3,
+   "pos": "LB",
    "tfl": 2,
    "id": "00-0036323",
    "team": "PIT",
-   "sk": 1,
-   "name": "Patrick Queen",
-   "pit": true,
-   "pd": 3
-  },
-  {
-   "pos": "LB",
    "value": 47,
    "rank": 33,
+   "name": "Patrick Queen"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 0,
+   "pos": "LB",
    "tfl": 1,
    "id": "00-0040708",
    "team": "PHI",
-   "sk": 1,
-   "name": "Jihaad Campbell",
-   "pit": false,
-   "pd": 0
+   "value": 47,
+   "rank": 33,
+   "name": "Jihaad Campbell"
   },
   {
+   "sk": 1,
+   "pit": false,
+   "pd": 1,
    "pos": "SAF",
-   "value": 46,
-   "rank": 38,
    "tfl": 1,
    "id": "00-0036293",
    "team": "LV",
-   "sk": 1,
-   "name": "Jeremy Chinn",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "LB",
    "value": 46,
    "rank": 38,
+   "name": "Jeremy Chinn"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 1,
+   "pos": "LB",
    "tfl": 6,
    "id": "00-0038504",
    "team": "BAL",
-   "sk": 1,
-   "name": "Trenton Simpson",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "SAF",
    "value": 46,
    "rank": 38,
+   "name": "Trenton Simpson"
+  },
+  {
+   "sk": 1.5,
+   "pit": false,
+   "pd": 5,
+   "pos": "SAF",
    "tfl": 2,
    "id": "00-0041538",
    "team": "CHI",
-   "sk": 1.5,
-   "name": "Dillon Thieneman",
-   "pit": false,
-   "pd": 5
+   "value": 46,
+   "rank": 38,
+   "name": "Dillon Thieneman"
   },
   {
+   "sk": 2,
+   "pit": false,
+   "pd": 4,
    "pos": "OLB",
-   "value": 45,
-   "rank": 41,
    "tfl": 3,
    "id": "00-0029607",
    "team": "NYJ",
-   "sk": 2,
-   "name": "Demario Davis",
-   "pit": false,
-   "pd": 4
-  },
-  {
-   "pos": "SAF",
    "value": 45,
    "rank": 41,
+   "name": "Demario Davis"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 3,
+   "pos": "SAF",
    "tfl": 1,
    "id": "00-0035632",
    "team": "TEN",
-   "sk": 0,
-   "name": "Amani Hooker",
-   "pit": false,
-   "pd": 3
+   "value": 45,
+   "rank": 41,
+   "name": "Amani Hooker"
   },
   {
+   "sk": 3.5,
+   "pit": false,
+   "pd": 4,
    "pos": "S",
-   "value": 44,
-   "rank": 43,
    "tfl": 4,
    "id": "00-0033890",
    "team": "ARI",
-   "sk": 3.5,
-   "name": "Budda Baker",
-   "pit": false,
-   "pd": 4
-  },
-  {
-   "pos": "SAF",
    "value": 44,
    "rank": 43,
+   "name": "Budda Baker"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 3,
+   "pos": "SAF",
    "tfl": 1,
    "id": "00-0037130",
    "team": "HOU",
-   "sk": 0,
-   "name": "Reed Blankenship",
-   "pit": false,
-   "pd": 3
-  },
-  {
-   "pos": "LB",
    "value": 44,
    "rank": 43,
+   "name": "Reed Blankenship"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 1,
+   "pos": "LB",
    "tfl": 2,
    "id": "00-0037254",
    "team": "BUF",
-   "sk": 0,
-   "name": "Terrel Bernard",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "SAF",
    "value": 44,
    "rank": 43,
+   "name": "Terrel Bernard"
+  },
+  {
+   "sk": 0,
+   "pit": true,
+   "pd": 3,
+   "pos": "SAF",
    "tfl": 0,
    "id": "00-0038135",
    "team": "PIT",
-   "sk": 0,
-   "name": "Jaquan Brisker",
-   "pit": true,
-   "pd": 3
-  },
-  {
-   "pos": "SAF",
    "value": 44,
    "rank": 43,
+   "name": "Jaquan Brisker"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 2,
+   "pos": "SAF",
    "tfl": 1,
    "id": "00-0038554",
    "team": "SF",
-   "sk": 0,
-   "name": "Ji'Ayir Brown",
-   "pit": false,
-   "pd": 2
-  },
-  {
-   "pos": "LB",
    "value": 44,
    "rank": 43,
+   "name": "Ji'Ayir Brown"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 2,
+   "pos": "LB",
    "tfl": 3,
    "id": "00-0038557",
    "team": "BUF",
-   "sk": 0,
-   "name": "Dorian Williams",
-   "pit": false,
-   "pd": 2
-  },
-  {
-   "pos": "CB",
    "value": 44,
    "rank": 43,
+   "name": "Dorian Williams"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 5,
+   "pos": "CB",
    "tfl": 4,
    "id": "00-0039343",
    "team": "HOU",
-   "sk": 1,
-   "name": "Kamari Lassiter",
-   "pit": false,
-   "pd": 5
-  },
-  {
-   "pos": "SAF",
    "value": 44,
    "rank": 43,
+   "name": "Kamari Lassiter"
+  },
+  {
+   "sk": 0.5,
+   "pit": false,
+   "pd": 2,
+   "pos": "SAF",
    "tfl": 1,
    "id": "00-0040148",
    "team": "ATL",
-   "sk": 0.5,
-   "name": "Xavier Watts",
-   "pit": false,
-   "pd": 2
-  },
-  {
-   "pos": "SAF",
    "value": 44,
    "rank": 43,
+   "name": "Xavier Watts"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 1,
+   "pos": "SAF",
    "tfl": 1,
    "id": "00-0040643",
    "team": "NO",
-   "sk": 0,
-   "name": "Jonas Sanker",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "LB",
    "value": 44,
    "rank": 43,
+   "name": "Jonas Sanker"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 4,
+   "pos": "LB",
    "tfl": 3,
    "id": "00-0041028",
    "team": "WAS",
-   "sk": 1,
-   "name": "Sonny Styles",
-   "pit": false,
-   "pd": 4
+   "value": 44,
+   "rank": 43,
+   "name": "Sonny Styles"
   },
   {
+   "sk": 0,
+   "pit": false,
+   "pd": 0,
    "pos": "LB",
-   "value": 43,
-   "rank": 53,
    "tfl": 1,
    "id": "00-0034720",
    "team": "NE",
-   "sk": 0,
-   "name": "Robert Spillane",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "ILB",
    "value": 43,
    "rank": 53,
+   "name": "Robert Spillane"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 5,
+   "pos": "ILB",
    "tfl": 5,
    "id": "00-0035687",
    "team": "CAR",
-   "sk": 1,
-   "name": "Bobby Okereke",
-   "pit": false,
-   "pd": 5
-  },
-  {
-   "pos": "SAF",
    "value": 43,
    "rank": 53,
+   "name": "Bobby Okereke"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 2,
+   "pos": "SAF",
    "tfl": 0,
    "id": "00-0039872",
    "team": "BUF",
-   "sk": 0,
-   "name": "Cole Bishop",
-   "pit": false,
-   "pd": 2
-  },
-  {
-   "pos": "SAF",
    "value": 43,
    "rank": 53,
+   "name": "Cole Bishop"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 0,
+   "pos": "SAF",
    "tfl": 0,
    "id": "00-0040141",
    "team": "TEN",
-   "sk": 0,
-   "name": "Kevin Winston Jr.",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "SAF",
    "value": 43,
    "rank": 53,
+   "name": "Kevin Winston Jr."
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 1,
+   "pos": "SAF",
    "tfl": 0,
    "id": "00-0040865",
    "team": "DAL",
-   "sk": 1,
-   "name": "Caleb Downs",
-   "pit": false,
-   "pd": 1
+   "value": 43,
+   "rank": 53,
+   "name": "Caleb Downs"
   },
   {
+   "sk": 2,
+   "pit": true,
+   "pd": 2,
    "pos": "CB",
-   "value": 42,
-   "rank": 58,
    "tfl": 5,
    "id": "00-0033055",
    "team": "PIT",
-   "sk": 2,
-   "name": "Jalen Ramsey",
-   "pit": true,
-   "pd": 2
+   "value": 42,
+   "rank": 58,
+   "name": "Jalen Ramsey"
   },
   {
+   "sk": 0,
+   "pit": false,
+   "pd": 2,
    "pos": "LB",
-   "value": 41,
-   "rank": 59,
    "tfl": 1,
    "id": "00-0034413",
    "team": "JAX",
-   "sk": 0,
-   "name": "Foyesade Oluokun",
-   "pit": false,
-   "pd": 2
-  },
-  {
-   "pos": "OLB",
    "value": 41,
    "rank": 59,
+   "name": "Foyesade Oluokun"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 1,
+   "pos": "OLB",
    "tfl": 2,
    "id": "00-0034431",
    "team": "GB",
-   "sk": 0,
-   "name": "Zaire Franklin",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "DB",
    "value": 41,
    "rank": 59,
+   "name": "Zaire Franklin"
+  },
+  {
+   "sk": 0.5,
+   "pit": false,
+   "pd": 6,
+   "pos": "DB",
    "tfl": 5,
    "id": "00-0035133",
    "team": "GB",
-   "sk": 0.5,
-   "name": "Keisean Nixon",
-   "pit": false,
-   "pd": 6
-  },
-  {
-   "pos": "SAF",
    "value": 41,
    "rank": 59,
+   "name": "Keisean Nixon"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 2,
+   "pos": "SAF",
    "tfl": 0,
    "id": "00-0038715",
    "team": "CLE",
-   "sk": 1,
-   "name": "Ronnie Hickman Jr.",
-   "pit": false,
-   "pd": 2
-  },
-  {
-   "pos": "CB",
    "value": 41,
    "rank": 59,
+   "name": "Ronnie Hickman Jr."
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 3,
+   "pos": "CB",
    "tfl": 3,
    "id": "00-0039169",
    "team": "SEA",
-   "sk": 0,
-   "name": "Devon Witherspoon",
-   "pit": false,
-   "pd": 3
+   "value": 41,
+   "rank": 59,
+   "name": "Devon Witherspoon"
   },
   {
+   "sk": 1,
+   "pit": false,
+   "pd": 2,
    "pos": "SAF",
-   "value": 40,
-   "rank": 64,
    "tfl": 1,
    "id": "00-0033294",
    "team": "DET",
-   "sk": 1,
-   "name": "Chuck Clark",
-   "pit": false,
-   "pd": 2
-  },
-  {
-   "pos": "CB",
    "value": 40,
    "rank": 64,
+   "name": "Chuck Clark"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 4,
+   "pos": "CB",
    "tfl": 3,
    "id": "00-0034384",
    "team": "DET",
-   "sk": 0,
-   "name": "D.J. Reed",
-   "pit": false,
-   "pd": 4
-  },
-  {
-   "pos": "DB",
    "value": 40,
    "rank": 64,
+   "name": "D.J. Reed"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 3,
+   "pos": "DB",
    "tfl": 0,
    "id": "00-0034465",
    "team": "WAS",
-   "sk": 0,
-   "name": "Jeremy Reaves",
-   "pit": false,
-   "pd": 3
-  },
-  {
-   "pos": "CB",
    "value": 40,
    "rank": 64,
+   "name": "Jeremy Reaves"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 8,
+   "pos": "CB",
    "tfl": 0,
    "id": "00-0036375",
    "team": "WAS",
-   "sk": 0,
-   "name": "Amik Robertson",
-   "pit": false,
-   "pd": 8
-  },
-  {
-   "pos": "SAF",
    "value": 40,
    "rank": 64,
+   "name": "Amik Robertson"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 2,
+   "pos": "SAF",
    "tfl": 3,
    "id": "00-0039846",
    "team": "TB",
-   "sk": 0,
-   "name": "Tykee Smith",
-   "pit": false,
-   "pd": 2
+   "value": 40,
+   "rank": 64,
+   "name": "Tykee Smith"
   },
   {
+   "sk": 0,
+   "pit": false,
+   "pd": 4,
    "pos": "FS",
-   "value": 39,
-   "rank": 69,
    "tfl": 0,
    "id": "00-0034675",
    "team": "ATL",
-   "sk": 0,
-   "name": "Jessie Bates",
-   "pit": false,
-   "pd": 4
-  },
-  {
-   "pos": "LB",
    "value": 39,
    "rank": 69,
+   "name": "Jessie Bates"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 4,
+   "pos": "LB",
    "tfl": 5,
    "id": "00-0036418",
    "team": "PHI",
-   "sk": 0,
-   "name": "Zack Baun",
-   "pit": false,
-   "pd": 4
-  },
-  {
-   "pos": "LB",
    "value": 39,
    "rank": 69,
+   "name": "Zack Baun"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 3,
+   "pos": "LB",
    "tfl": 3,
    "id": "00-0038570",
    "team": "JAX",
-   "sk": 1,
-   "name": "Ventrell Miller",
-   "pit": false,
-   "pd": 3
-  },
-  {
-   "pos": "SAF",
    "value": 39,
    "rank": 69,
+   "name": "Ventrell Miller"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 1,
+   "pos": "SAF",
    "tfl": 3,
    "id": "00-0040688",
    "team": "BAL",
-   "sk": 1,
-   "name": "Malaki Starks",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "LB",
    "value": 39,
    "rank": 69,
+   "name": "Malaki Starks"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 2,
+   "pos": "LB",
    "tfl": 4,
    "id": "00-0041066",
    "team": "ATL",
-   "sk": 1,
-   "name": "Kendal Daniels",
-   "pit": false,
-   "pd": 2
+   "value": 39,
+   "rank": 69,
+   "name": "Kendal Daniels"
   },
   {
+   "sk": 1,
+   "pit": false,
+   "pd": 1,
    "pos": "LB",
-   "value": 38,
-   "rank": 74,
    "tfl": 5,
    "id": "00-0035525",
    "team": "CHI",
-   "sk": 1,
-   "name": "Devin Bush",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "DT",
    "value": 38,
    "rank": 74,
+   "name": "Devin Bush"
+  },
+  {
+   "sk": 4,
+   "pit": false,
+   "pd": 3,
+   "pos": "DT",
    "tfl": 6,
    "id": "00-0035643",
    "team": "TEN",
-   "sk": 4,
-   "name": "Jeffery Simmons",
-   "pit": false,
-   "pd": 3
-  },
-  {
-   "pos": "LB",
    "value": 38,
    "rank": 74,
+   "name": "Jeffery Simmons"
+  },
+  {
+   "sk": 2,
+   "pit": false,
+   "pd": 3,
+   "pos": "LB",
    "tfl": 4,
    "id": "00-0037244",
    "team": "CAR",
-   "sk": 2,
-   "name": "Devin Lloyd",
-   "pit": false,
-   "pd": 3
-  },
-  {
-   "pos": "CB",
    "value": 38,
    "rank": 74,
+   "name": "Devin Lloyd"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 5,
+   "pos": "CB",
    "tfl": 3,
    "id": "00-0039841",
    "team": "PHI",
-   "sk": 0,
-   "name": "Cooper DeJean",
-   "pit": false,
-   "pd": 5
-  },
-  {
-   "pos": "CB",
    "value": 38,
    "rank": 74,
+   "name": "Cooper DeJean"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 3,
+   "pos": "CB",
    "tfl": 2,
    "id": "00-0041057",
    "team": "TB",
-   "sk": 1,
-   "name": "Keionte Scott",
-   "pit": false,
-   "pd": 3
+   "value": 38,
+   "rank": 74,
+   "name": "Keionte Scott"
   },
   {
+   "sk": 0,
+   "pit": false,
+   "pd": 0,
    "pos": "S",
-   "value": 37,
-   "rank": 79,
    "tfl": 1,
    "id": "00-0034361",
    "team": "NO",
-   "sk": 0,
-   "name": "Justin Reid",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "SAF",
    "value": 37,
    "rank": 79,
+   "name": "Justin Reid"
+  },
+  {
+   "sk": 0.5,
+   "pit": false,
+   "pd": 3,
+   "pos": "SAF",
    "tfl": 0,
    "id": "00-0036348",
    "team": "MIN",
-   "sk": 0.5,
-   "name": "Josh Metellus",
-   "pit": false,
-   "pd": 3
-  },
-  {
-   "pos": "SAF",
    "value": 37,
    "rank": 79,
+   "name": "Josh Metellus"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 4,
+   "pos": "SAF",
    "tfl": 1,
    "id": "00-0038560",
    "team": "CIN",
-   "sk": 0,
-   "name": "Jordan Battle",
-   "pit": false,
-   "pd": 4
-  },
-  {
-   "pos": "SAF",
    "value": 37,
    "rank": 79,
+   "name": "Jordan Battle"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 7,
+   "pos": "SAF",
    "tfl": 4,
    "id": "00-0039867",
    "team": "GB",
-   "sk": 0,
-   "name": "Javon Bullard",
-   "pit": false,
-   "pd": 7
+   "value": 37,
+   "rank": 79,
+   "name": "Javon Bullard"
   },
   {
+   "sk": 1,
+   "pit": false,
+   "pd": 1,
    "pos": "MLB",
-   "value": 36,
-   "rank": 83,
    "tfl": 1,
    "id": "00-0033914",
    "team": "TB",
-   "sk": 1,
-   "name": "Alex Anzalone",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "SAF",
    "value": 36,
    "rank": 83,
+   "name": "Alex Anzalone"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 2,
+   "pos": "SAF",
    "tfl": 0,
    "id": "00-0036253",
    "team": "NO",
-   "sk": 0,
-   "name": "Julian Blackmon",
-   "pit": false,
-   "pd": 2
-  },
-  {
-   "pos": "LB",
    "value": 36,
    "rank": 83,
+   "name": "Julian Blackmon"
+  },
+  {
+   "sk": 0.5,
+   "pit": false,
+   "pd": 2,
+   "pos": "LB",
    "tfl": 3,
    "id": "00-0036428",
    "team": "DEN",
-   "sk": 0.5,
-   "name": "Justin Strnad",
-   "pit": false,
-   "pd": 2
-  },
-  {
-   "pos": "DT",
    "value": 36,
    "rank": 83,
+   "name": "Justin Strnad"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 1,
+   "pos": "DT",
    "tfl": 0,
    "id": "00-0036883",
    "team": "HOU",
-   "sk": 0,
-   "name": "Tommy Togiai",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "LB",
    "value": 36,
    "rank": 83,
+   "name": "Tommy Togiai"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 2,
+   "pos": "LB",
    "tfl": 3,
    "id": "00-0037457",
    "team": "HOU",
-   "sk": 1,
-   "name": "Jake Hansen",
-   "pit": false,
-   "pd": 2
-  },
-  {
-   "pos": "LB",
    "value": 36,
    "rank": 83,
+   "name": "Jake Hansen"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 1,
+   "pos": "LB",
    "tfl": 0,
    "id": "00-0040155",
    "team": "NO",
-   "sk": 0,
-   "name": "Danny Stutsman",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "SAF",
    "value": 36,
    "rank": 83,
+   "name": "Danny Stutsman"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 2,
+   "pos": "SAF",
    "tfl": 0,
    "id": "00-0041043",
    "team": "IND",
-   "sk": 0,
-   "name": "A.J. Haulcy",
-   "pit": false,
-   "pd": 2
-  },
-  {
-   "pos": "FS",
    "value": 36,
    "rank": 83,
+   "name": "A.J. Haulcy"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 2,
+   "pos": "FS",
    "tfl": 0,
    "id": "00-0034789",
    "team": "NYJ",
-   "sk": 0,
-   "name": "Minkah Fitzpatrick",
-   "pit": false,
-   "pd": 2
+   "value": 36,
+   "rank": 83,
+   "name": "Minkah Fitzpatrick"
   },
   {
+   "sk": 1,
+   "pit": false,
+   "pd": 1,
    "pos": "LB",
-   "value": 35,
-   "rank": 91,
    "tfl": 4,
    "id": "00-0038922",
    "team": "SEA",
-   "sk": 1,
-   "name": "Drake Thomas",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "CB",
    "value": 35,
    "rank": 91,
+   "name": "Drake Thomas"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 3,
+   "pos": "CB",
    "tfl": 1,
    "id": "00-0040139",
    "team": "IND",
-   "sk": 1,
-   "name": "Justin Walley",
-   "pit": false,
-   "pd": 3
-  },
-  {
-   "pos": "CB",
    "value": 35,
    "rank": 91,
+   "name": "Justin Walley"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 2,
+   "pos": "CB",
    "tfl": 2,
    "id": "00-0041533",
    "team": "MIA",
-   "sk": 0,
-   "name": "Chris Johnson",
-   "pit": false,
-   "pd": 2
+   "value": 35,
+   "rank": 91,
+   "name": "Chris Johnson"
   },
   {
+   "sk": 1,
+   "pit": false,
+   "pd": 5,
    "pos": "CB",
-   "value": 34,
-   "rank": 94,
    "tfl": 2,
    "id": "00-0037253",
    "team": "NE",
-   "sk": 1,
-   "name": "Marcus Jones",
-   "pit": false,
-   "pd": 5
-  },
-  {
-   "pos": "LB",
    "value": 34,
    "rank": 94,
+   "name": "Marcus Jones"
+  },
+  {
+   "sk": 0.5,
+   "pit": false,
+   "pd": 1,
+   "pos": "LB",
    "tfl": 1,
    "id": "00-0038553",
    "team": "LAC",
-   "sk": 0.5,
-   "name": "Daiyan Henley",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "LB",
    "value": 34,
    "rank": 94,
+   "name": "Daiyan Henley"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 1,
+   "pos": "LB",
    "tfl": 3,
    "id": "00-0038625",
    "team": "DAL",
-   "sk": 0,
-   "name": "Dee Winters",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "CB",
    "value": 34,
    "rank": 94,
+   "name": "Dee Winters"
+  },
+  {
+   "sk": 0.5,
+   "pit": false,
+   "pd": 2,
+   "pos": "CB",
    "tfl": 3,
    "id": "00-0040201",
    "team": "TEN",
-   "sk": 0.5,
-   "name": "Marcus Harris",
-   "pit": false,
-   "pd": 2
-  },
-  {
-   "pos": "LB",
    "value": 34,
    "rank": 94,
+   "name": "Marcus Harris"
+  },
+  {
+   "sk": 5.5,
+   "pit": false,
+   "pd": 1,
+   "pos": "LB",
    "tfl": 7,
    "id": "00-0041026",
    "team": "NYJ",
-   "sk": 5.5,
-   "name": "David Bailey",
-   "pit": false,
-   "pd": 1
+   "value": 34,
+   "rank": 94,
+   "name": "David Bailey"
   },
   {
+   "sk": 0,
+   "pit": false,
+   "pd": 2,
    "pos": "FS",
-   "value": 33,
-   "rank": 99,
    "tfl": 0,
    "id": "00-0033132",
    "team": "NE",
-   "sk": 0,
-   "name": "Kevin Byard",
-   "pit": false,
-   "pd": 2
-  },
-  {
-   "pos": "CB",
    "value": 33,
    "rank": 99,
+   "name": "Kevin Byard"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 4,
+   "pos": "CB",
    "tfl": 2,
    "id": "00-0034843",
    "team": "ATL",
-   "sk": 0,
-   "name": "Mike Hughes",
-   "pit": false,
-   "pd": 4
-  },
-  {
-   "pos": "SAF",
    "value": 33,
    "rank": 99,
+   "name": "Mike Hughes"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 2,
+   "pos": "SAF",
    "tfl": 3,
    "id": "00-0036349",
    "team": "LA",
-   "sk": 0,
-   "name": "Kam Curl",
-   "pit": false,
-   "pd": 2
-  },
-  {
-   "pos": "LB",
    "value": 33,
    "rank": 99,
+   "name": "Kam Curl"
+  },
+  {
+   "sk": 3,
+   "pit": false,
+   "pd": 2,
+   "pos": "LB",
    "tfl": 4,
    "id": "00-0036964",
    "team": "DET",
-   "sk": 3,
-   "name": "Derrick Barnes",
-   "pit": false,
-   "pd": 2
-  },
-  {
-   "pos": "SAF",
    "value": 33,
    "rank": 99,
+   "name": "Derrick Barnes"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 3,
+   "pos": "SAF",
    "tfl": 0,
    "id": "00-0040182",
    "team": "MIA",
-   "sk": 0,
-   "name": "Dante Trader Jr.",
-   "pit": false,
-   "pd": 3
-  },
-  {
-   "pos": "SAF",
    "value": 33,
    "rank": 99,
+   "name": "Dante Trader Jr."
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 2,
+   "pos": "SAF",
    "tfl": 0,
    "id": "00-0041528",
    "team": "MIA",
-   "sk": 0,
-   "name": "Michael Taaffe",
-   "pit": false,
-   "pd": 2
+   "value": 33,
+   "rank": 99,
+   "name": "Michael Taaffe"
   },
   {
+   "sk": 0,
+   "pit": false,
+   "pd": 0,
    "pos": "LB",
-   "value": 32,
-   "rank": 105,
    "tfl": 0,
    "id": "00-0035202",
    "team": "LAC",
-   "sk": 0,
-   "name": "Del'Shawn Phillips",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "CB",
    "value": 32,
    "rank": 105,
+   "name": "Del'Shawn Phillips"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 3,
+   "pos": "CB",
    "tfl": 0,
    "id": "00-0036374",
    "team": "KC",
-   "sk": 0,
-   "name": "L'Jarius Sneed",
-   "pit": false,
-   "pd": 3
-  },
-  {
-   "pos": "LB",
    "value": 32,
    "rank": 105,
+   "name": "L'Jarius Sneed"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 0,
+   "pos": "LB",
    "tfl": 1,
    "id": "00-0036658",
    "team": "GB",
-   "sk": 0,
-   "name": "Isaiah McDuffie",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "LB",
    "value": 32,
    "rank": 105,
+   "name": "Isaiah McDuffie"
+  },
+  {
+   "sk": 2,
+   "pit": false,
+   "pd": 1,
+   "pos": "LB",
    "tfl": 3,
    "id": "00-0039774",
    "team": "LA",
-   "sk": 2,
-   "name": "Omar Speights",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "CB",
    "value": 32,
    "rank": 105,
+   "name": "Omar Speights"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 4,
+   "pos": "CB",
    "tfl": 2,
    "id": "00-0040133",
    "team": "NYJ",
-   "sk": 0,
-   "name": "Azareye'h Thomas",
-   "pit": false,
-   "pd": 4
-  },
-  {
-   "pos": "LB",
    "value": 32,
    "rank": 105,
+   "name": "Azareye'h Thomas"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 0,
+   "pos": "LB",
    "tfl": 4,
    "id": "00-0040872",
    "team": "DAL",
-   "sk": 0,
-   "name": "Jaishawn Barham",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "LB",
    "value": 32,
    "rank": 105,
+   "name": "Jaishawn Barham"
+  },
+  {
+   "sk": 0.5,
+   "pit": false,
+   "pd": 0,
+   "pos": "LB",
    "tfl": 2,
    "id": "00-0039858",
    "team": "TEN",
-   "sk": 0.5,
-   "name": "Cedric Gray",
-   "pit": false,
-   "pd": 0
+   "value": 32,
+   "rank": 105,
+   "name": "Cedric Gray"
   },
   {
+   "sk": 4,
+   "pit": false,
+   "pd": 3,
    "pos": "DT",
-   "value": 31,
-   "rank": 112,
    "tfl": 4,
    "id": "00-0032378",
    "team": "IND",
-   "sk": 4,
-   "name": "DeForest Buckner",
-   "pit": false,
-   "pd": 3
-  },
-  {
-   "pos": "LB",
    "value": 31,
    "rank": 112,
+   "name": "DeForest Buckner"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 1,
+   "pos": "LB",
    "tfl": 0,
    "id": "00-0035672",
    "team": "TEN",
-   "sk": 0,
-   "name": "Cody Barton",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "CB",
    "value": 31,
    "rank": 112,
+   "name": "Cody Barton"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 8,
+   "pos": "CB",
    "tfl": 1,
    "id": "00-0036281",
    "team": "ATL",
-   "sk": 0,
-   "name": "C.J. Henderson",
-   "pit": false,
-   "pd": 8
-  },
-  {
-   "pos": "SAF",
    "value": 31,
    "rank": 112,
+   "name": "C.J. Henderson"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 3,
+   "pos": "SAF",
    "tfl": 1,
    "id": "00-0036388",
    "team": "GB",
-   "sk": 1,
-   "name": "Xavier McKinney",
-   "pit": false,
-   "pd": 3
-  },
-  {
-   "pos": "DB",
    "value": 31,
    "rank": 112,
+   "name": "Xavier McKinney"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 5,
+   "pos": "DB",
    "tfl": 0,
    "id": "00-0037743",
    "team": "CIN",
-   "sk": 0,
-   "name": "Daxton Hill",
-   "pit": false,
-   "pd": 5
-  },
-  {
-   "pos": "DE",
    "value": 31,
    "rank": 112,
+   "name": "Daxton Hill"
+  },
+  {
+   "sk": 7.5,
+   "pit": false,
+   "pd": 1,
+   "pos": "DE",
    "tfl": 10,
    "id": "00-0039108",
    "team": "HOU",
-   "sk": 7.5,
-   "name": "Will Anderson Jr.",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "LB",
    "value": 31,
    "rank": 112,
+   "name": "Will Anderson Jr."
+  },
+  {
+   "sk": 4.5,
+   "pit": false,
+   "pd": 0,
+   "pos": "LB",
    "tfl": 5,
    "id": "00-0039137",
    "team": "LA",
-   "sk": 4.5,
-   "name": "Byron Young",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "SAF",
    "value": 31,
    "rank": 112,
+   "name": "Byron Young"
+  },
+  {
+   "sk": 0.5,
+   "pit": false,
+   "pd": 2,
+   "pos": "SAF",
    "tfl": 0,
    "id": "00-0039834",
    "team": "LA",
-   "sk": 0.5,
-   "name": "Kamren Kinchens",
-   "pit": false,
-   "pd": 2
-  },
-  {
-   "pos": "SAF",
    "value": 31,
    "rank": 112,
+   "name": "Kamren Kinchens"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 3,
+   "pos": "SAF",
    "tfl": 0,
    "id": "00-0040716",
    "team": "NE",
-   "sk": 0,
-   "name": "Craig Woodson",
-   "pit": false,
-   "pd": 3
-  },
-  {
-   "pos": "LB",
    "value": 31,
    "rank": 112,
+   "name": "Craig Woodson"
+  },
+  {
+   "sk": 0.5,
+   "pit": false,
+   "pd": 1,
+   "pos": "LB",
    "tfl": 1,
    "id": "00-0041112",
    "team": "ATL",
-   "sk": 0.5,
-   "name": "Harold Perkins Jr.",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "CB",
    "value": 31,
    "rank": 112,
+   "name": "Harold Perkins Jr."
+  },
+  {
+   "sk": 1.5,
+   "pit": false,
+   "pd": 6,
+   "pos": "CB",
    "tfl": 2,
    "id": "00-0041470",
    "team": "GB",
-   "sk": 1.5,
-   "name": "Brandon Cisse",
-   "pit": false,
-   "pd": 6
+   "value": 31,
+   "rank": 112,
+   "name": "Brandon Cisse"
   },
   {
+   "sk": 2,
+   "pit": false,
+   "pd": 1,
    "pos": "LB",
-   "value": 30,
-   "rank": 123,
    "tfl": 3,
    "id": "00-0033336",
    "team": "MIN",
-   "sk": 2,
-   "name": "Eric Wilson",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "SAF",
    "value": 30,
    "rank": 123,
+   "name": "Eric Wilson"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 4,
+   "pos": "SAF",
    "tfl": 1,
    "id": "00-0036282",
    "team": "CLE",
-   "sk": 1,
-   "name": "Grant Delpit",
-   "pit": false,
-   "pd": 4
-  },
-  {
-   "pos": "SAF",
    "value": 30,
    "rank": 123,
+   "name": "Grant Delpit"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 0,
+   "pos": "SAF",
    "tfl": 0,
    "id": "00-0036302",
    "team": "BAL",
-   "sk": 0,
-   "name": "Jaylinn Hawkins",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "CB",
    "value": 30,
    "rank": 123,
+   "name": "Jaylinn Hawkins"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 1,
+   "pos": "CB",
    "tfl": 0,
    "id": "00-0036563",
    "team": "SF",
-   "sk": 0,
-   "name": "Deommodore Lenoir",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "SAF",
    "value": 30,
    "rank": 123,
+   "name": "Deommodore Lenoir"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 5,
+   "pos": "SAF",
    "tfl": 1,
    "id": "00-0036998",
    "team": "NYG",
-   "sk": 0,
-   "name": "Jevon Holland",
-   "pit": false,
-   "pd": 5
-  },
-  {
-   "pos": "SAF",
    "value": 30,
    "rank": 123,
+   "name": "Jevon Holland"
+  },
+  {
+   "sk": 0.5,
+   "pit": false,
+   "pd": 1,
+   "pos": "SAF",
    "tfl": 2,
    "id": "00-0038596",
    "team": "JAX",
-   "sk": 0.5,
-   "name": "Antonio Johnson",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "CB",
    "value": 30,
    "rank": 123,
+   "name": "Antonio Johnson"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 4,
+   "pos": "CB",
    "tfl": 1,
    "id": "00-0039770",
    "team": "NE",
-   "sk": 0,
-   "name": "Charles Woods",
-   "pit": false,
-   "pd": 4
-  },
-  {
-   "pos": "SAF",
    "value": 30,
    "rank": 123,
+   "name": "Charles Woods"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 4,
+   "pos": "SAF",
    "tfl": 1,
    "id": "00-0039838",
    "team": "HOU",
-   "sk": 0,
-   "name": "Calen Bullock",
-   "pit": false,
-   "pd": 4
-  },
-  {
-   "pos": "SAF",
    "value": 30,
    "rank": 123,
+   "name": "Calen Bullock"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 1,
+   "pos": "SAF",
    "tfl": 0,
    "id": "00-0040749",
    "team": "PHI",
-   "sk": 0,
-   "name": "Andrew Mukuba",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "SAF",
    "value": 30,
    "rank": 123,
+   "name": "Andrew Mukuba"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 2,
+   "pos": "SAF",
    "tfl": 0,
    "id": "00-0040868",
    "team": "LV",
-   "sk": 0,
-   "name": "Treydan Stukes",
-   "pit": false,
-   "pd": 2
-  },
-  {
-   "pos": "LB",
    "value": 30,
    "rank": 123,
+   "name": "Treydan Stukes"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 0,
+   "pos": "LB",
    "tfl": 2,
    "id": "00-0041078",
    "team": "SF",
-   "sk": 1,
-   "name": "Jaden Dugger",
-   "pit": false,
-   "pd": 0
+   "value": 30,
+   "rank": 123,
+   "name": "Jaden Dugger"
   },
   {
+   "sk": 0,
+   "pit": false,
+   "pd": 1,
    "pos": "LB",
-   "value": 29,
-   "rank": 134,
    "tfl": 2,
    "id": "00-0035316",
    "team": "NO",
-   "sk": 0,
-   "name": "Kaden Elliss",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "LB",
    "value": 29,
    "rank": 134,
+   "name": "Kaden Elliss"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 1,
+   "pos": "LB",
    "tfl": 1,
    "id": "00-0036990",
    "team": "ATL",
-   "sk": 0,
-   "name": "Divine Deablo",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "CB",
    "value": 29,
    "rank": 134,
+   "name": "Divine Deablo"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 8,
+   "pos": "CB",
    "tfl": 1,
    "id": "00-0037268",
    "team": "TB",
-   "sk": 0,
-   "name": "Zyon McCollum",
-   "pit": false,
-   "pd": 8
-  },
-  {
-   "pos": "SAF",
    "value": 29,
    "rank": 134,
+   "name": "Zyon McCollum"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 1,
+   "pos": "SAF",
    "tfl": 1,
    "id": "00-0039825",
    "team": "KC",
-   "sk": 0,
-   "name": "Jaden Hicks",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "CB",
    "value": 29,
    "rank": 134,
+   "name": "Jaden Hicks"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 7,
+   "pos": "CB",
    "tfl": 2,
    "id": "00-0039888",
    "team": "PHI",
-   "sk": 0,
-   "name": "Quinyon Mitchell",
-   "pit": false,
-   "pd": 7
-  },
-  {
-   "pos": "CB",
    "value": 29,
    "rank": 134,
+   "name": "Quinyon Mitchell"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 11,
+   "pos": "CB",
    "tfl": 2,
    "id": "00-0040143",
    "team": "TB",
-   "sk": 0,
-   "name": "Jacob Parrish",
-   "pit": false,
-   "pd": 11
-  },
-  {
-   "pos": "CB",
    "value": 29,
    "rank": 134,
+   "name": "Jacob Parrish"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 7,
+   "pos": "CB",
    "tfl": 0,
    "id": "00-0041063",
    "team": "CAR",
-   "sk": 0,
-   "name": "Will Lee III",
-   "pit": false,
-   "pd": 7
+   "value": 29,
+   "rank": 134,
+   "name": "Will Lee III"
   },
   {
+   "sk": 0,
+   "pit": false,
+   "pd": 2,
    "pos": "CB",
-   "value": 28,
-   "rank": 141,
    "tfl": 1,
    "id": "00-0036974",
    "team": "CLE",
-   "sk": 0,
-   "name": "Tyson Campbell",
-   "pit": false,
-   "pd": 2
-  },
-  {
-   "pos": "CB",
    "value": 28,
    "rank": 141,
+   "name": "Tyson Campbell"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 5,
+   "pos": "CB",
    "tfl": 0,
    "id": "00-0037288",
    "team": "BUF",
-   "sk": 0,
-   "name": "Christian Benford",
-   "pit": false,
-   "pd": 5
-  },
-  {
-   "pos": "SAF",
    "value": 28,
    "rank": 141,
+   "name": "Christian Benford"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 3,
+   "pos": "SAF",
    "tfl": 0,
    "id": "00-0039360",
    "team": "SF",
-   "sk": 0,
-   "name": "Malik Mustapha",
-   "pit": false,
-   "pd": 3
-  },
-  {
-   "pos": "CB",
    "value": 28,
    "rank": 141,
+   "name": "Malik Mustapha"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 7,
+   "pos": "CB",
    "tfl": 4,
    "id": "00-0040670",
    "team": "KC",
-   "sk": 1,
-   "name": "Nohl Williams",
-   "pit": false,
-   "pd": 7
+   "value": 28,
+   "rank": 141,
+   "name": "Nohl Williams"
   },
   {
+   "sk": 0,
+   "pit": false,
+   "pd": 7,
    "pos": "CB",
-   "value": 27,
-   "rank": 145,
    "tfl": 0,
    "id": "00-0034856",
    "team": "CLE",
-   "sk": 0,
-   "name": "Denzel Ward",
-   "pit": false,
-   "pd": 7
-  },
-  {
-   "pos": "CB",
    "value": 27,
    "rank": 145,
+   "name": "Denzel Ward"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 0,
+   "pos": "CB",
    "tfl": 0,
    "id": "00-0035357",
    "team": "CHI",
-   "sk": 0,
-   "name": "Cam Lewis",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "CB",
    "value": 27,
    "rank": 145,
+   "name": "Cam Lewis"
+  },
+  {
+   "sk": 0,
+   "pit": true,
+   "pd": 7,
+   "pos": "CB",
    "tfl": 0,
    "id": "00-0036617",
    "team": "PIT",
-   "sk": 0,
-   "name": "Asante Samuel Jr.",
-   "pit": true,
-   "pd": 7
-  },
-  {
-   "pos": "CB",
    "value": 27,
    "rank": 145,
+   "name": "Asante Samuel Jr."
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 1,
+   "pos": "CB",
    "tfl": 1,
    "id": "00-0037137",
    "team": "SEA",
-   "sk": 0,
-   "name": "Josh Jobe",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "SAF",
    "value": 27,
    "rank": 145,
+   "name": "Josh Jobe"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 1,
+   "pos": "SAF",
    "tfl": 1,
    "id": "00-0039002",
    "team": "ATL",
-   "sk": 0,
-   "name": "Sydney Brown",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "LB",
    "value": 27,
    "rank": 145,
+   "name": "Sydney Brown"
+  },
+  {
+   "sk": 3,
+   "pit": false,
+   "pd": 1,
+   "pos": "LB",
    "tfl": 6,
    "id": "00-0039850",
    "team": "GB",
-   "sk": 3,
-   "name": "Edgerrin Cooper",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "LB",
    "value": 27,
    "rank": 145,
+   "name": "Edgerrin Cooper"
+  },
+  {
+   "sk": 0.5,
+   "pit": false,
+   "pd": 0,
+   "pos": "LB",
    "tfl": 1,
    "id": "00-0040725",
    "team": "DAL",
-   "sk": 0.5,
-   "name": "Donovan Ezeiruaku",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "CB",
    "value": 27,
    "rank": 145,
+   "name": "Donovan Ezeiruaku"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 7,
+   "pos": "CB",
    "tfl": 0,
    "id": "00-0041391",
    "team": "BUF",
-   "sk": 0,
-   "name": "Davison Igbinosun",
-   "pit": false,
-   "pd": 7
-  },
-  {
-   "pos": "SAF",
    "value": 27,
    "rank": 145,
+   "name": "Davison Igbinosun"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 3,
+   "pos": "SAF",
    "tfl": 2,
    "id": "00-0041471",
    "team": "CLE",
-   "sk": 0,
-   "name": "Emmanuel McNeil-Warren",
-   "pit": false,
-   "pd": 3
-  },
-  {
-   "pos": "SAF",
    "value": 27,
    "rank": 145,
+   "name": "Emmanuel McNeil-Warren"
+  },
+  {
+   "sk": 2,
+   "pit": false,
+   "pd": 1,
+   "pos": "SAF",
    "tfl": 3,
    "id": "00-0040733",
    "team": "SEA",
-   "sk": 2,
-   "name": "Nick Emmanwori",
-   "pit": false,
-   "pd": 1
+   "value": 27,
+   "rank": 145,
+   "name": "Nick Emmanwori"
   },
   {
+   "sk": 0,
+   "pit": false,
+   "pd": 5,
    "pos": "CB",
-   "value": 26,
-   "rank": 155,
    "tfl": 2,
    "id": "00-0033551",
    "team": "WAS",
-   "sk": 0,
-   "name": "Rasul Douglas",
-   "pit": false,
-   "pd": 5
-  },
-  {
-   "pos": "LB",
    "value": 26,
    "rank": 155,
+   "name": "Rasul Douglas"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 1,
+   "pos": "LB",
    "tfl": 2,
    "id": "00-0034302",
    "team": "WAS",
-   "sk": 1,
-   "name": "Frankie Luvu",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "CB",
    "value": 26,
    "rank": 155,
+   "name": "Frankie Luvu"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 2,
+   "pos": "CB",
    "tfl": 1,
    "id": "00-0034376",
    "team": "LV",
-   "sk": 0,
-   "name": "Taron Johnson",
-   "pit": false,
-   "pd": 2
-  },
-  {
-   "pos": "SAF",
    "value": 26,
    "rank": 155,
+   "name": "Taron Johnson"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 2,
+   "pos": "SAF",
    "tfl": 0,
    "id": "00-0035253",
    "team": "BUF",
-   "sk": 0,
-   "name": "C.J. Gardner-Johnson",
-   "pit": false,
-   "pd": 2
-  },
-  {
-   "pos": "SAF",
    "value": 26,
    "rank": 155,
+   "name": "C.J. Gardner-Johnson"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 2,
+   "pos": "SAF",
    "tfl": 0,
    "id": "00-0036629",
    "team": "IND",
-   "sk": 0,
-   "name": "Camryn Bynum",
-   "pit": false,
-   "pd": 2
-  },
-  {
-   "pos": "SAF",
    "value": 26,
    "rank": 155,
+   "name": "Camryn Bynum"
+  },
+  {
+   "sk": 0.5,
+   "pit": false,
+   "pd": 0,
+   "pos": "SAF",
    "tfl": 0,
    "id": "00-0037193",
    "team": "CIN",
-   "sk": 0.5,
-   "name": "Bryan Cook",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "CB",
    "value": 26,
    "rank": 155,
+   "name": "Bryan Cook"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 4,
+   "pos": "CB",
    "tfl": 2,
    "id": "00-0037275",
    "team": "DAL",
-   "sk": 0,
-   "name": "DaRon Bland",
-   "pit": false,
-   "pd": 4
-  },
-  {
-   "pos": "SAF",
    "value": 26,
    "rank": 155,
+   "name": "DaRon Bland"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 0,
+   "pos": "SAF",
    "tfl": 1,
    "id": "00-0039149",
    "team": "WAS",
-   "sk": 0,
-   "name": "Quan Martin",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "CB",
    "value": 26,
    "rank": 155,
+   "name": "Quan Martin"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 5,
+   "pos": "CB",
    "tfl": 0,
    "id": "00-0039345",
    "team": "SF",
-   "sk": 0,
-   "name": "Renardo Green",
-   "pit": false,
-   "pd": 5
-  },
-  {
-   "pos": "LB",
    "value": 26,
    "rank": 155,
+   "name": "Renardo Green"
+  },
+  {
+   "sk": 2,
+   "pit": false,
+   "pd": 1,
+   "pos": "LB",
    "tfl": 3,
    "id": "00-0040168",
    "team": "DEN",
-   "sk": 2,
-   "name": "Que Robinson",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "SAF",
    "value": 26,
    "rank": 155,
+   "name": "Que Robinson"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 0,
+   "pos": "SAF",
    "tfl": 1,
    "id": "00-0040185",
    "team": "SF",
-   "sk": 1,
-   "name": "Marques Sigle",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "CB",
    "value": 26,
    "rank": 155,
+   "name": "Marques Sigle"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 2,
+   "pos": "CB",
    "tfl": 1,
    "id": "00-0040720",
    "team": "DEN",
-   "sk": 0,
-   "name": "Jahdae Barron",
-   "pit": false,
-   "pd": 2
-  },
-  {
-   "pos": "CB",
    "value": 26,
    "rank": 155,
+   "name": "Jahdae Barron"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 6,
+   "pos": "CB",
    "tfl": 1,
    "id": "00-0040889",
    "team": "LV",
-   "sk": 0,
-   "name": "Hezekiah Masses",
-   "pit": false,
-   "pd": 6
-  },
-  {
-   "pos": "CB",
    "value": 26,
    "rank": 155,
+   "name": "Hezekiah Masses"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 5,
+   "pos": "CB",
    "tfl": 3,
    "id": "00-0041543",
    "team": "KC",
-   "sk": 0,
-   "name": "Mansoor Delane",
-   "pit": false,
-   "pd": 5
+   "value": 26,
+   "rank": 155,
+   "name": "Mansoor Delane"
   },
   {
+   "sk": 0,
+   "pit": false,
+   "pd": 6,
    "pos": "CB",
-   "value": 25,
-   "rank": 169,
    "tfl": 0,
    "id": "00-0033281",
    "team": "BAL",
-   "sk": 0,
-   "name": "Marlon Humphrey",
-   "pit": false,
-   "pd": 6
-  },
-  {
-   "pos": "DE",
    "value": 25,
    "rank": 169,
+   "name": "Marlon Humphrey"
+  },
+  {
+   "sk": 5.5,
+   "pit": false,
+   "pd": 0,
+   "pos": "DE",
    "tfl": 5,
    "id": "00-0035402",
    "team": "NO",
-   "sk": 5.5,
-   "name": "Carl Granderson",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "CB",
    "value": 25,
    "rank": 169,
+   "name": "Carl Granderson"
+  },
+  {
+   "sk": 0,
+   "pit": true,
+   "pd": 8,
+   "pos": "CB",
    "tfl": 0,
    "id": "00-0035699",
    "team": "PIT",
-   "sk": 0,
-   "name": "Jamel Dean",
-   "pit": true,
-   "pd": 8
-  },
-  {
-   "pos": "LB",
    "value": 25,
    "rank": 169,
+   "name": "Jamel Dean"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 0,
+   "pos": "LB",
    "tfl": 3,
    "id": "00-0036159",
    "team": "MIA",
-   "sk": 1,
-   "name": "Joshua Uche",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "CB",
    "value": 25,
    "rank": 169,
+   "name": "Joshua Uche"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 6,
+   "pos": "CB",
    "tfl": 0,
    "id": "00-0036996",
    "team": "NYG",
-   "sk": 0,
-   "name": "Greg Newsome II",
-   "pit": false,
-   "pd": 6
-  },
-  {
-   "pos": "LB",
    "value": 25,
    "rank": 169,
+   "name": "Greg Newsome II"
+  },
+  {
+   "sk": 2,
+   "pit": false,
+   "pd": 3,
+   "pos": "LB",
    "tfl": 2,
    "id": "00-0039111",
    "team": "LAC",
-   "sk": 2,
-   "name": "Tuli Tuipulotu",
-   "pit": false,
-   "pd": 3
-  },
-  {
-   "pos": "LB",
    "value": 25,
    "rank": 169,
+   "name": "Tuli Tuipulotu"
+  },
+  {
+   "sk": 3.5,
+   "pit": false,
+   "pd": 0,
+   "pos": "LB",
    "tfl": 5,
    "id": "00-0039112",
    "team": "GB",
-   "sk": 3.5,
-   "name": "Lukas Van Ness",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "CB",
    "value": 25,
    "rank": 169,
+   "name": "Lukas Van Ness"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 6,
+   "pos": "CB",
    "tfl": 0,
    "id": "00-0039369",
    "team": "LAC",
-   "sk": 0,
-   "name": "Cam Hart",
-   "pit": false,
-   "pd": 6
-  },
-  {
-   "pos": "CB",
    "value": 25,
    "rank": 169,
+   "name": "Cam Hart"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 6,
+   "pos": "CB",
    "tfl": 1,
    "id": "00-0039417",
    "team": "CLE",
-   "sk": 0,
-   "name": "Myles Harden",
-   "pit": false,
-   "pd": 6
-  },
-  {
-   "pos": "LB",
    "value": 25,
    "rank": 169,
+   "name": "Myles Harden"
+  },
+  {
+   "sk": 0.5,
+   "pit": false,
+   "pd": 1,
+   "pos": "LB",
    "tfl": 0,
    "id": "00-0039826",
    "team": "PHI",
-   "sk": 0.5,
-   "name": "Jeremiah Trotter Jr.",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "LB",
    "value": 25,
    "rank": 169,
+   "name": "Jeremiah Trotter Jr."
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 0,
+   "pos": "LB",
    "tfl": 0,
    "id": "00-0041518",
    "team": "IND",
-   "sk": 0,
-   "name": "Bryce Boettcher",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "SAF",
    "value": 25,
    "rank": 169,
+   "name": "Bryce Boettcher"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 1,
+   "pos": "SAF",
    "tfl": 4,
    "id": "00-0038820",
    "team": "DET",
-   "sk": 1,
-   "name": "Christian Izien",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "DE",
    "value": 25,
    "rank": 169,
+   "name": "Christian Izien"
+  },
+  {
+   "sk": 2,
+   "pit": false,
+   "pd": 0,
+   "pos": "DE",
    "tfl": 2,
    "id": "00-0039431",
    "team": "NYJ",
-   "sk": 2,
-   "name": "Jowon Briggs",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "CB",
    "value": 25,
    "rank": 169,
+   "name": "Jowon Briggs"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 5,
+   "pos": "CB",
    "tfl": 1,
    "id": "00-0039772",
    "team": "LA",
-   "sk": 0,
-   "name": "Josh Wallace",
-   "pit": false,
-   "pd": 5
+   "value": 25,
+   "rank": 169,
+   "name": "Josh Wallace"
   },
   {
+   "sk": 0,
+   "pit": false,
+   "pd": 2,
    "pos": "S",
-   "value": 24,
-   "rank": 183,
    "tfl": 1,
    "id": "00-0030294",
    "team": "LAC",
-   "sk": 0,
-   "name": "Tony Jefferson",
-   "pit": false,
-   "pd": 2
-  },
-  {
-   "pos": "SAF",
    "value": 24,
    "rank": 183,
+   "name": "Tony Jefferson"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 6,
+   "pos": "SAF",
    "tfl": 2,
    "id": "00-0034974",
    "team": "SEA",
-   "sk": 0,
-   "name": "Julian Love",
-   "pit": false,
-   "pd": 6
-  },
-  {
-   "pos": "CB",
    "value": 24,
    "rank": 183,
+   "name": "Julian Love"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 6,
+   "pos": "CB",
    "tfl": 1,
    "id": "00-0035236",
    "team": "MIN",
-   "sk": 0,
-   "name": "Byron Murphy",
-   "pit": false,
-   "pd": 6
-  },
-  {
-   "pos": "DE",
    "value": 24,
    "rank": 183,
+   "name": "Byron Murphy"
+  },
+  {
+   "sk": 4.5,
+   "pit": false,
+   "pd": 2,
+   "pos": "DE",
    "tfl": 4,
    "id": "00-0035248",
    "team": "DEN",
-   "sk": 4.5,
-   "name": "Zach Allen",
-   "pit": false,
-   "pd": 2
-  },
-  {
-   "pos": "SAF",
    "value": 24,
    "rank": 183,
+   "name": "Zach Allen"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 1,
+   "pos": "SAF",
    "tfl": 0,
    "id": "00-0035669",
    "team": "CAR",
-   "sk": 0,
-   "name": "Nick Scott",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "SAF",
    "value": 24,
    "rank": 183,
+   "name": "Nick Scott"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 0,
+   "pos": "SAF",
    "tfl": 0,
    "id": "00-0036411",
    "team": "TB",
-   "sk": 0,
-   "name": "Antoine Winfield Jr.",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "SAF",
    "value": 24,
    "rank": 183,
+   "name": "Antoine Winfield Jr."
+  },
+  {
+   "sk": 0.5,
+   "pit": false,
+   "pd": 0,
+   "pos": "SAF",
    "tfl": 2,
    "id": "00-0036962",
    "team": "CAR",
-   "sk": 0.5,
-   "name": "Tre'von Moehrig",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "CB",
    "value": 24,
    "rank": 183,
+   "name": "Tre'von Moehrig"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 4,
+   "pos": "CB",
    "tfl": 0,
    "id": "00-0037079",
    "team": "PHI",
-   "sk": 0,
-   "name": "Riq Woolen",
-   "pit": false,
-   "pd": 4
-  },
-  {
-   "pos": "SAF",
    "value": 24,
    "rank": 183,
+   "name": "Riq Woolen"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 1,
+   "pos": "SAF",
    "tfl": 1,
    "id": "00-0037155",
    "team": "TEN",
-   "sk": 1,
-   "name": "Tony Adams",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "SAF",
    "value": 24,
    "rank": 183,
+   "name": "Tony Adams"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 4,
+   "pos": "SAF",
    "tfl": 1,
    "id": "00-0037246",
    "team": "HOU",
-   "sk": 0,
-   "name": "Jalen Pitre",
-   "pit": false,
-   "pd": 4
-  },
-  {
-   "pos": "SAF",
    "value": 24,
    "rank": 183,
+   "name": "Jalen Pitre"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 1,
+   "pos": "SAF",
    "tfl": 0,
    "id": "00-0037561",
    "team": "DAL",
-   "sk": 0,
-   "name": "Markquese Bell",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "CB",
    "value": 24,
    "rank": 183,
+   "name": "Markquese Bell"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 0,
+   "pos": "CB",
    "tfl": 4,
    "id": "00-0038121",
    "team": "TEN",
-   "sk": 1,
-   "name": "Alontae Taylor",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "DB",
    "value": 24,
    "rank": 183,
+   "name": "Alontae Taylor"
+  },
+  {
+   "sk": 2,
+   "pit": false,
+   "pd": 2,
+   "pos": "DB",
    "tfl": 2,
    "id": "00-0039821",
    "team": "NYG",
-   "sk": 2,
-   "name": "Andru Phillips",
-   "pit": false,
-   "pd": 2
+   "value": 24,
+   "rank": 183,
+   "name": "Andru Phillips"
   },
   {
+   "sk": 0,
+   "pit": false,
+   "pd": 1,
    "pos": "SAF",
-   "value": 23,
-   "rank": 196,
    "tfl": 3,
    "id": "00-0035378",
    "team": "ARI",
-   "sk": 0,
-   "name": "Andrew Wingard",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "LB",
    "value": 23,
    "rank": 196,
+   "name": "Andrew Wingard"
+  },
+  {
+   "sk": 1.5,
+   "pit": false,
+   "pd": 1,
+   "pos": "LB",
    "tfl": 2,
    "id": "00-0036338",
    "team": "LAC",
-   "sk": 1.5,
-   "name": "Troy Dye",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "SAF",
    "value": 23,
    "rank": 196,
+   "name": "Troy Dye"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 1,
+   "pos": "SAF",
    "tfl": 1,
    "id": "00-0036380",
    "team": "KC",
-   "sk": 0,
-   "name": "Alohi Gilman",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "SAF",
    "value": 23,
    "rank": 196,
+   "name": "Alohi Gilman"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 1,
+   "pos": "SAF",
    "tfl": 2,
    "id": "00-0036941",
    "team": "NYJ",
-   "sk": 1,
-   "name": "Andre Cisco",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "CB",
    "value": 23,
    "rank": 196,
+   "name": "Andre Cisco"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 0,
+   "pos": "CB",
    "tfl": 1,
    "id": "00-0036992",
    "team": "LAC",
-   "sk": 0,
-   "name": "Elijah Molden",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "DT",
    "value": 23,
    "rank": 196,
+   "name": "Elijah Molden"
+  },
+  {
+   "sk": 0.5,
+   "pit": false,
+   "pd": 1,
+   "pos": "DT",
    "tfl": 0,
    "id": "00-0037073",
    "team": "PHI",
-   "sk": 0.5,
-   "name": "Jordan Davis",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "DE",
    "value": 23,
    "rank": 196,
+   "name": "Jordan Davis"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 5,
+   "pos": "DE",
    "tfl": 5,
    "id": "00-0037192",
    "team": "KC",
-   "sk": 1,
-   "name": "George Karlaftis",
-   "pit": false,
-   "pd": 5
-  },
-  {
-   "pos": "CB",
    "value": 23,
    "rank": 196,
+   "name": "George Karlaftis"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 3,
+   "pos": "CB",
    "tfl": 2,
    "id": "00-0039071",
    "team": "CHI",
-   "sk": 0,
-   "name": "Tyrique Stevenson",
-   "pit": false,
-   "pd": 3
-  },
-  {
-   "pos": "DT",
    "value": 23,
    "rank": 196,
+   "name": "Tyrique Stevenson"
+  },
+  {
+   "sk": 3,
+   "pit": false,
+   "pd": 0,
+   "pos": "DT",
    "tfl": 5,
    "id": "00-0039309",
    "team": "SEA",
-   "sk": 3,
-   "name": "Byron Murphy II",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "CB",
    "value": 23,
    "rank": 196,
+   "name": "Byron Murphy II"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 6,
+   "pos": "CB",
    "tfl": 0,
    "id": "00-0039860",
    "team": "NO",
-   "sk": 0,
-   "name": "Kool-Aid McKinstry",
-   "pit": false,
-   "pd": 6
-  },
-  {
-   "pos": "LB",
    "value": 23,
    "rank": 196,
+   "name": "Kool-Aid McKinstry"
+  },
+  {
+   "sk": 2.5,
+   "pit": false,
+   "pd": 0,
+   "pos": "LB",
    "tfl": 2,
    "id": "00-0041544",
    "team": "LAC",
-   "sk": 2.5,
-   "name": "Akheem Mesidor",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "CB",
    "value": 23,
    "rank": 196,
+   "name": "Akheem Mesidor"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 2,
+   "pos": "CB",
    "tfl": 0,
    "id": "00-0038101",
    "team": "CAR",
-   "sk": 0,
-   "name": "Akayleb Evans",
-   "pit": false,
-   "pd": 2
+   "value": 23,
+   "rank": 196,
+   "name": "Akayleb Evans"
   },
   {
+   "sk": 1,
+   "pit": true,
+   "pd": 5,
    "pos": "DE",
-   "value": 22,
-   "rank": 208,
    "tfl": 1,
    "id": "00-0027969",
    "team": "PIT",
-   "sk": 1,
-   "name": "Cameron Heyward",
-   "pit": true,
-   "pd": 5
-  },
-  {
-   "pos": "DT",
    "value": 22,
    "rank": 208,
+   "name": "Cameron Heyward"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 0,
+   "pos": "DT",
    "tfl": 1,
    "id": "00-0032424",
    "team": "NYG",
-   "sk": 0,
-   "name": "DJ Reader",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "CB",
    "value": 22,
    "rank": 208,
+   "name": "DJ Reader"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 3,
+   "pos": "CB",
    "tfl": 0,
    "id": "00-0035795",
    "team": "MIN",
-   "sk": 0,
-   "name": "James Pierre",
-   "pit": false,
-   "pd": 3
-  },
-  {
-   "pos": "DE",
    "value": 22,
    "rank": 208,
+   "name": "James Pierre"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 0,
+   "pos": "DE",
    "tfl": 1,
    "id": "00-0036204",
    "team": "ATL",
-   "sk": 1,
-   "name": "LaCale London",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "SAF",
    "value": 22,
    "rank": 208,
+   "name": "LaCale London"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 3,
+   "pos": "SAF",
    "tfl": 3,
    "id": "00-0036564",
    "team": "DEN",
-   "sk": 1,
-   "name": "Talanoa Hufanga",
-   "pit": false,
-   "pd": 3
-  },
-  {
-   "pos": "CB",
    "value": 22,
    "rank": 208,
+   "name": "Talanoa Hufanga"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 1,
+   "pos": "CB",
    "tfl": 1,
    "id": "00-0036901",
    "team": "LV",
-   "sk": 1,
-   "name": "Eric Stokes",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "LB",
    "value": 22,
    "rank": 208,
+   "name": "Eric Stokes"
+  },
+  {
+   "sk": 2.5,
+   "pit": false,
+   "pd": 0,
+   "pos": "LB",
    "tfl": 4,
    "id": "00-0037083",
    "team": "NYJ",
-   "sk": 2.5,
-   "name": "Kingsley Enagbare",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "CB",
    "value": 22,
    "rank": 208,
+   "name": "Kingsley Enagbare"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 7,
+   "pos": "CB",
    "tfl": 1,
    "id": "00-0038125",
    "team": "DET",
-   "sk": 1,
-   "name": "Roger McCreary",
-   "pit": false,
-   "pd": 7
-  },
-  {
-   "pos": "DE",
    "value": 22,
    "rank": 208,
+   "name": "Roger McCreary"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 2,
+   "pos": "DE",
    "tfl": 0,
    "id": "00-0039138",
    "team": "LA",
-   "sk": 0,
-   "name": "Kobie Turner",
-   "pit": false,
-   "pd": 2
-  },
-  {
-   "pos": "CB",
    "value": 22,
    "rank": 208,
+   "name": "Kobie Turner"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 1,
+   "pos": "CB",
    "tfl": 1,
    "id": "00-0039156",
    "team": "MIA",
-   "sk": 0,
-   "name": "Julius Brents",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "CB",
    "value": 22,
    "rank": 208,
+   "name": "Julius Brents"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 4,
+   "pos": "CB",
    "tfl": 1,
    "id": "00-0039232",
    "team": "BAL",
-   "sk": 0,
-   "name": "Nate Wiggins",
-   "pit": false,
-   "pd": 4
-  },
-  {
-   "pos": "LB",
    "value": 22,
    "rank": 208,
+   "name": "Nate Wiggins"
+  },
+  {
+   "sk": 4,
+   "pit": false,
+   "pd": 0,
+   "pos": "LB",
    "tfl": 6,
    "id": "00-0040158",
    "team": "TB",
-   "sk": 4,
-   "name": "David Walker",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "SAF",
    "value": 22,
    "rank": 208,
+   "name": "David Walker"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 2,
+   "pos": "SAF",
    "tfl": 0,
    "id": "00-0040159",
    "team": "CAR",
-   "sk": 0,
-   "name": "Lathan Ransom",
-   "pit": false,
-   "pd": 2
-  },
-  {
-   "pos": "LB",
    "value": 22,
    "rank": 208,
+   "name": "Lathan Ransom"
+  },
+  {
+   "sk": 5.5,
+   "pit": false,
+   "pd": 0,
+   "pos": "LB",
    "tfl": 7,
    "id": "00-0040574",
    "team": "NE",
-   "sk": 5.5,
-   "name": "Elijah Ponder",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "CB",
    "value": 22,
    "rank": 208,
+   "name": "Elijah Ponder"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 6,
+   "pos": "CB",
    "tfl": 0,
    "id": "00-0040718",
    "team": "JAX",
-   "sk": 0,
-   "name": "Travis Hunter",
-   "pit": false,
-   "pd": 6
-  },
-  {
-   "pos": "CB",
    "value": 22,
    "rank": 208,
+   "name": "Travis Hunter"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 6,
+   "pos": "CB",
    "tfl": 1,
    "id": "00-0039353",
    "team": "JAX",
-   "sk": 0,
-   "name": "Jarrian Jones",
-   "pit": false,
-   "pd": 6
+   "value": 22,
+   "rank": 208,
+   "name": "Jarrian Jones"
   },
   {
+   "sk": 0,
+   "pit": false,
+   "pd": 5,
    "pos": "CB",
-   "value": 21,
-   "rank": 224,
    "tfl": 0,
    "id": "00-0034573",
    "team": "IND",
-   "sk": 0,
-   "name": "Charvarius Ward",
-   "pit": false,
-   "pd": 5
-  },
-  {
-   "pos": "FS",
    "value": 21,
    "rank": 224,
+   "name": "Charvarius Ward"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 1,
+   "pos": "FS",
    "tfl": 0,
    "id": "00-0034790",
    "team": "LAC",
-   "sk": 0,
-   "name": "Derwin James",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "DT",
    "value": 21,
    "rank": 224,
+   "name": "Derwin James"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 1,
+   "pos": "DT",
    "tfl": 3,
    "id": "00-0036568",
    "team": "ARI",
-   "sk": 1,
-   "name": "Roy Lopez",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "CB",
    "value": 21,
    "rank": 224,
+   "name": "Roy Lopez"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 1,
+   "pos": "CB",
    "tfl": 0,
    "id": "00-0036874",
    "team": "DEN",
-   "sk": 0,
-   "name": "Pat Surtain II",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "LB",
    "value": 21,
    "rank": 224,
+   "name": "Pat Surtain II"
+  },
+  {
+   "sk": 6,
+   "pit": false,
+   "pd": 5,
+   "pos": "LB",
    "tfl": 8,
    "id": "00-0036914",
    "team": "BUF",
-   "sk": 6,
-   "name": "Greg Rousseau",
-   "pit": false,
-   "pd": 5
-  },
-  {
-   "pos": "LB",
    "value": 21,
    "rank": 224,
+   "name": "Greg Rousseau"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 1,
+   "pos": "LB",
    "tfl": 0,
    "id": "00-0037271",
    "team": "CHI",
-   "sk": 0,
-   "name": "D'Marco Jackson",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "CB",
    "value": 21,
    "rank": 224,
+   "name": "D'Marco Jackson"
+  },
+  {
+   "sk": 2,
+   "pit": false,
+   "pd": 7,
+   "pos": "CB",
    "tfl": 2,
    "id": "00-0037384",
    "team": "DEN",
-   "sk": 2,
-   "name": "Ja'Quan McMillian",
-   "pit": false,
-   "pd": 7
-  },
-  {
-   "pos": "CB",
    "value": 21,
    "rank": 224,
+   "name": "Ja'Quan McMillian"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 2,
+   "pos": "CB",
    "tfl": 0,
    "id": "00-0037758",
    "team": "TEN",
-   "sk": 0,
-   "name": "Cordale Flott",
-   "pit": false,
-   "pd": 2
-  },
-  {
-   "pos": "CB",
    "value": 21,
    "rank": 224,
+   "name": "Cordale Flott"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 3,
+   "pos": "CB",
    "tfl": 1,
    "id": "00-0039366",
    "team": "LAC",
-   "sk": 0,
-   "name": "Tarheeb Still",
-   "pit": false,
-   "pd": 3
-  },
-  {
-   "pos": "SAF",
    "value": 21,
    "rank": 224,
+   "name": "Tarheeb Still"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 3,
+   "pos": "SAF",
    "tfl": 0,
    "id": "00-0039861",
    "team": "NYG",
-   "sk": 0,
-   "name": "Tyler Nubin",
-   "pit": false,
-   "pd": 3
-  },
-  {
-   "pos": "CB",
    "value": 21,
    "rank": 224,
+   "name": "Tyler Nubin"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 3,
+   "pos": "CB",
    "tfl": 1,
    "id": "00-0040166",
    "team": "NO",
-   "sk": 0,
-   "name": "Quincy Riley",
-   "pit": false,
-   "pd": 3
-  },
-  {
-   "pos": "SAF",
    "value": 21,
    "rank": 224,
+   "name": "Quincy Riley"
+  },
+  {
+   "sk": 0,
+   "pit": true,
+   "pd": 2,
+   "pos": "SAF",
    "tfl": 0,
    "id": "00-0041401",
    "team": "PIT",
-   "sk": 0,
-   "name": "Robert Spears-Jennings",
-   "pit": true,
-   "pd": 2
-  },
-  {
-   "pos": "LB",
    "value": 21,
    "rank": 224,
+   "name": "Robert Spears-Jennings"
+  },
+  {
+   "sk": 1.5,
+   "pit": false,
+   "pd": 1,
+   "pos": "LB",
    "tfl": 3,
    "id": "00-0041569",
    "team": "NE",
-   "sk": 1.5,
-   "name": "Gabe Jacas",
-   "pit": false,
-   "pd": 1
+   "value": 21,
+   "rank": 224,
+   "name": "Gabe Jacas"
   },
   {
+   "sk": 2,
+   "pit": false,
+   "pd": 1,
    "pos": "DT",
-   "value": 20,
-   "rank": 237,
    "tfl": 4,
    "id": "00-0032759",
    "team": "HOU",
-   "sk": 2,
-   "name": "Sheldon Rankins",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "DT",
    "value": 20,
    "rank": 237,
+   "name": "Sheldon Rankins"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 2,
+   "pos": "DT",
    "tfl": 1,
    "id": "00-0032889",
    "team": "TB",
-   "sk": 1,
-   "name": "A'Shawn Robinson",
-   "pit": false,
-   "pd": 2
-  },
-  {
-   "pos": "DT",
    "value": 20,
    "rank": 237,
+   "name": "A'Shawn Robinson"
+  },
+  {
+   "sk": 0.5,
+   "pit": false,
+   "pd": 1,
+   "pos": "DT",
    "tfl": 2,
    "id": "00-0033952",
    "team": "IND",
-   "sk": 0.5,
-   "name": "Grover Stewart",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "DT",
    "value": 20,
    "rank": 237,
+   "name": "Grover Stewart"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 0,
+   "pos": "DT",
    "tfl": 0,
    "id": "00-0034782",
    "team": "NYJ",
-   "sk": 0,
-   "name": "Harrison Phillips",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "DE",
    "value": 20,
    "rank": 237,
+   "name": "Harrison Phillips"
+  },
+  {
+   "sk": 1.5,
+   "pit": false,
+   "pd": 1,
+   "pos": "DE",
    "tfl": 3,
    "id": "00-0035642",
    "team": "JAX",
-   "sk": 1.5,
-   "name": "Josh Hines-Allen",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "DT",
    "value": 20,
    "rank": 237,
+   "name": "Josh Hines-Allen"
+  },
+  {
+   "sk": 2.5,
+   "pit": false,
+   "pd": 4,
+   "pos": "DT",
    "tfl": 4,
    "id": "00-0035763",
    "team": "DEN",
-   "sk": 2.5,
-   "name": "Malcolm Roach",
-   "pit": false,
-   "pd": 4
-  },
-  {
-   "pos": "CB",
    "value": 20,
    "rank": 237,
+   "name": "Malcolm Roach"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 9,
+   "pos": "CB",
    "tfl": 2,
    "id": "00-0037195",
    "team": "LA",
-   "sk": 0,
-   "name": "Jaylen Watson",
-   "pit": false,
-   "pd": 9
-  },
-  {
-   "pos": "DT",
    "value": 20,
    "rank": 237,
+   "name": "Jaylen Watson"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 0,
+   "pos": "DT",
    "tfl": 2,
    "id": "00-0037270",
    "team": "DAL",
-   "sk": 0,
-   "name": "Otito Ogbonnia",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "DE",
    "value": 20,
    "rank": 237,
+   "name": "Otito Ogbonnia"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 1,
+   "pos": "DE",
    "tfl": 5,
    "id": "00-0037665",
    "team": "CLE",
-   "sk": 1,
-   "name": "Sam Williams",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "CB",
    "value": 20,
    "rank": 237,
+   "name": "Sam Williams"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 6,
+   "pos": "CB",
    "tfl": 0,
    "id": "00-0038552",
    "team": "DEN",
-   "sk": 0,
-   "name": "Riley Moss",
-   "pit": false,
-   "pd": 6
-  },
-  {
-   "pos": "DL",
    "value": 20,
    "rank": 237,
+   "name": "Riley Moss"
+  },
+  {
+   "sk": 0.5,
+   "pit": false,
+   "pd": 2,
+   "pos": "DL",
    "tfl": 2,
    "id": "00-0038778",
    "team": "MIN",
-   "sk": 0.5,
-   "name": "Jalen Redmond",
-   "pit": false,
-   "pd": 2
-  },
-  {
-   "pos": "CB",
    "value": 20,
    "rank": 237,
+   "name": "Jalen Redmond"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 10,
+   "pos": "CB",
    "tfl": 0,
    "id": "00-0039000",
    "team": "NYG",
-   "sk": 0,
-   "name": "Deonte Banks",
-   "pit": false,
-   "pd": 10
-  },
-  {
-   "pos": "CB",
    "value": 20,
    "rank": 237,
+   "name": "Deonte Banks"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 4,
+   "pos": "CB",
    "tfl": 1,
    "id": "00-0039807",
    "team": "ARI",
-   "sk": 0,
-   "name": "Max Melton",
-   "pit": false,
-   "pd": 4
-  },
-  {
-   "pos": "DE",
    "value": 20,
    "rank": 237,
+   "name": "Max Melton"
+  },
+  {
+   "sk": 4,
+   "pit": false,
+   "pd": 0,
+   "pos": "DE",
    "tfl": 5,
    "id": "00-0039840",
    "team": "CHI",
-   "sk": 4,
-   "name": "Austin Booker",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "DE",
    "value": 20,
    "rank": 237,
+   "name": "Austin Booker"
+  },
+  {
+   "sk": 0.5,
+   "pit": false,
+   "pd": 0,
+   "pos": "DE",
    "tfl": 1,
    "id": "00-0040010",
    "team": "GB",
-   "sk": 0.5,
-   "name": "Barryn Sorrell",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "CB",
    "value": 20,
    "rank": 237,
+   "name": "Barryn Sorrell"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 0,
+   "pos": "CB",
    "tfl": 2,
    "id": "00-0040178",
    "team": "MIA",
-   "sk": 0,
-   "name": "Jason Marshall Jr.",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "CB",
    "value": 20,
    "rank": 237,
+   "name": "Jason Marshall Jr."
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 5,
+   "pos": "CB",
    "tfl": 0,
    "id": "00-0040195",
    "team": "ARI",
-   "sk": 0,
-   "name": "Denzel Burke",
-   "pit": false,
-   "pd": 5
-  },
-  {
-   "pos": "DT",
    "value": 20,
    "rank": 237,
+   "name": "Denzel Burke"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 4,
+   "pos": "DT",
    "tfl": 5,
    "id": "00-0040710",
    "team": "BUF",
-   "sk": 1,
-   "name": "Deone Walker",
-   "pit": false,
-   "pd": 4
-  },
-  {
-   "pos": "CB",
    "value": 20,
    "rank": 237,
+   "name": "Deone Walker"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 5,
+   "pos": "CB",
    "tfl": 2,
    "id": "00-0041060",
    "team": "CHI",
-   "sk": 1,
-   "name": "Malik Muhammad",
-   "pit": false,
-   "pd": 5
-  },
-  {
-   "pos": "DT",
    "value": 20,
    "rank": 237,
+   "name": "Malik Muhammad"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 2,
+   "pos": "DT",
    "tfl": 1,
    "id": "00-0041549",
    "team": "NYJ",
-   "sk": 1,
-   "name": "Darrell Jackson Jr.",
-   "pit": false,
-   "pd": 2
+   "value": 20,
+   "rank": 237,
+   "name": "Darrell Jackson Jr."
   },
   {
+   "sk": 3,
+   "pit": false,
+   "pd": 0,
    "pos": "OLB",
-   "value": 19,
-   "rank": 257,
    "tfl": 5,
    "id": "00-0031040",
    "team": "LAC",
-   "sk": 3,
-   "name": "Khalil Mack",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "DE",
    "value": 19,
    "rank": 257,
+   "name": "Khalil Mack"
+  },
+  {
+   "sk": 3,
+   "pit": false,
+   "pd": 1,
+   "pos": "DE",
    "tfl": 7,
    "id": "00-0031933",
    "team": "SEA",
-   "sk": 3,
-   "name": "Leonard Williams",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "CB",
    "value": 19,
    "rank": 257,
+   "name": "Leonard Williams"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 2,
+   "pos": "CB",
    "tfl": 0,
    "id": "00-0033928",
    "team": "JAX",
-   "sk": 0,
-   "name": "Jourdan Lewis",
-   "pit": false,
-   "pd": 2
-  },
-  {
-   "pos": "CB",
    "value": 19,
    "rank": 257,
+   "name": "Jourdan Lewis"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 2,
+   "pos": "CB",
    "tfl": 1,
    "id": "00-0036292",
    "team": "CHI",
-   "sk": 0,
-   "name": "Jaylon Johnson",
-   "pit": false,
-   "pd": 2
-  },
-  {
-   "pos": "LB",
    "value": 19,
    "rank": 257,
+   "name": "Jaylon Johnson"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 2,
+   "pos": "LB",
    "tfl": 2,
    "id": "00-0036933",
    "team": "ARI",
-   "sk": 1,
-   "name": "Zaven Collins",
-   "pit": false,
-   "pd": 2
-  },
-  {
-   "pos": "DE",
    "value": 19,
    "rank": 257,
+   "name": "Zaven Collins"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 0,
+   "pos": "DE",
    "tfl": 2,
    "id": "00-0038463",
    "team": "GB",
-   "sk": 0,
-   "name": "Brenton Cox Jr.",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "DE",
    "value": 19,
    "rank": 257,
+   "name": "Brenton Cox Jr."
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 0,
+   "pos": "DE",
    "tfl": 1,
    "id": "00-0039749",
    "team": "LA",
-   "sk": 0,
-   "name": "Tyler Davis",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "CB",
    "value": 19,
    "rank": 257,
+   "name": "Tyler Davis"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 5,
+   "pos": "CB",
    "tfl": 0,
    "id": "00-0040641",
    "team": "LV",
-   "sk": 0,
-   "name": "Darien Porter",
-   "pit": false,
-   "pd": 5
-  },
-  {
-   "pos": "CB",
    "value": 19,
    "rank": 257,
+   "name": "Darien Porter"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 5,
+   "pos": "CB",
    "tfl": 1,
    "id": "00-0036987",
    "team": "NYJ",
-   "sk": 0,
-   "name": "Brandon Stephens",
-   "pit": false,
-   "pd": 5
-  },
-  {
-   "pos": "LB",
    "value": 19,
    "rank": 257,
+   "name": "Brandon Stephens"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 2,
+   "pos": "LB",
    "tfl": 0,
    "id": "00-0039812",
    "team": "GB",
-   "sk": 0,
-   "name": "Ty'Ron Hopper",
-   "pit": false,
-   "pd": 2
-  },
-  {
-   "pos": "SAF",
    "value": 19,
    "rank": 257,
+   "name": "Ty'Ron Hopper"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 3,
+   "pos": "SAF",
    "tfl": 0,
    "id": "00-0041076",
    "team": "CAR",
-   "sk": 0,
-   "name": "Zakee Wheatley",
-   "pit": false,
-   "pd": 3
+   "value": 19,
+   "rank": 257,
+   "name": "Zakee Wheatley"
   },
   {
+   "sk": 2,
+   "pit": false,
+   "pd": 1,
    "pos": "DE",
-   "value": 18,
-   "rank": 268,
    "tfl": 3,
    "id": "00-0034973",
    "team": "LV",
-   "sk": 2,
-   "name": "Maxx Crosby",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "DT",
    "value": 18,
    "rank": 268,
+   "name": "Maxx Crosby"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 5,
+   "pos": "DT",
    "tfl": 0,
    "id": "00-0036220",
    "team": "CAR",
-   "sk": 0,
-   "name": "Derrick Brown",
-   "pit": false,
-   "pd": 5
-  },
-  {
-   "pos": "CB",
    "value": 18,
    "rank": 268,
+   "name": "Derrick Brown"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 4,
+   "pos": "CB",
    "tfl": 0,
    "id": "00-0036222",
    "team": "MIN",
-   "sk": 0,
-   "name": "Isaiah Rodgers",
-   "pit": false,
-   "pd": 4
-  },
-  {
-   "pos": "SAF",
    "value": 18,
    "rank": 268,
+   "name": "Isaiah Rodgers"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 0,
+   "pos": "SAF",
    "tfl": 0,
    "id": "00-0036587",
    "team": "NYG",
-   "sk": 0,
-   "name": "Ar'Darius Washington",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "SAF",
    "value": 18,
    "rank": 268,
+   "name": "Ar'Darius Washington"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 0,
+   "pos": "SAF",
    "tfl": 0,
    "id": "00-0036888",
    "team": "BUF",
-   "sk": 0,
-   "name": "Damar Hamlin",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "DT",
    "value": 18,
    "rank": 268,
+   "name": "Damar Hamlin"
+  },
+  {
+   "sk": 2,
+   "pit": false,
+   "pd": 0,
+   "pos": "DT",
    "tfl": 2,
    "id": "00-0037075",
    "team": "GB",
-   "sk": 2,
-   "name": "Devonte Wyatt",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "CB",
    "value": 18,
    "rank": 268,
+   "name": "Devonte Wyatt"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 4,
+   "pos": "CB",
    "tfl": 1,
    "id": "00-0037250",
    "team": "NO",
-   "sk": 0,
-   "name": "Martin Emerson",
-   "pit": false,
-   "pd": 4
-  },
-  {
-   "pos": "DE",
    "value": 18,
    "rank": 268,
+   "name": "Martin Emerson"
+  },
+  {
+   "sk": 3,
+   "pit": false,
+   "pd": 0,
+   "pos": "DE",
    "tfl": 4,
    "id": "00-0037663",
    "team": "TEN",
-   "sk": 3,
-   "name": "Jermaine Johnson II",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "LB",
    "value": 18,
    "rank": 268,
+   "name": "Jermaine Johnson II"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 0,
+   "pos": "LB",
    "tfl": 1,
    "id": "00-0037819",
    "team": "WAS",
-   "sk": 0,
-   "name": "Leo Chenal",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "LB",
    "value": 18,
    "rank": 268,
+   "name": "Leo Chenal"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 0,
+   "pos": "LB",
    "tfl": 0,
    "id": "00-0038116",
    "team": "PHI",
-   "sk": 0,
-   "name": "Arnold Ebiketie",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "LB",
    "value": 18,
    "rank": 268,
+   "name": "Arnold Ebiketie"
+  },
+  {
+   "sk": 3.5,
+   "pit": false,
+   "pd": 2,
+   "pos": "LB",
    "tfl": 3,
    "id": "00-0038505",
    "team": "BAL",
-   "sk": 3.5,
-   "name": "Tavius Robinson",
-   "pit": false,
-   "pd": 2
-  },
-  {
-   "pos": "DE",
    "value": 18,
    "rank": 268,
+   "name": "Tavius Robinson"
+  },
+  {
+   "sk": 3,
+   "pit": false,
+   "pd": 0,
+   "pos": "DE",
    "tfl": 5,
    "id": "00-0038574",
    "team": "CLE",
-   "sk": 3,
-   "name": "Isaiah McGuire",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "DT",
    "value": 18,
    "rank": 268,
+   "name": "Isaiah McGuire"
+  },
+  {
+   "sk": 1.5,
+   "pit": false,
+   "pd": 1,
+   "pos": "DT",
    "tfl": 4,
    "id": "00-0039070",
    "team": "ATL",
-   "sk": 1.5,
-   "name": "Gervon Dexter Sr.",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "DT",
    "value": 18,
    "rank": 268,
+   "name": "Gervon Dexter Sr."
+  },
+  {
+   "sk": 0,
+   "pit": true,
+   "pd": 3,
+   "pos": "DT",
    "tfl": 4,
    "id": "00-0039110",
    "team": "PIT",
-   "sk": 0,
-   "name": "Keeanu Benton",
-   "pit": true,
-   "pd": 3
-  },
-  {
-   "pos": "CB",
    "value": 18,
    "rank": 268,
+   "name": "Keeanu Benton"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 5,
+   "pos": "CB",
    "tfl": 0,
    "id": "00-0039147",
    "team": "NE",
-   "sk": 0,
-   "name": "Christian Gonzalez",
-   "pit": false,
-   "pd": 5
-  },
-  {
-   "pos": "SAF",
    "value": 18,
    "rank": 268,
+   "name": "Christian Gonzalez"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 0,
+   "pos": "SAF",
    "tfl": 0,
    "id": "00-0039776",
    "team": "LA",
-   "sk": 0,
-   "name": "Jaylen McCollough",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "DT",
    "value": 18,
    "rank": 268,
+   "name": "Jaylen McCollough"
+  },
+  {
+   "sk": 0.5,
+   "pit": false,
+   "pd": 0,
+   "pos": "DT",
    "tfl": 0,
    "id": "00-0039835",
    "team": "LAC",
-   "sk": 0.5,
-   "name": "Justin Eboigbe",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "DL",
    "value": 18,
    "rank": 268,
+   "name": "Justin Eboigbe"
+  },
+  {
+   "sk": 2,
+   "pit": false,
+   "pd": 0,
+   "pos": "DL",
    "tfl": 3,
    "id": "00-0039854",
    "team": "ARI",
-   "sk": 2,
-   "name": "Darius Robinson",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "CB",
    "value": 18,
    "rank": 268,
+   "name": "Darius Robinson"
+  },
+  {
+   "sk": 0.5,
+   "pit": false,
+   "pd": 1,
+   "pos": "CB",
    "tfl": 1,
    "id": "00-0040152",
    "team": "SF",
-   "sk": 0.5,
-   "name": "Upton Stout",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "DE",
    "value": 18,
    "rank": 268,
+   "name": "Upton Stout"
+  },
+  {
+   "sk": 2.5,
+   "pit": false,
+   "pd": 0,
+   "pos": "DE",
    "tfl": 1,
    "id": "00-0040255",
    "team": "CLE",
-   "sk": 2.5,
-   "name": "Adin Huntington",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "LB",
    "value": 18,
    "rank": 268,
+   "name": "Adin Huntington"
+  },
+  {
+   "sk": 2,
+   "pit": false,
+   "pd": 0,
+   "pos": "LB",
    "tfl": 2,
    "id": "00-0040677",
    "team": "NYG",
-   "sk": 2,
-   "name": "Abdul Carter",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "LB",
    "value": 18,
    "rank": 268,
+   "name": "Abdul Carter"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 0,
+   "pos": "LB",
    "tfl": 0,
    "id": "00-0039374",
    "team": "LV",
-   "sk": 0,
-   "name": "Tommy Eichenberg",
-   "pit": false,
-   "pd": 0
+   "value": 18,
+   "rank": 268,
+   "name": "Tommy Eichenberg"
   },
   {
+   "sk": 4,
+   "pit": false,
+   "pd": 4,
    "pos": "DE",
-   "value": 17,
-   "rank": 290,
    "tfl": 3,
    "id": "00-0031565",
    "team": "HOU",
-   "sk": 4,
-   "name": "Danielle Hunter",
-   "pit": false,
-   "pd": 4
-  },
-  {
-   "pos": "DT",
    "value": 17,
    "rank": 290,
+   "name": "Danielle Hunter"
+  },
+  {
+   "sk": 0.5,
+   "pit": false,
+   "pd": 0,
+   "pos": "DT",
    "tfl": 1,
    "id": "00-0033381",
    "team": "LV",
-   "sk": 0.5,
-   "name": "Adam Butler",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "OLB",
    "value": 17,
    "rank": 290,
+   "name": "Adam Butler"
+  },
+  {
+   "sk": 5.5,
+   "pit": true,
+   "pd": 2,
+   "pos": "OLB",
    "tfl": 7,
    "id": "00-0033886",
    "team": "PIT",
-   "sk": 5.5,
-   "name": "T.J. Watt",
-   "pit": true,
-   "pd": 2
-  },
-  {
-   "pos": "DE",
    "value": 17,
    "rank": 290,
+   "name": "T.J. Watt"
+  },
+  {
+   "sk": 2,
+   "pit": false,
+   "pd": 0,
+   "pos": "DE",
    "tfl": 6,
    "id": "00-0034285",
    "team": "MIA",
-   "sk": 2,
-   "name": "Zach Sieler",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "OLB",
    "value": 17,
    "rank": 290,
+   "name": "Zach Sieler"
+  },
+  {
+   "sk": 1.5,
+   "pit": false,
+   "pd": 0,
+   "pos": "OLB",
    "tfl": 2,
    "id": "00-0034832",
    "team": "BUF",
-   "sk": 1.5,
-   "name": "Bradley Chubb",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "OLB",
    "value": 17,
    "rank": 290,
+   "name": "Bradley Chubb"
+  },
+  {
+   "sk": 4,
+   "pit": false,
+   "pd": 1,
+   "pos": "OLB",
    "tfl": 5,
    "id": "00-0035272",
    "team": "MIN",
-   "sk": 4,
-   "name": "Andrew Van Ginkel",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "CB",
    "value": 17,
    "rank": 290,
+   "name": "Andrew Van Ginkel"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 0,
+   "pos": "CB",
    "tfl": 0,
    "id": "00-0035637",
    "team": "DET",
-   "sk": 0,
-   "name": "Rock Ya-Sin",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "DB",
    "value": 17,
    "rank": 290,
+   "name": "Rock Ya-Sin"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 0,
+   "pos": "DB",
    "tfl": 0,
    "id": "00-0035705",
    "team": "DAL",
-   "sk": 0,
-   "name": "Jalen Thompson",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "DT",
    "value": 17,
    "rank": 290,
+   "name": "Jalen Thompson"
+  },
+  {
+   "sk": 2,
+   "pit": false,
+   "pd": 1,
+   "pos": "DT",
    "tfl": 6,
    "id": "00-0035718",
    "team": "DAL",
-   "sk": 2,
-   "name": "Quinnen Williams",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "CB",
    "value": 17,
    "rank": 290,
+   "name": "Quinnen Williams"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 4,
+   "pos": "CB",
    "tfl": 0,
    "id": "00-0037190",
    "team": "IND",
-   "sk": 0,
-   "name": "Sauce Gardner",
-   "pit": false,
-   "pd": 4
-  },
-  {
-   "pos": "LB",
    "value": 17,
    "rank": 290,
+   "name": "Sauce Gardner"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 1,
+   "pos": "LB",
    "tfl": 1,
    "id": "00-0037208",
    "team": "KC",
-   "sk": 0,
-   "name": "Jack Cochrane",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "DE",
    "value": 17,
    "rank": 290,
+   "name": "Jack Cochrane"
+  },
+  {
+   "sk": 5,
+   "pit": false,
+   "pd": 1,
+   "pos": "DE",
    "tfl": 4,
    "id": "00-0037236",
    "team": "DET",
-   "sk": 5,
-   "name": "Aidan Hutchinson",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "CB",
    "value": 17,
    "rank": 290,
+   "name": "Aidan Hutchinson"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 4,
+   "pos": "CB",
    "tfl": 0,
    "id": "00-0037237",
    "team": "HOU",
-   "sk": 0,
-   "name": "Derek Stingley Jr.",
-   "pit": false,
-   "pd": 4
-  },
-  {
-   "pos": "DB",
    "value": 17,
    "rank": 290,
+   "name": "Derek Stingley Jr."
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 1,
+   "pos": "DB",
    "tfl": 0,
    "id": "00-0037301",
    "team": "MIN",
-   "sk": 0,
-   "name": "Theo Jackson",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "DE",
    "value": 17,
    "rank": 290,
+   "name": "Theo Jackson"
+  },
+  {
+   "sk": 2,
+   "pit": false,
+   "pd": 1,
+   "pos": "DE",
    "tfl": 1,
    "id": "00-0037815",
    "team": "ATL",
-   "sk": 2,
-   "name": "Cameron Thomas",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "LB",
    "value": 17,
    "rank": 290,
+   "name": "Cameron Thomas"
+  },
+  {
+   "sk": 2,
+   "pit": true,
+   "pd": 0,
+   "pos": "LB",
    "tfl": 6,
    "id": "00-0038577",
    "team": "PIT",
-   "sk": 2,
-   "name": "Nick Herbig",
-   "pit": true,
-   "pd": 0
-  },
-  {
-   "pos": "LB",
    "value": 17,
    "rank": 290,
+   "name": "Nick Herbig"
+  },
+  {
+   "sk": 0.5,
+   "pit": false,
+   "pd": 1,
+   "pos": "LB",
    "tfl": 3,
    "id": "00-0038599",
    "team": "HOU",
-   "sk": 0.5,
-   "name": "Henry To'oTo'o",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "LB",
    "value": 17,
    "rank": 290,
+   "name": "Henry To'oTo'o"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 0,
+   "pos": "LB",
    "tfl": 0,
    "id": "00-0038660",
    "team": "DET",
-   "sk": 0,
-   "name": "Trevor Nowaske",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "DT",
    "value": 17,
    "rank": 290,
+   "name": "Trevor Nowaske"
+  },
+  {
+   "sk": 4,
+   "pit": false,
+   "pd": 1,
+   "pos": "DT",
    "tfl": 3,
    "id": "00-0039031",
    "team": "IND",
-   "sk": 4,
-   "name": "Adetomiwa Adebawore",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "DE",
    "value": 17,
    "rank": 290,
+   "name": "Adetomiwa Adebawore"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 2,
+   "pos": "DE",
    "tfl": 0,
    "id": "00-0039340",
    "team": "IND",
-   "sk": 1,
-   "name": "Laiatu Latu",
-   "pit": false,
-   "pd": 2
-  },
-  {
-   "pos": "CB",
    "value": 17,
    "rank": 290,
+   "name": "Laiatu Latu"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 5,
+   "pos": "CB",
    "tfl": 1,
    "id": "00-0039371",
    "team": "DEN",
-   "sk": 0,
-   "name": "Kris Abrams-Draine",
-   "pit": false,
-   "pd": 5
-  },
-  {
-   "pos": "CB",
    "value": 17,
    "rank": 290,
+   "name": "Kris Abrams-Draine"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 0,
+   "pos": "CB",
    "tfl": 1,
    "id": "00-0039898",
    "team": "WAS",
-   "sk": 0,
-   "name": "Mike Sainristil",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "LB",
    "value": 17,
    "rank": 290,
+   "name": "Mike Sainristil"
+  },
+  {
+   "sk": 6,
+   "pit": false,
+   "pd": 0,
+   "pos": "LB",
    "tfl": 4,
    "id": "00-0039924",
    "team": "MIN",
-   "sk": 6,
-   "name": "Dallas Turner",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "LB",
    "value": 17,
    "rank": 290,
+   "name": "Dallas Turner"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 0,
+   "pos": "LB",
    "tfl": 1,
    "id": "00-0040326",
    "team": "JAX",
-   "sk": 1,
-   "name": "Branson Combs",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "LB",
    "value": 17,
    "rank": 290,
+   "name": "Branson Combs"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 0,
+   "pos": "LB",
    "tfl": 2,
    "id": "00-0040580",
    "team": "LA",
-   "sk": 1,
-   "name": "Josaiah Stewart",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "DE",
    "value": 17,
    "rank": 290,
+   "name": "Josaiah Stewart"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 0,
+   "pos": "DE",
    "tfl": 2,
    "id": "00-0040640",
    "team": "KC",
-   "sk": 1,
-   "name": "Ashton Gillotte",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "LB",
    "value": 17,
    "rank": 290,
+   "name": "Ashton Gillotte"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 0,
+   "pos": "LB",
    "tfl": 0,
    "id": "00-0039178",
    "team": "IND",
-   "sk": 0,
-   "name": "Austin Ajiake",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "DB",
    "value": 17,
    "rank": 290,
+   "name": "Austin Ajiake"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 1,
+   "pos": "DB",
    "tfl": 1,
    "id": "00-0038982",
    "team": "KC",
-   "sk": 1,
-   "name": "Chamarri Conner",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "LB",
    "value": 17,
    "rank": 290,
+   "name": "Chamarri Conner"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 0,
+   "pos": "LB",
    "tfl": 1,
    "id": "00-0039815",
    "team": "SEA",
-   "sk": 0,
-   "name": "Tyrice Knight",
-   "pit": false,
-   "pd": 0
+   "value": 17,
+   "rank": 290,
+   "name": "Tyrice Knight"
   },
   {
+   "sk": 0,
+   "pit": false,
+   "pd": 0,
    "pos": "S",
-   "value": 16,
-   "rank": 319,
    "tfl": 0,
    "id": "00-0033038",
    "team": "JAX",
-   "sk": 0,
-   "name": "Eric Murray",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "FS",
    "value": 16,
    "rank": 319,
+   "name": "Eric Murray"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 2,
+   "pos": "FS",
    "tfl": 0,
    "id": "00-0033877",
    "team": "DAL",
-   "sk": 0,
-   "name": "Malik Hooker",
-   "pit": false,
-   "pd": 2
-  },
-  {
-   "pos": "DB",
    "value": 16,
    "rank": 319,
+   "name": "Malik Hooker"
+  },
+  {
+   "sk": 0,
+   "pit": true,
+   "pd": 0,
+   "pos": "DB",
    "tfl": 0,
    "id": "00-0033941",
    "team": "PIT",
-   "sk": 0,
-   "name": "Rayshawn Jenkins",
-   "pit": true,
-   "pd": 0
-  },
-  {
-   "pos": "CB",
    "value": 16,
    "rank": 319,
+   "name": "Rayshawn Jenkins"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 1,
+   "pos": "CB",
    "tfl": 1,
    "id": "00-0034778",
    "team": "NE",
-   "sk": 0,
-   "name": "Carlton Davis III",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "DT",
    "value": 16,
    "rank": 319,
+   "name": "Carlton Davis III"
+  },
+  {
+   "sk": 4,
+   "pit": false,
+   "pd": 1,
+   "pos": "DT",
    "tfl": 7,
    "id": "00-0035683",
    "team": "CIN",
-   "sk": 4,
-   "name": "Dexter Lawrence",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "DT",
    "value": 16,
    "rank": 319,
+   "name": "Dexter Lawrence"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 1,
+   "pos": "DT",
    "tfl": 1,
    "id": "00-0036337",
    "team": "CHI",
-   "sk": 0,
-   "name": "James Lynch",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "LB",
    "value": 16,
    "rank": 319,
+   "name": "James Lynch"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 0,
+   "pos": "LB",
    "tfl": 0,
    "id": "00-0036362",
    "team": "MIA",
-   "sk": 0,
-   "name": "Willie Gay Jr.",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "DE",
    "value": 16,
    "rank": 319,
+   "name": "Willie Gay Jr."
+  },
+  {
+   "sk": 3,
+   "pit": false,
+   "pd": 0,
+   "pos": "DE",
    "tfl": 3,
    "id": "00-0036479",
    "team": "LV",
-   "sk": 3,
-   "name": "Kwity Paye",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "DT",
    "value": 16,
    "rank": 319,
+   "name": "Kwity Paye"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 0,
+   "pos": "DT",
    "tfl": 2,
    "id": "00-0036916",
    "team": "NE",
-   "sk": 1,
-   "name": "Milton Williams",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "CB",
    "value": 16,
    "rank": 319,
+   "name": "Milton Williams"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 7,
+   "pos": "CB",
    "tfl": 2,
    "id": "00-0037191",
    "team": "LA",
-   "sk": 0,
-   "name": "Trent McDuffie",
-   "pit": false,
-   "pd": 7
-  },
-  {
-   "pos": "LB",
    "value": 16,
    "rank": 319,
+   "name": "Trent McDuffie"
+  },
+  {
+   "sk": 3.5,
+   "pit": false,
+   "pd": 0,
+   "pos": "LB",
    "tfl": 4,
    "id": "00-0037249",
    "team": "DEN",
-   "sk": 3.5,
-   "name": "Nik Bonitto",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "DT",
    "value": 16,
    "rank": 319,
+   "name": "Nik Bonitto"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 1,
+   "pos": "DT",
    "tfl": 5,
    "id": "00-0037756",
    "team": "BAL",
-   "sk": 0,
-   "name": "Travis Jones",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "DE",
    "value": 16,
    "rank": 319,
+   "name": "Travis Jones"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 0,
+   "pos": "DE",
    "tfl": 2,
    "id": "00-0038387",
    "team": "NO",
-   "sk": 1,
-   "name": "Colby Wooden",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "LB",
    "value": 16,
    "rank": 319,
+   "name": "Colby Wooden"
+  },
+  {
+   "sk": 3,
+   "pit": false,
+   "pd": 0,
+   "pos": "LB",
    "tfl": 3,
    "id": "00-0039047",
    "team": "SEA",
-   "sk": 3,
-   "name": "Derick Hall",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "LB",
    "value": 16,
    "rank": 319,
+   "name": "Derick Hall"
+  },
+  {
+   "sk": 3,
+   "pit": false,
+   "pd": 2,
+   "pos": "LB",
    "tfl": 6,
    "id": "00-0039068",
    "team": "TB",
-   "sk": 3,
-   "name": "Yaya Diaby",
-   "pit": false,
-   "pd": 2
-  },
-  {
-   "pos": "DE",
    "value": 16,
    "rank": 319,
+   "name": "Yaya Diaby"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 0,
+   "pos": "DE",
    "tfl": 4,
    "id": "00-0039852",
    "team": "CLE",
-   "sk": 0,
-   "name": "Jared Verse",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "DT",
    "value": 16,
    "rank": 319,
+   "name": "Jared Verse"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 0,
+   "pos": "DT",
    "tfl": 2,
    "id": "00-0039886",
    "team": "NYJ",
-   "sk": 0,
-   "name": "T'Vondre Sweat",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "DT",
    "value": 16,
    "rank": 319,
+   "name": "T'Vondre Sweat"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 0,
+   "pos": "DT",
    "tfl": 0,
    "id": "00-0040672",
    "team": "DET",
-   "sk": 0,
-   "name": "Tyleik Williams",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "LB",
    "value": 16,
    "rank": 319,
+   "name": "Tyleik Williams"
+  },
+  {
+   "sk": 1.5,
+   "pit": false,
+   "pd": 1,
+   "pos": "LB",
    "tfl": 2,
    "id": "00-0040877",
    "team": "GB",
-   "sk": 1.5,
-   "name": "Dani Dennis-Sutton",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "LB",
    "value": 16,
    "rank": 319,
+   "name": "Dani Dennis-Sutton"
+  },
+  {
+   "sk": 0.5,
+   "pit": false,
+   "pd": 0,
+   "pos": "LB",
    "tfl": 0,
    "id": "00-0041036",
    "team": "BUF",
-   "sk": 0.5,
-   "name": "TJ Parker",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "SAF",
    "value": 16,
    "rank": 319,
+   "name": "TJ Parker"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 4,
+   "pos": "SAF",
    "tfl": 0,
    "id": "00-0041064",
    "team": "LAC",
-   "sk": 0,
-   "name": "Genesis Smith",
-   "pit": false,
-   "pd": 4
-  },
-  {
-   "pos": "DT",
    "value": 16,
    "rank": 319,
+   "name": "Genesis Smith"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 0,
+   "pos": "DT",
    "tfl": 1,
    "id": "00-0041148",
    "team": "CAR",
-   "sk": 0,
-   "name": "Aaron Hall",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "SAF",
    "value": 16,
    "rank": 319,
+   "name": "Aaron Hall"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 1,
+   "pos": "SAF",
    "tfl": 0,
    "id": "00-0040213",
    "team": "JAX",
-   "sk": 0,
-   "name": "Rayuan Lane III",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "DT",
    "value": 16,
    "rank": 319,
+   "name": "Rayuan Lane III"
+  },
+  {
+   "sk": 0.5,
+   "pit": false,
+   "pd": 0,
+   "pos": "DT",
    "tfl": 0,
    "id": "00-0036130",
    "team": "BAL",
-   "sk": 0.5,
-   "name": "Nnamdi Madubuike",
-   "pit": false,
-   "pd": 0
+   "value": 16,
+   "rank": 319,
+   "name": "Nnamdi Madubuike"
   },
   {
+   "sk": 1,
+   "pit": false,
+   "pd": 0,
    "pos": "NT",
-   "value": 15,
-   "rank": 343,
    "tfl": 1,
    "id": "00-0033120",
    "team": "DAL",
-   "sk": 1,
-   "name": "Kenny Clark",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "DT",
    "value": 15,
    "rank": 343,
+   "name": "Kenny Clark"
+  },
+  {
+   "sk": 3.5,
+   "pit": false,
+   "pd": 0,
+   "pos": "DT",
    "tfl": 6,
    "id": "00-0033131",
    "team": "CLE",
-   "sk": 3.5,
-   "name": "Maliek Collins",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "DT",
    "value": 15,
    "rank": 343,
+   "name": "Maliek Collins"
+  },
+  {
+   "sk": 3,
+   "pit": false,
+   "pd": 1,
+   "pos": "DT",
    "tfl": 4,
    "id": "00-0033523",
    "team": "CIN",
-   "sk": 3,
-   "name": "Jonathan Allen",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "LB",
    "value": 15,
    "rank": 343,
+   "name": "Jonathan Allen"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 3,
+   "pos": "LB",
    "tfl": 2,
    "id": "00-0034350",
    "team": "SEA",
-   "sk": 1,
-   "name": "Uchenna Nwosu",
-   "pit": false,
-   "pd": 3
-  },
-  {
-   "pos": "LB",
    "value": 15,
    "rank": 343,
+   "name": "Uchenna Nwosu"
+  },
+  {
+   "sk": 2,
+   "pit": false,
+   "pd": 0,
+   "pos": "LB",
    "tfl": 3,
    "id": "00-0034381",
    "team": "ARI",
-   "sk": 2,
-   "name": "Josh Sweat",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "LB",
    "value": 15,
    "rank": 343,
+   "name": "Josh Sweat"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 3,
+   "pos": "LB",
    "tfl": 2,
    "id": "00-0035386",
    "team": "CHI",
-   "sk": 0,
-   "name": "T.J. Edwards",
-   "pit": false,
-   "pd": 3
-  },
-  {
-   "pos": "DT",
    "value": 15,
    "rank": 343,
+   "name": "T.J. Edwards"
+  },
+  {
+   "sk": 0.5,
+   "pit": false,
+   "pd": 0,
+   "pos": "DT",
    "tfl": 0,
    "id": "00-0036262",
    "team": "JAX",
-   "sk": 0.5,
-   "name": "DaVon Hamilton",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "LB",
    "value": 15,
    "rank": 343,
+   "name": "DaVon Hamilton"
+  },
+  {
+   "sk": 2.5,
+   "pit": false,
+   "pd": 0,
+   "pos": "LB",
    "tfl": 3,
    "id": "00-0036286",
    "team": "WAS",
-   "sk": 2.5,
-   "name": "K'Lavon Chaisson",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "CB",
    "value": 15,
    "rank": 343,
+   "name": "K'Lavon Chaisson"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 3,
+   "pos": "CB",
    "tfl": 0,
    "id": "00-0036501",
    "team": "PHI",
-   "sk": 0,
-   "name": "Michael Carter II",
-   "pit": false,
-   "pd": 3
-  },
-  {
-   "pos": "CB",
    "value": 15,
    "rank": 343,
+   "name": "Michael Carter II"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 3,
+   "pos": "CB",
    "tfl": 0,
    "id": "00-0037034",
    "team": "BUF",
-   "sk": 0,
-   "name": "Dee Alford",
-   "pit": false,
-   "pd": 3
-  },
-  {
-   "pos": "DE",
    "value": 15,
    "rank": 343,
+   "name": "Dee Alford"
+  },
+  {
+   "sk": 2,
+   "pit": false,
+   "pd": 1,
+   "pos": "DE",
    "tfl": 2,
    "id": "00-0037235",
    "team": "JAX",
-   "sk": 2,
-   "name": "Travon Walker",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "SAF",
    "value": 15,
    "rank": 343,
+   "name": "Travon Walker"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 0,
+   "pos": "SAF",
    "tfl": 0,
    "id": "00-0037512",
    "team": "LV",
-   "sk": 0,
-   "name": "Isaiah Pola-Mao",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "LB",
    "value": 15,
    "rank": 343,
+   "name": "Isaiah Pola-Mao"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 0,
+   "pos": "LB",
    "tfl": 0,
    "id": "00-0037611",
    "team": "NYG",
-   "sk": 0,
-   "name": "Kayvon Thibodeaux",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "LB",
    "value": 15,
    "rank": 343,
+   "name": "Kayvon Thibodeaux"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 0,
+   "pos": "LB",
    "tfl": 3,
    "id": "00-0037799",
    "team": "DEN",
-   "sk": 0,
-   "name": "Dondrea Tillman",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "DT",
    "value": 15,
    "rank": 343,
+   "name": "Dondrea Tillman"
+  },
+  {
+   "sk": 3,
+   "pit": false,
+   "pd": 2,
+   "pos": "DT",
    "tfl": 5,
    "id": "00-0038386",
    "team": "PHI",
-   "sk": 3,
-   "name": "Jalen Carter",
-   "pit": false,
-   "pd": 2
-  },
-  {
-   "pos": "DE",
    "value": 15,
    "rank": 343,
+   "name": "Jalen Carter"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 0,
+   "pos": "DE",
    "tfl": 1,
    "id": "00-0038541",
    "team": "NO",
-   "sk": 1,
-   "name": "Tyree Wilson",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "DT",
    "value": 15,
    "rank": 343,
+   "name": "Tyree Wilson"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 1,
+   "pos": "DT",
    "tfl": 3,
    "id": "00-0038623",
    "team": "ARI",
-   "sk": 1,
-   "name": "Dante Stills",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "DT",
    "value": 15,
    "rank": 343,
+   "name": "Dante Stills"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 0,
+   "pos": "DT",
    "tfl": 0,
    "id": "00-0038653",
    "team": "NE",
-   "sk": 0,
-   "name": "Cory Durden",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "LB",
    "value": 15,
    "rank": 343,
+   "name": "Cory Durden"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 2,
+   "pos": "LB",
    "tfl": 1,
    "id": "00-0039740",
    "team": "PHI",
-   "sk": 0,
-   "name": "Jalyx Hunt",
-   "pit": false,
-   "pd": 2
-  },
-  {
-   "pos": "DT",
    "value": 15,
    "rank": 343,
+   "name": "Jalyx Hunt"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 0,
+   "pos": "DT",
    "tfl": 2,
    "id": "00-0039873",
    "team": "BUF",
-   "sk": 1,
-   "name": "DeWayne Carter",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "CB",
    "value": 15,
    "rank": 343,
+   "name": "DeWayne Carter"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 1,
+   "pos": "CB",
    "tfl": 0,
    "id": "00-0040008",
    "team": "DAL",
-   "sk": 0,
-   "name": "Shavon Revel Jr.",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "CB",
    "value": 15,
    "rank": 343,
+   "name": "Shavon Revel Jr."
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 0,
+   "pos": "CB",
    "tfl": 1,
    "id": "00-0040020",
    "team": "TEN",
-   "sk": 0,
-   "name": "Micah Robinson",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "DT",
    "value": 15,
    "rank": 343,
+   "name": "Micah Robinson"
+  },
+  {
+   "sk": 1,
+   "pit": false,
+   "pd": 3,
+   "pos": "DT",
    "tfl": 2,
    "id": "00-0040169",
    "team": "LV",
-   "sk": 1,
-   "name": "Tonka Hemingway",
-   "pit": false,
-   "pd": 3
-  },
-  {
-   "pos": "DE",
    "value": 15,
    "rank": 343,
+   "name": "Tonka Hemingway"
+  },
+  {
+   "sk": 1,
+   "pit": true,
+   "pd": 1,
+   "pos": "DE",
    "tfl": 3,
    "id": "00-0040188",
    "team": "PIT",
-   "sk": 1,
-   "name": "Yahya Black",
-   "pit": true,
-   "pd": 1
-  },
-  {
-   "pos": "LB",
    "value": 15,
    "rank": 343,
+   "name": "Yahya Black"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 0,
+   "pos": "LB",
    "tfl": 0,
    "id": "00-0040613",
    "team": "LA",
-   "sk": 0,
-   "name": "Shaun Dolac",
-   "pit": false,
-   "pd": 0
-  },
-  {
-   "pos": "DE",
    "value": 15,
    "rank": 343,
+   "name": "Shaun Dolac"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 4,
+   "pos": "DE",
    "tfl": 0,
    "id": "00-0040744",
    "team": "IND",
-   "sk": 0,
-   "name": "Jaylahn Tuimoloau",
-   "pit": false,
-   "pd": 4
-  },
-  {
-   "pos": "CB",
    "value": 15,
    "rank": 343,
+   "name": "Jaylahn Tuimoloau"
+  },
+  {
+   "sk": 0,
+   "pit": true,
+   "pd": 5,
+   "pos": "CB",
    "tfl": 0,
    "id": "00-0041393",
    "team": "PIT",
-   "sk": 0,
-   "name": "Daylen Everette",
-   "pit": true,
-   "pd": 5
-  },
-  {
-   "pos": "DE",
    "value": 15,
    "rank": 343,
+   "name": "Daylen Everette"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 2,
+   "pos": "DE",
    "tfl": 1,
    "id": "00-0031270",
    "team": "NYG",
-   "sk": 0,
-   "name": "Shelby Harris",
-   "pit": false,
-   "pd": 2
-  },
-  {
-   "pos": "SAF",
    "value": 15,
    "rank": 343,
+   "name": "Shelby Harris"
+  },
+  {
+   "sk": 0,
+   "pit": false,
+   "pd": 1,
+   "pos": "SAF",
    "tfl": 0,
    "id": "00-0036421",
    "team": "TEN",
-   "sk": 0,
-   "name": "Terrell Burgess",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "DT",
    "value": 15,
    "rank": 343,
+   "name": "Terrell Burgess"
+  },
+  {
+   "sk": 2,
+   "pit": false,
+   "pd": 1,
+   "pos": "DT",
    "tfl": 5,
    "id": "00-0041557",
    "team": "SF",
-   "sk": 2,
-   "name": "Gracen Halton",
-   "pit": false,
-   "pd": 1
-  },
-  {
-   "pos": "SAF",
    "value": 15,
    "rank": 343,
+   "name": "Gracen Halton"
+  },
+  {
+   "sk": 0.5,
+   "pit": false,
+   "pd": 1,
+   "pos": "SAF",
    "tfl": 0,
    "id": "00-0034355",
    "team": "HOU",
-   "sk": 0.5,
-   "name": "M.J. Stewart",
-   "pit": false,
-   "pd": 1
+   "value": 15,
+   "rank": 343,
+   "name": "M.J. Stewart"
   }
  ],
  "count": 373

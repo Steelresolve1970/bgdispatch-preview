@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-26T20:28:46+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T20:28:30+00:00._
+_Generated 2026-10-26T20:39:42+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T20:39:23+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Steelers' QB Grades](https://www.youtube.com/shorts/wLXrNiZd2Dk): Steelers Almighty, 2026-10-26 19:20 UTC
