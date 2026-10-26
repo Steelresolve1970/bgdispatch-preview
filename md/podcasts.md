@@ -1,10 +1,10 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-26T09:07:20+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T09:06:52+00:00._
+_Generated 2026-10-26T09:57:10+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T09:56:51+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [STEELERS SQUAD SHOW: Warren Runs OVER Saints & Defense DISMANTLES Saints Run Game in PARIS, 16-10](https://www.youtube.com/watch?v=dnrjjelOSeU): Locked On Steelers, 2026-10-26 05:45 UTC
-- Podcast: [Scout’s Eye with Matt Williamson: Closer than it felt](https://podcasts.apple.com/us/podcast/id1072021022): DK Pittsburgh Sports, 2026-10-26 05:40 UTC
+- Podcast: [DK's Daily Shot of Steelers: Having fun yet?](https://podcasts.apple.com/us/podcast/id1072021022): DK Pittsburgh Sports, 2026-10-26 05:42 UTC
 - Video: [Darnell takin over Paris 😤](https://www.youtube.com/shorts/Frs4q46PolI): Pittsburgh Steelers (official), 2026-10-25 23:09 UTC
 - Podcast: [STEELERS SQUAD SHOW: Warren Runs OVER Saints & Defense DISMANTLES Saints Run Game in PARIS, 16-10](https://lockedonpodcasts.com/podcasts/locked-on-steelers/): Locked On Steelers, 2026-10-25 22:09 UTC
 - Video: [Steelers' Jaylen Warren, Rico Dowdle a Dynamic Duo in 16-10 Win vs Saints | Patrick Graham is Right](https://www.youtube.com/watch?v=HfPpglcWbEE): Locked On Steelers, 2026-10-25 22:00 UTC
@@ -111,7 +111,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Steelers' ST Grades vs Bucs](https://www.youtube.com/shorts/w_S8QFbmZHE): Steelers Almighty, 2026-10-21 11:24 UTC
 - Video: [Germie Bernard's First NFL Touchdown, Rookie Wall, Paris Preview & More! | Not Just Football](https://www.youtube.com/watch?v=gYn6X7Mzibw): Not Just Football with Cam Heyward, 2026-10-21 10:00 UTC
 - Podcast: [Germie Bernard's First NFL Touchdown, Rookie Wall, Paris Preview & More! | Not Just Football](https://podcasts.apple.com/us/podcast/germie-bernards-first-nfl-touchdown-rookie-wall-paris/id1633134223?i=1000797421041): Not Just Football with Cam Heyward, 2026-10-21 10:00 UTC
-- Podcast: [Pittsburgh Steelers Gabriel Rubio Interview](https://arthurmoats55.libsyn.com/gabriel_rubio_yttmp3): The Arthur Moats Experience, 2026-10-21 09:52 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

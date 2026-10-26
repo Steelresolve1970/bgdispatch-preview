@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T09:06:52.391340+00:00",
+ "generated": "2026-10-26T09:56:51.545751+00:00",
  "date_et": "2026-10-26",
  "days": 5,
  "display_days": 2,
@@ -46,9 +46,9 @@
    "kind": "podcast",
    "url": "https://feeds.simplecast.com/OkvCKc09",
    "status": "ok",
-   "episodes": 1002,
-   "week": 9,
-   "latest": "2026-10-26T05:40:00+00:00"
+   "episodes": 1003,
+   "week": 10,
+   "latest": "2026-10-26T05:42:00+00:00"
   },
   {
    "show": "Steelers Blitz",
@@ -90,10 +90,10 @@
    "show": "Steel City Underground",
    "kind": "podcast",
    "url": "https://feeds.feedburner.com/steelcityunderground",
-   "status": "ok",
-   "episodes": 45,
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "episodes": 0,
    "week": 1,
-   "latest": "2026-10-22T16:20:16+00:00"
+   "latest": null
   },
   {
    "show": "Steel City Underground",
@@ -137,7 +137,7 @@
    "url": "https://rss.pdrl.fm/20d9c9/feeds.libsyn.com/183851/rss/?redirect=false",
    "status": "ok",
    "episodes": 100,
-   "week": 2,
+   "week": 1,
    "latest": "2026-10-22T20:00:00+00:00"
   },
   {
@@ -257,6 +257,14 @@
    "link": "https://www.youtube.com/watch?v=dnrjjelOSeU",
    "published": "2026-10-26T05:45:34+00:00",
    "summary": "Video from Locked On Steelers."
+  },
+  {
+   "title": "DK's Daily Shot of Steelers: Having fun yet?",
+   "show": "DK Pittsburgh Sports",
+   "kind": "podcast",
+   "link": "https://podcasts.apple.com/us/podcast/id1072021022",
+   "published": "2026-10-26T05:42:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports."
   },
   {
    "title": "Scout\u2019s Eye with Matt Williamson: Closer than it felt",
@@ -1132,14 +1140,6 @@
    "link": "https://podcasts.apple.com/us/podcast/germie-bernards-first-nfl-touchdown-rookie-wall-paris/id1633134223?i=1000797421041",
    "published": "2026-10-21T10:00:00+00:00",
    "summary": "Podcast episode from Not Just Football with Cam Heyward."
-  },
-  {
-   "title": "Pittsburgh Steelers Gabriel Rubio Interview",
-   "show": "The Arthur Moats Experience",
-   "kind": "podcast",
-   "link": "https://arthurmoats55.libsyn.com/gabriel_rubio_yttmp3",
-   "published": "2026-10-21T09:52:00+00:00",
-   "summary": "Podcast episode from The Arthur Moats Experience."
   }
  ],
  "yt_channels": [],
