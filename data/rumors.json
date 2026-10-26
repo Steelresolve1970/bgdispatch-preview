@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T18:14:26.723130+00:00",
+ "generated": "2026-10-26T18:16:57.816414+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -310,7 +310,7 @@
   },
   {
    "id": "8eb056056306",
-   "title": "Trade rumor: Steelers (Steelers Depot)",
+   "title": "Trade rumor: Steelers (Steelers Depot) (Steelers Depot)",
    "source": "Steelers Depot",
    "link": "https://steelersdepot.com/2026/10/national-analyst-names-steelers-most-likely-trade-candidate/",
    "published": "2026-10-24T11:45:03+00:00",
@@ -504,7 +504,7 @@
    "status_link": "https://nfltraderumors.co/steelers-announce-three-moves-activate-s-deshon-elliott/",
    "first_seen": "2026-10-23T14:08:38.410844+00:00",
    "consensus": {
-    "cluster_id": "406d42aa5709",
+    "cluster_id": "67f385966bfb",
     "independent_sources": 2,
     "sources": [
      "Pittsburgh Post-Gazette",
@@ -513,7 +513,8 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "406d42aa5709"
+     "406d42aa5709",
+     "67f385966bfb"
     ]
    },
    "updated": "2026-10-24T15:41:18.688307+00:00",
@@ -581,7 +582,7 @@
   },
   {
    "id": "7fd46e561838",
-   "title": "Trade rumor: Steelers (Still Curtain)",
+   "title": "Trade rumor: Steelers (Still Curtain) (Still Curtain)",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/4-wide-receivers-pittsburgh-steelers-should-target-ahead-of-the-nfl-trade-deadline-01m5dnq2ch8t?utm_source=RSS",
    "published": "2026-10-23T11:00:04+00:00",
@@ -772,7 +773,7 @@
    "status_link": null,
    "first_seen": "2026-10-26T09:07:13.609162+00:00",
    "consensus": {
-    "cluster_id": "406d42aa5709",
+    "cluster_id": "67f385966bfb",
     "independent_sources": 2,
     "sources": [
      "Pittsburgh Post-Gazette",
@@ -781,7 +782,8 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "595924af2d84"
+     "595924af2d84",
+     "67f385966bfb"
     ]
    },
    "updated": "2026-10-26T09:07:13.609162+00:00",
@@ -815,6 +817,37 @@
    },
    "updated": "2026-10-22T18:10:35.603011+00:00",
    "own": 1
+  },
+  {
+   "id": "67f385966bfb",
+   "title": "Rumor watch: DeShon Elliott (Yahoo Sports)",
+   "source": "Yahoo Sports",
+   "link": "https://sports.yahoo.com/articles/steelers-deshon-elliott-could-big-130000726.html",
+   "published": "2026-10-22T16:39:28+00:00",
+   "summary": "Yahoo Sports passes along unconfirmed talk involving DeShon Elliott. Read the full story at Yahoo Sports.",
+   "tier": "National insider",
+   "tier_score": 4,
+   "subjects": [],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-26T18:16:57.816414+00:00",
+   "own": 1,
+   "consensus": {
+    "cluster_id": "67f385966bfb",
+    "independent_sources": 2,
+    "sources": [
+     "Pittsburgh Post-Gazette",
+     "Yahoo Sports"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "595924af2d84",
+     "406d42aa5709"
+    ]
+   },
+   "updated": "2026-10-26T18:16:57.816414+00:00"
   },
   {
    "id": "3513cc219acc",
@@ -905,7 +938,7 @@
   },
   {
    "id": "7e976d566581",
-   "title": "Trade rumor: Steelers (The Athletic)",
+   "title": "Trade rumor: Steelers (The Athletic) (The Athletic)",
    "source": "The Athletic",
    "link": "https://www.nytimes.com/athletic/7664102/2026/10/22/nfl-trade-deadline-board-players-available/",
    "published": "2026-10-22T09:30:11+00:00",
@@ -932,7 +965,7 @@
   },
   {
    "id": "d376342120eb",
-   "title": "Trade rumor: Steelers (Yahoo Sports)",
+   "title": "Trade rumor: Steelers (Yahoo Sports) (Yahoo Sports)",
    "source": "Yahoo Sports",
    "link": "https://sports.yahoo.com/articles/steelers-roster-move-makes-41m-052903737.html",
    "published": "2026-10-22T05:29:00+00:00",

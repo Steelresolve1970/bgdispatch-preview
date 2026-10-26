@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-26T18:14:33+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T18:14:15+00:00._
+_Generated 2026-10-26T18:17:00+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T18:14:15+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [DO YOUR DANCE DK🕺📺: #CLEvsPIT 11/1 at 1 PM ET on CBS](https://www.youtube.com/shorts/HZc7aeI02vY): Pittsburgh Steelers (official), 2026-10-26 17:30 UTC
