@@ -1,9 +1,10 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-26T13:23:59+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T13:23:41+00:00._
+_Generated 2026-10-26T13:34:50+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T13:34:32+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [Steelers grind out 16-10 win over Saints in Paris](https://www.steelcityunderground.com/podcast/2026/10/steelers-grind-out-16-10-win-over-saints-in-paris/): Steel City Underground, 2026-10-26 13:18 UTC
+- Video: [Baguette mode‼️](https://www.youtube.com/shorts/Njp62z248Zo): Pittsburgh Steelers (official), 2026-10-26 13:07 UTC
 - Podcast: [Steelers' Aaron Rodgers Farewell Tour Has Finally Begun](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-26 12:18 UTC
 - Podcast: [Pittsburgh Steelers Win 16-10 vs Saints - [What Went Right/Wrong In Week 7]](https://arthurmoats55.libsyn.com/panel_1025_ytmp3): The Arthur Moats Experience, 2026-10-26 09:52 UTC
 - Video: [STEELERS SQUAD SHOW: Warren Runs OVER Saints & Defense DISMANTLES Saints Run Game in PARIS, 16-10](https://www.youtube.com/watch?v=dnrjjelOSeU): Locked On Steelers, 2026-10-26 05:45 UTC
@@ -35,7 +36,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Elandon Roberts wants to win another one so he can enjoy it more this time 🏆🔥#nfl #patriots](https://www.youtube.com/shorts/XWo-am2_97g): Not Just Football with Cam Heyward, 2026-10-24 19:25 UTC
 - Video: [Steelers fans encounter police getting ready for protesters](https://www.youtube.com/shorts/lxzhbaIZNu8): Nick Farabaugh on PennLive, 2026-10-24 18:08 UTC
 - Video: [Are European Games a Fantasy Wasteland? with Jorden Hill | THE PITTSBURGH FOOTBALL SHOW](https://www.youtube.com/watch?v=Tn1BFHCBCMg): Steelers Now, 2026-10-24 16:29 UTC
-- Video: [Tomorrow's kit 🥶](https://www.youtube.com/shorts/6GPAo6diW7s): Pittsburgh Steelers (official), 2026-10-24 14:24 UTC
 - Video: [Burgh Bets with Bob Konarski: NFL and CFB Picks and Props for Week 7 | THE PITTSBURGH FOOTBALL SHOW](https://www.youtube.com/watch?v=YwFPjIRVICM): Steelers Now, 2026-10-24 14:18 UTC
 - Podcast: [Saints Preview & Predictions | Steelers Afternoon Drive](https://podcasts.apple.com/us/podcast/saints-preview-predictions-steelers-afternoon-drive/id1700240934?i=1000797851889): Steelers Afternoon Drive, 2026-10-23 21:59 UTC
 - Video: [Saints Preview & Predictions | Steelers Afternoon Drive](https://www.youtube.com/watch?v=voEIPYX3YNw): Steelers Now, 2026-10-23 21:57 UTC
