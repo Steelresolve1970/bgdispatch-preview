@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-26T17:52:05+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T17:51:33+00:00._
+_Generated 2026-10-26T18:03:22+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T18:03:04+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [DO YOUR DANCE DK🕺📺: #CLEvsPIT 11/1 at 1 PM ET on CBS](https://www.youtube.com/shorts/HZc7aeI02vY): Pittsburgh Steelers (official), 2026-10-26 17:30 UTC
@@ -15,8 +15,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Steelers' Aaron Rodgers Farewell Tour Has Finally Begun](https://podcasts.apple.com/us/podcast/steelers-aaron-rodgers-farewell-tour-has-finally-begun/id1627248534?i=1000798172405): All Steelers Talk, 2026-10-26 12:18 UTC
 - Podcast: [Pittsburgh Steelers Win 16-10 vs Saints - [What Went Right/Wrong In Week 7]](https://arthurmoats55.libsyn.com/panel_1025_ytmp3): The Arthur Moats Experience, 2026-10-26 09:52 UTC
 - Video: [STEELERS SQUAD SHOW: Warren Runs OVER Saints & Defense DISMANTLES Saints Run Game in PARIS, 16-10](https://www.youtube.com/watch?v=dnrjjelOSeU): Locked On Steelers, 2026-10-26 05:45 UTC
-- Podcast: [DK's Daily Shot of Steelers: Having fun yet?](https://podcasts.apple.com/us/podcast/dks-daily-shot-of-steelers-having-fun-yet/id1072021022?i=1000798146008): DK Pittsburgh Sports, 2026-10-26 05:42 UTC
-- Podcast: [Scout’s Eye with Matt Williamson: Closer than it felt](https://podcasts.apple.com/us/podcast/scouts-eye-with-matt-williamson-closer-than-it-felt/id1072021022?i=1000798123487): DK Pittsburgh Sports, 2026-10-26 05:40 UTC
+- Podcast: [DK's Daily Shot of Steelers: Having fun yet?](https://podcasts.apple.com/us/podcast/id1072021022): DK Pittsburgh Sports, 2026-10-26 05:42 UTC
 - Video: [Darnell takin over Paris 😤](https://www.youtube.com/shorts/Frs4q46PolI): Pittsburgh Steelers (official), 2026-10-25 23:09 UTC
 - Podcast: [STEELERS SQUAD SHOW: Warren Runs OVER Saints & Defense DISMANTLES Saints Run Game in PARIS, 16-10](https://podcasts.apple.com/us/podcast/steelers-squad-show-warren-runs-over-saints-defense/id1140522532?i=1000798075207): Locked On Steelers, 2026-10-25 22:09 UTC
 - Video: [Steelers' Jaylen Warren, Rico Dowdle a Dynamic Duo in 16-10 Win vs Saints | Patrick Graham is Right](https://www.youtube.com/watch?v=HfPpglcWbEE): Locked On Steelers, 2026-10-25 22:00 UTC
