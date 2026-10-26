@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-26T19:12:08+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T19:11:50+00:00._
+_Generated 2026-10-26T19:22:54+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T19:22:36+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Video: [Steelers' QB Grades](https://www.youtube.com/shorts/wLXrNiZd2Dk): Steelers Almighty, 2026-10-26 19:20 UTC
 - Video: [Steelers-Browns Winner in AFC North Drivers' Seat? | Steelers Morning Rush](https://www.youtube.com/watch?v=d6r-QQoKilQ): Steelers Now, 2026-10-26 18:58 UTC
 - Video: [Coach McCarthy Press Conference (Week 8 vs Cleveland Browns) | Pittsburgh Steelers](https://www.youtube.com/watch?v=4nzNBbKNfCA): Pittsburgh Steelers (official), 2026-10-26 18:36 UTC
 - Video: [Grading the 16-10 Win Over the Saints | REPORT CARD | Week 7](https://www.youtube.com/watch?v=QM9sXhr64y8): Steelers Almighty, 2026-10-26 18:30 UTC
