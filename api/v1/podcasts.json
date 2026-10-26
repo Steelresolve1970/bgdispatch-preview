@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-26T16:09:18+00:00",
- "data_updated": "2026-10-26T16:09:00+00:00",
- "count": 108,
+ "generated": "2026-10-26T16:37:50+00:00",
+ "data_updated": "2026-10-26T16:19:54+00:00",
+ "count": 109,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -20,6 +20,19 @@
  "html": "https://blackandgolddispatch.com/#/podcasts",
  "items": [
   {
+   "id": "d4f8bc6d0b9720de",
+   "type": "podcast_episode",
+   "title": "Hour 1: Summary of the Saints",
+   "show": "Steelers Blitz",
+   "url": "https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-102626-mp3",
+   "published": "2026-10-26T15:00:00+00:00",
+   "summary": "Podcast episode from Steelers Blitz.",
+   "source": {
+    "name": "Steelers Blitz",
+    "url": null
+   }
+  },
+  {
    "id": "d7d6f5e4fe6a87a4",
    "type": "podcast_episode",
    "title": "The Steelers Are ONE MOVE Away From Being Super Bowl Contenders?!",
@@ -29,6 +42,19 @@
    "summary": "Podcast episode from The Steel City Insider (Jim Wexell, 247Sports).",
    "source": {
     "name": "The Steel City Insider (Jim Wexell, 247Sports)",
+    "url": null
+   }
+  },
+  {
+   "id": "f99f995d33b6d4f7",
+   "type": "podcast_episode",
+   "title": "Hour 2: Around the Shield + International Play",
+   "show": "Steelers Blitz",
+   "url": "https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr2-102626-mp3",
+   "published": "2026-10-26T14:00:00+00:00",
+   "summary": "Podcast episode from Steelers Blitz.",
+   "source": {
+    "name": "Steelers Blitz",
     "url": null
    }
   },
@@ -111,25 +137,12 @@
    }
   },
   {
-   "id": "812e03d8e4fb4b41",
+   "id": "7968be70b4f37758",
    "type": "podcast_episode",
    "title": "DK's Daily Shot of Steelers: Having fun yet?",
    "show": "DK Pittsburgh Sports",
-   "url": "https://podcasts.apple.com/us/podcast/dks-daily-shot-of-steelers-having-fun-yet/id1072021022?i=1000798146008",
+   "url": "https://podcasts.apple.com/us/podcast/id1072021022",
    "published": "2026-10-26T05:42:00+00:00",
-   "summary": "Podcast episode from DK Pittsburgh Sports.",
-   "source": {
-    "name": "DK Pittsburgh Sports",
-    "url": null
-   }
-  },
-  {
-   "id": "279f2c4876e88841",
-   "type": "podcast_episode",
-   "title": "Scout’s Eye with Matt Williamson: Closer than it felt",
-   "show": "DK Pittsburgh Sports",
-   "url": "https://podcasts.apple.com/us/podcast/scouts-eye-with-matt-williamson-closer-than-it-felt/id1072021022?i=1000798123487",
-   "published": "2026-10-26T05:40:00+00:00",
    "summary": "Podcast episode from DK Pittsburgh Sports.",
    "source": {
     "name": "DK Pittsburgh Sports",

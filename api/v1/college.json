@@ -2,8 +2,8 @@
  "api_version": "1",
  "dataset": "college",
  "description": "College prospects at the Steelers' top needs with last-game and season stats (CollegeFootballData.com) and recent headlines.",
- "generated": "2026-10-26T16:09:18+00:00",
- "data_updated": "2026-10-26T15:16:09+00:00",
+ "generated": "2026-10-26T16:37:50+00:00",
+ "data_updated": "2026-10-26T16:10:47+00:00",
  "count": 20,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
@@ -138,16 +138,16 @@
    "stats_url": "https://collegefootballdata.com",
    "headlines": [
     {
+     "title": "Arch Manning and Texas get more bad news despite win over Ole Miss",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNks4LUQzdVV1QkxaS1FIQklsMTBmZFJGcVlFcmk4bWc2OWluV0V0M1JHaWJDem84WjlnVWdHSkJURGxGV29fNjZDWl9mV3o5Q0stQW4xak5Tc29ORnJZalJSRW1iSk9BWFZjM2lYd0M3T2NJTFhRNTJTc1Z4ZkVFeTRB?oc=5",
+     "source": "Yahoo Sports",
+     "published": "2026-10-26T10:40:00+00:00"
+    },
+    {
      "title": "Arch Manning struck a powerful pose. Texas saved season, in a dramatic way",
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMHRQSHk1eHp5emxvSGpnVmZweWE4eWMtenhDNTh2YjdmVkF0RVZicGkyZVlSTFhKQ01xQ1czbEFsVmZCNmFZdzRXa21UMkxENDhZa001WmZTN3NsOVlNSEVWVUFFd3RsaW0tN1h1Tk1JQmJFS29QVHJTNHpxc3dhejl2WE9tYkZEa2dyTHhSX3hQR2FhbDlVejVSTFVFSlNXZzZHTWYyV1R2Y3dXbW95eklsNTRuWFpCaWk5elZscDhtMm9maW9qY0JrbmhJYmF5Umc?oc=5",
      "source": "USA Today",
      "published": "2026-10-26T02:20:00+00:00"
-    },
-    {
-     "title": "‘Edgy’ Arch Manning is a better leader, but still mistake-prone",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaTFiOGNubGhIYVhVNE5tcUMxUFI4ZmtkUHk4c0tYOThXdUdCTWF0QkM4dnBZU3kteERmQWFobVhhd2x0Qk14QmgwMlZiS0wyWW5DTzZCQ0FKTjdWdElrNlBZa0x4QTRQeTJzMmxXQkY3QTFvTkpFX0FlYWdUVVN3TnNfMU9PQUk?oc=5",
-     "source": "Yahoo Sports",
-     "published": "2026-10-26T00:08:00+00:00"
     },
     {
      "title": "Texas Stock Report: Did Arch Manning Raise His Stock vs. Ole Miss?",
@@ -180,7 +180,7 @@
     "days_ago": 30
    },
    "season_line": "69/99, 926 pass yds, 9 TD, 0 INT; 10 rush, -7 yds",
-   "stats_summary": "No stats logged last week (bye or didn't play). In his most recent game (2026-09-26), Dante threw for 77 yards, no TD, without a pick in a win at USC. Through 4 games he's at 926 yards, 9 TD and 0 INT (69.7% completions).",
+   "stats_summary": "No stats logged since Sep 26. In that game, Dante threw for 77 yards, no TD, without a pick in a win at USC. Through 4 games he's at 926 yards, 9 TD and 0 INT (69.7% completions).",
    "stats_found": true,
    "stats_url": "https://collegefootballdata.com",
    "headlines": [
@@ -403,7 +403,7 @@
     "days_ago": 16
    },
    "season_line": "22 tackles, 0.5 sacks, 1 INT, 2 PD",
-   "stats_summary": "No stats logged last week (bye or didn't play). In his most recent game (2026-10-10), KJ made 7 tackles with 0.5 sacks, 1 pass breakup in a win at Alabama. Season: 22 tackles, 0.5 sacks, 1 INT, 2 PD in 6 games.",
+   "stats_summary": "No stats logged since Oct 10. In that game, KJ made 7 tackles with 0.5 sacks, 1 pass breakup in a win at Alabama. Season: 22 tackles, 0.5 sacks, 1 INT, 2 PD in 6 games.",
    "stats_found": true,
    "stats_url": "https://collegefootballdata.com",
    "headlines": [
@@ -439,10 +439,19 @@
    "position": "S",
    "school": "Notre Dame",
    "our_board_rank": 28,
-   "last_game": null,
-   "season_line": null,
-   "stats_summary": null,
-   "stats_found": false,
+   "last_game": {
+    "date": "2026-09-06",
+    "opponent": "Wisconsin",
+    "atVs": "vs",
+    "result": "W",
+    "score": "41-13",
+    "line": "1 tackle, 1 PD",
+    "link": "https://collegefootballdata.com",
+    "days_ago": 50
+   },
+   "season_line": "1 tackle, 1 PD",
+   "stats_summary": "No stats logged since Sep 6. In that game, Brauntae made 1 tackle with 1 pass breakup in a win vs. Wisconsin. Season: 1 tackle, 1 PD in 1 game.",
+   "stats_found": true,
    "stats_url": "https://collegefootballdata.com",
    "headlines": [],
    "source": {
@@ -770,8 +779,8 @@
     },
     {
      "title": "Indiana's Charlie Becker apologizes to Ryan Day for obscene gesture",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeFZDWjI3U0o2UGhIdFlJZi1pOWU1U0hXd1YyUzIwdWY3Zl9RZl9uSnY1UlRlRG1BLTJrQ2dmWTZYenJaS3owOENkUUNzd0phbm9zWmZLVWk3M1ZlRHNXcjA5S2dCM1RybmlsQmhKUXFlY3BNTjBRVTJuYk9mQnZPX3ppZTkwWGt2NkF0RGJrS21Hdw?oc=5",
-     "source": "Yahoo Sports",
+     "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQYkp0UEhkWGxqTnhJNnFTN2dpR1puSGRmU3Z1SDFhUGNwTmVuc0xGQi1ONTFzSE1pbi10aUZWeDNuS2g1cTVGeVV3UFhHemVsVURUM0NWT3hPLUw0V0Z6TElybUM4UEJIZTVyd2lVV1o0WDlxM1pnbS1iTDVWeXlLM21pTktSYUxzOW1tMEdTR1pab0I5am5mV0ZwUXpabXN6dXBGcHdhSmJ1Y19jQWZ6Mm5kY19xWnZZbUxEUlRwWk9hTkZfMnFBbGstV1lGcVVtbkhTUXhVYUs2OEd6Y1hRM3BjMU45X1dnQ2U1V3AxZGFCejJfcUdCVWxOMWJIRjVhWndGVndCY2c4ZnFtLVExdXpZbFBuVkhDWlE?oc=5",
+     "source": "Buckeyes Wire",
      "published": "2026-10-22T00:28:00+00:00"
     },
     {
@@ -794,10 +803,19 @@
    "position": "WR",
    "school": "Alabama",
    "our_board_rank": 37,
-   "last_game": null,
-   "season_line": null,
-   "stats_summary": null,
-   "stats_found": false,
+   "last_game": {
+    "date": "2026-10-10",
+    "opponent": "Georgia",
+    "atVs": "vs",
+    "result": "L",
+    "score": "17-20",
+    "line": "3 rec, 39 yds, 0 TD",
+    "link": "https://collegefootballdata.com",
+    "days_ago": 16
+   },
+   "season_line": "23 rec, 415 yds, 4 TD; 2 rush, 13 yds",
+   "stats_summary": "No stats logged since Oct 10. In that game, Ryan caught 3 passes for 39 yards in a loss vs. Georgia. Season: 23 catches, 415 yards (69 per game), 4 TD.",
+   "stats_found": true,
    "stats_url": "https://collegefootballdata.com",
    "headlines": [
     {

@@ -1,6 +1,6 @@
 # Steelers Draft Central
 
-_Generated 2026-10-26T16:09:18+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T16:09:06+00:00._
+_Generated 2026-10-26T16:37:50+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T16:37:23+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/draft.json_
 
 Steelers projected picks: R1 #26, R2 #58
@@ -26,7 +26,7 @@ Steelers projected picks: R1 #26, R2 #58
 
 ### 3. Safety
 - **KJ Bolden** (S, Georgia, our board #27): chance available R1 #26 54%, R2 #58 1%. 22 tackles, 0.5 sacks, 1 INT, 2 PD
-- **Brauntae Johnson** (S, Notre Dame, our board #28): chance available R1 #26 57%, R2 #58 2%. 1 tackles, 0 TFL, 0 sacks, 1 PD
+- **Brauntae Johnson** (S, Notre Dame, our board #28): chance available R1 #26 57%, R2 #58 2%. 1 tackle, 1 PD
 - **Jelani McDonald** (S, Texas, our board #57): chance available R1 #26 91%, R2 #58 49%. 54 tackles, 1 INT, 3 PD
 - **Earl Little Jr.** (S, Ohio State, our board #64): chance available R1 #26 93%, R2 #58 60%. 38 tackles, 4 PD, 1 FR
 - **Koi Perich** (S, Oregon, our board #65): chance available R1 #26 94%, R2 #58 61%. 46 tackles, 0.5 TFL, 0 sacks, 2 INT, 1 PD
@@ -47,7 +47,7 @@ Steelers projected picks: R1 #26, R2 #58
 - **Jeremiah Smith** (WR, Ohio State, our board #1): chance available R1 #26 0%, R2 #58 0%. 52 rec, 984 yds, 12 TD; 2 rush, 7 yds
 - **Cam Coleman** (WR, Texas, our board #8): chance available R1 #26 0%, R2 #58 0%. 20 rec, 334 yds, 6 TD
 - **Charlie Becker** (WR, Indiana, our board #16): chance available R1 #26 14%, R2 #58 0%. 42 rec, 726 yds, 8 TD
-- **Ryan Coleman-Williams** (WR, Alabama, our board #37): chance available R1 #26 78%, R2 #58 9%. 23 catches, 415 yds, 4 TD
+- **Ryan Coleman-Williams** (WR, Alabama, our board #37): chance available R1 #26 78%, R2 #58 9%. 23 rec, 415 yds, 4 TD; 2 rush, 13 yds
 - **Nick Marsh** (WR, Indiana, our board #46): chance available R1 #26 88%, R2 #58 26%. 34 catches, 610 yds, 7 TD
 - **KJ Duff** (WR, Rutgers, our board #51): chance available R1 #26 91%, R2 #58 37%. 45 catches, 774 yds, 9 TD
 - **Duce Robinson** (WR, Florida State, our board #56): chance available R1 #26 93%, R2 #58 47%. 22 catches, 407 yds, 4 TD

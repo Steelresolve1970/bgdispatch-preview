@@ -1,17 +1,18 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-26T16:09:18+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T16:09:00+00:00._
+_Generated 2026-10-26T16:37:50+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T16:19:54+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Podcast: [Hour 1: Summary of the Saints](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-102626-mp3): Steelers Blitz, 2026-10-26 15:00 UTC
 - Podcast: [The Steelers Are ONE MOVE Away From Being Super Bowl Contenders?!](https://247sports.com/nfl/pittsburgh-steelers/): The Steel City Insider (Jim Wexell, 247Sports), 2026-10-26 14:05 UTC
+- Podcast: [Hour 2: Around the Shield + International Play](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr2-102626-mp3): Steelers Blitz, 2026-10-26 14:00 UTC
 - Podcast: [Steelers grind out 16-10 win over Saints in Paris](https://www.steelcityunderground.com/podcast/2026/10/steelers-grind-out-16-10-win-over-saints-in-paris/): Steel City Underground, 2026-10-26 13:18 UTC
 - Video: [Steelers grind out 16-10 win over Saints in Paris](https://www.youtube.com/watch?v=k6E4vXk-c-s): Steel City Underground, 2026-10-26 13:15 UTC
 - Video: [Baguette mode‼️](https://www.youtube.com/shorts/Njp62z248Zo): Pittsburgh Steelers (official), 2026-10-26 13:07 UTC
 - Podcast: [Steelers' Aaron Rodgers Farewell Tour Has Finally Begun](https://podcasts.apple.com/us/podcast/steelers-aaron-rodgers-farewell-tour-has-finally-begun/id1627248534?i=1000798172405): All Steelers Talk, 2026-10-26 12:18 UTC
 - Podcast: [Pittsburgh Steelers Win 16-10 vs Saints - [What Went Right/Wrong In Week 7]](https://arthurmoats55.libsyn.com/panel_1025_ytmp3): The Arthur Moats Experience, 2026-10-26 09:52 UTC
 - Video: [STEELERS SQUAD SHOW: Warren Runs OVER Saints & Defense DISMANTLES Saints Run Game in PARIS, 16-10](https://www.youtube.com/watch?v=dnrjjelOSeU): Locked On Steelers, 2026-10-26 05:45 UTC
-- Podcast: [DK's Daily Shot of Steelers: Having fun yet?](https://podcasts.apple.com/us/podcast/dks-daily-shot-of-steelers-having-fun-yet/id1072021022?i=1000798146008): DK Pittsburgh Sports, 2026-10-26 05:42 UTC
-- Podcast: [Scout’s Eye with Matt Williamson: Closer than it felt](https://podcasts.apple.com/us/podcast/scouts-eye-with-matt-williamson-closer-than-it-felt/id1072021022?i=1000798123487): DK Pittsburgh Sports, 2026-10-26 05:40 UTC
+- Podcast: [DK's Daily Shot of Steelers: Having fun yet?](https://podcasts.apple.com/us/podcast/id1072021022): DK Pittsburgh Sports, 2026-10-26 05:42 UTC
 - Video: [Darnell takin over Paris 😤](https://www.youtube.com/shorts/Frs4q46PolI): Pittsburgh Steelers (official), 2026-10-25 23:09 UTC
 - Podcast: [STEELERS SQUAD SHOW: Warren Runs OVER Saints & Defense DISMANTLES Saints Run Game in PARIS, 16-10](https://podcasts.apple.com/us/podcast/steelers-squad-show-warren-runs-over-saints-defense/id1140522532?i=1000798075207): Locked On Steelers, 2026-10-25 22:09 UTC
 - Video: [Steelers' Jaylen Warren, Rico Dowdle a Dynamic Duo in 16-10 Win vs Saints | Patrick Graham is Right](https://www.youtube.com/watch?v=HfPpglcWbEE): Locked On Steelers, 2026-10-25 22:00 UTC
