@@ -1,8 +1,10 @@
 # Steelers News
 
-_Generated 2026-10-26T19:55:57+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T19:55:22+00:00._
+_Generated 2026-10-26T20:06:53+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T20:06:17+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Browns game preview: how to watch](https://www.wtol.com/article/sports/nfl/cleveland-browns-pittsburgh-steelers-how-to-watch-nov-1/512-21e9c710-fe32-4fcd-a15b-4e63c0d3e5a2): WTOL, 2026-10-26 20:02 UTC
+- [Update: Mike McCarthy](https://steelersnow.com/steelers-hc-mike-mccarthy-makes-his-cleveland-feelings-clear/): Steelers Now, 2026-10-26 19:57 UTC
 - [Reaction: Max Iheanachor and Mike McCarthy](https://steelersdepot.com/2026/10/he-belongs-here-max-iheanachor-is-a-perfect-steeler-says-mike-mccarthy/): Steelers Depot, 2026-10-26 19:50 UTC
 - [Update: Jaylen Warren](https://steelersnow.com/hot-as-a-firecracker-jaylen-warren-continues-to-be-steelers-workhorse/): Steelers Now, 2026-10-26 19:48 UTC
 - [Reaction: Mike McCarthy and the Steelers' special teams](https://steelersdepot.com/2026/10/steelers-must-get-more-production-from-special-teams-mccarthy-says/): Steelers Depot, 2026-10-26 19:45 UTC
@@ -27,7 +29,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [NFL playoff forecast](https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/): The Athletic, 2026-10-26 18:05 UTC
 - [Aaron Rodgers talks recent game](https://www.nfl.com/videos/aaron-rodgers-and-payton-wilson-reflect-on-win-over-saints-in-paris): NFL.com, 2026-10-26 17:59 UTC
 - [Steelers sit tied for division lead](https://steelersdepot.com/2026/10/does-not-translate-to-playoff-football-cowherd-finds-steelers-method-of-winning-unsustainable/): Steelers Depot, 2026-10-26 17:45 UTC
-- [Perspective: John Harbaugh and Mike Tomlin](https://sports.yahoo.com/articles/john-harbaughs-success-spark-land-173137645.html): Yahoo Sports, 2026-10-26 17:31 UTC
+- [Perspective: John Harbaugh and Mike Tomlin](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-harbaughs-success-should-spark-a-land-rush-for-mike-tomlin): ProFootballTalk (NBC), 2026-10-26 17:31 UTC
 - [Steelers get win in Paris](https://steelersdepot.com/2026/10/how-do-you-reverse-that-former-steelers-outraged-by-overturned-t-j-watt-forced-fumble/): Steelers Depot, 2026-10-26 17:30 UTC
 - [Steelers have ground issue](https://www.steelernation.com/2026/10/26/steelers-paris-strange-problem): SteelerNation, 2026-10-26 17:27 UTC
 - [Steelers fans head home](https://www.cbsnews.com/pittsburgh/news/steelers-fans-return-home-nfl-game-paris/): CBS News, 2026-10-26 17:16 UTC
@@ -102,7 +104,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers trip to Paris discussed](https://steelersnow.com/aaron-rodgers-rips-nfl-owners-for-being-cheap/): Steelers Now, 2026-10-25 19:08 UTC
 - [Steelers beat Saints](https://www.si.com/nfl/steelers/onsi/6-winners-3-losers-pittsburgh-steelers-win-saints): All Steelers (Sports Illustrated), 2026-10-25 18:40 UTC
 - [Steelers defense holds strong](https://steelersnow.com/howe-it-happened-steelers-lb-payton-wilson-picks-off-saints-finally-shows-coverage-potential/): Steelers Now, 2026-10-25 18:39 UTC
-- [Steelers succeed on ground](https://steelersnow.com/that-was-the-goal-steelers-knew-they-could-run-all-over-saints/): Steelers Now, 2026-10-25 18:34 UTC
 - [Steelers face challenges to contend](https://stillcurtain.com/kurt-warner-says-quiet-part-out-loud-pittsburgh-steelers-shot-contending-01m5symaqwxk?utm_source=RSS): Still Curtain, 2026-10-25 18:14 UTC
 - [Steelers honor player](https://www.steelers.com/news/rodgers-is-steelers-player-of-the-week): Steelers.com (official), 2026-10-25 17:52 UTC
 - [Steelers game had tough officiating](https://www.si.com/nfl/steelers/onsi/referee-grades-pittsburgh-steelers-saints-tough-watch): All Steelers (Sports Illustrated), 2026-10-25 17:47 UTC
@@ -152,7 +153,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Closer look: the international game (Steelers.com (official))](https://www.steelers.com/news/steelers-to-sport-a-new-uniform-combination-in-paris): Steelers.com (official), 2026-10-24 14:45 UTC
 - [Roster move: Steelers-Saints](https://www.steelers.com/news/steelers-make-roster-move-ahead-of-saints-game): Steelers.com (official), 2026-10-24 14:30 UTC
 - [Saints game preview: the international game](https://www.nytimes.com/athletic/7714662/2026/10/24/nfl-saints-steelers-paris-protests/): The Athletic, 2026-10-24 14:25 UTC
-- [Saints game preview: predictions](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-bold-predictions-offense-puts-show): All Steelers (Sports Illustrated), 2026-10-24 14:00 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
