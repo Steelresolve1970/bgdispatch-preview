@@ -1,6 +1,6 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-26T15:25:47+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T15:25:40+00:00._
+_Generated 2026-10-26T15:36:31+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T15:36:24+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
 - **Rumor** · tier: Fan blog · consensus: 2 source(s), top tier National insider
@@ -49,7 +49,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Steelers' Latest Defensive Line Injuries Make DeForest Buckner An Urgent Trade Target](https://www.steelernation.com/2026/10/22/steelers-deforest-buckner-urgent-trade): SteelerNation, first seen 2026-10-23 00:00 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [Pittsburgh Steelers Named in Massive $76 Million Trade Rumor](https://www.yardbarker.com/nfl/articles/pittsburgh_steelers_named_in_massive_76_million_trade_rumor/s1_17355_44461459): Yardbarker, first seen 2026-10-22 21:56 UTC
-- **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
+- **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
   [Steelers should try to pry Riq Woolen away from Eagles before trade deadline](https://sports.yahoo.com/articles/steelers-try-pry-riq-woolen-210003535.html): Yahoo Sports, first seen 2026-10-26 14:07 UTC
 - **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
   [DeShon Elliott Could Be On Pitch Count In Return to Steelers’ Defense](https://sports.yahoo.com/articles/deshon-elliott-could-pitch-count-190000493.html): Yahoo Sports, first seen 2026-10-26 09:07 UTC
