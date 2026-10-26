@@ -1,6 +1,6 @@
 # Steelers Player Grades (Heat Map)
 
-_Generated 2026-10-26T01:43:12+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T13:30:00+00:00._
+_Generated 2026-10-26T02:11:40+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T13:30:00+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/grades.json_
 
 Week 7: at New Orleans Saints (16-10). Grade = stats grade (box score, see GRADES.md) until a player has 25 fan votes, then fan grade.
@@ -8,25 +8,26 @@ Week 7: at New Orleans Saints (16-10). Grade = stats grade (box score, see GRADE
 | Player | Pos | Grade | Grade type | Box score |
 |---|---|---|---|---|
 | Jaylen Warren | RB | 8.5 | stats | 18 rush, 101 yds; 3 rec, 36 yds |
+| Keeanu Benton | DT | 8.5 | editor | 3 tkl, 2 TFL, 1 PD |
 | Patrick Queen | ILB | 8.5 | stats | 10 tkl, 1 sack, 1 TFL, 1 PD |
-| Rico Dowdle | RB | 8.0 | stats | 9 rush, 41 yds; 6 rec, 45 yds |
+| Yahya Black | DT | 8.1 | editor | 1 tkl, 1 TFL, 1 PD |
 | Zach Frazier | C | 8.0 | editor |  |
+| Cameron Heyward | DT | 8.0 | editor | 2 tkl, 1 PD |
 | Payton Wilson | ILB | 8.0 | stats | 6 tkl, 1 PD; 1 INT |
 | T.J. Watt | OLB | 7.7 | stats | 2 tkl, 1 sack, 1 TFL |
+| Rico Dowdle | RB | 7.5 | editor | 9 rush, 41 yds; 6 rec, 45 yds |
 | Mason McCormick | G | 7.3 | editor |  |
-| Keeanu Benton | DT | 7.1 | stats | 3 tkl, 2 TFL, 1 PD |
+| Gabe Rubio | DE | 7.2 | editor | 2 tkl |
 | Brock Hoffman | G | 7.0 | editor |  |
 | Asante Samuel Jr. | CB | 7.0 | editor | 7 tkl |
 | Jamel Dean | CB | 7.0 | editor | 7 tkl |
 | DK Metcalf | WR | 6.7 | stats | 2 rec, 56 yds |
 | Chris Boswell | K | 6.7 | stats | FG 3/3, XP 1/1 |
 | Jalen Ramsey | CB | 6.6 | stats | 7 tkl |
-| Yahya Black | DT | 6.5 | stats | 1 tkl, 1 TFL, 1 PD |
 | Kaden Wetjen | KR/PR | 6.5 | stats | 2 KR, 60 yds; 1 PR, 13 yds |
 | Brandon Smith | WR | 6.3 | stats | 2 rec, 24 yds |
 | Germie Bernard | WR | 6.3 | stats | 3 rec, 27 yds |
 | Darnell Washington | TE | 6.3 | stats | 1 rec, 4 yds, 1 TD |
-| Cameron Heyward | DT | 6.2 | stats | 2 tkl, 1 PD |
 | Alex Highsmith | OLB | 6.1 | stats | 2 tkl |
 | Nick Herbig | OLB | 6.1 | stats | 2 tkl |
 | Travis Homer | RB | 6.0 | stats | 3 tkl |
@@ -35,7 +36,6 @@ Week 7: at New Orleans Saints (16-10). Grade = stats grade (box score, see GRADE
 | Robert Spears-Jennings | FS | 6.0 | stats | 3 tkl |
 | Aaron Rodgers | QB | 5.9 | stats | 19/30, 212 yds, 1 TD, 0 INT; 3 rush, 6 yds |
 | Jack Sawyer | OLB | 5.9 | stats | 0 tkl, 1 TFL |
-| Gabe Rubio | DE | 5.8 | stats | 2 tkl |
 | Carson Bruener | ILB | 5.7 | stats | 1 tkl |
 | Cole Holcomb | ILB | 5.7 | stats | 1 tkl |
 | Daylen Everette | CB | 5.7 | stats | 1 tkl |

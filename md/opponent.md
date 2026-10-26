@@ -1,6 +1,6 @@
 # Steelers Opponent Preview
 
-_Generated 2026-10-26T01:43:12+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T01:43:02+00:00._
+_Generated 2026-10-26T02:11:40+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T02:11:30+00:00._
 
 Week 8: Steelers vs **Cleveland Browns** (CLE 5-2), kickoff 2026-11-01 18:00 UTC, Acrisure Stadium.
 
@@ -23,7 +23,7 @@ Picks not posted yet; experts usually post Wednesday through Saturday.
 
 | Group | Stat | PIT | CLE |
 |---|---|---|---|
-| Offense | Points Per Game | 21.9 (22) | 19.0 (27) |
+| Offense | Points Per Game | 21.9 (22) | 19.0 (28) |
 | Offense | Total Yards | 323.7 (20) | 299.4 (24) |
 | Offense | Yards Passing | 217.6 (19) | 192.7 (24) |
 | Offense | Yards Rushing | 106.1 (20) | 106.7 (19) |

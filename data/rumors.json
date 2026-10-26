@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T01:43:06.861701+00:00",
+ "generated": "2026-10-26T02:11:34.822850+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -91,16 +91,13 @@
    "first_seen": "2026-10-24T21:18:21.512769+00:00",
    "consensus": {
     "cluster_id": "b3b86933a304",
-    "independent_sources": 2,
+    "independent_sources": 1,
     "sources": [
-     "SteelerNation",
-     "Yardbarker"
+     "SteelerNation"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": [
-     "5585acb90f77"
-    ]
+    "related_ids": []
    },
    "updated": "2026-10-24T21:18:21.512769+00:00"
   },
@@ -583,13 +580,16 @@
    "first_seen": "2026-10-23T00:00:15.961766+00:00",
    "consensus": {
     "cluster_id": "46b9d884dd04",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
+     "Steeler Nation",
      "SteelerNation"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "81dabd419458"
+    ]
    },
    "updated": "2026-10-23T00:00:15.961766+00:00"
   },
@@ -918,30 +918,33 @@
    "updated": "2026-10-21T20:52:51.041805+00:00"
   },
   {
-   "id": "fac5ee1b7992",
+   "id": "4249099cff4d",
    "title": "A new wide receiver trade rumor is picking up steam after the Steelers got an up-close look during recent matchup",
-   "source": "A to Z Sports",
-   "link": "https://atozsports.com/nfl/pittsburgh-steelers-news/steelers-wr-trade-rumors-chris-godwin-emerges-as-target-after-bucs-game/",
+   "source": "Yahoo Sports",
+   "link": "https://sports.yahoo.com/articles/wide-receiver-trade-rumor-picking-172653112.html",
    "published": "2026-10-21T17:26:53+00:00",
-   "summary": "Rumor-style report from A to Z Sports on a Steelers roster move. Full details at the source.",
-   "tier": "Aggregator / other",
-   "tier_score": 1,
+   "summary": "Rumor-style report from Yahoo Sports on a Steelers roster move. Full details at the source.",
+   "tier": "National insider",
+   "tier_score": 4,
    "subjects": [],
    "status": "Rumor",
    "status_note": null,
    "status_link": null,
-   "first_seen": "2026-10-21T17:35:05.152340+00:00",
+   "first_seen": "2026-10-26T02:11:34.822850+00:00",
    "consensus": {
-    "cluster_id": "fac5ee1b7992",
-    "independent_sources": 1,
+    "cluster_id": "4249099cff4d",
+    "independent_sources": 2,
     "sources": [
-     "A to Z Sports"
+     "A to Z Sports",
+     "Yahoo Sports"
     ],
-    "highest_tier": "Aggregator / other",
-    "highest_tier_score": 1,
-    "related_ids": []
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "fac5ee1b7992"
+    ]
    },
-   "updated": "2026-10-21T17:35:05.152340+00:00"
+   "updated": "2026-10-26T02:11:34.822850+00:00"
   },
   {
    "id": "6023736ee2c7",
@@ -985,13 +988,16 @@
    "first_seen": "2026-10-21T16:33:53.323563+00:00",
    "consensus": {
     "cluster_id": "b0a5eee622fd",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
-     "Sports Illustrated"
+     "Sports Illustrated",
+     "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
-    "related_ids": []
+    "related_ids": [
+     "94b94f0f1d99"
+    ]
    },
    "updated": "2026-10-21T16:33:53.323563+00:00"
   },
@@ -1050,16 +1056,13 @@
    "first_seen": "2026-10-21T15:49:36.477025+00:00",
    "consensus": {
     "cluster_id": "1b9cf10893b1",
-    "independent_sources": 2,
+    "independent_sources": 1,
     "sources": [
-     "TribLIVE.com",
      "TribLive"
     ],
     "highest_tier": "Beat writer / team",
     "highest_tier_score": 3,
-    "related_ids": [
-     "c774b8995598"
-    ]
+    "related_ids": []
    },
    "updated": "2026-10-21T15:49:36.477025+00:00"
   },

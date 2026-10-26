@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T01:43:09.361026+00:00",
+ "generated": "2026-10-26T02:11:37.317931+00:00",
  "season": 2026,
  "week": 7,
  "games": [
@@ -195,64 +195,64 @@
   {
    "id": "401873019",
    "date": "2026-10-25T20:05Z",
-   "state": "pre",
-   "detail": "Sun 10/25 4:05 PM ET",
-   "completed": false,
+   "state": "post",
+   "detail": "Final",
+   "completed": true,
    "away": {
     "abbr": "DEN",
     "name": "Denver Broncos",
-    "score": null,
-    "winner": null,
-    "record": "4-2"
+    "score": "30",
+    "winner": true,
+    "record": "5-2"
    },
    "home": {
     "abbr": "ARI",
     "name": "Arizona Cardinals",
-    "score": null,
-    "winner": null,
-    "record": "2-4"
+    "score": "16",
+    "winner": false,
+    "record": "2-5"
    }
   },
   {
    "id": "401873020",
    "date": "2026-10-25T20:25Z",
-   "state": "pre",
-   "detail": "Sun 10/25 4:25 PM ET",
-   "completed": false,
+   "state": "post",
+   "detail": "Final",
+   "completed": true,
    "away": {
     "abbr": "GB",
     "name": "Green Bay Packers",
-    "score": null,
-    "winner": null,
-    "record": "4-2"
+    "score": "17",
+    "winner": false,
+    "record": "4-3"
    },
    "home": {
     "abbr": "DET",
     "name": "Detroit Lions",
-    "score": null,
-    "winner": null,
-    "record": "3-2"
+    "score": "20",
+    "winner": true,
+    "record": "4-2"
    }
   },
   {
    "id": "401873021",
    "date": "2026-10-25T20:25Z",
-   "state": "pre",
-   "detail": "Sun 10/25 4:25 PM ET",
-   "completed": false,
+   "state": "post",
+   "detail": "Final",
+   "completed": true,
    "away": {
     "abbr": "LA",
     "name": "Los Angeles Rams",
-    "score": null,
-    "winner": null,
-    "record": "2-4"
+    "score": "35",
+    "winner": true,
+    "record": "3-4"
    },
    "home": {
     "abbr": "LV",
     "name": "Las Vegas Raiders",
-    "score": null,
-    "winner": null,
-    "record": "3-3"
+    "score": "21",
+    "winner": false,
+    "record": "3-4"
    }
   },
   {
@@ -317,7 +317,7 @@
     "name": "Denver Broncos",
     "score": "17",
     "winner": true,
-    "record": "4-2"
+    "record": "5-2"
    }
   },
   {
@@ -499,14 +499,14 @@
     "name": "Arizona Cardinals",
     "score": "18",
     "winner": true,
-    "record": "2-4"
+    "record": "2-5"
    },
    "home": {
     "abbr": "LA",
     "name": "Los Angeles Rams",
     "score": "16",
     "winner": false,
-    "record": "2-4"
+    "record": "3-4"
    }
   },
   {
@@ -548,7 +548,7 @@
     "name": "Las Vegas Raiders",
     "score": "30",
     "winner": false,
-    "record": "3-3"
+    "record": "3-4"
    }
   },
   {
@@ -569,7 +569,7 @@
     "name": "Green Bay Packers",
     "score": "23",
     "winner": true,
-    "record": "4-2"
+    "record": "4-3"
    }
   },
   {

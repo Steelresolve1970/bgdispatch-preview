@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-26T01:41:49.810587+00:00",
+ "generated": "2026-10-26T02:10:12.265297+00:00",
  "season": 2026,
  "through": "2026-10-25",
- "games_counted": 102,
+ "games_counted": 105,
  "divisions": {
   "AFC East": [
    {
@@ -196,30 +196,30 @@
    {
     "abbr": "DEN",
     "name": "Denver Broncos",
-    "w": 4,
+    "w": 5,
     "l": 2,
     "t": 0,
-    "pct": 0.667,
-    "pf": 114,
-    "pa": 125,
-    "diff": -11,
+    "pct": 0.714,
+    "pf": 144,
+    "pa": 141,
+    "diff": 3,
     "div": "1-1",
     "conf": "2-1",
-    "strk": "W2"
+    "strk": "W3"
    },
    {
     "abbr": "LV",
     "name": "Las Vegas Raiders",
     "w": 3,
-    "l": 3,
+    "l": 4,
     "t": 0,
-    "pct": 0.5,
-    "pf": 162,
-    "pa": 162,
-    "diff": 0,
+    "pct": 0.429,
+    "pf": 183,
+    "pa": 197,
+    "diff": -14,
     "div": "1-1",
     "conf": "2-3",
-    "strk": "L3"
+    "strk": "L4"
    },
    {
     "abbr": "LAC",
@@ -324,32 +324,32 @@
     "strk": "W2"
    },
    {
-    "abbr": "GB",
-    "name": "Green Bay Packers",
+    "abbr": "DET",
+    "name": "Detroit Lions",
     "w": 4,
     "l": 2,
     "t": 0,
     "pct": 0.667,
-    "pf": 127,
-    "pa": 125,
-    "diff": 2,
-    "div": "1-1",
-    "conf": "3-2",
-    "strk": "W3"
+    "pf": 184,
+    "pa": 165,
+    "diff": 19,
+    "div": "1-0",
+    "conf": "3-1",
+    "strk": "W2"
    },
    {
-    "abbr": "DET",
-    "name": "Detroit Lions",
-    "w": 3,
-    "l": 2,
+    "abbr": "GB",
+    "name": "Green Bay Packers",
+    "w": 4,
+    "l": 3,
     "t": 0,
-    "pct": 0.6,
-    "pf": 164,
-    "pa": 148,
-    "diff": 16,
-    "div": "0-0",
-    "conf": "2-1",
-    "strk": "W1"
+    "pct": 0.571,
+    "pf": 144,
+    "pa": 145,
+    "diff": -1,
+    "div": "1-2",
+    "conf": "3-3",
+    "strk": "L1"
    }
   ],
   "NFC South": [
@@ -440,32 +440,32 @@
     "strk": "L2"
    },
    {
-    "abbr": "ARI",
-    "name": "Arizona Cardinals",
-    "w": 2,
+    "abbr": "LA",
+    "name": "Los Angeles Rams",
+    "w": 3,
     "l": 4,
     "t": 0,
-    "pct": 0.333,
-    "pf": 126,
-    "pa": 178,
-    "diff": -52,
-    "div": "1-2",
-    "conf": "1-4",
+    "pct": 0.429,
+    "pf": 170,
+    "pa": 159,
+    "diff": 11,
+    "div": "0-2",
+    "conf": "2-2",
     "strk": "W1"
    },
    {
-    "abbr": "LA",
-    "name": "Los Angeles Rams",
+    "abbr": "ARI",
+    "name": "Arizona Cardinals",
     "w": 2,
-    "l": 4,
+    "l": 5,
     "t": 0,
-    "pct": 0.333,
-    "pf": 135,
-    "pa": 138,
-    "diff": -3,
-    "div": "0-2",
-    "conf": "2-2",
-    "strk": "L2"
+    "pct": 0.286,
+    "pf": 142,
+    "pa": 208,
+    "diff": -66,
+    "div": "1-2",
+    "conf": "1-4",
+    "strk": "L1"
    }
   ]
  },
