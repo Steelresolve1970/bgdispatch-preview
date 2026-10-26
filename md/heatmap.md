@@ -1,6 +1,6 @@
 # Steelers Player Grades (Heat Map)
 
-_Generated 2026-10-26T01:31:43+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T13:30:00+00:00._
+_Generated 2026-10-26T01:43:12+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T13:30:00+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/grades.json_
 
 Week 7: at New Orleans Saints (16-10). Grade = stats grade (box score, see GRADES.md) until a player has 25 fan votes, then fan grade.
@@ -16,12 +16,11 @@ Week 7: at New Orleans Saints (16-10). Grade = stats grade (box score, see GRADE
 | Mason McCormick | G | 7.3 | editor |  |
 | Keeanu Benton | DT | 7.1 | stats | 3 tkl, 2 TFL, 1 PD |
 | Brock Hoffman | G | 7.0 | editor |  |
+| Asante Samuel Jr. | CB | 7.0 | editor | 7 tkl |
+| Jamel Dean | CB | 7.0 | editor | 7 tkl |
 | DK Metcalf | WR | 6.7 | stats | 2 rec, 56 yds |
-| Max Iheanachor | T | 6.7 | editor |  |
 | Chris Boswell | K | 6.7 | stats | FG 3/3, XP 1/1 |
-| Asante Samuel Jr. | CB | 6.6 | stats | 7 tkl |
 | Jalen Ramsey | CB | 6.6 | stats | 7 tkl |
-| Jamel Dean | CB | 6.6 | stats | 7 tkl |
 | Yahya Black | DT | 6.5 | stats | 1 tkl, 1 TFL, 1 PD |
 | Kaden Wetjen | KR/PR | 6.5 | stats | 2 KR, 60 yds; 1 PR, 13 yds |
 | Brandon Smith | WR | 6.3 | stats | 2 rec, 24 yds |
@@ -42,9 +41,10 @@ Week 7: at New Orleans Saints (16-10). Grade = stats grade (box score, see GRADE
 | Daylen Everette | CB | 5.7 | stats | 1 tkl |
 | DeShon Elliott | SS | 5.7 | stats | 1 tkl |
 | Doneiko Slaughter | CB | 5.7 | stats | 1 tkl |
-| Cameron Johnston | P | 5.7 | stats | 2 punts, 44.5 avg |
 | Lew Nichols III | RB | 5.5 | stats | 1 KR, 22 yds |
+| Max Iheanachor | T | 4.8 | editor |  |
 | Troy Fautanu | T | 4.8 | editor |  |
+| Cameron Johnston | P | 4.7 | editor | 2 punts, 44.5 avg |
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
