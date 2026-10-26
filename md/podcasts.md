@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-26T13:46:00+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T13:45:42+00:00._
+_Generated 2026-10-26T13:57:07+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T13:56:34+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [Steelers grind out 16-10 win over Saints in Paris](https://www.steelcityunderground.com/podcast/2026/10/steelers-grind-out-16-10-win-over-saints-in-paris/): Steel City Underground, 2026-10-26 13:18 UTC
