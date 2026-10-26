@@ -1,8 +1,9 @@
 # Steelers News
 
-_Generated 2026-10-26T15:04:02+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T15:03:13+00:00._
+_Generated 2026-10-26T15:15:06+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T15:14:29+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Steelers have a new reason to question the 2027 QB class](https://stillcurtain.com/pittsburgh-steelers-new-reason-question-2027-qb-draft-class-01m5w5mp43v2?utm_source=RSS): Still Curtain, 2026-10-26 15:02 UTC
 - [‘Don’t Be Fooled:’ Analyst Says Steelers’ Winning Streak Is A Mirage](https://steelersdepot.com/2026/10/dont-be-fooled-analyst-says-steelers-winning-streak-is-a-mirage/): Steelers Depot, 2026-10-26 15:00 UTC
 - [The Steelers defense is stuffing the run — and closing out games with splash plays](https://www.post-gazette.com/sports/steelers/2026/10/26/steelers-defense-nfl-paris-game/stories/202610260024): Pittsburgh Post-Gazette, 2026-10-26 15:00 UTC
 - [Analyst Grades Steelers’ Performance In Win Over Saints](https://steelersdepot.com/2026/10/analyst-grades-steelers-performance-in-win-over-saints/): Steelers Depot, 2026-10-26 14:45 UTC
@@ -29,6 +30,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers Daily News & Links: Aaron Rodgers Iced Out; Insane Jaylen Warren Stat](https://steelersnow.com/steelers-daily-news-links-aaron-rodgers-iced-out-insane-jaylen-warren-stat/): Steelers Now, 2026-10-26 12:12 UTC
 - [Steelers ‘Might Have Figured Out’ Run Game With Warren And Dowdle Rotation, Kaboly Says](https://steelersdepot.com/2026/10/steelers-might-have-figured-out-run-game-with-warren-and-dowdle-rotation-kaboly-says/): Steelers Depot, 2026-10-26 12:00 UTC
 - [The Steelers' run defense wasn't just elite in Week 7: It was historic](https://stillcurtain.com/the-pittsburgh-steelers-run-defense-wasn-t-just-elite-in-week-7-it-was-historic-01m5v2673a3f?utm_source=RSS): Still Curtain, 2026-10-26 12:00 UTC
+- [Steelers Can No Longer Avoid CB Troubles](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-no-longer-avoid-cornerback-troubles): All Steelers (Sports Illustrated), 2026-10-26 12:00 UTC
 - [Aaron Rodgers doesn’t hold back on NFL’s international game management: ‘Wish there was a mandate’](https://www.pennlive.com/steelers/2026/10/aaron-rodgers-doesnt-hold-back-on-nfls-international-game-management-wish-there-was-a-mandate.html): PennLive (Nick Farabaugh), 2026-10-26 11:52 UTC
 - [Payton Wilson’s interception stops Saints’ second-half scoring threat](https://www.steelcityunderground.com/2026/10/26/payton-wilsons-interception-stops-saints-second-half-scoring-threat/): Steel City Underground, 2026-10-26 11:46 UTC
 - [Steelers Stock Watch 2026 – DL Keeanu Benton](https://steelersdepot.com/2026/10/steelers-stock-watch-2026-dl-keeanu-benton-3/): Steelers Depot, 2026-10-26 11:00 UTC
@@ -81,6 +83,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Howe It Happened: Steelers LB Payton Wilson Picks Off Saints, Finally Shows Coverage Potential](https://steelersnow.com/howe-it-happened-steelers-lb-payton-wilson-picks-off-saints-finally-shows-coverage-potential/): Steelers Now, 2026-10-25 18:39 UTC
 - [‘That Was the Goal’: Steelers Knew They Could Run All Over Saints](https://steelersnow.com/that-was-the-goal-steelers-knew-they-could-run-all-over-saints/): Steelers Now, 2026-10-25 18:34 UTC
 - [Kurt Warner says quiet part out loud about Steelers' shot at contending](https://stillcurtain.com/kurt-warner-says-quiet-part-out-loud-pittsburgh-steelers-shot-contending-01m5symaqwxk?utm_source=RSS): Still Curtain, 2026-10-25 18:14 UTC
+- [Aaron Rodgers, Steelers topple Saints in Paris](https://www.reuters.com/sports/nfl/aaron-rodgers-steelers-topple-saints-paris--flm-2026-10-25/): Reuters, 2026-10-25 18:10 UTC
 - [DB’s Steelers Dudes & Duds: Queen Balls Out; Fautanu Struggles](https://steelersnow.com/dbs-steelers-dudes-duds-queen-balls-out-fautanu-struggles/): Steelers Now, 2026-10-25 17:58 UTC
 - [Rodgers is Steelers Player of the Week](https://www.steelers.com/news/rodgers-is-steelers-player-of-the-week): Steelers.com (official), 2026-10-25 17:52 UTC
 - [Referee Grades: Steelers vs. Saints Was Tough to Watch](https://www.si.com/nfl/steelers/onsi/referee-grades-pittsburgh-steelers-saints-tough-watch): All Steelers (Sports Illustrated), 2026-10-25 17:47 UTC
@@ -150,9 +153,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Four-Down Territory: Run game will travel](https://www.steelers.com/news/four-down-territory-run-game-will-travel): Steelers.com (official), 2026-10-24 13:00 UTC
 - [Steelers GameDay Cheat Sheet: Week 7 at New Orleans Saints](https://www.steelcityunderground.com/2026/10/24/steelers-gameday-cheat-sheet-week-7-at-new-orleans-saints/): Steel City Underground, 2026-10-24 12:05 UTC
 - [Patrick Graham has perfect blueprint to erase Saints' rising star Tyler Shough](https://stillcurtain.com/pittsburgh-steelers-patrick-graham-has-perfect-blueprint-to-erase-saints-rising-star-tyler-shough-01m5mkb72fy1?utm_source=RSS): Still Curtain, 2026-10-24 12:00 UTC
-- [Steelers vs. Saints picks: Still Curtain panel predicts an uphill battle](https://stillcurtain.com/pittsburgh-steelers-vs-saints-picks-still-curtain-panel-predicts-an-uphill-battle-01m5a27wa79q?utm_source=RSS): Still Curtain, 2026-10-24 11:00 UTC
-- [Pros and Cons of Steelers Trying to Land Quenton Nelson](https://www.si.com/nfl/steelers/onsi/pros-cons-pittsburgh-steelers-trying-land-quenton-nelson): All Steelers (Sports Illustrated), 2026-10-24 11:00 UTC
-- [Steelers have two obvious keys to taking down the Saints this week](https://stillcurtain.com/pittsburgh-steelers-have-two-obvious-keys-to-taking-down-the-saints-this-week-01m5hyt9dzh2?utm_source=RSS): Still Curtain, 2026-10-24 10:00 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
