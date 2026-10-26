@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T23:06:11.901179+00:00",
+ "generated": "2026-10-26T00:09:34.506244+00:00",
  "game": {
   "id": "401873027",
   "nflverse_id": "2026_08_CLE_PIT",
@@ -25,23 +25,23 @@
  "stats": {
   "opp": {
    "Points Per Game": "19.0",
-   "Total Yards": "229.3",
-   "Yards Passing": "148.7",
-   "Yards Rushing": "80.6",
+   "Total Yards": "299.4",
+   "Yards Passing": "192.7",
+   "Yards Rushing": "106.7",
    "Points Allowed Per Game": "20.9",
-   "Yards Allowed": "272.1",
-   "Pass Yards Allowed": "175.9",
-   "Rush Yards Allowed": "96.3"
+   "Yards Allowed": "318.1",
+   "Pass Yards Allowed": "201.7",
+   "Rush Yards Allowed": "116.4"
   },
   "pit": {
    "Points Per Game": "21.9",
-   "Total Yards": "274.7",
-   "Yards Passing": "189.7",
-   "Yards Rushing": "85.0",
+   "Total Yards": "323.7",
+   "Yards Passing": "217.6",
+   "Yards Rushing": "106.1",
    "Points Allowed Per Game": "19.7",
-   "Yards Allowed": "263.6",
-   "Pass Yards Allowed": "175.1",
-   "Rush Yards Allowed": "88.4"
+   "Yards Allowed": "303.7",
+   "Pass Yards Allowed": "212.7",
+   "Rush Yards Allowed": "91.0"
   }
  },
  "leaders": {
@@ -49,19 +49,19 @@
    {
     "cat": "Passing Yards",
     "name": "Deshaun Watson",
-    "line": "111/174, 1,174 YDS, 7 TD, 2 INT",
+    "line": "136/210, 1,482 YDS, 7 TD, 3 INT",
     "pos": "QB"
    },
    {
     "cat": "Rushing Yards",
     "name": "Quinshon Judkins",
-    "line": "73 CAR, 221 YDS, 1 TD",
+    "line": "90 CAR, 317 YDS, 3 TD",
     "pos": "RB"
    },
    {
     "cat": "Receiving Yards",
     "name": "Denzel Boston",
-    "line": "17 REC, 345 YDS, 3 TD",
+    "line": "20 REC, 372 YDS, 3 TD",
     "pos": "WR"
    },
    {
@@ -73,7 +73,7 @@
    {
     "cat": "Tackles",
     "name": "Carson Schwesinger",
-    "line": "54",
+    "line": "62",
     "pos": "LB"
    }
   ],
@@ -81,31 +81,31 @@
    {
     "cat": "Passing Yards",
     "name": "Aaron Rodgers",
-    "line": "143/233, 1,487 YDS, 12 TD, 5 INT",
+    "line": "162/263, 1,699 YDS, 13 TD, 5 INT",
     "pos": "QB"
    },
    {
     "cat": "Rushing Yards",
     "name": "Jaylen Warren",
-    "line": "84 CAR, 460 YDS, 1 TD",
+    "line": "102 CAR, 561 YDS, 1 TD",
     "pos": "RB"
    },
    {
     "cat": "Receiving Yards",
     "name": "DK Metcalf",
-    "line": "30 REC, 318 YDS, 1 TD",
+    "line": "32 REC, 374 YDS, 1 TD",
     "pos": "WR"
    },
    {
     "cat": "Sacks",
     "name": "T.J. Watt",
-    "line": "4.5",
+    "line": "5.5",
     "pos": "OLB"
    },
    {
     "cat": "Tackles",
     "name": "Payton Wilson",
-    "line": "53",
+    "line": "59",
     "pos": "LB"
    }
   ]

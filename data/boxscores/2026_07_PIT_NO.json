@@ -58,49 +58,63 @@
   {
    "qtr": 1,
    "team": "PIT",
-   "desc": "Chris Boswell 28 Yd Field Goal",
+   "desc": "9-C.Boswell 28 yard field goal is GOOD, Center-46-C.Kuntz, Holder-19-C.Johnston.",
    "home": 0,
    "away": 3
   },
   {
    "qtr": 2,
    "team": "NO",
-   "desc": "Daniel Carlson 38 Yd Field Goal",
+   "desc": "10-D.Carlson 38 yard field goal is GOOD, Center-49-Z.Wood, Holder-17-R.Wright.",
    "home": 3,
    "away": 3
   },
   {
    "qtr": 2,
    "team": "PIT",
-   "desc": "Darnell Washington 4 Yd pass from Aaron Rodgers (Chris Boswell Kick)",
+   "desc": "(Shotgun) 8-A.Rodgers pass short left to 80-D.Washington for 4 yards, TOUCHDOWN.",
+   "home": 3,
+   "away": 9
+  },
+  {
+   "qtr": 2,
+   "team": "PIT",
+   "desc": "9-C.Boswell extra point is GOOD, Center-46-C.Kuntz, Holder-19-C.Johnston.",
    "home": 3,
    "away": 10
   },
   {
    "qtr": 2,
    "team": "NO",
-   "desc": "Devaughn Vele 1 Yd pass from Tyler Shough (Daniel Carlson Kick)",
+   "desc": "(Shotgun) 6-T.Shough pass short left to 14-D.Vele for 1 yard, TOUCHDOWN.",
+   "home": 9,
+   "away": 10
+  },
+  {
+   "qtr": 2,
+   "team": "NO",
+   "desc": "10-D.Carlson extra point is GOOD, Center-49-Z.Wood, Holder-17-R.Wright.",
    "home": 10,
    "away": 10
   },
   {
    "qtr": 2,
    "team": "PIT",
-   "desc": "Chris Boswell 47 Yd Field Goal",
+   "desc": "9-C.Boswell 47 yard field goal is GOOD, Center-46-C.Kuntz, Holder-19-C.Johnston.",
    "home": 10,
    "away": 13
   },
   {
    "qtr": 3,
    "team": "PIT",
-   "desc": "Chris Boswell 39 Yd Field Goal",
+   "desc": "9-C.Boswell 39 yard field goal is GOOD, Center-46-C.Kuntz, Holder-19-C.Johnston.",
    "home": 10,
    "away": 16
   }
  ],
  "team_stats": {
   "NO": {
-   "first_downs": 19,
+   "first_downs": 18,
    "total_yards": 281,
    "passing_yards": 263,
    "rushing_yards": 18,
@@ -119,7 +133,7 @@
    "possession": "27:57"
   },
   "PIT": {
-   "first_downs": 20,
+   "first_downs": 19,
    "total_yards": 343,
    "passing_yards": 195,
    "rushing_yards": 148,
@@ -149,7 +163,7 @@
      "td": 1,
      "int": 1,
      "sk": 2,
-     "skyd": 15,
+     "skyd": -15,
      "rate": 95.0
     }
    ],
@@ -178,20 +192,20 @@
    ],
    "receiving": [
     {
-     "name": "Barion Brown",
-     "rec": 3,
-     "tgt": 3,
-     "yds": 57,
-     "td": 0,
-     "avg": 19.0
-    },
-    {
      "name": "Alvin Kamara",
      "rec": 7,
      "tgt": 7,
      "yds": 57,
      "td": 0,
      "avg": 8.1
+    },
+    {
+     "name": "Barion Brown",
+     "rec": 3,
+     "tgt": 3,
+     "yds": 57,
+     "td": 0,
+     "avg": 19.0
     },
     {
      "name": "Chris Olave",
@@ -253,234 +267,255 @@
    "defense": [
     {
      "name": "Jonas Sanker",
-     "tkl": 9,
+     "tkl": 9.0,
      "solo": 7,
      "ast": 2,
      "sk": 0.0,
      "tfl": 0,
      "pd": 0,
      "qbh": 0,
-     "int": 0
+     "int": 0,
+     "ff": 0
     },
     {
      "name": "Pete Werner",
-     "tkl": 8,
+     "tkl": 8.0,
      "solo": 3,
      "ast": 5,
      "sk": 0.0,
      "tfl": 0,
      "pd": 0,
      "qbh": 1,
-     "int": 0
+     "int": 0,
+     "ff": 0
     },
     {
      "name": "Kaden Elliss",
-     "tkl": 6,
+     "tkl": 6.0,
      "solo": 4,
      "ast": 2,
      "sk": 0.0,
      "tfl": 0,
      "pd": 0,
      "qbh": 0,
-     "int": 0
+     "int": 0,
+     "ff": 0
     },
     {
      "name": "Julian Blackmon",
-     "tkl": 6,
+     "tkl": 6.0,
      "solo": 3,
      "ast": 3,
      "sk": 0.0,
      "tfl": 0,
      "pd": 0,
      "qbh": 0,
-     "int": 0
+     "int": 0,
+     "ff": 0
     },
     {
-     "name": "Martin Emerson Jr.",
-     "tkl": 5,
+     "name": "Martin Emerson",
+     "tkl": 5.0,
      "solo": 5,
      "ast": 0,
      "sk": 0.0,
      "tfl": 0,
      "pd": 0,
      "qbh": 0,
-     "int": 0
+     "int": 0,
+     "ff": 0
     },
     {
      "name": "Carl Granderson",
-     "tkl": 4,
+     "tkl": 4.0,
      "solo": 1,
      "ast": 3,
      "sk": 1.5,
      "tfl": 1,
      "pd": 0,
      "qbh": 2,
-     "int": 0
+     "int": 0,
+     "ff": 0
     },
     {
      "name": "Justin Reid",
-     "tkl": 4,
+     "tkl": 4.0,
      "solo": 2,
      "ast": 2,
      "sk": 0.0,
      "tfl": 0,
      "pd": 0,
      "qbh": 0,
-     "int": 0
+     "int": 0,
+     "ff": 0
     },
     {
      "name": "Vernon Broughton",
-     "tkl": 4,
+     "tkl": 4.0,
      "solo": 1,
      "ast": 3,
      "sk": 0.0,
      "tfl": 0,
      "pd": 0,
      "qbh": 0,
-     "int": 0
+     "int": 0,
+     "ff": 0
     },
     {
      "name": "Cameron Jordan",
-     "tkl": 3,
+     "tkl": 3.0,
      "solo": 2,
      "ast": 1,
      "sk": 0.0,
      "tfl": 1,
      "pd": 0,
      "qbh": 0,
-     "int": 0
+     "int": 0,
+     "ff": 0
     },
     {
      "name": "Anfernee Jennings",
-     "tkl": 3,
+     "tkl": 3.0,
      "solo": 2,
      "ast": 1,
      "sk": 0.0,
      "tfl": 0,
      "pd": 0,
      "qbh": 0,
-     "int": 0
-    },
-    {
-     "name": "Christen Miller",
-     "tkl": 3,
-     "solo": 1,
-     "ast": 2,
-     "sk": 0.0,
-     "tfl": 0,
-     "pd": 0,
-     "qbh": 0,
-     "int": 0
+     "int": 0,
+     "ff": 0
     },
     {
      "name": "Colby Wooden",
-     "tkl": 3,
+     "tkl": 3.0,
      "solo": 0,
      "ast": 3,
      "sk": 0.0,
      "tfl": 0,
      "pd": 0,
      "qbh": 0,
-     "int": 0
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Christen Miller",
+     "tkl": 3.0,
+     "solo": 1,
+     "ast": 2,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
     },
     {
      "name": "Chase Young",
-     "tkl": 2,
+     "tkl": 2.0,
      "solo": 1,
      "ast": 1,
      "sk": 1.5,
      "tfl": 1,
      "pd": 0,
      "qbh": 2,
-     "int": 0
+     "int": 0,
+     "ff": 0
     },
     {
      "name": "Jordan Howden",
-     "tkl": 2,
+     "tkl": 2.0,
      "solo": 2,
      "ast": 0,
      "sk": 0.0,
      "tfl": 0,
      "pd": 0,
      "qbh": 0,
-     "int": 0
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Davon Godchaux",
+     "tkl": 1.0,
+     "solo": 0,
+     "ast": 1,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Jaylan Ford",
+     "tkl": 1.0,
+     "solo": 0,
+     "ast": 1,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
     },
     {
      "name": "Khristian Boyd",
-     "tkl": 1,
+     "tkl": 1.0,
      "solo": 1,
      "ast": 0,
      "sk": 0.0,
      "tfl": 0,
      "pd": 0,
      "qbh": 0,
-     "int": 0
-    },
-    {
-     "name": "Quincy Riley",
-     "tkl": 1,
-     "solo": 1,
-     "ast": 0,
-     "sk": 0.0,
-     "tfl": 0,
-     "pd": 0,
-     "qbh": 0,
-     "int": 0
+     "int": 0,
+     "ff": 0
     },
     {
      "name": "Kool-Aid McKinstry",
-     "tkl": 1,
+     "tkl": 1.0,
      "solo": 1,
      "ast": 0,
      "sk": 0.0,
      "tfl": 0,
      "pd": 2,
      "qbh": 0,
-     "int": 0
+     "int": 0,
+     "ff": 0
     },
     {
      "name": "Danny Stutsman",
-     "tkl": 1,
+     "tkl": 1.0,
      "solo": 1,
      "ast": 0,
      "sk": 0.0,
      "tfl": 0,
      "pd": 0,
      "qbh": 0,
-     "int": 0
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Quincy Riley",
+     "tkl": 1.0,
+     "solo": 1,
+     "ast": 0,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
     },
     {
      "name": "Bryce Lance",
-     "tkl": 1,
+     "tkl": 1.0,
      "solo": 1,
      "ast": 0,
      "sk": 0.0,
      "tfl": 0,
      "pd": 0,
      "qbh": 0,
-     "int": 0
-    },
-    {
-     "name": "Davon Godchaux",
-     "tkl": 1,
-     "solo": 0,
-     "ast": 1,
-     "sk": 0.0,
-     "tfl": 0,
-     "pd": 0,
-     "qbh": 0,
-     "int": 0
-    },
-    {
-     "name": "Jaylan Ford",
-     "tkl": 1,
-     "solo": 0,
-     "ast": 1,
-     "sk": 0.0,
-     "tfl": 0,
-     "pd": 0,
-     "qbh": 0,
-     "int": 0
+     "int": 0,
+     "ff": 0
     }
    ],
    "kicking": [
@@ -504,7 +539,7 @@
      "td": 1,
      "int": 0,
      "sk": 3,
-     "skyd": 17,
+     "skyd": -17,
      "rate": 95.4
     }
    ],
@@ -592,234 +627,255 @@
    "defense": [
     {
      "name": "Patrick Queen",
-     "tkl": 10,
+     "tkl": 10.0,
      "solo": 7,
      "ast": 3,
      "sk": 1.0,
      "tfl": 1,
      "pd": 1,
      "qbh": 1,
-     "int": 0
-    },
-    {
-     "name": "Jamel Dean",
-     "tkl": 7,
-     "solo": 6,
-     "ast": 1,
-     "sk": 0.0,
-     "tfl": 0,
-     "pd": 0,
-     "qbh": 0,
-     "int": 0
-    },
-    {
-     "name": "Asante Samuel Jr.",
-     "tkl": 7,
-     "solo": 6,
-     "ast": 1,
-     "sk": 0.0,
-     "tfl": 0,
-     "pd": 0,
-     "qbh": 0,
-     "int": 0
+     "int": 0,
+     "ff": 0
     },
     {
      "name": "Jalen Ramsey",
-     "tkl": 7,
+     "tkl": 7.0,
      "solo": 3,
      "ast": 4,
      "sk": 0.0,
      "tfl": 0,
      "pd": 0,
      "qbh": 0,
-     "int": 0
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Jamel Dean",
+     "tkl": 7.0,
+     "solo": 6,
+     "ast": 1,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 1
+    },
+    {
+     "name": "Asante Samuel Jr.",
+     "tkl": 7.0,
+     "solo": 6,
+     "ast": 1,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
     },
     {
      "name": "Payton Wilson",
-     "tkl": 6,
+     "tkl": 6.0,
      "solo": 3,
      "ast": 3,
      "sk": 0.0,
      "tfl": 0,
      "pd": 1,
      "qbh": 0,
-     "int": 1
-    },
-    {
-     "name": "Keeanu Benton",
-     "tkl": 4,
-     "solo": 2,
-     "ast": 2,
-     "sk": 0.0,
-     "tfl": 2,
-     "pd": 1,
-     "qbh": 0,
-     "int": 0
+     "int": 1,
+     "ff": 0
     },
     {
      "name": "Travis Homer",
-     "tkl": 3,
+     "tkl": 3.0,
      "solo": 3,
      "ast": 0,
      "sk": 0.0,
      "tfl": 0,
      "pd": 0,
      "qbh": 0,
-     "int": 0
+     "int": 0,
+     "ff": 0
     },
     {
      "name": "Jaquan Brisker",
-     "tkl": 3,
+     "tkl": 3.0,
      "solo": 1,
      "ast": 2,
      "sk": 0.0,
      "tfl": 0,
      "pd": 0,
      "qbh": 0,
-     "int": 0
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Keeanu Benton",
+     "tkl": 3.0,
+     "solo": 1,
+     "ast": 2,
+     "sk": 0.0,
+     "tfl": 2,
+     "pd": 1,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
     },
     {
      "name": "Robert Spears-Jennings",
-     "tkl": 3,
+     "tkl": 3.0,
      "solo": 1,
      "ast": 2,
      "sk": 0.0,
      "tfl": 0,
      "pd": 0,
      "qbh": 0,
-     "int": 0
+     "int": 0,
+     "ff": 0
     },
     {
      "name": "T.J. Watt",
-     "tkl": 2,
+     "tkl": 2.0,
      "solo": 1,
      "ast": 1,
      "sk": 1.0,
      "tfl": 1,
      "pd": 0,
      "qbh": 2,
-     "int": 0
+     "int": 0,
+     "ff": 0
     },
     {
      "name": "Cameron Heyward",
-     "tkl": 2,
+     "tkl": 2.0,
      "solo": 1,
      "ast": 1,
      "sk": 0.0,
      "tfl": 0,
      "pd": 1,
      "qbh": 0,
-     "int": 0
+     "int": 0,
+     "ff": 0
     },
     {
      "name": "Alex Highsmith",
-     "tkl": 2,
+     "tkl": 2.0,
      "solo": 1,
      "ast": 1,
      "sk": 0.0,
      "tfl": 0,
      "pd": 0,
      "qbh": 1,
-     "int": 0
+     "int": 0,
+     "ff": 0
     },
     {
      "name": "Nick Herbig",
-     "tkl": 2,
+     "tkl": 2.0,
      "solo": 1,
      "ast": 1,
      "sk": 0.0,
      "tfl": 0,
      "pd": 0,
      "qbh": 1,
-     "int": 0
+     "int": 0,
+     "ff": 0
     },
     {
-     "name": "Gabriel Rubio",
-     "tkl": 2,
+     "name": "Gabe Rubio",
+     "tkl": 2.0,
      "solo": 0,
      "ast": 2,
      "sk": 0.0,
      "tfl": 0,
      "pd": 0,
      "qbh": 0,
-     "int": 0
+     "int": 0,
+     "ff": 0
     },
     {
      "name": "DeShon Elliott",
-     "tkl": 1,
+     "tkl": 1.0,
      "solo": 1,
      "ast": 0,
      "sk": 0.0,
      "tfl": 0,
      "pd": 0,
      "qbh": 0,
-     "int": 0
+     "int": 0,
+     "ff": 0
     },
     {
-     "name": "Carson Bruener",
-     "tkl": 1,
-     "solo": 1,
-     "ast": 0,
+     "name": "Cole Holcomb",
+     "tkl": 1.0,
+     "solo": 0,
+     "ast": 1,
      "sk": 0.0,
      "tfl": 0,
      "pd": 0,
      "qbh": 0,
-     "int": 0
+     "int": 0,
+     "ff": 0
     },
     {
      "name": "Yahya Black",
-     "tkl": 1,
+     "tkl": 1.0,
      "solo": 1,
      "ast": 0,
      "sk": 0.0,
      "tfl": 1,
      "pd": 1,
      "qbh": 0,
-     "int": 0
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Carson Bruener",
+     "tkl": 1.0,
+     "solo": 1,
+     "ast": 0,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Doneiko Slaughter",
+     "tkl": 1.0,
+     "solo": 1,
+     "ast": 0,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
+    },
+    {
+     "name": "Daylen Everette",
+     "tkl": 1.0,
+     "solo": 0,
+     "ast": 1,
+     "sk": 0.0,
+     "tfl": 0,
+     "pd": 0,
+     "qbh": 0,
+     "int": 0,
+     "ff": 0
     },
     {
      "name": "Jack Sawyer",
-     "tkl": 1,
-     "solo": 1,
+     "tkl": 0.0,
+     "solo": 0,
      "ast": 0,
      "sk": 0.0,
      "tfl": 1,
      "pd": 0,
      "qbh": 0,
-     "int": 0
-    },
-    {
-     "name": "Doneiko Slaughter",
-     "tkl": 1,
-     "solo": 1,
-     "ast": 0,
-     "sk": 0.0,
-     "tfl": 0,
-     "pd": 0,
-     "qbh": 0,
-     "int": 0
-    },
-    {
-     "name": "Cole Holcomb",
-     "tkl": 1,
-     "solo": 0,
-     "ast": 1,
-     "sk": 0.0,
-     "tfl": 0,
-     "pd": 0,
-     "qbh": 0,
-     "int": 0
-    },
-    {
-     "name": "Daylen Everette",
-     "tkl": 1,
-     "solo": 0,
-     "ast": 1,
-     "sk": 0.0,
-     "tfl": 0,
-     "pd": 0,
-     "qbh": 0,
-     "int": 0
+     "int": 0,
+     "ff": 0
     }
    ],
    "kicking": [
@@ -834,9 +890,7 @@
    ]
   }
  },
- "generated": "2026-10-25T23:05:47.874693+00:00",
- "source": "Stats: ESPN box score (shown until nflverse posts this game)",
- "source_url": "https://www.espn.com/nfl/game/_/gameId/401873011",
- "fallback": "espn",
- "espn_id": "401873011"
+ "generated": "2026-10-26T00:08:10.206132+00:00",
+ "source": "Data: nflverse (CC-BY 4.0)",
+ "source_url": "https://github.com/nflverse/nflverse-data"
 }

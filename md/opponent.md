@@ -1,20 +1,20 @@
 # Steelers Opponent Preview
 
-_Generated 2026-10-25T23:06:31+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T23:06:12+00:00._
+_Generated 2026-10-26T00:09:53+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T00:09:35+00:00._
 
 Week 8: Steelers vs **Cleveland Browns** (CLE 5-2), kickoff 2026-11-01 18:00 UTC, Acrisure Stadium.
 
 Last 5: CLE W 21-18 vs CAR W 27-24 vs PIT L 17-12 @ NYJ W 13-10 vs BAL W 27-24 @ TEN; PIT W 30-27 vs CIN L 27-24 @ CLE W 34-22 vs IND W 26-19 @ TB W 16-10 @ NO
 
 ## 3 keys to a Steelers win
-1. **Get after the quarterback**: The Steelers average 2.67 sacks a game (9th) and the Browns have allowed 4.00 (32nd). Early pressure can force mistakes.
-2. **Keep the quarterback clean**: The Browns average 3.17 sacks a game (4th); Pittsburgh allows 3.17 (28th). Quick throws and solid protection matter.
-3. **Win the turnover battle**: Pittsburgh takes the ball away 1.67 times a game (5th); the Browns give it away 1.17 times (14th). Extra possessions could decide it.
+1. **Get after the quarterback**: The Steelers average 2.57 sacks a game (10th) and the Browns have allowed 3.57 (32nd). Early pressure can force mistakes.
+2. **Keep the quarterback clean**: The Browns average 2.86 sacks a game (6th); Pittsburgh allows 3.14 (29th). Quick throws and solid protection matter.
+3. **Win the turnover battle**: Pittsburgh takes the ball away 1.57 times a game (9th); the Browns give it away 1.29 times (16th). Extra possessions could decide it.
 
 ## 3 key matchups
-1. **Jaylen Warren vs. the Browns' run defense**: Jaylen Warren carries the Steelers' ground game into a run defense that has had its problems. (Jaylen Warren: 84 carries, 460 yds (5.5 per carry); CLE allows 112.3 rush yds/game (17th), 4.38 per carry)
-2. **T.J. Watt vs. the Browns' pass protection**: If Watt wins his matchups, the Browns offense stalls. (T.J. Watt: 4.5 sacks (8th in NFL); CLE allows 4.00 sacks/game (32nd))
-3. **Mason Graham vs. the Steelers' offensive line**: Mason Graham is the Browns' top pass rusher; Pittsburgh's line has to keep him away from the quarterback. (Mason Graham: 4 sacks (10th in NFL), 5 QB hits; PIT allows 3.17 sacks/game (28th))
+1. **Jaylen Warren vs. the Browns' run defense**: Jaylen Warren carries the Steelers' ground game into a run defense that has had its problems. (Jaylen Warren: 102 carries, 561 yds (5.5 per carry); CLE allows 116.4 rush yds/game (19th), 4.43 per carry)
+2. **T.J. Watt vs. the Browns' pass protection**: If Watt wins his matchups, the Browns offense stalls. (T.J. Watt: 5.5 sacks (5th in NFL); CLE allows 3.57 sacks/game (32nd))
+3. **Mason Graham vs. the Steelers' offensive line**: Mason Graham is the Browns' top pass rusher; Pittsburgh's line has to keep him away from the quarterback. (Mason Graham: 4 sacks (14th in NFL), 5 QB hits; PIT allows 3.14 sacks/game (29th))
 
 ## Pundit picks
 Picks not posted yet; experts usually post Wednesday through Saturday.
@@ -24,30 +24,30 @@ Picks not posted yet; experts usually post Wednesday through Saturday.
 | Group | Stat | PIT | CLE |
 |---|---|---|---|
 | Offense | Points Per Game | 21.9 (22) | 19.0 (27) |
-| Offense | Total Yards | 320.5 (21) | 267.5 (29) |
-| Offense | Yards Passing | 221.3 (18) | 173.5 (25) |
-| Offense | Yards Rushing | 99.2 (20) | 94.0 (24) |
-| Offense | Yards Per Play | 5.01 (21) | 4.53 (29) |
-| Offense | Yards Per Carry | 4.58 (8) | 3.64 (26) |
-| Offense | Sacks Allowed Per Game | 3.17 (28) | 4.0 (32) |
-| Offense | Turnovers Per Game | 1.17 (14) | 1.17 (14) |
+| Offense | Total Yards | 323.7 (20) | 299.4 (24) |
+| Offense | Yards Passing | 217.6 (19) | 192.7 (24) |
+| Offense | Yards Rushing | 106.1 (20) | 106.7 (19) |
+| Offense | Yards Per Play | 5.07 (22) | 4.99 (23) |
+| Offense | Yards Per Carry | 4.64 (7) | 4.06 (18) |
+| Offense | Sacks Allowed Per Game | 3.14 (29) | 3.57 (32) |
+| Offense | Turnovers Per Game | 1.0 (10) | 1.29 (16) |
 | Defense | Points Allowed Per Game | 19.7 (4) | 20.9 (12) |
-| Defense | Yards Allowed | 307.5 (7) | 317.5 (13) |
-| Defense | Pass Yards Allowed | 204.3 (7) | 205.2 (8) |
-| Defense | Rush Yards Allowed | 103.2 (14) | 112.3 (17) |
-| Defense | Yards Per Play Allowed | 4.99 (8) | 5.03 (10) |
-| Defense | Yards Per Carry Allowed | 4.05 (18) | 4.38 (22) |
-| Defense | Sacks Per Game | 2.67 (9) | 3.17 (4) |
-| Defense | Takeaways Per Game | 1.67 (5) | 1.17 (19) |
-| Other | Turnover Margin | 3.0 (9) | 0.0 (17) |
-| Other | Penalty Yards Per Game | 51.7 (8) | 62.0 (16) |
+| Defense | Yards Allowed | 303.7 (6) | 318.1 (14) |
+| Defense | Pass Yards Allowed | 212.7 (12) | 201.7 (8) |
+| Defense | Rush Yards Allowed | 91.0 (7) | 116.4 (19) |
+| Defense | Yards Per Play Allowed | 4.98 (8) | 5.05 (11) |
+| Defense | Yards Per Carry Allowed | 3.75 (6) | 4.43 (23) |
+| Defense | Sacks Per Game | 2.57 (10) | 2.86 (6) |
+| Defense | Takeaways Per Game | 1.57 (9) | 1.29 (15) |
+| Other | Turnover Margin | 4.0 (5) | 0.0 (16) |
+| Other | Penalty Yards Per Game | 52.4 (10) | 60.0 (16) |
 
 ## Browns key players
-- Passing Yards: Deshaun Watson (QB) 111/174, 1,174 YDS, 7 TD, 2 INT
-- Rushing Yards: Quinshon Judkins (RB) 73 CAR, 221 YDS, 1 TD
-- Receiving Yards: Denzel Boston (WR) 17 REC, 345 YDS, 3 TD
+- Passing Yards: Deshaun Watson (QB) 136/210, 1,482 YDS, 7 TD, 3 INT
+- Rushing Yards: Quinshon Judkins (RB) 90 CAR, 317 YDS, 3 TD
+- Receiving Yards: Denzel Boston (WR) 20 REC, 372 YDS, 3 TD
 - Sacks: Mason Graham (DT) 4
-- Tackles: Carson Schwesinger (LB) 54
+- Tackles: Carson Schwesinger (LB) 62
 
 ## Browns injury report
 - Dillon Gabriel (QB): Out, Back

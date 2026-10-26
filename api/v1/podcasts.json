@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-25T23:06:31+00:00",
- "data_updated": "2026-10-25T23:06:04+00:00",
- "count": 117,
+ "generated": "2026-10-26T00:09:53+00:00",
+ "data_updated": "2026-10-26T00:09:26+00:00",
+ "count": 115,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -1511,32 +1511,6 @@
    "summary": "Podcast episode from Steel Curtain Network (BTSC).",
    "source": {
     "name": "Steel Curtain Network (BTSC)",
-    "url": null
-   }
-  },
-  {
-   "id": "de4083b2562d02eb",
-   "type": "podcast_episode",
-   "title": "Paris Under Pressure: Steelers Prepare for NFL First During Unrest Abroad",
-   "show": "Steelers Breakdown (PennLive, Nick Farabaugh)",
-   "url": "https://podcasts.apple.com/us/podcast/paris-under-pressure-steelers-prepare-for-nfl-first/id1277196913?i=1000797352171",
-   "published": "2026-10-21T00:03:00+00:00",
-   "summary": "Podcast episode from Steelers Breakdown (PennLive, Nick Farabaugh).",
-   "source": {
-    "name": "Steelers Breakdown (PennLive, Nick Farabaugh)",
-    "url": null
-   }
-  },
-  {
-   "id": "a880677ab824b9cc",
-   "type": "video",
-   "title": "Steelers' DB Grades vs Bucs",
-   "show": "Steelers Almighty",
-   "url": "https://www.youtube.com/shorts/7HH8tM4vmec",
-   "published": "2026-10-20T23:30:36+00:00",
-   "summary": "Video from Steelers Almighty.",
-   "source": {
-    "name": "Steelers Almighty",
     "url": null
    }
   }

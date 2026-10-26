@@ -1,30 +1,30 @@
 # Steelers Team Stats
 
-_Generated 2026-10-25T23:06:31+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T20:48:51+00:00._
+_Generated 2026-10-26T00:09:53+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T00:09:29+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/stats.json_
 
 | Section | Stat | Value | NFL rank |
 |---|---|---|---|
-| Offense | Pass yards | 1,328 | 16 |
-| Offense | Pass TD | 12 | 5 |
-| Offense | INTs thrown | 5 | 19 |
-| Offense | Rush yards | 595 | 17 |
+| Offense | Pass yards | 1,523 | 14 |
+| Offense | Pass TD | 13 | 5 |
+| Offense | INTs thrown | 5 | 18 |
+| Offense | Rush yards | 743 | 14 |
 | Offense | Rush TD | 1 | 32 |
 | Offense | Fumbles lost | 2 | 7 |
-| Offense | Total yards | 1,923 | 20 |
-| Defense | Yards allowed | 1,845 | 10 |
-| Defense | Pass yards allowed | 1,226 | 11 |
-| Defense | Rush yards allowed | 619 | 16 |
-| Defense | Sacks | 16 | 10 |
-| Defense | Interceptions | 6 | 5 |
-| Defense | Forced fumbles | 7 | 7 |
-| Defense | Fumbles recovered | 4 | 9 |
-| Defense | Tackles for loss | 37 | 2 |
-| Defense | Passes defended | 41 | 1 |
-| Scoring | Points scored | 153 | 10 |
-| Scoring | Points per game | 21.9 | 21 |
-| Scoring | Points allowed | 138 | 16 |
-| Scoring | Touchdowns | 14 | 18 |
+| Offense | Total yards | 2,266 | 11 |
+| Defense | Yards allowed | 2,126 | 16 |
+| Defense | Pass yards allowed | 1,489 | 20 |
+| Defense | Rush yards allowed | 637 | 12 |
+| Defense | Sacks | 18 | 8 |
+| Defense | Interceptions | 7 | 3 |
+| Defense | Forced fumbles | 8 | 4 |
+| Defense | Fumbles recovered | 4 | 10 |
+| Defense | Tackles for loss | 43 | 2 |
+| Defense | Passes defended | 46 | 1 |
+| Scoring | Points scored | 153 | 17 |
+| Scoring | Points per game | 21.9 | 22 |
+| Scoring | Points allowed | 138 | 9 |
+| Scoring | Touchdowns | 15 | 19 |
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

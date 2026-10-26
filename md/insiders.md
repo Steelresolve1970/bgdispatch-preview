@@ -1,6 +1,6 @@
 # NFL Insider Posts (last 3 days)
 
-_Generated 2026-10-25T23:06:31+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T23:05:50+00:00._
+_Generated 2026-10-26T00:09:53+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T00:08:10+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/insiders.json_
 
 - [Mike DeFabo (The Athletic) on Bluesky](https://bsky.app/profile/mikedefabo.bsky.social/post/3myqbrevapc2q), 2026-10-25 22:42 UTC: @mikedefabo.bsky.social posted about the Steelers, the game.

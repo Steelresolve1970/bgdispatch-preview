@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-25T23:06:31+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T23:06:04+00:00._
+_Generated 2026-10-26T00:09:53+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T00:09:26+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [STEELERS SQUAD SHOW: Warren Runs OVER Saints & Defense DISMANTLES Saints Run Game in PARIS, 16-10](https://lockedonpodcasts.com/podcasts/locked-on-steelers/): Locked On Steelers, 2026-10-25 22:09 UTC
@@ -118,8 +118,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [DK's Daily Shot of Steelers: Let ‘em all loose!](https://podcasts.apple.com/us/podcast/dks-daily-shot-of-steelers-let-em-all-loose/id1072021022?i=1000797403367): DK Pittsburgh Sports, 2026-10-21 05:37 UTC
 - Podcast: [Scout’s Eye with Matt Williamson: All the Rodgersesque things](https://podcasts.apple.com/us/podcast/scouts-eye-with-matt-williamson-all-the/id1072021022?i=1000797398522): DK Pittsburgh Sports, 2026-10-21 05:34 UTC
 - Podcast: [The Scho Bro Show: The familiarity of the Steelers unfamiliar win](https://podcasts.apple.com/us/podcast/the-scho-bro-show-the-familiarity-of/id905962218?i=1000797806025): Steel Curtain Network (BTSC), 2026-10-21 02:55 UTC
-- Podcast: [Paris Under Pressure: Steelers Prepare for NFL First During Unrest Abroad](https://podcasts.apple.com/us/podcast/paris-under-pressure-steelers-prepare-for-nfl-first/id1277196913?i=1000797352171): Steelers Breakdown (PennLive, Nick Farabaugh), 2026-10-21 00:03 UTC
-- Video: [Steelers' DB Grades vs Bucs](https://www.youtube.com/shorts/7HH8tM4vmec): Steelers Almighty, 2026-10-20 23:30 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

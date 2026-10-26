@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T23:06:25.423508+00:00",
+ "generated": "2026-10-26T00:09:46.510868+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -583,16 +583,13 @@
    "first_seen": "2026-10-23T00:00:15.961766+00:00",
    "consensus": {
     "cluster_id": "46b9d884dd04",
-    "independent_sources": 2,
+    "independent_sources": 1,
     "sources": [
-     "Steeler Nation",
      "SteelerNation"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": [
-     "81dabd419458"
-    ]
+    "related_ids": []
    },
    "updated": "2026-10-23T00:00:15.961766+00:00"
   },
@@ -791,32 +788,33 @@
    "updated": "2026-10-22T18:10:35.603011+00:00"
   },
   {
-   "id": "c4d23a319ca9",
+   "id": "d376342120eb",
    "title": "Steelers\u2019 Roster Move Makes $41M Pro Bowler Top Trade Candidate",
-   "source": "Heavy.com",
-   "link": "https://heavy.com/sports/nfl/pittsburgh-steelers/steelers-patrick-queen-trade-candidate-elandon-roberts/",
-   "published": "2026-10-22T02:29:00+00:00",
-   "summary": "Trade/roster move story from Heavy.com. Full report at the original publisher.",
-   "tier": "Aggregator / other",
-   "tier_score": 1,
+   "source": "Yahoo Sports",
+   "link": "https://sports.yahoo.com/articles/steelers-roster-move-makes-41m-052903737.html",
+   "published": "2026-10-22T05:29:00+00:00",
+   "summary": "Rumor-style report from Yahoo Sports on a Steelers roster move. Full details at the source.",
+   "tier": "National insider",
+   "tier_score": 4,
    "subjects": [],
    "status": "Rumor",
    "status_note": null,
    "status_link": null,
-   "first_seen": "2026-10-22T03:37:38.456021+00:00",
+   "first_seen": "2026-10-26T00:09:46.510868+00:00",
    "consensus": {
-    "cluster_id": "4485d0d2e6fe",
-    "independent_sources": 1,
+    "cluster_id": "c4d23a319ca9",
+    "independent_sources": 2,
     "sources": [
-     "Heavy.com"
+     "Heavy.com",
+     "Yahoo Sports"
     ],
-    "highest_tier": "Aggregator / other",
-    "highest_tier_score": 1,
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
     "related_ids": [
-     "4485d0d2e6fe"
+     "c4d23a319ca9"
     ]
    },
-   "updated": "2026-10-22T03:37:38.456021+00:00"
+   "updated": "2026-10-26T00:09:46.510868+00:00"
   },
   {
    "id": "220ffc62c292",
@@ -1055,13 +1053,16 @@
    "first_seen": "2026-10-21T15:49:36.477025+00:00",
    "consensus": {
     "cluster_id": "1b9cf10893b1",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
+     "TribLIVE.com",
      "TribLive"
     ],
     "highest_tier": "Beat writer / team",
     "highest_tier_score": 3,
-    "related_ids": []
+    "related_ids": [
+     "c774b8995598"
+    ]
    },
    "updated": "2026-10-21T15:49:36.477025+00:00"
   },

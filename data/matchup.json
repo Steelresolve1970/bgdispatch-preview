@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T23:06:12.909703+00:00",
+ "generated": "2026-10-26T00:09:35.010188+00:00",
  "game_id": "2026_08_CLE_PIT",
  "game": {
   "id": "401873027",
@@ -24,8 +24,8 @@
  "opp_name": "Cleveland Browns",
  "opp_nick": "Browns",
  "games_played": {
-  "PIT": 6,
-  "opp": 6
+  "PIT": 7,
+  "opp": 7
  },
  "teams_ranked": 32,
  "stats": [
@@ -46,10 +46,10 @@
    "higher_better": true,
    "dec": 1,
    "group": "Offense",
-   "pit": 320.5,
-   "pit_rank": 21,
-   "opp": 267.5,
-   "opp_rank": 29
+   "pit": 323.7,
+   "pit_rank": 20,
+   "opp": 299.4,
+   "opp_rank": 24
   },
   {
    "label": "Yards Passing",
@@ -57,10 +57,10 @@
    "higher_better": true,
    "dec": 1,
    "group": "Offense",
-   "pit": 221.3,
-   "pit_rank": 18,
-   "opp": 173.5,
-   "opp_rank": 25
+   "pit": 217.6,
+   "pit_rank": 19,
+   "opp": 192.7,
+   "opp_rank": 24
   },
   {
    "label": "Yards Rushing",
@@ -68,10 +68,10 @@
    "higher_better": true,
    "dec": 1,
    "group": "Offense",
-   "pit": 99.2,
+   "pit": 106.1,
    "pit_rank": 20,
-   "opp": 94.0,
-   "opp_rank": 24
+   "opp": 106.7,
+   "opp_rank": 19
   },
   {
    "label": "Points Allowed Per Game",
@@ -90,10 +90,10 @@
    "higher_better": false,
    "dec": 1,
    "group": "Defense",
-   "pit": 307.5,
-   "pit_rank": 7,
-   "opp": 317.5,
-   "opp_rank": 13
+   "pit": 303.7,
+   "pit_rank": 6,
+   "opp": 318.1,
+   "opp_rank": 14
   },
   {
    "label": "Pass Yards Allowed",
@@ -101,9 +101,9 @@
    "higher_better": false,
    "dec": 1,
    "group": "Defense",
-   "pit": 204.3,
-   "pit_rank": 7,
-   "opp": 205.2,
+   "pit": 212.7,
+   "pit_rank": 12,
+   "opp": 201.7,
    "opp_rank": 8
   },
   {
@@ -112,10 +112,10 @@
    "higher_better": false,
    "dec": 1,
    "group": "Defense",
-   "pit": 103.2,
-   "pit_rank": 14,
-   "opp": 112.3,
-   "opp_rank": 17
+   "pit": 91.0,
+   "pit_rank": 7,
+   "opp": 116.4,
+   "opp_rank": 19
   },
   {
    "label": "Yards Per Play",
@@ -123,10 +123,10 @@
    "higher_better": true,
    "dec": 2,
    "group": "Offense",
-   "pit": 5.01,
-   "pit_rank": 21,
-   "opp": 4.53,
-   "opp_rank": 29
+   "pit": 5.07,
+   "pit_rank": 22,
+   "opp": 4.99,
+   "opp_rank": 23
   },
   {
    "label": "Yards Per Carry",
@@ -134,10 +134,10 @@
    "higher_better": true,
    "dec": 2,
    "group": "Offense",
-   "pit": 4.58,
-   "pit_rank": 8,
-   "opp": 3.64,
-   "opp_rank": 26
+   "pit": 4.64,
+   "pit_rank": 7,
+   "opp": 4.06,
+   "opp_rank": 18
   },
   {
    "label": "Sacks Allowed Per Game",
@@ -145,9 +145,9 @@
    "higher_better": false,
    "dec": 2,
    "group": "Offense",
-   "pit": 3.17,
-   "pit_rank": 28,
-   "opp": 4.0,
+   "pit": 3.14,
+   "pit_rank": 29,
+   "opp": 3.57,
    "opp_rank": 32
   },
   {
@@ -156,10 +156,10 @@
    "higher_better": false,
    "dec": 2,
    "group": "Offense",
-   "pit": 1.17,
-   "pit_rank": 14,
-   "opp": 1.17,
-   "opp_rank": 14
+   "pit": 1.0,
+   "pit_rank": 10,
+   "opp": 1.29,
+   "opp_rank": 16
   },
   {
    "label": "Yards Per Play Allowed",
@@ -167,10 +167,10 @@
    "higher_better": false,
    "dec": 2,
    "group": "Defense",
-   "pit": 4.99,
+   "pit": 4.98,
    "pit_rank": 8,
-   "opp": 5.03,
-   "opp_rank": 10
+   "opp": 5.05,
+   "opp_rank": 11
   },
   {
    "label": "Yards Per Carry Allowed",
@@ -178,10 +178,10 @@
    "higher_better": false,
    "dec": 2,
    "group": "Defense",
-   "pit": 4.05,
-   "pit_rank": 18,
-   "opp": 4.38,
-   "opp_rank": 22
+   "pit": 3.75,
+   "pit_rank": 6,
+   "opp": 4.43,
+   "opp_rank": 23
   },
   {
    "label": "Sacks Per Game",
@@ -189,10 +189,10 @@
    "higher_better": true,
    "dec": 2,
    "group": "Defense",
-   "pit": 2.67,
-   "pit_rank": 9,
-   "opp": 3.17,
-   "opp_rank": 4
+   "pit": 2.57,
+   "pit_rank": 10,
+   "opp": 2.86,
+   "opp_rank": 6
   },
   {
    "label": "Takeaways Per Game",
@@ -200,10 +200,10 @@
    "higher_better": true,
    "dec": 2,
    "group": "Defense",
-   "pit": 1.67,
-   "pit_rank": 5,
-   "opp": 1.17,
-   "opp_rank": 19
+   "pit": 1.57,
+   "pit_rank": 9,
+   "opp": 1.29,
+   "opp_rank": 15
   },
   {
    "label": "Turnover Margin",
@@ -211,10 +211,10 @@
    "higher_better": true,
    "dec": 0,
    "group": "Other",
-   "pit": 3.0,
-   "pit_rank": 9,
+   "pit": 4.0,
+   "pit_rank": 5,
    "opp": 0.0,
-   "opp_rank": 17
+   "opp_rank": 16
   },
   {
    "label": "Penalty Yards Per Game",
@@ -222,9 +222,9 @@
    "higher_better": false,
    "dec": 1,
    "group": "Other",
-   "pit": 51.7,
-   "pit_rank": 8,
-   "opp": 62.0,
+   "pit": 52.4,
+   "pit_rank": 10,
+   "opp": 60.0,
    "opp_rank": 16
   }
  ],
@@ -232,48 +232,48 @@
   {
    "id": "rush_qb",
    "title": "Get after the quarterback",
-   "why": "The Steelers average 2.67 sacks a game (9th) and the Browns have allowed 4.00 (32nd). Early pressure can force mistakes.",
-   "score": 56
+   "why": "The Steelers average 2.57 sacks a game (10th) and the Browns have allowed 3.57 (32nd). Early pressure can force mistakes.",
+   "score": 55
   },
   {
    "id": "protect",
    "title": "Keep the quarterback clean",
-   "why": "The Browns average 3.17 sacks a game (4th); Pittsburgh allows 3.17 (28th). Quick throws and solid protection matter.",
-   "score": 53
+   "why": "The Browns average 2.86 sacks a game (6th); Pittsburgh allows 3.14 (29th). Quick throws and solid protection matter.",
+   "score": 52
   },
   {
    "id": "ball",
    "title": "Win the turnover battle",
-   "why": "Pittsburgh takes the ball away 1.67 times a game (5th); the Browns give it away 1.17 times (14th). Extra possessions could decide it.",
-   "score": 42
+   "why": "Pittsburgh takes the ball away 1.57 times a game (9th); the Browns give it away 1.29 times (16th). Extra possessions could decide it.",
+   "score": 40
   }
  ],
  "matchups": [
   {
-   "score": 23.833333333333336,
+   "score": 28.2,
    "title": "Jaylen Warren vs. the Browns' run defense",
    "why": "Jaylen Warren carries the Steelers' ground game into a run defense that has had its problems.",
    "stats": [
-    "Jaylen Warren: 84 carries, 460 yds (5.5 per carry)",
-    "CLE allows 112.3 rush yds/game (17th), 4.38 per carry"
+    "Jaylen Warren: 102 carries, 561 yds (5.5 per carry)",
+    "CLE allows 116.4 rush yds/game (19th), 4.43 per carry"
    ]
   },
   {
-   "score": 21.5,
+   "score": 24.5,
    "title": "T.J. Watt vs. the Browns' pass protection",
    "why": "If Watt wins his matchups, the Browns offense stalls.",
    "stats": [
-    "T.J. Watt: 4.5 sacks (8th in NFL)",
-    "CLE allows 4.00 sacks/game (32nd)"
+    "T.J. Watt: 5.5 sacks (5th in NFL)",
+    "CLE allows 3.57 sacks/game (32nd)"
    ]
   },
   {
-   "score": 19.0,
+   "score": 19.25,
    "title": "Mason Graham vs. the Steelers' offensive line",
    "why": "Mason Graham is the Browns' top pass rusher; Pittsburgh's line has to keep him away from the quarterback.",
    "stats": [
-    "Mason Graham: 4 sacks (10th in NFL), 5 QB hits",
-    "PIT allows 3.17 sacks/game (28th)"
+    "Mason Graham: 4 sacks (14th in NFL), 5 QB hits",
+    "PIT allows 3.14 sacks/game (29th)"
    ]
   }
  ],
