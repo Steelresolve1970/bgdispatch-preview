@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T02:10:11.575023+00:00",
+ "generated": "2026-10-26T02:21:45.875328+00:00",
  "count": 150,
  "sources": [
   {
@@ -29,8 +29,8 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
-   "steelers_items": 0
+   "status": "ok",
+   "steelers_items": 24
   },
   {
    "source": "Still Curtain",
@@ -287,15 +287,6 @@
    "id": "cc56827edf"
   },
   {
-   "title": "Pittsburgh Steelers defeat New Orleans Saints 16-10 in Paris match",
-   "source": "90.5 WESA",
-   "link": "https://www.wesanews.org/sports/2026-10-25/pittsburgh-steelers-new-orleans-saints-paris",
-   "published": "2026-10-25T20:45:00+00:00",
-   "via": "Google News",
-   "summary": "News story from 90.5 WESA. Full report at the original publisher.",
-   "id": "f4546fd421"
-  },
-  {
    "title": "Steelers Open As Favorites In Browns Rematch",
    "source": "Steelers Depot",
    "link": "https://steelersdepot.com/2026/10/steelers-open-as-favorites-in-browns-rematch/",
@@ -385,6 +376,15 @@
    "id": "bf0b99aa52"
   },
   {
+   "title": "Saints rush for just 18 yards in 16-10 loss to Steelers to spoil their Paris week",
+   "source": "Bozeman Daily Chronicle",
+   "link": "https://www.bozemandailychronicle.com/wire/sports/saints-rush-for-just-18-yards-in-16-10-loss-to-steelers-to-spoil-their/article_1be69f82-b308-50fd-9cb5-a18e0e324e09.html",
+   "published": "2026-10-25T19:34:07+00:00",
+   "via": "Google News",
+   "summary": "Game story from Bozeman Daily Chronicle. Full report at the original publisher.",
+   "id": "90687e3282"
+  },
+  {
    "title": "\u2018Go Be Y\u2019all\u2019: Patrick Queen Explains How Elandon Roberts Motivated Steelers ILBs",
    "source": "Steelers Depot",
    "link": "https://steelersdepot.com/2026/10/go-be-yall-patrick-queen-explains-how-elandon-roberts-motivated-steelers-ilbs/",
@@ -439,6 +439,15 @@
    "published": "2026-10-25T19:05:17+00:00",
    "summary": "News story from SteelerNation. Full report at the original publisher.",
    "id": "1a1dcf9c7c"
+  },
+  {
+   "title": "6 Winners, 3 Losers From Steelers Win Over Saints",
+   "source": "All Steelers (Sports Illustrated)",
+   "link": "https://www.si.com/nfl/steelers/onsi/6-winners-3-losers-pittsburgh-steelers-win-saints",
+   "published": "2026-10-25T18:40:12+00:00",
+   "summary": "Game story from All Steelers (Sports Illustrated). Full report at the original publisher.",
+   "via": "Google News",
+   "id": "41c9d552bf"
   },
   {
    "title": "Howe It Happened: Steelers LB Payton Wilson Picks Off Saints, Finally Shows Coverage Potential",
@@ -669,6 +678,15 @@
    "published": "2026-10-25T16:45:12+00:00",
    "summary": "Opinion story from PennLive (Nick Farabaugh). Full report at the original publisher.",
    "id": "8171f716cf"
+  },
+  {
+   "title": "Steelers beat Saints in NFL's first-ever game in Paris, 16-10",
+   "source": "CBS News",
+   "link": "https://www.cbsnews.com/pittsburgh/news/steelers-beat-saints-in-nfl-paris-game/",
+   "published": "2026-10-25T16:45:00+00:00",
+   "via": "Google News",
+   "summary": "Game story from CBS News. Full report at the original publisher.",
+   "id": "f8880d444b"
   },
   {
    "title": "Warren, Steelers Stiff-Arm Saints for 16-10 Paris Win",
@@ -937,13 +955,12 @@
    "id": "5fc33810de"
   },
   {
-   "title": "Steelers and Saints play in NFL\u2019s first Paris game\u2014Here\u2019s how to watch for free",
-   "source": "New York Post",
-   "link": "https://nypost.com/2026/10/25/sports/heres-how-to-watch-steelers-vs-saints-in-paris-for-free/",
-   "published": "2026-10-25T10:30:00+00:00",
-   "via": "Google News",
-   "summary": "Game story from New York Post. Full report at the original publisher.",
-   "id": "1e69937666"
+   "title": "SCU Week in Review \u2013 October 25th",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/25/scu-week-in-review-october-25th-2/",
+   "published": "2026-10-25T10:40:18+00:00",
+   "summary": "News story from Steel City Underground. Full report at the original publisher.",
+   "id": "1fad850306"
   },
   {
    "title": "Asked and Answered: Oct. 25",
@@ -1150,6 +1167,14 @@
    "id": "35ded3e0a4"
   },
   {
+   "title": "Steelers GameDay Cheat Sheet: Week 7 at New Orleans Saints",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/24/steelers-gameday-cheat-sheet-week-7-at-new-orleans-saints/",
+   "published": "2026-10-24T12:05:57+00:00",
+   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
+   "id": "8695f97ba7"
+  },
+  {
    "title": "Patrick Graham has perfect blueprint to erase Saints' rising star Tyler Shough",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/pittsburgh-steelers-patrick-graham-has-perfect-blueprint-to-erase-saints-rising-star-tyler-shough-01m5mkb72fy1?utm_source=RSS",
@@ -1310,30 +1335,6 @@
    "published": "2026-10-23T14:00:50+00:00",
    "summary": "Game story from Still Curtain. Full report at the original publisher.",
    "id": "62aed44ce1"
-  },
-  {
-   "title": "Steelers safety DeShon Elliott could return Sunday, a year removed from his gruesome injury",
-   "source": "Pittsburgh Post-Gazette",
-   "link": "https://www.post-gazette.com/sports/steelers/2026/10/23/will-deshon-elliott-play-sunday/stories/202610230028",
-   "published": "2026-10-23T14:00:00+00:00",
-   "summary": "Injury story from Pittsburgh Post-Gazette. Full report at the original publisher.",
-   "id": "595924af2d"
-  },
-  {
-   "title": "T.J. Watt fine, Rico Dowdle questionable to play for Steelers vs. Saints",
-   "source": "TribLive",
-   "link": "https://triblive.com/sports/t-j-watt-fine-rico-dowdle-questionable-to-play-for-steelers-vs-saints/",
-   "published": "2026-10-23T13:51:57+00:00",
-   "summary": "Injury story from TribLive. Full report at the original publisher.",
-   "id": "a87027a94f"
-  },
-  {
-   "title": "After full week of practice, all signs point to DeShon Elliott returning to action for Steelers",
-   "source": "TribLive",
-   "link": "https://triblive.com/sports/after-full-week-of-practice-all-signs-point-to-deshon-elliott-returning-to-action-for-steelers/",
-   "published": "2026-10-23T13:28:16+00:00",
-   "summary": "Injury story from TribLive. Full report at the original publisher.",
-   "id": "8953658802"
   }
  ],
  "dropped_bad_links": 0

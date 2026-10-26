@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T02:11:18.482087+00:00",
+ "generated": "2026-10-26T02:41:34.761862+00:00",
  "date_et": "2026-10-25",
  "days": 5,
  "display_days": 2,
@@ -18,7 +18,7 @@
    "show": "Locked On Steelers",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7JorgD8nGLtvvMy1ogFetg",
-   "status": "error: HTTP Error 404: Not Found",
+   "status": "error: HTTP Error 500: Internal Server Error",
    "episodes": 0,
    "week": 8,
    "latest": null
@@ -81,7 +81,7 @@
    "show": "Still Curtain Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxjSNPLcRAVzDKOjhRwo-hQ",
-   "status": "error: HTTP Error 404: Not Found",
+   "status": "error: HTTP Error 500: Internal Server Error",
    "episodes": 0,
    "week": 1,
    "latest": null
@@ -99,7 +99,7 @@
    "show": "Steel City Underground",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDcNNAMkYr-DzH6_XL-0p8Q",
-   "status": "error: HTTP Error 500: Internal Server Error",
+   "status": "error: HTTP Error 404: Not Found",
    "episodes": 0,
    "week": 1,
    "latest": null
@@ -189,19 +189,19 @@
    "show": "Nick Farabaugh on PennLive",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5yvng1eSgffmybUM-51fTw",
-   "status": "ok",
-   "episodes": 1,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 1,
-   "latest": "2026-10-24T18:08:40+00:00"
+   "latest": null
   },
   {
    "show": "Pittsburgh Steelers (official)",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChaRXjMDs4ppKfnTPE6Z89w",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 15,
-   "latest": "2026-10-25T23:09:30+00:00"
+   "latest": null
   },
   {
    "show": "Not Just Football with Cam Heyward",
@@ -318,7 +318,7 @@
    "title": "Live Shot of Steelers: Postgame vs. Saints",
    "show": "DK Pittsburgh Sports",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/id1072021022",
+   "link": "https://podcasts.apple.com/us/podcast/live-shot-of-steelers-postgame-vs-saints/id1072021022?i=1000798056594",
    "published": "2026-10-25T19:05:00+00:00",
    "summary": "Podcast episode from DK Pittsburgh Sports."
   },
@@ -1251,7 +1251,7 @@
     "title": "Live Shot of Steelers: Postgame vs. Saints",
     "show": "DK Pittsburgh Sports",
     "kind": "podcast",
-    "link": "https://podcasts.apple.com/us/podcast/id1072021022",
+    "link": "https://podcasts.apple.com/us/podcast/live-shot-of-steelers-postgame-vs-saints/id1072021022?i=1000798056594",
     "published": "2026-10-25T19:05:00+00:00",
     "summary": "Podcast episode from DK Pittsburgh Sports."
    }

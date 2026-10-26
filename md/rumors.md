@@ -1,11 +1,11 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-26T02:11:40+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T02:11:34+00:00._
+_Generated 2026-10-26T02:41:54+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T02:41:48+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
 - **Rumor** · tier: Aggregator / other · consensus: 3 source(s), top tier National insider
   [Aaron Rodgers Shades Steelers Coaches in New Video, Reportedly Called Some Plays in Win vs. Saints](https://bleacherreport.com/articles/25520168-aaron-rodgers-shades-steelers-coaches-new-video-reportedly-called-some-plays-win-vs-saints): Bleacher Report, first seen 2026-10-25 19:04 UTC
-- **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
+- **Rumor** · tier: Fan blog · consensus: 2 source(s), top tier Fan blog
   [Steelers Have 3 Trade Targets That No One Talks About](https://www.steelernation.com/2026/10/24/steelers-trade-targets-no-one-talks-about): SteelerNation, first seen 2026-10-24 21:18 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Steelers Rumors: Should Pittsburgh Trade Patrick Queen to Cowboys?](https://www.chatsports.com/pittsburgh-steelers/a/steelers-rumors-should-pittsburgh-trade-patrick-queen-cowboys-53601): Chat Sports, first seen 2026-10-24 19:08 UTC
@@ -39,7 +39,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Are the Browns for real? Trade deadline plans for the Steelers, Ravens, Bengals](https://www.nytimes.com/athletic/7711772/2026/10/23/afc-north-trade-deadline-browns/): The Athletic, first seen 2026-10-23 10:05 UTC
 - **Rumor** · tier: National insider · consensus: 3 source(s), top tier National insider
   [Steelers linked to trade for Troy Polamalu's nephew](https://sports.yahoo.com/articles/steelers-linked-trade-troy-polamalus-090859602.html): Yahoo Sports, first seen 2026-10-23 10:05 UTC
-- **Rumor** · tier: Fan blog · consensus: 2 source(s), top tier Fan blog
+- **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Steelers' Latest Defensive Line Injuries Make DeForest Buckner An Urgent Trade Target](https://www.steelernation.com/2026/10/22/steelers-deforest-buckner-urgent-trade): SteelerNation, first seen 2026-10-23 00:00 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [Pittsburgh Steelers Named in Massive $76 Million Trade Rumor](https://www.yardbarker.com/nfl/articles/pittsburgh_steelers_named_in_massive_76_million_trade_rumor/s1_17355_44461459): Yardbarker, first seen 2026-10-22 21:56 UTC
@@ -73,7 +73,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Steelers Must Avoid This Veteran WR Trade Target](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-must-avoid-veteran-trade-target-chris-godwin): Sports Illustrated, first seen 2026-10-21 16:33 UTC
 - **Rumor** · tier: National insider · consensus: 3 source(s), top tier National insider
   [Aaron Rodgers reportedly eyes Buccaneers WR as potential trade target for the Steelers](https://sports.yahoo.com/articles/aaron-rodgers-reportedly-eyes-buccaneers-114842350.html): Yahoo Sports, first seen 2026-10-21 13:05 UTC
-- **Rumor** · tier: Beat writer / team · consensus: 1 source(s), top tier Beat writer / team
+- **Rumor** · tier: Beat writer / team · consensus: 2 source(s), top tier Beat writer / team
   [First Call: Steelers’ WR trade speculation; Najee Harris out in New York; big hockey win for RMU at Penn State](https://triblive.com/sports/first-call-steelers-wr-trade-speculation-najee-harris-may-be-out-in-new-york-big-hockey-win-for-rmu-at-penn-state/): TribLive, first seen 2026-10-21 15:49 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [Trade Rumors: 49ers, Mack, Godwin, Bucs, Steelers, Bills, Bennett, Rams](https://www.profootballrumors.com/2026/10/trade-rumors-49ers-mack-godwin-buccaneers-steelers-bills-bennett-rams): ProFootballRumors.com, first seen 2026-10-21 04:50 UTC
