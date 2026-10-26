@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-26T16:37:50+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T16:19:54+00:00._
+_Generated 2026-10-26T16:48:48+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T16:48:30+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [Hour 1: Summary of the Saints](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-102626-mp3): Steelers Blitz, 2026-10-26 15:00 UTC
@@ -12,7 +12,8 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Steelers' Aaron Rodgers Farewell Tour Has Finally Begun](https://podcasts.apple.com/us/podcast/steelers-aaron-rodgers-farewell-tour-has-finally-begun/id1627248534?i=1000798172405): All Steelers Talk, 2026-10-26 12:18 UTC
 - Podcast: [Pittsburgh Steelers Win 16-10 vs Saints - [What Went Right/Wrong In Week 7]](https://arthurmoats55.libsyn.com/panel_1025_ytmp3): The Arthur Moats Experience, 2026-10-26 09:52 UTC
 - Video: [STEELERS SQUAD SHOW: Warren Runs OVER Saints & Defense DISMANTLES Saints Run Game in PARIS, 16-10](https://www.youtube.com/watch?v=dnrjjelOSeU): Locked On Steelers, 2026-10-26 05:45 UTC
-- Podcast: [DK's Daily Shot of Steelers: Having fun yet?](https://podcasts.apple.com/us/podcast/id1072021022): DK Pittsburgh Sports, 2026-10-26 05:42 UTC
+- Podcast: [DK's Daily Shot of Steelers: Having fun yet?](https://podcasts.apple.com/us/podcast/dks-daily-shot-of-steelers-having-fun-yet/id1072021022?i=1000798146008): DK Pittsburgh Sports, 2026-10-26 05:42 UTC
+- Podcast: [Scout’s Eye with Matt Williamson: Closer than it felt](https://podcasts.apple.com/us/podcast/scouts-eye-with-matt-williamson-closer-than-it-felt/id1072021022?i=1000798123487): DK Pittsburgh Sports, 2026-10-26 05:40 UTC
 - Video: [Darnell takin over Paris 😤](https://www.youtube.com/shorts/Frs4q46PolI): Pittsburgh Steelers (official), 2026-10-25 23:09 UTC
 - Podcast: [STEELERS SQUAD SHOW: Warren Runs OVER Saints & Defense DISMANTLES Saints Run Game in PARIS, 16-10](https://podcasts.apple.com/us/podcast/steelers-squad-show-warren-runs-over-saints-defense/id1140522532?i=1000798075207): Locked On Steelers, 2026-10-25 22:09 UTC
 - Video: [Steelers' Jaylen Warren, Rico Dowdle a Dynamic Duo in 16-10 Win vs Saints | Patrick Graham is Right](https://www.youtube.com/watch?v=HfPpglcWbEE): Locked On Steelers, 2026-10-25 22:00 UTC
@@ -111,7 +112,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [The rookie Germie Bernard got his first NFL TD at the perfect time! 🔥👏#germiebernard #steelers](https://www.youtube.com/shorts/VoBCAmwhJqs): Not Just Football with Cam Heyward, 2026-10-21 17:11 UTC
 - Podcast: [Steelers Offense a One-Trick Pony? | Steelers Morning Rush](https://podcasts.apple.com/us/podcast/steelers-offense-a-one-trick-pony-steelers-morning-rush/id1700240934?i=1000797476047): Steelers Afternoon Drive, 2026-10-21 17:06 UTC
 - Video: [The Terrible Podcast — Steelers Vs Bucs All-22 Review, Valdes-Scantling Return, Monday Presser Recap](https://www.youtube.com/watch?v=dTb7GC3ZHUs): The Terrible Podcast (Steelers Depot), 2026-10-21 16:52 UTC
-- Podcast: [The Terrible Podcast — Steelers Vs. Buccaneers All-22 Review, Valdes-Scantling Return, Monday Presser Recaps, & More](https://podcasts.apple.com/us/podcast/the-terrible-podcast-steelers-vs-buccaneers-all-22/id405990739?i=1000797472358): The Terrible Podcast (Steelers Depot), 2026-10-21 16:37 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
