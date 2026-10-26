@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-26T22:27:57+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T22:27:40+00:00._
+_Generated 2026-10-26T22:38:51+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T22:38:34+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Dominant Trench Play, Frazier League's Best Center? | Steelers Afternoon Drive](https://www.youtube.com/watch?v=rOOSrybk0BI): Steelers Now, 2026-10-26 22:13 UTC
@@ -14,7 +14,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [DO YOUR DANCE DK🕺📺: #CLEvsPIT 11/1 at 1 PM ET on CBS](https://www.youtube.com/shorts/HZc7aeI02vY): Pittsburgh Steelers (official), 2026-10-26 17:30 UTC
 - Video: [Steelers Imposed Their Will Over the Saints in Paris | Illegal Hands to the Face](https://www.youtube.com/watch?v=P1rY457W1b8): Still Curtain Podcast, 2026-10-26 17:00 UTC
 - Podcast: [Hour 1: Summary of the Saints](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-102626-mp3): Steelers Blitz, 2026-10-26 15:00 UTC
-- Podcast: [The Steelers Are ONE MOVE Away From Being Super Bowl Contenders?!](https://podcasts.apple.com/us/podcast/the-steelers-are-one-move-away-from-being-super-bowl/id1623192893?i=1000798184529): The Steel City Insider (Jim Wexell, 247Sports), 2026-10-26 14:05 UTC
+- Podcast: [The Steelers Are ONE MOVE Away From Being Super Bowl Contenders?!](https://247sports.com/nfl/pittsburgh-steelers/): The Steel City Insider (Jim Wexell, 247Sports), 2026-10-26 14:05 UTC
 - Podcast: [Hour 2: Around the Shield + International Play](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr2-102626-mp3): Steelers Blitz, 2026-10-26 14:00 UTC
 - Podcast: [Steelers grind out 16-10 win over Saints in Paris](https://www.steelcityunderground.com/podcast/2026/10/steelers-grind-out-16-10-win-over-saints-in-paris/): Steel City Underground, 2026-10-26 13:18 UTC
 - Video: [Steelers grind out 16-10 win over Saints in Paris](https://www.youtube.com/watch?v=k6E4vXk-c-s): Steel City Underground, 2026-10-26 13:15 UTC
