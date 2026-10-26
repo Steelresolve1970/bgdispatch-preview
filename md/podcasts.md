@@ -1,8 +1,10 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-26T16:48:48+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T16:48:30+00:00._
+_Generated 2026-10-26T17:09:03+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T17:05:27+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Video: [Steelers Imposed Their Will Over the Saints in Paris | Illegal Hands to the Face](https://www.youtube.com/watch?v=P1rY457W1b8): Still Curtain Podcast, 2026-10-26 17:00 UTC
+- Podcast: [The Terrible Podcast — Steelers-Saints Game In Paris Recap, Zach Frazier Love, AFC North Standings, & More](https://podcasts.apple.com/us/podcast/id405990739): The Terrible Podcast (Steelers Depot), 2026-10-26 16:54 UTC
 - Podcast: [Hour 1: Summary of the Saints](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-102626-mp3): Steelers Blitz, 2026-10-26 15:00 UTC
 - Podcast: [The Steelers Are ONE MOVE Away From Being Super Bowl Contenders?!](https://247sports.com/nfl/pittsburgh-steelers/): The Steel City Insider (Jim Wexell, 247Sports), 2026-10-26 14:05 UTC
 - Podcast: [Hour 2: Around the Shield + International Play](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr2-102626-mp3): Steelers Blitz, 2026-10-26 14:00 UTC
@@ -111,7 +113,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Steelers vs. Saints Week 7 Preview | Aaron Rodgers Problem Brewing](https://redcircle.com/shows/62750d24-c3c9-4be8-919a-ff22b312fb19/episodes/713cf51f-6e13-4adb-977b-bd7b8f477ea3): Still Curtain Podcast, 2026-10-21 19:35 UTC
 - Video: [The rookie Germie Bernard got his first NFL TD at the perfect time! 🔥👏#germiebernard #steelers](https://www.youtube.com/shorts/VoBCAmwhJqs): Not Just Football with Cam Heyward, 2026-10-21 17:11 UTC
 - Podcast: [Steelers Offense a One-Trick Pony? | Steelers Morning Rush](https://podcasts.apple.com/us/podcast/steelers-offense-a-one-trick-pony-steelers-morning-rush/id1700240934?i=1000797476047): Steelers Afternoon Drive, 2026-10-21 17:06 UTC
-- Video: [The Terrible Podcast — Steelers Vs Bucs All-22 Review, Valdes-Scantling Return, Monday Presser Recap](https://www.youtube.com/watch?v=dTb7GC3ZHUs): The Terrible Podcast (Steelers Depot), 2026-10-21 16:52 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
