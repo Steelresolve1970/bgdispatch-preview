@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "grades",
  "description": "Per-game player grades: transparent stats grade from the box score until 25 fan votes, then fan grade.",
- "generated": "2026-10-26T13:57:07+00:00",
+ "generated": "2026-10-26T14:08:00+00:00",
  "data_updated": "2026-10-25T13:30:00+00:00",
- "count": 38,
+ "count": 42,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -120,6 +120,26 @@
    }
   },
   {
+   "id": "ae7e821f30e7bb63",
+   "type": "player_grade",
+   "week": 7,
+   "game": "at New Orleans Saints",
+   "player": "Brandon Johnson",
+   "position": "WR",
+   "group": "WR",
+   "grade": 5.1,
+   "grade_source": "stats",
+   "stats_grade": 5.1,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "8 offense snaps (12%), no box-score stats",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
    "id": "3bbb2acf8a792353",
    "type": "player_grade",
    "week": 7,
@@ -220,6 +240,26 @@
    }
   },
   {
+   "id": "5232283f9c24f004",
+   "type": "player_grade",
+   "week": 7,
+   "game": "at New Orleans Saints",
+   "player": "Robert Tonyan",
+   "position": "TE",
+   "group": "TE",
+   "grade": 5.0,
+   "grade_source": "stats",
+   "stats_grade": 5.0,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "6 offense snaps (9%), no box-score stats",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
    "id": "f423b20ac147da3a",
    "type": "player_grade",
    "week": 7,
@@ -229,10 +269,10 @@
    "group": "OL",
    "grade": 7.0,
    "grade_source": "editor",
-   "stats_grade": null,
+   "stats_grade": 5.5,
    "fan_votes": 0,
    "fan_grade": null,
-   "box_score_line": "",
+   "box_score_line": "64 offensive snaps (100%); line: 3 sacks allowed, 4.9 yds/carry, 6 team penalties",
    "method_url": "https://blackandgolddispatch.com/GRADES.md",
    "source": {
     "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
@@ -249,10 +289,10 @@
    "group": "OL",
    "grade": 7.3,
    "grade_source": "editor",
-   "stats_grade": null,
+   "stats_grade": 5.5,
    "fan_votes": 0,
    "fan_grade": null,
-   "box_score_line": "",
+   "box_score_line": "64 offensive snaps (100%); line: 3 sacks allowed, 4.9 yds/carry, 6 team penalties",
    "method_url": "https://blackandgolddispatch.com/GRADES.md",
    "source": {
     "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
@@ -269,10 +309,30 @@
    "group": "OL",
    "grade": 4.8,
    "grade_source": "editor",
-   "stats_grade": null,
+   "stats_grade": 5.5,
    "fan_votes": 0,
    "fan_grade": null,
-   "box_score_line": "",
+   "box_score_line": "64 offensive snaps (100%); line: 3 sacks allowed, 4.9 yds/carry, 6 team penalties",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
+   "id": "fa2b3f6d1a8eb76a",
+   "type": "player_grade",
+   "week": 7,
+   "game": "at New Orleans Saints",
+   "player": "Spencer Anderson",
+   "position": "G",
+   "group": "OL",
+   "grade": 5.5,
+   "grade_source": "stats",
+   "stats_grade": 5.5,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "13 offensive snaps (20%); line: 3 sacks allowed, 4.9 yds/carry, 6 team penalties",
    "method_url": "https://blackandgolddispatch.com/GRADES.md",
    "source": {
     "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
@@ -289,10 +349,10 @@
    "group": "OL",
    "grade": 4.8,
    "grade_source": "editor",
-   "stats_grade": null,
+   "stats_grade": 5.5,
    "fan_votes": 0,
    "fan_grade": null,
-   "box_score_line": "",
+   "box_score_line": "64 offensive snaps (100%); line: 3 sacks allowed, 4.9 yds/carry, 6 team penalties",
    "method_url": "https://blackandgolddispatch.com/GRADES.md",
    "source": {
     "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
@@ -309,10 +369,10 @@
    "group": "OL",
    "grade": 8.0,
    "grade_source": "editor",
-   "stats_grade": null,
+   "stats_grade": 5.5,
    "fan_votes": 0,
    "fan_grade": null,
-   "box_score_line": "",
+   "box_score_line": "64 offensive snaps (100%); line: 3 sacks allowed, 4.9 yds/carry, 6 team penalties",
    "method_url": "https://blackandgolddispatch.com/GRADES.md",
    "source": {
     "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
@@ -373,6 +433,26 @@
    "fan_votes": 0,
    "fan_grade": null,
    "box_score_line": "3 tkl, 2 TFL, 1 PD",
+   "method_url": "https://blackandgolddispatch.com/GRADES.md",
+   "source": {
+    "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
+    "url": "https://blackandgolddispatch.com/#/heatmap"
+   }
+  },
+  {
+   "id": "6637ad06da422668",
+   "type": "player_grade",
+   "week": 7,
+   "game": "at New Orleans Saints",
+   "player": "Kevin Jobity Jr.",
+   "position": "DE",
+   "group": "DL",
+   "grade": 5.0,
+   "grade_source": "stats",
+   "stats_grade": 5.0,
+   "fan_votes": 0,
+   "fan_grade": null,
+   "box_score_line": "5 defense snaps (9%), no box-score stats",
    "method_url": "https://blackandgolddispatch.com/GRADES.md",
    "source": {
     "name": "Black & Gold Dispatch (derived from nflverse weekly stats, CC-BY 4.0)",
