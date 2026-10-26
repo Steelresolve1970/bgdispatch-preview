@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T21:33:59.870183+00:00",
+ "generated": "2026-10-26T21:48:57.265135+00:00",
  "count": 150,
  "sources": [
   {
@@ -29,8 +29,8 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "ok",
-   "steelers_items": 24
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "steelers_items": 0
   },
   {
    "source": "Still Curtain",
@@ -107,6 +107,22 @@
  ],
  "items": [
   {
+   "title": "Trade talk: Garrett Wilson",
+   "source": "Steelers Depot",
+   "link": "https://steelersdepot.com/2026/10/analyst-proposes-steelers-trade-first-round-pick-for-wr-garrett-wilson/",
+   "published": "2026-10-26T21:45:17+00:00",
+   "summary": "Steelers Depot covers trade talk involving Garrett Wilson, touching on the Steelers' receivers. Read the full story at Steelers Depot.",
+   "id": "23c4dff14b"
+  },
+  {
+   "title": "Browns game preview: what to know",
+   "source": "Steelers Now",
+   "link": "https://steelersnow.com/steelers-open-as-favorites-for-week-8-rematch-vs-browns/",
+   "published": "2026-10-26T21:43:19+00:00",
+   "summary": "Steelers Now looks ahead to the game, with a focus on the Steelers and the Browns. Up next for the Steelers: the Browns, in Week 8. Read the full story at Steelers Now.",
+   "id": "7efa1fef7a"
+  },
+  {
    "title": "Perspective: Steelers",
    "source": "Steelers Depot",
    "link": "https://steelersdepot.com/2026/10/listen-the-terrible-take-episode-2062/",
@@ -121,6 +137,15 @@
    "published": "2026-10-26T21:27:10+00:00",
    "summary": "Pittsburgh Post-Gazette has a new story on Jaylen Warren and Rico Dowdle. Read the full story at Pittsburgh Post-Gazette.",
    "id": "4498d44e10"
+  },
+  {
+   "title": "Browns game preview: what to know (Heavy.com)",
+   "source": "Heavy.com",
+   "link": "https://heavy.com/sports/nfl/pittsburgh-steelers/browns-rivalry-nfl-news-mike-mccarthy-dixon/",
+   "published": "2026-10-26T21:18:39+00:00",
+   "via": "Google News",
+   "summary": "Heavy.com looks ahead to the game, with a focus on the Steelers and the Browns. Up next for the Steelers: the Browns, in Week 8. Read the full story at Heavy.com.",
+   "id": "683113563b"
   },
   {
    "title": "Update: Steelers",
@@ -170,15 +195,6 @@
    "published": "2026-10-26T20:53:48+00:00",
    "summary": "PennLive (Nick Farabaugh) rounds up comments and reaction involving the Steelers, touching on the Steelers' receivers. Read the full story at PennLive (Nick Farabaugh).",
    "id": "7cd0e737c2"
-  },
-  {
-   "title": "Browns game preview: what to know",
-   "source": "Heavy.com",
-   "link": "https://heavy.com/sports/nfl/pittsburgh-steelers/browns-rivalry-nfl-news-mike-mccarthy-dixon/",
-   "published": "2026-10-26T20:49:09+00:00",
-   "via": "Google News",
-   "summary": "Heavy.com looks ahead to the game, with a focus on the Steelers and the Browns. Up next for the Steelers: the Browns, in Week 8. Read the full story at Heavy.com.",
-   "id": "683113563b"
   },
   {
    "title": "Reaction: DeShon Elliott and Mike McCarthy",
@@ -578,15 +594,6 @@
    "writer": "ai"
   },
   {
-   "title": "Darnell Washington dominates",
-   "source": "Steelers Depot",
-   "link": "https://steelersdepot.com/2026/10/brian-baldinger-jokes-theres-only-one-way-to-stop-darnell-washington-on-the-goal-line/",
-   "published": "2026-10-26T16:15:15+00:00",
-   "summary": "Darnell Washington made a play in the end zone. He overpowered a defender. Read the full story at Steelers Depot.",
-   "id": "46db2bbea3",
-   "writer": "ai"
-  },
-  {
    "title": "Steelers defense faces challenge",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/pittsburgh-steelers-defense-too-much-riding-on-jalen-ramsey-01m5w99027tn?utm_source=RSS",
@@ -713,14 +720,6 @@
    "id": "77f6ad8a35"
   },
   {
-   "title": "Game review: takeaways",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/26/steelers-takeaways-defense-and-running-game-deliver-another-victory-in-paris/",
-   "published": "2026-10-26T13:35:33+00:00",
-   "summary": "Steel City Underground looks back at the game, with a focus on the Steelers, touching on the Steelers' run game and the Steelers' defense. Read the full story at Steel City Underground.",
-   "id": "da451f7798"
-  },
-  {
    "title": "Steelers offense still struggles",
    "source": "Steelers Now",
    "link": "https://steelersnow.com/would-a-brian-thomas-jr-trade-make-sense-for-steelers/",
@@ -820,15 +819,6 @@
    "published": "2026-10-26T11:52:03+00:00",
    "summary": "Aaron Rodgers discusses NFL international games. He shares his thoughts on management. Read the full story at PennLive (Nick Farabaugh).",
    "id": "8127a79837",
-   "writer": "ai"
-  },
-  {
-   "title": "Steelers defense makes key play",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/26/payton-wilsons-interception-stops-saints-second-half-scoring-threat/",
-   "published": "2026-10-26T11:46:13+00:00",
-   "summary": "The Steelers defense stopped a Saints scoring threat. The defense helped the team win. Read the full story at Steel City Underground.",
-   "id": "1edb3d9827",
    "writer": "ai"
   },
   {
@@ -1044,15 +1034,6 @@
    "published": "2026-10-25T19:08:36+00:00",
    "summary": "Steelers performance against the Saints is evaluated. Read the full story at Pittsburgh Post-Gazette.",
    "id": "5ca6f9c310",
-   "writer": "ai"
-  },
-  {
-   "title": "Steelers trip to Paris discussed",
-   "source": "Steelers Now",
-   "link": "https://steelersnow.com/aaron-rodgers-rips-nfl-owners-for-being-cheap/",
-   "published": "2026-10-25T19:08:22+00:00",
-   "summary": "Aaron Rodgers comments on team travel. The Steelers were in Paris. Read the full story at Steelers Now.",
-   "id": "be913653fb",
    "writer": "ai"
   },
   {
@@ -1303,15 +1284,6 @@
    "writer": "ai"
   },
   {
-   "title": "Steelers news recap",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/25/scu-week-in-review-october-25th-2/",
-   "published": "2026-10-25T10:40:18+00:00",
-   "summary": "Steel City Underground recaps the week's articles and videos. Read the full story at Steel City Underground.",
-   "id": "1fad850306",
-   "writer": "ai"
-  },
-  {
    "title": "Steelers player not from France",
    "source": "Steelers.com (official)",
    "link": "https://www.steelers.com/news/asked-and-answered-oct-25-x9987",
@@ -1434,6 +1406,34 @@
    "published": "2026-10-24T15:05:42+00:00",
    "summary": "DeShon Elliott returns to the Steelers. He has not played in a while. Read the full story at TribLive.",
    "id": "06d0137ee5",
+   "writer": "ai"
+  },
+  {
+   "title": "Steelers travel to Paris",
+   "source": "Pittsburgh Post-Gazette",
+   "link": "https://www.post-gazette.com/sports/steelers/2026/10/24/nfl-paris-game-steelers-travel/stories/202610240010",
+   "published": "2026-10-24T15:00:49+00:00",
+   "summary": "The Steelers trip to Paris is discussed. Read the full story at Pittsburgh Post-Gazette.",
+   "id": "da412f102a",
+   "writer": "ai"
+  },
+  {
+   "title": "Steelers make adjustments",
+   "source": "All Steelers (Sports Illustrated)",
+   "link": "https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-elevate-two-wide-receivers-saints-game",
+   "published": "2026-10-24T14:55:23+00:00",
+   "summary": "The Steelers elevated two wide receivers for a game. Read the full story at All Steelers (Sports Illustrated).",
+   "via": "Google News",
+   "id": "f7f8b727db",
+   "writer": "ai"
+  },
+  {
+   "title": "Steelers rookie supports hometown team",
+   "source": "TribLive",
+   "link": "https://triblive.com/sports/steelers-rookie-riley-nowakowski-backs-his-hometown-brewers-in-world-series-even-in-paris/",
+   "published": "2026-10-24T14:54:26+00:00",
+   "summary": "Riley Nowakowski backs his hometown Brewers in the World Series. Read the full story at TribLive.",
+   "id": "c30039c571",
    "writer": "ai"
   }
  ],
