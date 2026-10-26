@@ -1,6 +1,6 @@
 # Steelers Film Room & Previews
 
-_Generated 2026-10-26T22:04:41+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T22:04:04+00:00._
+_Generated 2026-10-26T22:17:02+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T22:16:16+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/film.json_
 
 - Breakdown (at New Orleans Saints (Oct 25)): [Film study: the Steelers' special teams](https://steelersdepot.com/2026/10/film-room-steelers-run-flawless-special-teams-fire-drill-to-net-three-crucial-points/): Alex Kozora (Steelers Depot), 2026-10-26 13:30 UTC
