@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-26T12:35:14+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T12:34:55+00:00._
+_Generated 2026-10-26T13:01:48+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T13:00:57+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [Steelers' Aaron Rodgers Farewell Tour Has Finally Begun](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-26 12:18 UTC
