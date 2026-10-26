@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-26T23:04:45+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T23:03:04+00:00._
+_Generated 2026-10-26T23:16:18+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T23:15:09+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Closer look: Aaron Rodgers and the Steelers' quarterback situation](https://www.espn.com/nfl/story/_/id/50252261/nfl-week-7-fashionable-arrivals): ESPN, 2026-10-26 23:53 UTC
@@ -32,6 +32,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Update: Steelers (Still Curtain)](https://stillcurtain.com/pittsburgh-steelers-big-man-in-the-middle-is-quietly-having-a-massive-breakout-season-01m5w9pjfbpd?utm_source=RSS): Still Curtain, 2026-10-26 20:00 UTC
 - [Update: Steelers (Steelers.com (official))](https://www.steelers.com/news/bands-of-big-brothers): Steelers.com (official), 2026-10-26 20:00 UTC
 - [Update: Mike McCarthy (Steelers Now)](https://steelersnow.com/steelers-hc-mike-mccarthy-makes-his-cleveland-feelings-clear/): Steelers Now, 2026-10-26 19:57 UTC
+- [Saints game review: the international game](https://triblive.com/sports/5-things-we-learned-from-steelers-win-over-the-saints-in-paris/): TribLive, 2026-10-26 19:52 UTC
 - [Reaction: Max Iheanachor and Mike McCarthy](https://steelersdepot.com/2026/10/he-belongs-here-max-iheanachor-is-a-perfect-steeler-says-mike-mccarthy/): Steelers Depot, 2026-10-26 19:50 UTC
 - [Update: Jaylen Warren](https://steelersnow.com/hot-as-a-firecracker-jaylen-warren-continues-to-be-steelers-workhorse/): Steelers Now, 2026-10-26 19:48 UTC
 - [Reaction: Mike McCarthy and the Steelers' special teams](https://steelersdepot.com/2026/10/steelers-must-get-more-production-from-special-teams-mccarthy-says/): Steelers Depot, 2026-10-26 19:45 UTC
@@ -52,6 +53,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers show improvement](https://steelersdepot.com/2026/10/an-underrated-team-gregg-rosenthal-thinks-steelers-ceiling-is-getting-a-little-higher/): Steelers Depot, 2026-10-26 18:45 UTC
 - [Steelers defense shows improvement](https://steelersdepot.com/2026/10/missed-tackles-report-steelers-at-saints/): Steelers Depot, 2026-10-26 18:30 UTC
 - [Steelers face new problem](https://www.steelernation.com/2026/10/26/steelers-likely-massive-issue): SteelerNation, 2026-10-26 18:27 UTC
+- [Browns game preview: Mike McCarthy](https://triblive.com/sports/watch-steelers-coach-mike-mccarthy-previews-week-8-matchup-with-browns/): TribLive, 2026-10-26 18:19 UTC
 - [Steelers pass defense needs improvement](https://steelersdepot.com/2026/10/have-to-figure-out-our-pass-defense-former-steelers-share-top-concern/): Steelers Depot, 2026-10-26 18:15 UTC
 - [NFL playoff forecast](https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/): The Athletic, 2026-10-26 18:05 UTC
 - [Aaron Rodgers talks recent game](https://www.nfl.com/videos/aaron-rodgers-and-payton-wilson-reflect-on-win-over-saints-in-paris): NFL.com, 2026-10-26 17:59 UTC
@@ -87,11 +89,9 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers playoff simulator available](https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/pittsburgh-steelers-season-projections/): The New York Times, 2026-10-26 12:55 UTC
 - [Steelers news and links](https://steelersnow.com/steelers-daily-news-links-aaron-rodgers-iced-out-insane-jaylen-warren-stat/): Steelers Now, 2026-10-26 12:12 UTC
 - [Steelers dominate Saints](https://stillcurtain.com/the-pittsburgh-steelers-run-defense-wasn-t-just-elite-in-week-7-it-was-historic-01m5v2673a3f?utm_source=RSS): Still Curtain, 2026-10-26 12:00 UTC
-- [Closer look: the Steelers' secondary](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-no-longer-avoid-cornerback-troubles): All Steelers (Sports Illustrated), 2026-10-26 12:00 UTC
 - [Rodgers criticizes league management](https://www.pennlive.com/steelers/2026/10/aaron-rodgers-doesnt-hold-back-on-nfls-international-game-management-wish-there-was-a-mandate.html): PennLive (Nick Farabaugh), 2026-10-26 11:52 UTC
 - [Steelers defense makes key play](https://www.steelcityunderground.com/2026/10/26/payton-wilsons-interception-stops-saints-second-half-scoring-threat/): Steel City Underground, 2026-10-26 11:46 UTC
 - [Saints fans react to loss](https://triblive.com/sports/steelers-vs-saints-what-theyre-saying-in-new-orleans-after-loss-2/): TribLive, 2026-10-26 11:34 UTC
-- [Tomlin backs coaching decision](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-tomlin-supports-dan-campbells-late-fourth-down-decision): ProFootballTalk (NBC), 2026-10-26 10:32 UTC
 - [Steelers get help from Aaron Rodgers](https://www.si.com/nfl/steelers/onsi/how-aaron-rodgers-helped-payton-wilson-crucial-play-pittsburgh-steelers-win): All Steelers (Sports Illustrated), 2026-10-26 10:00 UTC
 - [Steelers find success with old approach](https://stillcurtain.com/pittsburgh-steelers-cracked-the-code-against-the-saints-with-old-school-football-01m5t05pf7tb?utm_source=RSS): Still Curtain, 2026-10-26 10:00 UTC
 - [Steelers earn victory overseas](https://triblive.com/sports/madden-monday-steelers-win-in-paris-was-too-tomlin-y/): TribLive, 2026-10-26 10:00 UTC
