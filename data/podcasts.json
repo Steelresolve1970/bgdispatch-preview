@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T00:57:12.245809+00:00",
+ "generated": "2026-10-26T01:08:05.678384+00:00",
  "date_et": "2026-10-25",
  "days": 5,
  "display_days": 2,
@@ -18,10 +18,10 @@
    "show": "Locked On Steelers",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7JorgD8nGLtvvMy1ogFetg",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 8,
-   "latest": null
+   "latest": "2026-10-25T22:00:06+00:00"
   },
   {
    "show": "The Terrible Podcast (Steelers Depot)",
@@ -81,10 +81,10 @@
    "show": "Still Curtain Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxjSNPLcRAVzDKOjhRwo-hQ",
-   "status": "error: HTTP Error 500: Internal Server Error",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 1,
-   "latest": null
+   "latest": "2026-10-22T06:58:28+00:00"
   },
   {
    "show": "Steel City Underground",
@@ -153,10 +153,10 @@
    "show": "Steelers Now",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp1iAMIfmmgWewzJ07_Y7oA",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 15,
-   "latest": null
+   "latest": "2026-10-25T19:32:28+00:00"
   },
   {
    "show": "The Steel City Insider (Jim Wexell, 247Sports)",
@@ -189,10 +189,10 @@
    "show": "Nick Farabaugh on PennLive",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5yvng1eSgffmybUM-51fTw",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 1,
    "week": 1,
-   "latest": null
+   "latest": "2026-10-24T18:08:40+00:00"
   },
   {
    "show": "Pittsburgh Steelers (official)",
@@ -216,10 +216,10 @@
    "show": "Not Just Football with Cam Heyward",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8hodyaoiw297aspKf9QVDA",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 7,
-   "latest": null
+   "latest": "2026-10-25T19:36:25+00:00"
   },
   {
    "show": "Footbahlin with Ben Roethlisberger",
@@ -243,10 +243,10 @@
    "show": "The Christian Kuntz Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKKBJcOGsYmwAATQv-xQYeA",
-   "status": "error: HTTP Error 500: Internal Server Error",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 0,
-   "latest": null
+   "latest": "2009-05-26T14:01:33+00:00"
   }
  ],
  "items": [
@@ -318,7 +318,7 @@
    "title": "Live Shot of Steelers: Postgame vs. Saints",
    "show": "DK Pittsburgh Sports",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/id1072021022",
+   "link": "https://podcasts.apple.com/us/podcast/live-shot-of-steelers-postgame-vs-saints/id1072021022?i=1000798056594",
    "published": "2026-10-25T19:05:00+00:00",
    "summary": "Podcast episode from DK Pittsburgh Sports."
   },
@@ -1182,14 +1182,7 @@
    "summary": "Podcast episode from Steel Curtain Network (BTSC)."
   }
  ],
- "yt_channels": [
-  {
-   "show": "The Christian Kuntz Podcast",
-   "channel_id": "UCKKBJcOGsYmwAATQv-xQYeA",
-   "link": "https://www.youtube.com/channel/UCKKBJcOGsYmwAATQv-xQYeA",
-   "embed": "https://www.youtube-nocookie.com/embed/videoseries?list=UUKKBJcOGsYmwAATQv-xQYeA"
-  }
- ],
+ "yt_channels": [],
  "postgame": {
   "game": "2026_07_PIT_NO",
   "week": "Week 7",
@@ -1251,7 +1244,7 @@
     "title": "Live Shot of Steelers: Postgame vs. Saints",
     "show": "DK Pittsburgh Sports",
     "kind": "podcast",
-    "link": "https://podcasts.apple.com/us/podcast/id1072021022",
+    "link": "https://podcasts.apple.com/us/podcast/live-shot-of-steelers-postgame-vs-saints/id1072021022?i=1000798056594",
     "published": "2026-10-25T19:05:00+00:00",
     "summary": "Podcast episode from DK Pittsburgh Sports."
    }

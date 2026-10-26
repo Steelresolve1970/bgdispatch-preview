@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-26T00:57:30+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T00:57:12+00:00._
+_Generated 2026-10-26T01:08:32+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T01:08:05+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Darnell takin over Paris 😤](https://www.youtube.com/shorts/Frs4q46PolI): Pittsburgh Steelers (official), 2026-10-25 23:09 UTC
@@ -10,7 +10,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Coach McCarthy, Payton Wilson & Aaron Rodgers Postgame Press Conference (Week 7 at Saints)](https://www.youtube.com/watch?v=AZSrBqY3onk): Pittsburgh Steelers (official), 2026-10-25 19:48 UTC
 - Video: [Steelers vs Saints Post Game Show IN PARIS LIVE | Not Just Football](https://www.youtube.com/watch?v=Hqk9fZcumbs): Not Just Football with Cam Heyward, 2026-10-25 19:36 UTC
 - Video: [Steelers Now Postgame: Steelers 16, Saints 10](https://www.youtube.com/watch?v=Jo2AvG_tHS4): Steelers Now, 2026-10-25 19:32 UTC
-- Podcast: [Live Shot of Steelers: Postgame vs. Saints](https://podcasts.apple.com/us/podcast/id1072021022): DK Pittsburgh Sports, 2026-10-25 19:05 UTC
+- Podcast: [Live Shot of Steelers: Postgame vs. Saints](https://podcasts.apple.com/us/podcast/live-shot-of-steelers-postgame-vs-saints/id1072021022?i=1000798056594): DK Pittsburgh Sports, 2026-10-25 19:05 UTC
 - Video: [Steelers vs Saints Post Game Show IN PARIS LIVE | Not Just Football](https://www.youtube.com/watch?v=3cEWtad5nFI): Not Just Football with Cam Heyward, 2026-10-25 18:34 UTC
 - Video: [Oui did that‼️](https://www.youtube.com/shorts/gkYiQKTK4bE): Pittsburgh Steelers (official), 2026-10-25 18:13 UTC
 - Video: [DUB IN PARIS 🗣️](https://www.youtube.com/shorts/52EPBrMefCM): Pittsburgh Steelers (official), 2026-10-25 17:58 UTC

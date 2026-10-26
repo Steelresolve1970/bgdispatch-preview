@@ -1,9 +1,10 @@
 # Steelers News
 
-_Generated 2026-10-26T00:57:30+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T00:56:06+00:00._
+_Generated 2026-10-26T01:08:32+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T01:07:46+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Rodgers now alone with 3rd-most TD passes as Steelers win 1st Paris game](https://www.espn.com/nfl/story/_/id/50277960/rodgers-throws-historic-td-pass-steelers-win-1st-paris-game): ESPN, 2026-10-26 01:14 UTC
+- [Steelers' Patrick Queen Explains Exactly How Pittsburgh Shut Down The Saints](https://www.steelernation.com/2026/10/25/steelers-queen-exactly-pittsburgh-saints): SteelerNation, 2026-10-26 00:57 UTC
 - [Steelers stay put in AFC playoff picture after win over Saints](https://www.behindthesteelcurtain.com/pittsburgh-steelers-nfl-playoffs/176889/steelers-stay-put-in-afc-playoff-picture-after-win-over-saints): Behind the Steel Curtain, 2026-10-26 00:40 UTC
 - [Labriola on the win over the Saints](https://www.steelers.com/news/labriola-on-the-win-over-the-saints-x8898): Steelers.com (official), 2026-10-26 00:40 UTC
 - [Positional Grades: Steelers At Saints](https://steelersdepot.com/2026/10/positional-grades-steelers-at-saints/): Steelers Depot, 2026-10-26 00:00 UTC
@@ -34,7 +35,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Aaron Rodgers Calls On NFL To Make ‘Mandate’ For International Games](https://steelersdepot.com/2026/10/aaron-rodgers-calls-on-nfl-to-make-mandate-for-international-games/): Steelers Depot, 2026-10-25 19:46 UTC
 - [‘Played A Really Good Game’: Saints LB Describes One ‘Advantage’ Aaron Rodgers Had On Sunday](https://steelersdepot.com/2026/10/played-a-really-good-game-saints-lb-describes-one-advantage-aaron-rodgers-had-on-sunday/): Steelers Depot, 2026-10-25 19:45 UTC
 - [Kurt Warner Addresses Controversial Comment Towards The Steelers During Paris Broadcast](https://www.steelernation.com/2026/10/25/steelers-kurt-warner-controversial-paris): SteelerNation, 2026-10-25 19:41 UTC
-- [Saints rush for just 18 yards in 16-10 loss to Steelers to spoil their Paris week](https://www.bozemandailychronicle.com/wire/sports/saints-rush-for-just-18-yards-in-16-10-loss-to-steelers-to-spoil-their/article_1be69f82-b308-50fd-9cb5-a18e0e324e09.html): Bozeman Daily Chronicle, 2026-10-25 19:34 UTC
 - [‘Go Be Y’all’: Patrick Queen Explains How Elandon Roberts Motivated Steelers ILBs](https://steelersdepot.com/2026/10/go-be-yall-patrick-queen-explains-how-elandon-roberts-motivated-steelers-ilbs/): Steelers Depot, 2026-10-25 19:30 UTC
 - [Feats of Strength: Aaron Rodgers’ footwork, combos at ILB, RB power Steelers to win in Paris](https://triblive.com/sports/feats-of-strength-aaron-rodgers-footwork-combos-at-ilb-rb-power-steelers-to-win-in-paris/): TribLive, 2026-10-25 19:24 UTC
 - [Steelers' Aaron Rodgers Delivers Harsh Assessment Despite Win Over Saints](https://www.steelernation.com/2026/10/25/steelers-rodgers-harsh-assessment-saints): SteelerNation, 2026-10-25 19:20 UTC
@@ -42,7 +42,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Aaron Rodgers Rips NFL Owners for Being Cheap](https://steelersnow.com/aaron-rodgers-rips-nfl-owners-for-being-cheap/): Steelers Now, 2026-10-25 19:08 UTC
 - [Watch: Steelers Vs Saints Reaction](https://steelersdepot.com/2026/10/watch-steelers-vs-saints-reaction/): Steelers Depot, 2026-10-25 19:05 UTC
 - [Steelers' Payton Wilson Reveals Key Detail Behind Crucial Interception Versus Saints](https://www.steelernation.com/2026/10/25/steelers-payton-wilson-crucial-interception): SteelerNation, 2026-10-25 19:05 UTC
-- [Steelers' Jaylen Warren Reveals Important Weakness Pittsburgh Exploited Against Saints](https://www.steelernation.com/2026/10/25/steelers-warren-important-weakness-exploited): SteelerNation, 2026-10-25 18:41 UTC
 - [Howe It Happened: Steelers LB Payton Wilson Picks Off Saints, Finally Shows Coverage Potential](https://steelersnow.com/howe-it-happened-steelers-lb-payton-wilson-picks-off-saints-finally-shows-coverage-potential/): Steelers Now, 2026-10-25 18:39 UTC
 - [‘That Was the Goal’: Steelers Knew They Could Run All Over Saints](https://steelersnow.com/that-was-the-goal-steelers-knew-they-could-run-all-over-saints/): Steelers Now, 2026-10-25 18:34 UTC
 - [Tom’s Ten Takes – Steelers Vs. Saints](https://steelersdepot.com/2026/10/toms-ten-takes-steelers-vs-saints-2/): Steelers Depot, 2026-10-25 18:20 UTC
@@ -108,6 +107,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Asked and Answered: Oct. 25](https://www.steelers.com/news/asked-and-answered-oct-25-x9987): Steelers.com (official), 2026-10-25 10:05 UTC
 - [How to watch Steelers vs. Saints](https://www.behindthesteelcurtain.com/pittsburgh-steelers-game-information/176852/how-to-watch-steelers-vs-saints): Behind the Steel Curtain, 2026-10-25 10:00 UTC
 - [Steelers vs. Bucs Full Game Highlights | Tampa Bay Falls 26-19 (OT)](https://www.buccaneers.com/video/full-game-highlights-steelers-bucs-loss-score-26-19-week-6): Tampa Bay Buccaneers, 2026-10-25 09:34 UTC
+- [How to watch today's Pittsburgh Steelers vs. New Orleans Saints international game being played in Paris](https://www.cbsnews.com/pittsburgh/news/how-to-watch-today-pittsburgh-steelers-new-orleans-saints-paris-france-week-7-nfl-schedule/): CBS News, 2026-10-25 09:00 UTC
 - [Steelers at Saints in Paris: How to watch/listen to the game](https://www.steelers.com/news/steelers-at-saints-in-paris-how-to-watch-listen-to-the-game): Steelers.com (official), 2026-10-25 09:00 UTC
 - [Steelers-Saints scouting report: Aaron Rodgers, Jaylen Warren could be in for big days](https://www.post-gazette.com/sports/steelers/2026/10/25/steelers-saints-paris-aaron-rodgers-jaylen-warren/stories/202610250056): Pittsburgh Post-Gazette, 2026-10-25 08:00 UTC
 - [Gerry Dulac’s 2026 NFL predictions: Week 7](https://www.post-gazette.com/sports/steelers/2026/10/25/nfl-picks-predictions-week7/stories/202610220041): Pittsburgh Post-Gazette, 2026-10-25 08:00 UTC
