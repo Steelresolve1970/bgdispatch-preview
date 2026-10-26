@@ -1,8 +1,10 @@
 # Steelers News
 
-_Generated 2026-10-26T20:39:42+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T20:39:06+00:00._
+_Generated 2026-10-26T20:50:44+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T20:50:03+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Reaction: DeShon Elliott and Mike McCarthy](https://steelersdepot.com/2026/10/deshon-elliott-cleared-first-hurdle-in-limited-return-mike-mccarthy-says/): Steelers Depot, 2026-10-26 20:45 UTC
+- [Closer look: Mike McCarthy, DeShon Elliott and the Steelers' secondary](https://steelersnow.com/mike-mccarthy-reveals-plan-for-steelers-safety-deshon-elliott/): Steelers Now, 2026-10-26 20:45 UTC
 - [Closer look: Kaden Wetjen and rookies](https://steelersdepot.com/2026/10/steelers-st-coach-rookie-returner-kaden-wetjen-starting-to-see-some-things-a-little-bit-better/): Steelers Depot, 2026-10-26 20:30 UTC
 - [Update: Steelers-Ravens](https://www.steelernation.com/2026/10/26/steelers-ravens-intriguing-defender): SteelerNation, 2026-10-26 20:26 UTC
 - [Saints game review: how it was won](https://sports.yahoo.com/articles/recap-saints-play-steelers-inaugural-201902138.html): Yahoo Sports, 2026-10-26 20:19 UTC
@@ -55,7 +57,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Closer look: the AFC North race](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176928/steelers-news-the-afc-north-is-a-dogfight): Behind the Steel Curtain, 2026-10-26 15:19 UTC
 - [Mike McCarthy talks about Browns](https://steelersnow.com/mccarthy-seeks-payback-on-the-browns/): Steelers Now, 2026-10-26 15:18 UTC
 - [Steelers show encouraging signs](https://steelersdepot.com/2026/10/bill-cowher-sees-steelers-establishing-identity-through-old-school-style-of-football/): Steelers Depot, 2026-10-26 15:15 UTC
-- [Steelers win on road again](https://steelersdepot.com/2026/10/pittsburgh-steelers-week-7-pff-grades-run-it-and-stuff-it/): Steelers Depot, 2026-10-26 15:03 UTC
 - [Steelers evaluate quarterback prospects](https://stillcurtain.com/pittsburgh-steelers-new-reason-question-2027-qb-draft-class-01m5w5mp43v2?utm_source=RSS): Still Curtain, 2026-10-26 15:02 UTC
 - [Steelers defense performs well](https://www.post-gazette.com/sports/steelers/2026/10/26/steelers-defense-nfl-paris-game/stories/202610260024): Pittsburgh Post-Gazette, 2026-10-26 15:00 UTC
 - [Steelers win game in Paris](https://www.upi.com/Sports_News/Photos/NFL-Pittsburgh-Steelers-defeat-New-Orleans-Saints-in-Paris/17018/): UPI.com, 2026-10-26 15:00 UTC
@@ -106,7 +107,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers offense and defense shine](https://www.post-gazette.com/sports/steelers/2026/10/25/steelers-report-card-saints-week7/stories/202610250084): Pittsburgh Post-Gazette, 2026-10-25 19:08 UTC
 - [Steelers trip to Paris discussed](https://steelersnow.com/aaron-rodgers-rips-nfl-owners-for-being-cheap/): Steelers Now, 2026-10-25 19:08 UTC
 - [Steelers beat Saints](https://www.si.com/nfl/steelers/onsi/6-winners-3-losers-pittsburgh-steelers-win-saints): All Steelers (Sports Illustrated), 2026-10-25 18:40 UTC
-- [Steelers defense holds strong](https://steelersnow.com/howe-it-happened-steelers-lb-payton-wilson-picks-off-saints-finally-shows-coverage-potential/): Steelers Now, 2026-10-25 18:39 UTC
 - [Steelers face challenges to contend](https://stillcurtain.com/kurt-warner-says-quiet-part-out-loud-pittsburgh-steelers-shot-contending-01m5symaqwxk?utm_source=RSS): Still Curtain, 2026-10-25 18:14 UTC
 - [Steelers honor player](https://www.steelers.com/news/rodgers-is-steelers-player-of-the-week): Steelers.com (official), 2026-10-25 17:52 UTC
 - [Steelers game had tough officiating](https://www.si.com/nfl/steelers/onsi/referee-grades-pittsburgh-steelers-saints-tough-watch): All Steelers (Sports Illustrated), 2026-10-25 17:47 UTC
