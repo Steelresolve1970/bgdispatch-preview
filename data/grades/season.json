@@ -224,17 +224,19 @@
     },
     {
      "week": 7,
-     "avg": 8.0,
-     "source": "stats"
+     "avg": 7.5,
+     "source": "editor"
     }
    ],
    "votes": 0,
    "involvement": 48.0,
-   "avg": 6.9,
+   "avg": 6.78,
    "games": 4,
    "source": "stats",
-   "editor_weeks": [],
-   "trend": 1.1
+   "editor_weeks": [
+    7
+   ],
+   "trend": 0.6
   },
   {
    "name": "Riley Nowakowski",
@@ -1019,21 +1021,22 @@
     },
     {
      "week": 7,
-     "avg": 6.2,
-     "source": "stats"
+     "avg": 8.0,
+     "source": "editor"
     }
    ],
    "votes": 0,
    "involvement": 34.0,
-   "avg": 6.91,
+   "avg": 7.17,
    "games": 7,
    "source": "stats",
    "editor_weeks": [
     1,
     2,
-    4
+    4,
+    7
    ],
-   "trend": -0.4
+   "trend": 1.4
   },
   {
    "name": "Derrick Harmon",
@@ -1086,17 +1089,19 @@
     },
     {
      "week": 7,
-     "avg": 5.8,
-     "source": "stats"
+     "avg": 7.2,
+     "source": "editor"
     }
    ],
    "votes": 0,
    "involvement": 6.0,
-   "avg": 5.83,
+   "avg": 6.3,
    "games": 3,
    "source": "stats",
-   "editor_weeks": [],
-   "trend": 0.1
+   "editor_weeks": [
+    7
+   ],
+   "trend": 1.5
   },
   {
    "name": "Keeanu Benton",
@@ -1135,17 +1140,19 @@
     },
     {
      "week": 7,
-     "avg": 7.1,
-     "source": "stats"
+     "avg": 8.5,
+     "source": "editor"
     }
    ],
    "votes": 0,
    "involvement": 23.0,
-   "avg": 6.39,
+   "avg": 6.59,
    "games": 7,
    "source": "stats",
-   "editor_weeks": [],
-   "trend": 0.0
+   "editor_weeks": [
+    7
+   ],
+   "trend": 1.4
   },
   {
    "name": "Sebastian Joseph-Day",
@@ -1228,17 +1235,19 @@
     },
     {
      "week": 7,
-     "avg": 6.5,
-     "source": "stats"
+     "avg": 8.1,
+     "source": "editor"
     }
    ],
    "votes": 0,
    "involvement": 21.7,
-   "avg": 6.16,
+   "avg": 6.39,
    "games": 7,
    "source": "stats",
-   "editor_weeks": [],
-   "trend": -0.9
+   "editor_weeks": [
+    7
+   ],
+   "trend": 0.7
   },
   {
    "name": "Alex Highsmith",
