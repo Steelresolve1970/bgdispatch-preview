@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-26T14:19:43+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T14:18:33+00:00._
+_Generated 2026-10-26T14:30:47+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T14:30:26+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [The Steelers Are ONE MOVE Away From Being Super Bowl Contenders?!](https://247sports.com/nfl/pittsburgh-steelers/): The Steel City Insider (Jim Wexell, 247Sports), 2026-10-26 14:05 UTC
@@ -113,7 +113,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [The Steelers Fix: Dream Scenario Trades for the Steelers before the Deadline](https://podcasts.apple.com/us/podcast/the-steelers-fix-dream-scenario-trades-for-the/id905962218?i=1000797805895): Steel Curtain Network (BTSC), 2026-10-21 15:30 UTC
 - Podcast: [Hour 1: Sticking it to the Saints](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-102126-mp3): Steelers Blitz, 2026-10-21 15:00 UTC
 - Podcast: [Steelers Big Plans at QB and WR](https://podcasts.apple.com/us/podcast/steelers-big-plans-at-qb-and-wr/id1627248534?i=1000797452829): All Steelers Talk, 2026-10-21 15:00 UTC
-- Video: [Steelers' COACHING Grades vs Bucs](https://www.youtube.com/shorts/lKtukfSt-DA): Steelers Almighty, 2026-10-21 14:23 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
