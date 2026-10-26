@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "rumors",
  "description": "Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).",
- "generated": "2026-10-26T03:42:48+00:00",
- "data_updated": "2026-10-26T03:42:41+00:00",
- "count": 37,
+ "generated": "2026-10-26T04:58:08+00:00",
+ "data_updated": "2026-10-26T04:58:02+00:00",
+ "count": 27,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -38,20 +38,14 @@
    "published": "2026-10-25T18:45:00+00:00",
    "people": [],
    "consensus": {
-    "cluster_id": "173465376593",
-    "independent_sources": 3,
+    "cluster_id": "5a6d9de5e61f",
+    "independent_sources": 1,
     "sources": [
-     "Bleacher Report",
-     "Wisconsin Sports Heroics",
-     "Yahoo Sports"
+     "Bleacher Report"
     ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": [
-     "85d6f65ebcd2",
-     "794b3684899f",
-     "173465376593"
-    ]
+    "highest_tier": "Aggregator / other",
+    "highest_tier_score": 1,
+    "related_ids": []
    }
   },
   {
@@ -290,20 +284,14 @@
     "Aaron Rodgers"
    ],
    "consensus": {
-    "cluster_id": "173465376593",
-    "independent_sources": 3,
+    "cluster_id": "85d6f65ebcd2",
+    "independent_sources": 1,
     "sources": [
-     "Bleacher Report",
-     "Wisconsin Sports Heroics",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
-    "related_ids": [
-     "5a6d9de5e61f",
-     "794b3684899f",
-     "173465376593"
-    ]
+    "related_ids": []
    }
   },
   {
@@ -869,318 +857,6 @@
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
-    "related_ids": []
-   }
-  },
-  {
-   "id": "220ffc62c292",
-   "type": "rumor",
-   "title": "Gerry Dulac Shuts Down Steelers Trade Rumors After Marquez Valdes-Scantling Signing",
-   "summary": "Trade/roster move story from Yahoo Sports. Full report at the original publisher.",
-   "url": "https://sports.yahoo.com/articles/gerry-dulac-shuts-down-steelers-223228013.html",
-   "source": {
-    "name": "Yahoo Sports",
-    "url": null,
-    "reliability_tier": "National insider",
-    "reliability_score": 4
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-21T23:23:49+00:00",
-   "updated": "2026-10-21T23:23:49+00:00",
-   "published": "2026-10-21T22:32:28+00:00",
-   "people": [],
-   "consensus": {
-    "cluster_id": "220ffc62c292",
-    "independent_sources": 1,
-    "sources": [
-     "Yahoo Sports"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": []
-   }
-  },
-  {
-   "id": "8646fc49f8e0",
-   "type": "rumor",
-   "title": "Steelers Rumors: Latest NFL Trade Intel on Jessie Bates and Derwin James",
-   "summary": "Trade/roster move story from Chat Sports. Full report at the original publisher.",
-   "url": "https://www.chatsports.com/pittsburgh-steelers/a/steelers-rumors-latest-nfl-trade-intel-jessie-bates-and-derwin-james-53472",
-   "source": {
-    "name": "Chat Sports",
-    "url": null,
-    "reliability_tier": "Fan blog",
-    "reliability_score": 2
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-21T22:30:10+00:00",
-   "updated": "2026-10-21T22:30:10+00:00",
-   "published": "2026-10-21T22:20:06+00:00",
-   "people": [],
-   "consensus": {
-    "cluster_id": "8646fc49f8e0",
-    "independent_sources": 1,
-    "sources": [
-     "Chat Sports"
-    ],
-    "highest_tier": "Fan blog",
-    "highest_tier_score": 2,
-    "related_ids": []
-   }
-  },
-  {
-   "id": "a47989cc3ca8",
-   "type": "rumor",
-   "title": "Elliott returns to full practice, full injury report",
-   "summary": "Injury story from Audacy. Full report at the original publisher.",
-   "url": "https://www.audacy.com/937thefan/sports/pittsburgh-steelers/elliott-returns-to-full-practice-full-injury-report",
-   "source": {
-    "name": "Audacy",
-    "url": null,
-    "reliability_tier": "Aggregator / other",
-    "reliability_score": 1
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-21T22:08:41+00:00",
-   "updated": "2026-10-21T22:08:41+00:00",
-   "published": "2026-10-21T21:54:00+00:00",
-   "people": [],
-   "consensus": {
-    "cluster_id": "a47989cc3ca8",
-    "independent_sources": 1,
-    "sources": [
-     "Audacy"
-    ],
-    "highest_tier": "Aggregator / other",
-    "highest_tier_score": 1,
-    "related_ids": []
-   }
-  },
-  {
-   "id": "28359084a15f",
-   "type": "rumor",
-   "title": "Steelers' Omar Khan Gets Strong Warning About Dangerous Trade Deadline Strategy",
-   "summary": "Trade/roster move story from SteelerNation. Full report at the original publisher.",
-   "url": "https://www.steelernation.com/2026/10/21/steelers-omar-khan-strong-warning",
-   "source": {
-    "name": "SteelerNation",
-    "url": null,
-    "reliability_tier": "Fan blog",
-    "reliability_score": 2
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-21T20:52:51+00:00",
-   "updated": "2026-10-21T20:52:51+00:00",
-   "published": "2026-10-21T20:43:51+00:00",
-   "people": [],
-   "consensus": {
-    "cluster_id": "28359084a15f",
-    "independent_sources": 1,
-    "sources": [
-     "SteelerNation"
-    ],
-    "highest_tier": "Fan blog",
-    "highest_tier_score": 2,
-    "related_ids": []
-   }
-  },
-  {
-   "id": "4249099cff4d",
-   "type": "rumor",
-   "title": "A new wide receiver trade rumor is picking up steam after the Steelers got an up-close look during recent matchup",
-   "summary": "Trade/roster move story from Yahoo Sports. Full report at the original publisher.",
-   "url": "https://sports.yahoo.com/articles/wide-receiver-trade-rumor-picking-172653112.html",
-   "source": {
-    "name": "Yahoo Sports",
-    "url": null,
-    "reliability_tier": "National insider",
-    "reliability_score": 4
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-26T02:11:34+00:00",
-   "updated": "2026-10-26T02:11:34+00:00",
-   "published": "2026-10-21T17:26:53+00:00",
-   "people": [],
-   "consensus": {
-    "cluster_id": "fac5ee1b7992",
-    "independent_sources": 2,
-    "sources": [
-     "A to Z Sports",
-     "Yahoo Sports"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": [
-     "fac5ee1b7992"
-    ]
-   }
-  },
-  {
-   "id": "6023736ee2c7",
-   "type": "rumor",
-   "title": "Fantasy Football Players Need To Target Steelers WR Germie Bernard On The Trade Block",
-   "summary": "Trade/roster move story from Sports Illustrated. Full report at the original publisher.",
-   "url": "https://www.si.com/onsi/fantasy/trade-analysis/fantasy-football-players-need-to-target-steelers-wr-germie-bernard-on-the-trade-block",
-   "source": {
-    "name": "Sports Illustrated",
-    "url": null,
-    "reliability_tier": "National insider",
-    "reliability_score": 4
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-21T17:46:08+00:00",
-   "updated": "2026-10-21T17:46:08+00:00",
-   "published": "2026-10-21T17:11:08+00:00",
-   "people": [],
-   "consensus": {
-    "cluster_id": "6023736ee2c7",
-    "independent_sources": 1,
-    "sources": [
-     "Sports Illustrated"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": []
-   }
-  },
-  {
-   "id": "b0a5eee622fd",
-   "type": "rumor",
-   "title": "Steelers Must Avoid This Veteran WR Trade Target",
-   "summary": "Trade/roster move story from Sports Illustrated. Full report at the original publisher.",
-   "url": "https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-must-avoid-veteran-trade-target-chris-godwin",
-   "source": {
-    "name": "Sports Illustrated",
-    "url": null,
-    "reliability_tier": "National insider",
-    "reliability_score": 4
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-21T16:33:53+00:00",
-   "updated": "2026-10-21T16:33:53+00:00",
-   "published": "2026-10-21T15:00:01+00:00",
-   "people": [],
-   "consensus": {
-    "cluster_id": "b0a5eee622fd",
-    "independent_sources": 2,
-    "sources": [
-     "Sports Illustrated",
-     "Yahoo Sports"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": [
-     "94b94f0f1d99"
-    ]
-   }
-  },
-  {
-   "id": "794b3684899f",
-   "type": "rumor",
-   "title": "Aaron Rodgers reportedly eyes Buccaneers WR as potential trade target for the Steelers",
-   "summary": "Trade/roster move story from Yahoo Sports. Full report at the original publisher.",
-   "url": "https://sports.yahoo.com/articles/aaron-rodgers-reportedly-eyes-buccaneers-114842350.html",
-   "source": {
-    "name": "Yahoo Sports",
-    "url": null,
-    "reliability_tier": "National insider",
-    "reliability_score": 4
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-21T13:05:41+00:00",
-   "updated": "2026-10-21T13:05:41+00:00",
-   "published": "2026-10-21T11:48:42+00:00",
-   "people": [
-    "Aaron Rodgers"
-   ],
-   "consensus": {
-    "cluster_id": "173465376593",
-    "independent_sources": 3,
-    "sources": [
-     "Bleacher Report",
-     "Wisconsin Sports Heroics",
-     "Yahoo Sports"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": [
-     "5a6d9de5e61f",
-     "85d6f65ebcd2",
-     "173465376593"
-    ]
-   }
-  },
-  {
-   "id": "1b9cf10893b1",
-   "type": "rumor",
-   "title": "First Call: Steelers’ WR trade speculation; Najee Harris out in New York; big hockey win for RMU at Penn State",
-   "summary": "Trade/roster move story from TribLive. Full report at the original publisher.",
-   "url": "https://triblive.com/sports/first-call-steelers-wr-trade-speculation-najee-harris-may-be-out-in-new-york-big-hockey-win-for-rmu-at-penn-state/",
-   "source": {
-    "name": "TribLive",
-    "url": null,
-    "reliability_tier": "Beat writer / team",
-    "reliability_score": 3
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-21T15:49:36+00:00",
-   "updated": "2026-10-21T15:49:36+00:00",
-   "published": "2026-10-21T10:07:00+00:00",
-   "people": [
-    "First Call",
-    "Najee Harris",
-    "New York",
-    "Penn State"
-   ],
-   "consensus": {
-    "cluster_id": "1b9cf10893b1",
-    "independent_sources": 2,
-    "sources": [
-     "TribLIVE.com",
-     "TribLive"
-    ],
-    "highest_tier": "Beat writer / team",
-    "highest_tier_score": 3,
-    "related_ids": [
-     "c774b8995598"
-    ]
-   }
-  },
-  {
-   "id": "c1595a5a26b6",
-   "type": "rumor",
-   "title": "Trade Rumors: 49ers, Mack, Godwin, Bucs, Steelers, Bills, Bennett, Rams",
-   "summary": "Trade/roster move story from ProFootballRumors.com. Full report at the original publisher.",
-   "url": "https://www.profootballrumors.com/2026/10/trade-rumors-49ers-mack-godwin-buccaneers-steelers-bills-bennett-rams",
-   "source": {
-    "name": "ProFootballRumors.com",
-    "url": null,
-    "reliability_tier": "Aggregator / other",
-    "reliability_score": 1
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-21T04:50:18+00:00",
-   "updated": "2026-10-21T04:50:18+00:00",
-   "published": "2026-10-21T04:02:01+00:00",
-   "people": [],
-   "consensus": {
-    "cluster_id": "c1595a5a26b6",
-    "independent_sources": 1,
-    "sources": [
-     "ProFootballRumors.com"
-    ],
-    "highest_tier": "Aggregator / other",
-    "highest_tier_score": 1,
     "related_ids": []
    }
   }

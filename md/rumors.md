@@ -1,9 +1,9 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-26T03:42:48+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T03:42:41+00:00._
+_Generated 2026-10-26T04:58:08+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T04:58:02+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
-- **Rumor** · tier: Aggregator / other · consensus: 3 source(s), top tier National insider
+- **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [Aaron Rodgers Shades Steelers Coaches in New Video, Reportedly Called Some Plays in Win vs. Saints](https://bleacherreport.com/articles/25520168-aaron-rodgers-shades-steelers-coaches-new-video-reportedly-called-some-plays-win-vs-saints): Bleacher Report, first seen 2026-10-25 19:04 UTC
 - **Rumor** · tier: Fan blog · consensus: 2 source(s), top tier Fan blog
   [Steelers Have 3 Trade Targets That No One Talks About](https://www.steelernation.com/2026/10/24/steelers-trade-targets-no-one-talks-about): SteelerNation, first seen 2026-10-24 21:18 UTC
@@ -19,7 +19,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [National Analyst Names Steelers Most Likely Trade Candidate](https://steelersdepot.com/2026/10/national-analyst-names-steelers-most-likely-trade-candidate/): Steelers Depot, first seen 2026-10-24 11:49 UTC
 - **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
   [Steelers’ Latest Trade Buzz Would Add Another Weapon for Aaron Rodgers](https://sports.yahoo.com/articles/steelers-latest-trade-buzz-add-184548332.html): Yahoo Sports, first seen 2026-10-24 10:08 UTC
-- **Rumor** · tier: National insider · consensus: 3 source(s), top tier National insider
+- **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
   [Steelers bring back Aaron Rodgers’ former Packers target after Chargers release](https://sports.yahoo.com/articles/steelers-bring-back-aaron-rodgers-160000327.html): Yahoo Sports, first seen 2026-10-23 16:52 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [Steelers could be a dark horse trade destination for Jaguars' Brian Thomas Jr.](https://blackandteal.com/steelers-could-be-a-dark-horse-trade-destination-for-jaguars-brian-thomas-jr-trai-essex): Black and Teal, first seen 2026-10-23 15:18 UTC
@@ -57,26 +57,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [NFL trade deadline 2026 big board: 50 players who could be dealt before Nov. 10](https://www.nytimes.com/athletic/7664102/2026/10/22/nfl-trade-deadline-board-players-available/): The Athletic, first seen 2026-10-22 18:10 UTC
 - **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
   [Steelers’ Roster Move Makes $41M Pro Bowler Top Trade Candidate](https://sports.yahoo.com/articles/steelers-roster-move-makes-41m-052903737.html): Yahoo Sports, first seen 2026-10-26 00:09 UTC
-- **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
-  [Gerry Dulac Shuts Down Steelers Trade Rumors After Marquez Valdes-Scantling Signing](https://sports.yahoo.com/articles/gerry-dulac-shuts-down-steelers-223228013.html): Yahoo Sports, first seen 2026-10-21 23:23 UTC
-- **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
-  [Steelers Rumors: Latest NFL Trade Intel on Jessie Bates and Derwin James](https://www.chatsports.com/pittsburgh-steelers/a/steelers-rumors-latest-nfl-trade-intel-jessie-bates-and-derwin-james-53472): Chat Sports, first seen 2026-10-21 22:30 UTC
-- **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
-  [Elliott returns to full practice, full injury report](https://www.audacy.com/937thefan/sports/pittsburgh-steelers/elliott-returns-to-full-practice-full-injury-report): Audacy, first seen 2026-10-21 22:08 UTC
-- **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
-  [Steelers' Omar Khan Gets Strong Warning About Dangerous Trade Deadline Strategy](https://www.steelernation.com/2026/10/21/steelers-omar-khan-strong-warning): SteelerNation, first seen 2026-10-21 20:52 UTC
-- **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
-  [A new wide receiver trade rumor is picking up steam after the Steelers got an up-close look during recent matchup](https://sports.yahoo.com/articles/wide-receiver-trade-rumor-picking-172653112.html): Yahoo Sports, first seen 2026-10-26 02:11 UTC
-- **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
-  [Fantasy Football Players Need To Target Steelers WR Germie Bernard On The Trade Block](https://www.si.com/onsi/fantasy/trade-analysis/fantasy-football-players-need-to-target-steelers-wr-germie-bernard-on-the-trade-block): Sports Illustrated, first seen 2026-10-21 17:46 UTC
-- **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
-  [Steelers Must Avoid This Veteran WR Trade Target](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-must-avoid-veteran-trade-target-chris-godwin): Sports Illustrated, first seen 2026-10-21 16:33 UTC
-- **Rumor** · tier: National insider · consensus: 3 source(s), top tier National insider
-  [Aaron Rodgers reportedly eyes Buccaneers WR as potential trade target for the Steelers](https://sports.yahoo.com/articles/aaron-rodgers-reportedly-eyes-buccaneers-114842350.html): Yahoo Sports, first seen 2026-10-21 13:05 UTC
-- **Rumor** · tier: Beat writer / team · consensus: 2 source(s), top tier Beat writer / team
-  [First Call: Steelers’ WR trade speculation; Najee Harris out in New York; big hockey win for RMU at Penn State](https://triblive.com/sports/first-call-steelers-wr-trade-speculation-najee-harris-may-be-out-in-new-york-big-hockey-win-for-rmu-at-penn-state/): TribLive, first seen 2026-10-21 15:49 UTC
-- **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
-  [Trade Rumors: 49ers, Mack, Godwin, Bucs, Steelers, Bills, Bennett, Rams](https://www.profootballrumors.com/2026/10/trade-rumors-49ers-mack-godwin-buccaneers-steelers-bills-bennett-rams): ProFootballRumors.com, first seen 2026-10-21 04:50 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

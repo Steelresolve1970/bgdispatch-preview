@@ -1,11 +1,58 @@
 {
- "generated": "2026-10-26T03:42:36.477760+00:00",
+ "generated": "2026-10-26T04:57:56.398842+00:00",
  "bot": {
   "name": "Dispatch Desk",
   "bot": true,
   "about": "Posts automatically. Opens game threads, daily topics and polls. Not a person."
  },
  "topics": [
+  {
+   "id": "poll-2026-10-26",
+   "kind": "Weekly poll",
+   "cat": "Game Day",
+   "pinned": false,
+   "created": "2026-10-26T09:00:00-04:00",
+   "title": "Weekly Poll: Who was the Steelers' best player at New Orleans Saints?",
+   "body": "Vote below and explain your pick in the replies. Results show once voting opens to signed-in members.",
+   "poll": {
+    "question": "Who was the Steelers' best player at New Orleans Saints?",
+    "options": [
+     "Jaylen Warren (RB)",
+     "Patrick Queen (ILB)",
+     "Keeanu Benton (DT)",
+     "Yahya Black (DT)"
+    ],
+    "votes": null
+   },
+   "author": "Dispatch Desk",
+   "bot": true,
+   "replies": 0,
+   "views": null
+  },
+  {
+   "id": "daily-2026-10-26",
+   "kind": "Daily discussion",
+   "cat": "Depth Chart & Roster",
+   "pinned": false,
+   "created": "2026-10-26T08:00:00-04:00",
+   "title": "Daily Discussion (Oct 26): Film Room: Pittsburgh Has One Unstoppable Red Zone Play",
+   "body": "Today's top headline comes from Steelers Depot. Read it at the link, then tell us: does it change how you see this team?",
+   "links": [
+    {
+     "label": "Read at Steelers Depot \u2192",
+     "href": "https://steelersdepot.com/2026/10/film-room-pittsburgh-has-one-unstoppable-red-zone-play/",
+     "external": true
+    },
+    {
+     "label": "All news",
+     "href": "#/"
+    }
+   ],
+   "author": "Dispatch Desk",
+   "bot": true,
+   "replies": 0,
+   "views": null
+  },
   {
    "id": "preview-2026_08_CLE_PIT",
    "type": "preview",
