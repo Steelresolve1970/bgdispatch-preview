@@ -1,11 +1,59 @@
 {
- "generated": "2026-10-26T01:08:13.093451+00:00",
+ "generated": "2026-10-26T01:24:53.083625+00:00",
  "bot": {
   "name": "Dispatch Desk",
   "bot": true,
   "about": "Posts automatically. Opens game threads, daily topics and polls. Not a person."
  },
  "topics": [
+  {
+   "id": "preview-2026_08_CLE_PIT",
+   "type": "preview",
+   "game_id": "2026_08_CLE_PIT",
+   "kind": "Game preview",
+   "cat": "Game Day",
+   "created": "2026-10-26T01:24:39.212657+00:00",
+   "pin_until": "2026-11-01T22:00:00+00:00",
+   "title": "Week 8: Steelers vs Browns preview and predictions",
+   "body": "The Steelers (5-2) host the Cleveland Browns at Acrisure Stadium, Sun Nov 1, 1:00 PM ET. What are the keys to this one, and what's your score prediction? Post your pick before kickoff.\n\nOpponent Preview: https://blackandgolddispatch.com/#/opponent\nGame Center: https://blackandgolddispatch.com/#/game\n\nThe Dispatch Editor",
+   "author": "Dispatch Desk",
+   "bot": true,
+   "replies": 0,
+   "views": null,
+   "pinned": true
+  },
+  {
+   "id": "injury-2026_08_CLE_PIT",
+   "type": "injury",
+   "game_id": "2026_08_CLE_PIT",
+   "kind": "Injury report",
+   "cat": "Depth Chart & Roster",
+   "created": "2026-10-26T01:24:38.212657+00:00",
+   "pin_until": "2026-11-01T22:00:00+00:00",
+   "title": "Week 8 injury report and inactives talk: Steelers vs Browns",
+   "body": "Use this thread for the Week 8 injury reports during the week and the inactives list on game day. Please share a link to where you saw the news instead of pasting the full article. Who do you most need back for this one?\n\nInjury report: https://blackandgolddispatch.com/#/injuries\nDepth chart: https://blackandgolddispatch.com/#/roster\n\nThe Dispatch Editor",
+   "author": "Dispatch Desk",
+   "bot": true,
+   "replies": 0,
+   "views": null,
+   "pinned": true
+  },
+  {
+   "id": "grades-2026_07_PIT_NO",
+   "type": "grades",
+   "game_id": "2026_07_PIT_NO",
+   "kind": "Player grades",
+   "cat": "Game Day",
+   "created": "2026-10-25T17:30:00+00:00",
+   "pin_until": "2026-11-01T13:30:00+00:00",
+   "title": "Week 7 player grades: Steelers 16, Saints 10",
+   "body": "Week 7 is in the books (Steelers 16, Saints 10). Grade every player who played, plus the coaches, on the fan ballot. You can skip anyone you didn't see enough of. Voting stays open for 7 days after the game.\n\nFan ballot: https://blackandgolddispatch.com/#/forum/grade/2026_07_PIT_NO\nPlayer Grades: https://blackandgolddispatch.com/#/heatmap\n\nWho graded out best for you, and who needs a better week?\n\nThe Dispatch Editor",
+   "author": "Dispatch Desk",
+   "bot": true,
+   "replies": 0,
+   "views": null,
+   "pinned": true
+  },
   {
    "id": "postgame-401873011",
    "kind": "Postgame",

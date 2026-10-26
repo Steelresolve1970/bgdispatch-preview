@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T01:08:05.678384+00:00",
+ "generated": "2026-10-26T01:19:29.112203+00:00",
  "date_et": "2026-10-25",
  "days": 5,
  "display_days": 2,
@@ -81,10 +81,10 @@
    "show": "Still Curtain Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxjSNPLcRAVzDKOjhRwo-hQ",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 500: Internal Server Error",
+   "episodes": 0,
    "week": 1,
-   "latest": "2026-10-22T06:58:28+00:00"
+   "latest": null
   },
   {
    "show": "Steel City Underground",
@@ -318,7 +318,7 @@
    "title": "Live Shot of Steelers: Postgame vs. Saints",
    "show": "DK Pittsburgh Sports",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/live-shot-of-steelers-postgame-vs-saints/id1072021022?i=1000798056594",
+   "link": "https://podcasts.apple.com/us/podcast/id1072021022",
    "published": "2026-10-25T19:05:00+00:00",
    "summary": "Podcast episode from DK Pittsburgh Sports."
   },
@@ -1244,7 +1244,7 @@
     "title": "Live Shot of Steelers: Postgame vs. Saints",
     "show": "DK Pittsburgh Sports",
     "kind": "podcast",
-    "link": "https://podcasts.apple.com/us/podcast/live-shot-of-steelers-postgame-vs-saints/id1072021022?i=1000798056594",
+    "link": "https://podcasts.apple.com/us/podcast/id1072021022",
     "published": "2026-10-25T19:05:00+00:00",
     "summary": "Podcast episode from DK Pittsburgh Sports."
    }

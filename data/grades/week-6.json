@@ -66,6 +66,7 @@
    "avg": 5.7,
    "source": "stats",
    "gsis_id": "00-0038409",
+   "limited": "special teams only",
    "shown": true
   },
   {
@@ -102,6 +103,7 @@
    "avg": 5.7,
    "source": "stats",
    "gsis_id": "00-0041398",
+   "limited": "limited snaps",
    "shown": true
   },
   {
@@ -119,6 +121,7 @@
    "avg": 5.7,
    "source": "stats",
    "gsis_id": "00-0035594",
+   "limited": "special teams only",
    "shown": true
   },
   {
@@ -228,6 +231,7 @@
    "avg": 5.0,
    "source": "stats",
    "gsis_id": "00-0033757",
+   "limited": "limited snaps",
    "shown": true
   },
   {
@@ -385,24 +389,6 @@
    "shown": true
   },
   {
-   "name": "Gabriel Rubio",
-   "pos": "DE",
-   "group": "DL",
-   "note": "snaps only",
-   "votes": 0,
-   "fan_avg": null,
-   "stats_grade": 5.1,
-   "stats_line": "13 defense snaps (18%), no box-score stats",
-   "stats_terms": [
-    "baseline 5.0 + 18% snap share x 0.5 = 5.1"
-   ],
-   "involvement": 1.6,
-   "avg": 5.1,
-   "source": "stats",
-   "gsis_id": null,
-   "shown": true
-  },
-  {
    "name": "Keeanu Benton",
    "pos": "DT",
    "group": "DL",
@@ -490,6 +476,7 @@
    "avg": 5.7,
    "source": "stats",
    "gsis_id": "00-0040231",
+   "limited": "special teams only",
    "shown": true
   },
   {
@@ -633,6 +620,7 @@
    "avg": 5.7,
    "source": "stats",
    "gsis_id": "00-0040341",
+   "limited": "special teams only",
    "shown": true
   },
   {

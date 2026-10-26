@@ -80,6 +80,10 @@ const css=`
 .fx-gi{display:grid;grid-template-columns:1fr 54px;gap:4px 10px;align-items:center;padding:10px 0;border-bottom:1px solid #eee}
 .fx-gi .l b{display:block}.fx-gi .l small{color:#666}.fx-gi output{font-size:1.4rem;font-weight:900;text-align:center;color:#999}.fx-gi.set output{color:#101010}
 .fx-gi input[type=range]{grid-column:1/3;width:100%;height:36px;accent-color:#FFB612}.fx-gi.done{opacity:.75}
+.fx-gi:not(.set):not(.done) input[type=range]{opacity:.4;accent-color:#9a9a9a}.fx-gi:not(.set) output{font-size:.95rem;font-weight:700;color:#888}
+.fx-undo{grid-column:1/3;justify-self:start;display:none;background:none;border:1px solid #bbb;border-radius:8px;padding:6px 12px;font-size:.9rem;color:#333;min-height:36px}.fx-gi.set:not(.done) .fx-undo{display:inline-block}
+.fx-lim{display:inline-block;font-size:.78rem;font-weight:700;background:#f1efe8;color:#555;border-radius:6px;padding:1px 7px;margin:2px 0}
+.fx-skipnote{background:#fff7e0;border-left:4px solid #FFB612;padding:8px 10px;border-radius:6px;margin:8px 0 0}
 .fx-sum{position:sticky;bottom:0;background:#fff;padding:10px;border-top:3px solid #FFB612;display:flex;gap:10px;align-items:center;justify-content:space-between;z-index:4}
 .fx-cmp{width:100%;border-collapse:collapse}.fx-cmp th,.fx-cmp td{padding:8px 6px;border-bottom:1px solid #eee;text-align:center}.fx-cmp td:first-child,.fx-cmp th:first-child{text-align:left}
 .fx-cmp .fan{font-weight:900}.fx-modal{position:fixed;inset:0;background:#0008;z-index:50;display:flex;align-items:flex-end;justify-content:center}
@@ -413,14 +417,20 @@ async function gradeView(el,gid){el.innerHTML='<p class="empty">Loading ballot�
  S.me=d.me;const b=d.ballot,mine={};d.mine.forEach(x=>mine[x.item]=x.grade);const av=d.averages.items;
  const groups=['Team','Offense','Defense'];const done=Object.keys(mine).length;
  el.innerHTML=`<p><a class="back" href="#/forum/gameday">← Game Day</a></p><div class="fx-grade"><h2 style="margin:0">Grade the Team</h2><p style="margin:4px 0"><b>${E(b.label)}</b></p>
- <p class="fine">${b.open?`Open until ${E(etTime(b.closes))}`:b.final_at?'Grading has closed for this game.':'Grading opens at the final whistle.'} · ${d.averages.voters} fan${d.averages.voters===1?'':'s'} have graded so far. Tap or slide each bar, 1 (awful) to 10 (elite). Only the players you tap or slide are counted, and each grade can be cast once.</p>
+ <p class="fine">${b.open?`Open until ${E(etTime(b.closes))}`:b.final_at?'Grading has closed for this game.':'Grading opens at the final whistle.'} · ${d.averages.voters} fan${d.averages.voters===1?'':'s'} have graded so far. Tap or slide a bar to grade, 1 (awful) to 10 (elite). Each grade can be cast once.</p>
+ ${b.open?'<p class="fx-skipnote"><b>Skip anyone you didn\'t see play.</b> Every player is optional. Only the players you grade are counted, and you can submit with just one.</p>':''}
  ${!b.players_ready?'<p class="box">Player grades appear here once the game\'s stats post (usually by the next morning). You can grade the team and coaches now and come back for the players.</p>':''}
  ${!S.me&&b.open?`<a class="fx-btn" href="#/forum/join" onclick="sessionStorage.setItem('bgd_next','grade:${E(b.game_id)}')" style="width:100%">Join free to vote</a>`:''}</div>
  <form id="fx-ballot">${groups.map(g=>{const it=b.items.filter(i=>i.group===g);if(!it.length)return'';return`<div class="fx-grade"><h3 style="margin:0 0 4px">${g}</h3>${it.map(i=>{const v=mine[i.key];const a=av[i.key];
-  return`<div class="fx-gi${v?' done set':''}" data-k="${E(i.key)}"><span class="l"><b>${E(i.label)}</b><small>${i.pos?E(i.pos)+' · ':''}${i.ours!=null?'Our grade '+Number(i.ours).toFixed(1)+' · ':''}${a?`Fans ${a.avg.toFixed(1)} (${a.n})`:'No fan grades yet'}${v?' · your grade '+v:''}</small></span><output>${v||'–'}</output>
-  <input type="range" min="1" max="10" step="1" value="${v||6}" aria-label="Grade ${E(i.label)} from 1 to 10" ${v||!b.open||!S.me?'disabled':''}></div>`;}).join('')}</div>`;}).join('')}
- ${b.open&&S.me?`<div class="fx-sum"><span id="fx-cnt">${done?done+' already graded':'Tap or slide a bar to grade'}</span><button class="fx-btn" type="submit" id="fx-sub" disabled>Submit grades</button></div>`:''}</form>`;
- const f=$('fx-ballot');const touched={};const upd=()=>{const n=Object.keys(touched).length;const s=$('fx-sub');if(s){s.disabled=!n;s.textContent=n?`Submit ${n} grade${n>1?'s':''}`:'Submit grades';}};
+  const lim=i.limited?`<span class="fx-lim">${i.limited==='special teams only'?'Special teams only':'Limited snaps'}, fine to skip</span>`:'';
+  return`<div class="fx-gi${v?' done set':''}${i.limited?' lim':''}" data-k="${E(i.key)}"><span class="l"><b>${E(i.label)}</b>${lim}<small>${i.pos?E(i.pos)+' · ':''}${i.ours!=null?'Our grade '+Number(i.ours).toFixed(1)+' · ':''}${a?`Fans ${a.avg.toFixed(1)} (${a.n})`:'No fan grades yet'}${v?' · your grade '+v:''}</small></span><output>${v||(b.open&&S.me?'Skip':'–')}</output>
+  <input type="range" min="1" max="10" step="1" value="${v||6}" aria-label="Grade ${E(i.label)} from 1 to 10 (optional)" ${v||!b.open||!S.me?'disabled':''}>${!v&&b.open&&S.me?`<button type="button" class="fx-undo" aria-label="Skip ${E(i.label)}">Skip this player</button>`:''}</div>`;}).join('')}</div>`;}).join('')}
+ ${b.open&&S.me?`<div class="fx-sum"><span id="fx-cnt">${done?done+' already graded. ':''}Grade as many or as few as you like.</span><button class="fx-btn" type="submit" id="fx-sub" disabled>Submit grades</button></div>`:''}</form>`;
+ const f=$('fx-ballot');const touched={};const nOpen=f.querySelectorAll('input[type=range]:not([disabled])').length;
+ const upd=()=>{const n=Object.keys(touched).length;const s=$('fx-sub');if(s){s.disabled=!n;s.textContent=n?`Submit ${n} grade${n>1?'s':''}`:'Submit grades';}
+  const c=$('fx-cnt');if(c)c.textContent=n?`${n} graded · ${nOpen-n} skipped${done?' · '+done+' already counted':''}. Skipped players are not counted.`:`${done?done+' already graded. ':''}Grade as many or as few as you like.`;};
+ // Skip / undo: puts a player back to "Skip" (not counted), e.g. after a tap by accident while scrolling.
+ f.querySelectorAll('.fx-undo').forEach(u=>u.addEventListener('click',()=>{const row=u.closest('.fx-gi');delete touched[row.dataset.k];row.classList.remove('set');row.querySelector('output').textContent='Skip';row.querySelector('input[type=range]').value=6;upd();}));
  // A grade counts as soon as the fan drags OR taps a slider, even at its starting 6 (iPhone/iPad Safari fires no 'input' for a tap,
  // and doesn't move the thumb when you tap the track, so a tap jumps the slider to the tapped spot). A vertical swipe is a scroll, not a grade.
  f.querySelectorAll('input[type=range]').forEach(r=>{const row=r.closest('.fx-gi');const mark=()=>{if(r.disabled)return;touched[row.dataset.k]=+r.value;row.classList.add('set');row.querySelector('output').textContent=r.value;upd();};
