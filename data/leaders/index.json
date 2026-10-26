@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T03:30:27.059730+00:00",
+ "generated": "2026-10-26T07:06:24.154493+00:00",
  "season": 2026,
  "source": "Data: nflverse (CC-BY 4.0)",
  "source_url": "https://github.com/nflverse/nflverse-data",
@@ -216,7 +216,7 @@
    "lower_is_better": false,
    "min_note": "Min. 10 receptions",
    "file": "player-rec.json",
-   "count": 165
+   "count": 166
   },
   {
    "key": "rec_yds",
@@ -225,7 +225,7 @@
    "lower_is_better": false,
    "min_note": "Min. 10 receptions",
    "file": "player-rec_yds.json",
-   "count": 165
+   "count": 166
   },
   {
    "key": "rec_td",
@@ -234,7 +234,7 @@
    "lower_is_better": false,
    "min_note": "Min. 10 receptions",
    "file": "player-rec_td.json",
-   "count": 165
+   "count": 166
   },
   {
    "key": "yac",
@@ -243,7 +243,7 @@
    "lower_is_better": false,
    "min_note": "Min. 10 receptions",
    "file": "player-yac.json",
-   "count": 165
+   "count": 166
   },
   {
    "key": "tackles",
@@ -252,7 +252,7 @@
    "lower_is_better": false,
    "min_note": "Min. 15 tackles",
    "file": "player-tackles.json",
-   "count": 368
+   "count": 373
   },
   {
    "key": "sacks",
@@ -270,7 +270,7 @@
    "lower_is_better": false,
    "min_note": "Min. 3 TFL",
    "file": "player-tfl.json",
-   "count": 141
+   "count": 144
   },
   {
    "key": "pd",
@@ -288,7 +288,7 @@
    "lower_is_better": false,
    "min_note": "Min. 1 interception",
    "file": "player-int.json",
-   "count": 112
+   "count": 114
   },
   {
    "key": "ff",
@@ -297,7 +297,7 @@
    "lower_is_better": false,
    "min_note": "Min. 1 forced fumble",
    "file": "player-ff.json",
-   "count": 153
+   "count": 154
   },
   {
    "key": "fr",

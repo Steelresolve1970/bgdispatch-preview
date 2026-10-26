@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-26T06:12:00.066383+00:00",
+ "generated": "2026-10-26T07:06:20.832774+00:00",
  "date_et": "2026-10-26",
  "days": 5,
  "display_days": 2,
- "count": 111,
+ "count": 112,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -47,8 +47,8 @@
    "url": "https://feeds.simplecast.com/OkvCKc09",
    "status": "ok",
    "episodes": 1002,
-   "week": 8,
-   "latest": "2026-10-25T19:05:00+00:00"
+   "week": 9,
+   "latest": "2026-10-26T05:40:00+00:00"
   },
   {
    "show": "Steelers Blitz",
@@ -81,10 +81,10 @@
    "show": "Still Curtain Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxjSNPLcRAVzDKOjhRwo-hQ",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 1,
-   "latest": null
+   "latest": "2026-10-22T06:58:28+00:00"
   },
   {
    "show": "Steel City Underground",
@@ -99,10 +99,10 @@
    "show": "Steel City Underground",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDcNNAMkYr-DzH6_XL-0p8Q",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 1,
-   "latest": null
+   "latest": "2026-10-22T16:28:41+00:00"
   },
   {
    "show": "Steelers Afternoon Drive",
@@ -153,10 +153,10 @@
    "show": "Steelers Now",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp1iAMIfmmgWewzJ07_Y7oA",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 15,
-   "latest": null
+   "latest": "2026-10-25T19:32:28+00:00"
   },
   {
    "show": "The Steel City Insider (Jim Wexell, 247Sports)",
@@ -189,19 +189,19 @@
    "show": "Nick Farabaugh on PennLive",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5yvng1eSgffmybUM-51fTw",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 1,
    "week": 1,
-   "latest": null
+   "latest": "2026-10-24T18:08:40+00:00"
   },
   {
    "show": "Pittsburgh Steelers (official)",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChaRXjMDs4ppKfnTPE6Z89w",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 15,
-   "latest": null
+   "latest": "2026-10-25T23:09:30+00:00"
   },
   {
    "show": "Not Just Football with Cam Heyward",
@@ -216,10 +216,10 @@
    "show": "Not Just Football with Cam Heyward",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8hodyaoiw297aspKf9QVDA",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 7,
-   "latest": null
+   "latest": "2026-10-25T19:36:25+00:00"
   },
   {
    "show": "Footbahlin with Ben Roethlisberger",
@@ -243,10 +243,10 @@
    "show": "The Christian Kuntz Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKKBJcOGsYmwAATQv-xQYeA",
-   "status": "error: HTTP Error 500: Internal Server Error",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 0,
-   "latest": null
+   "latest": "2009-05-26T14:01:33+00:00"
   }
  ],
  "items": [
@@ -257,6 +257,14 @@
    "link": "https://www.youtube.com/watch?v=dnrjjelOSeU",
    "published": "2026-10-26T05:45:34+00:00",
    "summary": "Video from Locked On Steelers."
+  },
+  {
+   "title": "Scout\u2019s Eye with Matt Williamson: Closer than it felt",
+   "show": "DK Pittsburgh Sports",
+   "kind": "podcast",
+   "link": "https://podcasts.apple.com/us/podcast/id1072021022",
+   "published": "2026-10-26T05:40:00+00:00",
+   "summary": "Podcast episode from DK Pittsburgh Sports."
   },
   {
    "title": "Darnell takin over Paris \ud83d\ude24",
@@ -1142,14 +1150,7 @@
    "summary": "Podcast episode from Steel Curtain Network (BTSC)."
   }
  ],
- "yt_channels": [
-  {
-   "show": "The Christian Kuntz Podcast",
-   "channel_id": "UCKKBJcOGsYmwAATQv-xQYeA",
-   "link": "https://www.youtube.com/channel/UCKKBJcOGsYmwAATQv-xQYeA",
-   "embed": "https://www.youtube-nocookie.com/embed/videoseries?list=UUKKBJcOGsYmwAATQv-xQYeA"
-  }
- ],
+ "yt_channels": [],
  "postgame": {
   "game": "2026_07_PIT_NO",
   "week": "Week 7",

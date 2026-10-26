@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "film",
  "description": "Film breakdowns of the last game and previews of the next game (links).",
- "generated": "2026-10-26T06:12:28+00:00",
- "data_updated": "2026-10-26T01:18:52+00:00",
- "count": 0,
+ "generated": "2026-10-26T07:06:48+00:00",
+ "data_updated": "2026-10-26T07:06:10+00:00",
+ "count": 1,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -18,5 +18,20 @@
  },
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/film",
- "items": []
+ "items": [
+  {
+   "id": "4787a24ccc1e1043",
+   "type": "film_breakdown",
+   "game": "at New Orleans Saints (Oct 25)",
+   "title": "Film Room: Pittsburgh Has One Unstoppable Red Zone Play",
+   "creator": "Alex Kozora (Steelers Depot)",
+   "url": "https://steelersdepot.com/2026/10/film-room-pittsburgh-has-one-unstoppable-red-zone-play/",
+   "published": "2026-10-26T04:00:14+00:00",
+   "summary": "Film breakdown by Alex Kozora (Steelers Depot) of at New Orleans Saints (Oct 25).",
+   "source": {
+    "name": "Alex Kozora (Steelers Depot)",
+    "url": null
+   }
+  }
+ ]
 }
