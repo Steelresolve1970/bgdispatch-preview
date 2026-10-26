@@ -1,8 +1,10 @@
 # Steelers News
 
-_Generated 2026-10-26T21:01:41+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T21:01:07+00:00._
+_Generated 2026-10-26T21:12:44+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T21:12:08+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Analysis: Mike McCarthy and Payton Wilson](https://www.steelernation.com/2026/10/26/steelers-mike-mccarthy-encouraging-payton-wilson): SteelerNation, 2026-10-26 21:10 UTC
+- [Roster move: Mike McCarthy and Patrick Queen](https://steelersdepot.com/2026/10/activated-him-mccarthy-shares-reason-for-patrick-queens-big-game/): Steelers Depot, 2026-10-26 21:00 UTC
 - [Saints game review: player grades](https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176962/steelers-week-7-grades-in-win-over-saints-aaron-rodgers-jaylen-warren): Behind the Steel Curtain, 2026-10-26 20:59 UTC
 - [Reaction: the Steelers' receivers](https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-shopping-for-wide-receiver-help-insider-says.html): PennLive (Nick Farabaugh), 2026-10-26 20:53 UTC
 - [Reaction: DeShon Elliott and Mike McCarthy](https://steelersdepot.com/2026/10/deshon-elliott-cleared-first-hurdle-in-limited-return-mike-mccarthy-says/): Steelers Depot, 2026-10-26 20:45 UTC
@@ -13,6 +15,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Closer look: Aaron Rodgers and the international game](https://sports.yahoo.com/articles/aaron-rodgers-good-enough-paris-201629151.html): Yahoo Sports, 2026-10-26 20:16 UTC
 - [Browns game preview: how to watch](https://www.wtol.com/article/sports/nfl/cleveland-browns-pittsburgh-steelers-how-to-watch-nov-1/512-21e9c710-fe32-4fcd-a15b-4e63c0d3e5a2): WTOL, 2026-10-26 20:02 UTC
 - [Update: Steelers](https://stillcurtain.com/pittsburgh-steelers-big-man-in-the-middle-is-quietly-having-a-massive-breakout-season-01m5w9pjfbpd?utm_source=RSS): Still Curtain, 2026-10-26 20:00 UTC
+- [Update: Steelers (Steelers.com (official))](https://www.steelers.com/news/bands-of-big-brothers): Steelers.com (official), 2026-10-26 20:00 UTC
 - [Update: Mike McCarthy](https://steelersnow.com/steelers-hc-mike-mccarthy-makes-his-cleveland-feelings-clear/): Steelers Now, 2026-10-26 19:57 UTC
 - [Reaction: Max Iheanachor and Mike McCarthy](https://steelersdepot.com/2026/10/he-belongs-here-max-iheanachor-is-a-perfect-steeler-says-mike-mccarthy/): Steelers Depot, 2026-10-26 19:50 UTC
 - [Update: Jaylen Warren](https://steelersnow.com/hot-as-a-firecracker-jaylen-warren-continues-to-be-steelers-workhorse/): Steelers Now, 2026-10-26 19:48 UTC
@@ -58,7 +61,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers offense shows improvement](https://steelersdepot.com/2026/10/no-excuses-troy-fautanu-needs-to-play-better-beat-writer-says/): Steelers Depot, 2026-10-26 15:30 UTC
 - [Closer look: the AFC North race](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176928/steelers-news-the-afc-north-is-a-dogfight): Behind the Steel Curtain, 2026-10-26 15:19 UTC
 - [Mike McCarthy talks about Browns](https://steelersnow.com/mccarthy-seeks-payback-on-the-browns/): Steelers Now, 2026-10-26 15:18 UTC
-- [Steelers show encouraging signs](https://steelersdepot.com/2026/10/bill-cowher-sees-steelers-establishing-identity-through-old-school-style-of-football/): Steelers Depot, 2026-10-26 15:15 UTC
 - [Steelers evaluate quarterback prospects](https://stillcurtain.com/pittsburgh-steelers-new-reason-question-2027-qb-draft-class-01m5w5mp43v2?utm_source=RSS): Still Curtain, 2026-10-26 15:02 UTC
 - [Steelers defense performs well](https://www.post-gazette.com/sports/steelers/2026/10/26/steelers-defense-nfl-paris-game/stories/202610260024): Pittsburgh Post-Gazette, 2026-10-26 15:00 UTC
 - [Steelers win game in Paris](https://www.upi.com/Sports_News/Photos/NFL-Pittsburgh-Steelers-defeat-New-Orleans-Saints-in-Paris/17018/): UPI.com, 2026-10-26 15:00 UTC
@@ -79,7 +81,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Former player issues challenge](https://www.steelernation.com/2026/10/26/steelers-super-bowl-bold-challenge): SteelerNation, 2026-10-26 12:55 UTC
 - [Steelers news and links](https://steelersnow.com/steelers-daily-news-links-aaron-rodgers-iced-out-insane-jaylen-warren-stat/): Steelers Now, 2026-10-26 12:12 UTC
 - [Steelers dominate Saints](https://stillcurtain.com/the-pittsburgh-steelers-run-defense-wasn-t-just-elite-in-week-7-it-was-historic-01m5v2673a3f?utm_source=RSS): Still Curtain, 2026-10-26 12:00 UTC
-- [Closer look: the Steelers' secondary](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-no-longer-avoid-cornerback-troubles): All Steelers (Sports Illustrated), 2026-10-26 12:00 UTC
 - [Rodgers criticizes league management](https://www.pennlive.com/steelers/2026/10/aaron-rodgers-doesnt-hold-back-on-nfls-international-game-management-wish-there-was-a-mandate.html): PennLive (Nick Farabaugh), 2026-10-26 11:52 UTC
 - [Steelers defense makes key play](https://www.steelcityunderground.com/2026/10/26/payton-wilsons-interception-stops-saints-second-half-scoring-threat/): Steel City Underground, 2026-10-26 11:46 UTC
 - [Saints fans react to loss](https://triblive.com/sports/steelers-vs-saints-what-theyre-saying-in-new-orleans-after-loss-2/): TribLive, 2026-10-26 11:34 UTC
@@ -89,7 +90,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers earn victory overseas](https://triblive.com/sports/madden-monday-steelers-win-in-paris-was-too-tomlin-y/): TribLive, 2026-10-26 10:00 UTC
 - [Several teams exceed expectations](https://www.nytimes.com/athletic/7725854/2026/10/26/nfl-week-7-steelers-giants-vikings-browns/): The Athletic, 2026-10-26 09:30 UTC
 - [Steelers running game shows promise](https://www.post-gazette.com/sports/steelers/2026/10/26/steelers-week-7-analysis-nfl-afc-north/stories/202610250086): Pittsburgh Post-Gazette, 2026-10-26 08:00 UTC
-- [Reaction: Patrick Queen](https://www.steelernation.com/2026/10/25/steelers-queen-exactly-pittsburgh-saints): SteelerNation, 2026-10-26 00:57 UTC
 - [Saints game review: playoff chances](https://www.behindthesteelcurtain.com/pittsburgh-steelers-nfl-playoffs/176889/steelers-stay-put-in-afc-playoff-picture-after-win-over-saints): Behind the Steel Curtain, 2026-10-26 00:40 UTC
 - [Steelers get positive result](https://www.steelers.com/news/labriola-on-the-win-over-the-saints-x8898): Steelers.com (official), 2026-10-26 00:40 UTC
 - [Buccaneers game preview: what to know](https://www.buccaneers.com/video/full-game-highlights-steelers-bucs-loss-score-26-19-week-6): Tampa Bay Buccaneers, 2026-10-26 00:24 UTC
