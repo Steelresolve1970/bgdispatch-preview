@@ -6,7 +6,7 @@ const ago=iso=>{if(iso==null||iso==='')return'';const t=new Date(iso).getTime();
 const md=s=>new Date(s+'T12:00:00Z').toLocaleDateString('en-US',{month:'short',day:'numeric'});
 function statBlock(s){if(!s)return '';if(!s.found)return `<p class="cl-nostats">Stats not found: ${E(s.why)}${s.source?` · <a href="${E(s.source)}" ${ext}>CollegeFootballData.com</a>`:''}</p>`;
  const L=s.last,res=`${L.result} ${E(L.score)} ${L.atVs==='@'?'at':'vs'} ${E(L.opponent)}`;
- return `<div class="cl-stats"><div><span class="cl-lab">${s.stale?'Last game ('+md(L.date)+')':'Last week'}</span><b>${E(L.line)}</b><small>${res}</small></div>
+ return `<div class="cl-stats"><div><span class="cl-lab">Last game (${md(L.date)})</span><b>${E(L.line)}</b><small>${res}</small></div>
  <div><span class="cl-lab">2026 season</span><b>${E(s.season_line)}</b><small>${s.games} games · stats: <a href="${E(s.source)}" ${ext}>CollegeFootballData.com</a></small></div></div>
  <p class="cl-snip">${E(s.snippet)}</p>`;}
 function render(d){const el=document.getElementById('college-body');if(!el||!d)return;pos=pos||d.needs[0].pos;

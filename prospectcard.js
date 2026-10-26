@@ -23,11 +23,18 @@ let X={};const xready=fetch(BGD_url('data/draft/prospect_extras.json'),{cache:'n
 function fortyHTML(n){const f=(X[n]||{}).forty;if(!f)return`<span class="pc-40"><b>40:</b> TBD (combine Feb 2027)</span>`;
  return`<span class="pc-40"><b>40:</b> ${E(f.time)} <small>(${f.kind==='verified'?'verified':'projected'}, per <a href="${E(f.url)}" target="_blank" rel="noopener">${E(f.source)}</a>)</small></span>`;}
 function hlHTML(n){const h=(X[n]||{}).highlight;return h?`<a class="btn pc-hl" href="${E(h.url)}" target="_blank" rel="noopener" title="${E(h.title)} (${E(h.channel)}, YouTube)" aria-label="Watch highlights of ${E(n)} on YouTube (opens a new tab)">Watch highlights</a>`:'';}
-// Season stat line (Oct 25, 2026): says which season and "Stats through Week N (date)"; never shows old numbers silently.
+// Season stat line (Oct 25, 2026): says which season; never shows old numbers silently.
+// Oct 26, 2026 (owner): each card shows that player's OWN last-game date ("thru Sep 26"), from board.json last_game
+// (CFBD box scores). The board-wide date is only used as "Stats updated <date>" and as a fallback if a date is missing.
 let META={};
-function statsHTML(p,short){p=p||{};const q=get(p.name)||p,k=q.stats,l=q.line,th=META.stats_through;
- const thru=th?`Stats through ${E(th.label)}`:'';const src=' · CollegeFootballData.com';
- if(k==='2026'&&l)return short?`${E(l)}${th?` <span class="pc-thru">· thru ${E((String(th.label).match(/\(([^)]*)\)/)||[,th.label])[1])}</span>`:''}`:`<p><b>2026 season:</b> ${E(l)}</p><p class="fine pc-thru">${thru}${src}</p>`;
+const MD=iso=>{const d=new Date(String(iso).slice(0,10)+'T12:00:00Z');return isNaN(d)?'':d.toLocaleDateString('en-US',{month:'short',day:'numeric',timeZone:'UTC'});};
+const updHTML=()=>{const f=META.stats_fetched;if(!f)return'';const d=new Date(f);return isNaN(d)?'':` · Stats updated ${d.toLocaleDateString('en-US',{month:'short',day:'numeric',timeZone:'America/New_York'})}`;};
+function statsHTML(p,short){p=p||{};const q=get(p.name)||p,k=q.stats,l=q.line,th=META.stats_through,lg=q.last_game;
+ const src=' · CollegeFootballData.com';
+ const thShort=th?(String(th.label).match(/\(([^)]*)\)/)||[,th.label])[1]:'';
+ if(k==='2026'&&l){
+  if(short)return`${E(l)}${lg?` <span class="pc-thru">· thru ${E(MD(lg))}</span>`:(th?` <span class="pc-thru">· thru ${E(thShort)}</span>`:'')}`;
+  return`<p><b>2026 season:</b> ${E(l)}</p><p class="fine pc-thru">${lg?`Stats through his last game, ${E(MD(lg))}`:(th?`Stats through ${E(th.label)}`:'')}${updHTML()}${src}</p>`;}
  if(k==='2025'&&l)return short?`${E(l)} <span class="pc-thru">(2025; no 2026 stats yet)</span>`:`<p><b>2025 season:</b> ${E(l)} <small>(no 2026 stats recorded yet)</small></p>${th?`<p class="fine pc-thru">2026 checked through ${E(th.label)}${src}</p>`:''}`;
  if(q.pos==='OT'||q.pos==='IOL'||k==='line')return short?'No box-score stats for linemen':`<p><b>2026 season:</b> No box-score stats for linemen.</p>`;
  if(k===undefined&&l&&l!=='None')return short?E(l):`<p><b>2026 season:</b> ${E(l)}</p>`;
