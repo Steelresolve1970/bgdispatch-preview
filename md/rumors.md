@@ -1,6 +1,6 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-26T00:21:45+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T00:21:39+00:00._
+_Generated 2026-10-26T00:34:00+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T00:33:53+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
 - **Rumor** · tier: Aggregator / other · consensus: 3 source(s), top tier National insider
@@ -49,8 +49,8 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [ESPN projects a NFL Trade Deadline deal between the Steelers and Raiders](https://www.steelcurtainnetwork.com/espn-projects-a-nfl-trade-deadline-deal-between-the-steelers-and-raiders/): Steel Curtain Network, first seen 2026-10-22 18:10 UTC
 - **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
   [Ranking Steelers Top Trade Needs And Their Best Targets](https://www.si.com/nfl/steelers/onsi/ranking-pittsburgh-steelers-top-trade-needs-best-targets): Sports Illustrated, first seen 2026-10-22 18:10 UTC
-- **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
-  [Steelers face tough decisions on T.J. Watt, Alex Highsmith as NFL trade deadline looms](https://www.usatoday.com/story/sports/nfl/steelers/2026/10/22/steelers-nfl-trade-deadline-tj-watt-alex-highsmith-patrick-queen/92364449007/): USA Today, first seen 2026-10-22 18:10 UTC
+- **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
+  [Steelers face tough decisions on T.J. Watt, Alex Highsmith as NFL trade deadline looms](https://sports.yahoo.com/articles/steelers-face-tough-decisions-t-094636906.html): Yahoo Sports, first seen 2026-10-26 00:33 UTC
 - **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
   [Whom could the Steelers target at the trade deadline? What's the 2027 QB plan? Mailbag](https://www.nytimes.com/athletic/7711597/2026/10/22/pittsburgh-steelers-trade-deadline-targets-future-qb/): The Athletic, first seen 2026-10-22 18:10 UTC
 - **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider

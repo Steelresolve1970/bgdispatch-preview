@@ -1,9 +1,9 @@
 # Steelers News
 
-_Generated 2026-10-26T00:21:45+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T00:20:06+00:00._
+_Generated 2026-10-26T00:34:00+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T00:31:59+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
-- [Rodgers now alone with 3rd-most TD passes as Steelers win 1st Paris game](https://www.espn.com/nfl/story/_/id/50277960/rodgers-throws-historic-td-pass-steelers-win-1st-paris-game): ESPN, 2026-10-26 00:37 UTC
+- [Rodgers now alone with 3rd-most TD passes as Steelers win 1st Paris game](https://www.espn.com/nfl/story/_/id/50277960/rodgers-throws-historic-td-pass-steelers-win-1st-paris-game): ESPN, 2026-10-26 01:14 UTC
 - [Positional Grades: Steelers At Saints](https://steelersdepot.com/2026/10/positional-grades-steelers-at-saints/): Steelers Depot, 2026-10-26 00:00 UTC
 - [Steelers' Jaylen Warren Reaches New Level Of Greatness After Incredible Kenneth Walker III Finding](https://www.steelernation.com/2026/10/25/steelers-warren-greatness-incredible-finding): SteelerNation, 2026-10-25 23:53 UTC
 - [Steelers Rival Suffers Yet Another Critical Injury Blow](https://steelersnow.com/steelers-rival-suffers-yet-another-critical-injury-blow/): Steelers Now, 2026-10-25 23:52 UTC
@@ -32,7 +32,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Aaron Rodgers Calls On NFL To Make ‘Mandate’ For International Games](https://steelersdepot.com/2026/10/aaron-rodgers-calls-on-nfl-to-make-mandate-for-international-games/): Steelers Depot, 2026-10-25 19:46 UTC
 - [‘Played A Really Good Game’: Saints LB Describes One ‘Advantage’ Aaron Rodgers Had On Sunday](https://steelersdepot.com/2026/10/played-a-really-good-game-saints-lb-describes-one-advantage-aaron-rodgers-had-on-sunday/): Steelers Depot, 2026-10-25 19:45 UTC
 - [Kurt Warner Addresses Controversial Comment Towards The Steelers During Paris Broadcast](https://www.steelernation.com/2026/10/25/steelers-kurt-warner-controversial-paris): SteelerNation, 2026-10-25 19:41 UTC
-- [Saints rush for just 18 yards in 16-10 loss to Steelers to spoil their Paris week](https://www.bozemandailychronicle.com/wire/sports/saints-rush-for-just-18-yards-in-16-10-loss-to-steelers-to-spoil-their/article_1be69f82-b308-50fd-9cb5-a18e0e324e09.html): Bozeman Daily Chronicle, 2026-10-25 19:34 UTC
 - [‘Go Be Y’all’: Patrick Queen Explains How Elandon Roberts Motivated Steelers ILBs](https://steelersdepot.com/2026/10/go-be-yall-patrick-queen-explains-how-elandon-roberts-motivated-steelers-ilbs/): Steelers Depot, 2026-10-25 19:30 UTC
 - [Feats of Strength: Aaron Rodgers’ footwork, combos at ILB, RB power Steelers to win in Paris](https://triblive.com/sports/feats-of-strength-aaron-rodgers-footwork-combos-at-ilb-rb-power-steelers-to-win-in-paris/): TribLive, 2026-10-25 19:24 UTC
 - [Steelers' Aaron Rodgers Delivers Harsh Assessment Despite Win Over Saints](https://www.steelernation.com/2026/10/25/steelers-rodgers-harsh-assessment-saints): SteelerNation, 2026-10-25 19:20 UTC
@@ -82,6 +81,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Aaron Rodgers Breaks NFL Record vs. Saints](https://steelersnow.com/aaron-rodgers-breaks-nfl-record-vs-saints/): Steelers Now, 2026-10-25 15:11 UTC
 - [2026 Week 7 Steelers Vs Saints Live Update And Discussion Thread – Second Half](https://steelersdepot.com/2026/10/2026-week-7-steelers-vs-saints-live-update-and-discussion-thread-second-half/): Steelers Depot, 2026-10-25 15:10 UTC
 - [Can't-Miss Play: Darnell Washington Mosses Saints defender on Rodgers' 4-yard TD pass in Paris](https://www.nfl.com/videos/can-t-miss-play-darnell-washington-mosses-saints-defender-on-rodgers-4-yard-td-pass-in-paris): NFL.com, 2026-10-25 14:52 UTC
+- [Can't-Miss Play: Rodgers' 51-yard deep ball to DK Metcalf wows the crowd in Paris](https://www.nfl.com/videos/can-t-miss-play-rodgers-51-yard-deep-ball-to-dk-metcalf-wows-the-crowd-in-paris): NFL.com, 2026-10-25 14:52 UTC
 - [Aaron Rodgers passes Peyton Manning on all-time touchdowns list](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176864/aaron-rodgers-passes-peyton-manning-on-all-time-touchdowns-list): Behind the Steel Curtain, 2026-10-25 14:46 UTC
 - [Rodgers now 3rd all time in passing TDs](https://www.steelers.com/news/rodgers-now-3rd-all-time-in-passing-tds): Steelers.com (official), 2026-10-25 14:45 UTC
 - [Aaron Rodgers Surpasses Peyton Manning for Major NFL Record](https://steelersnow.com/aaron-rodgers-surpasses-peyton-manning-for-major-nfl-record/): Steelers Now, 2026-10-25 14:32 UTC

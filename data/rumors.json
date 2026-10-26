@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T00:21:39.794602+00:00",
+ "generated": "2026-10-26T00:33:53.933436+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -704,14 +704,14 @@
    "updated": "2026-10-22T18:10:35.603011+00:00"
   },
   {
-   "id": "c6dd11f8b979",
+   "id": "9c739749bf84",
    "title": "Steelers face tough decisions on T.J. Watt, Alex Highsmith as NFL trade deadline looms",
-   "source": "USA Today",
-   "link": "https://www.usatoday.com/story/sports/nfl/steelers/2026/10/22/steelers-nfl-trade-deadline-tj-watt-alex-highsmith-patrick-queen/92364449007/",
-   "published": "2026-10-22T09:46:00+00:00",
-   "summary": "Rumor-style report from USA Today on a Steelers roster move. Full details at the source.",
-   "tier": "Aggregator / other",
-   "tier_score": 1,
+   "source": "Yahoo Sports",
+   "link": "https://sports.yahoo.com/articles/steelers-face-tough-decisions-t-094636906.html",
+   "published": "2026-10-22T09:46:36+00:00",
+   "summary": "Rumor-style report from Yahoo Sports on a Steelers roster move. Full details at the source.",
+   "tier": "National insider",
+   "tier_score": 4,
    "subjects": [
     "Alex Highsmith",
     "T.J. Watt"
@@ -719,18 +719,21 @@
    "status": "Rumor",
    "status_note": null,
    "status_link": null,
-   "first_seen": "2026-10-22T18:10:35.603011+00:00",
+   "first_seen": "2026-10-26T00:33:53.933436+00:00",
    "consensus": {
     "cluster_id": "c6dd11f8b979",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
-     "USA Today"
+     "USA Today",
+     "Yahoo Sports"
     ],
-    "highest_tier": "Aggregator / other",
-    "highest_tier_score": 1,
-    "related_ids": []
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "c6dd11f8b979"
+    ]
    },
-   "updated": "2026-10-22T18:10:35.603011+00:00"
+   "updated": "2026-10-26T00:33:53.933436+00:00"
   },
   {
    "id": "793524d428ea",
