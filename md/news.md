@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-26T03:30:53+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T03:17:32+00:00._
+_Generated 2026-10-26T03:42:48+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T03:41:09+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Rodgers now alone with 3rd-most TD passes as Steelers win 1st Paris game](https://www.espn.com/nfl/story/_/id/50277960/rodgers-throws-historic-td-pass-steelers-win-1st-paris-game): ESPN, 2026-10-26 03:53 UTC
@@ -58,6 +58,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers stock report after Week 7 win over Saints](https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176871/steelers-stock-report-after-week-7-win-over-saints): Behind the Steel Curtain, 2026-10-25 17:35 UTC
 - [Pittsburgh Steelers @ New Orleans Saints | Week Seven NFL highlights](https://www.skysports.com/nfl/video/13603694/pittsburgh-steelers-at-new-orleans-saints-week-seven-nfl-highlights): Sky Sports, 2026-10-25 17:29 UTC
 - [‘It Was A Huge Play’: Payton Wilson ‘Keeps Getting Stronger And Stronger’, McCarthy Says](https://steelersdepot.com/2026/10/it-was-a-huge-play-payton-wilson-keeps-getting-stronger-and-stronger-mccarthy-says/): Steelers Depot, 2026-10-25 17:25 UTC
+- [Pittsburgh Steelers running back Jaylen Warren's best plays from 137-yard game vs. New Orleans Saints | Week 7](https://www.nfl.com/videos/jaylen-warren-s-best-plays-from-137-yard-game-vs-saints-week-7): NFL.com, 2026-10-25 17:21 UTC
 - [‘That Was A Goal:’ McCarthy Says Steelers Hit Key Target Number In Run Game](https://steelersdepot.com/2026/10/that-was-a-goal-mccarthy-says-steelers-hit-key-target-number-in-run-game/): Steelers Depot, 2026-10-25 17:20 UTC
 - [Steelers Now Postgame: Steelers 16, Saints 10](https://steelersnow.com/steelers-now-postgame-steelers-16-saints-10/): Steelers Now, 2026-10-25 17:18 UTC
 - [NFL Week 7 Recap: Pittsburgh Steelers 16, New Orleans Saints 10](https://www.pff.com/news/nfl-week-7-recap-pittsburgh-steelers-16-new-orleans-saints-10): PFF, 2026-10-25 17:17 UTC
@@ -78,10 +79,10 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Behind Jaylen Warren’s strong performance, Steelers top Saints in Paris for 3rd straight win](https://triblive.com/sports/behind-jaylen-warrens-strong-performance-steelers-top-saints-in-paris-for-3rd-straight-win/): TribLive, 2026-10-25 16:35 UTC
 - [Steelers beat Saints, 16-10, in Paris](https://www.steelers.com/news/steelers-beat-saints-16-10-in-paris): Steelers.com (official), 2026-10-25 16:35 UTC
 - [Recap: Steelers Leave Paris Happy With Win Over Saints, Advance To 5-2](https://steelersdepot.com/2026/10/recap-steelers-leave-paris-happy-with-win-over-saints-advance-to-5-2/): Steelers Depot, 2026-10-25 16:34 UTC
+- [Patrick Queen's hit-stick tackle ends Kamara's reception short of the first-down marker](https://www.nfl.com/videos/patrick-queen-s-hit-stick-tackle-ends-kamara-s-reception-short-of-the-first-down-marker): NFL.com, 2026-10-25 16:16 UTC
 - [NFL fans throw flag on Steelers for fashion faux pas as team takes on Saints in Paris | OutKick](https://www.foxnews.com/outkick-sports/nfl-fans-throw-flag-steelers-fashion-faux-pas-team-takes-saints-paris): Fox News, 2026-10-25 15:54 UTC
 - [Halftime Update: Pittsburgh Steelers 13, New Orleans Saints 10 | 2026 NFL Week 7](https://www.neworleanssaints.com/news/2026-nfl-week-7-pittsburgh-steelers-vs-new-orleans-saints-halftime-update): New Orleans Saints | NewOrleansSaints.com, 2026-10-25 15:50 UTC
 - [Former NFL referee ‘surprised’ officials overturned huge near T.J. Watt strip sack](https://www.pennlive.com/steelers/2026/10/former-nfl-referee-surprised-officials-overturned-huge-near-tj-watt-strip-sack.html): PennLive (Nick Farabaugh), 2026-10-25 15:50 UTC
-- [Chris Boswell's 47-yard FG gives Steelers a 13-10 lead over Saints entering halftime](https://www.nfl.com/videos/chris-boswell-s-47-yard-fg-gives-steelers-a-13-10-lead-over-saints-entering-halftime): NFL.com, 2026-10-25 15:36 UTC
 - [Aaron Rodgers Breaks NFL Record vs. Saints](https://steelersnow.com/aaron-rodgers-breaks-nfl-record-vs-saints/): Steelers Now, 2026-10-25 15:11 UTC
 - [2026 Week 7 Steelers Vs Saints Live Update And Discussion Thread – Second Half](https://steelersdepot.com/2026/10/2026-week-7-steelers-vs-saints-live-update-and-discussion-thread-second-half/): Steelers Depot, 2026-10-25 15:10 UTC
 - [Can't-Miss Play: Darnell Washington Mosses Saints defender on Rodgers' 4-yard TD pass in Paris](https://www.nfl.com/videos/can-t-miss-play-darnell-washington-mosses-saints-defender-on-rodgers-4-yard-td-pass-in-paris): NFL.com, 2026-10-25 14:52 UTC
@@ -152,7 +153,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - ['Would have been nice one time to come over on a Monday': Steelers race to acclimate to Paris](https://www.nytimes.com/athletic/7717102/2026/10/23/steelers-paris-travel-saints/): The Athletic, 2026-10-23 14:47 UTC
 - [Steelers Paris notebook: Team is confident it is safe amid protests, unrest](https://triblive.com/sports/steelers-paris-notebook-team-is-confident-it-is-safe-amidst-protests-unrest/): TribLive, 2026-10-23 14:33 UTC
 - [Steelers' Paris game gets even more unpredictable after weather shakeup](https://stillcurtain.com/pittsburgh-steelers-paris-unpredictable-weather-shakeup-01m5mes3qpbj?utm_source=RSS): Still Curtain, 2026-10-23 14:00 UTC
-- [Steelers safety DeShon Elliott could return Sunday, a year removed from his gruesome injury](https://www.post-gazette.com/sports/steelers/2026/10/23/will-deshon-elliott-play-sunday/stories/202610230028): Pittsburgh Post-Gazette, 2026-10-23 14:00 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

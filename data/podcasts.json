@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T03:30:23.528315+00:00",
+ "generated": "2026-10-26T03:42:29.476389+00:00",
  "date_et": "2026-10-25",
  "days": 5,
  "display_days": 2,
@@ -189,10 +189,10 @@
    "show": "Nick Farabaugh on PennLive",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5yvng1eSgffmybUM-51fTw",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 1,
    "week": 1,
-   "latest": null
+   "latest": "2026-10-24T18:08:40+00:00"
   },
   {
    "show": "Pittsburgh Steelers (official)",
@@ -216,7 +216,7 @@
    "show": "Not Just Football with Cam Heyward",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8hodyaoiw297aspKf9QVDA",
-   "status": "error: HTTP Error 500: Internal Server Error",
+   "status": "error: HTTP Error 404: Not Found",
    "episodes": 0,
    "week": 7,
    "latest": null
