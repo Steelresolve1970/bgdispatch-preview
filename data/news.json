@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T13:12:06.256397+00:00",
+ "generated": "2026-10-26T13:23:23.995907+00:00",
  "count": 150,
  "sources": [
   {
@@ -101,11 +101,19 @@
   {
    "source": "ProFootballTalk (NBC)",
    "url": "https://profootballtalk.nbcsports.com/feed/",
-   "status": "ok",
-   "steelers_items": 1
+   "status": "error: <urlopen error _ssl.c:1012: The handshake operation timed out>",
+   "steelers_items": 0
   }
  ],
  "items": [
+  {
+   "title": "Pittsburgh Steelers\u2019 Week 7 PFF Grades: Run It And Stuff It",
+   "source": "Steelers Depot",
+   "link": "https://steelersdepot.com/2026/10/pittsburgh-steelers-week-7-pff-grades-run-it-and-stuff-it/",
+   "published": "2026-10-26T13:15:46+00:00",
+   "summary": "Opinion story from Steelers Depot. Full report at the original publisher.",
+   "id": "a0dc257e7e"
+  },
   {
    "title": "Would a Brian Thomas Jr. Trade Make Sense for Steelers?",
    "source": "Steelers Now",
@@ -132,11 +140,11 @@
   },
   {
    "title": "5 takeaways from the Steelers\u2019 16-10 win over the Saints in Paris",
-   "source": "Yahoo Sports",
-   "link": "https://sports.yahoo.com/articles/5-takeaways-steelers-16-10-130000863.html",
+   "source": "Behind the Steel Curtain",
+   "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176900/5-takeaways-from-the-steelers-16-10-win-over-the-saints-in-paris",
    "published": "2026-10-26T13:00:00+00:00",
-   "summary": "Game story from Yahoo Sports. Full report at the original publisher.",
-   "id": "6028e465b9"
+   "summary": "Game story from Behind the Steel Curtain. Full report at the original publisher.",
+   "id": "56630aa72f"
   },
   {
    "title": "NFL insider names the Pittsburgh Steelers among teams lurking for a specific Pro Bowl wide receiver ahead of trade deadline",
@@ -146,6 +154,15 @@
    "via": "Google News",
    "summary": "Trade/roster move story from A to Z Sports. Full report at the original publisher.",
    "id": "3f32715141"
+  },
+  {
+   "title": "Pittsburgh Steelers Named as Landing Spot for Speedy Receiver in Intriguing Move",
+   "source": "Heavy.com",
+   "link": "https://heavy.com/sports/nfl/pittsburgh-steelers/landing-spot-josh-downs-offense/",
+   "published": "2026-10-26T12:55:39+00:00",
+   "via": "Google News",
+   "summary": "News story from Heavy.com. Full report at the original publisher.",
+   "id": "00ccf15109"
   },
   {
    "title": "Steelers' Own Super Bowl Champion Delivers Bold Challenge To Two Starters",
@@ -188,15 +205,6 @@
    "id": "f899b40d8a"
   },
   {
-   "title": "Steelers Can No Longer Avoid CB Troubles",
-   "source": "All Steelers (Sports Illustrated)",
-   "link": "https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-no-longer-avoid-cornerback-troubles",
-   "published": "2026-10-26T12:00:02+00:00",
-   "summary": "News story from All Steelers (Sports Illustrated). Full report at the original publisher.",
-   "via": "Google News",
-   "id": "d594cd3db8"
-  },
-  {
    "title": "Aaron Rodgers doesn\u2019t hold back on NFL\u2019s international game management: \u2018Wish there was a mandate\u2019",
    "source": "PennLive (Nick Farabaugh)",
    "link": "https://www.pennlive.com/steelers/2026/10/aaron-rodgers-doesnt-hold-back-on-nfls-international-game-management-wish-there-was-a-mandate.html",
@@ -219,14 +227,6 @@
    "published": "2026-10-26T11:00:27+00:00",
    "summary": "News story from Steelers Depot. Full report at the original publisher.",
    "id": "451cd9e02e"
-  },
-  {
-   "title": "Mike Tomlin supports Dan Campbell's late fourth-down decision",
-   "source": "ProFootballTalk (NBC)",
-   "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-tomlin-supports-dan-campbells-late-fourth-down-decision",
-   "published": "2026-10-26T10:32:10+00:00",
-   "summary": "News story from ProFootballTalk (NBC). Full report at the original publisher.",
-   "id": "57532b9fdc"
   },
   {
    "title": "\u2018Not Where You Want To Be\u2019: Steelers\u2019 Offense Thrived In One Area \u2014 And Did Not In Another",
@@ -440,6 +440,15 @@
    "published": "2026-10-25T22:30:12+00:00",
    "summary": "Game story from Steelers.com (official). Full report at the original publisher.",
    "id": "b00308c8e1"
+  },
+  {
+   "title": "Fazende: Five takes on Saints loss to Steelers",
+   "source": "FOX 8 Local First",
+   "link": "https://www.fox8live.com/2026/10/25/fazende-five-takes-saints-loss-steelers/",
+   "published": "2026-10-25T22:21:00+00:00",
+   "via": "Google News",
+   "summary": "Game story from FOX 8 Local First. Full report at the original publisher.",
+   "id": "ba968491b4"
   },
   {
    "title": "Steelers are far from perfect, but after beating Saints, they're exactly where they need to be",
@@ -699,14 +708,6 @@
    "published": "2026-10-25T17:58:00+00:00",
    "summary": "News story from Steelers Now. Full report at the original publisher.",
    "id": "4292253800"
-  },
-  {
-   "title": "\u2018We Could Run It Against Them\u2019: Steelers \u2018Knew\u2019 They Could Beat Saints Up With Ground Game",
-   "source": "Steelers Depot",
-   "link": "https://steelersdepot.com/2026/10/we-could-run-it-against-them-steelers-knew-they-could-beat-saints-up-with-ground-game/",
-   "published": "2026-10-25T17:55:29+00:00",
-   "summary": "Game story from Steelers Depot. Full report at the original publisher.",
-   "id": "93b440e0fa"
   },
   {
    "title": "Rodgers is Steelers Player of the Week",
@@ -1056,14 +1057,6 @@
    "id": "711f58947b"
   },
   {
-   "title": "How to watch Steelers vs. Saints",
-   "source": "Behind the Steel Curtain",
-   "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-game-information/176852/how-to-watch-steelers-vs-saints",
-   "published": "2026-10-25T10:00:00+00:00",
-   "summary": "Game story from Behind the Steel Curtain. Full report at the original publisher.",
-   "id": "391e0e80db"
-  },
-  {
    "title": "How to watch today's Pittsburgh Steelers vs. New Orleans Saints international game being played in Paris",
    "source": "CBS News",
    "link": "https://www.cbsnews.com/pittsburgh/news/how-to-watch-today-pittsburgh-steelers-new-orleans-saints-paris-france-week-7-nfl-schedule/",
@@ -1253,15 +1246,6 @@
    "id": "097d95c554"
   },
   {
-   "title": "Pittsburgh Steelers Named as Landing Spot for $92M WR in Blockbuster Move",
-   "source": "Heavy.com",
-   "link": "https://heavy.com/sports/nfl/pittsburgh-steelers/landing-spot-calvin-ridley-blockbuster/",
-   "published": "2026-10-24T13:45:32+00:00",
-   "via": "Google News",
-   "summary": "News story from Heavy.com. Full report at the original publisher.",
-   "id": "b42bbcb565"
-  },
-  {
    "title": "Four-Down Territory: Run game will travel",
    "source": "Steelers.com (official)",
    "link": "https://www.steelers.com/news/four-down-territory-run-game-will-travel",
@@ -1333,6 +1317,22 @@
    "published": "2026-10-24T00:05:35+00:00",
    "summary": "News story from TribLive. Full report at the original publisher.",
    "id": "62cdf88758"
+  },
+  {
+   "title": "Steelers get T.J. Watt relief with DeShon Elliott's return still in doubt",
+   "source": "Still Curtain",
+   "link": "https://stillcurtain.com/pittsburgh-steelers-saints-injury-report-week-7-friday?utm_source=RSS",
+   "published": "2026-10-23T22:00:01+00:00",
+   "summary": "News story from Still Curtain. Full report at the original publisher.",
+   "id": "b58e16cfe6"
+  },
+  {
+   "title": "An Alex Highsmith trade would be a short-sighted move for the Steelers",
+   "source": "Still Curtain",
+   "link": "https://stillcurtain.com/an-alex-highsmith-trade-would-be-a-short-sighted-move-for-the-pittsburgh-steelers-01m5mwg1rt2e?utm_source=RSS",
+   "published": "2026-10-23T21:02:32+00:00",
+   "summary": "Trade/roster move story from Still Curtain. Full report at the original publisher.",
+   "id": "27f045aa8c"
   }
  ],
  "dropped_bad_links": 0
