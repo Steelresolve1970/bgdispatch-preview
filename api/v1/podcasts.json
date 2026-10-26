@@ -2,8 +2,8 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-26T09:57:10+00:00",
- "data_updated": "2026-10-26T09:56:51+00:00",
+ "generated": "2026-10-26T11:07:09+00:00",
+ "data_updated": "2026-10-26T11:06:50+00:00",
  "count": 108,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
@@ -19,6 +19,19 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/podcasts",
  "items": [
+  {
+   "id": "d281242a189b6c05",
+   "type": "podcast_episode",
+   "title": "Pittsburgh Steelers Win 16-10 vs Saints - [What Went Right/Wrong In Week 7]",
+   "show": "The Arthur Moats Experience",
+   "url": "https://arthurmoats55.libsyn.com/panel_1025_ytmp3",
+   "published": "2026-10-26T09:52:00+00:00",
+   "summary": "Podcast episode from The Arthur Moats Experience.",
+   "source": {
+    "name": "The Arthur Moats Experience",
+    "url": null
+   }
+  },
   {
    "id": "49f2b5175ccf8998",
    "type": "video",
@@ -59,11 +72,11 @@
    }
   },
   {
-   "id": "50327394adeb9940",
+   "id": "842f5a430159ffd8",
    "type": "podcast_episode",
    "title": "STEELERS SQUAD SHOW: Warren Runs OVER Saints & Defense DISMANTLES Saints Run Game in PARIS, 16-10",
    "show": "Locked On Steelers",
-   "url": "https://lockedonpodcasts.com/podcasts/locked-on-steelers/",
+   "url": "https://podcasts.apple.com/us/podcast/steelers-squad-show-warren-runs-over-saints-defense/id1140522532?i=1000798075207",
    "published": "2026-10-25T22:09:56+00:00",
    "summary": "Podcast episode from Locked On Steelers.",
    "source": {
@@ -79,6 +92,19 @@
    "url": "https://www.youtube.com/watch?v=HfPpglcWbEE",
    "published": "2026-10-25T22:00:06+00:00",
    "summary": "Video from Locked On Steelers.",
+   "source": {
+    "name": "Locked On Steelers",
+    "url": null
+   }
+  },
+  {
+   "id": "73a8f9777e8517be",
+   "type": "podcast_episode",
+   "title": "Steelers' Jaylen Warren, Rico Dowdle a Dynamic Duo in 16-10 Win vs Saints | Patrick Graham is Right",
+   "show": "Locked On Steelers",
+   "url": "https://podcasts.apple.com/us/podcast/steelers-jaylen-warren-rico-dowdle-a-dynamic-duo-in/id1140522532?i=1000798074599",
+   "published": "2026-10-25T22:00:00+00:00",
+   "summary": "Podcast episode from Locked On Steelers.",
    "source": {
     "name": "Locked On Steelers",
     "url": null
@@ -1394,32 +1420,6 @@
    "summary": "Video from Steelers Almighty.",
    "source": {
     "name": "Steelers Almighty",
-    "url": null
-   }
-  },
-  {
-   "id": "daa865dcc7855a50",
-   "type": "video",
-   "title": "Germie Bernard's First NFL Touchdown, Rookie Wall, Paris Preview & More! | Not Just Football",
-   "show": "Not Just Football with Cam Heyward",
-   "url": "https://www.youtube.com/watch?v=gYn6X7Mzibw",
-   "published": "2026-10-21T10:00:32+00:00",
-   "summary": "Video from Not Just Football with Cam Heyward.",
-   "source": {
-    "name": "Not Just Football with Cam Heyward",
-    "url": null
-   }
-  },
-  {
-   "id": "0b911ab61dc492c9",
-   "type": "podcast_episode",
-   "title": "Germie Bernard's First NFL Touchdown, Rookie Wall, Paris Preview & More! | Not Just Football",
-   "show": "Not Just Football with Cam Heyward",
-   "url": "https://podcasts.apple.com/us/podcast/germie-bernards-first-nfl-touchdown-rookie-wall-paris/id1633134223?i=1000797421041",
-   "published": "2026-10-21T10:00:00+00:00",
-   "summary": "Podcast episode from Not Just Football with Cam Heyward.",
-   "source": {
-    "name": "Not Just Football with Cam Heyward",
     "url": null
    }
   }

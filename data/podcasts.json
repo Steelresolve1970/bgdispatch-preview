@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-26T09:56:51.545751+00:00",
+ "generated": "2026-10-26T11:06:50.621766+00:00",
  "date_et": "2026-10-26",
  "days": 5,
  "display_days": 2,
- "count": 111,
+ "count": 110,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -90,10 +90,10 @@
    "show": "Steel City Underground",
    "kind": "podcast",
    "url": "https://feeds.feedburner.com/steelcityunderground",
-   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 45,
    "week": 1,
-   "latest": null
+   "latest": "2026-10-22T16:20:16+00:00"
   },
   {
    "show": "Steel City Underground",
@@ -137,8 +137,8 @@
    "url": "https://rss.pdrl.fm/20d9c9/feeds.libsyn.com/183851/rss/?redirect=false",
    "status": "ok",
    "episodes": 100,
-   "week": 1,
-   "latest": "2026-10-22T20:00:00+00:00"
+   "week": 2,
+   "latest": "2026-10-26T09:52:00+00:00"
   },
   {
    "show": "All Steelers Talk",
@@ -209,7 +209,7 @@
    "url": "https://feeds.megaphone.fm/VMP7932485726",
    "status": "ok",
    "episodes": 211,
-   "week": 1,
+   "week": 0,
    "latest": "2026-10-21T10:00:00+00:00"
   },
   {
@@ -218,7 +218,7 @@
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8hodyaoiw297aspKf9QVDA",
    "status": "ok",
    "episodes": 15,
-   "week": 7,
+   "week": 6,
    "latest": "2026-10-25T19:36:25+00:00"
   },
   {
@@ -250,6 +250,14 @@
   }
  ],
  "items": [
+  {
+   "title": "Pittsburgh Steelers Win 16-10 vs Saints - [What Went Right/Wrong In Week 7]",
+   "show": "The Arthur Moats Experience",
+   "kind": "podcast",
+   "link": "https://arthurmoats55.libsyn.com/panel_1025_ytmp3",
+   "published": "2026-10-26T09:52:00+00:00",
+   "summary": "Podcast episode from The Arthur Moats Experience."
+  },
   {
    "title": "STEELERS SQUAD SHOW: Warren Runs OVER Saints & Defense DISMANTLES Saints Run Game in PARIS, 16-10",
    "show": "Locked On Steelers",
@@ -286,7 +294,7 @@
    "title": "STEELERS SQUAD SHOW: Warren Runs OVER Saints & Defense DISMANTLES Saints Run Game in PARIS, 16-10",
    "show": "Locked On Steelers",
    "kind": "podcast",
-   "link": "https://lockedonpodcasts.com/podcasts/locked-on-steelers/",
+   "link": "https://podcasts.apple.com/us/podcast/steelers-squad-show-warren-runs-over-saints-defense/id1140522532?i=1000798075207",
    "published": "2026-10-25T22:09:56+00:00",
    "summary": "Podcast episode from Locked On Steelers."
   },
@@ -302,7 +310,7 @@
    "title": "Steelers' Jaylen Warren, Rico Dowdle a Dynamic Duo in 16-10 Win vs Saints | Patrick Graham is Right",
    "show": "Locked On Steelers",
    "kind": "podcast",
-   "link": "https://lockedonpodcasts.com/podcasts/locked-on-steelers/",
+   "link": "https://podcasts.apple.com/us/podcast/steelers-jaylen-warren-rico-dowdle-a-dynamic-duo-in/id1140522532?i=1000798074599",
    "published": "2026-10-25T22:00:00+00:00",
    "summary": "Podcast episode from Locked On Steelers."
   },
@@ -1124,22 +1132,6 @@
    "published": "2026-10-21T11:24:15+00:00",
    "summary": "Video from Steelers Almighty.",
    "from_film": true
-  },
-  {
-   "title": "Germie Bernard's First NFL Touchdown, Rookie Wall, Paris Preview & More! | Not Just Football",
-   "show": "Not Just Football with Cam Heyward",
-   "kind": "video",
-   "link": "https://www.youtube.com/watch?v=gYn6X7Mzibw",
-   "published": "2026-10-21T10:00:32+00:00",
-   "summary": "Video from Not Just Football with Cam Heyward."
-  },
-  {
-   "title": "Germie Bernard's First NFL Touchdown, Rookie Wall, Paris Preview & More! | Not Just Football",
-   "show": "Not Just Football with Cam Heyward",
-   "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/germie-bernards-first-nfl-touchdown-rookie-wall-paris/id1633134223?i=1000797421041",
-   "published": "2026-10-21T10:00:00+00:00",
-   "summary": "Podcast episode from Not Just Football with Cam Heyward."
   }
  ],
  "yt_channels": [],
@@ -1152,6 +1144,14 @@
   "kickoff": "2026-10-25T13:30:00+00:00",
   "until": "2026-10-27T17:30:00+00:00",
   "items": [
+   {
+    "title": "Pittsburgh Steelers Win 16-10 vs Saints - [What Went Right/Wrong In Week 7]",
+    "show": "The Arthur Moats Experience",
+    "kind": "podcast",
+    "link": "https://arthurmoats55.libsyn.com/panel_1025_ytmp3",
+    "published": "2026-10-26T09:52:00+00:00",
+    "summary": "Podcast episode from The Arthur Moats Experience."
+   },
    {
     "title": "STEELERS SQUAD SHOW: Warren Runs OVER Saints & Defense DISMANTLES Saints Run Game in PARIS, 16-10",
     "show": "Locked On Steelers",
