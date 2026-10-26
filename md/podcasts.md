@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-26T12:24:04+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T12:23:46+00:00._
+_Generated 2026-10-26T12:35:14+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T12:34:55+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Podcast: [Steelers' Aaron Rodgers Farewell Tour Has Finally Begun](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-26 12:18 UTC
 - Podcast: [Pittsburgh Steelers Win 16-10 vs Saints - [What Went Right/Wrong In Week 7]](https://arthurmoats55.libsyn.com/panel_1025_ytmp3): The Arthur Moats Experience, 2026-10-26 09:52 UTC
 - Video: [STEELERS SQUAD SHOW: Warren Runs OVER Saints & Defense DISMANTLES Saints Run Game in PARIS, 16-10](https://www.youtube.com/watch?v=dnrjjelOSeU): Locked On Steelers, 2026-10-26 05:45 UTC
 - Podcast: [DK's Daily Shot of Steelers: Having fun yet?](https://podcasts.apple.com/us/podcast/dks-daily-shot-of-steelers-having-fun-yet/id1072021022?i=1000798146008): DK Pittsburgh Sports, 2026-10-26 05:42 UTC
@@ -19,7 +20,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Steelers vs Saints Post Game Show IN PARIS LIVE | Not Just Football](https://www.youtube.com/watch?v=3cEWtad5nFI): Not Just Football with Cam Heyward, 2026-10-25 18:34 UTC
 - Video: [Oui did that‼️](https://www.youtube.com/shorts/gkYiQKTK4bE): Pittsburgh Steelers (official), 2026-10-25 18:13 UTC
 - Video: [DUB IN PARIS 🗣️](https://www.youtube.com/shorts/52EPBrMefCM): Pittsburgh Steelers (official), 2026-10-25 17:58 UTC
-- Podcast: [WINNERS! Steelers Are Getting Dangerous!](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-25 17:40 UTC
 - Video: [DAT WAY‼️ 📺: NFLN](https://www.youtube.com/shorts/JM9lq50O3vc): Pittsburgh Steelers (official), 2026-10-25 16:35 UTC
 - Video: [Picked by Payton‼️ 📺: NFLN](https://www.youtube.com/shorts/ra_a1PpysFo): Pittsburgh Steelers (official), 2026-10-25 15:42 UTC
 - Video: [HAPPY NATIONAL TE DAY DARNELL 😤 📺: NFLN](https://www.youtube.com/shorts/hrO-Nsseh4A): Pittsburgh Steelers (official), 2026-10-25 14:52 UTC

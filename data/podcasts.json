@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-26T12:23:46.041032+00:00",
+ "generated": "2026-10-26T12:34:55.845312+00:00",
  "date_et": "2026-10-26",
  "days": 5,
  "display_days": 2,
- "count": 108,
+ "count": 109,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -90,10 +90,10 @@
    "show": "Steel City Underground",
    "kind": "podcast",
    "url": "https://feeds.feedburner.com/steelcityunderground",
-   "status": "ok",
-   "episodes": 45,
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "episodes": 0,
    "week": 1,
-   "latest": "2026-10-22T16:20:16+00:00"
+   "latest": null
   },
   {
    "show": "Steel City Underground",
@@ -145,9 +145,9 @@
    "kind": "podcast",
    "url": "https://feeds.simplecast.com/TJlnaIkx",
    "status": "ok",
-   "episodes": 1835,
-   "week": 8,
-   "latest": "2026-10-25T17:40:00+00:00"
+   "episodes": 1836,
+   "week": 9,
+   "latest": "2026-10-26T12:18:00+00:00"
   },
   {
    "show": "Steelers Now",
@@ -250,6 +250,14 @@
   }
  ],
  "items": [
+  {
+   "title": "Steelers' Aaron Rodgers Farewell Tour Has Finally Begun",
+   "show": "All Steelers Talk",
+   "kind": "podcast",
+   "link": "https://podcasts.apple.com/us/podcast/id1627248534",
+   "published": "2026-10-26T12:18:00+00:00",
+   "summary": "Podcast episode from All Steelers Talk."
+  },
   {
    "title": "Pittsburgh Steelers Win 16-10 vs Saints - [What Went Right/Wrong In Week 7]",
    "show": "The Arthur Moats Experience",

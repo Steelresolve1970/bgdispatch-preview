@@ -1,8 +1,9 @@
 # Steelers News
 
-_Generated 2026-10-26T12:24:04+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T12:23:29+00:00._
+_Generated 2026-10-26T12:35:14+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T12:34:36+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Stats Of The Weird: Steelers Vs Saints](https://steelersdepot.com/2026/10/stats-of-the-weird-steelers-vs-saints-3/): Steelers Depot, 2026-10-26 12:30 UTC
 - [Steelers Daily News & Links: Aaron Rodgers Iced Out; Insane Jaylen Warren Stat](https://steelersnow.com/steelers-daily-news-links-aaron-rodgers-iced-out-insane-jaylen-warren-stat/): Steelers Now, 2026-10-26 12:12 UTC
 - [Steelers ‘Might Have Figured Out’ Run Game With Warren And Dowdle Rotation, Kaboly Says](https://steelersdepot.com/2026/10/steelers-might-have-figured-out-run-game-with-warren-and-dowdle-rotation-kaboly-says/): Steelers Depot, 2026-10-26 12:00 UTC
 - [The Steelers' run defense wasn't just elite in Week 7: It was historic](https://stillcurtain.com/the-pittsburgh-steelers-run-defense-wasn-t-just-elite-in-week-7-it-was-historic-01m5v2673a3f?utm_source=RSS): Still Curtain, 2026-10-26 12:00 UTC
@@ -75,7 +76,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Rodgers is Steelers Player of the Week](https://www.steelers.com/news/rodgers-is-steelers-player-of-the-week): Steelers.com (official), 2026-10-25 17:52 UTC
 - [Payton Wilson Spills Secrets To His Critical INT, And How Aaron Rodgers Played A Role](https://steelersdepot.com/2026/10/payton-wilson-spills-secrets-to-his-critical-int-and-how-aaron-rodgers-played-a-role/): Steelers Depot, 2026-10-25 17:50 UTC
 - [Referee Grades: Steelers vs. Saints Was Tough to Watch](https://www.si.com/nfl/steelers/onsi/referee-grades-pittsburgh-steelers-saints-tough-watch): All Steelers (Sports Illustrated), 2026-10-25 17:47 UTC
-- [Aaron Rodgers Doubles Down, Repeats 2026 Season Will Be His Last](https://steelersdepot.com/2026/10/aaron-rodgers-doubles-down-repeats-2026-season-will-be-his-last/): Steelers Depot, 2026-10-25 17:45 UTC
 - [‘Our Fans Always Show Up’: Mike McCarthy Shouts Out Steelers Nation after Win over Saints in Paris](https://steelersnow.com/our-fans-always-show-up-mike-mccarthy-shouts-out-steelers-nation-after-win-over-saints-in-paris/): Steelers Now, 2026-10-25 17:44 UTC
 - [Steelers stock report after Week 7 win over Saints](https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176871/steelers-stock-report-after-week-7-win-over-saints): Behind the Steel Curtain, 2026-10-25 17:35 UTC
 - [Pittsburgh Steelers @ New Orleans Saints | Week Seven NFL highlights](https://www.skysports.com/nfl/video/13603694/pittsburgh-steelers-at-new-orleans-saints-week-seven-nfl-highlights): Sky Sports, 2026-10-25 17:29 UTC
