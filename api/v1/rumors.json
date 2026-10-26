@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "rumors",
  "description": "Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).",
- "generated": "2026-10-26T13:01:48+00:00",
- "data_updated": "2026-10-26T13:01:41+00:00",
- "count": 28,
+ "generated": "2026-10-26T13:12:48+00:00",
+ "data_updated": "2026-10-26T13:12:42+00:00",
+ "count": 30,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -19,6 +19,70 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/rumors",
  "items": [
+  {
+   "id": "04317067e676",
+   "type": "rumor",
+   "title": "Steelers' trade deadline opportunity with Raiders is too good to ignore",
+   "summary": "Trade/roster move story from Still Curtain. Full report at the original publisher.",
+   "url": "https://stillcurtain.com/pittsburgh-steelers-trade-deadline-opportunity-las-vegas-raiders-too-good-ignore-01m5jmnqexxg?utm_source=RSS",
+   "source": {
+    "name": "Still Curtain",
+    "url": null,
+    "reliability_tier": "Fan blog",
+    "reliability_score": 2
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-26T13:12:42+00:00",
+   "updated": "2026-10-26T13:12:42+00:00",
+   "published": "2026-10-26T13:00:33+00:00",
+   "people": [],
+   "consensus": {
+    "cluster_id": "04317067e676",
+    "independent_sources": 1,
+    "sources": [
+     "Still Curtain"
+    ],
+    "highest_tier": "Fan blog",
+    "highest_tier_score": 2,
+    "related_ids": []
+   }
+  },
+  {
+   "id": "3f3271514107",
+   "type": "rumor",
+   "title": "NFL insider names the Pittsburgh Steelers among teams lurking for a specific Pro Bowl wide receiver ahead of trade deadline",
+   "summary": "Trade/roster move story from A to Z Sports. Full report at the original publisher.",
+   "url": "https://atozsports.com/nfl/pittsburgh-steelers-news/pittsburgh-steelers-monitoring-brian-thomas-jr-trade-nfl-deadline-rumors/",
+   "source": {
+    "name": "A to Z Sports",
+    "url": null,
+    "reliability_tier": "Aggregator / other",
+    "reliability_score": 1
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-26T13:12:42+00:00",
+   "updated": "2026-10-26T13:12:42+00:00",
+   "published": "2026-10-26T13:00:00+00:00",
+   "people": [
+    "Pro Bowl"
+   ],
+   "consensus": {
+    "cluster_id": "5a0773cc79d1",
+    "independent_sources": 2,
+    "sources": [
+     "A to Z Sports",
+     "Still Curtain"
+    ],
+    "highest_tier": "Fan blog",
+    "highest_tier_score": 2,
+    "related_ids": [
+     "7fd46e561838",
+     "5a0773cc79d1"
+    ]
+   }
+  },
   {
    "id": "5a6d9de5e61f",
    "type": "rumor",
@@ -511,13 +575,15 @@
    "people": [],
    "consensus": {
     "cluster_id": "5a0773cc79d1",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
+     "A to Z Sports",
      "Still Curtain"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
     "related_ids": [
+     "3f3271514107",
      "5a0773cc79d1"
     ]
    }

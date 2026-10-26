@@ -1,6 +1,6 @@
 # Steelers Film Room & Previews
 
-_Generated 2026-10-26T13:01:48+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T12:46:40+00:00._
+_Generated 2026-10-26T13:12:48+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T13:12:12+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/film.json_
 
 - Breakdown (at New Orleans Saints (Oct 25)): [Film Room: Pittsburgh Has One Unstoppable Red Zone Play](https://steelersdepot.com/2026/10/film-room-pittsburgh-has-one-unstoppable-red-zone-play/): Alex Kozora (Steelers Depot), 2026-10-26 04:00 UTC
