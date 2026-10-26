@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-26T14:30:47.737777+00:00",
+ "last_run": "2026-10-26T14:41:49.023328+00:00",
  "results": [
   {
    "fetcher": "apply_grade_edits.py",
@@ -10,7 +10,7 @@
   {
    "fetcher": "fetch_news.py",
    "ok": true,
-   "seconds": 9.5,
+   "seconds": 3.5,
    "last_line": "news: 150 ticker: 30"
   },
   {
@@ -35,12 +35,12 @@
    "fetcher": "fetch_insiders.py",
    "ok": true,
    "seconds": 2.0,
-   "last_line": "sidebar: 5 full feed: 30"
+   "last_line": "sidebar: 5 full feed: 31"
   },
   {
    "fetcher": "fetch_film.py",
    "ok": true,
-   "seconds": 4.5,
+   "seconds": 3.5,
    "last_line": "  Week 1 vs Falcons (W 20-13): 2   {'Steelers Depot Film Room (Alex Kozora)': 1, \"Derrick Bell \u2013 DB's Film Room (Steelers Now)\": 1}"
   },
   {
@@ -113,7 +113,7 @@
    "fetcher": "fetch_hub.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "hub fresh (<30 min); skipped"
+   "last_line": "injuries 14 practice 1 opp CLE"
   },
   {
    "fetcher": "fetch_matchup.py",
@@ -124,7 +124,7 @@
   {
    "fetcher": "fetch_depth.py",
    "ok": true,
-   "seconds": 5.0,
+   "seconds": 3.0,
    "last_line": "depth units [('Offense', '3WR 1TE', 12), ('Defense', 'Base 3-4 D', 12), ('Special teams', 'Special Teams', 6)]"
   },
   {
@@ -173,13 +173,13 @@
    "fetcher": "fetch_quotes.py",
    "ok": true,
    "seconds": 1.5,
-   "last_line": "quotes: 8 kept from 132 articles"
+   "last_line": "quotes: 8 kept from 133 articles"
   },
   {
    "fetcher": "build_machine.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "machine layer: {'news': 150, 'rumors': 30, 'injuries': 14, 'depth-chart': 28, 'schedule': 17, 'stats': 63, 'grades': 42, 'college': 20, 'insiders': 30, 'podcasts': 110, 'film': 2, 'draft': 521} md 13 feeds 5 jsonld 14"
+   "last_line": "machine layer: {'news': 150, 'rumors': 30, 'injuries': 14, 'depth-chart': 28, 'schedule': 17, 'stats': 63, 'grades': 42, 'college': 20, 'insiders': 31, 'podcasts': 111, 'film': 2, 'draft': 521} md 13 feeds 5 jsonld 14"
   }
  ]
 }
