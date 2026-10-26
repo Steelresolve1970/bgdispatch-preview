@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T01:19:29.112203+00:00",
+ "generated": "2026-10-26T01:31:24.924326+00:00",
  "date_et": "2026-10-25",
  "days": 5,
  "display_days": 2,
@@ -18,10 +18,10 @@
    "show": "Locked On Steelers",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7JorgD8nGLtvvMy1ogFetg",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 8,
-   "latest": "2026-10-25T22:00:06+00:00"
+   "latest": null
   },
   {
    "show": "The Terrible Podcast (Steelers Depot)",
@@ -81,28 +81,28 @@
    "show": "Still Curtain Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxjSNPLcRAVzDKOjhRwo-hQ",
-   "status": "error: HTTP Error 500: Internal Server Error",
+   "status": "ok",
+   "episodes": 15,
+   "week": 1,
+   "latest": "2026-10-22T06:58:28+00:00"
+  },
+  {
+   "show": "Steel City Underground",
+   "kind": "podcast",
+   "url": "https://feeds.feedburner.com/steelcityunderground",
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
    "episodes": 0,
    "week": 1,
    "latest": null
   },
   {
    "show": "Steel City Underground",
-   "kind": "podcast",
-   "url": "https://feeds.feedburner.com/steelcityunderground",
-   "status": "ok",
-   "episodes": 45,
-   "week": 1,
-   "latest": "2026-10-22T16:20:16+00:00"
-  },
-  {
-   "show": "Steel City Underground",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDcNNAMkYr-DzH6_XL-0p8Q",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 1,
-   "latest": "2026-10-22T16:28:41+00:00"
+   "latest": null
   },
   {
    "show": "Steelers Afternoon Drive",
@@ -153,10 +153,10 @@
    "show": "Steelers Now",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp1iAMIfmmgWewzJ07_Y7oA",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 15,
-   "latest": "2026-10-25T19:32:28+00:00"
+   "latest": null
   },
   {
    "show": "The Steel City Insider (Jim Wexell, 247Sports)",
@@ -189,19 +189,19 @@
    "show": "Nick Farabaugh on PennLive",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5yvng1eSgffmybUM-51fTw",
-   "status": "ok",
-   "episodes": 1,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 1,
-   "latest": "2026-10-24T18:08:40+00:00"
+   "latest": null
   },
   {
    "show": "Pittsburgh Steelers (official)",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChaRXjMDs4ppKfnTPE6Z89w",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 15,
-   "latest": "2026-10-25T23:09:30+00:00"
+   "latest": null
   },
   {
    "show": "Not Just Football with Cam Heyward",
@@ -216,10 +216,10 @@
    "show": "Not Just Football with Cam Heyward",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8hodyaoiw297aspKf9QVDA",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 7,
-   "latest": "2026-10-25T19:36:25+00:00"
+   "latest": null
   },
   {
    "show": "Footbahlin with Ben Roethlisberger",
