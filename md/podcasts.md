@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-26T00:45:51+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T00:45:33+00:00._
+_Generated 2026-10-26T00:57:30+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T00:57:12+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Darnell takin over Paris 😤](https://www.youtube.com/shorts/Frs4q46PolI): Pittsburgh Steelers (official), 2026-10-25 23:09 UTC
