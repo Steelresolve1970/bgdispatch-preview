@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-26T12:13:07+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T11:21:02+00:00._
+_Generated 2026-10-26T12:24:04+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T12:23:46+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [Pittsburgh Steelers Win 16-10 vs Saints - [What Went Right/Wrong In Week 7]](https://arthurmoats55.libsyn.com/panel_1025_ytmp3): The Arthur Moats Experience, 2026-10-26 09:52 UTC
@@ -111,8 +111,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Steelers Big Plans at QB and WR](https://podcasts.apple.com/us/podcast/steelers-big-plans-at-qb-and-wr/id1627248534?i=1000797452829): All Steelers Talk, 2026-10-21 15:00 UTC
 - Video: [Steelers' COACHING Grades vs Bucs](https://www.youtube.com/shorts/lKtukfSt-DA): Steelers Almighty, 2026-10-21 14:23 UTC
 - Podcast: [Hour 2: Power Rankings](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr2-102126-mp3): Steelers Blitz, 2026-10-21 14:00 UTC
-- Podcast: [Time to Believe in One Steelers Player](https://podcasts.apple.com/us/podcast/time-to-believe-in-one-steelers-player/id1627248534?i=1000797435986): All Steelers Talk, 2026-10-21 12:18 UTC
-- Video: [Steelers' ST Grades vs Bucs](https://www.youtube.com/shorts/w_S8QFbmZHE): Steelers Almighty, 2026-10-21 11:24 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
