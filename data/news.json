@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T17:40:26.267513+00:00",
+ "generated": "2026-10-26T17:51:17.359065+00:00",
  "count": 150,
  "sources": [
   {
@@ -29,8 +29,8 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "ok",
-   "steelers_items": 24
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "steelers_items": 0
   },
   {
    "source": "Still Curtain",
@@ -72,7 +72,7 @@
    "source": "Yahoo Sports",
    "url": "https://sports.yahoo.com/nfl/rss/",
    "status": "ok",
-   "steelers_items": 3
+   "steelers_items": 4
   },
   {
    "source": "Google News",
@@ -107,12 +107,20 @@
  ],
  "items": [
   {
+   "title": "\u2018Does Not Translate To Playoff Football\u2019: Cowherd Finds Steelers\u2019 Method Of Winning Unsustainable",
+   "source": "Steelers Depot",
+   "link": "https://steelersdepot.com/2026/10/does-not-translate-to-playoff-football-cowherd-finds-steelers-method-of-winning-unsustainable/",
+   "published": "2026-10-26T17:45:28+00:00",
+   "summary": "Game story from Steelers Depot. Full report at the original publisher.",
+   "id": "5f35e07183"
+  },
+  {
    "title": "John Harbaugh's success should spark a land rush for Mike Tomlin",
-   "source": "ProFootballTalk (NBC)",
-   "link": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/john-harbaughs-success-should-spark-a-land-rush-for-mike-tomlin",
+   "source": "Yahoo Sports",
+   "link": "https://sports.yahoo.com/articles/john-harbaughs-success-spark-land-173137645.html",
    "published": "2026-10-26T17:31:37+00:00",
-   "summary": "Opinion story from ProFootballTalk (NBC). Full report at the original publisher.",
-   "id": "b54609a48c"
+   "summary": "Opinion story from Yahoo Sports. Full report at the original publisher.",
+   "id": "9b92f2aaa3"
   },
   {
    "title": "\u2018How Do You Reverse That?\u2019: Former Steelers Outraged By Overturned T.J. Watt Forced Fumble",
@@ -437,14 +445,6 @@
    "id": "77f6ad8a35"
   },
   {
-   "title": "Steelers Takeaways: Defense and running game deliver another victory in Paris",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/26/steelers-takeaways-defense-and-running-game-deliver-another-victory-in-paris/",
-   "published": "2026-10-26T13:35:33+00:00",
-   "summary": "Game story from Steel City Underground. Full report at the original publisher.",
-   "id": "da451f7798"
-  },
-  {
    "title": "Film Room: Steelers Run Flawless Special Teams \u2018Fire Drill\u2019 To Net Three Crucial Points",
    "source": "Steelers Depot",
    "link": "https://steelersdepot.com/2026/10/film-room-steelers-run-flawless-special-teams-fire-drill-to-net-three-crucial-points/",
@@ -576,14 +576,6 @@
    "id": "8127a79837"
   },
   {
-   "title": "Payton Wilson\u2019s interception stops Saints\u2019 second-half scoring threat",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/26/payton-wilsons-interception-stops-saints-second-half-scoring-threat/",
-   "published": "2026-10-26T11:46:13+00:00",
-   "summary": "News story from Steel City Underground. Full report at the original publisher.",
-   "id": "1edb3d9827"
-  },
-  {
    "title": "Steelers vs. Saints: What they\u2019re saying in New Orleans after loss",
    "source": "TribLive",
    "link": "https://triblive.com/sports/steelers-vs-saints-what-theyre-saying-in-new-orleans-after-loss-2/",
@@ -606,14 +598,6 @@
    "published": "2026-10-26T10:32:10+00:00",
    "summary": "News story from ProFootballTalk (NBC). Full report at the original publisher.",
    "id": "57532b9fdc"
-  },
-  {
-   "title": "\u2018Not Where You Want To Be\u2019: Steelers\u2019 Offense Thrived In One Area \u2014 And Did Not In Another",
-   "source": "Steelers Depot",
-   "link": "https://steelersdepot.com/2026/10/not-where-you-want-to-be-steelers-offense-thrived-in-one-area-and-did-not-in-another/",
-   "published": "2026-10-26T10:20:08+00:00",
-   "summary": "News story from Steelers Depot. Full report at the original publisher.",
-   "id": "faddefdb0f"
   },
   {
    "title": "How Aaron Rodgers Helped Payton Wilson Make Crucial Play in Steelers Win",
@@ -1165,14 +1149,6 @@
    "id": "5fc33810de"
   },
   {
-   "title": "SCU Week in Review \u2013 October 25th",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/25/scu-week-in-review-october-25th-2/",
-   "published": "2026-10-25T10:40:18+00:00",
-   "summary": "News story from Steel City Underground. Full report at the original publisher.",
-   "id": "1fad850306"
-  },
-  {
    "title": "Asked and Answered: Oct. 25",
    "source": "Steelers.com (official)",
    "link": "https://www.steelers.com/news/asked-and-answered-oct-25-x9987",
@@ -1334,6 +1310,31 @@
    "published": "2026-10-24T14:30:36+00:00",
    "summary": "Game story from Steelers.com (official). Full report at the original publisher.",
    "id": "2db4a813a5"
+  },
+  {
+   "title": "What to know about Saints-Steelers NFL Paris game amid unrest, protests in city",
+   "source": "The Athletic",
+   "link": "https://www.nytimes.com/athletic/7714662/2026/10/24/nfl-saints-steelers-paris-protests/",
+   "published": "2026-10-24T14:25:06+00:00",
+   "summary": "Game story from The Athletic. Full report at the original publisher.",
+   "id": "d83f083d26"
+  },
+  {
+   "title": "Steelers vs. Saints Bold Predictions: Offense Puts on a Show",
+   "source": "All Steelers (Sports Illustrated)",
+   "link": "https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-bold-predictions-offense-puts-show",
+   "published": "2026-10-24T14:00:03+00:00",
+   "summary": "Game story from All Steelers (Sports Illustrated). Full report at the original publisher.",
+   "via": "Google News",
+   "id": "e11232175b"
+  },
+  {
+   "title": "Saints already have a troubling edge over Steelers ahead of Paris showdown",
+   "source": "Still Curtain",
+   "link": "https://stillcurtain.com/saints-already-have-a-troubling-edge-over-pittsburgh-steelers-ahead-of-paris-showdown-01m5cr7j0wrj?utm_source=RSS",
+   "published": "2026-10-24T14:00:00+00:00",
+   "summary": "Opinion story from Still Curtain. Full report at the original publisher.",
+   "id": "097d95c554"
   }
  ],
  "dropped_bad_links": 0
