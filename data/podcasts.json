@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T22:38:34.355893+00:00",
+ "generated": "2026-10-26T22:52:17.311362+00:00",
  "date_et": "2026-10-26",
  "days": 5,
  "display_days": 2,
@@ -81,10 +81,10 @@
    "show": "Still Curtain Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxjSNPLcRAVzDKOjhRwo-hQ",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 2,
-   "latest": "2026-10-26T17:00:26+00:00"
+   "latest": null
   },
   {
    "show": "Steel City Underground",
@@ -189,10 +189,10 @@
    "show": "Nick Farabaugh on PennLive",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5yvng1eSgffmybUM-51fTw",
-   "status": "ok",
-   "episodes": 1,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 1,
-   "latest": "2026-10-24T18:08:40+00:00"
+   "latest": null
   },
   {
    "show": "Pittsburgh Steelers (official)",
@@ -216,10 +216,10 @@
    "show": "Not Just Football with Cam Heyward",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8hodyaoiw297aspKf9QVDA",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 5,
-   "latest": "2026-10-25T19:36:25+00:00"
+   "latest": null
   },
   {
    "show": "Footbahlin with Ben Roethlisberger",
@@ -353,7 +353,7 @@
    "title": "The Steelers Are ONE MOVE Away From Being Super Bowl Contenders?!",
    "show": "The Steel City Insider (Jim Wexell, 247Sports)",
    "kind": "podcast",
-   "link": "https://247sports.com/nfl/pittsburgh-steelers/",
+   "link": "https://podcasts.apple.com/us/podcast/the-steelers-are-one-move-away-from-being-super-bowl/id1623192893?i=1000798184529",
    "published": "2026-10-26T14:05:27+00:00",
    "summary": "Podcast episode from The Steel City Insider (Jim Wexell, 247Sports)."
   },
