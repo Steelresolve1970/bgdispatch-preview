@@ -1,9 +1,10 @@
 # Steelers News
 
-_Generated 2026-10-26T20:06:53+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T20:06:17+00:00._
+_Generated 2026-10-26T20:17:52+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T20:17:16+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Browns game preview: how to watch](https://www.wtol.com/article/sports/nfl/cleveland-browns-pittsburgh-steelers-how-to-watch-nov-1/512-21e9c710-fe32-4fcd-a15b-4e63c0d3e5a2): WTOL, 2026-10-26 20:02 UTC
+- [Update: Steelers](https://stillcurtain.com/pittsburgh-steelers-big-man-in-the-middle-is-quietly-having-a-massive-breakout-season-01m5w9pjfbpd?utm_source=RSS): Still Curtain, 2026-10-26 20:00 UTC
 - [Update: Mike McCarthy](https://steelersnow.com/steelers-hc-mike-mccarthy-makes-his-cleveland-feelings-clear/): Steelers Now, 2026-10-26 19:57 UTC
 - [Reaction: Max Iheanachor and Mike McCarthy](https://steelersdepot.com/2026/10/he-belongs-here-max-iheanachor-is-a-perfect-steeler-says-mike-mccarthy/): Steelers Depot, 2026-10-26 19:50 UTC
 - [Update: Jaylen Warren](https://steelersnow.com/hot-as-a-firecracker-jaylen-warren-continues-to-be-steelers-workhorse/): Steelers Now, 2026-10-26 19:48 UTC
@@ -14,7 +15,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Contract news: Steelers-Ravens](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176954/former-steelers-safety-signs-with-ravens): Behind the Steel Curtain, 2026-10-26 19:30 UTC
 - [Closer look: the Steelers' receivers](https://www.steelernation.com/2026/10/26/steelers-heartbreaking-news-receiver): SteelerNation, 2026-10-26 19:29 UTC
 - [Injury update: Steelers-Ravens](https://stillcurtain.com/baltimore-ravens-make-questionable-signing-pittsburgh-steelers-fans-will-love-01m5ws2eska8?utm_source=RSS): Still Curtain, 2026-10-26 19:24 UTC
-- [Update: Steelers](https://www.steelernation.com/2026/10/26/steelers-likely-massive-success): SteelerNation, 2026-10-26 19:15 UTC
+- [Update: Steelers (SteelerNation)](https://www.steelernation.com/2026/10/26/steelers-likely-massive-success): SteelerNation, 2026-10-26 19:15 UTC
 - [Reaction: the secondary](https://steelersdepot.com/2026/10/they-cant-beat-us-former-browns-cb-thinks-pittsburgh-is-afraid-of-cleveland/): Steelers Depot, 2026-10-26 19:15 UTC
 - [Steelers safety finds new team](https://steelersnow.com/hated-rival-quickly-snaps-up-recently-released-steelers-starter/): Steelers Now, 2026-10-26 19:04 UTC
 - [Steelers defensive line shows strength](https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176943/steelers-film-room-kevin-jobity-udfa-rookie-emerges-as-diamond-in-the-rough-vs-saints-domata-peko-defensive-line-depth-roster): Behind the Steel Curtain, 2026-10-26 19:04 UTC
@@ -152,7 +153,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers rookie supports hometown team](https://triblive.com/sports/steelers-rookie-riley-nowakowski-backs-his-hometown-brewers-in-world-series-even-in-paris/): TribLive, 2026-10-24 14:54 UTC
 - [Closer look: the international game (Steelers.com (official))](https://www.steelers.com/news/steelers-to-sport-a-new-uniform-combination-in-paris): Steelers.com (official), 2026-10-24 14:45 UTC
 - [Roster move: Steelers-Saints](https://www.steelers.com/news/steelers-make-roster-move-ahead-of-saints-game): Steelers.com (official), 2026-10-24 14:30 UTC
-- [Saints game preview: the international game](https://www.nytimes.com/athletic/7714662/2026/10/24/nfl-saints-steelers-paris-protests/): The Athletic, 2026-10-24 14:25 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
