@@ -1,10 +1,10 @@
 {
- "last_run": "2026-10-26T17:09:04.438337+00:00",
+ "last_run": "2026-10-26T17:30:03.547932+00:00",
  "results": [
   {
    "fetcher": "apply_grade_edits.py",
    "ok": true,
-   "seconds": 1.5,
+   "seconds": 1.0,
    "last_line": "no grade edits"
   },
   {
@@ -16,7 +16,7 @@
   {
    "fetcher": "fetch_schedule.py",
    "ok": true,
-   "seconds": 0.5,
+   "seconds": 1.0,
    "last_line": "record 5-2 next Cleveland Browns games 17"
   },
   {
@@ -28,14 +28,14 @@
   {
    "fetcher": "build_boxscores.py",
    "ok": true,
-   "seconds": 2.5,
+   "seconds": 3.5,
    "last_line": "boxscores 7"
   },
   {
    "fetcher": "fetch_insiders.py",
    "ok": true,
-   "seconds": 2.0,
-   "last_line": "sidebar: 5 full feed: 34"
+   "seconds": 16.0,
+   "last_line": "sidebar: 2 full feed: 4"
   },
   {
    "fetcher": "fetch_film.py",
@@ -46,13 +46,13 @@
   {
    "fetcher": "fetch_podcasts.py",
    "ok": true,
-   "seconds": 7.5,
-   "last_line": "episodes past 5 days: 110 | embed-fallback channels: 0 | post-game: 8"
+   "seconds": 8.0,
+   "last_line": "episodes past 5 days: 108 | embed-fallback channels: 0 | post-game: 8"
   },
   {
    "fetcher": "fetch_featured.py",
    "ok": true,
-   "seconds": 1.5,
+   "seconds": 1.0,
    "last_line": "highlights New Orleans Saints Pittsburgh Steelers vs. New Orleans Saints Game Highlights | 2026 NFL Season Week 7"
   },
   {
@@ -65,13 +65,13 @@
    "fetcher": "fetch_stats.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "stats fresh; skipped"
+   "last_line": "team stats 20 players 43 pools {'offense:passing': 62, 'offense:rushing': 241, 'offense:receiving': 397, 'defense': 1146}"
   },
   {
    "fetcher": "build_leaders.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "leaders fresh; skipped"
+   "last_line": "leaders team 20 player 18 sizes {'pass_yds': 45, 'ypa': 34, 'pass_td': 45, 'int_thrown': 45, 'passer_rtg': 34, 'rush_yds': 82, 'rush_td': 82, 'rec': 166, 'rec_yds': 166, 'rec_td': 166, 'yac': 166, 'tackles': 373, 'sacks': 285, 'tfl': 144, 'pd': 222, 'int': 114, 'ff': 154, 'fr': 109}"
   },
   {
    "fetcher": "fetch_draft.py",
@@ -100,7 +100,7 @@
   {
    "fetcher": "fetch_draft_hub.py",
    "ok": true,
-   "seconds": 0.6,
+   "seconds": 0.5,
    "last_line": "hub needs 5 history 452 class 2026 10 PIT picks [{'round': 1, 'overall': 26}, {'round': 2, 'overall': 58}]"
   },
   {
@@ -112,26 +112,26 @@
   {
    "fetcher": "fetch_hub.py",
    "ok": true,
-   "seconds": 2.0,
-   "last_line": "injuries 14 practice 1 opp CLE"
+   "seconds": 0.5,
+   "last_line": "hub fresh (<30 min); skipped"
   },
   {
    "fetcher": "fetch_matchup.py",
    "ok": true,
-   "seconds": 1.5,
+   "seconds": 0.5,
    "last_line": "matchup: 2026_08_CLE_PIT keys 3 picks 0"
   },
   {
    "fetcher": "fetch_depth.py",
    "ok": true,
-   "seconds": 9.0,
+   "seconds": 3.0,
    "last_line": "depth units [('Offense', '3WR 1TE', 12), ('Defense', 'Base 3-4 D', 12), ('Special teams', 'Special Teams', 6)]"
   },
   {
    "fetcher": "build_roster.py",
    "ok": true,
-   "seconds": 12.5,
-   "last_line": "roster {'Active roster': 48, 'Practice squad': 16, 'Reserve / IR': 10} {'no_draft_row': 0, 'no_stats': 16, 'no_snaps': 12}"
+   "seconds": 0.5,
+   "last_line": "roster unchanged today; skip"
   },
   {
    "fetcher": "fetch_player_socials.py",
@@ -142,7 +142,7 @@
   {
    "fetcher": "fetch_rumors.py",
    "ok": true,
-   "seconds": 3.0,
+   "seconds": 2.5,
    "last_line": "rumors 31 {'Rumor': 30, 'Confirmed': 1, 'Denied': 0}"
   },
   {
@@ -172,14 +172,14 @@
   {
    "fetcher": "fetch_quotes.py",
    "ok": true,
-   "seconds": 1.5,
-   "last_line": "quotes: 8 kept from 131 articles"
+   "seconds": 2.0,
+   "last_line": "quotes: 8 kept from 130 articles"
   },
   {
    "fetcher": "build_machine.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "machine layer: {'news': 150, 'rumors': 31, 'injuries': 14, 'depth-chart': 28, 'schedule': 17, 'stats': 63, 'grades': 42, 'college': 20, 'insiders': 34, 'podcasts': 110, 'film': 2, 'draft': 521} md 13 feeds 5 jsonld 14"
+   "last_line": "machine layer: {'news': 150, 'rumors': 31, 'injuries': 14, 'depth-chart': 28, 'schedule': 17, 'stats': 63, 'grades': 42, 'college': 20, 'insiders': 4, 'podcasts': 108, 'film': 2, 'draft': 521} md 13 feeds 5 jsonld 14"
   }
  ]
 }

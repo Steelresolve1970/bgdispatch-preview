@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-26T17:09:03+00:00",
- "data_updated": "2026-10-26T17:05:27+00:00",
- "count": 110,
+ "generated": "2026-10-26T17:30:03+00:00",
+ "data_updated": "2026-10-26T17:29:45+00:00",
+ "count": 108,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -1420,32 +1420,6 @@
    "summary": "Podcast episode from Still Curtain Podcast.",
    "source": {
     "name": "Still Curtain Podcast",
-    "url": null
-   }
-  },
-  {
-   "id": "81bc52981626dc77",
-   "type": "video",
-   "title": "The rookie Germie Bernard got his first NFL TD at the perfect time! 🔥👏#germiebernard #steelers",
-   "show": "Not Just Football with Cam Heyward",
-   "url": "https://www.youtube.com/shorts/VoBCAmwhJqs",
-   "published": "2026-10-21T17:11:08+00:00",
-   "summary": "Video from Not Just Football with Cam Heyward.",
-   "source": {
-    "name": "Not Just Football with Cam Heyward",
-    "url": null
-   }
-  },
-  {
-   "id": "8118137fe224ec3b",
-   "type": "podcast_episode",
-   "title": "Steelers Offense a One-Trick Pony? | Steelers Morning Rush",
-   "show": "Steelers Afternoon Drive",
-   "url": "https://podcasts.apple.com/us/podcast/steelers-offense-a-one-trick-pony-steelers-morning-rush/id1700240934?i=1000797476047",
-   "published": "2026-10-21T17:06:00+00:00",
-   "summary": "Podcast episode from Steelers Afternoon Drive.",
-   "source": {
-    "name": "Steelers Afternoon Drive",
     "url": null
    }
   }
