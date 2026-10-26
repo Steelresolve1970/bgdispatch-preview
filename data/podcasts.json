@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-26T02:53:31.235399+00:00",
+ "generated": "2026-10-26T03:30:23.528315+00:00",
  "date_et": "2026-10-25",
  "days": 5,
  "display_days": 2,
- "count": 116,
+ "count": 115,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -38,7 +38,7 @@
    "url": "https://feeds.megaphone.fm/btsc-steelers",
    "status": "ok",
    "episodes": 8212,
-   "week": 9,
+   "week": 8,
    "latest": "2026-10-23T15:30:00+00:00"
   },
   {
@@ -153,7 +153,7 @@
    "show": "Steelers Now",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp1iAMIfmmgWewzJ07_Y7oA",
-   "status": "error: HTTP Error 500: Internal Server Error",
+   "status": "error: HTTP Error 404: Not Found",
    "episodes": 0,
    "week": 15,
    "latest": null
@@ -216,7 +216,7 @@
    "show": "Not Just Football with Cam Heyward",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8hodyaoiw297aspKf9QVDA",
-   "status": "error: HTTP Error 404: Not Found",
+   "status": "error: HTTP Error 500: Internal Server Error",
    "episodes": 0,
    "week": 7,
    "latest": null
@@ -243,10 +243,10 @@
    "show": "The Christian Kuntz Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKKBJcOGsYmwAATQv-xQYeA",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 0,
-   "latest": "2009-05-26T14:01:33+00:00"
+   "latest": null
   }
  ],
  "items": [
@@ -1172,17 +1172,16 @@
    "link": "https://podcasts.apple.com/us/podcast/scouts-eye-with-matt-williamson-all-the/id1072021022?i=1000797398522",
    "published": "2026-10-21T05:34:00+00:00",
    "summary": "Podcast episode from DK Pittsburgh Sports."
-  },
-  {
-   "title": "The Scho Bro Show: The familiarity of the Steelers unfamiliar win",
-   "show": "Steel Curtain Network (BTSC)",
-   "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/the-scho-bro-show-the-familiarity-of/id905962218?i=1000797806025",
-   "published": "2026-10-21T02:55:00+00:00",
-   "summary": "Podcast episode from Steel Curtain Network (BTSC)."
   }
  ],
- "yt_channels": [],
+ "yt_channels": [
+  {
+   "show": "The Christian Kuntz Podcast",
+   "channel_id": "UCKKBJcOGsYmwAATQv-xQYeA",
+   "link": "https://www.youtube.com/channel/UCKKBJcOGsYmwAATQv-xQYeA",
+   "embed": "https://www.youtube-nocookie.com/embed/videoseries?list=UUKKBJcOGsYmwAATQv-xQYeA"
+  }
+ ],
  "postgame": {
   "game": "2026_07_PIT_NO",
   "week": "Week 7",

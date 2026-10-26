@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T02:53:39.176981+00:00",
+ "generated": "2026-10-26T03:30:32.579620+00:00",
  "game_id": "2026_08_CLE_PIT",
  "game": {
   "id": "401873027",
@@ -58,7 +58,7 @@
    "dec": 1,
    "group": "Offense",
    "pit": 217.6,
-   "pit_rank": 19,
+   "pit_rank": 20,
    "opp": 192.7,
    "opp_rank": 24
   },
@@ -93,7 +93,7 @@
    "pit": 303.7,
    "pit_rank": 6,
    "opp": 318.1,
-   "opp_rank": 14
+   "opp_rank": 13
   },
   {
    "label": "Pass Yards Allowed",
@@ -102,9 +102,9 @@
    "dec": 1,
    "group": "Defense",
    "pit": 212.7,
-   "pit_rank": 12,
+   "pit_rank": 11,
    "opp": 201.7,
-   "opp_rank": 8
+   "opp_rank": 7
   },
   {
    "label": "Rush Yards Allowed",
@@ -115,7 +115,7 @@
    "pit": 91.0,
    "pit_rank": 7,
    "opp": 116.4,
-   "opp_rank": 19
+   "opp_rank": 20
   },
   {
    "label": "Yards Per Play",
@@ -135,7 +135,7 @@
    "dec": 2,
    "group": "Offense",
    "pit": 4.64,
-   "pit_rank": 7,
+   "pit_rank": 8,
    "opp": 4.06,
    "opp_rank": 18
   },
@@ -157,9 +157,9 @@
    "dec": 2,
    "group": "Offense",
    "pit": 1.0,
-   "pit_rank": 10,
+   "pit_rank": 12,
    "opp": 1.29,
-   "opp_rank": 16
+   "opp_rank": 17
   },
   {
    "label": "Yards Per Play Allowed",
@@ -181,7 +181,7 @@
    "pit": 3.75,
    "pit_rank": 6,
    "opp": 4.43,
-   "opp_rank": 23
+   "opp_rank": 22
   },
   {
    "label": "Sacks Per Game",
@@ -201,9 +201,9 @@
    "dec": 2,
    "group": "Defense",
    "pit": 1.57,
-   "pit_rank": 9,
+   "pit_rank": 8,
    "opp": 1.29,
-   "opp_rank": 15
+   "opp_rank": 14
   },
   {
    "label": "Turnover Margin",
@@ -212,7 +212,7 @@
    "dec": 0,
    "group": "Other",
    "pit": 4.0,
-   "pit_rank": 5,
+   "pit_rank": 6,
    "opp": 0.0,
    "opp_rank": 16
   },
@@ -223,7 +223,7 @@
    "dec": 1,
    "group": "Other",
    "pit": 52.4,
-   "pit_rank": 10,
+   "pit_rank": 9,
    "opp": 60.0,
    "opp_rank": 16
   }
@@ -244,18 +244,18 @@
   {
    "id": "ball",
    "title": "Win the turnover battle",
-   "why": "Pittsburgh takes the ball away 1.57 times a game (9th); the Browns give it away 1.29 times (16th). Extra possessions could decide it.",
-   "score": 40
+   "why": "Pittsburgh takes the ball away 1.57 times a game (8th); the Browns give it away 1.29 times (17th). Extra possessions could decide it.",
+   "score": 42
   }
  ],
  "matchups": [
   {
-   "score": 28.2,
+   "score": 28.7,
    "title": "Jaylen Warren vs. the Browns' run defense",
    "why": "Jaylen Warren carries the Steelers' ground game into a run defense that has had its problems.",
    "stats": [
     "Jaylen Warren: 102 carries, 561 yds (5.5 per carry)",
-    "CLE allows 116.4 rush yds/game (19th), 4.43 per carry"
+    "CLE allows 116.4 rush yds/game (20th), 4.43 per carry"
    ]
   },
   {
@@ -272,13 +272,13 @@
    "title": "Mason Graham vs. the Steelers' offensive line",
    "why": "Mason Graham is the Browns' top pass rusher; Pittsburgh's line has to keep him away from the quarterback.",
    "stats": [
-    "Mason Graham: 4 sacks (14th in NFL), 5 QB hits",
+    "Mason Graham: 4 sacks (16th in NFL), 5 QB hits",
     "PIT allows 3.14 sacks/game (29th)"
    ]
   }
  ],
  "picks": {
-  "checked": "2026-10-26T01:08:14.448721+00:00",
+  "checked": "2026-10-26T03:30:32.783906+00:00",
   "items": [],
   "items_all": [],
   "cbs_consensus": {
@@ -286,7 +286,7 @@
    "link": "https://www.cbssports.com/nfl/picks/experts/straight-up/8/",
    "link_only": true
   },
-  "searched": 51
+  "searched": 70
  },
  "source": "Data: nflverse (CC-BY 4.0)",
  "source_url": "https://github.com/nflverse/nflverse-data",

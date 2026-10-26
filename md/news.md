@@ -1,9 +1,9 @@
 # Steelers News
 
-_Generated 2026-10-26T02:53:49+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T02:52:10+00:00._
+_Generated 2026-10-26T03:30:53+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T03:17:32+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
-- [Rodgers now alone with 3rd-most TD passes as Steelers win 1st Paris game](https://www.espn.com/nfl/story/_/id/50277960/rodgers-throws-historic-td-pass-steelers-win-1st-paris-game): ESPN, 2026-10-26 03:29 UTC
+- [Rodgers now alone with 3rd-most TD passes as Steelers win 1st Paris game](https://www.espn.com/nfl/story/_/id/50277960/rodgers-throws-historic-td-pass-steelers-win-1st-paris-game): ESPN, 2026-10-26 03:53 UTC
 - [Steelers' Patrick Queen Explains Exactly How Pittsburgh Shut Down The Saints](https://www.steelernation.com/2026/10/25/steelers-queen-exactly-pittsburgh-saints): SteelerNation, 2026-10-26 00:57 UTC
 - [Steelers stay put in AFC playoff picture after win over Saints](https://www.behindthesteelcurtain.com/pittsburgh-steelers-nfl-playoffs/176889/steelers-stay-put-in-afc-playoff-picture-after-win-over-saints): Behind the Steel Curtain, 2026-10-26 00:40 UTC
 - [Labriola on the win over the Saints](https://www.steelers.com/news/labriola-on-the-win-over-the-saints-x8898): Steelers.com (official), 2026-10-26 00:40 UTC
@@ -43,7 +43,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Aaron Rodgers Rips NFL Owners for Being Cheap](https://steelersnow.com/aaron-rodgers-rips-nfl-owners-for-being-cheap/): Steelers Now, 2026-10-25 19:08 UTC
 - [Watch: Steelers Vs Saints Reaction](https://steelersdepot.com/2026/10/watch-steelers-vs-saints-reaction/): Steelers Depot, 2026-10-25 19:05 UTC
 - [Steelers' Payton Wilson Reveals Key Detail Behind Crucial Interception Versus Saints](https://www.steelernation.com/2026/10/25/steelers-payton-wilson-crucial-interception): SteelerNation, 2026-10-25 19:05 UTC
-- [6 Winners, 3 Losers From Steelers Win Over Saints](https://www.si.com/nfl/steelers/onsi/6-winners-3-losers-pittsburgh-steelers-win-saints): All Steelers (Sports Illustrated), 2026-10-25 18:40 UTC
 - [Howe It Happened: Steelers LB Payton Wilson Picks Off Saints, Finally Shows Coverage Potential](https://steelersnow.com/howe-it-happened-steelers-lb-payton-wilson-picks-off-saints-finally-shows-coverage-potential/): Steelers Now, 2026-10-25 18:39 UTC
 - [‘That Was the Goal’: Steelers Knew They Could Run All Over Saints](https://steelersnow.com/that-was-the-goal-steelers-knew-they-could-run-all-over-saints/): Steelers Now, 2026-10-25 18:34 UTC
 - [Tom’s Ten Takes – Steelers Vs. Saints](https://steelersdepot.com/2026/10/toms-ten-takes-steelers-vs-saints-2/): Steelers Depot, 2026-10-25 18:20 UTC
@@ -153,6 +152,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - ['Would have been nice one time to come over on a Monday': Steelers race to acclimate to Paris](https://www.nytimes.com/athletic/7717102/2026/10/23/steelers-paris-travel-saints/): The Athletic, 2026-10-23 14:47 UTC
 - [Steelers Paris notebook: Team is confident it is safe amid protests, unrest](https://triblive.com/sports/steelers-paris-notebook-team-is-confident-it-is-safe-amidst-protests-unrest/): TribLive, 2026-10-23 14:33 UTC
 - [Steelers' Paris game gets even more unpredictable after weather shakeup](https://stillcurtain.com/pittsburgh-steelers-paris-unpredictable-weather-shakeup-01m5mes3qpbj?utm_source=RSS): Still Curtain, 2026-10-23 14:00 UTC
+- [Steelers safety DeShon Elliott could return Sunday, a year removed from his gruesome injury](https://www.post-gazette.com/sports/steelers/2026/10/23/will-deshon-elliott-play-sunday/stories/202610230028): Pittsburgh Post-Gazette, 2026-10-23 14:00 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

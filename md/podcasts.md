@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-26T02:53:49+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T02:53:31+00:00._
+_Generated 2026-10-26T03:30:53+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T03:30:23+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Darnell takin over Paris 😤](https://www.youtube.com/shorts/Frs4q46PolI): Pittsburgh Steelers (official), 2026-10-25 23:09 UTC
@@ -117,7 +117,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Steelers' Chameleon Defensive Scheme w/Patrick Graham Aids Weekly Adjustments | DeShon Elliott Back?](https://podcasts.apple.com/us/podcast/steelers-chameleon-defensive-scheme-w-patrick-graham/id1140522532?i=1000797389886): Locked On Steelers, 2026-10-21 06:00 UTC
 - Podcast: [DK's Daily Shot of Steelers: Let ‘em all loose!](https://podcasts.apple.com/us/podcast/dks-daily-shot-of-steelers-let-em-all-loose/id1072021022?i=1000797403367): DK Pittsburgh Sports, 2026-10-21 05:37 UTC
 - Podcast: [Scout’s Eye with Matt Williamson: All the Rodgersesque things](https://podcasts.apple.com/us/podcast/scouts-eye-with-matt-williamson-all-the/id1072021022?i=1000797398522): DK Pittsburgh Sports, 2026-10-21 05:34 UTC
-- Podcast: [The Scho Bro Show: The familiarity of the Steelers unfamiliar win](https://podcasts.apple.com/us/podcast/the-scho-bro-show-the-familiarity-of/id905962218?i=1000797806025): Steel Curtain Network (BTSC), 2026-10-21 02:55 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
