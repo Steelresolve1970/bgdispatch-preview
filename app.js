@@ -331,7 +331,7 @@ window.availHTML=function(name,list){const a=list||(window.BGD_AV&&window.BGD_AV
   const rel=new Set((a.getAttribute('rel')||'').toLowerCase().split(/\s+/).filter(Boolean));
   rel.add('noopener');rel.add('noreferrer');
   a.setAttribute('rel',[...rel].join(' '));
-  if(!a.classList.contains('ext-skip')&&!a.classList.contains('hl')&&!a.classList.contains('btn')&&!a.classList.contains('fv-out')&&!a.classList.contains('inj')&&!a.classList.contains('dp')&&!a.classList.contains('ext-native')&&!a.closest('#tickerMove,.fv-frame,.merch-grid,nav,#ext-viewer,#ext-sheet'))
+  if(!a.classList.contains('ext-skip')&&!a.classList.contains('hl')&&!a.classList.contains('btn')&&!a.classList.contains('fv-out')&&!a.classList.contains('inj')&&!a.classList.contains('dp')&&!a.classList.contains('ext-native')&&!a.closest('#tickerMove,.fv-frame,nav,#ext-viewer,#ext-sheet'))
    a.classList.add('ext-link');
   return true;
  }
