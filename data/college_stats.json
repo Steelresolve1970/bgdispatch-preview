@@ -1,45 +1,181 @@
 {
- "fetched": "2026-10-25T12:05:54.547708+00:00",
+ "fetched": "2026-10-26T15:16:09.853773+00:00",
  "players": {
   "Arch Manning": {
-   "found": false,
-   "why": "CollegeFootballData.com error: TimeoutError"
+   "found": true,
+   "games": 7,
+   "source": "https://collegefootballdata.com",
+   "source_name": "CollegeFootballData.com",
+   "last": {
+    "date": "2026-10-24",
+    "opponent": "Ole Miss",
+    "atVs": "vs",
+    "result": "W",
+    "score": "34-27",
+    "line": "18/30, 212 pass yds, 1 TD, 2 INT; 8 rush, 2 yds, 2 TD",
+    "link": "https://collegefootballdata.com",
+    "days_ago": 2
+   },
+   "season_line": "125/197, 1,510 pass yds, 12 TD, 7 INT; 56 rush, 101 yds, 2 TD",
+   "snippet": "Arch threw for 212 yards and 1 TD with 2 picks in a win vs. Ole Miss. Through 7 games he's at 1,510 yards, 12 TD and 7 INT (63.5% completions).",
+   "stale": false
   },
   "Drew Mestemaker": {
-   "found": false,
-   "why": "CollegeFootballData.com error: TimeoutError"
+   "found": true,
+   "games": 7,
+   "source": "https://collegefootballdata.com",
+   "source_name": "CollegeFootballData.com",
+   "last": {
+    "date": "2026-10-24",
+    "opponent": "Colorado",
+    "atVs": "vs",
+    "result": "W",
+    "score": "57-24",
+    "line": "21/36, 386 pass yds, 4 TD, 0 INT; 8 rush, 8 yds",
+    "link": "https://collegefootballdata.com",
+    "days_ago": 2
+   },
+   "season_line": "157/239, 2,326 pass yds, 20 TD, 6 INT; 29 rush, 150 yds, 2 TD",
+   "snippet": "Drew threw for 386 yards and 4 TD without a pick in a win vs. Colorado. Through 7 games he's at 2,326 yards, 20 TD and 6 INT (65.7% completions).",
+   "stale": false
   },
   "Dante Moore": {
-   "found": false,
-   "why": "CollegeFootballData.com error: TimeoutError"
+   "found": true,
+   "games": 4,
+   "source": "https://collegefootballdata.com",
+   "source_name": "CollegeFootballData.com",
+   "last": {
+    "date": "2026-09-26",
+    "opponent": "USC",
+    "atVs": "@",
+    "result": "W",
+    "score": "41-27",
+    "line": "8/10, 77 pass yds, 0 TD, 0 INT; 1 rush, 10 yds",
+    "link": "https://collegefootballdata.com",
+    "days_ago": 30
+   },
+   "season_line": "69/99, 926 pass yds, 9 TD, 0 INT; 10 rush, -7 yds",
+   "snippet": "No stats logged last week (bye or didn't play). In his most recent game (2026-09-26), Dante threw for 77 yards, no TD, without a pick in a win at USC. Through 4 games he's at 926 yards, 9 TD and 0 INT (69.7% completions).",
+   "stale": true
   },
   "Darian Mensah": {
-   "found": false,
-   "why": "CollegeFootballData.com error: TimeoutError"
+   "found": true,
+   "games": 7,
+   "source": "https://collegefootballdata.com",
+   "source_name": "CollegeFootballData.com",
+   "last": {
+    "date": "2026-10-24",
+    "opponent": "Pittsburgh",
+    "atVs": "vs",
+    "result": "W",
+    "score": "52-23",
+    "line": "31/37, 387 pass yds, 4 TD, 0 INT; 5 rush, -12 yds",
+    "link": "https://collegefootballdata.com",
+    "days_ago": 2
+   },
+   "season_line": "166/204, 2,151 pass yds, 22 TD, 1 INT; 20 rush, 73 yds, 2 TD",
+   "snippet": "Darian threw for 387 yards and 4 TD without a pick in a win vs. Pittsburgh. Through 7 games he's at 2,151 yards, 22 TD and 1 INT (81.4% completions).",
+   "stale": false
   },
   "Leonard Moore": {
-   "found": false,
-   "why": "CollegeFootballData.com error: TimeoutError"
+   "found": true,
+   "games": 5,
+   "source": "https://collegefootballdata.com",
+   "source_name": "CollegeFootballData.com",
+   "last": {
+    "date": "2026-10-17",
+    "opponent": "BYU",
+    "atVs": "@",
+    "result": "L",
+    "score": "24-28",
+    "line": "5 tackles, 1 PD",
+    "link": "https://collegefootballdata.com",
+    "days_ago": 9
+   },
+   "season_line": "13 tackles, 5 PD",
+   "snippet": "Leonard made 5 tackles with 1 pass breakup in a loss at BYU. Season: 13 tackles, 5 PD in 5 games.",
+   "stale": false
   },
   "Ellis Robinson IV": {
-   "found": false,
-   "why": "CollegeFootballData.com error: TimeoutError"
+   "found": true,
+   "games": 6,
+   "source": "https://collegefootballdata.com",
+   "source_name": "CollegeFootballData.com",
+   "last": {
+    "date": "2026-10-17",
+    "opponent": "Auburn",
+    "atVs": "vs",
+    "result": "L",
+    "score": "24-27",
+    "line": "0 tackles, 1 PD",
+    "link": "https://collegefootballdata.com",
+    "days_ago": 9
+   },
+   "season_line": "13 tackles, 1 INT, 4 PD",
+   "snippet": "Ellis made 0 tackles with 1 pass breakup in a loss vs. Auburn. Season: 13 tackles, 1 INT, 4 PD in 6 games.",
+   "stale": false
   },
   "Ashton Hampton": {
-   "found": false,
-   "why": "CollegeFootballData.com error 502"
+   "found": true,
+   "games": 7,
+   "source": "https://collegefootballdata.com",
+   "source_name": "CollegeFootballData.com",
+   "last": {
+    "date": "2026-10-24",
+    "opponent": "Virginia Tech",
+    "atVs": "vs",
+    "result": "L",
+    "score": "16-20",
+    "line": "6 tackles",
+    "link": "https://collegefootballdata.com",
+    "days_ago": 2
+   },
+   "season_line": "25 tackles, 1 INT, 9 PD",
+   "snippet": "Ashton made 6 tackles in a loss vs. Virginia Tech. Season: 25 tackles, 1 INT, 9 PD in 7 games.",
+   "stale": false
   },
   "Kelley Jones": {
-   "found": false,
-   "why": "CollegeFootballData.com error 502"
+   "found": true,
+   "games": 7,
+   "source": "https://collegefootballdata.com",
+   "source_name": "CollegeFootballData.com",
+   "last": {
+    "date": "2026-10-24",
+    "opponent": "Oklahoma",
+    "atVs": "vs",
+    "result": "L",
+    "score": "15-23",
+    "line": "3 tackles, 1 PD",
+    "link": "https://collegefootballdata.com",
+    "days_ago": 2
+   },
+   "season_line": "24 tackles, 7 PD",
+   "snippet": "Kelley made 3 tackles with 1 pass breakup in a loss vs. Oklahoma. Season: 24 tackles, 7 PD in 7 games.",
+   "stale": false
   },
   "KJ Bolden": {
-   "found": false,
-   "why": "CollegeFootballData.com error 502"
+   "found": true,
+   "games": 6,
+   "source": "https://collegefootballdata.com",
+   "source_name": "CollegeFootballData.com",
+   "last": {
+    "date": "2026-10-10",
+    "opponent": "Alabama",
+    "atVs": "@",
+    "result": "W",
+    "score": "20-17",
+    "line": "7 tackles, 0.5 sacks, 1 PD",
+    "link": "https://collegefootballdata.com",
+    "days_ago": 16
+   },
+   "season_line": "22 tackles, 0.5 sacks, 1 INT, 2 PD",
+   "snippet": "No stats logged last week (bye or didn't play). In his most recent game (2026-10-10), KJ made 7 tackles with 0.5 sacks, 1 pass breakup in a win at Alabama. Season: 22 tackles, 0.5 sacks, 1 INT, 2 PD in 6 games.",
+   "stale": true
   },
   "Brauntae Johnson": {
    "found": false,
-   "why": "CollegeFootballData.com error 502"
+   "why": "no 2026 games found for this player on CollegeFootballData.com",
+   "source": "https://collegefootballdata.com"
   },
   "Kingston Lopa": {
    "found": true,
@@ -80,16 +216,61 @@
    "stale": false
   },
   "Chris Cole": {
-   "found": false,
-   "why": "CollegeFootballData.com error 502"
+   "found": true,
+   "games": 7,
+   "source": "https://collegefootballdata.com",
+   "source_name": "CollegeFootballData.com",
+   "last": {
+    "date": "2026-10-17",
+    "opponent": "Auburn",
+    "atVs": "vs",
+    "result": "L",
+    "score": "24-27",
+    "line": "10 tackles",
+    "link": "https://collegefootballdata.com",
+    "days_ago": 9
+   },
+   "season_line": "40 tackles, 2.5 sacks, 3 PD, 2 FR",
+   "snippet": "Chris made 10 tackles in a loss vs. Auburn. Season: 40 tackles, 2.5 sacks, 3 PD in 7 games.",
+   "stale": false
   },
   "Sammy Brown": {
-   "found": false,
-   "why": "CollegeFootballData.com error 502"
+   "found": true,
+   "games": 7,
+   "source": "https://collegefootballdata.com",
+   "source_name": "CollegeFootballData.com",
+   "last": {
+    "date": "2026-10-24",
+    "opponent": "Virginia Tech",
+    "atVs": "vs",
+    "result": "L",
+    "score": "16-20",
+    "line": "7 tackles",
+    "link": "https://collegefootballdata.com",
+    "days_ago": 2
+   },
+   "season_line": "47 tackles, 1 sack, 1 PD",
+   "snippet": "Sammy made 7 tackles in a loss vs. Virginia Tech. Season: 47 tackles, 1 sack, 1 PD in 7 games.",
+   "stale": false
   },
   "Kyngstonn Viliamu-Asa": {
-   "found": false,
-   "why": "CollegeFootballData.com error 502"
+   "found": true,
+   "games": 5,
+   "source": "https://collegefootballdata.com",
+   "source_name": "CollegeFootballData.com",
+   "last": {
+    "date": "2026-10-17",
+    "opponent": "BYU",
+    "atVs": "@",
+    "result": "L",
+    "score": "24-28",
+    "line": "2 tackles",
+    "link": "https://collegefootballdata.com",
+    "days_ago": 9
+   },
+   "season_line": "15 tackles, 1 INT, 1 FR",
+   "snippet": "Kyngstonn made 2 tackles in a loss at BYU. Season: 15 tackles, 1 INT in 5 games.",
+   "stale": false
   },
   "Rasheem Biles": {
    "found": true,
@@ -111,16 +292,61 @@
    "stale": false
   },
   "Jeremiah Smith": {
-   "found": false,
-   "why": "CollegeFootballData.com error 502"
+   "found": true,
+   "games": 7,
+   "source": "https://collegefootballdata.com",
+   "source_name": "CollegeFootballData.com",
+   "last": {
+    "date": "2026-10-17",
+    "opponent": "Indiana",
+    "atVs": "@",
+    "result": "W",
+    "score": "19-15",
+    "line": "4 rec, 68 yds, 1 TD; 1 rush, 2 yds",
+    "link": "https://collegefootballdata.com",
+    "days_ago": 9
+   },
+   "season_line": "52 rec, 984 yds, 12 TD; 2 rush, 7 yds",
+   "snippet": "Jeremiah caught 4 passes for 68 yards and 1 TD in a win at Indiana. Season: 52 catches, 984 yards (141 per game), 12 TD.",
+   "stale": false
   },
   "Charlie Becker": {
-   "found": false,
-   "why": "CollegeFootballData.com error 502"
+   "found": true,
+   "games": 8,
+   "source": "https://collegefootballdata.com",
+   "source_name": "CollegeFootballData.com",
+   "last": {
+    "date": "2026-10-24",
+    "opponent": "Michigan",
+    "atVs": "@",
+    "result": "W",
+    "score": "13-6",
+    "line": "3 rec, 32 yds, 0 TD",
+    "link": "https://collegefootballdata.com",
+    "days_ago": 2
+   },
+   "season_line": "42 rec, 726 yds, 8 TD",
+   "snippet": "Charlie caught 3 passes for 32 yards in a win at Michigan. Season: 42 catches, 726 yards (91 per game), 8 TD.",
+   "stale": false
   },
   "Cam Coleman": {
-   "found": false,
-   "why": "CollegeFootballData.com error 502"
+   "found": true,
+   "games": 7,
+   "source": "https://collegefootballdata.com",
+   "source_name": "CollegeFootballData.com",
+   "last": {
+    "date": "2026-10-24",
+    "opponent": "Ole Miss",
+    "atVs": "vs",
+    "result": "W",
+    "score": "34-27",
+    "line": "1 rec, 12 yds, 0 TD",
+    "link": "https://collegefootballdata.com",
+    "days_ago": 2
+   },
+   "season_line": "20 rec, 334 yds, 6 TD",
+   "snippet": "Cam caught 1 passes for 12 yards in a win vs. Ole Miss. Season: 20 catches, 334 yards (48 per game), 6 TD.",
+   "stale": false
   },
   "Nick Marsh": {
    "found": true,
@@ -142,12 +368,42 @@
    "stale": false
   },
   "Jelani McDonald": {
-   "found": false,
-   "why": "CollegeFootballData.com error 502"
+   "found": true,
+   "games": 7,
+   "source": "https://collegefootballdata.com",
+   "source_name": "CollegeFootballData.com",
+   "last": {
+    "date": "2026-10-24",
+    "opponent": "Ole Miss",
+    "atVs": "vs",
+    "result": "W",
+    "score": "34-27",
+    "line": "12 tackles, 1 INT, 1 PD",
+    "link": "https://collegefootballdata.com",
+    "days_ago": 2
+   },
+   "season_line": "54 tackles, 1 INT, 3 PD",
+   "snippet": "Jelani made 12 tackles with 1 interception, 1 pass breakup in a win vs. Ole Miss. Season: 54 tackles, 1 INT, 3 PD in 7 games.",
+   "stale": false
   },
   "Earl Little Jr.": {
-   "found": false,
-   "why": "CollegeFootballData.com error 502"
+   "found": true,
+   "games": 7,
+   "source": "https://collegefootballdata.com",
+   "source_name": "CollegeFootballData.com",
+   "last": {
+    "date": "2026-10-17",
+    "opponent": "Indiana",
+    "atVs": "@",
+    "result": "W",
+    "score": "19-15",
+    "line": "8 tackles, 1 PD, 1 FR",
+    "link": "https://collegefootballdata.com",
+    "days_ago": 9
+   },
+   "season_line": "38 tackles, 4 PD, 1 FR",
+   "snippet": "Earl made 8 tackles with 1 pass breakup in a win at Indiana. Season: 38 tackles, 4 PD in 7 games.",
+   "stale": false
   },
   "Suntarine Perkins": {
    "found": true,
@@ -189,11 +445,29 @@
   },
   "Ryan Coleman-Williams": {
    "found": false,
-   "why": "CollegeFootballData.com error 502"
+   "why": "no 2026 games found for this player on CollegeFootballData.com",
+   "source": "https://collegefootballdata.com"
   },
   "Raylen Wilson": {
-   "found": false,
-   "why": "CollegeFootballData.com error 502"
+   "found": true,
+   "games": 6,
+   "source": "https://collegefootballdata.com",
+   "source_name": "CollegeFootballData.com",
+   "last": {
+    "date": "2026-10-17",
+    "opponent": "Auburn",
+    "atVs": "vs",
+    "result": "L",
+    "score": "24-27",
+    "line": "10 tackles, 1 sack",
+    "link": "https://collegefootballdata.com",
+    "days_ago": 9
+   },
+   "season_line": "43 tackles, 4 sacks",
+   "snippet": "Raylen made 10 tackles with 1 sack in a loss vs. Auburn. Season: 43 tackles, 4 sacks in 6 games.",
+   "stale": false
   }
- }
+ },
+ "attempted": "2026-10-26T15:16:09.853773+00:00",
+ "errors": 0
 }
