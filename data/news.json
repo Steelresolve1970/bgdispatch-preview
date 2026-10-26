@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T15:46:51.083597+00:00",
+ "generated": "2026-10-26T15:57:45.165126+00:00",
  "count": 150,
  "sources": [
   {
@@ -72,7 +72,7 @@
    "source": "Yahoo Sports",
    "url": "https://sports.yahoo.com/nfl/rss/",
    "status": "ok",
-   "steelers_items": 1
+   "steelers_items": 2
   },
   {
    "source": "Google News",
@@ -84,7 +84,7 @@
    "source": "PennLive (Nick Farabaugh)",
    "url": "https://www.pennlive.com/arc/outboundfeeds/rss/author/nfarabaugh/?outputType=xml",
    "status": "ok",
-   "steelers_items": 27
+   "steelers_items": 26
   },
   {
    "source": "Steelers.com (official)",
@@ -106,6 +106,14 @@
   }
  ],
  "items": [
+  {
+   "title": "The Morning After: The Steelers\u2019 defense has reached elite territory",
+   "source": "Yahoo Sports",
+   "link": "https://sports.yahoo.com/articles/morning-steelers-defense-reached-elite-154921754.html",
+   "published": "2026-10-26T15:49:21+00:00",
+   "summary": "News story from Yahoo Sports. Full report at the original publisher.",
+   "id": "b7a1065bbb"
+  },
   {
    "title": "Jaylen Warren Can \u2018Carry\u2019 Steelers To Playoffs, Analyst Says",
    "source": "Steelers Depot",
@@ -631,15 +639,6 @@
    "id": "b00308c8e1"
   },
   {
-   "title": "Fazende: Five takes on Saints loss to Steelers",
-   "source": "FOX 8 Local First",
-   "link": "https://www.fox8live.com/2026/10/25/fazende-five-takes-saints-loss-steelers/",
-   "published": "2026-10-25T22:21:00+00:00",
-   "via": "Google News",
-   "summary": "Game story from FOX 8 Local First. Full report at the original publisher.",
-   "id": "ba968491b4"
-  },
-  {
    "title": "Steelers are far from perfect, but after beating Saints, they're exactly where they need to be",
    "source": "The Athletic",
    "link": "https://www.nytimes.com/athletic/7724515/2026/10/25/pittsburgh-steelers-saints-win-browns-rematch/",
@@ -843,15 +842,6 @@
    "id": "bba8d52d3f"
   },
   {
-   "title": "NFL Week 7 Recap: Pittsburgh Steelers 16, New Orleans Saints 10",
-   "source": "PFF",
-   "link": "https://www.pff.com/news/nfl-week-7-recap-pittsburgh-steelers-16-new-orleans-saints-10",
-   "published": "2026-10-25T17:17:15+00:00",
-   "via": "Google News",
-   "summary": "Game story from PFF. Full report at the original publisher.",
-   "id": "91de52477a"
-  },
-  {
    "title": "Pittsburgh Steelers vs. New Orleans Saints highlights | Week 7",
    "source": "NFL.com",
    "link": "https://www.nfl.com/videos/steelers-vs-saints-highlights-week-7",
@@ -932,6 +922,15 @@
    "summary": "Game story from All Steelers (Sports Illustrated). Full report at the original publisher.",
    "via": "Google News",
    "id": "0562f325ff"
+  },
+  {
+   "title": "Game Recap: Pittsburgh Steelers 16, New Orleans Saints 10 | 2026 NFL Week 7",
+   "source": "New Orleans Saints | NewOrleansSaints.com",
+   "link": "https://www.neworleanssaints.com/news/2026-nfl-week-7-pittsburgh-steelers-vs-new-orleans-saints-game-recap",
+   "published": "2026-10-25T16:36:17+00:00",
+   "via": "Google News",
+   "summary": "Game story from New Orleans Saints | NewOrleansSaints.com. Full report at the original publisher.",
+   "id": "e47ef4387b"
   },
   {
    "title": "Behind Jaylen Warren\u2019s strong performance, Steelers top Saints in Paris for 3rd straight win",
