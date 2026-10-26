@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T23:27:28.792199+00:00",
+ "generated": "2026-10-26T23:39:31.375332+00:00",
  "date_et": "2026-10-26",
  "days": 5,
  "display_days": 2,
@@ -153,10 +153,10 @@
    "show": "Steelers Now",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp1iAMIfmmgWewzJ07_Y7oA",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 15,
-   "latest": "2026-10-26T22:13:31+00:00"
+   "latest": null
   },
   {
    "show": "The Steel City Insider (Jim Wexell, 247Sports)",
@@ -216,7 +216,7 @@
    "show": "Not Just Football with Cam Heyward",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8hodyaoiw297aspKf9QVDA",
-   "status": "error: HTTP Error 404: Not Found",
+   "status": "error: HTTP Error 500: Internal Server Error",
    "episodes": 0,
    "week": 5,
    "latest": null

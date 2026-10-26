@@ -1,10 +1,10 @@
 {
- "last_run": "2026-10-26T23:27:51.048611+00:00",
+ "last_run": "2026-10-26T23:39:52.108591+00:00",
  "results": [
   {
    "fetcher": "apply_grade_edits.py",
    "ok": true,
-   "seconds": 1.0,
+   "seconds": 0.5,
    "last_line": "no grade edits"
   },
   {
@@ -40,13 +40,13 @@
   {
    "fetcher": "fetch_film.py",
    "ok": true,
-   "seconds": 21.5,
+   "seconds": 57.5,
    "last_line": "  Week 1 vs Falcons (W 20-13): 2   {'Steelers Depot Film Room (Alex Kozora)': 1, \"Derrick Bell \u2013 DB's Film Room (Steelers Now)\": 1}"
   },
   {
    "fetcher": "fetch_podcasts.py",
    "ok": true,
-   "seconds": 22.0,
+   "seconds": 23.0,
    "last_line": "episodes past 5 days: 108 | embed-fallback channels: 0 | post-game: 8"
   },
   {
@@ -58,20 +58,20 @@
   {
    "fetcher": "fetch_grades.py",
    "ok": true,
-   "seconds": 1.5,
+   "seconds": 1.0,
    "last_line": "weeks 7 ballot players 42 season players 53"
   },
   {
    "fetcher": "fetch_stats.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "stats fresh; skipped"
+   "last_line": "team stats 20 players 43 pools {'offense:passing': 62, 'offense:rushing': 241, 'offense:receiving': 397, 'defense': 1146}"
   },
   {
    "fetcher": "build_leaders.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "leaders fresh; skipped"
+   "last_line": "leaders team 20 player 18 sizes {'pass_yds': 45, 'ypa': 34, 'pass_td': 45, 'int_thrown': 45, 'passer_rtg': 34, 'rush_yds': 82, 'rush_td': 82, 'rec': 166, 'rec_yds': 166, 'rec_td': 166, 'yac': 166, 'tackles': 373, 'sacks': 285, 'tfl': 144, 'pd': 222, 'int': 114, 'ff': 154, 'fr': 109}"
   },
   {
    "fetcher": "fetch_draft.py",
@@ -124,7 +124,7 @@
   {
    "fetcher": "fetch_depth.py",
    "ok": true,
-   "seconds": 3.0,
+   "seconds": 2.5,
    "last_line": "depth units [('Offense', '3WR 1TE', 12), ('Defense', 'Base 3-4 D', 12), ('Special teams', 'Special Teams', 6)]"
   },
   {
@@ -173,7 +173,7 @@
    "fetcher": "fetch_quotes.py",
    "ok": true,
    "seconds": 1.0,
-   "last_line": "quotes: 5 kept from 128 articles"
+   "last_line": "quotes: 6 kept from 129 articles"
   },
   {
    "fetcher": "build_machine.py",
@@ -184,7 +184,7 @@
   {
    "fetcher": "admin_stats.py",
    "ok": true,
-   "seconds": 3.5,
+   "seconds": 3.0,
    "last_line": "admin stats stored: today views 24 visits 11"
   }
  ]
