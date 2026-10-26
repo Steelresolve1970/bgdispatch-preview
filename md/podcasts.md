@@ -1,15 +1,15 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-26T18:36:19+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T18:36:01+00:00._
+_Generated 2026-10-26T18:48:24+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T18:48:00+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Video: [Grading the 16-10 Win Over the Saints | REPORT CARD | Week 7](https://www.youtube.com/watch?v=QM9sXhr64y8): Steelers Almighty, 2026-10-26 18:30 UTC
 - Video: [DO YOUR DANCE DK🕺📺: #CLEvsPIT 11/1 at 1 PM ET on CBS](https://www.youtube.com/shorts/HZc7aeI02vY): Pittsburgh Steelers (official), 2026-10-26 17:30 UTC
 - Video: [Steelers Imposed Their Will Over the Saints in Paris | Illegal Hands to the Face](https://www.youtube.com/watch?v=P1rY457W1b8): Still Curtain Podcast, 2026-10-26 17:00 UTC
 - Podcast: [The Terrible Podcast — Steelers-Saints Game In Paris Recap, Zach Frazier Love, AFC North Standings, & More](https://podcasts.apple.com/us/podcast/id405990739): The Terrible Podcast (Steelers Depot), 2026-10-26 16:54 UTC
 - Podcast: [Hour 1: Summary of the Saints](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-102626-mp3): Steelers Blitz, 2026-10-26 15:00 UTC
 - Podcast: [The Steelers Are ONE MOVE Away From Being Super Bowl Contenders?!](https://247sports.com/nfl/pittsburgh-steelers/): The Steel City Insider (Jim Wexell, 247Sports), 2026-10-26 14:05 UTC
 - Podcast: [Hour 2: Around the Shield + International Play](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr2-102626-mp3): Steelers Blitz, 2026-10-26 14:00 UTC
-- Video: [Grading the 16-10 Win Over the Saints | REPORT CARD | Week 7](https://www.youtube.com/watch?v=QM9sXhr64y8): Steelers Almighty, 2026-10-26 13:30 UTC
 - Podcast: [Steelers grind out 16-10 win over Saints in Paris](https://www.steelcityunderground.com/podcast/2026/10/steelers-grind-out-16-10-win-over-saints-in-paris/): Steel City Underground, 2026-10-26 13:18 UTC
 - Video: [Steelers grind out 16-10 win over Saints in Paris](https://www.youtube.com/watch?v=k6E4vXk-c-s): Steel City Underground, 2026-10-26 13:15 UTC
 - Video: [Baguette mode‼️](https://www.youtube.com/shorts/Njp62z248Zo): Pittsburgh Steelers (official), 2026-10-26 13:07 UTC

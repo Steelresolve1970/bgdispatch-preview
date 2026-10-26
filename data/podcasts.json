@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T18:36:01.986795+00:00",
+ "generated": "2026-10-26T18:48:00.469660+00:00",
  "date_et": "2026-10-26",
  "days": 5,
  "display_days": 2,
@@ -90,10 +90,10 @@
    "show": "Steel City Underground",
    "kind": "podcast",
    "url": "https://feeds.feedburner.com/steelcityunderground",
-   "status": "ok",
-   "episodes": 45,
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "episodes": 0,
    "week": 2,
-   "latest": "2026-10-26T13:18:35+00:00"
+   "latest": null
   },
   {
    "show": "Steel City Underground",
@@ -251,6 +251,15 @@
  ],
  "items": [
   {
+   "title": "Grading the 16-10 Win Over the Saints | REPORT CARD | Week 7",
+   "show": "Steelers Almighty",
+   "kind": "video",
+   "link": "https://www.youtube.com/watch?v=QM9sXhr64y8",
+   "published": "2026-10-26T18:30:21+00:00",
+   "summary": "Video from Steelers Almighty.",
+   "from_film": true
+  },
+  {
    "title": "DO YOUR DANCE DK\ud83d\udd7a\ud83d\udcfa: #CLEvsPIT 11/1 at 1 PM ET on CBS",
    "show": "Pittsburgh Steelers (official)",
    "kind": "video",
@@ -297,15 +306,6 @@
    "link": "https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr2-102626-mp3",
    "published": "2026-10-26T14:00:00+00:00",
    "summary": "Podcast episode from Steelers Blitz."
-  },
-  {
-   "title": "Grading the 16-10 Win Over the Saints | REPORT CARD | Week 7",
-   "show": "Steelers Almighty",
-   "kind": "video",
-   "link": "https://www.youtube.com/watch?v=QM9sXhr64y8",
-   "published": "2026-10-26T13:30:00+00:00",
-   "summary": "Video from Steelers Almighty.",
-   "from_film": true
   },
   {
    "title": "Steelers grind out 16-10 win over Saints in Paris",
@@ -1135,6 +1135,14 @@
   "until": "2026-10-27T17:30:00+00:00",
   "items": [
    {
+    "title": "Grading the 16-10 Win Over the Saints | REPORT CARD | Week 7",
+    "show": "Steelers Almighty",
+    "kind": "video",
+    "link": "https://www.youtube.com/watch?v=QM9sXhr64y8",
+    "published": "2026-10-26T18:30:21+00:00",
+    "summary": "Video from Steelers Almighty."
+   },
+   {
     "title": "The Terrible Podcast \u2014 Steelers-Saints Game In Paris Recap, Zach Frazier Love, AFC North Standings, & More",
     "show": "The Terrible Podcast (Steelers Depot)",
     "kind": "podcast",
@@ -1149,14 +1157,6 @@
     "link": "https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-102626-mp3",
     "published": "2026-10-26T15:00:00+00:00",
     "summary": "Podcast episode from Steelers Blitz."
-   },
-   {
-    "title": "Grading the 16-10 Win Over the Saints | REPORT CARD | Week 7",
-    "show": "Steelers Almighty",
-    "kind": "video",
-    "link": "https://www.youtube.com/watch?v=QM9sXhr64y8",
-    "published": "2026-10-26T13:30:00+00:00",
-    "summary": "Video from Steelers Almighty."
    },
    {
     "title": "Steelers grind out 16-10 win over Saints in Paris",
