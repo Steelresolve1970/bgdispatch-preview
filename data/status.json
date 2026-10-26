@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-26T18:14:36.685363+00:00",
+ "last_run": "2026-10-26T18:25:28.415011+00:00",
  "results": [
   {
    "fetcher": "apply_grade_edits.py",
@@ -10,7 +10,7 @@
   {
    "fetcher": "fetch_news.py",
    "ok": true,
-   "seconds": 3.0,
+   "seconds": 4.0,
    "last_line": "news: 150 ticker: 30"
   },
   {
@@ -34,8 +34,8 @@
   {
    "fetcher": "fetch_insiders.py",
    "ok": true,
-   "seconds": 16.5,
-   "last_line": "sidebar: 2 full feed: 4"
+   "seconds": 2.0,
+   "last_line": "sidebar: 5 full feed: 35"
   },
   {
    "fetcher": "fetch_film.py",
@@ -113,7 +113,7 @@
    "fetcher": "fetch_hub.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "injuries 14 practice 1 opp CLE"
+   "last_line": "hub fresh (<30 min); skipped"
   },
   {
    "fetcher": "fetch_matchup.py",
@@ -137,13 +137,13 @@
    "fetcher": "fetch_player_socials.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "player socials: checked 2026-10-19T18:24:19+00:00 - next check after 7 days; skipping"
+   "last_line": "player socials: 59 linked, 3 new players awaiting a verified handle, 1 departed removed, rechecked 0 (0 gone)"
   },
   {
    "fetcher": "fetch_rumors.py",
    "ok": true,
    "seconds": 3.0,
-   "last_line": "rumors 31 {'Rumor': 30, 'Confirmed': 1, 'Denied': 0}"
+   "last_line": "rumors 32 {'Rumor': 31, 'Confirmed': 1, 'Denied': 0}"
   },
   {
    "fetcher": "fetch_pickem.py",
@@ -172,14 +172,14 @@
   {
    "fetcher": "fetch_quotes.py",
    "ok": true,
-   "seconds": 1.5,
-   "last_line": "quotes: 8 kept from 131 articles"
+   "seconds": 1.0,
+   "last_line": "quotes: 9 kept from 130 articles"
   },
   {
    "fetcher": "build_machine.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "machine layer: {'news': 150, 'rumors': 31, 'injuries': 14, 'depth-chart': 28, 'schedule': 17, 'stats': 63, 'grades': 42, 'college': 20, 'insiders': 4, 'podcasts': 108, 'film': 2, 'draft': 521} md 13 feeds 5 jsonld 14"
+   "last_line": "machine layer: {'news': 150, 'rumors': 32, 'injuries': 14, 'depth-chart': 28, 'schedule': 17, 'stats': 63, 'grades': 42, 'college': 20, 'insiders': 35, 'podcasts': 108, 'film': 2, 'draft': 521} md 13 feeds 5 jsonld 14"
   },
   {
    "fetcher": "admin_stats.py",

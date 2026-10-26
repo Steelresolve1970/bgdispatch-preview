@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T18:24:19+00:00",
+ "generated": "2026-10-26T18:25:18+00:00",
  "note": "Players' own X accounts, checked against the official Steelers posts, jersey-number posts and profile names/bios. Players are left out when we could not confirm an account.",
  "players": {
   "00-0023459": {
@@ -185,17 +185,6 @@
    "url": "https://x.com/jackdriscoll71",
    "source": "Tagged in a Steelers jersey-number post (@nfl_jersey_num); profile name matches",
    "source_url": "https://x.com/nfl_jersey_num/status/1983680730959114662",
-   "verified": "2026-10-19",
-   "active": true,
-   "last_seen": "2026-10-19"
-  },
-  "00-0036504": {
-   "name": "Brandin Echols",
-   "handle": "matayo_echols",
-   "x_id": "3733192213",
-   "url": "https://x.com/matayo_echols",
-   "source": "Tagged by the official Steelers X account",
-   "source_url": "https://x.com/i/status/2010912343002362237",
    "verified": "2026-10-19",
    "active": true,
    "last_seen": "2026-10-19"
@@ -680,11 +669,6 @@
    "reason": "the Steelers have tagged @_TJWatt, but that account no longer exists on X"
   },
   {
-   "id": "00-0033941",
-   "name": "Rayshawn Jenkins",
-   "reason": "only candidate @Jenkz_26_ has ~100 followers; not confident"
-  },
-  {
    "id": "00-0035699",
    "name": "Jamel Dean",
    "reason": "jersey-bot handle @jameldean35 has 67 followers; not confident it is his"
@@ -730,7 +714,26 @@
    "reason": "no verifiable X account found"
   }
  ],
- "last_sync": "2026-10-19T18:24:19+00:00",
+ "last_sync": "2026-10-26T18:25:18+00:00",
  "last_recheck": "2026-10-19T18:24:19+00:00",
- "pending": []
+ "pending": [
+  {
+   "id": "00-0034272",
+   "name": "Marquez Valdes-Scantling",
+   "pos": "WR",
+   "added": "2026-10-26"
+  },
+  {
+   "id": "00-0035239",
+   "name": "Sean Murphy-Bunting",
+   "pos": "DB",
+   "added": "2026-10-26"
+  },
+  {
+   "id": "00-0041261",
+   "name": "Kevin Jobity Jr.",
+   "pos": "DL",
+   "added": "2026-10-26"
+  }
+ ]
 }

@@ -1,9 +1,10 @@
 # Steelers News
 
-_Generated 2026-10-26T18:17:00+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T18:16:57+00:00._
+_Generated 2026-10-26T18:25:24+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T18:25:14+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Perspective: the Steelers' defense](https://steelersdepot.com/2026/10/have-to-figure-out-our-pass-defense-former-steelers-share-top-concern/): Steelers Depot, 2026-10-26 18:15 UTC
+- [Closer look: the Steelers' playoff chances](https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/): The Athletic, 2026-10-26 18:05 UTC
 - [Reaction: Aaron Rodgers, Payton Wilson and the international game](https://www.nfl.com/videos/aaron-rodgers-and-payton-wilson-reflect-on-win-over-saints-in-paris): NFL.com, 2026-10-26 17:59 UTC
 - [Perspective: the Steelers' playoff chances](https://steelersdepot.com/2026/10/does-not-translate-to-playoff-football-cowherd-finds-steelers-method-of-winning-unsustainable/): Steelers Depot, 2026-10-26 17:45 UTC
 - [Perspective: John Harbaugh and Mike Tomlin](https://sports.yahoo.com/articles/john-harbaughs-success-spark-land-173137645.html): Yahoo Sports, 2026-10-26 17:31 UTC
@@ -55,7 +56,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Trade talk: Steelers-Raiders](https://stillcurtain.com/pittsburgh-steelers-trade-deadline-opportunity-las-vegas-raiders-too-good-ignore-01m5jmnqexxg?utm_source=RSS): Still Curtain, 2026-10-26 13:00 UTC
 - [Saints game review: takeaways](https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176900/5-takeaways-from-the-steelers-16-10-win-over-the-saints-in-paris): Behind the Steel Curtain, 2026-10-26 13:00 UTC
 - [Trade talk: Steelers](https://atozsports.com/nfl/pittsburgh-steelers-news/pittsburgh-steelers-monitoring-brian-thomas-jr-trade-nfl-deadline-rumors/): A to Z Sports, 2026-10-26 13:00 UTC
-- [Closer look: the Steelers' playoff chances](https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/pittsburgh-steelers-season-projections/): The New York Times, 2026-10-26 12:55 UTC
+- [Closer look: the Steelers' playoff chances (The New York Times)](https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/pittsburgh-steelers-season-projections/): The New York Times, 2026-10-26 12:55 UTC
 - [Update: Steelers](https://www.steelernation.com/2026/10/26/steelers-super-bowl-bold-challenge): SteelerNation, 2026-10-26 12:55 UTC
 - [Saints game review: the numbers (Steelers Depot)](https://steelersdepot.com/2026/10/stats-of-the-weird-steelers-vs-saints-3/): Steelers Depot, 2026-10-26 12:30 UTC
 - [Analysis: Aaron Rodgers and Jaylen Warren](https://steelersnow.com/steelers-daily-news-links-aaron-rodgers-iced-out-insane-jaylen-warren-stat/): Steelers Now, 2026-10-26 12:12 UTC
@@ -81,9 +82,9 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Closer look: the international game (TribLive)](https://triblive.com/sports/though-tourism-opportunities-were-limited-steelers-enjoy-their-stay-and-win-in-paris/): TribLive, 2026-10-25 23:45 UTC
 - [Closer look: Mason McCormick and the Steelers' run game](https://www.steelernation.com/2026/10/25/steelers-breakthrough-reality-check): SteelerNation, 2026-10-25 23:44 UTC
 - [Closer look: Aaron Rodgers and the international game (CBS Sports)](https://www.cbssports.com/nfl/news/steelers-aaron-rodgers-nfl-once-considered-week-all-international-games/): CBS Sports, 2026-10-25 22:57 UTC
+- [Perspective: Steelers-Saints](https://www.nytimes.com/athletic/7724515/2026/10/25/pittsburgh-steelers-saints-win-browns-rematch/): The New York Times, 2026-10-25 22:55 UTC
 - [Closer look: DK Metcalf and the Steelers' red-zone offense](https://www.steelernation.com/2026/10/25/steelers-dk-metcalf-simple-frustration): SteelerNation, 2026-10-25 22:38 UTC
 - [Saints game review: the result (Steelers.com (official))](https://www.steelers.com/news/from-the-press-room-steelers-vs-saints-x3526): Steelers.com (official), 2026-10-25 22:30 UTC
-- [Perspective: Steelers-Saints](https://www.nytimes.com/athletic/7724515/2026/10/25/pittsburgh-steelers-saints-win-browns-rematch/): The Athletic, 2026-10-25 22:14 UTC
 - [Saints game review: AFC North standings](https://www.si.com/nfl/steelers/onsi/where-pittsburgh-steelers-stand-afc-north-saints-game): All Steelers (Sports Illustrated), 2026-10-25 22:00 UTC
 - [Closer look: Mike McCarthy, the Steelers' offensive line and the Steelers' offense](https://www.steelernation.com/2026/10/25/steelers-mike-mccarthy-offensive-masterclass): SteelerNation, 2026-10-25 21:55 UTC
 - [Saints game review: the result (Behind the Steel Curtain)](https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176880/steelers-finally-find-success-on-third-down-in-win-over-saints): Behind the Steel Curtain, 2026-10-25 21:29 UTC
@@ -92,7 +93,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Saints game review: the result (Steelers Now)](https://steelersnow.com/kurt-warner-addresses-major-gaffe-during-steelers-win-vs-saints/): Steelers Now, 2026-10-25 20:14 UTC
 - [Saints game review: the result (Steelers Now)](https://steelersnow.com/protests-in-france-did-not-overshadow-steelers-saints-game-its-a-beautiful-country/): Steelers Now, 2026-10-25 20:08 UTC
 - [Saints game review: the result (Steelers.com (official))](https://www.steelers.com/news/batko-s-quick-6-steelers-vs-saints): Steelers.com (official), 2026-10-25 20:00 UTC
-- [Closer look: the international game (Reuters)](https://www.reuters.com/sports/paris-game-set-kick-off-calm-atmosphere-after-fresh-demonstrations-2026-10-25/): Reuters, 2026-10-25 19:54 UTC
 - [Closer look: Aaron Rodgers, the Steelers' linebackers and the international game](https://triblive.com/sports/feats-of-strength-aaron-rodgers-footwork-combos-at-ilb-rb-power-steelers-to-win-in-paris/): TribLive, 2026-10-25 19:24 UTC
 - [Saints game review: the defense](https://www.post-gazette.com/sports/steelers/2026/10/25/steelers-report-card-saints-week7/stories/202610250084): Pittsburgh Post-Gazette, 2026-10-25 19:08 UTC
 - [Reaction: Aaron Rodgers](https://steelersnow.com/aaron-rodgers-rips-nfl-owners-for-being-cheap/): Steelers Now, 2026-10-25 19:08 UTC
