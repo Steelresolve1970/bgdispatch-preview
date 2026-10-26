@@ -1,8 +1,10 @@
 # Steelers News
 
-_Generated 2026-10-26T20:50:44+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T20:50:03+00:00._
+_Generated 2026-10-26T21:01:41+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T21:01:07+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Saints game review: player grades](https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176962/steelers-week-7-grades-in-win-over-saints-aaron-rodgers-jaylen-warren): Behind the Steel Curtain, 2026-10-26 20:59 UTC
+- [Reaction: the Steelers' receivers](https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-shopping-for-wide-receiver-help-insider-says.html): PennLive (Nick Farabaugh), 2026-10-26 20:53 UTC
 - [Reaction: DeShon Elliott and Mike McCarthy](https://steelersdepot.com/2026/10/deshon-elliott-cleared-first-hurdle-in-limited-return-mike-mccarthy-says/): Steelers Depot, 2026-10-26 20:45 UTC
 - [Closer look: Mike McCarthy, DeShon Elliott and the Steelers' secondary](https://steelersnow.com/mike-mccarthy-reveals-plan-for-steelers-safety-deshon-elliott/): Steelers Now, 2026-10-26 20:45 UTC
 - [Closer look: Kaden Wetjen and rookies](https://steelersdepot.com/2026/10/steelers-st-coach-rookie-returner-kaden-wetjen-starting-to-see-some-things-a-little-bit-better/): Steelers Depot, 2026-10-26 20:30 UTC
@@ -77,6 +79,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Former player issues challenge](https://www.steelernation.com/2026/10/26/steelers-super-bowl-bold-challenge): SteelerNation, 2026-10-26 12:55 UTC
 - [Steelers news and links](https://steelersnow.com/steelers-daily-news-links-aaron-rodgers-iced-out-insane-jaylen-warren-stat/): Steelers Now, 2026-10-26 12:12 UTC
 - [Steelers dominate Saints](https://stillcurtain.com/the-pittsburgh-steelers-run-defense-wasn-t-just-elite-in-week-7-it-was-historic-01m5v2673a3f?utm_source=RSS): Still Curtain, 2026-10-26 12:00 UTC
+- [Closer look: the Steelers' secondary](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-no-longer-avoid-cornerback-troubles): All Steelers (Sports Illustrated), 2026-10-26 12:00 UTC
 - [Rodgers criticizes league management](https://www.pennlive.com/steelers/2026/10/aaron-rodgers-doesnt-hold-back-on-nfls-international-game-management-wish-there-was-a-mandate.html): PennLive (Nick Farabaugh), 2026-10-26 11:52 UTC
 - [Steelers defense makes key play](https://www.steelcityunderground.com/2026/10/26/payton-wilsons-interception-stops-saints-second-half-scoring-threat/): Steel City Underground, 2026-10-26 11:46 UTC
 - [Saints fans react to loss](https://triblive.com/sports/steelers-vs-saints-what-theyre-saying-in-new-orleans-after-loss-2/): TribLive, 2026-10-26 11:34 UTC
@@ -112,7 +115,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers game had tough officiating](https://www.si.com/nfl/steelers/onsi/referee-grades-pittsburgh-steelers-saints-tough-watch): All Steelers (Sports Illustrated), 2026-10-25 17:47 UTC
 - [Saints game review: who's up and who's down](https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176871/steelers-stock-report-after-week-7-win-over-saints): Behind the Steel Curtain, 2026-10-25 17:35 UTC
 - [Steelers win in Paris (Still Curtain)](https://stillcurtain.com/5-instant-reactions-to-the-pittsburgh-steelers-ugly-overseas-victory-against-the-saints-01m5swe5f5hh?utm_source=RSS): Still Curtain, 2026-10-25 17:05 UTC
-- [Steelers fans discuss Week 7 games](https://www.behindthesteelcurtain.com/pittsburgh-steelers-discussion/176761/btsc-sunday-nfl-games-thread-week-7): Behind the Steel Curtain, 2026-10-25 17:00 UTC
 - [Steelers dominate Saints (Still Curtain)](https://stillcurtain.com/7-winners-3-losers-pittsburgh-steelers-bully-ball-paris-win-new-orleans-saints-01m5spsvdhj5?utm_source=RSS): Still Curtain, 2026-10-25 16:51 UTC
 - [Steelers win in Paris (Pittsburgh Post-Gazette)](https://www.post-gazette.com/sports/steelers/2026/10/25/steelers-saints-nfl-paris-game/stories/202610250082): Pittsburgh Post-Gazette, 2026-10-25 16:49 UTC
 - [Steelers find success with tough style](https://www.pennlive.com/steelers/2026/10/the-steelers-brand-of-football-might-not-be-aesthetically-pleasing-but-it-works-heres-whyfarabaugh.html): PennLive (Nick Farabaugh), 2026-10-25 16:45 UTC
@@ -151,8 +153,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [DeShon Elliott to play](https://www.post-gazette.com/sports/steelers/2026/10/24/deshon-elliott-injury-update-steelers/stories/202610240043): Pittsburgh Post-Gazette, 2026-10-24 15:58 UTC
 - [Steelers bring back defensive player](https://triblive.com/sports/steelers-activate-safety-deshon-elliott-from-ir-ahead-of-paris-game/): TribLive, 2026-10-24 15:05 UTC
 - [Steelers travel to Paris](https://www.post-gazette.com/sports/steelers/2026/10/24/nfl-paris-game-steelers-travel/stories/202610240010): Pittsburgh Post-Gazette, 2026-10-24 15:00 UTC
-- [Steelers make adjustments](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-elevate-two-wide-receivers-saints-game): All Steelers (Sports Illustrated), 2026-10-24 14:55 UTC
-- [Steelers rookie supports hometown team](https://triblive.com/sports/steelers-rookie-riley-nowakowski-backs-his-hometown-brewers-in-world-series-even-in-paris/): TribLive, 2026-10-24 14:54 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
