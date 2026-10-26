@@ -121,7 +121,7 @@
  }
 
  function buildNewsletter(){
-  var el=card('news','The Daily Huddle','<h3 class="eg-q">Every Steelers headline in your inbox each morning. Free.</h3><form data-nl onsubmit="return BGD_sub(event,this)"><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;width:1px;height:1px;opacity:0"><label for="em-eg" class="sr">Email</label><input id="em-eg" type="email" placeholder="you@email.com" required><button class="btn">Sign up</button><p class="fine age13">You must be 13 or older to sign up. Emails are sent by Kit (ConvertKit) with double opt-in; unsubscribe anytime. <a href="legal/privacy.html">Privacy</a></p><p class="msg fine" role="status" aria-live="polite"></p></form>');
+  var el=card('news','The Daily Huddle','<h3 class="eg-q">Every Steelers headline in your inbox each morning. Free.</h3><form data-nl onsubmit="return BGD_sub(event,this)"><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;width:1px;height:1px;opacity:0"><label for="em-eg" class="sr">Email</label><input id="em-eg" type="email" placeholder="you@email.com" required><button class="btn">Sign up</button><p class="fine nl-note">Check your inbox for a confirmation email. If you don\'t see it, look in Promotions or Spam.</p><p class="fine age13">You must be 13 or older to sign up. Emails are sent by Kit (ConvertKit) with double opt-in; unsubscribe anytime. <a href="legal/privacy.html">Privacy</a></p><p class="msg fine" role="status" aria-live="polite"></p></form>');
   var f=el.querySelector('form');f.dataset.t=String(Date.now());return el;
  }
 
