@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T19:04:47.136877+00:00",
+ "generated": "2026-10-26T19:11:29.630861+00:00",
  "count": 150,
  "sources": [
   {
@@ -29,8 +29,8 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
-   "steelers_items": 0
+   "status": "ok",
+   "steelers_items": 24
   },
   {
    "source": "Still Curtain",
@@ -72,7 +72,7 @@
    "source": "Yahoo Sports",
    "url": "https://sports.yahoo.com/nfl/rss/",
    "status": "ok",
-   "steelers_items": 2
+   "steelers_items": 1
   },
   {
    "source": "Google News",
@@ -84,7 +84,7 @@
    "source": "PennLive (Nick Farabaugh)",
    "url": "https://www.pennlive.com/arc/outboundfeeds/rss/author/nfarabaugh/?outputType=xml",
    "status": "ok",
-   "steelers_items": 25
+   "steelers_items": 24
   },
   {
    "source": "Steelers.com (official)",
@@ -107,12 +107,49 @@
  ],
  "items": [
   {
+   "title": "Steelers safety finds new team",
+   "source": "Steelers Now",
+   "link": "https://steelersnow.com/hated-rival-quickly-snaps-up-recently-released-steelers-starter/",
+   "published": "2026-10-26T19:04:57+00:00",
+   "summary": "Rayshawn Jenkins has a new team after leaving Steelers. Read the full story at Steelers Now.",
+   "id": "c2d85bfe46",
+   "writer": "ai"
+  },
+  {
+   "title": "Steelers defensive line shows strength",
+   "source": "Behind the Steel Curtain",
+   "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176943/steelers-film-room-kevin-jobity-udfa-rookie-emerges-as-diamond-in-the-rough-vs-saints-domata-peko-defensive-line-depth-roster",
+   "published": "2026-10-26T19:04:51+00:00",
+   "summary": "The Steelers defensive line performed well against the Saints. The team overcame depth issues. Read the full story at Behind the Steel Curtain.",
+   "id": "e1aaf4c2dc",
+   "writer": "ai"
+  },
+  {
+   "title": "Steelers have daily podcast",
+   "source": "Steelers Now",
+   "link": "https://steelersnow.com/steelers-browns-winner-in-afc-north-drivers-seat-steelers-morning-rush/",
+   "published": "2026-10-26T19:03:53+00:00",
+   "summary": "The podcast discusses Steelers topics, including games. Read the full story at Steelers Now.",
+   "id": "176dc241c5",
+   "writer": "ai"
+  },
+  {
    "title": "Steelers player loses sack",
    "source": "Steelers Now",
    "link": "https://steelersnow.com/steelers-legend-rips-regs-for-robbing-tj-watt-vs-saints/",
    "published": "2026-10-26T19:01:33+00:00",
    "summary": "A Steelers player was denied a sack and recovery. The call is disputed. Read the full story at Steelers Now.",
    "id": "61f1727ed5",
+   "writer": "ai"
+  },
+  {
+   "title": "Aaron Rodgers talks international games",
+   "source": "DAZN",
+   "link": "https://www.dazn.com/en-US/news/football/aaron-rodgers-international-nfl-games-pittsburgh-steelers-paris/u1vitbeubx8j1jp0xqjenstqi",
+   "published": "2026-10-26T19:00:08+00:00",
+   "via": "Google News",
+   "summary": "Aaron Rodgers discusses international games. Read the full story at DAZN.",
+   "id": "84a5232284",
    "writer": "ai"
   },
   {
@@ -287,14 +324,6 @@
    "summary": "The broadcast team for the Steelers game is revealed. Read the full story at Steelers Now.",
    "id": "b0cb1992ec",
    "writer": "ai"
-  },
-  {
-   "title": "Browns game preview: betting odds",
-   "source": "Yahoo Sports",
-   "link": "https://sports.yahoo.com/articles/browns-vs-steelers-odds-opening-162653442.html",
-   "published": "2026-10-26T16:26:53+00:00",
-   "summary": "Yahoo Sports looks ahead to the game, with a focus on the Steelers and the Browns. Up next for the Steelers: the Browns, in Week 8. Read the full story at Yahoo Sports.",
-   "id": "497be50a98"
   },
   {
    "title": "Mike McCarthy uses clever tactic",
@@ -543,6 +572,14 @@
    "id": "77f6ad8a35"
   },
   {
+   "title": "Game review: takeaways",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/26/steelers-takeaways-defense-and-running-game-deliver-another-victory-in-paris/",
+   "published": "2026-10-26T13:35:33+00:00",
+   "summary": "Steel City Underground looks back at the game, with a focus on the Steelers, touching on the Steelers' run game and the Steelers' defense. Read the full story at Steel City Underground.",
+   "id": "da451f7798"
+  },
+  {
    "title": "Steelers execute field goal unit play",
    "source": "Steelers Depot",
    "link": "https://steelersdepot.com/2026/10/film-room-steelers-run-flawless-special-teams-fire-drill-to-net-three-crucial-points/",
@@ -654,6 +691,15 @@
    "writer": "ai"
   },
   {
+   "title": "Steelers defense makes key play",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/26/payton-wilsons-interception-stops-saints-second-half-scoring-threat/",
+   "published": "2026-10-26T11:46:13+00:00",
+   "summary": "The Steelers defense stopped a Saints scoring threat. The defense helped the team win. Read the full story at Steel City Underground.",
+   "id": "1edb3d9827",
+   "writer": "ai"
+  },
+  {
    "title": "Saints fans react to loss",
    "source": "TribLive",
    "link": "https://triblive.com/sports/steelers-vs-saints-what-theyre-saying-in-new-orleans-after-loss-2/",
@@ -715,16 +761,6 @@
    "published": "2026-10-26T08:00:00+00:00",
    "summary": "The Steelers run game is a threat. It is led by Jaylen Warren. Read the full story at Pittsburgh Post-Gazette.",
    "id": "f115c9042c",
-   "writer": "ai"
-  },
-  {
-   "title": "Steelers win in Paris (Fox News)",
-   "source": "Fox News",
-   "link": "https://www.foxnews.com/outkick-sports/nfl-fans-brave-face-paris-steelers-beat-saints-chaos-city",
-   "published": "2026-10-26T00:58:02+00:00",
-   "via": "Google News",
-   "summary": "The Steelers beat the Saints in Paris. Read the full story at Fox News.",
-   "id": "81147b664a",
    "writer": "ai"
   },
   {
@@ -996,30 +1032,12 @@
    "writer": "ai"
   },
   {
-   "title": "Mike McCarthy praises Steelers fans",
-   "source": "Steelers Now",
-   "link": "https://steelersnow.com/our-fans-always-show-up-mike-mccarthy-shouts-out-steelers-nation-after-win-over-saints-in-paris/",
-   "published": "2026-10-25T17:44:27+00:00",
-   "summary": "Mike McCarthy acknowledges Steelers Nation support after a win. Read the full story at Steelers Now.",
-   "id": "152993372e",
-   "writer": "ai"
-  },
-  {
    "title": "Saints game review: who's up and who's down",
    "source": "Behind the Steel Curtain",
    "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176871/steelers-stock-report-after-week-7-win-over-saints",
    "published": "2026-10-25T17:35:33+00:00",
    "summary": "Behind the Steel Curtain looks back at the game, with a focus on the Steelers and the Saints. For context, the Steelers beat the Saints in Week 7. Read the full story at Behind the Steel Curtain.",
    "id": "bda8221c6e"
-  },
-  {
-   "title": "Steelers win over Saints",
-   "source": "Steelers Now",
-   "link": "https://steelersnow.com/steelers-now-postgame-steelers-16-saints-10/",
-   "published": "2026-10-25T17:18:48+00:00",
-   "summary": "The Steelers beat the Saints. Alan Saunders and Jobe Morrison discuss the game. Read the full story at Steelers Now.",
-   "id": "bba8d52d3f",
-   "writer": "ai"
   },
   {
    "title": "Steelers win in Paris (Still Curtain)",
@@ -1197,15 +1215,6 @@
    "writer": "ai"
   },
   {
-   "title": "Steelers face Saints in Paris",
-   "source": "Behind the Steel Curtain",
-   "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-discussion/176754/steelers-vs-saints-week-7-game-chat",
-   "published": "2026-10-25T13:15:00+00:00",
-   "summary": "The Steelers play the Saints. The game is in Paris. Read the full story at Behind the Steel Curtain.",
-   "id": "9c7aeea995",
-   "writer": "ai"
-  },
-  {
    "title": "Steelers fans travel to Paris",
    "source": "TribLive",
    "link": "https://triblive.com/sports/photo-gallery-fans-gather-at-stade-de-france-stadium-to-support-steelers/",
@@ -1269,6 +1278,15 @@
    "writer": "ai"
   },
   {
+   "title": "Steelers news recap",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/25/scu-week-in-review-october-25th-2/",
+   "published": "2026-10-25T10:40:18+00:00",
+   "summary": "Steel City Underground recaps the week's articles and videos. Read the full story at Steel City Underground.",
+   "id": "1fad850306",
+   "writer": "ai"
+  },
+  {
    "title": "Steelers player not from France",
    "source": "Steelers.com (official)",
    "link": "https://www.steelers.com/news/asked-and-answered-oct-25-x9987",
@@ -1305,60 +1323,67 @@
    "id": "53a4a2ecaa"
   },
   {
-   "title": "Game preview: predictions",
+   "title": "Gerry Dulac makes predictions",
    "source": "Pittsburgh Post-Gazette",
    "link": "https://www.post-gazette.com/sports/steelers/2026/10/25/nfl-picks-predictions-week7/stories/202610220041",
    "published": "2026-10-25T08:00:00+00:00",
-   "summary": "Pittsburgh Post-Gazette looks ahead to the game, with a focus on the Steelers. Read the full story at Pittsburgh Post-Gazette.",
-   "id": "132712034f"
+   "summary": "NFL Week 7 predictions are made by Gerry Dulac. Read the full story at Pittsburgh Post-Gazette.",
+   "id": "132712034f",
+   "writer": "ai"
   },
   {
-   "title": "Saints game preview: the international game",
+   "title": "Steelers play in Paris (The Athletic)",
    "source": "The Athletic",
    "link": "https://www.nytimes.com/athletic/7718115/2026/10/25/steelers-saints-paris-france-nfl-protests-tv/",
    "published": "2026-10-25T04:01:43+00:00",
-   "summary": "The Athletic looks ahead to the game, with a focus on the Steelers and the Saints, touching on the international game. For context, the Steelers beat the Saints in Week 7. Read the full story at The Athletic.",
-   "id": "f203859bc0"
+   "summary": "The Steelers have a game in Paris. It is part of the NFL. Read the full story at The Athletic.",
+   "id": "f203859bc0",
+   "writer": "ai"
   },
   {
-   "title": "Injury update: Steelers-Saints",
+   "title": "Steelers promote receivers",
    "source": "PennLive (Nick Farabaugh)",
    "link": "https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-add-two-wide-receivers-before-saints-game-after-injuries-pile-up.html",
    "published": "2026-10-25T01:13:39+00:00",
-   "summary": "PennLive (Nick Farabaugh) has an injury update involving the Steelers and the Saints, touching on the receivers. For context, the Steelers beat the Saints in Week 7. Read the full story at PennLive (Nick Farabaugh).",
-   "id": "e6d44b69cc"
+   "summary": "The Steelers add receivers from their practice squad for the Saints game. Read the full story at PennLive (Nick Farabaugh).",
+   "id": "e6d44b69cc",
+   "writer": "ai"
   },
   {
-   "title": "Closer look: the Steelers' secondary",
+   "title": "Steelers Activate Safety",
    "source": "PennLive (Nick Farabaugh)",
    "link": "https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-get-huge-boost-with-return-of-standout-safety.html",
    "published": "2026-10-25T01:00:36+00:00",
-   "summary": "PennLive (Nick Farabaugh) takes a closer look at the Steelers' secondary. Read the full story at PennLive (Nick Farabaugh).",
-   "id": "66f4d8ae3a"
+   "summary": "The Steelers activated a safety from injured reserve. He may play this week. Read the full story at PennLive (Nick Farabaugh).",
+   "id": "66f4d8ae3a",
+   "writer": "ai"
   },
   {
-   "title": "Closer look: the Steelers' offense and the international game",
+   "title": "Steelers offense shows improvement (TribLive)",
    "source": "TribLive",
    "link": "https://triblive.com/sports/cup-of-joe-starkey-steelers-transformed-offense-will-light-up-paris/",
    "published": "2026-10-24T20:46:09+00:00",
-   "summary": "TribLive takes a closer look at the Steelers' offense and the international game. Read the full story at TribLive.",
-   "id": "66d1ff8e5c"
+   "summary": "The Steelers have two different offenses. Read the full story at TribLive.",
+   "id": "66d1ff8e5c",
+   "writer": "ai"
   },
   {
-   "title": "Perspective: Brian Thomas Jr.",
+   "title": "Steelers consider new receiver",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/pittsburgh-steelers-must-pull-the-trigger-after-emerging-as-landing-spot-for-brian-thomas-jr-01m5qcg4syns?utm_source=RSS",
    "published": "2026-10-24T18:04:33+00:00",
-   "summary": "Still Curtain offers analysis and opinion on Brian Thomas Jr. Read the full story at Still Curtain.",
-   "id": "a115318923"
+   "summary": "The Steelers may add a wide receiver. The team is a good fit for the player. Read the full story at Still Curtain.",
+   "id": "a115318923",
+   "writer": "ai"
   },
   {
-   "title": "Saints game preview: the international game (TribLive)",
+   "title": "Steelers fans visit Paris",
    "source": "TribLive",
    "link": "https://triblive.com/sports/despite-protests-steelers-fans-enjoy-paris-sights-ahead-of-game-against-saints/",
    "published": "2026-10-24T17:25:04+00:00",
-   "summary": "TribLive looks ahead to the game, with a focus on the Steelers and the Saints, touching on the international game. For context, the Steelers beat the Saints in Week 7. Read the full story at TribLive.",
-   "id": "c4587f8d40"
+   "summary": "Steelers fans are in Paris. They are seeing the sights. Read the full story at TribLive.",
+   "id": "c4587f8d40",
+   "writer": "ai"
   },
   {
    "title": "Perspective: Aaron Rodgers and the international game",
@@ -1369,45 +1394,50 @@
    "id": "46cab10ccb"
   },
   {
-   "title": "Saints game preview: DeShon Elliott",
+   "title": "DeShon Elliott to play",
    "source": "Pittsburgh Post-Gazette",
    "link": "https://www.post-gazette.com/sports/steelers/2026/10/24/deshon-elliott-injury-update-steelers/stories/202610240043",
    "published": "2026-10-24T15:58:34+00:00",
-   "summary": "Pittsburgh Post-Gazette looks ahead to the game, with a focus on DeShon Elliott, touching on the secondary and the international game. For context, the Steelers beat the Saints in Week 7. Read the full story at Pittsburgh Post-Gazette.",
-   "id": "4adf6b3c3a"
+   "summary": "Steelers safety plays against Saints. Read the full story at Pittsburgh Post-Gazette.",
+   "id": "4adf6b3c3a",
+   "writer": "ai"
   },
   {
-   "title": "Roster move: DeShon Elliott",
+   "title": "Steelers bring back defensive player",
    "source": "TribLive",
    "link": "https://triblive.com/sports/steelers-activate-safety-deshon-elliott-from-ir-ahead-of-paris-game/",
    "published": "2026-10-24T15:05:42+00:00",
-   "summary": "TribLive covers a roster move involving DeShon Elliott, touching on the Steelers' secondary and the international game. Read the full story at TribLive.",
-   "id": "06d0137ee5"
+   "summary": "DeShon Elliott returns to the Steelers. He has not played in a while. Read the full story at TribLive.",
+   "id": "06d0137ee5",
+   "writer": "ai"
   },
   {
-   "title": "Perspective: the international game",
+   "title": "Steelers travel to Paris",
    "source": "Pittsburgh Post-Gazette",
    "link": "https://www.post-gazette.com/sports/steelers/2026/10/24/nfl-paris-game-steelers-travel/stories/202610240010",
    "published": "2026-10-24T15:00:49+00:00",
-   "summary": "Pittsburgh Post-Gazette offers analysis and opinion on the Steelers, touching on the international game. Read the full story at Pittsburgh Post-Gazette.",
-   "id": "da412f102a"
+   "summary": "The Steelers trip to Paris is discussed. Read the full story at Pittsburgh Post-Gazette.",
+   "id": "da412f102a",
+   "writer": "ai"
   },
   {
-   "title": "Roster move: Steelers-Saints",
+   "title": "Steelers make adjustments",
    "source": "All Steelers (Sports Illustrated)",
    "link": "https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-elevate-two-wide-receivers-saints-game",
    "published": "2026-10-24T14:55:23+00:00",
-   "summary": "All Steelers (Sports Illustrated) covers a roster move involving the Steelers and the Saints, touching on the receivers. For context, the Steelers beat the Saints in Week 7. Read the full story at All Steelers (Sports Illustrated).",
+   "summary": "The Steelers elevated two wide receivers for a game. Read the full story at All Steelers (Sports Illustrated).",
    "via": "Google News",
-   "id": "f7f8b727db"
+   "id": "f7f8b727db",
+   "writer": "ai"
   },
   {
-   "title": "Closer look: Riley Nowakowski, the international game and rookies",
+   "title": "Steelers rookie supports hometown team",
    "source": "TribLive",
    "link": "https://triblive.com/sports/steelers-rookie-riley-nowakowski-backs-his-hometown-brewers-in-world-series-even-in-paris/",
    "published": "2026-10-24T14:54:26+00:00",
-   "summary": "TribLive takes a closer look at the international game and rookies, with Riley Nowakowski in focus. Read the full story at TribLive.",
-   "id": "c30039c571"
+   "summary": "Riley Nowakowski backs his hometown Brewers in the World Series. Read the full story at TribLive.",
+   "id": "c30039c571",
+   "writer": "ai"
   },
   {
    "title": "Closer look: the international game (Steelers.com (official))",
@@ -1418,16 +1448,7 @@
    "id": "5ba04600dc"
   },
   {
-   "title": "Injury update: Steelers",
-   "source": "All Steelers (Sports Illustrated)",
-   "link": "https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-starting-safety-deshon-elliott-back-injured-reserve",
-   "published": "2026-10-24T14:37:37+00:00",
-   "summary": "All Steelers (Sports Illustrated) has an injury update involving the Steelers, touching on the Steelers' secondary. Read the full story at All Steelers (Sports Illustrated).",
-   "via": "Google News",
-   "id": "1f0b767f0b"
-  },
-  {
-   "title": "Roster move: Steelers-Saints (Steelers.com (official))",
+   "title": "Roster move: Steelers-Saints",
    "source": "Steelers.com (official)",
    "link": "https://www.steelers.com/news/steelers-make-roster-move-ahead-of-saints-game",
    "published": "2026-10-24T14:30:36+00:00",
@@ -1435,21 +1456,12 @@
    "id": "2db4a813a5"
   },
   {
-   "title": "Saints game preview: the international game (The Athletic)",
+   "title": "Saints game preview: the international game",
    "source": "The Athletic",
    "link": "https://www.nytimes.com/athletic/7714662/2026/10/24/nfl-saints-steelers-paris-protests/",
    "published": "2026-10-24T14:25:06+00:00",
    "summary": "The Athletic looks ahead to the game, with a focus on the Steelers and the Saints, touching on the international game. For context, the Steelers beat the Saints in Week 7. Read the full story at The Athletic.",
    "id": "d83f083d26"
-  },
-  {
-   "title": "Saints game preview: predictions",
-   "source": "All Steelers (Sports Illustrated)",
-   "link": "https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-bold-predictions-offense-puts-show",
-   "published": "2026-10-24T14:00:03+00:00",
-   "summary": "All Steelers (Sports Illustrated) looks ahead to the game, with a focus on the Steelers and the Saints, touching on the offense. For context, the Steelers beat the Saints in Week 7. Read the full story at All Steelers (Sports Illustrated).",
-   "via": "Google News",
-   "id": "e11232175b"
   }
  ],
  "dropped_bad_links": 0
