@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-26T14:52:40+00:00",
- "data_updated": "2026-10-26T14:52:22+00:00",
- "count": 109,
+ "generated": "2026-10-26T15:04:02+00:00",
+ "data_updated": "2026-10-26T15:03:29+00:00",
+ "count": 108,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -72,11 +72,11 @@
    }
   },
   {
-   "id": "7d533777079a5528",
+   "id": "76dee868ca613384",
    "type": "podcast_episode",
    "title": "Steelers' Aaron Rodgers Farewell Tour Has Finally Begun",
    "show": "All Steelers Talk",
-   "url": "https://podcasts.apple.com/us/podcast/id1627248534",
+   "url": "https://podcasts.apple.com/us/podcast/steelers-aaron-rodgers-farewell-tour-has-finally-begun/id1627248534?i=1000798172405",
    "published": "2026-10-26T12:18:00+00:00",
    "summary": "Podcast episode from All Steelers Talk.",
    "source": {
@@ -289,6 +289,19 @@
    "summary": "Video from Pittsburgh Steelers (official).",
    "source": {
     "name": "Pittsburgh Steelers (official)",
+    "url": null
+   }
+  },
+  {
+   "id": "87c8ee6e374a0f7b",
+   "type": "podcast_episode",
+   "title": "WINNERS! Steelers Are Getting Dangerous!",
+   "show": "All Steelers Talk",
+   "url": "https://podcasts.apple.com/us/podcast/winners-steelers-are-getting-dangerous/id1627248534?i=1000798047686",
+   "published": "2026-10-25T17:40:00+00:00",
+   "summary": "Podcast episode from All Steelers Talk.",
+   "source": {
+    "name": "All Steelers Talk",
     "url": null
    }
   },
@@ -1407,32 +1420,6 @@
    "summary": "Podcast episode from Steel Curtain Network (BTSC).",
    "source": {
     "name": "Steel Curtain Network (BTSC)",
-    "url": null
-   }
-  },
-  {
-   "id": "ac01b23a0bd0b1fb",
-   "type": "podcast_episode",
-   "title": "Hour 1: Sticking it to the Saints",
-   "show": "Steelers Blitz",
-   "url": "https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-102126-mp3",
-   "published": "2026-10-21T15:00:00+00:00",
-   "summary": "Podcast episode from Steelers Blitz.",
-   "source": {
-    "name": "Steelers Blitz",
-    "url": null
-   }
-  },
-  {
-   "id": "9ce8f3a48e024456",
-   "type": "podcast_episode",
-   "title": "Steelers Big Plans at QB and WR",
-   "show": "All Steelers Talk",
-   "url": "https://podcasts.apple.com/us/podcast/steelers-big-plans-at-qb-and-wr/id1627248534?i=1000797452829",
-   "published": "2026-10-21T15:00:00+00:00",
-   "summary": "Podcast episode from All Steelers Talk.",
-   "source": {
-    "name": "All Steelers Talk",
     "url": null
    }
   }

@@ -1,8 +1,12 @@
 # NFL Insider Posts (last 3 days)
 
-_Generated 2026-10-26T14:52:40+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T14:52:10+00:00._
+_Generated 2026-10-26T15:04:02+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T15:03:16+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/insiders.json_
 
+- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3myryatdyds2l), 2026-10-26 14:57 UTC: @rapsheet.bsky.social posted about a signing.
+- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3myry7neewk2l), 2026-10-26 14:57 UTC: @rapsheet.bsky.social posted about injuries.
+- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3myry3zp6hc2l), 2026-10-26 14:55 UTC: @rapsheet.bsky.social posted about injuries.
+- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3myry2n77322l), 2026-10-26 14:54 UTC: @rapsheet.bsky.social posted about injuries.
 - [Christopher Carter (Locked On) on Bluesky](https://bsky.app/profile/cartercritiques.bsky.social/post/3myrwz2enn72n), 2026-10-26 14:35 UTC: @cartercritiques.bsky.social posted about the game.
 - [Christopher Carter (Locked On) on Bluesky](https://bsky.app/profile/cartercritiques.bsky.social/post/3myrodfemdi2o), 2026-10-26 12:00 UTC: @cartercritiques.bsky.social posted about the Steelers.
 - [Mike DeFabo (The Athletic) on Bluesky](https://bsky.app/profile/mikedefabo.bsky.social/post/3myqbrevapc2q), 2026-10-25 22:42 UTC: @mikedefabo.bsky.social posted about the Steelers, the game.
@@ -11,7 +15,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/insiders.json_
 - [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mypwoijuis2z), 2026-10-25 19:24 UTC: @rapsheet.bsky.social posted about injuries.
 - [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mypubq5zb22s), 2026-10-25 18:41 UTC: @rapsheet.bsky.social posted about NFL news.
 - [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mypt7pqci22s), 2026-10-25 18:22 UTC: @rapsheet.bsky.social posted about injuries.
-- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mypt5tghls2s), 2026-10-25 18:21 UTC: @rapsheet.bsky.social posted about injuries.
 - [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mypslwbod22s), 2026-10-25 18:11 UTC: @rapsheet.bsky.social posted about NFL news.
 - [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3myprjpw4ds2s), 2026-10-25 17:52 UTC: @rapsheet.bsky.social posted about NFL news.
 - [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3myprif3qrs2s), 2026-10-25 17:51 UTC: @rapsheet.bsky.social posted about NFL news.

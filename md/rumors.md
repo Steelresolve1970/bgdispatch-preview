@@ -1,8 +1,10 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-26T14:52:40+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T14:52:34+00:00._
+_Generated 2026-10-26T15:04:02+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T15:03:41+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
+- **Rumor** · tier: Fan blog · consensus: 2 source(s), top tier National insider
+  [Jaylen Warren and Aaron Rodgers spark fresh Steelers rumors after hot start](https://www.chatsports.com/pittsburgh-steelers/a/jaylen-warren-and-aaron-rodgers-spark-fresh-steelers-rumors-after-hot-start-53669): Chat Sports, first seen 2026-10-26 15:03 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Steelers' trade deadline opportunity with Raiders is too good to ignore](https://stillcurtain.com/pittsburgh-steelers-trade-deadline-opportunity-las-vegas-raiders-too-good-ignore-01m5jmnqexxg?utm_source=RSS): Still Curtain, first seen 2026-10-26 13:12 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 2 source(s), top tier Fan blog
@@ -23,7 +25,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [National Analyst Names Steelers Most Likely Trade Candidate](https://steelersdepot.com/2026/10/national-analyst-names-steelers-most-likely-trade-candidate/): Steelers Depot, first seen 2026-10-24 11:49 UTC
 - **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
   [Steelers’ Latest Trade Buzz Would Add Another Weapon for Aaron Rodgers](https://sports.yahoo.com/articles/steelers-latest-trade-buzz-add-184548332.html): Yahoo Sports, first seen 2026-10-24 10:08 UTC
-- **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
+- **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
   [Steelers bring back Aaron Rodgers’ former Packers target after Chargers release](https://sports.yahoo.com/articles/steelers-bring-back-aaron-rodgers-160000327.html): Yahoo Sports, first seen 2026-10-23 16:52 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [Steelers could be a dark horse trade destination for Jaguars' Brian Thomas Jr.](https://blackandteal.com/steelers-could-be-a-dark-horse-trade-destination-for-jaguars-brian-thomas-jr-trai-essex): Black and Teal, first seen 2026-10-23 15:18 UTC

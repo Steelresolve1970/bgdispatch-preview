@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T14:52:34.604166+00:00",
+ "generated": "2026-10-26T15:03:41.831040+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -43,6 +43,38 @@
   ]
  },
  "rumors": [
+  {
+   "id": "f18b4df7f03b",
+   "title": "Jaylen Warren and Aaron Rodgers spark fresh Steelers rumors after hot start",
+   "source": "Chat Sports",
+   "link": "https://www.chatsports.com/pittsburgh-steelers/a/jaylen-warren-and-aaron-rodgers-spark-fresh-steelers-rumors-after-hot-start-53669",
+   "published": "2026-10-26T14:40:05+00:00",
+   "summary": "Rumor-style report from Chat Sports on a Steelers roster move. Full details at the source.",
+   "tier": "Fan blog",
+   "tier_score": 2,
+   "subjects": [
+    "Aaron Rodgers",
+    "Jaylen Warren"
+   ],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-26T15:03:41.831040+00:00",
+   "consensus": {
+    "cluster_id": "85d6f65ebcd2",
+    "independent_sources": 2,
+    "sources": [
+     "Chat Sports",
+     "Yahoo Sports"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "85d6f65ebcd2"
+    ]
+   },
+   "updated": "2026-10-26T15:03:41.831040+00:00"
+  },
   {
    "id": "04317067e676",
    "title": "Steelers' trade deadline opportunity with Raiders is too good to ignore",
@@ -339,13 +371,16 @@
    "first_seen": "2026-10-23T16:52:38.787518+00:00",
    "consensus": {
     "cluster_id": "85d6f65ebcd2",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
+     "Chat Sports",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
-    "related_ids": []
+    "related_ids": [
+     "f18b4df7f03b"
+    ]
    },
    "updated": "2026-10-23T16:52:38.787518+00:00"
   },
