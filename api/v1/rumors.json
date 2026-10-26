@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "rumors",
  "description": "Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).",
- "generated": "2026-10-26T07:06:48+00:00",
- "data_updated": "2026-10-26T07:06:41+00:00",
- "count": 27,
+ "generated": "2026-10-26T09:07:20+00:00",
+ "data_updated": "2026-10-26T09:07:13+00:00",
+ "count": 28,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -68,16 +68,13 @@
    "people": [],
    "consensus": {
     "cluster_id": "b3b86933a304",
-    "independent_sources": 2,
+    "independent_sources": 1,
     "sources": [
-     "SteelerNation",
-     "Yardbarker"
+     "SteelerNation"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": [
-     "5585acb90f77"
-    ]
+    "related_ids": []
    }
   },
   {
@@ -415,14 +412,17 @@
     "DeShon Elliott"
    ],
    "consensus": {
-    "cluster_id": "595924af2d84",
-    "independent_sources": 1,
+    "cluster_id": "406d42aa5709",
+    "independent_sources": 2,
     "sources": [
-     "Pittsburgh Post-Gazette"
+     "Pittsburgh Post-Gazette",
+     "Yahoo Sports"
     ],
-    "highest_tier": "Beat writer / team",
-    "highest_tier_score": 3,
-    "related_ids": []
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "406d42aa5709"
+    ]
    }
   },
   {
@@ -675,6 +675,38 @@
     "highest_tier_score": 2,
     "related_ids": [
      "2ddf0b128c02"
+    ]
+   }
+  },
+  {
+   "id": "406d42aa5709",
+   "type": "rumor",
+   "title": "DeShon Elliott Could Be On Pitch Count In Return to Steelers’ Defense",
+   "summary": "News story from Yahoo Sports. Full report at the original publisher.",
+   "url": "https://sports.yahoo.com/articles/deshon-elliott-could-pitch-count-190000493.html",
+   "source": {
+    "name": "Yahoo Sports",
+    "url": null,
+    "reliability_tier": "National insider",
+    "reliability_score": 4
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-26T09:07:13+00:00",
+   "updated": "2026-10-26T09:07:13+00:00",
+   "published": "2026-10-22T19:00:00+00:00",
+   "people": [],
+   "consensus": {
+    "cluster_id": "406d42aa5709",
+    "independent_sources": 2,
+    "sources": [
+     "Pittsburgh Post-Gazette",
+     "Yahoo Sports"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "595924af2d84"
     ]
    }
   },

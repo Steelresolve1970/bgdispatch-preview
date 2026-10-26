@@ -1,11 +1,11 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-26T07:06:48+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T07:06:41+00:00._
+_Generated 2026-10-26T09:07:20+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T09:07:13+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [Aaron Rodgers Shades Steelers Coaches in New Video, Reportedly Called Some Plays in Win vs. Saints](https://bleacherreport.com/articles/25520168-aaron-rodgers-shades-steelers-coaches-new-video-reportedly-called-some-plays-win-vs-saints): Bleacher Report, first seen 2026-10-25 19:04 UTC
-- **Rumor** · tier: Fan blog · consensus: 2 source(s), top tier Fan blog
+- **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Steelers Have 3 Trade Targets That No One Talks About](https://www.steelernation.com/2026/10/24/steelers-trade-targets-no-one-talks-about): SteelerNation, first seen 2026-10-24 21:18 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Steelers Rumors: Should Pittsburgh Trade Patrick Queen to Cowboys?](https://www.chatsports.com/pittsburgh-steelers/a/steelers-rumors-should-pittsburgh-trade-patrick-queen-cowboys-53601): Chat Sports, first seen 2026-10-24 19:08 UTC
@@ -27,7 +27,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Steelers Again Linked to Legend’s Nephew With Trade Deadline Approaching](https://athlonsports.com/nfl/pittsburgh-steelers/steelers-again-linked-to-legends-nephew-with-trade-deadline-approaching): Athlon Sports, first seen 2026-10-23 15:18 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 2 source(s), top tier Fan blog
   [Saints vs. Steelers: Final Week 7 injury report updates key starters](https://saintswire.usatoday.com/story/sports/nfl/saints/2026/10/23/saints-injury-report-steelers-jordyn-tyson-nfl/92395091007/): Saints Wire, first seen 2026-10-23 14:41 UTC
-- **Confirmed** · tier: Beat writer / team · consensus: 1 source(s), top tier Beat writer / team
+- **Confirmed** · tier: Beat writer / team · consensus: 2 source(s), top tier National insider
   [Steelers safety DeShon Elliott could return Sunday, a year removed from his gruesome injury](https://www.post-gazette.com/sports/steelers/2026/10/23/will-deshon-elliott-play-sunday/stories/202610230028): Pittsburgh Post-Gazette, first seen 2026-10-23 14:08 UTC
 - **Rumor** · tier: Fan blog · consensus: 2 source(s), top tier Fan blog
   [Saints’ Week 7 Friday Injury Report: Two Starters Questionable](https://steelersdepot.com/2026/10/saints-week-7-friday-injury-report-two-starters-questionable/): Steelers Depot, first seen 2026-10-23 13:24 UTC
@@ -45,6 +45,8 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Pittsburgh Steelers Named in Massive $76 Million Trade Rumor](https://www.yardbarker.com/nfl/articles/pittsburgh_steelers_named_in_massive_76_million_trade_rumor/s1_17355_44461459): Yardbarker, first seen 2026-10-22 21:56 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Steelers should try to pry Riq Woolen away from Eagles before trade deadline](https://stillcurtain.com/pittsburgh-steelers-should-try-to-pry-riq-woolen-away-from-eagles-before-trade-deadline-01m5j1m4rt6x?utm_source=RSS): Still Curtain, first seen 2026-10-22 21:08 UTC
+- **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
+  [DeShon Elliott Could Be On Pitch Count In Return to Steelers’ Defense](https://sports.yahoo.com/articles/deshon-elliott-could-pitch-count-190000493.html): Yahoo Sports, first seen 2026-10-26 09:07 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [ESPN projects a NFL Trade Deadline deal between the Steelers and Raiders](https://www.steelcurtainnetwork.com/espn-projects-a-nfl-trade-deadline-deal-between-the-steelers-and-raiders/): Steel Curtain Network, first seen 2026-10-22 18:10 UTC
 - **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider

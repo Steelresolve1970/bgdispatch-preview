@@ -1,8 +1,9 @@
 # Steelers News
 
-_Generated 2026-10-26T07:06:48+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T07:06:04+00:00._
+_Generated 2026-10-26T09:07:20+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T08:14:51+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Steelers Week 7 analysis: Jaylen Warren and the run game make this team a legitimate threat](https://www.post-gazette.com/sports/steelers/2026/10/26/steelers-week-7-analysis-nfl-afc-north/stories/202610250086): Pittsburgh Post-Gazette, 2026-10-26 08:00 UTC
 - [Rodgers now alone with 3rd-most TD passes as Steelers win 1st Paris game](https://www.espn.com/nfl/story/_/id/50277960/rodgers-throws-historic-td-pass-steelers-win-1st-paris-game): ESPN, 2026-10-26 07:35 UTC
 - [Film Room: Pittsburgh Has One Unstoppable Red Zone Play](https://steelersdepot.com/2026/10/film-room-pittsburgh-has-one-unstoppable-red-zone-play/): Steelers Depot, 2026-10-26 04:00 UTC
 - [NFL fans put on brave face in Paris as Steelers beat Saints with chaos in the city](https://www.foxnews.com/outkick-sports/nfl-fans-brave-face-paris-steelers-beat-saints-chaos-city): Fox News, 2026-10-26 00:58 UTC
@@ -108,7 +109,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers vs. Saints tailgate thread](https://www.behindthesteelcurtain.com/pittsburgh-steelers-discussion/176758/steelers-vs-saints-tailgate-thread): Behind the Steel Curtain, 2026-10-25 12:00 UTC
 - [Steelers-Saints: Week 7 live chat, updates and analysis with Christopher Carter](https://www.post-gazette.com/sports/steelers/2026/10/25/steelers-saints-live-chat/stories/202610250078): Pittsburgh Post-Gazette, 2026-10-25 12:00 UTC
 - [Steelers inactives for Week 7 at Saints](https://www.steelers.com/news/steelers-inactives-for-week-7-at-saints): Steelers.com (official), 2026-10-25 12:00 UTC
-- [SCU Week in Review – October 25th](https://www.steelcityunderground.com/2026/10/25/scu-week-in-review-october-25th-2/): Steel City Underground, 2026-10-25 10:40 UTC
 - [Asked and Answered: Oct. 25](https://www.steelers.com/news/asked-and-answered-oct-25-x9987): Steelers.com (official), 2026-10-25 10:05 UTC
 - [How to watch Steelers vs. Saints](https://www.behindthesteelcurtain.com/pittsburgh-steelers-game-information/176852/how-to-watch-steelers-vs-saints): Behind the Steel Curtain, 2026-10-25 10:00 UTC
 - [How to watch today's Pittsburgh Steelers vs. New Orleans Saints international game being played in Paris](https://www.cbsnews.com/pittsburgh/news/how-to-watch-today-pittsburgh-steelers-new-orleans-saints-paris-france-week-7-nfl-schedule/): CBS News, 2026-10-25 09:00 UTC
@@ -134,7 +134,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers vs. Saints Bold Predictions: Offense Puts on a Show](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-bold-predictions-offense-puts-show): All Steelers (Sports Illustrated), 2026-10-24 14:00 UTC
 - [Saints already have a troubling edge over Steelers ahead of Paris showdown](https://stillcurtain.com/saints-already-have-a-troubling-edge-over-pittsburgh-steelers-ahead-of-paris-showdown-01m5cr7j0wrj?utm_source=RSS): Still Curtain, 2026-10-24 14:00 UTC
 - [Four-Down Territory: Run game will travel](https://www.steelers.com/news/four-down-territory-run-game-will-travel): Steelers.com (official), 2026-10-24 13:00 UTC
-- [Steelers GameDay Cheat Sheet: Week 7 at New Orleans Saints](https://www.steelcityunderground.com/2026/10/24/steelers-gameday-cheat-sheet-week-7-at-new-orleans-saints/): Steel City Underground, 2026-10-24 12:05 UTC
 - [Patrick Graham has perfect blueprint to erase Saints' rising star Tyler Shough](https://stillcurtain.com/pittsburgh-steelers-patrick-graham-has-perfect-blueprint-to-erase-saints-rising-star-tyler-shough-01m5mkb72fy1?utm_source=RSS): Still Curtain, 2026-10-24 12:00 UTC
 - [Steelers vs. Saints picks: Still Curtain panel predicts an uphill battle](https://stillcurtain.com/pittsburgh-steelers-vs-saints-picks-still-curtain-panel-predicts-an-uphill-battle-01m5a27wa79q?utm_source=RSS): Still Curtain, 2026-10-24 11:00 UTC
 - [Pros and Cons of Steelers Trying to Land Quenton Nelson](https://www.si.com/nfl/steelers/onsi/pros-cons-pittsburgh-steelers-trying-land-quenton-nelson): All Steelers (Sports Illustrated), 2026-10-24 11:00 UTC
@@ -153,6 +152,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers Jaylen Warren could expose Saints' biggest weakness in Paris showdown](https://stillcurtain.com/pittsburgh-steelers-jaylen-warren-could-expose-saints-biggest-weakness-in-paris-showdown-01m5cztg7dnw?utm_source=RSS): Still Curtain, 2026-10-23 16:00 UTC
 - [Cowboys finally call out George Pickens' effort issue Steelers fans know too well](https://stillcurtain.com/dallas-cowboys-call-out-george-pickens-effort-issue-pittsburgh-steelers-fans-know-01m5mhzf735f?utm_source=RSS): Still Curtain, 2026-10-23 15:00 UTC
 - [The Steelers are excited to ‘showcase’ NFL football — and themselves — in France](https://www.post-gazette.com/sports/steelers/2026/10/23/nfl-game-paris-steelers-saints/stories/202610230029): Pittsburgh Post-Gazette, 2026-10-23 15:00 UTC
+- ['Would have been nice one time to come over on a Monday': Steelers race to acclimate to Paris](https://www.nytimes.com/athletic/7717102/2026/10/23/steelers-paris-travel-saints/): The Athletic, 2026-10-23 14:47 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
