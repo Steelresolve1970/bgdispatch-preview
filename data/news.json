@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T22:16:09.671934+00:00",
+ "generated": "2026-10-26T22:27:22.412887+00:00",
  "count": 150,
  "sources": [
   {
@@ -29,8 +29,8 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
-   "steelers_items": 0
+   "status": "ok",
+   "steelers_items": 24
   },
   {
    "source": "Still Curtain",
@@ -107,6 +107,14 @@
  ],
  "items": [
   {
+   "title": "Update: Mike McCarthy",
+   "source": "SteelerNation",
+   "link": "https://www.steelernation.com/2026/10/26/steelers-mike-mccarthy-valuable-reps",
+   "published": "2026-10-26T22:19:05+00:00",
+   "summary": "SteelerNation has a new story on Mike McCarthy. Read the full story at SteelerNation.",
+   "id": "d892ed87c2"
+  },
+  {
    "title": "Perspective: Zach Frazier",
    "source": "Steelers Now",
    "link": "https://steelersnow.com/steelers-afternoon-drive-dominant-trench-play-fraizer-leagues-best-center/",
@@ -129,6 +137,15 @@
    "published": "2026-10-26T22:00:48+00:00",
    "summary": "Steelers Depot looks at draft prospects or draft plans involving Aaron Rodgers, touching on the Steelers' playoff chances. Read the full story at Steelers Depot.",
    "id": "4dd49139da"
+  },
+  {
+   "title": "Saints game review: who's up and who's down",
+   "source": "Audacy",
+   "link": "https://www.audacy.com/wwl/news/local/saints-steelers-stock-watch",
+   "published": "2026-10-26T21:53:58+00:00",
+   "via": "Google News",
+   "summary": "Audacy looks back at the game, with a focus on the Steelers and the Saints. For context, the Steelers beat the Saints in Week 7. Read the full story at Audacy.",
+   "id": "7aed0e2679"
   },
   {
    "title": "Browns game preview: what to know",
@@ -214,11 +231,11 @@
   },
   {
    "title": "Saints game review: player grades",
-   "source": "Yahoo Sports",
-   "link": "https://sports.yahoo.com/articles/steelers-week-7-grades-win-205954489.html",
+   "source": "Behind the Steel Curtain",
+   "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176962/steelers-week-7-grades-in-win-over-saints-aaron-rodgers-jaylen-warren",
    "published": "2026-10-26T20:59:54+00:00",
-   "summary": "Yahoo Sports looks back at the game, with a focus on the Steelers and the Saints. For context, the Steelers beat the Saints in Week 7. Read the full story at Yahoo Sports.",
-   "id": "1cd6684de6"
+   "summary": "Behind the Steel Curtain looks back at the game, with a focus on the Steelers and the Saints. For context, the Steelers beat the Saints in Week 7. Read the full story at Behind the Steel Curtain.",
+   "id": "3c3d6a33d4"
   },
   {
    "title": "Reaction: the Steelers' receivers",
@@ -302,7 +319,7 @@
    "id": "7e6ddb8086"
   },
   {
-   "title": "Update: Mike McCarthy",
+   "title": "Update: Mike McCarthy (Steelers Now)",
    "source": "Steelers Now",
    "link": "https://steelersnow.com/steelers-hc-mike-mccarthy-makes-his-cleveland-feelings-clear/",
    "published": "2026-10-26T19:57:12+00:00",
@@ -634,16 +651,6 @@
    "id": "d741ecf8b5"
   },
   {
-   "title": "Paris hosts festive game",
-   "source": "Taipei Times",
-   "link": "https://www.taipeitimes.com/News/sport/archives/2026/10/27/2003866680",
-   "published": "2026-10-26T16:00:00+00:00",
-   "via": "Google News",
-   "summary": "A game in Paris was festive. Read the full story at Taipei Times.",
-   "id": "3475e1d0d3",
-   "writer": "ai"
-  },
-  {
    "title": "Steelers defense shows improvement (Behind the Steel Curtain)",
    "source": "Behind the Steel Curtain",
    "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176926/the-steelers-defense-has-reached-elite-territory",
@@ -717,14 +724,6 @@
    "writer": "ai"
   },
   {
-   "title": "Closer look: the international game",
-   "source": "SteelerNation",
-   "link": "https://www.steelernation.com/2026/10/26/steelers-controversial-paris-gamble",
-   "published": "2026-10-26T14:14:20+00:00",
-   "summary": "SteelerNation takes a closer look at the international game. Read the full story at SteelerNation.",
-   "id": "7f23bd00b4"
-  },
-  {
    "title": "Steelers defense shows promise",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/pittsburgh-steelers-linebackers-payton-wilson-patrick-queen-finally-give-fans-reason-believe-01m5w5j7wegb?utm_source=RSS",
@@ -741,6 +740,14 @@
    "summary": "All Steelers (Sports Illustrated) has a new story on Aaron Rodgers. Read the full story at All Steelers (Sports Illustrated).",
    "via": "Google News",
    "id": "77f6ad8a35"
+  },
+  {
+   "title": "Game review: takeaways",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/26/steelers-takeaways-defense-and-running-game-deliver-another-victory-in-paris/",
+   "published": "2026-10-26T13:35:33+00:00",
+   "summary": "Steel City Underground looks back at the game, with a focus on the Steelers, touching on the Steelers' run game and the Steelers' defense. Read the full story at Steel City Underground.",
+   "id": "da451f7798"
   },
   {
    "title": "Steelers offense still struggles",
@@ -833,6 +840,15 @@
    "published": "2026-10-26T11:52:03+00:00",
    "summary": "Aaron Rodgers discusses NFL international games. He shares his thoughts on management. Read the full story at PennLive (Nick Farabaugh).",
    "id": "8127a79837",
+   "writer": "ai"
+  },
+  {
+   "title": "Steelers defense makes key play",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/26/payton-wilsons-interception-stops-saints-second-half-scoring-threat/",
+   "published": "2026-10-26T11:46:13+00:00",
+   "summary": "The Steelers defense stopped a Saints scoring threat. The defense helped the team win. Read the full story at Steel City Underground.",
+   "id": "1edb3d9827",
    "writer": "ai"
   },
   {
@@ -1072,7 +1088,7 @@
    "writer": "ai"
   },
   {
-   "title": "Saints game review: who's up and who's down",
+   "title": "Saints game review: who's up and who's down (Behind the Steel Curtain)",
    "source": "Behind the Steel Curtain",
    "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176871/steelers-stock-report-after-week-7-win-over-saints",
    "published": "2026-10-25T17:35:33+00:00",
@@ -1086,15 +1102,6 @@
    "published": "2026-10-25T17:05:56+00:00",
    "summary": "The Steelers beat the Saints in Paris. The game was not pretty. Read the full story at Still Curtain.",
    "id": "e6a1187ff4",
-   "writer": "ai"
-  },
-  {
-   "title": "Steelers fans discuss Week 7 games",
-   "source": "Behind the Steel Curtain",
-   "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-discussion/176761/btsc-sunday-nfl-games-thread-week-7",
-   "published": "2026-10-25T17:00:00+00:00",
-   "summary": "Week 7 games are being discussed by Steelers fans. Read the full story at Behind the Steel Curtain.",
-   "id": "414adb14e2",
    "writer": "ai"
   },
   {
@@ -1290,6 +1297,15 @@
    "writer": "ai"
   },
   {
+   "title": "Steelers news recap",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/25/scu-week-in-review-october-25th-2/",
+   "published": "2026-10-25T10:40:18+00:00",
+   "summary": "Steel City Underground recaps the week's articles and videos. Read the full story at Steel City Underground.",
+   "id": "1fad850306",
+   "writer": "ai"
+  },
+  {
    "title": "Steelers player not from France",
    "source": "Steelers.com (official)",
    "link": "https://www.steelers.com/news/asked-and-answered-oct-25-x9987",
@@ -1412,25 +1428,6 @@
    "published": "2026-10-24T15:05:42+00:00",
    "summary": "DeShon Elliott returns to the Steelers. He has not played in a while. Read the full story at TribLive.",
    "id": "06d0137ee5",
-   "writer": "ai"
-  },
-  {
-   "title": "Steelers travel to Paris",
-   "source": "Pittsburgh Post-Gazette",
-   "link": "https://www.post-gazette.com/sports/steelers/2026/10/24/nfl-paris-game-steelers-travel/stories/202610240010",
-   "published": "2026-10-24T15:00:49+00:00",
-   "summary": "The Steelers trip to Paris is discussed. Read the full story at Pittsburgh Post-Gazette.",
-   "id": "da412f102a",
-   "writer": "ai"
-  },
-  {
-   "title": "Steelers make adjustments",
-   "source": "All Steelers (Sports Illustrated)",
-   "link": "https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-elevate-two-wide-receivers-saints-game",
-   "published": "2026-10-24T14:55:23+00:00",
-   "summary": "The Steelers elevated two wide receivers for a game. Read the full story at All Steelers (Sports Illustrated).",
-   "via": "Google News",
-   "id": "f7f8b727db",
    "writer": "ai"
   }
  ],
