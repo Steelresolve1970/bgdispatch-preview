@@ -826,13 +826,13 @@
     },
     {
      "week": 7,
-     "avg": 6.7,
+     "avg": 4.8,
      "source": "editor"
     }
    ],
    "votes": 0,
    "involvement": 68.3,
-   "avg": 7.0,
+   "avg": 6.62,
    "games": 5,
    "source": "stats",
    "editor_weeks": [
@@ -842,7 +842,7 @@
     6,
     7
    ],
-   "trend": 0.3
+   "trend": -1.6
   },
   {
    "name": "Spencer Anderson",
@@ -1681,17 +1681,19 @@
     },
     {
      "week": 7,
-     "avg": 6.6,
-     "source": "stats"
+     "avg": 7.0,
+     "source": "editor"
     }
    ],
    "votes": 0,
    "involvement": 34.0,
-   "avg": 6.5,
+   "avg": 6.56,
    "games": 7,
    "source": "stats",
-   "editor_weeks": [],
-   "trend": 0.3
+   "editor_weeks": [
+    7
+   ],
+   "trend": 0.7
   },
   {
    "name": "Brandin Echols",
@@ -1909,21 +1911,22 @@
     },
     {
      "week": 7,
-     "avg": 6.6,
-     "source": "stats"
+     "avg": 7.0,
+     "source": "editor"
     }
    ],
    "votes": 0,
    "involvement": 34.0,
-   "avg": 7.68,
+   "avg": 7.75,
    "games": 6,
    "source": "stats",
    "editor_weeks": [
     1,
     2,
-    4
+    4,
+    7
    ],
-   "trend": -2.4
+   "trend": -2.0
   },
   {
    "name": "Jaquan Brisker",
@@ -2094,13 +2097,13 @@
     },
     {
      "week": 7,
-     "avg": 5.7,
-     "source": "stats"
+     "avg": 4.7,
+     "source": "editor"
     }
    ],
    "votes": 0,
    "involvement": 29.0,
-   "avg": 6.66,
+   "avg": 6.51,
    "games": 7,
    "source": "stats",
    "editor_weeks": [
@@ -2108,9 +2111,10 @@
     2,
     3,
     4,
-    5
+    5,
+    7
    ],
-   "trend": -0.7
+   "trend": -1.7
   },
   {
    "name": "Chris Boswell",
