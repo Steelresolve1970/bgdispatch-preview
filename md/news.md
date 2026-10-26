@@ -1,9 +1,10 @@
 # Steelers News
 
-_Generated 2026-10-26T23:39:48+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T23:38:05+00:00._
+_Generated 2026-10-26T23:51:31+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T23:50:08+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Closer look: Aaron Rodgers and the Steelers' quarterback situation](https://www.espn.com/nfl/story/_/id/50252261/nfl-week-7-fashionable-arrivals): ESPN, 2026-10-26 23:53 UTC
+- [Update: Yahya Black](https://steelersdepot.com/2026/10/patrick-graham-recalls-his-candid-conversation-after-first-meeting-yahya-black/): Steelers Depot, 2026-10-26 23:45 UTC
 - [Saints game review: Mike McCarthy](https://www.steelernation.com/2026/10/26/steelers-mike-mccarthy-victory-saints): SteelerNation, 2026-10-26 23:30 UTC
 - [Closer look: Cameron Heyward, Joey Porter Jr. and the international game](https://www.steelernation.com/2026/10/26/steelers-cameron-heyward-funny-joey-porter-paris): SteelerNation, 2026-10-26 22:45 UTC
 - [Update: Aaron Rodgers](https://steelersdepot.com/2026/10/hes-coming-back-chad-johnson-doesnt-believe-aaron-rodgers-will-retire-after-2026/): Steelers Depot, 2026-10-26 22:30 UTC
@@ -63,7 +64,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers get win in Paris](https://steelersdepot.com/2026/10/how-do-you-reverse-that-former-steelers-outraged-by-overturned-t-j-watt-forced-fumble/): Steelers Depot, 2026-10-26 17:30 UTC
 - [Steelers have ground issue](https://www.steelernation.com/2026/10/26/steelers-paris-strange-problem): SteelerNation, 2026-10-26 17:27 UTC
 - [Steelers fans head home](https://www.cbsnews.com/pittsburgh/news/steelers-fans-return-home-nfl-game-paris/): CBS News, 2026-10-26 17:16 UTC
-- [Aaron Rodgers plays differently](https://steelersdepot.com/2026/10/advanced-numbers-show-aaron-rodgers-is-playing-differently-this-year/): Steelers Depot, 2026-10-26 17:15 UTC
 - [Steelers winning expected games](https://www.bozemandailychronicle.com/wire/sports/the-steelers-are-winning-the-games-theyre-supposed-to-win-theyll-take-it-for-now/article_134df601-53f8-52e9-8694-c42033ccd1e4.html): Bozeman Daily Chronicle, 2026-10-26 17:09 UTC
 - [Steelers face Browns](https://www.baltimoreravens.com/news/browns-steelers-play-for-division-lead-week-8-jaylen-warren-huge-season-deshaun-watson-another-clutch-drive-against-titan-jamarr-chase-fiery-halftime-speech): Baltimore Ravens, 2026-10-26 17:08 UTC
 - [Game review: Mike McCarthy](https://steelersnow.com/saunders-steelers-takeaways-whether-he-likes-it-or-not-mike-mccarthy-has-a-run-first-offense/): Steelers Now, 2026-10-26 16:53 UTC
