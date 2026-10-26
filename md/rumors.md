@@ -1,8 +1,10 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-26T19:44:50+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T19:44:43+00:00._
+_Generated 2026-10-26T19:55:57+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T19:55:50+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
+- **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
+  [Trade rumor: Steelers-Chiefs](https://bleacherreport.com/articles/25520712-new-nfl-trade-rumors-chiefs-steelers-target-key-position-deadline): Bleacher Report, first seen 2026-10-26 19:55 UTC
 - **Rumor** · tier: Fan blog · consensus: 2 source(s), top tier National insider
   [Rumor watch: Jaylen Warren and Aaron Rodgers](https://www.chatsports.com/pittsburgh-steelers/a/jaylen-warren-and-aaron-rodgers-spark-fresh-steelers-rumors-after-hot-start-53669): Chat Sports, first seen 2026-10-26 15:03 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog

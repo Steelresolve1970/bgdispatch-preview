@@ -1,8 +1,11 @@
 # Steelers News
 
-_Generated 2026-10-26T19:44:50+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T19:44:13+00:00._
+_Generated 2026-10-26T19:55:57+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T19:55:22+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Reaction: Max Iheanachor and Mike McCarthy](https://steelersdepot.com/2026/10/he-belongs-here-max-iheanachor-is-a-perfect-steeler-says-mike-mccarthy/): Steelers Depot, 2026-10-26 19:50 UTC
+- [Update: Jaylen Warren](https://steelersnow.com/hot-as-a-firecracker-jaylen-warren-continues-to-be-steelers-workhorse/): Steelers Now, 2026-10-26 19:48 UTC
+- [Reaction: Mike McCarthy and the Steelers' special teams](https://steelersdepot.com/2026/10/steelers-must-get-more-production-from-special-teams-mccarthy-says/): Steelers Depot, 2026-10-26 19:45 UTC
 - [Reaction: Mike McCarthy](https://steelersdepot.com/2026/10/we-need-these-games-mike-mccarthy-sees-value-in-steelers-close-wins/): Steelers Depot, 2026-10-26 19:40 UTC
 - [Reaction: Mike McCarthy and Spencer Anderson](https://steelersdepot.com/2026/10/carries-a-lot-of-value-mike-mccarthy-explains-increased-usage-of-spencer-anderson-in-jumbo-package/): Steelers Depot, 2026-10-26 19:35 UTC
 - [Reaction: Mike McCarthy, Spencer Anderson and the Steelers' offensive line](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176955/steelers-mike-mccarthy-praises-jumbo-package-ol-spencer-anderson-offense-run-game-arthur-smith): Behind the Steel Curtain, 2026-10-26 19:32 UTC
@@ -52,9 +55,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers win several games](https://steelersdepot.com/2026/10/dont-be-fooled-analyst-says-steelers-winning-streak-is-a-mirage/): Steelers Depot, 2026-10-26 15:00 UTC
 - [Steelers defense performs well](https://www.post-gazette.com/sports/steelers/2026/10/26/steelers-defense-nfl-paris-game/stories/202610260024): Pittsburgh Post-Gazette, 2026-10-26 15:00 UTC
 - [Steelers win game in Paris](https://www.upi.com/Sports_News/Photos/NFL-Pittsburgh-Steelers-defeat-New-Orleans-Saints-in-Paris/17018/): UPI.com, 2026-10-26 15:00 UTC
-- [Steelers defeat Saints](https://steelersdepot.com/2026/10/analyst-grades-steelers-performance-in-win-over-saints/): Steelers Depot, 2026-10-26 14:45 UTC
 - [Aaron Rodgers unhappy](https://www.steelernation.com/2026/10/26/steelers-aaron-rodgers-not-happy-win): SteelerNation, 2026-10-26 14:43 UTC
-- [College football teams stumble](https://steelersdepot.com/2026/10/paglia-college-football-week-eight-stock-report/): Steelers Depot, 2026-10-26 14:30 UTC
 - [Steelers wear unique outfits](https://brobible.com/sports/article/pittsburgh-steelers-dressed-like-peaky-blinders/): BroBible, 2026-10-26 14:14 UTC
 - [Closer look: the international game](https://www.steelernation.com/2026/10/26/steelers-controversial-paris-gamble): SteelerNation, 2026-10-26 14:14 UTC
 - [Steelers defense shows promise](https://stillcurtain.com/pittsburgh-steelers-linebackers-payton-wilson-patrick-queen-finally-give-fans-reason-believe-01m5w5j7wegb?utm_source=RSS): Still Curtain, 2026-10-26 14:00 UTC
@@ -103,7 +104,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers defense holds strong](https://steelersnow.com/howe-it-happened-steelers-lb-payton-wilson-picks-off-saints-finally-shows-coverage-potential/): Steelers Now, 2026-10-25 18:39 UTC
 - [Steelers succeed on ground](https://steelersnow.com/that-was-the-goal-steelers-knew-they-could-run-all-over-saints/): Steelers Now, 2026-10-25 18:34 UTC
 - [Steelers face challenges to contend](https://stillcurtain.com/kurt-warner-says-quiet-part-out-loud-pittsburgh-steelers-shot-contending-01m5symaqwxk?utm_source=RSS): Still Curtain, 2026-10-25 18:14 UTC
-- [Update: Patrick Queen and Troy Fautanu](https://steelersnow.com/dbs-steelers-dudes-duds-queen-balls-out-fautanu-struggles/): Steelers Now, 2026-10-25 17:58 UTC
 - [Steelers honor player](https://www.steelers.com/news/rodgers-is-steelers-player-of-the-week): Steelers.com (official), 2026-10-25 17:52 UTC
 - [Steelers game had tough officiating](https://www.si.com/nfl/steelers/onsi/referee-grades-pittsburgh-steelers-saints-tough-watch): All Steelers (Sports Illustrated), 2026-10-25 17:47 UTC
 - [Saints game review: who's up and who's down](https://www.behindthesteelcurtain.com/pittsburgh-steelers-analysis/176871/steelers-stock-report-after-week-7-win-over-saints): Behind the Steel Curtain, 2026-10-25 17:35 UTC
