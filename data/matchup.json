@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T03:30:32.579620+00:00",
+ "generated": "2026-10-26T03:36:14.089730+00:00",
  "game_id": "2026_08_CLE_PIT",
  "game": {
   "id": "401873027",
@@ -27,213 +27,300 @@
   "PIT": 7,
   "opp": 7
  },
+ "records": {
+  "PIT": "5-2",
+  "opp": "5-2"
+ },
+ "as_of": {
+  "week": 7,
+  "final": 13,
+  "total": 14,
+  "pending": [
+   "DAL at PHI"
+  ],
+  "espn_filled": [
+   "2026_07_KC_SEA"
+  ]
+ },
  "teams_ranked": 32,
  "stats": [
   {
    "label": "Points Per Game",
+   "show": "Points Per Game",
+   "why": null,
    "key": "ppg",
    "higher_better": true,
    "dec": 1,
    "group": "Offense",
    "pit": 21.9,
    "pit_rank": 22,
+   "pit_tied": false,
    "opp": 19.0,
-   "opp_rank": 28
+   "opp_rank": 28,
+   "opp_tied": false
   },
   {
    "label": "Total Yards",
+   "show": "Total Yards Per Game",
+   "why": null,
    "key": "ypg",
    "higher_better": true,
    "dec": 1,
    "group": "Offense",
    "pit": 323.7,
    "pit_rank": 20,
+   "pit_tied": false,
    "opp": 299.4,
-   "opp_rank": 24
+   "opp_rank": 24,
+   "opp_tied": false
   },
   {
    "label": "Yards Passing",
+   "show": "Net Passing Yards Per Game",
+   "why": "Passing yards minus sack yards (the official team figure; NFL.com's passing table shows gross yards before sacks).",
    "key": "pass",
    "higher_better": true,
    "dec": 1,
    "group": "Offense",
    "pit": 217.6,
    "pit_rank": 20,
+   "pit_tied": false,
    "opp": 192.7,
-   "opp_rank": 24
+   "opp_rank": 24,
+   "opp_tied": false
   },
   {
    "label": "Yards Rushing",
+   "show": "Rushing Yards Per Game",
+   "why": null,
    "key": "rush",
    "higher_better": true,
    "dec": 1,
    "group": "Offense",
    "pit": 106.1,
    "pit_rank": 20,
+   "pit_tied": false,
    "opp": 106.7,
-   "opp_rank": 19
+   "opp_rank": 19,
+   "opp_tied": false
   },
   {
    "label": "Points Allowed Per Game",
+   "show": "Points Allowed Per Game",
+   "why": null,
    "key": "papg",
    "higher_better": false,
    "dec": 1,
    "group": "Defense",
    "pit": 19.7,
-   "pit_rank": 4,
+   "pit_rank": 5,
+   "pit_tied": false,
    "opp": 20.9,
-   "opp_rank": 12
+   "opp_rank": 12,
+   "opp_tied": false
   },
   {
    "label": "Yards Allowed",
+   "show": "Yards Allowed Per Game",
+   "why": null,
    "key": "yapg",
    "higher_better": false,
    "dec": 1,
    "group": "Defense",
    "pit": 303.7,
    "pit_rank": 6,
+   "pit_tied": false,
    "opp": 318.1,
-   "opp_rank": 13
+   "opp_rank": 12,
+   "opp_tied": false
   },
   {
    "label": "Pass Yards Allowed",
+   "show": "Net Pass Yards Allowed Per Game",
+   "why": "Opponents' passing yards minus sack yards.",
    "key": "pass_a",
    "higher_better": false,
    "dec": 1,
    "group": "Defense",
    "pit": 212.7,
    "pit_rank": 11,
+   "pit_tied": false,
    "opp": 201.7,
-   "opp_rank": 7
+   "opp_rank": 7,
+   "opp_tied": false
   },
   {
    "label": "Rush Yards Allowed",
+   "show": "Rush Yards Allowed Per Game",
+   "why": null,
    "key": "rush_a",
    "higher_better": false,
    "dec": 1,
    "group": "Defense",
    "pit": 91.0,
    "pit_rank": 7,
+   "pit_tied": false,
    "opp": 116.4,
-   "opp_rank": 20
+   "opp_rank": 20,
+   "opp_tied": false
   },
   {
    "label": "Yards Per Play",
+   "show": "Yards Per Play",
+   "why": null,
    "key": "ypp",
    "higher_better": true,
    "dec": 2,
    "group": "Offense",
    "pit": 5.07,
    "pit_rank": 22,
+   "pit_tied": false,
    "opp": 4.99,
-   "opp_rank": 23
+   "opp_rank": 23,
+   "opp_tied": false
   },
   {
    "label": "Yards Per Carry",
+   "show": "Yards Per Carry",
+   "why": null,
    "key": "ypc",
    "higher_better": true,
    "dec": 2,
    "group": "Offense",
    "pit": 4.64,
    "pit_rank": 8,
+   "pit_tied": false,
    "opp": 4.06,
-   "opp_rank": 18
+   "opp_rank": 18,
+   "opp_tied": false
   },
   {
    "label": "Sacks Allowed Per Game",
+   "show": "Sacks Allowed Per Game",
+   "why": null,
    "key": "sk_a",
    "higher_better": false,
    "dec": 2,
    "group": "Offense",
    "pit": 3.14,
    "pit_rank": 29,
+   "pit_tied": true,
    "opp": 3.57,
-   "opp_rank": 32
+   "opp_rank": 32,
+   "opp_tied": false
   },
   {
    "label": "Turnovers Per Game",
+   "show": "Turnovers Per Game",
+   "why": null,
    "key": "to",
    "higher_better": false,
    "dec": 2,
    "group": "Offense",
    "pit": 1.0,
    "pit_rank": 12,
+   "pit_tied": true,
    "opp": 1.29,
-   "opp_rank": 17
+   "opp_rank": 17,
+   "opp_tied": false
   },
   {
    "label": "Yards Per Play Allowed",
+   "show": "Yards Per Play Allowed",
+   "why": null,
    "key": "ypp_a",
    "higher_better": false,
    "dec": 2,
    "group": "Defense",
    "pit": 4.98,
-   "pit_rank": 8,
+   "pit_rank": 7,
+   "pit_tied": false,
    "opp": 5.05,
-   "opp_rank": 11
+   "opp_rank": 11,
+   "opp_tied": false
   },
   {
    "label": "Yards Per Carry Allowed",
+   "show": "Yards Per Carry Allowed",
+   "why": null,
    "key": "ypc_a",
    "higher_better": false,
    "dec": 2,
    "group": "Defense",
    "pit": 3.75,
    "pit_rank": 6,
+   "pit_tied": false,
    "opp": 4.43,
-   "opp_rank": 22
+   "opp_rank": 22,
+   "opp_tied": false
   },
   {
    "label": "Sacks Per Game",
+   "show": "Sacks Per Game",
+   "why": null,
    "key": "sk",
    "higher_better": true,
    "dec": 2,
    "group": "Defense",
    "pit": 2.57,
-   "pit_rank": 10,
+   "pit_rank": 9,
+   "pit_tied": true,
    "opp": 2.86,
-   "opp_rank": 6
+   "opp_rank": 6,
+   "opp_tied": false
   },
   {
    "label": "Takeaways Per Game",
+   "show": "Takeaways Per Game",
+   "why": null,
    "key": "tk",
    "higher_better": true,
    "dec": 2,
    "group": "Defense",
    "pit": 1.57,
    "pit_rank": 8,
+   "pit_tied": false,
    "opp": 1.29,
-   "opp_rank": 14
+   "opp_rank": 14,
+   "opp_tied": true
   },
   {
    "label": "Turnover Margin",
+   "show": "Turnover Margin (season total)",
+   "why": "Takeaways minus giveaways for the whole season, not per game.",
    "key": "tomargin",
    "higher_better": true,
    "dec": 0,
    "group": "Other",
    "pit": 4.0,
    "pit_rank": 6,
+   "pit_tied": true,
    "opp": 0.0,
-   "opp_rank": 16
+   "opp_rank": 16,
+   "opp_tied": false
   },
   {
    "label": "Penalty Yards Per Game",
+   "show": "Penalty Yards Per Game",
+   "why": null,
    "key": "pen",
    "higher_better": false,
    "dec": 1,
    "group": "Other",
    "pit": 52.4,
    "pit_rank": 9,
+   "pit_tied": false,
    "opp": 60.0,
-   "opp_rank": 16
+   "opp_rank": 17,
+   "opp_tied": false
   }
  ],
  "keys": [
   {
    "id": "rush_qb",
    "title": "Get after the quarterback",
-   "why": "The Steelers average 2.57 sacks a game (10th) and the Browns have allowed 3.57 (32nd). Early pressure can force mistakes.",
-   "score": 55
+   "why": "The Steelers average 2.57 sacks a game (9th) and the Browns have allowed 3.57 (32nd). Early pressure can force mistakes.",
+   "score": 56
   },
   {
    "id": "protect",
@@ -290,5 +377,5 @@
  },
  "source": "Data: nflverse (CC-BY 4.0)",
  "source_url": "https://github.com/nflverse/nflverse-data",
- "note": "Stats and ranks: nflverse (CC-BY 4.0), regular season per game, ranked 1-32 (1 = best; ties share a rank). Keys and matchups are generated from these numbers each build. Pundit picks show only each expert's pick, with a link to the original source."
+ "note": "Stats and ranks: nflverse (CC-BY 4.0; ESPN box scores fill any finished game nflverse has not posted yet), regular season per game, ranked 1-32 (1 = best; ties share a rank). Keys and matchups are generated from these numbers each build. Pundit picks show only each expert's pick, with a link to the original source."
 }

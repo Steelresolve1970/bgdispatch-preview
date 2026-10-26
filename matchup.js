@@ -26,13 +26,14 @@ const css=`.mu{margin-top:8px}.mu .mu-head{display:flex;flex-wrap:wrap;gap:6px 1
 @media(max-width:560px){.mu-tbl{font-size:.88rem}.mu-tbl th,.mu-tbl td{padding:6px 3px}}`;
 const st=document.createElement('style');st.textContent=css;document.head.appendChild(st);
 let D=null,O=null;
-const rk=(n,total)=>`<span class="mu-rk ${n<=10?'top':n>(total||32)-10?'bot':''}">(${ord(n)})</span>`;
+const rk=(n,total,tie)=>`<span class="mu-rk ${n<=10?'top':n>(total||32)-10?'bot':''}">(${tie?'T-':''}${ord(n)})</span>`;
+const asof=d=>{const a=d.as_of;if(!a)return'';const p=a.pending||[];return `<p class="fine mu-asof"><b>Through Week ${E(a.week)}</b> (${E(a.final)} of ${E(a.total)} Week ${E(a.week)} games final${p.length?'; '+E(p.join(', '))+' not played yet, added once final':''}). PIT ${E(d.records&&d.records.PIT||'')} in ${d.games_played.PIT} games, ${E(d.opp)} ${E(d.records&&d.records.opp||'')} in ${d.games_played.opp}.</p>`;};
 const fmtv=(v,k,d)=>{const t=Number(v).toFixed(d??1);return k==='tomargin'&&v>0?'+'+t:t;};
 function table(d,skip){const GO=['Offense','Defense','Other'];const rows=d.stats.filter(s=>!skip||!skip.has(s.label)).sort((a,b)=>GO.indexOf(a.group)-GO.indexOf(b.group));if(!rows.length)return'';let g='';const T=d.teams_ranked;
- return `<div class="box"><table class="mu-tbl"><thead><tr><th>Stat (per game)</th><th>PIT</th><th>${E(d.opp)}</th></tr></thead><tbody>${rows.map(s=>{
+ return `<div class="box"><table class="mu-tbl"><thead><tr><th>Stat</th><th>PIT</th><th>${E(d.opp)}</th></tr></thead><tbody>${rows.map(s=>{
   const head=s.group!==g?(g=s.group,`<tr class="grp"><td colspan="3">${E(g)}</td></tr>`):'';const pw=s.higher_better?s.pit>s.opp:s.pit<s.opp,ow=s.higher_better?s.opp>s.pit:s.opp<s.pit;
-  return head+`<tr><td>${E(s.label)}</td><td class="${pw?'win':''}">${E(fmtv(s.pit,s.key,s.dec))} ${rk(s.pit_rank,T)}</td><td class="${ow?'win':''}">${E(fmtv(s.opp,s.key,s.dec))} ${rk(s.opp_rank,T)}</td></tr>`;}).join('')}</tbody></table>
-  <p class="fine">NFL rank in parentheses (1st = best of ${T} teams; ties share a rank). Highlighted = better of the two teams. Games played: PIT ${d.games_played.PIT}, ${E(d.opp)} ${d.games_played.opp}.</p></div>`;}
+  return head+`<tr><td>${E(s.show||s.label)}</td><td class="${pw?'win':''}">${E(fmtv(s.pit,s.key,s.dec))} ${rk(s.pit_rank,T,s.pit_tied)}</td><td class="${ow?'win':''}">${E(fmtv(s.opp,s.key,s.dec))} ${rk(s.opp_rank,T,s.opp_tied)}</td></tr>`;}).join('')}</tbody></table>
+  <p class="fine">Regular season. NFL rank in parentheses (1st = best of ${T} teams; T- = tied). Highlighted = better of the two teams. ${rows.filter(s=>s.why).map(s=>E((s.show||s.label)+': '+s.why)).join(' ')}</p></div>`;}
 function picks(d){const p=d.picks||{},it=p.items||[];const nick=d.opp_nick;
  const chk=p.checked?new Date(p.checked).toLocaleString('en-US',{timeZone:'America/New_York',weekday:'short',hour:'numeric',minute:'2-digit'})+' ET':'';
  if(!it.length)return `<div class="mu-wait">Picks coming later this week.<br><small class="fine">Experts usually post their picks Wednesday through Saturday. We check for new ones several times a day${chk?'; last checked '+E(chk):''}.${p.cbs_consensus&&p.cbs_consensus.link?` <a href="${E(p.cbs_consensus.link)}" ${EXT}>CBS Sports expert panel picks</a>`:''}</small></div>`;
@@ -58,7 +59,7 @@ function block(d,o){const g=d.game;if(!g)return{head:'<p class="empty">No upcomi
  <h2 class="section-title">3 key matchups to watch</h2>
  <ol class="mu-list">${d.matchups.map((m,i)=>`<li><b><span class="mu-n">${i+1}</span>${E(m.title)}</b><p>${E(m.why)}</p><ul>${m.stats.map(s=>`<li>${E(s)}</li>`).join('')}</ul></li>`).join('')}</ol>
  <h2 class="section-title">Pundit picks</h2>${picks(d)}
- <h2 class="section-title">Team stats with NFL ranks</h2>${table(d)}
+ <h2 class="section-title">Team stats with NFL ranks</h2>${asof(d)}${table(d)}
  ${extra(d,o)}
  <p class="fine">Stats, ranks, keys and matchups update automatically every week from nflverse data (<a href="${E(d.source_url)}" ${EXT}>CC-BY 4.0</a>). Keys and matchups are our own takes, generated from the numbers. Records, last-5 results, key players and injuries come from nflverse schedules, stats and official injury reports.</p></section>`};}
 // Page order: game header card, then "Previews & film" (#preview-full), then keys, matchups, picks, stats, key players, injuries.
