@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T00:33:53.933436+00:00",
+ "generated": "2026-10-26T00:45:46.289073+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -721,17 +721,14 @@
    "status_link": null,
    "first_seen": "2026-10-26T00:33:53.933436+00:00",
    "consensus": {
-    "cluster_id": "c6dd11f8b979",
-    "independent_sources": 2,
+    "cluster_id": "9c739749bf84",
+    "independent_sources": 1,
     "sources": [
-     "USA Today",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
-    "related_ids": [
-     "c6dd11f8b979"
-    ]
+    "related_ids": []
    },
    "updated": "2026-10-26T00:33:53.933436+00:00"
   },

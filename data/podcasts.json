@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T00:33:42.112523+00:00",
+ "generated": "2026-10-26T00:45:33.435721+00:00",
  "date_et": "2026-10-25",
  "days": 5,
  "display_days": 2,
@@ -99,10 +99,10 @@
    "show": "Steel City Underground",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDcNNAMkYr-DzH6_XL-0p8Q",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 1,
-   "latest": null
+   "latest": "2026-10-22T16:28:41+00:00"
   },
   {
    "show": "Steelers Afternoon Drive",
@@ -198,10 +198,10 @@
    "show": "Pittsburgh Steelers (official)",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChaRXjMDs4ppKfnTPE6Z89w",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 15,
-   "latest": null
+   "latest": "2026-10-25T23:09:30+00:00"
   },
   {
    "show": "Not Just Football with Cam Heyward",
@@ -243,13 +243,21 @@
    "show": "The Christian Kuntz Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKKBJcOGsYmwAATQv-xQYeA",
-   "status": "error: HTTP Error 404: Not Found",
+   "status": "error: HTTP Error 500: Internal Server Error",
    "episodes": 0,
    "week": 0,
    "latest": null
   }
  ],
  "items": [
+  {
+   "title": "Darnell takin over Paris \ud83d\ude24",
+   "show": "Pittsburgh Steelers (official)",
+   "kind": "video",
+   "link": "https://www.youtube.com/shorts/Frs4q46PolI",
+   "published": "2026-10-25T23:09:30+00:00",
+   "summary": "Video from Pittsburgh Steelers (official)."
+  },
   {
    "title": "STEELERS SQUAD SHOW: Warren Runs OVER Saints & Defense DISMANTLES Saints Run Game in PARIS, 16-10",
    "show": "Locked On Steelers",
@@ -473,14 +481,6 @@
    "link": "https://www.youtube.com/watch?v=YwFPjIRVICM",
    "published": "2026-10-24T14:18:18+00:00",
    "summary": "Video from Steelers Now."
-  },
-  {
-   "title": "Truly iconic \ud83e\udd29",
-   "show": "Pittsburgh Steelers (official)",
-   "kind": "video",
-   "link": "https://www.youtube.com/shorts/UsVOspTYIBQ",
-   "published": "2026-10-23T22:54:06+00:00",
-   "summary": "Video from Pittsburgh Steelers (official)."
   },
   {
    "title": "Saints Preview & Predictions | Steelers Afternoon Drive",
