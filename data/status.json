@@ -1,10 +1,10 @@
 {
- "last_run": "2026-10-27T21:50:06.263015+00:00",
+ "last_run": "2026-10-27T22:01:08.562647+00:00",
  "results": [
   {
    "fetcher": "apply_grade_edits.py",
    "ok": true,
-   "seconds": 1.0,
+   "seconds": 0.5,
    "last_line": "no grade edits"
   },
   {
@@ -28,31 +28,31 @@
   {
    "fetcher": "build_boxscores.py",
    "ok": true,
-   "seconds": 2.0,
+   "seconds": 2.5,
    "last_line": "boxscores 7"
   },
   {
    "fetcher": "fetch_insiders.py",
    "ok": true,
-   "seconds": 2.0,
+   "seconds": 2.5,
    "last_line": "sidebar: 5 full feed: 38"
   },
   {
    "fetcher": "fetch_film.py",
    "ok": true,
-   "seconds": 3.5,
+   "seconds": 5.0,
    "last_line": "  Week 1 vs Falcons (W 20-13): 2   {'Steelers Depot Film Room (Alex Kozora)': 1, \"Derrick Bell \u2013 DB's Film Room (Steelers Now)\": 1}"
   },
   {
    "fetcher": "fetch_podcasts.py",
    "ok": true,
-   "seconds": 6.5,
+   "seconds": 7.0,
    "last_line": "episodes past 5 days: 106 | embed-fallback channels: 0 | post-game: 0"
   },
   {
    "fetcher": "fetch_featured.py",
    "ok": true,
-   "seconds": 1.0,
+   "seconds": 1.5,
    "last_line": "highlights New Orleans Saints Pittsburgh Steelers vs. New Orleans Saints Game Highlights | 2026 NFL Season Week 7"
   },
   {
@@ -173,7 +173,7 @@
    "fetcher": "fetch_quotes.py",
    "ok": true,
    "seconds": 2.0,
-   "last_line": "quotes: 5 kept from 131 articles"
+   "last_line": "quotes: 5 kept from 129 articles"
   },
   {
    "fetcher": "paywall_guard.py",
@@ -190,8 +190,8 @@
   {
    "fetcher": "admin_stats.py",
    "ok": true,
-   "seconds": 2.0,
-   "last_line": "admin stats stored: today views 30 visits 15"
+   "seconds": 2.5,
+   "last_line": "admin stats stored: today views 34 visits 16"
   }
  ]
 }

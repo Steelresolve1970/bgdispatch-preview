@@ -2,8 +2,8 @@
  "api_version": "1",
  "dataset": "rumors",
  "description": "Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).",
- "generated": "2026-10-27T21:50:03+00:00",
- "data_updated": "2026-10-27T21:49:56+00:00",
+ "generated": "2026-10-27T22:01:05+00:00",
+ "data_updated": "2026-10-27T22:00:58+00:00",
  "count": 33,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
@@ -40,14 +40,17 @@
     "DeForest Buckner"
    ],
    "consensus": {
-    "cluster_id": "75649bd9f46f",
-    "independent_sources": 1,
+    "cluster_id": "3f685cc6b189",
+    "independent_sources": 2,
     "sources": [
+     "Bozeman Daily Chronicle",
      "KRQE"
     ],
     "highest_tier": "Aggregator / other",
     "highest_tier_score": 1,
-    "related_ids": []
+    "related_ids": [
+     "3f685cc6b189"
+    ]
    }
   },
   {
@@ -127,11 +130,10 @@
    "published": "2026-10-27T18:26:40+00:00",
    "people": [],
    "consensus": {
-    "cluster_id": "3f3271514107",
-    "independent_sources": 6,
+    "cluster_id": "9e37088de4c1",
+    "independent_sources": 5,
     "sources": [
      "A to Z Sports",
-     "Heavy.com",
      "Steelers Depot",
      "Steelers Now",
      "Still Curtain",
@@ -142,9 +144,7 @@
     "related_ids": [
      "702ace99a8e9",
      "c60d83ea0785",
-     "45c4bcc7cd1b",
      "9e37088de4c1",
-     "3f3271514107",
      "7fd46e561838",
      "5a0773cc79d1"
     ]
@@ -235,11 +235,10 @@
    "published": "2026-10-27T16:17:14+00:00",
    "people": [],
    "consensus": {
-    "cluster_id": "3f3271514107",
-    "independent_sources": 6,
+    "cluster_id": "9e37088de4c1",
+    "independent_sources": 5,
     "sources": [
      "A to Z Sports",
-     "Heavy.com",
      "Steelers Depot",
      "Steelers Now",
      "Still Curtain",
@@ -250,9 +249,7 @@
     "related_ids": [
      "f70a13da10bb",
      "c60d83ea0785",
-     "45c4bcc7cd1b",
      "9e37088de4c1",
-     "3f3271514107",
      "7fd46e561838",
      "5a0773cc79d1"
     ]
@@ -340,11 +337,10 @@
    "published": "2026-10-27T15:15:49+00:00",
    "people": [],
    "consensus": {
-    "cluster_id": "3f3271514107",
-    "independent_sources": 6,
+    "cluster_id": "9e37088de4c1",
+    "independent_sources": 5,
     "sources": [
      "A to Z Sports",
-     "Heavy.com",
      "Steelers Depot",
      "Steelers Now",
      "Still Curtain",
@@ -355,9 +351,7 @@
     "related_ids": [
      "f70a13da10bb",
      "702ace99a8e9",
-     "45c4bcc7cd1b",
      "9e37088de4c1",
-     "3f3271514107",
      "7fd46e561838",
      "5a0773cc79d1"
     ]
@@ -599,11 +593,10 @@
     "Pro Bowl"
    ],
    "consensus": {
-    "cluster_id": "3f3271514107",
-    "independent_sources": 6,
+    "cluster_id": "9e37088de4c1",
+    "independent_sources": 5,
     "sources": [
      "A to Z Sports",
-     "Heavy.com",
      "Steelers Depot",
      "Steelers Now",
      "Still Curtain",
@@ -615,8 +608,6 @@
      "f70a13da10bb",
      "702ace99a8e9",
      "c60d83ea0785",
-     "45c4bcc7cd1b",
-     "3f3271514107",
      "7fd46e561838",
      "5a0773cc79d1"
     ]
@@ -642,16 +633,13 @@
    "people": [],
    "consensus": {
     "cluster_id": "b3b86933a304",
-    "independent_sources": 2,
+    "independent_sources": 1,
     "sources": [
-     "SteelerNation",
-     "Yardbarker"
+     "SteelerNation"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": [
-     "5585acb90f77"
-    ]
+    "related_ids": []
    }
   },
   {
@@ -765,16 +753,13 @@
    "people": [],
    "consensus": {
     "cluster_id": "cea2276892de",
-    "independent_sources": 2,
+    "independent_sources": 1,
     "sources": [
-     "Steeler Nation",
      "SteelerNation"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": [
-     "fc6bb29f13f2"
-    ]
+    "related_ids": []
    }
   },
   {
@@ -1053,11 +1038,10 @@
    "published": "2026-10-23T11:00:04+00:00",
    "people": [],
    "consensus": {
-    "cluster_id": "3f3271514107",
-    "independent_sources": 6,
+    "cluster_id": "9e37088de4c1",
+    "independent_sources": 5,
     "sources": [
      "A to Z Sports",
-     "Heavy.com",
      "Steelers Depot",
      "Steelers Now",
      "Still Curtain",
@@ -1069,9 +1053,7 @@
      "f70a13da10bb",
      "702ace99a8e9",
      "c60d83ea0785",
-     "45c4bcc7cd1b",
      "9e37088de4c1",
-     "3f3271514107",
      "5a0773cc79d1"
     ]
    }
