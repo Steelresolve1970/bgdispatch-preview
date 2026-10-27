@@ -2,8 +2,8 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-27T20:55:28+00:00",
- "data_updated": "2026-10-27T20:49:57+00:00",
+ "generated": "2026-10-27T21:06:22+00:00",
+ "data_updated": "2026-10-27T21:06:04+00:00",
  "count": 105,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
@@ -19,6 +19,19 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/podcasts",
  "items": [
+  {
+   "id": "7b2055f73c775a81",
+   "type": "podcast_episode",
+   "title": "The Terrible Take - Episode 2063 - October 27, 2026",
+   "show": "The Terrible Podcast (Steelers Depot)",
+   "url": "https://podcasts.apple.com/us/podcast/id405990739",
+   "published": "2026-10-27T21:00:00+00:00",
+   "summary": "Podcast episode from The Terrible Podcast (Steelers Depot).",
+   "source": {
+    "name": "The Terrible Podcast (Steelers Depot)",
+    "url": null
+   }
+  },
   {
    "id": "cfdddfaad61bcc46",
    "type": "podcast_episode",
@@ -1368,19 +1381,6 @@
    "summary": "Podcast episode from All Steelers Talk.",
    "source": {
     "name": "All Steelers Talk",
-    "url": null
-   }
-  },
-  {
-   "id": "94ec8389d96b2c93",
-   "type": "podcast_episode",
-   "title": "The Terrible Take - Episode 2058 - October 22, 2026",
-   "show": "The Terrible Podcast (Steelers Depot)",
-   "url": "https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2058-october-22-2026/id405990739?i=1000797677347",
-   "published": "2026-10-22T21:00:00+00:00",
-   "summary": "Podcast episode from The Terrible Podcast (Steelers Depot).",
-   "source": {
-    "name": "The Terrible Podcast (Steelers Depot)",
     "url": null
    }
   }

@@ -1,8 +1,9 @@
 # NFL Insider Posts (last 3 days)
 
-_Generated 2026-10-27T20:55:28+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T20:49:46+00:00._
+_Generated 2026-10-27T21:06:22+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T21:05:52+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/insiders.json_
 
+- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3myv4fmc76s2f), 2026-10-27 20:50 UTC: @rapsheet.bsky.social posted about a trade.
 - [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3myv4c7xyak2f), 2026-10-27 20:48 UTC: @rapsheet.bsky.social posted about a trade.
 - [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3myuwvhjcnc2f), 2026-10-27 19:11 UTC: @rapsheet.bsky.social posted about a trade.
 - [Christopher Carter (Locked On) on Bluesky](https://bsky.app/profile/cartercritiques.bsky.social/post/3myupyfcw6c2g), 2026-10-27 17:07 UTC: @cartercritiques.bsky.social posted about the Steelers.
@@ -38,7 +39,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/insiders.json_
 - [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mypea4h4fs22), 2026-10-25 13:54 UTC: @rapsheet.bsky.social posted about injuries.
 - [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mype73wrfc22), 2026-10-25 13:53 UTC: @rapsheet.bsky.social posted about the game.
 - [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mype5iivgc22), 2026-10-25 13:52 UTC: @rapsheet.bsky.social posted about injuries.
-- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mype4o5oys22), 2026-10-25 13:52 UTC: @rapsheet.bsky.social posted about injuries.
 - [Christopher Carter (Locked On) on Bluesky](https://bsky.app/profile/cartercritiques.bsky.social/post/3mypcuvi2iz2q), 2026-10-25 13:29 UTC: @cartercritiques.bsky.social posted about the Steelers, the game.
 - [Christopher Carter (Locked On) on Bluesky](https://bsky.app/profile/cartercritiques.bsky.social/post/3mypajj3z5x2k), 2026-10-25 12:47 UTC: @cartercritiques.bsky.social posted about the Steelers, the game.
 
