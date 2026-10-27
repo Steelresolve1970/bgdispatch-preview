@@ -1,8 +1,9 @@
 # Steelers Film Room & Previews
 
-_Generated 2026-10-27T12:05:01+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T11:59:40+00:00._
+_Generated 2026-10-27T13:02:28+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T13:01:59+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/film.json_
 
+- Breakdown (at New Orleans Saints (Oct 25)): [Steelers May Have Found Their Identity | All-22 Film](https://www.youtube.com/watch?v=wFEmiXIeSV0): Steelers Almighty, 2026-10-27 12:00 UTC
 - Breakdown (at New Orleans Saints (Oct 25)): [Film study: the Steelers' special teams](https://steelersdepot.com/2026/10/film-room-steelers-run-flawless-special-teams-fire-drill-to-net-three-crucial-points/): Alex Kozora (Steelers Depot), 2026-10-26 13:30 UTC
 - Breakdown (at New Orleans Saints (Oct 25)): [Film study: the Steelers' red-zone offense](https://steelersdepot.com/2026/10/film-room-pittsburgh-has-one-unstoppable-red-zone-play/): Alex Kozora (Steelers Depot), 2026-10-26 04:00 UTC
 

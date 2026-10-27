@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T12:04:54.955108+00:00",
+ "generated": "2026-10-27T13:02:22.088120+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -44,6 +44,35 @@
  },
  "rumors": [
   {
+   "id": "bd9eb20178f0",
+   "title": "Trade rumor: Dalvin Tomlinson",
+   "source": "Yahoo Sports",
+   "link": "https://sports.yahoo.com/articles/giants-trade-candidate-dt-dalvin-122209243.html",
+   "published": "2026-10-27T12:22:09+00:00",
+   "summary": "Yahoo Sports passes along trade speculation involving Dalvin Tomlinson; treat it as unconfirmed until the team announces a move. Read the full story at Yahoo Sports.",
+   "tier": "National insider",
+   "tier_score": 4,
+   "subjects": [
+    "DT Dalvin Tomlinson"
+   ],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-27T13:02:22.088120+00:00",
+   "own": 1,
+   "consensus": {
+    "cluster_id": "bd9eb20178f0",
+    "independent_sources": 1,
+    "sources": [
+     "Yahoo Sports"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": []
+   },
+   "updated": "2026-10-27T13:02:22.088120+00:00"
+  },
+  {
    "id": "aab40e20330a",
    "title": "Trade rumor: Steelers",
    "source": "Still Curtain",
@@ -59,14 +88,16 @@
    "first_seen": "2026-10-27T12:04:54.955108+00:00",
    "own": 1,
    "consensus": {
-    "cluster_id": "aab40e20330a",
+    "cluster_id": "a061c336e91c",
     "independent_sources": 1,
     "sources": [
      "Still Curtain"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "a061c336e91c"
+    ]
    },
    "updated": "2026-10-27T12:04:54.955108+00:00"
   },

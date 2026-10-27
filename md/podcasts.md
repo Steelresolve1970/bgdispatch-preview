@@ -1,8 +1,10 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-27T12:05:01+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T12:04:40+00:00._
+_Generated 2026-10-27T13:02:28+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T13:02:10+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Podcast: [Steelers Enter Trade Now Week](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-27 12:25 UTC
+- Video: [Zach Frazier, League’s Best Center? 🏈 #pittsburghsteelers #steelers #shorts](https://www.youtube.com/shorts/9N8JVHrrOZU): Steelers Now, 2026-10-27 12:20 UTC
 - Video: [Steelers' OL Grades](https://www.youtube.com/watch?v=wT-8RVkWsB8): Steelers Almighty, 2026-10-27 11:30 UTC
 - Video: [Steelers Building Elite Offensive/Defensive Lines in New Foundation | Patrick Queen Underappreciated](https://www.youtube.com/watch?v=WCAocGAbAHE): Locked On Steelers, 2026-10-27 07:30 UTC
 - Podcast: [Steelers Building Elite Offensive/Defensive Lines in New Foundation | Patrick Queen Underappreciated](https://podcasts.apple.com/us/podcast/steelers-building-elite-offensive-defensive-lines-in/id1140522532?i=1000798313059): Locked On Steelers, 2026-10-27 07:30 UTC
@@ -14,7 +16,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Dominant Trench Play, Frazier League's Best Center? | Steelers Afternoon Drive](https://www.youtube.com/watch?v=rOOSrybk0BI): Steelers Now, 2026-10-26 22:13 UTC
 - Video: [Steelers' RB Grades](https://www.youtube.com/watch?v=XnlkS3xVMrY): Steelers Almighty, 2026-10-26 21:39 UTC
 - Video: [Coach McCarthy Press Conference (Week 8 vs Cleveland Browns) | Pittsburgh Steelers](https://www.youtube.com/watch?v=4nzNBbKNfCA): Pittsburgh Steelers (official), 2026-10-26 21:39 UTC
-- Podcast: [Steelers Final Piece to Become Serious Contenders](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-26 21:29 UTC
 - Podcast: [The Terrible Take - Episode 2062 - October 26, 2026](https://podcasts.apple.com/us/podcast/id405990739): The Terrible Podcast (Steelers Depot), 2026-10-26 21:00 UTC
 - Podcast: [Steelers Imposed Their Will Over the Saints in Paris | Illegal Hands to the Face](https://redcircle.com/shows/62750d24-c3c9-4be8-919a-ff22b312fb19/episodes/4c50dd2f-f58a-49cf-b791-2613fc901474): Still Curtain Podcast, 2026-10-26 20:30 UTC
 - Video: [Steelers' QB Grades](https://www.youtube.com/shorts/wLXrNiZd2Dk): Steelers Almighty, 2026-10-26 19:20 UTC
@@ -99,7 +100,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Can the Steelers keep their winning streak alive in Paris?](https://www.youtube.com/watch?v=4UG7gRw1LHg): Steel City Underground, 2026-10-22 16:28 UTC
 - Podcast: [Can the Steelers keep their winning streak alive in Paris?](https://www.steelcityunderground.com/podcast/2026/10/can-the-steelers-keep-their-winning-streak-alive-in-paris/): Steel City Underground, 2026-10-22 16:20 UTC
 - Video: [Injury Bug Bites Steelers DL | Steelers Morning Rush](https://www.youtube.com/watch?v=--tsBSvc3b4): Steelers Now, 2026-10-22 16:09 UTC
-- Video: [DT Gabriel Rubio Readying to Step Up | Steelers Sights & Sounds](https://www.youtube.com/watch?v=5RLMieeKer4): Steelers Now, 2026-10-22 16:04 UTC
 - Video: [What are these Steelers bringing with them on their trip to Paris this week? 🇫🇷🏈#nfl #paris](https://www.youtube.com/shorts/ZmJFxJEy3Fw): Not Just Football with Cam Heyward, 2026-10-22 15:53 UTC
 - Podcast: [Steelers Chalk Talk: What's hot and what's not so far for the 2026 Steelers](https://podcasts.apple.com/us/podcast/steelers-chalk-talk-whats-hot-and-whats-not-so-far/id905962218?i=1000797806027): Steel Curtain Network (BTSC), 2026-10-22 15:30 UTC
 - Podcast: [Should Steelers Make Super Bowl-Level Trade?](https://podcasts.apple.com/us/podcast/should-steelers-make-super-bowl-level-trade/id1627248534?i=1000797637387): All Steelers Talk, 2026-10-22 15:30 UTC
@@ -107,7 +107,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Hour 1: Deep Dive Into Saints Preview](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-102226-mp3): Steelers Blitz, 2026-10-22 15:00 UTC
 - Podcast: [Hour 2: Ed Troup and Around the Shield](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr2-102226-mp3): Steelers Blitz, 2026-10-22 14:00 UTC
 - Video: [STEELERS SQUAD SHOW: Offense MUST Improve as Jaylen Warren, Aaron Rodgers Prepare for Saints & Paris](https://www.youtube.com/watch?v=Es_bukL78yk): Locked On Steelers, 2026-10-22 13:02 UTC
-- Podcast: [Steelers' Nick Herbig Decision Could Have Better Timing](https://podcasts.apple.com/us/podcast/steelers-nick-herbig-decision-could-have-better-timing/id1627248534?i=1000797615128): All Steelers Talk, 2026-10-22 12:28 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

@@ -1,8 +1,10 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-27T12:05:01+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T12:04:54+00:00._
+_Generated 2026-10-27T13:02:28+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T13:02:22+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
+- **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
+  [Trade rumor: Dalvin Tomlinson](https://sports.yahoo.com/articles/giants-trade-candidate-dt-dalvin-122209243.html): Yahoo Sports, first seen 2026-10-27 13:02 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Trade rumor: Steelers](https://stillcurtain.com/6-pure-rentals-the-pittsburgh-steelers-could-target-before-the-nfl-trade-deadline-01m52mj7sswn): Still Curtain, first seen 2026-10-27 12:04 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
