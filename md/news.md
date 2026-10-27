@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-27T14:13:16+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T14:12:38+00:00._
+_Generated 2026-10-27T15:02:29+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T14:12:38+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Steelers consider Anderson in pass game](https://steelersdepot.com/2026/10/spencer-anderson-viable-in-the-pass-game-steelers-want-you-to-believe/): Steelers Depot, 2026-10-27 14:00 UTC

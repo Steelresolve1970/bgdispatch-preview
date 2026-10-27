@@ -1,10 +1,12 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-27T14:13:16+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T14:13:09+00:00._
+_Generated 2026-10-27T15:02:29+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T15:02:22+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
+- **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
+  [Trade rumor: Steelers](https://www.aol.com/articles/steelers-linked-exciting-trade-first-142407000.html): AOL.com, first seen 2026-10-27 15:02 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 3 source(s), top tier Fan blog
-  [Trade rumor: Steelers](https://heavy.com/sports/nfl/pittsburgh-steelers/named-fit-joshua-palmer-receiver/): Heavy.com, first seen 2026-10-27 13:33 UTC
+  [Trade rumor: Steelers (Heavy.com)](https://heavy.com/sports/nfl/pittsburgh-steelers/named-fit-joshua-palmer-receiver/): Heavy.com, first seen 2026-10-27 13:33 UTC
 - **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
   [Trade rumor: Dalvin Tomlinson](https://sports.yahoo.com/articles/giants-trade-candidate-dt-dalvin-122209243.html): Yahoo Sports, first seen 2026-10-27 13:02 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
