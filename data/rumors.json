@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T13:33:11.186095+00:00",
+ "generated": "2026-10-27T14:01:49.696644+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -330,13 +330,16 @@
    "first_seen": "2026-10-24T21:18:21.512769+00:00",
    "consensus": {
     "cluster_id": "b3b86933a304",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
-     "SteelerNation"
+     "SteelerNation",
+     "Yardbarker"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "5585acb90f77"
+    ]
    },
    "updated": "2026-10-24T21:18:21.512769+00:00",
    "own": 1
@@ -500,14 +503,17 @@
    "status_link": null,
    "first_seen": "2026-10-24T10:08:05.155041+00:00",
    "consensus": {
-    "cluster_id": "5d585445ee02",
-    "independent_sources": 1,
+    "cluster_id": "6563373fdb01",
+    "independent_sources": 2,
     "sources": [
+     "Gridiron Heroics",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
-    "related_ids": []
+    "related_ids": [
+     "6563373fdb01"
+    ]
    },
    "updated": "2026-10-24T10:08:05.155041+00:00",
    "own": 1
@@ -588,50 +594,54 @@
    "status_link": null,
    "first_seen": "2026-10-23T15:18:57.289683+00:00",
    "consensus": {
-    "cluster_id": "514b4160b9de",
-    "independent_sources": 2,
+    "cluster_id": "9817e54a5e1d",
+    "independent_sources": 3,
     "sources": [
+     "AOL.co.uk",
      "Athlon Sports",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "514b4160b9de"
+     "514b4160b9de",
+     "9817e54a5e1d"
     ]
    },
    "updated": "2026-10-23T15:18:57.289683+00:00",
    "own": 1
   },
   {
-   "id": "c92a1295f98a",
+   "id": "bdeb639a9c58",
    "title": "Rumor watch: Steelers-Saints",
-   "source": "Saints Wire",
-   "link": "https://saintswire.usatoday.com/story/sports/nfl/saints/2026/10/23/saints-injury-report-steelers-jordyn-tyson-nfl/92395091007/",
-   "published": "2026-10-23T14:30:00+00:00",
-   "summary": "Saints Wire passes along unconfirmed talk involving the Steelers and the Saints. It relates to the Steelers' Week 7 win over the Saints. Read the full story at Saints Wire.",
-   "tier": "Aggregator / other",
-   "tier_score": 1,
+   "source": "Yahoo Sports",
+   "link": "https://sports.yahoo.com/articles/saints-vs-steelers-final-week-143001051.html",
+   "published": "2026-10-23T14:30:01+00:00",
+   "summary": "Yahoo Sports passes along unconfirmed talk involving the Steelers and the Saints. For context, the Steelers beat the Saints in Week 7. Read the full story at Yahoo Sports.",
+   "tier": "National insider",
+   "tier_score": 4,
    "subjects": [],
    "status": "Rumor",
    "status_note": null,
    "status_link": null,
-   "first_seen": "2026-10-23T14:41:24.118985+00:00",
+   "first_seen": "2026-10-27T14:01:49.696644+00:00",
+   "own": 1,
    "consensus": {
     "cluster_id": "3e782f3c4f92",
-    "independent_sources": 2,
+    "independent_sources": 3,
     "sources": [
      "Saints Wire",
-     "Steelers Depot"
+     "Steelers Depot",
+     "Yahoo Sports"
     ],
-    "highest_tier": "Fan blog",
-    "highest_tier_score": 2,
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
     "related_ids": [
+     "c92a1295f98a",
      "3e782f3c4f92"
     ]
    },
-   "updated": "2026-10-23T14:41:24.118985+00:00",
-   "own": 1
+   "updated": "2026-10-27T14:01:49.696644+00:00"
   },
   {
    "id": "595924af2d84",
@@ -679,14 +689,16 @@
    "first_seen": "2026-10-23T13:24:55.254010+00:00",
    "consensus": {
     "cluster_id": "3e782f3c4f92",
-    "independent_sources": 2,
+    "independent_sources": 3,
     "sources": [
      "Saints Wire",
-     "Steelers Depot"
+     "Steelers Depot",
+     "Yahoo Sports"
     ],
-    "highest_tier": "Fan blog",
-    "highest_tier_score": 2,
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
     "related_ids": [
+     "bdeb639a9c58",
      "c92a1295f98a"
     ]
    },
@@ -695,7 +707,7 @@
   },
   {
    "id": "580bf5aa432e",
-   "title": "Trade rumor: Steelers (Still Curtain)",
+   "title": "Trade rumor: Steelers (Still Curtain) (Still Curtain)",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/4-nfl-bottom-feeders-could-give-pittsburgh-steelers-a-trade-deadline-advantage-01m5j23dryvq?utm_source=RSS",
    "published": "2026-10-23T12:00:00+00:00",
@@ -803,16 +815,18 @@
    "status_link": null,
    "first_seen": "2026-10-23T10:05:24.966196+00:00",
    "consensus": {
-    "cluster_id": "514b4160b9de",
-    "independent_sources": 2,
+    "cluster_id": "9817e54a5e1d",
+    "independent_sources": 3,
     "sources": [
+     "AOL.co.uk",
      "Athlon Sports",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "75724089f665"
+     "75724089f665",
+     "9817e54a5e1d"
     ]
    },
    "updated": "2026-10-23T10:05:24.966196+00:00",

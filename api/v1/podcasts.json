@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-27T13:33:17+00:00",
- "data_updated": "2026-10-27T13:32:52+00:00",
- "count": 104,
+ "generated": "2026-10-27T14:01:56+00:00",
+ "data_updated": "2026-10-27T14:01:30+00:00",
+ "count": 106,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -163,6 +163,19 @@
    }
   },
   {
+   "id": "50b5ba1ec8cce0bb",
+   "type": "podcast_episode",
+   "title": "Dominant Trench Play, Frazier League's Best Center? | Steelers Afternoon Drive",
+   "show": "Steelers Afternoon Drive",
+   "url": "https://podcasts.apple.com/us/podcast/dominant-trench-play-frazier-leagues-best-center-steelers/id1700240934?i=1000798257501",
+   "published": "2026-10-26T22:10:00+00:00",
+   "summary": "Podcast episode from Steelers Afternoon Drive.",
+   "source": {
+    "name": "Steelers Afternoon Drive",
+    "url": null
+   }
+  },
+  {
    "id": "0f4cded1f1a12acf",
    "type": "video",
    "title": "Steelers' RB Grades",
@@ -202,11 +215,11 @@
    }
   },
   {
-   "id": "7b2055f73c775a81",
+   "id": "6f6dedb968c3dad5",
    "type": "podcast_episode",
    "title": "The Terrible Take - Episode 2062 - October 26, 2026",
    "show": "The Terrible Podcast (Steelers Depot)",
-   "url": "https://podcasts.apple.com/us/podcast/id405990739",
+   "url": "https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2062-october-26-2026/id405990739?i=1000798247140",
    "published": "2026-10-26T21:00:00+00:00",
    "summary": "Podcast episode from The Terrible Podcast (Steelers Depot).",
    "source": {
@@ -237,6 +250,19 @@
    "summary": "Video from Steelers Almighty.",
    "source": {
     "name": "Steelers Almighty",
+    "url": null
+   }
+  },
+  {
+   "id": "6bb4c97ab8c355d4",
+   "type": "podcast_episode",
+   "title": "Steelers-Browns Winner in AFC North Drivers' Seat? | Steelers Morning Rush",
+   "show": "Steelers Afternoon Drive",
+   "url": "https://podcasts.apple.com/us/podcast/steelers-browns-winner-in-afc-north-drivers-seat-steelers/id1700240934?i=1000798229423",
+   "published": "2026-10-26T18:59:00+00:00",
+   "summary": "Podcast episode from Steelers Afternoon Drive.",
+   "source": {
+    "name": "Steelers Afternoon Drive",
     "url": null
    }
   },
@@ -280,6 +306,19 @@
    }
   },
   {
+   "id": "3a0f3020310f99ea",
+   "type": "podcast_episode",
+   "title": "The Terrible Podcast — Steelers-Saints Game In Paris Recap, Zach Frazier Love, AFC North Standings, & More",
+   "show": "The Terrible Podcast (Steelers Depot)",
+   "url": "https://podcasts.apple.com/us/podcast/the-terrible-podcast-steelers-saints-game-in-paris/id405990739?i=1000798210571",
+   "published": "2026-10-26T16:54:00+00:00",
+   "summary": "Podcast episode from The Terrible Podcast (Steelers Depot).",
+   "source": {
+    "name": "The Terrible Podcast (Steelers Depot)",
+    "url": null
+   }
+  },
+  {
    "id": "d4f8bc6d0b9720de",
    "type": "podcast_episode",
    "title": "Hour 1: Summary of the Saints",
@@ -293,11 +332,11 @@
    }
   },
   {
-   "id": "d7d6f5e4fe6a87a4",
+   "id": "6d94156d7a205207",
    "type": "podcast_episode",
    "title": "The Steelers Are ONE MOVE Away From Being Super Bowl Contenders?!",
    "show": "The Steel City Insider (Jim Wexell, 247Sports)",
-   "url": "https://247sports.com/nfl/pittsburgh-steelers/",
+   "url": "https://podcasts.apple.com/us/podcast/the-steelers-are-one-move-away-from-being-super-bowl/id1623192893?i=1000798184529",
    "published": "2026-10-26T14:05:27+00:00",
    "summary": "Podcast episode from The Steel City Insider (Jim Wexell, 247Sports).",
    "source": {
@@ -1352,19 +1391,6 @@
    "show": "Steelers Blitz",
    "url": "https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-102226-mp3",
    "published": "2026-10-22T15:00:00+00:00",
-   "summary": "Podcast episode from Steelers Blitz.",
-   "source": {
-    "name": "Steelers Blitz",
-    "url": null
-   }
-  },
-  {
-   "id": "0724d3141fdef413",
-   "type": "podcast_episode",
-   "title": "Hour 2: Ed Troup and Around the Shield",
-   "show": "Steelers Blitz",
-   "url": "https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr2-102226-mp3",
-   "published": "2026-10-22T14:00:00+00:00",
    "summary": "Podcast episode from Steelers Blitz.",
    "source": {
     "name": "Steelers Blitz",
