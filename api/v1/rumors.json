@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "rumors",
  "description": "Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).",
- "generated": "2026-10-27T03:45:06+00:00",
- "data_updated": "2026-10-27T03:44:59+00:00",
- "count": 33,
+ "generated": "2026-10-27T04:16:18+00:00",
+ "data_updated": "2026-10-27T04:16:11+00:00",
+ "count": 23,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -150,6 +150,35 @@
    }
   },
   {
+   "id": "503d87d8f6f8",
+   "type": "rumor",
+   "title": "Trade rumor: Steelers (The New York Times)",
+   "summary": "The New York Times passes along trade speculation involving the Steelers; treat it as unconfirmed until the team announces a move, touching on the Steelers' quarterback situation and the trade deadline. Read the full story at The New York Times.",
+   "url": "https://www.nytimes.com/athletic/7711597/2026/10/22/pittsburgh-steelers-trade-deadline-targets-future-qb/",
+   "source": {
+    "name": "The New York Times",
+    "url": null,
+    "reliability_tier": "National insider",
+    "reliability_score": 4
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-27T04:16:11+00:00",
+   "updated": "2026-10-27T04:16:11+00:00",
+   "published": "2026-10-26T12:00:00+00:00",
+   "people": [],
+   "consensus": {
+    "cluster_id": "503d87d8f6f8",
+    "independent_sources": 1,
+    "sources": [
+     "The New York Times"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": []
+   }
+  },
+  {
    "id": "5a6d9de5e61f",
    "type": "rumor",
    "title": "Rumor watch: Aaron Rodgers",
@@ -200,13 +229,13 @@
     "cluster_id": "b3b86933a304",
     "independent_sources": 2,
     "sources": [
-     "Steeler Nation",
-     "SteelerNation"
+     "SteelerNation",
+     "Yardbarker"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
     "related_ids": [
-     "69257f604ffc"
+     "5585acb90f77"
     ]
    }
   },
@@ -548,18 +577,14 @@
     "DeShon Elliott"
    ],
    "consensus": {
-    "cluster_id": "67f385966bfb",
-    "independent_sources": 2,
+    "cluster_id": "595924af2d84",
+    "independent_sources": 1,
     "sources": [
-     "Pittsburgh Post-Gazette",
-     "Yahoo Sports"
+     "Pittsburgh Post-Gazette"
     ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": [
-     "406d42aa5709",
-     "67f385966bfb"
-    ]
+    "highest_tier": "Beat writer / team",
+    "highest_tier_score": 3,
+    "related_ids": []
    }
   },
   {
@@ -724,343 +749,6 @@
      "75724089f665",
      "9817e54a5e1d"
     ]
-   }
-  },
-  {
-   "id": "46b9d884dd04",
-   "type": "rumor",
-   "title": "Trade rumor: DeForest Buckner",
-   "summary": "SteelerNation passes along trade speculation involving DeForest Buckner; treat it as unconfirmed until the team announces a move, touching on the Steelers' defense. Read the full story at SteelerNation.",
-   "url": "https://www.steelernation.com/2026/10/22/steelers-deforest-buckner-urgent-trade",
-   "source": {
-    "name": "SteelerNation",
-    "url": null,
-    "reliability_tier": "Fan blog",
-    "reliability_score": 2
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-23T00:00:15+00:00",
-   "updated": "2026-10-23T00:00:15+00:00",
-   "published": "2026-10-22T23:31:54+00:00",
-   "people": [],
-   "consensus": {
-    "cluster_id": "46b9d884dd04",
-    "independent_sources": 1,
-    "sources": [
-     "SteelerNation"
-    ],
-    "highest_tier": "Fan blog",
-    "highest_tier_score": 2,
-    "related_ids": []
-   }
-  },
-  {
-   "id": "70c4e90ce6da",
-   "type": "rumor",
-   "title": "Trade rumor: Steelers (Yardbarker)",
-   "summary": "Yardbarker passes along trade speculation involving the Steelers; treat it as unconfirmed until the team announces a move. Read the full story at Yardbarker.",
-   "url": "https://www.yardbarker.com/nfl/articles/pittsburgh_steelers_named_in_massive_76_million_trade_rumor/s1_17355_44461459",
-   "source": {
-    "name": "Yardbarker",
-    "url": null,
-    "reliability_tier": "Aggregator / other",
-    "reliability_score": 1
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-22T21:56:50+00:00",
-   "updated": "2026-10-22T21:56:50+00:00",
-   "published": "2026-10-22T21:51:22+00:00",
-   "people": [],
-   "consensus": {
-    "cluster_id": "70c4e90ce6da",
-    "independent_sources": 1,
-    "sources": [
-     "Yardbarker"
-    ],
-    "highest_tier": "Aggregator / other",
-    "highest_tier_score": 1,
-    "related_ids": []
-   }
-  },
-  {
-   "id": "15ee05729515",
-   "type": "rumor",
-   "title": "Trade rumor: Riq Woolen",
-   "summary": "Yahoo Sports passes along trade speculation involving Riq Woolen; treat it as unconfirmed until the team announces a move, touching on the trade deadline. Read the full story at Yahoo Sports.",
-   "url": "https://sports.yahoo.com/articles/steelers-try-pry-riq-woolen-210003535.html",
-   "source": {
-    "name": "Yahoo Sports",
-    "url": null,
-    "reliability_tier": "National insider",
-    "reliability_score": 4
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-26T14:07:53+00:00",
-   "updated": "2026-10-26T14:07:53+00:00",
-   "published": "2026-10-22T21:00:03+00:00",
-   "people": [
-    "Riq Woolen"
-   ],
-   "consensus": {
-    "cluster_id": "15ee05729515",
-    "independent_sources": 1,
-    "sources": [
-     "Yahoo Sports"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": []
-   }
-  },
-  {
-   "id": "406d42aa5709",
-   "type": "rumor",
-   "title": "Rumor watch: DeShon Elliott (Yahoo Sports)",
-   "summary": "Yahoo Sports passes along unconfirmed talk involving DeShon Elliott, touching on the Steelers' defense. Read the full story at Yahoo Sports.",
-   "url": "https://sports.yahoo.com/articles/deshon-elliott-could-pitch-count-190000493.html",
-   "source": {
-    "name": "Yahoo Sports",
-    "url": null,
-    "reliability_tier": "National insider",
-    "reliability_score": 4
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-26T09:07:13+00:00",
-   "updated": "2026-10-26T09:07:13+00:00",
-   "published": "2026-10-22T19:00:00+00:00",
-   "people": [],
-   "consensus": {
-    "cluster_id": "67f385966bfb",
-    "independent_sources": 2,
-    "sources": [
-     "Pittsburgh Post-Gazette",
-     "Yahoo Sports"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": [
-     "595924af2d84",
-     "67f385966bfb"
-    ]
-   }
-  },
-  {
-   "id": "a98ee9e3711c",
-   "type": "rumor",
-   "title": "Trade rumor: Steelers-Raiders (Steel Curtain Network)",
-   "summary": "Steel Curtain Network passes along trade speculation involving the Steelers and the Raiders; treat it as unconfirmed until the team announces a move, touching on the trade deadline. Read the full story at Steel Curtain Network.",
-   "url": "https://www.steelcurtainnetwork.com/espn-projects-a-nfl-trade-deadline-deal-between-the-steelers-and-raiders/",
-   "source": {
-    "name": "Steel Curtain Network",
-    "url": null,
-    "reliability_tier": "Aggregator / other",
-    "reliability_score": 1
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-22T18:10:35+00:00",
-   "updated": "2026-10-22T18:10:35+00:00",
-   "published": "2026-10-22T18:01:33+00:00",
-   "people": [
-    "Trade Deadline"
-   ],
-   "consensus": {
-    "cluster_id": "a98ee9e3711c",
-    "independent_sources": 1,
-    "sources": [
-     "Steel Curtain Network"
-    ],
-    "highest_tier": "Aggregator / other",
-    "highest_tier_score": 1,
-    "related_ids": []
-   }
-  },
-  {
-   "id": "67f385966bfb",
-   "type": "rumor",
-   "title": "Rumor watch: DeShon Elliott (Yahoo Sports) (Yahoo Sports)",
-   "summary": "Yahoo Sports passes along unconfirmed talk involving DeShon Elliott. Read the full story at Yahoo Sports.",
-   "url": "https://sports.yahoo.com/articles/steelers-deshon-elliott-could-big-130000726.html",
-   "source": {
-    "name": "Yahoo Sports",
-    "url": null,
-    "reliability_tier": "National insider",
-    "reliability_score": 4
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-26T18:16:57+00:00",
-   "updated": "2026-10-26T18:16:57+00:00",
-   "published": "2026-10-22T16:39:28+00:00",
-   "people": [],
-   "consensus": {
-    "cluster_id": "67f385966bfb",
-    "independent_sources": 2,
-    "sources": [
-     "Pittsburgh Post-Gazette",
-     "Yahoo Sports"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": [
-     "595924af2d84",
-     "406d42aa5709"
-    ]
-   }
-  },
-  {
-   "id": "3513cc219acc",
-   "type": "rumor",
-   "title": "Trade rumor: Steelers (Sports Illustrated)",
-   "summary": "Sports Illustrated passes along trade speculation involving the Steelers; treat it as unconfirmed until the team announces a move. Read the full story at Sports Illustrated.",
-   "url": "https://www.si.com/nfl/steelers/onsi/ranking-pittsburgh-steelers-top-trade-needs-best-targets",
-   "source": {
-    "name": "Sports Illustrated",
-    "url": null,
-    "reliability_tier": "National insider",
-    "reliability_score": 4
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-22T18:10:35+00:00",
-   "updated": "2026-10-22T18:10:35+00:00",
-   "published": "2026-10-22T11:00:04+00:00",
-   "people": [],
-   "consensus": {
-    "cluster_id": "3513cc219acc",
-    "independent_sources": 1,
-    "sources": [
-     "Sports Illustrated"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": []
-   }
-  },
-  {
-   "id": "9c739749bf84",
-   "type": "rumor",
-   "title": "Trade rumor: T.J. Watt and Alex Highsmith",
-   "summary": "Yahoo Sports passes along trade speculation involving T.J. Watt and Alex Highsmith; treat it as unconfirmed until the team announces a move, touching on the trade deadline. Read the full story at Yahoo Sports.",
-   "url": "https://sports.yahoo.com/articles/steelers-face-tough-decisions-t-094636906.html",
-   "source": {
-    "name": "Yahoo Sports",
-    "url": null,
-    "reliability_tier": "National insider",
-    "reliability_score": 4
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-26T00:33:53+00:00",
-   "updated": "2026-10-26T00:33:53+00:00",
-   "published": "2026-10-22T09:46:36+00:00",
-   "people": [
-    "Alex Highsmith",
-    "T.J. Watt"
-   ],
-   "consensus": {
-    "cluster_id": "9c739749bf84",
-    "independent_sources": 1,
-    "sources": [
-     "Yahoo Sports"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": []
-   }
-  },
-  {
-   "id": "793524d428ea",
-   "type": "rumor",
-   "title": "Trade rumor: Steelers (The Athletic)",
-   "summary": "The Athletic passes along trade speculation involving the Steelers; treat it as unconfirmed until the team announces a move, touching on the Steelers' quarterback situation and the trade deadline. Read the full story at The Athletic.",
-   "url": "https://www.nytimes.com/athletic/7711597/2026/10/22/pittsburgh-steelers-trade-deadline-targets-future-qb/",
-   "source": {
-    "name": "The Athletic",
-    "url": null,
-    "reliability_tier": "National insider",
-    "reliability_score": 4
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-22T18:10:35+00:00",
-   "updated": "2026-10-22T18:10:35+00:00",
-   "published": "2026-10-22T09:30:52+00:00",
-   "people": [],
-   "consensus": {
-    "cluster_id": "793524d428ea",
-    "independent_sources": 2,
-    "sources": [
-     "The Athletic",
-     "The New York Times"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": [
-     "503d87d8f6f8"
-    ]
-   }
-  },
-  {
-   "id": "7e976d566581",
-   "type": "rumor",
-   "title": "Trade rumor: Steelers (The Athletic) (The Athletic)",
-   "summary": "The Athletic passes along trade speculation involving the Steelers; treat it as unconfirmed until the team announces a move, touching on the trade deadline. Read the full story at The Athletic.",
-   "url": "https://www.nytimes.com/athletic/7664102/2026/10/22/nfl-trade-deadline-board-players-available/",
-   "source": {
-    "name": "The Athletic",
-    "url": null,
-    "reliability_tier": "National insider",
-    "reliability_score": 4
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-22T18:10:35+00:00",
-   "updated": "2026-10-22T18:10:35+00:00",
-   "published": "2026-10-22T09:30:11+00:00",
-   "people": [],
-   "consensus": {
-    "cluster_id": "7e976d566581",
-    "independent_sources": 1,
-    "sources": [
-     "The Athletic"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": []
-   }
-  },
-  {
-   "id": "d376342120eb",
-   "type": "rumor",
-   "title": "Trade rumor: Steelers (Yahoo Sports) (Yahoo Sports)",
-   "summary": "Yahoo Sports passes along trade speculation involving the Steelers; treat it as unconfirmed until the team announces a move. Read the full story at Yahoo Sports.",
-   "url": "https://sports.yahoo.com/articles/steelers-roster-move-makes-41m-052903737.html",
-   "source": {
-    "name": "Yahoo Sports",
-    "url": null,
-    "reliability_tier": "National insider",
-    "reliability_score": 4
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-26T00:09:46+00:00",
-   "updated": "2026-10-26T00:09:46+00:00",
-   "published": "2026-10-22T05:29:00+00:00",
-   "people": [],
-   "consensus": {
-    "cluster_id": "d376342120eb",
-    "independent_sources": 1,
-    "sources": [
-     "Yahoo Sports"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": []
    }
   }
  ]

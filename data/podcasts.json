@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-27T03:44:47.572811+00:00",
- "date_et": "2026-10-26",
+ "generated": "2026-10-27T04:14:57.400487+00:00",
+ "date_et": "2026-10-27",
  "days": 5,
  "display_days": 2,
  "count": 108,
@@ -81,10 +81,10 @@
    "show": "Still Curtain Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxjSNPLcRAVzDKOjhRwo-hQ",
-   "status": "error: HTTP Error 500: Internal Server Error",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 2,
-   "latest": null
+   "latest": "2026-10-26T17:00:26+00:00"
   },
   {
    "show": "Steel City Underground",
@@ -99,10 +99,10 @@
    "show": "Steel City Underground",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDcNNAMkYr-DzH6_XL-0p8Q",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 2,
-   "latest": "2026-10-26T13:15:18+00:00"
+   "latest": null
   },
   {
    "show": "Steelers Afternoon Drive",
@@ -189,10 +189,10 @@
    "show": "Nick Farabaugh on PennLive",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5yvng1eSgffmybUM-51fTw",
-   "status": "ok",
-   "episodes": 1,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 1,
-   "latest": "2026-10-24T18:08:40+00:00"
+   "latest": null
   },
   {
    "show": "Pittsburgh Steelers (official)",
@@ -243,7 +243,7 @@
    "show": "The Christian Kuntz Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKKBJcOGsYmwAATQv-xQYeA",
-   "status": "error: HTTP Error 500: Internal Server Error",
+   "status": "error: HTTP Error 404: Not Found",
    "episodes": 0,
    "week": 0,
    "latest": null

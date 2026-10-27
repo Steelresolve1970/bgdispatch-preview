@@ -1,6 +1,6 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-27T03:45:06+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T03:44:59+00:00._
+_Generated 2026-10-27T04:16:18+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T04:16:11+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
@@ -11,6 +11,8 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Trade rumor: Steelers-Raiders](https://stillcurtain.com/pittsburgh-steelers-trade-deadline-opportunity-las-vegas-raiders-too-good-ignore-01m5jmnqexxg?utm_source=RSS): Still Curtain, first seen 2026-10-26 13:12 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 2 source(s), top tier Fan blog
   [Trade rumor: Steelers](https://atozsports.com/nfl/pittsburgh-steelers-news/pittsburgh-steelers-monitoring-brian-thomas-jr-trade-nfl-deadline-rumors/): A to Z Sports, first seen 2026-10-26 13:12 UTC
+- **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
+  [Trade rumor: Steelers (The New York Times)](https://www.nytimes.com/athletic/7711597/2026/10/22/pittsburgh-steelers-trade-deadline-targets-future-qb/): The New York Times, first seen 2026-10-27 04:16 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [Rumor watch: Aaron Rodgers](https://bleacherreport.com/articles/25520168-aaron-rodgers-shades-steelers-coaches-new-video-reportedly-called-some-plays-win-vs-saints): Bleacher Report, first seen 2026-10-25 19:04 UTC
 - **Rumor** · tier: Fan blog · consensus: 2 source(s), top tier Fan blog
@@ -35,7 +37,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Trade rumor: Steelers (Athlon Sports)](https://athlonsports.com/nfl/pittsburgh-steelers/steelers-again-linked-to-legends-nephew-with-trade-deadline-approaching): Athlon Sports, first seen 2026-10-23 15:18 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 2 source(s), top tier Fan blog
   [Rumor watch: Steelers-Saints](https://saintswire.usatoday.com/story/sports/nfl/saints/2026/10/23/saints-injury-report-steelers-jordyn-tyson-nfl/92395091007/): Saints Wire, first seen 2026-10-23 14:41 UTC
-- **Confirmed** · tier: Beat writer / team · consensus: 2 source(s), top tier National insider
+- **Confirmed** · tier: Beat writer / team · consensus: 1 source(s), top tier Beat writer / team
   [Rumor watch: DeShon Elliott](https://www.post-gazette.com/sports/steelers/2026/10/23/will-deshon-elliott-play-sunday/stories/202610230028): Pittsburgh Post-Gazette, first seen 2026-10-23 14:08 UTC
 - **Rumor** · tier: Fan blog · consensus: 2 source(s), top tier Fan blog
   [Rumor watch: Steelers-Saints (Steelers Depot)](https://steelersdepot.com/2026/10/saints-week-7-friday-injury-report-two-starters-questionable/): Steelers Depot, first seen 2026-10-23 13:24 UTC
@@ -47,28 +49,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Trade rumor: Steelers-Ravens](https://www.nytimes.com/athletic/7711772/2026/10/23/afc-north-trade-deadline-browns/): The Athletic, first seen 2026-10-23 10:05 UTC
 - **Rumor** · tier: National insider · consensus: 3 source(s), top tier National insider
   [Trade rumor: Steelers (Yahoo Sports)](https://sports.yahoo.com/articles/steelers-linked-trade-troy-polamalus-090859602.html): Yahoo Sports, first seen 2026-10-23 10:05 UTC
-- **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
-  [Trade rumor: DeForest Buckner](https://www.steelernation.com/2026/10/22/steelers-deforest-buckner-urgent-trade): SteelerNation, first seen 2026-10-23 00:00 UTC
-- **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
-  [Trade rumor: Steelers (Yardbarker)](https://www.yardbarker.com/nfl/articles/pittsburgh_steelers_named_in_massive_76_million_trade_rumor/s1_17355_44461459): Yardbarker, first seen 2026-10-22 21:56 UTC
-- **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
-  [Trade rumor: Riq Woolen](https://sports.yahoo.com/articles/steelers-try-pry-riq-woolen-210003535.html): Yahoo Sports, first seen 2026-10-26 14:07 UTC
-- **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
-  [Rumor watch: DeShon Elliott (Yahoo Sports)](https://sports.yahoo.com/articles/deshon-elliott-could-pitch-count-190000493.html): Yahoo Sports, first seen 2026-10-26 09:07 UTC
-- **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
-  [Trade rumor: Steelers-Raiders (Steel Curtain Network)](https://www.steelcurtainnetwork.com/espn-projects-a-nfl-trade-deadline-deal-between-the-steelers-and-raiders/): Steel Curtain Network, first seen 2026-10-22 18:10 UTC
-- **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
-  [Rumor watch: DeShon Elliott (Yahoo Sports) (Yahoo Sports)](https://sports.yahoo.com/articles/steelers-deshon-elliott-could-big-130000726.html): Yahoo Sports, first seen 2026-10-26 18:16 UTC
-- **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
-  [Trade rumor: Steelers (Sports Illustrated)](https://www.si.com/nfl/steelers/onsi/ranking-pittsburgh-steelers-top-trade-needs-best-targets): Sports Illustrated, first seen 2026-10-22 18:10 UTC
-- **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
-  [Trade rumor: T.J. Watt and Alex Highsmith](https://sports.yahoo.com/articles/steelers-face-tough-decisions-t-094636906.html): Yahoo Sports, first seen 2026-10-26 00:33 UTC
-- **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
-  [Trade rumor: Steelers (The Athletic)](https://www.nytimes.com/athletic/7711597/2026/10/22/pittsburgh-steelers-trade-deadline-targets-future-qb/): The Athletic, first seen 2026-10-22 18:10 UTC
-- **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
-  [Trade rumor: Steelers (The Athletic) (The Athletic)](https://www.nytimes.com/athletic/7664102/2026/10/22/nfl-trade-deadline-board-players-available/): The Athletic, first seen 2026-10-22 18:10 UTC
-- **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
-  [Trade rumor: Steelers (Yahoo Sports) (Yahoo Sports)](https://sports.yahoo.com/articles/steelers-roster-move-makes-41m-052903737.html): Yahoo Sports, first seen 2026-10-26 00:09 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

@@ -1,6 +1,6 @@
 # Steelers Draft Central
 
-_Generated 2026-10-27T03:45:06+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T03:44:53+00:00._
+_Generated 2026-10-27T04:16:18+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T04:16:06+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/draft.json_
 
 Steelers projected picks: R1 #26, R2 #58
@@ -12,7 +12,7 @@ Steelers projected picks: R1 #26, R2 #58
 - **Drew Mestemaker** (QB, Oklahoma State, our board #9): chance available R1 #26 2%, R2 #58 0%. 157/239, 2,326 pass yds, 20 TD, 6 INT; 29 rush, 150 yds, 2 TD
 - **Arch Manning** (QB, Texas, our board #10): chance available R1 #26 4%, R2 #58 0%. 125/197, 1,510 pass yds, 12 TD, 7 INT; 56 rush, 101 yds, 2 TD
 - **Dante Moore** (QB, Oregon, our board #15): chance available R1 #26 16%, R2 #58 0%. 69/99, 926 pass yds, 9 TD, 0 INT; 10 rush, -7 yds
-- **Trinidad Chambliss** (QB, Ole Miss, our board #42): chance available R1 #26 79%, R2 #58 23%. 1,926 pass yds, 16 TD, 7 INT
+- **Trinidad Chambliss** (QB, Ole Miss, our board #41): chance available R1 #26 78%, R2 #58 21%. 1,926 pass yds, 16 TD, 7 INT
 - **Julian Sayin** (QB, Ohio State, our board #53): chance available R1 #26 87%, R2 #58 43%. 2,007 pass yds, 19 TD, 4 INT
 - **Jayden Maiava** (QB, USC, our board #77): chance available R1 #26 94%, R2 #58 72%. 2,303 pass yds, 19 TD, 5 INT
 
@@ -31,14 +31,14 @@ Steelers projected picks: R1 #26, R2 #58
 - **Earl Little Jr.** (S, Ohio State, our board #64): chance available R1 #26 93%, R2 #58 60%. 38 tackles, 4 PD, 1 FR
 - **Koi Perich** (S, Oregon, our board #65): chance available R1 #26 94%, R2 #58 61%. 46 tackles, 0.5 TFL, 0 sacks, 2 INT, 1 PD
 - **Kingston Lopa** (S, California, our board #78): chance available R1 #26 96%, R2 #58 75%. 37 tackles, 1 TFL, 0 sacks, 5 INT, 1 PD
-- **Bray Hubbard** (S, Alabama, our board #83): chance available R1 #26 96%, R2 #58 79%. 42 tackles, 0.5 TFL, 0 sacks, 2 INT, 2 PD
+- **Bray Hubbard** (S, Alabama, our board #84): chance available R1 #26 97%, R2 #58 80%. 42 tackles, 0.5 TFL, 0 sacks, 2 INT, 2 PD
 - **Kamari Wilson** (S, West Virginia, our board #94): chance available R1 #26 97%, R2 #58 85%. 36 tackles, 0.5 TFL, 0 sacks, 1 INT, 2 PD
 - **Ty Benefield** (S, LSU, our board #99): chance available R1 #26 98%, R2 #58 87%. 31 tackles, 2 TFL, 2 sacks, 1 INT, 2 PD
 
 ### 4. Inside linebacker
 - **Chris Cole** (LB, Georgia, our board #19): chance available R1 #26 27%, R2 #58 0%. 40 tackles, 2.5 sacks, 3 PD, 2 FR
 - **Kyngstonn Viliamu-Asa** (LB, Notre Dame, our board #29): chance available R1 #26 60%, R2 #58 2%. 15 tackles, 1 INT, 1 FR
-- **Raylen Wilson** (LB, Georgia, our board #44): chance available R1 #26 84%, R2 #58 24%. 43 tackles, 4 sacks
+- **Raylen Wilson** (LB, Georgia, our board #43): chance available R1 #26 83%, R2 #58 22%. 43 tackles, 4 sacks
 - **Sammy Brown** (LB, Clemson, our board #45): chance available R1 #26 84%, R2 #58 26%. 47 tackles, 1 sack, 1 PD
 - **Suntarine Perkins** (LB, Ole Miss, our board #47): chance available R1 #26 86%, R2 #58 30%. 22 tackles, 4 TFL, 1.5 sacks, 2 PD
 - **Rasheem Biles** (LB, Texas, our board #68): chance available R1 #26 94%, R2 #58 65%. 53 tackles, 5.5 TFL, 1 sacks, 3 INT, 3 PD
