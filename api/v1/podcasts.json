@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-27T05:12:19+00:00",
- "data_updated": "2026-10-27T05:11:54+00:00",
- "count": 107,
+ "generated": "2026-10-27T07:02:40+00:00",
+ "data_updated": "2026-10-27T07:02:21+00:00",
+ "count": 102,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -19,6 +19,19 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/podcasts",
  "items": [
+  {
+   "id": "15b61e30d71e5927",
+   "type": "video",
+   "title": "Steelers Imposed Their Will Over the Saints in Paris | Illegal Hands to the Face",
+   "show": "Still Curtain Podcast",
+   "url": "https://www.youtube.com/watch?v=P1rY457W1b8",
+   "published": "2026-10-27T07:00:54+00:00",
+   "summary": "Video from Still Curtain Podcast.",
+   "source": {
+    "name": "Still Curtain Podcast",
+    "url": null
+   }
+  },
   {
    "id": "1054e38d6b18381e",
    "type": "video",
@@ -176,19 +189,6 @@
    }
   },
   {
-   "id": "15b61e30d71e5927",
-   "type": "video",
-   "title": "Steelers Imposed Their Will Over the Saints in Paris | Illegal Hands to the Face",
-   "show": "Still Curtain Podcast",
-   "url": "https://www.youtube.com/watch?v=P1rY457W1b8",
-   "published": "2026-10-26T17:00:26+00:00",
-   "summary": "Video from Still Curtain Podcast.",
-   "source": {
-    "name": "Still Curtain Podcast",
-    "url": null
-   }
-  },
-  {
    "id": "d4f8bc6d0b9720de",
    "type": "podcast_episode",
    "title": "Hour 1: Summary of the Saints",
@@ -202,11 +202,11 @@
    }
   },
   {
-   "id": "6d94156d7a205207",
+   "id": "d7d6f5e4fe6a87a4",
    "type": "podcast_episode",
    "title": "The Steelers Are ONE MOVE Away From Being Super Bowl Contenders?!",
    "show": "The Steel City Insider (Jim Wexell, 247Sports)",
-   "url": "https://podcasts.apple.com/us/podcast/the-steelers-are-one-move-away-from-being-super-bowl/id1623192893?i=1000798184529",
+   "url": "https://247sports.com/nfl/pittsburgh-steelers/",
    "published": "2026-10-26T14:05:27+00:00",
    "summary": "Podcast episode from The Steel City Insider (Jim Wexell, 247Sports).",
    "source": {
@@ -1342,71 +1342,6 @@
    "summary": "Podcast episode from Steel Curtain Network (BTSC).",
    "source": {
     "name": "Steel Curtain Network (BTSC)",
-    "url": null
-   }
-  },
-  {
-   "id": "701ca8615fab1301",
-   "type": "video",
-   "title": "Steelers vs. Saints Week 7 Preview | Aaron Rodgers Problem Brewing",
-   "show": "Still Curtain Podcast",
-   "url": "https://www.youtube.com/watch?v=B0agqGjSVpU",
-   "published": "2026-10-22T06:58:28+00:00",
-   "summary": "Video from Still Curtain Podcast.",
-   "source": {
-    "name": "Still Curtain Podcast",
-    "url": null
-   }
-  },
-  {
-   "id": "dd5b00c4e8abbdb4",
-   "type": "video",
-   "title": "Steelers-Saints Aaron Rodgers' Chance to Finally Put Whole Offense Together | Blitzing Tyler Shough",
-   "show": "Locked On Steelers",
-   "url": "https://www.youtube.com/watch?v=m04PBQ3DslY",
-   "published": "2026-10-22T06:00:08+00:00",
-   "summary": "Video from Locked On Steelers.",
-   "source": {
-    "name": "Locked On Steelers",
-    "url": null
-   }
-  },
-  {
-   "id": "568405451b2d0730",
-   "type": "podcast_episode",
-   "title": "Steelers-Saints Aaron Rodgers' Chance to Finally Put Whole Offense Together | Blitzing Tyler Shough",
-   "show": "Locked On Steelers",
-   "url": "https://podcasts.apple.com/us/podcast/steelers-saints-aaron-rodgers-chance-to-finally-put/id1140522532?i=1000797569075",
-   "published": "2026-10-22T06:00:00+00:00",
-   "summary": "Podcast episode from Locked On Steelers.",
-   "source": {
-    "name": "Locked On Steelers",
-    "url": null
-   }
-  },
-  {
-   "id": "d5c5b02b788540d7",
-   "type": "podcast_episode",
-   "title": "DK's Daily Shot of Steelers: Bienvenue à Paris!",
-   "show": "DK Pittsburgh Sports",
-   "url": "https://podcasts.apple.com/us/podcast/dks-daily-shot-of-steelers-bienvenue-%C3%A0-paris/id1072021022?i=1000797584822",
-   "published": "2026-10-22T05:18:00+00:00",
-   "summary": "Podcast episode from DK Pittsburgh Sports.",
-   "source": {
-    "name": "DK Pittsburgh Sports",
-    "url": null
-   }
-  },
-  {
-   "id": "a8e0d2a869f05be3",
-   "type": "podcast_episode",
-   "title": "Scout’s Eye with Matt Williamson: Concerning, but correctable",
-   "show": "DK Pittsburgh Sports",
-   "url": "https://podcasts.apple.com/us/podcast/scouts-eye-with-matt-williamson-concerning-but/id1072021022?i=1000797568611",
-   "published": "2026-10-22T05:15:00+00:00",
-   "summary": "Podcast episode from DK Pittsburgh Sports.",
-   "source": {
-    "name": "DK Pittsburgh Sports",
     "url": null
    }
   }
