@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-27T09:04:42+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T09:04:23+00:00._
+_Generated 2026-10-27T09:37:05+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T09:16:29+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Steelers Building Elite Offensive/Defensive Lines in New Foundation | Patrick Queen Underappreciated](https://www.youtube.com/watch?v=WCAocGAbAHE): Locked On Steelers, 2026-10-27 07:30 UTC

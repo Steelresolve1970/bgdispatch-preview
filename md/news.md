@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-27T09:04:42+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T09:04:03+00:00._
+_Generated 2026-10-27T09:37:05+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T09:16:12+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Perspective: DeShon Elliott](https://steelersdepot.com/2026/10/will-deshon-elliott-regain-starting-job/): Steelers Depot, 2026-10-27 09:00 UTC
