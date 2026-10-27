@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T00:48:50.231181+00:00",
+ "generated": "2026-10-27T01:00:19.443929+00:00",
  "date_et": "2026-10-26",
  "days": 5,
  "display_days": 2,
@@ -216,10 +216,10 @@
    "show": "Not Just Football with Cam Heyward",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8hodyaoiw297aspKf9QVDA",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 500: Internal Server Error",
+   "episodes": 0,
    "week": 5,
-   "latest": "2026-10-25T19:36:25+00:00"
+   "latest": null
   },
   {
    "show": "Footbahlin with Ben Roethlisberger",
@@ -243,10 +243,10 @@
    "show": "The Christian Kuntz Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKKBJcOGsYmwAATQv-xQYeA",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 0,
-   "latest": "2009-05-26T14:01:33+00:00"
+   "latest": null
   }
  ],
  "items": [
@@ -1119,7 +1119,14 @@
    "summary": "Podcast episode from Locked On Steelers."
   }
  ],
- "yt_channels": [],
+ "yt_channels": [
+  {
+   "show": "The Christian Kuntz Podcast",
+   "channel_id": "UCKKBJcOGsYmwAATQv-xQYeA",
+   "link": "https://www.youtube.com/channel/UCKKBJcOGsYmwAATQv-xQYeA",
+   "embed": "https://www.youtube-nocookie.com/embed/videoseries?list=UUKKBJcOGsYmwAATQv-xQYeA"
+  }
+ ],
  "postgame": {
   "game": "2026_07_PIT_NO",
   "week": "Week 7",
