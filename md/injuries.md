@@ -1,6 +1,6 @@
 # Steelers Injury Report
 
-_Generated 2026-10-27T11:19:17+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T10:56:44+00:00._
+_Generated 2026-10-27T11:39:17+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T11:38:45+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/injuries.json_
 
 | Player | Pos | Status | Injury | Est. return | Updated |

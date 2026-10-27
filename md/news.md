@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-27T11:19:17+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T11:18:35+00:00._
+_Generated 2026-10-27T11:39:17+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T11:38:22+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Kaden Wetjen shows improvement](https://steelersdepot.com/2026/10/steelers-stock-watch-2026-wr-kr-pr-kaden-wetjen/): Steelers Depot, 2026-10-27 11:00 UTC
@@ -8,12 +8,10 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Rankings check: where the Steelers stand](https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-8/): The Athletic, 2026-10-27 10:30 UTC
 - [Steelers receiver DK Metcalf struggling](https://steelersdepot.com/2026/10/dulac-says-steelers-must-give-up-on-25-75-combat-catches-to-dk-metcalf-thats-not-george-pickens-out-there/): Steelers Depot, 2026-10-27 10:20 UTC
 - [NFL Expands Globally](https://www.steelers.com/news/asked-and-answered-oct-27-x3709): Steelers.com (official), 2026-10-27 10:05 UTC
-- [Browns prepare for Steelers](https://triblive.com/sports/first-call-browns-coach-tries-to-fix-flaw-before-steelers-game-ex-steelers-db-signs-with-ravens/): TribLive, 2026-10-27 10:04 UTC
 - [Analysis: Steelers](https://stillcurtain.com/4-pittsburgh-steelers-trending-up-and-3-whose-stock-is-falling-fast-entering-week-8-01m5wpf8q3py?utm_source=RSS): Still Curtain, 2026-10-27 10:00 UTC
-- [Browns prepare for Steelers (Yahoo Sports)](https://sports.yahoo.com/articles/cleveland-browns-news-welcome-steeler-100000026.html): Yahoo Sports, 2026-10-27 10:00 UTC
+- [Browns prepare for Steelers](https://sports.yahoo.com/articles/cleveland-browns-news-welcome-steeler-100000026.html): Yahoo Sports, 2026-10-27 10:00 UTC
 - [Steelers prepare for Browns](https://steelersdepot.com/2026/10/dont-see-them-changing-steelers-expect-browns-to-play-them-as-they-did-in-week-4/): Steelers Depot, 2026-10-27 09:40 UTC
 - [Steelers face shifting league landscape](https://www.nytimes.com/athletic/7727004/2026/10/27/nfl-power-rankings-week-8-halloween-spooky/): The Athletic, 2026-10-27 09:30 UTC
-- [Joe Starkey reflects on years](https://triblive.com/sports/cup-of-joe-starkey-a-flood-of-memories-from-25-years-at-acrisure-stadium/): TribLive, 2026-10-27 09:01 UTC
 - [Perspective: DeShon Elliott](https://steelersdepot.com/2026/10/will-deshon-elliott-regain-starting-job/): Steelers Depot, 2026-10-27 09:00 UTC
 - [Steelers achieve expected wins](https://www.weirtondailytimes.com/sports/2026/10/the-steelers-are-winning-the-games-theyre-supposed-to-win/): Weirton Daily Times, 2026-10-27 08:00 UTC
 - [Steelers find hidden moments](https://steelersdepot.com/2026/10/the-forgotten-play-that-helped-the-steelers-beat-the-saints/): Steelers Depot, 2026-10-27 04:00 UTC
@@ -100,6 +98,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers eye Pro Bowl receiver](https://atozsports.com/nfl/pittsburgh-steelers-news/pittsburgh-steelers-monitoring-brian-thomas-jr-trade-nfl-deadline-rumors/): A to Z Sports, 2026-10-26 13:00 UTC
 - [Steelers playoff simulator available](https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/pittsburgh-steelers-season-projections/): The New York Times, 2026-10-26 12:55 UTC
 - [Steelers dominate Saints](https://stillcurtain.com/the-pittsburgh-steelers-run-defense-wasn-t-just-elite-in-week-7-it-was-historic-01m5v2673a3f?utm_source=RSS): Still Curtain, 2026-10-26 12:00 UTC
+- [Steelers Face Defensive Issues](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-no-longer-avoid-cornerback-troubles): All Steelers (Sports Illustrated), 2026-10-26 12:00 UTC
 - [Rodgers criticizes league management](https://www.pennlive.com/steelers/2026/10/aaron-rodgers-doesnt-hold-back-on-nfls-international-game-management-wish-there-was-a-mandate.html): PennLive (Nick Farabaugh), 2026-10-26 11:52 UTC
 - [Steelers defense makes key play](https://www.steelcityunderground.com/2026/10/26/payton-wilsons-interception-stops-saints-second-half-scoring-threat/): Steel City Underground, 2026-10-26 11:46 UTC
 - [Saints fans react to loss](https://triblive.com/sports/steelers-vs-saints-what-theyre-saying-in-new-orleans-after-loss-2/): TribLive, 2026-10-26 11:34 UTC
@@ -153,6 +152,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers play Saints in Paris (CBS News)](https://www.cbsnews.com/pittsburgh/news/how-to-watch-today-pittsburgh-steelers-new-orleans-saints-paris-france-week-7-nfl-schedule/): CBS News, 2026-10-25 09:00 UTC
 - [Steelers play Saints](https://www.steelers.com/news/steelers-at-saints-in-paris-how-to-watch-listen-to-the-game): Steelers.com (official), 2026-10-25 09:00 UTC
 - [Draft watch: Aaron Rodgers and Jaylen Warren](https://www.post-gazette.com/sports/steelers/2026/10/25/steelers-saints-paris-aaron-rodgers-jaylen-warren/stories/202610250056): Pittsburgh Post-Gazette, 2026-10-25 08:00 UTC
+- [Gerry Dulac makes predictions](https://www.post-gazette.com/sports/steelers/2026/10/25/nfl-picks-predictions-week7/stories/202610220041): Pittsburgh Post-Gazette, 2026-10-25 08:00 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
