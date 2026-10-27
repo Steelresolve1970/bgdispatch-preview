@@ -1,6 +1,6 @@
 # Steelers Opponent Preview
 
-_Generated 2026-10-27T07:15:46+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T07:15:23+00:00._
+_Generated 2026-10-27T09:04:42+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T09:04:31+00:00._
 
 Week 8: Steelers vs **Cleveland Browns** (CLE 5-2), kickoff 2026-11-01 18:00 UTC, Acrisure Stadium.
 

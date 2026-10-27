@@ -1,8 +1,11 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-27T07:15:46+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T07:15:16+00:00._
+_Generated 2026-10-27T09:04:42+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T09:04:23+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Video: [Steelers Building Elite Offensive/Defensive Lines in New Foundation | Patrick Queen Underappreciated](https://www.youtube.com/watch?v=WCAocGAbAHE): Locked On Steelers, 2026-10-27 07:30 UTC
+- Podcast: [Steelers Building Elite Offensive/Defensive Lines in New Foundation | Patrick Queen Underappreciated](https://lockedonpodcasts.com/podcasts/locked-on-steelers/): Locked On Steelers, 2026-10-27 07:30 UTC
+- Podcast: [Scout’s Eye with Matt Williamson: A team effort](https://podcasts.apple.com/us/podcast/id1072021022): DK Pittsburgh Sports, 2026-10-27 07:08 UTC
 - Video: [Steelers Imposed Their Will Over the Saints in Paris | Illegal Hands to the Face](https://www.youtube.com/watch?v=P1rY457W1b8): Still Curtain Podcast, 2026-10-27 07:00 UTC
 - Video: [Patrick Queen Isn’t Getting Enough RESPECT 😤 #patrickqueen #steelers #nfl](https://www.youtube.com/shorts/KSJ30IAUOVU): Locked On Steelers, 2026-10-27 01:03 UTC
 - Video: [Steelers' WR Grades](https://www.youtube.com/shorts/FasE9o--yMg): Steelers Almighty, 2026-10-26 23:45 UTC
@@ -103,8 +106,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Hour 2: Ed Troup and Around the Shield](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr2-102226-mp3): Steelers Blitz, 2026-10-22 14:00 UTC
 - Video: [STEELERS SQUAD SHOW: Offense MUST Improve as Jaylen Warren, Aaron Rodgers Prepare for Saints & Paris](https://www.youtube.com/watch?v=Es_bukL78yk): Locked On Steelers, 2026-10-22 13:02 UTC
 - Podcast: [Steelers' Nick Herbig Decision Could Have Better Timing](https://podcasts.apple.com/us/podcast/steelers-nick-herbig-decision-could-have-better-timing/id1627248534?i=1000797615128): All Steelers Talk, 2026-10-22 12:28 UTC
-- Podcast: [Gennings Dunker on Aaron Rodgers, Iowa Football & His NFL Journey | The Christian Kuntz Podcast](https://podcasters.spotify.com/pod/show/christian-kuntz/episodes/Gennings-Dunker-on-Aaron-Rodgers--Iowa-Football--His-NFL-Journey--The-Christian-Kuntz-Podcast-e3qrlsm): The Christian Kuntz Podcast, 2026-10-22 09:00 UTC
-- Podcast: [Pittsburgh Standard Time: Steelers fans shouldn’t feel bad about the win in Tampa Bay](https://podcasts.apple.com/us/podcast/pittsburgh-standard-time-steelers-fans-shouldnt-feel/id905962218?i=1000797805923): Steel Curtain Network (BTSC), 2026-10-22 08:00 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
