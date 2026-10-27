@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-27T16:14:01+00:00",
- "data_updated": "2026-10-27T16:13:28+00:00",
- "count": 104,
+ "generated": "2026-10-27T17:10:57+00:00",
+ "data_updated": "2026-10-27T17:10:27+00:00",
+ "count": 101,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -19,6 +19,19 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/podcasts",
  "items": [
+  {
+   "id": "7d533777079a5528",
+   "type": "podcast_episode",
+   "title": "Steelers Two Biggest Strengths Can Carry Them - Hopefully",
+   "show": "All Steelers Talk",
+   "url": "https://podcasts.apple.com/us/podcast/id1627248534",
+   "published": "2026-10-27T16:57:00+00:00",
+   "summary": "Podcast episode from All Steelers Talk.",
+   "source": {
+    "name": "All Steelers Talk",
+    "url": null
+   }
+  },
   {
    "id": "497ff14c72a0f6e9",
    "type": "video",
@@ -68,19 +81,6 @@
    "summary": "Podcast episode from Steelers Blitz.",
    "source": {
     "name": "Steelers Blitz",
-    "url": null
-   }
-  },
-  {
-   "id": "7d533777079a5528",
-   "type": "podcast_episode",
-   "title": "Steelers Enter Trade Now Week",
-   "show": "All Steelers Talk",
-   "url": "https://podcasts.apple.com/us/podcast/id1627248534",
-   "published": "2026-10-27T12:25:00+00:00",
-   "summary": "Podcast episode from All Steelers Talk.",
-   "source": {
-    "name": "All Steelers Talk",
     "url": null
    }
   },
@@ -1329,45 +1329,6 @@
    "summary": "Podcast episode from The Terrible Podcast (Steelers Depot).",
    "source": {
     "name": "The Terrible Podcast (Steelers Depot)",
-    "url": null
-   }
-  },
-  {
-   "id": "0a7dcf7e213bd854",
-   "type": "podcast_episode",
-   "title": "Injury Bug Bites Steelers DL | Steelers Morning Rush",
-   "show": "Steelers Afternoon Drive",
-   "url": "https://podcasts.apple.com/us/podcast/injury-bug-bites-steelers-dl-steelers-morning-rush/id1700240934?i=1000797649650",
-   "published": "2026-10-22T16:59:00+00:00",
-   "summary": "Podcast episode from Steelers Afternoon Drive.",
-   "source": {
-    "name": "Steelers Afternoon Drive",
-    "url": null
-   }
-  },
-  {
-   "id": "11d6d414ecee981a",
-   "type": "video",
-   "title": "Can the Steelers keep their winning streak alive in Paris?",
-   "show": "Steel City Underground",
-   "url": "https://www.youtube.com/watch?v=4UG7gRw1LHg",
-   "published": "2026-10-22T16:28:41+00:00",
-   "summary": "Video from Steel City Underground.",
-   "source": {
-    "name": "Steel City Underground",
-    "url": null
-   }
-  },
-  {
-   "id": "7c9e53d147b9801d",
-   "type": "podcast_episode",
-   "title": "Can the Steelers keep their winning streak alive in Paris?",
-   "show": "Steel City Underground",
-   "url": "https://www.steelcityunderground.com/podcast/2026/10/can-the-steelers-keep-their-winning-streak-alive-in-paris/",
-   "published": "2026-10-22T16:20:16+00:00",
-   "summary": "Podcast episode from Steel City Underground.",
-   "source": {
-    "name": "Steel City Underground",
     "url": null
    }
   }

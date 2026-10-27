@@ -2,8 +2,8 @@
  "api_version": "1",
  "dataset": "rumors",
  "description": "Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).",
- "generated": "2026-10-27T16:14:01+00:00",
- "data_updated": "2026-10-27T16:13:55+00:00",
+ "generated": "2026-10-27T17:10:57+00:00",
+ "data_updated": "2026-10-27T17:10:51+00:00",
  "count": 27,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
@@ -19,6 +19,46 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/rumors",
  "items": [
+  {
+   "id": "702ace99a8e9",
+   "type": "rumor",
+   "title": "Trade rumor: Steelers",
+   "summary": "Yahoo Sports passes along trade speculation involving the Steelers; treat it as unconfirmed until the team announces a move, touching on the Steelers' receivers and the trade deadline. Read the full story at Yahoo Sports.",
+   "url": "https://sports.yahoo.com/articles/pittsburgh-steelers-named-fit-30m-161714605.html",
+   "source": {
+    "name": "Yahoo Sports",
+    "url": null,
+    "reliability_tier": "National insider",
+    "reliability_score": 4
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-27T17:10:51+00:00",
+   "updated": "2026-10-27T17:10:51+00:00",
+   "published": "2026-10-27T16:17:14+00:00",
+   "people": [],
+   "consensus": {
+    "cluster_id": "5a0773cc79d1",
+    "independent_sources": 5,
+    "sources": [
+     "A to Z Sports",
+     "Heavy.com",
+     "Steelers Depot",
+     "Still Curtain",
+     "Yahoo Sports"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "c60d83ea0785",
+     "45c4bcc7cd1b",
+     "3f3271514107",
+     "9e37088de4c1",
+     "7fd46e561838",
+     "5a0773cc79d1"
+    ]
+   }
+  },
   {
    "id": "19b17cd62ac2",
    "type": "rumor",
@@ -53,7 +93,7 @@
   {
    "id": "fd9be22f39c9",
    "type": "rumor",
-   "title": "Trade rumor: Steelers",
+   "title": "Trade rumor: Steelers (Yahoo Sports)",
    "summary": "Yahoo Sports passes along trade speculation involving the Steelers; treat it as unconfirmed until the team announces a move, touching on the Steelers' receivers. Read the full story at Yahoo Sports.",
    "url": "https://sports.yahoo.com/articles/steelers-eyeing-semi-big-wide-153032704.html",
    "source": {
@@ -99,16 +139,18 @@
    "people": [],
    "consensus": {
     "cluster_id": "5a0773cc79d1",
-    "independent_sources": 4,
+    "independent_sources": 5,
     "sources": [
      "A to Z Sports",
      "Heavy.com",
      "Steelers Depot",
-     "Still Curtain"
+     "Still Curtain",
+     "Yahoo Sports"
     ],
-    "highest_tier": "Fan blog",
-    "highest_tier_score": 2,
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
     "related_ids": [
+     "702ace99a8e9",
      "45c4bcc7cd1b",
      "3f3271514107",
      "9e37088de4c1",
@@ -136,51 +178,16 @@
    "published": "2026-10-27T14:24:07+00:00",
    "people": [],
    "consensus": {
-    "cluster_id": "87aceeb400a8",
-    "independent_sources": 1,
+    "cluster_id": "4b5c44bb8063",
+    "independent_sources": 2,
     "sources": [
+     "AOL.co.uk",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
-    "related_ids": []
-   }
-  },
-  {
-   "id": "45c4bcc7cd1b",
-   "type": "rumor",
-   "title": "Trade rumor: Steelers (Heavy.com)",
-   "summary": "Heavy.com passes along trade speculation involving the Steelers; treat it as unconfirmed until the team announces a move, touching on the Steelers' receivers and the trade deadline. Read the full story at Heavy.com.",
-   "url": "https://heavy.com/sports/nfl/pittsburgh-steelers/named-fit-joshua-palmer-receiver/",
-   "source": {
-    "name": "Heavy.com",
-    "url": null,
-    "reliability_tier": "Aggregator / other",
-    "reliability_score": 1
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-27T13:33:11+00:00",
-   "updated": "2026-10-27T13:33:11+00:00",
-   "published": "2026-10-27T13:17:14+00:00",
-   "people": [],
-   "consensus": {
-    "cluster_id": "5a0773cc79d1",
-    "independent_sources": 4,
-    "sources": [
-     "A to Z Sports",
-     "Heavy.com",
-     "Steelers Depot",
-     "Still Curtain"
-    ],
-    "highest_tier": "Fan blog",
-    "highest_tier_score": 2,
     "related_ids": [
-     "c60d83ea0785",
-     "3f3271514107",
-     "9e37088de4c1",
-     "7fd46e561838",
-     "5a0773cc79d1"
+     "4b5c44bb8063"
     ]
    }
   },
@@ -363,16 +370,18 @@
    ],
    "consensus": {
     "cluster_id": "5a0773cc79d1",
-    "independent_sources": 4,
+    "independent_sources": 5,
     "sources": [
      "A to Z Sports",
      "Heavy.com",
      "Steelers Depot",
-     "Still Curtain"
+     "Still Curtain",
+     "Yahoo Sports"
     ],
-    "highest_tier": "Fan blog",
-    "highest_tier_score": 2,
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
     "related_ids": [
+     "702ace99a8e9",
      "c60d83ea0785",
      "45c4bcc7cd1b",
      "9e37088de4c1",
@@ -706,16 +715,18 @@
    "published": "2026-10-23T15:00:00+00:00",
    "people": [],
    "consensus": {
-    "cluster_id": "514b4160b9de",
-    "independent_sources": 2,
+    "cluster_id": "9817e54a5e1d",
+    "independent_sources": 3,
     "sources": [
+     "AOL.co.uk",
      "Athlon Sports",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "514b4160b9de"
+     "514b4160b9de",
+     "9817e54a5e1d"
     ]
    }
   },
@@ -834,16 +845,18 @@
    "people": [],
    "consensus": {
     "cluster_id": "5a0773cc79d1",
-    "independent_sources": 4,
+    "independent_sources": 5,
     "sources": [
      "A to Z Sports",
      "Heavy.com",
      "Steelers Depot",
-     "Still Curtain"
+     "Still Curtain",
+     "Yahoo Sports"
     ],
-    "highest_tier": "Fan blog",
-    "highest_tier_score": 2,
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
     "related_ids": [
+     "702ace99a8e9",
      "c60d83ea0785",
      "45c4bcc7cd1b",
      "3f3271514107",
@@ -873,16 +886,18 @@
     "Troy Polamalu's"
    ],
    "consensus": {
-    "cluster_id": "514b4160b9de",
-    "independent_sources": 2,
+    "cluster_id": "9817e54a5e1d",
+    "independent_sources": 3,
     "sources": [
+     "AOL.co.uk",
      "Athlon Sports",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "75724089f665"
+     "75724089f665",
+     "9817e54a5e1d"
     ]
    }
   }
