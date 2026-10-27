@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T19:27:49.099128+00:00",
+ "generated": "2026-10-27T19:38:48.765854+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -59,7 +59,7 @@
    "first_seen": "2026-10-27T18:29:01.878764+00:00",
    "own": 1,
    "consensus": {
-    "cluster_id": "3f3271514107",
+    "cluster_id": "9e37088de4c1",
     "independent_sources": 6,
     "sources": [
      "A to Z Sports",
@@ -76,6 +76,7 @@
      "c60d83ea0785",
      "45c4bcc7cd1b",
      "3f3271514107",
+     "9e37088de4c1",
      "7fd46e561838",
      "5a0773cc79d1"
     ]
@@ -160,7 +161,7 @@
    "first_seen": "2026-10-27T17:10:51.139507+00:00",
    "own": 1,
    "consensus": {
-    "cluster_id": "3f3271514107",
+    "cluster_id": "9e37088de4c1",
     "independent_sources": 6,
     "sources": [
      "A to Z Sports",
@@ -177,6 +178,7 @@
      "c60d83ea0785",
      "45c4bcc7cd1b",
      "3f3271514107",
+     "9e37088de4c1",
      "7fd46e561838",
      "5a0773cc79d1"
     ]
@@ -258,7 +260,7 @@
    "first_seen": "2026-10-27T15:25:25.271977+00:00",
    "own": 1,
    "consensus": {
-    "cluster_id": "3f3271514107",
+    "cluster_id": "9e37088de4c1",
     "independent_sources": 6,
     "sources": [
      "A to Z Sports",
@@ -275,6 +277,7 @@
      "702ace99a8e9",
      "45c4bcc7cd1b",
      "3f3271514107",
+     "9e37088de4c1",
      "7fd46e561838",
      "5a0773cc79d1"
     ]
@@ -456,47 +459,6 @@
    "own": 1
   },
   {
-   "id": "3f3271514107",
-   "title": "Trade rumor: Steelers (A to Z Sports)",
-   "source": "A to Z Sports",
-   "link": "https://atozsports.com/nfl/pittsburgh-steelers-news/pittsburgh-steelers-monitoring-brian-thomas-jr-trade-nfl-deadline-rumors/",
-   "published": "2026-10-26T13:00:00+00:00",
-   "summary": "A to Z Sports passes along trade speculation involving the Steelers; treat it as unconfirmed until the team announces a move, touching on the Steelers' receivers and the trade deadline. Read the full story at A to Z Sports.",
-   "tier": "Aggregator / other",
-   "tier_score": 1,
-   "subjects": [
-    "Pro Bowl"
-   ],
-   "status": "Rumor",
-   "status_note": null,
-   "status_link": null,
-   "first_seen": "2026-10-26T13:12:42.464242+00:00",
-   "consensus": {
-    "cluster_id": "3f3271514107",
-    "independent_sources": 6,
-    "sources": [
-     "A to Z Sports",
-     "Heavy.com",
-     "Steelers Depot",
-     "Steelers Now",
-     "Still Curtain",
-     "Yahoo Sports"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": [
-     "f70a13da10bb",
-     "702ace99a8e9",
-     "c60d83ea0785",
-     "45c4bcc7cd1b",
-     "7fd46e561838",
-     "5a0773cc79d1"
-    ]
-   },
-   "updated": "2026-10-26T13:12:42.464242+00:00",
-   "own": 1
-  },
-  {
    "id": "5a6d9de5e61f",
    "title": "Rumor watch: Aaron Rodgers",
    "source": "Bleacher Report",
@@ -524,6 +486,48 @@
    "own": 1
   },
   {
+   "id": "9e37088de4c1",
+   "title": "Trade rumor: Steelers (A to Z Sports)",
+   "source": "A to Z Sports",
+   "link": "https://atozsports.com/nfl/pittsburgh-steelers-news/pittsburgh-steelers-monitoring-brian-thomas-jr-trade-nfl-deadline-rumors/",
+   "published": "2026-10-25T16:59:55+00:00",
+   "summary": "A to Z Sports passes along trade speculation involving the Steelers; treat it as unconfirmed until the team announces a move, touching on the Steelers' receivers and the trade deadline. Read the full story at A to Z Sports.",
+   "tier": "Aggregator / other",
+   "tier_score": 1,
+   "subjects": [
+    "Pro Bowl"
+   ],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-27T19:38:48.765854+00:00",
+   "own": 1,
+   "consensus": {
+    "cluster_id": "9e37088de4c1",
+    "independent_sources": 6,
+    "sources": [
+     "A to Z Sports",
+     "Heavy.com",
+     "Steelers Depot",
+     "Steelers Now",
+     "Still Curtain",
+     "Yahoo Sports"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "f70a13da10bb",
+     "702ace99a8e9",
+     "c60d83ea0785",
+     "45c4bcc7cd1b",
+     "3f3271514107",
+     "7fd46e561838",
+     "5a0773cc79d1"
+    ]
+   },
+   "updated": "2026-10-27T19:38:48.765854+00:00"
+  },
+  {
    "id": "b3b86933a304",
    "title": "Trade rumor: Steelers (SteelerNation)",
    "source": "SteelerNation",
@@ -539,16 +543,13 @@
    "first_seen": "2026-10-24T21:18:21.512769+00:00",
    "consensus": {
     "cluster_id": "b3b86933a304",
-    "independent_sources": 2,
+    "independent_sources": 1,
     "sources": [
-     "SteelerNation",
-     "Yardbarker"
+     "SteelerNation"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": [
-     "5585acb90f77"
-    ]
+    "related_ids": []
    },
    "updated": "2026-10-24T21:18:21.512769+00:00",
    "own": 1
@@ -924,7 +925,7 @@
    "status_link": null,
    "first_seen": "2026-10-23T11:09:06.018743+00:00",
    "consensus": {
-    "cluster_id": "3f3271514107",
+    "cluster_id": "9e37088de4c1",
     "independent_sources": 6,
     "sources": [
      "A to Z Sports",
@@ -942,6 +943,7 @@
      "c60d83ea0785",
      "45c4bcc7cd1b",
      "3f3271514107",
+     "9e37088de4c1",
      "5a0773cc79d1"
     ]
    },

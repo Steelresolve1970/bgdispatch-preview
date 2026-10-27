@@ -1,6 +1,6 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-27T19:27:55+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T19:27:49+00:00._
+_Generated 2026-10-27T19:38:55+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T19:38:48+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
 - **Rumor** · tier: Beat writer / team · consensus: 6 source(s), top tier National insider
@@ -29,11 +29,11 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Rumor watch: Jaylen Warren and Aaron Rodgers](https://www.chatsports.com/pittsburgh-steelers/a/jaylen-warren-and-aaron-rodgers-spark-fresh-steelers-rumors-after-hot-start-53669): Chat Sports, first seen 2026-10-26 15:03 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Trade rumor: Steelers-Raiders](https://stillcurtain.com/pittsburgh-steelers-trade-deadline-opportunity-las-vegas-raiders-too-good-ignore-01m5jmnqexxg?utm_source=RSS): Still Curtain, first seen 2026-10-26 13:12 UTC
-- **Rumor** · tier: Aggregator / other · consensus: 6 source(s), top tier National insider
-  [Trade rumor: Steelers (A to Z Sports)](https://atozsports.com/nfl/pittsburgh-steelers-news/pittsburgh-steelers-monitoring-brian-thomas-jr-trade-nfl-deadline-rumors/): A to Z Sports, first seen 2026-10-26 13:12 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [Rumor watch: Aaron Rodgers](https://bleacherreport.com/articles/25520168-aaron-rodgers-shades-steelers-coaches-new-video-reportedly-called-some-plays-win-vs-saints): Bleacher Report, first seen 2026-10-25 19:04 UTC
-- **Rumor** · tier: Fan blog · consensus: 2 source(s), top tier Fan blog
+- **Rumor** · tier: Aggregator / other · consensus: 6 source(s), top tier National insider
+  [Trade rumor: Steelers (A to Z Sports)](https://atozsports.com/nfl/pittsburgh-steelers-news/pittsburgh-steelers-monitoring-brian-thomas-jr-trade-nfl-deadline-rumors/): A to Z Sports, first seen 2026-10-27 19:38 UTC
+- **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Trade rumor: Steelers (SteelerNation)](https://www.steelernation.com/2026/10/24/steelers-trade-targets-no-one-talks-about): SteelerNation, first seen 2026-10-24 21:18 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Trade rumor: Patrick Queen](https://www.chatsports.com/pittsburgh-steelers/a/steelers-rumors-should-pittsburgh-trade-patrick-queen-cowboys-53601): Chat Sports, first seen 2026-10-24 19:08 UTC
