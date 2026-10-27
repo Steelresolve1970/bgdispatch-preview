@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-27T01:48:19+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T01:48:01+00:00._
+_Generated 2026-10-27T02:00:01+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T01:59:43+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Patrick Queen Isn’t Getting Enough RESPECT 😤 #patrickqueen #steelers #nfl](https://www.youtube.com/shorts/KSJ30IAUOVU): Locked On Steelers, 2026-10-27 01:03 UTC
