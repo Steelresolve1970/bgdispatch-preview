@@ -1,8 +1,10 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-27T17:44:39+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T17:44:32+00:00._
+_Generated 2026-10-27T17:55:49+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T17:55:42+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
+- **Rumor** · tier: Aggregator / other · consensus: 2 source(s), top tier Aggregator / other
+  [Trade rumor: Ladd McConkey and Brian Thomas Jr.](https://www.yardbarker.com/nfl/articles/steelers_linked_with_chargers_ladd_mcconkey_jaguars_brian_thomas_jr_amid_trade_deadline_rumors/s1_13132_44480520): Yardbarker, first seen 2026-10-27 17:55 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Trade rumor: Brian Thomas Jr.](https://stillcurtain.com/pittsburgh-steelers-trade-deadline-big-board-new-name-brian-thomas-jr-01m5da93rcp5?utm_source=RSS): Still Curtain, first seen 2026-10-27 17:22 UTC
 - **Rumor** · tier: National insider · consensus: 4 source(s), top tier National insider
@@ -45,7 +47,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Trade rumor: Aaron Rodgers](https://sports.yahoo.com/articles/steelers-latest-trade-buzz-add-184548332.html): Yahoo Sports, first seen 2026-10-24 10:08 UTC
 - **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
   [Rumor watch: Aaron Rodgers (Yahoo Sports)](https://sports.yahoo.com/articles/steelers-bring-back-aaron-rodgers-160000327.html): Yahoo Sports, first seen 2026-10-23 16:52 UTC
-- **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
+- **Rumor** · tier: Aggregator / other · consensus: 2 source(s), top tier Aggregator / other
   [Trade rumor: Brian Thomas Jr. (Black and Teal)](https://blackandteal.com/steelers-could-be-a-dark-horse-trade-destination-for-jaguars-brian-thomas-jr-trai-essex): Black and Teal, first seen 2026-10-23 15:18 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 3 source(s), top tier National insider
   [Trade rumor: Steelers (Athlon Sports)](https://athlonsports.com/nfl/pittsburgh-steelers/steelers-again-linked-to-legends-nephew-with-trade-deadline-approaching): Athlon Sports, first seen 2026-10-23 15:18 UTC

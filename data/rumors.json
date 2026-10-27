@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T17:44:32.739125+00:00",
+ "generated": "2026-10-27T17:55:42.318017+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -43,6 +43,39 @@
   ]
  },
  "rumors": [
+  {
+   "id": "54c49b86af18",
+   "title": "Trade rumor: Ladd McConkey and Brian Thomas Jr.",
+   "source": "Yardbarker",
+   "link": "https://www.yardbarker.com/nfl/articles/steelers_linked_with_chargers_ladd_mcconkey_jaguars_brian_thomas_jr_amid_trade_deadline_rumors/s1_13132_44480520",
+   "published": "2026-10-27T17:45:31+00:00",
+   "summary": "Yardbarker passes along trade speculation involving Ladd McConkey and Brian Thomas Jr.; treat it as unconfirmed until the team announces a move, touching on the trade deadline. Read the full story at Yardbarker.",
+   "tier": "Aggregator / other",
+   "tier_score": 1,
+   "subjects": [
+    "Chargers' Ladd McConkey",
+    "Jaguars' Brian Thomas"
+   ],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-27T17:55:42.318017+00:00",
+   "own": 1,
+   "consensus": {
+    "cluster_id": "1e04876fbc52",
+    "independent_sources": 2,
+    "sources": [
+     "Black and Teal",
+     "Yardbarker"
+    ],
+    "highest_tier": "Aggregator / other",
+    "highest_tier_score": 1,
+    "related_ids": [
+     "1e04876fbc52"
+    ]
+   },
+   "updated": "2026-10-27T17:55:42.318017+00:00"
+  },
   {
    "id": "b030e7b7babc",
    "title": "Trade rumor: Brian Thomas Jr.",
@@ -101,6 +134,7 @@
     "related_ids": [
      "c60d83ea0785",
      "3f3271514107",
+     "9e37088de4c1",
      "7fd46e561838",
      "5a0773cc79d1"
     ]
@@ -195,6 +229,7 @@
     "related_ids": [
      "702ace99a8e9",
      "3f3271514107",
+     "9e37088de4c1",
      "7fd46e561838",
      "5a0773cc79d1"
     ]
@@ -405,6 +440,7 @@
     "related_ids": [
      "702ace99a8e9",
      "c60d83ea0785",
+     "9e37088de4c1",
      "7fd46e561838",
      "5a0773cc79d1"
     ]
@@ -690,13 +726,16 @@
    "first_seen": "2026-10-23T15:18:57.289683+00:00",
    "consensus": {
     "cluster_id": "1e04876fbc52",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
-     "Black and Teal"
+     "Black and Teal",
+     "Yardbarker"
     ],
     "highest_tier": "Aggregator / other",
     "highest_tier_score": 1,
-    "related_ids": []
+    "related_ids": [
+     "54c49b86af18"
+    ]
    },
    "updated": "2026-10-23T15:18:57.289683+00:00",
    "own": 1
@@ -851,6 +890,7 @@
      "702ace99a8e9",
      "c60d83ea0785",
      "3f3271514107",
+     "9e37088de4c1",
      "5a0773cc79d1"
     ]
    },
