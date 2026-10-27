@@ -1,11 +1,13 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-27T15:14:15+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T15:14:08+00:00._
+_Generated 2026-10-27T15:25:33+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T15:25:25+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
+- **Rumor** · tier: Fan blog · consensus: 4 source(s), top tier Fan blog
+  [Trade rumor: Steelers](https://steelersdepot.com/2026/10/nfl-insider-suggests-two-wide-receivers-steelers-could-pursue-ahead-of-trade-deadline/): Steelers Depot, first seen 2026-10-27 15:25 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
-  [Trade rumor: Steelers](https://www.aol.com/articles/steelers-linked-exciting-trade-first-142407000.html): AOL.com, first seen 2026-10-27 15:02 UTC
-- **Rumor** · tier: Aggregator / other · consensus: 3 source(s), top tier Fan blog
+  [Trade rumor: Steelers (AOL.com)](https://www.aol.com/articles/steelers-linked-exciting-trade-first-142407000.html): AOL.com, first seen 2026-10-27 15:02 UTC
+- **Rumor** · tier: Aggregator / other · consensus: 4 source(s), top tier Fan blog
   [Trade rumor: Steelers (Heavy.com)](https://heavy.com/sports/nfl/pittsburgh-steelers/named-fit-joshua-palmer-receiver/): Heavy.com, first seen 2026-10-27 13:33 UTC
 - **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
   [Trade rumor: Dalvin Tomlinson](https://sports.yahoo.com/articles/giants-trade-candidate-dt-dalvin-122209243.html): Yahoo Sports, first seen 2026-10-27 13:02 UTC
@@ -17,7 +19,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Rumor watch: Jaylen Warren and Aaron Rodgers](https://www.chatsports.com/pittsburgh-steelers/a/jaylen-warren-and-aaron-rodgers-spark-fresh-steelers-rumors-after-hot-start-53669): Chat Sports, first seen 2026-10-26 15:03 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Trade rumor: Steelers-Raiders](https://stillcurtain.com/pittsburgh-steelers-trade-deadline-opportunity-las-vegas-raiders-too-good-ignore-01m5jmnqexxg?utm_source=RSS): Still Curtain, first seen 2026-10-26 13:12 UTC
-- **Rumor** · tier: Aggregator / other · consensus: 3 source(s), top tier Fan blog
+- **Rumor** · tier: Aggregator / other · consensus: 4 source(s), top tier Fan blog
   [Trade rumor: Steelers (A to Z Sports)](https://atozsports.com/nfl/pittsburgh-steelers-news/pittsburgh-steelers-monitoring-brian-thomas-jr-trade-nfl-deadline-rumors/): A to Z Sports, first seen 2026-10-26 13:12 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [Rumor watch: Aaron Rodgers](https://bleacherreport.com/articles/25520168-aaron-rodgers-shades-steelers-coaches-new-video-reportedly-called-some-plays-win-vs-saints): Bleacher Report, first seen 2026-10-25 19:04 UTC
@@ -47,7 +49,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Rumor watch: Steelers-Saints (Steelers Depot)](https://steelersdepot.com/2026/10/saints-week-7-friday-injury-report-two-starters-questionable/): Steelers Depot, first seen 2026-10-23 13:24 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Trade rumor: Steelers (Still Curtain) (Still Curtain)](https://stillcurtain.com/4-nfl-bottom-feeders-could-give-pittsburgh-steelers-a-trade-deadline-advantage-01m5j23dryvq?utm_source=RSS): Still Curtain, first seen 2026-10-23 12:15 UTC
-- **Rumor** · tier: Fan blog · consensus: 3 source(s), top tier Fan blog
+- **Rumor** · tier: Fan blog · consensus: 4 source(s), top tier Fan blog
   [Trade rumor: Steelers (Still Curtain) (Still Curtain) (Still Curtain)](https://stillcurtain.com/4-wide-receivers-pittsburgh-steelers-should-target-ahead-of-the-nfl-trade-deadline-01m5dnq2ch8t?utm_source=RSS): Still Curtain, first seen 2026-10-23 11:09 UTC
 - **Rumor** · tier: National insider · consensus: 3 source(s), top tier National insider
   [Trade rumor: Steelers (Yahoo Sports)](https://sports.yahoo.com/articles/steelers-linked-trade-troy-polamalus-090859602.html): Yahoo Sports, first seen 2026-10-23 10:05 UTC
