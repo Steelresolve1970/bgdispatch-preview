@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-27T02:43:23.283696+00:00",
+ "last_run": "2026-10-27T02:57:09.063469+00:00",
  "results": [
   {
    "fetcher": "apply_grade_edits.py",
@@ -10,7 +10,7 @@
   {
    "fetcher": "fetch_news.py",
    "ok": true,
-   "seconds": 7.0,
+   "seconds": 6.5,
    "last_line": "news: 150 ticker: 30"
   },
   {
@@ -28,7 +28,7 @@
   {
    "fetcher": "build_boxscores.py",
    "ok": true,
-   "seconds": 2.5,
+   "seconds": 3.0,
    "last_line": "boxscores 7"
   },
   {
@@ -40,19 +40,19 @@
   {
    "fetcher": "fetch_film.py",
    "ok": true,
-   "seconds": 22.0,
+   "seconds": 39.0,
    "last_line": "  Week 1 vs Falcons (W 20-13): 2   {'Steelers Depot Film Room (Alex Kozora)': 1, \"Derrick Bell \u2013 DB's Film Room (Steelers Now)\": 1}"
   },
   {
    "fetcher": "fetch_podcasts.py",
    "ok": true,
-   "seconds": 7.0,
-   "last_line": "episodes past 5 days: 109 | embed-fallback channels: 0 | post-game: 8"
+   "seconds": 24.0,
+   "last_line": "episodes past 5 days: 108 | embed-fallback channels: 1 | post-game: 8"
   },
   {
    "fetcher": "fetch_featured.py",
    "ok": true,
-   "seconds": 1.0,
+   "seconds": 1.5,
    "last_line": "highlights New Orleans Saints Pittsburgh Steelers vs. New Orleans Saints Game Highlights | 2026 NFL Season Week 7"
   },
   {
@@ -65,13 +65,13 @@
    "fetcher": "fetch_stats.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "team stats 20 players 43 pools {'offense:passing': 62, 'offense:rushing': 241, 'offense:receiving': 397, 'defense': 1146}"
+   "last_line": "stats fresh; skipped"
   },
   {
    "fetcher": "build_leaders.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "leaders team 20 player 18 sizes {'pass_yds': 45, 'ypa': 34, 'pass_td': 45, 'int_thrown': 45, 'passer_rtg': 34, 'rush_yds': 82, 'rush_td': 82, 'rec': 166, 'rec_yds': 166, 'rec_td': 166, 'yac': 166, 'tackles': 373, 'sacks': 285, 'tfl': 144, 'pd': 222, 'int': 114, 'ff': 154, 'fr': 109}"
+   "last_line": "leaders fresh; skipped"
   },
   {
    "fetcher": "fetch_draft.py",
@@ -82,7 +82,7 @@
   {
    "fetcher": "build_comps.py",
    "ok": true,
-   "seconds": 0.5,
+   "seconds": 1.0,
    "last_line": "comps 696 staff 61 pool 229"
   },
   {
@@ -113,7 +113,7 @@
    "fetcher": "fetch_hub.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "hub fresh (<30 min); skipped"
+   "last_line": "injuries 14 practice 4 opp CLE"
   },
   {
    "fetcher": "fetch_matchup.py",
@@ -124,7 +124,7 @@
   {
    "fetcher": "fetch_depth.py",
    "ok": true,
-   "seconds": 2.5,
+   "seconds": 3.0,
    "last_line": "depth units [('Offense', '3WR 1TE', 12), ('Defense', 'Base 3-4 D', 12), ('Special teams', 'Special Teams', 6)]"
   },
   {
@@ -172,19 +172,19 @@
   {
    "fetcher": "fetch_quotes.py",
    "ok": true,
-   "seconds": 1.5,
-   "last_line": "quotes: 5 kept from 128 articles"
+   "seconds": 2.0,
+   "last_line": "quotes: 5 kept from 129 articles"
   },
   {
    "fetcher": "build_machine.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "machine layer: {'news': 150, 'rumors': 33, 'injuries': 14, 'depth-chart': 28, 'schedule': 17, 'stats': 63, 'grades': 42, 'college': 20, 'insiders': 35, 'podcasts': 108, 'film': 2, 'draft': 521} md 13 feeds 5 jsonld 14"
+   "last_line": "machine layer: {'news': 150, 'rumors': 33, 'injuries': 14, 'depth-chart': 28, 'schedule': 17, 'stats': 63, 'grades': 42, 'college': 20, 'insiders': 35, 'podcasts': 107, 'film': 2, 'draft': 521} md 13 feeds 5 jsonld 14"
   },
   {
    "fetcher": "admin_stats.py",
    "ok": true,
-   "seconds": 2.5,
+   "seconds": 3.0,
    "last_line": "admin stats stored: today views 39 visits 16"
   }
  ]

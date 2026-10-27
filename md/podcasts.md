@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-27T02:43:20+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T02:43:02+00:00._
+_Generated 2026-10-27T02:57:05+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T02:56:46+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Patrick Queen Isn’t Getting Enough RESPECT 😤 #patrickqueen #steelers #nfl](https://www.youtube.com/shorts/KSJ30IAUOVU): Locked On Steelers, 2026-10-27 01:03 UTC
@@ -110,7 +110,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Steelers-Saints Aaron Rodgers' Chance to Finally Put Whole Offense Together | Blitzing Tyler Shough](https://podcasts.apple.com/us/podcast/steelers-saints-aaron-rodgers-chance-to-finally-put/id1140522532?i=1000797569075): Locked On Steelers, 2026-10-22 06:00 UTC
 - Podcast: [DK's Daily Shot of Steelers: Bienvenue à Paris!](https://podcasts.apple.com/us/podcast/dks-daily-shot-of-steelers-bienvenue-%C3%A0-paris/id1072021022?i=1000797584822): DK Pittsburgh Sports, 2026-10-22 05:18 UTC
 - Podcast: [Scout’s Eye with Matt Williamson: Concerning, but correctable](https://podcasts.apple.com/us/podcast/scouts-eye-with-matt-williamson-concerning-but/id1072021022?i=1000797568611): DK Pittsburgh Sports, 2026-10-22 05:15 UTC
-- Podcast: [Yinz Steel Believe: Are the Steelers Good Enough to Be Buyers at the Trade Deadline?](https://podcasts.apple.com/us/podcast/yinz-steel-believe-are-the-steelers-good-enough-to-be/id905962218?i=1000797805983): Steel Curtain Network (BTSC), 2026-10-22 02:45 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
