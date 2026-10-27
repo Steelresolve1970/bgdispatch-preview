@@ -1,10 +1,11 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-27T20:39:15+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T20:38:57+00:00._
+_Generated 2026-10-27T20:55:28+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T20:49:57+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [Drive10.27.26Hr1: Victory Tuesday](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-27-26hr1-mp3): SNR Drive, 2026-10-27 20:00 UTC
 - Video: [A Parisian proposal 🥹💍](https://www.youtube.com/shorts/iGnEwb9iKeU): Pittsburgh Steelers (official), 2026-10-27 19:59 UTC
+- Podcast: [Drive10.27.26Hr2: Around the NFL Week Seven](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-27-26hr2-around-the-nfl-week-seven): SNR Drive, 2026-10-27 19:59 UTC
 - Video: [Steelers' LB Grades](https://www.youtube.com/shorts/vZW_kxXt4OE): Steelers Almighty, 2026-10-27 19:54 UTC
 - Video: [Why this Steelers trade with Colts would make more sense than Quenton Nelson deal 😮 #nfl #steelers](https://www.youtube.com/shorts/36qxqPuUPMw): Still Curtain Podcast, 2026-10-27 19:53 UTC
 - Podcast: [Drive10.27.26Travel: Steelers Travel](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-27-26travel-mp3): SNR Drive, 2026-10-27 19:00 UTC

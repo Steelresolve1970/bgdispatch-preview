@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T20:38:41.872499+00:00",
+ "generated": "2026-10-27T20:49:42.373466+00:00",
  "count": 150,
  "sources": [
   {
@@ -29,8 +29,8 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "ok",
-   "steelers_items": 24
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "steelers_items": 0
   },
   {
    "source": "Still Curtain",
@@ -94,6 +94,14 @@
   }
  ],
  "items": [
+  {
+   "title": "Closer look: field conditions",
+   "source": "SteelerNation",
+   "link": "https://www.steelernation.com/2026/10/27/steelers-coveted-threat-waiting",
+   "published": "2026-10-27T20:42:13+00:00",
+   "summary": "SteelerNation takes a closer look at field conditions. Read the full story at SteelerNation.",
+   "id": "24f061e89b"
+  },
   {
    "title": "Steelers have short yardage option",
    "source": "Athlon Sports",
@@ -260,6 +268,15 @@
    "writer": "ai"
   },
   {
+   "title": "Perspective: Jalen Ramsey",
+   "source": "USA Today",
+   "link": "https://www.usatoday.com/story/sports/nfl/steelers/2026/10/27/inside-steelers-missteps-led-to-jalen-ramseys-tough-outing/92460881007/",
+   "published": "2026-10-27T18:25:00+00:00",
+   "via": "Google News",
+   "summary": "USA Today offers analysis and opinion on Jalen Ramsey. Read the full story at USA Today.",
+   "id": "bc4bd8cc7d"
+  },
+  {
    "title": "Steelers player notes teammate habit",
    "source": "SteelerNation",
    "link": "https://www.steelernation.com/2026/10/27/steelers-elandon-roberts-exposed-tyler-shough",
@@ -350,6 +367,25 @@
    "writer": "ai"
   },
   {
+   "title": "Rankings check: where the Steelers stand (USA Today)",
+   "source": "USA Today",
+   "link": "https://www.usatoday.com/story/sports/nfl/steelers/2026/10/27/steelers-espn-nfl-power-rankings-update-news/92457294007/",
+   "published": "2026-10-27T17:01:00+00:00",
+   "via": "Google News",
+   "summary": "USA Today ranks or compares teams and players, including the Steelers. Read the full story at USA Today.",
+   "id": "ede3db085c"
+  },
+  {
+   "title": "Steelers receive respect",
+   "source": "Athlon Sports",
+   "link": "https://athlonsports.com/nfl/pittsburgh-steelers/steelers-power-rankings-roundup-week-8-respect-for-the-steelers",
+   "published": "2026-10-27T17:00:00+00:00",
+   "via": "Google News",
+   "summary": "The Steelers are discussed in power rankings. Read the full story at Athlon Sports.",
+   "id": "f8f5fe1e67",
+   "writer": "ai"
+  },
+  {
    "title": "Update: Daylen Everette",
    "source": "SteelerNation",
    "link": "https://www.steelernation.com/2026/10/27/steelers-daylen-everette-lack-uncovered",
@@ -365,6 +401,15 @@
    "summary": "The Steelers play the Browns on Sunday. They meet for the second time this season. Read the full story at Behind the Steel Curtain.",
    "id": "13e021b6fa",
    "writer": "ai"
+  },
+  {
+   "title": "Perspective: Steelers",
+   "source": "USA Today",
+   "link": "https://www.usatoday.com/story/sports/nfl/steelers/2026/10/27/omar-khans-trench-vision-finally-transforming-steelers/92460437007/",
+   "published": "2026-10-27T16:53:00+00:00",
+   "via": "Google News",
+   "summary": "USA Today offers analysis and opinion on the Steelers. Read the full story at USA Today.",
+   "id": "24a10ec847"
   },
   {
    "title": "Alex Kemp referees Steelers game",
@@ -392,6 +437,15 @@
    "summary": "Inside linebackers had a strong performance in a Steelers win. Read the full story at Steelers Now.",
    "id": "35d757a449",
    "writer": "ai"
+  },
+  {
+   "title": "Trade talk: Steelers",
+   "source": "USA Today",
+   "link": "https://www.usatoday.com/story/sports/nfl/steelers/2026/10/27/steelers-nfl-trade-deadline-wide-receiver-2026-news-update/92457195007/",
+   "published": "2026-10-27T16:30:00+00:00",
+   "via": "Google News",
+   "summary": "USA Today covers trade talk involving the Steelers, touching on the Steelers' receivers. Read the full story at USA Today.",
+   "id": "d22f8e6c6b"
   },
   {
    "title": "Steelers may target players",
@@ -441,7 +495,7 @@
    "writer": "ai"
   },
   {
-   "title": "Perspective: Steelers",
+   "title": "Perspective: Steelers (Behind the Steel Curtain)",
    "source": "Behind the Steel Curtain",
    "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176985/steelers-news-how-real-is-the-steelers-5-2-start",
    "published": "2026-10-27T15:41:44+00:00",
@@ -491,6 +545,16 @@
    "published": "2026-10-27T15:15:49+00:00",
    "summary": "The Steelers are considering adding a wide receiver to boost their passing game and offense. Read the full story at Steelers Depot.",
    "id": "c60d83ea07",
+   "writer": "ai"
+  },
+  {
+   "title": "Steelers coach talks rookie",
+   "source": "Heavy.com",
+   "link": "https://heavy.com/sports/nfl/pittsburgh-steelers/mike-mccarthy-max-iheanachor-nfl-news-browns/",
+   "published": "2026-10-27T15:13:44+00:00",
+   "via": "Google News",
+   "summary": "A Steelers coach made a statement about a rookie. Read the full story at Heavy.com.",
+   "id": "50701f2f31",
    "writer": "ai"
   },
   {
@@ -565,16 +629,6 @@
    "id": "3ad9d492a9"
   },
   {
-   "title": "Steelers offense has weak link",
-   "source": "All Steelers (Sports Illustrated)",
-   "link": "https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-worst-offensive-lineman-surprising",
-   "published": "2026-10-27T14:00:03+00:00",
-   "summary": "The Steelers have a struggling lineman. The team's offense is affected. Read the full story at All Steelers (Sports Illustrated).",
-   "via": "Google News",
-   "id": "40a72ec854",
-   "writer": "ai"
-  },
-  {
    "title": "Steelers consider Anderson in pass game",
    "source": "Steelers Depot",
    "link": "https://steelersdepot.com/2026/10/spencer-anderson-viable-in-the-pass-game-steelers-want-you-to-believe/",
@@ -647,14 +701,6 @@
    "writer": "ai"
   },
   {
-   "title": "Closer look: the international game",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/27/steelers-surprises-unexpected-performances-and-missed-opportunities-in-paris/",
-   "published": "2026-10-27T13:11:45+00:00",
-   "summary": "Steel City Underground takes a closer look at the international game. Read the full story at Steel City Underground.",
-   "id": "cfface2910"
-  },
-  {
    "title": "Trade talk: Joey Porter Jr.",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/dallas-cowboys-joey-porter-jr-made-pittsburgh-steelers-feel-more-trade-pain-01m5ymsbjwgs?utm_source=RSS",
@@ -688,15 +734,6 @@
    "published": "2026-10-27T11:57:33+00:00",
    "summary": "Joe Haden comments on a mistake by defensive players. Read the full story at SteelerNation.",
    "id": "b3af562fcc",
-   "writer": "ai"
-  },
-  {
-   "title": "Steelers win with single touchdown",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/27/watch-darnell-washington-scores-steelers-only-touchdown-in-paris/",
-   "published": "2026-10-27T11:50:40+00:00",
-   "summary": "The Steelers secured a win with one touchdown. Darnell Washington scored it. Read the full story at Steel City Underground.",
-   "id": "f58487bddc",
    "writer": "ai"
   },
   {
@@ -789,15 +826,6 @@
    "writer": "ai"
   },
   {
-   "title": "Steelers find success blueprint",
-   "source": "SteelerNation",
-   "link": "https://www.steelernation.com/2026/10/26/steelers-mike-mccarthy-victory-saints",
-   "published": "2026-10-26T23:30:01+00:00",
-   "summary": "The Steelers are using a recent win as a model for success. Read the full story at SteelerNation.",
-   "id": "83995d95d6",
-   "writer": "ai"
-  },
-  {
    "title": "Draft watch: Steelers",
    "source": "Steelers Now",
    "link": "https://steelersnow.com/ex-nfl-scout-tabs-steelers-as-playoff-lock/",
@@ -887,11 +915,11 @@
   },
   {
    "title": "Steelers game broadcast info",
-   "source": "WTOL",
+   "source": "wtol.com",
    "link": "https://www.wtol.com/article/sports/nfl/cleveland-browns-pittsburgh-steelers-how-to-watch-nov-1/512-21e9c710-fe32-4fcd-a15b-4e63c0d3e5a2",
    "published": "2026-10-26T20:02:00+00:00",
    "via": "Google News",
-   "summary": "The Steelers play the Browns. Broadcast details are available. Read the full story at WTOL.",
+   "summary": "The Steelers play the Browns. Broadcast details are available. Read the full story at wtol.com.",
    "id": "db1e382c69",
    "writer": "ai"
   },
@@ -1012,14 +1040,6 @@
    "id": "77f6ad8a35"
   },
   {
-   "title": "Game review: takeaways",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/26/steelers-takeaways-defense-and-running-game-deliver-another-victory-in-paris/",
-   "published": "2026-10-26T13:35:33+00:00",
-   "summary": "Steel City Underground looks back at the game, with a focus on the Steelers, touching on the Steelers' run game and the Steelers' defense. Read the full story at Steel City Underground.",
-   "id": "da451f7798"
-  },
-  {
    "title": "Mike McCarthy handles Steelers trip",
    "source": "TribLive",
    "link": "https://triblive.com/sports/cup-of-joe-starkey-mike-mccarthy-managed-the-steelers-paris-trip-and-game-quite-nicely/",
@@ -1066,15 +1086,6 @@
    "writer": "ai"
   },
   {
-   "title": "Steelers defense makes key play",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/26/payton-wilsons-interception-stops-saints-second-half-scoring-threat/",
-   "published": "2026-10-26T11:46:13+00:00",
-   "summary": "The Steelers defense stopped a Saints scoring threat. The defense helped the team win. Read the full story at Steel City Underground.",
-   "id": "1edb3d9827",
-   "writer": "ai"
-  },
-  {
    "title": "Saints fans react to loss",
    "source": "TribLive",
    "link": "https://triblive.com/sports/steelers-vs-saints-what-theyre-saying-in-new-orleans-after-loss-2/",
@@ -1109,6 +1120,16 @@
    "published": "2026-10-26T10:00:00+00:00",
    "summary": "The Steelers won in Paris, beating the Saints. Read the full story at TribLive.",
    "id": "c7992b025f",
+   "writer": "ai"
+  },
+  {
+   "title": "Steelers receive message",
+   "source": "A to Z Sports",
+   "link": "https://atozsports.com/nfl/pittsburgh-steelers-news/aaron-rodgers-says-steelers-offense-not-good-enough-against-saints/",
+   "published": "2026-10-26T10:00:00+00:00",
+   "via": "Google News",
+   "summary": "A message was sent to Omar Khan. It concerns the Steelers. Read the full story at A to Z Sports.",
+   "id": "6c484fbc2d",
    "writer": "ai"
   },
   {
@@ -1288,15 +1309,6 @@
    "writer": "ai"
   },
   {
-   "title": "Saints game review: the result",
-   "source": "New Orleans Saints | NewOrleansSaints.com",
-   "link": "https://www.neworleanssaints.com/news/2026-nfl-week-7-pittsburgh-steelers-vs-new-orleans-saints-halftime-update",
-   "published": "2026-10-25T15:50:34+00:00",
-   "via": "Google News",
-   "summary": "New Orleans Saints | NewOrleansSaints.com looks back at the game, with a focus on the Steelers and the Saints. For context, the Steelers beat the Saints in Week 7. Read the full story at New Orleans Saints | NewOrleansSaints.com.",
-   "id": "6dbe9c713d"
-  },
-  {
    "title": "Referee questions call on strip sack",
    "source": "PennLive (Nick Farabaugh)",
    "link": "https://www.pennlive.com/steelers/2026/10/former-nfl-referee-surprised-officials-overturned-huge-near-tj-watt-strip-sack.html",
@@ -1360,6 +1372,16 @@
    "id": "b9d07b3974"
   },
   {
+   "title": "Saints list inactive players",
+   "source": "New Orleans Saints | NewOrleansSaints.com",
+   "link": "https://www.neworleanssaints.com/news/new-orleans-saints-inactives-pittsburgh-steelers-2026-nfl-week-7-gameday",
+   "published": "2026-10-25T12:11:07+00:00",
+   "via": "Google News",
+   "summary": "The Saints announce inactives for a game. Read the full story at New Orleans Saints | NewOrleansSaints.com.",
+   "id": "8524862486",
+   "writer": "ai"
+  },
+  {
    "title": "Steelers announce inactive players",
    "source": "Steelers.com (official)",
    "link": "https://www.steelers.com/news/steelers-inactives-for-week-7-at-saints",
@@ -1369,40 +1391,12 @@
    "writer": "ai"
   },
   {
-   "title": "Steelers news recap",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/25/scu-week-in-review-october-25th-2/",
-   "published": "2026-10-25T10:40:18+00:00",
-   "summary": "Steel City Underground recaps the week's articles and videos. Read the full story at Steel City Underground.",
-   "id": "1fad850306",
-   "writer": "ai"
-  },
-  {
    "title": "Steelers player not from France",
    "source": "Steelers.com (official)",
    "link": "https://www.steelers.com/news/asked-and-answered-oct-25-x9987",
    "published": "2026-10-25T10:05:00+00:00",
    "summary": "A Steelers player has a french nickname despite not being from France. Read the full story at Steelers.com (official).",
    "id": "711f58947b",
-   "writer": "ai"
-  },
-  {
-   "title": "Buccaneers game preview: what to know",
-   "source": "Tampa Bay Buccaneers",
-   "link": "https://www.buccaneers.com/video/full-game-highlights-steelers-bucs-loss-score-26-19-week-6",
-   "published": "2026-10-25T09:34:38+00:00",
-   "via": "Google News",
-   "summary": "Tampa Bay Buccaneers looks ahead to the game, with a focus on the Steelers and the Buccaneers. Read the full story at Tampa Bay Buccaneers.",
-   "id": "755dae39d0"
-  },
-  {
-   "title": "Steelers play Saints in Paris (CBS News)",
-   "source": "CBS News",
-   "link": "https://www.cbsnews.com/pittsburgh/news/how-to-watch-today-pittsburgh-steelers-new-orleans-saints-paris-france-week-7-nfl-schedule/",
-   "published": "2026-10-25T09:00:00+00:00",
-   "via": "Google News",
-   "summary": "The Steelers face the Saints in an international game. Read the full story at CBS News.",
-   "id": "9341af1be1",
    "writer": "ai"
   },
   {
@@ -1448,6 +1442,15 @@
    "published": "2026-10-24T18:04:33+00:00",
    "summary": "The Steelers may add a wide receiver. The team is a good fit for the player. Read the full story at Still Curtain.",
    "id": "a115318923",
+   "writer": "ai"
+  },
+  {
+   "title": "Steelers fans visit Paris",
+   "source": "TribLive",
+   "link": "https://triblive.com/sports/despite-protests-steelers-fans-enjoy-paris-sights-ahead-of-game-against-saints/",
+   "published": "2026-10-24T17:25:04+00:00",
+   "summary": "Steelers fans are in Paris. They are seeing the sights. Read the full story at TribLive.",
+   "id": "c4587f8d40",
    "writer": "ai"
   }
  ],
