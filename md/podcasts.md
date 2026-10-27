@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-27T00:38:12+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T00:37:54+00:00._
+_Generated 2026-10-27T00:49:07+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T00:48:50+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Steelers' WR Grades](https://www.youtube.com/shorts/FasE9o--yMg): Steelers Almighty, 2026-10-26 23:45 UTC
