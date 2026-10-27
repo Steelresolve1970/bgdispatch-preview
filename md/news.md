@@ -1,8 +1,9 @@
 # Steelers News
 
-_Generated 2026-10-27T21:06:22+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T21:05:49+00:00._
+_Generated 2026-10-27T21:17:15+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T21:16:42+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Update: Cameron Heyward](https://steelersdepot.com/2026/10/not-a-football-play-heyward-wants-nfl-to-ban-victory-formation/): Steelers Depot, 2026-10-27 21:15 UTC
 - [Browns game preview: how it was won](https://athlonsports.com/nfl/pittsburgh-steelers/top-graded-steelers-entering-week-8-vs-browns): Athlon Sports, 2026-10-27 21:00 UTC
 - [Browns game preview: Cameron Heyward](https://steelersnow.com/cam-heyward-sends-blunt-message-to-the-browns/): Steelers Now, 2026-10-27 20:52 UTC
 - [Closer look: field conditions](https://www.steelernation.com/2026/10/27/steelers-coveted-threat-waiting): SteelerNation, 2026-10-27 20:42 UTC
@@ -66,7 +67,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Update: Mike McCarthy and Spencer Anderson](https://stillcurtain.com/mike-mccarthy-brought-back-a-pittsburgh-steelers-2025-staple-to-get-spencer-anderson-reps-01m5xfpdsb01?utm_source=RSS): Still Curtain, 2026-10-27 14:00 UTC
 - [Rams game preview: betting odds](https://www.cbssports.com/betting/news/week-8-2026-nfl-odds-picks-predictions/): CBS Sports, 2026-10-27 13:53 UTC
 - [Steelers quarterback showing youthful energy](https://steelersdepot.com/2026/10/he-looks-young-aaron-rodgers-turning-back-clock-thinks-former-qb/): Steelers Depot, 2026-10-27 13:45 UTC
-- [Steelers dominate Saints upfront](https://steelersdepot.com/2026/10/watch-zach-frazier-mason-mccormick-bully-saints-in-elite-performance/): Steelers Depot, 2026-10-27 13:30 UTC
 - [Steelers dispute call](https://www.steelernation.com/2026/10/27/steelers-james-harrison-brazen-tj-watt): SteelerNation, 2026-10-27 13:28 UTC
 - [Steelers considered for receiver](https://heavy.com/sports/nfl/pittsburgh-steelers/named-fit-joshua-palmer-receiver/): Heavy.com, 2026-10-27 13:17 UTC
 - [New Orleans Saints news](https://www.neworleanssaints.com/news/five-things-to-know-about-the-new-orleans-saints-bye-week-8-tuesday-october-27): New Orleans Saints | NewOrleansSaints.com, 2026-10-27 13:17 UTC

@@ -1,6 +1,6 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-27T21:06:22+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T21:06:15+00:00._
+_Generated 2026-10-27T21:17:15+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T21:17:09+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
@@ -15,7 +15,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Trade rumor: Steelers (Yahoo Sports)](https://sports.yahoo.com/articles/pittsburgh-steelers-named-fit-30m-161714605.html): Yahoo Sports, first seen 2026-10-27 17:10 UTC
 - **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
   [Rumor watch: Steelers](https://sports.yahoo.com/articles/three-rivers-report-real-steelers-154144189.html): Yahoo Sports, first seen 2026-10-27 15:47 UTC
-- **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
+- **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
   [Trade rumor: Steelers (Yahoo Sports) (Yahoo Sports)](https://sports.yahoo.com/articles/steelers-eyeing-semi-big-wide-153032704.html): Yahoo Sports, first seen 2026-10-27 15:47 UTC
 - **Rumor** · tier: Fan blog · consensus: 6 source(s), top tier National insider
   [Trade rumor: Steelers (Steelers Depot)](https://steelersdepot.com/2026/10/nfl-insider-suggests-two-wide-receivers-steelers-could-pursue-ahead-of-trade-deadline/): Steelers Depot, first seen 2026-10-27 15:25 UTC
