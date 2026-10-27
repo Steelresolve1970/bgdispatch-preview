@@ -1,6 +1,6 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-27T15:47:51+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T15:47:42+00:00._
+_Generated 2026-10-27T15:58:52+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T15:58:46+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
 - **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
@@ -32,7 +32,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Trade rumor: Patrick Queen](https://www.chatsports.com/pittsburgh-steelers/a/steelers-rumors-should-pittsburgh-trade-patrick-queen-cowboys-53601): Chat Sports, first seen 2026-10-24 19:08 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
-  [Trade rumor: Steelers (Steelers Depot)](https://steelersdepot.com/2026/10/three-non-wr-positions-the-steelers-could-trade-for/): Steelers Depot, first seen 2026-10-24 16:36 UTC
+  [Trade rumor: Steelers (Steelers Depot) (Steelers Depot)](https://steelersdepot.com/2026/10/three-non-wr-positions-the-steelers-could-trade-for/): Steelers Depot, first seen 2026-10-24 16:36 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [Trade rumor: Brian Thomas Jr.](https://bolavip.com/en/nfl/report-chiefs-steelers-show-interest-in-jaguars-wr-brian-thomas-jr-ahead-of-trade-deadline): Bolavip US, first seen 2026-10-24 19:19 UTC
 - **Rumor** · tier: Fan blog · consensus: 2 source(s), top tier Fan blog

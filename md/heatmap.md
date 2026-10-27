@@ -1,6 +1,6 @@
 # Steelers Player Grades (Heat Map)
 
-_Generated 2026-10-27T15:47:51+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T13:30:00+00:00._
+_Generated 2026-10-27T15:58:52+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-25T13:30:00+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/grades.json_
 
 Week 7: at New Orleans Saints (16-10). Grade = stats grade (box score, see GRADES.md) until a player has 25 fan votes, then fan grade.
