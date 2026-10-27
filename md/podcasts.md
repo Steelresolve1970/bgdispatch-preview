@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-27T19:38:55+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T19:38:36+00:00._
+_Generated 2026-10-27T19:50:00+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T19:49:38+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Defense, but make it 𝓬𝓲𝓷𝓮𝓶𝓪𝓽𝓲𝓬 📺: #CLEvsPIT 11/1 at 1 PM ET on CBS](https://www.youtube.com/shorts/4gmjLsMJUCA): Pittsburgh Steelers (official), 2026-10-27 18:53 UTC

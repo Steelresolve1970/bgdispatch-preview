@@ -1,16 +1,16 @@
 {
- "last_run": "2026-10-27T19:38:57.723351+00:00",
+ "last_run": "2026-10-27T19:50:04.293988+00:00",
  "results": [
   {
    "fetcher": "apply_grade_edits.py",
    "ok": true,
-   "seconds": 1.0,
+   "seconds": 0.5,
    "last_line": "no grade edits"
   },
   {
    "fetcher": "fetch_news.py",
    "ok": true,
-   "seconds": 5.0,
+   "seconds": 8.0,
    "last_line": "news: 150 ticker: 30"
   },
   {
@@ -28,7 +28,7 @@
   {
    "fetcher": "build_boxscores.py",
    "ok": true,
-   "seconds": 4.5,
+   "seconds": 3.5,
    "last_line": "boxscores 7"
   },
   {
@@ -113,18 +113,18 @@
    "fetcher": "fetch_hub.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "injuries 14 practice 2 opp CLE"
+   "last_line": "hub fresh (<30 min); skipped"
   },
   {
    "fetcher": "fetch_matchup.py",
    "ok": true,
-   "seconds": 0.5,
+   "seconds": 1.0,
    "last_line": "matchup: 2026_08_CLE_PIT keys 3 picks 0"
   },
   {
    "fetcher": "fetch_depth.py",
    "ok": true,
-   "seconds": 3.5,
+   "seconds": 7.0,
    "last_line": "depth units [('Offense', '3WR 1TE', 12), ('Defense', 'Base 3-4 D', 12), ('Special teams', 'Special Teams', 6)]"
   },
   {
@@ -142,7 +142,7 @@
   {
    "fetcher": "fetch_rumors.py",
    "ok": true,
-   "seconds": 3.0,
+   "seconds": 2.5,
    "last_line": "rumors 30 {'Rumor': 30, 'Confirmed': 0, 'Denied': 0}"
   },
   {
@@ -172,7 +172,7 @@
   {
    "fetcher": "fetch_quotes.py",
    "ok": true,
-   "seconds": 1.0,
+   "seconds": 1.5,
    "last_line": "quotes: 5 kept from 128 articles"
   },
   {
@@ -190,7 +190,7 @@
   {
    "fetcher": "admin_stats.py",
    "ok": true,
-   "seconds": 2.0,
+   "seconds": 3.0,
    "last_line": "admin stats stored: today views 30 visits 15"
   }
  ]

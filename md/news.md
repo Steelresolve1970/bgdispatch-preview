@@ -1,8 +1,9 @@
 # Steelers News
 
-_Generated 2026-10-27T19:38:55+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T19:38:19+00:00._
+_Generated 2026-10-27T19:50:00+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T19:49:21+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Former quarterback optimistic about Steelers](https://steelersdepot.com/2026/10/they-always-know-how-to-get-it-done-kordell-stewart-thinks-steelers-have-chance-to-be-very-good/): Steelers Depot, 2026-10-27 19:45 UTC
 - [Steelers win in Paris](https://steelersdepot.com/2026/10/it-was-the-right-call-charlie-batch-agrees-with-officials-overturning-t-j-watts-forced-fumble/): Steelers Depot, 2026-10-27 19:30 UTC
 - [Steelers defense has successful Week](https://steelersdepot.com/2026/10/elandon-roberts-shares-motivational-message-he-gave-steelers-linebackers/): Steelers Depot, 2026-10-27 19:15 UTC
 - [Steelers interested in speedy receiver](https://heavy.com/sports/nfl/pittsburgh-steelers/ladd-mcconkey-nfl-news-trade-deadline-rumors-chargers/): Heavy.com, 2026-10-27 19:13 UTC
@@ -68,7 +69,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Joe Haden criticizes defensive backs](https://www.steelernation.com/2026/10/27/steelers-joe-haden-mistake-saints): SteelerNation, 2026-10-27 11:57 UTC
 - [Steelers win with single touchdown](https://www.steelcityunderground.com/2026/10/27/watch-darnell-washington-scores-steelers-only-touchdown-in-paris/): Steel City Underground, 2026-10-27 11:50 UTC
 - [Coach comments on Steelers](https://triblive.com/sports/tim-benz-mike-mccarthy-says-what-most-of-us-have-been-thinking-about-the-steelers-run-through-october/): TribLive, 2026-10-27 11:50 UTC
-- [Kaden Wetjen shows improvement](https://steelersdepot.com/2026/10/steelers-stock-watch-2026-wr-kr-pr-kaden-wetjen/): Steelers Depot, 2026-10-27 11:00 UTC
 - [Steelers replace trees near stadium](https://steelersnow.com/steelers-replace-trees-removed-for-draft-at-acrisure-stadium/): Steelers Now, 2026-10-27 11:00 UTC
 - [NFL Expands Globally](https://www.steelers.com/news/asked-and-answered-oct-27-x3709): Steelers.com (official), 2026-10-27 10:05 UTC
 - [Browns prepare for Steelers](https://triblive.com/sports/first-call-browns-coach-tries-to-fix-flaw-before-steelers-game-ex-steelers-db-signs-with-ravens/): TribLive, 2026-10-27 10:04 UTC
