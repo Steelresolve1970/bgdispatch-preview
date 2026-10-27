@@ -1,8 +1,9 @@
 # Steelers News
 
-_Generated 2026-10-27T10:17:24+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T10:16:46+00:00._
+_Generated 2026-10-27T10:56:56+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T10:30:47+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Steelers receiver DK Metcalf struggling](https://steelersdepot.com/2026/10/dulac-says-steelers-must-give-up-on-25-75-combat-catches-to-dk-metcalf-thats-not-george-pickens-out-there/): Steelers Depot, 2026-10-27 10:20 UTC
 - [NFL Expands Globally](https://www.steelers.com/news/asked-and-answered-oct-27-x3709): Steelers.com (official), 2026-10-27 10:05 UTC
 - [Analysis: Steelers](https://stillcurtain.com/4-pittsburgh-steelers-trending-up-and-3-whose-stock-is-falling-fast-entering-week-8-01m5wpf8q3py?utm_source=RSS): Still Curtain, 2026-10-27 10:00 UTC
 - [Browns prepare for Steelers](https://sports.yahoo.com/articles/cleveland-browns-news-welcome-steeler-100000026.html): Yahoo Sports, 2026-10-27 10:00 UTC
@@ -68,7 +69,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers player loses sack](https://steelersnow.com/steelers-legend-rips-regs-for-robbing-tj-watt-vs-saints/): Steelers Now, 2026-10-26 19:01 UTC
 - [Aaron Rodgers talks international games](https://www.dazn.com/en-US/news/football/aaron-rodgers-international-nfl-games-pittsburgh-steelers-paris/u1vitbeubx8j1jp0xqjenstqi): DAZN, 2026-10-26 19:00 UTC
 - [Ravens add veteran safety](https://steelersdepot.com/2026/10/report-ravens-signing-just-released-steelers-safety/): Steelers Depot, 2026-10-26 18:57 UTC
-- [Steelers show improvement](https://steelersdepot.com/2026/10/an-underrated-team-gregg-rosenthal-thinks-steelers-ceiling-is-getting-a-little-higher/): Steelers Depot, 2026-10-26 18:45 UTC
 - [Steelers face new problem](https://www.steelernation.com/2026/10/26/steelers-likely-massive-issue): SteelerNation, 2026-10-26 18:27 UTC
 - [Browns game preview: Mike McCarthy](https://triblive.com/sports/watch-steelers-coach-mike-mccarthy-previews-week-8-matchup-with-browns/): TribLive, 2026-10-26 18:19 UTC
 - [NFL playoff forecast](https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/): The Athletic, 2026-10-26 18:05 UTC
@@ -130,7 +130,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers find success with tough style](https://www.pennlive.com/steelers/2026/10/the-steelers-brand-of-football-might-not-be-aesthetically-pleasing-but-it-works-heres-whyfarabaugh.html): PennLive (Nick Farabaugh), 2026-10-25 16:45 UTC
 - [Steelers win with strong ground attack](https://www.nytimes.com/athletic/7723123/2026/10/25/steelers-saints-paris-nfl-week-7-result-takeaways/): The Athletic, 2026-10-25 16:41 UTC
 - [Steelers running back makes big play](https://www.nfl.com/videos/rico-dowdle-dances-his-way-to-a-16-yard-gain): NFL.com, 2026-10-25 16:37 UTC
-- [Steelers show improvement (All Steelers (Sports Illustrated))](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-saints-takeaways-getting-dangerous): All Steelers (Sports Illustrated), 2026-10-25 16:36 UTC
+- [Steelers show improvement](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-saints-takeaways-getting-dangerous): All Steelers (Sports Illustrated), 2026-10-25 16:36 UTC
 - [Saints game review: how it was won](https://www.neworleanssaints.com/news/2026-nfl-week-7-pittsburgh-steelers-vs-new-orleans-saints-game-recap): New Orleans Saints | NewOrleansSaints.com, 2026-10-25 16:36 UTC
 - [Steelers win in Paris (TribLive)](https://triblive.com/sports/behind-jaylen-warrens-strong-performance-steelers-top-saints-in-paris-for-3rd-straight-win/): TribLive, 2026-10-25 16:35 UTC
 - [Steelers win in Paris (Steelers.com (official))](https://www.steelers.com/news/steelers-beat-saints-16-10-in-paris): Steelers.com (official), 2026-10-25 16:35 UTC

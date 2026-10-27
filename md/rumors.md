@@ -1,6 +1,6 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-27T10:17:24+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T10:17:17+00:00._
+_Generated 2026-10-27T10:56:56+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T10:56:50+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
@@ -27,7 +27,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Trade rumor: Brian Thomas Jr. (SteelerNation)](https://www.steelernation.com/2026/10/24/steelers-brian-thomas-jr-huge-step): SteelerNation, first seen 2026-10-24 16:14 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Trade rumor: Steelers (Steelers Depot) (Steelers Depot)](https://steelersdepot.com/2026/10/national-analyst-names-steelers-most-likely-trade-candidate/): Steelers Depot, first seen 2026-10-24 11:49 UTC
-- **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
+- **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
   [Trade rumor: Aaron Rodgers](https://sports.yahoo.com/articles/steelers-latest-trade-buzz-add-184548332.html): Yahoo Sports, first seen 2026-10-24 10:08 UTC
 - **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
   [Rumor watch: Aaron Rodgers (Yahoo Sports)](https://sports.yahoo.com/articles/steelers-bring-back-aaron-rodgers-160000327.html): Yahoo Sports, first seen 2026-10-23 16:52 UTC
