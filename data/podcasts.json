@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T01:23:08.448212+00:00",
+ "generated": "2026-10-27T01:35:20.991345+00:00",
  "date_et": "2026-10-26",
  "days": 5,
  "display_days": 2,
@@ -11,7 +11,7 @@
    "url": "https://rss.pdrl.fm/cd1f3b/feeds.simplecast.com/y_l5uReM",
    "status": "ok",
    "episodes": 500,
-   "week": 5,
+   "week": 4,
    "latest": "2026-10-25T22:09:56+00:00"
   },
   {
@@ -20,8 +20,8 @@
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7JorgD8nGLtvvMy1ogFetg",
    "status": "ok",
    "episodes": 15,
-   "week": 7,
-   "latest": "2026-10-26T05:45:34+00:00"
+   "week": 8,
+   "latest": "2026-10-27T01:03:20+00:00"
   },
   {
    "show": "The Terrible Podcast (Steelers Depot)",
@@ -81,7 +81,7 @@
    "show": "Still Curtain Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxjSNPLcRAVzDKOjhRwo-hQ",
-   "status": "error: HTTP Error 404: Not Found",
+   "status": "error: HTTP Error 500: Internal Server Error",
    "episodes": 0,
    "week": 2,
    "latest": null
@@ -99,10 +99,10 @@
    "show": "Steel City Underground",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDcNNAMkYr-DzH6_XL-0p8Q",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 500: Internal Server Error",
+   "episodes": 0,
    "week": 2,
-   "latest": "2026-10-26T13:15:18+00:00"
+   "latest": null
   },
   {
    "show": "Steelers Afternoon Drive",
@@ -189,10 +189,10 @@
    "show": "Nick Farabaugh on PennLive",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5yvng1eSgffmybUM-51fTw",
-   "status": "ok",
-   "episodes": 1,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 1,
-   "latest": "2026-10-24T18:08:40+00:00"
+   "latest": null
   },
   {
    "show": "Pittsburgh Steelers (official)",
@@ -216,10 +216,10 @@
    "show": "Not Just Football with Cam Heyward",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8hodyaoiw297aspKf9QVDA",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 5,
-   "latest": "2026-10-25T19:36:25+00:00"
+   "latest": null
   },
   {
    "show": "Footbahlin with Ben Roethlisberger",
@@ -250,6 +250,14 @@
   }
  ],
  "items": [
+  {
+   "title": "Patrick Queen Isn\u2019t Getting Enough RESPECT \ud83d\ude24 #patrickqueen #steelers #nfl",
+   "show": "Locked On Steelers",
+   "kind": "video",
+   "link": "https://www.youtube.com/shorts/KSJ30IAUOVU",
+   "published": "2026-10-27T01:03:20+00:00",
+   "summary": "Video from Locked On Steelers."
+  },
   {
    "title": "Steelers' WR Grades",
    "show": "Steelers Almighty",
@@ -370,7 +378,7 @@
    "title": "The Steelers Are ONE MOVE Away From Being Super Bowl Contenders?!",
    "show": "The Steel City Insider (Jim Wexell, 247Sports)",
    "kind": "podcast",
-   "link": "https://247sports.com/nfl/pittsburgh-steelers/",
+   "link": "https://podcasts.apple.com/us/podcast/the-steelers-are-one-move-away-from-being-super-bowl/id1623192893?i=1000798184529",
    "published": "2026-10-26T14:05:27+00:00",
    "summary": "Podcast episode from The Steel City Insider (Jim Wexell, 247Sports)."
   },
@@ -1117,14 +1125,6 @@
    "link": "https://podcasts.apple.com/us/podcast/yinz-steel-believe-are-the-steelers-good-enough-to-be/id905962218?i=1000797805983",
    "published": "2026-10-22T02:45:00+00:00",
    "summary": "Podcast episode from Steel Curtain Network (BTSC)."
-  },
-  {
-   "title": "STEELERS SQUAD SHOW: Offense MUST Improve as Jaylen Warren, Aaron Rodgers Prepare for Saints & Paris",
-   "show": "Locked On Steelers",
-   "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/steelers-squad-show-offense-must-improve-as-jaylen/id1140522532?i=1000797534707",
-   "published": "2026-10-22T01:33:43+00:00",
-   "summary": "Podcast episode from Locked On Steelers."
   }
  ],
  "yt_channels": [

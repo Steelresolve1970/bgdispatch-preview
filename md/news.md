@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-27T01:23:24+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T01:22:16+00:00._
+_Generated 2026-10-27T01:35:38+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T01:33:44+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Update: Darnell Washington](https://steelersdepot.com/2026/10/depot-after-dark-washington-after-td-wilson-credits-dl-snoop-dogg-happy-after-steelers-win/): Steelers Depot, 2026-10-27 01:00 UTC
@@ -78,7 +78,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers evaluate quarterback prospects](https://stillcurtain.com/pittsburgh-steelers-new-reason-question-2027-qb-draft-class-01m5w5mp43v2?utm_source=RSS): Still Curtain, 2026-10-26 15:02 UTC
 - [Steelers defense performs well](https://www.post-gazette.com/sports/steelers/2026/10/26/steelers-defense-nfl-paris-game/stories/202610260024): Pittsburgh Post-Gazette, 2026-10-26 15:00 UTC
 - [Steelers win game in Paris (UPI.com)](https://www.upi.com/Sports_News/Photos/NFL-Pittsburgh-Steelers-defeat-New-Orleans-Saints-in-Paris/17018/): UPI.com, 2026-10-26 15:00 UTC
-- [Steelers wear unique outfits](https://brobible.com/sports/article/pittsburgh-steelers-dressed-like-peaky-blinders/): BroBible, 2026-10-26 14:14 UTC
 - [Steelers defense shows promise](https://stillcurtain.com/pittsburgh-steelers-linebackers-payton-wilson-patrick-queen-finally-give-fans-reason-believe-01m5w5j7wegb?utm_source=RSS): Still Curtain, 2026-10-26 14:00 UTC
 - [Update: Aaron Rodgers (All Steelers (Sports Illustrated))](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-aaron-rodgers-farewell-tour-finally-begun): All Steelers (Sports Illustrated), 2026-10-26 14:00 UTC
 - [Game review: takeaways](https://www.steelcityunderground.com/2026/10/26/steelers-takeaways-defense-and-running-game-deliver-another-victory-in-paris/): Steel City Underground, 2026-10-26 13:35 UTC
@@ -130,6 +129,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Saints game review: the result](https://www.neworleanssaints.com/news/2026-nfl-week-7-pittsburgh-steelers-vs-new-orleans-saints-halftime-update): New Orleans Saints | NewOrleansSaints.com, 2026-10-25 15:50 UTC
 - [Referee questions call on strip sack](https://www.pennlive.com/steelers/2026/10/former-nfl-referee-surprised-officials-overturned-huge-near-tj-watt-strip-sack.html): PennLive (Nick Farabaugh), 2026-10-25 15:50 UTC
 - [Steelers player makes touchdown catch](https://www.nfl.com/videos/can-t-miss-play-darnell-washington-mosses-saints-defender-on-rodgers-4-yard-td-pass-in-paris): NFL.com, 2026-10-25 14:52 UTC
+- [Closer look: DK Metcalf and the international game](https://www.nfl.com/videos/can-t-miss-play-rodgers-51-yard-deep-ball-to-dk-metcalf-wows-the-crowd-in-paris): NFL.com, 2026-10-25 14:52 UTC
 - [Aaron Rodgers achieves milestone](https://www.steelers.com/news/rodgers-now-3rd-all-time-in-passing-tds): Steelers.com (official), 2026-10-25 14:45 UTC
 - [Steelers fans travel to Paris](https://triblive.com/sports/photo-gallery-fans-gather-at-stade-de-france-stadium-to-support-steelers/): TribLive, 2026-10-25 13:04 UTC
 - [Steelers play Saints in Paris](https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-at-new-orleans-saints-nfl-week-7-live-updates.html): PennLive (Nick Farabaugh), 2026-10-25 13:04 UTC

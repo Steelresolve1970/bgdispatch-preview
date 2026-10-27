@@ -2,8 +2,8 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-27T01:23:24+00:00",
- "data_updated": "2026-10-27T01:23:08+00:00",
+ "generated": "2026-10-27T01:35:38+00:00",
+ "data_updated": "2026-10-27T01:35:20+00:00",
  "count": 108,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
@@ -19,6 +19,19 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/podcasts",
  "items": [
+  {
+   "id": "1054e38d6b18381e",
+   "type": "video",
+   "title": "Patrick Queen Isn’t Getting Enough RESPECT 😤 #patrickqueen #steelers #nfl",
+   "show": "Locked On Steelers",
+   "url": "https://www.youtube.com/shorts/KSJ30IAUOVU",
+   "published": "2026-10-27T01:03:20+00:00",
+   "summary": "Video from Locked On Steelers.",
+   "source": {
+    "name": "Locked On Steelers",
+    "url": null
+   }
+  },
   {
    "id": "e13be49ff37bab0a",
    "type": "video",
@@ -189,11 +202,11 @@
    }
   },
   {
-   "id": "d7d6f5e4fe6a87a4",
+   "id": "6d94156d7a205207",
    "type": "podcast_episode",
    "title": "The Steelers Are ONE MOVE Away From Being Super Bowl Contenders?!",
    "show": "The Steel City Insider (Jim Wexell, 247Sports)",
-   "url": "https://247sports.com/nfl/pittsburgh-steelers/",
+   "url": "https://podcasts.apple.com/us/podcast/the-steelers-are-one-move-away-from-being-super-bowl/id1623192893?i=1000798184529",
    "published": "2026-10-26T14:05:27+00:00",
    "summary": "Podcast episode from The Steel City Insider (Jim Wexell, 247Sports).",
    "source": {
@@ -1407,19 +1420,6 @@
    "summary": "Podcast episode from Steel Curtain Network (BTSC).",
    "source": {
     "name": "Steel Curtain Network (BTSC)",
-    "url": null
-   }
-  },
-  {
-   "id": "7c00b90a2de55c62",
-   "type": "podcast_episode",
-   "title": "STEELERS SQUAD SHOW: Offense MUST Improve as Jaylen Warren, Aaron Rodgers Prepare for Saints & Paris",
-   "show": "Locked On Steelers",
-   "url": "https://podcasts.apple.com/us/podcast/steelers-squad-show-offense-must-improve-as-jaylen/id1140522532?i=1000797534707",
-   "published": "2026-10-22T01:33:43+00:00",
-   "summary": "Podcast episode from Locked On Steelers.",
-   "source": {
-    "name": "Locked On Steelers",
     "url": null
    }
   }
