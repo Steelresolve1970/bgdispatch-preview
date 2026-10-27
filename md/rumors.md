@@ -1,6 +1,6 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-27T21:28:16+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T21:28:09+00:00._
+_Generated 2026-10-27T21:39:11+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T21:39:05+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
@@ -45,7 +45,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Trade rumor: Steelers (Steelers Depot) (Steelers Depot)](https://steelersdepot.com/2026/10/three-non-wr-positions-the-steelers-could-trade-for/): Steelers Depot, first seen 2026-10-24 16:36 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [Trade rumor: Brian Thomas Jr. (Bolavip US)](https://bolavip.com/en/nfl/report-chiefs-steelers-show-interest-in-jaguars-wr-brian-thomas-jr-ahead-of-trade-deadline): Bolavip US, first seen 2026-10-24 19:19 UTC
-- **Rumor** · tier: Fan blog · consensus: 2 source(s), top tier Fan blog
+- **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Trade rumor: Brian Thomas Jr. (SteelerNation)](https://www.steelernation.com/2026/10/24/steelers-brian-thomas-jr-huge-step): SteelerNation, first seen 2026-10-24 16:14 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Trade rumor: Steelers (Steelers Depot) (Steelers Depot) (Steelers Depot)](https://steelersdepot.com/2026/10/national-analyst-names-steelers-most-likely-trade-candidate/): Steelers Depot, first seen 2026-10-24 11:49 UTC

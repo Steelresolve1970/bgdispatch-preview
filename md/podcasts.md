@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-27T21:28:16+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T21:27:58+00:00._
+_Generated 2026-10-27T21:39:11+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T21:38:54+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [Two New WR Trade Options Emerge for Steelers](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-27 21:21 UTC
@@ -107,7 +107,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Nu Leader on D-Line? | Steelers Afternoon Drive](https://www.youtube.com/watch?v=lnaN5WeNfUQ): Steelers Now, 2026-10-22 22:05 UTC
 - Podcast: [Saints and Steelers Set for Historic Paris Showdown: Key Matchups and Predictions](https://podcasts.apple.com/us/podcast/saints-and-steelers-set-for-historic-paris-showdown/id1072021022?i=1000797686669): DK Pittsburgh Sports, 2026-10-22 22:04 UTC
 - Podcast: [Nu Leader on D-Line? | Steelers Afternoon Drive](https://podcasts.apple.com/us/podcast/nu-leader-on-d-line-steelers-afternoon-drive/id1700240934?i=1000797686445): Steelers Afternoon Drive, 2026-10-22 22:03 UTC
-- Podcast: [T.J. Watt Injured Before Paris Game | Steelers Need New DT](https://podcasts.apple.com/us/podcast/t-j-watt-injured-before-paris-game-steelers-need-new-dt/id1627248534?i=1000797682697): All Steelers Talk, 2026-10-22 21:30 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
