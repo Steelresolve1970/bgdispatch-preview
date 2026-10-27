@@ -1,19 +1,19 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-27T17:33:34+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T17:33:27+00:00._
+_Generated 2026-10-27T17:44:39+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T17:44:32+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Trade rumor: Brian Thomas Jr.](https://stillcurtain.com/pittsburgh-steelers-trade-deadline-big-board-new-name-brian-thomas-jr-01m5da93rcp5?utm_source=RSS): Still Curtain, first seen 2026-10-27 17:22 UTC
 - **Rumor** · tier: National insider · consensus: 4 source(s), top tier National insider
   [Trade rumor: Steelers](https://sports.yahoo.com/articles/pittsburgh-steelers-named-fit-30m-161714605.html): Yahoo Sports, first seen 2026-10-27 17:10 UTC
-- **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
+- **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
   [Rumor watch: Steelers](https://sports.yahoo.com/articles/three-rivers-report-real-steelers-154144189.html): Yahoo Sports, first seen 2026-10-27 15:47 UTC
 - **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
   [Trade rumor: Steelers (Yahoo Sports)](https://sports.yahoo.com/articles/steelers-eyeing-semi-big-wide-153032704.html): Yahoo Sports, first seen 2026-10-27 15:47 UTC
 - **Rumor** · tier: Fan blog · consensus: 4 source(s), top tier National insider
   [Trade rumor: Steelers (Steelers Depot)](https://steelersdepot.com/2026/10/nfl-insider-suggests-two-wide-receivers-steelers-could-pursue-ahead-of-trade-deadline/): Steelers Depot, first seen 2026-10-27 15:25 UTC
-- **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
+- **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
   [Trade rumor: Steelers (Yahoo Sports) (Yahoo Sports)](https://sports.yahoo.com/articles/steelers-linked-exciting-trade-first-142407197.html): Yahoo Sports, first seen 2026-10-27 15:36 UTC
 - **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
   [Trade rumor: Dalvin Tomlinson](https://sports.yahoo.com/articles/giants-trade-candidate-dt-dalvin-122209243.html): Yahoo Sports, first seen 2026-10-27 13:02 UTC

@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T17:33:27.026760+00:00",
+ "generated": "2026-10-27T17:44:32.739125+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -61,16 +61,14 @@
    "first_seen": "2026-10-27T17:22:05.510304+00:00",
    "own": 1,
    "consensus": {
-    "cluster_id": "caefd6bce2be",
+    "cluster_id": "b030e7b7babc",
     "independent_sources": 1,
     "sources": [
      "Still Curtain"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": [
-     "caefd6bce2be"
-    ]
+    "related_ids": []
    },
    "updated": "2026-10-27T17:22:05.510304+00:00"
   },
@@ -103,7 +101,6 @@
     "related_ids": [
      "c60d83ea0785",
      "3f3271514107",
-     "9e37088de4c1",
      "7fd46e561838",
      "5a0773cc79d1"
     ]
@@ -128,14 +125,17 @@
    "first_seen": "2026-10-27T15:47:42.416402+00:00",
    "own": 1,
    "consensus": {
-    "cluster_id": "19b17cd62ac2",
-    "independent_sources": 1,
+    "cluster_id": "f85850ec176b",
+    "independent_sources": 2,
     "sources": [
+     "Behind the Steel Curtain",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
-    "related_ids": []
+    "related_ids": [
+     "f85850ec176b"
+    ]
    },
    "updated": "2026-10-27T15:47:42.416402+00:00"
   },
@@ -195,7 +195,6 @@
     "related_ids": [
      "702ace99a8e9",
      "3f3271514107",
-     "9e37088de4c1",
      "7fd46e561838",
      "5a0773cc79d1"
     ]
@@ -218,17 +217,14 @@
    "first_seen": "2026-10-27T15:36:34.341299+00:00",
    "own": 1,
    "consensus": {
-    "cluster_id": "0e25ebeff1e5",
-    "independent_sources": 2,
+    "cluster_id": "87aceeb400a8",
+    "independent_sources": 1,
     "sources": [
-     "AOL.com",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
-    "related_ids": [
-     "0e25ebeff1e5"
-    ]
+    "related_ids": []
    },
    "updated": "2026-10-27T15:36:34.341299+00:00"
   },
@@ -409,7 +405,6 @@
     "related_ids": [
      "702ace99a8e9",
      "c60d83ea0785",
-     "9e37088de4c1",
      "7fd46e561838",
      "5a0773cc79d1"
     ]
@@ -856,7 +851,6 @@
      "702ace99a8e9",
      "c60d83ea0785",
      "3f3271514107",
-     "9e37088de4c1",
      "5a0773cc79d1"
     ]
    },
