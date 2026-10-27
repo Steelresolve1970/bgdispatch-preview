@@ -1,6 +1,6 @@
 # Steelers News
 
-_Generated 2026-10-27T00:27:05+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T00:26:29+00:00._
+_Generated 2026-10-27T00:38:12+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T00:37:22+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
 - [Saints evaluate themselves](https://www.houstonchronicle.com/sports/article/saints-enter-a-pivotal-self-scout-week-as-they-22495758.php): Houston Chronicle, 2026-10-27 00:17 UTC
