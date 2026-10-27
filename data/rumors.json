@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T17:10:51.139507+00:00",
+ "generated": "2026-10-27T17:22:05.510304+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -44,6 +44,35 @@
  },
  "rumors": [
   {
+   "id": "b030e7b7babc",
+   "title": "Trade rumor: Brian Thomas Jr.",
+   "source": "Still Curtain",
+   "link": "https://stillcurtain.com/pittsburgh-steelers-trade-deadline-big-board-new-name-brian-thomas-jr-01m5da93rcp5?utm_source=RSS",
+   "published": "2026-10-27T17:19:50+00:00",
+   "summary": "Still Curtain passes along trade speculation involving Brian Thomas Jr.; treat it as unconfirmed until the team announces a move, touching on the trade deadline. Read the full story at Still Curtain.",
+   "tier": "Fan blog",
+   "tier_score": 2,
+   "subjects": [
+    "Brian Thomas Jr."
+   ],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-27T17:22:05.510304+00:00",
+   "own": 1,
+   "consensus": {
+    "cluster_id": "b030e7b7babc",
+    "independent_sources": 1,
+    "sources": [
+     "Still Curtain"
+    ],
+    "highest_tier": "Fan blog",
+    "highest_tier_score": 2,
+    "related_ids": []
+   },
+   "updated": "2026-10-27T17:22:05.510304+00:00"
+  },
+  {
    "id": "702ace99a8e9",
    "title": "Trade rumor: Steelers",
    "source": "Yahoo Sports",
@@ -60,10 +89,9 @@
    "own": 1,
    "consensus": {
     "cluster_id": "5a0773cc79d1",
-    "independent_sources": 5,
+    "independent_sources": 4,
     "sources": [
      "A to Z Sports",
-     "Heavy.com",
      "Steelers Depot",
      "Still Curtain",
      "Yahoo Sports"
@@ -72,9 +100,7 @@
     "highest_tier_score": 4,
     "related_ids": [
      "c60d83ea0785",
-     "45c4bcc7cd1b",
      "3f3271514107",
-     "9e37088de4c1",
      "7fd46e561838",
      "5a0773cc79d1"
     ]
@@ -99,14 +125,17 @@
    "first_seen": "2026-10-27T15:47:42.416402+00:00",
    "own": 1,
    "consensus": {
-    "cluster_id": "19b17cd62ac2",
-    "independent_sources": 1,
+    "cluster_id": "f85850ec176b",
+    "independent_sources": 2,
     "sources": [
+     "Behind the Steel Curtain",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
-    "related_ids": []
+    "related_ids": [
+     "f85850ec176b"
+    ]
    },
    "updated": "2026-10-27T15:47:42.416402+00:00"
   },
@@ -154,10 +183,9 @@
    "own": 1,
    "consensus": {
     "cluster_id": "5a0773cc79d1",
-    "independent_sources": 5,
+    "independent_sources": 4,
     "sources": [
      "A to Z Sports",
-     "Heavy.com",
      "Steelers Depot",
      "Still Curtain",
      "Yahoo Sports"
@@ -166,9 +194,7 @@
     "highest_tier_score": 4,
     "related_ids": [
      "702ace99a8e9",
-     "45c4bcc7cd1b",
      "3f3271514107",
-     "9e37088de4c1",
      "7fd46e561838",
      "5a0773cc79d1"
     ]
@@ -177,7 +203,7 @@
   },
   {
    "id": "87aceeb400a8",
-   "title": "Trade rumor: Steelers (Yahoo Sports)",
+   "title": "Trade rumor: Steelers (Yahoo Sports) (Yahoo Sports)",
    "source": "Yahoo Sports",
    "link": "https://sports.yahoo.com/articles/steelers-linked-exciting-trade-first-142407197.html",
    "published": "2026-10-27T14:24:07+00:00",
@@ -191,17 +217,14 @@
    "first_seen": "2026-10-27T15:36:34.341299+00:00",
    "own": 1,
    "consensus": {
-    "cluster_id": "4b5c44bb8063",
-    "independent_sources": 2,
+    "cluster_id": "87aceeb400a8",
+    "independent_sources": 1,
     "sources": [
-     "AOL.co.uk",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
-    "related_ids": [
-     "4b5c44bb8063"
-    ]
+    "related_ids": []
    },
    "updated": "2026-10-27T15:36:34.341299+00:00"
   },
@@ -370,10 +393,9 @@
    "first_seen": "2026-10-26T13:12:42.464242+00:00",
    "consensus": {
     "cluster_id": "5a0773cc79d1",
-    "independent_sources": 5,
+    "independent_sources": 4,
     "sources": [
      "A to Z Sports",
-     "Heavy.com",
      "Steelers Depot",
      "Still Curtain",
      "Yahoo Sports"
@@ -383,8 +405,6 @@
     "related_ids": [
      "702ace99a8e9",
      "c60d83ea0785",
-     "45c4bcc7cd1b",
-     "9e37088de4c1",
      "7fd46e561838",
      "5a0773cc79d1"
     ]
@@ -504,7 +524,7 @@
   },
   {
    "id": "805f664a84f1",
-   "title": "Trade rumor: Brian Thomas Jr.",
+   "title": "Trade rumor: Brian Thomas Jr. (Bolavip US)",
    "source": "Bolavip US",
    "link": "https://bolavip.com/en/nfl/report-chiefs-steelers-show-interest-in-jaguars-wr-brian-thomas-jr-ahead-of-trade-deadline",
    "published": "2026-10-24T16:16:03+00:00",
@@ -815,10 +835,9 @@
    "first_seen": "2026-10-23T11:09:06.018743+00:00",
    "consensus": {
     "cluster_id": "5a0773cc79d1",
-    "independent_sources": 5,
+    "independent_sources": 4,
     "sources": [
      "A to Z Sports",
-     "Heavy.com",
      "Steelers Depot",
      "Still Curtain",
      "Yahoo Sports"
@@ -828,9 +847,7 @@
     "related_ids": [
      "702ace99a8e9",
      "c60d83ea0785",
-     "45c4bcc7cd1b",
      "3f3271514107",
-     "9e37088de4c1",
      "5a0773cc79d1"
     ]
    },
