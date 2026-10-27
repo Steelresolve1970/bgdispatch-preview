@@ -1,6 +1,6 @@
 # Steelers Opponent Preview
 
-_Generated 2026-10-27T03:09:11+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T03:08:39+00:00._
+_Generated 2026-10-27T03:21:01+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T03:20:50+00:00._
 
 Week 8: Steelers vs **Cleveland Browns** (CLE 5-2), kickoff 2026-11-01 18:00 UTC, Acrisure Stadium.
 
@@ -28,7 +28,7 @@ Picks not posted yet; experts usually post Wednesday through Saturday.
 | Offense | Yards Passing | 217.6 (20) | 192.7 (24) |
 | Offense | Yards Rushing | 106.1 (20) | 106.7 (19) |
 | Offense | Yards Per Play | 5.07 (22) | 4.99 (23) |
-| Offense | Yards Per Carry | 4.64 (8) | 4.06 (18) |
+| Offense | Yards Per Carry | 4.64 (8) | 4.06 (19) |
 | Offense | Sacks Allowed Per Game | 3.14 (29) | 3.57 (32) |
 | Offense | Turnovers Per Game | 1.0 (12) | 1.29 (17) |
 | Defense | Points Allowed Per Game | 19.7 (5) | 20.9 (12) |
@@ -40,7 +40,7 @@ Picks not posted yet; experts usually post Wednesday through Saturday.
 | Defense | Sacks Per Game | 2.57 (9) | 2.86 (6) |
 | Defense | Takeaways Per Game | 1.57 (8) | 1.29 (14) |
 | Other | Turnover Margin | 4.0 (6) | 0.0 (16) |
-| Other | Penalty Yards Per Game | 52.4 (9) | 60.0 (17) |
+| Other | Penalty Yards Per Game | 52.4 (10) | 60.0 (17) |
 
 ## Browns key players
 - Passing Yards: Deshaun Watson (QB) 136/210, 1,482 YDS, 7 TD, 3 INT
