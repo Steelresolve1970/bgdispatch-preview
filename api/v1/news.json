@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "news",
  "description": "Steelers headlines from beat writers, national outlets and blogs, with our one-line summaries and links to the publisher.",
- "generated": "2026-10-27T14:01:56+00:00",
+ "generated": "2026-10-27T14:06:53+00:00",
  "data_updated": "2026-10-27T14:01:12+00:00",
- "count": 150,
+ "count": 131,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -163,32 +163,6 @@
    "retrieved": "2026-10-27T14:01:12+00:00"
   },
   {
-   "id": "01a94852a7dad0fc",
-   "type": "news",
-   "title": "Closer look: the international game (The Washington Post)",
-   "summary": "The Washington Post takes a closer look at the international game. Read the full story at The Washington Post.",
-   "url": "https://www.washingtonpost.com/opinions/2026/10/27/nfl-plans-paris-return-lets-imagine-how-that-might-go/",
-   "source": {
-    "name": "The Washington Post",
-    "url": null
-   },
-   "published": "2026-10-27T12:17:08+00:00",
-   "retrieved": "2026-10-27T14:01:12+00:00"
-  },
-  {
-   "id": "221fec8265859b5d",
-   "type": "news",
-   "title": "Steelers strong on lines",
-   "summary": "Team performance is discussed generally. Read the full story at Pittsburgh Post-Gazette.",
-   "url": "https://www.post-gazette.com/sports/steelers/2026/10/27/omar-khan-nfl-draft-linemen/stories/202610270011",
-   "source": {
-    "name": "Pittsburgh Post-Gazette",
-    "url": null
-   },
-   "published": "2026-10-27T12:00:15+00:00",
-   "retrieved": "2026-10-27T14:01:12+00:00"
-  },
-  {
    "id": "5f6835d0f02aa9c7",
    "type": "news",
    "title": "Steelers see improvement",
@@ -225,19 +199,6 @@
     "url": null
    },
    "published": "2026-10-27T12:00:03+00:00",
-   "retrieved": "2026-10-27T14:01:12+00:00"
-  },
-  {
-   "id": "3dbbb62208efd585",
-   "type": "news",
-   "title": "Steelers earn victories",
-   "summary": "The Steelers have wins. Read the full story at huntingdondailynews.com.",
-   "url": "https://www.huntingdondailynews.com/ap/sports/the-steelers-taking-their-wins/article_b45c2c48-8c09-5700-88df-4ad14325824d.html",
-   "source": {
-    "name": "huntingdondailynews.com",
-    "url": null
-   },
-   "published": "2026-10-27T12:00:00+00:00",
    "retrieved": "2026-10-27T14:01:12+00:00"
   },
   {
@@ -306,19 +267,6 @@
    "retrieved": "2026-10-27T14:01:12+00:00"
   },
   {
-   "id": "290e3cc1d382a7c4",
-   "type": "news",
-   "title": "Rankings check: where the Steelers stand",
-   "summary": "The Athletic ranks or compares teams and players, including the Steelers. Read the full story at The Athletic.",
-   "url": "https://www.nytimes.com/athletic/interactive/nfl-power-rankings-weekly-you-decide/week-8/",
-   "source": {
-    "name": "The Athletic",
-    "url": null
-   },
-   "published": "2026-10-27T10:30:51+00:00",
-   "retrieved": "2026-10-27T14:01:12+00:00"
-  },
-  {
    "id": "fccdf4526de58f71",
    "type": "news",
    "title": "Steelers receiver DK Metcalf struggling",
@@ -384,19 +332,6 @@
    "retrieved": "2026-10-27T14:01:12+00:00"
   },
   {
-   "id": "2da03fe7bc3b06c5",
-   "type": "news",
-   "title": "Steelers face shifting league landscape",
-   "summary": "Teams move up and down after losses. The Giants look strong. Read the full story at The Athletic.",
-   "url": "https://www.nytimes.com/athletic/7727004/2026/10/27/nfl-power-rankings-week-8-halloween-spooky/",
-   "source": {
-    "name": "The Athletic",
-    "url": null
-   },
-   "published": "2026-10-27T09:30:23+00:00",
-   "retrieved": "2026-10-27T14:01:12+00:00"
-  },
-  {
    "id": "fed18318a36ee964",
    "type": "news",
    "title": "Joe Starkey reflects on years",
@@ -433,19 +368,6 @@
     "url": null
    },
    "published": "2026-10-27T04:00:18+00:00",
-   "retrieved": "2026-10-27T14:01:12+00:00"
-  },
-  {
-   "id": "1b7071e7288f109a",
-   "type": "news",
-   "title": "Steelers playoff simulator available",
-   "summary": "The simulator is related to the Steelers and playoffs. Read the full story at The New York Times.",
-   "url": "https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/pittsburgh-steelers-season-projections/",
-   "source": {
-    "name": "The New York Times",
-    "url": null
-   },
-   "published": "2026-10-27T03:23:27+00:00",
    "retrieved": "2026-10-27T14:01:12+00:00"
   },
   {
@@ -706,19 +628,6 @@
     "url": null
    },
    "published": "2026-10-26T21:30:37+00:00",
-   "retrieved": "2026-10-27T14:01:12+00:00"
-  },
-  {
-   "id": "4498d44e1033c949",
-   "type": "news",
-   "title": "Steelers like backfield distribution",
-   "summary": "The Steelers are pleased with their running back touches. Read the full story at Pittsburgh Post-Gazette.",
-   "url": "https://www.post-gazette.com/sports/steelers/2026/10/26/jaylen-warren-rico-dowdle-carry-distribution/stories/202610260025",
-   "source": {
-    "name": "Pittsburgh Post-Gazette",
-    "url": null
-   },
-   "published": "2026-10-26T21:27:10+00:00",
    "retrieved": "2026-10-27T14:01:12+00:00"
   },
   {
@@ -1073,19 +982,6 @@
    "retrieved": "2026-10-27T14:01:12+00:00"
   },
   {
-   "id": "f98f40a546d02e99",
-   "type": "news",
-   "title": "NFL playoff forecast",
-   "summary": "The story covers NFL playoff outcomes and team forecasts. Read the full story at The Athletic.",
-   "url": "https://www.nytimes.com/athletic/interactive/nfl-playoff-picture-simulator-2026/",
-   "source": {
-    "name": "The Athletic",
-    "url": null
-   },
-   "published": "2026-10-26T18:05:13+00:00",
-   "retrieved": "2026-10-27T14:01:12+00:00"
-  },
-  {
    "id": "9f683fa780dd30cc",
    "type": "news",
    "title": "Aaron Rodgers talks recent game",
@@ -1138,19 +1034,6 @@
    "retrieved": "2026-10-27T14:01:12+00:00"
   },
   {
-   "id": "d741ecf8b53a54e8",
-   "type": "news",
-   "title": "Closer look: a reader Q&A",
-   "summary": "Pittsburgh Post-Gazette takes a closer look at a reader Q&A. Read the full story at Pittsburgh Post-Gazette.",
-   "url": "https://www.post-gazette.com/sports/steelers/2026/10/26/steelers-pitt-live-chat-nfl-paris/stories/202610260027",
-   "source": {
-    "name": "Pittsburgh Post-Gazette",
-    "url": null
-   },
-   "published": "2026-10-26T16:00:00+00:00",
-   "retrieved": "2026-10-27T14:01:12+00:00"
-  },
-  {
    "id": "c6ea5cb93e60745f",
    "type": "news",
    "title": "Steelers defense shows improvement",
@@ -1200,19 +1083,6 @@
     "url": null
    },
    "published": "2026-10-26T15:02:29+00:00",
-   "retrieved": "2026-10-27T14:01:12+00:00"
-  },
-  {
-   "id": "c6ef539e41240a08",
-   "type": "news",
-   "title": "Steelers defense performs well",
-   "summary": "The Steelers defense is playing effectively. It is making key plays to end games. Read the full story at Pittsburgh Post-Gazette.",
-   "url": "https://www.post-gazette.com/sports/steelers/2026/10/26/steelers-defense-nfl-paris-game/stories/202610260024",
-   "source": {
-    "name": "Pittsburgh Post-Gazette",
-    "url": null
-   },
-   "published": "2026-10-26T15:00:00+00:00",
    "retrieved": "2026-10-27T14:01:12+00:00"
   },
   {
@@ -1411,32 +1281,6 @@
    "retrieved": "2026-10-27T14:01:12+00:00"
   },
   {
-   "id": "758caaf8030823c8",
-   "type": "news",
-   "title": "Several teams exceed expectations",
-   "summary": "The Steelers and Browns lead the AFC North. The Vikings are unbeaten. Read the full story at The Athletic.",
-   "url": "https://www.nytimes.com/athletic/7725854/2026/10/26/nfl-week-7-steelers-giants-vikings-browns/",
-   "source": {
-    "name": "The Athletic",
-    "url": null
-   },
-   "published": "2026-10-26T09:30:27+00:00",
-   "retrieved": "2026-10-27T14:01:12+00:00"
-  },
-  {
-   "id": "f115c9042c9e9ec3",
-   "type": "news",
-   "title": "Steelers running game shows promise",
-   "summary": "The Steelers run game is a threat. It is led by Jaylen Warren. Read the full story at Pittsburgh Post-Gazette.",
-   "url": "https://www.post-gazette.com/sports/steelers/2026/10/26/steelers-week-7-analysis-nfl-afc-north/stories/202610250086",
-   "source": {
-    "name": "Pittsburgh Post-Gazette",
-    "url": null
-   },
-   "published": "2026-10-26T08:00:00+00:00",
-   "retrieved": "2026-10-27T14:01:12+00:00"
-  },
-  {
    "id": "00008982f42f6927",
    "type": "news",
    "title": "Saints game review: playoff chances",
@@ -1489,19 +1333,6 @@
    "retrieved": "2026-10-27T14:01:12+00:00"
   },
   {
-   "id": "b60a80fc6264f6e1",
-   "type": "news",
-   "title": "Perspective: Steelers-Saints",
-   "summary": "The New York Times offers analysis and opinion on the Steelers and the Saints. For context, the Steelers beat the Saints in Week 7. Read the full story at The New York Times.",
-   "url": "https://www.nytimes.com/athletic/7724515/2026/10/25/pittsburgh-steelers-saints-win-browns-rematch/",
-   "source": {
-    "name": "The New York Times",
-    "url": null
-   },
-   "published": "2026-10-25T22:55:21+00:00",
-   "retrieved": "2026-10-27T14:01:12+00:00"
-  },
-  {
    "id": "b00308c8e1e131a5",
    "type": "news",
    "title": "Steelers players discuss recent game",
@@ -1541,32 +1372,6 @@
    "retrieved": "2026-10-27T14:01:12+00:00"
   },
   {
-   "id": "4acc0c8f537dd7e5",
-   "type": "news",
-   "title": "Steelers linebackers play key role",
-   "summary": "Steelers linebackers contribute against Saints. Read the full story at Pittsburgh Post-Gazette.",
-   "url": "https://www.post-gazette.com/sports/steelers/2026/10/25/payton-wilson-patrick-queen-nfl-steelers-paris-france/stories/202610250083",
-   "source": {
-    "name": "Pittsburgh Post-Gazette",
-    "url": null
-   },
-   "published": "2026-10-25T20:48:15+00:00",
-   "retrieved": "2026-10-27T14:01:12+00:00"
-  },
-  {
-   "id": "767ff7857df4db36",
-   "type": "news",
-   "title": "Steelers play in Paris",
-   "summary": "The Steelers played a game in Paris. Read the full story at Pittsburgh Post-Gazette.",
-   "url": "https://www.post-gazette.com/sports/steelers/2026/10/25/steelers-saints-paris-game/stories/202610250085",
-   "source": {
-    "name": "Pittsburgh Post-Gazette",
-    "url": null
-   },
-   "published": "2026-10-25T20:15:48+00:00",
-   "retrieved": "2026-10-27T14:01:12+00:00"
-  },
-  {
    "id": "b46a87e14fa89193",
    "type": "news",
    "title": "Steelers game analysis",
@@ -1590,19 +1395,6 @@
     "url": null
    },
    "published": "2026-10-25T19:24:54+00:00",
-   "retrieved": "2026-10-27T14:01:12+00:00"
-  },
-  {
-   "id": "5ca6f9c3105ea5d7",
-   "type": "news",
-   "title": "Steelers offense and defense shine",
-   "summary": "Steelers performance against the Saints is evaluated. Read the full story at Pittsburgh Post-Gazette.",
-   "url": "https://www.post-gazette.com/sports/steelers/2026/10/25/steelers-report-card-saints-week7/stories/202610250084",
-   "source": {
-    "name": "Pittsburgh Post-Gazette",
-    "url": null
-   },
-   "published": "2026-10-25T19:08:36+00:00",
    "retrieved": "2026-10-27T14:01:12+00:00"
   },
   {
@@ -1697,19 +1489,6 @@
    "retrieved": "2026-10-27T14:01:12+00:00"
   },
   {
-   "id": "825c6d99f0bd4d26",
-   "type": "news",
-   "title": "Steelers win in Paris (Pittsburgh Post-Gazette)",
-   "summary": "The Steelers earn a win in Paris. Read the full story at Pittsburgh Post-Gazette.",
-   "url": "https://www.post-gazette.com/sports/steelers/2026/10/25/steelers-saints-nfl-paris-game/stories/202610250082",
-   "source": {
-    "name": "Pittsburgh Post-Gazette",
-    "url": null
-   },
-   "published": "2026-10-25T16:49:42+00:00",
-   "retrieved": "2026-10-27T14:01:12+00:00"
-  },
-  {
    "id": "8171f716cf24fea4",
    "type": "news",
    "title": "Steelers find success with tough style",
@@ -1720,19 +1499,6 @@
     "url": null
    },
    "published": "2026-10-25T16:45:12+00:00",
-   "retrieved": "2026-10-27T14:01:12+00:00"
-  },
-  {
-   "id": "074c8bd40be504df",
-   "type": "news",
-   "title": "Steelers win with strong ground attack",
-   "summary": "The Steelers beat the Saints in Paris. They used a strong run game to win. Read the full story at The Athletic.",
-   "url": "https://www.nytimes.com/athletic/7723123/2026/10/25/steelers-saints-paris-nfl-week-7-result-takeaways/",
-   "source": {
-    "name": "The Athletic",
-    "url": null
-   },
-   "published": "2026-10-25T16:41:19+00:00",
    "retrieved": "2026-10-27T14:01:12+00:00"
   },
   {
@@ -1902,19 +1668,6 @@
     "url": null
    },
    "published": "2026-10-25T12:19:33+00:00",
-   "retrieved": "2026-10-27T14:01:12+00:00"
-  },
-  {
-   "id": "85eead549e47658e",
-   "type": "news",
-   "title": "Steelers game coverage",
-   "summary": "The Steelers play a game and it is covered. Read the full story at Pittsburgh Post-Gazette.",
-   "url": "https://www.post-gazette.com/sports/steelers/2026/10/25/steelers-saints-live-chat/stories/202610250078",
-   "source": {
-    "name": "Pittsburgh Post-Gazette",
-    "url": null
-   },
-   "published": "2026-10-25T12:00:00+00:00",
    "retrieved": "2026-10-27T14:01:12+00:00"
   },
   {

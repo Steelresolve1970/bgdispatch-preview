@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "rumors",
  "description": "Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).",
- "generated": "2026-10-27T14:01:56+00:00",
+ "generated": "2026-10-27T14:06:53+00:00",
  "data_updated": "2026-10-27T14:01:49+00:00",
- "count": 26,
+ "count": 23,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -248,35 +248,6 @@
      "7fd46e561838",
      "5a0773cc79d1"
     ]
-   }
-  },
-  {
-   "id": "503d87d8f6f8",
-   "type": "rumor",
-   "title": "Trade rumor: Steelers (The New York Times)",
-   "summary": "The New York Times passes along trade speculation involving the Steelers; treat it as unconfirmed until the team announces a move, touching on the Steelers' quarterback situation and the trade deadline. Read the full story at The New York Times.",
-   "url": "https://www.nytimes.com/athletic/7711597/2026/10/22/pittsburgh-steelers-trade-deadline-targets-future-qb/",
-   "source": {
-    "name": "The New York Times",
-    "url": null,
-    "reliability_tier": "National insider",
-    "reliability_score": 4
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-27T04:16:11+00:00",
-   "updated": "2026-10-27T04:16:11+00:00",
-   "published": "2026-10-26T12:00:00+00:00",
-   "people": [],
-   "consensus": {
-    "cluster_id": "503d87d8f6f8",
-    "independent_sources": 1,
-    "sources": [
-     "The New York Times"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": []
    }
   },
   {
@@ -660,40 +631,6 @@
    }
   },
   {
-   "id": "595924af2d84",
-   "type": "rumor",
-   "title": "Rumor watch: DeShon Elliott",
-   "summary": "Pittsburgh Post-Gazette passes along unconfirmed talk involving DeShon Elliott, touching on the Steelers' secondary. Read the full story at Pittsburgh Post-Gazette.",
-   "url": "https://www.post-gazette.com/sports/steelers/2026/10/23/will-deshon-elliott-play-sunday/stories/202610230028",
-   "source": {
-    "name": "Pittsburgh Post-Gazette",
-    "url": null,
-    "reliability_tier": "Beat writer / team",
-    "reliability_score": 3
-   },
-   "status": "Confirmed",
-   "status_evidence": {
-    "text": "NFLTradeRumors.co: Roster move: DeShon Elliott",
-    "url": "https://nfltraderumors.co/steelers-announce-three-moves-activate-s-deshon-elliott/"
-   },
-   "first_seen": "2026-10-23T14:08:38+00:00",
-   "updated": "2026-10-24T15:41:18+00:00",
-   "published": "2026-10-23T14:00:00+00:00",
-   "people": [
-    "DeShon Elliott"
-   ],
-   "consensus": {
-    "cluster_id": "595924af2d84",
-    "independent_sources": 1,
-    "sources": [
-     "Pittsburgh Post-Gazette"
-    ],
-    "highest_tier": "Beat writer / team",
-    "highest_tier_score": 3,
-    "related_ids": []
-   }
-  },
-  {
    "id": "3e782f3c4f92",
    "type": "rumor",
    "title": "Rumor watch: Steelers-Saints (Steelers Depot)",
@@ -791,38 +728,6 @@
      "3f3271514107",
      "9e37088de4c1",
      "5a0773cc79d1"
-    ]
-   }
-  },
-  {
-   "id": "920d43250fcd",
-   "type": "rumor",
-   "title": "Trade rumor: Steelers-Ravens",
-   "summary": "The Athletic passes along trade speculation involving the Steelers and the Ravens; treat it as unconfirmed until the team announces a move, touching on the trade deadline. Read the full story at The Athletic.",
-   "url": "https://www.nytimes.com/athletic/7711772/2026/10/23/afc-north-trade-deadline-browns/",
-   "source": {
-    "name": "The Athletic",
-    "url": null,
-    "reliability_tier": "National insider",
-    "reliability_score": 4
-   },
-   "status": "Rumor",
-   "status_evidence": null,
-   "first_seen": "2026-10-23T10:05:24+00:00",
-   "updated": "2026-10-23T10:05:24+00:00",
-   "published": "2026-10-23T09:30:15+00:00",
-   "people": [],
-   "consensus": {
-    "cluster_id": "41d90cd71f5f",
-    "independent_sources": 2,
-    "sources": [
-     "The Athletic",
-     "The New York Times"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": [
-     "41d90cd71f5f"
     ]
    }
   },

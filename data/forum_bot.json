@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T14:01:37.145419+00:00",
+ "generated": "2026-10-27T14:06:52.993530+00:00",
  "bot": {
   "name": "Dispatch Desk",
   "bot": true,
@@ -161,13 +161,8 @@
    "pinned": false,
    "created": "2026-10-25T08:00:00-04:00",
    "title": "Daily Discussion (Oct 25): Saints game preview: how to watch",
-   "body": "Today's top story comes from The Athletic (described above in our own words). Read the full piece at the link, then tell us: does it change how you see this team?",
+   "body": "Today's top story came from The Athletic (described above in our own words). We no longer link to it because that site needs a paid subscription. Tell us: does it change how you see this team?",
    "links": [
-    {
-     "label": "Read at The Athletic \u2192",
-     "href": "https://www.nytimes.com/athletic/7718115/2026/10/25/steelers-saints-paris-france-nfl-protests-tv/",
-     "external": true
-    },
     {
      "label": "All news",
      "href": "#/"
@@ -177,7 +172,8 @@
    "bot": true,
    "replies": 0,
    "views": null,
-   "own": 1
+   "own": 1,
+   "paywall_removed": 1
   },
   {
    "id": "daily-2026-10-24",

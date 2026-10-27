@@ -1,7 +1,7 @@
 {
  "api_version": "1",
  "name": "Black & Gold Dispatch data API",
- "generated": "2026-10-27T14:01:56+00:00",
+ "generated": "2026-10-27T14:06:53+00:00",
  "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "openapi": "https://blackandgolddispatch.com/api/v1/openapi.json",
@@ -18,7 +18,7 @@
    "url": "https://blackandgolddispatch.com/api/v1/news.json",
    "markdown": "https://blackandgolddispatch.com/md/news.md",
    "description": "Steelers headlines from beat writers, national outlets and blogs, with our one-line summaries and links to the publisher.",
-   "count": 150,
+   "count": 131,
    "data_updated": "2026-10-27T14:01:12+00:00"
   },
   {
@@ -26,7 +26,7 @@
    "url": "https://blackandgolddispatch.com/api/v1/rumors.json",
    "markdown": "https://blackandgolddispatch.com/md/rumors.md",
    "description": "Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).",
-   "count": 26,
+   "count": 23,
    "data_updated": "2026-10-27T14:01:49+00:00"
   },
   {
