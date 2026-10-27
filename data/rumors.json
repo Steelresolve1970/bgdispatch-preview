@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T19:49:54.335989+00:00",
+ "generated": "2026-10-27T20:01:06.336637+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -43,6 +43,33 @@
   ]
  },
  "rumors": [
+  {
+   "id": "5d16b3792e1f",
+   "title": "Trade rumor: Steelers-Colts",
+   "source": "Still Curtain",
+   "link": "https://stillcurtain.com/4-trade-targets-pittsburgh-steelers-pursue-indianapolis-colts-fire-sale-01m5z8gc1z2r?utm_source=RSS",
+   "published": "2026-10-27T20:00:02+00:00",
+   "summary": "Still Curtain passes along trade speculation involving the Steelers and the Colts; treat it as unconfirmed until the team announces a move. Read the full story at Still Curtain.",
+   "tier": "Fan blog",
+   "tier_score": 2,
+   "subjects": [],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-27T20:01:06.336637+00:00",
+   "own": 1,
+   "consensus": {
+    "cluster_id": "5d16b3792e1f",
+    "independent_sources": 1,
+    "sources": [
+     "Still Curtain"
+    ],
+    "highest_tier": "Fan blog",
+    "highest_tier_score": 2,
+    "related_ids": []
+   },
+   "updated": "2026-10-27T20:01:06.336637+00:00"
+  },
   {
    "id": "f70a13da10bb",
    "title": "Trade rumor: Steelers",
@@ -232,13 +259,16 @@
    "own": 1,
    "consensus": {
     "cluster_id": "fd9be22f39c9",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
+     "USA Today",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
-    "related_ids": []
+    "related_ids": [
+     "394aac2a3809"
+    ]
    },
    "updated": "2026-10-27T15:47:42.416402+00:00"
   },
@@ -539,13 +569,16 @@
    "first_seen": "2026-10-24T21:18:21.512769+00:00",
    "consensus": {
     "cluster_id": "b3b86933a304",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
-     "SteelerNation"
+     "SteelerNation",
+     "Yardbarker"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "5585acb90f77"
+    ]
    },
    "updated": "2026-10-24T21:18:21.512769+00:00",
    "own": 1

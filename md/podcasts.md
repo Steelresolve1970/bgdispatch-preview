@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-27T19:50:00+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T19:49:38+00:00._
+_Generated 2026-10-27T20:01:12+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T20:00:53+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Video: [Steelers' LB Grades](https://www.youtube.com/shorts/vZW_kxXt4OE): Steelers Almighty, 2026-10-27 19:54 UTC
 - Video: [Defense, but make it 𝓬𝓲𝓷𝓮𝓶𝓪𝓽𝓲𝓬 📺: #CLEvsPIT 11/1 at 1 PM ET on CBS](https://www.youtube.com/shorts/4gmjLsMJUCA): Pittsburgh Steelers (official), 2026-10-27 18:53 UTC
 - Podcast: [Pittsburgh Steelers 5-2 But Can They Keep It Going? - NFL Headlines Week 7](https://arthurmoats55.libsyn.com/pittsburgh_steelers_5-2_but_can_they_keep_it_going__-_nfl_headlines__week_7mp3): The Arthur Moats Experience, 2026-10-27 17:36 UTC
 - Podcast: [Steelers Two Biggest Strengths Can Carry Them - Hopefully](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-27 16:57 UTC
@@ -102,8 +103,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Nu Leader on D-Line? | Steelers Afternoon Drive](https://podcasts.apple.com/us/podcast/nu-leader-on-d-line-steelers-afternoon-drive/id1700240934?i=1000797686445): Steelers Afternoon Drive, 2026-10-22 22:03 UTC
 - Podcast: [T.J. Watt Injured Before Paris Game | Steelers Need New DT](https://podcasts.apple.com/us/podcast/t-j-watt-injured-before-paris-game-steelers-need-new-dt/id1627248534?i=1000797682697): All Steelers Talk, 2026-10-22 21:30 UTC
 - Podcast: [The Terrible Take - Episode 2058 - October 22, 2026](https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2058-october-22-2026/id405990739?i=1000797677347): The Terrible Podcast (Steelers Depot), 2026-10-22 21:00 UTC
-- Podcast: [NFL Week 7 Predictions/Pittsburgh Steelers](https://arthurmoats55.libsyn.com/dctm_game_picks_week_7_player_of_the_game_headlinesmp3): The Arthur Moats Experience, 2026-10-22 20:00 UTC
-- Video: [Bringing Vaunted Brand of Defense Overseas | Steelers Practice Report](https://www.youtube.com/watch?v=e7UlYYFDvos): Steelers Now, 2026-10-22 19:56 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "rumors",
  "description": "Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).",
- "generated": "2026-10-27T19:50:00+00:00",
- "data_updated": "2026-10-27T19:49:54+00:00",
- "count": 30,
+ "generated": "2026-10-27T20:01:12+00:00",
+ "data_updated": "2026-10-27T20:01:06+00:00",
+ "count": 31,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -19,6 +19,35 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/rumors",
  "items": [
+  {
+   "id": "5d16b3792e1f",
+   "type": "rumor",
+   "title": "Trade rumor: Steelers-Colts",
+   "summary": "Still Curtain passes along trade speculation involving the Steelers and the Colts; treat it as unconfirmed until the team announces a move. Read the full story at Still Curtain.",
+   "url": "https://stillcurtain.com/4-trade-targets-pittsburgh-steelers-pursue-indianapolis-colts-fire-sale-01m5z8gc1z2r?utm_source=RSS",
+   "source": {
+    "name": "Still Curtain",
+    "url": null,
+    "reliability_tier": "Fan blog",
+    "reliability_score": 2
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-27T20:01:06+00:00",
+   "updated": "2026-10-27T20:01:06+00:00",
+   "published": "2026-10-27T20:00:02+00:00",
+   "people": [],
+   "consensus": {
+    "cluster_id": "5d16b3792e1f",
+    "independent_sources": 1,
+    "sources": [
+     "Still Curtain"
+    ],
+    "highest_tier": "Fan blog",
+    "highest_tier_score": 2,
+    "related_ids": []
+   }
+  },
   {
    "id": "f70a13da10bb",
    "type": "rumor",
@@ -221,13 +250,16 @@
    "people": [],
    "consensus": {
     "cluster_id": "fd9be22f39c9",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
+     "USA Today",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
-    "related_ids": []
+    "related_ids": [
+     "394aac2a3809"
+    ]
    }
   },
   {
@@ -549,13 +581,16 @@
    "people": [],
    "consensus": {
     "cluster_id": "b3b86933a304",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
-     "SteelerNation"
+     "SteelerNation",
+     "Yardbarker"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "5585acb90f77"
+    ]
    }
   },
   {

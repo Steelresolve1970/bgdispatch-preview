@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-27T19:50:00+00:00",
- "data_updated": "2026-10-27T19:49:38+00:00",
- "count": 101,
+ "generated": "2026-10-27T20:01:12+00:00",
+ "data_updated": "2026-10-27T20:00:53+00:00",
+ "count": 100,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -19,6 +19,19 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/podcasts",
  "items": [
+  {
+   "id": "e10f4b65378276b3",
+   "type": "video",
+   "title": "Steelers' LB Grades",
+   "show": "Steelers Almighty",
+   "url": "https://www.youtube.com/shorts/vZW_kxXt4OE",
+   "published": "2026-10-27T19:54:53+00:00",
+   "summary": "Video from Steelers Almighty.",
+   "source": {
+    "name": "Steelers Almighty",
+    "url": null
+   }
+  },
   {
    "id": "942def84f237dc33",
    "type": "video",
@@ -1303,32 +1316,6 @@
    "summary": "Podcast episode from The Terrible Podcast (Steelers Depot).",
    "source": {
     "name": "The Terrible Podcast (Steelers Depot)",
-    "url": null
-   }
-  },
-  {
-   "id": "7ca56e4e4cd1b43b",
-   "type": "podcast_episode",
-   "title": "NFL Week 7 Predictions/Pittsburgh Steelers",
-   "show": "The Arthur Moats Experience",
-   "url": "https://arthurmoats55.libsyn.com/dctm_game_picks_week_7_player_of_the_game_headlinesmp3",
-   "published": "2026-10-22T20:00:00+00:00",
-   "summary": "Podcast episode from The Arthur Moats Experience.",
-   "source": {
-    "name": "The Arthur Moats Experience",
-    "url": null
-   }
-  },
-  {
-   "id": "dc5ab11507249636",
-   "type": "video",
-   "title": "Bringing Vaunted Brand of Defense Overseas | Steelers Practice Report",
-   "show": "Steelers Now",
-   "url": "https://www.youtube.com/watch?v=e7UlYYFDvos",
-   "published": "2026-10-22T19:56:15+00:00",
-   "summary": "Video from Steelers Now.",
-   "source": {
-    "name": "Steelers Now",
     "url": null
    }
   }
