@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T18:29:01.878764+00:00",
+ "generated": "2026-10-27T18:40:18.380342+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -59,7 +59,7 @@
    "first_seen": "2026-10-27T18:29:01.878764+00:00",
    "own": 1,
    "consensus": {
-    "cluster_id": "3f3271514107",
+    "cluster_id": "9e37088de4c1",
     "independent_sources": 5,
     "sources": [
      "A to Z Sports",
@@ -74,6 +74,7 @@
      "702ace99a8e9",
      "c60d83ea0785",
      "3f3271514107",
+     "9e37088de4c1",
      "7fd46e561838",
      "5a0773cc79d1"
     ]
@@ -158,7 +159,7 @@
    "first_seen": "2026-10-27T17:10:51.139507+00:00",
    "own": 1,
    "consensus": {
-    "cluster_id": "3f3271514107",
+    "cluster_id": "9e37088de4c1",
     "independent_sources": 5,
     "sources": [
      "A to Z Sports",
@@ -173,6 +174,7 @@
      "f70a13da10bb",
      "c60d83ea0785",
      "3f3271514107",
+     "9e37088de4c1",
      "7fd46e561838",
      "5a0773cc79d1"
     ]
@@ -213,7 +215,7 @@
   },
   {
    "id": "fd9be22f39c9",
-   "title": "Trade rumor: Steelers (Yahoo Sports)",
+   "title": "Trade rumor: Steelers (Yahoo Sports) (Yahoo Sports)",
    "source": "Yahoo Sports",
    "link": "https://sports.yahoo.com/articles/steelers-eyeing-semi-big-wide-153032704.html",
    "published": "2026-10-27T15:30:32+00:00",
@@ -254,7 +256,7 @@
    "first_seen": "2026-10-27T15:25:25.271977+00:00",
    "own": 1,
    "consensus": {
-    "cluster_id": "3f3271514107",
+    "cluster_id": "9e37088de4c1",
     "independent_sources": 5,
     "sources": [
      "A to Z Sports",
@@ -269,6 +271,7 @@
      "f70a13da10bb",
      "702ace99a8e9",
      "3f3271514107",
+     "9e37088de4c1",
      "7fd46e561838",
      "5a0773cc79d1"
     ]
@@ -466,7 +469,7 @@
    "status_link": null,
    "first_seen": "2026-10-26T13:12:42.464242+00:00",
    "consensus": {
-    "cluster_id": "3f3271514107",
+    "cluster_id": "9e37088de4c1",
     "independent_sources": 5,
     "sources": [
      "A to Z Sports",
@@ -481,6 +484,7 @@
      "f70a13da10bb",
      "702ace99a8e9",
      "c60d83ea0785",
+     "9e37088de4c1",
      "7fd46e561838",
      "5a0773cc79d1"
     ]
@@ -531,13 +535,16 @@
    "first_seen": "2026-10-24T21:18:21.512769+00:00",
    "consensus": {
     "cluster_id": "b3b86933a304",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
-     "SteelerNation"
+     "SteelerNation",
+     "Yardbarker"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "5585acb90f77"
+    ]
    },
    "updated": "2026-10-24T21:18:21.512769+00:00",
    "own": 1
@@ -913,7 +920,7 @@
    "status_link": null,
    "first_seen": "2026-10-23T11:09:06.018743+00:00",
    "consensus": {
-    "cluster_id": "3f3271514107",
+    "cluster_id": "9e37088de4c1",
     "independent_sources": 5,
     "sources": [
      "A to Z Sports",
@@ -929,6 +936,7 @@
      "702ace99a8e9",
      "c60d83ea0785",
      "3f3271514107",
+     "9e37088de4c1",
      "5a0773cc79d1"
     ]
    },

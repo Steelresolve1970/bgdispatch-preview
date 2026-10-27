@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-27T18:29:08+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T18:28:50+00:00._
+_Generated 2026-10-27T18:40:25+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T18:40:00+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [Pittsburgh Steelers 5-2 But Can They Keep It Going? - NFL Headlines Week 7](https://arthurmoats55.libsyn.com/pittsburgh_steelers_5-2_but_can_they_keep_it_going__-_nfl_headlines__week_7mp3): The Arthur Moats Experience, 2026-10-27 17:36 UTC
