@@ -1,11 +1,11 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-27T09:55:22+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T09:55:06+00:00._
+_Generated 2026-10-27T10:06:19+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T10:06:02+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Steelers Building Elite Offensive/Defensive Lines in New Foundation | Patrick Queen Underappreciated](https://www.youtube.com/watch?v=WCAocGAbAHE): Locked On Steelers, 2026-10-27 07:30 UTC
-- Podcast: [Steelers Building Elite Offensive/Defensive Lines in New Foundation | Patrick Queen Underappreciated](https://lockedonpodcasts.com/podcasts/locked-on-steelers/): Locked On Steelers, 2026-10-27 07:30 UTC
-- Podcast: [Scout’s Eye with Matt Williamson: A team effort](https://podcasts.apple.com/us/podcast/id1072021022): DK Pittsburgh Sports, 2026-10-27 07:08 UTC
+- Podcast: [Steelers Building Elite Offensive/Defensive Lines in New Foundation | Patrick Queen Underappreciated](https://podcasts.apple.com/us/podcast/steelers-building-elite-offensive-defensive-lines-in/id1140522532?i=1000798313059): Locked On Steelers, 2026-10-27 07:30 UTC
+- Podcast: [Scout’s Eye with Matt Williamson: A team effort](https://podcasts.apple.com/us/podcast/scouts-eye-with-matt-williamson-a-team-effort/id1072021022?i=1000798314677): DK Pittsburgh Sports, 2026-10-27 07:08 UTC
 - Video: [Steelers Imposed Their Will Over the Saints in Paris | Illegal Hands to the Face](https://www.youtube.com/watch?v=P1rY457W1b8): Still Curtain Podcast, 2026-10-27 07:00 UTC
 - Video: [Patrick Queen Isn’t Getting Enough RESPECT 😤 #patrickqueen #steelers #nfl](https://www.youtube.com/shorts/KSJ30IAUOVU): Locked On Steelers, 2026-10-27 01:03 UTC
 - Video: [Steelers' WR Grades](https://www.youtube.com/shorts/FasE9o--yMg): Steelers Almighty, 2026-10-26 23:45 UTC

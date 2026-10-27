@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T09:55:17.298585+00:00",
+ "generated": "2026-10-27T10:06:13.528267+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -235,13 +235,16 @@
    "first_seen": "2026-10-24T21:18:21.512769+00:00",
    "consensus": {
     "cluster_id": "b3b86933a304",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
-     "SteelerNation"
+     "SteelerNation",
+     "Yardbarker"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "5585acb90f77"
+    ]
    },
    "updated": "2026-10-24T21:18:21.512769+00:00",
    "own": 1
@@ -493,16 +496,18 @@
    "status_link": null,
    "first_seen": "2026-10-23T15:18:57.289683+00:00",
    "consensus": {
-    "cluster_id": "514b4160b9de",
-    "independent_sources": 2,
+    "cluster_id": "9817e54a5e1d",
+    "independent_sources": 3,
     "sources": [
+     "AOL.co.uk",
      "Athlon Sports",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "514b4160b9de"
+     "514b4160b9de",
+     "9817e54a5e1d"
     ]
    },
    "updated": "2026-10-23T15:18:57.289683+00:00",
@@ -705,16 +710,18 @@
    "status_link": null,
    "first_seen": "2026-10-23T10:05:24.966196+00:00",
    "consensus": {
-    "cluster_id": "514b4160b9de",
-    "independent_sources": 2,
+    "cluster_id": "9817e54a5e1d",
+    "independent_sources": 3,
     "sources": [
+     "AOL.co.uk",
      "Athlon Sports",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "75724089f665"
+     "75724089f665",
+     "9817e54a5e1d"
     ]
    },
    "updated": "2026-10-23T10:05:24.966196+00:00",

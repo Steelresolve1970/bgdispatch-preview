@@ -1,8 +1,9 @@
 # Steelers News
 
-_Generated 2026-10-27T09:55:22+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T09:49:31+00:00._
+_Generated 2026-10-27T10:06:19+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T10:05:46+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Analysis: Steelers](https://stillcurtain.com/4-pittsburgh-steelers-trending-up-and-3-whose-stock-is-falling-fast-entering-week-8-01m5wpf8q3py?utm_source=RSS): Still Curtain, 2026-10-27 10:00 UTC
 - [Steelers prepare for Browns](https://steelersdepot.com/2026/10/dont-see-them-changing-steelers-expect-browns-to-play-them-as-they-did-in-week-4/): Steelers Depot, 2026-10-27 09:40 UTC
 - [Steelers face shifting league landscape](https://www.nytimes.com/athletic/7727004/2026/10/27/nfl-power-rankings-week-8-halloween-spooky/): The Athletic, 2026-10-27 09:30 UTC
 - [Perspective: DeShon Elliott](https://steelersdepot.com/2026/10/will-deshon-elliott-regain-starting-job/): Steelers Depot, 2026-10-27 09:00 UTC
@@ -152,7 +153,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers fans visit Paris](https://triblive.com/sports/despite-protests-steelers-fans-enjoy-paris-sights-ahead-of-game-against-saints/): TribLive, 2026-10-24 17:25 UTC
 - [Perspective: Aaron Rodgers and the international game](https://stillcurtain.com/aaron-rodgers-raises-concerns-as-pittsburgh-steelers-face-unusual-challenge-in-paris-01m5p5azs07w?utm_source=RSS): Still Curtain, 2026-10-24 16:00 UTC
 - [DeShon Elliott to play](https://www.post-gazette.com/sports/steelers/2026/10/24/deshon-elliott-injury-update-steelers/stories/202610240043): Pittsburgh Post-Gazette, 2026-10-24 15:58 UTC
-- [Steelers bring back defensive player](https://triblive.com/sports/steelers-activate-safety-deshon-elliott-from-ir-ahead-of-paris-game/): TribLive, 2026-10-24 15:05 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
