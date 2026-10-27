@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T21:39:05.295878+00:00",
+ "generated": "2026-10-27T21:49:56.799839+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -43,6 +43,35 @@
   ]
  },
  "rumors": [
+  {
+   "id": "75649bd9f46f",
+   "title": "Trade rumor: DeForest Buckner",
+   "source": "KRQE",
+   "link": "https://www.krqe.com/sports/ap-the-49ers-bring-back-deforest-buckner-in-trade-with-the-colts-ap-source-says/",
+   "published": "2026-10-27T21:30:16+00:00",
+   "summary": "KRQE passes along trade speculation involving DeForest Buckner; treat it as unconfirmed until the team announces a move. Read the full story at KRQE.",
+   "tier": "Aggregator / other",
+   "tier_score": 1,
+   "subjects": [
+    "DeForest Buckner"
+   ],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-27T21:49:56.799839+00:00",
+   "own": 1,
+   "consensus": {
+    "cluster_id": "75649bd9f46f",
+    "independent_sources": 1,
+    "sources": [
+     "KRQE"
+    ],
+    "highest_tier": "Aggregator / other",
+    "highest_tier_score": 1,
+    "related_ids": []
+   },
+   "updated": "2026-10-27T21:49:56.799839+00:00"
+  },
   {
    "id": "0cdd0e07e09e",
    "title": "Trade rumor: Steelers",
@@ -597,13 +626,16 @@
    "first_seen": "2026-10-24T21:18:21.512769+00:00",
    "consensus": {
     "cluster_id": "b3b86933a304",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
-     "SteelerNation"
+     "SteelerNation",
+     "Yardbarker"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "5585acb90f77"
+    ]
    },
    "updated": "2026-10-24T21:18:21.512769+00:00",
    "own": 1
@@ -709,13 +741,16 @@
    "first_seen": "2026-10-24T16:14:06.165557+00:00",
    "consensus": {
     "cluster_id": "cea2276892de",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
+     "Steeler Nation",
      "SteelerNation"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "fc6bb29f13f2"
+    ]
    },
    "updated": "2026-10-24T16:14:06.165557+00:00",
    "own": 1
@@ -855,16 +890,18 @@
    "status_link": null,
    "first_seen": "2026-10-23T15:18:57.289683+00:00",
    "consensus": {
-    "cluster_id": "514b4160b9de",
-    "independent_sources": 2,
+    "cluster_id": "9817e54a5e1d",
+    "independent_sources": 3,
     "sources": [
+     "AOL.co.uk",
      "Athlon Sports",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "514b4160b9de"
+     "514b4160b9de",
+     "9817e54a5e1d"
     ]
    },
    "updated": "2026-10-23T15:18:57.289683+00:00",
@@ -1016,16 +1053,18 @@
    "status_link": null,
    "first_seen": "2026-10-23T10:05:24.966196+00:00",
    "consensus": {
-    "cluster_id": "514b4160b9de",
-    "independent_sources": 2,
+    "cluster_id": "9817e54a5e1d",
+    "independent_sources": 3,
     "sources": [
+     "AOL.co.uk",
      "Athlon Sports",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "75724089f665"
+     "75724089f665",
+     "9817e54a5e1d"
     ]
    },
    "updated": "2026-10-23T10:05:24.966196+00:00",
