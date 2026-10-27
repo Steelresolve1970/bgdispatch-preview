@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-27T07:02:40+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T07:02:21+00:00._
+_Generated 2026-10-27T07:15:46+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T07:15:16+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Steelers Imposed Their Will Over the Saints in Paris | Illegal Hands to the Face](https://www.youtube.com/watch?v=P1rY457W1b8): Still Curtain Podcast, 2026-10-27 07:00 UTC

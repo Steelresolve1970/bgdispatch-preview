@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T07:02:04.465384+00:00",
+ "generated": "2026-10-27T07:15:00.979920+00:00",
  "count": 150,
  "sources": [
   {
@@ -29,8 +29,8 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
-   "steelers_items": 0
+   "status": "ok",
+   "steelers_items": 24
   },
   {
    "source": "Still Curtain",
@@ -106,6 +106,16 @@
   }
  ],
  "items": [
+  {
+   "title": "Steelers achieve expected wins",
+   "source": "The Vindicator",
+   "link": "https://www.vindy.com/sports/2026/10/steelers-are-winning-games-theyre-supposed-to-win/",
+   "published": "2026-10-27T06:56:21+00:00",
+   "via": "Google News",
+   "summary": "The Steelers are winning certain games. Read the full story at The Vindicator.",
+   "id": "9d85214fff",
+   "writer": "ai"
+  },
   {
    "title": "Steelers find hidden moments",
    "source": "Steelers Depot",
@@ -698,16 +708,6 @@
    "writer": "ai"
   },
   {
-   "title": "Steelers winning expected games",
-   "source": "Bozeman Daily Chronicle",
-   "link": "https://www.bozemandailychronicle.com/wire/sports/the-steelers-are-winning-the-games-theyre-supposed-to-win-theyll-take-it-for-now/article_134df601-53f8-52e9-8694-c42033ccd1e4.html",
-   "published": "2026-10-26T17:09:10+00:00",
-   "via": "Google News",
-   "summary": "The Steelers are winning certain games. Read the full story at Bozeman Daily Chronicle.",
-   "id": "265931ce32",
-   "writer": "ai"
-  },
-  {
    "title": "Game review: Mike McCarthy",
    "source": "Steelers Now",
    "link": "https://steelersnow.com/saunders-steelers-takeaways-whether-he-likes-it-or-not-mike-mccarthy-has-a-run-first-offense/",
@@ -834,6 +834,14 @@
    "id": "77f6ad8a35"
   },
   {
+   "title": "Game review: takeaways",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/26/steelers-takeaways-defense-and-running-game-deliver-another-victory-in-paris/",
+   "published": "2026-10-26T13:35:33+00:00",
+   "summary": "Steel City Underground looks back at the game, with a focus on the Steelers, touching on the Steelers' run game and the Steelers' defense. Read the full story at Steel City Underground.",
+   "id": "da451f7798"
+  },
+  {
    "title": "Steelers offense still struggles",
    "source": "Steelers Now",
    "link": "https://steelersnow.com/would-a-brian-thomas-jr-trade-make-sense-for-steelers/",
@@ -909,12 +917,31 @@
    "writer": "ai"
   },
   {
+   "title": "Steelers Face Defensive Issues",
+   "source": "All Steelers (Sports Illustrated)",
+   "link": "https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-no-longer-avoid-cornerback-troubles",
+   "published": "2026-10-26T12:00:02+00:00",
+   "summary": "The Steelers have defensive problems. Read the full story at All Steelers (Sports Illustrated).",
+   "via": "Google News",
+   "id": "d594cd3db8",
+   "writer": "ai"
+  },
+  {
    "title": "Rodgers criticizes league management",
    "source": "PennLive (Nick Farabaugh)",
    "link": "https://www.pennlive.com/steelers/2026/10/aaron-rodgers-doesnt-hold-back-on-nfls-international-game-management-wish-there-was-a-mandate.html",
    "published": "2026-10-26T11:52:03+00:00",
    "summary": "Aaron Rodgers discusses NFL international games. He shares his thoughts on management. Read the full story at PennLive (Nick Farabaugh).",
    "id": "8127a79837",
+   "writer": "ai"
+  },
+  {
+   "title": "Steelers defense makes key play",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/26/payton-wilsons-interception-stops-saints-second-half-scoring-threat/",
+   "published": "2026-10-26T11:46:13+00:00",
+   "summary": "The Steelers defense stopped a Saints scoring threat. The defense helped the team win. Read the full story at Steel City Underground.",
+   "id": "1edb3d9827",
    "writer": "ai"
   },
   {
@@ -1331,6 +1358,15 @@
    "writer": "ai"
   },
   {
+   "title": "Steelers news recap",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/25/scu-week-in-review-october-25th-2/",
+   "published": "2026-10-25T10:40:18+00:00",
+   "summary": "Steel City Underground recaps the week's articles and videos. Read the full story at Steel City Underground.",
+   "id": "1fad850306",
+   "writer": "ai"
+  },
+  {
    "title": "Steelers player not from France",
    "source": "Steelers.com (official)",
    "link": "https://www.steelers.com/news/asked-and-answered-oct-25-x9987",
@@ -1427,41 +1463,6 @@
    "published": "2026-10-24T17:25:04+00:00",
    "summary": "Steelers fans are in Paris. They are seeing the sights. Read the full story at TribLive.",
    "id": "c4587f8d40",
-   "writer": "ai"
-  },
-  {
-   "title": "Perspective: Aaron Rodgers and the international game",
-   "source": "Still Curtain",
-   "link": "https://stillcurtain.com/aaron-rodgers-raises-concerns-as-pittsburgh-steelers-face-unusual-challenge-in-paris-01m5p5azs07w?utm_source=RSS",
-   "published": "2026-10-24T16:00:04+00:00",
-   "summary": "Still Curtain offers analysis and opinion on Aaron Rodgers, touching on the international game. Read the full story at Still Curtain.",
-   "id": "46cab10ccb"
-  },
-  {
-   "title": "DeShon Elliott to play",
-   "source": "Pittsburgh Post-Gazette",
-   "link": "https://www.post-gazette.com/sports/steelers/2026/10/24/deshon-elliott-injury-update-steelers/stories/202610240043",
-   "published": "2026-10-24T15:58:34+00:00",
-   "summary": "Steelers safety plays against Saints. Read the full story at Pittsburgh Post-Gazette.",
-   "id": "4adf6b3c3a",
-   "writer": "ai"
-  },
-  {
-   "title": "Steelers bring back defensive player",
-   "source": "TribLive",
-   "link": "https://triblive.com/sports/steelers-activate-safety-deshon-elliott-from-ir-ahead-of-paris-game/",
-   "published": "2026-10-24T15:05:42+00:00",
-   "summary": "DeShon Elliott returns to the Steelers. He has not played in a while. Read the full story at TribLive.",
-   "id": "06d0137ee5",
-   "writer": "ai"
-  },
-  {
-   "title": "Steelers travel to Paris",
-   "source": "Pittsburgh Post-Gazette",
-   "link": "https://www.post-gazette.com/sports/steelers/2026/10/24/nfl-paris-game-steelers-travel/stories/202610240010",
-   "published": "2026-10-24T15:00:49+00:00",
-   "summary": "The Steelers trip to Paris is discussed. Read the full story at Pittsburgh Post-Gazette.",
-   "id": "da412f102a",
    "writer": "ai"
   }
  ],

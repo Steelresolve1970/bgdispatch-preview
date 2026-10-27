@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T07:02:37.469936+00:00",
+ "generated": "2026-10-27T07:15:43.414608+00:00",
  "season": 2026,
  "week": 8,
  "games": [
@@ -84,7 +84,7 @@
     "name": "Dallas Cowboys",
     "score": null,
     "winner": null,
-    "record": "2-4"
+    "record": "3-4"
    }
   },
   {
@@ -266,7 +266,7 @@
     "name": "Philadelphia Eagles",
     "score": null,
     "winner": null,
-    "record": "2-4"
+    "record": "2-5"
    },
    "home": {
     "abbr": "WAS",
@@ -570,6 +570,27 @@
     "score": "20",
     "winner": true,
     "record": "4-3"
+   }
+  },
+  {
+   "id": "401873009",
+   "date": "2026-10-27T00:15Z",
+   "state": "post",
+   "detail": "Final",
+   "completed": true,
+   "away": {
+    "abbr": "DAL",
+    "name": "Dallas Cowboys",
+    "score": "38",
+    "winner": true,
+    "record": "3-4"
+   },
+   "home": {
+    "abbr": "PHI",
+    "name": "Philadelphia Eagles",
+    "score": "21",
+    "winner": false,
+    "record": "2-5"
    }
   }
  ],

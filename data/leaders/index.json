@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T02:43:05.782116+00:00",
+ "generated": "2026-10-27T07:15:19.892396+00:00",
  "season": 2026,
  "source": "Data: nflverse (CC-BY 4.0)",
  "source_url": "https://github.com/nflverse/nflverse-data",
@@ -162,7 +162,7 @@
    "lower_is_better": false,
    "min_note": "Min. 10 attempts per team game",
    "file": "player-ypa.json",
-   "count": 34
+   "count": 35
   },
   {
    "key": "pass_td",
@@ -189,7 +189,7 @@
    "lower_is_better": false,
    "min_note": "Min. 10 attempts per team game",
    "file": "player-passer_rtg.json",
-   "count": 34
+   "count": 35
   },
   {
    "key": "rush_yds",
@@ -198,7 +198,7 @@
    "lower_is_better": false,
    "min_note": "Min. 20 carries",
    "file": "player-rush_yds.json",
-   "count": 82
+   "count": 83
   },
   {
    "key": "rush_td",
@@ -207,7 +207,7 @@
    "lower_is_better": false,
    "min_note": "Min. 20 carries",
    "file": "player-rush_td.json",
-   "count": 82
+   "count": 83
   },
   {
    "key": "rec",
@@ -252,7 +252,7 @@
    "lower_is_better": false,
    "min_note": "Min. 15 tackles",
    "file": "player-tackles.json",
-   "count": 373
+   "count": 376
   },
   {
    "key": "sacks",
@@ -279,7 +279,7 @@
    "lower_is_better": false,
    "min_note": "Min. 2 passes defended",
    "file": "player-pd.json",
-   "count": 222
+   "count": 224
   },
   {
    "key": "int",
@@ -288,7 +288,7 @@
    "lower_is_better": false,
    "min_note": "Min. 1 interception",
    "file": "player-int.json",
-   "count": 114
+   "count": 115
   },
   {
    "key": "ff",
