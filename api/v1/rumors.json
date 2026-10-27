@@ -2,8 +2,8 @@
  "api_version": "1",
  "dataset": "rumors",
  "description": "Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).",
- "generated": "2026-10-27T17:22:12+00:00",
- "data_updated": "2026-10-27T17:22:05+00:00",
+ "generated": "2026-10-27T17:33:34+00:00",
+ "data_updated": "2026-10-27T17:33:27+00:00",
  "count": 28,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
@@ -40,14 +40,16 @@
     "Brian Thomas Jr."
    ],
    "consensus": {
-    "cluster_id": "b030e7b7babc",
+    "cluster_id": "caefd6bce2be",
     "independent_sources": 1,
     "sources": [
      "Still Curtain"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "caefd6bce2be"
+    ]
    }
   },
   {
@@ -82,6 +84,7 @@
     "related_ids": [
      "c60d83ea0785",
      "3f3271514107",
+     "9e37088de4c1",
      "7fd46e561838",
      "5a0773cc79d1"
     ]
@@ -108,17 +111,14 @@
     "Three Rivers"
    ],
    "consensus": {
-    "cluster_id": "f85850ec176b",
-    "independent_sources": 2,
+    "cluster_id": "19b17cd62ac2",
+    "independent_sources": 1,
     "sources": [
-     "Behind the Steel Curtain",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
-    "related_ids": [
-     "f85850ec176b"
-    ]
+    "related_ids": []
    }
   },
   {
@@ -182,6 +182,7 @@
     "related_ids": [
      "702ace99a8e9",
      "3f3271514107",
+     "9e37088de4c1",
      "7fd46e561838",
      "5a0773cc79d1"
     ]
@@ -206,14 +207,17 @@
    "published": "2026-10-27T14:24:07+00:00",
    "people": [],
    "consensus": {
-    "cluster_id": "87aceeb400a8",
-    "independent_sources": 1,
+    "cluster_id": "0e25ebeff1e5",
+    "independent_sources": 2,
     "sources": [
+     "AOL.com",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
-    "related_ids": []
+    "related_ids": [
+     "0e25ebeff1e5"
+    ]
    }
   },
   {
@@ -407,6 +411,7 @@
     "related_ids": [
      "702ace99a8e9",
      "c60d83ea0785",
+     "9e37088de4c1",
      "7fd46e561838",
      "5a0773cc79d1"
     ]
@@ -461,13 +466,16 @@
    "people": [],
    "consensus": {
     "cluster_id": "b3b86933a304",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
-     "SteelerNation"
+     "SteelerNation",
+     "Yardbarker"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "5585acb90f77"
+    ]
    }
   },
   {
@@ -880,6 +888,7 @@
      "702ace99a8e9",
      "c60d83ea0785",
      "3f3271514107",
+     "9e37088de4c1",
      "5a0773cc79d1"
     ]
    }
@@ -887,7 +896,7 @@
   {
    "id": "514b4160b9de",
    "type": "rumor",
-   "title": "Trade rumor: Steelers (Yahoo Sports) (Yahoo Sports)",
+   "title": "Trade rumor: Steelers (Yahoo Sports) (Yahoo Sports) (Yahoo Sports)",
    "summary": "Yahoo Sports passes along trade speculation involving the Steelers; treat it as unconfirmed until the team announces a move. Read the full story at Yahoo Sports.",
    "url": "https://sports.yahoo.com/articles/steelers-linked-trade-troy-polamalus-090859602.html",
    "source": {
