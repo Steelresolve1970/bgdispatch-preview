@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T18:06:55.246050+00:00",
+ "generated": "2026-10-27T18:18:02.936163+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -134,6 +134,7 @@
     "related_ids": [
      "c60d83ea0785",
      "3f3271514107",
+     "9e37088de4c1",
      "7fd46e561838",
      "5a0773cc79d1"
     ]
@@ -228,6 +229,7 @@
     "related_ids": [
      "702ace99a8e9",
      "3f3271514107",
+     "9e37088de4c1",
      "7fd46e561838",
      "5a0773cc79d1"
     ]
@@ -438,6 +440,7 @@
     "related_ids": [
      "702ace99a8e9",
      "c60d83ea0785",
+     "9e37088de4c1",
      "7fd46e561838",
      "5a0773cc79d1"
     ]
@@ -488,16 +491,13 @@
    "first_seen": "2026-10-24T21:18:21.512769+00:00",
    "consensus": {
     "cluster_id": "b3b86933a304",
-    "independent_sources": 2,
+    "independent_sources": 1,
     "sources": [
-     "SteelerNation",
-     "Yardbarker"
+     "SteelerNation"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": [
-     "5585acb90f77"
-    ]
+    "related_ids": []
    },
    "updated": "2026-10-24T21:18:21.512769+00:00",
    "own": 1
@@ -752,18 +752,16 @@
    "status_link": null,
    "first_seen": "2026-10-23T15:18:57.289683+00:00",
    "consensus": {
-    "cluster_id": "9817e54a5e1d",
-    "independent_sources": 3,
+    "cluster_id": "514b4160b9de",
+    "independent_sources": 2,
     "sources": [
-     "AOL.co.uk",
      "Athlon Sports",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "514b4160b9de",
-     "9817e54a5e1d"
+     "514b4160b9de"
     ]
    },
    "updated": "2026-10-23T15:18:57.289683+00:00",
@@ -887,6 +885,7 @@
      "702ace99a8e9",
      "c60d83ea0785",
      "3f3271514107",
+     "9e37088de4c1",
      "5a0773cc79d1"
     ]
    },
@@ -910,18 +909,16 @@
    "status_link": null,
    "first_seen": "2026-10-23T10:05:24.966196+00:00",
    "consensus": {
-    "cluster_id": "9817e54a5e1d",
-    "independent_sources": 3,
+    "cluster_id": "514b4160b9de",
+    "independent_sources": 2,
     "sources": [
-     "AOL.co.uk",
      "Athlon Sports",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "75724089f665",
-     "9817e54a5e1d"
+     "75724089f665"
     ]
    },
    "updated": "2026-10-23T10:05:24.966196+00:00",

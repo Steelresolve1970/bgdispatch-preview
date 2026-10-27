@@ -1,10 +1,11 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-27T18:07:03+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T18:06:41+00:00._
+_Generated 2026-10-27T18:18:09+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T18:17:44+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [Pittsburgh Steelers 5-2 But Can They Keep It Going? - NFL Headlines Week 7](https://arthurmoats55.libsyn.com/pittsburgh_steelers_5-2_but_can_they_keep_it_going__-_nfl_headlines__week_7mp3): The Arthur Moats Experience, 2026-10-27 17:36 UTC
 - Podcast: [Steelers Two Biggest Strengths Can Carry Them - Hopefully](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-27 16:57 UTC
+- Podcast: [Mike McCarthy Picking Up Where Tomlin Left Off? | Steelers Morning Rush](https://podcasts.apple.com/us/podcast/mike-mccarthy-picking-up-where-tomlin-left-off-steelers/id1700240934?i=1000798379740): Steelers Afternoon Drive, 2026-10-27 15:51 UTC
 - Video: [Mike McCarthy Picking Up Where Tomlin Left Off? | Steelers Morning Rush](https://www.youtube.com/watch?v=bGLS-lh1_xo): Steelers Now, 2026-10-27 15:50 UTC
 - Video: [Steelers' DL Grades](https://www.youtube.com/shorts/gau9YdRy96Y): Steelers Almighty, 2026-10-27 15:34 UTC
 - Podcast: [Hour 1: You Have to Win in the Trenches](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-102726-mp3): Steelers Blitz, 2026-10-27 15:00 UTC
