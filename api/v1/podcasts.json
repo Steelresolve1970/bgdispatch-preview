@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-27T22:01:05+00:00",
- "data_updated": "2026-10-27T22:00:47+00:00",
- "count": 104,
+ "generated": "2026-10-27T22:11:59+00:00",
+ "data_updated": "2026-10-27T22:11:42+00:00",
+ "count": 101,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -1329,45 +1329,6 @@
    "summary": "Video from Locked On Steelers.",
    "source": {
     "name": "Locked On Steelers",
-    "url": null
-   }
-  },
-  {
-   "id": "c4dbbde8afbc1432",
-   "type": "video",
-   "title": "Nu Leader on D-Line? | Steelers Afternoon Drive",
-   "show": "Steelers Now",
-   "url": "https://www.youtube.com/watch?v=lnaN5WeNfUQ",
-   "published": "2026-10-22T22:05:57+00:00",
-   "summary": "Video from Steelers Now.",
-   "source": {
-    "name": "Steelers Now",
-    "url": null
-   }
-  },
-  {
-   "id": "8788ce33274fe34b",
-   "type": "podcast_episode",
-   "title": "Saints and Steelers Set for Historic Paris Showdown: Key Matchups and Predictions",
-   "show": "DK Pittsburgh Sports",
-   "url": "https://podcasts.apple.com/us/podcast/saints-and-steelers-set-for-historic-paris-showdown/id1072021022?i=1000797686669",
-   "published": "2026-10-22T22:04:00+00:00",
-   "summary": "Podcast episode from DK Pittsburgh Sports.",
-   "source": {
-    "name": "DK Pittsburgh Sports",
-    "url": null
-   }
-  },
-  {
-   "id": "aebe83280244d13d",
-   "type": "podcast_episode",
-   "title": "Nu Leader on D-Line? | Steelers Afternoon Drive",
-   "show": "Steelers Afternoon Drive",
-   "url": "https://podcasts.apple.com/us/podcast/nu-leader-on-d-line-steelers-afternoon-drive/id1700240934?i=1000797686445",
-   "published": "2026-10-22T22:03:00+00:00",
-   "summary": "Podcast episode from Steelers Afternoon Drive.",
-   "source": {
-    "name": "Steelers Afternoon Drive",
     "url": null
    }
   }

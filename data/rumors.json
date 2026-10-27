@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T22:00:58.605816+00:00",
+ "generated": "2026-10-27T22:11:52.791049+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -44,6 +44,33 @@
  },
  "rumors": [
   {
+   "id": "1a162bd24158",
+   "title": "Trade rumor: Steelers",
+   "source": "Steelers Now",
+   "link": "https://steelersnow.com/steelers-afternoon-drive-trade-deadline-fits/",
+   "published": "2026-10-27T22:09:16+00:00",
+   "summary": "Steelers Now passes along trade speculation involving the Steelers; treat it as unconfirmed until the team announces a move, touching on the trade deadline. Read the full story at Steelers Now.",
+   "tier": "Beat writer / team",
+   "tier_score": 3,
+   "subjects": [],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-27T22:11:52.791049+00:00",
+   "own": 1,
+   "consensus": {
+    "cluster_id": "1a162bd24158",
+    "independent_sources": 1,
+    "sources": [
+     "Steelers Now"
+    ],
+    "highest_tier": "Beat writer / team",
+    "highest_tier_score": 3,
+    "related_ids": []
+   },
+   "updated": "2026-10-27T22:11:52.791049+00:00"
+  },
+  {
    "id": "75649bd9f46f",
    "title": "Trade rumor: DeForest Buckner",
    "source": "KRQE",
@@ -61,23 +88,23 @@
    "first_seen": "2026-10-27T21:49:56.799839+00:00",
    "own": 1,
    "consensus": {
-    "cluster_id": "3f685cc6b189",
+    "cluster_id": "75649bd9f46f",
     "independent_sources": 2,
     "sources": [
-     "Bozeman Daily Chronicle",
-     "KRQE"
+     "KRQE",
+     "New Haven Register"
     ],
     "highest_tier": "Aggregator / other",
     "highest_tier_score": 1,
     "related_ids": [
-     "3f685cc6b189"
+     "0a431148d10e"
     ]
    },
    "updated": "2026-10-27T21:49:56.799839+00:00"
   },
   {
    "id": "0cdd0e07e09e",
-   "title": "Trade rumor: Steelers",
+   "title": "Trade rumor: Steelers (heavy.com)",
    "source": "heavy.com",
    "link": "https://heavy.com/sports/nfl/pittsburgh-steelers/jauan-jennings-pittsburgh-steelers-trade-target/",
    "published": "2026-10-27T21:25:52+00:00",
@@ -145,10 +172,11 @@
    "first_seen": "2026-10-27T18:29:01.878764+00:00",
    "own": 1,
    "consensus": {
-    "cluster_id": "9e37088de4c1",
-    "independent_sources": 5,
+    "cluster_id": "3f3271514107",
+    "independent_sources": 6,
     "sources": [
      "A to Z Sports",
+     "Heavy.com",
      "Steelers Depot",
      "Steelers Now",
      "Still Curtain",
@@ -159,7 +187,9 @@
     "related_ids": [
      "702ace99a8e9",
      "c60d83ea0785",
+     "45c4bcc7cd1b",
      "9e37088de4c1",
+     "3f3271514107",
      "7fd46e561838",
      "5a0773cc79d1"
     ]
@@ -244,10 +274,11 @@
    "first_seen": "2026-10-27T17:10:51.139507+00:00",
    "own": 1,
    "consensus": {
-    "cluster_id": "9e37088de4c1",
-    "independent_sources": 5,
+    "cluster_id": "3f3271514107",
+    "independent_sources": 6,
     "sources": [
      "A to Z Sports",
+     "Heavy.com",
      "Steelers Depot",
      "Steelers Now",
      "Still Curtain",
@@ -258,7 +289,9 @@
     "related_ids": [
      "f70a13da10bb",
      "c60d83ea0785",
+     "45c4bcc7cd1b",
      "9e37088de4c1",
+     "3f3271514107",
      "7fd46e561838",
      "5a0773cc79d1"
     ]
@@ -340,10 +373,11 @@
    "first_seen": "2026-10-27T15:25:25.271977+00:00",
    "own": 1,
    "consensus": {
-    "cluster_id": "9e37088de4c1",
-    "independent_sources": 5,
+    "cluster_id": "3f3271514107",
+    "independent_sources": 6,
     "sources": [
      "A to Z Sports",
+     "Heavy.com",
      "Steelers Depot",
      "Steelers Now",
      "Still Curtain",
@@ -354,7 +388,9 @@
     "related_ids": [
      "f70a13da10bb",
      "702ace99a8e9",
+     "45c4bcc7cd1b",
      "9e37088de4c1",
+     "3f3271514107",
      "7fd46e561838",
      "5a0773cc79d1"
     ]
@@ -580,10 +616,11 @@
    "first_seen": "2026-10-27T19:38:48.765854+00:00",
    "own": 1,
    "consensus": {
-    "cluster_id": "9e37088de4c1",
-    "independent_sources": 5,
+    "cluster_id": "3f3271514107",
+    "independent_sources": 6,
     "sources": [
      "A to Z Sports",
+     "Heavy.com",
      "Steelers Depot",
      "Steelers Now",
      "Still Curtain",
@@ -595,6 +632,8 @@
      "f70a13da10bb",
      "702ace99a8e9",
      "c60d83ea0785",
+     "45c4bcc7cd1b",
+     "3f3271514107",
      "7fd46e561838",
      "5a0773cc79d1"
     ]
@@ -701,14 +740,16 @@
    "status_link": null,
    "first_seen": "2026-10-24T19:19:09.992808+00:00",
    "consensus": {
-    "cluster_id": "805f664a84f1",
+    "cluster_id": "ca205789e3a8",
     "independent_sources": 1,
     "sources": [
      "Bolavip US"
     ],
     "highest_tier": "Aggregator / other",
     "highest_tier_score": 1,
-    "related_ids": []
+    "related_ids": [
+     "ca205789e3a8"
+    ]
    },
    "updated": "2026-10-24T19:19:09.992808+00:00",
    "own": 1
@@ -996,10 +1037,11 @@
    "status_link": null,
    "first_seen": "2026-10-23T11:09:06.018743+00:00",
    "consensus": {
-    "cluster_id": "9e37088de4c1",
-    "independent_sources": 5,
+    "cluster_id": "3f3271514107",
+    "independent_sources": 6,
     "sources": [
      "A to Z Sports",
+     "Heavy.com",
      "Steelers Depot",
      "Steelers Now",
      "Still Curtain",
@@ -1011,7 +1053,9 @@
      "f70a13da10bb",
      "702ace99a8e9",
      "c60d83ea0785",
+     "45c4bcc7cd1b",
      "9e37088de4c1",
+     "3f3271514107",
      "5a0773cc79d1"
     ]
    },

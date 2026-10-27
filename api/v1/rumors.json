@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "rumors",
  "description": "Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).",
- "generated": "2026-10-27T22:01:05+00:00",
- "data_updated": "2026-10-27T22:00:58+00:00",
- "count": 33,
+ "generated": "2026-10-27T22:11:59+00:00",
+ "data_updated": "2026-10-27T22:11:52+00:00",
+ "count": 34,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -19,6 +19,35 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/rumors",
  "items": [
+  {
+   "id": "1a162bd24158",
+   "type": "rumor",
+   "title": "Trade rumor: Steelers",
+   "summary": "Steelers Now passes along trade speculation involving the Steelers; treat it as unconfirmed until the team announces a move, touching on the trade deadline. Read the full story at Steelers Now.",
+   "url": "https://steelersnow.com/steelers-afternoon-drive-trade-deadline-fits/",
+   "source": {
+    "name": "Steelers Now",
+    "url": null,
+    "reliability_tier": "Beat writer / team",
+    "reliability_score": 3
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-27T22:11:52+00:00",
+   "updated": "2026-10-27T22:11:52+00:00",
+   "published": "2026-10-27T22:09:16+00:00",
+   "people": [],
+   "consensus": {
+    "cluster_id": "1a162bd24158",
+    "independent_sources": 1,
+    "sources": [
+     "Steelers Now"
+    ],
+    "highest_tier": "Beat writer / team",
+    "highest_tier_score": 3,
+    "related_ids": []
+   }
+  },
   {
    "id": "75649bd9f46f",
    "type": "rumor",
@@ -40,23 +69,23 @@
     "DeForest Buckner"
    ],
    "consensus": {
-    "cluster_id": "3f685cc6b189",
+    "cluster_id": "75649bd9f46f",
     "independent_sources": 2,
     "sources": [
-     "Bozeman Daily Chronicle",
-     "KRQE"
+     "KRQE",
+     "New Haven Register"
     ],
     "highest_tier": "Aggregator / other",
     "highest_tier_score": 1,
     "related_ids": [
-     "3f685cc6b189"
+     "0a431148d10e"
     ]
    }
   },
   {
    "id": "0cdd0e07e09e",
    "type": "rumor",
-   "title": "Trade rumor: Steelers",
+   "title": "Trade rumor: Steelers (heavy.com)",
    "summary": "heavy.com passes along trade speculation involving the Steelers; treat it as unconfirmed until the team announces a move, touching on the Steelers' receivers. Read the full story at heavy.com.",
    "url": "https://heavy.com/sports/nfl/pittsburgh-steelers/jauan-jennings-pittsburgh-steelers-trade-target/",
    "source": {
@@ -130,10 +159,11 @@
    "published": "2026-10-27T18:26:40+00:00",
    "people": [],
    "consensus": {
-    "cluster_id": "9e37088de4c1",
-    "independent_sources": 5,
+    "cluster_id": "3f3271514107",
+    "independent_sources": 6,
     "sources": [
      "A to Z Sports",
+     "Heavy.com",
      "Steelers Depot",
      "Steelers Now",
      "Still Curtain",
@@ -144,7 +174,9 @@
     "related_ids": [
      "702ace99a8e9",
      "c60d83ea0785",
+     "45c4bcc7cd1b",
      "9e37088de4c1",
+     "3f3271514107",
      "7fd46e561838",
      "5a0773cc79d1"
     ]
@@ -235,10 +267,11 @@
    "published": "2026-10-27T16:17:14+00:00",
    "people": [],
    "consensus": {
-    "cluster_id": "9e37088de4c1",
-    "independent_sources": 5,
+    "cluster_id": "3f3271514107",
+    "independent_sources": 6,
     "sources": [
      "A to Z Sports",
+     "Heavy.com",
      "Steelers Depot",
      "Steelers Now",
      "Still Curtain",
@@ -249,7 +282,9 @@
     "related_ids": [
      "f70a13da10bb",
      "c60d83ea0785",
+     "45c4bcc7cd1b",
      "9e37088de4c1",
+     "3f3271514107",
      "7fd46e561838",
      "5a0773cc79d1"
     ]
@@ -337,10 +372,11 @@
    "published": "2026-10-27T15:15:49+00:00",
    "people": [],
    "consensus": {
-    "cluster_id": "9e37088de4c1",
-    "independent_sources": 5,
+    "cluster_id": "3f3271514107",
+    "independent_sources": 6,
     "sources": [
      "A to Z Sports",
+     "Heavy.com",
      "Steelers Depot",
      "Steelers Now",
      "Still Curtain",
@@ -351,7 +387,9 @@
     "related_ids": [
      "f70a13da10bb",
      "702ace99a8e9",
+     "45c4bcc7cd1b",
      "9e37088de4c1",
+     "3f3271514107",
      "7fd46e561838",
      "5a0773cc79d1"
     ]
@@ -593,10 +631,11 @@
     "Pro Bowl"
    ],
    "consensus": {
-    "cluster_id": "9e37088de4c1",
-    "independent_sources": 5,
+    "cluster_id": "3f3271514107",
+    "independent_sources": 6,
     "sources": [
      "A to Z Sports",
+     "Heavy.com",
      "Steelers Depot",
      "Steelers Now",
      "Still Curtain",
@@ -608,6 +647,8 @@
      "f70a13da10bb",
      "702ace99a8e9",
      "c60d83ea0785",
+     "45c4bcc7cd1b",
+     "3f3271514107",
      "7fd46e561838",
      "5a0773cc79d1"
     ]
@@ -723,14 +764,16 @@
     "Jaguars WR Brian"
    ],
    "consensus": {
-    "cluster_id": "805f664a84f1",
+    "cluster_id": "ca205789e3a8",
     "independent_sources": 1,
     "sources": [
      "Bolavip US"
     ],
     "highest_tier": "Aggregator / other",
     "highest_tier_score": 1,
-    "related_ids": []
+    "related_ids": [
+     "ca205789e3a8"
+    ]
    }
   },
   {
@@ -1038,10 +1081,11 @@
    "published": "2026-10-23T11:00:04+00:00",
    "people": [],
    "consensus": {
-    "cluster_id": "9e37088de4c1",
-    "independent_sources": 5,
+    "cluster_id": "3f3271514107",
+    "independent_sources": 6,
     "sources": [
      "A to Z Sports",
+     "Heavy.com",
      "Steelers Depot",
      "Steelers Now",
      "Still Curtain",
@@ -1053,7 +1097,9 @@
      "f70a13da10bb",
      "702ace99a8e9",
      "c60d83ea0785",
+     "45c4bcc7cd1b",
      "9e37088de4c1",
+     "3f3271514107",
      "5a0773cc79d1"
     ]
    }
