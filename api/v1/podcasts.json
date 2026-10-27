@@ -2,8 +2,8 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-27T13:02:28+00:00",
- "data_updated": "2026-10-27T13:02:10+00:00",
+ "generated": "2026-10-27T13:33:17+00:00",
+ "data_updated": "2026-10-27T13:32:52+00:00",
  "count": 104,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
@@ -185,6 +185,19 @@
    "summary": "Video from Pittsburgh Steelers (official).",
    "source": {
     "name": "Pittsburgh Steelers (official)",
+    "url": null
+   }
+  },
+  {
+   "id": "f41e54daf90b07dd",
+   "type": "podcast_episode",
+   "title": "Steelers Final Piece to Become Serious Contenders",
+   "show": "All Steelers Talk",
+   "url": "https://podcasts.apple.com/us/podcast/steelers-final-piece-to-become-serious-contenders/id1627248534?i=1000798253698",
+   "published": "2026-10-26T21:29:00+00:00",
+   "summary": "Podcast episode from All Steelers Talk.",
+   "source": {
+    "name": "All Steelers Talk",
     "url": null
    }
   },
@@ -1355,19 +1368,6 @@
    "summary": "Podcast episode from Steelers Blitz.",
    "source": {
     "name": "Steelers Blitz",
-    "url": null
-   }
-  },
-  {
-   "id": "b618cdb365970264",
-   "type": "video",
-   "title": "STEELERS SQUAD SHOW: Offense MUST Improve as Jaylen Warren, Aaron Rodgers Prepare for Saints & Paris",
-   "show": "Locked On Steelers",
-   "url": "https://www.youtube.com/watch?v=Es_bukL78yk",
-   "published": "2026-10-22T13:02:40+00:00",
-   "summary": "Video from Locked On Steelers.",
-   "source": {
-    "name": "Locked On Steelers",
     "url": null
    }
   }

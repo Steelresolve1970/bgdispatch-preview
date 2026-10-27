@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-27T13:02:32.045578+00:00",
+ "last_run": "2026-10-27T13:33:23.150728+00:00",
  "results": [
   {
    "fetcher": "apply_grade_edits.py",
@@ -10,25 +10,25 @@
   {
    "fetcher": "fetch_news.py",
    "ok": true,
-   "seconds": 19.5,
+   "seconds": 14.0,
    "last_line": "news: 150 ticker: 30"
   },
   {
    "fetcher": "fetch_schedule.py",
    "ok": true,
-   "seconds": 0.5,
+   "seconds": 1.0,
    "last_line": "record 5-2 next Cleveland Browns games 17"
   },
   {
    "fetcher": "fetch_standings.py",
    "ok": true,
-   "seconds": 0.5,
+   "seconds": 1.0,
    "last_line": "standings 2026 games 107 through 2026-10-26"
   },
   {
    "fetcher": "build_boxscores.py",
    "ok": true,
-   "seconds": 6.0,
+   "seconds": 137.9,
    "last_line": "boxscores 7"
   },
   {
@@ -47,31 +47,31 @@
    "fetcher": "fetch_podcasts.py",
    "ok": true,
    "seconds": 7.0,
-   "last_line": "episodes past 5 days: 106 | embed-fallback channels: 0 | post-game: 8"
+   "last_line": "episodes past 5 days: 105 | embed-fallback channels: 0 | post-game: 8"
   },
   {
    "fetcher": "fetch_featured.py",
    "ok": true,
-   "seconds": 1.5,
+   "seconds": 1.0,
    "last_line": "highlights New Orleans Saints Pittsburgh Steelers vs. New Orleans Saints Game Highlights | 2026 NFL Season Week 7"
   },
   {
    "fetcher": "fetch_grades.py",
    "ok": true,
-   "seconds": 1.0,
+   "seconds": 1.5,
    "last_line": "weeks 7 ballot players 42 season players 53"
   },
   {
    "fetcher": "fetch_stats.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "stats fresh; skipped"
+   "last_line": "team stats 20 players 43 pools {'offense:passing': 62, 'offense:rushing': 242, 'offense:receiving': 399, 'defense': 1147}"
   },
   {
    "fetcher": "build_leaders.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "leaders fresh; skipped"
+   "last_line": "leaders team 20 player 18 sizes {'pass_yds': 45, 'ypa': 35, 'pass_td': 45, 'int_thrown': 45, 'passer_rtg': 35, 'rush_yds': 83, 'rush_td': 83, 'rec': 166, 'rec_yds': 166, 'rec_td': 166, 'yac': 166, 'tackles': 376, 'sacks': 285, 'tfl': 144, 'pd': 224, 'int': 115, 'ff': 154, 'fr': 109}"
   },
   {
    "fetcher": "fetch_draft.py",
@@ -112,7 +112,7 @@
   {
    "fetcher": "fetch_hub.py",
    "ok": true,
-   "seconds": 1.0,
+   "seconds": 0.5,
    "last_line": "injuries 14 practice 4 opp CLE"
   },
   {
@@ -124,14 +124,14 @@
   {
    "fetcher": "fetch_depth.py",
    "ok": true,
-   "seconds": 2.5,
+   "seconds": 3.5,
    "last_line": "depth units [('Offense', '3WR 1TE', 12), ('Defense', 'Base 3-4 D', 12), ('Special teams', 'Special Teams', 6)]"
   },
   {
    "fetcher": "build_roster.py",
    "ok": true,
-   "seconds": 0.5,
-   "last_line": "roster unchanged today; skip"
+   "seconds": 6.5,
+   "last_line": "roster {'Active roster': 52, 'Practice squad': 18, 'Reserve / IR': 10} {'no_draft_row': 0, 'no_stats': 18, 'no_snaps': 14}"
   },
   {
    "fetcher": "fetch_player_socials.py",
@@ -143,7 +143,7 @@
    "fetcher": "fetch_rumors.py",
    "ok": true,
    "seconds": 2.5,
-   "last_line": "rumors 25 {'Rumor': 24, 'Confirmed': 1, 'Denied': 0}"
+   "last_line": "rumors 26 {'Rumor': 25, 'Confirmed': 1, 'Denied': 0}"
   },
   {
    "fetcher": "fetch_pickem.py",
@@ -172,20 +172,20 @@
   {
    "fetcher": "fetch_quotes.py",
    "ok": true,
-   "seconds": 1.5,
-   "last_line": "quotes: 5 kept from 125 articles"
+   "seconds": 2.0,
+   "last_line": "quotes: 4 kept from 127 articles"
   },
   {
    "fetcher": "build_machine.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "machine layer: {'news': 150, 'rumors': 25, 'injuries': 14, 'depth-chart': 28, 'schedule': 17, 'stats': 63, 'grades': 42, 'college': 20, 'insiders': 36, 'podcasts': 104, 'film': 3, 'draft': 521} md 13 feeds 5 jsonld 14"
+   "last_line": "machine layer: {'news': 150, 'rumors': 26, 'injuries': 14, 'depth-chart': 28, 'schedule': 17, 'stats': 63, 'grades': 42, 'college': 20, 'insiders': 36, 'podcasts': 104, 'film': 3, 'draft': 521} md 13 feeds 5 jsonld 14"
   },
   {
    "fetcher": "admin_stats.py",
    "ok": true,
-   "seconds": 3.5,
-   "last_line": "admin stats stored: today views 22 visits 10"
+   "seconds": 5.0,
+   "last_line": "admin stats stored: today views 24 visits 12"
   }
  ]
 }

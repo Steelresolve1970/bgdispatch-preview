@@ -1,13 +1,13 @@
 {
- "generated": "2026-10-27T07:15:39.698151+00:00",
+ "generated": "2026-10-27T13:33:10.392609+00:00",
  "built_day": "2026-10-27",
- "source_sig": "a847f97b26d3094c9e83ee8c67a3f01e",
+ "source_sig": "ec66ef9bfc97e5dfdd71b3e4dad5887a",
  "season": 2026,
- "nflverse_week": 7,
- "nflverse_file_updated": "2026-10-27T07:15:18.249716+00:00",
+ "nflverse_week": 8,
+ "nflverse_file_updated": "2026-10-27T13:32:54.385560+00:00",
  "counts": {
-  "Active roster": 48,
-  "Practice squad": 16,
+  "Active roster": 52,
+  "Practice squad": 18,
   "Reserve / IR": 10
  },
  "gaps": {
@@ -22,13 +22,15 @@
    "Troy Fautanu",
    "Daequan Hardy",
    "Julius Welschof",
+   "Will Howard",
    "Donte Kent",
    "Car'lin Vigers",
    "Max Hurleman",
    "Kevin Jobity Jr.",
    "Lake McRee",
    "Gennings Dunker",
-   "Max Iheanachor"
+   "Max Iheanachor",
+   "Drew Allar"
   ],
   "no_snaps": [
    "Steven Jones",
@@ -37,12 +39,14 @@
    "Doug Nester",
    "Daequan Hardy",
    "Julius Welschof",
+   "Will Howard",
    "Donte Kent",
    "Car'lin Vigers",
    "Max Hurleman",
    "Lake McRee",
    "Gennings Dunker",
-   "Gabe Rubio"
+   "Gabe Rubio",
+   "Drew Allar"
   ]
  },
  "note": "Roster status from nflverse weekly roster data; it can trail same-day transactions by a day or two. Games/starts from nflverse snap counts (2012+); 'starts' = games with 50%+ of offensive or defensive snaps (nflverse has no official starts field). Regular season only.",
@@ -361,6 +365,19 @@
    "status": "Injured reserve (designated to return)"
   },
   {
+   "id": "00-0036504",
+   "name": "Brandin Echols",
+   "num": "26",
+   "pos": "DB",
+   "height": "5'10\"",
+   "weight": 178,
+   "age": 29,
+   "exp": 5,
+   "college": "Kentucky",
+   "group": "Active roster",
+   "status": "Active roster"
+  },
+  {
    "id": "00-0036617",
    "name": "Asante Samuel Jr.",
    "num": "22",
@@ -383,8 +400,8 @@
    "age": 27,
    "exp": 5,
    "college": "Iowa",
-   "group": "Active roster",
-   "status": "Active roster"
+   "group": "Practice squad",
+   "status": "Practice squad"
   },
   {
    "id": "00-0036783",
@@ -396,6 +413,19 @@
    "age": 28,
    "exp": 5,
    "college": "Texas A&M",
+   "group": "Active roster",
+   "status": "Active roster"
+  },
+  {
+   "id": "00-0036862",
+   "name": "Ben Skowronek",
+   "num": "15",
+   "pos": "WR",
+   "height": "6'3\"",
+   "weight": 224,
+   "age": 29,
+   "exp": 5,
+   "college": "Notre Dame; Northwestern",
    "group": "Active roster",
    "status": "Active roster"
   },
@@ -461,8 +491,8 @@
    "age": 28,
    "exp": 4,
    "college": "UCF; Tennessee",
-   "group": "Active roster",
-   "status": "Active roster"
+   "group": "Practice squad",
+   "status": "Practice squad (veteran)"
   },
   {
    "id": "00-0037480",
@@ -502,6 +532,19 @@
    "college": "South Carolina",
    "group": "Practice squad",
    "status": "Practice squad"
+  },
+  {
+   "id": "00-0038395",
+   "name": "Terell Smith",
+   "num": "39",
+   "pos": "DB",
+   "height": "6'0\"",
+   "weight": 207,
+   "age": 27,
+   "exp": 3,
+   "college": "Minnesota",
+   "group": "Active roster",
+   "status": "Active roster"
   },
   {
    "id": "00-0038409",
@@ -790,6 +833,19 @@
    "status": "Active roster"
   },
   {
+   "id": "00-0040203",
+   "name": "Will Howard",
+   "num": "18",
+   "pos": "QB",
+   "height": "6'4\"",
+   "weight": 235,
+   "age": 25,
+   "exp": 1,
+   "college": "Ohio State; Kansas State",
+   "group": "Active roster",
+   "status": "Active roster"
+  },
+  {
    "id": "00-0040231",
    "name": "Carson Bruener",
    "num": "44",
@@ -1007,6 +1063,32 @@
    "age": 22,
    "exp": 0,
    "college": "Alabama; Washington; Michigan State",
+   "group": "Active roster",
+   "status": "Active roster"
+  },
+  {
+   "id": "00-0041490",
+   "name": "Eli Heidenreich",
+   "num": "29",
+   "pos": "RB",
+   "height": "6'0\"",
+   "weight": 198,
+   "age": 23,
+   "exp": 0,
+   "college": "Navy",
+   "group": "Active roster",
+   "status": "Active roster"
+  },
+  {
+   "id": "00-0041565",
+   "name": "Drew Allar",
+   "num": "16",
+   "pos": "QB",
+   "height": "6'5\"",
+   "weight": 228,
+   "age": 22,
+   "exp": 0,
+   "college": "Penn State",
    "group": "Active roster",
    "status": "Active roster"
   }
