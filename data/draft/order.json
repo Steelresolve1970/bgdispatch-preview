@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T03:33:02.962927+00:00",
+ "generated": "2026-10-27T10:17:08.512658+00:00",
  "rounds": 7,
  "total": 224,
  "note": "Projected 2027 order from current records (nflverse, CC-BY 4.0): worst record first, ties broken by easier strength of schedule so far, then point differential. Same order every round; playoff seeding, traded picks and compensatory picks are not included. Not official.",
@@ -21,7 +21,7 @@
    "losses": 6,
    "ties": 0,
    "pct": 0.143,
-   "sos": 0.446,
+   "sos": 0.439,
    "pdiff": -48
   },
   {
@@ -41,8 +41,18 @@
    "losses": 4,
    "ties": 1,
    "pct": 0.25,
-   "sos": 0.504,
+   "sos": 0.512,
    "pdiff": -40
+  },
+  {
+   "abbr": "PHI",
+   "name": "Philadelphia Eagles",
+   "wins": 2,
+   "losses": 5,
+   "ties": 0,
+   "pct": 0.286,
+   "sos": 0.447,
+   "pdiff": -48
   },
   {
    "abbr": "NYJ",
@@ -61,7 +71,7 @@
    "losses": 5,
    "ties": 0,
    "pct": 0.286,
-   "sos": 0.51,
+   "sos": 0.524,
    "pdiff": -5
   },
   {
@@ -101,28 +111,18 @@
    "losses": 5,
    "ties": 0,
    "pct": 0.286,
-   "sos": 0.643,
+   "sos": 0.656,
    "pdiff": 11
   },
   {
    "abbr": "DAL",
    "name": "Dallas Cowboys",
-   "wins": 2,
+   "wins": 3,
    "losses": 4,
    "ties": 0,
-   "pct": 0.333,
-   "sos": 0.435,
-   "pdiff": -8
-  },
-  {
-   "abbr": "PHI",
-   "name": "Philadelphia Eagles",
-   "wins": 2,
-   "losses": 4,
-   "ties": 0,
-   "pct": 0.333,
-   "sos": 0.45,
-   "pdiff": -31
+   "pct": 0.429,
+   "sos": 0.413,
+   "pdiff": 9
   },
   {
    "abbr": "LV",
@@ -141,7 +141,7 @@
    "losses": 4,
    "ties": 0,
    "pct": 0.429,
-   "sos": 0.585,
+   "sos": 0.578,
    "pdiff": 11
   },
   {
@@ -161,7 +161,7 @@
    "losses": 3,
    "ties": 0,
    "pct": 0.5,
-   "sos": 0.524,
+   "sos": 0.516,
    "pdiff": -7
   },
   {
@@ -171,7 +171,7 @@
    "losses": 3,
    "ties": 0,
    "pct": 0.571,
-   "sos": 0.408,
+   "sos": 0.422,
    "pdiff": 2
   },
   {
@@ -191,7 +191,7 @@
    "losses": 3,
    "ties": 0,
    "pct": 0.571,
-   "sos": 0.531,
+   "sos": 0.544,
    "pdiff": -1
   },
   {
@@ -211,7 +211,7 @@
    "losses": 2,
    "ties": 1,
    "pct": 0.643,
-   "sos": 0.287,
+   "sos": 0.301,
    "pdiff": 2
   },
   {
@@ -241,7 +241,7 @@
    "losses": 2,
    "ties": 0,
    "pct": 0.667,
-   "sos": 0.548,
+   "sos": 0.54,
    "pdiff": 50
   },
   {
@@ -281,7 +281,7 @@
    "losses": 2,
    "ties": 0,
    "pct": 0.714,
-   "sos": 0.527,
+   "sos": 0.52,
    "pdiff": 37
   },
   {
@@ -354,49 +354,49 @@
    "overall": 5,
    "round": 1,
    "pick": 5,
-   "team": "NYJ"
+   "team": "PHI"
   },
   {
    "overall": 6,
    "round": 1,
    "pick": 6,
-   "team": "HOU"
+   "team": "NYJ"
   },
   {
    "overall": 7,
    "round": 1,
    "pick": 7,
-   "team": "IND"
+   "team": "HOU"
   },
   {
    "overall": 8,
    "round": 1,
    "pick": 8,
-   "team": "ARI"
+   "team": "IND"
   },
   {
    "overall": 9,
    "round": 1,
    "pick": 9,
-   "team": "NO"
+   "team": "ARI"
   },
   {
    "overall": 10,
    "round": 1,
    "pick": 10,
-   "team": "TB"
+   "team": "NO"
   },
   {
    "overall": 11,
    "round": 1,
    "pick": 11,
-   "team": "DAL"
+   "team": "TB"
   },
   {
    "overall": 12,
    "round": 1,
    "pick": 12,
-   "team": "PHI"
+   "team": "DAL"
   },
   {
    "overall": 13,
@@ -546,49 +546,49 @@
    "overall": 37,
    "round": 2,
    "pick": 5,
-   "team": "NYJ"
+   "team": "PHI"
   },
   {
    "overall": 38,
    "round": 2,
    "pick": 6,
-   "team": "HOU"
+   "team": "NYJ"
   },
   {
    "overall": 39,
    "round": 2,
    "pick": 7,
-   "team": "IND"
+   "team": "HOU"
   },
   {
    "overall": 40,
    "round": 2,
    "pick": 8,
-   "team": "ARI"
+   "team": "IND"
   },
   {
    "overall": 41,
    "round": 2,
    "pick": 9,
-   "team": "NO"
+   "team": "ARI"
   },
   {
    "overall": 42,
    "round": 2,
    "pick": 10,
-   "team": "TB"
+   "team": "NO"
   },
   {
    "overall": 43,
    "round": 2,
    "pick": 11,
-   "team": "DAL"
+   "team": "TB"
   },
   {
    "overall": 44,
    "round": 2,
    "pick": 12,
-   "team": "PHI"
+   "team": "DAL"
   },
   {
    "overall": 45,
@@ -738,49 +738,49 @@
    "overall": 69,
    "round": 3,
    "pick": 5,
-   "team": "NYJ"
+   "team": "PHI"
   },
   {
    "overall": 70,
    "round": 3,
    "pick": 6,
-   "team": "HOU"
+   "team": "NYJ"
   },
   {
    "overall": 71,
    "round": 3,
    "pick": 7,
-   "team": "IND"
+   "team": "HOU"
   },
   {
    "overall": 72,
    "round": 3,
    "pick": 8,
-   "team": "ARI"
+   "team": "IND"
   },
   {
    "overall": 73,
    "round": 3,
    "pick": 9,
-   "team": "NO"
+   "team": "ARI"
   },
   {
    "overall": 74,
    "round": 3,
    "pick": 10,
-   "team": "TB"
+   "team": "NO"
   },
   {
    "overall": 75,
    "round": 3,
    "pick": 11,
-   "team": "DAL"
+   "team": "TB"
   },
   {
    "overall": 76,
    "round": 3,
    "pick": 12,
-   "team": "PHI"
+   "team": "DAL"
   },
   {
    "overall": 77,
@@ -930,49 +930,49 @@
    "overall": 101,
    "round": 4,
    "pick": 5,
-   "team": "NYJ"
+   "team": "PHI"
   },
   {
    "overall": 102,
    "round": 4,
    "pick": 6,
-   "team": "HOU"
+   "team": "NYJ"
   },
   {
    "overall": 103,
    "round": 4,
    "pick": 7,
-   "team": "IND"
+   "team": "HOU"
   },
   {
    "overall": 104,
    "round": 4,
    "pick": 8,
-   "team": "ARI"
+   "team": "IND"
   },
   {
    "overall": 105,
    "round": 4,
    "pick": 9,
-   "team": "NO"
+   "team": "ARI"
   },
   {
    "overall": 106,
    "round": 4,
    "pick": 10,
-   "team": "TB"
+   "team": "NO"
   },
   {
    "overall": 107,
    "round": 4,
    "pick": 11,
-   "team": "DAL"
+   "team": "TB"
   },
   {
    "overall": 108,
    "round": 4,
    "pick": 12,
-   "team": "PHI"
+   "team": "DAL"
   },
   {
    "overall": 109,
@@ -1122,49 +1122,49 @@
    "overall": 133,
    "round": 5,
    "pick": 5,
-   "team": "NYJ"
+   "team": "PHI"
   },
   {
    "overall": 134,
    "round": 5,
    "pick": 6,
-   "team": "HOU"
+   "team": "NYJ"
   },
   {
    "overall": 135,
    "round": 5,
    "pick": 7,
-   "team": "IND"
+   "team": "HOU"
   },
   {
    "overall": 136,
    "round": 5,
    "pick": 8,
-   "team": "ARI"
+   "team": "IND"
   },
   {
    "overall": 137,
    "round": 5,
    "pick": 9,
-   "team": "NO"
+   "team": "ARI"
   },
   {
    "overall": 138,
    "round": 5,
    "pick": 10,
-   "team": "TB"
+   "team": "NO"
   },
   {
    "overall": 139,
    "round": 5,
    "pick": 11,
-   "team": "DAL"
+   "team": "TB"
   },
   {
    "overall": 140,
    "round": 5,
    "pick": 12,
-   "team": "PHI"
+   "team": "DAL"
   },
   {
    "overall": 141,
@@ -1314,49 +1314,49 @@
    "overall": 165,
    "round": 6,
    "pick": 5,
-   "team": "NYJ"
+   "team": "PHI"
   },
   {
    "overall": 166,
    "round": 6,
    "pick": 6,
-   "team": "HOU"
+   "team": "NYJ"
   },
   {
    "overall": 167,
    "round": 6,
    "pick": 7,
-   "team": "IND"
+   "team": "HOU"
   },
   {
    "overall": 168,
    "round": 6,
    "pick": 8,
-   "team": "ARI"
+   "team": "IND"
   },
   {
    "overall": 169,
    "round": 6,
    "pick": 9,
-   "team": "NO"
+   "team": "ARI"
   },
   {
    "overall": 170,
    "round": 6,
    "pick": 10,
-   "team": "TB"
+   "team": "NO"
   },
   {
    "overall": 171,
    "round": 6,
    "pick": 11,
-   "team": "DAL"
+   "team": "TB"
   },
   {
    "overall": 172,
    "round": 6,
    "pick": 12,
-   "team": "PHI"
+   "team": "DAL"
   },
   {
    "overall": 173,
@@ -1506,49 +1506,49 @@
    "overall": 197,
    "round": 7,
    "pick": 5,
-   "team": "NYJ"
+   "team": "PHI"
   },
   {
    "overall": 198,
    "round": 7,
    "pick": 6,
-   "team": "HOU"
+   "team": "NYJ"
   },
   {
    "overall": 199,
    "round": 7,
    "pick": 7,
-   "team": "IND"
+   "team": "HOU"
   },
   {
    "overall": 200,
    "round": 7,
    "pick": 8,
-   "team": "ARI"
+   "team": "IND"
   },
   {
    "overall": 201,
    "round": 7,
    "pick": 9,
-   "team": "NO"
+   "team": "ARI"
   },
   {
    "overall": 202,
    "round": 7,
    "pick": 10,
-   "team": "TB"
+   "team": "NO"
   },
   {
    "overall": 203,
    "round": 7,
    "pick": 11,
-   "team": "DAL"
+   "team": "TB"
   },
   {
    "overall": 204,
    "round": 7,
    "pick": 12,
-   "team": "PHI"
+   "team": "DAL"
   },
   {
    "overall": 205,
@@ -1675,20 +1675,20 @@
   "ARI": [
    "S",
    "CB",
-   "DL",
    "QB",
+   "DL",
    "TE"
   ],
   "ATL": [
    "CB",
    "QB",
    "WR",
-   "OT",
-   "S"
+   "S",
+   "TE"
   ],
   "BAL": [
-   "S",
    "OT",
+   "S",
    "IOL",
    "CB",
    "TE"
@@ -1702,15 +1702,15 @@
   ],
   "CAR": [
    "LB",
-   "DL",
    "EDGE",
+   "DL",
    "OT",
    "IOL"
   ],
   "CHI": [
    "TE",
-   "IOL",
    "RB",
+   "IOL",
    "OT",
    "CB"
   ],
@@ -1719,21 +1719,21 @@
    "DL",
    "LB",
    "WR",
-   "CB"
+   "S"
   ],
   "CLE": [
    "OT",
    "IOL",
    "TE",
-   "DL",
-   "QB"
+   "QB",
+   "RB"
   ],
   "DAL": [
+   "DL",
    "S",
    "EDGE",
-   "DL",
    "LB",
-   "TE"
+   "CB"
   ],
   "DEN": [
    "DL",
@@ -1775,7 +1775,7 @@
    "CB",
    "WR",
    "LB",
-   "S"
+   "RB"
   ],
   "KC": [
    "EDGE",
@@ -1788,8 +1788,8 @@
    "RB",
    "DL",
    "CB",
-   "IOL",
-   "LB"
+   "LB",
+   "IOL"
   ],
   "LAC": [
    "QB",
@@ -1828,15 +1828,15 @@
   ],
   "NO": [
    "DL",
-   "LB",
    "CB",
-   "S",
-   "RB"
+   "LB",
+   "RB",
+   "S"
   ],
   "NYG": [
-   "LB",
-   "OT",
    "EDGE",
+   "OT",
+   "LB",
    "IOL",
    "DL"
   ],
@@ -1848,11 +1848,11 @@
    "DL"
   ],
   "PHI": [
-   "WR",
    "EDGE",
+   "LB",
+   "DL",
    "QB",
-   "RB",
-   "LB"
+   "CB"
   ],
   "PIT": [
    "QB",
@@ -1865,22 +1865,22 @@
    "EDGE",
    "S",
    "CB",
-   "DL",
-   "WR"
+   "WR",
+   "DL"
   ],
   "SEA": [
    "RB",
    "IOL",
    "OT",
    "QB",
-   "EDGE"
+   "TE"
   ],
   "TB": [
    "QB",
    "OT",
    "WR",
    "TE",
-   "CB"
+   "IOL"
   ],
   "TEN": [
    "TE",

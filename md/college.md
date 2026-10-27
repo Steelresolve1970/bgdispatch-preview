@@ -1,6 +1,6 @@
 # College Prospects at Steelers Needs
 
-_Generated 2026-10-27T10:06:19+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-26T22:16:34+00:00._
+_Generated 2026-10-27T10:17:24+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T10:17:11+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/college.json_
 
 ### Quarterback
@@ -24,7 +24,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/college.json_
 ### Inside linebacker
 - **Chris Cole** (LB, Georgia, our board #19): Chris made 10 tackles in a loss vs. Auburn. Season: 40 tackles, 2.5 sacks, 3 PD in 7 games. (stats: CollegeFootballData.com)
 - **Kyngstonn Viliamu-Asa** (LB, Notre Dame, our board #29): Kyngstonn made 2 tackles in a loss at BYU. Season: 15 tackles, 1 INT in 5 games. (stats: CollegeFootballData.com)
-- **Raylen Wilson** (LB, Georgia, our board #44): Raylen made 10 tackles with 1 sack in a loss vs. Auburn. Season: 43 tackles, 4 sacks in 6 games. (stats: CollegeFootballData.com)
+- **Raylen Wilson** (LB, Georgia, our board #43): Raylen made 10 tackles with 1 sack in a loss vs. Auburn. Season: 43 tackles, 4 sacks in 6 games. (stats: CollegeFootballData.com)
 - **Sammy Brown** (LB, Clemson, our board #45): Sammy made 7 tackles in a loss vs. Virginia Tech. Season: 47 tackles, 1 sack, 1 PD in 7 games. (stats: CollegeFootballData.com)
 
 ### Wide receiver
