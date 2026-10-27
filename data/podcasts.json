@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T01:59:43.410668+00:00",
+ "generated": "2026-10-27T02:20:27.031311+00:00",
  "date_et": "2026-10-26",
  "days": 5,
  "display_days": 2,
@@ -18,10 +18,10 @@
    "show": "Locked On Steelers",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7JorgD8nGLtvvMy1ogFetg",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 8,
-   "latest": null
+   "latest": "2026-10-27T01:03:20+00:00"
   },
   {
    "show": "The Terrible Podcast (Steelers Depot)",
@@ -99,10 +99,10 @@
    "show": "Steel City Underground",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDcNNAMkYr-DzH6_XL-0p8Q",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 2,
-   "latest": "2026-10-26T13:15:18+00:00"
+   "latest": null
   },
   {
    "show": "Steelers Afternoon Drive",
@@ -162,10 +162,10 @@
    "show": "The Steel City Insider (Jim Wexell, 247Sports)",
    "kind": "podcast",
    "url": "https://rss.amperwave.net/v2/feed/audacynetwork/steelersinsider",
-   "status": "ok",
-   "episodes": 198,
+   "status": "error: <urlopen error [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1029)>",
+   "episodes": 0,
    "week": 2,
-   "latest": "2026-10-26T14:05:27+00:00"
+   "latest": null
   },
   {
    "show": "Steel City Blitz",
@@ -216,10 +216,10 @@
    "show": "Not Just Football with Cam Heyward",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8hodyaoiw297aspKf9QVDA",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 5,
-   "latest": "2026-10-25T19:36:25+00:00"
+   "latest": null
   },
   {
    "show": "Footbahlin with Ben Roethlisberger",
@@ -243,10 +243,10 @@
    "show": "The Christian Kuntz Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKKBJcOGsYmwAATQv-xQYeA",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 0,
-   "latest": "2009-05-26T14:01:33+00:00"
+   "latest": null
   }
  ],
  "items": [
@@ -418,7 +418,7 @@
    "title": "Steelers' Aaron Rodgers Farewell Tour Has Finally Begun",
    "show": "All Steelers Talk",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/steelers-aaron-rodgers-farewell-tour-has-finally-begun/id1627248534?i=1000798172405",
+   "link": "https://podcasts.apple.com/us/podcast/id1627248534",
    "published": "2026-10-26T12:18:00+00:00",
    "summary": "Podcast episode from All Steelers Talk."
   },
@@ -554,7 +554,7 @@
    "title": "WINNERS! Steelers Are Getting Dangerous!",
    "show": "All Steelers Talk",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/winners-steelers-are-getting-dangerous/id1627248534?i=1000798047686",
+   "link": "https://podcasts.apple.com/us/podcast/id1627248534",
    "published": "2026-10-25T17:40:00+00:00",
    "summary": "Podcast episode from All Steelers Talk."
   },
@@ -698,7 +698,7 @@
    "title": "Steelers RB Injured | Aaron Rodgers Fires Back at Paris Trip",
    "show": "All Steelers Talk",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/steelers-rb-injured-aaron-rodgers-fires-back-at-paris-trip/id1627248534?i=1000797846180",
+   "link": "https://podcasts.apple.com/us/podcast/id1627248534",
    "published": "2026-10-23T21:12:00+00:00",
    "summary": "Podcast episode from All Steelers Talk."
   },
@@ -826,7 +826,7 @@
    "title": "Steelers Travel Plans Keep Browns Game In Sight",
    "show": "All Steelers Talk",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/steelers-travel-plans-keep-browns-game-in-sight/id1627248534?i=1000797780125",
+   "link": "https://podcasts.apple.com/us/podcast/id1627248534",
    "published": "2026-10-23T12:32:00+00:00",
    "summary": "Podcast episode from All Steelers Talk."
   },
@@ -922,7 +922,7 @@
    "title": "T.J. Watt Injured Before Paris Game | Steelers Need New DT",
    "show": "All Steelers Talk",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/t-j-watt-injured-before-paris-game-steelers-need-new-dt/id1627248534?i=1000797682697",
+   "link": "https://podcasts.apple.com/us/podcast/id1627248534",
    "published": "2026-10-22T21:30:00+00:00",
    "summary": "Podcast episode from All Steelers Talk."
   },
@@ -1018,7 +1018,7 @@
    "title": "Should Steelers Make Super Bowl-Level Trade?",
    "show": "All Steelers Talk",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/should-steelers-make-super-bowl-level-trade/id1627248534?i=1000797637387",
+   "link": "https://podcasts.apple.com/us/podcast/id1627248534",
    "published": "2026-10-22T15:30:00+00:00",
    "summary": "Podcast episode from All Steelers Talk."
   },
@@ -1058,7 +1058,7 @@
    "title": "Steelers' Nick Herbig Decision Could Have Better Timing",
    "show": "All Steelers Talk",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/steelers-nick-herbig-decision-could-have-better-timing/id1627248534?i=1000797615128",
+   "link": "https://podcasts.apple.com/us/podcast/id1627248534",
    "published": "2026-10-22T12:28:00+00:00",
    "summary": "Podcast episode from All Steelers Talk."
   },
@@ -1127,7 +1127,14 @@
    "summary": "Podcast episode from Steel Curtain Network (BTSC)."
   }
  ],
- "yt_channels": [],
+ "yt_channels": [
+  {
+   "show": "The Christian Kuntz Podcast",
+   "channel_id": "UCKKBJcOGsYmwAATQv-xQYeA",
+   "link": "https://www.youtube.com/channel/UCKKBJcOGsYmwAATQv-xQYeA",
+   "embed": "https://www.youtube-nocookie.com/embed/videoseries?list=UUKKBJcOGsYmwAATQv-xQYeA"
+  }
+ ],
  "postgame": {
   "game": "2026_07_PIT_NO",
   "week": "Week 7",
