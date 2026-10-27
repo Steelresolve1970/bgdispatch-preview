@@ -1,9 +1,11 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-27T20:01:12+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T20:00:53+00:00._
+_Generated 2026-10-27T20:28:18+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T20:27:38+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Video: [A Parisian proposal 🥹💍](https://www.youtube.com/shorts/iGnEwb9iKeU): Pittsburgh Steelers (official), 2026-10-27 19:59 UTC
 - Video: [Steelers' LB Grades](https://www.youtube.com/shorts/vZW_kxXt4OE): Steelers Almighty, 2026-10-27 19:54 UTC
+- Video: [Why this Steelers trade with Colts would make more sense than Quenton Nelson deal 😮 #nfl #steelers](https://www.youtube.com/shorts/36qxqPuUPMw): Still Curtain Podcast, 2026-10-27 19:53 UTC
 - Video: [Defense, but make it 𝓬𝓲𝓷𝓮𝓶𝓪𝓽𝓲𝓬 📺: #CLEvsPIT 11/1 at 1 PM ET on CBS](https://www.youtube.com/shorts/4gmjLsMJUCA): Pittsburgh Steelers (official), 2026-10-27 18:53 UTC
 - Podcast: [Pittsburgh Steelers 5-2 But Can They Keep It Going? - NFL Headlines Week 7](https://arthurmoats55.libsyn.com/pittsburgh_steelers_5-2_but_can_they_keep_it_going__-_nfl_headlines__week_7mp3): The Arthur Moats Experience, 2026-10-27 17:36 UTC
 - Podcast: [Steelers Two Biggest Strengths Can Carry Them - Hopefully](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-27 16:57 UTC
@@ -63,7 +65,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [HAPPY NATIONAL TE DAY DARNELL 😤 📺: NFLN](https://www.youtube.com/shorts/hrO-Nsseh4A): Pittsburgh Steelers (official), 2026-10-25 14:52 UTC
 - Video: [Showtime 🎬 📺: NFLN](https://www.youtube.com/shorts/Q07Pl7A_KYI): Pittsburgh Steelers (official), 2026-10-25 14:08 UTC
 - Video: [8️⃣0️⃣ IN THE BUILDING 📺: NFLN](https://www.youtube.com/shorts/ppYcRsmcywI): Pittsburgh Steelers (official), 2026-10-25 14:05 UTC
-- Video: [Arriving in style 😮‍💨](https://www.youtube.com/shorts/MpZ1TO0DJtg): Pittsburgh Steelers (official), 2026-10-25 12:17 UTC
 - Podcast: [The Terrible Take - Episode 2061 - October 25, 2026](https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2061-october-25-2026/id405990739?i=1000798014044): The Terrible Podcast (Steelers Depot), 2026-10-25 11:52 UTC
 - Podcast: [The Terrible Take - Episode 2060 - October 24, 2026](https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2060-october-24-2026/id405990739?i=1000797953629): The Terrible Podcast (Steelers Depot), 2026-10-24 21:00 UTC
 - Video: [Elandon Roberts wants to win another one so he can enjoy it more this time 🏆🔥#nfl #patriots](https://www.youtube.com/shorts/XWo-am2_97g): Not Just Football with Cam Heyward, 2026-10-24 19:25 UTC

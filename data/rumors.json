@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T20:01:06.336637+00:00",
+ "generated": "2026-10-27T20:28:11.508200+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -86,7 +86,7 @@
    "first_seen": "2026-10-27T18:29:01.878764+00:00",
    "own": 1,
    "consensus": {
-    "cluster_id": "9e37088de4c1",
+    "cluster_id": "3f3271514107",
     "independent_sources": 6,
     "sources": [
      "A to Z Sports",
@@ -103,6 +103,7 @@
      "c60d83ea0785",
      "45c4bcc7cd1b",
      "9e37088de4c1",
+     "3f3271514107",
      "7fd46e561838",
      "5a0773cc79d1"
     ]
@@ -187,7 +188,7 @@
    "first_seen": "2026-10-27T17:10:51.139507+00:00",
    "own": 1,
    "consensus": {
-    "cluster_id": "9e37088de4c1",
+    "cluster_id": "3f3271514107",
     "independent_sources": 6,
     "sources": [
      "A to Z Sports",
@@ -204,6 +205,7 @@
      "c60d83ea0785",
      "45c4bcc7cd1b",
      "9e37088de4c1",
+     "3f3271514107",
      "7fd46e561838",
      "5a0773cc79d1"
     ]
@@ -267,7 +269,7 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "394aac2a3809"
+     "d22f8e6c6bd2"
     ]
    },
    "updated": "2026-10-27T15:47:42.416402+00:00"
@@ -288,7 +290,7 @@
    "first_seen": "2026-10-27T15:25:25.271977+00:00",
    "own": 1,
    "consensus": {
-    "cluster_id": "9e37088de4c1",
+    "cluster_id": "3f3271514107",
     "independent_sources": 6,
     "sources": [
      "A to Z Sports",
@@ -305,6 +307,7 @@
      "702ace99a8e9",
      "45c4bcc7cd1b",
      "9e37088de4c1",
+     "3f3271514107",
      "7fd46e561838",
      "5a0773cc79d1"
     ]
@@ -327,14 +330,17 @@
    "first_seen": "2026-10-27T15:36:34.341299+00:00",
    "own": 1,
    "consensus": {
-    "cluster_id": "87aceeb400a8",
-    "independent_sources": 1,
+    "cluster_id": "4b5c44bb8063",
+    "independent_sources": 2,
     "sources": [
+     "AOL.co.uk",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
-    "related_ids": []
+    "related_ids": [
+     "4b5c44bb8063"
+    ]
    },
    "updated": "2026-10-27T15:36:34.341299+00:00"
   },
@@ -530,7 +536,7 @@
    "first_seen": "2026-10-27T19:38:48.765854+00:00",
    "own": 1,
    "consensus": {
-    "cluster_id": "9e37088de4c1",
+    "cluster_id": "3f3271514107",
     "independent_sources": 6,
     "sources": [
      "A to Z Sports",
@@ -547,6 +553,7 @@
      "702ace99a8e9",
      "c60d83ea0785",
      "45c4bcc7cd1b",
+     "3f3271514107",
      "7fd46e561838",
      "5a0773cc79d1"
     ]
@@ -569,16 +576,13 @@
    "first_seen": "2026-10-24T21:18:21.512769+00:00",
    "consensus": {
     "cluster_id": "b3b86933a304",
-    "independent_sources": 2,
+    "independent_sources": 1,
     "sources": [
-     "SteelerNation",
-     "Yardbarker"
+     "SteelerNation"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": [
-     "5585acb90f77"
-    ]
+    "related_ids": []
    },
    "updated": "2026-10-24T21:18:21.512769+00:00",
    "own": 1
@@ -954,7 +958,7 @@
    "status_link": null,
    "first_seen": "2026-10-23T11:09:06.018743+00:00",
    "consensus": {
-    "cluster_id": "9e37088de4c1",
+    "cluster_id": "3f3271514107",
     "independent_sources": 6,
     "sources": [
      "A to Z Sports",
@@ -972,6 +976,7 @@
      "c60d83ea0785",
      "45c4bcc7cd1b",
      "9e37088de4c1",
+     "3f3271514107",
      "5a0773cc79d1"
     ]
    },

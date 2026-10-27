@@ -1,6 +1,6 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-27T20:01:12+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T20:01:06+00:00._
+_Generated 2026-10-27T20:28:18+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T20:28:11+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
@@ -19,7 +19,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Trade rumor: Steelers (Yahoo Sports) (Yahoo Sports)](https://sports.yahoo.com/articles/steelers-eyeing-semi-big-wide-153032704.html): Yahoo Sports, first seen 2026-10-27 15:47 UTC
 - **Rumor** · tier: Fan blog · consensus: 6 source(s), top tier National insider
   [Trade rumor: Steelers (Steelers Depot)](https://steelersdepot.com/2026/10/nfl-insider-suggests-two-wide-receivers-steelers-could-pursue-ahead-of-trade-deadline/): Steelers Depot, first seen 2026-10-27 15:25 UTC
-- **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
+- **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
   [Trade rumor: Steelers (Yahoo Sports) (Yahoo Sports) (Yahoo Sports)](https://sports.yahoo.com/articles/steelers-linked-exciting-trade-first-142407197.html): Yahoo Sports, first seen 2026-10-27 15:36 UTC
 - **Rumor** · tier: National insider · consensus: 1 source(s), top tier National insider
   [Trade rumor: Dalvin Tomlinson](https://sports.yahoo.com/articles/giants-trade-candidate-dt-dalvin-122209243.html): Yahoo Sports, first seen 2026-10-27 13:02 UTC
@@ -35,7 +35,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Rumor watch: Aaron Rodgers](https://bleacherreport.com/articles/25520168-aaron-rodgers-shades-steelers-coaches-new-video-reportedly-called-some-plays-win-vs-saints): Bleacher Report, first seen 2026-10-25 19:04 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 6 source(s), top tier National insider
   [Trade rumor: Steelers (A to Z Sports)](https://atozsports.com/nfl/pittsburgh-steelers-news/pittsburgh-steelers-monitoring-brian-thomas-jr-trade-nfl-deadline-rumors/): A to Z Sports, first seen 2026-10-27 19:38 UTC
-- **Rumor** · tier: Fan blog · consensus: 2 source(s), top tier Fan blog
+- **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Trade rumor: Steelers (SteelerNation)](https://www.steelernation.com/2026/10/24/steelers-trade-targets-no-one-talks-about): SteelerNation, first seen 2026-10-24 21:18 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Trade rumor: Patrick Queen](https://www.chatsports.com/pittsburgh-steelers/a/steelers-rumors-should-pittsburgh-trade-patrick-queen-cowboys-53601): Chat Sports, first seen 2026-10-24 19:08 UTC
