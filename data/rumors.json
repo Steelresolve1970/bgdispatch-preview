@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T11:38:56.552121+00:00",
+ "generated": "2026-10-27T12:04:54.955108+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -43,6 +43,33 @@
   ]
  },
  "rumors": [
+  {
+   "id": "aab40e20330a",
+   "title": "Trade rumor: Steelers",
+   "source": "Still Curtain",
+   "link": "https://stillcurtain.com/6-pure-rentals-the-pittsburgh-steelers-could-target-before-the-nfl-trade-deadline-01m52mj7sswn",
+   "published": "2026-10-27T12:00:04+00:00",
+   "summary": "Still Curtain passes along trade speculation involving the Steelers; treat it as unconfirmed until the team announces a move, touching on the trade deadline. Read the full story at Still Curtain.",
+   "tier": "Fan blog",
+   "tier_score": 2,
+   "subjects": [],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-27T12:04:54.955108+00:00",
+   "own": 1,
+   "consensus": {
+    "cluster_id": "aab40e20330a",
+    "independent_sources": 1,
+    "sources": [
+     "Still Curtain"
+    ],
+    "highest_tier": "Fan blog",
+    "highest_tier_score": 2,
+    "related_ids": []
+   },
+   "updated": "2026-10-27T12:04:54.955108+00:00"
+  },
   {
    "id": "63088d00a72a",
    "title": "Trade rumor: Steelers-Chiefs",
@@ -134,7 +161,7 @@
   },
   {
    "id": "3f3271514107",
-   "title": "Trade rumor: Steelers",
+   "title": "Trade rumor: Steelers (A to Z Sports)",
    "source": "A to Z Sports",
    "link": "https://atozsports.com/nfl/pittsburgh-steelers-news/pittsburgh-steelers-monitoring-brian-thomas-jr-trade-nfl-deadline-rumors/",
    "published": "2026-10-26T13:00:00+00:00",
@@ -158,6 +185,7 @@
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
     "related_ids": [
+     "9e37088de4c1",
      "7fd46e561838",
      "5a0773cc79d1"
     ]
@@ -235,16 +263,13 @@
    "first_seen": "2026-10-24T21:18:21.512769+00:00",
    "consensus": {
     "cluster_id": "b3b86933a304",
-    "independent_sources": 2,
+    "independent_sources": 1,
     "sources": [
-     "SteelerNation",
-     "Yardbarker"
+     "SteelerNation"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": [
-     "5585acb90f77"
-    ]
+    "related_ids": []
    },
    "updated": "2026-10-24T21:18:21.512769+00:00",
    "own": 1
@@ -408,17 +433,14 @@
    "status_link": null,
    "first_seen": "2026-10-24T10:08:05.155041+00:00",
    "consensus": {
-    "cluster_id": "6563373fdb01",
-    "independent_sources": 2,
+    "cluster_id": "5d585445ee02",
+    "independent_sources": 1,
     "sources": [
-     "Gridiron Heroics",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
-    "related_ids": [
-     "6563373fdb01"
-    ]
+    "related_ids": []
    },
    "updated": "2026-10-24T10:08:05.155041+00:00",
    "own": 1
@@ -660,6 +682,7 @@
     "highest_tier_score": 2,
     "related_ids": [
      "3f3271514107",
+     "9e37088de4c1",
      "5a0773cc79d1"
     ]
    },

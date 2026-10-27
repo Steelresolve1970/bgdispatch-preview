@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T11:38:38.574480+00:00",
+ "generated": "2026-10-27T12:04:40.502143+00:00",
  "date_et": "2026-10-27",
  "days": 5,
  "display_days": 2,
@@ -36,10 +36,10 @@
    "show": "Steel Curtain Network (BTSC)",
    "kind": "podcast",
    "url": "https://feeds.megaphone.fm/btsc-steelers",
-   "status": "ok",
-   "episodes": 8212,
+   "status": "error: The read operation timed out",
+   "episodes": 0,
    "week": 4,
-   "latest": "2026-10-23T15:30:00+00:00"
+   "latest": null
   },
   {
    "show": "DK Pittsburgh Sports",
@@ -90,10 +90,10 @@
    "show": "Steel City Underground",
    "kind": "podcast",
    "url": "https://feeds.feedburner.com/steelcityunderground",
-   "status": "ok",
-   "episodes": 45,
+   "status": "error: <urlopen error _ssl.c:1012: The handshake operation timed out>",
+   "episodes": 0,
    "week": 2,
-   "latest": "2026-10-26T13:18:35+00:00"
+   "latest": null
   },
   {
    "show": "Steel City Underground",
@@ -108,10 +108,10 @@
    "show": "Steelers Afternoon Drive",
    "kind": "podcast",
    "url": "https://feeds.megaphone.fm/RRTET7764502074",
-   "status": "ok",
-   "episodes": 1497,
+   "status": "error: The read operation timed out",
+   "episodes": 0,
    "week": 9,
-   "latest": "2026-10-26T22:10:00+00:00"
+   "latest": null
   },
   {
    "show": "The Sick Podcast - Steelers Crazy",
@@ -135,19 +135,19 @@
    "show": "The Arthur Moats Experience",
    "kind": "podcast",
    "url": "https://rss.pdrl.fm/20d9c9/feeds.libsyn.com/183851/rss/?redirect=false",
-   "status": "ok",
-   "episodes": 100,
+   "status": "error: The read operation timed out",
+   "episodes": 0,
    "week": 2,
-   "latest": "2026-10-26T09:52:00+00:00"
+   "latest": null
   },
   {
    "show": "All Steelers Talk",
    "kind": "podcast",
    "url": "https://feeds.simplecast.com/TJlnaIkx",
-   "status": "ok",
-   "episodes": 1837,
+   "status": "error: The read operation timed out",
+   "episodes": 0,
    "week": 8,
-   "latest": "2026-10-26T21:29:00+00:00"
+   "latest": null
   },
   {
    "show": "Steelers Now",
@@ -162,10 +162,10 @@
    "show": "The Steel City Insider (Jim Wexell, 247Sports)",
    "kind": "podcast",
    "url": "https://rss.amperwave.net/v2/feed/audacynetwork/steelersinsider",
-   "status": "ok",
-   "episodes": 198,
+   "status": "error: The read operation timed out",
+   "episodes": 0,
    "week": 2,
-   "latest": "2026-10-26T14:05:27+00:00"
+   "latest": null
   },
   {
    "show": "Steel City Blitz",
@@ -180,10 +180,10 @@
    "show": "Steelers Breakdown (PennLive, Nick Farabaugh)",
    "kind": "podcast",
    "url": "https://feeds.megaphone.fm/steelersupdateonpennlive",
-   "status": "ok",
-   "episodes": 697,
+   "status": "error: The read operation timed out",
+   "episodes": 0,
    "week": 0,
-   "latest": "2026-10-21T00:03:00+00:00"
+   "latest": null
   },
   {
    "show": "Nick Farabaugh on PennLive",
