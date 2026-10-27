@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T04:59:39.470998+00:00",
+ "generated": "2026-10-27T05:11:54.527349+00:00",
  "date_et": "2026-10-27",
  "days": 5,
  "display_days": 2,
@@ -18,10 +18,10 @@
    "show": "Locked On Steelers",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7JorgD8nGLtvvMy1ogFetg",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 8,
-   "latest": "2026-10-27T01:03:20+00:00"
+   "latest": null
   },
   {
    "show": "The Terrible Podcast (Steelers Depot)",
@@ -90,10 +90,10 @@
    "show": "Steel City Underground",
    "kind": "podcast",
    "url": "https://feeds.feedburner.com/steelcityunderground",
-   "status": "ok",
-   "episodes": 45,
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "episodes": 0,
    "week": 2,
-   "latest": "2026-10-26T13:18:35+00:00"
+   "latest": null
   },
   {
    "show": "Steel City Underground",
@@ -378,7 +378,7 @@
    "title": "The Steelers Are ONE MOVE Away From Being Super Bowl Contenders?!",
    "show": "The Steel City Insider (Jim Wexell, 247Sports)",
    "kind": "podcast",
-   "link": "https://247sports.com/nfl/pittsburgh-steelers/",
+   "link": "https://podcasts.apple.com/us/podcast/the-steelers-are-one-move-away-from-being-super-bowl/id1623192893?i=1000798184529",
    "published": "2026-10-26T14:05:27+00:00",
    "summary": "Podcast episode from The Steel City Insider (Jim Wexell, 247Sports)."
   },
