@@ -1,8 +1,304 @@
 {
- "generated": "2026-10-27T00:04:56.446701+00:00",
+ "generated": "2026-10-27T00:15:59.927520+00:00",
  "season": 2026,
- "week": 7,
+ "week": 8,
  "games": [
+  {
+   "id": "401873023",
+   "date": "2026-10-30T00:15Z",
+   "state": "pre",
+   "detail": "Thu 10/29 8:15 PM ET",
+   "completed": false,
+   "away": {
+    "abbr": "CAR",
+    "name": "Carolina Panthers",
+    "score": null,
+    "winner": null,
+    "record": "3-3"
+   },
+   "home": {
+    "abbr": "GB",
+    "name": "Green Bay Packers",
+    "score": null,
+    "winner": null,
+    "record": "4-3"
+   }
+  },
+  {
+   "id": "401873026",
+   "date": "2026-11-01T18:00Z",
+   "state": "pre",
+   "detail": "Sun 11/1 1:00 PM ET",
+   "completed": false,
+   "away": {
+    "abbr": "BAL",
+    "name": "Baltimore Ravens",
+    "score": null,
+    "winner": null,
+    "record": "4-3"
+   },
+   "home": {
+    "abbr": "BUF",
+    "name": "Buffalo Bills",
+    "score": null,
+    "winner": null,
+    "record": "5-1"
+   }
+  },
+  {
+   "id": "401873031",
+   "date": "2026-11-01T18:00Z",
+   "state": "pre",
+   "detail": "Sun 11/1 1:00 PM ET",
+   "completed": false,
+   "away": {
+    "abbr": "TEN",
+    "name": "Tennessee Titans",
+    "score": null,
+    "winner": null,
+    "record": "1-6"
+   },
+   "home": {
+    "abbr": "CIN",
+    "name": "Cincinnati Bengals",
+    "score": null,
+    "winner": null,
+    "record": "4-2"
+   }
+  },
+  {
+   "id": "401873024",
+   "date": "2026-11-01T18:00Z",
+   "state": "pre",
+   "detail": "Sun 11/1 1:00 PM ET",
+   "completed": false,
+   "away": {
+    "abbr": "ARI",
+    "name": "Arizona Cardinals",
+    "score": null,
+    "winner": null,
+    "record": "2-5"
+   },
+   "home": {
+    "abbr": "DAL",
+    "name": "Dallas Cowboys",
+    "score": null,
+    "winner": null,
+    "record": "2-4"
+   }
+  },
+  {
+   "id": "401873030",
+   "date": "2026-11-01T18:00Z",
+   "state": "pre",
+   "detail": "Sun 11/1 1:00 PM ET",
+   "completed": false,
+   "away": {
+    "abbr": "MIN",
+    "name": "Minnesota Vikings",
+    "score": null,
+    "winner": null,
+    "record": "6-0"
+   },
+   "home": {
+    "abbr": "DET",
+    "name": "Detroit Lions",
+    "score": null,
+    "winner": null,
+    "record": "4-2"
+   }
+  },
+  {
+   "id": "401873028",
+   "date": "2026-11-01T18:00Z",
+   "state": "pre",
+   "detail": "Sun 11/1 1:00 PM ET",
+   "completed": false,
+   "away": {
+    "abbr": "IND",
+    "name": "Indianapolis Colts",
+    "score": null,
+    "winner": null,
+    "record": "2-5"
+   },
+   "home": {
+    "abbr": "JAX",
+    "name": "Jacksonville Jaguars",
+    "score": null,
+    "winner": null,
+    "record": "4-2"
+   }
+  },
+  {
+   "id": "401873029",
+   "date": "2026-11-01T18:00Z",
+   "state": "pre",
+   "detail": "Sun 11/1 1:00 PM ET",
+   "completed": false,
+   "away": {
+    "abbr": "LV",
+    "name": "Las Vegas Raiders",
+    "score": null,
+    "winner": null,
+    "record": "3-4"
+   },
+   "home": {
+    "abbr": "NYJ",
+    "name": "New York Jets",
+    "score": null,
+    "winner": null,
+    "record": "2-5"
+   }
+  },
+  {
+   "id": "401873027",
+   "date": "2026-11-01T18:00Z",
+   "state": "pre",
+   "detail": "Sun 11/1 1:00 PM ET",
+   "completed": false,
+   "away": {
+    "abbr": "CLE",
+    "name": "Cleveland Browns",
+    "score": null,
+    "winner": null,
+    "record": "5-2"
+   },
+   "home": {
+    "abbr": "PIT",
+    "name": "Pittsburgh Steelers",
+    "score": null,
+    "winner": null,
+    "record": "5-2"
+   }
+  },
+  {
+   "id": "401873025",
+   "date": "2026-11-01T18:00Z",
+   "state": "pre",
+   "detail": "Sun 11/1 1:00 PM ET",
+   "completed": false,
+   "away": {
+    "abbr": "ATL",
+    "name": "Atlanta Falcons",
+    "score": null,
+    "winner": null,
+    "record": "3-4"
+   },
+   "home": {
+    "abbr": "TB",
+    "name": "Tampa Bay Buccaneers",
+    "score": null,
+    "winner": null,
+    "record": "2-5"
+   }
+  },
+  {
+   "id": "401873032",
+   "date": "2026-11-01T21:05Z",
+   "state": "pre",
+   "detail": "Sun 11/1 4:05 PM ET",
+   "completed": false,
+   "away": {
+    "abbr": "LAC",
+    "name": "Los Angeles Chargers",
+    "score": null,
+    "winner": null,
+    "record": "0-6"
+   },
+   "home": {
+    "abbr": "LA",
+    "name": "Los Angeles Rams",
+    "score": null,
+    "winner": null,
+    "record": "3-4"
+   }
+  },
+  {
+   "id": "401873033",
+   "date": "2026-11-01T21:25Z",
+   "state": "pre",
+   "detail": "Sun 11/1 4:25 PM ET",
+   "completed": false,
+   "away": {
+    "abbr": "KC",
+    "name": "Kansas City Chiefs",
+    "score": null,
+    "winner": null,
+    "record": "5-1"
+   },
+   "home": {
+    "abbr": "DEN",
+    "name": "Denver Broncos",
+    "score": null,
+    "winner": null,
+    "record": "5-2"
+   }
+  },
+  {
+   "id": "401873034",
+   "date": "2026-11-01T21:25Z",
+   "state": "pre",
+   "detail": "Sun 11/1 4:25 PM ET",
+   "completed": false,
+   "away": {
+    "abbr": "NE",
+    "name": "New England Patriots",
+    "score": null,
+    "winner": null,
+    "record": "4-3"
+   },
+   "home": {
+    "abbr": "MIA",
+    "name": "Miami Dolphins",
+    "score": null,
+    "winner": null,
+    "record": "1-5"
+   }
+  },
+  {
+   "id": "401873035",
+   "date": "2026-11-02T01:20Z",
+   "state": "pre",
+   "detail": "Sun 11/1 8:20 PM ET",
+   "completed": false,
+   "away": {
+    "abbr": "PHI",
+    "name": "Philadelphia Eagles",
+    "score": null,
+    "winner": null,
+    "record": "2-4"
+   },
+   "home": {
+    "abbr": "WAS",
+    "name": "Washington Commanders",
+    "score": null,
+    "winner": null,
+    "record": "1-4-1"
+   }
+  },
+  {
+   "id": "401873036",
+   "date": "2026-11-03T01:15Z",
+   "state": "pre",
+   "detail": "Mon 11/2 8:15 PM ET",
+   "completed": false,
+   "away": {
+    "abbr": "CHI",
+    "name": "Chicago Bears",
+    "score": null,
+    "winner": null,
+    "record": "5-2"
+   },
+   "home": {
+    "abbr": "SEA",
+    "name": "Seattle Seahawks",
+    "score": null,
+    "winner": null,
+    "record": "4-3"
+   }
+  }
+ ],
+ "recent": [
   {
    "id": "401873010",
    "date": "2026-10-23T00:15Z",
@@ -275,325 +571,8 @@
     "winner": true,
     "record": "4-3"
    }
-  },
-  {
-   "id": "401873009",
-   "date": "2026-10-27T00:15Z",
-   "state": "pre",
-   "detail": "Mon 10/26 8:15 PM ET",
-   "completed": false,
-   "away": {
-    "abbr": "DAL",
-    "name": "Dallas Cowboys",
-    "score": null,
-    "winner": null,
-    "record": "2-4"
-   },
-   "home": {
-    "abbr": "PHI",
-    "name": "Philadelphia Eagles",
-    "score": null,
-    "winner": null,
-    "record": "2-4"
-   }
   }
  ],
- "recent": [
-  {
-   "id": "401872995",
-   "date": "2026-10-16T00:15Z",
-   "state": "post",
-   "detail": "Final",
-   "completed": true,
-   "away": {
-    "abbr": "SEA",
-    "name": "Seattle Seahawks",
-    "score": "14",
-    "winner": false,
-    "record": "4-3"
-   },
-   "home": {
-    "abbr": "DEN",
-    "name": "Denver Broncos",
-    "score": "17",
-    "winner": true,
-    "record": "5-2"
-   }
-  },
-  {
-   "id": "401872996",
-   "date": "2026-10-18T13:30Z",
-   "state": "post",
-   "detail": "Final",
-   "completed": true,
-   "away": {
-    "abbr": "HOU",
-    "name": "Houston Texans",
-    "score": "34",
-    "winner": true,
-    "record": "2-5"
-   },
-   "home": {
-    "abbr": "JAX",
-    "name": "Jacksonville Jaguars",
-    "score": "31",
-    "winner": false,
-    "record": "4-2"
-   }
-  },
-  {
-   "id": "401872999",
-   "date": "2026-10-18T17:00Z",
-   "state": "post",
-   "detail": "Final",
-   "completed": true,
-   "away": {
-    "abbr": "CHI",
-    "name": "Chicago Bears",
-    "score": "31",
-    "winner": true,
-    "record": "5-2"
-   },
-   "home": {
-    "abbr": "ATL",
-    "name": "Atlanta Falcons",
-    "score": "23",
-    "winner": false,
-    "record": "3-4"
-   }
-  },
-  {
-   "id": "401872997",
-   "date": "2026-10-18T17:00Z",
-   "state": "post",
-   "detail": "Final",
-   "completed": true,
-   "away": {
-    "abbr": "BAL",
-    "name": "Baltimore Ravens",
-    "score": "10",
-    "winner": false,
-    "record": "4-3"
-   },
-   "home": {
-    "abbr": "CLE",
-    "name": "Cleveland Browns",
-    "score": "13",
-    "winner": true,
-    "record": "5-2"
-   }
-  },
-  {
-   "id": "401873003",
-   "date": "2026-10-18T17:00Z",
-   "state": "post",
-   "detail": "Final",
-   "completed": true,
-   "away": {
-    "abbr": "TEN",
-    "name": "Tennessee Titans",
-    "score": "26",
-    "winner": true,
-    "record": "1-6"
-   },
-   "home": {
-    "abbr": "IND",
-    "name": "Indianapolis Colts",
-    "score": "20",
-    "winner": false,
-    "record": "2-5"
-   }
-  },
-  {
-   "id": "401873001",
-   "date": "2026-10-18T17:00Z",
-   "state": "post",
-   "detail": "Final",
-   "completed": true,
-   "away": {
-    "abbr": "NYJ",
-    "name": "New York Jets",
-    "score": "19",
-    "winner": false,
-    "record": "2-5"
-   },
-   "home": {
-    "abbr": "NE",
-    "name": "New England Patriots",
-    "score": "26",
-    "winner": true,
-    "record": "4-3"
-   }
-  },
-  {
-   "id": "401873000",
-   "date": "2026-10-18T17:00Z",
-   "state": "post",
-   "detail": "Final",
-   "completed": true,
-   "away": {
-    "abbr": "NO",
-    "name": "New Orleans Saints",
-    "score": "34",
-    "winner": true,
-    "record": "2-5"
-   },
-   "home": {
-    "abbr": "NYG",
-    "name": "New York Giants",
-    "score": "27",
-    "winner": false,
-    "record": "4-2-1"
-   }
-  },
-  {
-   "id": "401872998",
-   "date": "2026-10-18T17:00Z",
-   "state": "post",
-   "detail": "Final",
-   "completed": true,
-   "away": {
-    "abbr": "CAR",
-    "name": "Carolina Panthers",
-    "score": "25",
-    "winner": true,
-    "record": "3-3"
-   },
-   "home": {
-    "abbr": "PHI",
-    "name": "Philadelphia Eagles",
-    "score": "14",
-    "winner": false,
-    "record": "2-4"
-   }
-  },
-  {
-   "id": "401873002",
-   "date": "2026-10-18T17:00Z",
-   "state": "post",
-   "detail": "Final",
-   "completed": true,
-   "away": {
-    "abbr": "PIT",
-    "name": "Pittsburgh Steelers",
-    "score": "26",
-    "winner": true,
-    "record": "5-2"
-   },
-   "home": {
-    "abbr": "TB",
-    "name": "Tampa Bay Buccaneers",
-    "score": "19",
-    "winner": false,
-    "record": "2-5"
-   }
-  },
-  {
-   "id": "401873004",
-   "date": "2026-10-18T20:05Z",
-   "state": "post",
-   "detail": "Final",
-   "completed": true,
-   "away": {
-    "abbr": "ARI",
-    "name": "Arizona Cardinals",
-    "score": "18",
-    "winner": true,
-    "record": "2-5"
-   },
-   "home": {
-    "abbr": "LA",
-    "name": "Los Angeles Rams",
-    "score": "16",
-    "winner": false,
-    "record": "3-4"
-   }
-  },
-  {
-   "id": "401873006",
-   "date": "2026-10-18T20:25Z",
-   "state": "post",
-   "detail": "Final",
-   "completed": true,
-   "away": {
-    "abbr": "LAC",
-    "name": "Los Angeles Chargers",
-    "score": "6",
-    "winner": false,
-    "record": "0-6"
-   },
-   "home": {
-    "abbr": "KC",
-    "name": "Kansas City Chiefs",
-    "score": "22",
-    "winner": true,
-    "record": "5-1"
-   }
-  },
-  {
-   "id": "401873005",
-   "date": "2026-10-18T20:25Z",
-   "state": "post",
-   "detail": "Final",
-   "completed": true,
-   "away": {
-    "abbr": "BUF",
-    "name": "Buffalo Bills",
-    "score": "33",
-    "winner": true,
-    "record": "5-1"
-   },
-   "home": {
-    "abbr": "LV",
-    "name": "Las Vegas Raiders",
-    "score": "30",
-    "winner": false,
-    "record": "3-4"
-   }
-  },
-  {
-   "id": "401873007",
-   "date": "2026-10-19T00:20Z",
-   "state": "post",
-   "detail": "Final",
-   "completed": true,
-   "away": {
-    "abbr": "DAL",
-    "name": "Dallas Cowboys",
-    "score": "13",
-    "winner": false,
-    "record": "2-4"
-   },
-   "home": {
-    "abbr": "GB",
-    "name": "Green Bay Packers",
-    "score": "23",
-    "winner": true,
-    "record": "4-3"
-   }
-  },
-  {
-   "id": "401873008",
-   "date": "2026-10-20T00:15Z",
-   "state": "post",
-   "detail": "Final",
-   "completed": true,
-   "away": {
-    "abbr": "WAS",
-    "name": "Washington Commanders",
-    "score": "17",
-    "winner": false,
-    "record": "1-4-1"
-   },
-   "home": {
-    "abbr": "SF",
-    "name": "San Francisco 49ers",
-    "score": "23",
-    "winner": true,
-    "record": "6-1"
-   }
-  }
- ],
- "recent_week": 6,
+ "recent_week": 7,
  "source": "Data: nflverse (CC-BY 4.0)"
 }
