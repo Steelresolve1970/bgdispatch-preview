@@ -1,6 +1,6 @@
 # Steelers Film Room & Previews
 
-_Generated 2026-10-27T15:36:41+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T15:36:12+00:00._
+_Generated 2026-10-27T15:47:51+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T15:47:18+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/film.json_
 
 - Breakdown (at New Orleans Saints (Oct 25)): [Steelers May Have Found Their Identity | All-22 Film](https://www.youtube.com/watch?v=wFEmiXIeSV0): Steelers Almighty, 2026-10-27 12:00 UTC

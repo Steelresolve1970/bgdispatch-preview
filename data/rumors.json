@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T15:36:34.341299+00:00",
+ "generated": "2026-10-27T15:47:42.416402+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -44,8 +44,64 @@
  },
  "rumors": [
   {
-   "id": "c60d83ea0785",
+   "id": "19b17cd62ac2",
+   "title": "Rumor watch: Steelers",
+   "source": "Yahoo Sports",
+   "link": "https://sports.yahoo.com/articles/three-rivers-report-real-steelers-154144189.html",
+   "published": "2026-10-27T15:41:44+00:00",
+   "summary": "Yahoo Sports passes along unconfirmed talk involving the Steelers. Read the full story at Yahoo Sports.",
+   "tier": "National insider",
+   "tier_score": 4,
+   "subjects": [
+    "Three Rivers"
+   ],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-27T15:47:42.416402+00:00",
+   "own": 1,
+   "consensus": {
+    "cluster_id": "19b17cd62ac2",
+    "independent_sources": 1,
+    "sources": [
+     "Yahoo Sports"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": []
+   },
+   "updated": "2026-10-27T15:47:42.416402+00:00"
+  },
+  {
+   "id": "fd9be22f39c9",
    "title": "Trade rumor: Steelers",
+   "source": "Yahoo Sports",
+   "link": "https://sports.yahoo.com/articles/steelers-eyeing-semi-big-wide-153032704.html",
+   "published": "2026-10-27T15:30:32+00:00",
+   "summary": "Yahoo Sports passes along trade speculation involving the Steelers; treat it as unconfirmed until the team announces a move, touching on the Steelers' receivers. Read the full story at Yahoo Sports.",
+   "tier": "National insider",
+   "tier_score": 4,
+   "subjects": [],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-27T15:47:42.416402+00:00",
+   "own": 1,
+   "consensus": {
+    "cluster_id": "fd9be22f39c9",
+    "independent_sources": 1,
+    "sources": [
+     "Yahoo Sports"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": []
+   },
+   "updated": "2026-10-27T15:47:42.416402+00:00"
+  },
+  {
+   "id": "c60d83ea0785",
+   "title": "Trade rumor: Steelers (Steelers Depot)",
    "source": "Steelers Depot",
    "link": "https://steelersdepot.com/2026/10/nfl-insider-suggests-two-wide-receivers-steelers-could-pursue-ahead-of-trade-deadline/",
    "published": "2026-10-27T15:15:49+00:00",
@@ -96,16 +152,13 @@
    "own": 1,
    "consensus": {
     "cluster_id": "87aceeb400a8",
-    "independent_sources": 2,
+    "independent_sources": 1,
     "sources": [
-     "AOL.com",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
-    "related_ids": [
-     "0e25ebeff1e5"
-    ]
+    "related_ids": []
    },
    "updated": "2026-10-27T15:36:34.341299+00:00"
   },
@@ -775,7 +828,7 @@
   },
   {
    "id": "514b4160b9de",
-   "title": "Trade rumor: Steelers (Yahoo Sports)",
+   "title": "Trade rumor: Steelers (Yahoo Sports) (Yahoo Sports)",
    "source": "Yahoo Sports",
    "link": "https://sports.yahoo.com/articles/steelers-linked-trade-troy-polamalus-090859602.html",
    "published": "2026-10-23T09:08:59+00:00",
