@@ -1,8 +1,10 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-27T18:40:25+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T18:40:00+00:00._
+_Generated 2026-10-27T19:05:47+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T19:05:24+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Video: [Defense, but make it 𝓬𝓲𝓷𝓮𝓶𝓪𝓽𝓲𝓬 📺: #CLEvsPIT 11/1 at 1 PM ET on CBS](https://www.youtube.com/shorts/4gmjLsMJUCA): Pittsburgh Steelers (official), 2026-10-27 18:53 UTC
+- Video: [Welcome to our live show!](https://www.youtube.com/watch?v=2q81Trw2U4E): Not Just Football with Cam Heyward, 2026-10-27 18:52 UTC
 - Podcast: [Pittsburgh Steelers 5-2 But Can They Keep It Going? - NFL Headlines Week 7](https://arthurmoats55.libsyn.com/pittsburgh_steelers_5-2_but_can_they_keep_it_going__-_nfl_headlines__week_7mp3): The Arthur Moats Experience, 2026-10-27 17:36 UTC
 - Podcast: [Steelers Two Biggest Strengths Can Carry Them - Hopefully](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-27 16:57 UTC
 - Video: [Mike McCarthy Picking Up Where Tomlin Left Off? | Steelers Morning Rush](https://www.youtube.com/watch?v=bGLS-lh1_xo): Steelers Now, 2026-10-27 15:50 UTC
@@ -63,7 +65,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [8️⃣0️⃣ IN THE BUILDING 📺: NFLN](https://www.youtube.com/shorts/ppYcRsmcywI): Pittsburgh Steelers (official), 2026-10-25 14:05 UTC
 - Video: [Arriving in style 😮‍💨](https://www.youtube.com/shorts/MpZ1TO0DJtg): Pittsburgh Steelers (official), 2026-10-25 12:17 UTC
 - Podcast: [The Terrible Take - Episode 2061 - October 25, 2026](https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2061-october-25-2026/id405990739?i=1000798014044): The Terrible Podcast (Steelers Depot), 2026-10-25 11:52 UTC
-- Video: [📍Stade de France](https://www.youtube.com/shorts/GOAKRNi5pnI): Pittsburgh Steelers (official), 2026-10-25 11:11 UTC
 - Podcast: [The Terrible Take - Episode 2060 - October 24, 2026](https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2060-october-24-2026/id405990739?i=1000797953629): The Terrible Podcast (Steelers Depot), 2026-10-24 21:00 UTC
 - Video: [Elandon Roberts wants to win another one so he can enjoy it more this time 🏆🔥#nfl #patriots](https://www.youtube.com/shorts/XWo-am2_97g): Not Just Football with Cam Heyward, 2026-10-24 19:25 UTC
 - Video: [Steelers fans encounter police getting ready for protesters](https://www.youtube.com/shorts/lxzhbaIZNu8): Nick Farabaugh on PennLive, 2026-10-24 18:08 UTC
