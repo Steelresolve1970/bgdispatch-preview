@@ -1,9 +1,12 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-27T15:58:52+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T15:58:35+00:00._
+_Generated 2026-10-27T16:14:01+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T16:13:28+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Video: [Mike McCarthy Picking Up Where Tomlin Left Off? | Steelers Morning Rush](https://www.youtube.com/watch?v=bGLS-lh1_xo): Steelers Now, 2026-10-27 15:50 UTC
 - Video: [Steelers' DL Grades](https://www.youtube.com/shorts/gau9YdRy96Y): Steelers Almighty, 2026-10-27 15:34 UTC
+- Podcast: [Hour 1: You Have to Win in the Trenches](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-102726-mp3): Steelers Blitz, 2026-10-27 15:00 UTC
+- Podcast: [Hour 2: Batko is Back](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/1027blitzhr2-mp3-1): Steelers Blitz, 2026-10-27 14:00 UTC
 - Podcast: [Steelers Enter Trade Now Week](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-27 12:25 UTC
 - Video: [Zach Frazier, League’s Best Center? 🏈 #pittsburghsteelers #steelers #shorts](https://www.youtube.com/shorts/9N8JVHrrOZU): Steelers Now, 2026-10-27 12:20 UTC
 - Video: [Steelers' OL Grades](https://www.youtube.com/watch?v=wT-8RVkWsB8): Steelers Almighty, 2026-10-27 11:30 UTC
@@ -104,7 +107,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Injury Bug Bites Steelers DL | Steelers Morning Rush](https://podcasts.apple.com/us/podcast/injury-bug-bites-steelers-dl-steelers-morning-rush/id1700240934?i=1000797649650): Steelers Afternoon Drive, 2026-10-22 16:59 UTC
 - Video: [Can the Steelers keep their winning streak alive in Paris?](https://www.youtube.com/watch?v=4UG7gRw1LHg): Steel City Underground, 2026-10-22 16:28 UTC
 - Podcast: [Can the Steelers keep their winning streak alive in Paris?](https://www.steelcityunderground.com/podcast/2026/10/can-the-steelers-keep-their-winning-streak-alive-in-paris/): Steel City Underground, 2026-10-22 16:20 UTC
-- Video: [Injury Bug Bites Steelers DL | Steelers Morning Rush](https://www.youtube.com/watch?v=--tsBSvc3b4): Steelers Now, 2026-10-22 16:09 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
