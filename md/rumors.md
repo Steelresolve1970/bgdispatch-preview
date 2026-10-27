@@ -1,6 +1,6 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-27T14:06:53+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T14:01:49+00:00._
+_Generated 2026-10-27T14:13:16+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T14:13:09+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
 - **Rumor** · tier: Aggregator / other · consensus: 3 source(s), top tier Fan blog
@@ -39,14 +39,14 @@ _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
   [Trade rumor: Brian Thomas Jr. (Black and Teal)](https://blackandteal.com/steelers-could-be-a-dark-horse-trade-destination-for-jaguars-brian-thomas-jr-trai-essex): Black and Teal, first seen 2026-10-23 15:18 UTC
 - **Rumor** · tier: Aggregator / other · consensus: 3 source(s), top tier National insider
   [Trade rumor: Steelers (Athlon Sports)](https://athlonsports.com/nfl/pittsburgh-steelers/steelers-again-linked-to-legends-nephew-with-trade-deadline-approaching): Athlon Sports, first seen 2026-10-23 15:18 UTC
-- **Rumor** · tier: National insider · consensus: 3 source(s), top tier National insider
+- **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
   [Rumor watch: Steelers-Saints](https://sports.yahoo.com/articles/saints-vs-steelers-final-week-143001051.html): Yahoo Sports, first seen 2026-10-27 14:01 UTC
-- **Rumor** · tier: Fan blog · consensus: 3 source(s), top tier National insider
+- **Rumor** · tier: Fan blog · consensus: 2 source(s), top tier National insider
   [Rumor watch: Steelers-Saints (Steelers Depot)](https://steelersdepot.com/2026/10/saints-week-7-friday-injury-report-two-starters-questionable/): Steelers Depot, first seen 2026-10-23 13:24 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Trade rumor: Steelers (Still Curtain) (Still Curtain)](https://stillcurtain.com/4-nfl-bottom-feeders-could-give-pittsburgh-steelers-a-trade-deadline-advantage-01m5j23dryvq?utm_source=RSS): Still Curtain, first seen 2026-10-23 12:15 UTC
 - **Rumor** · tier: Fan blog · consensus: 3 source(s), top tier Fan blog
-  [Trade rumor: Steelers (Still Curtain) (Still Curtain)](https://stillcurtain.com/4-wide-receivers-pittsburgh-steelers-should-target-ahead-of-the-nfl-trade-deadline-01m5dnq2ch8t?utm_source=RSS): Still Curtain, first seen 2026-10-23 11:09 UTC
+  [Trade rumor: Steelers (Still Curtain) (Still Curtain) (Still Curtain)](https://stillcurtain.com/4-wide-receivers-pittsburgh-steelers-should-target-ahead-of-the-nfl-trade-deadline-01m5dnq2ch8t?utm_source=RSS): Still Curtain, first seen 2026-10-23 11:09 UTC
 - **Rumor** · tier: National insider · consensus: 3 source(s), top tier National insider
   [Trade rumor: Steelers (Yahoo Sports)](https://sports.yahoo.com/articles/steelers-linked-trade-troy-polamalus-090859602.html): Yahoo Sports, first seen 2026-10-23 10:05 UTC
 
