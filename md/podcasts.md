@@ -1,10 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-27T19:16:56+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T19:16:33+00:00._
+_Generated 2026-10-27T19:27:55+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T19:27:36+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Defense, but make it 𝓬𝓲𝓷𝓮𝓶𝓪𝓽𝓲𝓬 📺: #CLEvsPIT 11/1 at 1 PM ET on CBS](https://www.youtube.com/shorts/4gmjLsMJUCA): Pittsburgh Steelers (official), 2026-10-27 18:53 UTC
-- Video: [Welcome to our live show!](https://www.youtube.com/watch?v=2q81Trw2U4E): Not Just Football with Cam Heyward, 2026-10-27 18:52 UTC
 - Podcast: [Pittsburgh Steelers 5-2 But Can They Keep It Going? - NFL Headlines Week 7](https://arthurmoats55.libsyn.com/pittsburgh_steelers_5-2_but_can_they_keep_it_going__-_nfl_headlines__week_7mp3): The Arthur Moats Experience, 2026-10-27 17:36 UTC
 - Podcast: [Steelers Two Biggest Strengths Can Carry Them - Hopefully](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-27 16:57 UTC
 - Video: [Mike McCarthy Picking Up Where Tomlin Left Off? | Steelers Morning Rush](https://www.youtube.com/watch?v=bGLS-lh1_xo): Steelers Now, 2026-10-27 15:50 UTC
