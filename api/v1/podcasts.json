@@ -2,8 +2,8 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-28T14:01:12+00:00",
- "data_updated": "2026-10-28T13:02:38+00:00",
+ "generated": "2026-10-28T14:53:54+00:00",
+ "data_updated": "2026-10-28T14:53:27+00:00",
  "count": 107,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
@@ -22,13 +22,39 @@
   {
    "id": "7d533777079a5528",
    "type": "podcast_episode",
-   "title": "Steelers Have No Excuse For WR Trade",
+   "title": "Steelers Double Dipping at Trades?",
    "show": "All Steelers Talk",
    "url": "https://podcasts.apple.com/us/podcast/id1627248534",
-   "published": "2026-10-28T12:21:00+00:00",
+   "published": "2026-10-28T14:30:00+00:00",
    "summary": "Podcast episode from All Steelers Talk.",
    "source": {
     "name": "All Steelers Talk",
+    "url": null
+   }
+  },
+  {
+   "id": "544cc67bf9377377",
+   "type": "video",
+   "title": "Steelers' COACHING Grades",
+   "show": "Steelers Almighty",
+   "url": "https://www.youtube.com/shorts/7vIbAyXAsJQ",
+   "published": "2026-10-28T14:23:34+00:00",
+   "summary": "Video from Steelers Almighty.",
+   "source": {
+    "name": "Steelers Almighty",
+    "url": null
+   }
+  },
+  {
+   "id": "e2a553c04ade901c",
+   "type": "video",
+   "title": "By order of the Peaky Blinders",
+   "show": "Pittsburgh Steelers (official)",
+   "url": "https://www.youtube.com/shorts/i9u0YrLENg4",
+   "published": "2026-10-28T13:36:42+00:00",
+   "summary": "Video from Pittsburgh Steelers (official).",
+   "source": {
+    "name": "Pittsburgh Steelers (official)",
     "url": null
    }
   },
@@ -59,11 +85,11 @@
    }
   },
   {
-   "id": "2ed6132323e2d6f6",
+   "id": "ecebbfd92d601d1e",
    "type": "podcast_episode",
    "title": "Steelers Beat Saints in Paris, Browns Preview & NFL Halloween Villains | Not Just Football",
    "show": "Not Just Football with Cam Heyward",
-   "url": "https://www.youtube.com/@NotJustFootballwithCamHeyward",
+   "url": "https://podcasts.apple.com/us/podcast/steelers-beat-saints-in-paris-browns-preview-nfl-halloween/id1633134223?i=1000798501297",
    "published": "2026-10-28T10:00:00+00:00",
    "summary": "Podcast episode from Not Just Football with Cam Heyward.",
    "source": {
@@ -1073,19 +1099,6 @@
    }
   },
   {
-   "id": "d09a6caf9b15697d",
-   "type": "video",
-   "title": "HAPPY NATIONAL TE DAY DARNELL 😤 📺: NFLN",
-   "show": "Pittsburgh Steelers (official)",
-   "url": "https://www.youtube.com/shorts/hrO-Nsseh4A",
-   "published": "2026-10-25T14:52:02+00:00",
-   "summary": "Video from Pittsburgh Steelers (official).",
-   "source": {
-    "name": "Pittsburgh Steelers (official)",
-    "url": null
-   }
-  },
-  {
    "id": "49fc245f725dcc6f",
    "type": "podcast_episode",
    "title": "The Terrible Take - Episode 2061 - October 25, 2026",
@@ -1394,19 +1407,6 @@
    "summary": "Podcast episode from Steel Curtain Network (BTSC).",
    "source": {
     "name": "Steel Curtain Network (BTSC)",
-    "url": null
-   }
-  },
-  {
-   "id": "c3d08b3aee9a2a94",
-   "type": "podcast_episode",
-   "title": "Steelers Have NO EXCUSES Against the Saints… Here’s Why #Steelers #NFL",
-   "show": "The Steel City Insider (Jim Wexell, 247Sports)",
-   "url": "https://podcasts.apple.com/us/podcast/steelers-have-no-excuses-against-the-saints-heres-why/id1623192893?i=1000797784376",
-   "published": "2026-10-23T13:22:17+00:00",
-   "summary": "Podcast episode from The Steel City Insider (Jim Wexell, 247Sports).",
-   "source": {
-    "name": "The Steel City Insider (Jim Wexell, 247Sports)",
     "url": null
    }
   }

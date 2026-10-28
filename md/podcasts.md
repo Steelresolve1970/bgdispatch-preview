@@ -1,12 +1,14 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-28T14:01:12+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-28T13:02:38+00:00._
+_Generated 2026-10-28T14:53:54+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-28T14:53:27+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
-- Podcast: [Steelers Have No Excuse For WR Trade](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-28 12:21 UTC
+- Podcast: [Steelers Double Dipping at Trades?](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-28 14:30 UTC
+- Video: [Steelers' COACHING Grades](https://www.youtube.com/shorts/7vIbAyXAsJQ): Steelers Almighty, 2026-10-28 14:23 UTC
+- Video: [By order of the Peaky Blinders](https://www.youtube.com/shorts/i9u0YrLENg4): Pittsburgh Steelers (official), 2026-10-28 13:36 UTC
 - Video: [Steelers' ST Grades](https://www.youtube.com/shorts/CnoUqe9pN1U): Steelers Almighty, 2026-10-28 11:23 UTC
 - Video: [Steelers Beat Saints in Paris, Browns Preview & NFL Halloween Villains | Not Just Football](https://www.youtube.com/watch?v=N8EOsMrHLyA): Not Just Football with Cam Heyward, 2026-10-28 10:00 UTC
-- Podcast: [Steelers Beat Saints in Paris, Browns Preview & NFL Halloween Villains | Not Just Football](https://www.youtube.com/@NotJustFootballwithCamHeyward): Not Just Football with Cam Heyward, 2026-10-28 10:00 UTC
+- Podcast: [Steelers Beat Saints in Paris, Browns Preview & NFL Halloween Villains | Not Just Football](https://podcasts.apple.com/us/podcast/steelers-beat-saints-in-paris-browns-preview-nfl-halloween/id1633134223?i=1000798501297): Not Just Football with Cam Heyward, 2026-10-28 10:00 UTC
 - Podcast: [DK's Daily Shot of Steelers: Appreciate Keeanu!](https://podcasts.apple.com/us/podcast/id1072021022): DK Pittsburgh Sports, 2026-10-28 07:52 UTC
 - Video: [Why Steelers Shouldn't Go for Big Trade Targets like Sauce Gardner, Brian Thomas Jr., Focus on Draft](https://www.youtube.com/watch?v=YsHJn67LH0k): Locked On Steelers, 2026-10-28 05:00 UTC
 - Video: [STEELERS SQUAD SHOW: Revenge & First Place! Can Pittsburgh Make the Browns Pay?](https://www.youtube.com/watch?v=AeeTumtJWJ0): Locked On Steelers, 2026-10-28 01:36 UTC
@@ -84,7 +86,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Steelers Now Postgame: Steelers 16, Saints 10](https://podcasts.apple.com/us/podcast/steelers-now-postgame-steelers-16-saints-10/id1700240934?i=1000798044127): Steelers Afternoon Drive, 2026-10-25 17:16 UTC
 - Video: [DAT WAY‼️ 📺: NFLN](https://www.youtube.com/shorts/JM9lq50O3vc): Pittsburgh Steelers (official), 2026-10-25 16:35 UTC
 - Video: [Picked by Payton‼️ 📺: NFLN](https://www.youtube.com/shorts/ra_a1PpysFo): Pittsburgh Steelers (official), 2026-10-25 15:42 UTC
-- Video: [HAPPY NATIONAL TE DAY DARNELL 😤 📺: NFLN](https://www.youtube.com/shorts/hrO-Nsseh4A): Pittsburgh Steelers (official), 2026-10-25 14:52 UTC
 - Podcast: [The Terrible Take - Episode 2061 - October 25, 2026](https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2061-october-25-2026/id405990739?i=1000798014044): The Terrible Podcast (Steelers Depot), 2026-10-25 11:52 UTC
 - Podcast: [The Terrible Take - Episode 2060 - October 24, 2026](https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2060-october-24-2026/id405990739?i=1000797953629): The Terrible Podcast (Steelers Depot), 2026-10-24 21:00 UTC
 - Video: [Elandon Roberts wants to win another one so he can enjoy it more this time 🏆🔥#nfl #patriots](https://www.youtube.com/shorts/XWo-am2_97g): Not Just Football with Cam Heyward, 2026-10-24 19:25 UTC
@@ -109,7 +110,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [The Steelers Shouldn't Be Playing in Paris | Steelers Morning Rush](https://podcasts.apple.com/us/podcast/the-steelers-shouldnt-be-playing-in-paris-steelers/id1700240934?i=1000797813600): Steelers Afternoon Drive, 2026-10-23 16:36 UTC
 - Podcast: [The Terrible Podcast — Steelers Vs Saints Game Preview, Joseph-Day To IR, Week 7 Picks, And More](https://podcasts.apple.com/us/podcast/the-terrible-podcast-steelers-vs-saints-game-preview/id405990739?i=1000797810229): The Terrible Podcast (Steelers Depot), 2026-10-23 16:13 UTC
 - Podcast: [Black & Gold Blueprint: Bucs Game Recap and New Orleans Saints Preview](https://podcasts.apple.com/us/podcast/black-gold-blueprint-bucs-game-recap-and-new-orleans/id905962218?i=1000797805954): Steel Curtain Network (BTSC), 2026-10-23 15:30 UTC
-- Podcast: [Steelers Have NO EXCUSES Against the Saints… Here’s Why #Steelers #NFL](https://podcasts.apple.com/us/podcast/steelers-have-no-excuses-against-the-saints-heres-why/id1623192893?i=1000797784376): The Steel City Insider (Jim Wexell, 247Sports), 2026-10-23 13:22 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

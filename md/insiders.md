@@ -1,8 +1,10 @@
 # NFL Insider Posts (last 3 days)
 
-_Generated 2026-10-28T14:01:12+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-28T13:15:47+00:00._
+_Generated 2026-10-28T14:53:54+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-28T14:53:14+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/insiders.json_
 
+- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3myww3g72lk2h), 2026-10-28 14:02 UTC: @rapsheet.bsky.social posted about NFL news.
+- [Christopher Carter (Locked On) on Bluesky](https://bsky.app/profile/cartercritiques.bsky.social/post/3mywvxllqla2w), 2026-10-28 14:00 UTC: @cartercritiques.bsky.social posted about NFL news.
 - [Christopher Carter (Locked On) on Bluesky](https://bsky.app/profile/cartercritiques.bsky.social/post/3mywpc6k3xq24), 2026-10-28 12:00 UTC: @cartercritiques.bsky.social posted about the Steelers, a trade.
 - [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3myv4fmc76s2f), 2026-10-27 20:50 UTC: @rapsheet.bsky.social posted about a trade.
 - [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3myv4c7xyak2f), 2026-10-27 20:48 UTC: @rapsheet.bsky.social posted about a trade.
@@ -33,14 +35,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/insiders.json_
 - [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3myprif3qrs2s), 2026-10-25 17:51 UTC: @rapsheet.bsky.social posted about NFL news.
 - [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mypk42tazc2b), 2026-10-25 15:39 UTC: @rapsheet.bsky.social posted about injuries.
 - [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mypjjvuqjs2q), 2026-10-25 15:29 UTC: @rapsheet.bsky.social posted about NFL news.
-- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3myph4uhrdk2i), 2026-10-25 14:46 UTC: @rapsheet.bsky.social posted about injuries.
-- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mypglpva7s2i), 2026-10-25 14:36 UTC: @rapsheet.bsky.social posted about NFL news.
-- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mypec2tn3c22), 2026-10-25 13:55 UTC: @rapsheet.bsky.social posted about injuries.
-- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mypeaycaz222), 2026-10-25 13:54 UTC: @rapsheet.bsky.social posted about injuries.
-- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mypea4h4fs22), 2026-10-25 13:54 UTC: @rapsheet.bsky.social posted about injuries.
-- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mype73wrfc22), 2026-10-25 13:53 UTC: @rapsheet.bsky.social posted about the game.
-- [Ian Rapoport on Bluesky](https://bsky.app/profile/rapsheet.bsky.social/post/3mype5iivgc22), 2026-10-25 13:52 UTC: @rapsheet.bsky.social posted about injuries.
-- [Christopher Carter (Locked On) on Bluesky](https://bsky.app/profile/cartercritiques.bsky.social/post/3mypcuvi2iz2q), 2026-10-25 13:29 UTC: @cartercritiques.bsky.social posted about the Steelers, the game.
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

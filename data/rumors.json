@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T14:01:05.182961+00:00",
+ "generated": "2026-10-28T14:53:46.722724+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -43,6 +43,142 @@
   ]
  },
  "rumors": [
+  {
+   "id": "448fbdd04e18",
+   "title": "Trade rumor: Steelers",
+   "source": "Behind the Steel Curtain",
+   "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/177021/steelers-news-do-the-steelers-need-to-make-a-trade-for-a-receiver",
+   "published": "2026-10-28T14:45:57+00:00",
+   "summary": "Behind the Steel Curtain passes along trade speculation involving the Steelers; treat it as unconfirmed until the team announces a move, touching on the Steelers' receivers. Read the full story at Behind the Steel Curtain.",
+   "tier": "Fan blog",
+   "tier_score": 2,
+   "subjects": [
+    "Three Rivers"
+   ],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-28T14:53:46.722724+00:00",
+   "own": 1,
+   "consensus": {
+    "cluster_id": "fd9be22f39c9",
+    "independent_sources": 3,
+    "sources": [
+     "Athlon Sports",
+     "Behind the Steel Curtain",
+     "Yahoo Sports"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "71fdb51c1a9f",
+     "19b17cd62ac2",
+     "f85850ec176b",
+     "fd9be22f39c9"
+    ]
+   },
+   "updated": "2026-10-28T14:53:46.722724+00:00"
+  },
+  {
+   "id": "c1624d4a7857",
+   "title": "Rumor watch: Harrison Butker",
+   "source": "Reuters",
+   "link": "https://www.reuters.com/sports/reports-chiefs-sign-k-justin-tucker-amid-harrison-butker-struggles--flm-2026-10-28/",
+   "published": "2026-10-28T14:13:26+00:00",
+   "summary": "Reuters passes along unconfirmed talk involving Harrison Butker. Read the full story at Reuters.",
+   "tier": "National insider",
+   "tier_score": 4,
+   "subjects": [],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-28T14:53:46.722724+00:00",
+   "own": 1,
+   "consensus": {
+    "cluster_id": "c1624d4a7857",
+    "independent_sources": 1,
+    "sources": [
+     "Reuters"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": []
+   },
+   "updated": "2026-10-28T14:53:46.722724+00:00"
+  },
+  {
+   "id": "71fdb51c1a9f",
+   "title": "Trade rumor: Steelers (Athlon Sports)",
+   "source": "Athlon Sports",
+   "link": "https://athlonsports.com/nfl/pittsburgh-steelers/need-a-wide-receiver-here-are-3-the-steelers-should-be-calling-about-before-trade-deadline",
+   "published": "2026-10-28T14:00:00+00:00",
+   "summary": "Athlon Sports passes along trade speculation involving the Steelers; treat it as unconfirmed until the team announces a move, touching on the Steelers' receivers and the trade deadline. Read the full story at Athlon Sports.",
+   "tier": "Aggregator / other",
+   "tier_score": 1,
+   "subjects": [],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-28T14:53:46.722724+00:00",
+   "own": 1,
+   "consensus": {
+    "cluster_id": "fd9be22f39c9",
+    "independent_sources": 3,
+    "sources": [
+     "Athlon Sports",
+     "Behind the Steel Curtain",
+     "Yahoo Sports"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "448fbdd04e18",
+     "19b17cd62ac2",
+     "f85850ec176b",
+     "fd9be22f39c9"
+    ]
+   },
+   "updated": "2026-10-28T14:53:46.722724+00:00"
+  },
+  {
+   "id": "cd1cae73a802",
+   "title": "Trade rumor: Steelers (SteelerNation)",
+   "source": "SteelerNation",
+   "link": "https://www.steelernation.com/2026/10/28/steelers-intriguing-trade-deadline-heat",
+   "published": "2026-10-28T13:27:21+00:00",
+   "summary": "SteelerNation passes along trade speculation involving the Steelers; treat it as unconfirmed until the team announces a move, touching on the Steelers' receivers and the trade deadline. Read the full story at SteelerNation.",
+   "tier": "Fan blog",
+   "tier_score": 2,
+   "subjects": [],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-28T14:53:46.722724+00:00",
+   "own": 1,
+   "consensus": {
+    "cluster_id": "3f3271514107",
+    "independent_sources": 5,
+    "sources": [
+     "A to Z Sports",
+     "SteelerNation",
+     "Steelers Depot",
+     "Steelers Now",
+     "Yahoo Sports"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "98672c12a699",
+     "307e2a040ea7",
+     "f70a13da10bb",
+     "702ace99a8e9",
+     "c60d83ea0785",
+     "9e37088de4c1",
+     "3f3271514107"
+    ]
+   },
+   "updated": "2026-10-28T14:53:46.722724+00:00"
+  },
   {
    "id": "a15a08b885da",
    "title": "Trade rumor: Patrick Queen",
@@ -96,12 +232,12 @@
     "sources": [
      "Still Curtain",
      "WKYC",
-     "fox43.com"
+     "wtsp.com"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
     "related_ids": [
-     "8880bf4606fe",
+     "4a1ff577c743",
      "b030e7b7babc"
     ]
    },
@@ -151,9 +287,10 @@
    "own": 1,
    "consensus": {
     "cluster_id": "3f3271514107",
-    "independent_sources": 4,
+    "independent_sources": 5,
     "sources": [
      "A to Z Sports",
+     "SteelerNation",
      "Steelers Depot",
      "Steelers Now",
      "Yahoo Sports"
@@ -161,6 +298,7 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "cd1cae73a802",
      "307e2a040ea7",
      "f70a13da10bb",
      "702ace99a8e9",
@@ -173,7 +311,7 @@
   },
   {
    "id": "1da59010ce4e",
-   "title": "Trade rumor: Steelers",
+   "title": "Trade rumor: Steelers (Gridiron Heroics)",
    "source": "Gridiron Heroics",
    "link": "https://gridironheroics.com/steelers-expected-to-add-another-playmaker-as-jason-la-canfora-predicts-trade-deadline-moves/",
    "published": "2026-10-28T11:11:03+00:00",
@@ -328,9 +466,10 @@
    "own": 1,
    "consensus": {
     "cluster_id": "3f3271514107",
-    "independent_sources": 4,
+    "independent_sources": 5,
     "sources": [
      "A to Z Sports",
+     "SteelerNation",
      "Steelers Depot",
      "Steelers Now",
      "Yahoo Sports"
@@ -338,6 +477,7 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "cd1cae73a802",
      "98672c12a699",
      "307e2a040ea7",
      "702ace99a8e9",
@@ -401,13 +541,13 @@
     "sources": [
      "Still Curtain",
      "WKYC",
-     "fox43.com"
+     "wtsp.com"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
     "related_ids": [
      "b9c5d295880a",
-     "8880bf4606fe"
+     "4a1ff577c743"
     ]
    },
    "updated": "2026-10-27T17:22:05.510304+00:00"
@@ -429,9 +569,10 @@
    "own": 1,
    "consensus": {
     "cluster_id": "3f3271514107",
-    "independent_sources": 4,
+    "independent_sources": 5,
     "sources": [
      "A to Z Sports",
+     "SteelerNation",
      "Steelers Depot",
      "Steelers Now",
      "Yahoo Sports"
@@ -439,6 +580,7 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "cd1cae73a802",
      "98672c12a699",
      "307e2a040ea7",
      "f70a13da10bb",
@@ -467,16 +609,20 @@
    "first_seen": "2026-10-27T15:47:42.416402+00:00",
    "own": 1,
    "consensus": {
-    "cluster_id": "f85850ec176b",
-    "independent_sources": 2,
+    "cluster_id": "fd9be22f39c9",
+    "independent_sources": 3,
     "sources": [
+     "Athlon Sports",
      "Behind the Steel Curtain",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "f85850ec176b"
+     "448fbdd04e18",
+     "71fdb51c1a9f",
+     "f85850ec176b",
+     "fd9be22f39c9"
     ]
    },
    "updated": "2026-10-27T15:47:42.416402+00:00"
@@ -498,13 +644,20 @@
    "own": 1,
    "consensus": {
     "cluster_id": "fd9be22f39c9",
-    "independent_sources": 1,
+    "independent_sources": 3,
     "sources": [
+     "Athlon Sports",
+     "Behind the Steel Curtain",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
-    "related_ids": []
+    "related_ids": [
+     "448fbdd04e18",
+     "71fdb51c1a9f",
+     "19b17cd62ac2",
+     "f85850ec176b"
+    ]
    },
    "updated": "2026-10-27T15:47:42.416402+00:00"
   },
@@ -525,9 +678,10 @@
    "own": 1,
    "consensus": {
     "cluster_id": "3f3271514107",
-    "independent_sources": 4,
+    "independent_sources": 5,
     "sources": [
      "A to Z Sports",
+     "SteelerNation",
      "Steelers Depot",
      "Steelers Now",
      "Yahoo Sports"
@@ -535,6 +689,7 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "cd1cae73a802",
      "98672c12a699",
      "307e2a040ea7",
      "f70a13da10bb",
@@ -762,9 +917,10 @@
    "own": 1,
    "consensus": {
     "cluster_id": "3f3271514107",
-    "independent_sources": 4,
+    "independent_sources": 5,
     "sources": [
      "A to Z Sports",
+     "SteelerNation",
      "Steelers Depot",
      "Steelers Now",
      "Yahoo Sports"
@@ -772,6 +928,7 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "cd1cae73a802",
      "98672c12a699",
      "307e2a040ea7",
      "f70a13da10bb",
@@ -798,16 +955,13 @@
    "first_seen": "2026-10-24T21:18:21.512769+00:00",
    "consensus": {
     "cluster_id": "b3b86933a304",
-    "independent_sources": 2,
+    "independent_sources": 1,
     "sources": [
-     "SteelerNation",
-     "Yardbarker"
+     "SteelerNation"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": [
-     "5585acb90f77"
-    ]
+    "related_ids": []
    },
    "updated": "2026-10-24T21:18:21.512769+00:00",
    "own": 1
@@ -949,9 +1103,7 @@
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": [
-     "ea49fe3c3805"
-    ]
+    "related_ids": []
    },
    "updated": "2026-10-24T11:49:28.949182+00:00",
    "own": 1
