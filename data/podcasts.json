@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-28T05:02:08.062773+00:00",
+ "generated": "2026-10-28T07:05:21.159645+00:00",
  "date_et": "2026-10-28",
  "days": 5,
  "display_days": 2,
- "count": 101,
+ "count": 102,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -18,10 +18,10 @@
    "show": "Locked On Steelers",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7JorgD8nGLtvvMy1ogFetg",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
-   "week": 4,
-   "latest": null
+   "status": "ok",
+   "episodes": 15,
+   "week": 6,
+   "latest": "2026-10-28T05:00:09+00:00"
   },
   {
    "show": "The Terrible Podcast (Steelers Depot)",
@@ -47,7 +47,7 @@
    "url": "https://feeds.simplecast.com/OkvCKc09",
    "status": "ok",
    "episodes": 1003,
-   "week": 9,
+   "week": 7,
    "latest": "2026-10-27T21:00:00+00:00"
   },
   {
@@ -81,10 +81,10 @@
    "show": "Still Curtain Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxjSNPLcRAVzDKOjhRwo-hQ",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 2,
-   "latest": null
+   "latest": "2026-10-27T19:53:01+00:00"
   },
   {
    "show": "Steel City Underground",
@@ -99,10 +99,10 @@
    "show": "Steel City Underground",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDcNNAMkYr-DzH6_XL-0p8Q",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 1,
-   "latest": null
+   "latest": "2026-10-26T13:15:18+00:00"
   },
   {
    "show": "Steelers Afternoon Drive",
@@ -153,10 +153,10 @@
    "show": "Steelers Now",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp1iAMIfmmgWewzJ07_Y7oA",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 14,
-   "latest": null
+   "latest": "2026-10-27T22:09:04+00:00"
   },
   {
    "show": "The Steel City Insider (Jim Wexell, 247Sports)",
@@ -198,10 +198,10 @@
    "show": "Pittsburgh Steelers (official)",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChaRXjMDs4ppKfnTPE6Z89w",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 15,
-   "latest": null
+   "latest": "2026-10-27T23:34:05+00:00"
   },
   {
    "show": "Not Just Football with Cam Heyward",
@@ -216,10 +216,10 @@
    "show": "Not Just Football with Cam Heyward",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8hodyaoiw297aspKf9QVDA",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 5,
-   "latest": null
+   "latest": "2026-10-27T22:37:48+00:00"
   },
   {
    "show": "Footbahlin with Ben Roethlisberger",
@@ -243,13 +243,29 @@
    "show": "The Christian Kuntz Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKKBJcOGsYmwAATQv-xQYeA",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 0,
-   "latest": null
+   "latest": "2009-05-26T14:01:33+00:00"
   }
  ],
  "items": [
+  {
+   "title": "Why Steelers Shouldn't Go for Big Trade Targets like Sauce Gardner, Brian Thomas Jr., Focus on Draft",
+   "show": "Locked On Steelers",
+   "kind": "video",
+   "link": "https://www.youtube.com/watch?v=YsHJn67LH0k",
+   "published": "2026-10-28T05:00:09+00:00",
+   "summary": "Video from Locked On Steelers."
+  },
+  {
+   "title": "STEELERS SQUAD SHOW: Revenge & First Place! Can Pittsburgh Make the Browns Pay?",
+   "show": "Locked On Steelers",
+   "kind": "video",
+   "link": "https://www.youtube.com/watch?v=AeeTumtJWJ0",
+   "published": "2026-10-28T01:36:38+00:00",
+   "summary": "Video from Locked On Steelers."
+  },
   {
    "title": "bonjour.mp4 \ud83d\udcfa: #CLEvsPIT 11/1 at 1 PM ET on CBS",
    "show": "Pittsburgh Steelers (official)",
@@ -257,6 +273,15 @@
    "link": "https://www.youtube.com/shorts/C2UJf-xEWsE",
    "published": "2026-10-27T23:34:05+00:00",
    "summary": "Video from Pittsburgh Steelers (official)."
+  },
+  {
+   "title": "Steelers' DB Grades",
+   "show": "Steelers Almighty",
+   "kind": "video",
+   "link": "https://www.youtube.com/shorts/SDLSYCf8o2Q",
+   "published": "2026-10-27T23:33:20+00:00",
+   "summary": "Video from Steelers Almighty.",
+   "from_film": true
   },
   {
    "title": "The whole team is working together to get better \ud83d\udcc8\ud83d\udd25#steelers #aaronrodgers #nfl",
@@ -1048,32 +1073,9 @@
    "link": "https://podcasts.apple.com/us/podcast/lets-ride-steelers-keys-to-victory-vs-the-saints-week-7/id905962218?i=1000797805953",
    "published": "2026-10-23T08:00:00+00:00",
    "summary": "Podcast episode from Steel Curtain Network (BTSC)."
-  },
-  {
-   "title": "DK's Daily Shot of Steelers: Je voudrais voir \u2026",
-   "show": "DK Pittsburgh Sports",
-   "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/dks-daily-shot-of-steelers-je-voudrais-voir/id1072021022?i=1000797748660",
-   "published": "2026-10-23T06:27:00+00:00",
-   "summary": "Podcast episode from DK Pittsburgh Sports."
-  },
-  {
-   "title": "Scout\u2019s Eye with Matt Williamson: No bad tactics",
-   "show": "DK Pittsburgh Sports",
-   "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/scouts-eye-with-matt-williamson-no-bad-tactics/id1072021022?i=1000797736650",
-   "published": "2026-10-23T06:25:00+00:00",
-   "summary": "Podcast episode from DK Pittsburgh Sports."
   }
  ],
- "yt_channels": [
-  {
-   "show": "The Christian Kuntz Podcast",
-   "channel_id": "UCKKBJcOGsYmwAATQv-xQYeA",
-   "link": "https://www.youtube.com/channel/UCKKBJcOGsYmwAATQv-xQYeA",
-   "embed": "https://www.youtube-nocookie.com/embed/videoseries?list=UUKKBJcOGsYmwAATQv-xQYeA"
-  }
- ],
+ "yt_channels": [],
  "postgame": null,
  "directory": [
   {

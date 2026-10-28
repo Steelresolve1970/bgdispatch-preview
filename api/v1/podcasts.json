@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-28T05:02:32+00:00",
- "data_updated": "2026-10-28T05:02:08+00:00",
- "count": 98,
+ "generated": "2026-10-28T07:06:04+00:00",
+ "data_updated": "2026-10-28T07:05:21+00:00",
+ "count": 99,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -20,6 +20,32 @@
  "html": "https://blackandgolddispatch.com/#/podcasts",
  "items": [
   {
+   "id": "c8db164111a66df9",
+   "type": "video",
+   "title": "Why Steelers Shouldn't Go for Big Trade Targets like Sauce Gardner, Brian Thomas Jr., Focus on Draft",
+   "show": "Locked On Steelers",
+   "url": "https://www.youtube.com/watch?v=YsHJn67LH0k",
+   "published": "2026-10-28T05:00:09+00:00",
+   "summary": "Video from Locked On Steelers.",
+   "source": {
+    "name": "Locked On Steelers",
+    "url": null
+   }
+  },
+  {
+   "id": "01572b2b0d3100b1",
+   "type": "video",
+   "title": "STEELERS SQUAD SHOW: Revenge & First Place! Can Pittsburgh Make the Browns Pay?",
+   "show": "Locked On Steelers",
+   "url": "https://www.youtube.com/watch?v=AeeTumtJWJ0",
+   "published": "2026-10-28T01:36:38+00:00",
+   "summary": "Video from Locked On Steelers.",
+   "source": {
+    "name": "Locked On Steelers",
+    "url": null
+   }
+  },
+  {
    "id": "c8e4cfc413e8797f",
    "type": "video",
    "title": "bonjour.mp4 📺: #CLEvsPIT 11/1 at 1 PM ET on CBS",
@@ -29,6 +55,19 @@
    "summary": "Video from Pittsburgh Steelers (official).",
    "source": {
     "name": "Pittsburgh Steelers (official)",
+    "url": null
+   }
+  },
+  {
+   "id": "1dd00b0bbfe33669",
+   "type": "video",
+   "title": "Steelers' DB Grades",
+   "show": "Steelers Almighty",
+   "url": "https://www.youtube.com/shorts/SDLSYCf8o2Q",
+   "published": "2026-10-27T23:33:20+00:00",
+   "summary": "Video from Steelers Almighty.",
+   "source": {
+    "name": "Steelers Almighty",
     "url": null
    }
   },
@@ -1264,32 +1303,6 @@
    "summary": "Podcast episode from Steel Curtain Network (BTSC).",
    "source": {
     "name": "Steel Curtain Network (BTSC)",
-    "url": null
-   }
-  },
-  {
-   "id": "c1bd75060f291728",
-   "type": "podcast_episode",
-   "title": "DK's Daily Shot of Steelers: Je voudrais voir …",
-   "show": "DK Pittsburgh Sports",
-   "url": "https://podcasts.apple.com/us/podcast/dks-daily-shot-of-steelers-je-voudrais-voir/id1072021022?i=1000797748660",
-   "published": "2026-10-23T06:27:00+00:00",
-   "summary": "Podcast episode from DK Pittsburgh Sports.",
-   "source": {
-    "name": "DK Pittsburgh Sports",
-    "url": null
-   }
-  },
-  {
-   "id": "9cc4217ba95097ee",
-   "type": "podcast_episode",
-   "title": "Scout’s Eye with Matt Williamson: No bad tactics",
-   "show": "DK Pittsburgh Sports",
-   "url": "https://podcasts.apple.com/us/podcast/scouts-eye-with-matt-williamson-no-bad-tactics/id1072021022?i=1000797736650",
-   "published": "2026-10-23T06:25:00+00:00",
-   "summary": "Podcast episode from DK Pittsburgh Sports.",
-   "source": {
-    "name": "DK Pittsburgh Sports",
     "url": null
    }
   }

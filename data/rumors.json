@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T05:02:24.570955+00:00",
+ "generated": "2026-10-28T07:05:56.240247+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -118,17 +118,14 @@
    "first_seen": "2026-10-27T21:49:56.799839+00:00",
    "own": 1,
    "consensus": {
-    "cluster_id": "857f901e7f7b",
-    "independent_sources": 2,
+    "cluster_id": "75649bd9f46f",
+    "independent_sources": 1,
     "sources": [
-     "KRQE",
-     "WTNH.com"
+     "KRQE"
     ],
     "highest_tier": "Aggregator / other",
     "highest_tier_score": 1,
-    "related_ids": [
-     "857f901e7f7b"
-    ]
+    "related_ids": []
    },
    "updated": "2026-10-27T21:49:56.799839+00:00"
   },
@@ -176,9 +173,10 @@
    "own": 1,
    "consensus": {
     "cluster_id": "3f3271514107",
-    "independent_sources": 4,
+    "independent_sources": 5,
     "sources": [
      "A to Z Sports",
+     "Heavy.com",
      "Steelers Depot",
      "Steelers Now",
      "Yahoo Sports"
@@ -189,6 +187,7 @@
      "307e2a040ea7",
      "702ace99a8e9",
      "c60d83ea0785",
+     "45c4bcc7cd1b",
      "9e37088de4c1",
      "3f3271514107"
     ]
@@ -271,9 +270,10 @@
    "own": 1,
    "consensus": {
     "cluster_id": "3f3271514107",
-    "independent_sources": 4,
+    "independent_sources": 5,
     "sources": [
      "A to Z Sports",
+     "Heavy.com",
      "Steelers Depot",
      "Steelers Now",
      "Yahoo Sports"
@@ -284,6 +284,7 @@
      "307e2a040ea7",
      "f70a13da10bb",
      "c60d83ea0785",
+     "45c4bcc7cd1b",
      "9e37088de4c1",
      "3f3271514107"
     ]
@@ -366,9 +367,10 @@
    "own": 1,
    "consensus": {
     "cluster_id": "3f3271514107",
-    "independent_sources": 4,
+    "independent_sources": 5,
     "sources": [
      "A to Z Sports",
+     "Heavy.com",
      "Steelers Depot",
      "Steelers Now",
      "Yahoo Sports"
@@ -379,6 +381,7 @@
      "307e2a040ea7",
      "f70a13da10bb",
      "702ace99a8e9",
+     "45c4bcc7cd1b",
      "9e37088de4c1",
      "3f3271514107"
     ]
@@ -602,9 +605,10 @@
    "own": 1,
    "consensus": {
     "cluster_id": "3f3271514107",
-    "independent_sources": 4,
+    "independent_sources": 5,
     "sources": [
      "A to Z Sports",
+     "Heavy.com",
      "Steelers Depot",
      "Steelers Now",
      "Yahoo Sports"
@@ -616,6 +620,7 @@
      "f70a13da10bb",
      "702ace99a8e9",
      "c60d83ea0785",
+     "45c4bcc7cd1b",
      "3f3271514107"
     ]
    },
