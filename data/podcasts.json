@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-28T01:00:25.395919+00:00",
+ "generated": "2026-10-28T01:12:26.540603+00:00",
  "date_et": "2026-10-27",
  "days": 5,
  "display_days": 2,
- "count": 103,
+ "count": 104,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -81,10 +81,10 @@
    "show": "Still Curtain Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxjSNPLcRAVzDKOjhRwo-hQ",
-   "status": "error: HTTP Error 404: Not Found",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 15,
    "week": 2,
-   "latest": null
+   "latest": "2026-10-27T19:53:01+00:00"
   },
   {
    "show": "Steel City Underground",
@@ -110,7 +110,7 @@
    "url": "https://feeds.megaphone.fm/RRTET7764502074",
    "status": "ok",
    "episodes": 1499,
-   "week": 9,
+   "week": 10,
    "latest": "2026-10-27T22:07:00+00:00"
   },
   {
@@ -189,10 +189,10 @@
    "show": "Nick Farabaugh on PennLive",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5yvng1eSgffmybUM-51fTw",
-   "status": "ok",
-   "episodes": 1,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 1,
-   "latest": "2026-10-24T18:08:40+00:00"
+   "latest": null
   },
   {
    "show": "Pittsburgh Steelers (official)",
@@ -278,7 +278,7 @@
    "title": "Two New WR Trade Options Emerge for Steelers",
    "show": "All Steelers Talk",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/id1627248534",
+   "link": "https://podcasts.apple.com/us/podcast/two-new-wr-trade-options-emerge-for-steelers/id1627248534?i=1000798426827",
    "published": "2026-10-27T21:21:00+00:00",
    "summary": "Podcast episode from All Steelers Talk."
   },
@@ -367,9 +367,17 @@
    "title": "Steelers Two Biggest Strengths Can Carry Them - Hopefully",
    "show": "All Steelers Talk",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/id1627248534",
+   "link": "https://podcasts.apple.com/us/podcast/steelers-two-biggest-strengths-can-carry-them-hopefully/id1627248534?i=1000798387695",
    "published": "2026-10-27T16:57:00+00:00",
    "summary": "Podcast episode from All Steelers Talk."
+  },
+  {
+   "title": "Mike McCarthy Picking Up Where Tomlin Left Off? | Steelers Morning Rush",
+   "show": "Steelers Afternoon Drive",
+   "kind": "podcast",
+   "link": "https://podcasts.apple.com/us/podcast/mike-mccarthy-picking-up-where-tomlin-left-off-steelers/id1700240934?i=1000798379740",
+   "published": "2026-10-27T15:51:00+00:00",
+   "summary": "Podcast episode from Steelers Afternoon Drive."
   },
   {
    "title": "Mike McCarthy Picking Up Where Tomlin Left Off? | Steelers Morning Rush",
@@ -408,7 +416,7 @@
    "title": "Steelers Enter Trade Now Week",
    "show": "All Steelers Talk",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/id1627248534",
+   "link": "https://podcasts.apple.com/us/podcast/steelers-enter-trade-now-week/id1627248534?i=1000798347707",
    "published": "2026-10-27T12:25:00+00:00",
    "summary": "Podcast episode from All Steelers Talk."
   },
@@ -449,7 +457,7 @@
    "title": "DK's Daily Shot of Steelers: The real identity",
    "show": "DK Pittsburgh Sports",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/id1072021022",
+   "link": "https://podcasts.apple.com/us/podcast/dks-daily-shot-of-steelers-the-real-identity/id1072021022?i=1000798335535",
    "published": "2026-10-27T07:11:00+00:00",
    "summary": "Podcast episode from DK Pittsburgh Sports."
   },
