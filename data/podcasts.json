@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-27T23:18:57.350258+00:00",
+ "generated": "2026-10-28T00:05:56.637336+00:00",
  "date_et": "2026-10-27",
  "days": 5,
  "display_days": 2,
- "count": 103,
+ "count": 102,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -38,7 +38,7 @@
    "url": "https://feeds.megaphone.fm/btsc-steelers",
    "status": "ok",
    "episodes": 8212,
-   "week": 3,
+   "week": 2,
    "latest": "2026-10-23T15:30:00+00:00"
   },
   {
@@ -81,10 +81,10 @@
    "show": "Still Curtain Podcast",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxjSNPLcRAVzDKOjhRwo-hQ",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 2,
-   "latest": "2026-10-27T19:53:01+00:00"
+   "latest": null
   },
   {
    "show": "Steel City Underground",
@@ -99,10 +99,10 @@
    "show": "Steel City Underground",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDcNNAMkYr-DzH6_XL-0p8Q",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 1,
-   "latest": "2026-10-26T13:15:18+00:00"
+   "latest": null
   },
   {
    "show": "Steelers Afternoon Drive",
@@ -189,7 +189,7 @@
    "show": "Nick Farabaugh on PennLive",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5yvng1eSgffmybUM-51fTw",
-   "status": "error: HTTP Error 500: Internal Server Error",
+   "status": "error: HTTP Error 404: Not Found",
    "episodes": 0,
    "week": 1,
    "latest": null
@@ -198,10 +198,10 @@
    "show": "Pittsburgh Steelers (official)",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChaRXjMDs4ppKfnTPE6Z89w",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 15,
-   "latest": "2026-10-27T22:15:14+00:00"
+   "latest": null
   },
   {
    "show": "Not Just Football with Cam Heyward",
@@ -216,10 +216,10 @@
    "show": "Not Just Football with Cam Heyward",
    "kind": "video",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8hodyaoiw297aspKf9QVDA",
-   "status": "ok",
-   "episodes": 15,
+   "status": "error: HTTP Error 404: Not Found",
+   "episodes": 0,
    "week": 5,
-   "latest": "2026-10-27T22:37:48+00:00"
+   "latest": null
   },
   {
    "show": "Footbahlin with Ben Roethlisberger",
@@ -1072,14 +1072,6 @@
    "link": "https://scblitz.podbean.com/e/scb-steelers-podcast-495-buccin-a-trend/",
    "published": "2026-10-23T03:37:50+00:00",
    "summary": "Podcast episode from Steel City Blitz."
-  },
-  {
-   "title": "Steelers Preview: Previewing Steelers vs. Saints, Week 7",
-   "show": "Steel Curtain Network (BTSC)",
-   "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/steelers-preview-previewing-steelers-vs-saints-week-7/id905962218?i=1000797805996",
-   "published": "2026-10-23T00:00:00+00:00",
-   "summary": "Podcast episode from Steel Curtain Network (BTSC)."
   }
  ],
  "yt_channels": [

@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-27T23:19:20+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-27T23:18:57+00:00._
+_Generated 2026-10-28T00:06:27+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-28T00:05:56+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [The whole team is working together to get better 📈🔥#steelers #aaronrodgers #nfl](https://www.youtube.com/shorts/t0LW2T9VRUs): Not Just Football with Cam Heyward, 2026-10-27 22:37 UTC
@@ -103,7 +103,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Steelers Rookie Class Answers Call, Ready to Carry Roster? | DeShon Elliott's Return Frees Up DBs](https://www.youtube.com/watch?v=beELd1XoLY4): Locked On Steelers, 2026-10-23 05:00 UTC
 - Podcast: [Steelers Rookie Class Answers Call, Ready to Carry Roster? | DeShon Elliott's Return Frees Up DBs](https://podcasts.apple.com/us/podcast/steelers-rookie-class-answers-call-ready-to-carry-roster/id1140522532?i=1000797723898): Locked On Steelers, 2026-10-23 04:30 UTC
 - Podcast: [SCB Steelers Podcast 495 - Buccin' a Trend](https://scblitz.podbean.com/e/scb-steelers-podcast-495-buccin-a-trend/): Steel City Blitz, 2026-10-23 03:37 UTC
-- Podcast: [Steelers Preview: Previewing Steelers vs. Saints, Week 7](https://podcasts.apple.com/us/podcast/steelers-preview-previewing-steelers-vs-saints-week-7/id905962218?i=1000797805996): Steel Curtain Network (BTSC), 2026-10-23 00:00 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
