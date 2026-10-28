@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T15:42:57.639435+00:00",
+ "generated": "2026-10-28T15:54:44.013202+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -184,9 +184,11 @@
    "own": 1,
    "consensus": {
     "cluster_id": "9e37088de4c1",
-    "independent_sources": 5,
+    "independent_sources": 7,
     "sources": [
      "A to Z Sports",
+     "AOL.com",
+     "Heavy.com",
      "SteelerNation",
      "Steelers Depot",
      "Steelers Now",
@@ -196,10 +198,12 @@
     "highest_tier_score": 4,
     "related_ids": [
      "98672c12a699",
+     "6708ae0cd793",
      "307e2a040ea7",
      "f70a13da10bb",
      "702ace99a8e9",
      "c60d83ea0785",
+     "45c4bcc7cd1b",
      "9e37088de4c1"
     ]
    },
@@ -313,9 +317,11 @@
    "own": 1,
    "consensus": {
     "cluster_id": "9e37088de4c1",
-    "independent_sources": 5,
+    "independent_sources": 7,
     "sources": [
      "A to Z Sports",
+     "AOL.com",
+     "Heavy.com",
      "SteelerNation",
      "Steelers Depot",
      "Steelers Now",
@@ -325,10 +331,12 @@
     "highest_tier_score": 4,
     "related_ids": [
      "cd1cae73a802",
+     "6708ae0cd793",
      "307e2a040ea7",
      "f70a13da10bb",
      "702ace99a8e9",
      "c60d83ea0785",
+     "45c4bcc7cd1b",
      "9e37088de4c1"
     ]
    },
@@ -491,9 +499,11 @@
    "own": 1,
    "consensus": {
     "cluster_id": "9e37088de4c1",
-    "independent_sources": 5,
+    "independent_sources": 7,
     "sources": [
      "A to Z Sports",
+     "AOL.com",
+     "Heavy.com",
      "SteelerNation",
      "Steelers Depot",
      "Steelers Now",
@@ -504,9 +514,11 @@
     "related_ids": [
      "cd1cae73a802",
      "98672c12a699",
+     "6708ae0cd793",
      "307e2a040ea7",
      "702ace99a8e9",
      "c60d83ea0785",
+     "45c4bcc7cd1b",
      "9e37088de4c1"
     ]
    },
@@ -593,9 +605,11 @@
    "own": 1,
    "consensus": {
     "cluster_id": "9e37088de4c1",
-    "independent_sources": 5,
+    "independent_sources": 7,
     "sources": [
      "A to Z Sports",
+     "AOL.com",
+     "Heavy.com",
      "SteelerNation",
      "Steelers Depot",
      "Steelers Now",
@@ -606,9 +620,11 @@
     "related_ids": [
      "cd1cae73a802",
      "98672c12a699",
+     "6708ae0cd793",
      "307e2a040ea7",
      "f70a13da10bb",
      "c60d83ea0785",
+     "45c4bcc7cd1b",
      "9e37088de4c1"
     ]
    },
@@ -701,9 +717,11 @@
    "own": 1,
    "consensus": {
     "cluster_id": "9e37088de4c1",
-    "independent_sources": 5,
+    "independent_sources": 7,
     "sources": [
      "A to Z Sports",
+     "AOL.com",
+     "Heavy.com",
      "SteelerNation",
      "Steelers Depot",
      "Steelers Now",
@@ -714,9 +732,11 @@
     "related_ids": [
      "cd1cae73a802",
      "98672c12a699",
+     "6708ae0cd793",
      "307e2a040ea7",
      "f70a13da10bb",
      "702ace99a8e9",
+     "45c4bcc7cd1b",
      "9e37088de4c1"
     ]
    },
@@ -724,7 +744,7 @@
   },
   {
    "id": "87aceeb400a8",
-   "title": "Trade rumor: Steelers (Yahoo Sports) (Yahoo Sports) (Yahoo Sports) (Yahoo Sports)",
+   "title": "Trade rumor: Steelers (Yahoo Sports) (Yahoo Sports) (Yahoo Sports) (Yahoo Sports) (Yahoo Sports)",
    "source": "Yahoo Sports",
    "link": "https://sports.yahoo.com/articles/steelers-linked-exciting-trade-first-142407197.html",
    "published": "2026-10-27T14:24:07+00:00",
@@ -939,9 +959,11 @@
    "own": 1,
    "consensus": {
     "cluster_id": "9e37088de4c1",
-    "independent_sources": 5,
+    "independent_sources": 7,
     "sources": [
      "A to Z Sports",
+     "AOL.com",
+     "Heavy.com",
      "SteelerNation",
      "Steelers Depot",
      "Steelers Now",
@@ -952,10 +974,12 @@
     "related_ids": [
      "cd1cae73a802",
      "98672c12a699",
+     "6708ae0cd793",
      "307e2a040ea7",
      "f70a13da10bb",
      "702ace99a8e9",
-     "c60d83ea0785"
+     "c60d83ea0785",
+     "45c4bcc7cd1b"
     ]
    },
    "updated": "2026-10-27T19:38:48.765854+00:00"
@@ -976,13 +1000,16 @@
    "first_seen": "2026-10-24T21:18:21.512769+00:00",
    "consensus": {
     "cluster_id": "b3b86933a304",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
-     "SteelerNation"
+     "SteelerNation",
+     "Yardbarker"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "5585acb90f77"
+    ]
    },
    "updated": "2026-10-24T21:18:21.512769+00:00",
    "own": 1
@@ -1039,7 +1066,9 @@
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "dfe6286b4e56"
+    ]
    },
    "updated": "2026-10-24T16:36:03.938312+00:00",
    "own": 1

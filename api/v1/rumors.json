@@ -2,8 +2,8 @@
  "api_version": "1",
  "dataset": "rumors",
  "description": "Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).",
- "generated": "2026-10-28T15:43:04+00:00",
- "data_updated": "2026-10-28T15:42:57+00:00",
+ "generated": "2026-10-28T15:54:50+00:00",
+ "data_updated": "2026-10-28T15:54:44+00:00",
  "count": 35,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
@@ -171,9 +171,11 @@
    "people": [],
    "consensus": {
     "cluster_id": "9e37088de4c1",
-    "independent_sources": 5,
+    "independent_sources": 7,
     "sources": [
      "A to Z Sports",
+     "AOL.com",
+     "Heavy.com",
      "SteelerNation",
      "Steelers Depot",
      "Steelers Now",
@@ -183,10 +185,12 @@
     "highest_tier_score": 4,
     "related_ids": [
      "98672c12a699",
+     "6708ae0cd793",
      "307e2a040ea7",
      "f70a13da10bb",
      "702ace99a8e9",
      "c60d83ea0785",
+     "45c4bcc7cd1b",
      "9e37088de4c1"
     ]
    }
@@ -308,9 +312,11 @@
    "people": [],
    "consensus": {
     "cluster_id": "9e37088de4c1",
-    "independent_sources": 5,
+    "independent_sources": 7,
     "sources": [
      "A to Z Sports",
+     "AOL.com",
+     "Heavy.com",
      "SteelerNation",
      "Steelers Depot",
      "Steelers Now",
@@ -320,10 +326,12 @@
     "highest_tier_score": 4,
     "related_ids": [
      "cd1cae73a802",
+     "6708ae0cd793",
      "307e2a040ea7",
      "f70a13da10bb",
      "702ace99a8e9",
      "c60d83ea0785",
+     "45c4bcc7cd1b",
      "9e37088de4c1"
     ]
    }
@@ -498,9 +506,11 @@
    "people": [],
    "consensus": {
     "cluster_id": "9e37088de4c1",
-    "independent_sources": 5,
+    "independent_sources": 7,
     "sources": [
      "A to Z Sports",
+     "AOL.com",
+     "Heavy.com",
      "SteelerNation",
      "Steelers Depot",
      "Steelers Now",
@@ -511,9 +521,11 @@
     "related_ids": [
      "cd1cae73a802",
      "98672c12a699",
+     "6708ae0cd793",
      "307e2a040ea7",
      "702ace99a8e9",
      "c60d83ea0785",
+     "45c4bcc7cd1b",
      "9e37088de4c1"
     ]
    }
@@ -606,9 +618,11 @@
    "people": [],
    "consensus": {
     "cluster_id": "9e37088de4c1",
-    "independent_sources": 5,
+    "independent_sources": 7,
     "sources": [
      "A to Z Sports",
+     "AOL.com",
+     "Heavy.com",
      "SteelerNation",
      "Steelers Depot",
      "Steelers Now",
@@ -619,9 +633,11 @@
     "related_ids": [
      "cd1cae73a802",
      "98672c12a699",
+     "6708ae0cd793",
      "307e2a040ea7",
      "f70a13da10bb",
      "c60d83ea0785",
+     "45c4bcc7cd1b",
      "9e37088de4c1"
     ]
    }
@@ -720,9 +736,11 @@
    "people": [],
    "consensus": {
     "cluster_id": "9e37088de4c1",
-    "independent_sources": 5,
+    "independent_sources": 7,
     "sources": [
      "A to Z Sports",
+     "AOL.com",
+     "Heavy.com",
      "SteelerNation",
      "Steelers Depot",
      "Steelers Now",
@@ -733,9 +751,11 @@
     "related_ids": [
      "cd1cae73a802",
      "98672c12a699",
+     "6708ae0cd793",
      "307e2a040ea7",
      "f70a13da10bb",
      "702ace99a8e9",
+     "45c4bcc7cd1b",
      "9e37088de4c1"
     ]
    }
@@ -743,7 +763,7 @@
   {
    "id": "87aceeb400a8",
    "type": "rumor",
-   "title": "Trade rumor: Steelers (Yahoo Sports) (Yahoo Sports) (Yahoo Sports) (Yahoo Sports)",
+   "title": "Trade rumor: Steelers (Yahoo Sports) (Yahoo Sports) (Yahoo Sports) (Yahoo Sports) (Yahoo Sports)",
    "summary": "Yahoo Sports passes along trade speculation involving the Steelers; treat it as unconfirmed until the team announces a move, touching on the Steelers' receivers. Read the full story at Yahoo Sports.",
    "url": "https://sports.yahoo.com/articles/steelers-linked-exciting-trade-first-142407197.html",
    "source": {
@@ -974,9 +994,11 @@
    ],
    "consensus": {
     "cluster_id": "9e37088de4c1",
-    "independent_sources": 5,
+    "independent_sources": 7,
     "sources": [
      "A to Z Sports",
+     "AOL.com",
+     "Heavy.com",
      "SteelerNation",
      "Steelers Depot",
      "Steelers Now",
@@ -987,10 +1009,12 @@
     "related_ids": [
      "cd1cae73a802",
      "98672c12a699",
+     "6708ae0cd793",
      "307e2a040ea7",
      "f70a13da10bb",
      "702ace99a8e9",
-     "c60d83ea0785"
+     "c60d83ea0785",
+     "45c4bcc7cd1b"
     ]
    }
   },
@@ -1014,13 +1038,16 @@
    "people": [],
    "consensus": {
     "cluster_id": "b3b86933a304",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
-     "SteelerNation"
+     "SteelerNation",
+     "Yardbarker"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "5585acb90f77"
+    ]
    }
   },
   {
@@ -1081,7 +1108,9 @@
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "dfe6286b4e56"
+    ]
    }
   },
   {
