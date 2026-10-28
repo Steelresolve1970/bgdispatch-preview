@@ -2,8 +2,8 @@
  "api_version": "1",
  "dataset": "rumors",
  "description": "Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).",
- "generated": "2026-10-28T03:23:49+00:00",
- "data_updated": "2026-10-28T03:23:43+00:00",
+ "generated": "2026-10-28T03:36:10+00:00",
+ "data_updated": "2026-10-28T03:36:03+00:00",
  "count": 34,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
@@ -41,8 +41,8 @@
     "cluster_id": "0cdd0e07e09e",
     "independent_sources": 2,
     "sources": [
-     "Yahoo Sports",
-     "heavy.com"
+     "Heavy.com",
+     "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
@@ -146,7 +146,7 @@
   {
    "id": "f70a13da10bb",
    "type": "rumor",
-   "title": "Trade rumor: Steelers (Steelers Now)",
+   "title": "Trade rumor: Steelers (Steelers Now) (Steelers Now)",
    "summary": "Steelers Now passes along trade speculation involving the Steelers; treat it as unconfirmed until the team announces a move, touching on the Steelers' receivers. Read the full story at Steelers Now.",
    "url": "https://steelersnow.com/steelers-linked-to-two-wide-receivers-in-potential-trade/",
    "source": {
@@ -163,9 +163,10 @@
    "people": [],
    "consensus": {
     "cluster_id": "5a0773cc79d1",
-    "independent_sources": 5,
+    "independent_sources": 6,
     "sources": [
      "A to Z Sports",
+     "Heavy.com",
      "Steelers Depot",
      "Steelers Now",
      "Still Curtain",
@@ -177,6 +178,7 @@
      "307e2a040ea7",
      "702ace99a8e9",
      "c60d83ea0785",
+     "45c4bcc7cd1b",
      "9e37088de4c1",
      "3f3271514107",
      "7fd46e561838",
@@ -270,9 +272,10 @@
    "people": [],
    "consensus": {
     "cluster_id": "5a0773cc79d1",
-    "independent_sources": 5,
+    "independent_sources": 6,
     "sources": [
      "A to Z Sports",
+     "Heavy.com",
      "Steelers Depot",
      "Steelers Now",
      "Still Curtain",
@@ -284,6 +287,7 @@
      "307e2a040ea7",
      "f70a13da10bb",
      "c60d83ea0785",
+     "45c4bcc7cd1b",
      "9e37088de4c1",
      "3f3271514107",
      "7fd46e561838",
@@ -374,9 +378,10 @@
    "people": [],
    "consensus": {
     "cluster_id": "5a0773cc79d1",
-    "independent_sources": 5,
+    "independent_sources": 6,
     "sources": [
      "A to Z Sports",
+     "Heavy.com",
      "Steelers Depot",
      "Steelers Now",
      "Still Curtain",
@@ -388,6 +393,7 @@
      "307e2a040ea7",
      "f70a13da10bb",
      "702ace99a8e9",
+     "45c4bcc7cd1b",
      "9e37088de4c1",
      "3f3271514107",
      "7fd46e561838",
@@ -632,9 +638,10 @@
    ],
    "consensus": {
     "cluster_id": "5a0773cc79d1",
-    "independent_sources": 5,
+    "independent_sources": 6,
     "sources": [
      "A to Z Sports",
+     "Heavy.com",
      "Steelers Depot",
      "Steelers Now",
      "Still Curtain",
@@ -647,6 +654,7 @@
      "f70a13da10bb",
      "702ace99a8e9",
      "c60d83ea0785",
+     "45c4bcc7cd1b",
      "3f3271514107",
      "7fd46e561838",
      "5a0773cc79d1"
@@ -1085,9 +1093,10 @@
    "people": [],
    "consensus": {
     "cluster_id": "5a0773cc79d1",
-    "independent_sources": 5,
+    "independent_sources": 6,
     "sources": [
      "A to Z Sports",
+     "Heavy.com",
      "Steelers Depot",
      "Steelers Now",
      "Still Curtain",
@@ -1100,6 +1109,7 @@
      "f70a13da10bb",
      "702ace99a8e9",
      "c60d83ea0785",
+     "45c4bcc7cd1b",
      "9e37088de4c1",
      "3f3271514107",
      "5a0773cc79d1"
