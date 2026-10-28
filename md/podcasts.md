@@ -1,10 +1,11 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-28T00:06:27+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-28T00:05:56+00:00._
+_Generated 2026-10-28T01:00:48+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-28T01:00:25+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [The whole team is working together to get better 📈🔥#steelers #aaronrodgers #nfl](https://www.youtube.com/shorts/t0LW2T9VRUs): Not Just Football with Cam Heyward, 2026-10-27 22:37 UTC
 - Video: [Recapping The Steelers 16-10 Victory In Paris | SNR Drive (Oct.27) | Pittsburgh Steelers](https://www.youtube.com/watch?v=090aowOKXsw): Pittsburgh Steelers (official), 2026-10-27 22:15 UTC
+- Video: [Trade Deadline Fits? | Steelers Afternoon Drive](https://www.youtube.com/watch?v=7v-VKs5dkpM): Steelers Now, 2026-10-27 22:09 UTC
 - Podcast: [Two New WR Trade Options Emerge for Steelers](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-27 21:21 UTC
 - Podcast: [The Terrible Take - Episode 2063 - October 27, 2026](https://podcasts.apple.com/us/podcast/id405990739): The Terrible Podcast (Steelers Depot), 2026-10-27 21:00 UTC
 - Podcast: [Drive10.27.26Hr1: Victory Tuesday](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-27-26hr1-mp3): SNR Drive, 2026-10-27 20:00 UTC
