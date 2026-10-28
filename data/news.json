@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T10:29:52.729230+00:00",
+ "generated": "2026-10-28T10:57:05.472752+00:00",
  "count": 150,
  "sources": [
   {
@@ -29,8 +29,8 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
-   "steelers_items": 0
+   "status": "ok",
+   "steelers_items": 24
   },
   {
    "source": "Still Curtain",
@@ -66,7 +66,7 @@
    "source": "Google News",
    "url": "https://news.google.com/rss/search?q=%22Pittsburgh+Steelers%22&hl=en-US&gl=US&ceid=US:en",
    "status": "ok",
-   "steelers_items": 24
+   "steelers_items": 25
   },
   {
    "source": "PennLive (Nick Farabaugh)",
@@ -764,6 +764,16 @@
    "id": "3ad9d492a9"
   },
   {
+   "title": "Steelers offense has weak link",
+   "source": "All Steelers (Sports Illustrated)",
+   "link": "https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-worst-offensive-lineman-surprising",
+   "published": "2026-10-27T14:00:03+00:00",
+   "summary": "The Steelers have a struggling lineman. The team's offense is affected. Read the full story at All Steelers (Sports Illustrated).",
+   "via": "Google News",
+   "id": "40a72ec854",
+   "writer": "ai"
+  },
+  {
    "title": "Update: Mike McCarthy and Spencer Anderson",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/mike-mccarthy-brought-back-a-pittsburgh-steelers-2025-staple-to-get-spencer-anderson-reps-01m5xfpdsb01?utm_source=RSS",
@@ -790,6 +800,14 @@
    "writer": "ai"
   },
   {
+   "title": "Closer look: the international game",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/27/steelers-surprises-unexpected-performances-and-missed-opportunities-in-paris/",
+   "published": "2026-10-27T13:11:45+00:00",
+   "summary": "Steel City Underground takes a closer look at the international game. Read the full story at Steel City Underground.",
+   "id": "cfface2910"
+  },
+  {
    "title": "Trade talk: Joey Porter Jr.",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/dallas-cowboys-joey-porter-jr-made-pittsburgh-steelers-feel-more-trade-pain-01m5ymsbjwgs?utm_source=RSS",
@@ -814,6 +832,15 @@
    "published": "2026-10-27T12:00:04+00:00",
    "summary": "The Steelers may target rentals before deadline. They hold a winning record. Read the full story at Still Curtain.",
    "id": "a061c336e9",
+   "writer": "ai"
+  },
+  {
+   "title": "Steelers win with single touchdown",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/27/watch-darnell-washington-scores-steelers-only-touchdown-in-paris/",
+   "published": "2026-10-27T11:50:40+00:00",
+   "summary": "The Steelers secured a win with one touchdown. Darnell Washington scored it. Read the full story at Steel City Underground.",
+   "id": "f58487bddc",
    "writer": "ai"
   },
   {
@@ -1060,6 +1087,14 @@
    "id": "77f6ad8a35"
   },
   {
+   "title": "Game review: takeaways",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/26/steelers-takeaways-defense-and-running-game-deliver-another-victory-in-paris/",
+   "published": "2026-10-26T13:35:33+00:00",
+   "summary": "Steel City Underground looks back at the game, with a focus on the Steelers, touching on the Steelers' run game and the Steelers' defense. Read the full story at Steel City Underground.",
+   "id": "da451f7798"
+  },
+  {
    "title": "Mike McCarthy handles Steelers trip",
    "source": "TribLive",
    "link": "https://triblive.com/sports/cup-of-joe-starkey-mike-mccarthy-managed-the-steelers-paris-trip-and-game-quite-nicely/",
@@ -1106,12 +1141,31 @@
    "writer": "ai"
   },
   {
+   "title": "Steelers defense makes key play",
+   "source": "Steel City Underground",
+   "link": "https://www.steelcityunderground.com/2026/10/26/payton-wilsons-interception-stops-saints-second-half-scoring-threat/",
+   "published": "2026-10-26T11:46:13+00:00",
+   "summary": "The Steelers defense stopped a Saints scoring threat. The defense helped the team win. Read the full story at Steel City Underground.",
+   "id": "1edb3d9827",
+   "writer": "ai"
+  },
+  {
    "title": "Saints fans react to loss",
    "source": "TribLive",
    "link": "https://triblive.com/sports/steelers-vs-saints-what-theyre-saying-in-new-orleans-after-loss-2/",
    "published": "2026-10-26T11:34:56+00:00",
    "summary": "New Orleans fans and critics discuss the loss. The Saints have another loss this season. Read the full story at TribLive.",
    "id": "776d4ea83a",
+   "writer": "ai"
+  },
+  {
+   "title": "Aaron Rodgers plays on",
+   "source": "The Guardian",
+   "link": "https://www.theguardian.com/sport/2026/oct/26/aaron-rodgers-pittsburgh-steelers-nfl",
+   "published": "2026-10-26T11:34:00+00:00",
+   "via": "Google News",
+   "summary": "Aaron Rodgers continues his career. Read the full story at The Guardian.",
+   "id": "35e968720f",
    "writer": "ai"
   },
   {
@@ -1399,61 +1453,6 @@
    "published": "2026-10-25T12:19:33+00:00",
    "summary": "TribLive takes a closer look at the international game and rookies, with Kevin Jobity Jr. in focus. Read the full story at TribLive.",
    "id": "b9d07b3974"
-  },
-  {
-   "title": "Saints list inactive players",
-   "source": "New Orleans Saints",
-   "link": "https://www.neworleanssaints.com/news/new-orleans-saints-inactives-pittsburgh-steelers-2026-nfl-week-7-gameday",
-   "published": "2026-10-25T12:04:41+00:00",
-   "via": "Google News",
-   "summary": "The Saints announce inactives for a game. Read the full story at New Orleans Saints.",
-   "id": "8524862486",
-   "writer": "ai"
-  },
-  {
-   "title": "Steelers announce inactive players",
-   "source": "Steelers.com (official)",
-   "link": "https://www.steelers.com/news/steelers-inactives-for-week-7-at-saints",
-   "published": "2026-10-25T12:00:00+00:00",
-   "summary": "The Steelers list players not playing against the Saints. The game is in Paris. Read the full story at Steelers.com (official).",
-   "id": "5fc33810de",
-   "writer": "ai"
-  },
-  {
-   "title": "Steelers player not from France",
-   "source": "Steelers.com (official)",
-   "link": "https://www.steelers.com/news/asked-and-answered-oct-25-x9987",
-   "published": "2026-10-25T10:05:00+00:00",
-   "summary": "A Steelers player has a french nickname despite not being from France. Read the full story at Steelers.com (official).",
-   "id": "711f58947b",
-   "writer": "ai"
-  },
-  {
-   "title": "Steelers play Saints",
-   "source": "Steelers.com (official)",
-   "link": "https://www.steelers.com/news/steelers-at-saints-in-paris-how-to-watch-listen-to-the-game",
-   "published": "2026-10-25T09:00:00+00:00",
-   "summary": "The game will be broadcast and streamed. Coverage is available. Read the full story at Steelers.com (official).",
-   "id": "c7e06dc551",
-   "writer": "ai"
-  },
-  {
-   "title": "Steelers promote receivers",
-   "source": "PennLive (Nick Farabaugh)",
-   "link": "https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-add-two-wide-receivers-before-saints-game-after-injuries-pile-up.html",
-   "published": "2026-10-25T01:13:39+00:00",
-   "summary": "The Steelers add receivers from their practice squad for the Saints game. Read the full story at PennLive (Nick Farabaugh).",
-   "id": "e6d44b69cc",
-   "writer": "ai"
-  },
-  {
-   "title": "Steelers Activate Safety",
-   "source": "PennLive (Nick Farabaugh)",
-   "link": "https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-get-huge-boost-with-return-of-standout-safety.html",
-   "published": "2026-10-25T01:00:36+00:00",
-   "summary": "The Steelers activated a safety from injured reserve. He may play this week. Read the full story at PennLive (Nick Farabaugh).",
-   "id": "66f4d8ae3a",
-   "writer": "ai"
   }
  ],
  "dropped_bad_links": 0

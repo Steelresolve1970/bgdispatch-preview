@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-28T10:30:08.544804+00:00",
+ "generated": "2026-10-28T10:57:27.407776+00:00",
  "date_et": "2026-10-28",
  "days": 5,
  "display_days": 2,
- "count": 104,
+ "count": 106,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -90,10 +90,10 @@
    "show": "Steel City Underground",
    "kind": "podcast",
    "url": "https://feeds.feedburner.com/steelcityunderground",
-   "status": "ok",
-   "episodes": 45,
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "episodes": 0,
    "week": 1,
-   "latest": "2026-10-26T13:18:35+00:00"
+   "latest": null
   },
   {
    "show": "Steel City Underground",
@@ -110,7 +110,7 @@
    "url": "https://feeds.megaphone.fm/RRTET7764502074",
    "status": "ok",
    "episodes": 1499,
-   "week": 9,
+   "week": 11,
    "latest": "2026-10-27T22:07:00+00:00"
   },
   {
@@ -332,6 +332,14 @@
    "summary": "Video from Steelers Now."
   },
   {
+   "title": "Trade Deadline Fits? | Steelers Afternoon Drive",
+   "show": "Steelers Afternoon Drive",
+   "kind": "podcast",
+   "link": "https://podcasts.apple.com/us/podcast/trade-deadline-fits-steelers-afternoon-drive/id1700240934?i=1000798430366",
+   "published": "2026-10-27T22:07:00+00:00",
+   "summary": "Podcast episode from Steelers Afternoon Drive."
+  },
+  {
    "title": "Two New WR Trade Options Emerge for Steelers",
    "show": "All Steelers Talk",
    "kind": "podcast",
@@ -343,7 +351,7 @@
    "title": "The Terrible Take - Episode 2063 - October 27, 2026",
    "show": "The Terrible Podcast (Steelers Depot)",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2063-october-27-2026/id405990739?i=1000798422775",
+   "link": "https://podcasts.apple.com/us/podcast/id405990739",
    "published": "2026-10-27T21:00:00+00:00",
    "summary": "Podcast episode from The Terrible Podcast (Steelers Depot)."
   },
@@ -435,6 +443,14 @@
    "link": "https://podcasts.apple.com/us/podcast/id1627248534",
    "published": "2026-10-27T16:57:00+00:00",
    "summary": "Podcast episode from All Steelers Talk."
+  },
+  {
+   "title": "Mike McCarthy Picking Up Where Tomlin Left Off? | Steelers Morning Rush",
+   "show": "Steelers Afternoon Drive",
+   "kind": "podcast",
+   "link": "https://podcasts.apple.com/us/podcast/mike-mccarthy-picking-up-where-tomlin-left-off-steelers/id1700240934?i=1000798379740",
+   "published": "2026-10-27T15:51:00+00:00",
+   "summary": "Podcast episode from Steelers Afternoon Drive."
   },
   {
    "title": "Mike McCarthy Picking Up Where Tomlin Left Off? | Steelers Morning Rush",
