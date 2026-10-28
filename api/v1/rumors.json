@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "rumors",
  "description": "Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).",
- "generated": "2026-10-28T16:28:31+00:00",
- "data_updated": "2026-10-28T16:28:24+00:00",
- "count": 37,
+ "generated": "2026-10-28T16:39:29+00:00",
+ "data_updated": "2026-10-28T16:39:22+00:00",
+ "count": 39,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -20,9 +20,67 @@
  "html": "https://blackandgolddispatch.com/#/rumors",
  "items": [
   {
-   "id": "6b55cd420da4",
+   "id": "2d004f70b831",
+   "type": "rumor",
+   "title": "Trade rumor: Steelers-Chiefs",
+   "summary": "ClutchPoints passes along trade speculation involving the Steelers and the Chiefs; treat it as unconfirmed until the team announces a move, touching on the receivers. Read the full story at ClutchPoints.",
+   "url": "https://clutchpoints.com/nfl/kansas-city-chiefs/nfl-rumors-chiefs-need-wr-trade-dont-forget-steelers-49ers",
+   "source": {
+    "name": "ClutchPoints",
+    "url": null,
+    "reliability_tier": "Aggregator / other",
+    "reliability_score": 1
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-28T16:39:22+00:00",
+   "updated": "2026-10-28T16:39:22+00:00",
+   "published": "2026-10-28T16:37:45+00:00",
+   "people": [],
+   "consensus": {
+    "cluster_id": "2d004f70b831",
+    "independent_sources": 1,
+    "sources": [
+     "ClutchPoints"
+    ],
+    "highest_tier": "Aggregator / other",
+    "highest_tier_score": 1,
+    "related_ids": []
+   }
+  },
+  {
+   "id": "9db52d2fa2bb",
    "type": "rumor",
    "title": "Trade rumor: Steelers",
+   "summary": "Heavy.com passes along trade speculation involving the Steelers; treat it as unconfirmed until the team announces a move. Read the full story at Heavy.com.",
+   "url": "https://heavy.com/sports/nfl/pittsburgh-steelers/josh-downs-nfl-trade-report-colts-jordan-schultz/",
+   "source": {
+    "name": "Heavy.com",
+    "url": null,
+    "reliability_tier": "Aggregator / other",
+    "reliability_score": 1
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-28T16:39:22+00:00",
+   "updated": "2026-10-28T16:39:22+00:00",
+   "published": "2026-10-28T16:34:00+00:00",
+   "people": [],
+   "consensus": {
+    "cluster_id": "9db52d2fa2bb",
+    "independent_sources": 1,
+    "sources": [
+     "Heavy.com"
+    ],
+    "highest_tier": "Aggregator / other",
+    "highest_tier_score": 1,
+    "related_ids": []
+   }
+  },
+  {
+   "id": "6b55cd420da4",
+   "type": "rumor",
+   "title": "Trade rumor: Steelers (SteelerNation)",
    "summary": "SteelerNation passes along trade speculation involving the Steelers; treat it as unconfirmed until the team announces a move, touching on the trade deadline. Read the full story at SteelerNation.",
    "url": "https://www.steelernation.com/2026/10/28/steelers-omar-khan-warning-ahead",
    "source": {
@@ -128,17 +186,15 @@
    ],
    "consensus": {
     "cluster_id": "fd9be22f39c9",
-    "independent_sources": 4,
+    "independent_sources": 3,
     "sources": [
      "Athlon Sports",
      "Behind the Steel Curtain",
-     "Yahoo Sports",
-     "Yardbarker"
+     "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "1ff38f2421a3",
      "448fbdd04e18",
      "71fdb51c1a9f",
      "19b17cd62ac2",
@@ -196,17 +252,15 @@
    "people": [],
    "consensus": {
     "cluster_id": "fd9be22f39c9",
-    "independent_sources": 4,
+    "independent_sources": 3,
     "sources": [
      "Athlon Sports",
      "Behind the Steel Curtain",
-     "Yahoo Sports",
-     "Yardbarker"
+     "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "1ff38f2421a3",
      "b94116387f0b",
      "448fbdd04e18",
      "19b17cd62ac2",
@@ -234,12 +288,11 @@
    "published": "2026-10-28T13:27:21+00:00",
    "people": [],
    "consensus": {
-    "cluster_id": "9e37088de4c1",
-    "independent_sources": 7,
+    "cluster_id": "3f3271514107",
+    "independent_sources": 6,
     "sources": [
      "A to Z Sports",
      "AOL.com",
-     "Heavy.com",
      "SteelerNation",
      "Steelers Depot",
      "Steelers Now",
@@ -254,8 +307,8 @@
      "f70a13da10bb",
      "702ace99a8e9",
      "c60d83ea0785",
-     "45c4bcc7cd1b",
-     "9e37088de4c1"
+     "9e37088de4c1",
+     "3f3271514107"
     ]
    }
   },
@@ -375,12 +428,11 @@
    "published": "2026-10-28T11:21:36+00:00",
    "people": [],
    "consensus": {
-    "cluster_id": "9e37088de4c1",
-    "independent_sources": 7,
+    "cluster_id": "3f3271514107",
+    "independent_sources": 6,
     "sources": [
      "A to Z Sports",
      "AOL.com",
-     "Heavy.com",
      "SteelerNation",
      "Steelers Depot",
      "Steelers Now",
@@ -395,8 +447,8 @@
      "f70a13da10bb",
      "702ace99a8e9",
      "c60d83ea0785",
-     "45c4bcc7cd1b",
-     "9e37088de4c1"
+     "9e37088de4c1",
+     "3f3271514107"
     ]
    }
   },
@@ -569,12 +621,11 @@
    "published": "2026-10-27T18:26:40+00:00",
    "people": [],
    "consensus": {
-    "cluster_id": "9e37088de4c1",
-    "independent_sources": 7,
+    "cluster_id": "3f3271514107",
+    "independent_sources": 6,
     "sources": [
      "A to Z Sports",
      "AOL.com",
-     "Heavy.com",
      "SteelerNation",
      "Steelers Depot",
      "Steelers Now",
@@ -589,8 +640,8 @@
      "307e2a040ea7",
      "702ace99a8e9",
      "c60d83ea0785",
-     "45c4bcc7cd1b",
-     "9e37088de4c1"
+     "9e37088de4c1",
+     "3f3271514107"
     ]
    }
   },
@@ -681,12 +732,11 @@
    "published": "2026-10-27T16:17:14+00:00",
    "people": [],
    "consensus": {
-    "cluster_id": "9e37088de4c1",
-    "independent_sources": 7,
+    "cluster_id": "3f3271514107",
+    "independent_sources": 6,
     "sources": [
      "A to Z Sports",
      "AOL.com",
-     "Heavy.com",
      "SteelerNation",
      "Steelers Depot",
      "Steelers Now",
@@ -701,8 +751,8 @@
      "307e2a040ea7",
      "f70a13da10bb",
      "c60d83ea0785",
-     "45c4bcc7cd1b",
-     "9e37088de4c1"
+     "9e37088de4c1",
+     "3f3271514107"
     ]
    }
   },
@@ -728,17 +778,15 @@
    ],
    "consensus": {
     "cluster_id": "fd9be22f39c9",
-    "independent_sources": 4,
+    "independent_sources": 3,
     "sources": [
      "Athlon Sports",
      "Behind the Steel Curtain",
-     "Yahoo Sports",
-     "Yardbarker"
+     "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "1ff38f2421a3",
      "b94116387f0b",
      "448fbdd04e18",
      "71fdb51c1a9f",
@@ -767,17 +815,15 @@
    "people": [],
    "consensus": {
     "cluster_id": "fd9be22f39c9",
-    "independent_sources": 4,
+    "independent_sources": 3,
     "sources": [
      "Athlon Sports",
      "Behind the Steel Curtain",
-     "Yahoo Sports",
-     "Yardbarker"
+     "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "1ff38f2421a3",
      "b94116387f0b",
      "448fbdd04e18",
      "71fdb51c1a9f",
@@ -805,12 +851,11 @@
    "published": "2026-10-27T15:15:49+00:00",
    "people": [],
    "consensus": {
-    "cluster_id": "9e37088de4c1",
-    "independent_sources": 7,
+    "cluster_id": "3f3271514107",
+    "independent_sources": 6,
     "sources": [
      "A to Z Sports",
      "AOL.com",
-     "Heavy.com",
      "SteelerNation",
      "Steelers Depot",
      "Steelers Now",
@@ -825,8 +870,8 @@
      "307e2a040ea7",
      "f70a13da10bb",
      "702ace99a8e9",
-     "45c4bcc7cd1b",
-     "9e37088de4c1"
+     "9e37088de4c1",
+     "3f3271514107"
     ]
    }
   },
@@ -924,7 +969,7 @@
   {
    "id": "63088d00a72a",
    "type": "rumor",
-   "title": "Trade rumor: Steelers-Chiefs",
+   "title": "Trade rumor: Steelers-Chiefs (Bleacher Report)",
    "summary": "Bleacher Report passes along trade speculation involving the Steelers and the Chiefs; treat it as unconfirmed until the team announces a move. Read the full story at Bleacher Report.",
    "url": "https://bleacherreport.com/articles/25520712-new-nfl-trade-rumors-chiefs-steelers-target-key-position-deadline",
    "source": {
@@ -1063,12 +1108,11 @@
     "Pro Bowl"
    ],
    "consensus": {
-    "cluster_id": "9e37088de4c1",
-    "independent_sources": 7,
+    "cluster_id": "3f3271514107",
+    "independent_sources": 6,
     "sources": [
      "A to Z Sports",
      "AOL.com",
-     "Heavy.com",
      "SteelerNation",
      "Steelers Depot",
      "Steelers Now",
@@ -1084,7 +1128,7 @@
      "f70a13da10bb",
      "702ace99a8e9",
      "c60d83ea0785",
-     "45c4bcc7cd1b"
+     "3f3271514107"
     ]
    }
   },

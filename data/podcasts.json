@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-28T16:28:11.172649+00:00",
+ "generated": "2026-10-28T16:39:10.699460+00:00",
  "date_et": "2026-10-28",
  "days": 5,
  "display_days": 2,
- "count": 111,
+ "count": 110,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -20,8 +20,8 @@
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7JorgD8nGLtvvMy1ogFetg",
    "status": "ok",
    "episodes": 15,
-   "week": 6,
-   "latest": "2026-10-28T05:00:09+00:00"
+   "week": 7,
+   "latest": "2026-10-28T16:26:43+00:00"
   },
   {
    "show": "The Terrible Podcast (Steelers Depot)",
@@ -90,10 +90,10 @@
    "show": "Steel City Underground",
    "kind": "podcast",
    "url": "https://feeds.feedburner.com/steelcityunderground",
-   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
-   "episodes": 0,
+   "status": "ok",
+   "episodes": 45,
    "week": 1,
-   "latest": null
+   "latest": "2026-10-26T13:18:35+00:00"
   },
   {
    "show": "Steel City Underground",
@@ -110,7 +110,7 @@
    "url": "https://feeds.megaphone.fm/RRTET7764502074",
    "status": "ok",
    "episodes": 1499,
-   "week": 11,
+   "week": 10,
    "latest": "2026-10-27T22:07:00+00:00"
   },
   {
@@ -155,7 +155,7 @@
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp1iAMIfmmgWewzJ07_Y7oA",
    "status": "ok",
    "episodes": 15,
-   "week": 14,
+   "week": 13,
    "latest": "2026-10-27T22:09:04+00:00"
   },
   {
@@ -251,6 +251,14 @@
  ],
  "items": [
   {
+   "title": "The Steelers NEED to Run the Ball in the Red Zone \ud83d\udea8 #steelers #nfl",
+   "show": "Locked On Steelers",
+   "kind": "video",
+   "link": "https://www.youtube.com/shorts/uyzq6ltA1vU",
+   "published": "2026-10-28T16:26:43+00:00",
+   "summary": "Video from Locked On Steelers."
+  },
+  {
    "title": "Ranking Steelers WR TRADE options before the NFL Deadline #steelers #nfl #steelersnation",
    "show": "Still Curtain Podcast",
    "kind": "video",
@@ -328,7 +336,7 @@
    "title": "Steelers Beat Saints in Paris, Browns Preview & NFL Halloween Villains | Not Just Football",
    "show": "Not Just Football with Cam Heyward",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/steelers-beat-saints-in-paris-browns-preview-nfl-halloween/id1633134223?i=1000798501297",
+   "link": "https://www.youtube.com/@NotJustFootballwithCamHeyward",
    "published": "2026-10-28T10:00:00+00:00",
    "summary": "Podcast episode from Not Just Football with Cam Heyward."
   },
@@ -433,7 +441,7 @@
    "title": "The Terrible Take - Episode 2063 - October 27, 2026",
    "show": "The Terrible Podcast (Steelers Depot)",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2063-october-27-2026/id405990739?i=1000798422775",
+   "link": "https://podcasts.apple.com/us/podcast/id405990739",
    "published": "2026-10-27T21:00:00+00:00",
    "summary": "Podcast episode from The Terrible Podcast (Steelers Depot)."
   },
@@ -441,7 +449,7 @@
    "title": "DK's Double Shot of Steelers: Back from Paris!",
    "show": "DK Pittsburgh Sports",
    "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/dks-double-shot-of-steelers-back-from-paris/id1072021022?i=1000798454803",
+   "link": "https://podcasts.apple.com/us/podcast/id1072021022",
    "published": "2026-10-27T21:00:00+00:00",
    "summary": "Podcast episode from DK Pittsburgh Sports."
   },
@@ -1130,22 +1138,6 @@
    "kind": "podcast",
    "link": "https://podcasts.apple.com/us/podcast/the-pittsburgh-football-show-episode-7-oct-23-2026/id1700240934?i=1000797816553",
    "published": "2026-10-23T16:43:00+00:00",
-   "summary": "Podcast episode from Steelers Afternoon Drive."
-  },
-  {
-   "title": "The Steelers Shouldn't Be Playing in Paris | Steelers Morning Rush",
-   "show": "Steelers Now",
-   "kind": "video",
-   "link": "https://www.youtube.com/watch?v=4r5GQlXNOCw",
-   "published": "2026-10-23T16:37:52+00:00",
-   "summary": "Video from Steelers Now."
-  },
-  {
-   "title": "The Steelers Shouldn't Be Playing in Paris | Steelers Morning Rush",
-   "show": "Steelers Afternoon Drive",
-   "kind": "podcast",
-   "link": "https://podcasts.apple.com/us/podcast/the-steelers-shouldnt-be-playing-in-paris-steelers/id1700240934?i=1000797813600",
-   "published": "2026-10-23T16:36:00+00:00",
    "summary": "Podcast episode from Steelers Afternoon Drive."
   }
  ],
