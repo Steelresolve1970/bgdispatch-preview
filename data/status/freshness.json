@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T14:58:30.659449+00:00",
+ "generated": "2026-10-28T15:09:27.440940+00:00",
  "ok": true,
  "stale": [],
  "checks": [
@@ -61,213 +61,213 @@
   {
    "check": "news own-words guard",
    "ok": true,
-   "detail": "last build 2026-10-28T14:54:02.616174+00:00: checked 233 items, fixed 0, dropped 0, page swaps 17, left over 0"
+   "detail": "last build 2026-10-28T14:58:35.470221+00:00: checked 233 items, fixed 0, dropped 0, page swaps 17, left over 0"
   },
   {
    "check": "paywall link guard",
    "ok": true,
-   "detail": "last build 2026-10-28T14:54:03.089760+00:00: removed 0 items, 0 fields, 0 text links; left over 0"
+   "detail": "last build 2026-10-28T14:58:36.038946+00:00: removed 0 items, 0 fields, 0 text links; left over 0"
   },
   {
    "check": "workers ai writer",
    "ok": true,
-   "detail": "today 85 calls, about 1287 of the 6000 Neuron budget (free allowance 10,000/day); written 73, rejected 12"
+   "detail": "today 92 calls, about 1392 of the 6000 Neuron budget (free allowance 10,000/day); written 80, rejected 12"
   }
  ],
  "steps": {
   "apply_grade_edits.py": {
-   "last_run": "2026-10-28T14:58:30.659449+00:00",
+   "last_run": "2026-10-28T15:09:27.440940+00:00",
    "last_line": "no grade edits",
-   "last_ok": "2026-10-28T14:58:30.659449+00:00",
+   "last_ok": "2026-10-28T15:09:27.440940+00:00",
    "fails_in_a_row": 0
   },
   "fetch_news.py": {
-   "last_run": "2026-10-28T14:58:30.659449+00:00",
+   "last_run": "2026-10-28T15:09:27.440940+00:00",
    "last_line": "news: 150 ticker: 30",
-   "last_ok": "2026-10-28T14:58:30.659449+00:00",
+   "last_ok": "2026-10-28T15:09:27.440940+00:00",
    "fails_in_a_row": 0,
    "last_fail": "2026-10-27T15:02:40.573382+00:00"
   },
   "fetch_schedule.py": {
-   "last_run": "2026-10-28T14:58:30.659449+00:00",
+   "last_run": "2026-10-28T15:09:27.440940+00:00",
    "last_line": "record 5-2 next Cleveland Browns games 17",
-   "last_ok": "2026-10-28T14:58:30.659449+00:00",
+   "last_ok": "2026-10-28T15:09:27.440940+00:00",
    "fails_in_a_row": 0
   },
   "fetch_standings.py": {
-   "last_run": "2026-10-28T14:58:30.659449+00:00",
+   "last_run": "2026-10-28T15:09:27.440940+00:00",
    "last_line": "standings 2026 games 107 through 2026-10-26",
-   "last_ok": "2026-10-28T14:58:30.659449+00:00",
+   "last_ok": "2026-10-28T15:09:27.440940+00:00",
    "fails_in_a_row": 0
   },
   "build_boxscores.py": {
-   "last_run": "2026-10-28T14:58:30.659449+00:00",
+   "last_run": "2026-10-28T15:09:27.440940+00:00",
    "last_line": "boxscores 7",
-   "last_ok": "2026-10-28T14:58:30.659449+00:00",
+   "last_ok": "2026-10-28T15:09:27.440940+00:00",
    "fails_in_a_row": 0
   },
   "fetch_insiders.py": {
-   "last_run": "2026-10-28T14:58:30.659449+00:00",
+   "last_run": "2026-10-28T15:09:27.440940+00:00",
    "last_line": "sidebar: 5 full feed: 32",
-   "last_ok": "2026-10-28T14:58:30.659449+00:00",
+   "last_ok": "2026-10-28T15:09:27.440940+00:00",
    "fails_in_a_row": 0
   },
   "fetch_film.py": {
-   "last_run": "2026-10-28T14:58:30.659449+00:00",
+   "last_run": "2026-10-28T15:09:27.440940+00:00",
    "last_line": "  Week 1 vs Falcons (W 20-13): 2   {'Steelers Depot Film Room (Alex Kozora)': 1, \"Derrick Bell \u2013 DB's Film Room (Steelers Now)\": 1}",
-   "last_ok": "2026-10-28T14:58:30.659449+00:00",
+   "last_ok": "2026-10-28T15:09:27.440940+00:00",
    "fails_in_a_row": 0
   },
   "fetch_podcasts.py": {
-   "last_run": "2026-10-28T14:58:30.659449+00:00",
+   "last_run": "2026-10-28T15:09:27.440940+00:00",
    "last_line": "episodes past 5 days: 109 | embed-fallback channels: 0 | post-game: 0",
-   "last_ok": "2026-10-28T14:58:30.659449+00:00",
+   "last_ok": "2026-10-28T15:09:27.440940+00:00",
    "fails_in_a_row": 0,
    "last_fail": "2026-10-28T14:01:20.648288+00:00"
   },
   "fetch_featured.py": {
-   "last_run": "2026-10-28T14:58:30.659449+00:00",
+   "last_run": "2026-10-28T15:09:27.440940+00:00",
    "last_line": "highlights New Orleans Saints Pittsburgh Steelers vs. New Orleans Saints Game Highlights | 2026 NFL Season Week 7",
-   "last_ok": "2026-10-28T14:58:30.659449+00:00",
+   "last_ok": "2026-10-28T15:09:27.440940+00:00",
    "fails_in_a_row": 0
   },
   "fetch_grades.py": {
-   "last_run": "2026-10-28T14:58:30.659449+00:00",
+   "last_run": "2026-10-28T15:09:27.440940+00:00",
    "last_line": "weeks 7 ballot players 42 season players 53",
-   "last_ok": "2026-10-28T14:58:30.659449+00:00",
+   "last_ok": "2026-10-28T15:09:27.440940+00:00",
    "fails_in_a_row": 0
   },
   "fetch_stats.py": {
-   "last_run": "2026-10-28T14:58:30.659449+00:00",
+   "last_run": "2026-10-28T15:09:27.440940+00:00",
    "last_line": "stats fresh; skipped",
-   "last_ok": "2026-10-28T14:58:30.659449+00:00",
+   "last_ok": "2026-10-28T15:09:27.440940+00:00",
    "fails_in_a_row": 0
   },
   "build_leaders.py": {
-   "last_run": "2026-10-28T14:58:30.659449+00:00",
+   "last_run": "2026-10-28T15:09:27.440940+00:00",
    "last_line": "leaders fresh; skipped",
-   "last_ok": "2026-10-28T14:58:30.659449+00:00",
+   "last_ok": "2026-10-28T15:09:27.440940+00:00",
    "fails_in_a_row": 0
   },
   "fetch_draft.py": {
-   "last_run": "2026-10-28T14:58:30.659449+00:00",
+   "last_run": "2026-10-28T15:09:27.440940+00:00",
    "last_line": "cfbd calls by month (all scripts): {'2026-10': 24}",
-   "last_ok": "2026-10-28T14:58:30.659449+00:00",
+   "last_ok": "2026-10-28T15:09:27.440940+00:00",
    "fails_in_a_row": 0
   },
   "build_comps.py": {
-   "last_run": "2026-10-28T14:58:30.659449+00:00",
+   "last_run": "2026-10-28T15:09:27.440940+00:00",
    "last_line": "comps 694 staff 61 pool 229",
-   "last_ok": "2026-10-28T14:58:30.659449+00:00",
+   "last_ok": "2026-10-28T15:09:27.440940+00:00",
    "fails_in_a_row": 0
   },
   "fetch_needs.py": {
-   "last_run": "2026-10-28T14:58:30.659449+00:00",
+   "last_run": "2026-10-28T15:09:27.440940+00:00",
    "last_line": " 30.9 WR   ['named in 13 recent headlines about Steelers needs']",
-   "last_ok": "2026-10-28T14:58:30.659449+00:00",
+   "last_ok": "2026-10-28T15:09:27.440940+00:00",
    "fails_in_a_row": 0
   },
   "fetch_college.py": {
-   "last_run": "2026-10-28T14:58:30.659449+00:00",
+   "last_run": "2026-10-28T15:09:27.440940+00:00",
    "last_line": "college tracker fresh; skipped",
    "last_fail": "2026-10-26T15:15:06.665719+00:00",
    "fails_in_a_row": 0,
-   "last_ok": "2026-10-28T14:58:30.659449+00:00"
+   "last_ok": "2026-10-28T15:09:27.440940+00:00"
   },
   "fetch_draft_hub.py": {
-   "last_run": "2026-10-28T14:58:30.659449+00:00",
+   "last_run": "2026-10-28T15:09:27.440940+00:00",
    "last_line": "hub needs 5 history 452 class 2026 10 PIT picks [{'round': 1, 'overall': 26}, {'round': 2, 'overall': 58}]",
-   "last_ok": "2026-10-28T14:58:30.659449+00:00",
+   "last_ok": "2026-10-28T15:09:27.440940+00:00",
    "fails_in_a_row": 0
   },
   "fetch_forum_bot.py": {
-   "last_run": "2026-10-28T14:58:30.659449+00:00",
+   "last_run": "2026-10-28T15:09:27.440940+00:00",
    "last_line": "bot topics 23 ['daily-2026-10-28', 'daily-2026-10-27', 'poll-2026-10-26', 'daily-2026-10-26', 'preview-2026_08_CLE_PIT'] weekly pinned: ['preview-2026_08_CLE_PIT', 'injury-2026_08_CLE_PIT', 'grades-20",
-   "last_ok": "2026-10-28T14:58:30.659449+00:00",
+   "last_ok": "2026-10-28T15:09:27.440940+00:00",
    "fails_in_a_row": 0
   },
   "fetch_hub.py": {
-   "last_run": "2026-10-28T14:58:30.659449+00:00",
+   "last_run": "2026-10-28T15:09:27.440940+00:00",
    "last_line": "hub fresh (<30 min); skipped",
-   "last_ok": "2026-10-28T14:58:30.659449+00:00",
+   "last_ok": "2026-10-28T15:09:27.440940+00:00",
    "fails_in_a_row": 0
   },
   "fetch_matchup.py": {
-   "last_run": "2026-10-28T14:58:30.659449+00:00",
+   "last_run": "2026-10-28T15:09:27.440940+00:00",
    "last_line": "matchup: 2026_08_CLE_PIT keys 3 picks 0",
-   "last_ok": "2026-10-28T14:58:30.659449+00:00",
+   "last_ok": "2026-10-28T15:09:27.440940+00:00",
    "fails_in_a_row": 0
   },
   "fetch_depth.py": {
-   "last_run": "2026-10-28T14:58:30.659449+00:00",
+   "last_run": "2026-10-28T15:09:27.440940+00:00",
    "last_line": "depth units [('Offense', '3WR 1TE', 12), ('Defense', 'Base 3-4 D', 12), ('Special teams', 'Special Teams', 6)]",
-   "last_ok": "2026-10-28T14:58:30.659449+00:00",
+   "last_ok": "2026-10-28T15:09:27.440940+00:00",
    "fails_in_a_row": 0
   },
   "build_roster.py": {
-   "last_run": "2026-10-28T14:58:30.659449+00:00",
+   "last_run": "2026-10-28T15:09:27.440940+00:00",
    "last_line": "roster unchanged today; skip",
-   "last_ok": "2026-10-28T14:58:30.659449+00:00",
+   "last_ok": "2026-10-28T15:09:27.440940+00:00",
    "fails_in_a_row": 0
   },
   "fetch_player_socials.py": {
-   "last_run": "2026-10-28T14:58:30.659449+00:00",
+   "last_run": "2026-10-28T15:09:27.440940+00:00",
    "last_line": "player socials: checked 2026-10-26T18:25:18+00:00 - next check after 7 days; skipping",
-   "last_ok": "2026-10-28T14:58:30.659449+00:00",
+   "last_ok": "2026-10-28T15:09:27.440940+00:00",
    "fails_in_a_row": 0
   },
   "fetch_rumors.py": {
-   "last_run": "2026-10-28T14:58:30.659449+00:00",
-   "last_line": "rumors 34 {'Rumor': 34, 'Confirmed': 0, 'Denied': 0}",
-   "last_ok": "2026-10-28T14:58:30.659449+00:00",
+   "last_run": "2026-10-28T15:09:27.440940+00:00",
+   "last_line": "rumors 35 {'Rumor': 35, 'Confirmed': 0, 'Denied': 0}",
+   "last_ok": "2026-10-28T15:09:27.440940+00:00",
    "fails_in_a_row": 0
   },
   "fetch_pickem.py": {
-   "last_run": "2026-10-28T14:58:30.659449+00:00",
+   "last_run": "2026-10-28T15:09:27.440940+00:00",
    "last_line": "pickem week 8 games 14",
-   "last_ok": "2026-10-28T14:58:30.659449+00:00",
+   "last_ok": "2026-10-28T15:09:27.440940+00:00",
    "fails_in_a_row": 0
   },
   "fetch_history.py": {
-   "last_run": "2026-10-28T14:58:30.659449+00:00",
+   "last_run": "2026-10-28T15:09:27.440940+00:00",
    "last_line": "history fresh; skipped",
-   "last_ok": "2026-10-28T14:58:30.659449+00:00",
+   "last_ok": "2026-10-28T15:09:27.440940+00:00",
    "fails_in_a_row": 0
   },
   "fetch_digest.py": {
-   "last_run": "2026-10-28T14:58:30.659449+00:00",
+   "last_run": "2026-10-28T15:09:27.440940+00:00",
    "last_line": "digest news 5 pods 3 leader Jaylen Warren",
-   "last_ok": "2026-10-28T14:58:30.659449+00:00",
+   "last_ok": "2026-10-28T15:09:27.440940+00:00",
    "fails_in_a_row": 0
   },
   "fetch_live.py": {
-   "last_run": "2026-10-28T14:58:30.659449+00:00",
+   "last_run": "2026-10-28T15:09:27.440940+00:00",
    "last_line": "live post Final",
-   "last_ok": "2026-10-28T14:58:30.659449+00:00",
+   "last_ok": "2026-10-28T15:09:27.440940+00:00",
    "fails_in_a_row": 0
   },
   "fetch_quotes.py": {
-   "last_run": "2026-10-28T14:58:30.659449+00:00",
-   "last_line": "quotes: 6 kept from 131 articles",
-   "last_ok": "2026-10-28T14:58:30.659449+00:00",
+   "last_run": "2026-10-28T15:09:27.440940+00:00",
+   "last_line": "quotes: 7 kept from 133 articles",
+   "last_ok": "2026-10-28T15:09:27.440940+00:00",
    "fails_in_a_row": 0
   },
   "paywall_guard.py": {
-   "last_run": "2026-10-28T14:58:30.659449+00:00",
+   "last_run": "2026-10-28T15:09:27.440940+00:00",
    "last_line": "paywall guard (data): removed 0 items, 0 fields, 0 text links in 0 files; by outlet {}; left over: none",
-   "last_ok": "2026-10-28T14:58:30.659449+00:00",
+   "last_ok": "2026-10-28T15:09:27.440940+00:00",
    "fails_in_a_row": 0
   },
   "build_machine.py": {
-   "last_run": "2026-10-28T14:58:30.659449+00:00",
-   "last_line": "machine layer: {'news': 150, 'rumors': 34, 'injuries': 14, 'depth-chart': 28, 'schedule': 17, 'stats': 63, 'grades': 42, 'college': 20, 'insiders': 32, 'podcasts': 107, 'film': 4, 'draft': 521} md 13 ",
-   "last_ok": "2026-10-28T14:58:30.659449+00:00",
+   "last_run": "2026-10-28T15:09:27.440940+00:00",
+   "last_line": "machine layer: {'news': 150, 'rumors': 35, 'injuries': 14, 'depth-chart': 28, 'schedule': 17, 'stats': 63, 'grades': 42, 'college': 20, 'insiders': 32, 'podcasts': 107, 'film': 6, 'draft': 521} md 13 ",
+   "last_ok": "2026-10-28T15:09:27.440940+00:00",
    "fails_in_a_row": 0
   },
   "admin_stats.py": {
-   "last_run": "2026-10-28T14:58:30.659449+00:00",
+   "last_run": "2026-10-28T15:09:27.440940+00:00",
    "last_line": "admin stats stored: today views 11 visits 11",
-   "last_ok": "2026-10-28T14:58:30.659449+00:00",
+   "last_ok": "2026-10-28T15:09:27.440940+00:00",
    "fails_in_a_row": 0,
    "last_fail": "2026-10-28T13:03:34.373349+00:00"
   }

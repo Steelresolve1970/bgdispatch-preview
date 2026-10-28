@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "rumors",
  "description": "Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).",
- "generated": "2026-10-28T14:58:27+00:00",
- "data_updated": "2026-10-28T14:58:20+00:00",
- "count": 34,
+ "generated": "2026-10-28T15:09:23+00:00",
+ "data_updated": "2026-10-28T15:09:15+00:00",
+ "count": 35,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -20,21 +20,50 @@
  "html": "https://blackandgolddispatch.com/#/rumors",
  "items": [
   {
-   "id": "448fbdd04e18",
+   "id": "18c0c78e8559",
    "type": "rumor",
    "title": "Trade rumor: Steelers",
-   "summary": "Behind the Steel Curtain passes along trade speculation involving the Steelers; treat it as unconfirmed until the team announces a move, touching on the Steelers' receivers. Read the full story at Behind the Steel Curtain.",
-   "url": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/177021/steelers-news-do-the-steelers-need-to-make-a-trade-for-a-receiver",
+   "summary": "heavy.com passes along trade speculation involving the Steelers; treat it as unconfirmed until the team announces a move. Read the full story at heavy.com.",
+   "url": "https://heavy.com/sports/nfl/pittsburgh-steelers/patrick-queen-nfl-trade-deadline-rumors-news/",
    "source": {
-    "name": "Behind the Steel Curtain",
+    "name": "heavy.com",
     "url": null,
-    "reliability_tier": "Fan blog",
-    "reliability_score": 2
+    "reliability_tier": "Aggregator / other",
+    "reliability_score": 1
    },
    "status": "Rumor",
    "status_evidence": null,
-   "first_seen": "2026-10-28T14:53:46+00:00",
-   "updated": "2026-10-28T14:53:46+00:00",
+   "first_seen": "2026-10-28T15:09:15+00:00",
+   "updated": "2026-10-28T15:09:15+00:00",
+   "published": "2026-10-28T15:06:08+00:00",
+   "people": [],
+   "consensus": {
+    "cluster_id": "18c0c78e8559",
+    "independent_sources": 1,
+    "sources": [
+     "heavy.com"
+    ],
+    "highest_tier": "Aggregator / other",
+    "highest_tier_score": 1,
+    "related_ids": []
+   }
+  },
+  {
+   "id": "b94116387f0b",
+   "type": "rumor",
+   "title": "Trade rumor: Steelers (Yahoo Sports)",
+   "summary": "Yahoo Sports passes along trade speculation involving the Steelers; treat it as unconfirmed until the team announces a move, touching on the Steelers' receivers. Read the full story at Yahoo Sports.",
+   "url": "https://sports.yahoo.com/articles/three-rivers-report-steelers-trade-144557217.html",
+   "source": {
+    "name": "Yahoo Sports",
+    "url": null,
+    "reliability_tier": "National insider",
+    "reliability_score": 4
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-28T15:09:15+00:00",
+   "updated": "2026-10-28T15:09:15+00:00",
    "published": "2026-10-28T14:45:57+00:00",
    "people": [
     "Three Rivers"
@@ -50,6 +79,7 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "448fbdd04e18",
      "71fdb51c1a9f",
      "19b17cd62ac2",
      "f85850ec176b",
@@ -116,6 +146,7 @@
     "highest_tier_score": 4,
     "related_ids": [
      "448fbdd04e18",
+     "b94116387f0b",
      "19b17cd62ac2",
      "f85850ec176b",
      "fd9be22f39c9"
@@ -629,6 +660,7 @@
     "highest_tier_score": 4,
     "related_ids": [
      "448fbdd04e18",
+     "b94116387f0b",
      "71fdb51c1a9f",
      "f85850ec176b",
      "fd9be22f39c9"
@@ -665,6 +697,7 @@
     "highest_tier_score": 4,
     "related_ids": [
      "448fbdd04e18",
+     "b94116387f0b",
      "71fdb51c1a9f",
      "19b17cd62ac2",
      "f85850ec176b"
@@ -985,16 +1018,13 @@
    "people": [],
    "consensus": {
     "cluster_id": "b3b86933a304",
-    "independent_sources": 2,
+    "independent_sources": 1,
     "sources": [
-     "SteelerNation",
-     "Yardbarker"
+     "SteelerNation"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": [
-     "5585acb90f77"
-    ]
+    "related_ids": []
    }
   },
   {
@@ -1055,9 +1085,7 @@
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": [
-     "dfe6286b4e56"
-    ]
+    "related_ids": []
    }
   },
   {
@@ -1146,9 +1174,7 @@
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": [
-     "ea49fe3c3805"
-    ]
+    "related_ids": []
    }
   }
  ]

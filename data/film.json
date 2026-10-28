@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T14:58:03.165733+00:00",
+ "generated": "2026-10-28T15:08:55.957599+00:00",
  "game": {
   "label": "at New Orleans Saints (Oct 25)",
   "opponent": "New Orleans Saints",
@@ -196,6 +196,14 @@
    "in_window": 0
   },
   {
+   "creator": "Saturday Morning Inspection",
+   "mode": "national",
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdfUn9GfyhJh5Klp0_0BOeg",
+   "status": "ok",
+   "feed_items": 15,
+   "in_window": 2
+  },
+  {
    "creator": "The QB School (JT O'Sullivan)",
    "mode": "national",
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGfxHp2yuimtLsFaq1r7aIQ",
@@ -214,6 +222,15 @@
  ],
  "items": [
   {
+   "title": "Steelers Rookie Max Iheanachor Has Become A Beast | Film Review",
+   "creator": "Saturday Morning Inspection",
+   "link": "https://www.youtube.com/watch?v=rCqXb9wcdtQ",
+   "published": "2026-10-27T19:00:09+00:00",
+   "summary": "Film breakdown by Saturday Morning Inspection of at New Orleans Saints (Oct 25).",
+   "game": "at New Orleans Saints (Oct 25)",
+   "vetting": "film title (description not checked yet)"
+  },
+  {
    "title": "Film study: Keeanu Benton and the offensive line",
    "creator": "Steelers Depot Film Room (Alex Kozora)",
    "link": "https://steelersdepot.com/2026/10/film-room-keeanu-benton-was-a-nightmare-for-the-saints-o-line/",
@@ -231,6 +248,15 @@
    "summary": "Film breakdown by Steelers Almighty of at New Orleans Saints (Oct 25).",
    "game": "at New Orleans Saints (Oct 25)",
    "vetting": "film title + description confirms tape"
+  },
+  {
+   "title": "Steelers Rookie Gabriel Rubio Looks Like A Massive Steal | Film Review",
+   "creator": "Saturday Morning Inspection",
+   "link": "https://www.youtube.com/watch?v=NcYzvKonM7A",
+   "published": "2026-10-26T19:00:07+00:00",
+   "summary": "Film breakdown by Saturday Morning Inspection of at New Orleans Saints (Oct 25).",
+   "game": "at New Orleans Saints (Oct 25)",
+   "vetting": "film title (description not checked yet)"
   },
   {
    "title": "Film study: the Steelers' special teams",
@@ -260,8 +286,18 @@
    "week": "Week 7",
    "opponent": "New Orleans Saints",
    "kickoff": "2026-10-25T13:30:00+00:00",
-   "count": 4,
+   "count": 6,
    "items": [
+    {
+     "title": "Steelers Rookie Max Iheanachor Has Become A Beast | Film Review",
+     "creator": "Saturday Morning Inspection",
+     "link": "https://www.youtube.com/watch?v=rCqXb9wcdtQ",
+     "published": "2026-10-27T19:00:09+00:00",
+     "gid": "2026_07_PIT_NO",
+     "source": "rss",
+     "summary": "Film breakdown by Saturday Morning Inspection of Week 7 at Saints (W 16-10).",
+     "vetting": "film title (description not checked yet)"
+    },
     {
      "title": "Film study: Keeanu Benton and the offensive line",
      "creator": "Steelers Depot Film Room (Alex Kozora)",
@@ -282,6 +318,16 @@
      "source": "rss",
      "summary": "Film breakdown by Steelers Almighty of Week 7 at Saints (W 16-10).",
      "vetting": "film title + description confirms tape"
+    },
+    {
+     "title": "Steelers Rookie Gabriel Rubio Looks Like A Massive Steal | Film Review",
+     "creator": "Saturday Morning Inspection",
+     "link": "https://www.youtube.com/watch?v=NcYzvKonM7A",
+     "published": "2026-10-26T19:00:07+00:00",
+     "gid": "2026_07_PIT_NO",
+     "source": "rss",
+     "summary": "Film breakdown by Saturday Morning Inspection of Week 7 at Saints (W 16-10).",
+     "vetting": "film title (description not checked yet)"
     },
     {
      "title": "Film study: the Steelers' special teams",
@@ -560,5 +606,5 @@
    ]
   }
  ],
- "count": 4
+ "count": 6
 }

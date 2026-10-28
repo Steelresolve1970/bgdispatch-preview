@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "film",
  "description": "Film breakdowns of the last game and previews of the next game (links).",
- "generated": "2026-10-28T14:58:27+00:00",
- "data_updated": "2026-10-28T14:58:03+00:00",
- "count": 4,
+ "generated": "2026-10-28T15:09:23+00:00",
+ "data_updated": "2026-10-28T15:08:55+00:00",
+ "count": 6,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -19,6 +19,20 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/film",
  "items": [
+  {
+   "id": "f96fea6f518e44f4",
+   "type": "film_breakdown",
+   "game": "at New Orleans Saints (Oct 25)",
+   "title": "Steelers Rookie Max Iheanachor Has Become A Beast | Film Review",
+   "creator": "Saturday Morning Inspection",
+   "url": "https://www.youtube.com/watch?v=rCqXb9wcdtQ",
+   "published": "2026-10-27T19:00:09+00:00",
+   "summary": "Film breakdown by Saturday Morning Inspection of at New Orleans Saints (Oct 25).",
+   "source": {
+    "name": "Saturday Morning Inspection",
+    "url": null
+   }
+  },
   {
    "id": "d8d5d34c9bbaf639",
    "type": "film_breakdown",
@@ -44,6 +58,20 @@
    "summary": "Film breakdown by Steelers Almighty of at New Orleans Saints (Oct 25).",
    "source": {
     "name": "Steelers Almighty",
+    "url": null
+   }
+  },
+  {
+   "id": "b8361d6e31f18918",
+   "type": "film_breakdown",
+   "game": "at New Orleans Saints (Oct 25)",
+   "title": "Steelers Rookie Gabriel Rubio Looks Like A Massive Steal | Film Review",
+   "creator": "Saturday Morning Inspection",
+   "url": "https://www.youtube.com/watch?v=NcYzvKonM7A",
+   "published": "2026-10-26T19:00:07+00:00",
+   "summary": "Film breakdown by Saturday Morning Inspection of at New Orleans Saints (Oct 25).",
+   "source": {
+    "name": "Saturday Morning Inspection",
     "url": null
    }
   },
