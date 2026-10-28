@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-28T01:12:54+00:00",
- "data_updated": "2026-10-28T01:12:26+00:00",
- "count": 104,
+ "generated": "2026-10-28T01:24:53+00:00",
+ "data_updated": "2026-10-28T01:24:36+00:00",
+ "count": 101,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -19,6 +19,19 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/podcasts",
  "items": [
+  {
+   "id": "c8e4cfc413e8797f",
+   "type": "video",
+   "title": "bonjour.mp4 📺: #CLEvsPIT 11/1 at 1 PM ET on CBS",
+   "show": "Pittsburgh Steelers (official)",
+   "url": "https://www.youtube.com/shorts/C2UJf-xEWsE",
+   "published": "2026-10-27T23:34:05+00:00",
+   "summary": "Video from Pittsburgh Steelers (official).",
+   "source": {
+    "name": "Pittsburgh Steelers (official)",
+    "url": null
+   }
+  },
   {
    "id": "4c47695a7793228c",
    "type": "video",
@@ -59,11 +72,11 @@
    }
   },
   {
-   "id": "5da7ddc148e2988c",
+   "id": "7d533777079a5528",
    "type": "podcast_episode",
    "title": "Two New WR Trade Options Emerge for Steelers",
    "show": "All Steelers Talk",
-   "url": "https://podcasts.apple.com/us/podcast/two-new-wr-trade-options-emerge-for-steelers/id1627248534?i=1000798426827",
+   "url": "https://podcasts.apple.com/us/podcast/id1627248534",
    "published": "2026-10-27T21:21:00+00:00",
    "summary": "Podcast episode from All Steelers Talk.",
    "source": {
@@ -202,32 +215,6 @@
    }
   },
   {
-   "id": "f44c8c6f47341bab",
-   "type": "podcast_episode",
-   "title": "Steelers Two Biggest Strengths Can Carry Them - Hopefully",
-   "show": "All Steelers Talk",
-   "url": "https://podcasts.apple.com/us/podcast/steelers-two-biggest-strengths-can-carry-them-hopefully/id1627248534?i=1000798387695",
-   "published": "2026-10-27T16:57:00+00:00",
-   "summary": "Podcast episode from All Steelers Talk.",
-   "source": {
-    "name": "All Steelers Talk",
-    "url": null
-   }
-  },
-  {
-   "id": "db859336279a68de",
-   "type": "podcast_episode",
-   "title": "Mike McCarthy Picking Up Where Tomlin Left Off? | Steelers Morning Rush",
-   "show": "Steelers Afternoon Drive",
-   "url": "https://podcasts.apple.com/us/podcast/mike-mccarthy-picking-up-where-tomlin-left-off-steelers/id1700240934?i=1000798379740",
-   "published": "2026-10-27T15:51:00+00:00",
-   "summary": "Podcast episode from Steelers Afternoon Drive.",
-   "source": {
-    "name": "Steelers Afternoon Drive",
-    "url": null
-   }
-  },
-  {
    "id": "497ff14c72a0f6e9",
    "type": "video",
    "title": "Mike McCarthy Picking Up Where Tomlin Left Off? | Steelers Morning Rush",
@@ -276,19 +263,6 @@
    "summary": "Podcast episode from Steelers Blitz.",
    "source": {
     "name": "Steelers Blitz",
-    "url": null
-   }
-  },
-  {
-   "id": "44941cafe921c24d",
-   "type": "podcast_episode",
-   "title": "Steelers Enter Trade Now Week",
-   "show": "All Steelers Talk",
-   "url": "https://podcasts.apple.com/us/podcast/steelers-enter-trade-now-week/id1627248534?i=1000798347707",
-   "published": "2026-10-27T12:25:00+00:00",
-   "summary": "Podcast episode from All Steelers Talk.",
-   "source": {
-    "name": "All Steelers Talk",
     "url": null
    }
   },
@@ -345,11 +319,11 @@
    }
   },
   {
-   "id": "9950349e1ecc615d",
+   "id": "7968be70b4f37758",
    "type": "podcast_episode",
    "title": "DK's Daily Shot of Steelers: The real identity",
    "show": "DK Pittsburgh Sports",
-   "url": "https://podcasts.apple.com/us/podcast/dks-daily-shot-of-steelers-the-real-identity/id1072021022?i=1000798335535",
+   "url": "https://podcasts.apple.com/us/podcast/id1072021022",
    "published": "2026-10-27T07:11:00+00:00",
    "summary": "Podcast episode from DK Pittsburgh Sports.",
    "source": {
@@ -936,19 +910,6 @@
    "show": "Pittsburgh Steelers (official)",
    "url": "https://www.youtube.com/shorts/hrO-Nsseh4A",
    "published": "2026-10-25T14:52:02+00:00",
-   "summary": "Video from Pittsburgh Steelers (official).",
-   "source": {
-    "name": "Pittsburgh Steelers (official)",
-    "url": null
-   }
-  },
-  {
-   "id": "de9b3640faedb87d",
-   "type": "video",
-   "title": "Showtime 🎬 📺: NFLN",
-   "show": "Pittsburgh Steelers (official)",
-   "url": "https://www.youtube.com/shorts/Q07Pl7A_KYI",
-   "published": "2026-10-25T14:08:19+00:00",
    "summary": "Video from Pittsburgh Steelers (official).",
    "source": {
     "name": "Pittsburgh Steelers (official)",
