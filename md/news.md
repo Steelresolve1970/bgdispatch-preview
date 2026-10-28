@@ -1,12 +1,17 @@
 # Steelers News
 
-_Generated 2026-10-28T11:39:16+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-28T11:16:44+00:00._
+_Generated 2026-10-28T12:05:08+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-28T12:04:23+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Steelers Seek Wide Receiver](https://steelersdepot.com/2026/10/steelers-beat-writers-agree-omars-gonna-be-aggressive-in-trade-efforts-for-wide-receiver-everything-in-his-power/): Steelers Depot, 2026-10-28 12:00 UTC
+- [Steelers offense inconsistent](https://stillcurtain.com/pittsburgh-steelers-misuse-of-dk-metcalf-proves-they-shouldn-t-have-traded-george-pickens-01m5zc7w07z8?utm_source=RSS): Still Curtain, 2026-10-28 12:00 UTC
+- [Steelers face Cleveland](https://athlonsports.com/nfl/pittsburgh-steelers/did-the-steelers-need-motivation-for-week-8-no-but-cleveland-provided-it-anyway): Athlon Sports, 2026-10-28 12:00 UTC
+- [Contract news: John Harbaugh](https://heavy.com/sports/nfl/pittsburgh-steelers/dean-lowry-nfl-news-john-harabaugh-giants/): Heavy.com, 2026-10-28 11:50 UTC
+- [Mike McCarthy discusses Cleveland](https://www.lehighvalleylive.com/sports/2026/10/mike-mccarthy-had-a-surprising-admission-about-cleveland-before-browns-steelers.html): LehighValleyLive.com, 2026-10-28 11:27 UTC
+- [Steelers face Browns](https://www.squawka.com/us/nfl/nfl-news/browns-vs-steelers-prediction-picks-odds-week-8/): Squawka, 2026-10-28 11:03 UTC
 - [Payton Wilson plays well](https://steelersdepot.com/2026/10/steelers-stock-watch-2026-ilb-payton-wilson-3/): Steelers Depot, 2026-10-28 11:00 UTC
 - [Steelers secure win over Saints](https://stillcurtain.com/3-biggest-pittsburgh-steelers-standouts-from-week-7-win-over-the-saints-01m5zq8378nf?utm_source=RSS): Still Curtain, 2026-10-28 11:00 UTC
 - [Reaction: Jaylen Warren](https://steelersdepot.com/2026/10/expect-to-see-more-and-more-of-jaylen-warren-for-steelers-fowler-says/): Steelers Depot, 2026-10-28 10:20 UTC
-- [Browns and Steelers face off](https://www.cantonrep.com/story/sports/pro/browns/2026/10/28/browns-steelers-3-biggest-questions/92459117007/): Canton Repository, 2026-10-28 10:11 UTC
 - [Steelers have key strengths](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-two-biggest-strengths-carry-them-hopefully): All Steelers (Sports Illustrated), 2026-10-28 10:00 UTC
 - [Steelers news and links available](https://steelersnow.com/daily-news-links-steelers-saints-ratings-kordell-stewart-documentary-premieres/): Steelers Now, 2026-10-28 10:00 UTC
 - [Steelers see improvement on offensive line](https://stillcurtain.com/pittsburgh-steelers-are-already-looking-like-clear-winners-of-the-broderick-jones-trade-01m5w5gemhx4?utm_source=RSS): Still Curtain, 2026-10-28 10:00 UTC
@@ -15,8 +20,8 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Deforest Buckner helps 49ers defense](https://www.marinij.com/2026/10/27/49ers-deforest-buckner-trade-nick-bosa-raheem-morris-john-lynch-kurtenbach-1027/): Marin Independent Journal, 2026-10-28 06:43 UTC
 - [Steelers scouting players](https://sports.ndtv.com/us/nfl/pittsburgh-steelers-scout-arch-manning-and-trinidad-chambliss-ahead-of-2027-nfl-draft-12246537): NDTV Sports, 2026-10-28 04:52 UTC
 - [Steelers demonstrate readiness](https://www.audacy.com/937thefan/sports/pittsburgh-steelers/thunder-shows-steelers-readiness-for-stress): Audacy, 2026-10-28 04:29 UTC
-- [Steelers consider quarterback option](https://heavy.com/sports/nfl/pittsburgh-steelers/steelers-arch-manning-trinidad-chambliss-scouting/): Heavy.com, 2026-10-28 04:02 UTC
 - [Steelers face Browns in critical game](https://steelersdepot.com/2026/10/this-is-the-most-important-steelers-browns-regular-season-game-in-a-long-time/): Steelers Depot, 2026-10-28 04:00 UTC
+- [Steelers face Browns (Steelers.com (official))](https://www.steelers.com/news/steelers-vs-browns-how-to-watch-listen-to-the-game-x8437): Steelers.com (official), 2026-10-28 01:30 UTC
 - [Roster move: Steelers-Browns](https://steelersdepot.com/2026/10/steelers-release-week-8-depth-chart-for-browns-game/): Steelers Depot, 2026-10-28 01:12 UTC
 - [Steelers news updates](https://steelersdepot.com/2026/10/depot-after-dark-ramseys-custom-cleats-giants-sign-lowry-shipley-praises-freiermuth/): Steelers Depot, 2026-10-28 01:00 UTC
 - [Steelers face challenge](https://athlonsports.com/nfl/pittsburgh-steelers/aaron-rodgers-challenges-steelers-offense-to-improve-ahead-of-week-8): Athlon Sports, 2026-10-28 00:57 UTC
@@ -31,11 +36,12 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [DeForest Buckner traded to 49ers](https://www.wowktv.com/sports/ap-the-49ers-bring-back-deforest-buckner-in-trade-with-the-colts-ap-source-says/): WOWK 13 News, 2026-10-27 22:48 UTC
 - [Steelers alumni share recipes](https://triblive.com/sports/steelers/former-steelers-chris-hoke-mike-logan-share-healthy-recipes-at-upmc-magee-womens-hospital/): TribLive, 2026-10-27 22:41 UTC
 - [Steelers lineman struggles on left side](https://steelersdepot.com/2026/10/former-steelers-ol-explains-troy-fautanus-biggest-issue/): Steelers Depot, 2026-10-27 22:30 UTC
-- [Steelers face Browns](https://www.cleveland.com/browns/2026/10/cam-heyward-says-jared-verses-claims-that-the-steelers-play-dirty-will-be-addressed-sunday-browns-havent-won-in-pittsburgh-in-23-years.html): Cleveland.com, 2026-10-27 22:27 UTC
+- [Steelers face Browns (Cleveland.com)](https://www.cleveland.com/browns/2026/10/cam-heyward-says-jared-verses-claims-that-the-steelers-play-dirty-will-be-addressed-sunday-browns-havent-won-in-pittsburgh-in-23-years.html): Cleveland.com, 2026-10-27 22:27 UTC
 - [Steelers coach talks player future](https://www.steelernation.com/2026/10/27/steelers-mike-mccarthy-powerful-max-iheanachor): SteelerNation, 2026-10-27 22:23 UTC
 - [Steelers news update available](https://steelersdepot.com/2026/10/watch-the-depot-180-october-27-episode-630/): Steelers Depot, 2026-10-27 22:15 UTC
 - [Steelers news and analysis](https://steelersnow.com/steelers-afternoon-drive-trade-deadline-fits/): Steelers Now, 2026-10-27 22:09 UTC
 - [Browns game preview: Mike McCarthy](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176969/mike-mccarthy-hypes-up-cleveland-ahead-of-steelers-browns-matchup): Behind the Steel Curtain, 2026-10-27 22:00 UTC
+- [Steelers community events](https://www.steelers.com/news/community-corner-a-super-surprise): Steelers.com (official), 2026-10-27 22:00 UTC
 - [Mike Tomlin comments](https://www.si.com/nfl/steelers/onsi/former-pittsburgh-steelers-mike-tomlin-hold-back-najee-harris-release): All Steelers (Sports Illustrated), 2026-10-27 22:00 UTC
 - [Former Steelers player finds new team](https://steelersnow.com/nfc-contender-adds-former-steelers-linebacker-special-teamer/): Steelers Now, 2026-10-27 21:55 UTC
 - [Steelers offense shows improvement](https://steelersdepot.com/2026/10/todd-haley-shares-his-biggest-concern-about-the-steelers-offense/): Steelers Depot, 2026-10-27 21:45 UTC
@@ -54,12 +60,10 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers win in Paris](https://steelersdepot.com/2026/10/it-was-the-right-call-charlie-batch-agrees-with-officials-overturning-t-j-watts-forced-fumble/): Steelers Depot, 2026-10-27 19:30 UTC
 - [Steelers defense has successful Week](https://steelersdepot.com/2026/10/elandon-roberts-shares-motivational-message-he-gave-steelers-linebackers/): Steelers Depot, 2026-10-27 19:15 UTC
 - [Steelers mentioned in trade talks](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/177011/steelers-connected-to-chargers-wr-ladd-mcconkey-in-potential-trade): Behind the Steel Curtain, 2026-10-27 19:01 UTC
-- [Steelers and Browns rivalry heats up](https://steelersdepot.com/2026/10/cam-heyward-says-jared-verses-dirty-comments-will-be-addressed-sunday/): Steelers Depot, 2026-10-27 19:00 UTC
 - [Steelers consider trade option (All Steelers (Sports Illustrated))](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-should-call-colts-josh-downs-trade): All Steelers (Sports Illustrated), 2026-10-27 19:00 UTC
 - [Steelers get analyzed](https://www.steelernation.com/2026/10/27/steelers-insider-bold-contender): SteelerNation, 2026-10-27 18:58 UTC
 - [Steelers quarterback struggles with chemistry](https://steelersnow.com/one-trick-pony-former-steelers-coach-calls-out-dk-metcalf/): Steelers Now, 2026-10-27 18:54 UTC
 - [Steelers offense examined](https://www.steelernation.com/2026/10/27/steelers-questioned-nfl-executive-unstable): SteelerNation, 2026-10-27 18:47 UTC
-- [Steelers face Browns (Steelers.com (official))](https://www.steelers.com/news/steelers-vs-browns-how-to-watch-listen-to-the-game-x8437): Steelers.com (official), 2026-10-27 18:30 UTC
 - [Steelers may make trade](https://steelersnow.com/steelers-linked-to-two-wide-receivers-in-potential-trade/): Steelers Now, 2026-10-27 18:26 UTC
 - [Steelers earn respect with win](https://www.behindthesteelcurtain.com/pittsburgh-steelers-power-rankings/177004/steelers-week-8-power-rankings-roundup-three-straight-wins-earns-pittsburgh-respect): Behind the Steel Curtain, 2026-10-27 18:25 UTC
 - [Steelers player notes teammate habit](https://www.steelernation.com/2026/10/27/steelers-elandon-roberts-exposed-tyler-shough): SteelerNation, 2026-10-27 18:01 UTC
@@ -113,7 +117,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Browns game preview: Mike McCarthy (TribLive)](https://triblive.com/sports/watch-steelers-coach-mike-mccarthy-previews-week-8-matchup-with-browns/): TribLive, 2026-10-26 18:19 UTC
 - [Steelers defense faces challenge](https://stillcurtain.com/pittsburgh-steelers-defense-too-much-riding-on-jalen-ramsey-01m5w99027tn?utm_source=RSS): Still Curtain, 2026-10-26 16:00 UTC
 - [Steelers evaluate quarterback prospects](https://stillcurtain.com/pittsburgh-steelers-new-reason-question-2027-qb-draft-class-01m5w5mp43v2?utm_source=RSS): Still Curtain, 2026-10-26 15:02 UTC
-- [Steelers win game in Paris (UPI.com)](https://www.upi.com/Sports_News/Photos/NFL-Pittsburgh-Steelers-defeat-New-Orleans-Saints-in-Paris/17018/): UPI.com, 2026-10-26 15:00 UTC
 - [Steelers defense shows promise](https://stillcurtain.com/pittsburgh-steelers-linebackers-payton-wilson-patrick-queen-finally-give-fans-reason-believe-01m5w5j7wegb?utm_source=RSS): Still Curtain, 2026-10-26 14:00 UTC
 - [Update: Aaron Rodgers](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-aaron-rodgers-farewell-tour-finally-begun): All Steelers (Sports Illustrated), 2026-10-26 14:00 UTC
 - [Game review: takeaways](https://www.steelcityunderground.com/2026/10/26/steelers-takeaways-defense-and-running-game-deliver-another-victory-in-paris/): Steel City Underground, 2026-10-26 13:35 UTC
@@ -142,7 +145,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers honor player](https://www.steelers.com/news/rodgers-is-steelers-player-of-the-week): Steelers.com (official), 2026-10-25 17:52 UTC
 - [Steelers game had tough officiating](https://www.si.com/nfl/steelers/onsi/referee-grades-pittsburgh-steelers-saints-tough-watch): All Steelers (Sports Illustrated), 2026-10-25 17:47 UTC
 - [Steelers win in Paris (Still Curtain)](https://stillcurtain.com/5-instant-reactions-to-the-pittsburgh-steelers-ugly-overseas-victory-against-the-saints-01m5swe5f5hh?utm_source=RSS): Still Curtain, 2026-10-25 17:05 UTC
-- [Steelers eye Pro Bowl receiver](https://atozsports.com/nfl/pittsburgh-steelers-news/pittsburgh-steelers-monitoring-brian-thomas-jr-trade-nfl-deadline-rumors/): A to Z Sports, 2026-10-25 16:59 UTC
 - [Steelers dominate Saints (Still Curtain)](https://stillcurtain.com/7-winners-3-losers-pittsburgh-steelers-bully-ball-paris-win-new-orleans-saints-01m5spsvdhj5?utm_source=RSS): Still Curtain, 2026-10-25 16:51 UTC
 - [Steelers find success with tough style](https://www.pennlive.com/steelers/2026/10/the-steelers-brand-of-football-might-not-be-aesthetically-pleasing-but-it-works-heres-whyfarabaugh.html): PennLive (Nick Farabaugh), 2026-10-25 16:45 UTC
 - [Steelers show improvement](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-saints-takeaways-getting-dangerous): All Steelers (Sports Illustrated), 2026-10-25 16:36 UTC
@@ -151,8 +153,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers win in Paris (Steelers.com (official))](https://www.steelers.com/news/steelers-beat-saints-16-10-in-paris): Steelers.com (official), 2026-10-25 16:35 UTC
 - [Referee questions call on strip sack](https://www.pennlive.com/steelers/2026/10/former-nfl-referee-surprised-officials-overturned-huge-near-tj-watt-strip-sack.html): PennLive (Nick Farabaugh), 2026-10-25 15:50 UTC
 - [Steelers player makes touchdown catch](https://www.nfl.com/videos/can-t-miss-play-darnell-washington-mosses-saints-defender-on-rodgers-4-yard-td-pass-in-paris): NFL.com, 2026-10-25 14:52 UTC
-- [Aaron Rodgers achieves milestone](https://www.steelers.com/news/rodgers-now-3rd-all-time-in-passing-tds): Steelers.com (official), 2026-10-25 14:45 UTC
-- [Steelers fans travel to Paris](https://triblive.com/sports/photo-gallery-fans-gather-at-stade-de-france-stadium-to-support-steelers/): TribLive, 2026-10-25 13:04 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

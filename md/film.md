@@ -1,6 +1,6 @@
 # Steelers Film Room & Previews
 
-_Generated 2026-10-28T11:39:16+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-28T11:16:51+00:00._
+_Generated 2026-10-28T12:05:08+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-28T12:04:31+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/film.json_
 
 - Breakdown (at New Orleans Saints (Oct 25)): [Film study: Keeanu Benton and the offensive line](https://steelersdepot.com/2026/10/film-room-keeanu-benton-was-a-nightmare-for-the-saints-o-line/): Steelers Depot Film Room (Alex Kozora), 2026-10-27 16:00 UTC

@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "rumors",
  "description": "Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).",
- "generated": "2026-10-28T11:39:16+00:00",
- "data_updated": "2026-10-28T11:39:09+00:00",
- "count": 25,
+ "generated": "2026-10-28T12:05:08+00:00",
+ "data_updated": "2026-10-28T12:05:01+00:00",
+ "count": 27,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -20,9 +20,76 @@
  "html": "https://blackandgolddispatch.com/#/rumors",
  "items": [
   {
-   "id": "f42f147d661f",
+   "id": "98672c12a699",
+   "type": "rumor",
+   "title": "Trade rumor: Steelers-Chargers",
+   "summary": "Yahoo Sports passes along trade speculation involving the Steelers and the Chargers; treat it as unconfirmed until the team announces a move, touching on the receivers. Read the full story at Yahoo Sports.",
+   "url": "https://sports.yahoo.com/articles/steelers-linked-trade-landing-spot-110245384.html",
+   "source": {
+    "name": "Yahoo Sports",
+    "url": null,
+    "reliability_tier": "National insider",
+    "reliability_score": 4
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-28T12:05:01+00:00",
+   "updated": "2026-10-28T12:05:01+00:00",
+   "published": "2026-10-28T11:21:36+00:00",
+   "people": [],
+   "consensus": {
+    "cluster_id": "9e37088de4c1",
+    "independent_sources": 4,
+    "sources": [
+     "A to Z Sports",
+     "Steelers Depot",
+     "Steelers Now",
+     "Yahoo Sports"
+    ],
+    "highest_tier": "National insider",
+    "highest_tier_score": 4,
+    "related_ids": [
+     "307e2a040ea7",
+     "f70a13da10bb",
+     "702ace99a8e9",
+     "c60d83ea0785",
+     "9e37088de4c1"
+    ]
+   }
+  },
+  {
+   "id": "1da59010ce4e",
    "type": "rumor",
    "title": "Trade rumor: Steelers",
+   "summary": "Gridiron Heroics passes along trade speculation involving the Steelers; treat it as unconfirmed until the team announces a move, touching on the trade deadline. Read the full story at Gridiron Heroics.",
+   "url": "https://gridironheroics.com/steelers-expected-to-add-another-playmaker-as-jason-la-canfora-predicts-trade-deadline-moves/",
+   "source": {
+    "name": "Gridiron Heroics",
+    "url": null,
+    "reliability_tier": "Aggregator / other",
+    "reliability_score": 1
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-28T12:05:01+00:00",
+   "updated": "2026-10-28T12:05:01+00:00",
+   "published": "2026-10-28T11:11:03+00:00",
+   "people": [],
+   "consensus": {
+    "cluster_id": "1da59010ce4e",
+    "independent_sources": 1,
+    "sources": [
+     "Gridiron Heroics"
+    ],
+    "highest_tier": "Aggregator / other",
+    "highest_tier_score": 1,
+    "related_ids": []
+   }
+  },
+  {
+   "id": "f42f147d661f",
+   "type": "rumor",
+   "title": "Trade rumor: Steelers (Yahoo Sports)",
    "summary": "Yahoo Sports passes along trade speculation involving the Steelers; treat it as unconfirmed until the team announces a move, touching on the Steelers' receivers. Read the full story at Yahoo Sports.",
    "url": "https://sports.yahoo.com/articles/super-bowl-record-holding-wr-002552200.html",
    "source": {
@@ -162,7 +229,7 @@
    "published": "2026-10-27T18:26:40+00:00",
    "people": [],
    "consensus": {
-    "cluster_id": "3f3271514107",
+    "cluster_id": "9e37088de4c1",
     "independent_sources": 4,
     "sources": [
      "A to Z Sports",
@@ -173,11 +240,11 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "98672c12a699",
      "307e2a040ea7",
      "702ace99a8e9",
      "c60d83ea0785",
-     "9e37088de4c1",
-     "3f3271514107"
+     "9e37088de4c1"
     ]
    }
   },
@@ -263,7 +330,7 @@
    "published": "2026-10-27T16:17:14+00:00",
    "people": [],
    "consensus": {
-    "cluster_id": "3f3271514107",
+    "cluster_id": "9e37088de4c1",
     "independent_sources": 4,
     "sources": [
      "A to Z Sports",
@@ -274,11 +341,11 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "98672c12a699",
      "307e2a040ea7",
      "f70a13da10bb",
      "c60d83ea0785",
-     "9e37088de4c1",
-     "3f3271514107"
+     "9e37088de4c1"
     ]
    }
   },
@@ -364,7 +431,7 @@
    "published": "2026-10-27T15:15:49+00:00",
    "people": [],
    "consensus": {
-    "cluster_id": "3f3271514107",
+    "cluster_id": "9e37088de4c1",
     "independent_sources": 4,
     "sources": [
      "A to Z Sports",
@@ -375,11 +442,11 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "98672c12a699",
      "307e2a040ea7",
      "f70a13da10bb",
      "702ace99a8e9",
-     "9e37088de4c1",
-     "3f3271514107"
+     "9e37088de4c1"
     ]
    }
   },
@@ -616,7 +683,7 @@
     "Pro Bowl"
    ],
    "consensus": {
-    "cluster_id": "3f3271514107",
+    "cluster_id": "9e37088de4c1",
     "independent_sources": 4,
     "sources": [
      "A to Z Sports",
@@ -627,11 +694,11 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
+     "98672c12a699",
      "307e2a040ea7",
      "f70a13da10bb",
      "702ace99a8e9",
-     "c60d83ea0785",
-     "3f3271514107"
+     "c60d83ea0785"
     ]
    }
   },
@@ -655,16 +722,13 @@
    "people": [],
    "consensus": {
     "cluster_id": "b3b86933a304",
-    "independent_sources": 2,
+    "independent_sources": 1,
     "sources": [
-     "SteelerNation",
-     "Yardbarker"
+     "SteelerNation"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": [
-     "5585acb90f77"
-    ]
+    "related_ids": []
    }
   },
   {

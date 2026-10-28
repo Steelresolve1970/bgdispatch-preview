@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-28T11:39:16+00:00",
- "data_updated": "2026-10-28T10:57:27+00:00",
- "count": 104,
+ "generated": "2026-10-28T12:05:08+00:00",
+ "data_updated": "2026-10-28T12:04:41+00:00",
+ "count": 107,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -19,6 +19,19 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/podcasts",
  "items": [
+  {
+   "id": "26db87ea10a5cfbe",
+   "type": "video",
+   "title": "Steelers' ST Grades",
+   "show": "Steelers Almighty",
+   "url": "https://www.youtube.com/shorts/CnoUqe9pN1U",
+   "published": "2026-10-28T11:23:56+00:00",
+   "summary": "Video from Steelers Almighty.",
+   "source": {
+    "name": "Steelers Almighty",
+    "url": null
+   }
+  },
   {
    "id": "b3dc861b6134130c",
    "type": "video",
@@ -48,10 +61,10 @@
   {
    "id": "7968be70b4f37758",
    "type": "podcast_episode",
-   "title": "Scout’s Eye with Matt Williamson: Remember Belichick?",
+   "title": "DK's Daily Shot of Steelers: Appreciate Keeanu!",
    "show": "DK Pittsburgh Sports",
    "url": "https://podcasts.apple.com/us/podcast/id1072021022",
-   "published": "2026-10-28T07:49:00+00:00",
+   "published": "2026-10-28T07:52:00+00:00",
    "summary": "Podcast episode from DK Pittsburgh Sports.",
    "source": {
     "name": "DK Pittsburgh Sports",
@@ -163,11 +176,11 @@
    }
   },
   {
-   "id": "7d533777079a5528",
+   "id": "5da7ddc148e2988c",
    "type": "podcast_episode",
    "title": "Two New WR Trade Options Emerge for Steelers",
    "show": "All Steelers Talk",
-   "url": "https://podcasts.apple.com/us/podcast/id1627248534",
+   "url": "https://podcasts.apple.com/us/podcast/two-new-wr-trade-options-emerge-for-steelers/id1627248534?i=1000798426827",
    "published": "2026-10-27T21:21:00+00:00",
    "summary": "Podcast episode from All Steelers Talk.",
    "source": {
@@ -176,11 +189,11 @@
    }
   },
   {
-   "id": "7b2055f73c775a81",
+   "id": "dce591a551b18649",
    "type": "podcast_episode",
    "title": "The Terrible Take - Episode 2063 - October 27, 2026",
    "show": "The Terrible Podcast (Steelers Depot)",
-   "url": "https://podcasts.apple.com/us/podcast/id405990739",
+   "url": "https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2063-october-27-2026/id405990739?i=1000798422775",
    "published": "2026-10-27T21:00:00+00:00",
    "summary": "Podcast episode from The Terrible Podcast (Steelers Depot).",
    "source": {
@@ -319,6 +332,19 @@
    }
   },
   {
+   "id": "f44c8c6f47341bab",
+   "type": "podcast_episode",
+   "title": "Steelers Two Biggest Strengths Can Carry Them - Hopefully",
+   "show": "All Steelers Talk",
+   "url": "https://podcasts.apple.com/us/podcast/steelers-two-biggest-strengths-can-carry-them-hopefully/id1627248534?i=1000798387695",
+   "published": "2026-10-27T16:57:00+00:00",
+   "summary": "Podcast episode from All Steelers Talk.",
+   "source": {
+    "name": "All Steelers Talk",
+    "url": null
+   }
+  },
+  {
    "id": "db859336279a68de",
    "type": "podcast_episode",
    "title": "Mike McCarthy Picking Up Where Tomlin Left Off? | Steelers Morning Rush",
@@ -380,6 +406,19 @@
    "summary": "Podcast episode from Steelers Blitz.",
    "source": {
     "name": "Steelers Blitz",
+    "url": null
+   }
+  },
+  {
+   "id": "44941cafe921c24d",
+   "type": "podcast_episode",
+   "title": "Steelers Enter Trade Now Week",
+   "show": "All Steelers Talk",
+   "url": "https://podcasts.apple.com/us/podcast/steelers-enter-trade-now-week/id1627248534?i=1000798347707",
+   "published": "2026-10-27T12:25:00+00:00",
+   "summary": "Podcast episode from All Steelers Talk.",
+   "source": {
+    "name": "All Steelers Talk",
     "url": null
    }
   },

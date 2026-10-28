@@ -1,11 +1,12 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-28T11:39:16+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-28T10:57:27+00:00._
+_Generated 2026-10-28T12:05:08+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-28T12:04:41+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Video: [Steelers' ST Grades](https://www.youtube.com/shorts/CnoUqe9pN1U): Steelers Almighty, 2026-10-28 11:23 UTC
 - Video: [Steelers Beat Saints in Paris, Browns Preview & NFL Halloween Villains | Not Just Football](https://www.youtube.com/watch?v=N8EOsMrHLyA): Not Just Football with Cam Heyward, 2026-10-28 10:00 UTC
 - Podcast: [Steelers Beat Saints in Paris, Browns Preview & NFL Halloween Villains | Not Just Football](https://www.youtube.com/@NotJustFootballwithCamHeyward): Not Just Football with Cam Heyward, 2026-10-28 10:00 UTC
-- Podcast: [Scout’s Eye with Matt Williamson: Remember Belichick?](https://podcasts.apple.com/us/podcast/id1072021022): DK Pittsburgh Sports, 2026-10-28 07:49 UTC
+- Podcast: [DK's Daily Shot of Steelers: Appreciate Keeanu!](https://podcasts.apple.com/us/podcast/id1072021022): DK Pittsburgh Sports, 2026-10-28 07:52 UTC
 - Video: [Why Steelers Shouldn't Go for Big Trade Targets like Sauce Gardner, Brian Thomas Jr., Focus on Draft](https://www.youtube.com/watch?v=YsHJn67LH0k): Locked On Steelers, 2026-10-28 05:00 UTC
 - Video: [STEELERS SQUAD SHOW: Revenge & First Place! Can Pittsburgh Make the Browns Pay?](https://www.youtube.com/watch?v=AeeTumtJWJ0): Locked On Steelers, 2026-10-28 01:36 UTC
 - Video: [bonjour.mp4 📺: #CLEvsPIT 11/1 at 1 PM ET on CBS](https://www.youtube.com/shorts/C2UJf-xEWsE): Pittsburgh Steelers (official), 2026-10-27 23:34 UTC
@@ -14,8 +15,8 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Recapping The Steelers 16-10 Victory In Paris | SNR Drive (Oct.27) | Pittsburgh Steelers](https://www.youtube.com/watch?v=090aowOKXsw): Pittsburgh Steelers (official), 2026-10-27 22:15 UTC
 - Video: [Trade Deadline Fits? | Steelers Afternoon Drive](https://www.youtube.com/watch?v=7v-VKs5dkpM): Steelers Now, 2026-10-27 22:09 UTC
 - Podcast: [Trade Deadline Fits? | Steelers Afternoon Drive](https://podcasts.apple.com/us/podcast/trade-deadline-fits-steelers-afternoon-drive/id1700240934?i=1000798430366): Steelers Afternoon Drive, 2026-10-27 22:07 UTC
-- Podcast: [Two New WR Trade Options Emerge for Steelers](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-27 21:21 UTC
-- Podcast: [The Terrible Take - Episode 2063 - October 27, 2026](https://podcasts.apple.com/us/podcast/id405990739): The Terrible Podcast (Steelers Depot), 2026-10-27 21:00 UTC
+- Podcast: [Two New WR Trade Options Emerge for Steelers](https://podcasts.apple.com/us/podcast/two-new-wr-trade-options-emerge-for-steelers/id1627248534?i=1000798426827): All Steelers Talk, 2026-10-27 21:21 UTC
+- Podcast: [The Terrible Take - Episode 2063 - October 27, 2026](https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2063-october-27-2026/id405990739?i=1000798422775): The Terrible Podcast (Steelers Depot), 2026-10-27 21:00 UTC
 - Podcast: [DK's Double Shot of Steelers: Back from Paris!](https://podcasts.apple.com/us/podcast/dks-double-shot-of-steelers-back-from-paris/id1072021022?i=1000798454803): DK Pittsburgh Sports, 2026-10-27 21:00 UTC
 - Podcast: [Drive10.27.26Hr1: Victory Tuesday](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-27-26hr1-mp3): SNR Drive, 2026-10-27 20:00 UTC
 - Video: [A Parisian proposal 🥹💍](https://www.youtube.com/shorts/iGnEwb9iKeU): Pittsburgh Steelers (official), 2026-10-27 19:59 UTC
@@ -26,11 +27,13 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Defense, but make it 𝓬𝓲𝓷𝓮𝓶𝓪𝓽𝓲𝓬 📺: #CLEvsPIT 11/1 at 1 PM ET on CBS](https://www.youtube.com/shorts/4gmjLsMJUCA): Pittsburgh Steelers (official), 2026-10-27 18:53 UTC
 - Podcast: [Drive10.27.26Travel: Trenches](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-27-26oline-mp3-1): SNR Drive, 2026-10-27 18:00 UTC
 - Podcast: [Pittsburgh Steelers 5-2 But Can They Keep It Going? - NFL Headlines Week 7](https://arthurmoats55.libsyn.com/pittsburgh_steelers_5-2_but_can_they_keep_it_going__-_nfl_headlines__week_7mp3): The Arthur Moats Experience, 2026-10-27 17:36 UTC
+- Podcast: [Steelers Two Biggest Strengths Can Carry Them - Hopefully](https://podcasts.apple.com/us/podcast/steelers-two-biggest-strengths-can-carry-them-hopefully/id1627248534?i=1000798387695): All Steelers Talk, 2026-10-27 16:57 UTC
 - Podcast: [Mike McCarthy Picking Up Where Tomlin Left Off? | Steelers Morning Rush](https://podcasts.apple.com/us/podcast/mike-mccarthy-picking-up-where-tomlin-left-off-steelers/id1700240934?i=1000798379740): Steelers Afternoon Drive, 2026-10-27 15:51 UTC
 - Video: [Mike McCarthy Picking Up Where Tomlin Left Off? | Steelers Morning Rush](https://www.youtube.com/watch?v=bGLS-lh1_xo): Steelers Now, 2026-10-27 15:50 UTC
 - Video: [Steelers' DL Grades](https://www.youtube.com/shorts/gau9YdRy96Y): Steelers Almighty, 2026-10-27 15:34 UTC
 - Podcast: [Hour 1: You Have to Win in the Trenches](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-102726-mp3): Steelers Blitz, 2026-10-27 15:00 UTC
 - Podcast: [Hour 2: Batko is Back](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/1027blitzhr2-mp3-1): Steelers Blitz, 2026-10-27 14:00 UTC
+- Podcast: [Steelers Enter Trade Now Week](https://podcasts.apple.com/us/podcast/steelers-enter-trade-now-week/id1627248534?i=1000798347707): All Steelers Talk, 2026-10-27 12:25 UTC
 - Video: [Zach Frazier, League’s Best Center? 🏈 #pittsburghsteelers #steelers #shorts](https://www.youtube.com/shorts/9N8JVHrrOZU): Steelers Now, 2026-10-27 12:20 UTC
 - Video: [Steelers' OL Grades](https://www.youtube.com/watch?v=wT-8RVkWsB8): Steelers Almighty, 2026-10-27 11:30 UTC
 - Video: [Steelers Building Elite Offensive/Defensive Lines in New Foundation | Patrick Queen Underappreciated](https://www.youtube.com/watch?v=WCAocGAbAHE): Locked On Steelers, 2026-10-27 07:30 UTC
