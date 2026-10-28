@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T12:16:17.763512+00:00",
+ "generated": "2026-10-28T13:02:52.906768+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -92,14 +92,16 @@
    "own": 1,
    "consensus": {
     "cluster_id": "b030e7b7babc",
-    "independent_sources": 2,
+    "independent_sources": 3,
     "sources": [
      "Still Curtain",
-     "WKYC"
+     "WKYC",
+     "fox43.com"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
     "related_ids": [
+     "8880bf4606fe",
      "b030e7b7babc"
     ]
    },
@@ -395,15 +397,17 @@
    "own": 1,
    "consensus": {
     "cluster_id": "b030e7b7babc",
-    "independent_sources": 2,
+    "independent_sources": 3,
     "sources": [
      "Still Curtain",
-     "WKYC"
+     "WKYC",
+     "fox43.com"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
     "related_ids": [
-     "b9c5d295880a"
+     "b9c5d295880a",
+     "8880bf4606fe"
     ]
    },
    "updated": "2026-10-27T17:22:05.510304+00:00"
@@ -479,7 +483,7 @@
   },
   {
    "id": "fd9be22f39c9",
-   "title": "Trade rumor: Steelers (Yahoo Sports) (Yahoo Sports)",
+   "title": "Trade rumor: Steelers (Yahoo Sports) (Yahoo Sports) (Yahoo Sports)",
    "source": "Yahoo Sports",
    "link": "https://sports.yahoo.com/articles/steelers-eyeing-semi-big-wide-153032704.html",
    "published": "2026-10-27T15:30:32+00:00",
@@ -557,17 +561,14 @@
    "first_seen": "2026-10-27T15:36:34.341299+00:00",
    "own": 1,
    "consensus": {
-    "cluster_id": "0e25ebeff1e5",
-    "independent_sources": 2,
+    "cluster_id": "87aceeb400a8",
+    "independent_sources": 1,
     "sources": [
-     "AOL.com",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
-    "related_ids": [
-     "0e25ebeff1e5"
-    ]
+    "related_ids": []
    },
    "updated": "2026-10-27T15:36:34.341299+00:00"
   },

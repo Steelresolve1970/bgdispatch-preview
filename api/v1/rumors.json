@@ -2,8 +2,8 @@
  "api_version": "1",
  "dataset": "rumors",
  "description": "Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).",
- "generated": "2026-10-28T12:16:24+00:00",
- "data_updated": "2026-10-28T12:16:17+00:00",
+ "generated": "2026-10-28T13:02:59+00:00",
+ "data_updated": "2026-10-28T13:02:52+00:00",
  "count": 30,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
@@ -73,14 +73,16 @@
    ],
    "consensus": {
     "cluster_id": "b030e7b7babc",
-    "independent_sources": 2,
+    "independent_sources": 3,
     "sources": [
      "Still Curtain",
-     "WKYC"
+     "WKYC",
+     "fox43.com"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
     "related_ids": [
+     "8880bf4606fe",
      "b030e7b7babc"
     ]
    }
@@ -396,15 +398,17 @@
    ],
    "consensus": {
     "cluster_id": "b030e7b7babc",
-    "independent_sources": 2,
+    "independent_sources": 3,
     "sources": [
      "Still Curtain",
-     "WKYC"
+     "WKYC",
+     "fox43.com"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
     "related_ids": [
-     "b9c5d295880a"
+     "b9c5d295880a",
+     "8880bf4606fe"
     ]
    }
   },
@@ -484,7 +488,7 @@
   {
    "id": "fd9be22f39c9",
    "type": "rumor",
-   "title": "Trade rumor: Steelers (Yahoo Sports) (Yahoo Sports)",
+   "title": "Trade rumor: Steelers (Yahoo Sports) (Yahoo Sports) (Yahoo Sports)",
    "summary": "Yahoo Sports passes along trade speculation involving the Steelers; treat it as unconfirmed until the team announces a move, touching on the Steelers' receivers. Read the full story at Yahoo Sports.",
    "url": "https://sports.yahoo.com/articles/steelers-eyeing-semi-big-wide-153032704.html",
    "source": {
@@ -568,17 +572,14 @@
    "published": "2026-10-27T14:24:07+00:00",
    "people": [],
    "consensus": {
-    "cluster_id": "0e25ebeff1e5",
-    "independent_sources": 2,
+    "cluster_id": "87aceeb400a8",
+    "independent_sources": 1,
     "sources": [
-     "AOL.com",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
-    "related_ids": [
-     "0e25ebeff1e5"
-    ]
+    "related_ids": []
    }
   },
   {
