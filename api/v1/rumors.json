@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "rumors",
  "description": "Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).",
- "generated": "2026-10-28T17:01:42+00:00",
- "data_updated": "2026-10-28T17:01:35+00:00",
- "count": 41,
+ "generated": "2026-10-28T17:12:43+00:00",
+ "data_updated": "2026-10-28T17:12:37+00:00",
+ "count": 44,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -20,9 +20,99 @@
  "html": "https://blackandgolddispatch.com/#/rumors",
  "items": [
   {
-   "id": "53eafbccde2f",
+   "id": "3591b0471ffb",
    "type": "rumor",
    "title": "Trade rumor: Steelers",
+   "summary": "Steelers Now passes along trade speculation involving the Steelers; treat it as unconfirmed until the team announces a move, touching on the Steelers' receivers. Read the full story at Steelers Now.",
+   "url": "https://steelersnow.com/top-potential-steelers-wr-target-requests-trade/",
+   "source": {
+    "name": "Steelers Now",
+    "url": null,
+    "reliability_tier": "Beat writer / team",
+    "reliability_score": 3
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-28T17:12:37+00:00",
+   "updated": "2026-10-28T17:12:37+00:00",
+   "published": "2026-10-28T17:03:07+00:00",
+   "people": [],
+   "consensus": {
+    "cluster_id": "3591b0471ffb",
+    "independent_sources": 1,
+    "sources": [
+     "Steelers Now"
+    ],
+    "highest_tier": "Beat writer / team",
+    "highest_tier_score": 3,
+    "related_ids": []
+   }
+  },
+  {
+   "id": "c65af6ceda39",
+   "type": "rumor",
+   "title": "Trade rumor: Steelers-Saints",
+   "summary": "Steelers Depot passes along trade speculation involving the Steelers and the Saints; treat it as unconfirmed until the team announces a move. For context, the Steelers beat the Saints in Week 7. Read the full story at Steelers Depot.",
+   "url": "https://steelersdepot.com/2026/10/the-terrible-podcast-steelers-vs-saints-all-22-review-trade-speculation-monday-presser-recaps-more/",
+   "source": {
+    "name": "Steelers Depot",
+    "url": null,
+    "reliability_tier": "Fan blog",
+    "reliability_score": 2
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-28T17:12:37+00:00",
+   "updated": "2026-10-28T17:12:37+00:00",
+   "published": "2026-10-28T17:01:16+00:00",
+   "people": [],
+   "consensus": {
+    "cluster_id": "c65af6ceda39",
+    "independent_sources": 1,
+    "sources": [
+     "Steelers Depot"
+    ],
+    "highest_tier": "Fan blog",
+    "highest_tier_score": 2,
+    "related_ids": []
+   }
+  },
+  {
+   "id": "7ff638c27bdd",
+   "type": "rumor",
+   "title": "Trade rumor: Steelers (LWOSports)",
+   "summary": "LWOSports passes along trade speculation involving the Steelers; treat it as unconfirmed until the team announces a move. Read the full story at LWOSports.",
+   "url": "https://lwosports.com/pittsburgh-steelers-trade-targets-deadline/",
+   "source": {
+    "name": "LWOSports",
+    "url": null,
+    "reliability_tier": "Aggregator / other",
+    "reliability_score": 1
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-28T17:12:37+00:00",
+   "updated": "2026-10-28T17:12:37+00:00",
+   "published": "2026-10-28T17:00:46+00:00",
+   "people": [],
+   "consensus": {
+    "cluster_id": "5d16b3792e1f",
+    "independent_sources": 2,
+    "sources": [
+     "LWOSports",
+     "Still Curtain"
+    ],
+    "highest_tier": "Fan blog",
+    "highest_tier_score": 2,
+    "related_ids": [
+     "5d16b3792e1f"
+    ]
+   }
+  },
+  {
+   "id": "53eafbccde2f",
+   "type": "rumor",
+   "title": "Trade rumor: Steelers (A to Z Sports)",
    "summary": "A to Z Sports passes along trade speculation involving the Steelers; treat it as unconfirmed until the team announces a move, touching on the Steelers' receivers. Read the full story at A to Z Sports.",
    "url": "https://atozsports.com/nfl/pittsburgh-steelers-news/steelers-wr-rumors-josh-downs-requests-trade-ahead-of-deadline/",
    "source": {
@@ -263,7 +353,7 @@
     "related_ids": [
      "448fbdd04e18",
      "71fdb51c1a9f",
-     "a016afbfb816",
+     "564dd81263a6",
      "19b17cd62ac2",
      "f85850ec176b",
      "fd9be22f39c9"
@@ -300,21 +390,21 @@
    }
   },
   {
-   "id": "71fdb51c1a9f",
+   "id": "564dd81263a6",
    "type": "rumor",
-   "title": "Trade rumor: Steelers (Athlon Sports)",
-   "summary": "Athlon Sports passes along trade speculation involving the Steelers; treat it as unconfirmed until the team announces a move, touching on the Steelers' receivers and the trade deadline. Read the full story at Athlon Sports.",
-   "url": "https://athlonsports.com/nfl/pittsburgh-steelers/need-a-wide-receiver-here-are-3-the-steelers-should-be-calling-about-before-trade-deadline",
+   "title": "Trade rumor: Steelers (Yahoo Sports)",
+   "summary": "Yahoo Sports passes along trade speculation involving the Steelers; treat it as unconfirmed until the team announces a move, touching on the Steelers' receivers and the trade deadline. Read the full story at Yahoo Sports.",
+   "url": "https://sports.yahoo.com/articles/wide-receiver-3-steelers-calling-140000760.html",
    "source": {
-    "name": "Athlon Sports",
+    "name": "Yahoo Sports",
     "url": null,
-    "reliability_tier": "Aggregator / other",
-    "reliability_score": 1
+    "reliability_tier": "National insider",
+    "reliability_score": 4
    },
    "status": "Rumor",
    "status_evidence": null,
-   "first_seen": "2026-10-28T14:53:46+00:00",
-   "updated": "2026-10-28T14:53:46+00:00",
+   "first_seen": "2026-10-28T17:12:37+00:00",
+   "updated": "2026-10-28T17:12:37+00:00",
    "published": "2026-10-28T14:00:00+00:00",
    "people": [],
    "consensus": {
@@ -330,7 +420,7 @@
     "related_ids": [
      "b94116387f0b",
      "448fbdd04e18",
-     "a016afbfb816",
+     "71fdb51c1a9f",
      "19b17cd62ac2",
      "f85850ec176b",
      "fd9be22f39c9"
@@ -357,10 +447,9 @@
    "people": [],
    "consensus": {
     "cluster_id": "3f3271514107",
-    "independent_sources": 6,
+    "independent_sources": 5,
     "sources": [
      "A to Z Sports",
-     "AOL.com",
      "SteelerNation",
      "Steelers Depot",
      "Steelers Now",
@@ -370,7 +459,6 @@
     "highest_tier_score": 4,
     "related_ids": [
      "98672c12a699",
-     "6708ae0cd793",
      "307e2a040ea7",
      "f70a13da10bb",
      "702ace99a8e9",
@@ -497,10 +585,9 @@
    "people": [],
    "consensus": {
     "cluster_id": "3f3271514107",
-    "independent_sources": 6,
+    "independent_sources": 5,
     "sources": [
      "A to Z Sports",
-     "AOL.com",
      "SteelerNation",
      "Steelers Depot",
      "Steelers Now",
@@ -510,7 +597,6 @@
     "highest_tier_score": 4,
     "related_ids": [
      "cd1cae73a802",
-     "6708ae0cd793",
      "307e2a040ea7",
      "f70a13da10bb",
      "702ace99a8e9",
@@ -661,13 +747,16 @@
    "people": [],
    "consensus": {
     "cluster_id": "5d16b3792e1f",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
+     "LWOSports",
      "Still Curtain"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "7ff638c27bdd"
+    ]
    }
   },
   {
@@ -690,10 +779,9 @@
    "people": [],
    "consensus": {
     "cluster_id": "3f3271514107",
-    "independent_sources": 6,
+    "independent_sources": 5,
     "sources": [
      "A to Z Sports",
-     "AOL.com",
      "SteelerNation",
      "Steelers Depot",
      "Steelers Now",
@@ -704,7 +792,6 @@
     "related_ids": [
      "cd1cae73a802",
      "98672c12a699",
-     "6708ae0cd793",
      "307e2a040ea7",
      "702ace99a8e9",
      "c60d83ea0785",
@@ -801,10 +888,9 @@
    "people": [],
    "consensus": {
     "cluster_id": "3f3271514107",
-    "independent_sources": 6,
+    "independent_sources": 5,
     "sources": [
      "A to Z Sports",
-     "AOL.com",
      "SteelerNation",
      "Steelers Depot",
      "Steelers Now",
@@ -815,7 +901,6 @@
     "related_ids": [
      "cd1cae73a802",
      "98672c12a699",
-     "6708ae0cd793",
      "307e2a040ea7",
      "f70a13da10bb",
      "c60d83ea0785",
@@ -858,7 +943,7 @@
      "b94116387f0b",
      "448fbdd04e18",
      "71fdb51c1a9f",
-     "a016afbfb816",
+     "564dd81263a6",
      "f85850ec176b",
      "fd9be22f39c9"
     ]
@@ -896,7 +981,7 @@
      "b94116387f0b",
      "448fbdd04e18",
      "71fdb51c1a9f",
-     "a016afbfb816",
+     "564dd81263a6",
      "19b17cd62ac2",
      "f85850ec176b"
     ]
@@ -922,10 +1007,9 @@
    "people": [],
    "consensus": {
     "cluster_id": "3f3271514107",
-    "independent_sources": 6,
+    "independent_sources": 5,
     "sources": [
      "A to Z Sports",
-     "AOL.com",
      "SteelerNation",
      "Steelers Depot",
      "Steelers Now",
@@ -936,7 +1020,6 @@
     "related_ids": [
      "cd1cae73a802",
      "98672c12a699",
-     "6708ae0cd793",
      "307e2a040ea7",
      "f70a13da10bb",
      "702ace99a8e9",
@@ -1179,10 +1262,9 @@
    ],
    "consensus": {
     "cluster_id": "3f3271514107",
-    "independent_sources": 6,
+    "independent_sources": 5,
     "sources": [
      "A to Z Sports",
-     "AOL.com",
      "SteelerNation",
      "Steelers Depot",
      "Steelers Now",
@@ -1193,7 +1275,6 @@
     "related_ids": [
      "cd1cae73a802",
      "98672c12a699",
-     "6708ae0cd793",
      "307e2a040ea7",
      "f70a13da10bb",
      "702ace99a8e9",
@@ -1289,9 +1370,7 @@
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": [
-     "dfe6286b4e56"
-    ]
+    "related_ids": []
    }
   },
   {
@@ -1380,9 +1459,7 @@
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": [
-     "ea49fe3c3805"
-    ]
+    "related_ids": []
    }
   }
  ]
