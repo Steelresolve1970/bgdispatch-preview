@@ -1,16 +1,16 @@
 {
- "last_run": "2026-10-28T03:11:39.299318+00:00",
+ "last_run": "2026-10-28T03:23:52.218544+00:00",
  "results": [
   {
    "fetcher": "apply_grade_edits.py",
    "ok": true,
-   "seconds": 1.0,
+   "seconds": 0.5,
    "last_line": "no grade edits"
   },
   {
    "fetcher": "fetch_news.py",
    "ok": true,
-   "seconds": 4.5,
+   "seconds": 3.5,
    "last_line": "news: 150 ticker: 30"
   },
   {
@@ -40,7 +40,7 @@
   {
    "fetcher": "fetch_film.py",
    "ok": true,
-   "seconds": 53.5,
+   "seconds": 54.5,
    "last_line": "  Week 1 vs Falcons (W 20-13): 2   {'Steelers Depot Film Room (Alex Kozora)': 1, \"Derrick Bell \u2013 DB's Film Room (Steelers Now)\": 1}"
   },
   {
@@ -58,20 +58,20 @@
   {
    "fetcher": "fetch_grades.py",
    "ok": true,
-   "seconds": 1.5,
+   "seconds": 1.0,
    "last_line": "weeks 7 ballot players 42 season players 53"
   },
   {
    "fetcher": "fetch_stats.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "team stats 20 players 43 pools {'offense:passing': 62, 'offense:rushing': 242, 'offense:receiving': 399, 'defense': 1147}"
+   "last_line": "stats fresh; skipped"
   },
   {
    "fetcher": "build_leaders.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "leaders team 20 player 18 sizes {'pass_yds': 45, 'ypa': 35, 'pass_td': 45, 'int_thrown': 45, 'passer_rtg': 35, 'rush_yds': 83, 'rush_td': 83, 'rec': 166, 'rec_yds': 166, 'rec_td': 166, 'yac': 166, 'tackles': 376, 'sacks': 285, 'tfl': 144, 'pd': 224, 'int': 115, 'ff': 154, 'fr': 109}"
+   "last_line": "leaders fresh; skipped"
   },
   {
    "fetcher": "fetch_draft.py",
@@ -118,13 +118,13 @@
   {
    "fetcher": "fetch_matchup.py",
    "ok": true,
-   "seconds": 0.5,
+   "seconds": 7.0,
    "last_line": "matchup: 2026_08_CLE_PIT keys 3 picks 0"
   },
   {
    "fetcher": "fetch_depth.py",
    "ok": true,
-   "seconds": 7.5,
+   "seconds": 4.0,
    "last_line": "depth units [('Offense', '3WR 1TE', 12), ('Defense', 'Base 3-4 D', 12), ('Special teams', 'Special Teams', 6)]"
   },
   {
@@ -142,7 +142,7 @@
   {
    "fetcher": "fetch_rumors.py",
    "ok": true,
-   "seconds": 2.5,
+   "seconds": 3.0,
    "last_line": "rumors 34 {'Rumor': 34, 'Confirmed': 0, 'Denied': 0}"
   },
   {
@@ -172,8 +172,8 @@
   {
    "fetcher": "fetch_quotes.py",
    "ok": true,
-   "seconds": 1.5,
-   "last_line": "quotes: 5 kept from 130 articles"
+   "seconds": 1.0,
+   "last_line": "quotes: 5 kept from 127 articles"
   },
   {
    "fetcher": "paywall_guard.py",
@@ -190,7 +190,7 @@
   {
    "fetcher": "admin_stats.py",
    "ok": true,
-   "seconds": 3.5,
+   "seconds": 2.0,
    "last_line": "admin stats stored: today views 50 visits 19"
   }
  ]
