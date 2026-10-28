@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-28T15:20:27+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-28T15:20:08+00:00._
+_Generated 2026-10-28T15:31:59+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-28T15:31:33+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [Steelers Double Dipping at Trades?](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-28 14:30 UTC
@@ -11,6 +11,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Steelers Beat Saints in Paris, Browns Preview & NFL Halloween Villains | Not Just Football](https://podcasts.apple.com/us/podcast/steelers-beat-saints-in-paris-browns-preview-nfl-halloween/id1633134223?i=1000798501297): Not Just Football with Cam Heyward, 2026-10-28 10:00 UTC
 - Podcast: [DK's Daily Shot of Steelers: Appreciate Keeanu!](https://podcasts.apple.com/us/podcast/id1072021022): DK Pittsburgh Sports, 2026-10-28 07:52 UTC
 - Video: [Why Steelers Shouldn't Go for Big Trade Targets like Sauce Gardner, Brian Thomas Jr., Focus on Draft](https://www.youtube.com/watch?v=YsHJn67LH0k): Locked On Steelers, 2026-10-28 05:00 UTC
+- Podcast: [Why Steelers Shouldn't Go for Big Trade Targets like Sauce Gardner, Brian Thomas Jr., Focus on Draft](https://lockedonpodcasts.com/podcasts/locked-on-steelers/): Locked On Steelers, 2026-10-28 04:00 UTC
 - Video: [STEELERS SQUAD SHOW: Revenge & First Place! Can Pittsburgh Make the Browns Pay?](https://www.youtube.com/watch?v=AeeTumtJWJ0): Locked On Steelers, 2026-10-28 01:36 UTC
 - Video: [bonjour.mp4 📺: #CLEvsPIT 11/1 at 1 PM ET on CBS](https://www.youtube.com/shorts/C2UJf-xEWsE): Pittsburgh Steelers (official), 2026-10-27 23:34 UTC
 - Video: [Steelers' DB Grades](https://www.youtube.com/shorts/SDLSYCf8o2Q): Steelers Almighty, 2026-10-27 23:33 UTC
@@ -109,7 +110,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [The Steelers Shouldn't Be Playing in Paris | Steelers Morning Rush](https://www.youtube.com/watch?v=4r5GQlXNOCw): Steelers Now, 2026-10-23 16:37 UTC
 - Podcast: [The Steelers Shouldn't Be Playing in Paris | Steelers Morning Rush](https://podcasts.apple.com/us/podcast/the-steelers-shouldnt-be-playing-in-paris-steelers/id1700240934?i=1000797813600): Steelers Afternoon Drive, 2026-10-23 16:36 UTC
 - Podcast: [The Terrible Podcast — Steelers Vs Saints Game Preview, Joseph-Day To IR, Week 7 Picks, And More](https://podcasts.apple.com/us/podcast/the-terrible-podcast-steelers-vs-saints-game-preview/id405990739?i=1000797810229): The Terrible Podcast (Steelers Depot), 2026-10-23 16:13 UTC
-- Podcast: [Black & Gold Blueprint: Bucs Game Recap and New Orleans Saints Preview](https://podcasts.apple.com/us/podcast/black-gold-blueprint-bucs-game-recap-and-new-orleans/id905962218?i=1000797805954): Steel Curtain Network (BTSC), 2026-10-23 15:30 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

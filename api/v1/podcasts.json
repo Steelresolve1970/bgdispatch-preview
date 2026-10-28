@@ -2,8 +2,8 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-28T15:20:27+00:00",
- "data_updated": "2026-10-28T15:20:08+00:00",
+ "generated": "2026-10-28T15:31:59+00:00",
+ "data_updated": "2026-10-28T15:31:33+00:00",
  "count": 107,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
@@ -118,6 +118,19 @@
    "url": "https://www.youtube.com/watch?v=YsHJn67LH0k",
    "published": "2026-10-28T05:00:09+00:00",
    "summary": "Video from Locked On Steelers.",
+   "source": {
+    "name": "Locked On Steelers",
+    "url": null
+   }
+  },
+  {
+   "id": "50327394adeb9940",
+   "type": "podcast_episode",
+   "title": "Why Steelers Shouldn't Go for Big Trade Targets like Sauce Gardner, Brian Thomas Jr., Focus on Draft",
+   "show": "Locked On Steelers",
+   "url": "https://lockedonpodcasts.com/podcasts/locked-on-steelers/",
+   "published": "2026-10-28T04:00:00+00:00",
+   "summary": "Podcast episode from Locked On Steelers.",
    "source": {
     "name": "Locked On Steelers",
     "url": null
@@ -1394,19 +1407,6 @@
    "summary": "Podcast episode from The Terrible Podcast (Steelers Depot).",
    "source": {
     "name": "The Terrible Podcast (Steelers Depot)",
-    "url": null
-   }
-  },
-  {
-   "id": "5186f70156442c96",
-   "type": "podcast_episode",
-   "title": "Black & Gold Blueprint: Bucs Game Recap and New Orleans Saints Preview",
-   "show": "Steel Curtain Network (BTSC)",
-   "url": "https://podcasts.apple.com/us/podcast/black-gold-blueprint-bucs-game-recap-and-new-orleans/id905962218?i=1000797805954",
-   "published": "2026-10-23T15:30:00+00:00",
-   "summary": "Podcast episode from Steel Curtain Network (BTSC).",
-   "source": {
-    "name": "Steel Curtain Network (BTSC)",
     "url": null
    }
   }
