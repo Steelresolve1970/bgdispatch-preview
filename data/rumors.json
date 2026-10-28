@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T02:13:21.061427+00:00",
+ "generated": "2026-10-28T02:25:57.407334+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -88,16 +88,16 @@
    "first_seen": "2026-10-27T21:49:56.799839+00:00",
    "own": 1,
    "consensus": {
-    "cluster_id": "3f685cc6b189",
+    "cluster_id": "857f901e7f7b",
     "independent_sources": 2,
     "sources": [
-     "Bozeman Daily Chronicle",
-     "KRQE"
+     "KRQE",
+     "WTNH.com"
     ],
     "highest_tier": "Aggregator / other",
     "highest_tier_score": 1,
     "related_ids": [
-     "3f685cc6b189"
+     "857f901e7f7b"
     ]
    },
    "updated": "2026-10-27T21:49:56.799839+00:00"
@@ -173,10 +173,9 @@
    "own": 1,
    "consensus": {
     "cluster_id": "5a0773cc79d1",
-    "independent_sources": 6,
+    "independent_sources": 5,
     "sources": [
      "A to Z Sports",
-     "Heavy.com",
      "Steelers Depot",
      "Steelers Now",
      "Still Curtain",
@@ -188,7 +187,6 @@
      "307e2a040ea7",
      "702ace99a8e9",
      "c60d83ea0785",
-     "45c4bcc7cd1b",
      "9e37088de4c1",
      "3f3271514107",
      "7fd46e561838",
@@ -276,10 +274,9 @@
    "own": 1,
    "consensus": {
     "cluster_id": "5a0773cc79d1",
-    "independent_sources": 6,
+    "independent_sources": 5,
     "sources": [
      "A to Z Sports",
-     "Heavy.com",
      "Steelers Depot",
      "Steelers Now",
      "Still Curtain",
@@ -291,7 +288,6 @@
      "307e2a040ea7",
      "f70a13da10bb",
      "c60d83ea0785",
-     "45c4bcc7cd1b",
      "9e37088de4c1",
      "3f3271514107",
      "7fd46e561838",
@@ -376,10 +372,9 @@
    "own": 1,
    "consensus": {
     "cluster_id": "5a0773cc79d1",
-    "independent_sources": 6,
+    "independent_sources": 5,
     "sources": [
      "A to Z Sports",
-     "Heavy.com",
      "Steelers Depot",
      "Steelers Now",
      "Still Curtain",
@@ -391,7 +386,6 @@
      "307e2a040ea7",
      "f70a13da10bb",
      "702ace99a8e9",
-     "45c4bcc7cd1b",
      "9e37088de4c1",
      "3f3271514107",
      "7fd46e561838",
@@ -620,10 +614,9 @@
    "own": 1,
    "consensus": {
     "cluster_id": "5a0773cc79d1",
-    "independent_sources": 6,
+    "independent_sources": 5,
     "sources": [
      "A to Z Sports",
-     "Heavy.com",
      "Steelers Depot",
      "Steelers Now",
      "Still Curtain",
@@ -636,7 +629,6 @@
      "f70a13da10bb",
      "702ace99a8e9",
      "c60d83ea0785",
-     "45c4bcc7cd1b",
      "3f3271514107",
      "7fd46e561838",
      "5a0773cc79d1"
@@ -1046,10 +1038,9 @@
    "first_seen": "2026-10-23T11:09:06.018743+00:00",
    "consensus": {
     "cluster_id": "5a0773cc79d1",
-    "independent_sources": 6,
+    "independent_sources": 5,
     "sources": [
      "A to Z Sports",
-     "Heavy.com",
      "Steelers Depot",
      "Steelers Now",
      "Still Curtain",
@@ -1062,7 +1053,6 @@
      "f70a13da10bb",
      "702ace99a8e9",
      "c60d83ea0785",
-     "45c4bcc7cd1b",
      "9e37088de4c1",
      "3f3271514107",
      "5a0773cc79d1"
