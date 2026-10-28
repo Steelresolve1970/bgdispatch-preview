@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-28T09:57:10.479746+00:00",
+ "generated": "2026-10-28T10:10:35.415996+00:00",
  "date_et": "2026-10-28",
  "days": 5,
  "display_days": 2,
- "count": 102,
+ "count": 104,
  "shows": [
   {
    "show": "Locked On Steelers",
@@ -90,10 +90,10 @@
    "show": "Steel City Underground",
    "kind": "podcast",
    "url": "https://feeds.feedburner.com/steelcityunderground",
-   "status": "ok",
-   "episodes": 45,
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "episodes": 0,
    "week": 1,
-   "latest": "2026-10-26T13:18:35+00:00"
+   "latest": null
   },
   {
    "show": "Steel City Underground",
@@ -208,9 +208,9 @@
    "kind": "podcast",
    "url": "https://feeds.megaphone.fm/VMP7932485726",
    "status": "ok",
-   "episodes": 211,
-   "week": 0,
-   "latest": "2026-10-21T10:00:00+00:00"
+   "episodes": 212,
+   "week": 1,
+   "latest": "2026-10-28T10:00:00+00:00"
   },
   {
    "show": "Not Just Football with Cam Heyward",
@@ -218,8 +218,8 @@
    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8hodyaoiw297aspKf9QVDA",
    "status": "ok",
    "episodes": 15,
-   "week": 5,
-   "latest": "2026-10-27T22:37:48+00:00"
+   "week": 6,
+   "latest": "2026-10-28T10:00:22+00:00"
   },
   {
    "show": "Footbahlin with Ben Roethlisberger",
@@ -250,6 +250,22 @@
   }
  ],
  "items": [
+  {
+   "title": "Steelers Beat Saints in Paris, Browns Preview & NFL Halloween Villains | Not Just Football",
+   "show": "Not Just Football with Cam Heyward",
+   "kind": "video",
+   "link": "https://www.youtube.com/watch?v=N8EOsMrHLyA",
+   "published": "2026-10-28T10:00:22+00:00",
+   "summary": "Video from Not Just Football with Cam Heyward."
+  },
+  {
+   "title": "Steelers Beat Saints in Paris, Browns Preview & NFL Halloween Villains | Not Just Football",
+   "show": "Not Just Football with Cam Heyward",
+   "kind": "podcast",
+   "link": "https://www.youtube.com/@NotJustFootballwithCamHeyward",
+   "published": "2026-10-28T10:00:00+00:00",
+   "summary": "Podcast episode from Not Just Football with Cam Heyward."
+  },
   {
    "title": "Scout\u2019s Eye with Matt Williamson: Remember Belichick?",
    "show": "DK Pittsburgh Sports",

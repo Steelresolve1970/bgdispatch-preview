@@ -1,8 +1,10 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-28T09:57:40+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-28T09:57:10+00:00._
+_Generated 2026-10-28T10:10:55+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-28T10:10:35+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Video: [Steelers Beat Saints in Paris, Browns Preview & NFL Halloween Villains | Not Just Football](https://www.youtube.com/watch?v=N8EOsMrHLyA): Not Just Football with Cam Heyward, 2026-10-28 10:00 UTC
+- Podcast: [Steelers Beat Saints in Paris, Browns Preview & NFL Halloween Villains | Not Just Football](https://www.youtube.com/@NotJustFootballwithCamHeyward): Not Just Football with Cam Heyward, 2026-10-28 10:00 UTC
 - Podcast: [Scout’s Eye with Matt Williamson: Remember Belichick?](https://podcasts.apple.com/us/podcast/id1072021022): DK Pittsburgh Sports, 2026-10-28 07:49 UTC
 - Video: [Why Steelers Shouldn't Go for Big Trade Targets like Sauce Gardner, Brian Thomas Jr., Focus on Draft](https://www.youtube.com/watch?v=YsHJn67LH0k): Locked On Steelers, 2026-10-28 05:00 UTC
 - Video: [STEELERS SQUAD SHOW: Revenge & First Place! Can Pittsburgh Make the Browns Pay?](https://www.youtube.com/watch?v=AeeTumtJWJ0): Locked On Steelers, 2026-10-28 01:36 UTC
