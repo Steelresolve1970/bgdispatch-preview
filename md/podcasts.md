@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-28T15:31:59+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-28T15:31:33+00:00._
+_Generated 2026-10-28T15:43:04+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-28T15:42:45+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Podcast: [Steelers Double Dipping at Trades?](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-28 14:30 UTC

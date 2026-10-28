@@ -1,8 +1,9 @@
 # Steelers News
 
-_Generated 2026-10-28T15:31:59+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-28T15:31:11+00:00._
+_Generated 2026-10-28T15:43:04+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-28T15:42:32+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 
+- [Fan story: Steelers fans](https://www.audacy.com/937thefan/sports/pittsburgh-steelers/haley-tells-fan-move-that-would-have-changed-the-nfl): Audacy, 2026-10-28 15:40 UTC
 - [Trade talk: Brian Thomas Jr.](https://www.steelernation.com/2026/10/28/steelers-jaguars-brian-thomas-important): SteelerNation, 2026-10-28 15:25 UTC
 - [Steelers face division opponent](https://www.steelernation.com/2026/10/28/steelers-battle-afc-north-browns-best): SteelerNation, 2026-10-28 15:16 UTC
 - [Steelers starter mentioned in trade talks](https://heavy.com/sports/nfl/pittsburgh-steelers/patrick-queen-nfl-trade-deadline-rumors-news/): Heavy.com, 2026-10-28 15:06 UTC
@@ -23,7 +24,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers draft plans affected](https://stillcurtain.com/pittsburgh-steelers-qb-draft-plans-take-a-hit-after-dante-moore-s-decision-01m5yp17hzd2?utm_source=RSS): Still Curtain, 2026-10-28 14:00 UTC
 - [Steelers seek wide receiver](https://athlonsports.com/nfl/pittsburgh-steelers/need-a-wide-receiver-here-are-3-the-steelers-should-be-calling-about-before-trade-deadline): Athlon Sports, 2026-10-28 14:00 UTC
 - [Steelers consider trading for receiver](https://steelersdepot.com/2026/10/omar-should-be-on-the-phone-fittipaldo-urges-steelers-to-trade-for-colts-wr-josh-downs/): Steelers Depot, 2026-10-28 13:45 UTC
-- [Contract news: John Harbaugh](https://heavy.com/sports/nfl/pittsburgh-steelers/dean-lowry-nfl-news-john-harabaugh-giants/): Heavy.com, 2026-10-28 13:29 UTC
 - [Steelers explore receiver options](https://www.steelernation.com/2026/10/28/steelers-intriguing-trade-deadline-heat): SteelerNation, 2026-10-28 13:27 UTC
 - [Steelers may add receiver](https://heavy.com/sports/nfl/pittsburgh-steelers/predicted-acquire-brian-thomas-receiver/): Heavy.com, 2026-10-28 13:27 UTC
 - [Steelers game has limited tv coverage](https://steelersdepot.com/2026/10/steelers-browns-game-gets-extremely-limited-tv-coverage-nationwide/): Steelers Depot, 2026-10-28 13:27 UTC
@@ -42,7 +42,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Payton Wilson plays well](https://steelersdepot.com/2026/10/steelers-stock-watch-2026-ilb-payton-wilson-3/): Steelers Depot, 2026-10-28 11:00 UTC
 - [Steelers secure win over Saints](https://stillcurtain.com/3-biggest-pittsburgh-steelers-standouts-from-week-7-win-over-the-saints-01m5zq8378nf?utm_source=RSS): Still Curtain, 2026-10-28 11:00 UTC
 - [Reaction: Jaylen Warren](https://steelersdepot.com/2026/10/expect-to-see-more-and-more-of-jaylen-warren-for-steelers-fowler-says/): Steelers Depot, 2026-10-28 10:20 UTC
-- [Browns and Steelers face off](https://www.cantonrep.com/story/sports/pro/browns/2026/10/28/browns-steelers-3-biggest-questions/92459117007/): Canton Repository, 2026-10-28 10:11 UTC
 - [Steelers react to comments](https://triblive.com/sports/first-call-cam-heyward-responds-to-jared-verses-dirty-steelers-comments-figuring-troy-fautanus-mistakes-in-saints-game/): TribLive, 2026-10-28 10:05 UTC
 - [Steelers news and links available](https://steelersnow.com/daily-news-links-steelers-saints-ratings-kordell-stewart-documentary-premieres/): Steelers Now, 2026-10-28 10:00 UTC
 - [Steelers see improvement on offensive line](https://stillcurtain.com/pittsburgh-steelers-are-already-looking-like-clear-winners-of-the-broderick-jones-trade-01m5w5gemhx4?utm_source=RSS): Still Curtain, 2026-10-28 10:00 UTC
@@ -75,7 +74,9 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Former Steelers player released](https://steelersnow.com/ravens-release-ex-steelers-running-back/): Steelers Now, 2026-10-27 21:43 UTC
 - [Steelers defensive lineman finds new team](https://steelersnow.com/giants-sign-former-veteran-steelers-defensive-lineman/): Steelers Now, 2026-10-27 21:33 UTC
 - [Browns game preview: Cameron Heyward](https://steelersnow.com/cam-heyward-sends-blunt-message-to-the-browns/): Steelers Now, 2026-10-27 20:52 UTC
+- [Steelers have short yardage option](https://athlonsports.com/nfl/pittsburgh-steelers/jaylen-warren-short-yardage-offense-advantage-weapons-discussion): Athlon Sports, 2026-10-27 20:18 UTC
 - [Steelers consider trade options](https://stillcurtain.com/4-trade-targets-pittsburgh-steelers-pursue-indianapolis-colts-fire-sale-01m5z8gc1z2r?utm_source=RSS): Still Curtain, 2026-10-27 20:00 UTC
+- [Browns game preview: what to know](https://www.clevelandbrowns.com/news/browns-announce-unofficial-depth-chart-for-week-8-vs-the-steelers): Cleveland Browns, 2026-10-27 19:39 UTC
 - [Steelers mentioned in trade talks (Behind the Steel Curtain)](https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/177011/steelers-connected-to-chargers-wr-ladd-mcconkey-in-potential-trade): Behind the Steel Curtain, 2026-10-27 19:01 UTC
 - [Steelers quarterback struggles with chemistry](https://steelersnow.com/one-trick-pony-former-steelers-coach-calls-out-dk-metcalf/): Steelers Now, 2026-10-27 18:54 UTC
 - [Steelers may make trade](https://steelersnow.com/steelers-linked-to-two-wide-receivers-in-potential-trade/): Steelers Now, 2026-10-27 18:26 UTC
@@ -101,6 +102,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers consider trade options (Still Curtain)](https://stillcurtain.com/6-pure-rentals-the-pittsburgh-steelers-could-target-before-the-nfl-trade-deadline-01m52mj7sswn?utm_source=RSS): Still Curtain, 2026-10-27 12:00 UTC
 - [Steelers win with single touchdown](https://www.steelcityunderground.com/2026/10/27/watch-darnell-washington-scores-steelers-only-touchdown-in-paris/): Steel City Underground, 2026-10-27 11:50 UTC
 - [Coach comments on Steelers](https://triblive.com/sports/tim-benz-mike-mccarthy-says-what-most-of-us-have-been-thinking-about-the-steelers-run-through-october/): TribLive, 2026-10-27 11:50 UTC
+- [Update: Steelers (247Sports)](https://247sports.com/nfl/pittsburgh-steelers/article/steelers-saints-stratton-291874004/): 247Sports, 2026-10-27 10:51 UTC
 - [NFL Expands Globally](https://www.steelers.com/news/asked-and-answered-oct-27-x3709): Steelers.com (official), 2026-10-27 10:05 UTC
 - [Browns prepare for Steelers](https://triblive.com/sports/first-call-browns-coach-tries-to-fix-flaw-before-steelers-game-ex-steelers-db-signs-with-ravens/): TribLive, 2026-10-27 10:04 UTC
 - [Analysis: Steelers](https://stillcurtain.com/4-pittsburgh-steelers-trending-up-and-3-whose-stock-is-falling-fast-entering-week-8-01m5wpf8q3py?utm_source=RSS): Still Curtain, 2026-10-27 10:00 UTC
@@ -151,8 +153,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/news.json_
 - [Steelers dominate Saints (Still Curtain)](https://stillcurtain.com/7-winners-3-losers-pittsburgh-steelers-bully-ball-paris-win-new-orleans-saints-01m5spsvdhj5?utm_source=RSS): Still Curtain, 2026-10-25 16:51 UTC
 - [Steelers find success with tough style](https://www.pennlive.com/steelers/2026/10/the-steelers-brand-of-football-might-not-be-aesthetically-pleasing-but-it-works-heres-whyfarabaugh.html): PennLive (Nick Farabaugh), 2026-10-25 16:45 UTC
 - [Steelers show improvement](https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-saints-takeaways-getting-dangerous): All Steelers (Sports Illustrated), 2026-10-25 16:36 UTC
-- [Saints game review: how it was won](https://www.neworleanssaints.com/news/2026-nfl-week-7-pittsburgh-steelers-vs-new-orleans-saints-game-recap): New Orleans Saints, 2026-10-25 16:36 UTC
-- [Steelers win in Paris (TribLive)](https://triblive.com/sports/behind-jaylen-warrens-strong-performance-steelers-top-saints-in-paris-for-3rd-straight-win/): TribLive, 2026-10-25 16:35 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
