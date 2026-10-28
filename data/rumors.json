@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T16:50:23.916117+00:00",
+ "generated": "2026-10-28T17:01:35.244501+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -44,6 +44,33 @@
  },
  "rumors": [
   {
+   "id": "53eafbccde2f",
+   "title": "Trade rumor: Steelers",
+   "source": "A to Z Sports",
+   "link": "https://atozsports.com/nfl/pittsburgh-steelers-news/steelers-wr-rumors-josh-downs-requests-trade-ahead-of-deadline/",
+   "published": "2026-10-28T16:49:27+00:00",
+   "summary": "A to Z Sports passes along trade speculation involving the Steelers; treat it as unconfirmed until the team announces a move, touching on the Steelers' receivers. Read the full story at A to Z Sports.",
+   "tier": "Aggregator / other",
+   "tier_score": 1,
+   "subjects": [],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-28T17:01:35.244501+00:00",
+   "own": 1,
+   "consensus": {
+    "cluster_id": "53eafbccde2f",
+    "independent_sources": 1,
+    "sources": [
+     "A to Z Sports"
+    ],
+    "highest_tier": "Aggregator / other",
+    "highest_tier_score": 1,
+    "related_ids": []
+   },
+   "updated": "2026-10-28T17:01:35.244501+00:00"
+  },
+  {
    "id": "2d004f70b831",
    "title": "Trade rumor: Steelers-Chiefs",
    "source": "ClutchPoints",
@@ -72,7 +99,7 @@
   },
   {
    "id": "9db52d2fa2bb",
-   "title": "Trade rumor: Steelers",
+   "title": "Trade rumor: Steelers (Heavy.com)",
    "source": "Heavy.com",
    "link": "https://heavy.com/sports/nfl/pittsburgh-steelers/josh-downs-nfl-trade-report-colts-jordan-schultz/",
    "published": "2026-10-28T16:34:00+00:00",
@@ -86,14 +113,16 @@
    "first_seen": "2026-10-28T16:39:22.621013+00:00",
    "own": 1,
    "consensus": {
-    "cluster_id": "9db52d2fa2bb",
+    "cluster_id": "02a35f480b8b",
     "independent_sources": 1,
     "sources": [
      "Heavy.com"
     ],
     "highest_tier": "Aggregator / other",
     "highest_tier_score": 1,
-    "related_ids": []
+    "related_ids": [
+     "02a35f480b8b"
+    ]
    },
    "updated": "2026-10-28T16:39:22.621013+00:00"
   },
@@ -241,6 +270,7 @@
     "related_ids": [
      "448fbdd04e18",
      "71fdb51c1a9f",
+     "a016afbfb816",
      "19b17cd62ac2",
      "f85850ec176b",
      "fd9be22f39c9"
@@ -303,6 +333,7 @@
     "related_ids": [
      "b94116387f0b",
      "448fbdd04e18",
+     "a016afbfb816",
      "19b17cd62ac2",
      "f85850ec176b",
      "fd9be22f39c9"
@@ -327,9 +358,10 @@
    "own": 1,
    "consensus": {
     "cluster_id": "3f3271514107",
-    "independent_sources": 5,
+    "independent_sources": 6,
     "sources": [
      "A to Z Sports",
+     "AOL.com",
      "SteelerNation",
      "Steelers Depot",
      "Steelers Now",
@@ -339,6 +371,7 @@
     "highest_tier_score": 4,
     "related_ids": [
      "98672c12a699",
+     "6708ae0cd793",
      "307e2a040ea7",
      "f70a13da10bb",
      "702ace99a8e9",
@@ -457,9 +490,10 @@
    "own": 1,
    "consensus": {
     "cluster_id": "3f3271514107",
-    "independent_sources": 5,
+    "independent_sources": 6,
     "sources": [
      "A to Z Sports",
+     "AOL.com",
      "SteelerNation",
      "Steelers Depot",
      "Steelers Now",
@@ -469,6 +503,7 @@
     "highest_tier_score": 4,
     "related_ids": [
      "cd1cae73a802",
+     "6708ae0cd793",
      "307e2a040ea7",
      "f70a13da10bb",
      "702ace99a8e9",
@@ -636,9 +671,10 @@
    "own": 1,
    "consensus": {
     "cluster_id": "3f3271514107",
-    "independent_sources": 5,
+    "independent_sources": 6,
     "sources": [
      "A to Z Sports",
+     "AOL.com",
      "SteelerNation",
      "Steelers Depot",
      "Steelers Now",
@@ -649,6 +685,7 @@
     "related_ids": [
      "cd1cae73a802",
      "98672c12a699",
+     "6708ae0cd793",
      "307e2a040ea7",
      "702ace99a8e9",
      "c60d83ea0785",
@@ -739,9 +776,10 @@
    "own": 1,
    "consensus": {
     "cluster_id": "3f3271514107",
-    "independent_sources": 5,
+    "independent_sources": 6,
     "sources": [
      "A to Z Sports",
+     "AOL.com",
      "SteelerNation",
      "Steelers Depot",
      "Steelers Now",
@@ -752,6 +790,7 @@
     "related_ids": [
      "cd1cae73a802",
      "98672c12a699",
+     "6708ae0cd793",
      "307e2a040ea7",
      "f70a13da10bb",
      "c60d83ea0785",
@@ -792,6 +831,7 @@
      "b94116387f0b",
      "448fbdd04e18",
      "71fdb51c1a9f",
+     "a016afbfb816",
      "f85850ec176b",
      "fd9be22f39c9"
     ]
@@ -827,6 +867,7 @@
      "b94116387f0b",
      "448fbdd04e18",
      "71fdb51c1a9f",
+     "a016afbfb816",
      "19b17cd62ac2",
      "f85850ec176b"
     ]
@@ -850,9 +891,10 @@
    "own": 1,
    "consensus": {
     "cluster_id": "3f3271514107",
-    "independent_sources": 5,
+    "independent_sources": 6,
     "sources": [
      "A to Z Sports",
+     "AOL.com",
      "SteelerNation",
      "Steelers Depot",
      "Steelers Now",
@@ -863,6 +905,7 @@
     "related_ids": [
      "cd1cae73a802",
      "98672c12a699",
+     "6708ae0cd793",
      "307e2a040ea7",
      "f70a13da10bb",
      "702ace99a8e9",
@@ -1089,9 +1132,10 @@
    "own": 1,
    "consensus": {
     "cluster_id": "3f3271514107",
-    "independent_sources": 5,
+    "independent_sources": 6,
     "sources": [
      "A to Z Sports",
+     "AOL.com",
      "SteelerNation",
      "Steelers Depot",
      "Steelers Now",
@@ -1102,6 +1146,7 @@
     "related_ids": [
      "cd1cae73a802",
      "98672c12a699",
+     "6708ae0cd793",
      "307e2a040ea7",
      "f70a13da10bb",
      "702ace99a8e9",
@@ -1113,7 +1158,7 @@
   },
   {
    "id": "b3b86933a304",
-   "title": "Trade rumor: Steelers (SteelerNation) (SteelerNation)",
+   "title": "Trade rumor: Steelers (SteelerNation) (SteelerNation) (SteelerNation)",
    "source": "SteelerNation",
    "link": "https://www.steelernation.com/2026/10/24/steelers-trade-targets-no-one-talks-about",
    "published": "2026-10-24T21:08:43+00:00",
@@ -1190,7 +1235,9 @@
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "dfe6286b4e56"
+    ]
    },
    "updated": "2026-10-24T16:36:03.938312+00:00",
    "own": 1

@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-28T16:50:30+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-28T16:50:12+00:00._
+_Generated 2026-10-28T17:01:42+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-28T17:01:14+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Podcast: [The Terrible Podcast — Steelers Vs. Saints All-22 Review, Trade Speculation, Monday Presser Recaps, & More](https://podcasts.apple.com/us/podcast/id405990739): The Terrible Podcast (Steelers Depot), 2026-10-28 16:51 UTC
 - Video: [The Steelers NEED to Run the Ball in the Red Zone 🚨 #steelers #nfl](https://www.youtube.com/shorts/uyzq6ltA1vU): Locked On Steelers, 2026-10-28 16:26 UTC
 - Video: [Ranking Steelers WR TRADE options before the NFL Deadline #steelers #nfl #steelersnation](https://www.youtube.com/shorts/1nYn13ye9TE): Still Curtain Podcast, 2026-10-28 15:51 UTC
 - Podcast: [Hour 1: Breaking Down the Browns](https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-102826-mp3): Steelers Blitz, 2026-10-28 15:00 UTC
@@ -13,7 +14,8 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Steelers' ST Grades](https://www.youtube.com/shorts/CnoUqe9pN1U): Steelers Almighty, 2026-10-28 11:23 UTC
 - Video: [Steelers Beat Saints in Paris, Browns Preview & NFL Halloween Villains | Not Just Football](https://www.youtube.com/watch?v=N8EOsMrHLyA): Not Just Football with Cam Heyward, 2026-10-28 10:00 UTC
 - Podcast: [Steelers Beat Saints in Paris, Browns Preview & NFL Halloween Villains | Not Just Football](https://podcasts.apple.com/us/podcast/steelers-beat-saints-in-paris-browns-preview-nfl-halloween/id1633134223?i=1000798501297): Not Just Football with Cam Heyward, 2026-10-28 10:00 UTC
-- Podcast: [DK's Daily Shot of Steelers: Appreciate Keeanu!](https://podcasts.apple.com/us/podcast/id1072021022): DK Pittsburgh Sports, 2026-10-28 07:52 UTC
+- Podcast: [DK's Daily Shot of Steelers: Appreciate Keeanu!](https://podcasts.apple.com/us/podcast/dks-daily-shot-of-steelers-appreciate-keeanu/id1072021022?i=1000798510337): DK Pittsburgh Sports, 2026-10-28 07:52 UTC
+- Podcast: [Scout’s Eye with Matt Williamson: Remember Belichick?](https://podcasts.apple.com/us/podcast/scouts-eye-with-matt-williamson-remember-belichick/id1072021022?i=1000798496625): DK Pittsburgh Sports, 2026-10-28 07:49 UTC
 - Video: [Why Steelers Shouldn't Go for Big Trade Targets like Sauce Gardner, Brian Thomas Jr., Focus on Draft](https://www.youtube.com/watch?v=YsHJn67LH0k): Locked On Steelers, 2026-10-28 05:00 UTC
 - Podcast: [Why Steelers Shouldn't Go for Big Trade Targets like Sauce Gardner, Brian Thomas Jr., Focus on Draft](https://lockedonpodcasts.com/podcasts/locked-on-steelers/): Locked On Steelers, 2026-10-28 04:00 UTC
 - Video: [STEELERS SQUAD SHOW: Revenge & First Place! Can Pittsburgh Make the Browns Pay?](https://www.youtube.com/watch?v=AeeTumtJWJ0): Locked On Steelers, 2026-10-28 01:36 UTC

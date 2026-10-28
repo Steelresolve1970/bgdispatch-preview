@@ -1,6 +1,6 @@
 # Steelers Opponent Preview
 
-_Generated 2026-10-28T16:50:30+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-28T16:50:19+00:00._
+_Generated 2026-10-28T17:01:42+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-28T17:01:21+00:00._
 
 Week 8: Steelers vs **Cleveland Browns** (CLE 5-2), kickoff 2026-11-01 18:00 UTC, Acrisure Stadium.
 
@@ -17,7 +17,7 @@ Last 5: CLE W 21-18 vs CAR W 27-24 vs PIT L 17-12 @ NYJ W 13-10 vs BAL W 27-24 @
 3. **Mason Graham vs. the Steelers' offensive line**: Mason Graham is the Browns' top pass rusher; Pittsburgh's line has to keep him away from the quarterback. (Mason Graham: 4 sacks (16th in NFL), 5 QB hits; PIT allows 3.14 sacks/game (T-29th))
 
 ## Pundit picks
-Picks not posted yet; experts usually post Wednesday through Saturday.
+- Jeff Hartman (Steel Curtain Network): Steelers 34-17: https://www.steelcurtainnetwork.com/2026-steelers-preview-week-8-vs-the-cleveland-browns/
 
 ## Team stats (per game, NFL rank of 32)
 
