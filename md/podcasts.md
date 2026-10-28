@@ -1,8 +1,9 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-28T08:13:47+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-28T08:13:29+00:00._
+_Generated 2026-10-28T09:57:40+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-28T09:57:10+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
+- Podcast: [Scout’s Eye with Matt Williamson: Remember Belichick?](https://podcasts.apple.com/us/podcast/id1072021022): DK Pittsburgh Sports, 2026-10-28 07:49 UTC
 - Video: [Why Steelers Shouldn't Go for Big Trade Targets like Sauce Gardner, Brian Thomas Jr., Focus on Draft](https://www.youtube.com/watch?v=YsHJn67LH0k): Locked On Steelers, 2026-10-28 05:00 UTC
 - Video: [STEELERS SQUAD SHOW: Revenge & First Place! Can Pittsburgh Make the Browns Pay?](https://www.youtube.com/watch?v=AeeTumtJWJ0): Locked On Steelers, 2026-10-28 01:36 UTC
 - Video: [bonjour.mp4 📺: #CLEvsPIT 11/1 at 1 PM ET on CBS](https://www.youtube.com/shorts/C2UJf-xEWsE): Pittsburgh Steelers (official), 2026-10-27 23:34 UTC
@@ -12,7 +13,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Trade Deadline Fits? | Steelers Afternoon Drive](https://www.youtube.com/watch?v=7v-VKs5dkpM): Steelers Now, 2026-10-27 22:09 UTC
 - Podcast: [Two New WR Trade Options Emerge for Steelers](https://podcasts.apple.com/us/podcast/id1627248534): All Steelers Talk, 2026-10-27 21:21 UTC
 - Podcast: [The Terrible Take - Episode 2063 - October 27, 2026](https://podcasts.apple.com/us/podcast/id405990739): The Terrible Podcast (Steelers Depot), 2026-10-27 21:00 UTC
-- Podcast: [DK's Double Shot of Steelers: Back from Paris!](https://podcasts.apple.com/us/podcast/id1072021022): DK Pittsburgh Sports, 2026-10-27 21:00 UTC
+- Podcast: [DK's Double Shot of Steelers: Back from Paris!](https://podcasts.apple.com/us/podcast/dks-double-shot-of-steelers-back-from-paris/id1072021022?i=1000798454803): DK Pittsburgh Sports, 2026-10-27 21:00 UTC
 - Podcast: [Drive10.27.26Hr1: Victory Tuesday](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-27-26hr1-mp3): SNR Drive, 2026-10-27 20:00 UTC
 - Video: [A Parisian proposal 🥹💍](https://www.youtube.com/shorts/iGnEwb9iKeU): Pittsburgh Steelers (official), 2026-10-27 19:59 UTC
 - Podcast: [Drive10.27.26Hr2: Around the NFL Week Seven](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-27-26hr2-around-the-nfl-week-seven): SNR Drive, 2026-10-27 19:59 UTC
@@ -30,6 +31,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Steelers' OL Grades](https://www.youtube.com/watch?v=wT-8RVkWsB8): Steelers Almighty, 2026-10-27 11:30 UTC
 - Video: [Steelers Building Elite Offensive/Defensive Lines in New Foundation | Patrick Queen Underappreciated](https://www.youtube.com/watch?v=WCAocGAbAHE): Locked On Steelers, 2026-10-27 07:30 UTC
 - Podcast: [Steelers Building Elite Offensive/Defensive Lines in New Foundation | Patrick Queen Underappreciated](https://podcasts.apple.com/us/podcast/steelers-building-elite-offensive-defensive-lines-in/id1140522532?i=1000798313059): Locked On Steelers, 2026-10-27 07:30 UTC
+- Podcast: [DK's Daily Shot of Steelers: The real identity](https://podcasts.apple.com/us/podcast/dks-daily-shot-of-steelers-the-real-identity/id1072021022?i=1000798335535): DK Pittsburgh Sports, 2026-10-27 07:11 UTC
 - Podcast: [Scout’s Eye with Matt Williamson: A team effort](https://podcasts.apple.com/us/podcast/scouts-eye-with-matt-williamson-a-team-effort/id1072021022?i=1000798314677): DK Pittsburgh Sports, 2026-10-27 07:08 UTC
 - Video: [Steelers Imposed Their Will Over the Saints in Paris | Illegal Hands to the Face](https://www.youtube.com/watch?v=P1rY457W1b8): Still Curtain Podcast, 2026-10-27 07:00 UTC
 - Video: [Patrick Queen Isn’t Getting Enough RESPECT 😤 #patrickqueen #steelers #nfl](https://www.youtube.com/shorts/KSJ30IAUOVU): Locked On Steelers, 2026-10-27 01:03 UTC
