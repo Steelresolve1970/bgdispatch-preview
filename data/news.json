@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T10:09:53.930589+00:00",
+ "generated": "2026-10-28T10:29:52.729230+00:00",
  "count": 150,
  "sources": [
   {
@@ -29,7 +29,7 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "error: <urlopen error _ssl.c:1012: The handshake operation timed out>",
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
    "steelers_items": 0
   },
   {
@@ -66,7 +66,7 @@
    "source": "Google News",
    "url": "https://news.google.com/rss/search?q=%22Pittsburgh+Steelers%22&hl=en-US&gl=US&ceid=US:en",
    "status": "ok",
-   "steelers_items": 23
+   "steelers_items": 24
   },
   {
    "source": "PennLive (Nick Farabaugh)",
@@ -94,6 +94,24 @@
   }
  ],
  "items": [
+  {
+   "title": "Reaction: Jaylen Warren",
+   "source": "Steelers Depot",
+   "link": "https://steelersdepot.com/2026/10/expect-to-see-more-and-more-of-jaylen-warren-for-steelers-fowler-says/",
+   "published": "2026-10-28T10:20:57+00:00",
+   "summary": "Steelers Depot rounds up comments and reaction involving Jaylen Warren. Read the full story at Steelers Depot.",
+   "id": "59c0fe91ff"
+  },
+  {
+   "title": "Browns and Steelers face off",
+   "source": "Canton Repository",
+   "link": "https://www.cantonrep.com/story/sports/pro/browns/2026/10/28/browns-steelers-3-biggest-questions/92459117007/",
+   "published": "2026-10-28T10:11:58+00:00",
+   "via": "Google News",
+   "summary": "The Browns play the Steelers. The matchup is examined. Read the full story at Canton Repository.",
+   "id": "7ea4e7b531",
+   "writer": "ai"
+  },
   {
    "title": "Steelers news and links available",
    "source": "Steelers Now",
@@ -280,16 +298,6 @@
    "writer": "ai"
   },
   {
-   "title": "DeForest Buckner traded to 49ers",
-   "source": "WOWK 13 News",
-   "link": "https://www.wowktv.com/sports/ap-the-49ers-bring-back-deforest-buckner-in-trade-with-the-colts-ap-source-says/",
-   "published": "2026-10-27T22:48:51+00:00",
-   "via": "Google News",
-   "summary": "DeForest Buckner is traded to the 49ers. Read the full story at WOWK 13 News.",
-   "id": "14c9faeb33",
-   "writer": "ai"
-  },
-  {
    "title": "Steelers alumni share recipes",
    "source": "TribLive",
    "link": "https://triblive.com/sports/steelers/former-steelers-chris-hoke-mike-logan-share-healthy-recipes-at-upmc-magee-womens-hospital/",
@@ -405,6 +413,16 @@
    "published": "2026-10-27T21:30:59+00:00",
    "summary": "The Terrible Take is a short daily podcast. It features several hosts. Read the full story at Steelers Depot.",
    "id": "0a207103ad",
+   "writer": "ai"
+  },
+  {
+   "title": "DeForest Buckner traded to 49ers",
+   "source": "WTNH.com",
+   "link": "https://www.wtnh.com/sports/ap-the-49ers-bring-back-deforest-buckner-in-trade-with-the-colts-ap-source-says/",
+   "published": "2026-10-27T21:30:16+00:00",
+   "via": "Google News",
+   "summary": "DeForest Buckner is traded to the 49ers. Read the full story at WTNH.com.",
+   "id": "857f901e7f",
    "writer": "ai"
   },
   {
@@ -621,24 +639,6 @@
    "published": "2026-10-27T18:01:00+00:00",
    "summary": "TribLive has a new story on the Steelers. Read the full story at TribLive.",
    "id": "cfb09dfa68"
-  },
-  {
-   "title": "Reaction: the AFC North race",
-   "source": "Steelers Depot",
-   "link": "https://steelersdepot.com/2026/10/the-most-complete-steelers-are-best-team-in-afc-north-analyst-says/",
-   "published": "2026-10-27T18:00:23+00:00",
-   "summary": "Steelers Depot rounds up comments and reaction involving the Steelers, touching on the AFC North race. Read the full story at Steelers Depot.",
-   "id": "5966e8cda1"
-  },
-  {
-   "title": "Steelers Week 7 performance reviewed",
-   "source": "Athlon Sports",
-   "link": "https://athlonsports.com/nfl/pittsburgh-steelers/which-steelers-outperformed-underperformed-expectations-in-week-7",
-   "published": "2026-10-27T18:00:00+00:00",
-   "via": "Google News",
-   "summary": "Steelers players are evaluated for Week 7. Read the full story at Athlon Sports.",
-   "id": "47915ea9f9",
-   "writer": "ai"
   },
   {
    "title": "Steelers pass on guard Quenton Nelson",
