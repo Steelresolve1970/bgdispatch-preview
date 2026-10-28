@@ -1,6 +1,6 @@
 {
- "last_run": "2026-10-28T16:39:32.580240+00:00",
- "run_seconds": 40.1,
+ "last_run": "2026-10-28T16:50:33.376325+00:00",
+ "run_seconds": 46.1,
  "paused_seconds": 0,
  "results": [
   {
@@ -12,7 +12,7 @@
   {
    "fetcher": "fetch_news.py",
    "ok": true,
-   "seconds": 3.0,
+   "seconds": 12.5,
    "last_line": "news: 150 ticker: 30"
   },
   {
@@ -30,7 +30,7 @@
   {
    "fetcher": "build_boxscores.py",
    "ok": true,
-   "seconds": 4.0,
+   "seconds": 3.0,
    "last_line": "boxscores 7"
   },
   {
@@ -42,19 +42,19 @@
   {
    "fetcher": "fetch_film.py",
    "ok": true,
-   "seconds": 4.5,
+   "seconds": 4.0,
    "last_line": "  Week 1 vs Falcons (W 20-13): 2   {'Steelers Depot Film Room (Alex Kozora)': 1, \"Derrick Bell \u2013 DB's Film Room (Steelers Now)\": 1}"
   },
   {
    "fetcher": "fetch_podcasts.py",
    "ok": true,
-   "seconds": 3.0,
-   "last_line": "episodes past 5 days: 110 | embed-fallback channels: 0 | post-game: 0"
+   "seconds": 2.5,
+   "last_line": "episodes past 5 days: 105 | embed-fallback channels: 0 | post-game: 0"
   },
   {
    "fetcher": "fetch_featured.py",
    "ok": true,
-   "seconds": 1.5,
+   "seconds": 1.0,
    "last_line": "highlights New Orleans Saints Pittsburgh Steelers vs. New Orleans Saints Game Highlights | 2026 NFL Season Week 7"
   },
   {
@@ -115,7 +115,7 @@
    "fetcher": "fetch_hub.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "injuries 14 practice 3 opp CLE"
+   "last_line": "hub fresh (<30 min); skipped"
   },
   {
    "fetcher": "fetch_matchup.py",
@@ -126,7 +126,7 @@
   {
    "fetcher": "fetch_depth.py",
    "ok": true,
-   "seconds": 3.0,
+   "seconds": 2.5,
    "last_line": "depth units [('Offense', '3WR 1TE', 12), ('Defense', 'Base 3-4 D', 12), ('Special teams', 'Special Teams', 6)]"
   },
   {
@@ -145,7 +145,7 @@
    "fetcher": "fetch_rumors.py",
    "ok": true,
    "seconds": 3.0,
-   "last_line": "rumors 39 {'Rumor': 39, 'Confirmed': 0, 'Denied': 0}"
+   "last_line": "rumors 40 {'Rumor': 40, 'Confirmed': 0, 'Denied': 0}"
   },
   {
    "fetcher": "fetch_pickem.py",
@@ -175,7 +175,7 @@
    "fetcher": "fetch_quotes.py",
    "ok": true,
    "seconds": 1.0,
-   "last_line": "quotes: 7 kept from 133 articles"
+   "last_line": "quotes: 7 kept from 131 articles"
   },
   {
    "fetcher": "paywall_guard.py",
@@ -187,13 +187,13 @@
    "fetcher": "build_machine.py",
    "ok": true,
    "seconds": 0.5,
-   "last_line": "machine layer: {'news': 150, 'rumors': 39, 'injuries': 14, 'depth-chart': 28, 'schedule': 17, 'stats': 63, 'grades': 42, 'college': 20, 'insiders': 30, 'podcasts': 107, 'film': 6, 'draft': 521} md 13 feeds 5 jsonld 14"
+   "last_line": "machine layer: {'news': 150, 'rumors': 40, 'injuries': 14, 'depth-chart': 28, 'schedule': 17, 'stats': 63, 'grades': 42, 'college': 20, 'insiders': 30, 'podcasts': 103, 'film': 6, 'draft': 521} md 13 feeds 5 jsonld 14"
   },
   {
    "fetcher": "admin_stats.py",
    "ok": true,
-   "seconds": 3.0,
-   "last_line": "admin stats stored: today views 11 visits 11"
+   "seconds": 2.5,
+   "last_line": "admin stats stored: today views 12 visits 12"
   }
  ]
 }

@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-28T16:39:29+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-28T16:39:10+00:00._
+_Generated 2026-10-28T16:50:30+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-28T16:50:12+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [The Steelers NEED to Run the Ball in the Red Zone 🚨 #steelers #nfl](https://www.youtube.com/shorts/uyzq6ltA1vU): Locked On Steelers, 2026-10-28 16:26 UTC
@@ -12,7 +12,7 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [By order of the Peaky Blinders](https://www.youtube.com/shorts/i9u0YrLENg4): Pittsburgh Steelers (official), 2026-10-28 13:36 UTC
 - Video: [Steelers' ST Grades](https://www.youtube.com/shorts/CnoUqe9pN1U): Steelers Almighty, 2026-10-28 11:23 UTC
 - Video: [Steelers Beat Saints in Paris, Browns Preview & NFL Halloween Villains | Not Just Football](https://www.youtube.com/watch?v=N8EOsMrHLyA): Not Just Football with Cam Heyward, 2026-10-28 10:00 UTC
-- Podcast: [Steelers Beat Saints in Paris, Browns Preview & NFL Halloween Villains | Not Just Football](https://www.youtube.com/@NotJustFootballwithCamHeyward): Not Just Football with Cam Heyward, 2026-10-28 10:00 UTC
+- Podcast: [Steelers Beat Saints in Paris, Browns Preview & NFL Halloween Villains | Not Just Football](https://podcasts.apple.com/us/podcast/steelers-beat-saints-in-paris-browns-preview-nfl-halloween/id1633134223?i=1000798501297): Not Just Football with Cam Heyward, 2026-10-28 10:00 UTC
 - Podcast: [DK's Daily Shot of Steelers: Appreciate Keeanu!](https://podcasts.apple.com/us/podcast/id1072021022): DK Pittsburgh Sports, 2026-10-28 07:52 UTC
 - Video: [Why Steelers Shouldn't Go for Big Trade Targets like Sauce Gardner, Brian Thomas Jr., Focus on Draft](https://www.youtube.com/watch?v=YsHJn67LH0k): Locked On Steelers, 2026-10-28 05:00 UTC
 - Podcast: [Why Steelers Shouldn't Go for Big Trade Targets like Sauce Gardner, Brian Thomas Jr., Focus on Draft](https://lockedonpodcasts.com/podcasts/locked-on-steelers/): Locked On Steelers, 2026-10-28 04:00 UTC
@@ -24,7 +24,8 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [Trade Deadline Fits? | Steelers Afternoon Drive](https://www.youtube.com/watch?v=7v-VKs5dkpM): Steelers Now, 2026-10-27 22:09 UTC
 - Podcast: [Trade Deadline Fits? | Steelers Afternoon Drive](https://podcasts.apple.com/us/podcast/trade-deadline-fits-steelers-afternoon-drive/id1700240934?i=1000798430366): Steelers Afternoon Drive, 2026-10-27 22:07 UTC
 - Podcast: [Two New WR Trade Options Emerge for Steelers](https://podcasts.apple.com/us/podcast/two-new-wr-trade-options-emerge-for-steelers/id1627248534?i=1000798426827): All Steelers Talk, 2026-10-27 21:21 UTC
-- Podcast: [The Terrible Take - Episode 2063 - October 27, 2026](https://podcasts.apple.com/us/podcast/id405990739): The Terrible Podcast (Steelers Depot), 2026-10-27 21:00 UTC
+- Podcast: [The Terrible Take - Episode 2063 - October 27, 2026](https://podcasts.apple.com/us/podcast/the-terrible-take-episode-2063-october-27-2026/id405990739?i=1000798422775): The Terrible Podcast (Steelers Depot), 2026-10-27 21:00 UTC
+- Podcast: [DK's Double Shot of Steelers: Back from Paris!](https://podcasts.apple.com/us/podcast/dks-double-shot-of-steelers-back-from-paris/id1072021022?i=1000798454803): DK Pittsburgh Sports, 2026-10-27 21:00 UTC
 - Podcast: [Drive10.27.26Hr1: Victory Tuesday](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-27-26hr1-mp3): SNR Drive, 2026-10-27 20:00 UTC
 - Video: [A Parisian proposal 🥹💍](https://www.youtube.com/shorts/iGnEwb9iKeU): Pittsburgh Steelers (official), 2026-10-27 19:59 UTC
 - Podcast: [Drive10.27.26Hr2: Around the NFL Week Seven](https://omny.fm/shows/snr-drive-with-matt-dale-pittsburgh-steelers/drive10-27-26hr2-around-the-nfl-week-seven): SNR Drive, 2026-10-27 19:59 UTC
@@ -105,11 +106,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Video: [The Steelers Play That Changed Elandon Roberts' Career](https://www.youtube.com/watch?v=trO9lggiV-E): Not Just Football with Cam Heyward, 2026-10-23 18:00 UTC
 - Podcast: [Did Steelers Make Travel Mistake? Grand Finale with Jack Hillgrove | THE PITTSBURGH FOOTBALL SHOW](https://podcasts.apple.com/us/podcast/did-steelers-make-travel-mistake-grand-finale-with/id1700240934?i=1000797823156): Steelers Afternoon Drive, 2026-10-23 17:34 UTC
 - Video: [Did Steelers Make Travel Mistake? Grand Finale with Jack Hillgrove | THE PITTSBURGH FOOTBALL SHOW](https://www.youtube.com/watch?v=9EUA5__ujcU): Steelers Now, 2026-10-23 17:23 UTC
-- Video: [Smitty's Six Pack of Steelers-Saints Topics | THE PITTSBURGH FOOTBALL SHOW](https://www.youtube.com/watch?v=n8h905SxKl0): Steelers Now, 2026-10-23 16:49 UTC
-- Podcast: [Smitty's Six Pack of Steelers-Saints Topics | THE PITTSBURGH FOOTBALL SHOW](https://podcasts.apple.com/us/podcast/smittys-six-pack-of-steelers-saints-topics/id1700240934?i=1000797816492): Steelers Afternoon Drive, 2026-10-23 16:49 UTC
-- Podcast: [Boots on the Ground in Paris with Nick Farabaugh | THE PITTSBURGH FOOTBALL SHOW](https://podcasts.apple.com/us/podcast/boots-on-the-ground-in-paris-with-nick/id1700240934?i=1000797816579): Steelers Afternoon Drive, 2026-10-23 16:46 UTC
-- Video: [Boots on the Ground in Paris with Nick Farabaugh | THE PITTSBURGH FOOTBALL SHOW](https://www.youtube.com/watch?v=hhdtzzAYxKk): Steelers Now, 2026-10-23 16:43 UTC
-- Podcast: [THE PITTSBURGH FOOTBALL SHOW, Episode 7, Oct. 23, 2026](https://podcasts.apple.com/us/podcast/the-pittsburgh-football-show-episode-7-oct-23-2026/id1700240934?i=1000797816553): Steelers Afternoon Drive, 2026-10-23 16:43 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.

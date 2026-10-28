@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T16:38:56.268517+00:00",
+ "generated": "2026-10-28T16:50:00.403734+00:00",
  "count": 150,
  "sources": [
   {
@@ -29,8 +29,8 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "ok",
-   "steelers_items": 24
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "steelers_items": 0
   },
   {
    "source": "Still Curtain",
@@ -94,6 +94,15 @@
   }
  ],
  "items": [
+  {
+   "title": "Steelers plan against defenses",
+   "source": "SteelerNation",
+   "link": "https://www.steelernation.com/2026/10/28/steelers-brian-angelichio-trap-dk-metcalf",
+   "published": "2026-10-28T16:39:32+00:00",
+   "summary": "The Steelers have a plan to counter defenses. Read the full story at SteelerNation.",
+   "id": "1c0bd10cb8",
+   "writer": "ai"
+  },
   {
    "title": "Steelers Prepare For Deadline",
    "source": "SteelerNation",
@@ -413,15 +422,6 @@
    "writer": "ai"
   },
   {
-   "title": "Steelers winning at line of scrimmage",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/28/steelers-finding-their-identity-in-the-trenches-ahead-of-browns-rematch/",
-   "published": "2026-10-28T12:05:29+00:00",
-   "summary": "Pittsburgh is winning battles along the line. The team has won three consecutive games. Read the full story at Steel City Underground.",
-   "id": "2f6d06cc7e",
-   "writer": "ai"
-  },
-  {
    "title": "Steelers Seek Wide Receiver",
    "source": "Steelers Depot",
    "link": "https://steelersdepot.com/2026/10/steelers-beat-writers-agree-omars-gonna-be-aggressive-in-trade-efforts-for-wide-receiver-everything-in-his-power/",
@@ -629,15 +629,6 @@
    "published": "2026-10-27T23:16:48+00:00",
    "summary": "A Steelers player has shown improvement. Read the full story at SteelerNation.",
    "id": "87f26676fa",
-   "writer": "ai"
-  },
-  {
-   "title": "Steelers face criticism",
-   "source": "SteelerNation",
-   "link": "https://www.steelernation.com/2026/10/27/steelers-crucified-mistake-george-pickens",
-   "published": "2026-10-27T22:58:44+00:00",
-   "summary": "The Steelers are criticized for a mistake. Read the full story at SteelerNation.",
-   "id": "e8cf1a8c72",
    "writer": "ai"
   },
   {
@@ -925,14 +916,6 @@
    "id": "fb6b7a3f9a"
   },
   {
-   "title": "Closer look: the international game",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/27/steelers-surprises-unexpected-performances-and-missed-opportunities-in-paris/",
-   "published": "2026-10-27T13:11:45+00:00",
-   "summary": "Steel City Underground takes a closer look at the international game. Read the full story at Steel City Underground.",
-   "id": "cfface2910"
-  },
-  {
    "title": "Trade talk: Joey Porter Jr.",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/dallas-cowboys-joey-porter-jr-made-pittsburgh-steelers-feel-more-trade-pain-01m5ymsbjwgs?utm_source=RSS",
@@ -957,15 +940,6 @@
    "published": "2026-10-27T12:00:04+00:00",
    "summary": "The Steelers may target rentals before deadline. They hold a winning record. Read the full story at Still Curtain.",
    "id": "a061c336e9",
-   "writer": "ai"
-  },
-  {
-   "title": "Steelers win with single touchdown",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/27/watch-darnell-washington-scores-steelers-only-touchdown-in-paris/",
-   "published": "2026-10-27T11:50:40+00:00",
-   "summary": "The Steelers secured a win with one touchdown. Darnell Washington scored it. Read the full story at Steel City Underground.",
-   "id": "f58487bddc",
    "writer": "ai"
   },
   {
@@ -1203,14 +1177,6 @@
    "id": "77f6ad8a35"
   },
   {
-   "title": "Game review: takeaways",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/26/steelers-takeaways-defense-and-running-game-deliver-another-victory-in-paris/",
-   "published": "2026-10-26T13:35:33+00:00",
-   "summary": "Steel City Underground looks back at the game, with a focus on the Steelers, touching on the Steelers' run game and the Steelers' defense. Read the full story at Steel City Underground.",
-   "id": "da451f7798"
-  },
-  {
    "title": "Mike McCarthy handles Steelers trip",
    "source": "TribLive",
    "link": "https://triblive.com/sports/cup-of-joe-starkey-mike-mccarthy-managed-the-steelers-paris-trip-and-game-quite-nicely/",
@@ -1244,15 +1210,6 @@
    "published": "2026-10-26T11:52:03+00:00",
    "summary": "Aaron Rodgers discusses NFL international games. He shares his thoughts on management. Read the full story at PennLive (Nick Farabaugh).",
    "id": "8127a79837",
-   "writer": "ai"
-  },
-  {
-   "title": "Steelers defense makes key play",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/26/payton-wilsons-interception-stops-saints-second-half-scoring-threat/",
-   "published": "2026-10-26T11:46:13+00:00",
-   "summary": "The Steelers defense stopped a Saints scoring threat. The defense helped the team win. Read the full story at Steel City Underground.",
-   "id": "1edb3d9827",
    "writer": "ai"
   },
   {
@@ -1449,6 +1406,52 @@
    "summary": "The Steelers are getting better. They played the Saints. Read the full story at All Steelers (Sports Illustrated).",
    "via": "Google News",
    "id": "0562f325ff",
+   "writer": "ai"
+  },
+  {
+   "title": "Saints game review: how it was won",
+   "source": "New Orleans Saints",
+   "link": "https://www.neworleanssaints.com/news/2026-nfl-week-7-pittsburgh-steelers-vs-new-orleans-saints-game-recap",
+   "published": "2026-10-25T16:36:17+00:00",
+   "via": "Google News",
+   "summary": "New Orleans Saints looks back at the game, with a focus on the Steelers and the Saints. For context, the Steelers beat the Saints in Week 7. Read the full story at New Orleans Saints.",
+   "id": "e47ef4387b"
+  },
+  {
+   "title": "Steelers win in Paris (TribLive)",
+   "source": "TribLive",
+   "link": "https://triblive.com/sports/behind-jaylen-warrens-strong-performance-steelers-top-saints-in-paris-for-3rd-straight-win/",
+   "published": "2026-10-25T16:35:37+00:00",
+   "summary": "The Steelers won a game in Paris. They played the Saints. Read the full story at TribLive.",
+   "id": "1b14026d4c",
+   "writer": "ai"
+  },
+  {
+   "title": "Steelers win in Paris (Steelers.com (official))",
+   "source": "Steelers.com (official)",
+   "link": "https://www.steelers.com/news/steelers-beat-saints-16-10-in-paris",
+   "published": "2026-10-25T16:35:00+00:00",
+   "summary": "Steelers defeat Saints with strong rush defense and running game. Read the full story at Steelers.com (official).",
+   "id": "c9ff3f313e",
+   "writer": "ai"
+  },
+  {
+   "title": "Referee questions call on strip sack",
+   "source": "PennLive (Nick Farabaugh)",
+   "link": "https://www.pennlive.com/steelers/2026/10/former-nfl-referee-surprised-officials-overturned-huge-near-tj-watt-strip-sack.html",
+   "published": "2026-10-25T15:50:04+00:00",
+   "summary": "An analyst reviews a call on a strip sack. The call was overturned. Read the full story at PennLive (Nick Farabaugh).",
+   "id": "af5a619214",
+   "writer": "ai"
+  },
+  {
+   "title": "Steelers player makes touchdown catch",
+   "source": "NFL.com",
+   "link": "https://www.nfl.com/videos/can-t-miss-play-darnell-washington-mosses-saints-defender-on-rodgers-4-yard-td-pass-in-paris",
+   "published": "2026-10-25T14:52:43+00:00",
+   "via": "Google News",
+   "summary": "A player scores a touchdown in a game. Read the full story at NFL.com.",
+   "id": "1e4bd4523b",
    "writer": "ai"
   }
  ],
