@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-28T07:32:00.696674+00:00",
- "count": 2,
+ "generated": "2026-10-28T08:13:17.431725+00:00",
+ "count": 0,
  "insiders": [
   {
    "name": "Ian Rapoport",
@@ -8,7 +8,7 @@
    "posts": 0,
    "last_3_days": 0,
    "errors": [
-    "bluesky_posts: The read operation timed out"
+    "bluesky_posts: HTTP Error 404: Not Found"
    ]
   },
   {
@@ -17,7 +17,7 @@
    "posts": 0,
    "last_3_days": 0,
    "errors": [
-    "bluesky_posts: The read operation timed out"
+    "bluesky_posts: HTTP Error 500: Internal Server Error"
    ]
   },
   {
@@ -26,7 +26,7 @@
    "posts": 0,
    "last_3_days": 0,
    "errors": [
-    "bluesky_posts: The read operation timed out"
+    "bluesky_posts: HTTP Error 404: Not Found"
    ]
   },
   {
@@ -35,17 +35,15 @@
    "posts": 0,
    "last_3_days": 0,
    "errors": [
-    "bluesky_posts: The read operation timed out"
+    "bluesky_posts: HTTP Error 500: Internal Server Error"
    ]
   },
   {
    "name": "Dov Kleiman",
    "handle": "dovkleiman.bsky.social",
-   "posts": 0,
+   "posts": 1,
    "last_3_days": 0,
-   "errors": [
-    "bluesky_posts: The read operation timed out"
-   ]
+   "errors": []
   },
   {
    "name": "Jim Trotter",
@@ -60,7 +58,7 @@
    "posts": 0,
    "last_3_days": 0,
    "errors": [
-    "bluesky_posts: The read operation timed out"
+    "bluesky_posts: HTTP Error 500: Internal Server Error"
    ]
   },
   {
@@ -69,7 +67,7 @@
    "posts": 0,
    "last_3_days": 0,
    "errors": [
-    "bluesky_posts: The read operation timed out"
+    "bluesky_posts: HTTP Error 500: Internal Server Error"
    ]
   },
   {
@@ -78,150 +76,46 @@
    "posts": 0,
    "last_3_days": 0,
    "errors": [
-    "bluesky_posts: The read operation timed out"
+    "bluesky_posts: HTTP Error 404: Not Found"
    ]
   },
   {
    "name": "Alan Saunders (Steelers Now)",
    "handle": "asaunderspgh.bsky.social",
-   "posts": 29,
+   "posts": 0,
    "last_3_days": 0,
-   "errors": []
+   "errors": [
+    "bluesky_posts: HTTP Error 500: Internal Server Error"
+   ]
   },
   {
    "name": "Nick Farabaugh (PennLive)",
    "handle": "nickfarabaugh.bsky.social",
-   "posts": 26,
+   "posts": 0,
    "last_3_days": 0,
-   "errors": []
+   "errors": [
+    "bluesky_posts: HTTP Error 404: Not Found"
+   ]
   },
   {
    "name": "Alex Kozora (Steelers Depot)",
    "handle": "alexkozora.bsky.social",
-   "posts": 13,
+   "posts": 0,
    "last_3_days": 0,
-   "errors": []
+   "errors": [
+    "bluesky_posts: HTTP Error 500: Internal Server Error"
+   ]
   },
   {
    "name": "Christopher Carter (Locked On)",
    "handle": "cartercritiques.bsky.social",
-   "posts": 30,
-   "last_3_days": 7,
-   "errors": []
+   "posts": 0,
+   "last_3_days": 0,
+   "errors": [
+    "bluesky_posts: HTTP Error 404: Not Found"
+   ]
   }
  ],
- "items": [
-  {
-   "name": "Christopher Carter (Locked On)",
-   "handle": "@cartercritiques.bsky.social",
-   "platform": "Bluesky",
-   "topics": [
-    "the Steelers"
-   ],
-   "steelers": true,
-   "about": "@cartercritiques.bsky.social posted about the Steelers.",
-   "link": "https://bsky.app/profile/cartercritiques.bsky.social/post/3myupyfcw6c2g",
-   "published": "2026-10-27T17:07:00+00:00"
-  },
-  {
-   "name": "Christopher Carter (Locked On)",
-   "handle": "@cartercritiques.bsky.social",
-   "platform": "Bluesky",
-   "topics": [
-    "the Steelers"
-   ],
-   "steelers": true,
-   "about": "@cartercritiques.bsky.social posted about the Steelers.",
-   "link": "https://bsky.app/profile/cartercritiques.bsky.social/post/3myuh6bzthd2n",
-   "published": "2026-10-27T14:30:00+00:00"
-  }
- ],
- "all": [
-  {
-   "name": "Christopher Carter (Locked On)",
-   "handle": "@cartercritiques.bsky.social",
-   "platform": "Bluesky",
-   "topics": [
-    "the Steelers"
-   ],
-   "steelers": true,
-   "about": "@cartercritiques.bsky.social posted about the Steelers.",
-   "link": "https://bsky.app/profile/cartercritiques.bsky.social/post/3myupyfcw6c2g",
-   "published": "2026-10-27T17:07:00+00:00"
-  },
-  {
-   "name": "Christopher Carter (Locked On)",
-   "handle": "@cartercritiques.bsky.social",
-   "platform": "Bluesky",
-   "topics": [
-    "the Steelers"
-   ],
-   "steelers": true,
-   "about": "@cartercritiques.bsky.social posted about the Steelers.",
-   "link": "https://bsky.app/profile/cartercritiques.bsky.social/post/3myuh6bzthd2n",
-   "published": "2026-10-27T14:30:00+00:00"
-  },
-  {
-   "name": "Christopher Carter (Locked On)",
-   "handle": "@cartercritiques.bsky.social",
-   "platform": "Bluesky",
-   "topics": [
-    "the Steelers"
-   ],
-   "steelers": true,
-   "about": "@cartercritiques.bsky.social posted about the Steelers.",
-   "link": "https://bsky.app/profile/cartercritiques.bsky.social/post/3myu6suhma22e",
-   "published": "2026-10-27T12:00:00+00:00"
-  },
-  {
-   "name": "Christopher Carter (Locked On)",
-   "handle": "@cartercritiques.bsky.social",
-   "platform": "Bluesky",
-   "topics": [
-    "the game"
-   ],
-   "steelers": false,
-   "about": "@cartercritiques.bsky.social posted about the game.",
-   "link": "https://bsky.app/profile/cartercritiques.bsky.social/post/3myrwz2enn72n",
-   "published": "2026-10-26T14:35:00+00:00"
-  },
-  {
-   "name": "Christopher Carter (Locked On)",
-   "handle": "@cartercritiques.bsky.social",
-   "platform": "Bluesky",
-   "topics": [
-    "the Steelers"
-   ],
-   "steelers": true,
-   "about": "@cartercritiques.bsky.social posted about the Steelers.",
-   "link": "https://bsky.app/profile/cartercritiques.bsky.social/post/3myrodfemdi2o",
-   "published": "2026-10-26T12:00:00+00:00"
-  },
-  {
-   "name": "Christopher Carter (Locked On)",
-   "handle": "@cartercritiques.bsky.social",
-   "platform": "Bluesky",
-   "topics": [
-    "the Steelers",
-    "the game"
-   ],
-   "steelers": true,
-   "about": "@cartercritiques.bsky.social posted about the Steelers, the game.",
-   "link": "https://bsky.app/profile/cartercritiques.bsky.social/post/3mypcuvi2iz2q",
-   "published": "2026-10-25T13:29:00+00:00"
-  },
-  {
-   "name": "Christopher Carter (Locked On)",
-   "handle": "@cartercritiques.bsky.social",
-   "platform": "Bluesky",
-   "topics": [
-    "the Steelers",
-    "the game"
-   ],
-   "steelers": true,
-   "about": "@cartercritiques.bsky.social posted about the Steelers, the game.",
-   "link": "https://bsky.app/profile/cartercritiques.bsky.social/post/3mypajj3z5x2k",
-   "published": "2026-10-25T12:47:00+00:00"
-  }
- ]
+ "items": [],
+ "all": []
 }

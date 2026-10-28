@@ -2,8 +2,8 @@
  "api_version": "1",
  "dataset": "rumors",
  "description": "Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).",
- "generated": "2026-10-28T08:00:39+00:00",
- "data_updated": "2026-10-28T08:00:32+00:00",
+ "generated": "2026-10-28T08:13:47+00:00",
+ "data_updated": "2026-10-28T08:13:40+00:00",
  "count": 25,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
@@ -101,17 +101,14 @@
     "DeForest Buckner"
    ],
    "consensus": {
-    "cluster_id": "857f901e7f7b",
-    "independent_sources": 2,
+    "cluster_id": "75649bd9f46f",
+    "independent_sources": 1,
     "sources": [
-     "KRQE",
-     "WTNH.com"
+     "KRQE"
     ],
     "highest_tier": "Aggregator / other",
     "highest_tier_score": 1,
-    "related_ids": [
-     "857f901e7f7b"
-    ]
+    "related_ids": []
    }
   },
   {
@@ -163,9 +160,10 @@
    "people": [],
    "consensus": {
     "cluster_id": "3f3271514107",
-    "independent_sources": 4,
+    "independent_sources": 5,
     "sources": [
      "A to Z Sports",
+     "Heavy.com",
      "Steelers Depot",
      "Steelers Now",
      "Yahoo Sports"
@@ -176,6 +174,7 @@
      "307e2a040ea7",
      "702ace99a8e9",
      "c60d83ea0785",
+     "45c4bcc7cd1b",
      "9e37088de4c1",
      "3f3271514107"
     ]
@@ -264,9 +263,10 @@
    "people": [],
    "consensus": {
     "cluster_id": "3f3271514107",
-    "independent_sources": 4,
+    "independent_sources": 5,
     "sources": [
      "A to Z Sports",
+     "Heavy.com",
      "Steelers Depot",
      "Steelers Now",
      "Yahoo Sports"
@@ -277,6 +277,7 @@
      "307e2a040ea7",
      "f70a13da10bb",
      "c60d83ea0785",
+     "45c4bcc7cd1b",
      "9e37088de4c1",
      "3f3271514107"
     ]
@@ -365,9 +366,10 @@
    "people": [],
    "consensus": {
     "cluster_id": "3f3271514107",
-    "independent_sources": 4,
+    "independent_sources": 5,
     "sources": [
      "A to Z Sports",
+     "Heavy.com",
      "Steelers Depot",
      "Steelers Now",
      "Yahoo Sports"
@@ -378,6 +380,7 @@
      "307e2a040ea7",
      "f70a13da10bb",
      "702ace99a8e9",
+     "45c4bcc7cd1b",
      "9e37088de4c1",
      "3f3271514107"
     ]
@@ -617,9 +620,10 @@
    ],
    "consensus": {
     "cluster_id": "3f3271514107",
-    "independent_sources": 4,
+    "independent_sources": 5,
     "sources": [
      "A to Z Sports",
+     "Heavy.com",
      "Steelers Depot",
      "Steelers Now",
      "Yahoo Sports"
@@ -631,6 +635,7 @@
      "f70a13da10bb",
      "702ace99a8e9",
      "c60d83ea0785",
+     "45c4bcc7cd1b",
      "3f3271514107"
     ]
    }

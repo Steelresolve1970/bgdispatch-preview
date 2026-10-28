@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-28T08:00:39+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-28T08:00:18+00:00._
+_Generated 2026-10-28T08:13:47+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-28T08:13:29+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Why Steelers Shouldn't Go for Big Trade Targets like Sauce Gardner, Brian Thomas Jr., Focus on Draft](https://www.youtube.com/watch?v=YsHJn67LH0k): Locked On Steelers, 2026-10-28 05:00 UTC
