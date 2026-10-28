@@ -1,13 +1,13 @@
 # Steelers Rumor Meter (today)
 
-_Generated 2026-10-28T03:36:10+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-28T03:36:03+00:00._
+_Generated 2026-10-28T03:48:17+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-28T03:48:10+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/rumors.json_
 
 - **Rumor** · tier: National insider · consensus: 2 source(s), top tier National insider
   [Trade rumor: Steelers](https://sports.yahoo.com/articles/super-bowl-record-holding-wr-002552200.html): Yahoo Sports, first seen 2026-10-28 03:23 UTC
 - **Rumor** · tier: Beat writer / team · consensus: 1 source(s), top tier Beat writer / team
   [Trade rumor: Steelers (Steelers Now)](https://steelersnow.com/steelers-afternoon-drive-trade-deadline-fits/): Steelers Now, first seen 2026-10-27 22:11 UTC
-- **Rumor** · tier: Aggregator / other · consensus: 2 source(s), top tier Aggregator / other
+- **Rumor** · tier: Aggregator / other · consensus: 1 source(s), top tier Aggregator / other
   [Trade rumor: DeForest Buckner](https://www.krqe.com/sports/ap-the-49ers-bring-back-deforest-buckner-in-trade-with-the-colts-ap-source-says/): KRQE, first seen 2026-10-27 21:49 UTC
 - **Rumor** · tier: Fan blog · consensus: 1 source(s), top tier Fan blog
   [Trade rumor: Steelers-Colts](https://stillcurtain.com/4-trade-targets-pittsburgh-steelers-pursue-indianapolis-colts-fire-sale-01m5z8gc1z2r?utm_source=RSS): Still Curtain, first seen 2026-10-27 20:01 UTC

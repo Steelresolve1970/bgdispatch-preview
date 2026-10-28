@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-28T03:36:10+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-28T03:35:50+00:00._
+_Generated 2026-10-28T03:48:17+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-28T03:47:58+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [bonjour.mp4 📺: #CLEvsPIT 11/1 at 1 PM ET on CBS](https://www.youtube.com/shorts/C2UJf-xEWsE): Pittsburgh Steelers (official), 2026-10-27 23:34 UTC
@@ -103,7 +103,6 @@ _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 - Podcast: [Scout’s Eye with Matt Williamson: No bad tactics](https://podcasts.apple.com/us/podcast/scouts-eye-with-matt-williamson-no-bad-tactics/id1072021022?i=1000797736650): DK Pittsburgh Sports, 2026-10-23 06:25 UTC
 - Video: [Steelers Rookie Class Answers Call, Ready to Carry Roster? | DeShon Elliott's Return Frees Up DBs](https://www.youtube.com/watch?v=beELd1XoLY4): Locked On Steelers, 2026-10-23 05:00 UTC
 - Podcast: [Steelers Rookie Class Answers Call, Ready to Carry Roster? | DeShon Elliott's Return Frees Up DBs](https://podcasts.apple.com/us/podcast/steelers-rookie-class-answers-call-ready-to-carry-roster/id1140522532?i=1000797723898): Locked On Steelers, 2026-10-23 04:30 UTC
-- Podcast: [SCB Steelers Podcast 495 - Buccin' a Trend](https://scblitz.podbean.com/e/scb-steelers-podcast-495-buccin-a-trend/): Steel City Blitz, 2026-10-23 03:37 UTC
 
 ---
 Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.
