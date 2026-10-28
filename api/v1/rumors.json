@@ -2,8 +2,8 @@
  "api_version": "1",
  "dataset": "rumors",
  "description": "Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).",
- "generated": "2026-10-28T15:09:23+00:00",
- "data_updated": "2026-10-28T15:09:15+00:00",
+ "generated": "2026-10-28T15:20:27+00:00",
+ "data_updated": "2026-10-28T15:20:19+00:00",
  "count": 35,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
@@ -79,7 +79,6 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "448fbdd04e18",
      "71fdb51c1a9f",
      "19b17cd62ac2",
      "f85850ec176b",
@@ -145,7 +144,6 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "448fbdd04e18",
      "b94116387f0b",
      "19b17cd62ac2",
      "f85850ec176b",
@@ -362,7 +360,7 @@
   {
    "id": "f42f147d661f",
    "type": "rumor",
-   "title": "Trade rumor: Steelers (Yahoo Sports)",
+   "title": "Trade rumor: Steelers (Yahoo Sports) (Yahoo Sports)",
    "summary": "Yahoo Sports passes along trade speculation involving the Steelers; treat it as unconfirmed until the team announces a move, touching on the Steelers' receivers. Read the full story at Yahoo Sports.",
    "url": "https://sports.yahoo.com/articles/super-bowl-record-holding-wr-002552200.html",
    "source": {
@@ -659,7 +657,6 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "448fbdd04e18",
      "b94116387f0b",
      "71fdb51c1a9f",
      "f85850ec176b",
@@ -696,7 +693,6 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "448fbdd04e18",
      "b94116387f0b",
      "71fdb51c1a9f",
      "19b17cd62ac2",
@@ -1018,13 +1014,16 @@
    "people": [],
    "consensus": {
     "cluster_id": "b3b86933a304",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
-     "SteelerNation"
+     "SteelerNation",
+     "Yardbarker"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "5585acb90f77"
+    ]
    }
   },
   {
@@ -1085,7 +1084,9 @@
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "dfe6286b4e56"
+    ]
    }
   },
   {
@@ -1174,7 +1175,9 @@
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "ea49fe3c3805"
+    ]
    }
   }
  ]

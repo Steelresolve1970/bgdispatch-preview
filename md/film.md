@@ -1,6 +1,6 @@
 # Steelers Film Room & Previews
 
-_Generated 2026-10-28T15:09:23+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-28T15:08:55+00:00._
+_Generated 2026-10-28T15:20:27+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-28T15:20:00+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/film.json_
 
 - Breakdown (at New Orleans Saints (Oct 25)): [Steelers Rookie Max Iheanachor Has Become A Beast | Film Review](https://www.youtube.com/watch?v=rCqXb9wcdtQ): Saturday Morning Inspection, 2026-10-27 19:00 UTC

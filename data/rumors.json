@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T15:09:15.482400+00:00",
+ "generated": "2026-10-28T15:20:19.553505+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -98,7 +98,6 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "448fbdd04e18",
      "71fdb51c1a9f",
      "19b17cd62ac2",
      "f85850ec176b",
@@ -160,7 +159,6 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "448fbdd04e18",
      "b94116387f0b",
      "19b17cd62ac2",
      "f85850ec176b",
@@ -365,7 +363,7 @@
   },
   {
    "id": "f42f147d661f",
-   "title": "Trade rumor: Steelers (Yahoo Sports)",
+   "title": "Trade rumor: Steelers (Yahoo Sports) (Yahoo Sports)",
    "source": "Yahoo Sports",
    "link": "https://sports.yahoo.com/articles/super-bowl-record-holding-wr-002552200.html",
    "published": "2026-10-28T00:25:00+00:00",
@@ -644,7 +642,6 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "448fbdd04e18",
      "b94116387f0b",
      "71fdb51c1a9f",
      "f85850ec176b",
@@ -679,7 +676,6 @@
     "highest_tier": "National insider",
     "highest_tier_score": 4,
     "related_ids": [
-     "448fbdd04e18",
      "b94116387f0b",
      "71fdb51c1a9f",
      "19b17cd62ac2",
@@ -980,13 +976,16 @@
    "first_seen": "2026-10-24T21:18:21.512769+00:00",
    "consensus": {
     "cluster_id": "b3b86933a304",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
-     "SteelerNation"
+     "SteelerNation",
+     "Yardbarker"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "5585acb90f77"
+    ]
    },
    "updated": "2026-10-24T21:18:21.512769+00:00",
    "own": 1
@@ -1043,7 +1042,9 @@
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "dfe6286b4e56"
+    ]
    },
    "updated": "2026-10-24T16:36:03.938312+00:00",
    "own": 1
@@ -1126,7 +1127,9 @@
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "ea49fe3c3805"
+    ]
    },
    "updated": "2026-10-24T11:49:28.949182+00:00",
    "own": 1

@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T15:08:49.746061+00:00",
+ "generated": "2026-10-28T15:19:53.498405+00:00",
  "count": 150,
  "sources": [
   {
@@ -60,7 +60,7 @@
    "source": "Yahoo Sports",
    "url": "https://sports.yahoo.com/nfl/rss/",
    "status": "ok",
-   "steelers_items": 1
+   "steelers_items": 3
   },
   {
    "source": "Google News",
@@ -95,12 +95,21 @@
  ],
  "items": [
   {
+   "title": "Steelers face division opponent",
+   "source": "SteelerNation",
+   "link": "https://www.steelernation.com/2026/10/28/steelers-battle-afc-north-browns-best",
+   "published": "2026-10-28T15:16:17+00:00",
+   "summary": "The Steelers play a division game. The matchup is analyzed. Read the full story at SteelerNation.",
+   "id": "b18d9ac696",
+   "writer": "ai"
+  },
+  {
    "title": "Steelers starter mentioned in trade talks",
-   "source": "heavy.com",
+   "source": "Heavy.com",
    "link": "https://heavy.com/sports/nfl/pittsburgh-steelers/patrick-queen-nfl-trade-deadline-rumors-news/",
    "published": "2026-10-28T15:06:08+00:00",
    "via": "Google News",
-   "summary": "A Steelers starter is a trade candidate. Read the full story at heavy.com.",
+   "summary": "A Steelers starter is a trade candidate. Read the full story at Heavy.com.",
    "id": "18c0c78e85",
    "writer": "ai"
   },
@@ -129,6 +138,24 @@
    "published": "2026-10-28T15:00:02+00:00",
    "summary": "Omar Khan must address receiver problems. The issue affects the offense. Read the full story at Still Curtain.",
    "id": "fe2b55c722",
+   "writer": "ai"
+  },
+  {
+   "title": "Steelers mentioned in trade talks",
+   "source": "Behind the Steel Curtain",
+   "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/177022/steelers-named-trade-destination-for-eagles-cb-riq-woolen",
+   "published": "2026-10-28T15:00:00+00:00",
+   "summary": "The Steelers are being discussed as a trade destination. They are looking to make a move. Read the full story at Behind the Steel Curtain.",
+   "id": "ef17606e45",
+   "writer": "ai"
+  },
+  {
+   "title": "Saints players shine",
+   "source": "Yahoo Sports",
+   "link": "https://sports.yahoo.com/articles/saints-vs-steelers-week-7-150000213.html",
+   "published": "2026-10-28T15:00:00+00:00",
+   "summary": "Chase Young and Granderson are performing well for the Saints. Read the full story at Yahoo Sports.",
+   "id": "0d7dc4af74",
    "writer": "ai"
   },
   {
@@ -242,6 +269,15 @@
    "summary": "The Steelers may trade for a Colts wide receiver. Ray Fittipaldo suggests this. Read the full story at Steelers Depot.",
    "id": "ac494876b3",
    "writer": "ai"
+  },
+  {
+   "title": "Contract news: John Harbaugh",
+   "source": "Heavy.com",
+   "link": "https://heavy.com/sports/nfl/pittsburgh-steelers/dean-lowry-nfl-news-john-harabaugh-giants/",
+   "published": "2026-10-28T13:29:59+00:00",
+   "via": "Google News",
+   "summary": "Heavy.com covers contract or signing news involving John Harbaugh. Read the full story at Heavy.com.",
+   "id": "5782605e46"
   },
   {
    "title": "Steelers explore receiver options",
@@ -368,15 +404,6 @@
    "summary": "The Steelers have a Week 8 game. Cleveland is the opponent. Read the full story at Athlon Sports.",
    "id": "c1641e5112",
    "writer": "ai"
-  },
-  {
-   "title": "Contract news: John Harbaugh",
-   "source": "Heavy.com",
-   "link": "https://heavy.com/sports/nfl/pittsburgh-steelers/dean-lowry-nfl-news-john-harabaugh-giants/",
-   "published": "2026-10-28T11:50:28+00:00",
-   "via": "Google News",
-   "summary": "Heavy.com covers contract or signing news involving John Harbaugh. Read the full story at Heavy.com.",
-   "id": "5782605e46"
   },
   {
    "title": "Mike McCarthy talks about Cleveland",
@@ -543,10 +570,11 @@
   },
   {
    "title": "Steelers consider trade",
-   "source": "SteelerNation",
+   "source": "Steeler Nation",
    "link": "https://www.steelernation.com/2026/10/27/steelers-colts-big-trade-defender",
-   "published": "2026-10-27T23:53:51+00:00",
-   "summary": "The Steelers may make a trade for a defender. Read the full story at SteelerNation.",
+   "published": "2026-10-27T23:54:46+00:00",
+   "via": "Google News",
+   "summary": "The Steelers may make a trade for a defender. Read the full story at Steeler Nation.",
    "id": "172b135fa6",
    "writer": "ai"
   },
@@ -704,16 +732,6 @@
    "id": "8f174210dc"
   },
   {
-   "title": "Steelers seek deep threat",
-   "source": "Steeler Nation",
-   "link": "https://www.steelernation.com/2026/10/27/steelers-coveted-threat-waiting",
-   "published": "2026-10-27T20:54:46+00:00",
-   "via": "Google News",
-   "summary": "The Steelers are looking for a deep threat player. Read the full story at Steeler Nation.",
-   "id": "24f061e89b",
-   "writer": "ai"
-  },
-  {
    "title": "Browns game preview: Cameron Heyward (Steelers Now)",
    "source": "Steelers Now",
    "link": "https://steelersnow.com/cam-heyward-sends-blunt-message-to-the-browns/",
@@ -741,7 +759,16 @@
    "writer": "ai"
   },
   {
-   "title": "Steelers mentioned in trade talks",
+   "title": "Browns game preview: what to know",
+   "source": "Cleveland Browns",
+   "link": "https://www.clevelandbrowns.com/news/browns-announce-unofficial-depth-chart-for-week-8-vs-the-steelers",
+   "published": "2026-10-27T19:39:12+00:00",
+   "via": "Google News",
+   "summary": "Cleveland Browns looks ahead to the game, with a focus on the Steelers and the Browns. Up next for the Steelers: the Browns, in Week 8. Read the full story at Cleveland Browns.",
+   "id": "7d1b78db0d"
+  },
+  {
+   "title": "Steelers mentioned in trade talks (Behind the Steel Curtain)",
    "source": "Behind the Steel Curtain",
    "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/177011/steelers-connected-to-chargers-wr-ladd-mcconkey-in-potential-trade",
    "published": "2026-10-27T19:01:39+00:00",
@@ -827,16 +854,6 @@
    "published": "2026-10-27T16:39:46+00:00",
    "summary": "Inside linebackers had a strong performance in a Steelers win. Read the full story at Steelers Now.",
    "id": "35d757a449",
-   "writer": "ai"
-  },
-  {
-   "title": "Steelers may target players",
-   "source": "Casino.org",
-   "link": "https://www.casino.org/news/jason-la-canfora-week-7-nfl-diary/",
-   "published": "2026-10-27T16:28:10+00:00",
-   "via": "Google News",
-   "summary": "The Steelers are considering new players. Read the full story at Casino.org.",
-   "id": "874031266a",
    "writer": "ai"
   },
   {
@@ -1129,15 +1146,6 @@
    "published": "2026-10-26T19:32:16+00:00",
    "summary": "The Steelers used a six-offensive-lineman package against the Saints. It helped them out-rush New Orleans. Read the full story at Behind the Steel Curtain.",
    "id": "6045b3304d",
-   "writer": "ai"
-  },
-  {
-   "title": "Steelers safety joins Ravens",
-   "source": "Behind the Steel Curtain",
-   "link": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-news/176954/former-steelers-safety-signs-with-ravens",
-   "published": "2026-10-26T19:30:45+00:00",
-   "summary": "A former Steelers safety has signed with the Ravens. He played in the Steelers first six games. Read the full story at Behind the Steel Curtain.",
-   "id": "78e3fed8cc",
    "writer": "ai"
   },
   {
@@ -1440,15 +1448,6 @@
    "via": "Google News",
    "id": "0562f325ff",
    "writer": "ai"
-  },
-  {
-   "title": "Saints game review: how it was won",
-   "source": "New Orleans Saints",
-   "link": "https://www.neworleanssaints.com/news/2026-nfl-week-7-pittsburgh-steelers-vs-new-orleans-saints-game-recap",
-   "published": "2026-10-25T16:36:17+00:00",
-   "via": "Google News",
-   "summary": "New Orleans Saints looks back at the game, with a focus on the Steelers and the Saints. For context, the Steelers beat the Saints in Week 7. Read the full story at New Orleans Saints.",
-   "id": "e47ef4387b"
   }
  ],
  "dropped_bad_links": 0
