@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T03:48:10.008273+00:00",
+ "generated": "2026-10-28T05:02:24.570955+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -118,14 +118,17 @@
    "first_seen": "2026-10-27T21:49:56.799839+00:00",
    "own": 1,
    "consensus": {
-    "cluster_id": "75649bd9f46f",
-    "independent_sources": 1,
+    "cluster_id": "857f901e7f7b",
+    "independent_sources": 2,
     "sources": [
-     "KRQE"
+     "KRQE",
+     "WTNH.com"
     ],
     "highest_tier": "Aggregator / other",
     "highest_tier_score": 1,
-    "related_ids": []
+    "related_ids": [
+     "857f901e7f7b"
+    ]
    },
    "updated": "2026-10-27T21:49:56.799839+00:00"
   },
@@ -172,14 +175,12 @@
    "first_seen": "2026-10-27T18:29:01.878764+00:00",
    "own": 1,
    "consensus": {
-    "cluster_id": "5a0773cc79d1",
-    "independent_sources": 6,
+    "cluster_id": "3f3271514107",
+    "independent_sources": 4,
     "sources": [
      "A to Z Sports",
-     "Heavy.com",
      "Steelers Depot",
      "Steelers Now",
-     "Still Curtain",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
@@ -188,11 +189,8 @@
      "307e2a040ea7",
      "702ace99a8e9",
      "c60d83ea0785",
-     "45c4bcc7cd1b",
      "9e37088de4c1",
-     "3f3271514107",
-     "7fd46e561838",
-     "5a0773cc79d1"
+     "3f3271514107"
     ]
    },
    "updated": "2026-10-27T18:29:01.878764+00:00"
@@ -216,17 +214,14 @@
    "first_seen": "2026-10-27T17:55:42.318017+00:00",
    "own": 1,
    "consensus": {
-    "cluster_id": "1e04876fbc52",
-    "independent_sources": 2,
+    "cluster_id": "54c49b86af18",
+    "independent_sources": 1,
     "sources": [
-     "Black and Teal",
      "Yardbarker"
     ],
     "highest_tier": "Aggregator / other",
     "highest_tier_score": 1,
-    "related_ids": [
-     "1e04876fbc52"
-    ]
+    "related_ids": []
    },
    "updated": "2026-10-27T17:55:42.318017+00:00"
   },
@@ -275,14 +270,12 @@
    "first_seen": "2026-10-27T17:10:51.139507+00:00",
    "own": 1,
    "consensus": {
-    "cluster_id": "5a0773cc79d1",
-    "independent_sources": 6,
+    "cluster_id": "3f3271514107",
+    "independent_sources": 4,
     "sources": [
      "A to Z Sports",
-     "Heavy.com",
      "Steelers Depot",
      "Steelers Now",
-     "Still Curtain",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
@@ -291,11 +284,8 @@
      "307e2a040ea7",
      "f70a13da10bb",
      "c60d83ea0785",
-     "45c4bcc7cd1b",
      "9e37088de4c1",
-     "3f3271514107",
-     "7fd46e561838",
-     "5a0773cc79d1"
+     "3f3271514107"
     ]
    },
    "updated": "2026-10-27T17:10:51.139507+00:00"
@@ -375,14 +365,12 @@
    "first_seen": "2026-10-27T15:25:25.271977+00:00",
    "own": 1,
    "consensus": {
-    "cluster_id": "5a0773cc79d1",
-    "independent_sources": 6,
+    "cluster_id": "3f3271514107",
+    "independent_sources": 4,
     "sources": [
      "A to Z Sports",
-     "Heavy.com",
      "Steelers Depot",
      "Steelers Now",
-     "Still Curtain",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
@@ -391,11 +379,8 @@
      "307e2a040ea7",
      "f70a13da10bb",
      "702ace99a8e9",
-     "45c4bcc7cd1b",
      "9e37088de4c1",
-     "3f3271514107",
-     "7fd46e561838",
-     "5a0773cc79d1"
+     "3f3271514107"
     ]
    },
    "updated": "2026-10-27T15:25:25.271977+00:00"
@@ -532,17 +517,14 @@
    "status_link": null,
    "first_seen": "2026-10-26T15:03:41.831040+00:00",
    "consensus": {
-    "cluster_id": "85d6f65ebcd2",
-    "independent_sources": 2,
+    "cluster_id": "f18b4df7f03b",
+    "independent_sources": 1,
     "sources": [
-     "Chat Sports",
-     "Yahoo Sports"
+     "Chat Sports"
     ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": [
-     "85d6f65ebcd2"
-    ]
+    "highest_tier": "Fan blog",
+    "highest_tier_score": 2,
+    "related_ids": []
    },
    "updated": "2026-10-26T15:03:41.831040+00:00",
    "own": 1
@@ -619,14 +601,12 @@
    "first_seen": "2026-10-27T19:38:48.765854+00:00",
    "own": 1,
    "consensus": {
-    "cluster_id": "5a0773cc79d1",
-    "independent_sources": 6,
+    "cluster_id": "3f3271514107",
+    "independent_sources": 4,
     "sources": [
      "A to Z Sports",
-     "Heavy.com",
      "Steelers Depot",
      "Steelers Now",
-     "Still Curtain",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
@@ -636,10 +616,7 @@
      "f70a13da10bb",
      "702ace99a8e9",
      "c60d83ea0785",
-     "45c4bcc7cd1b",
-     "3f3271514107",
-     "7fd46e561838",
-     "5a0773cc79d1"
+     "3f3271514107"
     ]
    },
    "updated": "2026-10-27T19:38:48.765854+00:00"
@@ -816,293 +793,6 @@
     ]
    },
    "updated": "2026-10-24T11:49:28.949182+00:00",
-   "own": 1
-  },
-  {
-   "id": "5d585445ee02",
-   "title": "Trade rumor: Aaron Rodgers",
-   "source": "Yahoo Sports",
-   "link": "https://sports.yahoo.com/articles/steelers-latest-trade-buzz-add-184548332.html",
-   "published": "2026-10-23T18:45:48+00:00",
-   "summary": "Yahoo Sports passes along trade speculation involving Aaron Rodgers; treat it as unconfirmed until the team announces a move. Read the full story at Yahoo Sports.",
-   "tier": "National insider",
-   "tier_score": 4,
-   "subjects": [],
-   "status": "Rumor",
-   "status_note": null,
-   "status_link": null,
-   "first_seen": "2026-10-24T10:08:05.155041+00:00",
-   "consensus": {
-    "cluster_id": "5d585445ee02",
-    "independent_sources": 1,
-    "sources": [
-     "Yahoo Sports"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": []
-   },
-   "updated": "2026-10-24T10:08:05.155041+00:00",
-   "own": 1
-  },
-  {
-   "id": "85d6f65ebcd2",
-   "title": "Rumor watch: Aaron Rodgers (Yahoo Sports)",
-   "source": "Yahoo Sports",
-   "link": "https://sports.yahoo.com/articles/steelers-bring-back-aaron-rodgers-160000327.html",
-   "published": "2026-10-23T16:00:00+00:00",
-   "summary": "Yahoo Sports passes along unconfirmed talk involving Aaron Rodgers. Read the full story at Yahoo Sports.",
-   "tier": "National insider",
-   "tier_score": 4,
-   "subjects": [
-    "Aaron Rodgers"
-   ],
-   "status": "Rumor",
-   "status_note": null,
-   "status_link": null,
-   "first_seen": "2026-10-23T16:52:38.787518+00:00",
-   "consensus": {
-    "cluster_id": "85d6f65ebcd2",
-    "independent_sources": 2,
-    "sources": [
-     "Chat Sports",
-     "Yahoo Sports"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": [
-     "f18b4df7f03b"
-    ]
-   },
-   "updated": "2026-10-23T16:52:38.787518+00:00",
-   "own": 1
-  },
-  {
-   "id": "1e04876fbc52",
-   "title": "Trade rumor: Brian Thomas Jr. (Black and Teal)",
-   "source": "Black and Teal",
-   "link": "https://blackandteal.com/steelers-could-be-a-dark-horse-trade-destination-for-jaguars-brian-thomas-jr-trai-essex",
-   "published": "2026-10-23T15:00:20+00:00",
-   "summary": "Black and Teal passes along trade speculation involving Brian Thomas Jr.; treat it as unconfirmed until the team announces a move. Read the full story at Black and Teal.",
-   "tier": "Aggregator / other",
-   "tier_score": 1,
-   "subjects": [
-    "Jaguars' Brian Thomas"
-   ],
-   "status": "Rumor",
-   "status_note": null,
-   "status_link": null,
-   "first_seen": "2026-10-23T15:18:57.289683+00:00",
-   "consensus": {
-    "cluster_id": "1e04876fbc52",
-    "independent_sources": 2,
-    "sources": [
-     "Black and Teal",
-     "Yardbarker"
-    ],
-    "highest_tier": "Aggregator / other",
-    "highest_tier_score": 1,
-    "related_ids": [
-     "54c49b86af18"
-    ]
-   },
-   "updated": "2026-10-23T15:18:57.289683+00:00",
-   "own": 1
-  },
-  {
-   "id": "75724089f665",
-   "title": "Trade rumor: Steelers (Athlon Sports)",
-   "source": "Athlon Sports",
-   "link": "https://athlonsports.com/nfl/pittsburgh-steelers/steelers-again-linked-to-legends-nephew-with-trade-deadline-approaching",
-   "published": "2026-10-23T15:00:00+00:00",
-   "summary": "Athlon Sports passes along trade speculation involving the Steelers; treat it as unconfirmed until the team announces a move, touching on the trade deadline. Read the full story at Athlon Sports.",
-   "tier": "Aggregator / other",
-   "tier_score": 1,
-   "subjects": [],
-   "status": "Rumor",
-   "status_note": null,
-   "status_link": null,
-   "first_seen": "2026-10-23T15:18:57.289683+00:00",
-   "consensus": {
-    "cluster_id": "9817e54a5e1d",
-    "independent_sources": 3,
-    "sources": [
-     "AOL.co.uk",
-     "Athlon Sports",
-     "Yahoo Sports"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": [
-     "514b4160b9de",
-     "9817e54a5e1d"
-    ]
-   },
-   "updated": "2026-10-23T15:18:57.289683+00:00",
-   "own": 1
-  },
-  {
-   "id": "bdeb639a9c58",
-   "title": "Rumor watch: Steelers-Saints",
-   "source": "Yahoo Sports",
-   "link": "https://sports.yahoo.com/articles/saints-vs-steelers-final-week-143001051.html",
-   "published": "2026-10-23T14:30:01+00:00",
-   "summary": "Yahoo Sports passes along unconfirmed talk involving the Steelers and the Saints. For context, the Steelers beat the Saints in Week 7. Read the full story at Yahoo Sports.",
-   "tier": "National insider",
-   "tier_score": 4,
-   "subjects": [],
-   "status": "Rumor",
-   "status_note": null,
-   "status_link": null,
-   "first_seen": "2026-10-27T14:01:49.696644+00:00",
-   "own": 1,
-   "consensus": {
-    "cluster_id": "3e782f3c4f92",
-    "independent_sources": 2,
-    "sources": [
-     "Steelers Depot",
-     "Yahoo Sports"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": [
-     "3e782f3c4f92"
-    ]
-   },
-   "updated": "2026-10-27T14:01:49.696644+00:00"
-  },
-  {
-   "id": "3e782f3c4f92",
-   "title": "Rumor watch: Steelers-Saints (Steelers Depot)",
-   "source": "Steelers Depot",
-   "link": "https://steelersdepot.com/2026/10/saints-week-7-friday-injury-report-two-starters-questionable/",
-   "published": "2026-10-23T13:22:47+00:00",
-   "summary": "Steelers Depot passes along unconfirmed talk involving the Steelers and the Saints. It relates to the Steelers' Week 7 win over the Saints. Read the full story at Steelers Depot.",
-   "tier": "Fan blog",
-   "tier_score": 2,
-   "subjects": [],
-   "status": "Rumor",
-   "status_note": null,
-   "status_link": null,
-   "first_seen": "2026-10-23T13:24:55.254010+00:00",
-   "consensus": {
-    "cluster_id": "3e782f3c4f92",
-    "independent_sources": 2,
-    "sources": [
-     "Steelers Depot",
-     "Yahoo Sports"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": [
-     "bdeb639a9c58"
-    ]
-   },
-   "updated": "2026-10-23T13:24:55.254010+00:00",
-   "own": 1
-  },
-  {
-   "id": "580bf5aa432e",
-   "title": "Trade rumor: Steelers (Still Curtain) (Still Curtain)",
-   "source": "Still Curtain",
-   "link": "https://stillcurtain.com/4-nfl-bottom-feeders-could-give-pittsburgh-steelers-a-trade-deadline-advantage-01m5j23dryvq?utm_source=RSS",
-   "published": "2026-10-23T12:00:00+00:00",
-   "summary": "Still Curtain passes along trade speculation involving the Steelers; treat it as unconfirmed until the team announces a move, touching on the trade deadline. Read the full story at Still Curtain.",
-   "tier": "Fan blog",
-   "tier_score": 2,
-   "subjects": [],
-   "status": "Rumor",
-   "status_note": null,
-   "status_link": null,
-   "first_seen": "2026-10-23T12:15:12.772405+00:00",
-   "consensus": {
-    "cluster_id": "68c015e28520",
-    "independent_sources": 1,
-    "sources": [
-     "Still Curtain"
-    ],
-    "highest_tier": "Fan blog",
-    "highest_tier_score": 2,
-    "related_ids": [
-     "68c015e28520"
-    ]
-   },
-   "updated": "2026-10-23T12:15:12.772405+00:00",
-   "own": 1
-  },
-  {
-   "id": "7fd46e561838",
-   "title": "Trade rumor: Steelers (Still Curtain) (Still Curtain) (Still Curtain)",
-   "source": "Still Curtain",
-   "link": "https://stillcurtain.com/4-wide-receivers-pittsburgh-steelers-should-target-ahead-of-the-nfl-trade-deadline-01m5dnq2ch8t?utm_source=RSS",
-   "published": "2026-10-23T11:00:04+00:00",
-   "summary": "Still Curtain passes along trade speculation involving the Steelers; treat it as unconfirmed until the team announces a move, touching on the Steelers' receivers and the trade deadline. Read the full story at Still Curtain.",
-   "tier": "Fan blog",
-   "tier_score": 2,
-   "subjects": [],
-   "status": "Rumor",
-   "status_note": null,
-   "status_link": null,
-   "first_seen": "2026-10-23T11:09:06.018743+00:00",
-   "consensus": {
-    "cluster_id": "5a0773cc79d1",
-    "independent_sources": 6,
-    "sources": [
-     "A to Z Sports",
-     "Heavy.com",
-     "Steelers Depot",
-     "Steelers Now",
-     "Still Curtain",
-     "Yahoo Sports"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": [
-     "307e2a040ea7",
-     "f70a13da10bb",
-     "702ace99a8e9",
-     "c60d83ea0785",
-     "45c4bcc7cd1b",
-     "9e37088de4c1",
-     "3f3271514107",
-     "5a0773cc79d1"
-    ]
-   },
-   "updated": "2026-10-23T11:09:06.018743+00:00",
-   "own": 1
-  },
-  {
-   "id": "514b4160b9de",
-   "title": "Trade rumor: Steelers (Yahoo Sports) (Yahoo Sports) (Yahoo Sports) (Yahoo Sports)",
-   "source": "Yahoo Sports",
-   "link": "https://sports.yahoo.com/articles/steelers-linked-trade-troy-polamalus-090859602.html",
-   "published": "2026-10-23T09:08:59+00:00",
-   "summary": "Yahoo Sports passes along trade speculation involving the Steelers; treat it as unconfirmed until the team announces a move. Read the full story at Yahoo Sports.",
-   "tier": "National insider",
-   "tier_score": 4,
-   "subjects": [
-    "Troy Polamalu's"
-   ],
-   "status": "Rumor",
-   "status_note": null,
-   "status_link": null,
-   "first_seen": "2026-10-23T10:05:24.966196+00:00",
-   "consensus": {
-    "cluster_id": "9817e54a5e1d",
-    "independent_sources": 3,
-    "sources": [
-     "AOL.co.uk",
-     "Athlon Sports",
-     "Yahoo Sports"
-    ],
-    "highest_tier": "National insider",
-    "highest_tier_score": 4,
-    "related_ids": [
-     "75724089f665",
-     "9817e54a5e1d"
-    ]
-   },
-   "updated": "2026-10-23T10:05:24.966196+00:00",
    "own": 1
   }
  ],
