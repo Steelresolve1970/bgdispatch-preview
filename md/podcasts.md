@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-28T10:57:46+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-28T10:57:27+00:00._
+_Generated 2026-10-28T11:39:16+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-28T10:57:27+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Steelers Beat Saints in Paris, Browns Preview & NFL Halloween Villains | Not Just Football](https://www.youtube.com/watch?v=N8EOsMrHLyA): Not Just Football with Cam Heyward, 2026-10-28 10:00 UTC
