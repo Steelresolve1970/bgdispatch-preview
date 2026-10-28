@@ -1,6 +1,6 @@
 # Steelers Podcasts & YouTube (today)
 
-_Generated 2026-10-28T12:05:08+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-28T12:04:41+00:00._
+_Generated 2026-10-28T12:16:24+00:00 by Black & Gold Dispatch (unofficial fan site). Data updated: 2026-10-28T12:16:05+00:00._
 _JSON: https://blackandgolddispatch.com/api/v1/podcasts.json_
 
 - Video: [Steelers' ST Grades](https://www.youtube.com/shorts/CnoUqe9pN1U): Steelers Almighty, 2026-10-28 11:23 UTC

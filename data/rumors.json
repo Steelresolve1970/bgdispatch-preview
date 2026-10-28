@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T12:05:01.692903+00:00",
+ "generated": "2026-10-28T12:16:17.763512+00:00",
  "tiers": {
   "National insider": [
    "Ian Rapoport",
@@ -44,6 +44,95 @@
  },
  "rumors": [
   {
+   "id": "a15a08b885da",
+   "title": "Trade rumor: Patrick Queen",
+   "source": "SteelerNation",
+   "link": "https://www.steelernation.com/2026/10/28/steelers-espn-suddenly-patrick-queen",
+   "published": "2026-10-28T12:13:32+00:00",
+   "summary": "SteelerNation passes along trade speculation involving Patrick Queen; treat it as unconfirmed until the team announces a move, touching on the trade deadline. Read the full story at SteelerNation.",
+   "tier": "Fan blog",
+   "tier_score": 2,
+   "subjects": [],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-28T12:16:17.763512+00:00",
+   "own": 1,
+   "consensus": {
+    "cluster_id": "3d83594dea4b",
+    "independent_sources": 2,
+    "sources": [
+     "Chat Sports",
+     "SteelerNation"
+    ],
+    "highest_tier": "Fan blog",
+    "highest_tier_score": 2,
+    "related_ids": [
+     "3d83594dea4b"
+    ]
+   },
+   "updated": "2026-10-28T12:16:17.763512+00:00"
+  },
+  {
+   "id": "b9c5d295880a",
+   "title": "Trade rumor: Sauce Gardner and Brian Thomas Jr.",
+   "source": "WKYC",
+   "link": "https://www.wkyc.com/video/sports/locked-on/lo-pittsburgh/steelers-show/why-steelers-shouldnt-go-for-big-trade-targets-like-sauce-gardner-brian-thomas-jr-focus-on-draft/535-3338df35-7737-417a-a942-f2da9898c312",
+   "published": "2026-10-28T12:07:00+00:00",
+   "summary": "WKYC passes along trade speculation involving Sauce Gardner and Brian Thomas Jr.; treat it as unconfirmed until the team announces a move. Read the full story at WKYC.",
+   "tier": "Aggregator / other",
+   "tier_score": 1,
+   "subjects": [
+    "Brian Thomas Jr."
+   ],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-28T12:16:17.763512+00:00",
+   "own": 1,
+   "consensus": {
+    "cluster_id": "b030e7b7babc",
+    "independent_sources": 2,
+    "sources": [
+     "Still Curtain",
+     "WKYC"
+    ],
+    "highest_tier": "Fan blog",
+    "highest_tier_score": 2,
+    "related_ids": [
+     "b030e7b7babc"
+    ]
+   },
+   "updated": "2026-10-28T12:16:17.763512+00:00"
+  },
+  {
+   "id": "f55a4510a984",
+   "title": "Trade rumor: Deshaun Watson",
+   "source": "Audacy",
+   "link": "https://www.audacy.com/923thefan/video/brian-baldinger-on-deshaun-watson-s-progress-browns-steelers-cleveland-s-trade-deadline-strategy-xbrqu8i",
+   "published": "2026-10-28T11:58:53+00:00",
+   "summary": "Audacy passes along trade speculation involving Deshaun Watson; treat it as unconfirmed until the team announces a move, touching on the trade deadline. Up next for the Steelers: the Browns, in Week 8. Read the full story at Audacy.",
+   "tier": "Aggregator / other",
+   "tier_score": 1,
+   "subjects": [],
+   "status": "Rumor",
+   "status_note": null,
+   "status_link": null,
+   "first_seen": "2026-10-28T12:16:17.763512+00:00",
+   "own": 1,
+   "consensus": {
+    "cluster_id": "f55a4510a984",
+    "independent_sources": 1,
+    "sources": [
+     "Audacy"
+    ],
+    "highest_tier": "Aggregator / other",
+    "highest_tier_score": 1,
+    "related_ids": []
+   },
+   "updated": "2026-10-28T12:16:17.763512+00:00"
+  },
+  {
    "id": "98672c12a699",
    "title": "Trade rumor: Steelers-Chargers",
    "source": "Yahoo Sports",
@@ -59,7 +148,7 @@
    "first_seen": "2026-10-28T12:05:01.692903+00:00",
    "own": 1,
    "consensus": {
-    "cluster_id": "9e37088de4c1",
+    "cluster_id": "3f3271514107",
     "independent_sources": 4,
     "sources": [
      "A to Z Sports",
@@ -74,7 +163,8 @@
      "f70a13da10bb",
      "702ace99a8e9",
      "c60d83ea0785",
-     "9e37088de4c1"
+     "9e37088de4c1",
+     "3f3271514107"
     ]
    },
    "updated": "2026-10-28T12:05:01.692903+00:00"
@@ -182,16 +272,13 @@
    "own": 1,
    "consensus": {
     "cluster_id": "75649bd9f46f",
-    "independent_sources": 2,
+    "independent_sources": 1,
     "sources": [
-     "KRQE",
-     "WOWK 13 News"
+     "KRQE"
     ],
     "highest_tier": "Aggregator / other",
     "highest_tier_score": 1,
-    "related_ids": [
-     "14c9faeb3359"
-    ]
+    "related_ids": []
    },
    "updated": "2026-10-27T21:49:56.799839+00:00"
   },
@@ -238,7 +325,7 @@
    "first_seen": "2026-10-27T18:29:01.878764+00:00",
    "own": 1,
    "consensus": {
-    "cluster_id": "9e37088de4c1",
+    "cluster_id": "3f3271514107",
     "independent_sources": 4,
     "sources": [
      "A to Z Sports",
@@ -253,7 +340,8 @@
      "307e2a040ea7",
      "702ace99a8e9",
      "c60d83ea0785",
-     "9e37088de4c1"
+     "9e37088de4c1",
+     "3f3271514107"
     ]
    },
    "updated": "2026-10-27T18:29:01.878764+00:00"
@@ -307,19 +395,22 @@
    "own": 1,
    "consensus": {
     "cluster_id": "b030e7b7babc",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
-     "Still Curtain"
+     "Still Curtain",
+     "WKYC"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "b9c5d295880a"
+    ]
    },
    "updated": "2026-10-27T17:22:05.510304+00:00"
   },
   {
    "id": "702ace99a8e9",
-   "title": "Trade rumor: Steelers (Yahoo Sports)",
+   "title": "Trade rumor: Steelers (Yahoo Sports) (Yahoo Sports)",
    "source": "Yahoo Sports",
    "link": "https://sports.yahoo.com/articles/pittsburgh-steelers-named-fit-30m-161714605.html",
    "published": "2026-10-27T16:17:14+00:00",
@@ -333,7 +424,7 @@
    "first_seen": "2026-10-27T17:10:51.139507+00:00",
    "own": 1,
    "consensus": {
-    "cluster_id": "9e37088de4c1",
+    "cluster_id": "3f3271514107",
     "independent_sources": 4,
     "sources": [
      "A to Z Sports",
@@ -348,7 +439,8 @@
      "307e2a040ea7",
      "f70a13da10bb",
      "c60d83ea0785",
-     "9e37088de4c1"
+     "9e37088de4c1",
+     "3f3271514107"
     ]
    },
    "updated": "2026-10-27T17:10:51.139507+00:00"
@@ -428,7 +520,7 @@
    "first_seen": "2026-10-27T15:25:25.271977+00:00",
    "own": 1,
    "consensus": {
-    "cluster_id": "9e37088de4c1",
+    "cluster_id": "3f3271514107",
     "independent_sources": 4,
     "sources": [
      "A to Z Sports",
@@ -443,7 +535,8 @@
      "307e2a040ea7",
      "f70a13da10bb",
      "702ace99a8e9",
-     "9e37088de4c1"
+     "9e37088de4c1",
+     "3f3271514107"
     ]
    },
    "updated": "2026-10-27T15:25:25.271977+00:00"
@@ -464,14 +557,17 @@
    "first_seen": "2026-10-27T15:36:34.341299+00:00",
    "own": 1,
    "consensus": {
-    "cluster_id": "87aceeb400a8",
-    "independent_sources": 1,
+    "cluster_id": "0e25ebeff1e5",
+    "independent_sources": 2,
     "sources": [
+     "AOL.com",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
-    "related_ids": []
+    "related_ids": [
+     "0e25ebeff1e5"
+    ]
    },
    "updated": "2026-10-27T15:36:34.341299+00:00"
   },
@@ -664,7 +760,7 @@
    "first_seen": "2026-10-27T19:38:48.765854+00:00",
    "own": 1,
    "consensus": {
-    "cluster_id": "9e37088de4c1",
+    "cluster_id": "3f3271514107",
     "independent_sources": 4,
     "sources": [
      "A to Z Sports",
@@ -679,7 +775,8 @@
      "307e2a040ea7",
      "f70a13da10bb",
      "702ace99a8e9",
-     "c60d83ea0785"
+     "c60d83ea0785",
+     "3f3271514107"
     ]
    },
    "updated": "2026-10-27T19:38:48.765854+00:00"
@@ -713,7 +810,7 @@
   },
   {
    "id": "3d83594dea4b",
-   "title": "Trade rumor: Patrick Queen",
+   "title": "Trade rumor: Patrick Queen (Chat Sports)",
    "source": "Chat Sports",
    "link": "https://www.chatsports.com/pittsburgh-steelers/a/steelers-rumors-should-pittsburgh-trade-patrick-queen-cowboys-53601",
    "published": "2026-10-24T18:55:18+00:00",
@@ -727,13 +824,16 @@
    "first_seen": "2026-10-24T19:08:22.316937+00:00",
    "consensus": {
     "cluster_id": "3d83594dea4b",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
-     "Chat Sports"
+     "Chat Sports",
+     "SteelerNation"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "a15a08b885da"
+    ]
    },
    "updated": "2026-10-24T19:08:22.316937+00:00",
    "own": 1

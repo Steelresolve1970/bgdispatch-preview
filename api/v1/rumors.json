@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "rumors",
  "description": "Today's Steelers rumors (US Eastern day) with source reliability tier, status (Rumor/Confirmed/Denied), first-seen/updated times and consensus (independent sources, highest tier).",
- "generated": "2026-10-28T12:05:08+00:00",
- "data_updated": "2026-10-28T12:05:01+00:00",
- "count": 27,
+ "generated": "2026-10-28T12:16:24+00:00",
+ "data_updated": "2026-10-28T12:16:17+00:00",
+ "count": 30,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -19,6 +19,101 @@
  "docs": "https://blackandgolddispatch.com/api/v1/openapi.json",
  "html": "https://blackandgolddispatch.com/#/rumors",
  "items": [
+  {
+   "id": "a15a08b885da",
+   "type": "rumor",
+   "title": "Trade rumor: Patrick Queen",
+   "summary": "SteelerNation passes along trade speculation involving Patrick Queen; treat it as unconfirmed until the team announces a move, touching on the trade deadline. Read the full story at SteelerNation.",
+   "url": "https://www.steelernation.com/2026/10/28/steelers-espn-suddenly-patrick-queen",
+   "source": {
+    "name": "SteelerNation",
+    "url": null,
+    "reliability_tier": "Fan blog",
+    "reliability_score": 2
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-28T12:16:17+00:00",
+   "updated": "2026-10-28T12:16:17+00:00",
+   "published": "2026-10-28T12:13:32+00:00",
+   "people": [],
+   "consensus": {
+    "cluster_id": "3d83594dea4b",
+    "independent_sources": 2,
+    "sources": [
+     "Chat Sports",
+     "SteelerNation"
+    ],
+    "highest_tier": "Fan blog",
+    "highest_tier_score": 2,
+    "related_ids": [
+     "3d83594dea4b"
+    ]
+   }
+  },
+  {
+   "id": "b9c5d295880a",
+   "type": "rumor",
+   "title": "Trade rumor: Sauce Gardner and Brian Thomas Jr.",
+   "summary": "WKYC passes along trade speculation involving Sauce Gardner and Brian Thomas Jr.; treat it as unconfirmed until the team announces a move. Read the full story at WKYC.",
+   "url": "https://www.wkyc.com/video/sports/locked-on/lo-pittsburgh/steelers-show/why-steelers-shouldnt-go-for-big-trade-targets-like-sauce-gardner-brian-thomas-jr-focus-on-draft/535-3338df35-7737-417a-a942-f2da9898c312",
+   "source": {
+    "name": "WKYC",
+    "url": null,
+    "reliability_tier": "Aggregator / other",
+    "reliability_score": 1
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-28T12:16:17+00:00",
+   "updated": "2026-10-28T12:16:17+00:00",
+   "published": "2026-10-28T12:07:00+00:00",
+   "people": [
+    "Brian Thomas Jr."
+   ],
+   "consensus": {
+    "cluster_id": "b030e7b7babc",
+    "independent_sources": 2,
+    "sources": [
+     "Still Curtain",
+     "WKYC"
+    ],
+    "highest_tier": "Fan blog",
+    "highest_tier_score": 2,
+    "related_ids": [
+     "b030e7b7babc"
+    ]
+   }
+  },
+  {
+   "id": "f55a4510a984",
+   "type": "rumor",
+   "title": "Trade rumor: Deshaun Watson",
+   "summary": "Audacy passes along trade speculation involving Deshaun Watson; treat it as unconfirmed until the team announces a move, touching on the trade deadline. Up next for the Steelers: the Browns, in Week 8. Read the full story at Audacy.",
+   "url": "https://www.audacy.com/923thefan/video/brian-baldinger-on-deshaun-watson-s-progress-browns-steelers-cleveland-s-trade-deadline-strategy-xbrqu8i",
+   "source": {
+    "name": "Audacy",
+    "url": null,
+    "reliability_tier": "Aggregator / other",
+    "reliability_score": 1
+   },
+   "status": "Rumor",
+   "status_evidence": null,
+   "first_seen": "2026-10-28T12:16:17+00:00",
+   "updated": "2026-10-28T12:16:17+00:00",
+   "published": "2026-10-28T11:58:53+00:00",
+   "people": [],
+   "consensus": {
+    "cluster_id": "f55a4510a984",
+    "independent_sources": 1,
+    "sources": [
+     "Audacy"
+    ],
+    "highest_tier": "Aggregator / other",
+    "highest_tier_score": 1,
+    "related_ids": []
+   }
+  },
   {
    "id": "98672c12a699",
    "type": "rumor",
@@ -38,7 +133,7 @@
    "published": "2026-10-28T11:21:36+00:00",
    "people": [],
    "consensus": {
-    "cluster_id": "9e37088de4c1",
+    "cluster_id": "3f3271514107",
     "independent_sources": 4,
     "sources": [
      "A to Z Sports",
@@ -53,7 +148,8 @@
      "f70a13da10bb",
      "702ace99a8e9",
      "c60d83ea0785",
-     "9e37088de4c1"
+     "9e37088de4c1",
+     "3f3271514107"
     ]
    }
   },
@@ -169,16 +265,13 @@
    ],
    "consensus": {
     "cluster_id": "75649bd9f46f",
-    "independent_sources": 2,
+    "independent_sources": 1,
     "sources": [
-     "KRQE",
-     "WOWK 13 News"
+     "KRQE"
     ],
     "highest_tier": "Aggregator / other",
     "highest_tier_score": 1,
-    "related_ids": [
-     "14c9faeb3359"
-    ]
+    "related_ids": []
    }
   },
   {
@@ -229,7 +322,7 @@
    "published": "2026-10-27T18:26:40+00:00",
    "people": [],
    "consensus": {
-    "cluster_id": "9e37088de4c1",
+    "cluster_id": "3f3271514107",
     "independent_sources": 4,
     "sources": [
      "A to Z Sports",
@@ -244,7 +337,8 @@
      "307e2a040ea7",
      "702ace99a8e9",
      "c60d83ea0785",
-     "9e37088de4c1"
+     "9e37088de4c1",
+     "3f3271514107"
     ]
    }
   },
@@ -302,19 +396,22 @@
    ],
    "consensus": {
     "cluster_id": "b030e7b7babc",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
-     "Still Curtain"
+     "Still Curtain",
+     "WKYC"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "b9c5d295880a"
+    ]
    }
   },
   {
    "id": "702ace99a8e9",
    "type": "rumor",
-   "title": "Trade rumor: Steelers (Yahoo Sports)",
+   "title": "Trade rumor: Steelers (Yahoo Sports) (Yahoo Sports)",
    "summary": "Yahoo Sports passes along trade speculation involving the Steelers; treat it as unconfirmed until the team announces a move, touching on the Steelers' receivers and the trade deadline. Read the full story at Yahoo Sports.",
    "url": "https://sports.yahoo.com/articles/pittsburgh-steelers-named-fit-30m-161714605.html",
    "source": {
@@ -330,7 +427,7 @@
    "published": "2026-10-27T16:17:14+00:00",
    "people": [],
    "consensus": {
-    "cluster_id": "9e37088de4c1",
+    "cluster_id": "3f3271514107",
     "independent_sources": 4,
     "sources": [
      "A to Z Sports",
@@ -345,7 +442,8 @@
      "307e2a040ea7",
      "f70a13da10bb",
      "c60d83ea0785",
-     "9e37088de4c1"
+     "9e37088de4c1",
+     "3f3271514107"
     ]
    }
   },
@@ -431,7 +529,7 @@
    "published": "2026-10-27T15:15:49+00:00",
    "people": [],
    "consensus": {
-    "cluster_id": "9e37088de4c1",
+    "cluster_id": "3f3271514107",
     "independent_sources": 4,
     "sources": [
      "A to Z Sports",
@@ -446,7 +544,8 @@
      "307e2a040ea7",
      "f70a13da10bb",
      "702ace99a8e9",
-     "9e37088de4c1"
+     "9e37088de4c1",
+     "3f3271514107"
     ]
    }
   },
@@ -469,14 +568,17 @@
    "published": "2026-10-27T14:24:07+00:00",
    "people": [],
    "consensus": {
-    "cluster_id": "87aceeb400a8",
-    "independent_sources": 1,
+    "cluster_id": "0e25ebeff1e5",
+    "independent_sources": 2,
     "sources": [
+     "AOL.com",
      "Yahoo Sports"
     ],
     "highest_tier": "National insider",
     "highest_tier_score": 4,
-    "related_ids": []
+    "related_ids": [
+     "0e25ebeff1e5"
+    ]
    }
   },
   {
@@ -683,7 +785,7 @@
     "Pro Bowl"
    ],
    "consensus": {
-    "cluster_id": "9e37088de4c1",
+    "cluster_id": "3f3271514107",
     "independent_sources": 4,
     "sources": [
      "A to Z Sports",
@@ -698,7 +800,8 @@
      "307e2a040ea7",
      "f70a13da10bb",
      "702ace99a8e9",
-     "c60d83ea0785"
+     "c60d83ea0785",
+     "3f3271514107"
     ]
    }
   },
@@ -734,7 +837,7 @@
   {
    "id": "3d83594dea4b",
    "type": "rumor",
-   "title": "Trade rumor: Patrick Queen",
+   "title": "Trade rumor: Patrick Queen (Chat Sports)",
    "summary": "Chat Sports passes along trade speculation involving Patrick Queen; treat it as unconfirmed until the team announces a move. Read the full story at Chat Sports.",
    "url": "https://www.chatsports.com/pittsburgh-steelers/a/steelers-rumors-should-pittsburgh-trade-patrick-queen-cowboys-53601",
    "source": {
@@ -751,13 +854,16 @@
    "people": [],
    "consensus": {
     "cluster_id": "3d83594dea4b",
-    "independent_sources": 1,
+    "independent_sources": 2,
     "sources": [
-     "Chat Sports"
+     "Chat Sports",
+     "SteelerNation"
     ],
     "highest_tier": "Fan blog",
     "highest_tier_score": 2,
-    "related_ids": []
+    "related_ids": [
+     "a15a08b885da"
+    ]
    }
   },
   {

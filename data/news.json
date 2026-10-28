@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T12:04:23.975629+00:00",
+ "generated": "2026-10-28T12:15:45.938511+00:00",
  "count": 150,
  "sources": [
   {
@@ -29,8 +29,8 @@
   {
    "source": "Steel City Underground",
    "url": "https://steelcityunderground.com/feed/",
-   "status": "ok",
-   "steelers_items": 24
+   "status": "error: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1029)>",
+   "steelers_items": 0
   },
   {
    "source": "Still Curtain",
@@ -95,6 +95,15 @@
  ],
  "items": [
   {
+   "title": "Steelers player mentioned in trade talks",
+   "source": "SteelerNation",
+   "link": "https://www.steelernation.com/2026/10/28/steelers-espn-suddenly-patrick-queen",
+   "published": "2026-10-28T12:13:32+00:00",
+   "summary": "A Steelers player is a trade target for other teams. Read the full story at SteelerNation.",
+   "id": "a15a08b885",
+   "writer": "ai"
+  },
+  {
    "title": "Steelers Seek Wide Receiver",
    "source": "Steelers Depot",
    "link": "https://steelersdepot.com/2026/10/steelers-beat-writers-agree-omars-gonna-be-aggressive-in-trade-efforts-for-wide-receiver-everything-in-his-power/",
@@ -132,23 +141,13 @@
    "id": "5782605e46"
   },
   {
-   "title": "Mike McCarthy discusses Cleveland",
-   "source": "LehighValleyLive.com",
-   "link": "https://www.lehighvalleylive.com/sports/2026/10/mike-mccarthy-had-a-surprising-admission-about-cleveland-before-browns-steelers.html",
+   "title": "Mike McCarthy talks about Cleveland",
+   "source": "Cleveland.com",
+   "link": "https://www.cleveland.com/news/2026/10/mike-mccarthy-had-a-surprising-admission-about-cleveland-before-browns-steelers.html",
    "published": "2026-10-28T11:27:00+00:00",
    "via": "Google News",
-   "summary": "Mike McCarthy talks about Cleveland and Pittsburgh. Read the full story at LehighValleyLive.com.",
-   "id": "98adf1eefe",
-   "writer": "ai"
-  },
-  {
-   "title": "Steelers face Browns",
-   "source": "Squawka",
-   "link": "https://www.squawka.com/us/nfl/nfl-news/browns-vs-steelers-prediction-picks-odds-week-8/",
-   "published": "2026-10-28T11:03:01+00:00",
-   "via": "Google News",
-   "summary": "Game between Steelers and Browns. Read the full story at Squawka.",
-   "id": "47a3d1156a",
+   "summary": "Mike McCarthy made an admission about Cleveland. Read the full story at Cleveland.com.",
+   "id": "43a7795ead",
    "writer": "ai"
   },
   {
@@ -178,13 +177,22 @@
    "id": "59c0fe91ff"
   },
   {
-   "title": "Steelers have key strengths",
-   "source": "All Steelers (Sports Illustrated)",
-   "link": "https://www.si.com/nfl/steelers/onsi/pittsburgh-steelers-two-biggest-strengths-carry-them-hopefully",
-   "published": "2026-10-28T10:00:03+00:00",
-   "summary": "The Steelers have notable strengths that can carry them. Read the full story at All Steelers (Sports Illustrated).",
+   "title": "Browns and Steelers face off",
+   "source": "Canton Repository",
+   "link": "https://www.cantonrep.com/story/sports/pro/browns/2026/10/28/browns-steelers-3-biggest-questions/92459117007/",
+   "published": "2026-10-28T10:11:58+00:00",
    "via": "Google News",
-   "id": "c336381c75",
+   "summary": "The Browns play the Steelers. The matchup is examined. Read the full story at Canton Repository.",
+   "id": "7ea4e7b531",
+   "writer": "ai"
+  },
+  {
+   "title": "Steelers react to comments",
+   "source": "TribLive",
+   "link": "https://triblive.com/sports/first-call-cam-heyward-responds-to-jared-verses-dirty-steelers-comments-figuring-troy-fautanus-mistakes-in-saints-game/",
+   "published": "2026-10-28T10:05:22+00:00",
+   "summary": "Cam Heyward responds to criticism and a retired fan comments on the Steelers. Read the full story at TribLive.",
+   "id": "1494f0fba9",
    "writer": "ai"
   },
   {
@@ -224,26 +232,6 @@
    "writer": "ai"
   },
   {
-   "title": "Deforest Buckner helps 49ers defense",
-   "source": "Marin Independent Journal",
-   "link": "https://www.marinij.com/2026/10/27/49ers-deforest-buckner-trade-nick-bosa-raheem-morris-john-lynch-kurtenbach-1027/",
-   "published": "2026-10-28T06:43:47+00:00",
-   "via": "Google News",
-   "summary": "DeForest Buckner aids the 49ers defense. Read the full story at Marin Independent Journal.",
-   "id": "652b0f8cc3",
-   "writer": "ai"
-  },
-  {
-   "title": "Steelers scouting players",
-   "source": "NDTV Sports",
-   "link": "https://sports.ndtv.com/us/nfl/pittsburgh-steelers-scout-arch-manning-and-trinidad-chambliss-ahead-of-2027-nfl-draft-12246537",
-   "published": "2026-10-28T04:52:24+00:00",
-   "via": "Google News",
-   "summary": "The Steelers are scouting players ahead of the draft. Read the full story at NDTV Sports.",
-   "id": "4ac8cb15ed",
-   "writer": "ai"
-  },
-  {
    "title": "Steelers demonstrate readiness",
    "source": "Audacy",
    "link": "https://www.audacy.com/937thefan/sports/pittsburgh-steelers/thunder-shows-steelers-readiness-for-stress",
@@ -263,7 +251,7 @@
    "writer": "ai"
   },
   {
-   "title": "Steelers face Browns (Steelers.com (official))",
+   "title": "Steelers face Browns",
    "source": "Steelers.com (official)",
    "link": "https://www.steelers.com/news/steelers-vs-browns-how-to-watch-listen-to-the-game-x8437",
    "published": "2026-10-28T01:30:00+00:00",
@@ -286,16 +274,6 @@
    "published": "2026-10-28T01:00:38+00:00",
    "summary": "Daily segment covering Pittsburgh Steelers stories. Recent team news is shared. Read the full story at Steelers Depot.",
    "id": "3a0b645cf4",
-   "writer": "ai"
-  },
-  {
-   "title": "Steelers face challenge",
-   "source": "Athlon Sports",
-   "link": "https://athlonsports.com/nfl/pittsburgh-steelers/aaron-rodgers-challenges-steelers-offense-to-improve-ahead-of-week-8",
-   "published": "2026-10-28T00:57:00+00:00",
-   "via": "Google News",
-   "summary": "The Steelers offense is challenged to improve by Aaron Rodgers. Read the full story at Athlon Sports.",
-   "id": "bb561abdd4",
    "writer": "ai"
   },
   {
@@ -337,10 +315,11 @@
   },
   {
    "title": "Steelers consider trade",
-   "source": "SteelerNation",
+   "source": "Steeler Nation",
    "link": "https://www.steelernation.com/2026/10/27/steelers-colts-big-trade-defender",
-   "published": "2026-10-27T23:53:51+00:00",
-   "summary": "The Steelers may make a trade for a defender. Read the full story at SteelerNation.",
+   "published": "2026-10-27T23:54:46+00:00",
+   "via": "Google News",
+   "summary": "The Steelers may make a trade for a defender. Read the full story at Steeler Nation.",
    "id": "172b135fa6",
    "writer": "ai"
   },
@@ -369,16 +348,6 @@
    "published": "2026-10-27T22:58:44+00:00",
    "summary": "The Steelers are criticized for a mistake. Read the full story at SteelerNation.",
    "id": "e8cf1a8c72",
-   "writer": "ai"
-  },
-  {
-   "title": "DeForest Buckner traded to 49ers",
-   "source": "WOWK 13 News",
-   "link": "https://www.wowktv.com/sports/ap-the-49ers-bring-back-deforest-buckner-in-trade-with-the-colts-ap-source-says/",
-   "published": "2026-10-27T22:48:51+00:00",
-   "via": "Google News",
-   "summary": "DeForest Buckner is traded to the 49ers. Read the full story at WOWK 13 News.",
-   "id": "14c9faeb33",
    "writer": "ai"
   },
   {
@@ -416,6 +385,16 @@
    "published": "2026-10-27T22:23:45+00:00",
    "summary": "A Steelers coach discusses a player's future. Read the full story at SteelerNation.",
    "id": "5e973b907f",
+   "writer": "ai"
+  },
+  {
+   "title": "Steelers interested in speedy receiver",
+   "source": "Heavy.com",
+   "link": "https://heavy.com/sports/nfl/pittsburgh-steelers/ladd-mcconkey-nfl-news-trade-deadline-rumors-chargers/",
+   "published": "2026-10-27T22:20:45+00:00",
+   "via": "Google News",
+   "summary": "The Steelers are trade suitors for a wide receiver. Read the full story at Heavy.com.",
+   "id": "dd27d142cd",
    "writer": "ai"
   },
   {
@@ -706,15 +685,6 @@
    "writer": "ai"
   },
   {
-   "title": "Troy Fautanu situation",
-   "source": "SteelerNation",
-   "link": "https://www.steelernation.com/2026/10/27/steelers-troy-fautanu-worry",
-   "published": "2026-10-27T17:24:43+00:00",
-   "summary": "Troy Fautanu is a topic of discussion among Steelers fans. Read the full story at SteelerNation.",
-   "id": "3408e6948d",
-   "writer": "ai"
-  },
-  {
    "title": "Steelers consider trade options (Still Curtain)",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/pittsburgh-steelers-trade-deadline-big-board-new-name-brian-thomas-jr-01m5da93rcp5?utm_source=RSS",
@@ -846,24 +816,6 @@
    "id": "49486452f3"
   },
   {
-   "title": "New Orleans Saints news",
-   "source": "New Orleans Saints",
-   "link": "https://www.neworleanssaints.com/news/five-things-to-know-about-the-new-orleans-saints-bye-week-8-tuesday-october-27",
-   "published": "2026-10-27T13:17:13+00:00",
-   "via": "Google News",
-   "summary": "The New Orleans Saints are discussed. Read the full story at New Orleans Saints.",
-   "id": "e71a1bfc40",
-   "writer": "ai"
-  },
-  {
-   "title": "Closer look: the international game",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/27/steelers-surprises-unexpected-performances-and-missed-opportunities-in-paris/",
-   "published": "2026-10-27T13:11:45+00:00",
-   "summary": "Steel City Underground takes a closer look at the international game. Read the full story at Steel City Underground.",
-   "id": "cfface2910"
-  },
-  {
    "title": "Trade talk: Joey Porter Jr.",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/dallas-cowboys-joey-porter-jr-made-pittsburgh-steelers-feel-more-trade-pain-01m5ymsbjwgs?utm_source=RSS",
@@ -888,15 +840,6 @@
    "published": "2026-10-27T12:00:04+00:00",
    "summary": "The Steelers may target rentals before deadline. They hold a winning record. Read the full story at Still Curtain.",
    "id": "a061c336e9",
-   "writer": "ai"
-  },
-  {
-   "title": "Steelers win with single touchdown",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/27/watch-darnell-washington-scores-steelers-only-touchdown-in-paris/",
-   "published": "2026-10-27T11:50:40+00:00",
-   "summary": "The Steelers secured a win with one touchdown. Darnell Washington scored it. Read the full story at Steel City Underground.",
-   "id": "f58487bddc",
    "writer": "ai"
   },
   {
@@ -1143,14 +1086,6 @@
    "id": "77f6ad8a35"
   },
   {
-   "title": "Game review: takeaways",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/26/steelers-takeaways-defense-and-running-game-deliver-another-victory-in-paris/",
-   "published": "2026-10-26T13:35:33+00:00",
-   "summary": "Steel City Underground looks back at the game, with a focus on the Steelers, touching on the Steelers' run game and the Steelers' defense. Read the full story at Steel City Underground.",
-   "id": "da451f7798"
-  },
-  {
    "title": "Mike McCarthy handles Steelers trip",
    "source": "TribLive",
    "link": "https://triblive.com/sports/cup-of-joe-starkey-mike-mccarthy-managed-the-steelers-paris-trip-and-game-quite-nicely/",
@@ -1197,31 +1132,12 @@
    "writer": "ai"
   },
   {
-   "title": "Steelers defense makes key play",
-   "source": "Steel City Underground",
-   "link": "https://www.steelcityunderground.com/2026/10/26/payton-wilsons-interception-stops-saints-second-half-scoring-threat/",
-   "published": "2026-10-26T11:46:13+00:00",
-   "summary": "The Steelers defense stopped a Saints scoring threat. The defense helped the team win. Read the full story at Steel City Underground.",
-   "id": "1edb3d9827",
-   "writer": "ai"
-  },
-  {
    "title": "Saints fans react to loss",
    "source": "TribLive",
    "link": "https://triblive.com/sports/steelers-vs-saints-what-theyre-saying-in-new-orleans-after-loss-2/",
    "published": "2026-10-26T11:34:56+00:00",
    "summary": "New Orleans fans and critics discuss the loss. The Saints have another loss this season. Read the full story at TribLive.",
    "id": "776d4ea83a",
-   "writer": "ai"
-  },
-  {
-   "title": "Aaron Rodgers plays on",
-   "source": "The Guardian",
-   "link": "https://www.theguardian.com/sport/2026/oct/26/aaron-rodgers-pittsburgh-steelers-nfl",
-   "published": "2026-10-26T11:34:00+00:00",
-   "via": "Google News",
-   "summary": "Aaron Rodgers continues his career. Read the full story at The Guardian.",
-   "id": "35e968720f",
    "writer": "ai"
   },
   {
@@ -1299,15 +1215,6 @@
    "writer": "ai"
   },
   {
-   "title": "Saints game review: the result",
-   "source": "FOX 8 Local First",
-   "link": "https://www.fox8live.com/2026/10/25/fazende-five-takes-saints-loss-steelers/",
-   "published": "2026-10-25T22:21:00+00:00",
-   "via": "Google News",
-   "summary": "FOX 8 Local First looks back at the game, with a focus on the Steelers and the Saints. For context, the Steelers beat the Saints in Week 7. Read the full story at FOX 8 Local First.",
-   "id": "ba968491b4"
-  },
-  {
    "title": "Steelers position in division",
    "source": "All Steelers (Sports Illustrated)",
    "link": "https://www.si.com/nfl/steelers/onsi/where-pittsburgh-steelers-stand-afc-north-saints-game",
@@ -1374,12 +1281,32 @@
    "writer": "ai"
   },
   {
+   "title": "Steelers face Saints",
+   "source": "NFL.com",
+   "link": "https://www.nfl.com/videos/steelers-vs-saints-highlights-week-7",
+   "published": "2026-10-25T17:16:04+00:00",
+   "via": "Google News",
+   "summary": "Game highlights are available. Read the full story at NFL.com.",
+   "id": "0a304dd56f",
+   "writer": "ai"
+  },
+  {
    "title": "Steelers win in Paris (Still Curtain)",
    "source": "Still Curtain",
    "link": "https://stillcurtain.com/5-instant-reactions-to-the-pittsburgh-steelers-ugly-overseas-victory-against-the-saints-01m5swe5f5hh?utm_source=RSS",
    "published": "2026-10-25T17:05:56+00:00",
    "summary": "The Steelers beat the Saints in Paris. The game was not pretty. Read the full story at Still Curtain.",
    "id": "e6a1187ff4",
+   "writer": "ai"
+  },
+  {
+   "title": "Steelers eye Pro Bowl receiver",
+   "source": "A to Z Sports",
+   "link": "https://atozsports.com/nfl/pittsburgh-steelers-news/pittsburgh-steelers-monitoring-brian-thomas-jr-trade-nfl-deadline-rumors/",
+   "published": "2026-10-25T16:59:55+00:00",
+   "via": "Google News",
+   "summary": "The Steelers are interested in a Pro Bowl wide receiver. Read the full story at A to Z Sports.",
+   "id": "3f32715141",
    "writer": "ai"
   },
   {
@@ -1438,6 +1365,15 @@
    "writer": "ai"
   },
   {
+   "title": "Saints game review: the result",
+   "source": "New Orleans Saints",
+   "link": "https://www.neworleanssaints.com/news/2026-nfl-week-7-pittsburgh-steelers-vs-new-orleans-saints-halftime-update",
+   "published": "2026-10-25T15:50:34+00:00",
+   "via": "Google News",
+   "summary": "New Orleans Saints looks back at the game, with a focus on the Steelers and the Saints. For context, the Steelers beat the Saints in Week 7. Read the full story at New Orleans Saints.",
+   "id": "6dbe9c713d"
+  },
+  {
    "title": "Referee questions call on strip sack",
    "source": "PennLive (Nick Farabaugh)",
    "link": "https://www.pennlive.com/steelers/2026/10/former-nfl-referee-surprised-officials-overturned-huge-near-tj-watt-strip-sack.html",
@@ -1454,6 +1390,68 @@
    "via": "Google News",
    "summary": "A player scores a touchdown in a game. Read the full story at NFL.com.",
    "id": "1e4bd4523b",
+   "writer": "ai"
+  },
+  {
+   "title": "Aaron Rodgers achieves milestone",
+   "source": "Steelers.com (official)",
+   "link": "https://www.steelers.com/news/rodgers-now-3rd-all-time-in-passing-tds",
+   "published": "2026-10-25T14:45:00+00:00",
+   "summary": "Aaron Rodgers passes Peyton Manning in regular season passing touchdowns. Read the full story at Steelers.com (official).",
+   "id": "645b05cab7",
+   "writer": "ai"
+  },
+  {
+   "title": "Steelers fans travel to Paris",
+   "source": "TribLive",
+   "link": "https://triblive.com/sports/photo-gallery-fans-gather-at-stade-de-france-stadium-to-support-steelers/",
+   "published": "2026-10-25T13:04:47+00:00",
+   "summary": "Fans gather to support the Steelers in France. Thousands attend the game. Read the full story at TribLive.",
+   "id": "f1dbb9569c",
+   "writer": "ai"
+  },
+  {
+   "title": "Steelers play Saints in Paris",
+   "source": "PennLive (Nick Farabaugh)",
+   "link": "https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-at-new-orleans-saints-nfl-week-7-live-updates.html",
+   "published": "2026-10-25T13:04:07+00:00",
+   "summary": "The Steelers and Saints played in Paris. It was the first NFL game there. Read the full story at PennLive (Nick Farabaugh).",
+   "id": "38d70b504d",
+   "writer": "ai"
+  },
+  {
+   "title": "Steelers get running back news",
+   "source": "PennLive (Nick Farabaugh)",
+   "link": "https://www.pennlive.com/steelers/2026/10/pittsburgh-steelers-get-big-news-on-key-running-back-rule-six-players-out.html",
+   "published": "2026-10-25T12:49:33+00:00",
+   "summary": "Rico Dowdle is active against the Saints. Read the full story at PennLive (Nick Farabaugh).",
+   "id": "cacea14143",
+   "writer": "ai"
+  },
+  {
+   "title": "Closer look: Kevin Jobity Jr., the international game and rookies",
+   "source": "TribLive",
+   "link": "https://triblive.com/sports/steelers-rookie-dl-kevin-jobity-jr-makes-nfl-debut-in-paris/",
+   "published": "2026-10-25T12:19:33+00:00",
+   "summary": "TribLive takes a closer look at the international game and rookies, with Kevin Jobity Jr. in focus. Read the full story at TribLive.",
+   "id": "b9d07b3974"
+  },
+  {
+   "title": "Steelers announce inactive players",
+   "source": "Steelers.com (official)",
+   "link": "https://www.steelers.com/news/steelers-inactives-for-week-7-at-saints",
+   "published": "2026-10-25T12:00:00+00:00",
+   "summary": "The Steelers list players not playing against the Saints. The game is in Paris. Read the full story at Steelers.com (official).",
+   "id": "5fc33810de",
+   "writer": "ai"
+  },
+  {
+   "title": "Steelers player not from France",
+   "source": "Steelers.com (official)",
+   "link": "https://www.steelers.com/news/asked-and-answered-oct-25-x9987",
+   "published": "2026-10-25T10:05:00+00:00",
+   "summary": "A Steelers player has a french nickname despite not being from France. Read the full story at Steelers.com (official).",
+   "id": "711f58947b",
    "writer": "ai"
   }
  ],
