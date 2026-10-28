@@ -2,9 +2,9 @@
  "api_version": "1",
  "dataset": "podcasts",
  "description": "Today's Steelers podcast episodes and YouTube videos (links).",
- "generated": "2026-10-28T16:05:57+00:00",
- "data_updated": "2026-10-28T16:05:37+00:00",
- "count": 108,
+ "generated": "2026-10-28T16:17:20+00:00",
+ "data_updated": "2026-10-28T16:17:01+00:00",
+ "count": 91,
  "terms": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL. Headlines and links belong to their original publishers; we grant no rights in them. Summaries, grades, ratings, rumor tiers, needs and board rankings and analysis are written by Black & Gold Dispatch: credit 'Black & Gold Dispatch' and link to the original publisher (the `url` field). Scores, schedule, stats, depth chart, injuries and the stats behind stats-based grades come from nflverse (https://github.com/nflverse/nflverse-data), licensed CC-BY 4.0: you may reuse them if you credit 'Data: nflverse (CC-BY 4.0)'. College prospect stats come from CollegeFootballData.com (https://collegefootballdata.com): credit 'Data: CollegeFootballData.com'; we grant no rights in their data. Wikipedia-derived facts are CC BY-SA 4.0 (credit Wikipedia). Social posts are not reproduced; follow the link to the author. Do not republish full articles.",
  "rights": {
   "disclaimer": "Unofficial fan site. Not affiliated with, endorsed or sponsored by the Pittsburgh Steelers or the NFL.",
@@ -33,6 +33,19 @@
    }
   },
   {
+   "id": "d515d07292ba53a2",
+   "type": "podcast_episode",
+   "title": "Hour 1: Breaking Down the Browns",
+   "show": "Steelers Blitz",
+   "url": "https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr1-102826-mp3",
+   "published": "2026-10-28T15:00:00+00:00",
+   "summary": "Podcast episode from Steelers Blitz.",
+   "source": {
+    "name": "Steelers Blitz",
+    "url": null
+   }
+  },
+  {
    "id": "7d533777079a5528",
    "type": "podcast_episode",
    "title": "Steelers Double Dipping at Trades?",
@@ -55,6 +68,19 @@
    "summary": "Video from Steelers Almighty.",
    "source": {
     "name": "Steelers Almighty",
+    "url": null
+   }
+  },
+  {
+   "id": "930e82490a2d342b",
+   "type": "podcast_episode",
+   "title": "Hour 2: Power Rankings + NFL News",
+   "show": "Steelers Blitz",
+   "url": "https://omny.fm/shows/steelers-blitz-pittsburgh-steelers/theblitzhr2-1022826-mp3",
+   "published": "2026-10-28T14:00:00+00:00",
+   "summary": "Podcast episode from Steelers Blitz.",
+   "source": {
+    "name": "Steelers Blitz",
     "url": null
    }
   },
@@ -98,11 +124,11 @@
    }
   },
   {
-   "id": "2ed6132323e2d6f6",
+   "id": "ecebbfd92d601d1e",
    "type": "podcast_episode",
    "title": "Steelers Beat Saints in Paris, Browns Preview & NFL Halloween Villains | Not Just Football",
    "show": "Not Just Football with Cam Heyward",
-   "url": "https://www.youtube.com/@NotJustFootballwithCamHeyward",
+   "url": "https://podcasts.apple.com/us/podcast/steelers-beat-saints-in-paris-browns-preview-nfl-halloween/id1633134223?i=1000798501297",
    "published": "2026-10-28T10:00:00+00:00",
    "summary": "Podcast episode from Not Just Football with Cam Heyward.",
    "source": {
@@ -228,19 +254,6 @@
    }
   },
   {
-   "id": "e65c861dc9e54cdd",
-   "type": "podcast_episode",
-   "title": "Trade Deadline Fits? | Steelers Afternoon Drive",
-   "show": "Steelers Afternoon Drive",
-   "url": "https://podcasts.apple.com/us/podcast/trade-deadline-fits-steelers-afternoon-drive/id1700240934?i=1000798430366",
-   "published": "2026-10-27T22:07:00+00:00",
-   "summary": "Podcast episode from Steelers Afternoon Drive.",
-   "source": {
-    "name": "Steelers Afternoon Drive",
-    "url": null
-   }
-  },
-  {
    "id": "5da7ddc148e2988c",
    "type": "podcast_episode",
    "title": "Two New WR Trade Options Emerge for Steelers",
@@ -263,19 +276,6 @@
    "summary": "Podcast episode from The Terrible Podcast (Steelers Depot).",
    "source": {
     "name": "The Terrible Podcast (Steelers Depot)",
-    "url": null
-   }
-  },
-  {
-   "id": "70ed92d5ad02b737",
-   "type": "podcast_episode",
-   "title": "DK's Double Shot of Steelers: Back from Paris!",
-   "show": "DK Pittsburgh Sports",
-   "url": "https://podcasts.apple.com/us/podcast/dks-double-shot-of-steelers-back-from-paris/id1072021022?i=1000798454803",
-   "published": "2026-10-27T21:00:00+00:00",
-   "summary": "Podcast episode from DK Pittsburgh Sports.",
-   "source": {
-    "name": "DK Pittsburgh Sports",
     "url": null
    }
   },
@@ -410,19 +410,6 @@
    }
   },
   {
-   "id": "db859336279a68de",
-   "type": "podcast_episode",
-   "title": "Mike McCarthy Picking Up Where Tomlin Left Off? | Steelers Morning Rush",
-   "show": "Steelers Afternoon Drive",
-   "url": "https://podcasts.apple.com/us/podcast/mike-mccarthy-picking-up-where-tomlin-left-off-steelers/id1700240934?i=1000798379740",
-   "published": "2026-10-27T15:51:00+00:00",
-   "summary": "Podcast episode from Steelers Afternoon Drive.",
-   "source": {
-    "name": "Steelers Afternoon Drive",
-    "url": null
-   }
-  },
-  {
    "id": "497ff14c72a0f6e9",
    "type": "video",
    "title": "Mike McCarthy Picking Up Where Tomlin Left Off? | Steelers Morning Rush",
@@ -540,32 +527,6 @@
    }
   },
   {
-   "id": "9950349e1ecc615d",
-   "type": "podcast_episode",
-   "title": "DK's Daily Shot of Steelers: The real identity",
-   "show": "DK Pittsburgh Sports",
-   "url": "https://podcasts.apple.com/us/podcast/dks-daily-shot-of-steelers-the-real-identity/id1072021022?i=1000798335535",
-   "published": "2026-10-27T07:11:00+00:00",
-   "summary": "Podcast episode from DK Pittsburgh Sports.",
-   "source": {
-    "name": "DK Pittsburgh Sports",
-    "url": null
-   }
-  },
-  {
-   "id": "4b080c05b2f5e3b6",
-   "type": "podcast_episode",
-   "title": "Scout’s Eye with Matt Williamson: A team effort",
-   "show": "DK Pittsburgh Sports",
-   "url": "https://podcasts.apple.com/us/podcast/scouts-eye-with-matt-williamson-a-team-effort/id1072021022?i=1000798314677",
-   "published": "2026-10-27T07:08:00+00:00",
-   "summary": "Podcast episode from DK Pittsburgh Sports.",
-   "source": {
-    "name": "DK Pittsburgh Sports",
-    "url": null
-   }
-  },
-  {
    "id": "15b61e30d71e5927",
    "type": "video",
    "title": "Steelers Imposed Their Will Over the Saints in Paris | Illegal Hands to the Face",
@@ -614,19 +575,6 @@
    "summary": "Video from Steelers Now.",
    "source": {
     "name": "Steelers Now",
-    "url": null
-   }
-  },
-  {
-   "id": "50b5ba1ec8cce0bb",
-   "type": "podcast_episode",
-   "title": "Dominant Trench Play, Frazier League's Best Center? | Steelers Afternoon Drive",
-   "show": "Steelers Afternoon Drive",
-   "url": "https://podcasts.apple.com/us/podcast/dominant-trench-play-frazier-leagues-best-center-steelers/id1700240934?i=1000798257501",
-   "published": "2026-10-26T22:10:00+00:00",
-   "summary": "Podcast episode from Steelers Afternoon Drive.",
-   "source": {
-    "name": "Steelers Afternoon Drive",
     "url": null
    }
   },
@@ -705,19 +653,6 @@
    "summary": "Video from Steelers Almighty.",
    "source": {
     "name": "Steelers Almighty",
-    "url": null
-   }
-  },
-  {
-   "id": "6bb4c97ab8c355d4",
-   "type": "podcast_episode",
-   "title": "Steelers-Browns Winner in AFC North Drivers' Seat? | Steelers Morning Rush",
-   "show": "Steelers Afternoon Drive",
-   "url": "https://podcasts.apple.com/us/podcast/steelers-browns-winner-in-afc-north-drivers-seat-steelers/id1700240934?i=1000798229423",
-   "published": "2026-10-26T18:59:00+00:00",
-   "summary": "Podcast episode from Steelers Afternoon Drive.",
-   "source": {
-    "name": "Steelers Afternoon Drive",
     "url": null
    }
   },
@@ -891,32 +826,6 @@
    }
   },
   {
-   "id": "812e03d8e4fb4b41",
-   "type": "podcast_episode",
-   "title": "DK's Daily Shot of Steelers: Having fun yet?",
-   "show": "DK Pittsburgh Sports",
-   "url": "https://podcasts.apple.com/us/podcast/dks-daily-shot-of-steelers-having-fun-yet/id1072021022?i=1000798146008",
-   "published": "2026-10-26T05:42:00+00:00",
-   "summary": "Podcast episode from DK Pittsburgh Sports.",
-   "source": {
-    "name": "DK Pittsburgh Sports",
-    "url": null
-   }
-  },
-  {
-   "id": "279f2c4876e88841",
-   "type": "podcast_episode",
-   "title": "Scout’s Eye with Matt Williamson: Closer than it felt",
-   "show": "DK Pittsburgh Sports",
-   "url": "https://podcasts.apple.com/us/podcast/scouts-eye-with-matt-williamson-closer-than-it-felt/id1072021022?i=1000798123487",
-   "published": "2026-10-26T05:40:00+00:00",
-   "summary": "Podcast episode from DK Pittsburgh Sports.",
-   "source": {
-    "name": "DK Pittsburgh Sports",
-    "url": null
-   }
-  },
-  {
    "id": "7cb841d2bcaed240",
    "type": "video",
    "title": "Darnell takin over Paris 😤",
@@ -1021,19 +930,6 @@
    }
   },
   {
-   "id": "913af5aa494dfbcf",
-   "type": "podcast_episode",
-   "title": "Live Shot of Steelers: Postgame vs. Saints",
-   "show": "DK Pittsburgh Sports",
-   "url": "https://podcasts.apple.com/us/podcast/live-shot-of-steelers-postgame-vs-saints/id1072021022?i=1000798056594",
-   "published": "2026-10-25T19:05:00+00:00",
-   "summary": "Podcast episode from DK Pittsburgh Sports.",
-   "source": {
-    "name": "DK Pittsburgh Sports",
-    "url": null
-   }
-  },
-  {
    "id": "39bf3b619904b8a6",
    "type": "video",
    "title": "Steelers vs Saints Post Game Show IN PARIS LIVE | Not Just Football",
@@ -1082,19 +978,6 @@
    "summary": "Podcast episode from All Steelers Talk.",
    "source": {
     "name": "All Steelers Talk",
-    "url": null
-   }
-  },
-  {
-   "id": "6705884a3566b170",
-   "type": "podcast_episode",
-   "title": "Steelers Now Postgame: Steelers 16, Saints 10",
-   "show": "Steelers Afternoon Drive",
-   "url": "https://podcasts.apple.com/us/podcast/steelers-now-postgame-steelers-16-saints-10/id1700240934?i=1000798044127",
-   "published": "2026-10-25T17:16:00+00:00",
-   "summary": "Podcast episode from Steelers Afternoon Drive.",
-   "source": {
-    "name": "Steelers Afternoon Drive",
     "url": null
    }
   },
@@ -1203,19 +1086,6 @@
    }
   },
   {
-   "id": "4e8a11dc73bc28ec",
-   "type": "podcast_episode",
-   "title": "Saints Preview & Predictions | Steelers Afternoon Drive",
-   "show": "Steelers Afternoon Drive",
-   "url": "https://podcasts.apple.com/us/podcast/saints-preview-predictions-steelers-afternoon-drive/id1700240934?i=1000797851889",
-   "published": "2026-10-23T21:59:00+00:00",
-   "summary": "Podcast episode from Steelers Afternoon Drive.",
-   "source": {
-    "name": "Steelers Afternoon Drive",
-    "url": null
-   }
-  },
-  {
    "id": "da749e55e729339f",
    "type": "video",
    "title": "Saints Preview & Predictions | Steelers Afternoon Drive",
@@ -1268,19 +1138,6 @@
    }
   },
   {
-   "id": "eed0b7de630fb159",
-   "type": "podcast_episode",
-   "title": "Live Shot of Steelers: Game preview in Paris!",
-   "show": "DK Pittsburgh Sports",
-   "url": "https://podcasts.apple.com/us/podcast/live-shot-of-steelers-game-preview-in-paris/id1072021022?i=1000797842087",
-   "published": "2026-10-23T20:39:00+00:00",
-   "summary": "Podcast episode from DK Pittsburgh Sports.",
-   "source": {
-    "name": "DK Pittsburgh Sports",
-    "url": null
-   }
-  },
-  {
    "id": "d36312a567edc00b",
    "type": "video",
    "title": "The Steelers Play That Changed Elandon Roberts' Career",
@@ -1290,19 +1147,6 @@
    "summary": "Video from Not Just Football with Cam Heyward.",
    "source": {
     "name": "Not Just Football with Cam Heyward",
-    "url": null
-   }
-  },
-  {
-   "id": "168ba5b4befe436d",
-   "type": "podcast_episode",
-   "title": "Did Steelers Make Travel Mistake? Grand Finale with Jack Hillgrove | THE PITTSBURGH FOOTBALL SHOW",
-   "show": "Steelers Afternoon Drive",
-   "url": "https://podcasts.apple.com/us/podcast/did-steelers-make-travel-mistake-grand-finale-with/id1700240934?i=1000797823156",
-   "published": "2026-10-23T17:34:00+00:00",
-   "summary": "Podcast episode from Steelers Afternoon Drive.",
-   "source": {
-    "name": "Steelers Afternoon Drive",
     "url": null
    }
   },
@@ -1333,32 +1177,6 @@
    }
   },
   {
-   "id": "27cf69d8e1c52b69",
-   "type": "podcast_episode",
-   "title": "Smitty's Six Pack of Steelers-Saints Topics | THE PITTSBURGH FOOTBALL SHOW",
-   "show": "Steelers Afternoon Drive",
-   "url": "https://podcasts.apple.com/us/podcast/smittys-six-pack-of-steelers-saints-topics/id1700240934?i=1000797816492",
-   "published": "2026-10-23T16:49:00+00:00",
-   "summary": "Podcast episode from Steelers Afternoon Drive.",
-   "source": {
-    "name": "Steelers Afternoon Drive",
-    "url": null
-   }
-  },
-  {
-   "id": "41087332c3059b49",
-   "type": "podcast_episode",
-   "title": "Boots on the Ground in Paris with Nick Farabaugh | THE PITTSBURGH FOOTBALL SHOW",
-   "show": "Steelers Afternoon Drive",
-   "url": "https://podcasts.apple.com/us/podcast/boots-on-the-ground-in-paris-with-nick/id1700240934?i=1000797816579",
-   "published": "2026-10-23T16:46:00+00:00",
-   "summary": "Podcast episode from Steelers Afternoon Drive.",
-   "source": {
-    "name": "Steelers Afternoon Drive",
-    "url": null
-   }
-  },
-  {
    "id": "2214c23b451e1799",
    "type": "video",
    "title": "Boots on the Ground in Paris with Nick Farabaugh | THE PITTSBURGH FOOTBALL SHOW",
@@ -1372,19 +1190,6 @@
    }
   },
   {
-   "id": "800ab6933fb252e6",
-   "type": "podcast_episode",
-   "title": "THE PITTSBURGH FOOTBALL SHOW, Episode 7, Oct. 23, 2026",
-   "show": "Steelers Afternoon Drive",
-   "url": "https://podcasts.apple.com/us/podcast/the-pittsburgh-football-show-episode-7-oct-23-2026/id1700240934?i=1000797816553",
-   "published": "2026-10-23T16:43:00+00:00",
-   "summary": "Podcast episode from Steelers Afternoon Drive.",
-   "source": {
-    "name": "Steelers Afternoon Drive",
-    "url": null
-   }
-  },
-  {
    "id": "339f0740d125d3df",
    "type": "video",
    "title": "The Steelers Shouldn't Be Playing in Paris | Steelers Morning Rush",
@@ -1394,32 +1199,6 @@
    "summary": "Video from Steelers Now.",
    "source": {
     "name": "Steelers Now",
-    "url": null
-   }
-  },
-  {
-   "id": "988e2bf2103a0305",
-   "type": "podcast_episode",
-   "title": "The Steelers Shouldn't Be Playing in Paris | Steelers Morning Rush",
-   "show": "Steelers Afternoon Drive",
-   "url": "https://podcasts.apple.com/us/podcast/the-steelers-shouldnt-be-playing-in-paris-steelers/id1700240934?i=1000797813600",
-   "published": "2026-10-23T16:36:00+00:00",
-   "summary": "Podcast episode from Steelers Afternoon Drive.",
-   "source": {
-    "name": "Steelers Afternoon Drive",
-    "url": null
-   }
-  },
-  {
-   "id": "9d5f83eeac7d2419",
-   "type": "podcast_episode",
-   "title": "The Terrible Podcast — Steelers Vs Saints Game Preview, Joseph-Day To IR, Week 7 Picks, And More",
-   "show": "The Terrible Podcast (Steelers Depot)",
-   "url": "https://podcasts.apple.com/us/podcast/the-terrible-podcast-steelers-vs-saints-game-preview/id405990739?i=1000797810229",
-   "published": "2026-10-23T16:13:00+00:00",
-   "summary": "Podcast episode from The Terrible Podcast (Steelers Depot).",
-   "source": {
-    "name": "The Terrible Podcast (Steelers Depot)",
     "url": null
    }
   }
